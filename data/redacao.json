@@ -1,0 +1,30 @@
+{
+  "temas": [
+    { "banca": "Enem", "ano": 2025, "tema": "Perspectivas acerca do envelhecimento na sociedade brasileira" },
+    { "banca": "Enem", "ano": 2024, "tema": "Desafios para a valorização da herança africana no Brasil" },
+    { "banca": "Enem", "ano": 2023, "tema": "Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil" },
+    { "banca": "Enem", "ano": 2022, "tema": "Desafios para a valorização de comunidades e povos tradicionais no Brasil" },
+    { "banca": "Enem", "ano": 2021, "tema": "Invisibilidade e registro civil: garantia de acesso à cidadania no Brasil" },
+    { "banca": "Enem", "ano": 2020, "tema": "O estigma associado às doenças mentais na sociedade brasileira" },
+    { "banca": "Enem", "ano": 2019, "tema": "Democratização do acesso ao cinema no Brasil" },
+    { "banca": "Enem", "ano": 2018, "tema": "Manipulação do comportamento do usuário pelo controle de dados na internet" },
+    { "banca": "Enem", "ano": 2017, "tema": "Desafios para a formação educacional de surdos no Brasil" },
+    { "banca": "Enem", "ano": 2016, "tema": "Caminhos para combater a intolerância religiosa no Brasil" },
+    { "banca": "Enem", "ano": 2015, "tema": "A persistência da violência contra a mulher na sociedade brasileira" }
+  ],
+  "competencias": [
+    { "n": 1, "titulo": "Norma culta", "descricao": "Domínio da modalidade escrita formal da língua portuguesa: ortografia, acentuação, concordância, regência, pontuação." },
+    { "n": 2, "titulo": "Tema e tipo de texto", "descricao": "Compreender a proposta e desenvolver o tema em texto dissertativo-argumentativo, com repertório de várias áreas do conhecimento." },
+    { "n": 3, "titulo": "Argumentação", "descricao": "Selecionar, relacionar, organizar e interpretar informações, fatos e opiniões em defesa de um ponto de vista." },
+    { "n": 4, "titulo": "Coesão", "descricao": "Usar os mecanismos linguísticos (conectivos, retomadas) para encadear frases e parágrafos." },
+    { "n": 5, "titulo": "Proposta de intervenção", "descricao": "Propor uma solução para o problema, respeitando os direitos humanos, com agente, ação, meio, finalidade e detalhamento." }
+  ],
+  "niveis": [
+    { "pontos": 0, "rotulo": "não atende" },
+    { "pontos": 40, "rotulo": "precário" },
+    { "pontos": 80, "rotulo": "insuficiente" },
+    { "pontos": 120, "rotulo": "mediano" },
+    { "pontos": 160, "rotulo": "bom" },
+    { "pontos": 200, "rotulo": "excelente" }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "exemplo-enem",
+  "banca": "Enem",
+  "ano": 2023,
+  "titulo": "Enem exemplo — Dia 1",
+  "fonte": "Inep",
+  "duracaoMinutos": 330,
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Linguagens",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "caderno": "azul",
+        "numeroOriginal": 1
+      },
+      "enunciado": "<p class=\"apoio\">Texto de apoio fictício sobre leitura.</p><p>Qual é a ideia central do texto?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Ler cansa.",
+        "B": "A leitura amplia repertório.",
+        "C": "Livros são caros.",
+        "D": "Poucos leem.",
+        "E": "Ler é opcional."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa B resume a ideia central; as demais tratam de aspectos secundários.",
+      "explicacaoRevisada": true
+    },
+    {
+      "numero": 2,
+      "materia": "Matemática",
+      "assunto": "Porcentagem",
+      "origem": {
+        "caderno": "azul",
+        "numeroOriginal": 2
+      },
+      "enunciado": "<p>Quanto é 15% de 200?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "20",
+        "B": "25",
+        "C": "30",
+        "D": "35",
+        "E": "40"
+      },
+      "gabarito": "C",
+      "explicacao": "15% de 200 é \\(0{,}15 \\times 200 = 30\\).",
+      "explicacaoRevisada": true
+    },
+    {
+      "numero": 3,
+      "materia": "Ciências da Natureza",
+      "assunto": "Citologia",
+      "origem": {
+        "caderno": "azul",
+        "numeroOriginal": 3
+      },
+      "enunciado": "<p>Qual organela realiza a fotossíntese?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Mitocôndria",
+        "B": "Ribossomo",
+        "C": "Cloroplasto",
+        "D": "Lisossomo",
+        "E": "Núcleo"
+      },
+      "gabarito": "C",
+      "explicacao": "A fotossíntese ocorre nos cloroplastos; a mitocôndria faz respiração celular.",
+      "explicacaoRevisada": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#1E1813">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/simulado.css"><link rel="stylesheet" href="css/estudo.css">
+<script src="js/theme.js"></script>
+<title>Revisão das provas (autor) | Treineiros</title>
+</head>
+<body>
+<main id="conteudo">
+  <h1>Revisão das provas</h1>
+  <p>Página para quem mantém o site (não aparece no menu). Confira cada questão com o PDF original, ajuste a explicação se precisar e marque como conferida. As marcações ficam neste navegador; no fim, baixe o arquivo e rode <code>python3 tools/aplicar_revisao.py revisao.json</code> na pasta do projeto.</p>
+  <form id="filtros" class="linha" onsubmit="return false">
+    <label for="r-prova">Prova</label><select id="r-prova" class="campo"></select>
+    <label for="r-mostrar">Mostrar</label>
+    <select id="r-mostrar" class="campo">
+      <option value="pendentes">Pendentes (não revisadas, REVISAR, sem explicação ou sem assunto)</option>
+      <option value="todas">Todas</option>
+    </select>
+  </form>
+  <p id="r-resumo" role="status"></p>
+  <p><button class="btn btn--primary" id="r-baixar" type="button">Baixar alterações (revisao.json)</button>
+     <button class="btn btn--ghost" id="r-limpar" type="button">Descartar marcações</button></p>
+  <div id="r-lista"><p>Carregando…</p></div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/motor.js"></script><script src="js/registro.js"></script><script src="js/treino.js"></script><script src="js/render.js"></script><script src="js/formulas.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/revisar.js"></script>
+</body>
+</html>

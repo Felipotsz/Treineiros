@@ -1,0 +1,1345 @@
+{
+  "id": "etec-2018-1sem",
+  "banca": "ETEC",
+  "ano": 2018,
+  "semestre": 1,
+  "titulo": "Vestibulinho ETEC, 1º semestre de 2018",
+  "fonte": "Centro Paula Souza",
+  "dataExame": "2018-01-21",
+  "duracaoMinutos": 240,
+  "apresentacao": "<p>Prezado(a) candidato(a), nesta prova você vai se deparar com diversos temas nas diferentes áreas do conhecimento. As questões abordarão conceitos e conteúdos que fizeram parte de sua formação escolar até agora.</p><p>Boa prova!</p>",
+  "pdf": "assets/provas/etec-2018-1sem.pdf",
+  "imagensProva": {
+    "apresentacao": {
+      "src": "assets/img/etec-2018-1sem/apresentacao.webp",
+      "alt": "Ilustração em lápis de um globo terrestre cercado por fitas e hexágonos com símbolos de várias áreas do conhecimento: letras “ABC abc”, um átomo, livros, instrumentos de medida e um microscópio."
+    }
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Português",
+      "assunto": "Variação linguística",
+      "origem": {
+        "numeroOriginal": 1
+      },
+      "enunciado": "<p class=\"chamada\">Leia a crônica de Paulo Brabo e responda às questões de números 01 e 02.</p><p class=\"apoio\"><strong>DUZENTAS GRAMAS</strong></p><p class=\"apoio\">Meu amigo Hélio, que é pai do Arthur e diz sonoramente trêss e déss (ao invés de, digamos, “trêis” e “déis”) fica indignado quando peço na padaria duzentas gramas de presunto – quando a forma correta, insiste ele, é “duzentos” gramas. Sempre que acontece e estamos juntos acabamos discutindo uns dez minutos sobre modos diferentes de falar. Ele de praxe argumenta que as regras de pronúncia e ortografia, se existem, devem ser obedecidas – e que os mais cultos (como eu, um cara que traduz livros!) devem insistir na forma correta a fim de esclarecer e encaminhar gente menos iluminada, como supõe-se seja a moça que me vende na padaria o presunto e o queijo. Eu sempre argumento que quando ele diz que só existe uma forma correta de falar está usurpando um termo de outro ramo, e tentando aplicar a ética à gramática: como se falar “corretamente” implicasse em algum grau de correção moral; como se dizer “duzentas” gramas fosse incorrer numa falha de caráter e dizer “duzentos” fosse prova de virtude e integridade. [...]</p><p class=\"fonte\">&lt;https://tinyurl.com/ya6ta9cr&gt; Acesso em: 09.11.2017.</p><p>Segundo o texto, é possível afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o autor do texto, apesar de admitir o uso de “duzentas gramas”, afirma que há formas incorretas de pronunciar palavras como “três” e “dés”.",
+        "B": "a forma correta a que o autor se refere tem como parâmetro a linguagem coloquial e não a norma culta padrão da língua portuguesa.",
+        "C": "há formas de se expressar que não devem existir, principalmente em contextos sociais como o que foi retratado pela crônica.",
+        "D": "a expressão que dá nome à crônica faz parte da oralidade do autor e implica, também, questões de prestígio social.",
+        "E": "há uma incongruência na afirmação da personagem Hélio, pois o que ele afirma não acontece na vida real."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O título “Duzentas gramas” é a forma que o próprio autor usa na padaria, ou seja, faz parte da sua <strong>oralidade</strong>. A crônica mostra que o amigo Hélio trata a forma “correta” como sinal de cultura e de virtude, o que envolve <strong>prestígio social</strong>. Alternativa <strong>D</strong>.</p><p>O autor critica a ideia de que existam formas “incorretas” de pronunciar (A). A forma “correta” defendida por Hélio é a da norma culta, não a coloquial (B). O texto questiona, e não defende, que certos modos de falar não deveriam existir (C). E a situação descrita é perfeitamente real (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "crônica"
+      ]
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 2
+      },
+      "enunciado": "<p class=\"chamada\">Leia a crônica de Paulo Brabo e responda às questões de números 01 e 02.</p><p class=\"apoio\"><strong>DUZENTAS GRAMAS</strong></p><p class=\"apoio\">Meu amigo Hélio, que é pai do Arthur e diz sonoramente trêss e déss (ao invés de, digamos, “trêis” e “déis”) fica indignado quando peço na padaria duzentas gramas de presunto – quando a forma correta, insiste ele, é “duzentos” gramas. Sempre que acontece e estamos juntos acabamos discutindo uns dez minutos sobre modos diferentes de falar. Ele de praxe argumenta que as regras de pronúncia e ortografia, se existem, devem ser obedecidas – e que os mais cultos (como eu, um cara que traduz livros!) devem insistir na forma correta a fim de esclarecer e encaminhar gente menos iluminada, como supõe-se seja a moça que me vende na padaria o presunto e o queijo. Eu sempre argumento que quando ele diz que só existe uma forma correta de falar está usurpando um termo de outro ramo, e tentando aplicar a ética à gramática: como se falar “corretamente” implicasse em algum grau de correção moral; como se dizer “duzentas” gramas fosse incorrer numa falha de caráter e dizer “duzentos” fosse prova de virtude e integridade. [...]</p><p class=\"fonte\">&lt;https://tinyurl.com/ya6ta9cr&gt; Acesso em: 09.11.2017.</p><p>Releia o trecho.</p><p class=\"apoio\">Meu amigo Hélio [...] fica indignado quando peço na padaria duzentas gramas de presunto – quando a forma correta, insiste ele, é “duzentos” gramas.</p><p>Hélio aponta um desvio da norma padrão na expressão <strong>“duzentas gramas</strong>” utilizada pelo autor no seu dia a dia. No entanto, ele não aponta o motivo dessa expressão não estar <em>correta</em>.</p><p>Assinale a alternativa que contenha o tipo de problema identificado por Hélio.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Concordância nominal, pois o numeral deveria concordar em gênero com o substantivo.",
+        "B": "Concordância verbal, pois deveria haver concordância com o verbo que sucede o pedido.",
+        "C": "Regência nominal, pois o numeral deveria concordar em número com o substantivo.",
+        "D": "Regência verbal, pois deveria haver concordância com o verbo que está anteposto ao pedido.",
+        "E": "Complemento nominal, pois deveria haver concordância de número com o numeral."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>“Grama”, como unidade de massa, é palavra masculina (<em>o</em> grama). O numeral “duzentos” deve concordar em gênero com ela: “duzentos gramas”. É um caso de <strong>concordância nominal</strong>. Alternativa <strong>A</strong>.</p><p>Não há verbo envolvido no problema (B e D). Regência trata da relação entre um termo e seu complemento, não de concordância (C e D). E o problema é de gênero, não de número (C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "concordância nominal"
+      ]
+    },
+    {
+      "numero": 3,
+      "materia": "Geografia",
+      "assunto": "População",
+      "origem": {
+        "numeroOriginal": 3
+      },
+      "enunciado": "<p>A tabela apresenta os maiores centros urbanos do planeta em três diferentes momentos: 1900, 2001 e 2015.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">1900</th><th scope=\"col\">Pop.*</th><th scope=\"col\">2001</th><th scope=\"col\">Pop.*</th><th scope=\"col\">2015</th><th scope=\"col\">Pop.*</th></tr></thead><tbody><tr><td><strong>Londres</strong> (Inglaterra)</td><td>6,6</td><td><strong>Tóquio</strong> (Japão)</td><td>29</td><td><strong>Tóquio</strong> (Japão)</td><td>29</td></tr><tr><td><strong>Nova York</strong> (Estados Unidos)</td><td>3,4</td><td><strong>Cidade do México</strong> (México)</td><td>18</td><td><strong>Mumbai</strong> (Índia)</td><td>26</td></tr><tr><td><strong>Paris</strong> (França)</td><td>2,7</td><td><strong>São Paulo</strong> (Brasil)</td><td>17</td><td><strong>Lagos</strong> (Nigéria)</td><td>25</td></tr><tr><td><strong>Berlim</strong> (Alemanha)</td><td>1,9</td><td><strong>Mumbai</strong> (Índia)</td><td>17</td><td><strong>São Paulo</strong> (Brasil)</td><td>20</td></tr><tr><td><strong>Chicago</strong> (Estados Unidos)</td><td>1,7</td><td><strong>Nova York</strong> (Estados Unidos)</td><td>16</td><td><strong>Karachi</strong> (Paquistão)</td><td>19</td></tr><tr><td><strong>Viena</strong> (Áustria)</td><td>1,7</td><td><strong>Xangai</strong> (China)</td><td>14</td><td><strong>Daca</strong> (Bangladesh)</td><td>19</td></tr><tr><td><strong>Tóquio</strong> (Japão)</td><td>1,5</td><td><strong>Los Angeles</strong> (Estados Unidos)</td><td>13</td><td><strong>Cidade do México</strong> (México)</td><td>19</td></tr><tr><td><strong>Wuhan</strong> (China)</td><td>1,5</td><td><strong>Lagos</strong> (Nigéria)</td><td>13</td><td><strong>Xangai</strong> (China)</td><td>18</td></tr><tr><td><strong>Filadélfia</strong> (Estados Unidos)</td><td>1,3</td><td><strong>Calcutá</strong> (Índia)</td><td>13</td><td><strong>Nova York</strong> (Estados Unidos)</td><td>18</td></tr><tr><td><strong>São Petersburgo</strong> (Rússia)</td><td>1,3</td><td><strong>Buenos Aires</strong> (Argentina)</td><td>12</td><td><strong>Calcutá</strong> (Índia)</td><td>17</td></tr></tbody></table></div><p class=\"fonte\">Fonte dos dados: &lt;http://tinyurl.com/y9khp95z&gt; Acesso em: 15.11.2017. Adaptado.<br>*População em milhões de habitantes.</p><p>Sobre a distribuição espacial dos grandes centros urbanos pelo mundo apresentados na tabela, é possível afirmar corretamente, que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "no final do século XIX, as maiores cidades estavam concentradas nos países subdesenvolvidos.",
+        "B": "no ano de 2015, a maioria das grandes aglomerações urbanas estava concentrada em um único continente.",
+        "C": "no ano de 2001, duas das maiores aglomerações urbanas do planeta pertenciam à América Latina.",
+        "D": "nos três momentos registrados na tabela aparece, pelo menos, uma cidade do continente europeu.",
+        "E": "no ano de 2015, as três maiores aglomerações urbanas se encontravam no continente asiático."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Em 2015, seis das dez maiores aglomerações ficam na <strong>Ásia</strong>: Tóquio, Mumbai, Karachi, Daca, Xangai e Calcutá. A maioria está num único continente. Alternativa <strong>B</strong>.</p><p>Em 1900 (fim do século XIX), as maiores cidades ficavam em países desenvolvidos da Europa e dos Estados Unidos (A). Em 2001, eram três da América Latina: Cidade do México, São Paulo e Buenos Aires (C). Não há cidade europeia em 2001 nem em 2015 (D). E a terceira maior de 2015 é Lagos, na África (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "urbanização"
+      ]
+    },
+    {
+      "numero": 4,
+      "materia": "Química",
+      "assunto": "Substâncias e misturas",
+      "origem": {
+        "numeroOriginal": 4
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 04 e 05.</p><p class=\"apoio\">A natureza apresenta diversas substâncias importantes para o dia a dia do ser humano. Porém, a grande maioria dessas substâncias encontra-se na forma de misturas homogêneas ou heterogêneas.</p><p class=\"apoio\">Por essa razão, ao longo dos anos, várias técnicas de separação de misturas foram desenvolvidas para que a utilização de toda e qualquer substância fosse possível.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8j567ag&gt; Acesso em: 10.11.2017.</p><p>Assinale a alternativa que apresenta um exemplo de mistura homogênea.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "água + gasolina",
+        "B": "água + óleo de cozinha",
+        "C": "gás nitrogênio + gás hélio",
+        "D": "ar atmosférico + fuligem",
+        "E": "areia + sal de cozinha"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Gases sempre se misturam por completo, formando uma só fase. <strong>Gás nitrogênio + gás hélio</strong> é uma mistura homogênea. Alternativa <strong>C</strong>.</p><p>Água e gasolina, e água e óleo, não se misturam e formam duas fases (A e B). A fuligem são partículas sólidas suspensas no ar (D). E a areia não se dissolve, ficando visível no sal (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 5,
+      "materia": "Química",
+      "assunto": "Separação de misturas",
+      "origem": {
+        "numeroOriginal": 5
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 04 e 05.</p><p class=\"apoio\">A natureza apresenta diversas substâncias importantes para o dia a dia do ser humano. Porém, a grande maioria dessas substâncias encontra-se na forma de misturas homogêneas ou heterogêneas.</p><p class=\"apoio\">Por essa razão, ao longo dos anos, várias técnicas de separação de misturas foram desenvolvidas para que a utilização de toda e qualquer substância fosse possível.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8j567ag&gt; Acesso em: 10.11.2017.</p><p>Um procedimento que permite separar, sem o uso de qualquer fonte de calor, uma mistura de água e óleo de cozinha é a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "decantação.",
+        "B": "sublimação.",
+        "C": "peneiração.",
+        "D": "destilação.",
+        "E": "filtração."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Água e óleo são líquidos que não se misturam e têm densidades diferentes. Deixando a mistura em repouso (num funil de decantação, por exemplo), o óleo fica por cima e a água por baixo, e dá para separá-los sem aquecer. É a <strong>decantação</strong>. Alternativa <strong>A</strong>.</p><p>Sublimação e destilação envolvem aquecimento (B e D). Peneiração separa sólidos de tamanhos diferentes (C). E a filtração separa sólidos de líquidos (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 6,
+      "materia": "História",
+      "assunto": "Brasil República",
+      "origem": {
+        "numeroOriginal": 6
+      },
+      "enunciado": "<p>Brasília foi inaugurada em 1960, poucos anos depois do início de sua construção. Planejada por Lúcio Costa e Oscar Niemeyer, a nova capital do Brasil foi estruturada a partir de dois grandes eixos que se cruzam: o Eixo Rodoviário, em torno do qual estão as áreas residenciais, e o Eixo Monumental, onde se localizam os órgãos governamentais e culturais. Em uma das extremidades do Eixo Monumental, encontra-se a Praça dos Três Poderes.</p><p>O nome dessa praça faz referência à teoria</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "da divisão das responsabilidades sobre o país que, com a Constituição de 1891, definiu que o presidente, os governadores e os prefeitos exerceriam o poder de forma compartilhada.",
+        "B": "do Estado tripartido, de origem medieval, que definia as funções que deveriam ser desempenhadas pela nobreza, pela burguesia e pelos trabalhadores em benefício da sociedade.",
+        "C": "da organização da república, proposta por Platão, em que o presidente, o povo e os deputados debatem a respeito do funcionamento da sociedade.",
+        "D": "do Estado moderno europeu, segundo a qual o Senado, a Câmara e a Presidência da República exercem os poderes conferidos pela população por meio do voto direto e secreto.",
+        "E": "da separação dos poderes, proposta por Montesquieu, em que o Executivo, o Legislativo e o Judiciário devem exercer os seus poderes de forma independente e equilibrada entre si."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Os “três poderes” da praça são o <strong>Executivo</strong> (Palácio do Planalto), o <strong>Legislativo</strong> (Congresso Nacional) e o <strong>Judiciário</strong> (Supremo Tribunal Federal). A ideia de separá-los, de forma independente e equilibrada, vem de <strong>Montesquieu</strong>. Alternativa <strong>E</strong>.</p><p>Presidente, governadores e prefeitos são níveis de governo, não poderes (A). A divisão medieval era em clero, nobreza e servos (B). Platão não propôs presidente nem deputados (C). E Senado e Câmara formam um único poder, o Legislativo (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "separação dos poderes"
+      ]
+    },
+    {
+      "numero": 7,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 7
+      },
+      "enunciado": "<p>Um fogo de artifício é composto basicamente por pólvora (mistura de enxofre, carvão e salitre) e por um sal de um elemento determinado, por exemplo, sais de cobre, como CuCℓ<sub>2</sub>, que irá determinar a cor verde azulada da luz produzida na explosão.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ybcuml9u&gt; Acesso em: 15.11.2017. Adaptado.</p><p>Observe as representações dos elementos enxofre e cobre presentes em um fogo de artifício: \\({}^{32}_{16}S\\) e \\({}^{64}_{29}Cu\\).</p><p>A partir da análise dessas representações, assinale a alternativa que apresenta, respectivamente, o número de massa do enxofre e o número de nêutrons do cobre.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q07.webp",
+          "alt": "Foto de um fogo de artifício explodindo no céu escuro, com raios de luz saindo de um ponto central."
+        }
+      ],
+      "alternativas": {
+        "A": "32 e 29",
+        "B": "32 e 35",
+        "C": "16 e 29",
+        "D": "16 e 35",
+        "E": "16 e 64"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O número de cima é o número de massa, e o de baixo, o número atômico (prótons). O enxofre tem massa <strong>32</strong>. O cobre tem 64 − 29 = <strong>35</strong> nêutrons. Alternativa <strong>B</strong>.</p><p>29 é o número de prótons do cobre (A e C). 16 é o número atômico do enxofre, não a massa (C, D e E). E 64 é a massa do cobre (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 8,
+      "materia": "Química",
+      "assunto": "Reações químicas",
+      "origem": {
+        "numeroOriginal": 8
+      },
+      "enunciado": "<p class=\"apoio\">Lavoisier foi quem descobriu uma maneira de sintetizar o salitre em grandes quantidades, o que possibilitou um aumento sensível na produção e utilização da pólvora. Para se obter o nitrato de potássio, um tipo de salitre, pode-se reagir cloreto de potássio com ácido nítrico.</p><p class=\"apoio\">Lavoisier também foi responsável por enunciar a Lei da Conservação da Massa, também conhecida como Lei de Lavoisier.</p><p class=\"fonte\">&lt;https://tinyurl.com/ybcuml9u&gt; Acesso em: 15.11.2017. Adaptado.</p><p>Em um experimento para obtenção de salitre, foram anotadas as massas utilizadas, porém o aluno esqueceu de anotar a massa formada de nitrato de potássio, conforme a figura.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">KCℓ</th><th scope=\"col\">+ HNO<sub>3</sub></th><th scope=\"col\">→ KNO<sub>3</sub></th><th scope=\"col\">+ HCℓ</th></tr></thead><tbody><tr><td>745 g</td><td>630 g</td><td><strong><em>x</em></strong> g</td><td>365 g</td></tr></tbody></table></div><p>O aluno não se preocupou com esse fato, pois aplicando a Lei de Lavoisier é possível encontrar a massa desconhecida, representada por <strong><em>x</em></strong> na tabela.</p><p>Assinale a alternativa que apresenta a massa de salitre, em gramas, obtida nesse experimento.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "101",
+        "B": "630",
+        "C": "745",
+        "D": "1 010",
+        "E": "1 375"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Pela Lei de Lavoisier, a massa dos reagentes é igual à dos produtos: 745 + 630 = <em>x</em> + 365. Então 1 375 = <em>x</em> + 365 e <em>x</em> = <strong>1 010 g</strong>. Alternativa <strong>D</strong>.</p><p>1 375 g é a massa total dos reagentes (E). 630 e 745 são as massas de cada reagente (B e C). E 101 g tem a ordem de grandeza errada (A).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Lei de Lavoisier"
+      ]
+    },
+    {
+      "numero": 9,
+      "materia": "Matemática",
+      "assunto": "Interpretação de dados",
+      "origem": {
+        "numeroOriginal": 9
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 09 a 11.</p><p class=\"apoio\">A pegada hídrica (<em>water footprint</em>) é um indicador da quantidade de água doce necessária em toda a cadeia produtiva e de consumo de um produto. Esse indicador é uma referência para o manejo dos recursos hídricos de um país, de uma região, de uma empresa ou de uma pessoa com o objetivo de usar a água de modo sustentável e responsável. No cálculo da pegada hídrica considera-se o consumo de água direta e indireta, isto é, a água consumida do produtor ao consumidor.</p><p class=\"apoio\">Por exemplo, 17 000 litros de água são necessários para produzir 1 quilograma de chocolate, na média mundial.</p><p>Considere a tabela:</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">País</th><th scope=\"col\">Consumo de Carne<sup>(1)</sup> (kg/pessoa/ano)</th><th scope=\"col\">Pegada Hídrica da Carne<sup>(2)</sup> (m<sup>3</sup>/tonelada)</th></tr></thead><tbody><tr><td>EUA</td><td>43</td><td>14 500</td></tr><tr><td>Brasil</td><td>32</td><td>19 400</td></tr><tr><td>México</td><td>23</td><td>17 500</td></tr><tr><td>Reino Unido</td><td>18</td><td>9 900</td></tr><tr><td>Ucrânia</td><td>10</td><td>12 600</td></tr><tr><td>China</td><td>5</td><td>13 700</td></tr><tr><td>Bolívia</td><td>12</td><td>77 000</td></tr><tr><td><strong>Média Mundial</strong></td><td><strong>9</strong></td><td><strong>15 400</strong></td></tr></tbody></table></div><p class=\"fonte\">Fonte dos dados &lt;https://tinyurl.com/ybmecog4&gt; Acesso em: 09.11.2017.<br><sup>(1)</sup> consumo médio do país<br><sup>(2)</sup> a pegada hídrica da carne de um país depende de vários fatores, como a composição e a origem da alimentação do gado</p><p>Com base nos dados da tabela, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a pegada hídrica da carne aumenta conforme aumenta o consumo de carne de um país.",
+        "B": "a pegada hídrica da carne consumida no Brasil corresponde a 19,4 litros por quilograma.",
+        "C": "a pegada hídrica da carne na Bolívia é igual a cinco vezes a média mundial desse parâmetro.",
+        "D": "a pegada hídrica da carne no México é maior do que o dobro da pegada hídrica da carne na China.",
+        "E": "a pegada hídrica da carne e a quantidade de carne consumida nos EUA e na Ucrânia são grandezas proporcionais."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A pegada da carne na Bolívia é 77 000 m³/t, e a média mundial é 15 400 m³/t. Como 5 · 15 400 = 77 000, a da Bolívia é <strong>cinco vezes</strong> a média. Alternativa <strong>C</strong>.</p><p>Os EUA consomem mais carne que o Brasil e têm pegada menor, então uma não aumenta com a outra (A). 19 400 m³ por tonelada equivalem a 19 400 litros por quilo, não 19,4 (B). 17 500 não chega ao dobro de 13 700 (D). E 43/14 500 e 10/12 600 não formam proporção (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pegada hídrica"
+      ]
+    },
+    {
+      "numero": 10,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 10
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 09 a 11.</p><p class=\"apoio\">A pegada hídrica (<em>water footprint</em>) é um indicador da quantidade de água doce necessária em toda a cadeia produtiva e de consumo de um produto. Esse indicador é uma referência para o manejo dos recursos hídricos de um país, de uma região, de uma empresa ou de uma pessoa com o objetivo de usar a água de modo sustentável e responsável. No cálculo da pegada hídrica considera-se o consumo de água direta e indireta, isto é, a água consumida do produtor ao consumidor.</p><p class=\"apoio\">Por exemplo, 17 000 litros de água são necessários para produzir 1 quilograma de chocolate, na média mundial.</p><p>Por ser um consumidor voraz de chocolate, João estabeleceu que, para não exagerar, sempre comerá exatamente 1 kg de chocolate a cada 5 dias. Ao estudar o conceito de pegada hídrica em sua aula de Ciências, João calculou que, após um ano, a pegada hídrica do seu consumo de chocolate será de <strong>N</strong> metros cúbicos de água, considerando a média mundial.</p><p>Assim sendo, o valor de <strong>N</strong> está mais próximo de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "10.",
+        "B": "100.",
+        "C": "600.",
+        "D": "1 200.",
+        "E": "6 200."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Em um ano, João come 365 ÷ 5 = 73 kg de chocolate. Cada quilo exige 17 000 L = 17 m³ de água. Então N = 73 · 17 = 1 241 m³, mais próximo de <strong>1 200</strong>. Alternativa <strong>D</strong>.</p><p>Esquecer de converter litros em metros cúbicos, ou contar um só quilo, leva a valores muito diferentes (A, B, C e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 11,
+      "materia": "Matemática",
+      "assunto": "Equações",
+      "origem": {
+        "numeroOriginal": 11
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 09 a 11.</p><p class=\"apoio\">A pegada hídrica (<em>water footprint</em>) é um indicador da quantidade de água doce necessária em toda a cadeia produtiva e de consumo de um produto. Esse indicador é uma referência para o manejo dos recursos hídricos de um país, de uma região, de uma empresa ou de uma pessoa com o objetivo de usar a água de modo sustentável e responsável. No cálculo da pegada hídrica considera-se o consumo de água direta e indireta, isto é, a água consumida do produtor ao consumidor.</p><p class=\"apoio\">Por exemplo, 17 000 litros de água são necessários para produzir 1 quilograma de chocolate, na média mundial.</p><p>No lanche da tarde, João comeu um pão com queijo, de massa total de 200 g. Curioso como sempre, determinou que, considerando só a produção dos dois ingredientes desse lanche (o pão e o queijo), o consumo de água foi de 830 litros.</p><p>Sabendo que, em média, a pegada hídrica do pão é de 1,6 L/g e a do queijo é de 5,0 L/g, pode-se concluir corretamente que, em relação a esse consumo,</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a quantidade de pão é igual à quantidade de queijo.",
+        "B": "a quantidade de pão é o dobro da quantidade de queijo.",
+        "C": "a quantidade de pão é o triplo da quantidade de queijo.",
+        "D": "a quantidade de queijo é o dobro da quantidade de pão.",
+        "E": "a quantidade de queijo é o triplo da quantidade de pão."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Sejam <em>p</em> e <em>q</em> as massas de pão e de queijo. Então <em>p</em> + <em>q</em> = 200 e 1,6<em>p</em> + 5<em>q</em> = 830. Substituindo <em>p</em> = 200 − <em>q</em>: 320 − 1,6<em>q</em> + 5<em>q</em> = 830, ou seja, 3,4<em>q</em> = 510 e <em>q</em> = 150 g. Logo <em>p</em> = 50 g, e a quantidade de queijo é o <strong>triplo</strong> da de pão. Alternativa <strong>E</strong>.</p><p>As outras relações não satisfazem as duas equações ao mesmo tempo. C inverte pão e queijo.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sistema de equações"
+      ]
+    },
+    {
+      "numero": 12,
+      "materia": "Física",
+      "assunto": "Cinemática",
+      "origem": {
+        "numeroOriginal": 12
+      },
+      "enunciado": "<p>Um avião, com a finalidade de abastecer uma região que se encontra isolada, voa em linha reta horizontalmente, com velocidade constante em relação ao solo, quando abandona uma caixa com alimentos, conforme a imagem.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y8cvpjzm&gt; Acesso em: 15.11.2017. Original colorido.</p><p>Desprezando a resistência do ar, a trajetória descrita pela caixa de alimentos terá a forma de uma</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q12.webp",
+          "alt": "Um avião aparece em três posições ao longo de uma linha horizontal. A caixa solta por ele descreve uma curva para baixo e, a cada instante, está sempre na vertical abaixo do avião, marcada por linhas tracejadas. Uma pessoa observa do chão."
+        }
+      ],
+      "alternativas": {
+        "A": "parábola, do ponto de vista de um observador que estiver no avião.",
+        "B": "linha reta vertical, do ponto de vista de um observador que estiver no avião.",
+        "C": "linha reta vertical, do ponto de vista de um observador que estiver na Terra.",
+        "D": "linha reta horizontal, do ponto de vista de um observador que estiver no avião.",
+        "E": "mesma figura para qualquer observador, pois a trajetória independe do referencial."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Ao ser solta, a caixa mantém a velocidade horizontal do avião. Para quem está <strong>no avião</strong>, ela fica sempre logo abaixo e cai em <strong>linha reta vertical</strong>. Para quem está na Terra, ela combina o movimento horizontal com a queda e descreve uma parábola. Alternativa <strong>B</strong>.</p><p>A parábola é vista por quem está no chão, não no avião (A), e a reta vertical, por quem está no avião, não no chão (C). A caixa cai, então não segue reta horizontal (D). E a trajetória depende do referencial (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "referencial",
+        "lançamento horizontal"
+      ]
+    },
+    {
+      "numero": 13,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 13
+      },
+      "enunciado": "<p>Um professor de Biologia explicou aos seus alunos que após a mastigação, o alimento é engolido e passa para a faringe e, depois, para o esôfago. Nesse momento, uma pequena estrutura de cartilagem que funciona como uma “válvula” recebe estímulo nervoso para obstruir a entrada da laringe e impedir que o alimento siga pelo sistema respiratório. Quando ocorre um descontrole dos reflexos que fecham a laringe, nós engasgamos, mas um novo reflexo provoca tosse e ajuda a desobstruir o sistema respiratório.</p><p>O nome da estrutura de cartilagem descrita pelo professor é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "epiglote.",
+        "B": "cárdia.",
+        "C": "piloro.",
+        "D": "glote.",
+        "E": "ceco."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A <strong>epiglote</strong> é a lâmina de cartilagem que fecha a entrada da laringe quando engolimos, desviando o alimento para o esôfago. Alternativa <strong>A</strong>.</p><p>Cárdia e piloro são as aberturas de entrada e saída do estômago (B e C). A glote é a abertura da laringe que a epiglote cobre (D). E o ceco é a primeira parte do intestino grosso (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sistema digestório"
+      ]
+    },
+    {
+      "numero": 14,
+      "materia": "Física",
+      "assunto": "Energia",
+      "origem": {
+        "numeroOriginal": 14
+      },
+      "enunciado": "<p>Um aluno deseja calcular a energia envolvida no cozimento de um certo alimento.</p><p>Para isso, verifica que a potência do forno que utilizará é de 1 000 W.</p><p>Ao colocar o alimento no forno e marcar o tempo (∆t) gasto até o seu cozimento, ele concluiu que 3 minutos eram o bastante.</p><p class=\"apoio\">Lembre-se que: \\(P = \\dfrac{E}{\\Delta t}\\), em que <strong>P</strong> = potência (W), <strong>E</strong> = energia (J) e \\(\\Delta t\\) = variação de tempo (s).</p><p>Dessa maneira, a energia (E) necessária para cozinhar o alimento é de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "180 000 J.",
+        "B": "55 000 J.",
+        "C": "18 000 J.",
+        "D": "5 500 J.",
+        "E": "1 800 J."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>3 minutos são 180 s. Então E = P · ∆t = 1 000 W · 180 s = <strong>180 000 J</strong>. Alternativa <strong>A</strong>.</p><p>Usar 3 em vez de 180 s, ou errar a conversão, leva aos valores menores (C e E). B e D não correspondem a nenhuma conta correta.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 15,
+      "materia": "História",
+      "assunto": "História contemporânea",
+      "origem": {
+        "numeroOriginal": 15
+      },
+      "enunciado": "<p>A Praça Vermelha, em Moscou, é a mais importante da Rússia. Seu nome não está relacionado ao regime instaurado após um marcante fato ocorrido no país em 1917; vem do russo antigo, em que a mesma palavra usada para se referir à cor vermelha também significava “bonita”. Nessa praça estão alguns dos principais cartões-postais do país, como a Catedral de São Basílio, construída no século XVI, e o Kremlin, fortaleza construída em 1156 e que hoje abriga o palácio presidencial russo.</p><p>Assinale a alternativa que apresenta corretamente o fato histórico ocorrido em 1917 e mencionado no texto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "O início do governo do czar Nicolau II.",
+        "B": "A criação da Igreja Ortodoxa.",
+        "C": "O fim da União Soviética.",
+        "D": "A construção do Kremlin.",
+        "E": "A Revolução Russa."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Em 1917 ocorreu a <strong>Revolução Russa</strong>: o czarismo caiu e os bolcheviques tomaram o poder, instaurando o regime socialista ligado à cor vermelha. Alternativa <strong>E</strong>.</p><p>Nicolau II foi o último czar e foi derrubado em 1917 (A). A Igreja Ortodoxa é de muitos séculos antes (B). A União Soviética só acabou em 1991 (C). E o texto diz que o Kremlin é de 1156 (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Revolução Russa"
+      ]
+    },
+    {
+      "numero": 16,
+      "materia": "Geografia",
+      "assunto": "População",
+      "origem": {
+        "numeroOriginal": 16
+      },
+      "enunciado": "<p>Suponha que você trabalhe para o governo e precise ajudar a decidir sobre a distribuição de verbas de saúde e educação.</p><p>Para isso, você deve analisar as pirâmides etárias do Brasil de 1991 e 2010.</p>[[fig:1]]<p class=\"fonte\">Fonte dos dados: Instituto Brasileiro de Geografia e Estatística (IBGE).</p><p>Considerando as tendências apontadas pelas pirâmides etárias, as verbas devem priorizar</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q16.webp",
+          "alt": "Duas pirâmides etárias do Brasil, de 1991 e 2010, com mulheres à esquerda e homens à direita, faixas de 0 a 9 até 80 ou mais. Em 1991 a base é larga e o topo estreito. Em 2010 a base (0 a 9 e 10 a 19 anos) encolheu e as faixas de adultos e idosos aumentaram."
+        }
+      ],
+      "alternativas": {
+        "A": "os programas de controle de natalidade.",
+        "B": "os programas de atendimento pré-natal e as gestantes.",
+        "C": "a ampliação do número de creches e a educação infantil.",
+        "D": "os serviços de saúde para as crianças e os jovens.",
+        "E": "a assistência aos idosos e a previdência social."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>De 1991 para 2010, a base da pirâmide diminuiu (menos crianças) e o topo engordou (mais adultos e idosos): a população está envelhecendo. As verbas devem priorizar a <strong>assistência aos idosos e a previdência</strong>. Alternativa <strong>E</strong>.</p><p>A natalidade já está caindo, então controlá-la não é prioridade (A). Pré-natal, creches e serviços para crianças atendem a faixas que estão diminuindo (B, C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pirâmide etária"
+      ]
+    },
+    {
+      "numero": 17,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 17
+      },
+      "enunciado": "<p>Leia a tirinha.</p>[[fig:1]]<p class=\"fonte\">QUINO (Joaquín Salvador Lavado). <em>Toda Mafalda</em>. São Paulo: Martins Fontes, 2008. p. 256.</p><p>A interpretação do humor da tirinha se dá, em partes, pelo entendimento do funcionamento da crase utilizada no segundo quadrinho.</p><p>Assinale a alternativa em que há a explicação correta para <strong><em>esse caso específico</em></strong> do uso da crase.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q17.webp",
+          "alt": "Tirinha da Mafalda em três quadrinhos. 1: num jardim florido, Mafalda exclama: “Graças a Deus, chegou a primavera!” 2: um senhor idoso, curvado e de bengala, diz a outro: “Graças a Deus, cheguei à primavera”. 3: Mafalda, de cara fechada, pensa: “E eu dizendo trivialidades!”"
+        }
+      ],
+      "alternativas": {
+        "A": "O verbo “chegar” estabelece, no segundo quadrinho, regência com a preposição “a”, a qual se aglutina com o artigo que sucede o verbo.",
+        "B": "O uso da crase é opcional, pois a regência nominal do substantivo “primavera” determina o uso do artigo “a”.",
+        "C": "Sempre que o verbo “chegar” estiver conjugado na primeira pessoa do singular haverá a crase.",
+        "D": "O uso da crase é facultativo, uma vez que sucede uma locução prepositiva.",
+        "E": "Antes de pronomes possessivos femininos o uso da crase é obrigatório."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>No segundo quadrinho, o idoso diz que “chegou <em>à</em> primavera” (da vida, sobreviveu a mais um inverno). O verbo “chegar” pede a preposição “a”, que se junta ao artigo “a” de “a primavera”, formando a crase. Alternativa <strong>A</strong>.</p><p>A crase aí não é opcional, e quem rege a preposição é o verbo, não o substantivo (B). A pessoa do verbo não determina a crase (C). Não há locução prepositiva (D). E não há pronome possessivo (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "crase",
+        "tirinha"
+      ]
+    },
+    {
+      "numero": 18,
+      "materia": "Química",
+      "assunto": "Substâncias e misturas",
+      "origem": {
+        "numeroOriginal": 18
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 18 e 19.</p><p class=\"apoio\">Há mais de um tipo de bafômetro, mas todos são baseados em reações químicas envolvendo o álcool etílico presente na baforada e um reagente – por isso, o nome técnico desses aparelhos é etilômetro. Nos dois mais comuns são utilizados dicromato de potássio (que muda de cor na presença do álcool) e célula de combustível (que gera uma corrente elétrica). Este último é o mais usado entre os policiais no Brasil. Com a nova legislação, o motorista que for flagrado com nível alcoólico acima do permitido (0,1 mg/L de sangue) terá que pagar uma multa de R$ 955,00, além de ter o carro apreendido e perder a habilitação. Se estiver embriagado (níveis acima de 0,3 mg/L de sangue), ainda corre o risco de ficar preso por 6 meses a 1 ano.</p><p class=\"fonte\">&lt;https://tinyurl.com/yctm9zrz&gt; Acesso em: 10.11.2017. Adaptado.</p><p>No etilômetro que muda de cor na presença do álcool, ocorre a seguinte reação química:</p><p>K<sub>2</sub>Cr<sub>2</sub>O<sub>7 </sub>(aq) + 4 H<sub>2</sub>SO<sub>4 </sub>(aq) + 3 CH<sub>3</sub>CH<sub>2</sub>OH (g) → Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3 </sub>(aq) + 3 CH<sub>3</sub>CHO (g) + 7 H<sub>2</sub>O (ℓ) + 4 K<sub>2</sub>SO<sub>4 </sub>(aq)</p><p>(O K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> é alaranjado e o Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> é verde.)</p><p>É possível identificarmos, na reação, a presença de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "uma substância simples nos reagentes e uma simples nos produtos.",
+        "B": "três substâncias compostas nos reagentes.",
+        "C": "quatro substâncias simples nos produtos.",
+        "D": "átomos de sódio na substância verde.",
+        "E": "ácido clorídrico nos reagentes."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Os reagentes são K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, H<sub>2</sub>SO<sub>4</sub> e CH<sub>3</sub>CH<sub>2</sub>OH: <strong>três substâncias compostas</strong>, cada uma formada por mais de um elemento. Alternativa <strong>B</strong>.</p><p>Não há substância simples (de um só elemento) nem nos reagentes nem nos produtos (A e C). A substância verde, Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>, não tem sódio (D). E o ácido dos reagentes é o sulfúrico, não o clorídrico (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 19,
+      "materia": "Química",
+      "assunto": "Interpretação de dados",
+      "origem": {
+        "numeroOriginal": 19
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 18 e 19.</p><p class=\"apoio\">Há mais de um tipo de bafômetro, mas todos são baseados em reações químicas envolvendo o álcool etílico presente na baforada e um reagente – por isso, o nome técnico desses aparelhos é etilômetro. Nos dois mais comuns são utilizados dicromato de potássio (que muda de cor na presença do álcool) e célula de combustível (que gera uma corrente elétrica). Este último é o mais usado entre os policiais no Brasil. Com a nova legislação, o motorista que for flagrado com nível alcoólico acima do permitido (0,1 mg/L de sangue) terá que pagar uma multa de R$ 955,00, além de ter o carro apreendido e perder a habilitação. Se estiver embriagado (níveis acima de 0,3 mg/L de sangue), ainda corre o risco de ficar preso por 6 meses a 1 ano.</p><p class=\"fonte\">&lt;https://tinyurl.com/yctm9zrz&gt; Acesso em: 10.11.2017. Adaptado.</p><p>Um adulto de 75 kg possui, em média, 5 litros de sangue. Esse adulto foi flagrado, no teste do bafômetro, com nível alcoólico exatamente igual ao limite máximo permitido.</p><p>A massa de álcool contida no sangue desse adulto, em mg, é igual a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "0,1.",
+        "B": "0,2.",
+        "C": "0,3.",
+        "D": "0,4.",
+        "E": "0,5."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O limite permitido é 0,1 mg por litro de sangue. Com 5 litros: 0,1 · 5 = <strong>0,5 mg</strong>. Alternativa <strong>E</strong>.</p><p>0,1 é a concentração por litro, não a massa total (A). 0,3 é o nível de embriaguez (C). A massa do corpo (75 kg) não entra na conta.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "concentração"
+      ]
+    },
+    {
+      "numero": 20,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 20
+      },
+      "enunciado": "<p>As verminoses são doenças causadas por vermes parasitas que se instalam no organismo do hospedeiro. Uma dessas verminoses que afeta milhões de pessoas em todo o mundo caracteriza-se pelo fato de os vermes, no estágio de larvas, penetrarem através da pele, geralmente quando caminhamos descalços em solos contaminados. Dentro do ser humano, os vermes ficam adultos e se fixam à mucosa do intestino delgado. Com suas placas dentárias cortantes, rasgam as paredes intestinais e sugam sangue, provocando hemorragias, anemia, fraqueza, tonturas, desânimo e dores musculares no hospedeiro.</p><p>A doença parasitária descrita é conhecida como</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "doença de Chagas.",
+        "B": "esquistossomose.",
+        "C": "leptospirose.",
+        "D": "amarelão.",
+        "E": "teníase."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>As larvas que entram pela pele dos pés descalços, se fixam no intestino e sugam sangue, causando anemia, são do ancilóstomo: a doença é o <strong>amarelão</strong> (ancilostomose). Alternativa <strong>D</strong>.</p><p>A doença de Chagas é causada por um protozoário, transmitido pelo barbeiro (A). Na esquistossomose a larva também penetra pela pele, mas na água, e o verme vive nas veias do fígado (B). A leptospirose é causada por uma bactéria (C). E a teníase vem da carne mal cozida (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "verminoses"
+      ]
+    },
+    {
+      "numero": 21,
+      "materia": "Física",
+      "assunto": "Cinemática",
+      "origem": {
+        "numeroOriginal": 21
+      },
+      "enunciado": "<p>Para exemplificar uma aplicação do conceito de velocidade média, um professor de Ciências explica aos seus alunos como é medida a velocidade de um veículo quando passa por um radar.</p><p>Os radares usam a tecnologia dos sensores magnéticos. Geralmente são três sensores instalados no asfalto alguns metros antes do radar. Esse equipamento mede quanto tempo o veículo demora para ir de um sensor ao outro, calculando a partir daí, a velocidade média do veículo.</p>[[fig:1]]<p class=\"fonte\">&lt;http://tinyurl.com/yd9pdgk7&gt; Acesso em: 12.11.2017.</p><p>Considere um veículo trafegando numa pista cuja velocidade máxima permitida seja de 40 km/h (aproximadamente 11 m/s) e a distância média entre os sensores consecutivos seja de 2 metros.</p><p>O mínimo intervalo de tempo que o veículo leva para percorrer a distância entre um sensor e outro consecutivo, a fim de não ultrapassar o limite de velocidade é, aproximadamente, de</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q21.webp",
+          "alt": "Foto de uma rua com radar de velocidade em um poste; no asfalto aparecem as marcas retangulares dos sensores instalados antes do radar."
+        }
+      ],
+      "alternativas": {
+        "A": "0,10 s.",
+        "B": "0,18 s.",
+        "C": "0,20 s.",
+        "D": "0,22 s.",
+        "E": "1,00 s."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Para não passar de 11 m/s, o veículo precisa levar pelo menos t = d ÷ v = 2 ÷ 11 ≈ <strong>0,18 s</strong> entre dois sensores. Alternativa <strong>B</strong>.</p><p>Com menos tempo, a velocidade passaria do limite: em 0,10 s, por exemplo, seriam 20 m/s (A). 0,20 s e 0,22 s respeitam o limite, mas não são o tempo mínimo (C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "velocidade média"
+      ]
+    },
+    {
+      "numero": 22,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 22
+      },
+      "enunciado": "<p class=\"apoio\">O teste da chama é um procedimento corriqueiro em laboratórios de Química, tanto em níveis básicos como avançados. Pode ser utilizado para uma simples observação colorimétrica ou para a identificação de um cátion metálico. Consiste em se inserir uma amostra de determinado composto, geralmente no estado sólido, na base da chama, com o auxílio de um fio de platina, observando-se, assim, a mudança de coloração apresentada pela chama. A cor deve-se à influência da temperatura na estrutura atômica do cátion presente na amostra.</p><p class=\"fonte\">&lt;https://tinyurl.com/yb7jxftm&gt; Acesso em: 10.11.2017. Adaptado.</p><p>A tabela apresenta a cor esperada para os cátions de alguns elementos químicos.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Elemento</th><th scope=\"col\">Cor da luz emitida</th></tr></thead><tbody><tr><td>sódio</td><td>amarela</td></tr><tr><td>potássio</td><td>violeta</td></tr><tr><td>cálcio</td><td>alaranjada</td></tr><tr><td>estrôncio</td><td>vermelha</td></tr><tr><td>cobre</td><td>verde</td></tr></tbody></table></div><p>A professora de laboratório de Ciências apresenta três amostras de sais: CuSO<sub>4</sub>, KNO<sub>3</sub> e NaCℓ, para os alunos as identificarem com base nessa tabela.</p><p>Assinale a alternativa que relaciona, corretamente, o sal à respectiva cor no teste da chama.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Sal: KNO<sub>3</sub>; Cor da luz emitida: violeta.",
+        "B": "Sal: NaCℓ; Cor da luz emitida: vermelha.",
+        "C": "Sal: CuSO<sub>4</sub>; Cor da luz emitida: amarela.",
+        "D": "Sal: KNO<sub>3</sub>; Cor da luz emitida: alaranjada.",
+        "E": "Sal: CuSO<sub>4</sub>; Cor da luz emitida: alaranjada."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O KNO<sub>3</sub> tem o cátion potássio (K<sup>+</sup>), que dá luz <strong>violeta</strong>. Alternativa <strong>A</strong>.</p><p>O NaCℓ tem sódio, que dá luz amarela, não vermelha (B). O CuSO<sub>4</sub> tem cobre, que dá luz verde (C e E). E o potássio não dá luz alaranjada, que é a do cálcio (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "teste da chama"
+      ]
+    },
+    {
+      "numero": 23,
+      "materia": "Biologia",
+      "assunto": "Citologia",
+      "origem": {
+        "numeroOriginal": 23
+      },
+      "enunciado": "<p>Para estudar as principais características das células, o professor de Ciências solicitou que os alunos examinassem e citassem as principais estruturas de quatro tipos de células diferentes observadas em desenhos esquemáticos: uma bactéria, um fungo, uma célula de um pedaço de folha retirado de uma roseira e uma célula de um pedaço de músculo retirado de um mamífero.</p><p>Entre as estruturas citadas pelos alunos destacaram-se:<em> mitocôndrias, cloroplastos, parede celular e membrana nuclear.</em></p><p>Considerando os quatro tipos de células observadas é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a célula vegetal possui apenas a membrana nuclear e os cloroplastos das estruturas citadas.",
+        "B": "a célula animal possui apenas os cloroplastos e as mitocôndrias das estruturas citadas.",
+        "C": "a bactéria e a célula vegetal possuem todas as estruturas citadas.",
+        "D": "o fungo e a célula animal não possuem as estruturas citadas.",
+        "E": "a célula vegetal possui todas as estruturas citadas."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A célula da folha de roseira tem <strong>mitocôndrias</strong>, <strong>cloroplastos</strong>, <strong>parede celular</strong> (de celulose) e <strong>membrana nuclear</strong>, já que é eucariótica. Tem todas as estruturas citadas. Alternativa <strong>E</strong>.</p><p>A célula vegetal também tem mitocôndrias e parede (A). A célula animal não tem cloroplastos (B). A bactéria não tem membrana nuclear, mitocôndrias nem cloroplastos (C). E o fungo e a célula animal têm mitocôndrias e membrana nuclear, e o fungo tem parede celular (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 24,
+      "materia": "História",
+      "assunto": "Antiguidade",
+      "origem": {
+        "numeroOriginal": 24
+      },
+      "enunciado": "<p class=\"apoio\">Uma equipe internacional de cientistas usou um fluxo de partículas para fazer uma espécie de radiografia da Grande Pirâmide de Quéops, em Gizé, no Egito. Isso permitiu descobrir, em 2017, um grande espaço vazio, que ficou escondido atrás das grossas paredes da edificação.</p><p class=\"apoio\">Construída por ordem do faraó Khufu, que reinou entre 2509 e 2483 a.C., a pirâmide tem 139 metros de altura e, durante mais de três milênios, foi a construção mais alta do planeta. Mesmo hoje, não há certeza sobre a forma como foi construída, nem se sabe se ainda há câmaras a serem descobertas em seu interior.</p><p class=\"apoio\">É possível entrar na pirâmide através de um túnel que foi escavado ao nível do solo no ano de 820, que permite o acesso às três câmaras até hoje conhecidas: a subterrânea, a da rainha e a do rei.</p><p class=\"fonte\">&lt;https://tinyurl.com/yd3qv7pu&gt; Acesso em: 14.11.2017. Adaptado.</p><p>Com base nas informações do texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a Grande Pirâmide de Quéops, construída há dois mil anos, continua a ser a construção mais alta do planeta.",
+        "B": "a pirâmide de Gizé, uma das maravilhas do mundo moderno, foi construída em honra dos deuses egípcios Zeus e Hórus.",
+        "C": "a pirâmide de Quéops, construída há mais de quatro milênios por ordem de Khufu, teve uma câmara interna descoberta recentemente.",
+        "D": "a escavação de um túnel no ano de 820, por ordem de Gizé, permitiu o acesso da população aos túmulos no interior da pirâmide de Quéops.",
+        "E": "as pirâmides do Egito, palácios residenciais dos faraós, foram equipadas com câmaras secretas construídas para garantir a segurança desses imperadores."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto diz que a pirâmide foi construída por ordem do faraó Khufu, que reinou por volta de 2500 a.C., ou seja, há <strong>mais de quatro mil anos</strong>, e que em 2017 foi descoberto um grande espaço vazio no seu interior. Alternativa <strong>C</strong>.</p><p>Ela não tem dois mil anos e deixou de ser a construção mais alta (A). Zeus é um deus grego, e o texto não fala em homenagem a deuses (B). Gizé é o lugar, não uma pessoa (D). E as pirâmides eram túmulos, não palácios residenciais (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Egito"
+      ]
+    },
+    {
+      "numero": 25,
+      "materia": "Geografia",
+      "assunto": "Biomas brasileiros",
+      "origem": {
+        "numeroOriginal": 25
+      },
+      "enunciado": "<p>A caatinga, palavra originária do tupi-guarani e que significa “mata branca”, é o único sistema ambiental exclusivamente brasileiro. Sua extensão territorial corresponde a cerca de 10% do território nacional e está presente no norte de Minas Gerais e no sertão nordestino.</p><p>Em relação a esse sistema ambiental, pode-se afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "é um bioma de clima quente, com estações de seca e chuvas bem definidas, cuja vegetação apresenta folhas coriáceas, caules retorcidos, com cascas grossas e resistentes ao fogo.",
+        "B": "é a maior planície de inundação contínua do planeta e apresenta a maior diversidade de aves do mundo, entre as quais se destacam as garças, os colhereiros, os tucanos, os biguás, os patos e os marrecos.",
+        "C": "é um bioma com várias espécies de palmeiras, árvores, trepadeiras, mata-paus, samambaias e animais, como gambás, pacas, tatus, tamanduás, capivaras, gatos-do-mato, gaviões e muitas espécies de beija-flores.",
+        "D": "possui clima semiárido, solo raso e pedregoso, vegetação com adaptações para sobreviver em condições de aridez, como por exemplo, folhas modificadas em espinhos, muitas espécies de mamíferos, lagartos e serpentes.",
+        "E": "possui clima subtropical, vegetação formada principalmente por gramíneas de pequeno porte e com poucos arbustos espalhados; possui animais, como o tatu, diversos roedores, raposas, guaxinins, marrecos e quero-quero."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A caatinga tem <strong>clima semiárido</strong>, solo raso e pedregoso, e plantas adaptadas à seca, como os cactos, com folhas transformadas em espinhos. Alternativa <strong>D</strong>.</p><p>Folhas coriáceas, caules retorcidos e cascas grossas resistentes ao fogo descrevem o cerrado (A). A maior planície de inundação é o Pantanal (B). Palmeiras, samambaias e mata-paus em grande variedade lembram a Mata Atlântica (C). E clima subtropical com gramíneas é o pampa (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "caatinga"
+      ]
+    },
+    {
+      "numero": 26,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 26
+      },
+      "enunciado": "<p>Leia o texto.</p><p class=\"apoio\">Um dos problemas urbanos mais dramáticos na vida de muitas pessoas que habitam nossas cidades é a ocorrência de <em>enchentes</em>, que provocam estragos envolvendo perdas de bens materiais e, em alguns casos, até de vidas. (...) As causas das enchentes estão relacionadas a fatores naturais e também a ações humanas, ou até mesmo a combinação dos dois. (...) As causas mais comuns das enchentes em grandes cidades como São Paulo estão relacionadas aos efeitos nocivos de algumas práticas humanas sobre o meio ambiente.</p><p class=\"fonte\">&lt;http://tinyurl.com/y7pe3b38&gt; Acesso em: 14.07.2017. Adaptado.</p><p>Entre as ações que ajudam a reduzir o risco de enchentes e os problemas decorrentes estão a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "recuperação da cobertura de vegetação na foz dos rios e ampliação da altura dos alicerces das casas construídas em suas margens.",
+        "B": "retificação do leito dos rios e córregos e a construção de muros que protejam vias de circulação e habitações em suas margens.",
+        "C": "retificação e retirada constante dos sedimentos do leito dos rios e córregos e depósito desses sedimentos em suas margens.",
+        "D": "recuperação das cabeceiras dos rios, ampliação das áreas verdes, permeabilização do solo e deposição adequada do lixo.",
+        "E": "canalização dos cursos dos rios e dos córregos e da impermeabilização de suas margens."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Nas cidades, as enchentes pioram porque o solo impermeabilizado não absorve a chuva e o lixo entope bueiros e rios. <strong>Recuperar as cabeceiras, ampliar as áreas verdes, permeabilizar o solo e descartar o lixo corretamente</strong> faz a água infiltrar e escoar melhor. Alternativa <strong>D</strong>.</p><p>Vegetação na foz não ajuda o escoamento rio acima, e alicerces altos não reduzem o risco (A). Retificar e canalizar rios faz a água correr mais rápido e transbordar mais à frente (B, C e E). E depositar sedimentos e impermeabilizar margens agrava o problema (C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "enchentes urbanas"
+      ]
+    },
+    {
+      "numero": 27,
+      "materia": "Geografia",
+      "assunto": "Hidrografia",
+      "origem": {
+        "numeroOriginal": 27
+      },
+      "enunciado": "<p>Leia os textos e considere o infográfico.</p><p class=\"apoio\">• Mata ciliar é a formação vegetal às margens dos rios, córregos, lagos, represas e nascentes. É considerada pelo Código Florestal Federal como Área de Preservação Permanente (APP), com diversas funções ambientais.</p><p class=\"apoio\">De acordo com o artigo 2<sup>o</sup> desse Código, a largura da faixa de mata ciliar a ser preservada está relacionada com a largura dos rios, córregos, lagos, represas e nascentes, conforme mostra a figura.</p>[[fig:1]]<p class=\"apoio\">• Fora do estuário, o trecho mais largo do rio Amazonas, não interrompido por ilhas, fica a cerca de 20 km da foz do rio Xingu, onde tem 13 km de largura.</p><p class=\"fonte\">&lt;https://tinyurl.com/y9z2e43l&gt; Acesso em: 26.11.2017.</p><p>De acordo com o Código Florestal Federal, para o trecho de um rio cuja largura é 4% da largura do rio Amazonas (citada no texto), a largura da faixa de mata ciliar deve ser, em metros, igual a</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q27.webp",
+          "alt": "Infográfico de um rio que se alarga da nascente até a foz, com a faixa de mata ciliar exigida em cada trecho: nascente, mata ciliar de 50 m; rio com menos de 10 m de largura, 30 m; de 10 a 50 m, 50 m; de 50 a 200 m, 100 m; de 200 a 600 m, 200 m; acima de 600 m, 500 m."
+        }
+      ],
+      "alternativas": {
+        "A": "500.",
+        "B": "200.",
+        "C": "100.",
+        "D": "50.",
+        "E": "30."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>4% de 13 km é 0,04 · 13 000 m = 520 m. Um rio de 520 m de largura está na faixa de <strong>200 a 600 m</strong>, que exige mata ciliar de <strong>200 m</strong>. Alternativa <strong>B</strong>.</p><p>500 m é a faixa para rios com mais de 600 m (A). 100, 50 e 30 m valem para rios mais estreitos (C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "mata ciliar",
+        "porcentagem"
+      ]
+    },
+    {
+      "numero": 28,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 28
+      },
+      "enunciado": "<p>Um grupo de estudantes conversando sobre a prevenção e o tratamento de diferentes tipos de doenças causadas por vírus e bactérias elaboraram os seguintes enunciados:</p><p class=\"apoio\"><strong>I</strong> Os vírus são acelulares.</p><p class=\"apoio\"><strong>II</strong> Os vírus e as bactérias não possuem metabolismo próprio.</p><p class=\"apoio\"><strong>III</strong> As doenças causadas por vírus e bactérias não têm cura.</p><p class=\"apoio\"><strong>IV</strong> As bactérias são seres parasitas obrigatórios.</p><p class=\"apoio\"><strong>V</strong> As bactérias são microscópicas.</p><p>Assinale a alternativa que apresenta os enunciados corretos.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "I, II, III e IV apenas.",
+        "B": "II, III, IV e V apenas.",
+        "C": "I, III e V apenas.",
+        "D": "II e IV apenas.",
+        "E": "I e V apenas."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Os vírus não têm células (<strong>I</strong> correta), e as bactérias são seres microscópicos (<strong>V</strong> correta). Alternativa <strong>E</strong>.</p><p>As bactérias têm metabolismo próprio; só os vírus dependem de uma célula (II errada). Muitas doenças bacterianas e virais têm cura ou tratamento, como as tratadas com antibióticos (III errada). E muitas bactérias vivem livres no ambiente, não são parasitas obrigatórias (IV errada).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "vírus e bactérias"
+      ]
+    },
+    {
+      "numero": 29,
+      "materia": "Geografia",
+      "assunto": "Climatologia",
+      "origem": {
+        "numeroOriginal": 29
+      },
+      "enunciado": "<p>Carla está organizando um encontro com velhos amigos de turma dos tempos de faculdade, com a intenção de comemorar 10 anos de formados.</p><p>Por uma rede social, Carla manda uma mensagem:</p><p class=\"apoio\">Olá pessoal, já está tudo preparado!<br>Reservei um hotel de frente para o rio, contratei um bom churrasqueiro que vai fornecer tudo.<br>Não precisaremos nos preocupar com nada, só festejar e relembrar os velhos tempos.<br>Pessoal, não se esqueçam de trazer roupas leves e guarda-chuvas porque aqui é quente e úmido o ano todo. Marcos, você que está acostumado com o frio dos pampas, vai estranhar um pouco, mas a beleza da floresta e o pôr do sol refletindo nas águas desse riozão vão te recompensar.<br>Abraços a todos e até sexta.<br>Carla</p><p>Considerando o mapa e a partir da descrição da mensagem de Carla, assinale a alternativa que apresenta, correta e respectivamente, o número e o clima do local do encontro e do local em que Marcos mora.</p>[[fig:1]]<p class=\"fonte\">&lt;http://tinyurl.com/yae5jzdo&gt; Acesso em: 13.11.2017. Original colorido.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q29.webp",
+          "alt": "Mapa “Climas do Brasil, segundo Arthur Strahler”, com seis regiões numeradas: 1 cobre a Amazônia, no Norte; 2, o Brasil central; 3, o interior do Nordeste; 4, a faixa litorânea do Nordeste ao Sudeste; 5, o Sul; 6, uma área do Sudeste."
+        }
+      ],
+      "alternativas": {
+        "A": "Local do encontro: 6 – clima tropical de altitude; Local em que Marcos mora: 5 – clima subtropical.",
+        "B": "Local do encontro: 2 – clima tropical continental; Local em que Marcos mora: 1 – clima equatorial.",
+        "C": "Local do encontro: 4 – clima tropical oceânico; Local em que Marcos mora: 3 – clima semiárido.",
+        "D": "Local do encontro: 1 – clima equatorial; Local em que Marcos mora: 5 – clima subtropical.",
+        "E": "Local do encontro: 3 – clima semiárido; Local em que Marcos mora: 1 – clima equatorial."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Quente e úmido o ano todo, com floresta e um “riozão”: é a Amazônia, área <strong>1</strong>, de <strong>clima equatorial</strong>. Marcos vem do frio dos pampas, no Sul, área <strong>5</strong>, de <strong>clima subtropical</strong>. Alternativa <strong>D</strong>.</p><p>O clima tropical de altitude é mais ameno e não tem calor o ano todo (A). O tropical continental e o semiárido têm estação seca bem marcada (B e E). E o tropical oceânico do litoral não corresponde à floresta e ao grande rio (C). Os pampas não ficam nas áreas 1 nem 3 (B, C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "climas do Brasil"
+      ]
+    },
+    {
+      "numero": 30,
+      "materia": "Biologia",
+      "assunto": "Zoologia",
+      "origem": {
+        "numeroOriginal": 30
+      },
+      "enunciado": "<p>Em uma aula prática de Biologia, o professor solicitou que os alunos identificassem as principais características dos táxons representados pelos exemplares de uma coleção de artrópodes que incluía aranhas, abelhas, carrapatos, escorpiões, formigas, moscas, camarões, siris e lacraias.</p><p>Considerando os animais citados no texto, os alunos concluíram corretamente que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "apenas as aranhas, os escorpiões e os carrapatos possuem o corpo revestido por exoesqueleto.",
+        "B": "todos têm os membros locomotores articulados e o corpo segmentado.",
+        "C": "apenas as abelhas, as formigas e as moscas possuem antenas.",
+        "D": "apenas as abelhas possuem asas.",
+        "E": "todos são venenosos e podem voar."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Todos os animais citados são artrópodes: têm <strong>patas articuladas</strong> e <strong>corpo segmentado</strong>, além de exoesqueleto. Alternativa <strong>B</strong>.</p><p>Todos têm exoesqueleto, não só os aracnídeos (A). Camarões, siris e lacraias também têm antenas (C). Moscas e algumas formigas também têm asas (D). E muitos não são venenosos nem voam (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "artrópodes"
+      ]
+    },
+    {
+      "numero": 31,
+      "materia": "História",
+      "assunto": "Pré-História",
+      "origem": {
+        "numeroOriginal": 31
+      },
+      "enunciado": "<p>Localizado no sudeste do Piauí, o Parque Nacional da Serra da Capivara é um parque arqueológico inscrito pela Unesco na lista do Patrimônio Mundial. Um conjunto de chapadas e vales abrigam sítios arqueológicos com pinturas e gravuras rupestres, além de outros vestígios do cotidiano pré-histórico. Esses registros, inscritos nos paredões rochosos, representam uma grande variedade de temas e foram feitos por populações que habitaram a região há dezenas de milhares de anos. Seguramente, são os mais antigos registros humanos no continente americano.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ydhptjlb&gt; Acesso em: 13.11.2017. Adaptado. Original colorido.</p><p>De acordo com o texto e a imagem, assinale a alternativa correta.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q31.webp",
+          "alt": "Foto de pintura rupestre na rocha: um cervo grande, de chifres longos, e várias figuras humanas pequenas ao redor, como numa cena de caça."
+        }
+      ],
+      "alternativas": {
+        "A": "Os vestígios de mais de dez mil anos encontrados no Piauí foram excluídos da lista do Patrimônio Mundial por terem sido ameaçados pelas queimadas que destruíram as chapadas.",
+        "B": "As chapadas e os vales do Piauí reúnem os mais antigos registros da presença humana no hemisfério sul, superando os registros africanos, que se acreditava serem os mais remotos.",
+        "C": "O Parque Nacional da Serra da Capivara é um sítio arqueológico que reúne registros da fauna brasileira feitos pelos europeus à época da chegada dos portugueses.",
+        "D": "As pinturas de animais, de cenas de caça e do cotidiano encontradas na Serra da Capivara estão entre os mais antigos registros feitos pelo homem nas Américas.",
+        "E": "As pinturas rupestres são importantes registros do cotidiano dos povos indígenas que habitavam a região amazônica há cerca de dois mil anos."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que as pinturas da Serra da Capivara representam “uma grande variedade de temas” e “são os mais antigos registros humanos no continente americano”, e a imagem mostra animais e uma cena de caça. Alternativa <strong>D</strong>.</p><p>O parque está na lista do Patrimônio Mundial (A). O texto fala do continente americano, não do hemisfério sul nem da África (B). Os registros foram feitos por populações pré-históricas, não por europeus (C). E a região fica no Piauí, e os registros têm dezenas de milhares de anos, não dois mil (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Serra da Capivara"
+      ]
+    },
+    {
+      "numero": 32,
+      "materia": "Geografia",
+      "assunto": "Agropecuária e meio ambiente",
+      "origem": {
+        "numeroOriginal": 32
+      },
+      "enunciado": "<p>Observe a imagem.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/37rpb5j&gt; Acesso em: 12.11.2017. Adaptada. Original colorido.</p><p>A imagem está relacionada a um sistema agrícola de subsistência típico de regiões densamente povoadas do globo terrestre.</p><p>Assinale a alternativa correta que apresenta esse tipo de sistema agrícola, a técnica utilizada e a região de ocorrência no globo.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q32.webp",
+          "alt": "Foto de uma encosta montanhosa recortada em degraus (terraços) alagados, cultivados com arroz."
+        }
+      ],
+      "alternativas": {
+        "A": "Sistema agrícola: jardinagem; Técnica agrícola: terraceamento; Região do mundo: Sudeste da Ásia.",
+        "B": "Sistema agrícola: plantations; Técnica agrícola: rotação de culturas; Região do mundo: Norte da África.",
+        "C": "Sistema agrícola: itinerante; Técnica agrícola: rotação de terras; Região do mundo: Norte da Rússia.",
+        "D": "Sistema agrícola: comercial; Técnica agrícola: mecanização; Região do mundo: Europa Ocidental.",
+        "E": "Sistema agrícola: kibutz; Técnica agrícola: irrigação; Região do mundo: Oriente Médio."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A foto mostra arrozais em degraus nas encostas. É a <strong>agricultura de jardinagem</strong>, intensiva e com muita mão de obra, que usa o <strong>terraceamento</strong> e é típica do <strong>Sudeste da Ásia</strong>, muito povoado. Alternativa <strong>A</strong>.</p><p>Plantations são monoculturas de exportação (B). A agricultura itinerante não existe no norte gelado da Rússia (C). A agricultura comercial mecanizada não é de subsistência (D). E kibutz é uma forma de organização coletiva de Israel, não a cena retratada (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "terraceamento"
+      ]
+    },
+    {
+      "numero": 33,
+      "materia": "Português",
+      "assunto": "Figuras de linguagem",
+      "origem": {
+        "numeroOriginal": 33
+      },
+      "enunciado": "<p>Leia a letra da música “Segue o seco” de Carlinhos Brown.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yanhydsb&gt; Acesso em: 02.12.2017.</p><p>Um dos importantes aspectos para a interpretação dessa música é a sonoridade de seus versos. A repetição do <strong>fonema consonantal</strong> /s/ – como em “sacar” e “ser” – colabora para a construção e representação do cenário construído pela canção: a seca.</p><p>Selecione a alternativa em que a repetição intencional de fonema consonantal também acontece.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q33.webp",
+          "alt": "Letra da canção “Segue o seco”, de Carlinhos Brown. Os versos falam da seca do sertão (a boiada, a enxurrada, a trovoada e a enxada secas), repetem muitas palavras com o som de “s”, como “seco”, “sacar” e “sol”, e terminam com um pedido de chuva."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q33a.webp",
+          "alt": "Alternativa A: três versos de uma canção de Caetano Veloso em que o eu lírico se diz mulato, com palavras que rimam em “-ato”."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q33b.webp",
+          "alt": "Alternativa B: três versos de uma canção de Claudio Lins sobre um olhar trocado entre duas pessoas."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q33c.webp",
+          "alt": "Alternativa C: “[...] Vozes veladas, veludosas vozes, / Volúpias dos violões, vozes veladas [...]” Cruz e Sousa."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q33d.webp",
+          "alt": "Alternativa D: dois versos de uma canção de Chico Buarque que enumeram de onde vieram o pai, o avô, o bisavô e o tataravô do eu lírico."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q33e.webp",
+          "alt": "Alternativa E: “Trabalha e teima, e lima, e sofre, e sua!” Bilac, Olavo."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:2]]",
+        "B": "[[fig:3]]",
+        "C": "[[fig:4]]",
+        "D": "[[fig:5]]",
+        "E": "[[fig:6]]"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Nos versos de Cruz e Sousa, o som /v/ se repete de propósito em “<strong>v</strong>ozes <strong>v</strong>eladas, <strong>v</strong>eludosas <strong>v</strong>ozes, <strong>V</strong>olúpias dos <strong>v</strong>iolões”, imitando o som suave dos violões. É uma aliteração, como o /s/ da canção. Alternativa <strong>C</strong>.</p><p>Em A, o efeito sonoro vem da rima em “-ato”, não da repetição de uma consoante. Em B e D não há repetição intencional de fonema consonantal. Em E, o verso de Bilac repete a conjunção “e” (polissíndeto), que é uma vogal.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "aliteração"
+      ]
+    },
+    {
+      "numero": 34,
+      "materia": "Geografia",
+      "assunto": "Biomas brasileiros",
+      "origem": {
+        "numeroOriginal": 34
+      },
+      "enunciado": "<p>Analise o mapa que apresenta a distribuição de uma das formações vegetais do planeta</p>[[fig:1]]<p class=\"fonte\">&lt;http://tinyurl.com/y7pgjd6h&gt; Acesso em: 15.1./2017. Adaptado.</p><p>Assinale a alternativa que contenha o nome, a localização e um dos problemas que ameaçam essa formação vegetal</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q34.webp",
+          "alt": "Planisfério com uma formação vegetal destacada em preto: a maior área cobre a Amazônia, na América do Sul; há também manchas na bacia do Congo, na África, e no Sudeste Asiático e na Indonésia, todas próximas à linha do Equador."
+        }
+      ],
+      "alternativas": {
+        "A": "Nome: Floresta de Coníferas; Localização: latitudes médias; Problema: exploração da madeira para a indústria de papel.",
+        "B": "Nome: Savanas; Localização: baixas latitudes; Problema: expansão da produção mecanizada de grãos.",
+        "C": "Nome: Floresta Temperada; Localização: altas latitudes; Problema: desmatamento para expansão urbana.",
+        "D": "Nome: Pradarias; Localização: altas latitudes; Problema: expansão da agricultura mecanizada de cereais.",
+        "E": "Nome: Floresta Equatorial; Localização: baixa latitude; Problema: desmatamento para expansão da agropecuária."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>As áreas destacadas (Amazônia, Congo, Sudeste Asiático) ficam junto ao Equador: são as <strong>florestas equatoriais</strong>, de <strong>baixa latitude</strong>, ameaçadas sobretudo pelo <strong>desmatamento para a agropecuária</strong>. Alternativa <strong>E</strong>.</p><p>As coníferas ficam em altas latitudes do hemisfério norte (A). As savanas cercam as florestas, mas não coincidem com as áreas do mapa (B). Florestas temperadas e pradarias ficam em latitudes médias (C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "florestas equatoriais"
+      ]
+    },
+    {
+      "numero": 35,
+      "materia": "Biologia",
+      "assunto": "Fisiologia animal",
+      "origem": {
+        "numeroOriginal": 35
+      },
+      "enunciado": "<p>Uma importante adaptação ao frio é a capacidade de hibernação de alguns mamíferos, como certos morcegos e marmotas, em épocas de muito frio. A hibernação é semelhante a um sono profundo, com a manutenção da taxa metabólica em níveis muito baixos. Com esse artifício, esses animais conseguem suportar as condições adversas do inverno, principalmente a escassez de comida, uma vez que o metabolismo reduzido diminui o consumo de energia e eles podem viver à custa da gordura armazenada no corpo.</p><p>É correto afirmar que durante a hibernação, a taxa metabólica atinge níveis muito baixos porque</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a frequência cardíaca e a frequência respiratória ficam reduzidas, sendo que a temperatura do corpo desses animais se mantém semelhante à do período sem hibernação.",
+        "B": "a frequência cardíaca e a frequência respiratória ficam aceleradas, sendo que a temperatura do corpo desses animais se mantém semelhante à do período sem hibernação.",
+        "C": "a frequência cardíaca e a frequência respiratória ficam reduzidas, sendo que a temperatura do corpo desses animais diminui muito, abaixo da temperatura do período sem hibernação.",
+        "D": "a frequência cardíaca fica acelerada, a frequência respiratória fica reduzida e a temperatura do corpo desses animais diminui muito, abaixo da temperatura do período sem hibernação.",
+        "E": "a frequência cardíaca fica reduzida, a frequência respiratória fica acelerada e a temperatura do corpo desses animais aumenta muito, acima da temperatura do período sem hibernação."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Na hibernação, o metabolismo cai: o coração bate devagar, a respiração diminui e a <strong>temperatura do corpo cai muito</strong>, ficando bem abaixo da normal. Assim o animal gasta pouca energia. Alternativa <strong>C</strong>.</p><p>A temperatura não se mantém igual (A e B). Frequências aceleradas aumentariam o gasto de energia (B, D e E). E a temperatura não sobe (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "hibernação"
+      ]
+    },
+    {
+      "numero": 36,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 36
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e considere a figura para responder às questões de números 36 e 37.</p><p>O trapézio retângulo ABCD da figura representa a superfície de um reservatório de água.</p>[[fig:1]]<p class=\"apoio\">Na figura, tem-se que: AB = 20 m; CD = 15 m; AD = 12 m; o ângulo D\\(\\hat{A}\\)B é reto.</p><p>Admita que, a cada metro quadrado da superfície desse reservatório, 3 litros de água evaporem por dia.</p><p>Em um dia em que a variação da quantidade de água dependeu apenas da evaporação, o reservatório perdeu <strong>N</strong> litros de água. O valor de <strong>N</strong> é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q36.webp",
+          "alt": "Trapézio retângulo ABCD: A embaixo à esquerda, B embaixo à direita, C em cima à direita e D em cima à esquerda. O lado AD é vertical, perpendicular à base AB; o lado BC é inclinado."
+        }
+      ],
+      "alternativas": {
+        "A": "360.",
+        "B": "480.",
+        "C": "540.",
+        "D": "630.",
+        "E": "720."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A área do trapézio é (base maior + base menor) · altura ÷ 2 = (20 + 15) · 12 ÷ 2 = 210 m². Com 3 L por m²: N = 210 · 3 = <strong>630</strong>. Alternativa <strong>D</strong>.</p><p>720 vem de usar um retângulo 20 · 12 (E). 540 vem de 15 · 12 (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "área do trapézio"
+      ]
+    },
+    {
+      "numero": 37,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 37
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e considere a figura para responder às questões de números 36 e 37.</p><p>O trapézio retângulo ABCD da figura representa a superfície de um reservatório de água.</p>[[fig:1]]<p class=\"apoio\">Na figura, tem-se que: AB = 20 m; CD = 15 m; AD = 12 m; o ângulo D\\(\\hat{A}\\)B é reto.</p><p>Se, por uma questão de segurança, o reservatório precisa ser cercado, então o comprimento dessa cerca será, em metros, de</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q36.webp",
+          "alt": "Trapézio retângulo ABCD: A embaixo à esquerda, B embaixo à direita, C em cima à direita e D em cima à esquerda. O lado AD é vertical, perpendicular à base AB; o lado BC é inclinado."
+        }
+      ],
+      "alternativas": {
+        "A": "60.",
+        "B": "59.",
+        "C": "58.",
+        "D": "57.",
+        "E": "56."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Falta o lado BC. Baixando uma perpendicular de C até AB, forma-se um triângulo retângulo com catetos 12 (a altura) e 20 − 15 = 5. Então BC = √(12² + 5²) = √169 = 13 m. O perímetro é 20 + 15 + 12 + 13 = <strong>60 m</strong>. Alternativa <strong>A</strong>.</p><p>Os outros valores vêm de errar o lado inclinado.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "teorema de Pitágoras"
+      ]
+    },
+    {
+      "numero": 38,
+      "materia": "História",
+      "assunto": "Escravidão",
+      "origem": {
+        "numeroOriginal": 38
+      },
+      "enunciado": "<p class=\"apoio\">A história também é contada em lugares públicos e o Cais do Valongo, no Rio de Janeiro, é um desses lugares. Estima-se que mais de um milhão de pessoas tenham chegado da África ao Brasil por esse porto somente na primeira metade do século XIX; esse era o principal portão de entrada de escravizados africanos na maior cidade escravista das Américas.</p><p class=\"apoio\">De acordo com as historiadoras Hebe Mattos e Martha Abreu, a região onde se localiza o antigo Cais é também conhecida como Pequena África, como a denominou o artista Heitor dos Prazeres nos primeiros anos do século XX. Desde o final do século XIX, o local era um espaço de encontro de africanos e afro-brasileiros libertos e imigrantes pobres, que deixariam profundas marcas culturais na história da cidade, como o próprio nascimento do samba.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7mz6urp&gt; Acesso em: 14.11.2017. Adaptado.</p><p>Assinale a alternativa que corresponde corretamente às informações contidas no texto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Conhecida como Pequena África, a região da capital fluminense em que está o antigo Cais do Valongo se relaciona com a história da escravidão e com o nascimento do samba.",
+        "B": "A escravidão de africanos, pouco expressiva no Rio de Janeiro à época do Império, tem a sua história contada pela Pequena África, porto de entrada desses povos.",
+        "C": "No início do século XX, a Lei Eusébio de Queirós proibiu o tráfico de escravos e obrigou o fechamento do principal porto escravista das Américas, a Pequena África.",
+        "D": "Entre o início da escravidão no Brasil, no século XVI, e o seu término, no século XVIII, pouco menos de um milhão de africanos aportaram no Cais do Valongo.",
+        "E": "O Rio de Janeiro, maior cidade escravista das Américas, recebeu mais de um milhão de africanos nas décadas finais da escravidão, entre 1860 e 1910."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O texto diz que a região do Cais do Valongo, chamada de Pequena África, foi o principal porto de entrada de africanos escravizados e um espaço de encontro de africanos e afro-brasileiros, que marcou a cidade “como o próprio nascimento do samba”. Alternativa <strong>A</strong>.</p><p>O Rio era a “maior cidade escravista das Américas”, não teve escravidão pouco expressiva (B). A Lei Eusébio de Queirós é de 1850, não do século XX (C). A escravidão acabou em 1888, no século XIX, e o texto fala em mais de um milhão de pessoas (D). E esse milhão chegou na primeira metade do século XIX, não entre 1860 e 1910 (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 39,
+      "materia": "Física",
+      "assunto": "Termologia",
+      "origem": {
+        "numeroOriginal": 39
+      },
+      "enunciado": "<p>Para demonstrar a quantidade de calor envolvida em um processo físico, uma professora de Ciências propõe o seguinte experimento a seus alunos.</p><p>Em um recipiente de vidro deve-se colocar 100 g de água destilada e medir a temperatura da mesma.</p><p>Posteriormente, o recipiente é aquecido até o início da ebulição, quando se mede novamente a temperatura da água, obtendo-se o valor de 100 °C.</p><p>A professora apresenta a equação que permite calcular a quantidade de calor envolvida no experimento:</p><p class=\"apoio\">\\(Q = m \\cdot c \\cdot \\Delta T\\)</p><p class=\"apoio\">em que: Q = quantidade de calor (em cal); m = massa (em g); c = calor especifico da água (c = 1 cal/g °C); ∆T = variação de temperatura (em °C)</p><p>Supondo que um grupo constatou que a temperatura inicial era de 20 °C, a quantidade de calor necessária para aquecer somente a referida massa de água deve ser de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "1 000 cal.",
+        "B": "2 000 cal.",
+        "C": "4 000 cal.",
+        "D": "6 000 cal.",
+        "E": "8 000 cal."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A variação de temperatura é 100 − 20 = 80 °C. Então Q = 100 g · 1 cal/g °C · 80 °C = <strong>8 000 cal</strong>. Alternativa <strong>E</strong>.</p><p>Usar 100 °C ou 20 °C no lugar da variação, ou errar a conta, leva aos outros valores.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "calorimetria"
+      ]
+    },
+    {
+      "numero": 40,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 40
+      },
+      "enunciado": "<p>Leia o texto.</p><p class=\"apoio\"><strong>Após sete anos, estádio dividido pela linha do Equador é reaberto no Amapá</strong></p><p class=\"apoio\">A linha do meio de campo coincide com a linha do Equador (...). Esta folclórica peculiaridade do estádio Zerão, em Macapá, voltará ao futebol neste sábado. Sem jogos desde 2007, ele será reaberto com festa a partir das 17h (18h do horário de Brasília).</p><p class=\"fonte\">&lt;https://tinyurl.com/2sr57f&gt; Acesso em: 13.11.2017. Adaptado.</p><p>A notícia destaca a reinauguração do Estádio Estadual Milton de Souza Corrêa, também conhecido como Zerão, pois é cortado ao meio pela linha do Equador de modo que os times jogam em hemisférios diferentes. A linha do Equador divide o planeta em dois hemisférios e é o marco inicial de uma coordenada geográfica.</p><p>Assinale a alternativa que apresenta corretamente</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Hemisférios: Boreal e Setentrional; Coordenada Geográfica: longitude.",
+        "B": "Hemisférios: Ocidental e Oriental; Coordenada Geográfica: longitude.",
+        "C": "Hemisférios: Austral e Meridional; Coordenada Geográfica: altitude.",
+        "D": "Hemisférios: Leste e Oeste; Coordenada Geográfica: latitude.",
+        "E": "Hemisférios: Sul e Norte; Coordenada Geográfica: latitude."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O Equador separa os hemisférios <strong>Norte e Sul</strong> e é o ponto de partida (0º) da <strong>latitude</strong>. Alternativa <strong>E</strong>.</p><p>Boreal e setentrional são nomes do mesmo hemisfério, o Norte (A), e austral e meridional, do Sul (C). Ocidental e oriental, ou Leste e Oeste, são separados pelo meridiano de Greenwich, ligado à longitude (B e D). E altitude não é coordenada geográfica (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "coordenadas geográficas"
+      ]
+    },
+    {
+      "numero": 41,
+      "materia": "Matemática",
+      "assunto": "Trigonometria",
+      "origem": {
+        "numeroOriginal": 41
+      },
+      "enunciado": "<p>Um especialista, ao fazer um levantamento hidrográfico de uma região marítima, representou no plano cartesiano os dados obtidos. Ao terminar a sua tarefa observou que, em particular, as ilhas A, B e C formavam um triângulo conforme a figura.</p>[[fig:1]]<p>Sabendo que as coordenadas dos pontos que representam as ilhas são A(2; 3), B(18; 15) e C(18; 3), pode-se concluir que a tangente do ângulo B\\(\\hat{A}\\)C é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q41.webp",
+          "alt": "Plano cartesiano com eixos x e y em quilômetros. Os pontos A e C estão na mesma altura, com C à direita de A; B está diretamente acima de C. Os três formam um triângulo retângulo em C."
+        }
+      ],
+      "alternativas": {
+        "A": "\\(\\dfrac{3}{5}\\).",
+        "B": "\\(\\dfrac{3}{4}\\).",
+        "C": "\\(\\dfrac{4}{5}\\).",
+        "D": "\\(\\dfrac{5}{4}\\).",
+        "E": "\\(\\dfrac{4}{3}\\)."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O triângulo é retângulo em C. O cateto oposto ao ângulo BÂC é BC = 15 − 3 = 12, e o adjacente é AC = 18 − 2 = 16. Então tg BÂC = 12/16 = <strong>3/4</strong>. Alternativa <strong>B</strong>.</p><p>A hipotenusa mede 20, então 3/5 e 4/5 são o seno e o cosseno do ângulo (A e C). E 4/3 e 5/4 invertem as razões (D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "geometria analítica"
+      ]
+    },
+    {
+      "numero": 42,
+      "materia": "Física",
+      "assunto": "Óptica",
+      "origem": {
+        "numeroOriginal": 42
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 42 e 43.</p><p class=\"apoio\">Quando você fica à frente de um espelho plano, você e a sua respectiva imagem têm sempre naturezas opostas, ou seja, quando um é real o outro deve ser virtual. Dessa maneira, para se obter geometricamente a imagem de um objeto pontual, basta traçar por ele uma reta perpendicular ao espelho plano, atravessando a superfície espelhada, e marcar simetricamente o ponto imagem, como mostrado na figura.</p>[[fig:1]]<p>Imagine que você esteja em frente a um espelho plano, a uma distância de 0,5 m. Suponha que esse espelho seja deslocado no mesmo plano em 0,4 m, se distanciando de você, conforme a figura.</p>[[fig:2]]<p>A distância, representada no esquema pela letra <strong><em>y</em></strong>, entre você e a sua imagem, será, em metros, de</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q42a.webp",
+          "alt": "Esquema: uma pessoa (o) à esquerda, um espelho no meio e a imagem (i) à direita, à mesma distância d1 do espelho que a pessoa."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q42b.webp",
+          "alt": "Esquema em duas etapas. Em cima: você a 0,5 m do espelho e a imagem a d1 atrás dele. Embaixo: o espelho foi afastado 0,4 m; você fica a d2 do espelho, a imagem fica a d2 atrás dele, e y é a distância total entre você e a imagem."
+        }
+      ],
+      "alternativas": {
+        "A": "0,4.",
+        "B": "0,8.",
+        "C": "1,0.",
+        "D": "1,8.",
+        "E": "2,0."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Depois do deslocamento, você fica a 0,5 + 0,4 = 0,9 m do espelho. A imagem fica à mesma distância atrás dele. Então y = 0,9 + 0,9 = <strong>1,8 m</strong>. Alternativa <strong>D</strong>.</p><p>0,4 m é só o deslocamento do espelho (A), e 0,8 m é o quanto a imagem se afastou de você (B). 1,0 m era a distância entre você e a imagem antes de mover o espelho (C). E 2,0 m soma errado as distâncias (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "espelho plano"
+      ]
+    },
+    {
+      "numero": 43,
+      "materia": "Física",
+      "assunto": "Óptica",
+      "origem": {
+        "numeroOriginal": 43
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 42 e 43.</p><p class=\"apoio\">Quando você fica à frente de um espelho plano, você e a sua respectiva imagem têm sempre naturezas opostas, ou seja, quando um é real o outro deve ser virtual. Dessa maneira, para se obter geometricamente a imagem de um objeto pontual, basta traçar por ele uma reta perpendicular ao espelho plano, atravessando a superfície espelhada, e marcar simetricamente o ponto imagem, como mostrado na figura.</p>[[fig:1]]<p>Considere que, na situação anterior, você esteja vestindo uma camiseta com a palavra FÍSICA, conforme a figura.</p>[[fig:2]]<p>Se você se colocar de frente para o espelho plano, a palavra FÍSICA refletida se apresentará como mostrado na alternativa</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q42a.webp",
+          "alt": "Esquema: uma pessoa (o) à esquerda, um espelho no meio e a imagem (i) à direita, à mesma distância d1 do espelho que a pessoa."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q43.webp",
+          "alt": "Camiseta com a palavra FÍSICA escrita na frente."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q43a.webp",
+          "alt": "Alternativa A: a palavra escrita de trás para a frente e com cada letra espelhada (a primeira é um A e a última um F invertido), como “FÍSICA” vista num espelho."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q43b.webp",
+          "alt": "Alternativa B: as letras de trás para a frente, com algumas espelhadas, mas o F na posição normal."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q43c.webp",
+          "alt": "Alternativa C: as letras de trás para a frente, com o C e o F na posição normal e o S espelhado."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q43d.webp",
+          "alt": "Alternativa D: as letras de trás para a frente, com o C na posição normal e o S e o F espelhados."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q43e.webp",
+          "alt": "Alternativa E: as letras de trás para a frente, todas na posição normal, sem espelhar."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:3]]",
+        "B": "[[fig:4]]",
+        "C": "[[fig:5]]",
+        "D": "[[fig:6]]",
+        "E": "[[fig:7]]"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O espelho plano inverte a direita e a esquerda: a palavra aparece <strong>de trás para a frente</strong> e <strong>cada letra também fica espelhada</strong> (o C e o S se viram e o F aponta para o outro lado). É o que mostra a alternativa <strong>A</strong>.</p><p>Nas outras, pelo menos uma letra não foi espelhada (B, C e D) ou nenhuma foi (E), o que não acontece num espelho.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "espelho plano"
+      ]
+    },
+    {
+      "numero": 44,
+      "materia": "Português",
+      "assunto": "Figuras de linguagem",
+      "origem": {
+        "numeroOriginal": 44
+      },
+      "enunciado": "<p class=\"chamada\">Leia a música de Marcelo Jeneci e responda às questões de números 44 e 45.</p>[[fig:1]]<p>O autor da música enumera e destaca todas as coisas que dará e o que não dará a(o) sua(seu) amada(o), enfocando que prefere as coisas que “ficam”. Para isso, ele faz uso da linguagem em seu sentido denotativo e conotativo.</p><p>Assinale a alternativa em que há o exemplo e a explicação corretos dos tipos de linguagens utilizadas na música.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q44.webp",
+          "alt": "Trecho da letra da canção “Dar-te-ei”, de Marcelo Jeneci. O eu lírico enumera presentes que não dará à pessoa amada, como papéis, discos, casacos, bombons e festas, porque estragam ou acabam, e diz que, por fim, dará os seus beijos e os seus lábios, que ficam. Fonte: &lt;https://tinyurl.com/ybf22rpl&gt;, acesso em 10.11.2017."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q44a.webp",
+          "alt": "Alternativa A: “Linguagem denotativa acontece quando a linguagem é utilizada em seu sentido literal.”, com o exemplo do verso sobre os lábios que serão do eu lírico e da pessoa amada."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q44b.webp",
+          "alt": "Alternativa B: “Linguagem conotativa acontece quando a linguagem é utilizada em seu sentido literal.”, com o exemplo do verso sobre os bombons, que acabam e derretem."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q44c.webp",
+          "alt": "Alternativa C: “Linguagem denotativa acontece quando a linguagem é utilizada em seu sentido figurado.”, com o exemplo do verso sobre os discos, que repetem e arranham."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q44d.webp",
+          "alt": "Alternativa D: “Linguagem conotativa acontece quando a linguagem é utilizada em seu sentido figurado.”, com o exemplo do verso sobre os lábios que serão do eu lírico e da pessoa amada."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q44e.webp",
+          "alt": "Alternativa E: “Linguagem denotativa acontece quando a linguagem é utilizada em seu sentido literal.”, com o exemplo do verso sobre as festas, que terminam e choram."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:2]]",
+        "B": "[[fig:3]]",
+        "C": "[[fig:4]]",
+        "D": "[[fig:5]]",
+        "E": "[[fig:6]]"
+      },
+      "gabarito": "D",
+      "explicacao": "<p><strong>Conotação</strong> é o uso da linguagem em <strong>sentido figurado</strong>. No verso em que o eu lírico oferece os lábios, que “ficam”, ele não fala só de uma parte do corpo, mas do amor e da presença que permanecem. Alternativa <strong>D</strong>.</p><p>A e C trocam as definições (denotação é sentido literal) ou dão exemplo figurado como literal. B define conotação como sentido literal. E em E, festas que “choram” é sentido figurado, não literal.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "denotação e conotação"
+      ]
+    },
+    {
+      "numero": 45,
+      "materia": "Português",
+      "assunto": "Pronomes",
+      "origem": {
+        "numeroOriginal": 45
+      },
+      "enunciado": "<p class=\"chamada\">Leia a música de Marcelo Jeneci e responda às questões de números 44 e 45.</p>[[fig:1]]<p>Há, nessa música, uma construção gramatical chamada de <u><em>mesóclise</em></u> – “dar-te-ei” – de pouco uso na linguagem escrita e quase extinto o uso na falada. Essa construção, chamada de colocação pronominal, é uma das três posições possíveis – de acordo com a gramática normativa.</p><p class=\"apoio\"><strong>Colocação pronominal:</strong> posição dos pronomes oblíquos átonos em relação ao verbo.</p><p class=\"apoio\"><strong>Ênclise:</strong> quando o pronome oblíquo átono é posicionado depois do verbo.</p><p class=\"apoio\"><strong>Mesóclise:</strong> quando o pronome oblíquo átono é posicionado entre o radical e a desinência das formas verbais do futuro do presente e futuro do pretérito.</p><p class=\"apoio\"><strong>Próclise:</strong> quando o pronome oblíquo átono é posicionado antes do verbo.</p><p>Baseando-se no que foi apresentado, assinale a alternativa que apresenta uma relação correta – de acordo com a gramática normativa – entre colocação pronominal e o seu uso na frase.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q44.webp",
+          "alt": "Trecho da letra da canção “Dar-te-ei”, de Marcelo Jeneci. O eu lírico enumera presentes que não dará à pessoa amada, como papéis, discos, casacos, bombons e festas, porque estragam ou acabam, e diz que, por fim, dará os seus beijos e os seus lábios, que ficam. Fonte: &lt;https://tinyurl.com/ybf22rpl&gt;, acesso em 10.11.2017."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q45b.webp",
+          "alt": "Alternativa B: “Ênclise” seguida de um verso da canção em que o eu lírico diz que não dará discos à pessoa amada, porque eles repetem; nele, o pronome “te” vem antes do verbo."
+        }
+      ],
+      "alternativas": {
+        "A": "Próclise – “Faça-me o favor de não atrasar para nosso encontro!”",
+        "B": "[[fig:2]]",
+        "C": "Ênclise – “Importava-se com o sucesso da prova.”",
+        "D": "Mesóclise – “A música? Cantá-la-rei quando souber a letra.”",
+        "E": "Mesóclise – “Alguém me procurou?”"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Em “Importava-se com o sucesso da prova”, o pronome “se” vem <strong>depois do verbo</strong>, ligado por hífen: é <strong>ênclise</strong>. Alternativa <strong>C</strong>.</p><p>“Faça-me” também é ênclise, não próclise (A). No verso da canção da alternativa B, o pronome vem antes do verbo (próclise). “Cantá-la-rei” está errado: a mesóclise correta seria “cantá-la-ei” (D). E em “Alguém me procurou?” há próclise (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "colocação pronominal"
+      ]
+    },
+    {
+      "numero": 46,
+      "materia": "Física",
+      "assunto": "Dinâmica",
+      "origem": {
+        "numeroOriginal": 46
+      },
+      "enunciado": "<p>Vinícius observa duas crianças, Caio e João, empurrando uma caixa de brinquedos. Relembrando a aula de Ciências que teve pela manhã, ele observa o deslocamento da caixa e faz um desenho representando as forças envolvidas nesse processo, conforme a figura.</p>[[fig:1]]<p>Considerando que a caixa esteja submetida a duas forças horizontais, nos sentidos representados na figura, de intensidades <em>F<sub>1</sub></em> = 100 N e <em>F<sub>2</sub></em> = 75 N, ficou pensando em como poderia evitar o deslocamento da caixa, fazendo com que ela ficasse em equilíbrio (parada).</p><p>Concluiu, então, que para isso ocorrer, uma outra criança deveria exercer uma força de intensidade igual a</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q46.webp",
+          "alt": "Desenho de uma caixa entre duas crianças: Caio, à esquerda, empurra a caixa para a direita com a força F1; João, à direita, empurra para a esquerda com a força F2."
+        }
+      ],
+      "alternativas": {
+        "A": "100 N, junto com João.",
+        "B": "100 N, junto com Caio.",
+        "C": "75 N, junto com João.",
+        "D": "25 N, junto com Caio.",
+        "E": "25 N, junto com João."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Caio empurra para a direita com 100 N e João, para a esquerda com 75 N. A resultante é 25 N para a direita. Para a caixa ficar parada, alguém precisa fazer <strong>25 N para a esquerda</strong>, ou seja, <strong>junto com João</strong>. Alternativa <strong>E</strong>.</p><p>Ajudar Caio aumentaria a resultante (B e D). E 100 N ou 75 N junto com João fariam a caixa ir para a esquerda (A e C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "força resultante"
+      ]
+    },
+    {
+      "numero": 47,
+      "materia": "História",
+      "assunto": "Brasil Colônia",
+      "origem": {
+        "numeroOriginal": 47
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e observe o mapa para responder às questões de números 47 e 48.</p><p class=\"apoio\">A partir do início do século XVII, padres jesuítas espanhóis fundaram povoados nos quais reuniram populações indígenas da região da bacia do rio da Prata. Os trinta povos das missões, como ficaram conhecidos esses aldeamentos, eram formados especialmente por índios guarani, tradicionais habitantes locais. De acordo com o Tratado de Tordesilhas, esses povoados ficavam na área pertencente à Espanha.</p><p class=\"apoio\">Entretanto, com a assinatura do Tratado de Madri, em 1750, os limites entre as terras sob controle espanhol e português na América do Sul foram redefinidos. Conforme o novo acordo, sete povoados guarani que ficavam a leste do rio Uruguai foram incorporados aos domínios portugueses e, por essa razão, seus habitantes foram obrigados a se mudar para a margem oeste do rio.</p><p class=\"apoio\">Os povos guarani guerrearam pelo direito de permanecer em seus povoados e, como foram derrotados em 1756 pelas tropas ibéricas, acabaram se estabelecendo, em sua maioria, na região sob controle espanhol.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y82hlhrb&gt; Acesso em: 13.11.2017. Original colorido.</p><p>De acordo com as informações apresentadas no texto e no mapa, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q47.webp",
+          "alt": "Mapa da região das missões jesuíticas, entre Paraguai, Argentina, Uruguai e o sul do Brasil, com Assunção, Foz do Iguaçu, Curitiba, Florianópolis e Porto Alegre. Cerca de trinta povoados, como São Miguel, São Nicolau, São Luís e Santo Ângelo, aparecem agrupados entre os rios Paraná e Uruguai. Uma linha tracejada marca os limites da região missioneira."
+        }
+      ],
+      "alternativas": {
+        "A": "os jesuítas espanhóis estabeleceram as suas missões em 1756, na região que hoje corresponde a São Paulo, Paraguai e Argentina.",
+        "B": "os índios guarani, obedecendo ao Tratado de Madri, se estabeleceram em novos povoados fundados nos arredores de Assunção, Curitiba e Florianópolis.",
+        "C": "os portugueses fundaram trinta reduções jesuíticas às margens do rio da Prata, atendendo ao que havia sido definido pelo Tratado de Tordesilhas no início do século XVII.",
+        "D": "os povoados formados por jesuítas e indígenas na bacia do Prata foram diretamente afetados pelo Tratado de Madri, acordo de limites assinado em 1750.",
+        "E": "os espanhóis recuperaram, com o Tratado de Tordesilhas, a região de Porto Alegre, tomada pelos índios guarani que não aceitaram ser realocados."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que, com o <strong>Tratado de Madri (1750)</strong>, sete povoados guarani a leste do rio Uruguai passaram aos domínios portugueses, e seus habitantes foram obrigados a se mudar, o que levou à guerra. Os povoados foram <strong>diretamente afetados</strong> pelo tratado. Alternativa <strong>D</strong>.</p><p>As missões começaram no início do século XVII; 1756 é o ano da derrota guarani (A). Os guarani resistiram ao tratado e se fixaram, na maioria, na área espanhola (B). Quem fundou as reduções foram jesuítas espanhóis (C). E o tratado que redefiniu os limites foi o de Madri, não o de Tordesilhas (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "missões jesuíticas",
+        "Tratado de Madri"
+      ]
+    },
+    {
+      "numero": 48,
+      "materia": "História",
+      "assunto": "Brasil Colônia",
+      "origem": {
+        "numeroOriginal": 48
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e observe o mapa para responder às questões de números 47 e 48.</p><p class=\"apoio\">A partir do início do século XVII, padres jesuítas espanhóis fundaram povoados nos quais reuniram populações indígenas da região da bacia do rio da Prata. Os trinta povos das missões, como ficaram conhecidos esses aldeamentos, eram formados especialmente por índios guarani, tradicionais habitantes locais. De acordo com o Tratado de Tordesilhas, esses povoados ficavam na área pertencente à Espanha.</p><p class=\"apoio\">Entretanto, com a assinatura do Tratado de Madri, em 1750, os limites entre as terras sob controle espanhol e português na América do Sul foram redefinidos. Conforme o novo acordo, sete povoados guarani que ficavam a leste do rio Uruguai foram incorporados aos domínios portugueses e, por essa razão, seus habitantes foram obrigados a se mudar para a margem oeste do rio.</p><p class=\"apoio\">Os povos guarani guerrearam pelo direito de permanecer em seus povoados e, como foram derrotados em 1756 pelas tropas ibéricas, acabaram se estabelecendo, em sua maioria, na região sob controle espanhol.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y82hlhrb&gt; Acesso em: 13.11.2017. Original colorido.</p><p>Sobre a organização religiosa que fundou os povoados na bacia do Prata, assinale a alternativa correta de acordo com o contexto apresentado no texto e no mapa.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q47.webp",
+          "alt": "Mapa da região das missões jesuíticas, entre Paraguai, Argentina, Uruguai e o sul do Brasil, com Assunção, Foz do Iguaçu, Curitiba, Florianópolis e Porto Alegre. Cerca de trinta povoados, como São Miguel, São Nicolau, São Luís e Santo Ângelo, aparecem agrupados entre os rios Paraná e Uruguai. Uma linha tracejada marca os limites da região missioneira."
+        }
+      ],
+      "alternativas": {
+        "A": "O Franciscanismo se associou às populações indígenas no intuito de criar nações americanas independentes da Espanha e de Portugal.",
+        "B": "O Calvinismo foi o principal aliado da Espanha na evangelização dos povos nativos da América do Sul desde a fundação das primeiras vilas.",
+        "C": "A Reforma Protestante disseminou os ideais de Martinho Lutero na América do Sul e foi impedida de se instalar na América do Norte.",
+        "D": "A Companhia de Jesus foi responsável por diversas iniciativas na colonização da América junto às coroas portuguesa e espanhola.",
+        "E": "A Ordem de Cristo, criada na Inglaterra, teve como finalidade controlar os religiosos portugueses e espanhóis na América."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Os padres jesuítas pertencem à <strong>Companhia de Jesus</strong>, que atuou na catequese, na educação e na fundação de aldeamentos na América portuguesa e espanhola. Alternativa <strong>D</strong>.</p><p>Os franciscanos não criaram nações independentes (A). Calvinistas e luteranos eram protestantes, e as coroas ibéricas eram católicas (B e C). E a Ordem de Cristo é portuguesa, não inglesa (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "jesuítas"
+      ]
+    },
+    {
+      "numero": 49,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 49
+      },
+      "enunciado": "<p class=\"chamada\">Leia a letra da música “É você” de Marisa Monte e responda às questões de números 49 e 50.</p>[[fig:1]]<p>Releia os trechos.</p>[[fig:2]]<p>Percebemos que os exemplos <strong>I</strong> e <strong>II</strong> se tratam de períodos compostos.</p><p>Assim, assinale a alternativa que indica o efeito de sentido que as orações destacadas produzem sobre as não destacadas.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q49.webp",
+          "alt": "Letra da canção “É você”, de Marisa Monte, em duas estrofes curtas. O eu lírico se dirige a uma pessoa amada, a única que o acompanha na vida, fala dos dois em lugares como a floresta, o salão, a biblioteca e o saguão, e repete que na vida só resta seguir. Fonte: &lt;https://tinyurl.com/ycdar4y4&gt;, acesso em 13.11.2017."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q49b.webp",
+          "alt": "Quadro com dois trechos da canção. I: “É você [...]” seguido de uma oração em negrito, iniciada por “que”, sobre a pessoa que vai com o eu lírico na vida agora. II: “É você [...]” seguido de uma oração em negrito, iniciada por “que”, sobre a pessoa que invadiu o centro do espelho."
+        }
+      ],
+      "alternativas": {
+        "A": "Comparam o antes e o depois do interlocutor “você”.",
+        "B": "Particularizam as características do “você”, restringindo-o.",
+        "C": "Indicam as circunstâncias temporais em que as ações acontecem.",
+        "D": "Dão ao eu-lírico um modo e local onde as ações descritas acontecem.",
+        "E": "Exprimem a causa pela qual o eu-lírico quer bem a pessoa a quem se refere."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>As orações destacadas começam com o pronome relativo “que” e se referem a “você”, caracterizando essa pessoa (é a que vai com o eu lírico na vida, a que invadiu o espelho). Elas <strong>particularizam o “você”, restringindo-o</strong>. Alternativa <strong>B</strong>.</p><p>Elas não comparam momentos (A), não indicam tempo (C), nem modo ou lugar (D), nem causa (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "orações adjetivas"
+      ]
+    },
+    {
+      "numero": 50,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 50
+      },
+      "enunciado": "<p class=\"chamada\">Leia a letra da música “É você” de Marisa Monte e responda às questões de números 49 e 50.</p>[[fig:1]]<p>Releia os trechos.</p>[[fig:2]]<p>Percebemos que os exemplos <strong>I</strong> e <strong>II</strong> se tratam de períodos compostos.</p><p>Ao analisarmos a função que as orações destacadas nos exemplos <strong>I</strong> e <strong>II</strong> exercem, podemos classificá-las como orações</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2018-1sem/q49.webp",
+          "alt": "Letra da canção “É você”, de Marisa Monte, em duas estrofes curtas. O eu lírico se dirige a uma pessoa amada, a única que o acompanha na vida, fala dos dois em lugares como a floresta, o salão, a biblioteca e o saguão, e repete que na vida só resta seguir. Fonte: &lt;https://tinyurl.com/ycdar4y4&gt;, acesso em 13.11.2017."
+        },
+        {
+          "src": "assets/img/etec-2018-1sem/q49b.webp",
+          "alt": "Quadro com dois trechos da canção. I: “É você [...]” seguido de uma oração em negrito, iniciada por “que”, sobre a pessoa que vai com o eu lírico na vida agora. II: “É você [...]” seguido de uma oração em negrito, iniciada por “que”, sobre a pessoa que invadiu o centro do espelho."
+        }
+      ],
+      "alternativas": {
+        "A": "subordinadas substantivas, pois exercem a função de substantivo.",
+        "B": "subordinadas adverbiais, pois exercem a função de advérbio.",
+        "C": "subordinadas adjetivas, pois exercem a função de adjetivo.",
+        "D": "coordenadas sindéticas, pois exercem a função aditiva.",
+        "E": "coordenadas assindéticas, pois exercem a função conclusiva."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Orações introduzidas por pronome relativo, que caracterizam um substantivo ou pronome anterior, funcionam como um adjetivo: são <strong>subordinadas adjetivas</strong>. Alternativa <strong>C</strong>.</p><p>Elas não fazem papel de substantivo (A) nem de advérbio (B). E não são coordenadas, porque dependem do termo que caracterizam (D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "orações adjetivas"
+      ]
+    }
+  ]
+}

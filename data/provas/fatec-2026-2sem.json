@@ -1,0 +1,1533 @@
+{
+  "id": "fatec-2026-2sem",
+  "banca": "FATEC",
+  "ano": 2026,
+  "semestre": 2,
+  "titulo": "Vestibular FATEC, 2º semestre de 2026",
+  "fonte": "Centro Paula Souza",
+  "dataExame": "2026-06-28",
+  "duracaoMinutos": 300,
+  "tema": "Futebol",
+  "pdf": "assets/provas/fatec-2026-2sem.pdf",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Biologia",
+      "assunto": "Citologia",
+      "origem": {
+        "numeroOriginal": 1
+      },
+      "enunciado": "<p>Em atletas que realizam atividades físicas muito intensas e prolongadas, o gás oxigênio (O<sub>2</sub>) que chega aos músculos pode ser insuficiente para realizar o processo de respiração aeróbica e liberar a energia química (ATP) necessária à contração das fibras musculares. Quando o O<sub>2 </sub>é insuficiente, essas fibras podem também obter ATP por meio da fermentação lática, um processo anaeróbico que, embora produza menos energia do que o processo aeróbico, garante a continuidade da contração muscular.</p><p>Sobre a insuficiência mencionada no texto, assinale a alternativa correta.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Uma quantidade maior de ATP é liberada em relação à que ocorre no processo aeróbico.",
+        "B": "O gás carbônico (CO<sub>2</sub> ) é liberado no interior dos ribossomos, ocasionando aumento do pH celular.",
+        "C": "A produção de ácido acético é estimulada para garantir a contração eficiente dos músculos e prevenir cãibras.",
+        "D": "O lactato é produzido como produto da quebra da glicose, o que permite continuar gerando energia química (ATP) rapidamente.",
+        "E": "Uma quantidade de moléculas inorgânicas e de etanol, ricos em energia necessária para a contração muscular, é produzida durante exercícios intensos."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Sem oxigênio suficiente, a fibra muscular faz fermentação lática: quebra a glicose em <strong>lactato</strong> e obtém ATP rapidamente, ainda que em pouca quantidade. Alternativa <strong>D</strong>.</p><p>A fermentação produz menos ATP que a respiração aeróbica (A). A fermentação lática não libera CO<sub>2</sub>, e os ribossomos fazem proteínas, não respiração (B). O produto é ácido lático, não acético (C). E etanol é produto da fermentação alcoólica, de leveduras (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fermentação lática",
+        "respiração celular"
+      ]
+    },
+    {
+      "numero": 2,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 2
+      },
+      "enunciado": "<p>Em 2023, segundo relatório da Organização Mundial da Saúde (OMS), a tuberculose voltou a ser uma das principais causas de morte por um único agente infeccioso no mundo. Os atletas profissionais estão expostos a um risco elevado de contrair doenças infecciosas, incluindo a tuberculose, devido a fatores ocupacionais específicos como viagens internacionais frequentes, a convivência em ambientes de treinamento fechados etc.</p><p>Entre as medidas preventivas que devem ser adotadas para não se contrair essa doença, destaca-se</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a prática regular de atividades físicas que proporcionem uma vida saudável, com fortalecimento muscular e saúde cardiovascular, a fim de adquirir imunidade contra as formas virais mais graves da doença.",
+        "B": "o consumo de água tratada, que passou por processos de purificação em estações de tratamento a fim de remover impurezas, microrganismos patogênicos e substâncias nocivas.",
+        "C": "o uso de máscaras, ao se ter contato com um doente, a fim de evitar a inalação de gotículas contaminadas e exaladas pela tosse, fala ou espirro do paciente.",
+        "D": "o consumo de frutas e verduras cruas higienizadas a fim de eliminar o risco de contaminação pelos microrganismos parasitas causadores da doença.",
+        "E": "a ingestão preventiva de antibióticos a fim de impedir a propagação, nas vias respiratórias, dos vírus causadores dessa patologia."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A tuberculose é causada por uma bactéria (o bacilo de Koch) e passa de pessoa para pessoa pelo ar, em gotículas de tosse, fala e espirro. O <strong>uso de máscara</strong> perto de um doente reduz a inalação dessas gotículas. Alternativa <strong>C</strong>.</p><p>Atividade física não dá imunidade, e a doença não é viral (A e E). Ela não se transmite pela água nem por alimentos crus (B e D). E tomar antibiótico preventivo sem indicação não é uma medida de prevenção geral (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tuberculose",
+        "bactérias"
+      ]
+    },
+    {
+      "numero": 3,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 3
+      },
+      "enunciado": "<p>A eritropoietina (EPO) é um hormônio natural do corpo humano produzido principalmente pelos rins e fígado. Esse hormônio estimula a medula óssea a produzir glóbulos vermelhos (hemácias), aumentando o transporte de oxigênio para todo o corpo.</p><p>Uma consequência direta da baixa oxigenação tecidual causada pela falta de EPO é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a icterícia (pele amarelada) por acúmulo de bilirrubina.",
+        "B": "a intolerância ao esforço físico e fadiga extrema.",
+        "C": "a hipertensão arterial imediata severa.",
+        "D": "o aumento súbito da densidade óssea.",
+        "E": "a hipersensibilidade à luz (fotofobia)."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Sem EPO, a medula produz menos hemácias, e chega menos oxigênio aos músculos. O resultado é <strong>intolerância ao esforço e fadiga</strong>, sinais típicos de anemia. Alternativa <strong>B</strong>.</p><p>A icterícia vem do acúmulo de bilirrubina, ligado ao fígado ou à destruição de hemácias (A). A falta de hemácias não causa hipertensão imediata (C), não aumenta a densidade óssea (D) nem causa fotofobia (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sangue",
+        "hormônios"
+      ]
+    },
+    {
+      "numero": 4,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 4
+      },
+      "enunciado": "<p>Em eventos internacionais, como a Copa do Mundo de Futebol, com alto fluxo de atletas e turistas, há sempre a preocupação quanto à falta de acesso à água tratada e à ausência de serviços de coleta e tratamento de esgoto.</p><p>Para minimizar esses problemas, as comunidades em geral devem</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "implementar compostagem comunitária para reduzir o volume de lixo inorgânico, tratar as doenças e garantir a insalubridade do meio urbano.",
+        "B": "impedir as construções de cisternas, usadas para captação da água das chuvas dos telhados, devido ao risco de contaminação com os poluentes atmosféricos.",
+        "C": "lançar o esgoto doméstico nos rios e represas a fim de provocar o fenômeno da eutrofização, que é importante no crescimento de plantas aquáticas e na nutrição dos peixes.",
+        "D": "priorizar a construção de hospitais especializados no tratamento de infecções gastrointestinais relacionadas ao esgoto a céu aberto e à água contaminada, independentemente da expansão da infraestrutura de saneamento.",
+        "E": "construir banheiros secos ou fossas sépticas, pois funcionam à base de processos biológicos de compostagem ou de biodigestão, em vez de tratamento químico, economizando, assim, água potável."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Banheiros secos e fossas sépticas tratam os dejetos por processos biológicos (compostagem ou biodigestão), evitam o esgoto a céu aberto e ainda <strong>economizam água potável</strong>. Alternativa <strong>E</strong>.</p><p>A compostagem trata lixo orgânico, e o objetivo é a salubridade, não a insalubridade (A). Cisternas são uma boa solução de captação de água (B). A eutrofização mata os peixes por falta de oxigênio (C). E só construir hospitais, sem saneamento, não resolve a causa do problema (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "saneamento básico"
+      ]
+    },
+    {
+      "numero": 5,
+      "materia": "Biologia",
+      "assunto": "Ecologia",
+      "origem": {
+        "numeroOriginal": 5
+      },
+      "enunciado": "<p>O javali simboliza um animal bravo, resistente e difícil de ser vencido, sendo por esse motivo escolhido como símbolo para representar diversos times de futebol de várzea e de alguns times profissionais.</p><p>É uma espécie exótica invasora introduzida no Brasil a partir da década de 1960 para a exploração comercial da sua carne. Entretanto, a produção não se desenvolveu, o que resultou na soltura dos animais para a natureza e seu retorno ao estado selvagem. Sua agressividade e facilidade de adaptação são características que, associadas à reprodução descontrolada e à ausência de predadores naturais, resultam no crescimento populacional e em diversos impactos ao meio ambiente.</p><p>Sobre esses animais, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "reduzem o risco de erosão do solo em áreas de várzea.",
+        "B": "auxiliam na criação de bovinos em confinamentos.",
+        "C": "atuam no controle biológico das lagartas, responsáveis pelas piores pragas agrícolas.",
+        "D": "facilitam a dispersão de sementes de árvores nativas raras e em risco de extinção.",
+        "E": "possuem alta taxa reprodutiva e grande adaptabilidade a diferentes climas."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O texto diz que a agressividade e a <strong>facilidade de adaptação</strong> do javali, junto com a <strong>reprodução descontrolada</strong> e a falta de predadores, fazem a população crescer. Alternativa <strong>E</strong>.</p><p>Os javalis reviram o solo e aumentam a erosão (A). Não ajudam na criação de bovinos (B). Não controlam lagartas: eles mesmos destroem lavouras (C). E, como espécie invasora, prejudicam as plantas nativas (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "espécies invasoras"
+      ]
+    },
+    {
+      "numero": 6,
+      "materia": "Biologia",
+      "assunto": "Nutrição e saúde",
+      "origem": {
+        "numeroOriginal": 6
+      },
+      "enunciado": "<p>O café da manhã de um jogador de futebol foi composto, entre outros itens, por:</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Itens</th><th scope=\"col\">Proteínas (g)</th><th scope=\"col\">Carboidratos (g)</th><th scope=\"col\">Lipídios (g)</th></tr></thead><tbody><tr><td>Ovos mexidos</td><td>30</td><td>4</td><td>17</td></tr><tr><td>Abacate</td><td>2</td><td>9</td><td>15</td></tr><tr><td>Iogurte Grego</td><td>30</td><td>10</td><td>14</td></tr><tr><td>Granola</td><td>3</td><td>20</td><td>3</td></tr><tr><td>Suco de laranja</td><td>1,5</td><td>21</td><td>0,2</td></tr></tbody></table></div><p>Considerando as proteínas e os carboidratos, que têm o mesmo valor energético (4 kcal/g), assinale a alternativa que apresenta corretamente o item mais energético do café da manhã.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Ovos",
+        "B": "Abacate",
+        "C": "Iogurte",
+        "D": "Granola",
+        "E": "Suco de laranja"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O enunciado manda considerar só proteínas e carboidratos (4 kcal/g cada). Somando os dois: ovos 34 g, abacate 11 g, iogurte 40 g, granola 23 g e suco 22,5 g. O <strong>iogurte</strong> tem mais: 40 · 4 = 160 kcal. Alternativa <strong>C</strong>.</p><p>Os ovos dão 34 · 4 = 136 kcal nessa conta (A). Atenção: se os lipídios entrassem (9 kcal/g), os ovos chegariam a 289 kcal e passariam o iogurte (286 kcal). Mas o enunciado pede só proteínas e carboidratos. Abacate, granola e suco ficam bem abaixo (B, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "nutrição",
+        "energia dos alimentos"
+      ]
+    },
+    {
+      "numero": 7,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 7
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 07 a 10.</p><p>Uma franquia de jogos eletrônicos de futebol, em 2018, utilizava gráficos de radar para mensurar as habilidades dos personagens. Nesse tipo de gráfico, cada eixo é igualmente espaçado e corresponde a uma habilidade diferente do personagem analisado, de forma que valores mais altos são representados por pontos mais distantes do centro do gráfico. Isso permite identificar e comparar os pontos fortes e fracos de cada personagem. Veja os gráficos.</p>[[fig:1]][[fig:2]]<p>A partir das informações apresentadas no gráfico, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q07a.webp",
+          "alt": "Gráfico de radar do Personagem 1, com seis eixos de 0 a 5. Valores: Agilidade 4, Força 5, Equilíbrio 4, Precisão 3, Resistência 2 e Técnica 4."
+        },
+        {
+          "src": "assets/img/fatec-2026-2sem/q07b.webp",
+          "alt": "Gráfico de radar do Personagem 2, com seis eixos de 0 a 5. Valores: Agilidade 4, Força 3, Equilíbrio 5, Precisão 4, Resistência 4 e Técnica 1."
+        }
+      ],
+      "alternativas": {
+        "A": "o Personagem 2 possui menor resistência que o Personagem 1, mas maior equilíbrio.",
+        "B": "o Personagem 2 é superior ao Personagem 1 em todas as características avaliadas.",
+        "C": "ambos os personagens apresentam exatamente o mesmo desempenho em equilíbrio e em força.",
+        "D": "o Personagem 1 possui a força como maior estatística; enquanto o Personagem 2, o equilíbrio.",
+        "E": "o Personagem 1 apresenta maior desempenho em agilidade, resistência e precisão em relação às mesmas características do Personagem 2."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>No Personagem 1, o maior valor é a força (5). No Personagem 2, o maior valor é o equilíbrio (5). Alternativa <strong>D</strong>.</p><p>O Personagem 2 tem mais resistência que o 1 (4 contra 2) (A). Ele perde em força e técnica (B). Os dois não empatam em equilíbrio (4 e 5) nem em força (5 e 3) (C). E o Personagem 1 empata em agilidade (4 e 4) e perde em resistência e precisão (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "gráfico de radar"
+      ]
+    },
+    {
+      "numero": 8,
+      "materia": "Matemática",
+      "assunto": "Probabilidade",
+      "origem": {
+        "numeroOriginal": 8
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 07 a 10.</p><p>Uma franquia de jogos eletrônicos de futebol, em 2018, utilizava gráficos de radar para mensurar as habilidades dos personagens. Nesse tipo de gráfico, cada eixo é igualmente espaçado e corresponde a uma habilidade diferente do personagem analisado, de forma que valores mais altos são representados por pontos mais distantes do centro do gráfico. Isso permite identificar e comparar os pontos fortes e fracos de cada personagem. Veja os gráficos.</p>[[fig:1]][[fig:2]]<p>Sorteando-se ao acaso uma das habilidades de qualquer um dos dois personagens, a probabilidade de ela ser menor ou igual a 3 é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q07a.webp",
+          "alt": "Gráfico de radar do Personagem 1, com seis eixos de 0 a 5. Valores: Agilidade 4, Força 5, Equilíbrio 4, Precisão 3, Resistência 2 e Técnica 4."
+        },
+        {
+          "src": "assets/img/fatec-2026-2sem/q07b.webp",
+          "alt": "Gráfico de radar do Personagem 2, com seis eixos de 0 a 5. Valores: Agilidade 4, Força 3, Equilíbrio 5, Precisão 4, Resistência 4 e Técnica 1."
+        }
+      ],
+      "alternativas": {
+        "A": "\\(\\dfrac{1}{2}\\)",
+        "B": "\\(\\dfrac{1}{3}\\)",
+        "C": "\\(\\dfrac{1}{6}\\)",
+        "D": "\\(\\dfrac{5}{6}\\)",
+        "E": "\\(\\dfrac{5}{12}\\)"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>São 12 habilidades no total (6 de cada personagem). Valores menores ou iguais a 3: no Personagem 1, precisão (3) e resistência (2); no Personagem 2, força (3) e técnica (1). São 4 casos em 12: 4/12 = <strong>1/3</strong>. Alternativa <strong>B</strong>.</p><p>Contar só os valores menores que 3 daria 2/12 = 1/6 (C). E 5/12 viria de contar também um valor 4 por engano (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 9,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 9
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 07 a 10.</p><p>Uma franquia de jogos eletrônicos de futebol, em 2018, utilizava gráficos de radar para mensurar as habilidades dos personagens. Nesse tipo de gráfico, cada eixo é igualmente espaçado e corresponde a uma habilidade diferente do personagem analisado, de forma que valores mais altos são representados por pontos mais distantes do centro do gráfico. Isso permite identificar e comparar os pontos fortes e fracos de cada personagem. Veja os gráficos.</p>[[fig:1]][[fig:2]]<p>A média aritmética das estatísticas das habilidades do Personagem 1 pertence a qual intervalo real?</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q07a.webp",
+          "alt": "Gráfico de radar do Personagem 1, com seis eixos de 0 a 5. Valores: Agilidade 4, Força 5, Equilíbrio 4, Precisão 3, Resistência 2 e Técnica 4."
+        },
+        {
+          "src": "assets/img/fatec-2026-2sem/q07b.webp",
+          "alt": "Gráfico de radar do Personagem 2, com seis eixos de 0 a 5. Valores: Agilidade 4, Força 3, Equilíbrio 5, Precisão 4, Resistência 4 e Técnica 1."
+        }
+      ],
+      "alternativas": {
+        "A": "[–1 ; 1[",
+        "B": "[1 ; 2[",
+        "C": "[2 ; 3[",
+        "D": "[3 ; 4[",
+        "E": "[4 ; 5["
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Personagem 1: 4 + 5 + 4 + 3 + 2 + 4 = 22. A média é 22 ÷ 6 ≈ 3,67, que está no intervalo <strong>[3 ; 4[</strong>. Alternativa <strong>D</strong>.</p><p>O colchete virado para fora (como em 4[) indica que o extremo não entra no intervalo. Os outros intervalos não contêm 3,67.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "média aritmética"
+      ]
+    },
+    {
+      "numero": 10,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 10
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 07 a 10.</p><p>Uma franquia de jogos eletrônicos de futebol, em 2018, utilizava gráficos de radar para mensurar as habilidades dos personagens. Nesse tipo de gráfico, cada eixo é igualmente espaçado e corresponde a uma habilidade diferente do personagem analisado, de forma que valores mais altos são representados por pontos mais distantes do centro do gráfico. Isso permite identificar e comparar os pontos fortes e fracos de cada personagem. Veja os gráficos.</p>[[fig:1]][[fig:2]]<p>Assinale a alternativa que apresenta a área aproximada do polígono cinza, formado pela ligação das estatísticas das habilidades do Personagem 2 no gráfico de radar. Lembre-se de que a área de um triângulo pode ser calculada utilizando a fórmula \\(A = \\dfrac{\\ell_1 \\cdot \\ell_2 \\cdot \\operatorname{sen}\\theta}{2}\\), em que θ é o ângulo formado entre dois lados consecutivos do triângulo (ℓ<sub>1</sub> e ℓ<sub>2</sub>), e de que \\(\\sqrt{3} \\approx 1{,}7\\).</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q07a.webp",
+          "alt": "Gráfico de radar do Personagem 1, com seis eixos de 0 a 5. Valores: Agilidade 4, Força 5, Equilíbrio 4, Precisão 3, Resistência 2 e Técnica 4."
+        },
+        {
+          "src": "assets/img/fatec-2026-2sem/q07b.webp",
+          "alt": "Gráfico de radar do Personagem 2, com seis eixos de 0 a 5. Valores: Agilidade 4, Força 3, Equilíbrio 5, Precisão 4, Resistência 4 e Técnica 1."
+        }
+      ],
+      "alternativas": {
+        "A": "30,2",
+        "B": "29,4",
+        "C": "27,5",
+        "D": "25,7",
+        "E": "23,8"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Os seis eixos dividem a volta em ângulos de 360° ÷ 6 = 60°, e sen 60° = √3/2. O polígono é formado por 6 triângulos com vértice no centro. Na ordem dos eixos, os valores do Personagem 2 são 4, 3, 5, 4, 4 e 1, e os produtos dos vizinhos somam 4·3 + 3·5 + 5·4 + 4·4 + 4·1 + 1·4 = 71.</p><p>Área = 71 · (√3/2) ÷ 2 = 71 · √3/4 ≈ 71 · 1,7 ÷ 4 ≈ <strong>30,2</strong>. Alternativa <strong>A</strong>.</p><p>Errar algum valor do gráfico, como ler a técnica como 2, ou esquecer um dos seis triângulos leva às outras alternativas.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "área",
+        "trigonometria"
+      ]
+    },
+    {
+      "numero": 11,
+      "materia": "Matemática",
+      "assunto": "Geometria espacial",
+      "origem": {
+        "numeroOriginal": 11
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 11 a 13.</p><p>A Trionda, a bola da Copa de 2026, é baseada no tetraedro regular: um sólido formado por quatro faces triangulares iguais. Desta forma, a bola é composta por apenas 4 painéis (o menor número já usado).</p><p>O truque para obter o formato esférico foi transformar os lados retos dos triângulos em curvas, obtendo o formato base para o painel que compõe a bola, conforme a figura. O modelo Pro, que será usado nos campos, tem cerca de 69 cm de circunferência e custo estimado em R$ 1.300,00, contudo existe um modelo Mini, mais barato.</p><p class=\"fonte\">&lt;https://tinyurl.com/yt3feud6&gt; Acesso em: 21.03.2026. Traduzido e adaptado. Original colorido.</p>[[fig:1]]<p>De acordo com o texto, apesar do truque utilizado para obter o formato esférico da Trionda, pode-se afirmar que, após esse processo, a característica do tetraedro que permanece preservada é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q11.webp",
+          "alt": "Em cima, um tetraedro (pirâmide de quatro faces triangulares) e, ao lado, a bola Trionda, esférica, com quatro painéis curvos. Embaixo, um triângulo se transforma, em etapas, em um painel com os lados curvados, com o recado: “Os lados do triângulo se transformam em curvas.”"
+        }
+      ],
+      "alternativas": {
+        "A": "a medida dos ângulos entre as bordas das regiões da superfície.",
+        "B": "o volume do sólido geométrico obtido.",
+        "C": "o comprimento das curvas que delimitam cada região da superfície.",
+        "D": "o caráter plano das regiões da superfície.",
+        "E": "a quantidade de regiões que compõem a superfície do sólido geométrico."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Os lados retos viraram curvas, mas a bola continua com <strong>4 painéis</strong>, como o tetraedro tem 4 faces. A quantidade de regiões da superfície se mantém. Alternativa <strong>E</strong>.</p><p>Os ângulos, o volume e o comprimento das bordas mudam quando os lados retos viram curvas (A, B e C). E os painéis deixam de ser planos para formar a esfera (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "poliedros"
+      ]
+    },
+    {
+      "numero": 12,
+      "materia": "Matemática",
+      "assunto": "Geometria espacial",
+      "origem": {
+        "numeroOriginal": 12
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 11 a 13.</p><p>A Trionda, a bola da Copa de 2026, é baseada no tetraedro regular: um sólido formado por quatro faces triangulares iguais. Desta forma, a bola é composta por apenas 4 painéis (o menor número já usado).</p><p>O truque para obter o formato esférico foi transformar os lados retos dos triângulos em curvas, obtendo o formato base para o painel que compõe a bola, conforme a figura. O modelo Pro, que será usado nos campos, tem cerca de 69 cm de circunferência e custo estimado em R$ 1.300,00, contudo existe um modelo Mini, mais barato.</p><p class=\"fonte\">&lt;https://tinyurl.com/yt3feud6&gt; Acesso em: 21.03.2026. Traduzido e adaptado. Original colorido.</p>[[fig:1]]<p>Lembrando que o volume de uma esfera é dado por \\(V = \\dfrac{4}{3} \\cdot \\pi \\cdot r^3\\), assinale a alternativa que apresenta o volume aproximado do modelo Pro da bola Trionda (adote π = 3).</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q11.webp",
+          "alt": "Em cima, um tetraedro (pirâmide de quatro faces triangulares) e, ao lado, a bola Trionda, esférica, com quatro painéis curvos. Embaixo, um triângulo se transforma, em etapas, em um painel com os lados curvados, com o recado: “Os lados do triângulo se transformam em curvas.”"
+        }
+      ],
+      "alternativas": {
+        "A": "3 571 cm<sup>3</sup>",
+        "B": "6 084 cm<sup>3</sup>",
+        "C": "13 140 cm<sup>3</sup>",
+        "D": "14 283 cm<sup>3</sup>",
+        "E": "16 425 cm<sup>3</sup>"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A circunferência é 2πr = 69 cm. Com π = 3: 6r = 69, então r = 11,5 cm. Volume: V = (4/3) · 3 · 11,5³ = 4 · 1 520,875 ≈ <strong>6 084 cm³</strong>. Alternativa <strong>B</strong>.</p><p>Usar a circunferência como se fosse o diâmetro ou o raio leva a valores muito maiores ou menores.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "esfera",
+        "volume"
+      ]
+    },
+    {
+      "numero": 13,
+      "materia": "Matemática",
+      "assunto": "Porcentagem",
+      "origem": {
+        "numeroOriginal": 13
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 11 a 13.</p><p>A Trionda, a bola da Copa de 2026, é baseada no tetraedro regular: um sólido formado por quatro faces triangulares iguais. Desta forma, a bola é composta por apenas 4 painéis (o menor número já usado).</p><p>O truque para obter o formato esférico foi transformar os lados retos dos triângulos em curvas, obtendo o formato base para o painel que compõe a bola, conforme a figura. O modelo Pro, que será usado nos campos, tem cerca de 69 cm de circunferência e custo estimado em R$ 1.300,00, contudo existe um modelo Mini, mais barato.</p><p class=\"fonte\">&lt;https://tinyurl.com/yt3feud6&gt; Acesso em: 21.03.2026. Traduzido e adaptado. Original colorido.</p>[[fig:1]]<p>Suponha que o modelo Mini da bola Trionda custe R$ 100,00. Assinale a alternativa que apresenta, aproximadamente, a porcentagem que esse valor representa em relação ao preço do modelo Pro.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q11.webp",
+          "alt": "Em cima, um tetraedro (pirâmide de quatro faces triangulares) e, ao lado, a bola Trionda, esférica, com quatro painéis curvos. Embaixo, um triângulo se transforma, em etapas, em um painel com os lados curvados, com o recado: “Os lados do triângulo se transformam em curvas.”"
+        }
+      ],
+      "alternativas": {
+        "A": "5%",
+        "B": "8%",
+        "C": "10%",
+        "D": "13%",
+        "E": "20%"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>100 ÷ 1 300 ≈ 0,077, ou seja, cerca de 7,7 % ≈ <strong>8 %</strong>. Alternativa <strong>B</strong>.</p><p>13 % seria a razão invertida, 1 300 ÷ 100 = 13, lida como porcentagem (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 14,
+      "materia": "Matemática",
+      "assunto": "Funções",
+      "origem": {
+        "numeroOriginal": 14
+      },
+      "enunciado": "<p>O Método de Tracking, ou rastreamento da bola, é usado, por exemplo, para desenvolver câmeras com a função de seguir a bola durante os jogos.</p><p class=\"fonte\">&lt;https://tinyurl.com/4e9584y5&gt; Acesso em: 21.03.2026. Adaptado.</p><p>Suponha que uma câmera, usando essa tecnologia, tenha mapeado a trajetória de uma bola e registrado na tabela alguns dados, sendo que <strong><em>t</em></strong> é o tempo em segundos e <strong><em>A</em></strong> é a altura em metros em relação ao solo.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\"><em>t</em></th><th scope=\"col\">0</th><th scope=\"col\">1</th><th scope=\"col\">5</th></tr></thead><tbody><tr><td><em>A</em></td><td>0</td><td>8</td><td>20</td></tr></tbody></table></div><p>Logo, sabendo que a bola descreveu uma trajetória que pode ser modelada por uma função de 2º grau, assinale a alternativa na qual essa função está indicada corretamente.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(A(t) = -t^2 + 9t\\)",
+        "B": "\\(A(t) = -t^2 + 5t\\)",
+        "C": "\\(A(t) = -t^2 + 13t\\)",
+        "D": "\\(A(t) = 3t^2 + 5t\\)",
+        "E": "\\(A(t) = 3t^2 + 9t\\)"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Como A(0) = 0, a função é A(t) = at² + bt. Com t = 1: a + b = 8. Com t = 5: 25a + 5b = 20, ou seja, 5a + b = 4. Subtraindo: 4a = −4, então a = −1 e b = 9. A função é <strong>A(t) = −t² + 9t</strong>. Alternativa <strong>A</strong>.</p><p>Confira: A(1) = −1 + 9 = 8 e A(5) = −25 + 45 = 20. As outras não passam pelos dois pontos. Além disso, D e E têm a &gt; 0, o que daria uma parábola com a concavidade para cima, impossível para uma bola que sobe e desce.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "função do 2º grau"
+      ]
+    },
+    {
+      "numero": 15,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 15
+      },
+      "enunciado": "<p>Leia o texto e assinale a alternativa que completa corretamente as lacunas.</p><p class=\"apoio\">Nas Américas, a transmissão endêmica de sarampo foi interrompida em 2002. Considerando o risco de importação desse vírus, diante da realização da Copa do Mundo de 2014 no Brasil, a Organização Pan-Americana em Saúde publicou, antes do evento, suas recomendações à população.</p><p class=\"apoio\">O sarampo é uma doença causada por ____<strong>(I)</strong>____, altamente contagiosa, que pode provocar surtos e exigir rápida ação de vigilância epidemiológica e vacinação massiva. No caso de vacinação massiva, o limiar de imunidade de rebanho é calculado usando a seguinte fórmula: \\(p = \\left(1 - \\dfrac{1}{R_0}\\right) \\cdot 100\\%\\), em que <strong><em>p</em></strong> é a proporção da população que deve ser vacinada para interromper a transmissão da doença e <strong>R<sub>0</sub></strong> é o número médio de novos casos gerados a partir de um caso inicial de sarampo em uma população totalmente suscetível (estimado entre 12 e 18).</p><p class=\"apoio\">Logo, no caso de uma epidemia de sarampo, a proporção mínima da população que deve ser vacinada para interromper a transmissão da doença é ____<strong>(II)</strong>____.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "I: uma bactéria; II: 94,4%.",
+        "B": "I: um vírus; II: 94,4%.",
+        "C": "I: um protozoário; II: 93,3%.",
+        "D": "I: um vírus; II: 91,7%.",
+        "E": "I: uma bactéria; II: 91,7%."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O próprio texto fala no “risco de importação desse <strong>vírus</strong>” (I). Para garantir a interrupção mesmo no pior caso, usa-se o maior R<sub>0</sub>, 18: p = (1 − 1/18) · 100 % ≈ <strong>94,4 %</strong> (II). Alternativa <strong>B</strong>.</p><p>O sarampo não é causado por bactéria nem protozoário (A, C e E). Com R<sub>0</sub> = 12, o menor valor, daria 91,7 % (D e E), que não basta se o R<sub>0</sub> real for maior. E 93,3 % corresponde a R<sub>0</sub> = 15 (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "sarampo",
+        "vacinação",
+        "porcentagem"
+      ]
+    },
+    {
+      "numero": 16,
+      "materia": "Geografia",
+      "assunto": "População",
+      "origem": {
+        "numeroOriginal": 16
+      },
+      "enunciado": "<p>A Sociedade Esportiva Palestra Itália, hoje mais conhecida como Palmeiras, foi fundada em 1914. A maioria dos palestrinos era de origem italiana. No entanto, pessoas que escapavam desse padrão também se apresentavam na torcida. É o caso da Maria das Dores, a emblemática “Vovó do Pito”, mulher negra, ex-escravizada que se declarava profundamente Palestrina. Falecida aos 111 anos, em 1934, era considerada a “maior palestrina do país” e a torcedora mais inflamada do time.</p><p>Durante a década de 1920, a progressiva introdução de atletas brasileiros na equipe palestrina de futebol também seria complementada pela presença de atletas negros em outras modalidades praticadas no interior da agremiação, como o atletismo.</p><p class=\"fonte\">&lt;https://tinyurl.com/3djz269p&gt; Acesso em: 28.03.2026. Adaptado.</p><p>Esse relato evidencia que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o clube foi fundado inteiramente por europeus, o que inviabilizava a presença de negros em seu quadro de atletas.",
+        "B": "o Palestra Itália teve como primeira presidente uma mulher negra, mesmo sendo um clube fundado por maioria italiana.",
+        "C": "o clube, por possuir origens italianas, rechaçava a presença de pessoas de outras nacionalidades em suas fileiras de torcedores.",
+        "D": "a Itália, por ser um país africano, atraia a simpatia de muitos ex-escravizados que se viam representados pelo Palestra Itália.",
+        "E": "o clube, ao invés de adotar uma postura de segregação, abraçava e aprofundava sua relação com a sociedade na qual se inseria."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Mesmo fundado por italianos, o clube tinha torcedores de fora desse padrão, como a “Vovó do Pito”, mulher negra e ex-escravizada, e passou a incluir atletas brasileiros e negros. Ou seja, o clube <strong>se integrava à sociedade em que estava</strong>, em vez de segregar. Alternativa <strong>E</strong>.</p><p>O texto mostra a presença de negros no clube (A e C). A “Vovó do Pito” era torcedora, não presidente (B). E a Itália é um país europeu (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "imigração italiana",
+        "racismo"
+      ]
+    },
+    {
+      "numero": 17,
+      "materia": "Geografia",
+      "assunto": "Geopolítica",
+      "origem": {
+        "numeroOriginal": 17
+      },
+      "enunciado": "<p>No dia 14 de outubro de 2014, as seleções da Sérvia e da Albânia disputaram em Belgrado uma partida das eliminatórias da Eurocopa de 2016. Aos 41 minutos de jogo, um drone que carregava a bandeira da Albânia com a palavra autonomia causou uma reação negativa entre os jogadores da Sérvia, que foram retirar a bandeira, causando uma briga generalizada.</p><p class=\"fonte\">&lt;https://tinyurl.com/yb7xk75a&gt; Acesso em: 26.03.2026. Adaptado.</p><p>As tensões entre Sérvia e Albânia têm raízes profundas, ligadas a questões históricas e étnicas na região dos Bálcãs. O conflito mais proeminente envolve a disputa territorial sobre</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a Palestina, de maioria albanesa, que luta pela sua independência da Sérvia.",
+        "B": "o Kosovo, de maioria albanesa, que declarou independência da Sérvia.",
+        "C": "a Cachemira, de maioria sérvia, que luta por sua independência da Albânia.",
+        "D": "a Catalunha, de maioria sérvia, que luta pela anexação de seu território à Albânia.",
+        "E": "o Nagorno-Karabakh, de maioria albanesa, que declarou sua independência da Sérvia."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O <strong>Kosovo</strong>, região de maioria albanesa, declarou independência da Sérvia em 2008, e a Sérvia não a reconhece. Essa é a principal disputa entre sérvios e albaneses. Alternativa <strong>B</strong>.</p><p>Palestina (Oriente Médio), Caxemira (Índia e Paquistão), Catalunha (Espanha) e Nagorno-Karabakh (Armênia e Azerbaijão) são conflitos de outras regiões (A, C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Bálcãs",
+        "Kosovo"
+      ]
+    },
+    {
+      "numero": 18,
+      "materia": "Geografia",
+      "assunto": "Transportes e logística",
+      "origem": {
+        "numeroOriginal": 18
+      },
+      "enunciado": "<p>No estado de São Paulo, muitos times de futebol nasceram da união de funcionários das companhias de estradas de ferro, como o Noroeste de Bauru, fundado em 1910; o Nacional da capital, fundado em 1919; o Bragantino, em 1928, entre outros. Essa ligação entre o estado de São Paulo e o desenvolvimento ferroviário do final do século XIX e início do século XX ocorreu devido à</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "interiorização da indústria ferroviária, que construiu fábricas nas cidades médias do interior paulista.",
+        "B": "utilização do território paulista para o escoamento da soja plantada no Centro-Oeste pelos portos do estado.",
+        "C": "introdução do cultivo da cana de açúcar no interior de São Paulo, incentivado por benefícios fiscais do programa Proálcool.",
+        "D": "expansão, no estado, da cultura do café, que fez surgir diversas ferrovias ligando as áreas produtoras ao porto de Santos.",
+        "E": "existência de campos de futebol, construídos pelo governo estadual, como opção de lazer aos moradores das cidades interioranas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>No fim do século XIX e início do XX, a <strong>expansão do café</strong> pelo interior paulista levou à construção de ferrovias que levavam a produção ao porto de Santos. Os funcionários dessas companhias fundaram vários clubes. Alternativa <strong>D</strong>.</p><p>As ferrovias vieram por causa do café, não de fábricas ferroviárias (A). A soja do Centro-Oeste (B) e o Proálcool (C) são de décadas mais recentes. E os campos de futebol não foram construídos pelo governo como lazer (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ferrovias",
+        "café"
+      ]
+    },
+    {
+      "numero": 19,
+      "materia": "Geografia",
+      "assunto": "Urbanização",
+      "origem": {
+        "numeroOriginal": 19
+      },
+      "enunciado": "<p>No final do século XIX e início do XX, enquanto a elite jogava em clubes fechados, as classes populares ocupavam os terrenos abertos e planos nas margens dos rios para jogar futebol. Por serem áreas de várzea, o esporte praticado ali passou a ser chamado de “futebol de várzea”. Esses espaços eram públicos ou de difícil uso para construção civil imediata, servindo como campos improvisados onde trabalhadores e comunidades periféricas podiam praticar o esporte sem as restrições dos clubes de elite. Nos dias atuais, muitas dessas áreas foram impermeabilizadas.</p><p>Uma das consequências desse processo, para o meio urbano, é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "aumento da infiltração das águas pluviais no solo.",
+        "B": "aumento do volume de água dos lençóis freáticos.",
+        "C": "aumento na frequência das enchentes e das inundações.",
+        "D": "diminuição da quantidade de chuvas nas margens dos rios.",
+        "E": "diminuição da velocidade de escoamento das águas pluviais."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>As várzeas são áreas que recebem a água das cheias dos rios. Impermeabilizadas, elas deixam de absorver a chuva, que escoa mais rápido e em maior volume para os rios. Isso <strong>aumenta as enchentes e inundações</strong>. Alternativa <strong>C</strong>.</p><p>A impermeabilização diminui a infiltração e a recarga dos lençóis freáticos (A e B), não muda a quantidade de chuva (D) e aumenta a velocidade de escoamento (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "impermeabilização do solo",
+        "enchentes"
+      ]
+    },
+    {
+      "numero": 20,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 20
+      },
+      "enunciado": "<p>O Estádio Estadual Milton de Souza Corrêa, em Macapá (AP), conhecido como “Zerão”, possui a fama de coincidir a linha de meio de campo do gramado com a linha imaginária do Equador. Porém, com o advento de tecnologias de satélite mais precisas, verificou-se que a linha imaginária do Equador está, na verdade, deslocada alguns metros ao sul do centro do gramado. Apesar dessa diferença, o governo do Amapá e os órgãos de turismo mantêm o valor simbólico do estádio como o único no mundo onde cada time defende um hemisfério. Os hemisférios a que o texto se refere são corretamente denominados</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Setentrional e Meridional.",
+        "B": "Greenwich e Equador.",
+        "C": "Austral e Ocidental.",
+        "D": "Boreal e Oriental.",
+        "E": "Oeste e Leste."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A Linha do Equador divide a Terra nos hemisférios Norte, ou <strong>Setentrional</strong> (Boreal), e Sul, ou <strong>Meridional</strong> (Austral). Alternativa <strong>A</strong>.</p><p>Greenwich é o meridiano que divide o Oriente do Ocidente, e o Equador é a linha, não um hemisfério (B). Ocidental, Oriental, Oeste e Leste se referem à divisão pelo meridiano de Greenwich (C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "hemisférios",
+        "Linha do Equador"
+      ]
+    },
+    {
+      "numero": 21,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 21
+      },
+      "enunciado": "<p>No dia 19 de fevereiro de 2026, no estádio Arena da Floresta, em Rio Branco, no estado do Acre, foi realizada uma partida de futebol entre a equipe local do Vasco e o Velo Clube, da cidade de Rio Claro, do estado de São Paulo. Essa partida ocorreu às 19 horas, no horário local.</p><p>Sabendo que o estado do Acre está no fuso horário UTC–5 e que o estado de São Paulo está no fuso horário UTC–3, os torcedores do Velo Clube, no estado de São Paulo, acompanharam o início da partida</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "às 11 horas.",
+        "B": "às 17 horas.",
+        "C": "às 19 horas.",
+        "D": "às 21 horas.",
+        "E": "à 1 hora."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>São Paulo (UTC−3) está 2 horas adiantado em relação ao Acre (UTC−5). Se o jogo começou às 19 h no Acre, em São Paulo eram <strong>21 h</strong>. Alternativa <strong>D</strong>.</p><p>Diminuir as 2 horas, em vez de somar, daria 17 h (B). E 19 h ignora a diferença de fuso (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "fusos horários"
+      ]
+    },
+    {
+      "numero": 22,
+      "materia": "Química",
+      "assunto": "Funções inorgânicas",
+      "origem": {
+        "numeroOriginal": 22
+      },
+      "enunciado": "<p>Durante uma partida de futebol, ocorre liberação de diversos compostos químicos no corpo dos atletas, sendo o óxido nítrico (NO) um dos mais importantes. Esse composto não reage com substâncias presentes no organismo como água, ácidos e bases. No entanto, ele atua como um vasodilatador, contribuindo para aumentar o fluxo sanguíneo no corpo. Isso facilita a chegada de oxigênio e de nutrientes para os músculos, o que é essencial para o atleta durante o jogo.</p><p>O composto químico liberado no corpo dos atletas, mencionado no texto, é classificado corretamente como um</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "hidrácido.",
+        "B": "hidróxido.",
+        "C": "óxido ácido.",
+        "D": "óxido neutro.",
+        "E": "sal oxigenado."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que o NO “não reage com substâncias presentes no organismo como água, ácidos e bases”. Um óxido que não reage com água, ácidos nem bases é um <strong>óxido neutro</strong> (como também o CO e o N<sub>2</sub>O). Alternativa <strong>D</strong>.</p><p>Hidrácidos são ácidos sem oxigênio, como o HCℓ (A). Hidróxidos são bases com OH<sup>–</sup> (B). Óxidos ácidos reagem com água formando ácidos (C). E sais oxigenados têm um cátion e um ânion com oxigênio (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "óxidos"
+      ]
+    },
+    {
+      "numero": 23,
+      "materia": "Química",
+      "assunto": "Química orgânica",
+      "origem": {
+        "numeroOriginal": 23
+      },
+      "enunciado": "<p>No futebol, quando o juiz marca um pênalti ou quando um time marca um gol, moléculas como a adrenalina e a dopamina são produzidas pelo organismo de torcedores e atletas. Essas substâncias apresentam em comum um conjunto específico de átomos, denominado grupo funcional. O grupo funcional é responsável por algumas propriedades químicas das substâncias. A figura ilustra as fórmulas estruturais da adrenalina e da dopamina.</p>[[fig:1]]<p>Considerando as fórmulas estruturais, podemos afirmar corretamente que um grupo funcional comum às duas moléculas é o grupo</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q23.webp",
+          "alt": "Fórmulas estruturais. Adrenalina: anel benzênico com dois grupos OH ligados ao anel e uma cadeia lateral com um OH em carbono da cadeia e um grupo NH–CH₃. Dopamina: anel benzênico com dois grupos OH ligados ao anel e uma cadeia lateral CH₂–CH₂–NH₂."
+        }
+      ],
+      "alternativas": {
+        "A": "hidroxila (–OH), ligado ao carbono saturado, característico da função álcool.",
+        "B": "hidroxila (–OH), ligado ao anel aromático, característico da função fenol.",
+        "C": "amídico (–CONH–), ligado ao carbono saturado, característico da função amida.",
+        "D": "carboxila (–COOH), ligado ao carbono insaturado, característico da função ácido carboxílico.",
+        "E": "carbonila (–CO–), ligado ao carbono insaturado, característico da função cetona."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>As duas moléculas têm dois grupos <strong>–OH ligados diretamente ao anel aromático</strong>: é a função <strong>fenol</strong>. Alternativa <strong>B</strong>.</p><p>Só a adrenalina tem OH ligado a carbono saturado da cadeia, o álcool (A). Nenhuma das duas tem amida, ácido carboxílico ou cetona (C, D e E); o nitrogênio delas é de amina.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "funções orgânicas",
+        "fenol"
+      ]
+    },
+    {
+      "numero": 24,
+      "materia": "Química",
+      "assunto": "Funções inorgânicas",
+      "origem": {
+        "numeroOriginal": 24
+      },
+      "enunciado": "<p>No final dos torneios de futebol, no Brasil, os fogos de artifício são os responsáveis por um espetáculo de cores e de luzes vistas no céu. Os materiais que compõem os rojões são sais de diversos elementos químicos que, ao receberem energia, emitem luz de diferentes cores. Cada cor observada no espetáculo é produzida por compostos distintos, sendo que os rojões são disparados em diferentes regiões do céu, não ocorrendo mistura entre as cores. O quadro relaciona compostos químicos com as cores fornecidas nos fogos de artifício.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Sais</th><th scope=\"col\">Cor</th></tr></thead><tbody><tr><td>NaCℓ</td><td>Amarela</td></tr><tr><td>CuCℓ<sub>2</sub></td><td>Verde</td></tr><tr><td>KNO<sub>3</sub></td><td>Lilás</td></tr><tr><td>SrCℓ<sub>2</sub></td><td>Vermelho</td></tr><tr><td>Ca(NO<sub>3</sub>)<sub>2</sub></td><td>Laranja</td></tr></tbody></table></div><p>Considere que o time campeão da última copa do mundo tenha, em sua bandeira, as cores lilás e verde. Para homenagear o time campeão, suponha que os organizadores da competição promovam um espetáculo com fogos de artifício que, ao serem disparados, produzam as cores correspondentes à bandeira do time campeão.</p><p>Desse modo, os sais que estarão na composição dos fogos de artifício serão, respectivamente,</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "cloreto de sódio e cloreto de cobalto(II).",
+        "B": "nitrato de potássio e cloreto de cobre(II).",
+        "C": "cloreto de estrôncio e nitrato de cálcio.",
+        "D": "cloreto de sódio e cloreto de estrôncio.",
+        "E": "nitreto de potássio e cloreto de cobre(II)."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Pelo quadro, o lilás vem do KNO<sub>3</sub>, o <strong>nitrato de potássio</strong>, e o verde vem do CuCℓ<sub>2</sub>, o <strong>cloreto de cobre(II)</strong>. Alternativa <strong>B</strong>.</p><p>Cloreto de sódio dá amarelo, e cloreto de cobalto não está no quadro (A). Estrôncio dá vermelho e cálcio dá laranja (C e D). E “nitreto” é outro tipo de composto (N<sup>3–</sup>); o KNO<sub>3</sub> é nitrato (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sais",
+        "nomenclatura"
+      ]
+    },
+    {
+      "numero": 25,
+      "materia": "Química",
+      "assunto": "Soluções",
+      "origem": {
+        "numeroOriginal": 25
+      },
+      "enunciado": "<p>As bebidas isotônicas, usadas pelos atletas para reidratação, contêm, aproximadamente, a mesma concentração de íons sódio, potássio e cloreto que o sangue humano. Suponha que um jogador de futebol, durante o intervalo de uma partida, tenha ingerido 0,042 g de íons sódio, contidos em uma dose de bebida isotônica.</p><p>Assinale a alternativa que contém o valor correto do volume, em mL, da dose de bebida isotônica ingerida pelo atleta.</p><p>Dados: Concentração de íons sódio no sangue = 140 mg/L</p><p>\\[\\text{Concentração} = \\dfrac{\\text{massa do soluto}}{\\text{volume da solução}}\\]</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "100",
+        "B": "200",
+        "C": "300",
+        "D": "400",
+        "E": "500"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A massa ingerida é 0,042 g = 42 mg. Com concentração de 140 mg/L, o volume é V = 42 ÷ 140 = 0,3 L = <strong>300 mL</strong>. Alternativa <strong>C</strong>.</p><p>Esquecer de converter gramas em miligramas, ou litros em mililitros, leva a valores mil vezes maiores ou menores, fora das alternativas.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "concentração comum"
+      ]
+    },
+    {
+      "numero": 26,
+      "materia": "Química",
+      "assunto": "Polaridade e solubilidade",
+      "origem": {
+        "numeroOriginal": 26
+      },
+      "enunciado": "<p>O futebol começou a se popularizar no final do século XIX, ocasionando o surgimento dos primeiros uniformes confeccionados de tecidos de algodão. No século XX, os tecidos de algodão passaram a ser substituídos por materiais sintéticos, mais leves, resistentes e de secagem rápida (Dry fit), proporcionando inclusive maior conforto ao atleta. O quadro contém algumas características de dois materiais usados na confecção de uniformes. No quadro, a polaridade e a absorção de água de cada tecido, características que podem ser alta ou baixa, estão representadas por (I), (II), (III) e (IV).</p>[[fig:1]]<p>Assinale a alternativa que corresponde corretamente às características (I), (II), (III) e (IV).</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q26.webp",
+          "alt": "Quadro com duas colunas, Algodão e Dry fit. Fórmula estrutural: o algodão (celulose) é uma cadeia de anéis de glicose com muitos grupos OH; o dry fit (poliéster) é uma cadeia com anel benzênico e grupos éster (C=O ligado a O), sem grupos OH. Linha Polaridade: (I) para o algodão e (II) para o dry fit. Linha Absorção de água: (III) para o algodão e (IV) para o dry fit. Linha Suor: o algodão retém e o dry fit espalha."
+        }
+      ],
+      "alternativas": {
+        "A": "(I) alta; (II) alta; (III) baixa; (IV) baixa.",
+        "B": "(I) alta; (II) baixa; (III) alta; (IV) baixa.",
+        "C": "(I) baixa; (II) alta; (III) baixa; (IV) alta.",
+        "D": "(I) baixa; (II) baixa; (III) alta; (IV) alta.",
+        "E": "(I) alta; (II) alta; (III) alta; (IV) baixa."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A celulose do algodão tem muitos grupos OH, que formam ligações de hidrogênio com a água: <strong>polaridade alta (I)</strong> e <strong>absorção alta (III)</strong>, por isso retém o suor. O poliéster do dry fit quase não tem grupos polares: <strong>polaridade baixa (II)</strong> e <strong>absorção baixa (IV)</strong>, por isso espalha o suor, que seca rápido. Alternativa <strong>B</strong>.</p><p>As outras combinações trocam alguma dessas características. Em especial, um tecido que retém o suor não pode ter absorção de água baixa (A e C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "polaridade",
+        "polímeros"
+      ]
+    },
+    {
+      "numero": 27,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 27
+      },
+      "enunciado": "<p>A primeira parada técnica para hidratação na história das Copas do Mundo masculinas da FIFA ocorreu durante a Copa do Mundo de 2014, no jogo entre Holanda e México.</p><p>No momento da partida, em Fortaleza, a temperatura estava em torno de 32 °C e a umidade relativa do ar estava próxima de 70%. Essas condições foram determinantes para a ocorrência dessas pausas durante os dois tempos do jogo.</p><p>Do ponto de vista fisiológico, sabe-se que o corpo humano regula sua temperatura principalmente por meio da sudorese.</p><p>No entanto, em ambientes úmidos, esse mecanismo pode se tornar menos eficiente, pois</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a alta umidade relativa do ar promove a desnaturação de diversas enzimas responsáveis pela sudorese, dificultando a redução da temperatura corporal.",
+        "B": "o calor específico da água diminui em ambientes úmidos, reduzindo a capacidade de absorção de energia do suor.",
+        "C": "a elevada pressão parcial de vapor de água no ar dificulta a evaporação do suor, reduzindo a perda de calor da pele.",
+        "D": "a pressão atmosférica aumenta com a diminuição da umidade, impedindo a perda de calor do corpo para o ambiente.",
+        "E": "o suor passa diretamente do estado sólido para o gasoso, sem absorver energia, reduzindo o resfriamento corporal."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O suor resfria o corpo quando evapora, porque a evaporação retira calor da pele. Com o ar muito úmido (alta pressão parcial de vapor de água), <strong>a evaporação fica difícil</strong> e o corpo perde menos calor. Alternativa <strong>C</strong>.</p><p>A umidade não desnatura enzimas (A) nem muda o calor específico da água (B). A pressão atmosférica não sobe por causa da umidade (D). E o suor é líquido: ele evapora, não sublima (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "termorregulação",
+        "evaporação"
+      ]
+    },
+    {
+      "numero": 28,
+      "materia": "Inglês",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 28
+      },
+      "enunciado": "<p class=\"apoio\"><strong>Zayu™ the Jaguar</strong></p><p class=\"apoio\">Zayu the Jaguar, from the jungles of southern Mexico, embodies the rich heritage and vibrant spirit of the country. With a name inspired by unity, strength and joy, Zayu transforms on the pitch as a striker, showcasing exceptional ingenuity and agility that intimidates defenders. Off the pitch, Zayu embraces Mexican culture through dance, food and tradition, uniting people across borders with passion and pride. More than an athlete, Zayu is a symbol of cultural celebration and connection, carrying the heart of Mexico with pride.</p><p class=\"fonte\">&lt;https://tinyurl.com/5cpfvyr4&gt; Acesso em: 08.04.2026.</p><p>Zayu é um dos mascotes da Copa do Mundo de Futebol 2026. Representando o México, o jaguar Zayu retrata</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "ingenuidade, pureza e paixão.",
+        "B": "força, agilidade e criatividade.",
+        "C": "vibração, inspiração e inocência.",
+        "D": "união, regionalismo e exceção.",
+        "E": "espírito, religião e fraternidade."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que o nome de Zayu foi inspirado em <em>unity, strength and joy</em> (união, força e alegria) e que ele mostra <em>exceptional ingenuity and agility</em> (engenhosidade excepcional e agilidade). Daí: <strong>força, agilidade e criatividade</strong>. Alternativa <strong>B</strong>.</p><p>Cuidado com o falso cognato: <em>ingenuity</em> é engenhosidade, criatividade, e não ingenuidade (A). O texto não fala de inocência, regionalismo, exceção ou religião (C, D e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 29,
+      "materia": "Inglês",
+      "assunto": "Vocabulário",
+      "origem": {
+        "numeroOriginal": 29
+      },
+      "enunciado": "<p class=\"chamada\">Leia a charge para responder às questões 29 e 30.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ywr9da5v&gt; Acesso em: 10.04.2026. Original colorido.</p><p>A palavra “like”, na sentença “You play like a girl”, indica</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q29.webp",
+          "alt": "Charge em um estádio da Copa do Mundo (“World Cup”). Na arquibancada, uma torcida animada, com bandeiras dos Estados Unidos e a palavra “USA”, levanta um grande cartaz: “YOU PLAY LIKE A GIRL!”. Uma pessoa da torcida comenta: “Remember when that was an insult?”."
+        }
+      ],
+      "alternativas": {
+        "A": "afeto.",
+        "B": "oposição.",
+        "C": "comparação.",
+        "D": "exemplificação.",
+        "E": "distanciamento."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Em “You play like a girl”, <em>like</em> significa “como”: compara o jeito de jogar ao de uma garota. Indica <strong>comparação</strong>. Alternativa <strong>C</strong>.</p><p>Aqui <em>like</em> não é o verbo “gostar” (A) e não indica oposição, exemplo ou distanciamento (B, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "preposições"
+      ]
+    },
+    {
+      "numero": 30,
+      "materia": "Inglês",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 30
+      },
+      "enunciado": "<p class=\"chamada\">Leia a charge para responder às questões 29 e 30.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ywr9da5v&gt; Acesso em: 10.04.2026. Original colorido.</p><p>A partir da charge, conclui-se corretamente que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q29.webp",
+          "alt": "Charge em um estádio da Copa do Mundo (“World Cup”). Na arquibancada, uma torcida animada, com bandeiras dos Estados Unidos e a palavra “USA”, levanta um grande cartaz: “YOU PLAY LIKE A GIRL!”. Uma pessoa da torcida comenta: “Remember when that was an insult?”."
+        }
+      ],
+      "alternativas": {
+        "A": "as mulheres não são tão boas jogadoras quanto os homens.",
+        "B": "a fala do personagem na torcida insulta as jogadoras de futebol.",
+        "C": "a torcida hostiliza os jogadores de futebol estadunidenses, comparando-os a crianças.",
+        "D": "a torcida mostra-se orgulhosa pela maneira como jogadoras de futebol estadunidenses jogam.",
+        "E": "o cartaz na torcida ridiculariza as jogadoras de futebol estadunidenses."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Um torcedor comenta: “Lembra quando isso era um insulto?”. A frase “Você joga como uma garota”, antes ofensiva, virou elogio: a torcida <strong>tem orgulho</strong> de como as jogadoras estadunidenses jogam. Alternativa <strong>D</strong>.</p><p>A charge diz o contrário de que as mulheres jogam pior (A) e de que haja insulto ou ridicularização (B e E). E a torcida está comemorando, não hostilizando ninguém (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "charge"
+      ]
+    },
+    {
+      "numero": 31,
+      "materia": "Inglês",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 31
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 31 e 32.</p><p class=\"apoio\"><strong>The Sociology of Football</strong></p><p class=\"apoio\">The Sociology of Football is the study of the social dynamics, cultural significance, and institutional structures surrounding football (soccer) as a global phenomenon. <strong><u>It</u></strong> examines how football influences and reflects social identities, community relations, and power dynamics, as well as <strong><u>its</u></strong> role in shaping societal values and norms.</p><p class=\"fonte\">&lt;https://tinyurl.com/2sbb5a7a&gt; Acesso em: 10.04.2026.</p><p>De acordo com o texto, a Sociologia do Futebol estuda</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o poder envolvido no esporte e as desigualdades geradas por ele.",
+        "B": "os desequilíbrios sociais e os fenômenos globalizados.",
+        "C": "a influência do jogo na violência e nos valores sociais.",
+        "D": "as relações sociais e culturais em torno do futebol.",
+        "E": "as relações políticas na classificação esportiva."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto define a Sociologia do Futebol como o estudo das “dinâmicas sociais, do significado cultural e das estruturas institucionais em torno do futebol”. Ela estuda as <strong>relações sociais e culturais em torno do futebol</strong>. Alternativa <strong>D</strong>.</p><p>O poder é só um dos pontos, e o texto não fala de desigualdades geradas pelo esporte (A). O fenômeno global é o próprio futebol, não “fenômenos globalizados” em geral (B). O texto não fala de violência (C) nem de classificação esportiva (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 32,
+      "materia": "Inglês",
+      "assunto": "Coesão e referência",
+      "origem": {
+        "numeroOriginal": 32
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 31 e 32.</p><p class=\"apoio\"><strong>The Sociology of Football</strong></p><p class=\"apoio\">The Sociology of Football is the study of the social dynamics, cultural significance, and institutional structures surrounding football (soccer) as a global phenomenon. <strong><u>It</u></strong> examines how football influences and reflects social identities, community relations, and power dynamics, as well as <strong><u>its</u></strong> role in shaping societal values and norms.</p><p class=\"fonte\">&lt;https://tinyurl.com/2sbb5a7a&gt; Acesso em: 10.04.2026.</p><p>As palavras em destaque, “it” e “its”, referem-se, respectivamente, a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "“football” e “football”.",
+        "B": "“a global phenomenon” e “power dynamics”.",
+        "C": "“institutional structures” e “social identities”.",
+        "D": "“cultural significance” e “community relations”.",
+        "E": "“the Sociology of Football” e “football”."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>“<em>It examines how football influences...</em>”: quem examina é a disciplina, <strong>the Sociology of Football</strong>. Em “<em>its role in shaping societal values</em>”, o papel é do <strong>football</strong>. Alternativa <strong>E</strong>.</p><p>O futebol não “examina” nada (A). E <em>its</em> retoma um termo no singular que tem papel na sociedade, o futebol, e não as outras expressões listadas (B, C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pronomes"
+      ]
+    },
+    {
+      "numero": 33,
+      "materia": "Inglês",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 33
+      },
+      "enunciado": "<p class=\"apoio\"><strong>The English Game Review</strong></p><p class=\"apoio\">Hannah Parker</p><p class=\"apoio\">Period dramas aren’t to everyone’s taste, and the story of class wars in Britain has been told over and over again. Sometimes, it’s been told extremely well, but often the theme can be repetitive, insensitive and glamorised. Perhaps the same could be said about the FA Cup — some love it, but nowadays more seem to dislike it. Bringing the two together could be a disaster.</p><p class=\"apoio\">The new drama series about the early days of the FA Cup in the late 1800’s however, is an example of this theme being done well. The show is a perfect example of telling a class war story in a sensitive and realistic manner.</p><p class=\"fonte\">&lt;https://tinyurl.com/2zvwpt8c&gt; Acesso em: 08.04.2026.</p><p class=\"fonte\">Glossário: <strong>FA</strong> – Football Association</p><p>A resenha a respeito da série “The English Game” é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "positiva e dá destaque à sensibilidade na abordagem do tema a respeito da luta de classes.",
+        "B": "positiva e mostra romantismo em tempos dramáticos de uma forma bastante glamourizada.",
+        "C": "negativa, pois são poucas as pessoas que se interessam por acompanhar histórias de época.",
+        "D": "negativa, pois essa série é repetitiva, insensível e excessivamente romantizada.",
+        "E": "negativa, pois a combinação dos temas futebol e drama de época mostrou-se desastrosa."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Depois de dizer que juntar os dois temas “poderia ser um desastre”, a autora usa <em>however</em> (porém) e afirma que a série é “um exemplo perfeito de contar uma história de luta de classes de forma <strong>sensível</strong> e realista”. A resenha é <strong>positiva</strong>. Alternativa <strong>A</strong>.</p><p>Repetição, insensibilidade e glamourização são os defeitos que a série evita (B e D). E as críticas aos dramas de época e ao risco de “desastre” são só a introdução, que o <em>however</em> contradiz (C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "resenha"
+      ]
+    },
+    {
+      "numero": 34,
+      "materia": "Física",
+      "assunto": "Dinâmica",
+      "origem": {
+        "numeroOriginal": 34
+      },
+      "enunciado": "<p>Ao jogar em altitude elevada, como em alguns estádios na Bolívia e no Peru, os jogadores reclamam de falta de ar e os comentaristas falam que a bola chutada é “mais rápida”, dificultando o acerto dos passes.</p><p>Com base nessas informações, é correto afirmar que essa fala dos comentaristas ocorre porque</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "os jogadores são mais rápidos devido a alta altitude proporcionar mais oxigênio.",
+        "B": "os atletas têm maior potência nas pernas pelo ar ser mais rarefeito.",
+        "C": "a resistência do ar é menor por este ser mais rarefeito.",
+        "D": "o ar comprimido da bola a torna mais leve que o ar.",
+        "E": "a bola possui menor volume em alta altitude."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Em grandes altitudes o ar é mais rarefeito, com menos moléculas. A <strong>resistência do ar é menor</strong>, e a bola perde menos velocidade no caminho. Alternativa <strong>C</strong>.</p><p>Em altitude há menos oxigênio, não mais (A). O ar rarefeito não aumenta a potência das pernas (B). A bola com ar comprimido não fica mais leve que o ar (D). E, com menos pressão externa, a bola tende a ficar um pouco mais cheia, não menor (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "resistência do ar"
+      ]
+    },
+    {
+      "numero": 35,
+      "materia": "Física",
+      "assunto": "Cinemática",
+      "origem": {
+        "numeroOriginal": 35
+      },
+      "enunciado": "<p>Em janeiro de 2021, o goleiro inglês Tom King, então do Newport County, marcou um gol histórico que entrou para o Guinness World Records. Ele bateu um tiro de meta, fazendo a bola traçar uma trajetória parabólica e percorrer aproximadamente 96 m na horizontal em cerca de 6 s.</p><p>Considerando a situação ideal e desprezando a resistência do ar, podemos afirmar, em relação à bola, que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "sua velocidade horizontal foi 576 m/s no final da trajetória.",
+        "B": "sua velocidade vertical foi 16 m/s no ponto mais alto da trajetória.",
+        "C": "sua velocidade oblíqua foi nula quando estava bem próxima de atingir o chão.",
+        "D": "suas velocidades vertical e horizontal foram de 16 m/s no ponto mais alto da trajetória.",
+        "E": "sua velocidade vertical foi nula e a horizontal foi 16 m/s no ponto mais alto da trajetória."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Sem resistência do ar, a velocidade horizontal é constante: 96 m ÷ 6 s = 16 m/s. No ponto mais alto, a bola para de subir e começa a descer, então a <strong>velocidade vertical é nula</strong>, e a horizontal continua <strong>16 m/s</strong>. Alternativa <strong>E</strong>.</p><p>576 é 96 · 6, não uma velocidade (A). A velocidade vertical no topo é zero, não 16 m/s (B e D). E perto do chão a velocidade total é máxima, não nula (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "lançamento oblíquo"
+      ]
+    },
+    {
+      "numero": 36,
+      "materia": "Física",
+      "assunto": "Magnetismo",
+      "origem": {
+        "numeroOriginal": 36
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 36 e 37.</p><p class=\"apoio\">Para resolver a polêmica questão no futebol “a bola entrou ou não?”, em 2012, a IFAB (International Football Association Board) colocou em teste dois sistemas de GLT (Goal-Line Technology) que enviam, em menos de 1 segundo, um sinal de rádio criptografado aos oficiais da partida e ao relógio do árbitro com a mensagem “GOAL”.</p><p>Um desses sistema é o GoalRef, que se baseia em indução eletromagnética. Para funcionar, ao redor da estrutura de cada baliza (conjunto traves e travessão), são instalados cabos de cobre que funcionam como antenas de baixa frequência. A bola, por sua vez, é fabricada com três bobinas de cobre finas, posicionadas de forma adequada.</p><p>Quando a bola entra na zona do campo magnético gerado pela baliza, o fluxo magnético (ϕ) que atravessa essas bobinas varia. Essa variação (Δ) no fluxo magnético, num determinado intervalo de tempo (<em>t</em>), induz uma força eletromotriz (ε). Quanto maior a variação do fluxo magnético no tempo ou menor o tempo de interação com o campo, maior será a força eletromotriz induzida. Assim, quando a bola cruza completamente a linha, gera uma “perturbação” no campo magnético da baliza e o sistema envia o sinal de rádio criptografado aos oficiais da partida.</p><p>Com base nessa descrição, assinale a alternativa que representa corretamente a equação física envolvida nesse processo.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "\\(\\varepsilon = \\dfrac{|\\Delta\\phi|}{\\Delta t}\\)",
+        "B": "\\(t = \\dfrac{|\\Delta\\varepsilon|}{\\Delta\\phi}\\)",
+        "C": "\\(\\Delta\\phi = \\dfrac{|\\Delta t|}{\\Delta\\varepsilon}\\)",
+        "D": "\\(\\varepsilon = \\dfrac{|\\Delta t|}{\\Delta\\phi}\\)",
+        "E": "\\(\\phi = \\dfrac{|\\Delta\\varepsilon|}{\\Delta t}\\)"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O texto diz que a força eletromotriz é maior quanto maior a variação do fluxo e quanto menor o tempo. Então ε é diretamente proporcional a Δϕ e inversamente proporcional a Δt: <strong>ε = |Δϕ| / Δt</strong>, a lei de Faraday. Alternativa <strong>A</strong>.</p><p>D inverte a relação (ε cresceria com o tempo). B, C e E isolam grandezas que o texto não descreve dessa forma.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "indução eletromagnética",
+        "lei de Faraday"
+      ]
+    },
+    {
+      "numero": 37,
+      "materia": "Física",
+      "assunto": "Ondas",
+      "origem": {
+        "numeroOriginal": 37
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 36 e 37.</p><p class=\"apoio\">Para resolver a polêmica questão no futebol “a bola entrou ou não?”, em 2012, a IFAB (International Football Association Board) colocou em teste dois sistemas de GLT (Goal-Line Technology) que enviam, em menos de 1 segundo, um sinal de rádio criptografado aos oficiais da partida e ao relógio do árbitro com a mensagem “GOAL”.</p><p>O outro sistema, Hawk-Eye, utiliza 14 câmeras de alta resolução posicionadas ao redor do estádio (7 para cada baliza). Cada câmera filma o movimento da bola a uma frequência de 500 quadros por segundo, e, depois, um sistema de visão computacional determina a velocidade e a posição da bola. Comprovado o cruzamento da linha, o sistema envia um sinal de rádio criptografado aos oficiais da partida.</p><p>Com base nessa descrição, é correto afirmar que o período, em segundos, entre cada disparo de cada câmera é de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "2,0 × 10<sup>6</sup>.",
+        "B": "2,0 × 10<sup>3</sup>.",
+        "C": "2,0 × 10<sup>0</sup>.",
+        "D": "2,0 × 10<sup>–3</sup>.",
+        "E": "2,0 × 10<sup>–6</sup>."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O período é o inverso da frequência: T = 1 ÷ 500 = 0,002 s = <strong>2,0 × 10<sup>–3</sup> s</strong>. Alternativa <strong>D</strong>.</p><p>Os valores com expoente positivo confundem período com frequência (A, B e C). E 10<sup>–6</sup> seria um microssegundo, mil vezes menor (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "frequência e período",
+        "notação científica"
+      ]
+    },
+    {
+      "numero": 38,
+      "materia": "Física",
+      "assunto": "Termologia",
+      "origem": {
+        "numeroOriginal": 38
+      },
+      "enunciado": "<p>Pelas regras do futebol, a bola oficial deve estar calibrada com uma pressão entre 0,60 atm e 1,10 atm ao nível do mar.</p><p>Em um jogo numa cidade litorânea, os oficiais da partida calibraram uma bola a 0,90 atm a uma temperatura de 27 °C. Durante uma parada técnica, a bola ficou exposta ao Sol e sua temperatura subiu para 57 °C, porém o seu volume permaneceu constante. Antes de reiniciar a partida, o árbitro pediu nova checagem da calibração.</p><p>Lembrando que: \\(T_K = T_C + 273\\) e \\(\\dfrac{P_0 \\cdot V_0}{T_0} = \\dfrac{P_1 \\cdot V_1}{T_1}\\)</p><p>Admitindo que o ar no interior da bola se comporte como gás ideal, podemos afirmar corretamente que a bola</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "foi mantida, pois a pressão abaixou para aproximadamente 0,80 atm.",
+        "B": "foi trocada, pois a pressão se manteve em aproximadamente 0,90 atm.",
+        "C": "foi mantida, pois a pressão chegou a aproximadamente 1,00 atm.",
+        "D": "foi trocada, pois a pressão aumentou para aproximadamente 1,20 atm.",
+        "E": "foi mantida, pois a pressão alcançou aproximadamente 1,90 atm."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Em kelvin: T<sub>0</sub> = 300 K e T<sub>1</sub> = 330 K. Com volume constante, P<sub>1</sub> = P<sub>0</sub> · T<sub>1</sub>/T<sub>0</sub> = 0,90 · 330/300 = 0,99 ≈ <strong>1,00 atm</strong>. Está dentro do limite de 1,10 atm, então a bola <strong>foi mantida</strong>. Alternativa <strong>C</strong>.</p><p>Com o aquecimento, a pressão sobe, não cai nem fica igual (A e B). 1,20 atm e 1,90 atm vêm de fazer a conta em graus Celsius em vez de kelvin (D e E): 0,90 · 57/27 ≈ 1,90.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "gases",
+        "transformação isovolumétrica"
+      ]
+    },
+    {
+      "numero": 39,
+      "materia": "Física",
+      "assunto": "Energia",
+      "origem": {
+        "numeroOriginal": 39
+      },
+      "enunciado": "<p class=\"apoio\"><strong>Speed, angle and confidence: science behind Chloe Kelly’s powerful penalty</strong></p><p class=\"apoio\">Lioness’s penalty against Nigeria makes Women’s World Cup record and beats fastest strike of Premier League last season. (…) According to data from the official match ball, the shot on Monday reached 110.79 km/h ( ≈ 31 m/s).</p><p class=\"apoio\">Multiple factors contribute to the power of a kick, for example, the speed of the ball is determined by the speed of the kicking foot when it makes contact with the ball and how efficient the foot-ball collision is in transferring the energy. Also, the harder the collision, the faster the ball speed afterwards.</p><p class=\"fonte\">&lt;https://tinyurl.com/348rsf3h&gt; Acesso em: 08.04.2026. Adaptado.</p><p>O texto destaca que a técnica empregada pela atleta determina “quão eficiente é a colisão de pé-bola na transferência de energia\", em outras palavras, o trabalho executado pela força aplicada pelo pé na bola. Considerando a massa da bola aproximadamente 0,42 kg, podemos afirmar corretamente que o valor aproximado do trabalho da força resultante aplicada por Chloe Kelly, em joules, é de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "2 580.",
+        "B": "202.",
+        "C": "23.",
+        "D": "13.",
+        "E": "7."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O trabalho da força resultante é igual à variação da energia cinética. A bola sai do repouso e atinge cerca de 31 m/s: W = m · v² ÷ 2 = 0,42 · 31² ÷ 2 = 0,21 · 961 ≈ <strong>202 J</strong>. Alternativa <strong>B</strong>.</p><p>Usar a velocidade em km/h (110,79) daria cerca de 2 580 J (A). Esquecer de elevar ao quadrado dá 0,21 · 31 ≈ 7 J (E), e esquecer de dividir por 2 daria cerca de 404 J.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "teorema da energia cinética",
+        "inglês"
+      ]
+    },
+    {
+      "numero": 40,
+      "materia": "História",
+      "assunto": "Antiguidade",
+      "origem": {
+        "numeroOriginal": 40
+      },
+      "enunciado": "<p class=\"apoio\">O hábito de se divertir usando bolas feitas à mão existe há pelo menos 4,5 mil anos: no Egito Antigo, as mais comuns eram de linho, mas, como mostra o túmulo de uma criança egípcia de 2,5 mil anos a.C., também havia versões feitas com trapos e lã. Na China, foram descobertas bolas feitas de couro e de pele de carneiro, com idade estimada entre 2,9 mil e 3,2 mil anos. Sendo atividades coletivas, os jogos com bola exigem o desenvolvimento de regras compartilhadas, a capacidade de antecipar movimentos alheios e a cooperação entre os membros de um grupo, habilidades que também foram úteis na caça e na defesa de territórios.</p><p class=\"fonte\">&lt;https://tinyurl.com/2tb5x4ww&gt; Acesso em: 05.04.2026. Adaptado.</p><p>A partir das informações apresentadas no texto, conclui-se corretamente que os jogos de bola</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "substituíram as atividades de caça e de coleta, permitindo que os grupos se fixassem em aldeias permanentes.",
+        "B": "surgiram após a invenção da escrita, pois as regras precisavam ser registradas para serem transmitidas.",
+        "C": "eram praticados individualmente, sem interação ou cooperação entre os membros do grupo.",
+        "D": "contribuíram para o desenvolvimento de habilidades sociais e cognitivas úteis para a vida em sociedade.",
+        "E": "eram praticados por adultos, com bolas confeccionadas pelas crianças a partir de diferentes matérias-primas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que os jogos com bola exigiam regras compartilhadas, antecipar movimentos e cooperação, “habilidades que também foram úteis na caça e na defesa de territórios”. Eles <strong>desenvolveram habilidades sociais e cognitivas</strong>. Alternativa <strong>D</strong>.</p><p>O texto não diz que substituíram a caça (A) nem que vieram depois da escrita (B). Eram coletivos, não individuais (C). E o túmulo de uma criança mostra que crianças também usavam bolas (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "jogos com bola"
+      ]
+    },
+    {
+      "numero": 41,
+      "materia": "História",
+      "assunto": "Antiguidade",
+      "origem": {
+        "numeroOriginal": 41
+      },
+      "enunciado": "<p class=\"apoio\">Os fundadores da Associação de Futebol Inglesa consideravam o <em>epískyros</em>, um jogo com bola praticado na Grécia Antiga, como um precursor do futebol moderno. O <em>epískyros</em> era um jogo coletivo que exigia agilidade, precisão e resistência. Era apreciado por melhorar o condicionamento físico e fortalecer o espírito de equipe, mas não era considerado adequado para competições atléticas sérias. Inspirados pelo jogo grego, os romanos desenvolveram o <em>harpastum</em>, descrito como um exercício violento, com imobilizações no pescoço, golpes de luta livre, empurrões e puxões. A versão mais enérgica do <em>harpastum</em> era considerada benéfica para o treinamento militar por promover o condicionamento físico e mental, exercitar o corpo todo e poder ser praticado em diferentes intensidades.</p><p class=\"fonte\">&lt;https://tinyurl.com/nhatdzy7&gt; Acesso em: 02.04.2026. Traduzido e adaptado.</p><p>Comparando as informações presentes no texto, é correto afirmar que a diferença entre o <em>epískyros</em> gregos e o <em>harpastum</em> romano revela</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o desprezo dos romanos pela cultura grega, o que os levou a criar uma modalidade inédita, sem semelhança com o <em>epískyros</em>.",
+        "B": "que o <em>epískyros</em> preparava os gregos para guerras, enquanto o <em>harpastum</em> era um espetáculo público sem função militar.",
+        "C": "a inferioridade cultural dos gregos, que não atribuíam utilidade aos seus jogos, ao contrário dos romanos, que buscavam eficiência militar.",
+        "D": "que o <em>epískyros</em> era um jogo exclusivamente feminino, enquanto o <em>harpastum</em> era praticado apenas por homens que não podiam mais servir ao exército.",
+        "E": "a distinção entre os gregos, que valorizavam movimento e cooperação, e os romanos, que enfatizavam utilidade militar e competição violenta."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O <em>epískyros</em> grego exigia agilidade, precisão e espírito de equipe e não era visto como competição séria. O <em>harpastum</em> romano era violento e servia ao treinamento militar. A diferença mostra <strong>gregos valorizando movimento e cooperação, e romanos, utilidade militar e combate</strong>. Alternativa <strong>E</strong>.</p><p>Os romanos se inspiraram no jogo grego, não o desprezaram (A). Quem tinha função militar era o <em>harpastum</em> (B). O texto não fala em inferioridade cultural (C) nem em jogos só femininos ou masculinos (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Grécia",
+        "Roma"
+      ]
+    },
+    {
+      "numero": 42,
+      "materia": "História",
+      "assunto": "América pré-colombiana",
+      "origem": {
+        "numeroOriginal": 42
+      },
+      "enunciado": "<p class=\"apoio\">O jogo de bola (<em>pok-ta-pok</em> entre maias, <em>ullamaliztli</em> entre astecas) foi um esporte ritualístico das antigas civilizações da Mesoamérica. Bolas de borracha datadas de 1600–1400 a.C. foram encontradas junto a oferendas religiosas, indicando conotações rituais. O jogo era disputado em campos em formato de “I”, com uma bola de borracha de 3 a 4 kg, sendo proibido usar mãos e pés. Após as partidas, sacrifícios humanos eram comuns: crônicas astecas indicam que os vencedores eram sacrificados em honra ao Sol. Para os astecas, o jogo representava a batalha entre as forças noturnas (Lua e estrelas) e o Sol, personificado pelo deus Huitzilopochtli, e os sacrifícios tinham a função de manter o Sol iluminando a Terra. Na fundação de uma cidade, os astecas primeiro construíam o templo ao deus e, logo em seguida, o campo do jogo de bola.</p><p class=\"fonte\">&lt;https://tinyurl.com/2zeyfd3b&gt; Acesso em: 08.04.2026. Adaptado.</p><p>A partir do texto, é correto afirmar que o caráter sagrado dessa prática, para os astecas, se evidenciava pelo fato de que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "as bolas de borracha eram oferendas religiosas, e os campos tinham formato de “I” para imitar a forma dos templos.",
+        "B": "os sacrifícios humanos visavam manter o Sol iluminando a Terra, e o jogo representava a batalha entre o Sol e as forças noturnas.",
+        "C": "os campos eram construídos antes do templo na fundação das cidades, e os perdedores eram sacrificados como oferenda à Lua.",
+        "D": "o jogo representava a batalha entre o Sol e as forças noturnas, e os perdedores eram sacrificados para o Sol descansar durante a noite.",
+        "E": "as bolas pesavam de 3 a 4 kg e eram tocadas com quadris, braços e pernas para imitar os movimentos dos deuses durante a criação do mundo."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que, para os astecas, o jogo representava a batalha entre o Sol e as forças noturnas, e que os sacrifícios humanos serviam para <strong>manter o Sol iluminando a Terra</strong>. Alternativa <strong>B</strong>.</p><p>O formato em “I” não imitava os templos (A). O templo era construído antes do campo, e quem era sacrificado eram os vencedores, em honra ao Sol (C e D). E era proibido usar mãos e pés (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "astecas",
+        "maias"
+      ]
+    },
+    {
+      "numero": 43,
+      "materia": "História",
+      "assunto": "Ditadura militar",
+      "origem": {
+        "numeroOriginal": 43
+      },
+      "enunciado": "<p class=\"apoio\">Reinaldo, ídolo do Atlético Mineiro, também se tornou símbolo de resistência em um momento político da história do Brasil. Quando ele fez o primeiro gol da seleção brasileira contra a Suécia, na Copa do Mundo de 1978, comemorou com o punho cerrado, e depois disso quase não jogou mais pela seleção. Ele afirmou que foi retaliado pelo técnico Cláudio Coutinho, capitão do Exército, que recebia ordens diretas do regime para não o escalar.</p><p class=\"fonte\">&lt;https://tinyurl.com/58kpnjju&gt; Acesso em: 02.04.2026. Adaptado.</p><p>Assinale a alternativa que identifica, corretamente, o regime ao qual o relato se refere.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Era Vargas",
+        "B": "Pacto Colonial",
+        "C": "Ditadura civil-militar",
+        "D": "República Velha",
+        "E": "Primeiro Reinado"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Em 1978, o Brasil vivia a <strong>ditadura civil-militar</strong> (1964–1985). O punho cerrado era um gesto de protesto, e o técnico, capitão do Exército, teria seguido ordens do regime. Alternativa <strong>C</strong>.</p><p>A Era Vargas terminou em 1945 (A). O Pacto Colonial e o Primeiro Reinado são do período colonial e imperial (B e E). E a República Velha terminou em 1930 (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ditadura civil-militar"
+      ]
+    },
+    {
+      "numero": 44,
+      "materia": "História",
+      "assunto": "Era Vargas",
+      "origem": {
+        "numeroOriginal": 44
+      },
+      "enunciado": "<p class=\"apoio\">Antes da viagem da seleção brasileira para a França a fim de disputar a Copa do Mundo de 1938, Getúlio Vargas recebeu os atletas, destacou a importância do título para o futuro do país e deu uma declaração prometendo “casa própria para os craques”. Durante o torneio, Vargas associou o desempenho da seleção à grandeza do regime do Estado Novo e o sociólogo Gilberto Freyre, à ideia de “democracia racial”. Entretanto, jogadores negros e de origem pobre, como Leônidas da Silva, enfrentaram racismo explícito na imprensa. Após o que foi considerado uma falha da arbitragem e a consequente derrota brasileira por 2 a 1 na final contra a Itália, os craques foram recepcionados como heróis em Recife, Salvador e Rio de Janeiro e, mesmo assim, muitos dos jogadores negros retornaram ao anonimato e a subempregos.</p><p class=\"fonte\">&lt;https://tinyurl.com/3sf4cskb&gt; Acesso em: 04.04.2026. Adaptado.</p><p>Segundo o texto,</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a ideia de “democracia racial” correspondia à realidade brasileira da época, pois jogadores negros eram tratados como heróis nacionais.",
+        "B": "a derrota na Copa de 1938 provocou uma crise que levou o presidente Vargas a abandonar o incentivo ao esporte.",
+        "C": "a derrota na final de 1938 prejudicou a imagem internacional do Brasil e levou à proibição do futebol no país.",
+        "D": "a propaganda política do Estado Novo contrastava com o racismo e com a situação social de jogadores negros.",
+        "E": "Vargas ignorou a Copa do Mundo de 1938 e concentrou os esforços de propaganda em outros eventos, como as corridas de automóvel."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O governo usou a seleção para exaltar o Estado Novo e a ideia de “democracia racial”, mas os jogadores negros sofreram racismo na imprensa e voltaram ao anonimato e a subempregos. A <strong>propaganda contrastava com a realidade</strong>. Alternativa <strong>D</strong>.</p><p>O próprio texto mostra que a “democracia racial” não correspondia à realidade (A). E não diz que Vargas abandonou o esporte (B), que o futebol foi proibido (C) ou que a Copa foi ignorada (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Era Vargas",
+        "racismo"
+      ]
+    },
+    {
+      "numero": 45,
+      "materia": "Geografia",
+      "assunto": "Globalização",
+      "origem": {
+        "numeroOriginal": 45
+      },
+      "enunciado": "<p class=\"apoio\">Jogadores de origem africana nascidos ou formados nas antigas metrópoles europeias vivem um paradoxo: defendem seleções africanas por questões familiares ou identitárias, mas o dinheiro de suas transferências não beneficia os clubes do continente. Segundo relatório da FIFA de 2021, jogadores africanos são a segunda mão de obra estrangeira mais procurada por clubes europeus e também a que custa menos. Uma exceção é o egípcio Mohamed Salah, formado no El Mokawloon, que rendeu US$ 5 milhões ao seu time de origem, o mesmo valor que todos os clubes do Egito arrecadaram juntos em 2021.</p><p class=\"fonte\">&lt;https://tinyurl.com/5dyhty72&gt; Acesso em: 04.04.2026. Adaptado.</p><p>Considerando o texto e os conceitos de globalização e divisão internacional do trabalho, assinale a alternativa correta.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "O movimento de jogadores entre países reproduz padrões históricos semelhantes aos das migrações em outras áreas da economia global.",
+        "B": "A migração de jogadores reverteu a lógica histórica da divisão internacional do trabalho, com atletas europeus indo, em maior número, à África.",
+        "C": "A migração de jogadores ocorre entre países ricos do hemisfério Norte, não havendo registro histórico de atletas africanos atuando na Europa.",
+        "D": "A migração de jogadores não encontra paralelos com outras formas de migração, pois o futebol não se insere no capitalismo globalizado.",
+        "E": "Os países africanos proíbem a saída de seus jogadores, retendo os atletas em ligas nacionais para fortalecer o futebol local."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Os jogadores africanos são mão de obra procurada e barata para os clubes europeus, e o lucro das transferências fica longe dos clubes de origem. É o mesmo padrão de outras migrações: <strong>trabalho de países periféricos atendendo países centrais</strong>, como na divisão internacional do trabalho. Alternativa <strong>A</strong>.</p><p>O fluxo vai da África para a Europa, não o contrário (B). O texto mostra justamente africanos na Europa (C). O futebol faz parte do capitalismo globalizado (D). E não há proibição de saída de jogadores (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "divisão internacional do trabalho",
+        "migrações"
+      ]
+    },
+    {
+      "numero": 46,
+      "materia": "Raciocínio lógico",
+      "assunto": "Raciocínio espacial",
+      "origem": {
+        "numeroOriginal": 46
+      },
+      "enunciado": "<p>Considere a imagem, gerada por IA, baseada na bola Trionda e um ponto P no centro dessa imagem.</p>[[fig:1]]<p>Caso se efetue, na imagem, uma rotação de 90° no sentido horário em torno do ponto P e, em seguida, retirar-se o ponto P da imagem gerada, qual imagem será obtida?</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q46.webp",
+          "alt": "Desenho circular em preto e branco inspirado na bola Trionda, com o ponto P no centro. Há três regiões principais: no alto à esquerda, uma folha de bordo; no alto à direita, uma estrela grande com um pequeno troféu e a palavra FIFA; embaixo, um desenho de olho com raios, como uma onda."
+        },
+        {
+          "src": "assets/img/fatec-2026-2sem/q46a.webp",
+          "alt": "Alternativa A: a mesma imagem, sem o ponto P e sem girar: folha de bordo no alto à esquerda, estrela com o troféu no alto à direita e olho embaixo."
+        },
+        {
+          "src": "assets/img/fatec-2026-2sem/q46b.webp",
+          "alt": "Alternativa B: estrela com o troféu no alto à esquerda, olho à direita e folha de bordo embaixo."
+        },
+        {
+          "src": "assets/img/fatec-2026-2sem/q46c.webp",
+          "alt": "Alternativa C: olho no alto, folha de bordo embaixo à direita e estrela com o troféu à esquerda, com o troféu de lado."
+        },
+        {
+          "src": "assets/img/fatec-2026-2sem/q46d.webp",
+          "alt": "Alternativa D: folha de bordo no alto à direita, estrela com o troféu embaixo à direita e olho à esquerda."
+        },
+        {
+          "src": "assets/img/fatec-2026-2sem/q46e.webp",
+          "alt": "Alternativa E: imagem espelhada: estrela com o troféu no alto à direita, olho à esquerda e folha de bordo embaixo, com o troféu invertido."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:2]]",
+        "B": "[[fig:3]]",
+        "C": "[[fig:4]]",
+        "D": "[[fig:5]]",
+        "E": "[[fig:6]]"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Numa rotação de 90° no sentido horário, o que está no alto à esquerda vai para o alto à direita, o que está no alto à direita vai para baixo à direita, e o que está embaixo vai para a esquerda. Então a folha de bordo fica no alto à direita, a estrela com o troféu embaixo à direita e o olho à esquerda. Alternativa <strong>D</strong>.</p><p>A é a imagem sem girar. B corresponde a uma rotação no sentido anti-horário. C equivale a girar 180°. E é um espelhamento, já que o troféu aparece invertido.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "rotação"
+      ]
+    },
+    {
+      "numero": 47,
+      "materia": "Raciocínio lógico",
+      "assunto": "Sequências",
+      "origem": {
+        "numeroOriginal": 47
+      },
+      "enunciado": "<p class=\"apoio\">O grito “OLÉ!”, que embala partidas de futebol, chegou às torcidas com Mané Garrincha em um amistoso entre Botafogo e River Plate no México, em 1958. Contudo sua consagração veio em 1985, com a música “Anderlecht Champion”! O refrão na versão original diz “ALLEZ, ALLEZ, <strong>ALLEZ</strong>!” (vamos lá, em francês).</p><p class=\"fonte\">&lt;https://tinyurl.com/mr3zsefx&gt; Acesso em: 21.03.2026. Adaptado.</p><p>Considerando que o termo em negrito possa ser repetido sucessivamente, sem espaços e indefinidamente, então o símbolo que ocupa a posição de número 1985 nessa sequência é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "A",
+        "B": "L",
+        "C": "E",
+        "D": "Z",
+        "E": "!"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A palavra em negrito é ALLEZ, com 5 símbolos (A, L, L, E, Z), que se repetem nessa ordem. Como 1 985 = 5 · 397, a posição 1 985 é a última de um bloco completo: a letra <strong>Z</strong>. Alternativa <strong>D</strong>.</p><p>O ponto de exclamação não está em negrito, então não entra no bloco repetido (E). As letras A, L e E aparecem em outras posições do bloco (A, B e C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "padrões"
+      ]
+    },
+    {
+      "numero": 48,
+      "materia": "Raciocínio lógico",
+      "assunto": "Analogias",
+      "origem": {
+        "numeroOriginal": 48
+      },
+      "enunciado": "<p>Se SURFE se relaciona com PRANCHA, então FUTEBOL se relaciona com</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "ÁREA.",
+        "B": "BOLA.",
+        "C": "CAMPO.",
+        "D": "DRIBLE.",
+        "E": "ESTÁDIO."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A prancha é o objeto essencial com que se pratica o surfe. No futebol, esse objeto é a <strong>bola</strong>. Alternativa <strong>B</strong>.</p><p>Área, campo e estádio são lugares (A, C e E), e drible é uma jogada (D). Nenhum deles faz o papel que a prancha tem no surfe.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 49,
+      "materia": "Raciocínio lógico",
+      "assunto": "Lógica",
+      "origem": {
+        "numeroOriginal": 49
+      },
+      "enunciado": "<p class=\"apoio\">As regras do futebol de campo são as mesmas em todo o planeta. Entre elas, temos:</p><p class=\"apoio\"><strong>1.</strong> as duas equipes devem usar cores que as distingam uma da outra e da equipe de arbitragem;</p><p class=\"apoio\"><strong>2.</strong> cada goleiro deve usar cores que os distingam dos outros jogadores e da equipe de arbitragem;</p><p class=\"apoio\"><strong>3.</strong> se as camisetas dos dois goleiros forem da mesma cor e nenhum deles tiver outra camiseta, o árbitro permitirá que o jogo seja disputado.</p><p class=\"apoio\"><strong>4.</strong> as camisas interiores (também conhecidas como segunda pele) devem ter uma única cor, que será a mesma que a cor principal da manga da camiseta; e</p><p class=\"apoio\"><strong>5.</strong> os jogadores de uma mesma equipe devem usar calções interiores de mesma cor.</p><p class=\"fonte\">&lt;https://tinyurl.com/4veyff7x&gt; Acesso em: 21.03.2026. Adaptado.</p><p>Considere que, em uma partida oficial entre um Time A e um Time B, percebe-se que</p><p>• o Time A usa camiseta azul com mangas azuis;</p><p>• o Time B usa camiseta verde com mangas brancas;</p><p>• a arbitragem usa preto;</p><p>• ambos os goleiros usam amarelo e não possuem outro uniforme;</p><p>• um jogador do Time B usa camisa interior verde;</p><p>• dois jogadores do Time A usam calções interiores, um usa azul e outro usa branco.</p><p>Com base nas regras apresentadas, quantas infrações foram cometidas na situação descrita?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Nenhuma",
+        "B": "Uma",
+        "C": "Duas",
+        "D": "Três",
+        "E": "Quatro"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Azul, verde e preto se distinguem (regra 1). Os goleiros de amarelo se distinguem dos demais (regra 2), e a regra 3 permite que os dois usem a mesma cor. Infrações: a camisa interior do jogador do Time B é verde, mas a manga da camiseta é branca (regra 4); e os calções interiores do Time A têm cores diferentes (regra 5). São <strong>duas</strong>. Alternativa <strong>C</strong>.</p><p>Contar os goleiros de mesma cor como infração daria três (D), mas a regra 3 permite esse caso.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "regras"
+      ]
+    },
+    {
+      "numero": 50,
+      "materia": "Raciocínio lógico",
+      "assunto": "Lógica",
+      "origem": {
+        "numeroOriginal": 50
+      },
+      "enunciado": "<p>Andrea, Elias e Iara são torcedores de um mesmo time de futebol, mas, como são supersticiosos, seguem certas regras quando se trata de vestir a camisa de seu time para ir torcer:</p><p>• Ou Elias ou Iara devem usar a camisa do time;</p><p>• Andrea usa a camisa do time se, e somente se, Elias usar; e</p><p>• Se Iara usar a camisa do time, então Andrea também usa.</p><p>Quando os três forem torcer pelo seu time, de acordo com as regras expostas, conclui-se corretamente que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Iara nunca usa a camisa do time; Andrea e Elias sempre a usam.",
+        "B": "Elias nunca usa a camisa do time; Andrea e Iara sempre a usam.",
+        "C": "Andrea sempre usa a camisa do time; Elias e Iara nunca a usam.",
+        "D": "Iara sempre usa a camisa do time; Andrea e Elias nunca a usam.",
+        "E": "Elias sempre usa a camisa do time; Andrea e Iara nunca a usam."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Suponha que Iara use a camisa. Pela 3ª regra, Andrea usa; pela 2ª, Elias também usa. Mas a 1ª regra (“ou… ou…”) exige que só um entre Elias e Iara use. Contradição: <strong>Iara nunca usa</strong>. Então Elias usa (1ª regra) e, pela 2ª, Andrea também. Alternativa <strong>A</strong>.</p><p>Todas as outras alternativas fazem Iara usar a camisa ou deixam Elias sem ela, o que quebra alguma regra (B a E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "conectivos lógicos"
+      ]
+    },
+    {
+      "numero": 51,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 51
+      },
+      "enunciado": "<p>No mapa, estão indicados alguns dos estádios da Copa do Mundo de 2026.</p>[[fig:1]]<p>Sabendo que, durante esse evento esportivo, o time do Brasil deve jogar contra</p><p>• o Marrocos no dia 13 de junho, no MetLife Stadium;</p><p>• o Haiti no dia 19 de junho, no Lincoln Financial Field; e</p><p>• a Escócia no dia 24 de junho, no Hard Rock Stadium, em Miami.</p><p>Então, na ordem dos eventos descritos, os deslocamentos entre os estádios onde ocorrerão os jogos do time do Brasil devem se dar nos sentidos</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q51.webp",
+          "alt": "Mapa dos Estados Unidos e do sul do Canadá com estádios da Copa de 2026. Na costa leste, de cima para baixo: Boston, New York (MetLife Stadium), logo abaixo e um pouco à esquerda Philadelphia (Lincoln Financial Field), Atlanta e, bem ao sul, na ponta da Flórida, Miami (Hard Rock Stadium). Abaixo do mapa, uma rosa dos ventos com 16 direções e as legendas em inglês dos pontos cardeais, colaterais e subcolaterais."
+        }
+      ],
+      "alternativas": {
+        "A": "Norte e Norte-noroeste.",
+        "B": "Noroeste e Norte-nordeste.",
+        "C": "Sul e Sul-sudeste.",
+        "D": "Sul-sudeste e Leste-sudeste.",
+        "E": "Sudoeste e Sul-sudoeste."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>De Nova York (MetLife) para a Filadélfia, o deslocamento é para baixo e um pouco para a esquerda no mapa: <strong>sudoeste</strong>. Da Filadélfia para Miami, a viagem é longa, quase toda para o sul e um pouco para o oeste: <strong>sul-sudoeste</strong>. Alternativa <strong>E</strong>.</p><p>Os deslocamentos são para o sul, não para o norte (A e B). E vão para o oeste, não para o leste (C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "rosa dos ventos",
+        "orientação"
+      ]
+    },
+    {
+      "numero": 52,
+      "materia": "Português",
+      "assunto": "Semântica",
+      "origem": {
+        "numeroOriginal": 52
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 52 a 54.</p><p class=\"apoio\">Bola murcha, bola fora, com a bola toda, bola pra frente, trocar as bolas, comer bola... Expressões tão comuns do povo brasileiro que foram criadas espontaneamente para expressar significados que não constavam nos dicionários, o futebolês foi <strong>pouco a pouco</strong> se incorporando na nossa linguagem coloquial. “E nenhum outro grupo de linguagem conseguiu influenciar tanto nossa cultura quanto o futebol”, atesta o professor Ermínio Rodrigues, estudioso da língua portuguesa.</p><p class=\"apoio\">A criatividade da torcida, dos técnicos, dos jogadores e dos narradores de futebol <strong>extrapola</strong> os limites da imaginação. Nada melhor do que a palavra frangueiro para mostrar que o goleiro tem um mau desempenho.</p><p class=\"apoio\">A linguagem do futebol também recebeu um tempero da culinária. O termo cozinhar, por exemplo, cai como uma luva para mostrar que o time está retardando <strong>deliberadamente</strong> o jogo. Às vezes, a palavra criada no meio futebolístico parece ter sido tirada da boca do povo. É o caso da expressão deu zebra, usada para qualificar um resultado imprevisto de um jogo, “<strong>Provavelmente</strong>, o técnico foi buscar inspiração no jogo do bicho que utiliza quase todos os animais, menos a zebra”, comenta Rodrigues.</p><p class=\"fonte\">&lt;https://tinyurl.com/yd52mb5x&gt; Acesso em: 04.04.2026. Adaptado.</p><p>Os termos destacados podem ser substituídos, correta e respectivamente, por</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "calmamente, limita-se a, propositalmente, decerto.",
+        "B": "brevemente, combate, de propósito, seguramente.",
+        "C": "paulatinamente, submete-se a, repentinamente, quiçá.",
+        "D": "tardiamente, excede, involuntariamente, seguramente.",
+        "E": "progressivamente, supera, intencionalmente, talvez."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>“Pouco a pouco” é <strong>progressivamente</strong>; “extrapola”, <strong>supera</strong>; “deliberadamente”, <strong>intencionalmente</strong>; e “provavelmente”, <strong>talvez</strong>. Alternativa <strong>E</strong>.</p><p>“Limita-se a” e “submete-se a” têm sentido oposto a “extrapola” (A e C). “Repentinamente” e “involuntariamente” contrariam “deliberadamente” (C e D). E “decerto” e “seguramente” indicam certeza, não probabilidade (A, B e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sinônimos"
+      ]
+    },
+    {
+      "numero": 53,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 53
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 52 a 54.</p><p class=\"apoio\">Bola murcha, bola fora, com a bola toda, bola pra frente, trocar as bolas, comer bola... Expressões tão comuns do povo brasileiro que foram criadas espontaneamente para expressar significados que não constavam nos dicionários, o futebolês foi <strong>pouco a pouco</strong> se incorporando na nossa linguagem coloquial. “E nenhum outro grupo de linguagem conseguiu influenciar tanto nossa cultura quanto o futebol”, atesta o professor Ermínio Rodrigues, estudioso da língua portuguesa.</p><p class=\"apoio\">A criatividade da torcida, dos técnicos, dos jogadores e dos narradores de futebol <strong>extrapola</strong> os limites da imaginação. Nada melhor do que a palavra frangueiro para mostrar que o goleiro tem um mau desempenho.</p><p class=\"apoio\">A linguagem do futebol também recebeu um tempero da culinária. O termo cozinhar, por exemplo, cai como uma luva para mostrar que o time está retardando <strong>deliberadamente</strong> o jogo. Às vezes, a palavra criada no meio futebolístico parece ter sido tirada da boca do povo. É o caso da expressão deu zebra, usada para qualificar um resultado imprevisto de um jogo, “<strong>Provavelmente</strong>, o técnico foi buscar inspiração no jogo do bicho que utiliza quase todos os animais, menos a zebra”, comenta Rodrigues.</p><p class=\"fonte\">&lt;https://tinyurl.com/yd52mb5x&gt; Acesso em: 04.04.2026. Adaptado.</p><p>De acordo com o texto, o “futebolês”</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "dialoga com diferentes áreas da sociedade e incorpora-se à linguagem cotidiana.",
+        "B": "influenciou a elite intelectual da sociedade mundial e, por isso, foi dicionarizado.",
+        "C": "representa um dialeto específico do mundo do futebol restrito a profissionais da área.",
+        "D": "limita-se a palavras e expressões que remetem a “bola”, principal símbolo do esporte.",
+        "E": "origina-se da linguagem culinária e do jogo do bicho, alcançando os campos de futebol."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O texto mostra que o “futebolês” incorporou termos da culinária e do jogo do bicho e entrou na linguagem coloquial. Ele <strong>dialoga com outras áreas e se incorpora ao cotidiano</strong>. Alternativa <strong>A</strong>.</p><p>O texto diz que as expressões não constavam nos dicionários e não fala da elite intelectual (B). Elas não são restritas aos profissionais (C) nem se limitam a “bola” (D). E a culinária e o jogo do bicho foram fontes de algumas expressões, não a origem de todas (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 54,
+      "materia": "Português",
+      "assunto": "Semântica",
+      "origem": {
+        "numeroOriginal": 54
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 52 a 54.</p><p class=\"apoio\">Bola murcha, bola fora, com a bola toda, bola pra frente, trocar as bolas, comer bola... Expressões tão comuns do povo brasileiro que foram criadas espontaneamente para expressar significados que não constavam nos dicionários, o futebolês foi <strong>pouco a pouco</strong> se incorporando na nossa linguagem coloquial. “E nenhum outro grupo de linguagem conseguiu influenciar tanto nossa cultura quanto o futebol”, atesta o professor Ermínio Rodrigues, estudioso da língua portuguesa.</p><p class=\"apoio\">A criatividade da torcida, dos técnicos, dos jogadores e dos narradores de futebol <strong>extrapola</strong> os limites da imaginação. Nada melhor do que a palavra frangueiro para mostrar que o goleiro tem um mau desempenho.</p><p class=\"apoio\">A linguagem do futebol também recebeu um tempero da culinária. O termo cozinhar, por exemplo, cai como uma luva para mostrar que o time está retardando <strong>deliberadamente</strong> o jogo. Às vezes, a palavra criada no meio futebolístico parece ter sido tirada da boca do povo. É o caso da expressão deu zebra, usada para qualificar um resultado imprevisto de um jogo, “<strong>Provavelmente</strong>, o técnico foi buscar inspiração no jogo do bicho que utiliza quase todos os animais, menos a zebra”, comenta Rodrigues.</p><p class=\"fonte\">&lt;https://tinyurl.com/yd52mb5x&gt; Acesso em: 04.04.2026. Adaptado.</p><p>Assinale a alternativa cujo provérbio dialoga com o sentido da expressão “bola pra frente”.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "A cavalo dado não se olham os dentes.",
+        "B": "Antes só do que mal acompanhado.",
+        "C": "Águas passadas não movem moinhos.",
+        "D": "Dai a César o que é de César.",
+        "E": "Quem semeia vento colhe tempestade."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>“Bola pra frente” quer dizer deixar o que passou para trás e seguir em frente. O provérbio com o mesmo sentido é “<strong>Águas passadas não movem moinhos</strong>”. Alternativa <strong>C</strong>.</p><p>“A cavalo dado...” fala de não reclamar de presente (A); “Antes só...” prefere a solidão à má companhia (B); “Dai a César...” fala de dar a cada um o que é seu (D); e “Quem semeia vento...” fala de consequências (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "provérbios"
+      ]
+    },
+    {
+      "numero": 55,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 55
+      },
+      "enunciado": "<p>Analise a charge.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ue68hep2&gt; Acesso em: 03.04.2026. Original colorido.</p><p>Na charge, o cartão apresentado é vermelho.</p><p>Sobre a linguagem verbal e não verbal utilizada na construção da charge, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q55.webp",
+          "alt": "Charge: a mão de uma árbitra, de quem só aparece o braço, ergue um cartão (vermelho) e apita, com o som “PRIII!!!” saindo do apito. À frente, um jogador corre com um tronco de madeira (um taco) nas mãos; sua cabeça é coberta por um saco, e na camisa está escrito “MACHISMO” e “MISOGINIA”. No chão, uma bola parada."
+        }
+      ],
+      "alternativas": {
+        "A": "o cartão vermelho expressa a recusa em aceitar a reprodução de preconceitos sociais dentro do campo.",
+        "B": "a representação da mulher, embora em posição de poder, é marcada pela invisibilização de seu papel.",
+        "C": "a bola parada representa a necessidade de rever as regras do jogo para garantir igualdade entre homens e mulheres.",
+        "D": "o taco, segurado pelo jogador, ameniza a atitude preconceituosa do atleta ao associá-la a um traço comportamental primitivo.",
+        "E": "o saco, que cobre a identidade do agressor, assim como a ausência do rosto da árbitra, igualam vítima e criminoso na imagem."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A árbitra expulsa, com o cartão vermelho, um jogador que tem “machismo” e “misoginia” escritos no corpo. O cartão expressa <strong>a recusa em aceitar a reprodução de preconceitos dentro do campo</strong>. Alternativa <strong>A</strong>.</p><p>A mulher aparece exercendo sua autoridade, não invisibilizada (B). A bola parada mostra o jogo interrompido pela falta, não a revisão das regras (C). O taco reforça a agressividade, não ameniza (D). E a charge não iguala a árbitra ao agressor (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "charge",
+        "linguagem não verbal"
+      ]
+    },
+    {
+      "numero": 56,
+      "materia": "Português",
+      "assunto": "Texto literário",
+      "origem": {
+        "numeroOriginal": 56
+      },
+      "enunciado": "<p class=\"chamada\">Leia o poema “O Anjo das Pernas Tortas”, de Vinicius de Moraes, para responder às questões 56 e 57.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/5xuymkxz&gt; Acesso em: 04.04.2026.</p><p>Após a leitura atenta do poema, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q56.webp",
+          "alt": "Soneto “O Anjo das Pernas Tortas”, de Vinicius de Moraes, em quatro estrofes, com verbos no presente. Na 1ª, a um passe de Didi, Garrincha avança com o “couro” (a bola) colado aos pés, dribla um, dribla dois e para, como quem mede o lance. Na 2ª, ele pressente a jogada, se lança mais rápido que o pensamento, dribla mais dois, e a bola “trança” feliz entre seus pés, “um pé de vento”. Na 3ª, a multidão, “contrita”, “em ato de morte”, se levanta e grita um canto de esperança. Na 4ª, Garrincha, “o anjo”, atende: “Goooool!”; o poema diz que é pura imagem, “um G que chuta um o dentro da meta, um l”, e termina: “É pura dança!”."
+        }
+      ],
+      "alternativas": {
+        "A": "o termo “couro”, na primeira estrofe, representa a resistência do jogador durante a difícil partida.",
+        "B": "a expressão “um pé de vento”, na segunda estrofe, expressa a perda da bola pelo jogador rival.",
+        "C": "“a multidão contrita em ato de morte”, na terceira estrofe, constrói a imagem de tensão dos torcedores.",
+        "D": "“anjo” e “G” representam, na quarta estrofe, o jogador Garrincha e a bola jogada ao gol respectivamente.",
+        "E": "as expressões “pura imagem” e “pura dança”, na quarta estrofe, retratam o futebol como uma arte impopular."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A multidão “contrita”, “em ato de morte”, que se levanta e grita um “canto de esperança”, mostra os torcedores <strong>tensos</strong>, à espera do gol. Alternativa <strong>C</strong>.</p><p>“Couro” é a bola, não a resistência do jogador (A). “Um pé de vento” mostra a rapidez do drible, e não a perda da bola pelo rival (B). “Anjo” é Garrincha, mas o “G” é a letra da palavra “Gol”, que no desenho do poema chuta o “o” (D). E “pura imagem” e “pura dança” exaltam o futebol como arte, sem nada de impopular (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "poema",
+        "figuras de linguagem"
+      ]
+    },
+    {
+      "numero": 57,
+      "materia": "Português",
+      "assunto": "Verbos",
+      "origem": {
+        "numeroOriginal": 57
+      },
+      "enunciado": "<p class=\"chamada\">Leia o poema “O Anjo das Pernas Tortas”, de Vinicius de Moraes, para responder às questões 56 e 57.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/5xuymkxz&gt; Acesso em: 04.04.2026.</p><p>Os verbos, no poema, estão conjugados</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-2sem/q56.webp",
+          "alt": "Soneto “O Anjo das Pernas Tortas”, de Vinicius de Moraes, em quatro estrofes, com verbos no presente. Na 1ª, a um passe de Didi, Garrincha avança com o “couro” (a bola) colado aos pés, dribla um, dribla dois e para, como quem mede o lance. Na 2ª, ele pressente a jogada, se lança mais rápido que o pensamento, dribla mais dois, e a bola “trança” feliz entre seus pés, “um pé de vento”. Na 3ª, a multidão, “contrita”, “em ato de morte”, se levanta e grita um canto de esperança. Na 4ª, Garrincha, “o anjo”, atende: “Goooool!”; o poema diz que é pura imagem, “um G que chuta um o dentro da meta, um l”, e termina: “É pura dança!”."
+        }
+      ],
+      "alternativas": {
+        "A": "no presente contínuo para dar a sensação de ações que se desenrolam lentamente.",
+        "B": "no presente para aproximar as ações do leitor, semelhante a uma narração esportiva.",
+        "C": "no passado, para indicar que os feitos do jogador realizaram-se rapidamente no jogo.",
+        "D": "no passado distante, para marcar a importância histórica do jogador referido no texto.",
+        "E": "no presente atemporal, para expressar ações realizáveis a qualquer momento por todos."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Os verbos estão no presente (“avança”, “dribla”, “se lança”, “grita”, “atende”), como numa narração esportiva ao vivo, que <strong>aproxima as ações do leitor</strong>. Alternativa <strong>B</strong>.</p><p>O presente contínuo seria “está avançando”, e as ações são rápidas, não lentas (A). Os verbos não estão no passado (C e D). E não é um presente atemporal: as ações são de um lance específico de Garrincha (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tempo verbal",
+        "poema"
+      ]
+    },
+    {
+      "numero": 58,
+      "materia": "Português",
+      "assunto": "Gêneros textuais",
+      "origem": {
+        "numeroOriginal": 58
+      },
+      "enunciado": "<p class=\"chamada\">Leia os textos para responder às questões 58 e 59.</p><p class=\"apoio\">Texto I</p><p class=\"apoio\"><strong>DECLARAÇÕES MISÓGINAS DE ZAGUEIRO CONTRA ÁRBITRA MARCAM ELIMINAÇÃO DO BRAGANTINO</strong></p><p class=\"apoio\">“Não adianta a gente jogar contra São Paulo, Palmeiras, Corinthians e eles colocarem uma mulher para apitar”, diz Gustavo Marques</p><p class=\"fonte\"><em>Folha de São Paulo</em>, 21 de fevereiro de 2026</p><p class=\"apoio\">Texto II</p><p class=\"apoio\"><strong>JOGADOR DO BRAGANTINO PEGA 12 JOGOS DE SUSPENSÃO POR FALAS SEXISTAS CONTRA ARBITRAGEM</strong></p><p class=\"apoio\">Zagueiro Gustavo Marques é punido pelo Tribunal de Justiça Desportiva de São Paulo</p><p class=\"fonte\"><em>Folha de São Paulo</em>, 5 de março de 2026</p><p>Ao se compararem os dois textos, conclui-se corretamente que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o texto II, ao colocar a expressão “por falas sexistas” no final da manchete, enfatiza a ação do jogador.",
+        "B": "a identificação do atleta, em I e II, ocorre na última posição da linha fina para disfarçar o agente das falas.",
+        "C": "o texto I destaca o preconceito cometido pelo jogador, enquanto o II destaca o jogador punido.",
+        "D": "o termo “misóginas”, em I, ameniza o crime que é, em II, caracterizado corretamente como “sexista”.",
+        "E": "o nome dos times, em I e II, serve ao propósito de contrapor a qualidade técnica dos jogadores às falhas da arbitragem."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A manchete do texto I começa pelas “declarações misóginas” do zagueiro, ou seja, destaca o preconceito. A do texto II começa por “Jogador do Bragantino pega 12 jogos de suspensão”, destacando o jogador punido. Alternativa <strong>C</strong>.</p><p>Pôr “por falas sexistas” no fim não enfatiza a ação; o foco está na punição (A). O nome do atleta aparece na linha fina, que é onde se identificam pessoas, sem intenção de disfarçar (B). “Misóginas” não ameniza nada; é até mais forte que “sexistas” (D). E os textos não comparam a técnica dos jogadores com a arbitragem (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "notícia",
+        "manchete"
+      ]
+    },
+    {
+      "numero": 59,
+      "materia": "Português",
+      "assunto": "Sintaxe",
+      "origem": {
+        "numeroOriginal": 59
+      },
+      "enunciado": "<p class=\"chamada\">Leia os textos para responder às questões 58 e 59.</p><p class=\"apoio\">Texto I</p><p class=\"apoio\"><strong>DECLARAÇÕES MISÓGINAS DE ZAGUEIRO CONTRA ÁRBITRA MARCAM ELIMINAÇÃO DO BRAGANTINO</strong></p><p class=\"apoio\">“Não adianta a gente jogar contra São Paulo, Palmeiras, Corinthians e eles colocarem uma mulher para apitar”, diz Gustavo Marques</p><p class=\"fonte\"><em>Folha de São Paulo</em>, 21 de fevereiro de 2026</p><p class=\"apoio\">Texto II</p><p class=\"apoio\"><strong>JOGADOR DO BRAGANTINO PEGA 12 JOGOS DE SUSPENSÃO POR FALAS SEXISTAS CONTRA ARBITRAGEM</strong></p><p class=\"apoio\">Zagueiro Gustavo Marques é punido pelo Tribunal de Justiça Desportiva de São Paulo</p><p class=\"fonte\"><em>Folha de São Paulo</em>, 5 de março de 2026</p><p>Assinale a alternativa que apresenta a reescrita correta de uma das manchetes.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Eliminação do Bragantino é marcada por declarações misóginas da árbitra contra zagueiro.",
+        "B": "Devido a falas sexistas contra a arbitragem, jogador do Bragantino é suspenso por 12 jogos.",
+        "C": "Arbitragem suspende 12 jogos do Bragantino por falas sexistas de seu jogador.",
+        "D": "Árbitra elimina Bragantino por declarações de zagueiro contra a misoginia.",
+        "E": "Zagueiro elimina Bragantino por se declarar misógino para a arbitragem."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>“Devido a falas sexistas contra a arbitragem, jogador do Bragantino é suspenso por 12 jogos” mantém o sentido da manchete II: o jogador foi suspenso por causa de falas sexistas. Alternativa <strong>B</strong>.</p><p>As declarações foram do zagueiro contra a árbitra, não o contrário (A). Quem suspendeu foi o Tribunal, e foi o jogador, não o time (C). A árbitra não eliminou o time, e as falas eram misóginas, não contra a misoginia (D). E o zagueiro não “se declarou misógino” nem eliminou o time (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "reescrita",
+        "manchete"
+      ]
+    },
+    {
+      "numero": 60,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 60
+      },
+      "enunciado": "<p>O Mal da Montanha é causado pela subida rápida a grandes altitudes, onde a pressão atmosférica é menor e, por isso, menos oxigênio passa dos pulmões para o sangue. Essa redução de oxigênio no organismo pode levar ao surgimento de sintomas como dor de cabeça, tontura, náusea, cansaço e falta de ar. Esse é um problema que vários times enfrentam quando jogam em cidades que ficam em altas altitudes.</p><p>Imagine que, na final de um campeonato de futebol, o Always Ready, time da Bolívia, sai de El Alto para enfrentar o São Paulo FC, da cidade de São Paulo. A cidade de El Alto fica a 4150 metros de altitude em relação ao nível do mar, enquanto a cidade de São Paulo se localiza a 760 metros. Os dois se enfrentarão no Estádio Daniel Alcides Carrión, em Cerro de Pasco, no Peru, que fica a 4338 metros de altitude.</p><p>Diante desse cenário, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o time do São Paulo não sentirá os efeitos do Mal da Montanha, pois está, originalmente, mais próximo ao nível do mar.",
+        "B": "o time do Always Ready sentirá menos os efeitos do Mal da Montanha se passar alguns dias, antes do jogo, na cidade de São Paulo.",
+        "C": "os times do São Paulo e do Always Ready sentirão os efeitos do Mal da Montanha igualmente por terem atletas de alto desempenho.",
+        "D": "o time do São Paulo tende a sentir mais os efeitos do Mal da Montanha devido à maior diferença de altitude entre sua cidade e o local do jogo.",
+        "E": "o time do Always Ready tende a sentir mais os efeitos do Mal da Montanha, pois seus jogadores estão aclimatados a regiões mais altas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O São Paulo sai de 760 m para 4 338 m, uma diferença de cerca de 3 580 m. O Always Ready sai de 4 150 m, quase a mesma altitude do jogo, e seus atletas já estão aclimatados. O São Paulo <strong>tende a sentir mais</strong> o Mal da Montanha. Alternativa <strong>D</strong>.</p><p>Morar perto do nível do mar é justamente o que faz o São Paulo sentir mais (A). Passar dias em São Paulo tiraria a aclimatação do Always Ready (B). Ser atleta de alto desempenho não anula o efeito da altitude (C). E estar aclimatado à altitude diminui os sintomas, não aumenta (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "altitude",
+        "respiração"
+      ]
+    }
+  ]
+}

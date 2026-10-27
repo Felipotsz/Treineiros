@@ -1,0 +1,1546 @@
+{
+  "id": "fatec-2026-1sem",
+  "banca": "FATEC",
+  "ano": 2026,
+  "semestre": 1,
+  "titulo": "Vestibular FATEC, 1º semestre de 2026",
+  "fonte": "Centro Paula Souza",
+  "dataExame": "2025-12-14",
+  "duracaoMinutos": 300,
+  "tema": "Ciência e tecnologia",
+  "pdf": "assets/provas/fatec-2026-1sem.pdf",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Biologia",
+      "assunto": "Genética",
+      "origem": {
+        "numeroOriginal": 1
+      },
+      "enunciado": "<p>Os grupos sanguíneos humanos são classificados, pelo sistema <em>ABO</em>, em 4 tipos: <em>A</em>, <em>B</em>, <em>AB</em> e <em>O</em>. No quadro, estão apresentadas as substâncias existentes nas hemácias e no plasma de cada tipo sanguíneo.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Grupo sanguíneo</th><th scope=\"col\">Aglutinogênio ou Antígeno (nas hemácias)</th><th scope=\"col\">Aglutinina ou Anticorpo (no plasma)</th></tr></thead><tbody><tr><td><strong><em>A</em></strong></td><td><em>A</em></td><td><em>anti-B</em></td></tr><tr><td><strong><em>B</em></strong></td><td><em>B</em></td><td><em>anti-A</em></td></tr><tr><td><strong><em>AB</em></strong></td><td><em>A</em> e <em>B</em></td><td>--</td></tr><tr><td><strong><em>O</em></strong></td><td>--</td><td><em>anti-A</em> e <em>anti-B</em></td></tr></tbody></table></div><p>Considerando as informações sobre os tipos sanguíneos do sistema <em>ABO</em>, em um processo de transfusão de sangue, é correto afirmar que uma pessoa</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "do grupo sanguíneo <em>O</em> pode receber sangue de qualquer outro grupo sanguíneo.",
+        "B": "do grupo sanguíneo <em>AB</em> pode receber sangue apenas de pessoas do grupo sanguíneo <em>O</em>.",
+        "C": "do grupo sanguíneo <em>AB</em> pode doar sangue apenas para pessoas do grupo sanguíneo <em>AB</em>.",
+        "D": "do grupo sanguíneo <em>A</em> pode doar sangue para pessoas do grupo <em>B</em> e do grupo <em>AB</em>.",
+        "E": "do grupo sanguíneo <em>B</em> pode receber sangue de pessoas do grupo <em>O</em> e do grupo <em>AB</em>."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Quem é do grupo AB não tem anticorpos anti-A nem anti-B no plasma, então pode receber de todos. Mas suas hemácias têm os antígenos A e B, que seriam atacados pelos anticorpos de qualquer outro grupo. Por isso o AB <strong>só pode doar para AB</strong>. Alternativa <strong>C</strong>.</p><p>O grupo O tem anti-A e anti-B e só recebe de O (A). O AB recebe de todos, não só de O (B). O sangue A seria atacado pelo anti-A de quem é B (D). E quem é B tem anti-A, que atacaria as hemácias AB (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sistema ABO",
+        "transfusão"
+      ]
+    },
+    {
+      "numero": 2,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 2
+      },
+      "enunciado": "<p>O ponto de compensação fótico (PCF) de uma planta ocorre quando as taxas de fotossíntese e de respiração celular são iguais para a mesma intensidade luminosa, como representado no gráfico.</p>[[fig:1]]<p>No PCF, todo o gás oxigênio liberado na fotossíntese é utilizado na respiração e todo gás carbônico produzido na respiração é utilizado na fotossíntese, não havendo, portanto, um excedente de matéria orgânica (açúcares) e do gás oxigênio. Para poder crescer, as plantas precisam receber a intensidade luminosa acima da intensidade luminosa do seu PCF pelo menos por algumas horas do dia. Isso deve acontecer a fim de que a taxa de fotossíntese exceda a taxa de respiração.</p><p>Considerando as informações do texto, se uma planta ficar com intensidade luminosa abaixo da intensidade luminosa do seu PCF por um período prolongado, ela deverá</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q02.webp",
+          "alt": "Gráfico “Ponto de compensação fótico”: taxa do processo em função da intensidade luminosa. A respiração celular é uma linha horizontal. A fotossíntese começa em zero, sobe em linha reta, cruza a linha da respiração e depois fica constante, acima dela. O cruzamento das duas linhas é o ponto de compensação fótico."
+        }
+      ],
+      "alternativas": {
+        "A": "continuar viva, mas morrerá após um determinado tempo, porque irá consumir mais matéria orgânica do que produzirá e não terá reservas suficientes de energia para sobreviver.",
+        "B": "continuar viva, mas parará de crescer, porque produz menos matéria orgânica pela respiração celular do que a consumida pelo processo da fotossíntese.",
+        "C": "morrer rapidamente, porque perderá a capacidade de retirar do meio ambiente os nutrientes de que necessita para sobreviver.",
+        "D": "continuar viva e crescendo, porque retira do solo os nutrientes, a água e os sais minerais de que precisa para sobreviver.",
+        "E": "continuar viva e crescendo, porque produz mais matéria orgânica pela fotossíntese do que a consumida pela respiração."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Abaixo do PCF, a fotossíntese produz menos açúcar do que a respiração consome. A planta passa a gastar suas reservas e, se a situação durar muito, <strong>morre quando elas acabam</strong>. Alternativa <strong>A</strong>.</p><p>A respiração consome matéria orgânica, não produz (B). A planta não morre de imediato nem perde a capacidade de absorver nutrientes (C). Nutrientes do solo não substituem a fotossíntese como fonte de energia (D). E abaixo do PCF a fotossíntese produz menos, não mais, do que a respiração consome (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fotossíntese",
+        "ponto de compensação"
+      ]
+    },
+    {
+      "numero": 3,
+      "materia": "Biologia",
+      "assunto": "Genética",
+      "origem": {
+        "numeroOriginal": 3
+      },
+      "enunciado": "<p>A análise do heredograma representado permite concluir corretamente que</p>[[fig:1]]",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q03.webp",
+          "alt": "Heredograma. Geração 1: homem normal (1) e mulher normal (2). Filhos do casal: mulher normal (3), mulher com anomalia (4) e homem normal (5). O homem 5 se casa com a mulher normal 6, e eles têm um filho com anomalia (7)."
+        }
+      ],
+      "alternativas": {
+        "A": "o indivíduo 3 só pode ser homozigoto.",
+        "B": "os indivíduos 1 e 2 são heterozigotos.",
+        "C": "a anomalia é autossômica dominante.",
+        "D": "os indivíduos com a anomalia são obrigatoriamente heterozigotos.",
+        "E": "os indivíduos sem a anomalia são obrigatoriamente heterozigotos."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Os pais 1 e 2 são normais e têm uma filha afetada (4). Então a anomalia é recessiva, e os dois pais carregam o alelo sem manifestá-lo: <strong>são heterozigotos (Aa)</strong>. Alternativa <strong>B</strong>.</p><p>O indivíduo 3 pode ser AA ou Aa (A). Se a anomalia fosse dominante, pais normais não teriam filha afetada (C). Os afetados, numa herança recessiva, são homozigotos aa (D). E os normais podem ser AA ou Aa (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "heredograma",
+        "herança recessiva"
+      ]
+    },
+    {
+      "numero": 4,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 4
+      },
+      "enunciado": "<p>As verminoses são doenças causadas por parasitas que se instalam geralmente no intestino. Uma das formas mais comuns de transmissão de verminoses é a via fecal-oral, na qual os ovos de parasitas presentes nas fezes de um indivíduo infectado são transferidos para a boca de uma pessoa suscetível. Isso pode ocorrer por meio da ingestão de água ou de alimentos contaminados ou por contato direto com superfícies sujas e mãos não lavadas.</p><p>Um tipo de verminose que é transmitida pela forma descrita no texto é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a esquistossomose.",
+        "B": "a leptospirose.",
+        "C": "a ascaridíase.",
+        "D": "a teníase.",
+        "E": "a filariose."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A <strong>ascaridíase</strong> (lombriga) se pega ao engolir ovos do verme em água, alimentos ou mãos contaminados com fezes: é a via fecal-oral. Alternativa <strong>C</strong>.</p><p>Na esquistossomose, a larva entra pela pele em água contaminada (A). A leptospirose é causada por bactéria, não por verme, e vem da urina de ratos (B). A teníase se pega comendo carne de boi ou porco malpassada com larvas (D). E a filariose é transmitida pela picada de mosquito (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "verminoses"
+      ]
+    },
+    {
+      "numero": 5,
+      "materia": "Biologia",
+      "assunto": "Zoologia",
+      "origem": {
+        "numeroOriginal": 5
+      },
+      "enunciado": "<p>O Brasil abriga uma ampla variedade de serpentes, abelhas do gênero <em>Apis</em>, aranhas, escorpiões e outros animais peçonhentos, cujas picadas, ferroadas ou mordidas podem resultar em graves consequências para a saúde humana.</p><p>Sobre os animais citados no texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "atuam como parasitas nos seres humanos e nos animais domesticados, causando doenças, alergias e dor.",
+        "B": "possuem esqueleto externo quitinoso, rígido e resistente, o qual é trocado periodicamente para poderem crescer.",
+        "C": "os escorpiões, as aranhas e as abelhas são insetos importantes, pois atuam como consumidores primários nas cadeias alimentares.",
+        "D": "as serpentes possuem quelíceras inoculadoras de veneno na região bucal, a fim de paralisar a presa e iniciar o processo digestivo.",
+        "E": "o escorpião usa o ferrão, localizado na ponta de sua cauda, para injetar o veneno, provocando dor local e a necessidade de atendimento médico."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O ferrão do escorpião fica na ponta da cauda e injeta veneno, que causa dor local e pode exigir atendimento médico. Alternativa <strong>E</strong>.</p><p>Esses animais não são parasitas: picam para se defender ou caçar (A). Serpentes não têm exoesqueleto de quitina (B). Escorpiões e aranhas são aracnídeos, não insetos, e são predadores (C). E quelíceras são de aracnídeos; serpentes têm presas (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "animais peçonhentos",
+        "artrópodes"
+      ]
+    },
+    {
+      "numero": 6,
+      "materia": "Biologia",
+      "assunto": "Genética",
+      "origem": {
+        "numeroOriginal": 6
+      },
+      "enunciado": "<p>Um exemplo do emprego da biotecnologia em técnicas de engenharia genética é a produção de medicamentos como a insulina. O uso em larga escala de insulina sintética produzida a partir de bactérias, como a <em>Escherichia coli</em>, é um exemplo de como a tecnologia do DNA recombinante é aplicada para criar organismos geneticamente modificados, que se tornam “fábricas” de insulina, que é então colhida, purificada e usada no tratamento de seres humanos com diabetes.</p><p>Entre as características da tecnologia citada no texto, se destaca</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o enorme avanço científico na cura dos pacientes diabéticos por meio da produção de vacinas.",
+        "B": "a produção de proteínas humanas pela técnica do DNA recombinante, utilizando organismos pluricelulares, como as bactérias.",
+        "C": "a criação da insulina sintética idêntica à produzida pelo pâncreas no corpo humano para o tratamento de pacientes diabéticos.",
+        "D": "a produção de insulina sintética para pacientes diabéticos, aumentando o risco de infecções e reações imunológicas adversas.",
+        "E": "a inserção de genes humanos mutantes em animais, que passam a produzir proteínas humanas para serem utilizadas na cura de pacientes diabéticos."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O gene humano da insulina é inserido na bactéria, que passa a produzir a <strong>mesma insulina</strong> que o pâncreas humano produz. Alternativa <strong>C</strong>.</p><p>A insulina trata o diabetes, não o cura, e não é vacina (A). Bactérias são unicelulares (B). A insulina humana recombinante reduz, e não aumenta, as reações imunológicas, comuns na antiga insulina de origem animal (D). E o texto fala de genes normais inseridos em bactérias, não de genes mutantes em animais (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "biotecnologia",
+        "DNA recombinante"
+      ]
+    },
+    {
+      "numero": 7,
+      "materia": "Física",
+      "assunto": "Eletricidade",
+      "origem": {
+        "numeroOriginal": 7
+      },
+      "enunciado": "<p>Analise a placa de identificação de dados técnicos colocada no produto denominado escova secadora rotativa da marca Physics:</p>[[fig:1]]<p>A partir das informações apresentadas na placa e desprezando as possíveis perdas de energia, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q07.webp",
+          "alt": "Placa de identificação “Physics – Escova secadora rotativa”: 127 V ~; 1270 W; 60 Hz. Tabela de temperaturas: frio ≈ 25 ºC, baixa ≈ 70 ºC, média ≈ 120 ºC, alta ≈ 150 ºC."
+        }
+      ],
+      "alternativas": {
+        "A": "a corrente elétrica nominal de operação é de 10 A.",
+        "B": "127 V equivale à potência nominal útil de operação.",
+        "C": "1 270 W corresponde à ddp máxima aplicada à escova.",
+        "D": "60 Hz equivale à frequência de rotação da escova secadora.",
+        "E": "a temperatura ambiente para uso deve estar entre 25 ºC e 150 ºC."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Como P = U · i, a corrente é i = P ÷ U = 1 270 ÷ 127 = <strong>10 A</strong>. Alternativa <strong>A</strong>.</p><p>127 V é a tensão, não a potência (B), e 1 270 W é a potência, não a tensão (C). 60 Hz é a frequência da corrente alternada da rede, não da rotação da escova (D). E 25 ºC a 150 ºC são as temperaturas do ar que sai da escova, não do ambiente (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "potência elétrica"
+      ]
+    },
+    {
+      "numero": 8,
+      "materia": "Física",
+      "assunto": "Dinâmica",
+      "origem": {
+        "numeroOriginal": 8
+      },
+      "enunciado": "<p>O sistema chamado <em>grooving</em> consiste na criação de ranhuras transversais em superfícies de concreto para aumentar a tração e facilitar a drenagem da água. Essa técnica é especialmente útil em rodovias e pistas de pouso e decolagem, pois reduz os riscos de derrapagem e de hidroplanagem.</p><p>Com base nas informações do texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o <em>grooving</em> permite a ação de uma maior força de atrito entre o pneu e o piso.",
+        "B": "não há coeficiente de atrito estático ou dinâmico entre água e a borracha do pneu.",
+        "C": "as ranhuras permitem o acúmulo de água e, consequentemente, maior segurança.",
+        "D": "a hidroplanagem faz com que haja um aumento na força de atrito entre a água e o pneu.",
+        "E": "a drenagem da água provocada pelo <em>grooving</em> aumenta a chance de derrapagem do avião ao pousar."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>As ranhuras escoam a água e deixam o pneu em contato direto com o piso, o que aumenta o atrito e a tração. Alternativa <strong>A</strong>.</p><p>Há atrito entre a água e a borracha, só que bem menor (B). As ranhuras drenam a água, não a acumulam (C). Na hidroplanagem, a lâmina de água separa o pneu do piso e o atrito cai (D). E drenar a água diminui, não aumenta, a chance de derrapar (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "atrito"
+      ]
+    },
+    {
+      "numero": 9,
+      "materia": "Física",
+      "assunto": "Ondas",
+      "origem": {
+        "numeroOriginal": 9
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 09 e 10.</p><p class=\"apoio\">Código de barras lineares é formado por barras pretas e brancas paralelas. Para sua leitura, são utilizados “leitores ópticos”. Esses leitores utilizam um LED o qual emite feixes de luz, geralmente vermelha ou infravermelha, que, ao refletir, é captada por um fotodiodo e convertida em corrente elétrica. Essa corrente é amplificada e transformada em sinal digital (0 e 1) de acordo com as barras, que são decodificadas por um algoritmo no processador acoplado ao leitor óptico.</p><p>Com base nessas informações, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "as barras pretas refletem a luz recebida e as brancas a absorvem.",
+        "B": "a luz infravermelha é absorvida pelo ar antes de chegar às barras paralelas.",
+        "C": "o algoritmo do processador define a sequência em que as barras serão impressas.",
+        "D": "a corrente elétrica estabelecida pelo decodificador é provocada pelos sinais digitais 0 e 1.",
+        "E": "a energia captada pelos leitores ópticos origina-se de ondas eletromagnéticas transversais."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A luz vermelha ou infravermelha emitida pelo LED é uma <strong>onda eletromagnética</strong>, e toda onda eletromagnética é transversal. É dela que vem a energia captada pelo fotodiodo. Alternativa <strong>E</strong>.</p><p>As barras pretas absorvem a luz, e as brancas refletem (A). O ar não absorve o infravermelho a ponto de impedir a leitura (B). O algoritmo decodifica as barras, não define a impressão (C). E é a corrente que gera o sinal digital, não o contrário (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "luz",
+        "ondas eletromagnéticas"
+      ]
+    },
+    {
+      "numero": 10,
+      "materia": "Física",
+      "assunto": "Ondas",
+      "origem": {
+        "numeroOriginal": 10
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 09 e 10.</p><p class=\"apoio\">Código de barras lineares é formado por barras pretas e brancas paralelas. Para sua leitura, são utilizados “leitores ópticos”. Esses leitores utilizam um LED o qual emite feixes de luz, geralmente vermelha ou infravermelha, que, ao refletir, é captada por um fotodiodo e convertida em corrente elétrica. Essa corrente é amplificada e transformada em sinal digital (0 e 1) de acordo com as barras, que são decodificadas por um algoritmo no processador acoplado ao leitor óptico.</p><p>Suponha que, em uma leitura de código de barras, um leitor óptico emite um feixe de laser na faixa do espectro infravermelho. Considere que \\(c \\cong 3{,}0 \\times 10^8\\) m/s; e que \\(\\lambda \\cong 1\\,000\\) nm \\(= 1\\,000 \\times 10^{-9}\\) m.</p><p>Sendo \\(c = \\lambda \\cdot f\\), podemos afirmar corretamente que a ordem de grandeza da frequência f, em Hz, é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "10<sup>16</sup>",
+        "B": "10<sup>14</sup>",
+        "C": "10<sup>12</sup>",
+        "D": "10<sup>10</sup>",
+        "E": "10<sup>8</sup>"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>λ = 1 000 × 10⁻⁹ m = 10⁻⁶ m. Então f = c ÷ λ = 3,0 × 10⁸ ÷ 10⁻⁶ = 3,0 × 10¹⁴ Hz. Como 3 é menor que 3,16 (√10), a ordem de grandeza é <strong>10¹⁴</strong>. Alternativa <strong>B</strong>.</p><p>10⁸ é a ordem de grandeza da velocidade da luz, não da frequência (E). As outras vêm de errar o expoente ao dividir pelas potências de 10.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "frequência",
+        "notação científica"
+      ]
+    },
+    {
+      "numero": 11,
+      "materia": "Física",
+      "assunto": "Cinemática",
+      "origem": {
+        "numeroOriginal": 11
+      },
+      "enunciado": "<p>Observe a imagem que tem circulado nas mídias sociais:</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yfrddjc4&gt; Acesso em 21.08.2025. Original colorido.</p><p>Suponhamos que a bailarina esteja saltando no cabo de uma colher com a finalidade de jogar o cubo de açúcar, localizado na outra extremidade da colher, dentro da caneca, de forma certeira.</p><p>No momento exato em que a bailarina atingir completamente o cabo, o açúcar será lançado.</p><p>Nesse caso, desprezando a resistência do ar, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q11.webp",
+          "alt": "Desenho com os textos “Vamos mergulhar em um novo dia!” e “bom dia!”. Uma bailarina pequena salta, de braços erguidos, sobre o cabo de uma colher deitada; na outra ponta da colher está um cubo de açúcar. Ao lado, uma caneca grande de café fumegante."
+        }
+      ],
+      "alternativas": {
+        "A": "a força horizontal de reação da bailarina sobre o cubo de açúcar será diferente de zero.",
+        "B": "o cubo de açúcar traçará uma trajetória horizontal e retilínea.",
+        "C": "a bailarina deixará de sofrer ação da força gravitacional.",
+        "D": "uma força vertical para baixo sobre o cubo de açúcar o impulsionará para cima.",
+        "E": "o cubo de açúcar atingirá a caneca descrevendo uma trajetória parabólica."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Depois de lançado, o cubo só sofre a ação do peso (a resistência do ar é desprezada). Com velocidade inicial inclinada e aceleração constante para baixo, ele descreve uma <strong>parábola</strong> até a caneca. Alternativa <strong>E</strong>.</p><p>Depois do lançamento, a bailarina não age mais sobre o cubo (A). O peso curva a trajetória, que não é reta (B). A bailarina continua sob a ação da gravidade (C). E o cubo sobe porque a colher o empurra para cima, não por uma força para baixo (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "lançamento oblíquo"
+      ]
+    },
+    {
+      "numero": 12,
+      "materia": "Física",
+      "assunto": "Magnetismo",
+      "origem": {
+        "numeroOriginal": 12
+      },
+      "enunciado": "<p>O termo terras-raras se refere, na verdade, a um grupo de 17 elementos químicos. Desses elementos, destaca-se o Neodímio (Nd). Sua combinação de propriedades magnéticas e ópticas o torna muito importante para equipamentos eletrônicos e sistemas de defesa. Quando associado ao Ferro (Fe) e ao Boro (B), forma uma liga que se torna um poderoso ímã permanente.</p><p>Com base nas informações do texto sobre esse ímã criado e feito da liga descrita, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a utilização do Neodímio é opcional na construção da liga magnética.",
+        "B": "é encontrado diretamente na Natureza e é o responsável pelo campo geomagnético.",
+        "C": "possui um monopolo magnético com orientação única definida apenas como N (norte) ou apenas como S (sul).",
+        "D": "gera um intenso campo magnético com linhas de campo orientadas do polo norte para o polo sul na região externa ao imã.",
+        "E": "gera um fraco campo magnético interno com linhas de campo orientadas do polo leste para o oeste na região interna do ímã."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O ímã de neodímio-ferro-boro é um ímã permanente muito forte. Como todo ímã, fora dele as linhas de campo <strong>saem do polo norte e entram no polo sul</strong>. Alternativa <strong>D</strong>.</p><p>O neodímio é essencial na liga (A). A liga é produzida pelo ser humano, e o campo da Terra vem do seu núcleo (B). Não existe monopolo magnético: todo ímã tem norte e sul (C). E o campo é intenso, e os polos são norte e sul, não leste e oeste (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "ímãs",
+        "terras-raras"
+      ]
+    },
+    {
+      "numero": 13,
+      "materia": "Geografia",
+      "assunto": "Geopolítica",
+      "origem": {
+        "numeroOriginal": 13
+      },
+      "enunciado": "<p>A chamada Guerra Fria foi um período histórico marcado por um conflito político-ideológico, travado entre os Estados Unidos da América e a ex-União Soviética, entre 1947 e 1991. Esse período polarizou grande parte do mundo em dois grandes blocos, um alinhando-se ao capitalismo estadunidense e outro ao socialismo soviético.</p><p>Nesse período histórico, os Estados Unidos</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "lançaram o primeiro ser humano ao espaço, dando início, no contexto da Guerra Fria, à chamada Corrida Espacial.",
+        "B": "lançaram a primeira bomba atômica sobre o continente europeu, provocando a Corrida Armamentista entre as duas superpotências.",
+        "C": "lançaram um plano de assistência econômica para os países europeus devastados pela Segunda Guerra, denominado Plano Marshall.",
+        "D": "criaram o Pacto de Varsóvia, uma aliança militar dos países capitalistas, para fazer frente a OTAN (Organização do Tratado do Atlântico Norte), a aliança militar dos países socialistas.",
+        "E": "criaram o COMECON (Conselho de Ajuda Econômica Mútua) para oferecer respaldo técnico e científico para que os países da Europa Oriental, destruídos na Primeira Guerra, pudessem se reconstruir rapidamente."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Em 1947, os Estados Unidos lançaram o <strong>Plano Marshall</strong>, de ajuda econômica à reconstrução da Europa Ocidental depois da Segunda Guerra, também para conter a influência soviética. Alternativa <strong>C</strong>.</p><p>O primeiro ser humano no espaço foi o soviético Yuri Gagarin (A). As bombas atômicas dos EUA caíram no Japão, não na Europa (B). O Pacto de Varsóvia era a aliança dos socialistas, e a OTAN, a dos capitalistas (D). E o COMECON foi criado pela URSS, depois da Segunda Guerra (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Guerra Fria"
+      ]
+    },
+    {
+      "numero": 14,
+      "materia": "Geografia",
+      "assunto": "Clima",
+      "origem": {
+        "numeroOriginal": 14
+      },
+      "enunciado": "<p class=\"apoio\">O intemperismo é um conjunto de processos que desagregam e decompõem as rochas. O intemperismo físico ocorre basicamente por adaptações a variações de temperatura e de pressão. O intemperismo químico ocorre quando a água, em estado líquido, entra em contato com as rochas, promovendo reações químicas.</p><p class=\"fonte\">&lt;https://tinyurl.com/mtpbx9zx&gt; Acesso em: 28.08.2025. Adaptado.</p><p>Com base no texto, é correto afirmar que o intemperismo</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "físico predomina na floresta do Congo, na África.",
+        "B": "físico predomina na região do Sahel, no continente africano.",
+        "C": "químico predomina nas regiões polares da Terra.",
+        "D": "químico predomina no domínio da caatinga brasileira.",
+        "E": "químico predomina no deserto do Atacama, situado no norte do Chile."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O intemperismo físico predomina onde há grande variação de temperatura e pouca água, como no clima semiárido do <strong>Sahel</strong>, na borda sul do Saara. Alternativa <strong>B</strong>.</p><p>Na floresta do Congo, quente e úmida, predomina o químico (A). Nas regiões polares e nos desertos, como o Atacama, a água líquida é escassa e predomina o físico (C e E). E a caatinga, semiárida, também tem predomínio do físico (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "intemperismo"
+      ]
+    },
+    {
+      "numero": 15,
+      "materia": "Geografia",
+      "assunto": "Clima",
+      "origem": {
+        "numeroOriginal": 15
+      },
+      "enunciado": "<p class=\"apoio\">Quando o vapor d’água presente na atmosfera chega ao seu nível de saturação, ocorrem as chuvas. As chuvas denominadas ___________ ocorrem quando o ar úmido é forçado a se elevar ao cruzar montanhas, formando densas nuvens que produzem precipitações (chuvas).</p><p class=\"fonte\">&lt;https://tinyurl.com/yc636rfp&gt; Acesso em: 12.09.2025. Adaptado.</p><p>Assinale a alternativa que completa corretamente a lacuna no texto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "ácidas",
+        "B": "saraivas",
+        "C": "frontais",
+        "D": "convectivas",
+        "E": "orográficas"
+      },
+      "gabarito": "E",
+      "explicacao": "<p>As chuvas <strong>orográficas</strong> (ou de relevo) acontecem quando o ar úmido sobe ao encontrar uma montanha, esfria e condensa. Alternativa <strong>E</strong>.</p><p>Chuva ácida é a que tem poluentes dissolvidos (A). Saraiva é granizo (B). Chuvas frontais vêm do encontro de massas de ar (C). E as convectivas vêm do ar quente que sobe por aquecimento da superfície, comuns nas tardes de verão (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tipos de chuva"
+      ]
+    },
+    {
+      "numero": 16,
+      "materia": "Geografia",
+      "assunto": "Urbanização",
+      "origem": {
+        "numeroOriginal": 16
+      },
+      "enunciado": "<p class=\"apoio\">De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), favelas e comunidades urbanas são territórios populares originados das diversas estratégias utilizadas pela população para atender, geralmente de forma autônoma e coletiva, às suas necessidades de moradia e usos associados.</p><p class=\"fonte\">&lt;https://tinyurl.com/ywtkae6v&gt; Acesso em: 28.08.2025. Adaptado.</p><p>A existência desses territórios populares no Brasil está vinculada à</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "incongruência das leis que versam sobre o planejamento urbano, pois não permitem a construção de moradias populares nas regiões metropolitanas.",
+        "B": "incoerência no modelo de ocupação territorial urbana, pois inibe a construção desse tipo de moradia em morros e fundos de vale.",
+        "C": "inexistência de residências desocupadas nas grandes cidades, gerando escassez de imóveis para a população de baixa renda.",
+        "D": "insistência do poder público em proibir a verticalização destinada à moradia nas regiões centrais das grandes cidades.",
+        "E": "insuficiência de políticas públicas e de investimentos privados dirigidos à garantia do direito à cidade."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>As favelas e comunidades urbanas surgem quando a população de baixa renda não tem acesso à moradia formal e resolve o problema por conta própria. A causa é a <strong>insuficiência de políticas públicas e de investimentos</strong> em moradia e infraestrutura. Alternativa <strong>E</strong>.</p><p>Há leis que permitem e incentivam moradias populares (A). Muitas favelas ocupam justamente morros e fundos de vale (B). Existem muitos imóveis vazios nas grandes cidades, inacessíveis pelo preço (C). E o poder público não proíbe a verticalização nas regiões centrais (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "favelas",
+        "direito à cidade"
+      ]
+    },
+    {
+      "numero": 17,
+      "materia": "Geografia",
+      "assunto": "População",
+      "origem": {
+        "numeroOriginal": 17
+      },
+      "enunciado": "<p class=\"apoio\">A população brasileira era de 213,4 milhões de habitantes até primeiro de julho de 2025, segundo estimativa divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O número representa uma alta de 0,39% em relação ao ano passado.</p><p class=\"fonte\">&lt;https://tinyurl.com/yc3yb3dv&gt; Acesso em: 02.09.2025. Adaptado.</p><p>Com base no texto, é correto afirmar que a população brasileira está</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "crescendo rapidamente, pois a taxa de natalidade está em curva acelerada de crescimento.",
+        "B": "crescendo, porém, em ritmo cada vez mais lento, pois a taxa de fecundidade tem diminuído ao longo dos anos.",
+        "C": "crescendo mais do que o esperado, em função do aumento significativo da taxa de crescimento vegetativo.",
+        "D": "crescendo de maneira bastante lenta, pois a taxa de fertilidade está em ascensão contínua desde o censo de 2010.",
+        "E": "crescendo exponencialmente, já que a diminuição das taxas de mortalidade fez a taxa de natalidade aumentar significativamente."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Um aumento de 0,39% ao ano é baixo. A população brasileira ainda cresce, mas cada vez mais devagar, porque a <strong>taxa de fecundidade vem caindo</strong> há décadas. Alternativa <strong>B</strong>.</p><p>A natalidade está em queda, não acelerando (A e E). O crescimento vegetativo diminui, não aumenta (C). E a fecundidade cai desde antes de 2010, não está em ascensão (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "crescimento demográfico",
+        "fecundidade"
+      ]
+    },
+    {
+      "numero": 18,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 18
+      },
+      "enunciado": "<p class=\"apoio\">Negacionismo climático é toda manifestação contrária ao fenômeno do aquecimento global provocado pelo aumento das emissões antrópicas. Para a Ciência, sim, há evidências incontestáveis de que a temperatura no planeta está aumentando e deve subir ainda mais, podendo chegar a níveis perigosos se nada for feito para impedir.</p><p class=\"fonte\">&lt;https://tinyurl.com/mse5s6u9&gt; Acesso em: 02.09.2025. Adaptado.</p><p>O negacionismo climático <strong>desconsidera</strong> evidências científicas comprovadas, como</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a compreensão de que as ações humanas não acarretam o aquecimento global, cuja causa advém de processos exclusivamente naturais.",
+        "B": "o fato de que a temperatura média global tem aumentado, sendo que a última década foi a mais quente já registrada.",
+        "C": "a tese de que, em menos de cem anos, a Terra passará por uma nova Era do Gelo, que colocará fim aos processos de aquecimento global.",
+        "D": "o entendimento de que a humanidade e o meio ambiente se adaptam a quaisquer mudanças e que a ciência já possui soluções técnicas para resfriar a Terra.",
+        "E": "a certeza de que gases de efeito estufa não são os responsáveis pelo aquecimento global e que a produção desses gases vem diminuindo desde a década de 1990."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A pergunta pede uma evidência científica que o negacionismo ignora. Medições mostram que <strong>a temperatura média global está subindo</strong>, e a última década foi a mais quente já registrada. Alternativa <strong>B</strong>.</p><p>As outras alternativas não são evidências científicas, mas ideias do próprio negacionismo: que a causa é só natural (A), que virá uma Era do Gelo (C), que tudo se adapta ou já há solução técnica (D), e que os gases de efeito estufa não são os responsáveis (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "aquecimento global",
+        "negacionismo"
+      ]
+    },
+    {
+      "numero": 19,
+      "materia": "História",
+      "assunto": "Antiguidade",
+      "origem": {
+        "numeroOriginal": 19
+      },
+      "enunciado": "<p>O período helenístico, iniciado por Alexandre Magno, fundiu a cultura grega com as de outros povos, impulsionando avanços em diversas áreas. Um exemplo desses avanços é o trabalho de Eratóstenes na cidade de Alexandria, no Egito. Lá, além de dirigir a famosa biblioteca, ele calculou a circunferência da Terra utilizando conhecimentos de geometria básica. Ele observou a diferença dos ângulos das sombras em duas cidades distantes (Alexandria e Syene) em um determinado dia do ano e acrescentou, aos cálculos, a medida da distância entre elas.</p><p>O cálculo de Eratóstenes</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "levou à descoberta de um novo continente, a América, séculos antes das Grandes Navegações.",
+        "B": "baseava-se em mitos e narrativas religiosas sobre a criação do mundo, comumente aceitos na época.",
+        "C": "foi encomendado pelo imperador romano Júlio César, para melhorar a qualidade dos mapas usados por suas legiões.",
+        "D": "provou que todo o conhecimento científico deveria ser produzido na Grécia, desvalorizando as contribuições de outras culturas.",
+        "E": "fortaleceu a teoria de que a Terra é geodésica, e não plana, um conceito que revolucionou a Geografia e a Astronomia."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Eratóstenes usou as sombras em duas cidades e a distância entre elas para medir a circunferência da Terra. O cálculo só faz sentido se a Terra for curva, e <strong>reforçou a ideia de uma Terra esférica</strong>. Alternativa <strong>E</strong>.</p><p>A América só chegou ao conhecimento europeu com as Grandes Navegações (A). O cálculo usava geometria e observação, não mitos (B). Eratóstenes viveu no século III a.C., antes de Júlio César (C). E o período helenístico justamente misturou a cultura grega com a de outros povos (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "período helenístico",
+        "Eratóstenes"
+      ]
+    },
+    {
+      "numero": 20,
+      "materia": "História",
+      "assunto": "Revolução Industrial",
+      "origem": {
+        "numeroOriginal": 20
+      },
+      "enunciado": "<p>O primeiro motor a vapor foi patenteado por Thomas Savery, em 1698. Em 1712, Thomas Newcomen aperfeiçoou o projeto, criando uma bomba a vapor mais poderosa. Na década de 1760, James Watt projetou uma estrutura, chamada de condensador, que resfriava o vapor fora do cilindro principal do motor, evitando o constante aquecimento e resfriamento do cilindro e tornando o motor mais eficiente e econômico no uso do carvão, aumentando significativamente os possíveis usos para essa invenção-chave.</p><p>Assinale a alternativa que explica corretamente as consequências do aperfeiçoamento tecnológico descrito.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "A invenção de Watt popularizou a energia elétrica, que substituiu o carvão como a principal fonte de energia do século XVIII.",
+        "B": "A máquina de Watt era menos eficiente e potente que a de Newcomen, mas tinha custo de produção mais acessível.",
+        "C": "A criação de Watt foi a primeira máquina a vapor da história e não se baseou em conhecimentos ou máquinas preexistentes.",
+        "D": "A inovação de Watt, ao aumentar a eficiência energética, tornou a máquina a vapor economicamente viável e impulsionou a Revolução Industrial.",
+        "E": "A intenção de Watt, ao introduzir o condensador, era substituir o uso do carvão pelo da energia hidráulica, tornando o motor mais sustentável."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O condensador de Watt deixou a máquina a vapor mais eficiente e econômica no uso do carvão, o que a tornou <strong>viável</strong> para fábricas, minas e transportes e impulsionou a Revolução Industrial. Alternativa <strong>D</strong>.</p><p>A energia elétrica só se difundiu no fim do século XIX (A). A máquina de Watt era mais eficiente que a de Newcomen (B). Ela aperfeiçoou máquinas já existentes (C). E continuou usando carvão (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "máquina a vapor"
+      ]
+    },
+    {
+      "numero": 21,
+      "materia": "História",
+      "assunto": "História contemporânea",
+      "origem": {
+        "numeroOriginal": 21
+      },
+      "enunciado": "<p>O período conhecido como Belle Époque foi marcado por descobertas científicas e inovações tecnológicas que transformaram o cotidiano, a cultura e a percepção de mundo das pessoas. Novos inventos, como a lâmpada elétrica, o telefone, o gramofone e o automóvel, modernizaram as casas, aceleraram as comunicações e redefiniram os hábitos de consumo e de entretenimento de uma parcela da sociedade.</p><p>Esses avanços tecnológicos</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "eliminaram os espetáculos públicos, pois as famílias se isolaram em suas casas, sem comunicação com o mundo exterior.",
+        "B": "aceleraram o ritmo de vida, modernizaram os lares das elites e criaram uma cultura urbana de consumo e entretenimento.",
+        "C": "provocaram uma volta ao passado, marcada pela rejeição das inovações e pela valorização dos estilos artísticos medievais.",
+        "D": "tornaram-se acessíveis a toda a população, eliminando as diferenças sociais e criando uma homogênea cultura de massas.",
+        "E": "foram dominados pela aristocracia rural, que controlava a produção de todas as novas tecnologias em suas propriedades no campo."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Os novos inventos aceleraram o ritmo de vida, modernizaram as casas de quem podia pagar e criaram uma <strong>cultura urbana de consumo e entretenimento</strong>. Alternativa <strong>B</strong>.</p><p>Os espetáculos públicos, como cinema e cafés-concerto, cresceram (A). A época valorizava o moderno, não o medieval (C). As novidades chegavam a “uma parcela da sociedade”, não a todos (D). E a produção era industrial e urbana, não da aristocracia rural (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Belle Époque"
+      ]
+    },
+    {
+      "numero": 22,
+      "materia": "História",
+      "assunto": "História contemporânea",
+      "origem": {
+        "numeroOriginal": 22
+      },
+      "enunciado": "<p>“Guerra Fria” é o nome dado a um período de rivalidade político-ideológica entre Estados Unidos (EUA) e União Soviética (URSS). Os dois países não se enfrentaram diretamente; a disputa entre eles se manifestou em conflitos regionais ou “guerras por procuração”, nas quais apoiavam lados opostos fornecendo armamentos, dinheiro e assessores militares.</p><p>Assinale a alternativa que apresenta, corretamente, o papel da tecnologia nos conflitos citados.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "As superpotências forneceram tecnologias e armamentos para seus aliados, utilizando os conflitos regionais para testar suas doutrinas e seus equipamentos militares.",
+        "B": "O uso de tecnologia foi irrelevante, já que a vitória nesses conflitos foi decidida pelo número de soldados enviados por EUA e URSS e pela motivação ideológica das tropas locais.",
+        "C": "A tecnologia militar utilizada era obsoleta e pouco eficaz, pois tanto EUA quanto URSS tinham medo de que armas modernas pudessem causar uma guerra nuclear total.",
+        "D": "Uma tecnologia utilizada foi a bomba atômica, lançada por ambos os lados em várias batalhas para forçar a rendição do inimigo.",
+        "E": "Os EUA e a URSS enviaram tropas próprias, com equipamentos avançados, para lutar diretamente um contra o outro no Vietnã e na Coreia."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Nas guerras por procuração, EUA e URSS forneciam armas e tecnologia aos aliados e usavam esses conflitos para <strong>testar seus equipamentos e suas doutrinas</strong>. Alternativa <strong>A</strong>.</p><p>A tecnologia foi decisiva, e não irrelevante (B). As armas eram modernas (C). Nenhuma bomba atômica foi usada em combate depois de 1945 (D). E as duas superpotências nunca lutaram diretamente uma contra a outra (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Guerra Fria"
+      ]
+    },
+    {
+      "numero": 23,
+      "materia": "História",
+      "assunto": "Povos indígenas",
+      "origem": {
+        "numeroOriginal": 23
+      },
+      "enunciado": "<p>Quando os portugueses chegaram ao território que hoje é o Brasil, no século XVI, encontraram uma grande diversidade de povos indígenas, que desenvolveram tecnologias e técnicas de manejo da natureza originais. Uma dessas técnicas é a coivara, descrita no texto.</p><p class=\"apoio\">Primeiro, derruba-se um trecho de mato, não muito grande. Depois de deixar o mato derrubado secar por um tempo, coloca-se o fogo, que limpa a área e a cobre de cinzas. Em seguida, faz-se uma limpeza na roça, tirando galhos e restos de árvores que não queimaram. Com as primeiras chuvas, plantam-se numa mesma roça diferentes espécies, como milho, feijão, mandioca, batata, cará. Esse é um jeito de garantir a fertilidade do solo e evitar pragas. Depois é só manter a roça limpa. Ainda hoje, a coivara é uma técnica praticada em todo o território brasileiro. O impacto ambiental que esta técnica provoca é pequeno porque nunca se derruba uma área grande e, além disso, depois de alguns anos de uso, a roça é abandonada e a floresta volta a crescer.</p><p class=\"fonte\">&lt;https://tinyurl.com/2brqskhm&gt; Acesso em: 10.09.2025.</p><p>Segundo o texto, essa prática indígena</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "foi responsável pelo desmatamento de grandes áreas da Mata Atlântica já no século XVI, o que levou à extinção de espécies animais.",
+        "B": "é primitiva e insustentável, pois o uso do fogo causa desertificação e impede que a floresta se recupere após o abandono da roça.",
+        "C": "utiliza o fogo de forma controlada e permite a regeneração natural do solo, o que minimiza os impactos ambientais.",
+        "D": "foi copiada dos portugueses, que já praticavam a queimada em larga escala na Europa antes da chegada ao Brasil.",
+        "E": "tinha finalidade ritualística religiosa, sem objetivo de produção de alimentos ou manejo do solo."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto diz que a coivara derruba áreas pequenas, usa o fogo para limpar a roça e, depois de alguns anos, abandona a área para a floresta voltar a crescer. Por isso o impacto é pequeno. Alternativa <strong>C</strong>.</p><p>O texto diz que nunca se derruba uma área grande (A) e que a floresta volta a crescer (B). A técnica é indígena, anterior aos portugueses (D). E o objetivo é produzir alimentos (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "coivara"
+      ]
+    },
+    {
+      "numero": 24,
+      "materia": "História",
+      "assunto": "Era Vargas",
+      "origem": {
+        "numeroOriginal": 24
+      },
+      "enunciado": "<p>A Era Vargas foi um período marcado pela centralização política e por uma forte intervenção do Estado na economia. Vargas entendia que a industrialização e o desenvolvimento tecnológico eram fundamentais para garantir a soberania e a modernização do país. Seu governo criou empresas estatais e implementou medidas e políticas para impulsionar setores estratégicos, como mostra o quadro.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Área</th><th scope=\"col\">Medida implementada</th></tr></thead><tbody><tr><td>Siderurgia</td><td>Criação da Companhia Siderúrgica Nacional (CSN)</td></tr><tr><td>Combustíveis</td><td>Criação do Conselho Nacional do Petróleo</td></tr><tr><td>Ciência &amp; Tecnologia</td><td>Criação do Conselho Nacional de Pesquisas (CNPq)</td></tr></tbody></table></div><p>Ao adotar tais medidas, Vargas pretendia</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "isolar o Brasil tecnologicamente do resto do mundo, proibindo a importação de qualquer máquina ou <em>know-how</em> estrangeiro.",
+        "B": "reduzir a presença do Estado na economia para incentivar a livre iniciativa e a concorrência entre pequenas empresas nacionais de tecnologia.",
+        "C": "focar exclusivamente no desenvolvimento da agricultura de exportação, modernizando as técnicas de cultivo do café para aumentar as vendas para o exterior.",
+        "D": "privatizar empresas estatais para atrair capital estrangeiro e permitir que o mercado internacional definisse os rumos do desenvolvimento tecnológico brasileiro.",
+        "E": "promover a substituição de importações e fortalecer a base industrial e tecnológica nacional, com o Estado atuando como planejador e investidor em áreas consideradas estratégicas."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>CSN, Conselho do Petróleo e CNPq mostram o Estado investindo em setores de base para que o Brasil produzisse o que antes importava: é a <strong>substituição de importações</strong>, com o Estado como planejador e investidor. Alternativa <strong>E</strong>.</p><p>Vargas não isolou o país nem proibiu importações (A). Ele aumentou, e não reduziu, a presença do Estado (B). O foco era a indústria, não só o café (C). E ele criou estatais, não as privatizou (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "industrialização",
+        "estatais"
+      ]
+    },
+    {
+      "numero": 25,
+      "materia": "Inglês",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 25
+      },
+      "enunciado": "<p class=\"chamada\">Leia o quadrinho para responder às questões 25 e 26.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/45wd4hf5&gt; Acesso em: 11.09.2025. Original colorido.</p><p>Os pepinos acreditam que seu amigo, ao sair da piscina, está</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q25.webp",
+          "alt": "Quadrinho à beira de uma piscina. Um pepino sai da água e diz: “WHAT?”. Dois outros pepinos, um deles com uma toalha, olham para ele assustados e um comenta: “OH NO. THIS MUST BE ONE OF THOSE SALT-WATER POOLS”. O pepino que saiu da água está enrugado, com aparência de picles."
+        }
+      ],
+      "alternativas": {
+        "A": "cansado devido à alta temperatura da água.",
+        "B": "inchado devido ao ácido acético.",
+        "C": "desidratado devido à água salinizada.",
+        "D": "nauseado devido à água ionizada.",
+        "E": "fraco devido à água dessalinizada."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Um pepino em água salgada perde água por osmose e fica enrugado, virando picles. Os amigos acham que a piscina era de água salgada (<em>salt-water pool</em>) e que o amigo saiu <strong>desidratado</strong>. Alternativa <strong>C</strong>.</p><p>O quadrinho não fala de temperatura (A), vinagre (B), água ionizada (D) ou água sem sal (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "quadrinho"
+      ]
+    },
+    {
+      "numero": 26,
+      "materia": "Inglês",
+      "assunto": "Vocabulário",
+      "origem": {
+        "numeroOriginal": 26
+      },
+      "enunciado": "<p class=\"chamada\">Leia o quadrinho para responder às questões 25 e 26.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/45wd4hf5&gt; Acesso em: 11.09.2025. Original colorido.</p><p>A ocorrência do verbo <em>must</em> no quadrinho expressa</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q25.webp",
+          "alt": "Quadrinho à beira de uma piscina. Um pepino sai da água e diz: “WHAT?”. Dois outros pepinos, um deles com uma toalha, olham para ele assustados e um comenta: “OH NO. THIS MUST BE ONE OF THOSE SALT-WATER POOLS”. O pepino que saiu da água está enrugado, com aparência de picles."
+        }
+      ],
+      "alternativas": {
+        "A": "dedução.",
+        "B": "permissão.",
+        "C": "habilidade.",
+        "D": "obrigação.",
+        "E": "conselho."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Em “this <em>must</em> be one of those salt-water pools”, o pepino conclui algo a partir do que vê: <em>must</em> indica <strong>dedução</strong> (“deve ser”). Alternativa <strong>A</strong>.</p><p>Permissão seria <em>may</em> ou <em>can</em> (B), habilidade, <em>can</em> (C), e conselho, <em>should</em> (E). <em>Must</em> também pode indicar obrigação, mas não nessa frase (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "verbos modais"
+      ]
+    },
+    {
+      "numero": 27,
+      "materia": "Inglês",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 27
+      },
+      "enunciado": "<p>Leia a tirinha.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/4htnsnbb&gt; Acesso em: 12.09.2025.</p><p class=\"fonte\">A: Could you please... B: I already helped you once, so now be an independent woman. / A: What a sweetheart / A: Yes, Sir…independent, very independent, creative, strong, and … fearless! C: Can I help…? A: Not now, Henry, I’m busy being a woman!</p><p>De acordo com a garota da tirinha, pressupõe-se que uma mulher é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q27.webp",
+          "alt": "Tirinha em três quadros, numa cozinha. 1: uma menina tenta alcançar um pote numa prateleira alta e pede ajuda a um homem adulto, que se recusa e diz que ela deve ser uma mulher independente. 2: a menina, sozinha, comenta com ironia “What a sweetheart”. 3: a menina sobe numa cadeira com rodinhas, equilibrando-se para pegar o pote, e repete as palavras do homem; um menino oferece ajuda, e ela recusa, dizendo que está ocupada sendo uma mulher."
+        }
+      ],
+      "alternativas": {
+        "A": "independente, sincera e dócil.",
+        "B": "criativa, independente e forte.",
+        "C": "sincera, audaciosa e frágil.",
+        "D": "audaciosa, teimosa e criativa.",
+        "E": "forte, dócil e teimosa."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>No último quadro, a garota repete o que o homem disse: <em>independent, creative, strong, and fearless</em>. Pressupõe-se que a mulher é <strong>criativa, independente e forte</strong>. Alternativa <strong>B</strong>.</p><p>Ela não fala em sincera, dócil, frágil ou teimosa (A, C, D e E). “Fearless” (destemida) lembra “audaciosa”, mas essas alternativas trazem também uma qualidade que a garota não cita.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tirinha"
+      ]
+    },
+    {
+      "numero": 28,
+      "materia": "Inglês",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 28
+      },
+      "enunciado": "<p>Leia o excerto de um Estudo de Caso trabalhado pela Universidade de Stanford.</p><p class=\"apoio\">Brazil is an example of a country with a thriving electronic voting system. In 2000, it became the first country to have elections completely by an electronic voting system and has since remained at the forefront of the electronic voting movement.</p><p class=\"fonte\">&lt;https://tinyurl.com/3akwna7a&gt; Acesso em: 12.09.2025.</p><p>Segundo o texto, a urna eletrônica brasileira representa um caso de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "disputas demoradas em países emergentes.",
+        "B": "inovação em países subdesenvolvidos.",
+        "C": "atraso para um sistema democrático.",
+        "D": "vanguarda no cenário eleitoral.",
+        "E": "risco em eleições federais."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que o Brasil foi o primeiro país a fazer eleições totalmente eletrônicas e “has since remained at the forefront” (continua na dianteira). É um caso de <strong>vanguarda</strong>. Alternativa <strong>D</strong>.</p><p><em>Thriving</em> quer dizer próspero, bem-sucedido. O texto não fala de disputas demoradas (A), de país subdesenvolvido (B), de atraso (C) nem de risco (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "urna eletrônica"
+      ]
+    },
+    {
+      "numero": 29,
+      "materia": "Inglês",
+      "assunto": "Coesão e referência",
+      "origem": {
+        "numeroOriginal": 29
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 29 e 30.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/2b5acwut&gt; Acesso em: 13.09.2025.</p><p>Na última estrofe, a expressão <em>in fact</em> reforça que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q29.webp",
+          "alt": "Trecho da letra da canção “Rocket man”, de Elton John, em inglês e em itálico, com seis versos e uma supressão. O astronauta diz que sente falta da Terra e da esposa e que se sente sozinho no espaço; depois, diz que Marte não é lugar para criar filhos, que lá faz um frio terrível (verso com a expressão “in fact”) e que não haveria ninguém para criá-los."
+        }
+      ],
+      "alternativas": {
+        "A": "Marte não pode ser nosso lar, portanto, não poderemos criar nossos filhos lá.",
+        "B": "Marte poderia, de fato, ser um substituto para o planeta Terra.",
+        "C": "Marte, no entanto, traz boas perspectivas para moradia.",
+        "D": "Marte, apesar de frio, será nossa alternativa de lar.",
+        "E": "Marte, na verdade, é frio demais para nos abrigar."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A estrofe diz que Marte não é lugar para criar filhos e, em seguida, <em>in fact</em> (“na verdade”, “de fato”) reforça o motivo: <strong>lá é frio demais</strong>. Alternativa <strong>E</strong>.</p><p>A conclusão sobre os filhos está no verso anterior, não na expressão (A). A canção diz que Marte não serve de lar (B, C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "conectivos",
+        "canção"
+      ]
+    },
+    {
+      "numero": 30,
+      "materia": "Inglês",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 30
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 29 e 30.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/2b5acwut&gt; Acesso em: 13.09.2025.</p><p>A música de Elton John foi composta em 1972 e refere-se ao desenvolvimento da</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q29.webp",
+          "alt": "Trecho da letra da canção “Rocket man”, de Elton John, em inglês e em itálico, com seis versos e uma supressão. O astronauta diz que sente falta da Terra e da esposa e que se sente sozinho no espaço; depois, diz que Marte não é lugar para criar filhos, que lá faz um frio terrível (verso com a expressão “in fact”) e que não haveria ninguém para criá-los."
+        }
+      ],
+      "alternativas": {
+        "A": "clonagem de seres humanos.",
+        "B": "inteligência artificial.",
+        "C": "engenharia genética.",
+        "D": "exploração espacial.",
+        "E": "internet."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O título (“homem-foguete”) e os versos sobre a solidão no espaço e sobre Marte falam de um astronauta. Em 1972, a corrida espacial estava no auge: foi o ano da última missão tripulada à Lua. A canção se refere à <strong>exploração espacial</strong>. Alternativa <strong>D</strong>.</p><p>A letra não trata de clonagem, inteligência artificial, engenharia genética ou internet (A, B, C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "canção"
+      ]
+    },
+    {
+      "numero": 31,
+      "materia": "Matemática",
+      "assunto": "Análise combinatória",
+      "origem": {
+        "numeroOriginal": 31
+      },
+      "enunciado": "<p>Em 2018, o Brasil adotou um novo sistema de placas de veículos, o Mercosul, com o formato LLL NL NN, em que L representa uma letra do alfabeto romano (de 26 letras); e N representa um algarismo (de 0 a 9).</p><p>Assinale a alternativa que indica corretamente quantas placas diferentes, seguindo o padrão Mercosul, podem ser formadas utilizando apenas as vogais do alfabeto romano.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "125 000 placas",
+        "B": "200 000 placas",
+        "C": "456 976 placas",
+        "D": "625 000 placas",
+        "E": "676 000 placas"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>São 4 letras (5 vogais possíveis cada) e 3 algarismos (10 possibilidades cada): 5 · 5 · 5 · 10 · 5 · 10 · 10 = 5⁴ · 10³ = 625 · 1 000 = <strong>625 000</strong>. Alternativa <strong>D</strong>.</p><p>Esquecer a letra do meio (LLL NL NN tem quatro letras) dá 125 000 (A). E 456 976 = 26⁴ usa o alfabeto inteiro e esquece os algarismos (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "princípio multiplicativo"
+      ]
+    },
+    {
+      "numero": 32,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 32
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 32 e 33.</p><p class=\"apoio\">Foi inaugurada, em dezembro de 2022, na zona Oeste da cidade de São Paulo, a maior roda-gigante da América Latina, que tem 80 metros de diâmetro.</p><p class=\"fonte\">&lt;https://tinyurl.com/36bcbr2x&gt; Acesso em: 28.09.2025. Adaptado.</p><p>O comprimento, em metros, de uma circunferência que possua diâmetro igual ao da roda gigante mencionada no texto é de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "80π.",
+        "B": "160π.",
+        "C": "320π.",
+        "D": "3 200π.",
+        "E": "6 400π."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O comprimento da circunferência é C = 2πr = π · d. Com d = 80 m, C = <strong>80π</strong> m. Alternativa <strong>A</strong>.</p><p>160π vem de usar 2π · 80, tomando o diâmetro como raio (B). 6 400π é π · 80², que nem é fórmula de comprimento (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "circunferência"
+      ]
+    },
+    {
+      "numero": 33,
+      "materia": "Matemática",
+      "assunto": "Trigonometria",
+      "origem": {
+        "numeroOriginal": 33
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 32 e 33.</p><p class=\"apoio\">Foi inaugurada, em dezembro de 2022, na zona Oeste da cidade de São Paulo, a maior roda-gigante da América Latina, que tem 80 metros de diâmetro.</p><p class=\"fonte\">&lt;https://tinyurl.com/36bcbr2x&gt; Acesso em: 28.09.2025. Adaptado.</p><p>Suponha que, durante o passeio na roda gigante mencionada no texto, a altura de uma cabine possa ser modelada pela função:</p><p>\\[h(t) = 51 - 40\\cos\\left(\\frac{\\pi}{15}\\,t\\right)\\]</p><p>em que h(t) é a altura, em metros, da cabine em relação ao solo e t é o tempo, em minutos, desde o início do passeio no ponto mais baixo da roda gigante (t ≥ 0).</p><p>Assinale a alternativa que apresenta, respectivamente, a maior altura atingida pela cabine e o instante de tempo em que isso ocorre pela primeira vez.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "91 metros e 30 minutos",
+        "B": "91 metros e 15 minutos",
+        "C": "51 metros e 30 minutos",
+        "D": "51 metros e 15 minutos",
+        "E": "11 metros e 30 minutos"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A altura é máxima quando o cosseno vale −1: h = 51 − 40 · (−1) = <strong>91 m</strong>. Isso acontece pela primeira vez quando \\(\\frac{\\pi}{15}t = \\pi\\), ou seja, t = <strong>15 min</strong>. Alternativa <strong>B</strong>.</p><p>30 min é o instante em que a cabine volta ao ponto mais baixo (A). 51 m é a altura do centro da roda (C e D), e 11 m, a do ponto mais baixo (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "função cosseno"
+      ]
+    },
+    {
+      "numero": 34,
+      "materia": "Matemática",
+      "assunto": "Funções",
+      "origem": {
+        "numeroOriginal": 34
+      },
+      "enunciado": "<p>O pH de uma solução pode ser calculado por meio da expressão, pH = –log[H<sup>+</sup>], em que [H<sup>+</sup>] é a concentração em mol/L de íons de hidrogênio.</p><p>Dessa forma, adotando log 2 = 0,3, uma solução que tenha [H<sup>+</sup>] = 2 × 10<sup>–7</sup> mol/L terá pH igual a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "2,5.",
+        "B": "4,6.",
+        "C": "6,7.",
+        "D": "8,3.",
+        "E": "9,7."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>pH = −log(2 × 10⁻⁷) = −(log 2 + log 10⁻⁷) = −(0,3 − 7) = <strong>6,7</strong>. Alternativa <strong>C</strong>.</p><p>7,3 viria de somar o log 2 em vez de subtrair, e não está nas alternativas. Os outros valores não saem da propriedade do logaritmo do produto.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "logaritmo",
+        "pH"
+      ]
+    },
+    {
+      "numero": 35,
+      "materia": "Matemática",
+      "assunto": "Sequências",
+      "origem": {
+        "numeroOriginal": 35
+      },
+      "enunciado": "<p>Um plano de expansão de um provedor de internet pretende instalar 50 km de cabos no primeiro ano. A partir de então, a cada ano, a meta é instalar 15 km a mais que no ano anterior.</p><p>Supondo que esse padrão seja mantido, a quantidade de cabo instalada no décimo ano será de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "125 km.",
+        "B": "155 km.",
+        "C": "185 km.",
+        "D": "215 km.",
+        "E": "245 km."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A instalação forma uma progressão aritmética com a₁ = 50 e razão 15. O décimo termo é a₁₀ = 50 + 9 · 15 = <strong>185 km</strong>. Alternativa <strong>C</strong>.</p><p>Usar 10 · 15 em vez de 9 · 15 daria 200 km, que não está nas alternativas. 155 km seria o oitavo ano (B).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "progressão aritmética"
+      ]
+    },
+    {
+      "numero": 36,
+      "materia": "Matemática",
+      "assunto": "Funções",
+      "origem": {
+        "numeroOriginal": 36
+      },
+      "enunciado": "<p>Suponha que um laboratório estime o crescimento de uma cultura bacteriana utilizando a fórmula \\(N(t) = 1\\,000 \\cdot 2^{\\frac{t}{g}}\\), em que <em>N(t)</em> é o número de bactérias no tempo t (em minutos) e g é o tempo de geração, ou seja, o tempo para a população bacteriana duplicar.</p><p>Em determinado experimento, após 45 minutos, uma população de bactérias chegou a 8 000 bactérias.</p><p>O tempo de geração, g, dessa cultura bacteriana é de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "15 minutos.",
+        "B": "18 minutos.",
+        "C": "20 minutos.",
+        "D": "22 minutos.",
+        "E": "25 minutos."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>8 000 = 1 000 · 2^(45/g), então 2^(45/g) = 8 = 2³. Logo 45/g = 3 e g = <strong>15 minutos</strong>. Alternativa <strong>A</strong>.</p><p>A população dobrou três vezes (1 000 → 2 000 → 4 000 → 8 000) em 45 minutos: 15 minutos para cada duplicação. Os outros valores não dão um número inteiro de duplicações.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "função exponencial"
+      ]
+    },
+    {
+      "numero": 37,
+      "materia": "Matemática",
+      "assunto": "Operações e problemas",
+      "origem": {
+        "numeroOriginal": 37
+      },
+      "enunciado": "<p>Ao tirar fotos ou gerar imagens em preto-e-branco, os computadores armazenam essas informações como uma matriz de números inteiros que vão de 0 a 255. No exemplo, um mosaico quadriculado é armazenado por um computador como a matriz <em>A</em>.</p>[[fig:1]]<p>Essa forma de armazenamento possibilita realizar alterações na imagem. Suponha que um aplicativo de edição de imagens ofereça um filtro de edição que multiplica cada número da matriz <em>A</em> por \\(\\frac{1}{2}\\), gerando uma nova imagem representada por uma matriz <strong><em>S</em></strong>.</p><p>A respeito do número que ocupa a linha 2 e a coluna 3 da matriz <strong><em>S</em></strong>, é correto afirmar que ele é igual a</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q37.webp",
+          "alt": "Mosaico de 3 × 3 quadrados em tons de cinza, ao lado da mesma grade com os números de cada tom e da matriz A correspondente. Linha 1: 50, 248, 126. Linha 2: 10, 30, 168. Linha 3: 8, 84, 158."
+        }
+      ],
+      "alternativas": {
+        "A": "15.",
+        "B": "25.",
+        "C": "42.",
+        "D": "79.",
+        "E": "84."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O elemento da linha 2 e coluna 3 da matriz A é 168. Multiplicado por 1/2, fica <strong>84</strong>. Alternativa <strong>E</strong>.</p><p>15 é a metade de 30, da linha 2 e coluna 2 (A). 79 é a metade de 158, da linha 3 (D). E 42 é a metade de 84, da linha 3 e coluna 2 (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "matrizes"
+      ]
+    },
+    {
+      "numero": 38,
+      "materia": "Matemática",
+      "assunto": "Trigonometria",
+      "origem": {
+        "numeroOriginal": 38
+      },
+      "enunciado": "<p>Um drone parte de um ponto inicial A e percorre 20 km em uma trajetória retilínea formando um ângulo <em>θ</em> com o solo, atingindo um ponto B, a uma altura h em relação ao solo, conforme indicado na figura.</p><p>Adotando cos θ = 0,6 e sen θ = 0,8 , o valor de h é, em quilômetros,</p>[[fig:1]]",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q38.webp",
+          "alt": "Triângulo retângulo: o drone parte do ponto A, no solo, e sobe em linha reta 20 km até o ponto B, formando o ângulo θ com o solo. A altura h vai de B até o solo, na vertical, formando um ângulo reto."
+        }
+      ],
+      "alternativas": {
+        "A": "10.",
+        "B": "12.",
+        "C": "15.",
+        "D": "16.",
+        "E": "20."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A altura h é o cateto oposto ao ângulo θ, e os 20 km são a hipotenusa: h = 20 · sen θ = 20 · 0,8 = <strong>16 km</strong>. Alternativa <strong>D</strong>.</p><p>Usar o cosseno dá 12 km, que é a distância horizontal, não a altura (B).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "triângulo retângulo"
+      ]
+    },
+    {
+      "numero": 39,
+      "materia": "Matemática",
+      "assunto": "Notação científica",
+      "origem": {
+        "numeroOriginal": 39
+      },
+      "enunciado": "<p class=\"apoio\">Scientists long ago realized that we can’t find aliens by climbing into rockets and zipping off to other planetary systems. The enormous distances to the stars (even the nearest is 7 000 times farther than Pluto) means that we simply aren’t about to visit the aliens.</p><p class=\"apoio\">And while some people think that the extraterrestrials may be able to come here, this is not a popular idea among most scientists.</p><p class=\"fonte\">&lt;https://tinyurl.com/mz993pa3&gt; Acesso em: 27.09.2025. Adaptado.</p><p>A distância média de Plutão ao Sol é de aproximadamente 5,9 × 10<sup>9</sup> km, o que, de acordo com o texto, faz com que a estrela mais próxima do nosso Sistema Solar esteja a aproximadamente _____________ km. Isso justifica a ideia de os seres humanos encontrarem com extraterrestres ser ______________ entre a maior parte dos cientistas.</p><p>Assinale a alternativa que contém os termos, em ordem, que completam corretamente as lacunas no texto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "4,1 × 10<sup>10</sup> — muito popular",
+        "B": "4,1 × 10<sup>13</sup> — muito popular",
+        "C": "4,1 × 10<sup>9</sup> — pouco popular",
+        "D": "4,1 × 10<sup>10</sup> — pouco popular",
+        "E": "4,1 × 10<sup>13</sup> — pouco popular"
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O texto diz que a estrela mais próxima está 7 000 vezes mais longe que Plutão: 7 × 10³ · 5,9 × 10⁹ = 41,3 × 10¹² ≈ <strong>4,1 × 10¹³ km</strong>. E diz que a ideia de os ETs virem até aqui “is not a popular idea among most scientists”: é <strong>pouco popular</strong>. Alternativa <strong>E</strong>.</p><p>“Not a popular idea” não é “muito popular” (A e B). E 10⁹ e 10¹⁰ vêm de errar a soma dos expoentes (C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "inglês"
+      ]
+    },
+    {
+      "numero": 40,
+      "materia": "Química",
+      "assunto": "Separação de misturas",
+      "origem": {
+        "numeroOriginal": 40
+      },
+      "enunciado": "<p class=\"apoio\">Um método de baixo custo desenvolvido por pesquisadores brasileiros para remover os micro e nanoplásticos da água utiliza nanopartículas magnéticas modificadas com polidopamina. Essas nanopartículas aderem firmemente aos fragmentos de plástico presentes na água. Isso permite que esse material indesejável seja removido da água com o auxílio de um ímã.</p><p class=\"fonte\">&lt;https://tinyurl.com/4tcdfz94&gt; Acesso em: 04.09.2025. Adaptado.</p><p>Assinale a alternativa que apresenta o nome correto do processo de separação de misturas utilizado para remover os micro e os nanoplásticos da água.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Filtração",
+        "B": "Catação",
+        "C": "Decantação",
+        "D": "Destilação simples",
+        "E": "Separação magnética"
+      },
+      "gabarito": "E",
+      "explicacao": "<p>As nanopartículas magnéticas grudam no plástico, e o conjunto é retirado da água com um ímã: <strong>separação magnética</strong>. Alternativa <strong>E</strong>.</p><p>Filtração usa um filtro poroso (A), catação separa à mão (B), decantação usa a diferença de densidade e a gravidade (C), e destilação usa a diferença de ponto de ebulição (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 41,
+      "materia": "Química",
+      "assunto": "Química orgânica",
+      "origem": {
+        "numeroOriginal": 41
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 41 e 42.</p><p>Os compostos perfluoralquilados e polifluoroalquilados (PFAS) são produzidos por meio da substituição dos átomos de hidrogênio da cadeia carbônica pelo elemento mais eletronegativo conhecido.</p><p>Considere as fórmulas estruturais de dois compostos orgânicos, dos quais apenas um deles pertence ao grupo dos PFAS.</p>[[fig:1]]<p>Assinale a alternativa que contém o valor aproximado da porcentagem em massa de carbono do composto orgânico que pertence ao grupo dos PFAS.</p><p>Massas molares em g/mol:</p><p>C = 12; H = 1; O = 16; F = 19; Cℓ = 35,5; N = 14</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q41.webp",
+          "alt": "Duas fórmulas estruturais. À esquerda, uma cadeia de três carbonos ligada a um grupo COOH: o primeiro carbono tem um Cl à esquerda, um OH em cima e um Cl embaixo; o segundo tem Cl em cima e embaixo; o terceiro tem H em cima e embaixo. À direita, uma cadeia de três carbonos ligada a um grupo COOH em que todas as outras posições são ocupadas por F: o primeiro carbono tem F à esquerda, em cima e embaixo; o segundo e o terceiro têm F em cima e embaixo."
+        }
+      ],
+      "alternativas": {
+        "A": "11,5",
+        "B": "22,4",
+        "C": "34,9",
+        "D": "41,1",
+        "E": "56,3"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O PFAS é o composto com flúor, o elemento mais eletronegativo, no lugar dos hidrogênios da cadeia: C₄HF₇O₂ (CF₃–CF₂–CF₂–COOH). Massa molar: 4 · 12 + 1 + 7 · 19 + 2 · 16 = 48 + 1 + 133 + 32 = 214 g/mol. Porcentagem de carbono: 48 ÷ 214 ≈ <strong>22,4%</strong>. Alternativa <strong>B</strong>.</p><p>O composto com cloro não é um PFAS, porque o cloro não é o elemento mais eletronegativo. Contar só três carbonos, esquecendo o do COOH, daria cerca de 17%, que não está nas alternativas.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "porcentagem em massa"
+      ]
+    },
+    {
+      "numero": 42,
+      "materia": "Química",
+      "assunto": "Reações químicas",
+      "origem": {
+        "numeroOriginal": 42
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 41 e 42.</p><p>Os compostos perfluoralquilados e polifluoroalquilados (PFAS) são produzidos por meio da substituição dos átomos de hidrogênio da cadeia carbônica pelo elemento mais eletronegativo conhecido.</p><p>Considere as fórmulas estruturais de dois compostos orgânicos, dos quais apenas um deles pertence ao grupo dos PFAS.</p>[[fig:1]]<p>A estimativa da meia-vida (\\(t_{\\frac{1}{2}}\\)) das PFAS é essencial para quantificar sua persistência, toxicidade e mecanismo de ação em humanos. Meia-vida é o intervalo de tempo necessário para a quantidade de um reagente diminuir a metade do seu valor. Suponha que um indivíduo ingeriu água contaminada com 200 mg de PFOA (ácido perfluorooctanóico) e que, após 12 anos, foram encontrados 12,5 mg de PFOA em seu organismo.</p><p>Considerando as informações apresentadas, assinale a alternativa que contém o tempo de meia-vida correto do PFOA.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q41.webp",
+          "alt": "Duas fórmulas estruturais. À esquerda, uma cadeia de três carbonos ligada a um grupo COOH: o primeiro carbono tem um Cl à esquerda, um OH em cima e um Cl embaixo; o segundo tem Cl em cima e embaixo; o terceiro tem H em cima e embaixo. À direita, uma cadeia de três carbonos ligada a um grupo COOH em que todas as outras posições são ocupadas por F: o primeiro carbono tem F à esquerda, em cima e embaixo; o segundo e o terceiro têm F em cima e embaixo."
+        }
+      ],
+      "alternativas": {
+        "A": "1 ano",
+        "B": "2 anos",
+        "C": "3 anos",
+        "D": "4 anos",
+        "E": "5 anos"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>200 → 100 → 50 → 25 → 12,5 mg: são 4 meias-vidas em 12 anos. Cada meia-vida dura 12 ÷ 4 = <strong>3 anos</strong>. Alternativa <strong>C</strong>.</p><p>Dividir 200 por 12,5 dá 16 (que é 2⁴), não o número de meias-vidas. Usar 16 ou 6 meias-vidas leva aos outros valores.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "meia-vida"
+      ]
+    },
+    {
+      "numero": 43,
+      "materia": "Química",
+      "assunto": "Funções inorgânicas",
+      "origem": {
+        "numeroOriginal": 43
+      },
+      "enunciado": "<p>Circulou um boato em mídias sociais de que o sal light é tóxico, pois contém cloreto de potássio. No entanto, o cloreto de potássio (KCℓ), nas quantidades em que comumente é usado no sal light, não é considerado tóxico. Ele é um composto químico inorgânico muito semelhante ao cloreto de sódio (NaCℓ), um dos componentes do sal de cozinha.</p><p>Analisando a fórmula do cloreto de sódio e do cloreto de potássio, pode-se afirmar corretamente que uma das semelhanças entre esses dois compostos ocorre</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "na classificação como macronutrientes, já que ambos são carboidratos.",
+        "B": "na classificação como macronutrientes, já que ambos são proteínas.",
+        "C": "na classificação como macronutrientes, já que ambos são lipídeos.",
+        "D": "na ligação química, já que ambos apresentam ligações iônicas.",
+        "E": "na ligação química, já que ambos apresentam ligações covalentes."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Sódio e potássio são metais alcalinos que perdem um elétron, e o cloro recebe esse elétron. Nos dois compostos a ligação é <strong>iônica</strong>. Alternativa <strong>D</strong>.</p><p>São sais minerais, não carboidratos, proteínas ou lipídeos (A, B e C). E a ligação covalente é entre não metais (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "ligação iônica",
+        "sais"
+      ]
+    },
+    {
+      "numero": 44,
+      "materia": "Química",
+      "assunto": "Funções orgânicas",
+      "origem": {
+        "numeroOriginal": 44
+      },
+      "enunciado": "<p>Quando o poli(tereftalato de etileno), denominado PET, sofre degradação, são liberados ácido tereftálico e etano-1,2-diol, conforme a equação química representada.</p>[[fig:1]]<p>Considerando as fórmulas estruturais apresentadas na equação química, assinale a alternativa que contém, respectivamente, o nome da função orgânica presente na molécula de etano-1,2-diol e a fórmula molecular correta do ácido tereftálico, respectivamente.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q44.webp",
+          "alt": "Equação química: o polímero PET (unidade com um anel benzênico entre dois grupos C=O, ligada a O–CH₂–CH₂–O, repetida n vezes) mais 2n H₂O produz n moléculas de ácido tereftálico (HOOC–C₆H₄–COOH, anel benzênico com um grupo COOH em cada lado) e n moléculas de etano-1,2-diol (HO–CH₂–CH₂–OH)."
+        }
+      ],
+      "alternativas": {
+        "A": "Álcool e C<sub>2</sub>H<sub>6</sub>O<sub>2</sub>",
+        "B": "Álcool e C<sub>2</sub>H<sub>2</sub>O<sub>4</sub>",
+        "C": "Álcool e C<sub>8</sub>H<sub>6</sub>O<sub>4</sub>",
+        "D": "Aldeído e C<sub>8</sub>H<sub>6</sub>O<sub>4</sub>",
+        "E": "Aldeído e C<sub>2</sub>H<sub>2</sub>O<sub>4</sub>"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O etano-1,2-diol tem dois grupos OH ligados a carbonos saturados: é um <strong>álcool</strong> (o sufixo “-ol” confirma). O ácido tereftálico tem um anel benzênico (6 C e 4 H) e dois grupos COOH (2 C, 2 H e 4 O): <strong>C₈H₆O₄</strong>. Alternativa <strong>C</strong>.</p><p>C₂H₆O₂ é a fórmula do etano-1,2-diol, não do ácido (A). C₂H₂O₄ é o ácido oxálico (B e E). E o etano-1,2-diol não tem o grupo CHO dos aldeídos (D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fórmula molecular",
+        "polímeros"
+      ]
+    },
+    {
+      "numero": 45,
+      "materia": "Química",
+      "assunto": "Reações químicas",
+      "origem": {
+        "numeroOriginal": 45
+      },
+      "enunciado": "<p>A primeira bateria de íons-lítio comercial foi lançada em 1991, tendo o cobaltato de lítio (Li<sub>z</sub>CoO<sub>2</sub>) como material de cátodo e grafite litiada (Li<sub>y</sub>C) como material de ânodo. A bateria de íons-lítio em funcionamento pode ser representada, de modo simplificado, pela figura em que X e T representam espécies dotadas de carga elétrica.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/38rmdkt9&gt; Acesso em: 20.09.2025. Adaptado.</p><p>Ao conectar a bateria a um dispositivo, elétrons passam pelo circuito externo do polo negativo para o polo positivo da bateria e cátions fluem espontaneamente em direção ao cátodo.</p><p>Com base no texto e na figura, é correto afirmar que as espécies X e T são, respectivamente,</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q45.webp",
+          "alt": "Esquema de uma bateria de íons-lítio. À esquerda, o polo negativo: lâmina de cobre e grafite (LiyC), com camadas hexagonais. À direita, o polo positivo: lâmina de alumínio e LizCoO₂. No meio, o eletrólito contendo X e uma membrana. Uma seta X vai do grafite para o LizCoO₂ por dentro da bateria. Por fora, um fio liga os dois polos passando por uma lâmpada, com setas T indo do polo negativo para o positivo."
+        }
+      ],
+      "alternativas": {
+        "A": "elétrons e íons Li<sup>+</sup>.",
+        "B": "elétrons e íons O<sup>2-</sup>.",
+        "C": "elétrons e íons Co<sup>2+</sup>.",
+        "D": "íons Li<sup>+</sup> e elétrons.",
+        "E": "íons Co<sup>2+</sup> e elétrons."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Pelo fio externo, que acende a lâmpada, passam os <strong>elétrons</strong> (T), do polo negativo para o positivo. Por dentro, pelo eletrólito, os <strong>íons Li⁺</strong> (X) vão do grafite para o cátodo de cobaltato de lítio. X e T são, nessa ordem, íons Li⁺ e elétrons. Alternativa <strong>D</strong>.</p><p>A, B e C invertem os papéis: elétrons não atravessam o eletrólito. E o íon que se move é o Li⁺, não o Co²⁺ nem o O²⁻ (B, C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pilhas e baterias"
+      ]
+    },
+    {
+      "numero": 46,
+      "materia": "Raciocínio lógico",
+      "assunto": "Sequências",
+      "origem": {
+        "numeroOriginal": 46
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 46 a 48.</p><p>Em 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de fêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos foram lançadas em LP com o título <em>Songs of the Humpback Whale</em>, em 1970, e ajudaram a impulsionar o movimento conservacionista. Entenda no infográfico mais sobre essas músicas.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/uj53au&gt; Acesso em: 30.08.2025. Adaptado.</p><p>Suponha que uma canção, cuja duração máxima está indicada no texto, seja composta pelo encadeamento sequencial do Tema 2 e do Tema 3, nessa ordem. Considere a duração de cada unidade, em segundos, como:</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">⬢</th><th scope=\"col\">‖</th><th scope=\"col\">◆</th><th scope=\"col\">●</th><th scope=\"col\">★</th><th scope=\"col\">■</th><th scope=\"col\">▲</th></tr></thead><tbody><tr><td>6 s</td><td>4 s</td><td>1 s</td><td>8 s</td><td>5 s</td><td>3 s</td><td>2 s</td></tr></tbody></table></div><p>Logo, a quantidade de vezes que cada um dos temas se repetirá completamente nessa canção é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q46.webp",
+          "alt": "Infográfico “A construção de uma música”: a unidade é um som individual; somadas, as unidades formam frases, que se agrupam em blocos maiores, os temas, e cada tema segue um padrão de repetições. Unidades: quadrado, estrela, triângulo, losango, círculo, hexágono e barra dupla. Frase: quadrado, triângulo, círculo, barra dupla. Tema: essa frase repetida 3 vezes. Música, formada por quatro temas, cada um com uma frase repetida 3 vezes. Tema 1: quadrado, triângulo, círculo, barra dupla. Tema 2: hexágono, barra dupla, barra dupla, losango. Tema 3: quadrado, estrela, triângulo, estrela. Tema 4: estrela, losango, círculo, hexágono."
+        }
+      ],
+      "alternativas": {
+        "A": "20.",
+        "B": "40.",
+        "C": "60.",
+        "D": "90.",
+        "E": "120."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O Tema 2 é a frase ⬢ ‖ ‖ ◆ (6 + 4 + 4 + 1 = 15 s) repetida 3 vezes: 45 s. O Tema 3 é ■ ★ ▲ ★ (3 + 5 + 2 + 5 = 15 s) repetida 3 vezes: 45 s. Os dois juntos duram 90 s. Em meia hora (1 800 s), eles se repetem 1 800 ÷ 90 = <strong>20 vezes</strong>. Alternativa <strong>A</strong>.</p><p>Contar só uma frase de cada tema (30 s) daria 60 (C). E 40 vem de dividir 1 800 pelos 45 s de um tema só (B).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "padrões"
+      ]
+    },
+    {
+      "numero": 47,
+      "materia": "Raciocínio lógico",
+      "assunto": "Sequências",
+      "origem": {
+        "numeroOriginal": 47
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 46 a 48.</p><p>Em 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de fêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos foram lançadas em LP com o título <em>Songs of the Humpback Whale</em>, em 1970, e ajudaram a impulsionar o movimento conservacionista. Entenda no infográfico mais sobre essas músicas.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/uj53au&gt; Acesso em: 30.08.2025. Adaptado.</p><p>A construção de uma música é feita a partir blocos sonoros. Ao ordenarmos esses blocos, conforme sua complexidade, obtemos a sequência</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q46.webp",
+          "alt": "Infográfico “A construção de uma música”: a unidade é um som individual; somadas, as unidades formam frases, que se agrupam em blocos maiores, os temas, e cada tema segue um padrão de repetições. Unidades: quadrado, estrela, triângulo, losango, círculo, hexágono e barra dupla. Frase: quadrado, triângulo, círculo, barra dupla. Tema: essa frase repetida 3 vezes. Música, formada por quatro temas, cada um com uma frase repetida 3 vezes. Tema 1: quadrado, triângulo, círculo, barra dupla. Tema 2: hexágono, barra dupla, barra dupla, losango. Tema 3: quadrado, estrela, triângulo, estrela. Tema 4: estrela, losango, círculo, hexágono."
+        }
+      ],
+      "alternativas": {
+        "A": "Frase → Unidade → Tema → Música.",
+        "B": "Unidade → Tema → Música → Frase.",
+        "C": "Música → Tema → Frase → Unidade.",
+        "D": "Unidade → Frase → Tema → Música.",
+        "E": "Tema → Frase → Música → Unidade."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O infográfico diz que a unidade é um som individual, que unidades formam frases, que frases formam temas e que temas formam a música: <strong>Unidade → Frase → Tema → Música</strong>. Alternativa <strong>D</strong>.</p><p>C traz a mesma ordem ao contrário, da mais complexa para a mais simples. As outras misturam os níveis (A, B e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 48,
+      "materia": "Raciocínio lógico",
+      "assunto": "Sequências",
+      "origem": {
+        "numeroOriginal": 48
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 46 a 48.</p><p>Em 1967, pesquisadores descobriram que jubartes machos emitem complexos padrões sonoros durante o cortejo de fêmeas. Cada canção dura até meia hora e é entoada por um grupo inteiro de uma só vez. As gravações dos cantos foram lançadas em LP com o título <em>Songs of the Humpback Whale</em>, em 1970, e ajudaram a impulsionar o movimento conservacionista. Entenda no infográfico mais sobre essas músicas.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/uj53au&gt; Acesso em: 30.08.2025. Adaptado.</p><p>Suponha que o Tema 4 repita-se indefinidamente. Desse modo, a unidade que ocupa, nessa sequência, a posição correspondente ao ano de lançamento do LP mencionado no texto deve ser</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q46.webp",
+          "alt": "Infográfico “A construção de uma música”: a unidade é um som individual; somadas, as unidades formam frases, que se agrupam em blocos maiores, os temas, e cada tema segue um padrão de repetições. Unidades: quadrado, estrela, triângulo, losango, círculo, hexágono e barra dupla. Frase: quadrado, triângulo, círculo, barra dupla. Tema: essa frase repetida 3 vezes. Música, formada por quatro temas, cada um com uma frase repetida 3 vezes. Tema 1: quadrado, triângulo, círculo, barra dupla. Tema 2: hexágono, barra dupla, barra dupla, losango. Tema 3: quadrado, estrela, triângulo, estrela. Tema 4: estrela, losango, círculo, hexágono."
+        }
+      ],
+      "alternativas": {
+        "A": "● (círculo)",
+        "B": "⬢ (hexágono)",
+        "C": "◆ (losango)",
+        "D": "★ (estrela)",
+        "E": "■ (quadrado)"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O Tema 4 repete o bloco ★ ◆ ● ⬢, de 4 unidades. O LP saiu em 1970, e 1970 = 4 · 492 + 2. A posição 1970 é a 2ª do bloco: <strong>◆</strong>. Alternativa <strong>C</strong>.</p><p>Com resto 1, seria ★ (D); com resto 3, ● (A); e com resto 0, ⬢ (B). O quadrado não aparece no Tema 4 (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "padrões",
+        "divisibilidade"
+      ]
+    },
+    {
+      "numero": 49,
+      "materia": "Raciocínio lógico",
+      "assunto": "Lógica",
+      "origem": {
+        "numeroOriginal": 49
+      },
+      "enunciado": "<p>Quatro hospitais A, B, C e D têm em sua farmácia, respectivamente, 850, 530, 490 e 450 doses de um determinado antibiótico. Durante um surto de infecções resistentes, o hospital A precisará transferir doses aos outros três hospitais de modo que, ao final, todos tenham a mesma quantidade de doses. Considere que somente o hospital A realiza a transferência, que nenhum hospital receberá esse medicamento de fontes externas e que não há perdas durante esse processo.</p><p>Após as transferências, é correto afirmar que existe um hospital que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "ganhou 90 doses.",
+        "B": "perdeu 130 doses.",
+        "C": "ganhou 270 doses.",
+        "D": "perdeu 280 doses.",
+        "E": "ganhou 580 doses."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O total é 850 + 530 + 490 + 450 = 2 320 doses, e cada hospital deve ficar com 2 320 ÷ 4 = 580. A perde 270; B ganha 50; C ganha 90; D ganha 130. Existe um hospital que <strong>ganhou 90 doses</strong> (o C). Alternativa <strong>A</strong>.</p><p>130 doses foi o que D ganhou, não perdeu (B). 270 foi o que A perdeu, não ganhou (C). E 580 é a quantidade final de cada um (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "média aritmética"
+      ]
+    },
+    {
+      "numero": 50,
+      "materia": "Raciocínio lógico",
+      "assunto": "Lógica",
+      "origem": {
+        "numeroOriginal": 50
+      },
+      "enunciado": "<p>Considere as seguintes afirmações</p><p>• Todas as filhas de Rose são pesquisadoras; e</p><p>• Todas as filhas de Alfredo não são pesquisadoras.</p><p>Com base nessas premissas, assinale a dedução lógica correta.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Nenhuma das filhas de Rose é pesquisadora.",
+        "B": "Existe uma pesquisadora que é filha de Alfredo.",
+        "C": "Nenhuma pesquisadora é filha de Rose.",
+        "D": "Existe uma filha de Rose que é filha de Alfredo.",
+        "E": "Nenhuma das filhas de Alfredo é filha de Rose."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Toda filha de Rose é pesquisadora, e nenhuma filha de Alfredo é pesquisadora. Se alguém fosse filha dos dois, seria e não seria pesquisadora ao mesmo tempo. Logo, <strong>nenhuma filha de Alfredo é filha de Rose</strong>. Alternativa <strong>E</strong>.</p><p>A e C contradizem a primeira premissa, e B, a segunda. D é justamente o que as premissas impedem.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "silogismo"
+      ]
+    },
+    {
+      "numero": 51,
+      "materia": "Raciocínio lógico",
+      "assunto": "Lógica",
+      "origem": {
+        "numeroOriginal": 51
+      },
+      "enunciado": "<p class=\"apoio\">As histórias de Júlio Verne impactaram na criação de tecnologias que utilizamos hoje, pois inspiraram inventores como o estadunidense Simon Lake, o brasileiro Santos Dumont e o russo Konstantin Tsiolkovsky.</p><p class=\"fonte\">&lt;https://tinyurl.com/489jpjss&gt; Acesso em: 05.09.2025. Adaptado.</p><p>Sobre os inventores mencionados, sabe-se que</p><p><strong>I.</strong> um deles projetou alguns dos primeiros submarinos e é natural de um país que está no Hemisfério Ocidental;</p><p><strong>II.</strong> somente um deles foi pioneiro da astronáutica e dos foguetes modernos, tendo nascido em um país, cujo nome da capital tem 6 letras;</p><p><strong>III.</strong> o único nascido em um país do Hemisfério Sul não projetou alguns dos primeiros submarinos.</p><p>Fundamentado apenas nas informações apresentadas, marque a alternativa que associa corretamente o inventor com aquilo que realizou.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Lake foi um pioneiro da astronáutica e dos foguetes modernos.",
+        "B": "Lake projetou, construiu e pilotou aeronaves motorizadas.",
+        "C": "Dumont projetou alguns dos primeiros submarinos.",
+        "D": "Tsiolkovsky projetou alguns dos primeiros submarinos.",
+        "E": "Tsiolkovsky foi um pioneiro da astronáutica e dos foguetes modernos."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Brasília tem 8 letras, Washington tem 10 e Moscou tem 6: pela informação II, o pioneiro da astronáutica é o russo <strong>Tsiolkovsky</strong>. Alternativa <strong>E</strong>.</p><p>Pela III, Dumont (Hemisfério Sul) não projetou submarinos (C). Então quem projetou foi Lake, dos Estados Unidos, no Hemisfério Ocidental, como diz a I. Tsiolkovsky já é o da astronáutica, e a II diz que só um deles foi (A e D). E nada nas informações fala de aeronaves, que foram obra de Dumont (B).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "geografia"
+      ]
+    },
+    {
+      "numero": 52,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 52
+      },
+      "enunciado": "<p class=\"chamada\">Leia a tirinha para responder às questões 52 e 53.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/59ts9bxu&gt; Acesso em: 14.09.2025. Original colorido.</p><p>Na tirinha, o autor se vale de uma comparação para</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q52.webp",
+          "alt": "Tirinha em quatro quadros com dois cachorros, um pug e um bassê. 1: “Para acreditarem em uma mentira, ela tem que estar envolta de verdades.”, com o desenho de uma bolinha escrita “mentira” embrulhada numa massa escrita “verdades”. 2: “É como dar remédio para cães.”: alguém joga petiscos, e os dois cães olham animados. 3: “Alguns conseguem identificar o conteúdo suspeito.”: o bassê cospe o comprimido. 4: “Já outros...”: o pug, de olhos arregalados, diz: “Você sabia que pulgas illuminatis colocam chips em nós quando nos mordem?”, e o bassê o olha desconfiado."
+        }
+      ],
+      "alternativas": {
+        "A": "evidenciar a maneira correta de divulgar informações sobre cuidados com os animais.",
+        "B": "questionar a subjetividade dos conceitos de verdade e de mentira na sociedade atual.",
+        "C": "criticar a falta de discernimento dos indivíduos facilmente atraídos por brindes.",
+        "D": "esclarecer os métodos eficazes de comunicação entre os <em>pets</em> e seus tutores.",
+        "E": "explicar como ocorre o fenômeno da disseminação de informações falsas."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Assim como se esconde o remédio do cão dentro de um petisco, uma mentira é escondida no meio de verdades para ser “engolida”. Alguns percebem e cospem; outros engolem e passam a repetir teorias absurdas. A comparação <strong>explica como as informações falsas se espalham</strong>. Alternativa <strong>E</strong>.</p><p>A tirinha não ensina cuidados com animais (A e D), não discute se verdade é subjetiva (B) e não fala de brindes (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tirinha",
+        "fake news"
+      ]
+    },
+    {
+      "numero": 53,
+      "materia": "Português",
+      "assunto": "Semântica",
+      "origem": {
+        "numeroOriginal": 53
+      },
+      "enunciado": "<p class=\"chamada\">Leia a tirinha para responder às questões 52 e 53.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/59ts9bxu&gt; Acesso em: 14.09.2025. Original colorido.</p><p>Assinale o provérbio que expressa de forma concisa a ideia apresentada na tirinha.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q52.webp",
+          "alt": "Tirinha em quatro quadros com dois cachorros, um pug e um bassê. 1: “Para acreditarem em uma mentira, ela tem que estar envolta de verdades.”, com o desenho de uma bolinha escrita “mentira” embrulhada numa massa escrita “verdades”. 2: “É como dar remédio para cães.”: alguém joga petiscos, e os dois cães olham animados. 3: “Alguns conseguem identificar o conteúdo suspeito.”: o bassê cospe o comprimido. 4: “Já outros...”: o pug, de olhos arregalados, diz: “Você sabia que pulgas illuminatis colocam chips em nós quando nos mordem?”, e o bassê o olha desconfiado."
+        }
+      ],
+      "alternativas": {
+        "A": "Cara de mel, coração de fel.",
+        "B": "Quem não arrisca, não petisca.",
+        "C": "Casa de ferreiro, espeto de pau.",
+        "D": "Em boca fechada não entra mosca.",
+        "E": "De grão em grão, a galinha enche o papo."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>“Cara de mel, coração de fel” fala de algo que parece doce por fora e esconde o amargo por dentro, como a mentira envolta em verdades ou o remédio no petisco. Alternativa <strong>A</strong>.</p><p>“Quem não arrisca, não petisca” fala de coragem (B). “Casa de ferreiro, espeto de pau”, de quem não usa o que oferece aos outros (C). “Em boca fechada não entra mosca”, de ficar calado (D). E “De grão em grão...”, de juntar aos poucos (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "provérbios"
+      ]
+    },
+    {
+      "numero": 54,
+      "materia": "Português",
+      "assunto": "Figuras de linguagem",
+      "origem": {
+        "numeroOriginal": 54
+      },
+      "enunciado": "<p class=\"chamada\">Leia o <em>meme</em> para responder às questões 54 e 55.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/4h8xdakw&gt; Acesso em: 14.09.2025. Original colorido.</p><p>Na frase “É uma pena que elas apenas dão o oxigênio que respiramos.”, ocorre a figura de linguagem chamada</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q54.webp",
+          "alt": "Meme com a foto de uma árvore grande e isolada num campo, com o símbolo de sinal de Wi-Fi ao lado. Texto em cima: “Imagine se árvores dessem Wi-Fi. Estaríamos plantando como loucos.” Texto embaixo: “É uma pena que elas apenas dão o oxigênio que respiramos.”"
+        }
+      ],
+      "alternativas": {
+        "A": "ironia.",
+        "B": "anáfora.",
+        "C": "eufemismo.",
+        "D": "catacrese.",
+        "E": "onomatopeia."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Dizer que as árvores “apenas” dão o oxigênio que respiramos é dizer o contrário do que se pensa: o oxigênio é muito mais importante que o Wi-Fi. É <strong>ironia</strong>. Alternativa <strong>A</strong>.</p><p>Não há repetição de palavras no início das frases (B), não se suaviza uma ideia desagradável (C), não há palavra usada fora do sentido original por falta de outra (D) e não há imitação de som (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ironia",
+        "meme"
+      ]
+    },
+    {
+      "numero": 55,
+      "materia": "Português",
+      "assunto": "Gêneros textuais",
+      "origem": {
+        "numeroOriginal": 55
+      },
+      "enunciado": "<p class=\"chamada\">Leia o <em>meme</em> para responder às questões 54 e 55.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/4h8xdakw&gt; Acesso em: 14.09.2025. Original colorido.</p><p>O <em>meme</em> apresentado, além de gerar humor, cumpre também a finalidade de</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q54.webp",
+          "alt": "Meme com a foto de uma árvore grande e isolada num campo, com o símbolo de sinal de Wi-Fi ao lado. Texto em cima: “Imagine se árvores dessem Wi-Fi. Estaríamos plantando como loucos.” Texto embaixo: “É uma pena que elas apenas dão o oxigênio que respiramos.”"
+        }
+      ],
+      "alternativas": {
+        "A": "conscientizar as pessoas sobre tópicos importantes para a sociedade.",
+        "B": "convencer as pessoas a consumirem determinado produto.",
+        "C": "expor dados sobre um assunto para informar as pessoas.",
+        "D": "ensinar as pessoas a realizarem uma receita.",
+        "E": "narrar uma história de superação pessoal."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Pela ironia, o <em>meme</em> leva a pensar que damos mais valor à tecnologia do que às árvores, que nos dão o oxigênio. Ele busca <strong>conscientizar</strong> sobre a preservação ambiental. Alternativa <strong>A</strong>.</p><p>Ele não vende produto (B), não traz dados (C), não ensina receita (D) e não narra uma história (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "meme"
+      ]
+    },
+    {
+      "numero": 56,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 56
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e o infográfico para responder às questões 56 e 57.</p><p>Na pesquisa <em>Noções sobre a Ciência</em>, de 2023, foi mensurado o nível de familiaridade dos entrevistados com noções elementares de Ciência. Os dados refletem a necessidade de se ampliarem políticas de disseminação de conhecimentos científicos, visando reforçar a educação científica da população.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/3ra4ded4&gt; Acesso em: 14.09.2025. Adaptado.</p><p>A partir do texto e do infográfico, afirma-se corretamente que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q56.webp",
+          "alt": "Infográfico: resultado da pesquisa Noções sobre a Ciência para a afirmação “algumas vacinas podem causar autismo”. Gráfico de rosca com uma seringa no centro. Concordo em partes: 14%. Concordo totalmente: 21%. Discordo em partes: 12%. Discordo totalmente: 36%. Não responderam (NR): 0%. Não souberam (NS): 17%."
+        }
+      ],
+      "alternativas": {
+        "A": "47% das pessoas discordam da afirmação de que as vacinas causam autismo.",
+        "B": "36% da população não acredita na eficácia desse método.",
+        "C": "a maioria dos indivíduos valem-se do senso comum para desacreditar as fake news sobre vacinas.",
+        "D": "o baixo letramento científico da população potencializa a circulação de fake news.",
+        "E": "21% da população desconhece os meios tradicionais de informação devido ao baixo índice de desinformação."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Somando “concordo em partes” e “concordo totalmente”, 35% acreditam que vacinas podem causar autismo, e outros 17% não souberam responder. O texto liga isso à falta de educação científica: o <strong>baixo letramento científico favorece a circulação de fake news</strong>. Alternativa <strong>D</strong>.</p><p>Quem discorda soma 12% + 36% = 48%, não 47% (A). Os 36% discordam totalmente de que vacinas causam autismo, o que não tem a ver com descrença na eficácia (B). A pesquisa não fala de senso comum (C). E os 21% concordam totalmente com a afirmação falsa; a pesquisa não trata de meios de informação (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "infográfico",
+        "letramento científico"
+      ]
+    },
+    {
+      "numero": 57,
+      "materia": "Português",
+      "assunto": "Conectivos",
+      "origem": {
+        "numeroOriginal": 57
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e o infográfico para responder às questões 56 e 57.</p><p>Na pesquisa <em>Noções sobre a Ciência</em>, de 2023, foi mensurado o nível de familiaridade dos entrevistados com noções elementares de Ciência. Os dados refletem a necessidade de se ampliarem políticas de disseminação de conhecimentos científicos, visando reforçar a educação científica da população.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/3ra4ded4&gt; Acesso em: 14.09.2025. Adaptado.</p><p>A passagem “visando reforçar a educação científica da população” pode ser substituída, sem prejuízo de sentido para o texto, por</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q56.webp",
+          "alt": "Infográfico: resultado da pesquisa Noções sobre a Ciência para a afirmação “algumas vacinas podem causar autismo”. Gráfico de rosca com uma seringa no centro. Concordo em partes: 14%. Concordo totalmente: 21%. Discordo em partes: 12%. Discordo totalmente: 36%. Não responderam (NR): 0%. Não souberam (NS): 17%."
+        }
+      ],
+      "alternativas": {
+        "A": "porque a educação científica deve ser visada e reforçada pela população.",
+        "B": "a fim de que a educação científica da população seja reforçada.",
+        "C": "uma vez que a educação científica da população foi reforçada.",
+        "D": "com o intuito de a população reforçar a educação científica.",
+        "E": "enquanto se visa reforçar a educação científica da população."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>“Visando” indica a finalidade das políticas: o objetivo é reforçar a educação científica. A locução “<strong>a fim de que</strong>” mantém essa ideia de finalidade. Alternativa <strong>B</strong>.</p><p>“Porque” e “uma vez que” indicam causa (A e C), e C ainda põe a ação no passado. D muda quem reforça: a população, e não as políticas. E “enquanto” indica tempo ou proporção (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "oração de finalidade",
+        "reescrita"
+      ]
+    },
+    {
+      "numero": 58,
+      "materia": "Geografia",
+      "assunto": "Regionalização do Brasil",
+      "origem": {
+        "numeroOriginal": 58
+      },
+      "enunciado": "<p>Analise os gráficos apresentados.</p>[[fig:1]]<p class=\"fonte\">*Correspondem aos setores de alta e média alta intensidade tecnológica propostos pela OCDE</p><p class=\"fonte\">&lt;https://tinyurl.com/3bhkpz8y&gt; Acesso em: 14.09.2025. Original colorido.</p>[[fig:2]]<p class=\"fonte\">Fonte dos dados: &lt;https://tinyurl.com/5tez5bfw&gt; Acesso em: 14.09.2025.</p><p>A partir da análise dos gráficos, conclui-se corretamente que, no Brasil,</p>",
+      "imagens": [
+        {
+          "src": "assets/img/fatec-2026-1sem/q58a.webp",
+          "alt": "Gráfico de barras “Distribuição pelo país”: participação de cada estado nos vínculos empregatícios dos setores intensivos em conhecimento, em %, em 2023. São Paulo 44,2; Minas Gerais 9,3; Rio Grande do Sul 8,5; Paraná 7,7; Santa Catarina 7,4; Rio de Janeiro 4,9; Amazonas 3,0; Ceará 2,8; Goiás 2,2; Pernambuco 2,0."
+        },
+        {
+          "src": "assets/img/fatec-2026-1sem/q58b.webp",
+          "alt": "Gráfico de barras “Percentual de docentes em exercício com pós-graduação stricto sensu, por região, Brasil, 2023”, com eixo de 72 a 90%. Norte cerca de 79%; Nordeste cerca de 85%; Sudeste cerca de 87%; Sul cerca de 88%; Centro-Oeste cerca de 83%."
+        }
+      ],
+      "alternativas": {
+        "A": "a região Norte tem o maior percentual de professores com pós-graduação e ela também ocupa a liderança na geração de empregos nas áreas de tecnologia.",
+        "B": "a região Nordeste, apesar de apresentar percentual alto de professores com pós-graduação, não tem nenhum estado entre os dez com mais empregos no setor tecnológico.",
+        "C": "o baixo percentual de docentes com pós-graduação da região Centro-Oeste acarreta a alta participação dessa região na produção de empregos na área tecnológica.",
+        "D": "a região Sudeste apresenta um alto índice de docentes com pós-graduação e concentra também o maior número de empregos em áreas de alta tecnologia.",
+        "E": "a região Sul tem quatro de seus estados entre aqueles com maior número de empregos no setor de tecnologia, reflexo direto do investimento em educação superior."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O Sudeste tem um dos maiores percentuais de docentes com pós-graduação (cerca de 87%) e concentra os empregos de alta tecnologia: São Paulo sozinho tem 44,2%, e Minas Gerais e Rio de Janeiro também estão entre os dez. Alternativa <strong>D</strong>.</p><p>O Norte tem o menor percentual de docentes com pós (A). Ceará e Pernambuco, do Nordeste, estão entre os dez (B). O gráfico não mostra que um percentual baixo cause muitos empregos, e o Centro-Oeste tem só Goiás na lista (C). E o Sul tem três estados na lista, não quatro, e os gráficos não provam relação de causa (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "multidisciplinar",
+        "interpretação de gráficos",
+        "tecnologia"
+      ]
+    },
+    {
+      "numero": 59,
+      "materia": "Português",
+      "assunto": "Gêneros textuais",
+      "origem": {
+        "numeroOriginal": 59
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 59 e 60.</p><p class=\"apoio\">As startups do tipo <em>deep techs</em> são empresas inovadoras que objetivam fornecer soluções tecnológicas baseadas em conhecimentos científicos. Essas soluções buscam resolver problemas complexos e de alto impacto. Exemplos de <em>deep techs</em> podem ser encontrados nos segmentos de biotecnologia, em desenvolvimento de hardware e na adoção de inteligência artificial para resolver problemas complexos.</p><p class=\"fonte\">&lt;https://tinyurl.com/5d42brfe&gt; Acesso em: 14.09.2025. Adaptado.</p><p>O texto apresentado tem por objetivo</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "expor o conceito de um novo tipo de empresa.",
+        "B": "narrar a história de surgimento de uma empresa.",
+        "C": "defender a superioridade das empresas tecnológicas.",
+        "D": "descrever como funciona a comunicação entre as startups.",
+        "E": "angariar seguidores para um canal de tecnologia."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O texto define o que são as <em>deep techs</em>, diz o que buscam e dá exemplos de áreas: é um texto expositivo, que <strong>apresenta o conceito</strong> de um novo tipo de empresa. Alternativa <strong>A</strong>.</p><p>Ele não conta a história de uma empresa (B), não defende superioridade (C), não fala da comunicação entre startups (D) e não pede seguidores (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "texto expositivo"
+      ]
+    },
+    {
+      "numero": 60,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 60
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 59 e 60.</p><p class=\"apoio\">As startups do tipo <em>deep techs</em> são empresas inovadoras que objetivam fornecer soluções tecnológicas baseadas em conhecimentos científicos. Essas soluções buscam resolver problemas complexos e de alto impacto. Exemplos de <em>deep techs</em> podem ser encontrados nos segmentos de biotecnologia, em desenvolvimento de hardware e na adoção de inteligência artificial para resolver problemas complexos.</p><p class=\"fonte\">&lt;https://tinyurl.com/5d42brfe&gt; Acesso em: 14.09.2025. Adaptado.</p><p>De acordo com o texto,</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "as <em>deep techs</em> buscam conectar empresas tradicionais a novos consumidores.",
+        "B": "as empresas chamadas <em>deep techs</em> usam tecnologia para solucionar problemas desafiadores.",
+        "C": "as soluções encontradas por empresas que usam inteligência artificial restringem-se a áreas irrelevantes à sociedade.",
+        "D": "o desenvolvimento de novos aplicativos e aparelhos eletrônicos é o principal foco tanto de startups quanto de <em>deep techs</em>.",
+        "E": "o baixo número de áreas de atuação das novas empresas de alta tecnologia limita o investimento no saber científico."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que as <em>deep techs</em> fornecem soluções tecnológicas para “resolver problemas complexos e de alto impacto”: elas <strong>usam tecnologia para solucionar problemas desafiadores</strong>. Alternativa <strong>B</strong>.</p><p>O texto não fala em conectar empresas a consumidores (A), diz que os problemas são de alto impacto, não irrelevantes (C), cita várias áreas além de aplicativos (D) e não fala de poucas áreas nem de limite de investimento (E).</p>",
+      "explicacaoRevisada": false
+    }
+  ]
+}

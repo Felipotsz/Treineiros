@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1E1813">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/provas.css">
+<script src="js/theme.js"></script>
+<title>Escolha sua prova | Treineiros</title>
+</head>
+<body>
+<main id="conteudo">
+  <h1>Escolha sua prova</h1>
+  <p class="intro">Provas oficiais do Vestibulinho ETEC e do Vestibular FATEC, desde 2017. Toque numa prova para começar.</p>
+  <div class="filtros-provas">
+    <div class="chips" role="group" aria-label="Banca">
+      <button type="button" class="chip" data-banca="" aria-pressed="true">Todas</button>
+      <button type="button" class="chip" data-banca="ETEC" aria-pressed="false">ETEC</button>
+      <button type="button" class="chip" data-banca="FATEC" aria-pressed="false">FATEC</button>
+      <button type="button" class="chip" data-banca="Enem" aria-pressed="false">Enem</button>
+    </div>
+    <div class="filtros-provas__linha">
+      <label for="f-ano" class="sr">Ano</label><select id="f-ano" class="campo"></select>
+      <label class="chk"><input type="checkbox" id="f-so"> Só provas disponíveis</label>
+    </div>
+  </div>
+  <p id="contagem" role="status"></p>
+  <div id="lista"><p>Carregando as provas…</p></div>
+
+  <section class="backup" aria-labelledby="bk">
+    <h2 id="bk">Seu progresso</h2>
+    <p>Como não há login, o progresso fica neste navegador. Para levá-lo a outro aparelho, exporte um arquivo e importe no outro. Importar substitui o andamento salvo no aparelho.</p>
+    <p><button class="btn" id="b-exp" type="button">Exportar progresso</button></p>
+    <h3>Levar para o celular (ou outro aparelho)</h3>
+    <p>Gere um QR code e aponte a câmera do outro aparelho. Leva o caderno de erros, o histórico, as anotações e a meta. Os dados ficam só no link: nada passa por servidor.</p>
+    <p><button class="btn" id="b-qr" type="button">Gerar QR code</button></p>
+    <div id="qr" class="qr" hidden></div>
+    <p><label for="f-imp">Importar progresso (arquivo .json)</label><br><input id="f-imp" type="file" accept=".json,application/json"></p>
+    <p id="bk-status" role="status"></p>
+  </section>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/motor.js"></script><script src="js/render.js"></script><script src="js/dados.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/provas.js"></script><script src="js/registro.js"></script><script src="js/transferir.js"></script><script src="assets/vendor/qrcode.js"></script><script src="js/backup.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1E1813">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/simulado.css"><link rel="stylesheet" href="css/estudo.css"><link rel="stylesheet" href="css/busca.css">
+<script src="js/theme.js"></script>
+<title>Buscar questões | Treineiros</title>
+</head>
+<body>
+<main id="conteudo">
+  <h1>Buscar questões</h1>
+  <p>Procure por palavra em todas as provas. Marque questões para montar uma lista: dá para treinar na hora ou mandar o link para alguém (um professor pode montar a lista da turma, por exemplo).</p>
+  <form id="f-busca" class="filtros" role="search" onsubmit="return false">
+    <div class="filtros__texto"><label for="b-texto">Palavras</label><input id="b-texto" class="campo" type="search" placeholder="ex.: fotossíntese" autocomplete="off"></div>
+    <div><label for="b-banca">Banca</label><select id="b-banca" class="campo"><option value="">Todas</option></select></div>
+    <div><label for="b-mat">Matéria</label><select id="b-mat" class="campo"><option value="">Todas</option></select></div>
+    <div><label for="b-assunto">Assunto</label><select id="b-assunto" class="campo"><option value="">Todos</option></select></div>
+  </form>
+  <p id="b-contagem" role="status" aria-live="polite"></p>
+  <div id="b-lista"><p>Carregando as provas…</p></div>
+  <p><button class="btn" id="b-mais" type="button" hidden>Mostrar mais</button></p>
+  <div class="cesta" id="cesta" hidden>
+    <p><strong id="c-n">0</strong> na lista</p>
+    <p><label for="c-nome" class="sr">Nome da lista</label><input id="c-nome" class="campo" value="Lista de questões" maxlength="80"></p>
+    <div class="acoes">
+      <button class="btn btn--primary" id="c-treinar" type="button">Treinar agora</button>
+      <button class="btn" id="c-link" type="button">Copiar link da lista</button>
+      <button class="btn btn--ghost" id="c-limpar" type="button">Limpar</button>
+    </div>
+    <p id="c-status" role="status"></p>
+  </div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/motor.js"></script><script src="js/registro.js"></script><script src="js/dados.js"></script><script src="js/treino.js"></script><script src="js/render.js"></script><script src="js/formulas.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/busca.js"></script>
+</body>
+</html>

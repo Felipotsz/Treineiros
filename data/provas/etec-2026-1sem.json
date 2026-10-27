@@ -1,0 +1,1199 @@
+{
+  "id": "etec-2026-1sem",
+  "banca": "ETEC",
+  "ano": 2026,
+  "semestre": 1,
+  "titulo": "Vestibulinho ETEC, 1º semestre de 2026",
+  "fonte": "Centro Paula Souza",
+  "dataExame": "2025-11-30",
+  "duracaoMinutos": 240,
+  "tema": "Seres humanos e animais",
+  "pdf": "assets/provas/etec-2026-1sem.pdf",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Biologia",
+      "assunto": "Evolução",
+      "origem": {
+        "numeroOriginal": 1
+      },
+      "enunciado": "<p class=\"apoio\">A convivência com os animais mudou os seres humanos. Talvez o exemplo mais popular seja o consumo de leite: antes da domesticação animal, as pessoas naturalmente desenvolviam intolerância a lactose à medida que cresciam e não precisavam mais do leite materno. Quando os seres humanos começaram a criar gado, começaram a beber mais leite, havendo uma adaptação do sistema digestivo para o consumo do leite durante toda a vida.</p><p class=\"apoio\">A domesticação é parte da conexão humana com os animais, que percorre toda a história e conecta grandes saltos evolutivos, como o desenvolvimento de ferramentas e até da linguagem.</p><p class=\"fonte\">&lt;https://tinyurl.com/wm2m58xm&gt; Acesso em: 10.04.2025. Adaptado.</p><p>Segundo o texto, a domesticação de animais</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "ocorreu recentemente, no período medieval, e foi possível devido à invenção da linguagem e das ferramentas de pedra.",
+        "B": "causou danos à saúde humana, que não estava preparada para o consumo de leite na vida adulta, diminuindo a expectativa média de vida do homem contemporâneo.",
+        "C": "aumentou os níveis naturais de intolerância a lactose no homem pré-histórico devido às diferenças entre o leite materno e o leite de vaca.",
+        "D": "contribuiu para o desenvolvimento de aspectos culturais que favoreceram a evolução humana, como a criação de ferramentas e da linguagem.",
+        "E": "provocou saltos evolutivos que atrasaram o desenvolvimento da linguagem e da tecnologia."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que a domesticação “conecta grandes saltos evolutivos, como o desenvolvimento de ferramentas e até da linguagem”. Ela <strong>contribuiu para aspectos culturais que favoreceram a evolução humana</strong>. Alternativa <strong>D</strong>.</p><p>A domesticação é pré-histórica, muito anterior à Idade Média (A). O texto diz que o corpo se adaptou ao leite, sem falar em danos à saúde (B). A convivência com o gado reduziu, e não aumentou, a intolerância à lactose (C). E os saltos evolutivos favoreceram, não atrasaram, a linguagem e as ferramentas (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "domesticação"
+      ]
+    },
+    {
+      "numero": 2,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 2
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 02 e 03.</p><p class=\"apoio\">Cães-guia são treinados para facilitar a locomoção e conduzir a pessoa cega ou com baixa visão em segurança. Estima-se que, atualmente, 207 cães-guia estão em atividade no Brasil. Em uma perspectiva de distribuição quanto às raças, predominam Labradores (153) e Golden Retriever (16).</p><p class=\"fonte\">&lt;https://tinyurl.com/4ts3d877&gt; Acesso em: 05.04.2025. Adaptado.</p><p>De acordo com o texto e considerando que existem atualmente, no Brasil, cerca de 6,5 milhões de pessoas com deficiência visual, assinale a alternativa que apresenta a melhor aproximação da razão entre o número de cães-guia em atividade e o número de pessoas com deficiência visual em nosso país, respectivamente.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "1 para cada 29 000",
+        "B": "1 para cada 30 500",
+        "C": "1 para cada 31 400",
+        "D": "1 para cada 31 800",
+        "E": "1 para cada 32 700"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>São 207 cães-guia para 6,5 milhões de pessoas: 6 500 000 ÷ 207 ≈ 31 401. Há cerca de <strong>1 cão-guia para cada 31 400</strong> pessoas com deficiência visual. Alternativa <strong>C</strong>.</p><p>Os outros valores vêm de arredondar errado o número de cães ou de pessoas.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 3,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 3
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 02 e 03.</p><p class=\"apoio\">Cães-guia são treinados para facilitar a locomoção e conduzir a pessoa cega ou com baixa visão em segurança. Estima-se que, atualmente, 207 cães-guia estão em atividade no Brasil. Em uma perspectiva de distribuição quanto às raças, predominam Labradores (153) e Golden Retriever (16).</p><p class=\"fonte\">&lt;https://tinyurl.com/4ts3d877&gt; Acesso em: 05.04.2025. Adaptado.</p><p>Com base nos dados sobre as raças, assinale a alternativa que apresenta o gráfico de setor que melhor representa a distribuição de cães-guia.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q03a.webp",
+          "alt": "Gráfico de setores A: Labradores 77 %, Outras raças 16 %, Golden Retriever 8 %."
+        },
+        {
+          "src": "assets/img/etec-2026-1sem/q03b.webp",
+          "alt": "Gráfico de setores B: Labradores 77 %, Golden Retriever 16 %, Outras raças 8 %."
+        },
+        {
+          "src": "assets/img/etec-2026-1sem/q03c.webp",
+          "alt": "Gráfico de setores C: Labradores 33 %, Golden Retriever 33 %, Outras raças 33 %."
+        },
+        {
+          "src": "assets/img/etec-2026-1sem/q03d.webp",
+          "alt": "Gráfico de setores D: Labradores 74 %, Outras raças 18 %, Golden Retriever 8 %."
+        },
+        {
+          "src": "assets/img/etec-2026-1sem/q03e.webp",
+          "alt": "Gráfico de setores E: Labradores 74 %, Golden Retriever 18 %, Outras raças 8 %."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:1]]",
+        "B": "[[fig:2]]",
+        "C": "[[fig:3]]",
+        "D": "[[fig:4]]",
+        "E": "[[fig:5]]"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Labradores: 153 ÷ 207 ≈ 74 %. Golden Retriever: 16 ÷ 207 ≈ 8 %. Outras raças: 207 − 153 − 16 = 38, e 38 ÷ 207 ≈ 18 %. O gráfico com <strong>74 %, 8 % e 18 %</strong> é o da alternativa <strong>D</strong>.</p><p>A e B têm 77 % de Labradores, e a soma passaria de 100 %. C divide em partes iguais. E troca os valores de Golden Retriever e outras raças.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "gráfico de setores",
+        "porcentagem"
+      ]
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "assunto": "Texto literário",
+      "origem": {
+        "numeroOriginal": 4
+      },
+      "enunciado": "<p class=\"apoio\">Meu cão me revigora toda. Sem falar que dorme às vezes aos meus pés enchendo o quarto da cálida vida úmida. O meu cão me ensina a viver. Ele só fica “sendo”. “Ser” é a sua atividade.</p><p class=\"fonte\">LISPECTOR, Clarice. <em>Um sopro de vida</em>. Org. Olga Borelli. Rio de Janeiro: Rocco, 1999, p. 43.</p><p>Na passagem apresentada, o cão é usado como modelo a ser seguido por</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "realizar com simplicidade ações complexas, como acalentar as dores alheias e submeter-se constantemente às vontades dos outros.",
+        "B": "sentir-se acolhido ao ser inferiorizado diante de seus superiores hierárquicos, evidenciando a aceitação de sua posição social.",
+        "C": "manter uma atitude de inquietação constante diante da existência, levando-o a revigorar a sociedade em que se encontra.",
+        "D": "regozijar-se diante da possibilidade de tornar um outro indivíduo tenso pela simples companhia que pode oferecer.",
+        "E": "viver com plenitude sua existência, sem se deixar levar por infrutíferas angústias durante esse processo."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Para a narradora, o cão “só fica ‘sendo’. ‘Ser’ é a sua atividade”. Ele <strong>vive plenamente</strong>, sem angústias, e por isso “ensina a viver”. Alternativa <strong>E</strong>.</p><p>O texto não fala de submissão (A e B), de inquietação (C), nem de deixar alguém tenso; ao contrário, o cão “revigora” (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 5,
+      "materia": "História",
+      "assunto": "Antiguidade",
+      "origem": {
+        "numeroOriginal": 5
+      },
+      "enunciado": "<p class=\"apoio\">Uma das primeiras domesticações de gatos aconteceu no antigo Egito. Os gatos, felinos menores, viviam entre os humanos, sendo essenciais para a sociedade egípcia na proteção contra pragas de casas e de celeiros.</p><p class=\"apoio\">Já os felinos maiores, principalmente leões e leopardos, eram admirados por suas qualidades, sendo, muitas vezes, símbolos da realeza e de alguns deuses do panteão egípcio.</p><p class=\"apoio\">Por meio da observação, os egípcios vieram a admirar os felinos pela sua natureza complexa e dual. Para eles, esses animais combinavam graça, fertilidade e cuidado suave com agressão, rapidez e perigo. Os deuses relacionados a essas qualidades eram frequentemente representados com características felinas.</p><p class=\"fonte\">&lt;https://tinyurl.com/mr3ty7fj&gt; Acesso em: 10.04.2025. Adaptado.</p><p>A partir da leitura do texto, é correto concluir que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "os egípcios observavam nos felinos algumas características que consideravam admiráveis, como graça, fertilidade, cuidado e rapidez, e as projetavam em seus deuses.",
+        "B": "os felinos eram importantes para a sociedade egípcia apenas por suas funções práticas, como o controle de pragas em casas e em celeiros.",
+        "C": "a admiração dos egípcios se restringia aos felinos menores, que viviam entre os humanos e eram considerados símbolos de realeza.",
+        "D": "a observação atenta levou os egípcios a considerar os felinos uma espécie contraditória cujas características de personalidade deveriam ser evitadas.",
+        "E": "as divindades egípcias representavam ideais nobres e estavam relacionadas à crença de que os seres humanos são superiores aos animais."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O texto diz que os egípcios admiravam nos felinos “graça, fertilidade e cuidado suave com agressão, rapidez e perigo”, e que os deuses ligados a essas qualidades eram representados com características felinas. Alternativa <strong>A</strong>.</p><p>Os felinos também tinham valor simbólico, não só prático (B). Os felinos maiores é que eram símbolos da realeza (C). A natureza dual era admirada, não evitada (D). E o texto não fala em superioridade humana (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Egito"
+      ]
+    },
+    {
+      "numero": 6,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 6
+      },
+      "enunciado": "<p class=\"apoio\">A convivência com <em>pets </em>pode ajudar no desenvolvimento afetivo e psicológico, aumentando a produção de endorfina no organismo, minimizando os efeitos da depressão, da dor e da ansiedade.</p><p class=\"apoio\">Pesquisas revelam que 80% das pessoas se sentem menos solitárias ao conviver com um animal de estimação e que o ato de fazer carinho em um animal é capaz de diminuir a frequência cardíaca e a pressão sanguínea de uma pessoa. Entre os efeitos positivos de intervenções assistidas realizadas com animais e destinadas a crianças, estão melhora na convivência social, na capacidade de concentração e nas habilidades de comunicação.</p><p class=\"fonte\">&lt;https://tinyurl.com/bdf7kr62&gt; Acesso em: 05.04.2025. Adaptado.</p><p>De acordo com o texto, a convivência entre crianças e animais acarreta</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "aumento da produção de endorfina no organismo, tornando dispensável qualquer tipo de acompanhamento emocional.",
+        "B": "dependência emocional tão intensa que a criança rejeita completamente o convívio social, isolando-se do mundo.",
+        "C": "redução da necessidade de tomar medicamentos, de fazer exercícios físicos e de se preocupar com alimentação saudável.",
+        "D": "desfavorecimento do desenvolvimento da capacidade de organização, uma vez que ajuda a criança a criar uma rotina.",
+        "E": "melhora habilidades de convivência social e de comunicação, contribuindo para o desenvolvimento afetivo e psicológico."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O texto diz que as intervenções com animais destinadas a crianças trazem “melhora na convivência social, na capacidade de concentração e nas habilidades de comunicação”, e que a convivência com pets ajuda no desenvolvimento afetivo e psicológico. Alternativa <strong>E</strong>.</p><p>O texto não diz que o acompanhamento emocional fica dispensável (A), nem fala de isolamento (B), de dispensar remédios, exercícios e dieta (C) ou de prejuízo à organização (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "saúde mental"
+      ]
+    },
+    {
+      "numero": 7,
+      "materia": "História",
+      "assunto": "História contemporânea",
+      "origem": {
+        "numeroOriginal": 7
+      },
+      "enunciado": "<p class=\"apoio\">A cachorrinha Laika, lançada no satélite russo Sputnik 2, em 1957, não retornou. Entre 1948 e 1961, União Soviética (URSS) e Estados Unidos (EUA) enviaram 65 animais ao espaço, sendo 48 cães, 15 macacos e 2 coelhos. Vinte e sete deles morreram em acidentes devido a circunstâncias imprevistas durante a empreitada.</p><p class=\"apoio\">O envio de animais não humanos ao espaço começou a cessar com o lançamento de pessoas. Yuri Gagarin, que ficou uma hora e meia no espaço em 1961, brincou uma vez dizendo que foi, ao mesmo tempo, a “primeira pessoa e o último cachorro no espaço”.</p><p class=\"fonte\">&lt;https://tinyurl.com/3c27jds9&gt;. Acesso em: 10.04.2025. Adaptado.</p><p>O processo histórico referido no texto é característico do período conhecido como</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Primeira Revolução Industrial.",
+        "B": "Segunda Guerra Mundial.",
+        "C": "Reconstrução Europeia.",
+        "D": "Grandes Navegações.",
+        "E": "Guerra Fria."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O envio de animais e depois de pessoas ao espaço, por URSS e Estados Unidos, entre 1948 e 1961, fez parte da <strong>corrida espacial</strong>, uma das disputas da <strong>Guerra Fria</strong>. Alternativa <strong>E</strong>.</p><p>A Primeira Revolução Industrial é do século XVIII (A). A Segunda Guerra terminou em 1945 (B). A Reconstrução Europeia não trata de viagens espaciais (C). E as Grandes Navegações são dos séculos XV e XVI (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Guerra Fria",
+        "corrida espacial"
+      ]
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 8
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 08 a 12.</p><p class=\"apoio\"><strong>Certa manhã</strong>, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto.</p><p class=\"apoio\">Moradoras da terra indígena do Alto Rio Guamá, <strong>no Pará</strong>, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas.</p><p class=\"apoio\">Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava <strong>com as meninas</strong> porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane.</p><p class=\"apoio\">Nos territórios indígenas, não há <em>pets </em>do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com eles é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos.</p><p class=\"apoio\">Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. <strong>Nas aldeias</strong>, faz parte da cultura cuidar de tudo o que tem vida na floresta.</p><p class=\"fonte\">&lt;https://tinyurl.com/3er3jb53&gt; Acesso em: 10.04.2025. Adaptado.</p><p>Segundo o texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o vocábulo “xerimbabos”, cujo sentido equivale a “entes muito amados”, é usado para se referir às crianças que desenvolvem afeto pelos animais silvestres.",
+        "B": "o movimento repentino de ataque do bicho-preguiça traumatizou as irmãs Yzuahy e Ywàna, desacostumadas ao convívio com a natureza local.",
+        "C": "a relação afetiva desenvolvida entre os animais silvestres e os domésticos acarretou desequilíbrio ecológico para a comunidade indígena.",
+        "D": "a relação com a fauna e a flora é essencial para uma vivência harmônica na sociedade em que as irmãs residem.",
+        "E": "o cuidado com a fauna local realizado pelos indígenas introduziu o conceito de “animais domésticos” à comunidade."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que, na aldeia das irmãs, a relação com os animais é “baseada no cuidado mútuo” e que “sem natureza e animais, nada progride”. A relação com a fauna e a flora é <strong>essencial para uma vivência harmônica</strong>. Alternativa <strong>D</strong>.</p><p>“Xerimbabos” são os animais queridos, não as crianças (A). O bicho-preguiça provocou encanto, não trauma (B). O texto não fala de desequilíbrio ecológico (C). E nas aldeias “não há pets do jeito como vemos nas cidades” (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 9,
+      "materia": "Biologia",
+      "assunto": "Ecologia",
+      "origem": {
+        "numeroOriginal": 9
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 08 a 12.</p><p class=\"apoio\"><strong>Certa manhã</strong>, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto.</p><p class=\"apoio\">Moradoras da terra indígena do Alto Rio Guamá, <strong>no Pará</strong>, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas.</p><p class=\"apoio\">Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava <strong>com as meninas</strong> porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane.</p><p class=\"apoio\">Nos territórios indígenas, não há <em>pets </em>do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com eles é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos.</p><p class=\"apoio\">Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. <strong>Nas aldeias</strong>, faz parte da cultura cuidar de tudo o que tem vida na floresta.</p><p class=\"fonte\">&lt;https://tinyurl.com/3er3jb53&gt; Acesso em: 10.04.2025. Adaptado.</p><p>Além dos animais citados no texto, muitos grupos indígenas ainda consideram águias, corujas, sabiás, raposas, cobras e tartarugas como animais sagrados, sendo a onça um símbolo cultural e espiritual, vista como a guardiã da floresta.</p><p>Sobre os animais citados, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "as aves se caracterizam por serem animais carnívoros, dotados de bico forte e curvo, com garras afiadas, com pelos e escamas no corpo e nas patas.",
+        "B": "a relação dos indígenas com os xerimbabos tem o objetivo de garantir a criação desses animais em cativeiro para o abate diário e a alimentação da comunidade.",
+        "C": "os xerimbabos são muito queridos pelos indígenas e, apesar de estarem em cativeiro, são cuidados com muito respeito e soltos na floresta quando em perigo de extinção.",
+        "D": "a onça é considerada a guardiã da floresta, ocupa o topo da cadeia alimentar por se alimentar de herbívoros maiores e de predadores menores, mantendo dessa forma o equilíbrio ambiental.",
+        "E": "os animais considerados sagrados pelos indígenas se caracterizam por serem carnívoros e por conseguirem manter a temperatura corporal constante, independentemente da temperatura do ambiente."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A onça é um predador de topo: come herbívoros maiores e predadores menores e, assim, controla essas populações, mantendo o <strong>equilíbrio ambiental</strong>. Alternativa <strong>D</strong>.</p><p>Aves não têm pelos, e nem todas são carnívoras (A). Os xerimbabos não são criados para abate (B) nem ficam em cativeiro (C). E cobras e tartarugas não mantêm a temperatura do corpo constante, e sabiás não são carnívoros (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "cadeia alimentar"
+      ]
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 10
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 08 a 12.</p><p class=\"apoio\"><strong>Certa manhã</strong>, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto.</p><p class=\"apoio\">Moradoras da terra indígena do Alto Rio Guamá, <strong>no Pará</strong>, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas.</p><p class=\"apoio\">Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava <strong>com as meninas</strong> porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane.</p><p class=\"apoio\">Nos territórios indígenas, não há <em>pets </em>do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com eles é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos.</p><p class=\"apoio\">Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. <strong>Nas aldeias</strong>, faz parte da cultura cuidar de tudo o que tem vida na floresta.</p><p class=\"fonte\">&lt;https://tinyurl.com/3er3jb53&gt; Acesso em: 10.04.2025. Adaptado.</p><p>As expressões em negrito no texto denotam, respectivamente,</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "tempo, origem, causa e lugar.",
+        "B": "condição, destino, instrumento e causa.",
+        "C": "consequência, origem, companhia e tempo.",
+        "D": "condição, destino, ferramenta e causa.",
+        "E": "tempo, lugar, companhia e lugar."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>“Certa manhã” indica <strong>tempo</strong>; “no Pará”, <strong>lugar</strong>; “com as meninas”, <strong>companhia</strong>; e “Nas aldeias”, <strong>lugar</strong>. Alternativa <strong>E</strong>.</p><p>“No Pará” não indica origem (A e C) nem destino (B e D). “Com as meninas” não é causa, instrumento nem ferramenta (A, B e D). E “Certa manhã” não é condição nem consequência (B, C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "adjuntos adverbiais"
+      ]
+    },
+    {
+      "numero": 11,
+      "materia": "Português",
+      "assunto": "Verbos",
+      "origem": {
+        "numeroOriginal": 11
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 08 a 12.</p><p class=\"apoio\"><strong>Certa manhã</strong>, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto.</p><p class=\"apoio\">Moradoras da terra indígena do Alto Rio Guamá, <strong>no Pará</strong>, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas.</p><p class=\"apoio\">Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava <strong>com as meninas</strong> porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane.</p><p class=\"apoio\">Nos territórios indígenas, não há <em>pets </em>do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com eles é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos.</p><p class=\"apoio\">Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. <strong>Nas aldeias</strong>, faz parte da cultura cuidar de tudo o que tem vida na floresta.</p><p class=\"fonte\">&lt;https://tinyurl.com/3er3jb53&gt; Acesso em: 10.04.2025. Adaptado.</p><p>Na passagem “quando cresceu, ficou livre e acabou indo com o seu bando”, a expressão “acabou indo” aponta</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "uma ação inacabada que é realizada recorrentemente.",
+        "B": "uma ação inacabada que se prolonga infinitamente.",
+        "C": "uma ação finalizada que é enfatizada ao terminar.",
+        "D": "o início de uma ação que se realiza rapidamente.",
+        "E": "o desenvolvimento de uma ação que não se concretiza."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Em “acabou indo com o seu bando”, o verbo “acabar” mostra que a ação de ir aconteceu ao final de um processo, como desfecho. É <strong>uma ação finalizada</strong>, destacada como conclusão. Alternativa <strong>C</strong>.</p><p>A ação não se repete (A) nem se prolonga sem fim (B). Não indica início (D). E a ação se concretizou: a capivara foi com o bando (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "locução verbal"
+      ]
+    },
+    {
+      "numero": 12,
+      "materia": "Português",
+      "assunto": "Coesão e referência",
+      "origem": {
+        "numeroOriginal": 12
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 08 a 12.</p><p class=\"apoio\"><strong>Certa manhã</strong>, as irmãs Yzuahy, de 6 anos, e Ywàna, de 3, tomaram um susto: um bicho-preguiça estava dentro de casa. O visitante inesperado entrou de mansinho pela janela e logo chegou ao colo das irmãs Tenetehar sem provocar medo. Pelo contrário, o que havia era encanto.</p><p class=\"apoio\">Moradoras da terra indígena do Alto Rio Guamá, <strong>no Pará</strong>, Yzuahy e Ywàna aprenderam com os pais e os avós que bichos da floresta não fazem mal nem precisam ser afugentados. A relação com eles é ancestral e baseada no cuidado mútuo. “Elas sempre foram ensinadas que, sem natureza e animais, nada progride”, conta Josiane Tenetehar, mãe das meninas.</p><p class=\"apoio\">Além do bicho-preguiça, elas cuidaram por um tempo de um filhote de capivara. “Não temos animais de estimação. A preguiça vem às vezes, chega em casa e depois volta. A capivara ficava <strong>com as meninas</strong> porque os guerreiros da aldeia acharam ela na mata sem a mãe e trouxeram para ser cuidada. Quando cresceu, ficou livre e acabou indo com o seu bando”, explica Josiane.</p><p class=\"apoio\">Nos territórios indígenas, não há <em>pets </em>do jeito como vemos nas cidades. Os animais vivem soltos na floresta. E mesmo os que recebem cuidados de crianças ou adultos nas aldeias podem voltar para a mata. A relação com <u>eles</u> é de cuidado e de respeito, equilibrando a subsistência e o bem-viver. Em vez de cachorros e gatinhos, são araras, papagaios, jabutis, macacos e capivaras os companheiros de brincadeiras e afagos dos pequenos.</p><p class=\"apoio\">Para esses bichinhos, dá-se o nome de xerimbabos, que em tupi significa “coisa muito querida”. A palavra aparece em vários registros históricos quando há a descrição da relação entre os povos originários e os animais da mata, sendo o termo cunhado pelos próprios indígenas. <strong>Nas aldeias</strong>, faz parte da cultura cuidar de tudo o que tem vida na floresta.</p><p class=\"fonte\">&lt;https://tinyurl.com/3er3jb53&gt; Acesso em: 10.04.2025. Adaptado.</p><p>O pronome <u>eles</u>, sublinhado no quarto parágrafo do texto, refere-se aos termos</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "“territórios” e “<em>pets</em>”.",
+        "B": "“<em>pets</em>” e “adultos”.",
+        "C": "“indígenas” e “animais”.",
+        "D": "“<em>pets</em>” e “animais”.",
+        "E": "“territórios” e “adultos”."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>No quarto parágrafo, o texto fala que não há <em>pets</em> nas aldeias e que “os animais vivem soltos na floresta” e “podem voltar para a mata”. Em seguida, “a relação com <u>eles</u>” retoma esses seres: os <strong><em>pets</em></strong> (no sentido de bichos de estimação) e os <strong>animais</strong>. Alternativa <strong>D</strong>.</p><p>“Territórios”, “adultos” e “indígenas” não são aquilo com que se tem uma relação de cuidado no trecho (A, B, C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pronomes"
+      ]
+    },
+    {
+      "numero": 13,
+      "materia": "Matemática",
+      "assunto": "Operações e problemas",
+      "origem": {
+        "numeroOriginal": 13
+      },
+      "enunciado": "<p>Um município deseja implementar um projeto de equoterapia que terá uma equipe multidisciplinar (psicólogos, fisioterapeutas, pedagogos, fonoaudiólogos, entre outros) e 12 cavalos preparados especialmente para as atividades. Os atendimentos acontecerão de terça a sexta-feira, e cada pessoa assistida pelo projeto deverá realizar duas sessões por semana, tendo cada uma das sessões duração de 30 minutos.</p><p>Sabendo que cada cavalo não pode trabalhar mais do que 3 horas por dia, o número máximo de pessoas que poderão ser atendidas, por semana, pelo projeto é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "144.",
+        "B": "180.",
+        "C": "288.",
+        "D": "360.",
+        "E": "576."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Cada cavalo trabalha até 3 h por dia, em 4 dias (terça a sexta): 12 cavalos · 3 h · 4 dias = 144 h por semana. Cada sessão dura 0,5 h, então são 288 sessões. Como cada pessoa faz 2 sessões por semana, o máximo é 288 ÷ 2 = <strong>144 pessoas</strong>. Alternativa <strong>A</strong>.</p><p>288 é o número de sessões, não de pessoas (C). Contar 5 dias de atendimento daria 180 pessoas (B).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 14,
+      "materia": "Biologia",
+      "assunto": "Evolução",
+      "origem": {
+        "numeroOriginal": 14
+      },
+      "enunciado": "<p>Leia a tirinha.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/muvuuzb&gt; Acesso em: 24.05.2025.</p><p>Criado por Maurício de Sousa na década de 1960, Horácio é um adorável filhote de Tiranossauro Rex.</p><p>Embora o personagem faça um grande sucesso desde sua criação, há um erro científico na tirinha, uma vez que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q14.webp",
+          "alt": "Tirinha “Piteco”, de Mauricio de Sousa, em quatro quadrinhos. Uma mulher pré-histórica vê uma pedra estalando e se pergunta que maluquice é aquela. Piteco percebe que é um ovo de dinossauro semienterrado, que está picando. Do ovo nasce um filhote de dinossauro, e ela diz: “Bem, ‘seu’ bebê, até a vista… e felicidades!” O filhote pergunta onde estava e se encanta por ela, que acha que ele tem um modo de assustar."
+        }
+      ],
+      "alternativas": {
+        "A": "filhotes de répteis carnívoros, como o Tiranossauro Rex, não se desenvolviam em ovos, mas no útero das fêmeas, como ocorre com os mamíferos.",
+        "B": "os dinossauros, embora convivessem harmonicamente com os seres humanos, não eram capazes de manter relações de afeto com as pessoas.",
+        "C": "o Tiranossauro Rex, assim como as aves, tinha o hábito instintivo de enterrar inteiramente seus ovos para protegê-los dos predadores.",
+        "D": "os dinossauros foram extintos há milhões de anos, muito antes da aparição dos primeiros hominídeos na Terra.",
+        "E": "as evidências paleontológicas indicam que as fêmeas de Tiranossauros Rex não se afastavam de seus ovos, já que eram animais domésticos."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A tirinha mostra homens das cavernas convivendo com um filhote de dinossauro. Mas os dinossauros (não aves) <strong>foram extintos há cerca de 66 milhões de anos</strong>, muito antes do surgimento dos primeiros hominídeos, há poucos milhões de anos. Alternativa <strong>D</strong>.</p><p>Dinossauros punham ovos (A). Eles nunca conviveram com seres humanos (B). O texto não fala de ovos inteiramente enterrados (C). E dinossauros não eram animais domésticos (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "dinossauros",
+        "tirinha"
+      ]
+    },
+    {
+      "numero": 15,
+      "materia": "Biologia",
+      "assunto": "Citologia",
+      "origem": {
+        "numeroOriginal": 15
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 15 e 16.</p><p>O oxigênio (O<sub>2</sub>) é essencial para a respiração aeróbica.</p><p>Durante esse processo, o oxigênio reage com a glicose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) liberando energia.</p><p>O principal produto gasoso formado no processo mencionado é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "dióxido de carbono (CO<sub>2</sub>).",
+        "B": "monóxido de carbono (CO).",
+        "C": "nitrogênio (N<sub>2</sub>).",
+        "D": "hidrogênio (H<sub>2</sub>).",
+        "E": "ozônio (O<sub>3</sub>)."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Na respiração aeróbica, a glicose reage com o oxigênio e libera energia, formando <strong>gás carbônico (CO<sub>2</sub>)</strong> e água. Alternativa <strong>A</strong>.</p><p>Monóxido de carbono se forma na combustão incompleta, não na respiração (B). Nitrogênio, hidrogênio e ozônio não são produtos desse processo (C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "respiração celular"
+      ]
+    },
+    {
+      "numero": 16,
+      "materia": "Química",
+      "assunto": "Substâncias e misturas",
+      "origem": {
+        "numeroOriginal": 16
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 15 e 16.</p><p>O oxigênio (O<sub>2</sub>) é essencial para a respiração aeróbica.</p><p>Durante esse processo, o oxigênio reage com a glicose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) liberando energia.</p><p>O oxigênio e a glicose são classificados, respectivamente, como</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "substância composta e substância simples.",
+        "B": "substância simples e substância composta.",
+        "C": "substância composta e substância composta.",
+        "D": "substância composta e mistura.",
+        "E": "substância simples e mistura."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O oxigênio (O<sub>2</sub>) tem um só elemento: é <strong>substância simples</strong>. A glicose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) tem três elementos: é <strong>substância composta</strong>. Alternativa <strong>B</strong>.</p><p>A inverte a classificação. O O<sub>2</sub> não é composto (C e D). E a glicose pura não é mistura (D e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 17,
+      "materia": "Geografia",
+      "assunto": "Tectônica de placas",
+      "origem": {
+        "numeroOriginal": 17
+      },
+      "enunciado": "<p class=\"apoio\">Alfred Wegener foi um climatologista alemão que desenvolveu a teoria da Deriva Continental, apresentada numa palestra proferida em 1912. Em 1915, publicou o seu livro <em>A origem dos Continentes </em> <em>e dos Oceanos</em>, em que a ideia fundamental consistia no fato de que os continentes estiveram todos unidos no passado, constituindo um continente único, o supercontinente Pangeia, rodeado pelo oceano Pantalassa. Posteriormente, o continente Pangeia sofreu fragmentações sucessivas, o que originou diferentes continentes que se deslocaram até às posições atuais. Este conjunto de ideias ficou conhecido como a teoria da Deriva Continental.</p><p class=\"fonte\">&lt;https://tinyurl.com/mvvcbjn7&gt; Acesso em: 29.03.2025. Adaptado.</p><p>Um dos argumentos de Wegener que fundamenta sua teoria é de base paleontológica e se respalda na existência de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "água doce presente em todos os continentes.",
+        "B": "formações geomorfológicas similares em continentes diferentes.",
+        "C": "fósseis idênticos encontrados em continentes hoje afastados.",
+        "D": "destroços de navios localizados ao longo das costas oceânicas.",
+        "E": "justaposição entre as linhas de costa da Ásia e da América do Sul."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O argumento <strong>paleontológico</strong> de Wegener é a existência de <strong>fósseis iguais</strong> (como o do réptil <em>Mesosaurus</em>) em continentes hoje separados por oceanos, como a América do Sul e a África. Alternativa <strong>C</strong>.</p><p>Formações geomorfológicas semelhantes são um argumento geológico, não paleontológico (B). E a água doce, os navios e o encaixe entre Ásia e América do Sul não sustentam a teoria (A, D e E); o encaixe citado por Wegener é entre América do Sul e África.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "deriva continental"
+      ]
+    },
+    {
+      "numero": 18,
+      "materia": "Física",
+      "assunto": "Magnetismo",
+      "origem": {
+        "numeroOriginal": 18
+      },
+      "enunciado": "<p class=\"apoio\">A Terra pode ser considerada um grande ímã, em que o polo Norte magnético está próximo ao polo Sul geográfico e, por sua vez, o polo Sul magnético está próximo ao polo Norte geográfico.</p><p class=\"apoio\">Diversos animais, como as aves, possuem uma característica denominada magnetorrecepção, que é a capacidade de perceber o campo geomagnético. Isso permite ao animal orientar-se durante o voo em relação à sua localização (altitude, direção e sentido de deslocamento). Essa percepção do campo geomagnético pode ocorrer por diferentes mecanismos, como glândulas, células e/ou proteínas.</p><p>Suponha que uma ave com essa capacidade migre diretamente do Canadá até o Brasil.</p><p>Nessas condições, é correto afirmar que a ave</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "se desloca de uma posição próxima ao polo Sul magnético no sentido do polo Sul geográfico.",
+        "B": "se desloca em trajetória retilínea traçada pelas linhas de campo geográfico.",
+        "C": "se desloca em uma trajetória paralela às linhas latitudinais.",
+        "D": "usa glândulas, células ou proteínas como bússolas elétricas.",
+        "E": "usam o sistema de geoposicionamento denominado GPS."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O texto diz que o polo Sul magnético fica perto do polo Norte geográfico. O Canadá fica perto do polo Norte geográfico, portanto perto do <strong>polo Sul magnético</strong>; e, ao ir para o Brasil, a ave segue no <strong>sentido do polo Sul geográfico</strong>. Alternativa <strong>A</strong>.</p><p>Não existem “linhas de campo geográfico” (B). Ir do Canadá ao Brasil é cruzar latitudes, não seguir paralelo a elas (C). As estruturas percebem o campo magnético, não funcionam como bússolas elétricas (D). E as aves não usam GPS (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "campo magnético terrestre"
+      ]
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "assunto": "Notação científica",
+      "origem": {
+        "numeroOriginal": 19
+      },
+      "enunciado": "<p class=\"apoio\">As aves conhecidas como pisco-de-peito-ruivo, ao migrarem, sempre conseguem retornar ao exato ponto de onde partiram, pois conseguem perceber o campo magnético da Terra que, próximo a sua superfície, tem densidade média de fluxo magnético estimada de 50 µT — cerca de um centésimo da força de um ímã de geladeira.</p><p class=\"fonte\">&lt;https://tinyurl.com/y43dyu6j&gt; Acesso em: 05.04.2025. Adaptado.</p><p>Sabendo que 1 µT = 1 × 10<sup>–6</sup> T, assinale a alternativa que apresenta corretamente, em notação científica, a densidade média de fluxo magnético de um imã de geladeira, em T.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "5,0 × 10<sup>–9</sup>",
+        "B": "0,5 × 10<sup>–6</sup>",
+        "C": "5,0 × 10<sup>–6</sup>",
+        "D": "0,5 × 10<sup>–3</sup>",
+        "E": "5,0 × 10<sup>–3</sup>"
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O campo da Terra (50 µT) é um centésimo do ímã de geladeira, então o ímã tem 100 · 50 µT = 5 000 µT = 5 000 · 10<sup>–6</sup> T = <strong>5,0 · 10<sup>–3</sup> T</strong>. Alternativa <strong>E</strong>.</p><p>C é o valor do campo da Terra mal convertido. B e D não estão em notação científica (o número deve ficar entre 1 e 10). E A divide em vez de multiplicar por 100.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 20,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 20
+      },
+      "enunciado": "<p class=\"apoio\">O domínio morfoclimático do Cerrado abriga diversas espécies da fauna. Somente de aves, são estimadas quase 900 espécies. Porém, apenas cerca de 40 espécies são endêmicas, ou seja, ocorrem apenas em seu domínio. Isso se deve ao fato de o Cerrado abrigar diversas aves migratórias.</p><p class=\"apoio\">O beija-flor-preto é uma ave característica da Mata Atlântica, mas que migra para o interior do país, visitando as flores do Cerrado.</p><p class=\"fonte\">&lt;https://tinyurl.com/m5p2ryrw&gt; Acesso em: 06.04.2025. Adaptado.</p>[[fig:1]]<p>Com base no mapa, se, por ventura, um beija-flor-preto migrar de uma área de Mata Atlântica, localizada no estado de Sergipe, para uma área de Cerrado, localizada no estado de Goiás, ele voará no sentido</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q20.webp",
+          "alt": "Mapa político do Brasil com a sigla de cada estado, a escala (0 a 1 000 km) e a rosa dos ventos indicando o norte. Sergipe fica no litoral do Nordeste, a leste; Goiás fica no Centro-Oeste, a sudoeste de Sergipe."
+        }
+      ],
+      "alternativas": {
+        "A": "Noroeste.",
+        "B": "Nordeste.",
+        "C": "Sudoeste.",
+        "D": "Sudeste.",
+        "E": "Leste."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Sergipe fica no litoral do Nordeste, e Goiás, no Centro-Oeste, mais ao sul e mais a oeste. Indo de Sergipe para Goiás, o beija-flor voa para o <strong>sudoeste</strong>. Alternativa <strong>C</strong>.</p><p>Noroeste levaria ao norte do país (A). Nordeste e leste levariam ao oceano (B e E). E sudeste levaria ao litoral do Sudeste (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pontos cardeais"
+      ]
+    },
+    {
+      "numero": 21,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 21
+      },
+      "enunciado": "<p class=\"chamada\">Leia o trecho da canção <em>Passaredo</em>, de Chico Buarque de Hollanda e Francis Hime, para responder às questões de 21 a 24.</p>[[fig:1]]<p>A letra da canção nos remete à</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q21.webp",
+          "alt": "Trecho da letra da canção “Passaredo”, de Chico Buarque e Francis Hime, com 17 versos numerados de 5 em 5. O eu lírico chama, um a um, pássaros brasileiros (quero-quero, tico-tico, anum, pardal, chapim, cotovia, ave-fria, pescador-martim, rolinha, andorinha, bem-te-vi, bicudo, sanhaço, juriti) e lhes dá ordens como “Xô”, “Some”, “Anda”, “Te esconde”, “Voa”, pedindo bico calado e muito cuidado. No verso 15, a palavra “Que”, em negrito, introduz o aviso de que o homem vem aí, repetido nos últimos versos. Fonte: &lt;https://tinyurl.com/3ucpw292&gt;, acesso em 10.04.2025."
+        }
+      ],
+      "alternativas": {
+        "A": "ameaça que os pássaros representam aos seres humanos.",
+        "B": "relação harmoniosa entre os seres humanos e a natureza.",
+        "C": "preocupação com as doenças transmitidas por pássaros.",
+        "D": "destruição da natureza causada pelos seres humanos.",
+        "E": "necessidade de construção de viveiros nas florestas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A canção manda os pássaros fugirem e se esconderem, “Que o homem vem aí”. Ela remete à <strong>destruição da natureza causada pelos seres humanos</strong>. Alternativa <strong>D</strong>.</p><p>A ameaça vem do homem, não dos pássaros (A e C). A relação não é harmoniosa (B). E a canção não fala de viveiros (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "canção"
+      ]
+    },
+    {
+      "numero": 22,
+      "materia": "Português",
+      "assunto": "Figuras de linguagem",
+      "origem": {
+        "numeroOriginal": 22
+      },
+      "enunciado": "<p class=\"chamada\">Leia o trecho da canção <em>Passaredo</em>, de Chico Buarque de Hollanda e Francis Hime, para responder às questões de 21 a 24.</p>[[fig:1]]<p>O título da canção apresentada se justifica pela</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q21.webp",
+          "alt": "Trecho da letra da canção “Passaredo”, de Chico Buarque e Francis Hime, com 17 versos numerados de 5 em 5. O eu lírico chama, um a um, pássaros brasileiros (quero-quero, tico-tico, anum, pardal, chapim, cotovia, ave-fria, pescador-martim, rolinha, andorinha, bem-te-vi, bicudo, sanhaço, juriti) e lhes dá ordens como “Xô”, “Some”, “Anda”, “Te esconde”, “Voa”, pedindo bico calado e muito cuidado. No verso 15, a palavra “Que”, em negrito, introduz o aviso de que o homem vem aí, repetido nos últimos versos. Fonte: &lt;https://tinyurl.com/3ucpw292&gt;, acesso em 10.04.2025."
+        }
+      ],
+      "alternativas": {
+        "A": "ação de expulsão dos seres humanos do meio ambiente.",
+        "B": "dimensão dos versos, ressaltando a velocidade do desmatamento.",
+        "C": "sonoridade das vogais fechadas que remetem à melancolia da canção.",
+        "D": "repetição inicial de termos, expressando a posição dos animais nas árvores.",
+        "E": "enumeração de substantivos, indicando a diversidade de aves existentes."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>“Passaredo” é um conjunto de pássaros, e a letra é uma longa <strong>enumeração de nomes de aves</strong> (quero-quero, tico-tico, anum, pardal…), mostrando a diversidade delas. Alternativa <strong>E</strong>.</p><p>Quem é expulso são os pássaros, não os humanos (A). O tamanho dos versos e as vogais fechadas não explicam o título (B e C). E as repetições não indicam a posição dos animais nas árvores (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "canção"
+      ]
+    },
+    {
+      "numero": 23,
+      "materia": "Português",
+      "assunto": "Conectivos",
+      "origem": {
+        "numeroOriginal": 23
+      },
+      "enunciado": "<p class=\"chamada\">Leia o trecho da canção <em>Passaredo</em>, de Chico Buarque de Hollanda e Francis Hime, para responder às questões de 21 a 24.</p>[[fig:1]]<p>Assinale a alternativa que apresenta um sinônimo para o termo destacado em negrito na canção.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q21.webp",
+          "alt": "Trecho da letra da canção “Passaredo”, de Chico Buarque e Francis Hime, com 17 versos numerados de 5 em 5. O eu lírico chama, um a um, pássaros brasileiros (quero-quero, tico-tico, anum, pardal, chapim, cotovia, ave-fria, pescador-martim, rolinha, andorinha, bem-te-vi, bicudo, sanhaço, juriti) e lhes dá ordens como “Xô”, “Some”, “Anda”, “Te esconde”, “Voa”, pedindo bico calado e muito cuidado. No verso 15, a palavra “Que”, em negrito, introduz o aviso de que o homem vem aí, repetido nos últimos versos. Fonte: &lt;https://tinyurl.com/3ucpw292&gt;, acesso em 10.04.2025."
+        }
+      ],
+      "alternativas": {
+        "A": "<strong>porque</strong>",
+        "B": "<strong>ainda que</strong>",
+        "C": "<strong>desde que</strong>",
+        "D": "<strong>contanto que</strong>",
+        "E": "<strong>à medida que</strong>"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Em “Muito cuidado / <strong>Que</strong> o homem vem aí”, o “que” explica o motivo do cuidado: equivale a <strong>porque</strong>. Alternativa <strong>A</strong>.</p><p>“Ainda que” indica concessão (B). “Desde que” e “contanto que” indicam condição (C e D). E “à medida que” indica proporção (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 24,
+      "materia": "Português",
+      "assunto": "Funções da linguagem",
+      "origem": {
+        "numeroOriginal": 24
+      },
+      "enunciado": "<p class=\"chamada\">Leia o trecho da canção <em>Passaredo</em>, de Chico Buarque de Hollanda e Francis Hime, para responder às questões de 21 a 24.</p>[[fig:1]]<p>A canção apresentada se utiliza tanto de imperativos, como em “some”, “anda” e “te esconde”, quanto de vocativos, como em “rolinha”, “andorinha” e “ bem-te-vi”, com o objetivo de</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q21.webp",
+          "alt": "Trecho da letra da canção “Passaredo”, de Chico Buarque e Francis Hime, com 17 versos numerados de 5 em 5. O eu lírico chama, um a um, pássaros brasileiros (quero-quero, tico-tico, anum, pardal, chapim, cotovia, ave-fria, pescador-martim, rolinha, andorinha, bem-te-vi, bicudo, sanhaço, juriti) e lhes dá ordens como “Xô”, “Some”, “Anda”, “Te esconde”, “Voa”, pedindo bico calado e muito cuidado. No verso 15, a palavra “Que”, em negrito, introduz o aviso de que o homem vem aí, repetido nos últimos versos. Fonte: &lt;https://tinyurl.com/3ucpw292&gt;, acesso em 10.04.2025."
+        }
+      ],
+      "alternativas": {
+        "A": "expressar as emoções vivenciadas pelo eu lírico diante do canto dos pássaros.",
+        "B": "manter um diálogo necessário com a natureza para a preservação da humanidade.",
+        "C": "persuadir os interlocutores a realizarem ações para protegê-los de uma iminente ameaça.",
+        "D": "evidenciar o domínio de estruturas poéticas que valorizam a sonoridade dos versos.",
+        "E": "ensinar os leitores sobre a diversidade de espécies existentes na flora brasileira."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Os vocativos chamam os pássaros e os imperativos dão ordens a eles (“some”, “te esconde”). O eu lírico quer <strong>convencer os pássaros a fugir para se proteger</strong> do homem que vem aí. Alternativa <strong>C</strong>.</p><p>O foco não está nas emoções do eu lírico (A) nem na preservação da humanidade (B). A sonoridade existe, mas não é o objetivo dos imperativos e vocativos (D). E pássaros são fauna, não flora (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "imperativo",
+        "vocativo"
+      ]
+    },
+    {
+      "numero": 25,
+      "materia": "Biologia",
+      "assunto": "Fisiologia animal",
+      "origem": {
+        "numeroOriginal": 25
+      },
+      "enunciado": "<p>A águia-de-asa-redonda é uma ave de rapina com uma das visões mais poderosas do reino animal. A sua capacidade visual é ampla, tanto em acuidade, quanto em distinção cromática, características essenciais para a eficiência de um predador.</p><p>Estima-se que essa ave consiga reconhecer um roedor a 5 000 m de altitude. Isso é possível, em parte, devido à altíssima densidade de cones, na fóvea do olho. Cones são células fotorreceptoras estimuladas pela percepção das cores primárias ópticas. Na águia-de-asa-redonda, os cones de tipos azul, verde, vermelho e duplos totalizam cerca de 1 milhão/mm<sup>2</sup>; enquanto o ser humano possui, aproximadamente, 200 000/mm<sup>2</sup>.</p><p>Além da visão tetracromática, a águia possui uma fotossensibilidade ao espectro UV e apresenta filtros naturais para luz polarizada, o que lhe permite localizar peixes rapidamente.</p><p>Baseando-se no texto apresentado, sobre essa águia é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "enxerga, em período diurno, todas as presas na mesma cor acinzentada.",
+        "B": "o fato de possuir cones duplos a impede de visualizar quaisquer cores.",
+        "C": "o ser humano leva vantagem ao perceber também o espectro infravermelho.",
+        "D": "a acuidade visual dela é, aproximadamente, cinco vezes inferior a de um ser humano com visão normal.",
+        "E": "a capacidade de ela enxergar mais cores com melhor definição é superior à do ser humano."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A águia tem cerca de 1 milhão de cones por mm², contra 200 000 no ser humano, e enxerga quatro cores primárias e ainda o ultravioleta. Ela <strong>enxerga mais cores e com melhor definição</strong> que o ser humano. Alternativa <strong>E</strong>.</p><p>Ela distingue cores (A e B). O texto fala em UV, não em infravermelho, e não diz que o ser humano tem vantagem (C). E sua acuidade é cerca de cinco vezes maior, não menor (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "visão"
+      ]
+    },
+    {
+      "numero": 26,
+      "materia": "Geografia",
+      "assunto": "Climatologia",
+      "origem": {
+        "numeroOriginal": 26
+      },
+      "enunciado": "<p>O guano é um fertilizante orgânico natural, rico em nitrogênio, fósforo e potássio, que provém das fezes de aves migratórias atraídas pela grande quantidade de peixes existentes no litoral norte do Chile, fazendo dessa região da América do Sul voltada para o Oceano Pacífico um grande depósito desse material. Essa profusão de peixes está relacionada ao fenômeno da Ressurgência, que é consequência da ação de uma determinada corrente marítima fria. A ausência de chuvas naquela região, também resultado dessa corrente marítima, contribui decisivamente para que o material fecal não perca suas propriedades químicas.</p><p>De acordo com o texto, a corrente marítima citada no texto é a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "da Califórnia.",
+        "B": "da Antártica.",
+        "C": "de Benguela.",
+        "D": "do Brasil.",
+        "E": "do Peru."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>No litoral do Chile e do Peru, no Pacífico, atua a <strong>corrente fria de Humboldt</strong>, também chamada <strong>corrente do Peru</strong>. Ela provoca a ressurgência (muitos peixes) e deixa a costa muito seca, como no deserto do Atacama. Alternativa <strong>E</strong>.</p><p>A corrente da Califórnia fica na América do Norte (A). A Antártica circula o continente gelado (B). A de Benguela fica na costa da África (C). E a do Brasil é quente e fica no Atlântico (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "correntes marítimas"
+      ]
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "assunto": "Geometria espacial",
+      "origem": {
+        "numeroOriginal": 27
+      },
+      "enunciado": "<p class=\"apoio\">Em algumas espécies de aves, o design das penas permite alterar a trajetória da luz devido à presença de conjuntos de nanoestruturas semelhantes a cristais. Esse fenômeno é chamado iridescência ou coloração estrutural e está ligado a estruturas denominadas melanossomos.</p><p class=\"fonte\">&lt;https://tinyurl.com/3wc2mwes&gt; Acesso em: 05.04.2025. Adaptado.</p><p>Considere que as penas de um tipo de ave possui melanossomos cilíndricos cujo diâmetro mede 300 nm e altura 500 nm.</p><p>Assinale a alternativa que apresenta a expressão matemática que deve ser multiplicada pelo número irracional π para calcular o volume desse melanossomo, em nm<sup>3</sup>.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "150<sup>2</sup> × 500",
+        "B": "250<sup>2</sup> × 300",
+        "C": "300<sup>2</sup> × 500",
+        "D": "500<sup>2</sup> × 300",
+        "E": "600<sup>2</sup> × 500"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O volume do cilindro é V = π · r² · h. O raio é metade do diâmetro: 300 ÷ 2 = 150 nm, e a altura é 500 nm. Então V = π · <strong>150² × 500</strong>. Alternativa <strong>A</strong>.</p><p>C usa o diâmetro no lugar do raio. E usa o dobro do diâmetro. B e D trocam ou inventam as medidas.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "volume do cilindro"
+      ]
+    },
+    {
+      "numero": 28,
+      "materia": "Química",
+      "assunto": "Substâncias e misturas",
+      "origem": {
+        "numeroOriginal": 28
+      },
+      "enunciado": "<p>A água (H<sub>2</sub>O) é indispensável para a sobrevivência dos animais. Ela atua como solvente no corpo, transporta nutrientes e regula a temperatura corporal.</p><p>Sobre a água, é correto afirmar que é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "uma mistura de átomos de hidrogênio e oxigênio.",
+        "B": "uma mistura dos gases hidrogênio e oxigênio.",
+        "C": "um composto formado por 3 elementos químicos.",
+        "D": "um composto formado por 1 molécula de hidrogênio e 1 de oxigênio.",
+        "E": "um composto formado pela união de 2 átomos de hidrogênio com 1 átomo de oxigênio."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A água (H<sub>2</sub>O) é uma substância composta: cada molécula tem <strong>2 átomos de hidrogênio ligados a 1 de oxigênio</strong>. Alternativa <strong>E</strong>.</p><p>Água não é mistura de átomos nem de gases (A e B). Tem 2 elementos, não 3 (C). E não contém moléculas de H<sub>2</sub> e O<sub>2</sub> (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 29,
+      "materia": "Biologia",
+      "assunto": "Zoologia",
+      "origem": {
+        "numeroOriginal": 29
+      },
+      "enunciado": "<p>Os ratões-do-banhado (<em>Myocastor coypus) </em>são animais nativos da América do Sul, onde vivem nas margens de lagos e rios.</p><p>Possuem pelos, longa cauda cilíndrica e patas palmeadas. Além disso, são mais ágeis na água do que em terra. Uma característica distintiva importante são seus grandes dentes frontais cor de laranja devido à presença de ferro no esmalte dos dentes.</p><p>Esses animais podem ser utilizados na produção de carne e de peles para consumo humano.</p><p>Quando retirados de suas regiões de origem, podem se tornar espécies invasoras, porque se adaptam rapidamente aos locais onde são introduzidos, reproduzindo-se com eficiência na ausência de predadores e causando desequilíbrios nos ecossistemas.</p><p>Sobre os animais citados no texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "se adaptam ao meio ambiente em que são introduzidos, pois são mamíferos primatas facilmente domesticáveis, o que acarreta um grande equilíbrio do ecossistema local.",
+        "B": "podem ser utilizados como fonte de proteína animal e possuem adaptações que permitem a movimentação na água, apesar de serem mamíferos terrestres.",
+        "C": "dilaceram a carne das presas, pois são mamíferos carnívoros com dentes caninos pontiagudos e muito resistentes devido à presença de ferro.",
+        "D": "pertencem ao grupo dos mamíferos ruminantes, pois possuem a capacidade de engolir e de mastigar o mesmo alimento mais de uma vez.",
+        "E": "atuam no equilíbrio ecológico da fauna e da flora das matas e das florestas independentemente das regiões onde foram introduzidos."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que os ratões-do-banhado são usados na produção de carne (fonte de proteína) e têm patas palmeadas e são ágeis na água: <strong>adaptações para nadar</strong>, apesar de serem mamíferos que vivem em terra firme. Alternativa <strong>B</strong>.</p><p>São roedores, não primatas, e como invasores causam desequilíbrio (A). Os dentes alaranjados são incisivos de roedor herbívoro, não caninos de carnívoro (C). Não são ruminantes (D). E fora de sua região causam desequilíbrio (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "mamíferos",
+        "espécies invasoras"
+      ]
+    },
+    {
+      "numero": 30,
+      "materia": "Química",
+      "assunto": "Ácidos e bases",
+      "origem": {
+        "numeroOriginal": 30
+      },
+      "enunciado": "<p>O pH é uma escala de acidez para identificar o caráter ácido ou básico de uma solução. Esse caráter também pode ser identificado com o auxílio de um indicador ácido-base, que muda de cor em função da acidez da solução em análise.</p><p>A figura representa a escala de pH e a coloração de um determinado indicador ácido-base.</p>[[fig:1]]<p>O suco gástrico, presente no estômago de humanos e de muitos animais, é uma solução que auxilia na digestão dos alimentos e apresenta pH = 2.</p><p>Podemos afirmar corretamente que, em presença de suco gástrico, o indicador apresentará cor</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q30.webp",
+          "alt": "Escala de pH de 0 a 14. De 0 a 7, pH ácido, em que o indicador fica vermelho; em 7, neutro, verde; de 7 a 14, pH básico, azul."
+        }
+      ],
+      "alternativas": {
+        "A": "azul, pois se trata de uma solução de caráter básico.",
+        "B": "azul, pois se trata de uma solução de caráter ácido.",
+        "C": "verde, pois se trata de uma solução neutra.",
+        "D": "vermelha, pois se trata de uma solução de caráter ácido.",
+        "E": "vermelha, pois se trata de uma solução de caráter básico."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>pH 2 é bem menor que 7, ou seja, <strong>ácido</strong>. Pela escala, nessa faixa o indicador fica <strong>vermelho</strong>. Alternativa <strong>D</strong>.</p><p>Azul é a cor em meio básico (A e B). Verde é a cor no neutro, pH 7 (C). E pH 2 não é básico (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pH",
+        "indicadores"
+      ]
+    },
+    {
+      "numero": 31,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 31
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 31 e 32.</p><p>Para se adaptarem às mudanças sazonais, alguns povos nômades das savanas africanas seguem, tradicionalmente, a trilha de grandes manadas de gnus e zebras durante suas migrações em busca de água.</p><p>Considere que uma dessas manadas percorreu uma distância de 240 km em 4 dias. O grupo humano que seguiu a trilha fez o mesmo percurso, mas levou 6 dias.</p><p>Com base nesses dados, podemos afirmar corretamente que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a manada foi 20 km/dia mais rápida que os humanos.",
+        "B": "a manada foi 40 km/dia mais lenta que os humanos.",
+        "C": "a manada foi 20 km/dia mais lenta que os humanos.",
+        "D": "os humanos foram 40 km/dia mais lentos que a manada.",
+        "E": "os humanos foram 20 km/dia mais rápidos que a manada."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A manada fez 240 ÷ 4 = 60 km/dia, e os humanos, 240 ÷ 6 = 40 km/dia. A <strong>manada foi 20 km/dia mais rápida</strong>. Alternativa <strong>A</strong>.</p><p>A diferença é de 20 km/dia, não 40 (B e D). E os humanos foram mais lentos, não mais rápidos (C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "velocidade média"
+      ]
+    },
+    {
+      "numero": 32,
+      "materia": "Geografia",
+      "assunto": "Climatologia",
+      "origem": {
+        "numeroOriginal": 32
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 31 e 32.</p><p>Para se adaptarem às mudanças sazonais, alguns povos nômades das savanas africanas seguem, tradicionalmente, a trilha de grandes manadas de gnus e zebras durante suas migrações em busca de água.</p><p>Considere que uma dessas manadas percorreu uma distância de 240 km em 4 dias. O grupo humano que seguiu a trilha fez o mesmo percurso, mas levou 6 dias.</p><p>A migração citada ocorre em função do ciclo da água.</p><p>É correto afirmar que o princípio físico relacionado a esse ciclo está associado</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "à aceleração centrípeta dos ventos tropicais.",
+        "B": "à diminuição da pressão atmosférica no solo.",
+        "C": "ao aquecimento constante de rochas vulcânicas.",
+        "D": "ao vasto aumento da umidade relativa nos desertos.",
+        "E": "à evaporação e à condensação provocadas pela energia solar."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O ciclo da água é movido pela <strong>energia do Sol</strong>, que provoca a <strong>evaporação</strong>; o vapor sobe, esfria e sofre <strong>condensação</strong>, formando nuvens e chuva. Alternativa <strong>E</strong>.</p><p>Os ventos, a pressão atmosférica, as rochas vulcânicas e a umidade dos desertos não são o princípio que move o ciclo (A, B, C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ciclo da água"
+      ]
+    },
+    {
+      "numero": 33,
+      "materia": "Biologia",
+      "assunto": "Nutrição e saúde",
+      "origem": {
+        "numeroOriginal": 33
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 33 e 34.</p><p class=\"apoio\">O Brasil é o quarto maior produtor mundial de tilápia. Essa espécie representa 63,5 % da produção de peixes do país.</p><p class=\"apoio\">Na Região Nordeste, o cultivo comercial de tilápias começou a ser expressivo em meados da década de 1990. O Ceará é o estado com maior tradição no consumo de tilápia em virtude da produção desses peixes em seus reservatórios de água doce. Esse povoamento é fruto dos peixamentos realizados pelo Departamento Nacional de Obras Contra as Secas (DNOCS). A primeira tilápia que chegou ao Ceará veio da região Sudeste do Brasil.</p><p class=\"apoio\">Por ser um alimento rico em proteínas, esse peixe é um forte aliado para quem deseja ganhar massa magra e perder peso, especialmente, por possuir uma quantidade muito baixa de carboidratos.</p><p class=\"apoio\">A tilápia também contém vitaminas A, B e D, bem como minerais, incluindo cálcio, ferro e zinco. Além disso, em 2015, médicos e pesquisadores do Ceará iniciaram uma pesquisa e descobriram que a pele desse peixe, quando usada como curativo para queimaduras de 2° e 3° graus, auxilia na cicatrização da pele humana.</p><p class=\"fonte\">&lt;https://tinyurl.com/4fzfupv7&gt; Acesso em: 30.03.2025. Adaptado.</p><p>Com base no texto, é correto afirmar que a tilápia é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "nativa da região Nordeste do Brasil, especificamente do Ceará.",
+        "B": "rica em vitaminas e minerais, podendo ser utilizada na medicina.",
+        "C": "cultivada em tanques de água salgada no interior da região Sudeste.",
+        "D": "o principal produto de exportação do Brasil desde a década de 1990.",
+        "E": "produzida e comercializada pelo Departamento de Obras Contra as Secas."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que a tilápia tem vitaminas A, B e D e minerais (cálcio, ferro e zinco), e que sua pele é usada como curativo para queimaduras. É <strong>rica em vitaminas e minerais e pode ser usada na medicina</strong>. Alternativa <strong>B</strong>.</p><p>A primeira tilápia chegou ao Ceará vinda do Sudeste, ou seja, não é nativa do Nordeste (A). É criada em água doce (C). O texto não fala de exportação (D). E o DNOCS fez o povoamento dos reservatórios, não a venda (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 34,
+      "materia": "Biologia",
+      "assunto": "Nutrição e saúde",
+      "origem": {
+        "numeroOriginal": 34
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 33 e 34.</p><p class=\"apoio\">O Brasil é o quarto maior produtor mundial de tilápia. Essa espécie representa 63,5 % da produção de peixes do país.</p><p class=\"apoio\">Na Região Nordeste, o cultivo comercial de tilápias começou a ser expressivo em meados da década de 1990. O Ceará é o estado com maior tradição no consumo de tilápia em virtude da produção desses peixes em seus reservatórios de água doce. Esse povoamento é fruto dos peixamentos realizados pelo Departamento Nacional de Obras Contra as Secas (DNOCS). A primeira tilápia que chegou ao Ceará veio da região Sudeste do Brasil.</p><p class=\"apoio\">Por ser um alimento rico em proteínas, esse peixe é um forte aliado para quem deseja ganhar massa magra e perder peso, especialmente, por possuir uma quantidade muito baixa de carboidratos.</p><p class=\"apoio\">A tilápia também contém vitaminas A, B e D, bem como minerais, incluindo cálcio, ferro e zinco. Além disso, em 2015, médicos e pesquisadores do Ceará iniciaram uma pesquisa e descobriram que a pele desse peixe, quando usada como curativo para queimaduras de 2° e 3° graus, auxilia na cicatrização da pele humana.</p><p class=\"fonte\">&lt;https://tinyurl.com/4fzfupv7&gt; Acesso em: 30.03.2025. Adaptado.</p><p>Sobre o peixe citado no texto, assinale a alternativa correta.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Ao ser consumido, a presença de ferro nesses peixes, favorece a formação dos glóbulos vermelhos no sangue humano.",
+        "B": "A pele desses peixes, ao ser utilizada em queimaduras de 2° e 3° graus, impede a cicatrização da área lesada no corpo humano.",
+        "C": "Ao ser consumido, a vitamina D presente nesses peixes é importante para prevenir doenças em crianças, tais como o escorbuto e o sarampo.",
+        "D": "Ao ser consumido, a quantidade baixa de proteínas nesses peixes favorece o ganho de massa magra e fortalece o tecido muscular, principalmente em praticantes de atividades físicas.",
+        "E": "Ao ser consumido, a presença de minerais como cálcio e zinco, nesses peixes, ajuda a prevenir o aparecimento de tromboses, a febre amarela e a prisão de ventre nas pessoas idosas."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O <strong>ferro</strong> é parte da hemoglobina, e por isso é importante para a <strong>formação dos glóbulos vermelhos</strong>. Alternativa <strong>A</strong>.</p><p>A pele de tilápia ajuda a cicatrização (B). Escorbuto vem da falta de vitamina C, e sarampo é uma virose (C). O texto diz que a tilápia é rica, não pobre, em proteínas (D). E cálcio e zinco não previnem febre amarela (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sais minerais"
+      ]
+    },
+    {
+      "numero": 35,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 35
+      },
+      "enunciado": "<p>A hemoglobina é uma proteína presente no sangue de animais vertebrados. Ela contém ferro, que é responsável pelo transporte de oxigênio e é representado por: \\({}^{56}_{26}\\text{Fe}\\).</p><p>Sobre esse elemento, é correto afirmar que apresenta</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "número de massa 56.",
+        "B": "número atômico 30.",
+        "C": "30 prótons.",
+        "D": "56 elétrons.",
+        "E": "26 nêutrons."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Na representação, o número de cima (56) é o <strong>número de massa</strong> e o de baixo (26), o número atômico. Alternativa <strong>A</strong>.</p><p>O número atômico é 26, não 30 (B), e por isso há 26 prótons (C) e, no átomo neutro, 26 elétrons (D). Os nêutrons são 56 − 26 = 30, não 26 (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 36,
+      "materia": "Química",
+      "assunto": "Funções orgânicas",
+      "origem": {
+        "numeroOriginal": 36
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 36 e 37.</p><p class=\"apoio\">Os feromônios são substâncias químicas usadas por muitos animais para se comunicarem. Essas moléculas podem transmitir informações sobre reprodução, perigo ou trilhas de alimentos. Portanto, as moléculas dos feromônios podem ser usadas em perfumes, em armadilhas e até no controle de pragas.</p><p class=\"apoio\">Entre mulheres que convivem juntas por muito tempo, os feromônios são responsáveis por regularem o ciclo menstrual entre elas.</p><p class=\"apoio\">Na agricultura brasileira, uma das maiores pragas do milho é o inseto percevejo escuro. Para livrar as plantações dessa praga, o homem sintetiza, em laboratório, seu feromônio sexual para ser usado em armadilhas como isca para atrair esses insetos e dificultar sua proliferação.</p><p class=\"apoio\">Fórmula estrutural do feromônio do percevejo escuro:</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/2nyw4rb9&gt; Acesso em: 10.04.2025. Adaptado.</p><p>Baseando-se no texto, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q36.webp",
+          "alt": "Fórmula estrutural do feromônio: cadeia CH₃–CH₂–CH(OH)–CH(CH₃)–C(=O)–CH₂–CH₃, com um grupo OH no terceiro carbono, um grupo CH₃ no quarto e um oxigênio em ligação dupla no quinto carbono."
+        }
+      ],
+      "alternativas": {
+        "A": "os feromônios são compostos produzidos por alguns animais, não sendo encontrados nos seres humanos.",
+        "B": "não é possível produzir feromônios em laboratório para usos específicos.",
+        "C": "utiliza-se, na agricultura, o feromônio de trilha do percevejo escuro para atrair predadores desse inseto.",
+        "D": "o feromônio sintetizado para controlar pragas no milho apresenta fórmula molecular C<sub>8</sub>H<sub>16</sub>O<sub>2</sub>.",
+        "E": "o feromônio representado tem, em sua estrutura, 15 átomos de hidrogênio e um átomo de oxigênio."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Contando na estrutura: carbonos, 2 + 1 + 1 + 1 (do grupo CH<sub>3</sub> lateral) + 1 + 2 = <strong>8</strong>; hidrogênios, 3 + 2 + 1 + 1 (do OH) + 1 + 3 + 2 + 3 = <strong>16</strong>; oxigênios, <strong>2</strong> (do OH e do C=O). Fórmula: C<sub>8</sub>H<sub>16</sub>O<sub>2</sub>. Alternativa <strong>D</strong>.</p><p>O texto cita feromônios em mulheres (A) e produzidos em laboratório (B). O feromônio usado é o sexual, para atrair o próprio percevejo (C). E a molécula tem 16 hidrogênios e 2 oxigênios (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fórmula molecular",
+        "feromônios"
+      ]
+    },
+    {
+      "numero": 37,
+      "materia": "Química",
+      "assunto": "Química ambiental",
+      "origem": {
+        "numeroOriginal": 37
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 36 e 37.</p><p class=\"apoio\">Os feromônios são substâncias químicas usadas por muitos animais para se comunicarem. Essas moléculas podem transmitir informações sobre reprodução, perigo ou trilhas de alimentos. Portanto, as moléculas dos feromônios podem ser usadas em perfumes, em armadilhas e até no controle de pragas.</p><p class=\"apoio\">Entre mulheres que convivem juntas por muito tempo, os feromônios são responsáveis por regularem o ciclo menstrual entre elas.</p><p class=\"apoio\">Na agricultura brasileira, uma das maiores pragas do milho é o inseto percevejo escuro. Para livrar as plantações dessa praga, o homem sintetiza, em laboratório, seu feromônio sexual para ser usado em armadilhas como isca para atrair esses insetos e dificultar sua proliferação.</p><p class=\"apoio\">Fórmula estrutural do feromônio do percevejo escuro:</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/2nyw4rb9&gt; Acesso em: 10.04.2025. Adaptado.</p><p>O uso desses compostos, na agricultura, está associado</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2026-1sem/q36.webp",
+          "alt": "Fórmula estrutural do feromônio: cadeia CH₃–CH₂–CH(OH)–CH(CH₃)–C(=O)–CH₂–CH₃, com um grupo OH no terceiro carbono, um grupo CH₃ no quarto e um oxigênio em ligação dupla no quinto carbono."
+        }
+      ],
+      "alternativas": {
+        "A": "à contaminação do solo e dos lençóis freáticos, causando danos irreversíveis ao meio ambiente.",
+        "B": "à exterminação de todos os insetos da área agrícola, incluindo polinizadores como abelhas.",
+        "C": "às alternativas sustentáveis, porque são específicos para o alvo-praga.",
+        "D": "à sua toxidade para humanos e animais, representando um risco à saúde pública.",
+        "E": "à produção de grande quantidade de produtos químicos industriais, contribuindo para a poluição do ar."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Os feromônios atraem só a espécie que os produz, então funcionam como iscas <strong>específicas para a praga</strong>, sem matar outros insetos nem contaminar o ambiente como os agrotóxicos. São <strong>alternativas sustentáveis</strong>. Alternativa <strong>C</strong>.</p><p>Eles não contaminam o solo nem a água (A), não exterminam todos os insetos (B), não são tóxicos para humanos e animais (D) e são usados em pequenas quantidades (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "controle de pragas"
+      ]
+    },
+    {
+      "numero": 38,
+      "materia": "Biologia",
+      "assunto": "Ecologia",
+      "origem": {
+        "numeroOriginal": 38
+      },
+      "enunciado": "<p>Em 2019, o Earthwatch Institute declarou que as abelhas são os seres vivos mais importantes do planeta, durante uma reunião da Royal Geographical Society de Londres.</p><p>Essa declaração está associada ao fato de as abelhas serem os principais seres vivos responsáveis por polinizar cerca de 75% das culturas alimentares do mundo.</p><p>No entanto, vários estudos demonstram que as abelhas enfrentam risco de extinção, em várias partes do mundo, devido a fatores como o desmatamento, o uso de agrotóxicos, a exposição a diferentes parasitas e as mudanças climáticas, que afetam a disponibilidade de flores e de alimentos.</p><p>Baseando-se no texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a pulverização de agrotóxicos e o uso de inseticidas alteram o material genético das abelhas, deixando-as lentas, sem asas, com maior capacidade de polinização e de produção de mel.",
+        "B": "o desmatamento beneficia a formação de enxames e a construção de novos ninhos de abelhas devido ao aumento da disponibilidade de alimento, como flores silvestres.",
+        "C": "o aumento do número de flores encurta o tempo de vida das abelhas, causando a redução da reprodução das plantas e prejudicando a biodiversidade terrestre.",
+        "D": "a ocorrência de doenças prejudiciais à visão e à memória de navegação das abelhas aumenta a capacidade de elas retornarem às colmeias.",
+        "E": "o uso de agrotóxicos na agricultura para o controle de pragas acarreta a diminuição da população de abelhas, interferindo na polinização natural."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O texto cita o uso de agrotóxicos entre as causas do risco de extinção das abelhas. Com menos abelhas, há <strong>menos polinização natural</strong>. Alternativa <strong>E</strong>.</p><p>Agrotóxicos não melhoram a polinização (A). O desmatamento reduz o alimento das abelhas (B). Mais flores ajudam as abelhas (C). E doenças diminuem, não aumentam, sua capacidade de voltar à colmeia (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "polinização"
+      ]
+    },
+    {
+      "numero": 39,
+      "materia": "Física",
+      "assunto": "Termologia",
+      "origem": {
+        "numeroOriginal": 39
+      },
+      "enunciado": "<p>Os povos inuítes, que habitam a região do Círculo Polar Ártico aprenderam a importância do uso de certos tipos de peles para o isolamento térmico por meio da observação dos animais locais. Uma aplicação desse aprendizado é a confecção de roupas feitas com pele de caribu (rena) que ajuda a manter a temperatura corporal aproximadamente constante.</p><p>Assinale a alternativa que justifica corretamente o equilíbrio térmico estabelecido.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "A alta capacidade de absorção de moléculas de água pela pele é a responsável por evitar a sudorese.",
+        "B": "A perda de calor da pele do corpo para o ambiente é a responsável por manter o corpo aquecido.",
+        "C": "A pele auxilia no equilíbrio térmico devido à convecção, mantendo o corpo aquecido.",
+        "D": "A reflexão total da radiação solar recebida pelo corpo aumenta a temperatura corporal.",
+        "E": "A presença de proteínas vivas isolantes na pele é a responsável por facilitar a transferência térmica."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A pele de caribu, com pelos que prendem ar, funciona como <strong>isolante térmico</strong>: dificulta a perda de calor do corpo, principalmente pela <strong>convecção</strong> do ar frio junto à pele, e mantém o corpo aquecido. Alternativa <strong>C</strong>.</p><p>A roupa não serve para absorver suor (A). Perder calor esfriaria o corpo (B). Refletir a radiação não aumenta a temperatura (D). E um isolante dificulta, e não facilita, a transferência de calor (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "isolamento térmico"
+      ]
+    },
+    {
+      "numero": 40,
+      "materia": "Física",
+      "assunto": "Pressão",
+      "origem": {
+        "numeroOriginal": 40
+      },
+      "enunciado": "<p>Alguns povos nômades do deserto do Saara utilizam camelos como meio de transporte. Esses animais têm a capacidade de caminhar longas distâncias sobre areia fofa sem afundar.</p><p>Podemos afirmar corretamente que essa capacidade está relacionada ao princípio físico da</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "radiação solar, pois a areia úmida auxilia na sustentação do animal.",
+        "B": "gravidade, pois os desertos apresentam uma diminuição da gravidade local.",
+        "C": "condutividade térmica, pois os cascos são constituídos de uma resina isolante.",
+        "D": "resistividade elétrica, pois a areia apresenta sílica, um bom condutor de eletricidade.",
+        "E": "pressão superficial, pois os cascos amplos distribuem o peso do animal e da sua carga."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Pressão é força dividida pela área. Os cascos largos do camelo <strong>distribuem seu peso por uma área maior</strong>, diminuindo a pressão sobre a areia, e por isso ele não afunda. Alternativa <strong>E</strong>.</p><p>A areia do deserto é seca, e a radiação solar não sustenta o animal (A). A gravidade não diminui nos desertos (B). Condutividade térmica e resistividade elétrica não explicam por que ele não afunda (C e D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 41,
+      "materia": "História",
+      "assunto": "Idade Média",
+      "origem": {
+        "numeroOriginal": 41
+      },
+      "enunciado": "<p class=\"apoio\">Durante a Idade Média, os mapas eram frequentemente adornados com representações de monstros marinhos. Essas criaturas refletiam tanto o medo quanto a fascinação pelo desconhecido. Além disso, eram utilizadas para ilustrar os perigos do mar e das terras inexploradas.</p><p class=\"apoio\">Com o avanço da ciência e da exploração marítima, as representações de monstros marinhos nos mapas começaram a desaparecer. Estudos mais precisos e relatos confiáveis substituíram as lendas e as superstições. Além disso, a biologia marinha ajudou a desmistificar muitas dessas criaturas. Mapas posteriores focaram-se mais em precisão e detalhes geográficos.</p><p class=\"fonte\">&lt;https://tinyurl.com/2jaebfwu&gt; Acesso em: 10.04.2025. Adaptado.</p><p>A partir da leitura do texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "os mapas da Idade Média retratavam as características monstruosas dos animais marinhos, demonstrando uma visão científica precisa em relação a esses seres e alertando para os perigos que representavam.",
+        "B": "a visão medieval sobre os animais marinhos era determinada por medo e superstição, e foi substituída pelo olhar científico na medida em que avançaram as expedições marítimas e os conhecimentos sobre biologia marinha.",
+        "C": "a fascinação pelo desconhecido evitou que os europeus da Idade Média se dedicassem ao estudo sistemático dos animais marinhos e impediu que essas criaturas fossem estudadas até a contemporaneidade.",
+        "D": "a cartografia medieval se baseou em relatos confiáveis para produzir mapas precisos em que as representações de monstros marinhos desmistificavam essas criaturas.",
+        "E": "o objetivo da cartografia é alertar os navegantes para os perigos do desconhecido, evitando os deslocamentos por mar, habitat ocupado por monstros marinhos."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que os monstros marinhos dos mapas medievais refletiam “o medo” e a “fascinação pelo desconhecido”, e que foram substituídos por estudos precisos com o avanço da ciência, das navegações e da biologia marinha. Alternativa <strong>B</strong>.</p><p>A visão medieval não era científica (A e D). Os animais marinhos passaram a ser estudados (C). E a cartografia não tem o objetivo de impedir viagens pelo mar (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "cartografia"
+      ]
+    },
+    {
+      "numero": 42,
+      "materia": "Geografia",
+      "assunto": "Movimentos da Terra",
+      "origem": {
+        "numeroOriginal": 42
+      },
+      "enunciado": "<p>Uma das formas de participar ativamente da sociedade como cidadão responsável é impedir a propagação de desinformação causada por fake news.</p><p>Certa vez, uma jovem recebeu, por uma de suas mídias sociais, uma mensagem, reproduzida exatamente como foi divulgada, que afirmava:</p><p class=\"apoio\">Fenômeno do equinócio nos atingirá nos próximos 5 dias e trará calor ao Brasil. Vamos ficar atentos! O fenômeno do Equinócio nos afetará nos próximos 5 dias. Permaneça com os animais dentro de casa, especialmente a partir das 11h. Às 16h, todos os dias, a temperatura irá flutuar e pode atingir 40 graus Celsius. Isso pode causar desidratação e insolação facilmente. Este fenômeno é devido ao fato de que o Sol está diretamente acima do equador.</p><p>Para reconhecer a mensagem como fake news, a jovem recorreu aos conhecimentos de Ciências da Natureza vistos na escola.</p><p>Assinale a alternativa que identifica corretamente o conceito científico que evidencia o erro da fake news.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "O equinócio provoca ondas de calor intenso em países localizados ao Sul da linha do Equador, sendo necessário se abrigar para evitar queimaduras solares.",
+        "B": "O fato de o Sol estar sobre o Equador faz com que a radiação solar se concentre em todo o Brasil, justificando a previsão de 40 °C às 16 h.",
+        "C": "O equinócio está relacionado à inclinação do eixo da Terra e se caracteriza pelo fato de o dia e a noite terem o mesmo período com duração de 12 horas, portanto, não é responsável direto por ondas de calor.",
+        "D": "As temperaturas de 40 °C são previsíveis durante o equinócio porque ocorre aumento da atividade solar sobre o hemisfério sul nessa época.",
+        "E": "A recomendação de ficar em casa durante o equinócio é cientificamente válida, pois a energia solar atinge níveis perigosos entre 11 h e 17 h nesses dias."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O equinócio é o momento em que o Sol fica sobre o Equador e o <strong>dia e a noite têm cerca de 12 horas</strong> em todo o planeta, por causa da inclinação do eixo da Terra. Ele marca o início da primavera ou do outono e <strong>não causa ondas de calor</strong>. Alternativa <strong>C</strong>.</p><p>As outras alternativas repetem as afirmações falsas da mensagem: calor intenso no hemisfério sul (A), 40 °C às 16 h (B), aumento da atividade solar (D) e necessidade de ficar em casa (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "equinócio",
+        "fake news"
+      ]
+    },
+    {
+      "numero": 43,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 43
+      },
+      "enunciado": "<p class=\"apoio\">Para garantir o equilíbrio entre o número de animais e o alimento disponível, os pecuaristas podem utilizar um indicador chamado taxa de lotação que auxilia na análise do número de unidades animais (UA) que uma área, em hectares (ha), pode sustentar com o alimento disponível.</p><p class=\"apoio\">Sabe-se que 1 UA equivale a 450 kg de massa animal. Essa medida é utilizada, pois os animais podem apresentar massas e consumos diferentes, sobretudo devido às diversas fases da vida que os animais no pasto têm.</p><p class=\"apoio\">Para determinar a quantidade de UAs que uma propriedade possui, deve-se dividir a massa total dos animais que irão ocupar a área por 450 kg. Além disso, a fórmula para calcular o total de UA em uma área é dada por:</p><p class=\"apoio\"><strong>TOTAL DE UA = (ÁREA) × (TAXA DE LOTAÇÃO)</strong></p><p class=\"fonte\">Fonte dos dados: &lt;https://tinyurl.com/9x4rwau2&gt; Acesso em: 05.04.2025.</p><p>Suponha que, em uma fazenda, sejam criados 900 animais com massa média de 250 kg, em uma área de 100 ha.</p><p>Com base nas informações apresentadas, determine a taxa de lotação dessa área em UA/ha.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "2,5",
+        "B": "5,0",
+        "C": "7,5",
+        "D": "12,5",
+        "E": "18,0"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A massa total é 900 · 250 = 225 000 kg, que correspondem a 225 000 ÷ 450 = 500 UA. Taxa de lotação = 500 UA ÷ 100 ha = <strong>5,0 UA/ha</strong>. Alternativa <strong>B</strong>.</p><p>Usar 900 animais como se fossem 900 UA daria 9,0, que não é alternativa. 2,5 vem de dividir 250 por 100 (A).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 44,
+      "materia": "Geografia",
+      "assunto": "Agropecuária e meio ambiente",
+      "origem": {
+        "numeroOriginal": 44
+      },
+      "enunciado": "<p class=\"apoio\">O Brasil é o maior exportador de carne bovina do mundo, responsável por quase um quinto do total das exportações globais desse produto. Com mais de 230 milhões de cabeças de gado, o Brasil possui o segundo maior rebanho bovino do mundo cuja criação é, em grande parte, feita no pasto. Juntos, os nove estados que formam a Amazônia brasileira possuem quase 40% do rebanho nacional de bovinos.</p><p class=\"apoio\">Inúmeros estudos sobre a dinâmica do desmatamento documentam que grande parte das áreas de floresta desmatadas na Amazônia é transformada em pastagem.</p><p class=\"fonte\">&lt;https://tinyurl.com/2znvdsnb&gt; Acesso em: 30.03.2025. Adaptado.</p><p>A partir do texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o Brasil ainda precisa importar grande parte da carne consumida pelo mercado interno, mesmo possuindo o maior rebanho bovino de corte do mundo, pois o alto valor do dólar inibe as exportações desse produto.",
+        "B": "a expansão da fronteira agrícola para o cultivo de feijão, de trigo e de arroz, cereais utilizados como fonte de alimentação para o gado de corte, é a maior responsável pelo desmatamento verificado na Amazônia brasileira.",
+        "C": "a criação de gado é uma das principais causas do desmatamento no Brasil, principalmente na Amazônia, contribuindo para as mudanças climáticas, pois as florestas são importantes no sequestro de carbono.",
+        "D": "o Brasil ainda não conseguiu estancar o processo de desmatamento causado pela criação de gado de corte, principalmente na Amazônia brasileira, embora seja responsável por 50% das exportações mundiais de carne bovina.",
+        "E": "o estado do Amazonas, dentre as unidades da Federação localizadas na Amazônia Legal, concentra pouco mais de 40% do rebanho nacional de bovinos, tornando esse estado, em termos percentuais, o campeão brasileiro em áreas florestais desmatadas."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto diz que grande parte das áreas desmatadas na Amazônia vira pastagem. A <strong>criação de gado é uma das principais causas do desmatamento</strong>, que contribui para as mudanças climáticas, já que as florestas retiram carbono do ar. Alternativa <strong>C</strong>.</p><p>O Brasil é o maior exportador, não importador (A). O desmatamento vem da pastagem, e trigo e feijão não são ração de gado (B). O Brasil responde por quase um quinto das exportações, não 50 % (D). E os 40 % do rebanho estão nos nove estados da Amazônia, não só no Amazonas (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "desmatamento"
+      ]
+    },
+    {
+      "numero": 45,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 45
+      },
+      "enunciado": "<p>Ao consumir a carne suína ou bovina contaminada com cisticercos – quando não ocorre o cozimento adequado – o ser humano pode adquirir uma doença denominada ____<strong>I</strong>____ causada pelo parasita conhecido como ____<strong>II</strong>____.</p><p>Assinale a alternativa que preenche correta e respectivamente os espaços numerados I e II.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "I: ascaridíase; II: lombriga.",
+        "B": "I: teníase; II: solitária.",
+        "C": "I: mal de Chagas; II: barbeiro.",
+        "D": "I: amebíase; II: ameba.",
+        "E": "I: toxoplasmose; II: salmonella."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Os cisticercos são larvas da tênia. Ao comer carne mal cozida com essas larvas, a pessoa desenvolve a <strong>teníase</strong>, causada pela <strong>tênia</strong>, conhecida como <strong>solitária</strong>. Alternativa <strong>B</strong>.</p><p>A lombriga causa ascaridíase e é adquirida pela ingestão de ovos (A). O barbeiro transmite a doença de Chagas, causada por um protozoário (C). A ameba é transmitida por água e alimentos contaminados (D). E salmonela é uma bactéria, que não causa toxoplasmose (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "verminoses"
+      ]
+    },
+    {
+      "numero": 46,
+      "materia": "História",
+      "assunto": "Imperialismo e neocolonialismo",
+      "origem": {
+        "numeroOriginal": 46
+      },
+      "enunciado": "<p class=\"apoio\">A origem dos zoológicos, como os conhecemos hoje, está diretamente ligada ao Imperialismo dos séculos XVIII e XIX, quando grandes impérios levavam animais exóticos de suas colônias para exibição na Europa, simbolizando não apenas a dominação de territórios, mas também o controle sobre a natureza.</p><p class=\"apoio\">Milhões de pessoas visitavam zoológicos para ver criaturas exóticas que despertavam curiosidade e entretenimento. Essa exibição era tanto uma forma de lazer, quanto uma expressão de poder, em que a fauna de terras distantes estava à mercê dos colonizadores.</p><p class=\"apoio\">Posteriormente, muitos zoológicos foram criados com intenções conservacionistas, especialmente no que tange à preservação de espécies nativas, ressaltando o papel que essas instituições têm desempenhado em termos de conservação e educação.</p><p class=\"fonte\">&lt;https://tinyurl.com/39ebfr2u&gt; Acesso em: 10.04.2025. Adaptado.</p><p>O processo histórico referido no texto, que explica o contexto de surgimento dos zoológicos modernos, é caracterizado por</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "uma revolução cultural ocorrida nos países da Europa, que levou os governos a adotar políticas educacionais rígidas e universalizantes, com o objetivo de preparar a juventude para as transformações que ocorreriam no século XX.",
+        "B": "uma política de entretenimento, também conhecida como “política de pão e circo”, voltada ao aprimoramento do repertório cultural dos colonos, para que superassem os males que os afligiam.",
+        "C": "uma política de expansão territorial, econômica, política e cultural de países europeus sobre outros continentes, também conhecida como neocolonialismo.",
+        "D": "uma forma de governo absolutista, em que todo o poder se concentrava nas mãos do rei e que desconsiderava as necessidades materiais imediatas de seus súditos.",
+        "E": "uma forma de governo democrática, que pressupunha a divisão do poder em Executivo, Legislativo e Judiciário e dava grande ênfase ao desenvolvimento científico e cultural da população europeia."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto liga os zoológicos modernos ao imperialismo dos séculos XVIII e XIX, quando potências europeias levavam animais exóticos de suas colônias. Esse processo foi a <strong>expansão territorial, econômica, política e cultural europeia sobre outros continentes</strong>, o <strong>neocolonialismo</strong>. Alternativa <strong>C</strong>.</p><p>Não se trata de revolução cultural educacional (A), de “pão e circo”, que é da Roma Antiga (B), de absolutismo (D) nem de democracia com três poderes (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 47,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 47
+      },
+      "enunciado": "<p class=\"apoio\">O único santuário de elefantes da América Latina fica no Brasil, no município de Chapada dos Guimarães, no Mato Grosso. É mantido pela Associação Santuário de Elefantes Brasil (SEB), uma organização da sociedade civil, sem fins lucrativos, que resgata elefantes cativos em situação de risco, sejam eles mantidos em circos, zoológicos ou propriedades privadas, oferecendo-lhes o espaço, as condições e os cuidados necessários para que possam se recuperar física e emocionalmente dos anos passados em cativeiro.</p><p class=\"apoio\">Em razão da criação do Santuário, as áreas, que antes eram utilizadas para pastagem, estão em plena regeneração e recomposição. Esse processo acaba atraindo outros animais que estavam sumindo do local em razão da degradação ambiental.</p><p class=\"fonte\">&lt;https://tinyurl.com/9a5v7e32&gt; Acesso em: 06.04.2025. Adaptado.</p><p>Para os seres humanos, a existência do santuário é importante, pois ajuda a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "reconectar as pessoas com a atividade circense, que não existe mais no território nacional em função de uma lei federal que impede a utilização de animais em seus espetáculos.",
+        "B": "inspirar novas ações voltadas para incrementar o aumento do número de elefantes para suprir a ausência desses animais nos zoológicos privados brasileiros.",
+        "C": "compreender que os elefantes são dignos de respeito, mesmo sendo responsáveis pelo desmatamento de amplos espaços naturais do Santuário.",
+        "D": "promover a empatia e o respeito pelos elefantes, incentivando as pessoas a se preocuparem com o bem-estar desses e de outros animais.",
+        "E": "motivar as pessoas a se engajarem em ações que permitam a utilização de elefantes em eventos públicos e privados."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O santuário resgata elefantes de circos, zoológicos e propriedades particulares e cuida da sua recuperação. Isso <strong>promove a empatia e o respeito</strong> pelos elefantes e pelo bem-estar dos animais em geral. Alternativa <strong>D</strong>.</p><p>O santuário não aproxima as pessoas do circo (A), não quer aumentar os elefantes em zoológicos (B), não é causa de desmatamento, pois a área está se regenerando (C), e não incentiva o uso de elefantes em eventos (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "bem-estar animal"
+      ]
+    },
+    {
+      "numero": 48,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 48
+      },
+      "enunciado": "<p class=\"apoio\">O Projeto Tartarugas Marinhas (TAMAR), que se dedica à proteção das tartarugas marinhas no Brasil, nasceu em 1980. Desde o início, os pesquisadores do projeto perceberam que, para proteger as tartarugas, era preciso envolver e cuidar das pessoas. Pescadores, que antes da chegada do Projeto consumiam tartarugas marinhas e ovos como recurso alimentar ou os vendiam, foram convidados a trabalhar formalmente na proteção, pois sabiam como encontrar a desova da tartaruga sem estragar os ovos ou qual a melhor época para vê-las na praia, dentre outras informações fundamentais para as atividades de conservação.</p><p class=\"apoio\">As atividades de proteção e manejo trazidas pelo TAMAR buscam dialogar com as práticas e o conhecimento tradicionais. Espaços eficientes de aprendizagem e capacitação foram abertos naturalmente, subvertendo uma realidade anterior marcada pela falta de informação sobre as tartarugas marinhas. O compromisso em manter a própria comunidade engajada na ação educadora mais ampla envolve gerações de famílias e o meio ambiente para além das tartarugas, incluindo questões de cidadania e a preocupação constante com a qualidade ambiental do lugar onde vivem. A relação de trabalho estabelecida, as mudanças culturais gerais, a capacitação e os resultados positivos para a conservação colaboraram e continuam a colaborar com as mudanças de comportamento em relação à proteção necessária às tartarugas e ao seu habitat.</p><p class=\"fonte\">&lt;https://tinyurl.com/msdbmp3z&gt; Acesso em: 30/04/2025.</p><p>A partir da leitura do texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a necessidade de preservação ambiental inviabiliza a manutenção das culturas e os modos de vida das comunidades pescadoras.",
+        "B": "o projeto TAMAR capacita os membros das comunidades tradicionais para a pesca, o comércio e o consumo das tartarugas como recurso alimentar.",
+        "C": "é necessário convidar os pescadores a se retirarem de seus territórios, impedindo o contato entre humanos e animais para proteger as tartarugas marinhas do Brasil.",
+        "D": "o trabalho do TAMAR é bem-sucedido porque engaja as comunidades em ações de cidadania, respeitando as práticas e os conhecimentos locais.",
+        "E": "a capacitação e os resultados positivos para a conservação foram ineficazes na promoção das mudanças de comportamento necessárias à proteção das tartarugas e de seu habitat."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que o TAMAR envolveu os pescadores na proteção, dialoga “com as práticas e o conhecimento tradicionais” e engaja a comunidade em “questões de cidadania”. Por isso é <strong>bem-sucedido</strong>. Alternativa <strong>D</strong>.</p><p>A preservação foi conciliada com a vida dos pescadores (A). O projeto os capacita para proteger, não para consumir as tartarugas (B). Os pescadores foram convidados a trabalhar, não a sair (C). E o texto diz que os resultados ajudaram a mudar comportamentos (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "projeto TAMAR"
+      ]
+    },
+    {
+      "numero": 49,
+      "materia": "Biologia",
+      "assunto": "Ecologia",
+      "origem": {
+        "numeroOriginal": 49
+      },
+      "enunciado": "<p>Entre os principais fatores que ameaçam a sobrevivência das tartarugas marinhas do litoral do Brasil, destacam-se a captura acidental em redes de pesca e anzóis, a degradação de áreas de desova, a fotopoluição, a poluição dos oceanos e as mudanças climáticas.</p><p>Essas <strong>ameaças</strong> ocorrem quando</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "as tartarugas marinhas vivem a maior parte de suas vidas nas praias prioritárias de reprodução, sem a presença de predadores.",
+        "B": "as tartarugas capturadas acidentalmente em redes de malha ou arrastos permanecem submersas, sem subir à superfície, pois realizam respiração branquial.",
+        "C": "os filhotes das tartarugas, em vez de seguirem para o mar guiados pela luminosidade natural do horizonte, deslocam-se para o continente, atraídos pela iluminação artificial nas praias.",
+        "D": "as mudanças climáticas ocasionam o aumento do nível do mar, cobrindo totalmente a areia das praias, o que favorece a formação de novos ninhos e aumenta a quantidade de filhotes.",
+        "E": "a ausência de predadores e o cuidado parental realizado nas praias prioritárias de reprodução diminuem a possibilidade de ocorrer alta taxa de mortalidade dos filhotes das tartarugas."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A fotopoluição (luz artificial nas praias) é uma das ameaças: os filhotes, que se guiam pela claridade do horizonte sobre o mar, <strong>se desorientam e vão para o continente</strong>, onde morrem. Alternativa <strong>C</strong>.</p><p>As tartarugas passam a maior parte da vida no mar (A). Respiram por pulmões, e por isso morrem afogadas presas em redes (B). A subida do mar destrói ninhos (D). E não há cuidado parental após a desova (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tartarugas marinhas"
+      ]
+    },
+    {
+      "numero": 50,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 50
+      },
+      "enunciado": "<p>Os animais têm uma grande importância para a vida humana e o equilíbrio ecológico do meio ambiente. No entanto, a relação entre humanos e animais nem sempre é harmoniosa, pois os animais são, por vezes, expostos a práticas cruéis e antiéticas, que colocam em risco as suas vidas.</p><p>Desenvolver valores, como responsabilidade no cuidado do meio ambiente e de outro ser vivo, é importante para ampliar a consciência social. Para isso, faz-se necessário</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "incentivar a introdução de espécies invasoras em habitats naturais de outras espécies, a fim de permitir a transmissão de doenças aos animais nativos.",
+        "B": "comprar produtos feitos de animais ameaçados ou em perigo de extinção, a fim de inibir o tráfico ilegal desses animais e a propagação de zoonoses.",
+        "C": "combater ações de reflorestamento, a fim de impedir a migração de animais para ambientes ou habitats onde tenham espaço para se reproduzir.",
+        "D": "estimular a comercialização de animais silvestres vítimas do tráfico ilegal para serem usados como cobaias em testes de laboratórios.",
+        "E": "denunciar o cativeiro ou os maus-tratos de animais, os desmatamentos e as queimadas ilegais às autoridades competentes."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Agir com responsabilidade pelo meio ambiente e pelos animais inclui <strong>denunciar maus-tratos, cativeiro ilegal, desmatamentos e queimadas</strong> às autoridades. Alternativa <strong>E</strong>.</p><p>Introduzir espécies invasoras (A), comprar produtos de animais ameaçados (B), combater o reflorestamento (C) e vender animais traficados (D) prejudicam os animais e o ambiente.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "cidadania"
+      ]
+    }
+  ]
+}

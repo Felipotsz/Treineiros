@@ -1,0 +1,103 @@
+/* Páginas de apresentação (ETEC, FATEC, Enem, Vestibulares, Apoie).
+   Cada página leva a cor da sua banca: uma régua grossa à esquerda do título, como a margem do caderno. */
+.info{--cor-banca:var(--line-forte)}
+.info[data-banca="ETEC"]{--cor-banca:var(--margem)}
+.info[data-banca="FATEC"]{--cor-banca:var(--verde)}
+.info[data-banca="Enem"]{--cor-banca:var(--ouro)}
+
+.trilha{margin:0 0 var(--s3);font:var(--fs-1) var(--font-ui);color:var(--text-muted)}
+.trilha a{color:var(--text-muted)}
+
+.info__topo{max-width:46rem;margin-bottom:var(--s5);padding-left:var(--s3);border-left:6px solid var(--cor-banca)}
+@media (min-width:48rem){.info__topo{padding-left:var(--s4)}}
+.info__topo h1{font-size:clamp(2rem,7vw,3rem);line-height:1.08}
+.info__topo > p:not(.botoes):not(.aviso){font-size:var(--fs-3);line-height:1.5;color:var(--text-muted)}
+.info__topo .botoes{margin-top:var(--s4)}
+.aviso--breve{border-left:4px solid var(--ouro);background:var(--surface)}
+
+/* Ficha técnica: pares termo/valor, em duas colunas quando cabe */
+.ficha{max-width:52rem;margin:0 0 var(--s5)}
+.ficha dl{display:grid;margin:0;padding:.4rem;background:var(--surface);border-radius:var(--radius-caixa)}
+.ficha dl>div{padding:var(--s3);border-bottom:1px solid var(--line)}
+.ficha dl>div:last-child{border-bottom:0}
+@media (min-width:40rem){.ficha dl{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .ficha dl>div:nth-child(odd):not(:last-child){border-right:1px solid var(--line)}
+  .ficha dl>div:last-child:nth-child(odd){grid-column:1/-1}
+  .ficha dl>div:nth-last-child(2):nth-child(odd){border-bottom:0}}
+.ficha dt{font:600 var(--fs-2) var(--font-ui);font-variant-caps:all-small-caps;letter-spacing:.08em;color:var(--text-muted)}
+.ficha dd{margin:var(--s1) 0 0;font:700 var(--fs-3)/1.35 var(--font-title);font-variant-numeric:lining-nums;color:var(--text)}
+
+.info__secao{max-width:46rem;margin:0 0 var(--s5)}
+.info__secao h2{font-size:var(--fs-5)}
+.info__secao h3{margin-top:var(--s4);font-size:var(--fs-4)}
+.lista-info{padding-left:1.2rem}
+.lista-info li{margin-bottom:var(--s2);padding-left:var(--s1)}
+.lista-info li::marker{color:var(--cor-banca)}
+.nota-info{padding:var(--s3);font:var(--fs-2)/1.5 var(--font-ui);background:var(--surface-2);border-radius:var(--radius)}
+
+.links ul{margin:0;padding:0;list-style:none}
+.links li{padding:var(--s2) 0;border-bottom:1px solid var(--line)}
+.links li:last-child{border-bottom:0}
+.links a{font:700 var(--fs-3) var(--font-ui)}
+
+.fontes-info{max-width:46rem;margin-top:var(--s6);padding-top:var(--s3);border-top:1px solid var(--line);font:var(--fs-1)/1.55 var(--font-ui);color:var(--text-muted)}
+.fontes-info h2{margin-bottom:var(--s2);font:700 var(--fs-2) var(--font-ui);color:var(--text)}
+.fontes-info a{color:var(--text-muted)}
+
+/* ---------- Vestibulares (índice) ---------- */
+.vest{display:grid;gap:var(--s3);margin:0 0 var(--s5);padding:0;list-style:none}
+@media (min-width:56rem){.vest{grid-template-columns:repeat(3,1fr)}}
+.vest > li{--cor-banca:var(--line-forte);max-width:none;display:flex;flex-direction:column;padding:var(--s4) var(--s3) var(--s3);
+  background:var(--surface);border:1px solid var(--line);border-top:4px solid var(--cor-banca);border-radius:var(--radius)}
+.vest > li[data-banca="ETEC"]{--cor-banca:var(--margem)}
+.vest > li[data-banca="FATEC"]{--cor-banca:var(--verde)}
+.vest > li[data-banca="Enem"]{--cor-banca:var(--ouro)}
+.vest h2{margin-bottom:var(--s1);font-size:var(--fs-5)}
+.vest__para{margin:0 0 var(--s2);font:600 var(--fs-2) var(--font-ui);color:var(--text-muted)}
+.vest .botoes{margin-top:auto;padding-top:var(--s2)}
+
+.comparar{max-width:60rem;margin:0 0 var(--s5)}
+.comparar__rola{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);border-radius:var(--radius-caixa);background:var(--surface)}
+.comparar table{width:100%;min-width:38rem;border-collapse:collapse;font:var(--fs-2)/1.45 var(--font-ui)}
+.comparar caption{padding:var(--s3);text-align:left;font:var(--fs-1) var(--font-ui);color:var(--text-muted);caption-side:bottom}
+.comparar th,.comparar td{padding:var(--s2) var(--s3);text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+.comparar thead th{font-weight:700;border-bottom:2px solid var(--line-forte)}
+.comparar tbody th{font-weight:600;color:var(--text-muted);width:9rem}
+.comparar tbody tr:last-child > *{border-bottom:0}
+
+/* ---------- Apoie ---------- */
+.autor{display:grid;gap:var(--s4);align-items:start;max-width:52rem;margin:0 0 var(--s5)}
+@media (min-width:40rem){.autor{grid-template-columns:10rem minmax(0,1fr)}}
+/* retrato em camafeu: oval com filete dourado */
+.autor__foto{width:10rem;height:12rem;border-radius:50%;object-fit:cover;object-position:50% 35%;background:var(--surface-2);border:4px double var(--ouro);box-shadow:var(--sombra)}
+.autor__foto--vazia{display:grid;place-items:center;font:800 var(--fs-6) var(--font-title);color:var(--caneta)}
+.autor h2{margin-bottom:var(--s1)}
+.autor__papel{margin:0 0 var(--s3);font:600 var(--fs-2) var(--font-ui);color:var(--text-muted)}
+.autor__links{display:flex;flex-wrap:wrap;gap:var(--s2) var(--s4);margin:var(--s3) 0 0;padding:0;list-style:none;font:600 var(--fs-2) var(--font-ui)}
+.carreira{margin:0;padding:0;list-style:none;border-left:2px solid var(--line-forte)}
+.carreira li{position:relative;margin:0 0 var(--s3);padding-left:var(--s4)}
+.carreira li::before{content:"";position:absolute;left:-.45rem;top:.5rem;width:.8rem;height:.8rem;border-radius:50%;background:var(--surface);border:2px solid var(--caneta)}
+.carreira strong{display:block;font-family:var(--font-ui)}
+.carreira span{font:var(--fs-1) var(--font-ui);color:var(--text-muted)}
+
+.pix{display:grid;gap:var(--s4);max-width:52rem;margin:0 0 var(--s5);padding:var(--s4) var(--s3);background:var(--surface);
+  border:1px solid var(--line);border-radius:var(--radius-caixa)}
+@media (min-width:44rem){.pix{grid-template-columns:auto minmax(0,1fr);padding:var(--s4)}}
+.pix__qr{justify-self:center;width:13rem;height:13rem;padding:.6rem;background:var(--qr-fundo);border:1px solid var(--line);border-radius:var(--radius)}
+.pix__qr img{display:block;width:100%;height:100%;object-fit:contain;image-rendering:pixelated}
+.pix__qr--vazio{display:grid;place-items:center;padding:var(--s3);text-align:center;font:600 var(--fs-2) var(--font-ui);color:var(--text-muted);
+  background:var(--surface-2);border-style:dashed}
+.pix h2{margin-bottom:var(--s2)}
+.pix__chave{display:flex;flex-wrap:wrap;gap:var(--s2);align-items:center;margin:var(--s3) 0}
+.pix__chave code{flex:1 1 14rem;min-width:0;padding:.55rem .75rem;font:600 var(--fs-1)/1.4 ui-monospace,Menlo,Consolas,monospace;overflow-wrap:anywhere;
+  background:var(--surface-2);border:1px solid var(--line);border-radius:var(--radius)}
+.opcional{margin:0;padding:var(--s3);font:var(--fs-2)/1.5 var(--font-ui);background:var(--caneta-clara);border-radius:var(--radius)}
+.ajudas{padding-left:1.2rem}
+.ajudas li{margin-bottom:var(--s2)}
+.preencher{outline:2px dashed var(--ouro);outline-offset:3px}
+
+/* Fotografia: cópia em papel com margem branca, como as de um álbum antigo */
+.foto{max-width:52rem;margin:0 0 var(--s5);padding:.6rem .6rem 0;background:var(--surface);border:1px solid var(--line-forte);box-shadow:var(--sombra)}
+.foto img{display:block;width:100%;height:auto;aspect-ratio:auto;filter:sepia(.12) saturate(.92)}
+.foto figcaption{padding:var(--s2) var(--s1);font:italic var(--fs-2)/1.4 var(--font-title);color:var(--text-muted)}
+.autor__foto{filter:sepia(.1)}

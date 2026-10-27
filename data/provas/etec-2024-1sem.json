@@ -1,0 +1,1124 @@
+{
+  "id": "etec-2024-1sem",
+  "banca": "ETEC",
+  "ano": 2024,
+  "semestre": 1,
+  "titulo": "Vestibulinho ETEC, 1º semestre de 2024",
+  "fonte": "Centro Paula Souza",
+  "dataExame": "2023-12-10",
+  "duracaoMinutos": 240,
+  "tema": "Amazônia",
+  "pdf": "assets/provas/etec-2024-1sem.pdf",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Geografia",
+      "assunto": "Regionalização do Brasil",
+      "origem": {
+        "numeroOriginal": 1
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e o mapa para responder às questões 01 e 02.</p><p class=\"apoio\">Você sabe qual a diferença entre Amazônia Internacional, Bacia Amazônica, Bioma Amazônia, Região Norte do Brasil e Amazônia Legal?</p><p class=\"apoio\">A Amazônia Internacional inclui todos os países que compartilham o Bioma Amazônia, inclusive o Brasil.</p><p class=\"apoio\">A Bacia Amazônica é a maior bacia hidrográfica do mundo. Seu principal rio, o Amazonas, corta a região para desaguar no Oceano Atlântico, lançando ao mar milhões de litros d’água a cada segundo.</p><p class=\"apoio\">O Bioma Amazônia é um dos ecossistemas mais importantes e diversificados do mundo. Ele é conhecido por sua floresta tropical densa, por seus rios extensos e seus animais. Entre suas características, inclui-se uma grande variedade de espécies de plantas e animais, muitas das quais não são encontradas em nenhum outro lugar do mundo. A Floresta Amazônica abriga mais de 40 000 espécies de plantas, cerca de 2 000 espécies de aves, 300 espécies de mamíferos e 2 500 espécies de peixes. Além disso, possui um clima quente e úmido, e a precipitação é abundante. Outro traço distintivo importante deste Bioma, é a abundância de rios, sendo o Rio Amazonas o mais conhecido e o maior em volume de água do mundo. Ele é responsável por cerca de um quinto de toda a água doce do planeta.</p><p class=\"apoio\">A Região Norte do Brasil é uma das cinco grandes regiões brasileiras definidas pelo Instituto Brasileiro de Geografia e Estatística (IBGE) e é composta por sete estados.</p><p class=\"apoio\">A Amazônia Legal corresponde à área de atuação da Superintendência de Desenvolvimento da Amazônia (Sudam), estabelecida por lei, e tem, como um de seus objetivos, conservar o patrimônio natural, que inclui elementos ecológicos, históricos, geológicos e socioculturais. Essa área engloba a totalidade de oito estados (Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima e Tocantins) e parte do Estado do Maranhão. A Amazônia Legal se estende além do Bioma Amazônia, englobando também parte do cerrado e do pantanal.</p>[[fig:1]]<p>Com base no texto e com o auxílio do mapa, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q01.webp",
+          "alt": "Mapa da América do Sul com os estados brasileiros. Em cinza escuro, a Amazônia Internacional, que cobre o norte do Brasil e partes da Venezuela, Colômbia, Equador, Peru, Bolívia, Guiana, Suriname e Guiana Francesa. Com contorno grosso, a Região Norte: Acre, Amazonas, Roraima, Rondônia, Pará, Amapá e Tocantins. Maranhão e Mato Grosso também aparecem em cinza, mas fora do contorno da Região Norte."
+        }
+      ],
+      "alternativas": {
+        "A": "a Amazônia Internacional é administrada pelo Instituto Brasileiro de Geografia e Estatística (IBGE).",
+        "B": "os estados da Região Norte do Brasil estão totalmente inseridos na Amazônia Legal.",
+        "C": "o estado do Maranhão, por pertencer à Região Norte, faz parte da Amazônia Legal.",
+        "D": "a bacia hidrográfica do Amazonas engloba todos os rios da América do Sul.",
+        "E": "o Bioma Amazônia se estende da Venezuela até o sul da Argentina."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que a Amazônia Legal inclui a totalidade de oito estados: Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima e Tocantins. Os sete estados da Região Norte (Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins) estão todos nessa lista, ou seja, <strong>totalmente inseridos</strong> na Amazônia Legal. Alternativa <strong>B</strong>.</p><p>O IBGE define as regiões do Brasil, não administra a Amazônia Internacional, que envolve vários países (A). O Maranhão é da Região Nordeste, e só parte dele está na Amazônia Legal (C). A Bacia Amazônica não reúne todos os rios da América do Sul (D). E o Bioma Amazônia fica no norte do continente, sem chegar ao sul da Argentina (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 2,
+      "materia": "Geografia",
+      "assunto": "Regionalização do Brasil",
+      "origem": {
+        "numeroOriginal": 2
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e o mapa para responder às questões 01 e 02.</p><p class=\"apoio\">Você sabe qual a diferença entre Amazônia Internacional, Bacia Amazônica, Bioma Amazônia, Região Norte do Brasil e Amazônia Legal?</p><p class=\"apoio\">A Amazônia Internacional inclui todos os países que compartilham o Bioma Amazônia, inclusive o Brasil.</p><p class=\"apoio\">A Bacia Amazônica é a maior bacia hidrográfica do mundo. Seu principal rio, o Amazonas, corta a região para desaguar no Oceano Atlântico, lançando ao mar milhões de litros d’água a cada segundo.</p><p class=\"apoio\">O Bioma Amazônia é um dos ecossistemas mais importantes e diversificados do mundo. Ele é conhecido por sua floresta tropical densa, por seus rios extensos e seus animais. Entre suas características, inclui-se uma grande variedade de espécies de plantas e animais, muitas das quais não são encontradas em nenhum outro lugar do mundo. A Floresta Amazônica abriga mais de 40 000 espécies de plantas, cerca de 2 000 espécies de aves, 300 espécies de mamíferos e 2 500 espécies de peixes. Além disso, possui um clima quente e úmido, e a precipitação é abundante. Outro traço distintivo importante deste Bioma, é a abundância de rios, sendo o Rio Amazonas o mais conhecido e o maior em volume de água do mundo. Ele é responsável por cerca de um quinto de toda a água doce do planeta.</p><p class=\"apoio\">A Região Norte do Brasil é uma das cinco grandes regiões brasileiras definidas pelo Instituto Brasileiro de Geografia e Estatística (IBGE) e é composta por sete estados.</p><p class=\"apoio\">A Amazônia Legal corresponde à área de atuação da Superintendência de Desenvolvimento da Amazônia (Sudam), estabelecida por lei, e tem, como um de seus objetivos, conservar o patrimônio natural, que inclui elementos ecológicos, históricos, geológicos e socioculturais. Essa área engloba a totalidade de oito estados (Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima e Tocantins) e parte do Estado do Maranhão. A Amazônia Legal se estende além do Bioma Amazônia, englobando também parte do cerrado e do pantanal.</p>[[fig:1]]<p>A Amazônia Legal</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q01.webp",
+          "alt": "Mapa da América do Sul com os estados brasileiros. Em cinza escuro, a Amazônia Internacional, que cobre o norte do Brasil e partes da Venezuela, Colômbia, Equador, Peru, Bolívia, Guiana, Suriname e Guiana Francesa. Com contorno grosso, a Região Norte: Acre, Amazonas, Roraima, Rondônia, Pará, Amapá e Tocantins. Maranhão e Mato Grosso também aparecem em cinza, mas fora do contorno da Região Norte."
+        }
+      ],
+      "alternativas": {
+        "A": "abrange todos os estados da Região Centro-Oeste do Brasil.",
+        "B": "localiza-se totalmente no hemisfério sul da Terra.",
+        "C": "engloba a maior parte do Bioma Amazônia.",
+        "D": "inclui todas as reservas indígenas existentes no Brasil.",
+        "E": "avança sobre o polígono das secas, no Nordeste brasileiro."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto diz que a Amazônia Legal “se estende além do Bioma Amazônia” e reúne oito estados inteiros e parte do Maranhão. Ela cobre, portanto, a <strong>maior parte do Bioma Amazônia</strong> que está no Brasil. Alternativa <strong>C</strong>.</p><p>Da Região Centro-Oeste, só o Mato Grosso faz parte dela (A). Roraima e o Amapá têm terras ao norte da linha do Equador, no hemisfério norte (B). Há reservas indígenas em todas as regiões do país (D). E o polígono das secas fica no semiárido nordestino, fora da Amazônia Legal (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 3,
+      "materia": "Geografia",
+      "assunto": "Biomas brasileiros",
+      "origem": {
+        "numeroOriginal": 3
+      },
+      "enunciado": "<p>Apesar de ser um maciço florestal contínuo, a Floresta Amazônica, por sua grande extensão, é composta por estratos, cada um com características que os diferenciam uns dos outros.</p><p>Ela está subdivida em</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "floresta aciculifoliada, mata de transição e mata ciliar.",
+        "B": "mata de igapó, mata de várzea e mata de terra firme.",
+        "C": "restinga, campos limpos e mata dos cocais.",
+        "D": "pantanal, cerrado e floresta de araucária.",
+        "E": "caatinga, campos sujos e manguezais."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Conforme a altitude e a relação com os rios, a Floresta Amazônica se divide em <strong>mata de igapó</strong> (sempre alagada), <strong>mata de várzea</strong> (alagada nas cheias) e <strong>mata de terra firme</strong> (nunca alagada). Alternativa <strong>B</strong>.</p><p>Floresta aciculifoliada é a de coníferas, de clima frio (A). Restinga, campos e mata dos cocais (C), pantanal, cerrado e mata de araucária (D) e caatinga e manguezais (E) são outros biomas ou formações vegetais, não estratos da Floresta Amazônica.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 4,
+      "materia": "Geografia",
+      "assunto": "Biomas brasileiros",
+      "origem": {
+        "numeroOriginal": 4
+      },
+      "enunciado": "<p>Considerando o tipo de vegetação, é correto afirmar que o Bioma Amazônia se caracteriza, principalmente, por apresentar</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "gramíneas e plantas arbustivas; árvores de pequeno e médio porte, com folhas transformadas em espinhos para diminuir a transpiração e caules suculentos que armazenam água.",
+        "B": "plantas, que se desenvolvem em solos lamacentos e salgados, com troncos finos, cujas raízes se adaptam à fixação e se elevam à superfície para permitir a respiração.",
+        "C": "plantas herbáceas e arbustivas que compõem os campos; árvores de médio porte, geralmente com troncos grossos e retorcidos, folhas de superfície reduzida e raízes profundas.",
+        "D": "árvores de médio e grande porte, com folhas largas e perenes; vários tipos de flores e frutos; além de diversos tipos de arbustos, trepadeiras, cipós e planta epífitas.",
+        "E": "gramíneas; plantas herbáceas; leguminosas; algumas árvores de pequeno porte; além da presença de matas ciliares e algumas árvores decíduas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A Floresta Amazônica é densa, com <strong>árvores de médio e grande porte</strong>, <strong>folhas largas</strong> que não caem (perenes) e muitos arbustos, cipós, trepadeiras e plantas epífitas, que crescem sobre outras plantas. Alternativa <strong>D</strong>.</p><p>Folhas em espinhos e caules que armazenam água são da caatinga (A). Solo lamacento e salgado, com raízes que saem para respirar, é o manguezal (B). Troncos grossos e retorcidos com raízes profundas são do cerrado (C). E gramíneas com poucas árvores lembram os campos e pampas (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "assunto": "Texto literário",
+      "origem": {
+        "numeroOriginal": 5
+      },
+      "enunciado": "<p class=\"chamada\">Leia a letra da <em>Canção pra Amazônia</em>, composta por Nando Reis e Carlos Rennó, para responder às questões de 05 a 07.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/wk2zp473&gt; Acesso em: 16.08.2023. Adaptado.</p><p>Segundo a letra da canção,</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q05.webp",
+          "alt": "Letra da Canção pra Amazônia, com 25 versos numerados e um corte [...] entre os versos 15 e 16. Os versos falam da maior floresta tropical da Terra, atacada por tratores e motosserras, de gente que não enxerga o valor da mata, das queimadas que sufocam fauna, flora e até a alma, e chamam a Amazônia de única. Na segunda parte, falam do indígena, guardião da floresta há milênios, que vê a mata e as terras de seu povo atacadas por peões de poderosos, e terminam acusando quem destrói de não pensar no amanhã do planeta nem dos próprios filhos."
+        }
+      ],
+      "alternativas": {
+        "A": "a falta de mobilização dos povos originários para proteger os biomas mencionados resulta do curto período de convivência com a floresta.",
+        "B": "a destruição da Floresta Amazônica gera prejuízos à vida animal e à vegetal, amenizando os impactos na vida e na cultura daqueles que a habitam.",
+        "C": "os povos originários aliaram-se recentemente aos guardiões da floresta, quando houve um recrudescimento trágico do desmatamento.",
+        "D": "a Amazônia é alvo de exploração pelo caráter único de suas riquezas, ação facilitada pela ausência de medidas efetivas de proteção.",
+        "E": "os ataques à Floresta Amazônica, além de esporádicos, acarretam consequências reversíveis e restritas à fauna local."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A canção diz que a Amazônia é “sem igual”, sem “plano B nem clone”, e que sofre ataques constantes de tratores, motosserras e fogo. Fala também em “omissão e ação errônea”, ou seja, na falta de medidas efetivas de proteção. Alternativa <strong>D</strong>.</p><p>Os povos originários vivem com a floresta “há milênios”, não há pouco tempo (A e C). A destruição prejudica também a vida e a cultura de quem habita a floresta, sem amenizar nada (B). E os ataques acontecem “a toda hora”, com consequências graves, que afetam inclusive a flora e “até a alma” (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 6,
+      "materia": "Português",
+      "assunto": "Coesão e referência",
+      "origem": {
+        "numeroOriginal": 6
+      },
+      "enunciado": "<p class=\"chamada\">Leia a letra da <em>Canção pra Amazônia</em>, composta por Nando Reis e Carlos Rennó, para responder às questões de 05 a 07.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/wk2zp473&gt; Acesso em: 16.08.2023. Adaptado.</p><p>Sobre os recursos gramaticais utilizados na construção do texto, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q05.webp",
+          "alt": "Letra da Canção pra Amazônia, com 25 versos numerados e um corte [...] entre os versos 15 e 16. Os versos falam da maior floresta tropical da Terra, atacada por tratores e motosserras, de gente que não enxerga o valor da mata, das queimadas que sufocam fauna, flora e até a alma, e chamam a Amazônia de única. Na segunda parte, falam do indígena, guardião da floresta há milênios, que vê a mata e as terras de seu povo atacadas por peões de poderosos, e terminam acusando quem destrói de não pensar no amanhã do planeta nem dos próprios filhos."
+        }
+      ],
+      "alternativas": {
+        "A": "os termos “porém” (v. 5), “pois” (v. 8) e “todavia” (v. 9) têm o mesmo sentido.",
+        "B": "os pronomes “seus” (v. 24) e “eles” (v. 25) se referem à mesma ideia, mencionada anteriormente no texto.",
+        "C": "os dois-pontos, utilizados nos versos 4 e 9, introduzem uma justificativa para os fatos apresentados.",
+        "D": "o vocábulo “que”, nos versos 7 e 8, retoma “mundo” e “vida” respectivamente.",
+        "E": "os pronomes “seu” (v. 17) e “deles” (v. 21) antecipam uma informação posteriormente apresentada no texto."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>No verso 24, “seus empecilhos” são os obstáculos dos invasores; no verso 25, “Eles” são esses mesmos invasores, os “peões de poderosos” do verso 22. Os dois pronomes retomam a mesma ideia, mencionada antes no texto. Alternativa <strong>B</strong>.</p><p>“Porém” e “todavia” indicam oposição, mas “pois” indica explicação (A). Os dois-pontos do verso 4 introduzem a fala da flora, e os do verso 9 detalham a devastação; nenhum deles justifica os fatos (C). No verso 7, “que” introduz o que o mundo grita, sem retomar “mundo”; só o do verso 8 retoma “vida” (D). E “seu” e “deles” retomam termos que vieram antes, a floresta e os povos, sem antecipar nada (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "assunto": "Figuras de linguagem",
+      "origem": {
+        "numeroOriginal": 7
+      },
+      "enunciado": "<p class=\"chamada\">Leia a letra da <em>Canção pra Amazônia</em>, composta por Nando Reis e Carlos Rennó, para responder às questões de 05 a 07.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/wk2zp473&gt; Acesso em: 16.08.2023. Adaptado.</p><p>Na letra dessa canção, ocorre</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q05.webp",
+          "alt": "Letra da Canção pra Amazônia, com 25 versos numerados e um corte [...] entre os versos 15 e 16. Os versos falam da maior floresta tropical da Terra, atacada por tratores e motosserras, de gente que não enxerga o valor da mata, das queimadas que sufocam fauna, flora e até a alma, e chamam a Amazônia de única. Na segunda parte, falam do indígena, guardião da floresta há milênios, que vê a mata e as terras de seu povo atacadas por peões de poderosos, e terminam acusando quem destrói de não pensar no amanhã do planeta nem dos próprios filhos."
+        }
+      ],
+      "alternativas": {
+        "A": "metáfora no trecho “contra trator, corrente, motosserra”, verso 03, pois os objetos listados simbolizam a superação da floresta contra as ameaças externas.",
+        "B": "antítese entre “beleza” e “valor”, verso 6, pois são termos de sentido oposto.",
+        "C": "paronomásia no excerto “tanta insânia e tanta insônia”, verso 12, pois se aproximam termos com sons semelhantes e sentidos diferentes.",
+        "D": "paradoxo em “nos últimos e trágicos decênios”, verso 19, pois o conceito de “trágico” anula a ideia de novidade, expressa pelo termo “últimos”.",
+        "E": "personificação na passagem “eles não pensam”, verso 25, pois se atribui a capacidade de pensar a seres inanimados."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>“Insânia” (loucura) e “insônia” (falta de sono) têm sons quase iguais e sentidos diferentes. Aproximar palavras assim é a <strong>paronomásia</strong>. Alternativa <strong>C</strong>.</p><p>Trator, corrente e motosserra são instrumentos reais de destruição, não símbolos de superação (A). “Beleza” e “valor” não são opostos (B). “Últimos” indica tempo recente, e “trágicos” não o anula (D). E “eles” são pessoas, que de fato pensam: não há personificação (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 8,
+      "materia": "Biologia",
+      "assunto": "Zoologia",
+      "origem": {
+        "numeroOriginal": 8
+      },
+      "enunciado": "<p>Nos rios que cortam a Floresta Amazônica, são encontradas várias espécies de vertebrados, como, por exemplo, o pirarucu, o poraquê (peixe elétrico), a arraia (ou raia), o tucunaré, o peixe-boi e o boto-cor-de-rosa. Este último é conhecido por ser personagem de uma lenda do folclore brasileiro.</p><p>Com relação a todos os animais citados, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "realizam as trocas gasosas por meio de um par de pulmões do tipo alveolar com paredes muito delgadas.",
+        "B": "conseguem manter a temperatura corporal constante apesar de alterações da temperatura ambiental.",
+        "C": "dependem de oxigênio, que é usado na oxidação de moléculas orgânicas, como a glicose, a fim de obter energia.",
+        "D": "apresentam fecundação externa, com desenvolvimento indireto por meio de fase larval, seguida de metamorfose.",
+        "E": "possuem bexiga natatória, que é um órgão responsável pela manutenção do equilíbrio hidrostático."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Peixes (pirarucu, poraquê, arraia e tucunaré) e mamíferos aquáticos (peixe-boi e boto) são muito diferentes, mas <strong>todos</strong> fazem respiração celular: usam oxigênio para oxidar a glicose e obter energia. Alternativa <strong>C</strong>.</p><p>Só os mamíferos (peixe-boi e boto) têm pulmões alveolares e temperatura constante (A e B); os peixes respiram por brânquias e não controlam a temperatura do corpo. Os mamíferos têm fecundação interna e não passam por metamorfose (D). E arraias e mamíferos não têm bexiga natatória (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 9,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 9
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 09 a 11.</p><p class=\"apoio\">Com cerca de 670 milhões de hectares (de acordo com World Wildlife Fund - Brasil, WWF-Brasil), a maior floresta tropical do mundo é a Amazônica que se estende por vários países. Contudo, a maior parte dessa floresta, cerca de 60 %, está em território brasileiro.</p><p class=\"apoio\">Devido a essa dimensão, a Floresta Amazônica brasileira poderia movimentar um mercado com potencial para financiar a proteção de toda a sua área: o mercado de crédito de carbono. Ele funciona da seguinte forma: os países que reduzem ou deixam de emitir gases do efeito estufa geram créditos negociáveis, os quais podem ser adquiridos, como forma de compensação, por empresas ou outros países emissores desses gases em excesso.</p><p class=\"apoio\">Uma tonelada de dióxido de carbono que deixa de ser emitido equivale a 1 crédito de carbono, enquanto a mesma quantidade de metano equivale a 21 créditos. Estima-se que 1 hectare de floresta gere 30 créditos de carbono e que a humanidade emite <strong>40 bilhões</strong> de toneladas de dióxido de carbono por ano.</p><p class=\"apoio\">Na prática, esses créditos podem ser uma ferramenta para facilitar o financiamento de projetos socioambientais. De acordo com pesquisas, esse mercado cresceu <strong>250 %</strong> em 5 anos.</p><p>De acordo com o texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a floresta Amazônica brasileira tem 670 milhões de hectares.",
+        "B": "a maior floresta tropical do mundo está localizada totalmente em território brasileiro.",
+        "C": "o Brasil pode comprar créditos de carbono para custear a Floresta Amazônica.",
+        "D": "países que emitem gases do efeito estufa em excesso podem adquirir créditos de carbono como forma de compensação.",
+        "E": "cada tonelada de gases do efeito estufa não emitida, como dióxido de carbono e metano, equivale a 1 crédito de carbono."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto explica que os créditos gerados por quem reduz as emissões “podem ser adquiridos, como forma de compensação, por empresas ou outros países emissores desses gases em excesso”. Alternativa <strong>D</strong>.</p><p>670 milhões de hectares é a floresta inteira, não só a parte brasileira (A). Ela se estende por vários países, com cerca de 60% no Brasil (B). O Brasil, que tem a floresta, poderia <strong>gerar</strong> e vender créditos, não comprá-los (C). E uma tonelada de metano equivale a 21 créditos, não a 1 (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 10,
+      "materia": "Matemática",
+      "assunto": "Notação científica",
+      "origem": {
+        "numeroOriginal": 10
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 09 a 11.</p><p class=\"apoio\">Com cerca de 670 milhões de hectares (de acordo com World Wildlife Fund - Brasil, WWF-Brasil), a maior floresta tropical do mundo é a Amazônica que se estende por vários países. Contudo, a maior parte dessa floresta, cerca de 60 %, está em território brasileiro.</p><p class=\"apoio\">Devido a essa dimensão, a Floresta Amazônica brasileira poderia movimentar um mercado com potencial para financiar a proteção de toda a sua área: o mercado de crédito de carbono. Ele funciona da seguinte forma: os países que reduzem ou deixam de emitir gases do efeito estufa geram créditos negociáveis, os quais podem ser adquiridos, como forma de compensação, por empresas ou outros países emissores desses gases em excesso.</p><p class=\"apoio\">Uma tonelada de dióxido de carbono que deixa de ser emitido equivale a 1 crédito de carbono, enquanto a mesma quantidade de metano equivale a 21 créditos. Estima-se que 1 hectare de floresta gere 30 créditos de carbono e que a humanidade emite <strong>40 bilhões</strong> de toneladas de dióxido de carbono por ano.</p><p class=\"apoio\">Na prática, esses créditos podem ser uma ferramenta para facilitar o financiamento de projetos socioambientais. De acordo com pesquisas, esse mercado cresceu <strong>250 %</strong> em 5 anos.</p><p>Considere os números destacados em negrito no texto e assinale a alternativa que apresenta, em notação científica, o seu produto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "1,0 × 10<sup>14</sup>",
+        "B": "1,0 × 10<sup>13 </sup>",
+        "C": "1,0 × 10<sup>12</sup>",
+        "D": "1,0 × 10<sup>11</sup>",
+        "E": "1,0 × 10<sup>10</sup>"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Os números em negrito são <strong>40 bilhões</strong> e <strong>250 %</strong>. Em forma de número: 40 bilhões = \\(4 \\times 10^{10}\\) e 250% = \\(\\dfrac{250}{100} = 2{,}5\\).</p><p>O produto é \\(4 \\times 10^{10} \\times 2{,}5 = 10 \\times 10^{10} = 1{,}0 \\times 10^{11}\\). Alternativa <strong>D</strong>.</p><p>Quem multiplica por 250, em vez de 2,5, chega a \\(1{,}0 \\times 10^{13}\\) (B).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 11,
+      "materia": "Matemática",
+      "assunto": "Porcentagem",
+      "origem": {
+        "numeroOriginal": 11
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 09 a 11.</p><p class=\"apoio\">Com cerca de 670 milhões de hectares (de acordo com World Wildlife Fund - Brasil, WWF-Brasil), a maior floresta tropical do mundo é a Amazônica que se estende por vários países. Contudo, a maior parte dessa floresta, cerca de 60 %, está em território brasileiro.</p><p class=\"apoio\">Devido a essa dimensão, a Floresta Amazônica brasileira poderia movimentar um mercado com potencial para financiar a proteção de toda a sua área: o mercado de crédito de carbono. Ele funciona da seguinte forma: os países que reduzem ou deixam de emitir gases do efeito estufa geram créditos negociáveis, os quais podem ser adquiridos, como forma de compensação, por empresas ou outros países emissores desses gases em excesso.</p><p class=\"apoio\">Uma tonelada de dióxido de carbono que deixa de ser emitido equivale a 1 crédito de carbono, enquanto a mesma quantidade de metano equivale a 21 créditos. Estima-se que 1 hectare de floresta gere 30 créditos de carbono e que a humanidade emite <strong>40 bilhões</strong> de toneladas de dióxido de carbono por ano.</p><p class=\"apoio\">Na prática, esses créditos podem ser uma ferramenta para facilitar o financiamento de projetos socioambientais. De acordo com pesquisas, esse mercado cresceu <strong>250 %</strong> em 5 anos.</p><p>De acordo com o texto, a quantidade de créditos de carbono gerada pela parte brasileira da Floresta Amazônica seria, aproximadamente, de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "402 milhões.",
+        "B": "402 bilhões.",
+        "C": "670 milhões.",
+        "D": "12 060 bilhões.",
+        "E": "12 060 milhões."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A parte brasileira é 60% de 670 milhões de hectares: \\(0{,}6 \\times 670 = 402\\) milhões de hectares. Cada hectare gera 30 créditos: \\(402 \\times 30 = 12\\,060\\) milhões de créditos. Alternativa <strong>E</strong>.</p><p>402 milhões (A) é a área em hectares, não o número de créditos. 670 milhões (C) é a área total da floresta. E 12 060 <strong>bilhões</strong> (D) e 402 bilhões (B) erram a unidade.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 12,
+      "materia": "História",
+      "assunto": "Brasil Colônia",
+      "origem": {
+        "numeroOriginal": 12
+      },
+      "enunciado": "<p>O mapa representa diferentes movimentos de ocupação de parte da América do Sul, cujo território foi disputado por Espanha e Portugal nos dois primeiros séculos da colonização europeia.</p>[[fig:1]]<p>De acordo com a representação, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q12.webp",
+          "alt": "Mapa “Expedições bandeirantes (1550-1720)”, com o norte e o centro da América do Sul. A Linha de Tordesilhas corta o mapa de cima a baixo, passando perto de Belém. Cruzes marcam missões portuguesas, concentradas na Amazônia, ao longo do rio Amazonas e perto de Belém e São Luís. Estrelas marcam missões espanholas, no oeste e no sul (Missões do Paraguai, do Guairá e do Tape). Setas de expedições de apresamento de indígenas saem de São Paulo para o interior: Sertão dos Goiases, Sertão dos Cataguases, Sertão dos Patos, missões espanholas do sul e, numa seta longa, até o rio Amazonas."
+        }
+      ],
+      "alternativas": {
+        "A": "as missões jesuíticas não só demarcavam os limites entre as possessões espanhola e portuguesa, mas também garantiam a posse da Amazônia para a Espanha.",
+        "B": "a ocupação da América Portuguesa ocorreu na costa atlântica, em detrimento da região da Amazônia, que permaneceu despovoada até o final do século XVII.",
+        "C": "a integração da Amazônia ao território da colônia portuguesa está relacionada à presença de missões jesuíticas e de expedições para escravização de indígenas.",
+        "D": "as expedições de apresamento se estabeleceram na Amazônia Espanhola, e, de lá, partiram para o leste a fim de escravizar os indígenas que viviam na colônia portuguesa.",
+        "E": "a presença de missões jesuíticas portuguesas na Amazônia indica que essa região pertencia a Portugal, de acordo com os tratados internacionais vigentes no período colonial."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O mapa mostra muitas <strong>missões jesuíticas portuguesas</strong> na Amazônia, além da Linha de Tordesilhas, e uma longa expedição de apresamento que vai de São Paulo até o rio Amazonas. A presença de missões e de expedições para escravizar indígenas ajudou a integrar a Amazônia à colônia portuguesa. Alternativa <strong>C</strong>.</p><p>As missões da Amazônia no mapa são portuguesas, e não garantiam a região para a Espanha (A). A Amazônia não ficou despovoada: havia indígenas e missões (B). As expedições partiam de São Paulo, na colônia portuguesa, em direção ao oeste e ao norte (D). E, pelo Tratado de Tordesilhas, a maior parte da Amazônia pertencia à Espanha: a presença portuguesa ocorreu apesar dele (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 13,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 13
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 13 a 15.</p><p class=\"apoio\">Curupira, Saci e Matinta Pereira, entre outras, são lendas folclóricas da Região Amazônica. Elas são ensinamentos e histórias repassados de geração a geração, de boca em boca, para transmitir valores, como respeitar a floresta e os seres que nela habitam.</p><p class=\"apoio\">Sobre o Curupira, indígenas relatam, por exemplo, que: “Ele é o guardião da floresta. Quando tem caçador mal-intencionado, ele começa a perseguir. O som que você ouve parece de tapas nas árvores, parece que ele vem com tudo pela floresta e você sente aquela força, aquela energia vindo, chegando perto”.</p><p class=\"fonte\">&lt;https://tinyurl.com/yc82rne4&gt; Acesso em: 05.08.2023. Adaptado.</p><p>Suponha que um caçador mal-intencionado seja perseguido pelo Curupira. Ele parte de um <strong>ponto P</strong> na floresta, caminha 6 km a leste e 16 km para sul, quando percebe que está em uma clareira. Para sair da floresta, ele então caminha 10 km para leste e 4 km para o norte, chegando ao <strong>acampamento A</strong>.</p><p>Logo, é correto afirmar que a distância (em linha reta), em quilômetros, entre o <strong>ponto P</strong> e o <strong>acampamento A</strong>, é igual a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "18.",
+        "B": "20.",
+        "C": "26.",
+        "D": "28.",
+        "E": "32."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Somando os deslocamentos: para leste, 6 + 10 = <strong>16 km</strong>; para o sul, 16 − 4 = <strong>12 km</strong>. Leste e sul formam um ângulo reto, então a distância em linha reta é a hipotenusa: \\(d = \\sqrt{16^2 + 12^2} = \\sqrt{256 + 144} = \\sqrt{400} = 20\\) km. Alternativa <strong>B</strong>.</p><p>Somar 16 + 12 (D) ou todos os trechos, 6 + 16 + 10 + 4 = 36, não dá a distância em linha reta. As demais alternativas não saem do teorema de Pitágoras.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 14,
+      "materia": "Português",
+      "assunto": "Gêneros textuais",
+      "origem": {
+        "numeroOriginal": 14
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 13 a 15.</p><p class=\"apoio\">Curupira, Saci e Matinta Pereira, entre outras, são lendas folclóricas da Região Amazônica. Elas são ensinamentos e histórias repassados de geração a geração, de boca em boca, para transmitir valores, como respeitar a floresta e os seres que nela habitam.</p><p class=\"apoio\">Sobre o Curupira, indígenas relatam, por exemplo, que: “Ele é o guardião da floresta. Quando tem caçador mal-intencionado, ele começa a perseguir. O som que você ouve parece de tapas nas árvores, parece que ele vem com tudo pela floresta e você sente aquela força, aquela energia vindo, chegando perto”.</p><p class=\"fonte\">&lt;https://tinyurl.com/yc82rne4&gt; Acesso em: 05.08.2023. Adaptado.</p><p>Com base no texto, o gênero textual abordado cumpre a função social de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "colocar em destaque a revolução promovida pela tecnologia digital, já que essa mudança padroniza e limita a forma de aprender do estudante.",
+        "B": "debater sobre os movimentos migratórios, cada vez maiores no nosso país, os quais prejudicam o surgimento de culturas novas na sociedade.",
+        "C": "discutir as mudanças no núcleo familiar devido à dedicação exclusiva dos responsáveis a atividades profissionais, prejudicando a comunicação com as gerações mais jovens.",
+        "D": "valorizar as identidades construídas ao longo do tempo, ao perceber que muitas pessoas passaram pelo mundo, deixando ensinamentos e experiências.",
+        "E": "visualizar as mudanças laborais, uma vez que está cada vez mais fácil conseguir um trabalho formal na área de caça, pesca e apreensão de animais em áreas protegidas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto trata de <strong>lendas</strong>, histórias “repassadas de geração a geração, de boca em boca, para transmitir valores”. Esse gênero preserva a memória e a <strong>identidade</strong> de um povo, com os ensinamentos de quem viveu antes. Alternativa <strong>D</strong>.</p><p>As lendas não falam de tecnologia digital (A), migrações (B), mudanças no núcleo familiar (C) ou mercado de trabalho (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 15,
+      "materia": "História",
+      "assunto": "Povos indígenas",
+      "origem": {
+        "numeroOriginal": 15
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 13 a 15.</p><p class=\"apoio\">Curupira, Saci e Matinta Pereira, entre outras, são lendas folclóricas da Região Amazônica. Elas são ensinamentos e histórias repassados de geração a geração, de boca em boca, para transmitir valores, como respeitar a floresta e os seres que nela habitam.</p><p class=\"apoio\">Sobre o Curupira, indígenas relatam, por exemplo, que: “Ele é o guardião da floresta. Quando tem caçador mal-intencionado, ele começa a perseguir. O som que você ouve parece de tapas nas árvores, parece que ele vem com tudo pela floresta e você sente aquela força, aquela energia vindo, chegando perto”.</p><p class=\"fonte\">&lt;https://tinyurl.com/yc82rne4&gt; Acesso em: 05.08.2023. Adaptado.</p><p>De acordo com o texto, os ensinamentos e as histórias dos povos da Região Amazônica são transmitidos por meio de fontes</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "escritas.",
+        "B": "iconográficas.",
+        "C": "materiais.",
+        "D": "orais.",
+        "E": "arqueológicas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que as lendas são “repassadas de geração a geração, <strong>de boca em boca</strong>”. Conhecimentos transmitidos pela fala são <strong>fontes orais</strong>. Alternativa <strong>D</strong>.</p><p>Fontes escritas são documentos e livros (A); iconográficas, imagens (B); materiais, objetos (C); e arqueológicas, vestígios encontrados em escavações (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 16,
+      "materia": "Física",
+      "assunto": "Óptica",
+      "origem": {
+        "numeroOriginal": 16
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 16 e 17.</p><p class=\"apoio\">Uma das lendas folclóricas brasileiras narra a história de Naiá, uma jovem que amava a Lua (chamada de Jaci pelos tupis-guaranis) e sonhava que a deusa pudesse transformá-la em uma estrela. Até que, em uma noite, Naiá viu a imagem da deusa na superfície de um lago e, pensando que a Lua descera para se banhar, mergulhou ao seu encontro e se afogou. Jaci, comovida pelo sacrifício de Naiá, transformou-a na “Estrela das Águas”, planta aquática conhecida por suas grandes folhas flutuantes e de formato circular, chamada posteriormente de vitória-régia.</p><p class=\"apoio\">É por isso que as flores brancas e perfumadas da vitória-régia só se abrem à noite, como uma forma de homenagear Jaci.</p><p>A formação da imagem da Lua, vista por Naiá, é justificada pelo fenômeno óptico da</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "refração da luz, proveniente da Lua, no fundo do lago.",
+        "B": "ilusão de óptica criada pelo movimento das águas do lago.",
+        "C": "reflexão dos raios de luz, provenientes da Lua, pela superfície do lago.",
+        "D": "absorção dos raios de luz, provenientes da Lua, pela superfície do lago.",
+        "E": "projeção holográfica dos raios de luz, provenientes da Lua, na superfície do lago."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Naiá viu a imagem da Lua na superfície do lago porque a água funcionou como um espelho: a luz da Lua <strong>bateu na superfície e voltou</strong> até os olhos dela. Esse fenômeno é a <strong>reflexão</strong>. Alternativa <strong>C</strong>.</p><p>A refração é o desvio da luz ao entrar na água; ela não forma a imagem vista na superfície (A). A imagem não é uma ilusão causada pelo movimento da água (B). Se a superfície absorvesse a luz, não haveria imagem (D). E não existe projeção holográfica natural num lago (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 17,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 17
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 16 e 17.</p><p class=\"apoio\">Uma das lendas folclóricas brasileiras narra a história de Naiá, uma jovem que amava a Lua (chamada de Jaci pelos tupis-guaranis) e sonhava que a deusa pudesse transformá-la em uma estrela. Até que, em uma noite, Naiá viu a imagem da deusa na superfície de um lago e, pensando que a Lua descera para se banhar, mergulhou ao seu encontro e se afogou. Jaci, comovida pelo sacrifício de Naiá, transformou-a na “Estrela das Águas”, planta aquática conhecida por suas grandes folhas flutuantes e de formato circular, chamada posteriormente de vitória-régia.</p><p class=\"apoio\">É por isso que as flores brancas e perfumadas da vitória-régia só se abrem à noite, como uma forma de homenagear Jaci.</p><p>A capacidade de flutuação das folhas da vitória-régia é resultado de diversas adaptações evolutivas para sobreviver em ambientes aquáticos: a forma circular contribui para que haja uma distribuição uniforme do peso e, principalmente, suas folhas têm uma série de compartimentos cheios de ar nos tecidos vegetais, o que as ajuda a manter sua flutuação.</p><p>Essas adaptações podem ser comparadas ao uso de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "pés de pato por mergulhadores.",
+        "B": "sinalizadores em barcos de passeio.",
+        "C": "toucas de natação por competidores olímpicos.",
+        "D": "coletes salva-vidas infláveis por pessoas que não sabem nadar.",
+        "E": "roupas de neoprene por surfistas durante as competições no mar."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>As folhas flutuam principalmente porque têm <strong>compartimentos cheios de ar</strong>, que as deixam menos densas que a água. O colete salva-vidas inflável funciona do mesmo jeito: o ar dentro dele ajuda a pessoa a boiar. Alternativa <strong>D</strong>.</p><p>Pés de pato ajudam a nadar, não a flutuar (A). Sinalizadores servem para ser visto (B). Toucas diminuem o atrito com a água (C). E roupas de neoprene protegem do frio (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 18,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 18
+      },
+      "enunciado": "<p>No final do século XIX, eclodiu uma rebelião no Acre, que se prolongou por alguns anos e, ante a ameaça de uma intervenção direta do governo brasileiro, foi firmado o Tratado de Petrópolis entre os governos da Bolívia e do Brasil, em 1903. Foi por isso que a Bolívia cedeu o território do Acre ao Brasil em troca de dois milhões de libras esterlinas; e o governo brasileiro se comprometeu a construir a estrada de ferro Madeira – Mamoré.</p><p>Sobre esse estado da federação, é correto afirmar que nele se encontra o ponto</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "central Geodésico do território brasileiro, localizado em sua capital.",
+        "B": "mais ocidental do território brasileiro, a nascente do Rio Moa.",
+        "C": "mais setentrional do território brasileiro, a nascente do Rio Ailã.",
+        "D": "mais oriental do território brasileiro, a Ponta do Seixas.",
+        "E": "mais meridional do território brasileiro, o Arroio Chuí."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O Acre fica no extremo oeste do Brasil. Ali está o <strong>ponto mais ocidental</strong> do país: a nascente do Rio Moa, na Serra da Contamana. Alternativa <strong>B</strong>.</p><p>O centro geográfico do Brasil fica em Mato Grosso (A). O ponto mais setentrional (ao norte) é a nascente do Rio Ailã, em Roraima (C). O mais oriental (a leste) é a Ponta do Seixas, na Paraíba (D). E o mais meridional (ao sul) é o Arroio Chuí, no Rio Grande do Sul (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 19,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 19
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 19 a 21.</p><p class=\"apoio\">Hoje, os brancos acham que deveríamos imitá-los em tudo. Mas não é o que queremos. A meu ver, só poderemos nos tornar brancos no dia em que eles mesmos se transformarem em Yanomami. <u>Sei também que se formos viver em suas cidades, seremos infelizes. Então, eles acabarão com a floresta e nunca mais deixarão nenhum lugar onde possamos viver longe deles</u>. Não poderemos mais caçar, nem plantar nada. Nossos filhos vão passar fome.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">Eu não aprendi a pensar as coisas da floresta fixando os olhos em peles de papel. Vi-as de verdade. Não sou um ancião e ainda sei pouco. Entretanto, para que minhas palavras sejam ouvidas longe da floresta, fiz com que fossem desenhadas na língua dos brancos. Talvez assim eles afinal as entendam, e, depois deles, seus filhos, e, mais tarde ainda, os filhos de seus filhos.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">É em virtude da lei de <em>Omama</em>* que não maltratamos a floresta, como fazem os brancos. Sabemos bem que, sem árvores, nada mais crescerá em sua terra endurecida e ardente. Comeremos o quê, então? Quem irá nos alimentar se não tivermos mais roças nem caça? Devemos defender nossa floresta para podermos comer mandioca e bananas quando temos a barriga vazia. Devemos também proteger seus rios, para podermos beber e pescar. Caso contrário, vão nos restar apenas córregos de água lamacenta cobertos de peixes mortos.</p><p class=\"fonte\">Kopenawa, Davi; Albert, Bruce.<em> A queda do céu</em>. Companhia das Letras. Edição do Kindle, pp. 89-90; 536-538; 1041. Adaptado.</p><p class=\"fonte\">*divindade criadora do mundo segundo a mitologia Yanomami.</p><p>Segundo o texto,</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "os anciões indígenas decidiram expor seus conhecimentos por meio de ideogramas devido à limitação cultural dos não indígenas.",
+        "B": "o povo Yanomami garante bem-estar social duradouro para as próximas gerações ao seguir os padrões de vida dos brancos.",
+        "C": "a exploração da caça e da pesca realizada pelos Yanomami é fruto do contato com o saber trazido pelos brancos colonizadores.",
+        "D": "a forma de divulgação da cultura dos povos originários para o restante da sociedade deve restringir-se à oralidade.",
+        "E": "o equilíbrio na relação entre natureza e homem é base e garantia da manutenção da cultura Yanomami."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O texto mostra que a cultura Yanomami depende da floresta: sem árvores, roças, caça e rios limpos, o povo não teria o que comer. Por isso, a lei de <em>Omama</em> manda não maltratar a floresta. O <strong>equilíbrio entre natureza e ser humano</strong> é a base da cultura Yanomami. Alternativa <strong>E</strong>.</p><p>O narrador diz que não é um ancião e que fez suas palavras serem escritas na língua dos brancos para que elas os alcancem (A e D). Ele afirma que seriam infelizes vivendo como os brancos (B). E a caça e a pesca são práticas próprias dos Yanomami, não aprendidas com os colonizadores (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 20,
+      "materia": "Português",
+      "assunto": "Verbos",
+      "origem": {
+        "numeroOriginal": 20
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 19 a 21.</p><p class=\"apoio\">Hoje, os brancos acham que deveríamos imitá-los em tudo. Mas não é o que queremos. A meu ver, só poderemos nos tornar brancos no dia em que eles mesmos se transformarem em Yanomami. <u>Sei também que se formos viver em suas cidades, seremos infelizes. Então, eles acabarão com a floresta e nunca mais deixarão nenhum lugar onde possamos viver longe deles</u>. Não poderemos mais caçar, nem plantar nada. Nossos filhos vão passar fome.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">Eu não aprendi a pensar as coisas da floresta fixando os olhos em peles de papel. Vi-as de verdade. Não sou um ancião e ainda sei pouco. Entretanto, para que minhas palavras sejam ouvidas longe da floresta, fiz com que fossem desenhadas na língua dos brancos. Talvez assim eles afinal as entendam, e, depois deles, seus filhos, e, mais tarde ainda, os filhos de seus filhos.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">É em virtude da lei de <em>Omama</em>* que não maltratamos a floresta, como fazem os brancos. Sabemos bem que, sem árvores, nada mais crescerá em sua terra endurecida e ardente. Comeremos o quê, então? Quem irá nos alimentar se não tivermos mais roças nem caça? Devemos defender nossa floresta para podermos comer mandioca e bananas quando temos a barriga vazia. Devemos também proteger seus rios, para podermos beber e pescar. Caso contrário, vão nos restar apenas córregos de água lamacenta cobertos de peixes mortos.</p><p class=\"fonte\">Kopenawa, Davi; Albert, Bruce.<em> A queda do céu</em>. Companhia das Letras. Edição do Kindle, pp. 89-90; 536-538; 1041. Adaptado.</p><p class=\"fonte\">*divindade criadora do mundo segundo a mitologia Yanomami.</p><p>Assinale a alternativa que apresenta uma reescrita correta e coerente do trecho sublinhado no texto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Acredito que, caso vivamos em cidades, seríamos infelizes, já que haveria o fim da floresta e, então, não deixarão lugar onde poderemos viver distante deles.",
+        "B": "Como fomos viver em cidades, somos infelizes, pois os brancos acabam com a floresta e não deixaram lugar onde pudéssemos viver distante deles.",
+        "C": "E reconheço que, caso fôssemos viver em suas cidades, seríamos infelizes; eles acabariam, pois, com a floresta e não deixariam lugar onde pudéssemos viver distante deles.",
+        "D": "Ainda que fôssemos viver nas cidades dos brancos, não seremos felizes, pois eles acabaram com a floresta e não deixariam lugar onde poderíamos viver distante deles.",
+        "E": "Afirmo até que, ao irmos viver nas cidades, seremos infelizes, posto que eles acabam com a floresta e não deixam lugar onde pudemos viver distante deles."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O trecho sublinhado apresenta uma hipótese e suas consequências: se fossem viver nas cidades, seriam infelizes, e os brancos acabariam com a floresta. Na reescrita, a hipótese vai para o pretérito imperfeito do subjuntivo (“caso <strong>fôssemos</strong>”) e as consequências, para o futuro do pretérito (“<strong>seríamos</strong>”, “<strong>acabariam</strong>”, “<strong>deixariam</strong>”), com “pudéssemos” combinando com elas. Esse é o caso da alternativa <strong>C</strong>, que mantém o sentido de suposição.</p><p>A (A) mistura “vivamos” com “seríamos” e “deixarão”. A (B) e a (E) transformam a hipótese em fato (“como fomos viver”, “ao irmos”). E a (D) troca a condição por concessão (“ainda que”) e mistura tempos (“seremos”, “acabaram”).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 21,
+      "materia": "Português",
+      "assunto": "Figuras de linguagem",
+      "origem": {
+        "numeroOriginal": 21
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 19 a 21.</p><p class=\"apoio\">Hoje, os brancos acham que deveríamos imitá-los em tudo. Mas não é o que queremos. A meu ver, só poderemos nos tornar brancos no dia em que eles mesmos se transformarem em Yanomami. <u>Sei também que se formos viver em suas cidades, seremos infelizes. Então, eles acabarão com a floresta e nunca mais deixarão nenhum lugar onde possamos viver longe deles</u>. Não poderemos mais caçar, nem plantar nada. Nossos filhos vão passar fome.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">Eu não aprendi a pensar as coisas da floresta fixando os olhos em peles de papel. Vi-as de verdade. Não sou um ancião e ainda sei pouco. Entretanto, para que minhas palavras sejam ouvidas longe da floresta, fiz com que fossem desenhadas na língua dos brancos. Talvez assim eles afinal as entendam, e, depois deles, seus filhos, e, mais tarde ainda, os filhos de seus filhos.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">É em virtude da lei de <em>Omama</em>* que não maltratamos a floresta, como fazem os brancos. Sabemos bem que, sem árvores, nada mais crescerá em sua terra endurecida e ardente. Comeremos o quê, então? Quem irá nos alimentar se não tivermos mais roças nem caça? Devemos defender nossa floresta para podermos comer mandioca e bananas quando temos a barriga vazia. Devemos também proteger seus rios, para podermos beber e pescar. Caso contrário, vão nos restar apenas córregos de água lamacenta cobertos de peixes mortos.</p><p class=\"fonte\">Kopenawa, Davi; Albert, Bruce.<em> A queda do céu</em>. Companhia das Letras. Edição do Kindle, pp. 89-90; 536-538; 1041. Adaptado.</p><p class=\"fonte\">*divindade criadora do mundo segundo a mitologia Yanomami.</p><p>A leitura é representada, no texto, pela metáfora</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "“viver longe deles”.",
+        "B": "“nos tornar brancos”.",
+        "C": "“pensar coisas da floresta”.",
+        "D": "“fixar os olhos em peles de papel”.",
+        "E": "“desenhar na língua dos brancos”."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>“Peles de papel” são as folhas dos livros. Para quem vive da tradição oral, ler é “fixar os olhos em peles de papel”: a metáfora representa a <strong>leitura</strong>. Alternativa <strong>D</strong>.</p><p>“Viver longe deles” (A) e “nos tornar brancos” (B) falam da relação com os não indígenas. “Pensar coisas da floresta” (C) é o conhecimento aprendido na prática. E “desenhar na língua dos brancos” (E) representa a <strong>escrita</strong>, não a leitura.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 22,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 22
+      },
+      "enunciado": "<p class=\"apoio\">Chico Mendes nasceu no seringal Porto Rico, próximo à fronteira do Acre com a Bolívia, em Xapuri, estado do Acre. Filho de seringueiro, passou infância e juventude ao lado do pai, trabalhando na extração de látex.</p><p class=\"apoio\">Diferentemente dos outros seringueiros, Chico aprendeu a ler e a escrever com 16 anos. Esse fato teve uma grande influência na sua vida. Em 1975, fez parte da diretoria do Sindicato de Trabalhadores Rurais de Brasileia, o primeiro criado no Acre. Nessa época, a substituição da borracha pela pecuária levou à especulação fundiária e ao desmatamento de grandes extensões de terras, dificultando a permanência dos seringueiros na floresta.</p><p class=\"apoio\">A convivência de Chico com a floresta e o conhecimento que adquiriu sobre como obter da natureza os meios de vida instigaram sua curiosidade e deram origem a uma teoria que seria, mais tarde, comprovada: a de que os benefícios derivados da manutenção da floresta são maiores do que o valor que se obtém com a sua derrubada.</p><p class=\"apoio\">Ao mesmo tempo em que conquistava o respeito internacional, era ameaçado no Xapuri. Em 22 de dezembro de 1988, em uma emboscada nos fundos de sua casa, ele foi assassinado a mando de um grileiro de terras com história de violência em vários lugares do Brasil.</p><p class=\"fonte\">&lt;https://tinyurl.com/mud36pju&gt; Acesso em: 18.08.2023. Adaptado.</p><p>Segundo o texto,</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "os habitantes da Amazônia estabelecem relações harmônicas entre si e com a floresta e, por isso, não experienciam os principais problemas enfrentados pelas populações urbanas.",
+        "B": "Chico Mendes se dedicou a refletir sobre a sua relação com a floresta, desconsiderando causas sociais, como a questão fundiária.",
+        "C": "o fato de ter sido alfabetizado tardiamente afetou a compreensão de Chico Mendes, que não soube se posicionar sobre as questões sociais e ambientais de seu entorno.",
+        "D": "as vivências e práticas na floresta proporcionaram a Chico Mendes uma série de saberes os quais o levaram a formular uma teoria ambiental, que, mais tarde, foi comprovada por outras pessoas.",
+        "E": "Chico Mendes passou toda a sua vida isolado na floresta, sem estabelecer contatos com outras partes do Brasil e do mundo e, por isso, não foi bem sucedido em sua luta."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que a convivência de Chico Mendes com a floresta e o conhecimento que ele adquiriu “deram origem a uma teoria que seria, mais tarde, comprovada”: a de que manter a floresta vale mais do que derrubá-la. Alternativa <strong>D</strong>.</p><p>O texto mostra conflitos de terra e a morte de Chico Mendes, não uma vida sem problemas (A). Ele se envolveu com a questão fundiária, inclusive no sindicato (B). Aprender a ler aos 16 anos teve grande influência na vida dele, que se tornou um líder (C). E ele conquistou respeito internacional, não viveu isolado (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 23,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 23
+      },
+      "enunciado": "<p class=\"apoio\">Segundo os pesquisadores do Instituto de Pesquisa Econômica Aplicada (Ipea), existem evidências de que alterações ambientais e distúrbios ecológicos, originados de causas naturais ou gerados por atividades humanas, em regiões da Floresta Amazônica, exercem uma influência marcante na emergência e na proliferação de certas doenças.</p><p class=\"apoio\">Entre 2004 e 2012, constatou-se que, com o avanço do desmatamento, houve um acréscimo de 23 % nos casos de malária para cada 1 % de floresta derrubada por ano.</p><p class=\"fonte\">&lt;https://tinyurl.com/fwbjnhu7&gt; Acesso em: 11.08.2023. Adaptado.</p><p>Entre os diversos mecanismos sugeridos para explicar como a derrubada da Floresta Amazônica contribuiria para o aumento da incidência da doença citada na pesquisa, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a destruição completa do ambiente natural de reprodução dos insetos transmissores, decorrente do efeito estufa e da diminuição da camada de ozônio, favoreceria a proliferação das bactérias que causam essa doença, levando ao aumento do número de casos.",
+        "B": "o aumento da migração humana para fazendas, assentamentos e garimpos nas áreas desmatadas, junto com a adaptação dos insetos transmissores aos novos habitats, contribuiria para o aumento da transmissão dos parasitas causadores dessa doença.",
+        "C": "o desmatamento teria ocasionado a diminuição das superfícies aquáticas e o aparecimento de várias espécies de caramujos, hospedeiros das larvas dos insetos transmissores dessa doença.",
+        "D": "os insetos transmissores, conhecidos popularmente como barbeiros, e outras várias espécies diferentes, após o desmatamento, teriam ficado altamente eficientes para a transmissão dessa doença.",
+        "E": "as condições ambientais nas regiões desmatadas da floresta, tais como temperaturas muito baixas e baixos índices pluviométricos, junto com a ausência dos insetos transmissores, teriam aumentado a incidência dessa doença."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A malária é causada por um protozoário (o plasmódio) e transmitida pela picada de mosquitos do gênero <em>Anopheles</em>. Com o desmatamento, mais pessoas vão para fazendas, assentamentos e garimpos na mata, e os mosquitos se adaptam aos novos ambientes, como poças e represas. Mais gente exposta aos mosquitos aumenta a transmissão. Alternativa <strong>B</strong>.</p><p>A malária não é causada por bactérias, e o efeito estufa e a camada de ozônio não explicam o aumento (A). Caramujos são hospedeiros do verme da esquistossomose (C). O barbeiro transmite a doença de Chagas (D). E sem os mosquitos transmissores não haveria aumento de casos (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "assunto": "Funções",
+      "origem": {
+        "numeroOriginal": 24
+      },
+      "enunciado": "<p>Denúncias são importantes formas de detecção das infrações ambientais.</p><p>Um exemplo é a Linha Verde, do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), disponibilizada para todo o Brasil. Por meio dela, o cidadão pode informar possíveis infrações ambientais através de uma Central de Atendimento.</p><p>Suponha que a tabela apresentada registre o número de denúncias recebidas por um atendente sobre o desmatamento na Floresta Amazônica.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Dia do mês (D)</th><th scope=\"col\">Número de denúncias (N)</th></tr></thead><tbody><tr><td>2</td><td>7</td></tr><tr><td>3</td><td>9</td></tr><tr><td>4</td><td>11</td></tr><tr><td>5</td><td>13</td></tr><tr><td>6</td><td>15</td></tr></tbody></table></div><p>Uma expressão algébrica que relaciona o número de denúncias (N) em função do dia do mês (D) é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "N = 2D + 3.",
+        "B": "N = D + 3.",
+        "C": "N = 3D + 1.",
+        "D": "N = D + 2.",
+        "E": "N = 2D + 1."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A cada dia, o número de denúncias aumenta 2 (7, 9, 11, 13, 15). Então N = 2D + b. Usando D = 2 e N = 7: \\(7 = 2 \\cdot 2 + b\\), logo \\(b = 3\\). A expressão é <strong>N = 2D + 3</strong>. Alternativa <strong>A</strong>.</p><p>Testando as outras com D = 2: D + 3 = 5 (B), 3D + 1 = 7 mas com D = 3 dá 10, e não 9 (C), D + 2 = 4 (D) e 2D + 1 = 5 (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 25,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 25
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 27.</p><p class=\"apoio\">A hidrelétrica de Balbina, no município de Presidente Figueiredo, é considerada um dos maiores desastres socioambientais da Amazônia, com impactos que vão além do reservatório e da barragem.</p><p class=\"apoio\">O reservatório inundou uma área de quase 3 000 km², afogando florestas de igapó e de terra firme. Apenas os planaltos de terra firme, em altitudes mais elevadas, permaneceram, formando uma paisagem fragmentada de mais de 3 500 ilhas isoladas em um “cemitério de milhões de árvores mortas”, conhecido como “paliteiros”, que produzem, ao longo dos anos, um grande volume de gases de efeito estufa, como o metano.</p><p class=\"apoio\">A capacidade instalada prevista era de 250 MW, porém a usina de Balbina fornece cerca de 80 MW de potência, ou seja, nunca gerou energia suficiente para atender a cidade de Manaus.</p><p class=\"fonte\">&lt;https://tinyurl.com/ym4r3an5&gt; Acesso em: 16.08.23. Adaptado.</p><p>A usina de Belo Monte, no estado do Pará, é uma das maiores hidrelétricas do mundo. Possui capacidade instalada de aproximadamente 11 200 MW e fornece cerca de 4 500 MW de potência. Além disso, alaga uma região de cerca de 500 km².</p><p>Com base apenas nos dados fornecidos para as usinas de Balbina e de Belo Monte, localizadas na região Amazônica, é possível avaliar a crítica, presente no texto, à instalação da hidrelétrica de Balbina como</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "incoerente, dado que 3 000 km² de área alagada não causam um impacto ambiental significativo para ser considerado um desastre.",
+        "B": "coerente, já que são fornecidos apenas dados relativos à área alagada, que não são suficientes para analisar o impacto ambiental da usina de Balbina.",
+        "C": "incoerente, uma vez que a usina de Belo Monte alaga uma região maior e tem potencial energético menor do que a usina de Balbina.",
+        "D": "coerente, visto que a usina de Balbina alaga uma área maior e tem potencial energético menor do que a usina de Belo Monte.",
+        "E": "incoerente, na medida em que o potencial energético de ambas as usinas é similar."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Comparando: Balbina alaga cerca de 3 000 km² e fornece 80 MW; Belo Monte alaga 500 km² e fornece 4 500 MW. Balbina alaga uma área <strong>seis vezes maior</strong> e produz muito <strong>menos</strong> energia. A crítica do texto é <strong>coerente</strong>: alternativa <strong>D</strong>.</p><p>3 000 km² de floresta alagada é um impacto enorme (A). Há dados de área e de potência, suficientes para comparar (B). A (C) inverte as usinas. E 80 MW e 4 500 MW não são potências parecidas (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 26,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 26
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 27.</p><p class=\"apoio\">A hidrelétrica de Balbina, no município de Presidente Figueiredo, é considerada um dos maiores desastres socioambientais da Amazônia, com impactos que vão além do reservatório e da barragem.</p><p class=\"apoio\">O reservatório inundou uma área de quase 3 000 km², afogando florestas de igapó e de terra firme. Apenas os planaltos de terra firme, em altitudes mais elevadas, permaneceram, formando uma paisagem fragmentada de mais de 3 500 ilhas isoladas em um “cemitério de milhões de árvores mortas”, conhecido como “paliteiros”, que produzem, ao longo dos anos, um grande volume de gases de efeito estufa, como o metano.</p><p class=\"apoio\">A capacidade instalada prevista era de 250 MW, porém a usina de Balbina fornece cerca de 80 MW de potência, ou seja, nunca gerou energia suficiente para atender a cidade de Manaus.</p><p class=\"fonte\">&lt;https://tinyurl.com/ym4r3an5&gt; Acesso em: 16.08.23. Adaptado.</p><p>De acordo com o texto, os “paliteiros” mencionados se formaram</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "devido à instalação de indústrias madeireiras na Zona Franca de Manaus.",
+        "B": "pela ação dos garimpeiros ilegais que poluíam as águas do rio Amazonas.",
+        "C": "em consequência do aquecimento global, que impacta a flora e a fauna amazônicas.",
+        "D": "pela ação de madeireiros que atuavam no município de Presidente Figueiredo.",
+        "E": "em consequência da inundação do reservatório da usina hidrelétrica de Balbina."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O texto diz que o reservatório de Balbina inundou quase 3 000 km² de floresta, e que só os planaltos mais altos ficaram de fora, formando ilhas num “cemitério de milhões de árvores mortas”: os paliteiros. Eles são consequência da <strong>inundação do reservatório</strong>. Alternativa <strong>E</strong>.</p><p>O texto não fala de indústrias madeireiras (A), de garimpeiros (B), de aquecimento global (C) nem de madeireiros (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 27,
+      "materia": "Física",
+      "assunto": "Energia",
+      "origem": {
+        "numeroOriginal": 27
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 27.</p><p class=\"apoio\">A hidrelétrica de Balbina, no município de Presidente Figueiredo, é considerada um dos maiores desastres socioambientais da Amazônia, com impactos que vão além do reservatório e da barragem.</p><p class=\"apoio\">O reservatório inundou uma área de quase 3 000 km², afogando florestas de igapó e de terra firme. Apenas os planaltos de terra firme, em altitudes mais elevadas, permaneceram, formando uma paisagem fragmentada de mais de 3 500 ilhas isoladas em um “cemitério de milhões de árvores mortas”, conhecido como “paliteiros”, que produzem, ao longo dos anos, um grande volume de gases de efeito estufa, como o metano.</p><p class=\"apoio\">A capacidade instalada prevista era de 250 MW, porém a usina de Balbina fornece cerca de 80 MW de potência, ou seja, nunca gerou energia suficiente para atender a cidade de Manaus.</p><p class=\"fonte\">&lt;https://tinyurl.com/ym4r3an5&gt; Acesso em: 16.08.23. Adaptado.</p><p>O Fator de Capacidade (\\(\\eta\\)), em uma usina hidrelétrica, expressa a razão entre a capacidade real de transformação de seu potencial energético (\\(\\Delta P_U\\)) e a capacidade instalada (\\(\\Delta P_T\\)), ou seja, \\(\\eta = \\dfrac{\\Delta P_U}{\\Delta P_T}\\).</p><p>Dessa forma, o fator \\(\\eta\\) de capacidade da usina hidrelétrica de Balbina é de, aproximadamente,</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "0,08.",
+        "B": "0,32.",
+        "C": "0,40.",
+        "D": "2,50.",
+        "E": "3,13."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Em Balbina, a potência fornecida (capacidade real) é de 80 MW e a capacidade instalada prevista era de 250 MW: \\(\\eta = \\dfrac{80}{250} = 0{,}32\\). Alternativa <strong>B</strong>.</p><p>3,13 (E) é a conta invertida, 250 ÷ 80. E 0,40 (C) seria a razão para Belo Monte (4 500 ÷ 11 200).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 28
+      },
+      "enunciado": "<p class=\"chamada\">Considere o gráfico baseado nos dados do Instituto do Homem e Meio Ambiente da Amazônia (Imazon) para responder às questões 28 e 29.</p>[[fig:1]]<p class=\"fonte\">Fonte de dados: Imazon</p><p>É possível concluir corretamente que, em exatamente três quintos dos anos apresentados no gráfico, o desmatamento registrado ano a ano foi</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q28.webp",
+          "alt": "Gráfico de barras “Desmatamento na Amazônia (em km²)”, de 2008 a 2022. Valores por ano: 2008, 2 046; 2009, 1 602; 2010, 1 905; 2011, 1 257; 2012, 1 145; 2013, 1 008; 2014, 2 461; 2015, 2 594; 2016, 3 402; 2017, 2 106; 2018, 4 358; 2019, 5 036; 2020, 6 408; 2021, 8 939; 2022, 9 069."
+        }
+      ],
+      "alternativas": {
+        "A": "maior que 5 000 km<sup>2</sup>.",
+        "B": "maior que 6 000 km<sup>2</sup>.",
+        "C": "igual a 4 000 km<sup>2</sup>.",
+        "D": "menor que 2 000 km<sup>2</sup>.",
+        "E": "menor que 3 000 km<sup>2</sup>."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>São 15 anos no gráfico. Três quintos de 15 são \\(\\dfrac{3}{5} \\times 15 = 9\\) anos. Os anos com desmatamento <strong>menor que 3 000 km²</strong> são 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015 e 2017: exatamente 9. Alternativa <strong>E</strong>.</p><p>Maior que 5 000 km² são só 4 anos (A); maior que 6 000, 3 anos (B). Nenhum ano tem exatamente 4 000 (C). E menor que 2 000 são 6 anos (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 29
+      },
+      "enunciado": "<p class=\"chamada\">Considere o gráfico baseado nos dados do Instituto do Homem e Meio Ambiente da Amazônia (Imazon) para responder às questões 28 e 29.</p>[[fig:1]]<p class=\"fonte\">Fonte de dados: Imazon</p><p>A amplitude total, em um conjunto de dados, é a diferença entre o maior e o menor valor observado nesse conjunto.</p><p>Analise o conjunto de dados apresentados no gráfico e assinale a alternativa que apresenta a sua amplitude total.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q28.webp",
+          "alt": "Gráfico de barras “Desmatamento na Amazônia (em km²)”, de 2008 a 2022. Valores por ano: 2008, 2 046; 2009, 1 602; 2010, 1 905; 2011, 1 257; 2012, 1 145; 2013, 1 008; 2014, 2 461; 2015, 2 594; 2016, 3 402; 2017, 2 106; 2018, 4 358; 2019, 5 036; 2020, 6 408; 2021, 8 939; 2022, 9 069."
+        }
+      ],
+      "alternativas": {
+        "A": "9 069",
+        "B": "8 061",
+        "C": "7 023",
+        "D": "3 555",
+        "E": "2 283"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O maior valor do gráfico é 9 069 km² (2022) e o menor, 1 008 km² (2013). A amplitude total é \\(9\\,069 - 1\\,008 = 8\\,061\\). Alternativa <strong>B</strong>.</p><p>9 069 (A) é só o maior valor, sem subtrair o menor.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 30,
+      "materia": "Química",
+      "assunto": "Química ambiental",
+      "origem": {
+        "numeroOriginal": 30
+      },
+      "enunciado": "<p class=\"apoio\">A intensa atividade de desflorestamento altera a composição química da atmosfera amazônica devido às emissões de gases e de partículas. Essas emissões são decorrentes das queimadas e têm implicações importantes em nível local, regional e global. As queimadas são uma significativa fonte global de vários gases, como dióxido de carbono (CO<sub>2</sub>) e metano (CH<sub>4</sub>).</p><p class=\"fonte\">&lt;https://tinyurl.com/yc65n76t&gt; Acesso em: 16.08.2023. Adaptado.</p><p>Os compostos mencionados são gases</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "que protegem a Terra da radiação infravermelha.",
+        "B": "que protegem a Terra da radiação ultravioleta.",
+        "C": "do efeito estufa, os quais amenizam a temperatura global.",
+        "D": "do efeito estufa, os quais destroem a camada de ozônio.",
+        "E": "do efeito estufa, os quais potencializam o aquecimento global."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O dióxido de carbono (CO<sub>2</sub>) e o metano (CH<sub>4</sub>) são <strong>gases do efeito estufa</strong>: retêm o calor na atmosfera. Em excesso, por causa das queimadas e da queima de combustíveis, eles <strong>intensificam o aquecimento global</strong>. Alternativa <strong>E</strong>.</p><p>Esses gases retêm a radiação infravermelha (calor), em vez de proteger a Terra dela (A). Quem filtra a radiação ultravioleta é a camada de ozônio (B). Eles aumentam a temperatura, não a amenizam (C). E quem destrói a camada de ozônio são outros gases, como os CFCs (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 31,
+      "materia": "Física",
+      "assunto": "Termologia",
+      "origem": {
+        "numeroOriginal": 31
+      },
+      "enunciado": "<p>Por estarem localizadas próximas à linha do Equador, as regiões de clima equatorial recebem luz solar direta durante todo o ano, o que contribui para elevada umidade do ar e temperaturas altas e relativamente estáveis. Nas florestas ocorre a evapotranspiração, processo que combina a liberação de água na atmosfera, por meio da transpiração das folhas, com a evaporação da água existente no ambiente.</p><p>A evapotranspiração desempenha um papel fundamental como regulador no clima porque, conforme a água evapora, ela</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "contribui na formação de arco-íris por meio da refração dos raios solares, e consequentemente aquece o ambiente.",
+        "B": "produz gás hidrogênio, um gás combustível que pode liberar calor para o ambiente, e consequentemente o aquecer.",
+        "C": "libera átomos de hidrogênio e oxigênio no ambiente, consequentemente o resfriando.",
+        "D": "consome oxigênio do ambiente, consequentemente o resfriando.",
+        "E": "absorve calor do ambiente, e consequentemente o resfria."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Para evaporar, a água precisa receber energia. Ao passar de líquido para vapor, ela <strong>absorve calor</strong> do ambiente, que <strong>esfria</strong>. Alternativa <strong>E</strong>.</p><p>Arco-íris não tem relação com a evapotranspiração nem aquece o ambiente (A). A evaporação não separa a água em hidrogênio e oxigênio (B e C): as moléculas de H<sub>2</sub>O continuam inteiras no vapor. E ela não consome oxigênio (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 32,
+      "materia": "Geografia",
+      "assunto": "Climatologia",
+      "origem": {
+        "numeroOriginal": 32
+      },
+      "enunciado": "<p class=\"apoio\">Rios voadores. É assim que são popularmente conhecidos os fluxos aéreos de vapor d’água que se originam de áreas tropicais do oceano Atlântico e são retroalimentados, após o processo de chuva e de evapotranspiração na Floresta Amazônica.</p><p class=\"apoio\">Esses rios de água vaporizada atravessam a atmosfera sobre a Amazônia até encontrar com a Cordilheira dos Andes, deslocando-se, então, para o sul. Essa movimentação leva chuvas a Mato Grosso, Mato Grosso do Sul, Minas Gerais, São Paulo, Paraná e Santa Catarina, regulando as chuvas não só nesses estados, mas também em partes de países vizinhos, como a Bolívia, o Paraguai, o Uruguai e a Argentina. Esse processo é essencial para a produção agrícola e para a vida nesses lugares.</p><p class=\"fonte\">&lt;https://tinyurl.com/ms92cddk&gt; Acesso em: 02.09.2023. Adaptado.</p><p>Com base no texto, é correto afirmar que os rios voadores</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "despejam milhões de metros cúbicos de água por segundo no oceano Índico.",
+        "B": "tornam-se afluentes do rio Amazonas e deságuam nas bacias hidrográficas do sul do Brasil.",
+        "C": "são um dos responsáveis pelas chuvas em alguns estados brasileiros e em alguns países fronteiriços ao Brasil.",
+        "D": "derivam de árvores da Mata Tropical Atlântica, encravadas no alto da Cordilheira dos Andes e no Chaco paraguaio.",
+        "E": "nascem no oceano Atlântico e percorrem todo o litoral ocidental brasileiro até atingir as áreas situadas no centro-sul do Brasil."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto diz que os rios voadores levam chuva a Mato Grosso, Mato Grosso do Sul, Minas Gerais, São Paulo, Paraná e Santa Catarina, e a partes da Bolívia, do Paraguai, do Uruguai e da Argentina. Alternativa <strong>C</strong>.</p><p>Eles se originam no oceano Atlântico, não despejam água no Índico (A). São fluxos de vapor na atmosfera, não rios na superfície (B). Não derivam da Mata Atlântica (D). E seguem pela Amazônia até os Andes e depois para o sul; não percorrem o litoral, que é a leste do Brasil (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 33,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 33
+      },
+      "enunciado": "<p>Segundo o IBGE, no Brasil, mais de 80 % da população vive em áreas urbanas. Isso, entretanto, não impede a sociedade de se mobilizar e de realizar ações que possam auxiliar na preservação das florestas e das espécies ameaçadas de extinção.</p><p>Embora ninguém consiga promover grandes mudanças sozinho, algumas atitudes podem fazer a diferença na preservação do meio ambiente e da biodiversidade, como</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "evitar comprar de pequenos produtores de hortifrúti que, por produzirem em menor escala, aumentam as áreas desmatadas e, consequentemente, o impacto ambiental.",
+        "B": "comprar móveis e papéis cuja matéria-prima não seja de reflorestamento ou de empresas sem certificação de fonte legal e sustentável.",
+        "C": "aumentar o consumo de itens descartáveis, como guardanapos, papéis, pratos e canudos, evitando a reciclagem de produtos usados.",
+        "D": "aumentar o consumo de carne bovina, pois, na criação extensiva de gado, as florestas são derrubadas para dar espaço ao pasto.",
+        "E": "plantar árvores nativas, com autorização de órgãos responsáveis, para ajudar no reflorestamento de áreas urbanas e rurais."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Plantar árvores nativas, com autorização, ajuda a <strong>recuperar áreas desmatadas</strong> e protege a biodiversidade. Alternativa <strong>E</strong>.</p><p>Comprar de pequenos produtores locais costuma ter menor impacto (A). O certo é comprar madeira e papel <strong>de</strong> reflorestamento e com certificação (B). Descartáveis aumentam o lixo (C). E a criação extensiva de gado é uma das principais causas do desmatamento (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 34,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 34
+      },
+      "enunciado": "<p class=\"apoio\">Além proteger áreas florestais, outra forma de conter o desmatamento – e, consequentemente, as mudanças climáticas – é desenvolver atividades econômicas sustentáveis nas florestas, de modo a fortalecer as comunidades locais e aproveitar os recursos disponíveis nas regiões. Com esse objetivo, o WWF-Brasil criou o Programa de Apoio ao Desenvolvimento Sustentável (PADS). Os projetos do PADS ajudam famílias a viver da coleta de castanha-do-brasil, da produção de óleo de copaíba, do artesanato, do ecoturismo e de outros produtos florestais, sem ter que derrubar árvores para retirar madeira ou para abrir pastagens. Dessa maneira, assegura-se a conservação da floresta e da biodiversidade. Além disso, lidar com o desenvolvimento sustentável na floresta é desenvolver e incentivar capacidade adaptativa às futuras mudanças do clima, que se dão gradualmente na medida em que o planeta aquece.</p><p class=\"fonte\">&lt;https://tinyurl.com/258zsnff&gt; Acesso em: 17.08.2023. Adaptado.</p><p>Assinale a alternativa que apresenta um projeto cujo objetivo é semelhante ao apresentado no texto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "GASTROMOTIVA: utiliza o alimento como ferramenta de transformação social por meio da educação, da inclusão e do combate ao desperdício.",
+        "B": "CONSERV: remunera produtores locais que preservam vinte mil hectares de floresta e de cerrado.",
+        "C": "AMPARA: protege animais que foram abandonados e foram vítimas de maus-tratos.",
+        "D": "MÃE CANGURU: ajuda mães solo em situação de vulnerabilidade social.",
+        "E": "MORAR PRIMEIRO: dá moradia social para a população de rua."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O PADS ajuda comunidades a <strong>ganhar dinheiro mantendo a floresta em pé</strong>. O projeto que remunera produtores por preservar floresta e cerrado tem o mesmo objetivo: alternativa <strong>B</strong>.</p><p>Os outros projetos são importantes, mas tratam de alimentação e desperdício (A), proteção de animais domésticos (C), apoio a mães (D) e moradia (E), não da conservação aliada à renda.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 35,
+      "materia": "Geografia",
+      "assunto": "Agropecuária e meio ambiente",
+      "origem": {
+        "numeroOriginal": 35
+      },
+      "enunciado": "<p class=\"apoio\">Para vencer o desafio da sustentabilidade na Amazônia, um dos principais focos de atuação da Embrapa Amazônia Oriental é o desenvolvimento de pesquisas e tecnologias relacionadas aos Sistemas Agroflorestais (SAFs), nos quais agricultura e floresta se encontram, aliando a produção de alimentos à conservação dos recursos naturais.</p><p class=\"apoio\">“Os benefícios econômicos, ambientais e sociais dos SAFs são inúmeros”, afirma o pesquisador Osvaldo Kato, citando exemplos: diversificação da produção agrícola e florestal na propriedade; recomposição da paisagem; reflorestamento; recuperação de áreas degradadas; aumento da capacidade produtiva do solo; segurança alimentar e aumento de renda para o produtor; conservação ambiental; biodiversidade da flora e da fauna; redução do desmatamento, das queimadas e dos impactos nas mudanças climáticas globais.</p><p class=\"fonte\">&lt;https://tinyurl.com/3cnnew7s&gt; Acesso em: 12.08.2023. Adaptado.</p><p>A implantação dos SAFs é uma intervenção que visa a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "facilitar a implantação de projetos agropecuários que reduzam o tamanho da floresta e aumentem a extensão dos pastos.",
+        "B": "atender ao interesse de madeireiros que buscam aumentar sua renda com a venda de madeira ilegal para o exterior.",
+        "C": "minimizar a devastação da Floresta Amazônica, aliando o aumento de renda à redução de danos ambientais.",
+        "D": "colaborar com a ampliação das malhas rodoviária e ferroviária da Amazônia para facilitar o escoamento de produtos da floresta.",
+        "E": "apoiar o grande proprietário para que este possa ter facilidades na regularização fundiária e agregar terras indígenas ao seu patrimônio."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Nos Sistemas Agroflorestais, “agricultura e floresta se encontram, aliando a produção de alimentos à conservação dos recursos naturais”. Entre os benefícios, o texto cita aumento de renda e redução do desmatamento e das queimadas. Alternativa <strong>C</strong>.</p><p>Os SAFs não aumentam pastos (A), não favorecem a venda ilegal de madeira (B) e não tratam de estradas, ferrovias ou terras indígenas (D e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 36,
+      "materia": "História",
+      "assunto": "Brasil Colônia",
+      "origem": {
+        "numeroOriginal": 36
+      },
+      "enunciado": "<p>No período colonial, eram chamados de “drogas do sertão” os produtos nativos ou aclimatados que tinham origem na região Norte, onde se localizam atualmente os estados do Amazonas, do Pará e do Maranhão. Eram especiarias, castanhas, frutas, ervas, sementes, tintas e animais originários da Amazônia, como o peixe-boi e as tartarugas.</p><p>O início da exploração desses produtos</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "estimulou o fluxo migratório de nordestinos, que buscavam alternativas à seca; e de escravizados das regiões Sul e Sudeste que, na floresta, refugiaram-se em comunidades quilombolas.",
+        "B": "permitiu a integração da Amazônia ao restante da colônia, já que incentivou a abertura de estradas e ferrovias que a ligavam a diferentes partes do território nacional.",
+        "C": "enfraqueceu o controle e a fiscalização das fronteiras, impondo dificuldades ao Exército no monitoramento eficiente da área.",
+        "D": "promoveu o desenvolvimento da pecuária e o surgimento de um cinturão verde que combinava segurança jurídica, controle ambiental e inovações tecnológicas.",
+        "E": "combinou as necessidades portuguesas de conter a presença estrangeira na colônia e de suprir parte da demanda europeia por especiarias, já que o comércio com o Oriente estava em declínio."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A exploração das drogas do sertão, a partir do século XVII, interessava a Portugal por dois motivos: <strong>ocupar a Amazônia</strong>, onde havia franceses, ingleses e holandeses, e <strong>substituir as especiarias do Oriente</strong>, cujo comércio português estava em declínio. Alternativa <strong>E</strong>.</p><p>A migração de nordestinos para a Amazônia ocorreu no Ciclo da Borracha, no fim do século XIX (A). Não havia ferrovias no período colonial (B). A exploração ajudou a ocupar e controlar a região, não enfraqueceu esse controle; e o Exército brasileiro não existia (C). E a pecuária com segurança jurídica e controle ambiental é uma ideia atual (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 37,
+      "materia": "Química",
+      "assunto": "Interpretação de dados",
+      "origem": {
+        "numeroOriginal": 37
+      },
+      "enunciado": "<p class=\"apoio\">A Química tem grande relação com a floresta amazônica, pois cada planta é como uma fábrica de produtos químicos.</p><p class=\"apoio\">Uma área dentro da Química procura desvendar o mistério das estruturas presentes nesses produtos; enquanto outra área, a Química Orgânica e de Síntese, busca produzi-las sinteticamente em seus laboratórios.</p><p class=\"apoio\">A partir disso, químicos e biólogos desenvolvem estudos em conjunto, nos quais os primeiros trabalham no isolamento e na determinação estrutural; e os últimos, no levantamento de suas atividades biológicas.</p><p class=\"fonte\">&lt;https://tinyurl.com/37rxppdp&gt; Acesso em: 09.08.2024. Adaptado.</p><p>De acordo com o texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "as plantas são uma única fábrica de produtos químicos.",
+        "B": "os químicos avaliam as atividades biológicas de substâncias naturalmente presentes nas plantas.",
+        "C": "as moléculas estudadas apresentam uma estrutura igual em qualquer planta estudada.",
+        "D": "alguns químicos procuram isolar e determinar a estrutura das moléculas; e outros procuram produzi-las em laboratório.",
+        "E": "os biólogos participam do isolamento, da determinação das estruturas moleculares e da análise das atividades biológicas dessas estruturas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que uma área da Química “procura desvendar o mistério das estruturas” dos produtos das plantas, enquanto outra, a Química Orgânica e de Síntese, “busca produzi-las sinteticamente em seus laboratórios”. Alternativa <strong>D</strong>.</p><p>Cada planta é <strong>como</strong> uma fábrica, ou seja, há muitas, não uma só (A). Quem avalia as atividades biológicas são os biólogos (B e E), enquanto os químicos isolam e determinam as estruturas. E o texto não diz que as estruturas são iguais em todas as plantas (C).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 38,
+      "materia": "História",
+      "assunto": "Brasil República",
+      "origem": {
+        "numeroOriginal": 38
+      },
+      "enunciado": "<p class=\"apoio\">Em 1839, Charles Goodyear desenvolveu o processo da vulcanização, que estabiliza a borracha, impedindo o seu derretimento no calor e a ocorrência de rachaduras no frio. Tal invenção provocou inovações que lideraram uma demanda massiva por borracha natural. Acontecimentos como a invenção do pneu de borracha com ar por Dunlop, em 1888; a novidade das bicicletas na Europa (especialmente na França), na metade do século XIX; e o desenvolvimento da indústria automobilística, no início do século XX, explicam a explosiva demanda mundial por borracha.</p><p class=\"fonte\">&lt;https://tinyurl.com/udtnz6j9&gt; Acesso em: 18.08.2023. Adaptado.</p><p>Sobre o contexto histórico a que o texto se refere, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a insuficiência de mão de obra na Amazônia coincidiu com uma seca severa no Nordeste brasileiro, entre 1877 e 1879, e produziu uma grande migração de agricultores pobres do sertão em direção à Amazônia, atraídos pela dinâmica econômica do Ciclo da Borracha.",
+        "B": "o aumento da procura internacional por borracha provocou o declínio da atividade extrativista do látex na Amazônia, que não resistiu à concorrência dos produtores de borracha sintética do Sudeste brasileiro.",
+        "C": "a política de fortalecimento da indústria nacional, implementada por Getúlio Vargas, permitiu a instalação das primeiras empresas produtoras de bicicletas em território nacional e incentivou a demanda pela borracha produzida na Amazônia.",
+        "D": "o ápice do Ciclo da Borracha na Amazônia coincidiu com a introdução de capitais estrangeiros no Brasil, no governo de Juscelino Kubitschek, para estimular o setor de transporte, principalmente para a instalação da indústria automobilística na região metropolitana de São Paulo.",
+        "E": "a alta demanda de látex da Amazônia, no período chamado de Ciclo da Borracha, deve-se à dinâmica da indústria nacional de pneus que, além de produzir para o mercado interno, também exportava seus produtos para Estados Unidos, França, Argentina e México."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A grande procura mundial por borracha, no fim do século XIX, iniciou o <strong>Ciclo da Borracha</strong> na Amazônia. Faltava mão de obra para extrair o látex, e a grande seca de 1877 a 1879 no Nordeste levou muitos sertanejos pobres a migrar para os seringais. Alternativa <strong>A</strong>.</p><p>A procura aumentou a extração de látex, em vez de diminuí-la (B). Getúlio Vargas (C) e Juscelino Kubitschek (D) governaram décadas depois do auge do ciclo, que terminou por volta de 1912. E o látex era exportado como matéria-prima para indústrias estrangeiras, principalmente dos Estados Unidos e da Europa (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 39,
+      "materia": "Biologia",
+      "assunto": "Ecologia",
+      "origem": {
+        "numeroOriginal": 39
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 39 a 42.</p><p class=\"apoio\">A castanheira-do-brasil ou castanheira-do-pará (<em>Bertholletia excelsa</em>), árvore nativa da Amazônia, chega a atingir cerca de 50 metros de altura, com diâmetro, na base, superior a 4 metros ou mais. Seus frutos secos, lenhosos e esféricos são chamados ouriços, os quais podem ter massa de até 1,5 kg, podem atingir entre 10 a 15 centímetros de diâmetro e contêm muitas sementes em seu interior.</p><p class=\"apoio\">Quando maduros, os frutos contendo as sementes despencam das árvores. Essas sementes, conhecidas como castanhas-do-brasil, estão envoltas, cada uma, em uma casca dura, parecida com madeira, que protege as amêndoas internas.</p><p class=\"apoio\">Essas amêndoas são ricas em ômega 3, fibras, proteínas, carboidratos, vitaminas e minerais. Seu consumo regular, em pequenas quantidades, é saudável, porque auxilia, por exemplo, no fortalecimento do sistema imunológico e na minimização dos problemas de depressão, fadiga e estresse.</p><p class=\"apoio\">Na natureza, o principal dispersor dessas sementes é a cutia, já que é um dos poucos animais que consegue roer o ouriço e a casca da castanha, para comer a amêndoa da castanheira.</p><p class=\"apoio\">Como são muitas castanhas num mesmo ouriço, a cutia enterra algumas para comer depois, e, geralmente, não volta para pegá-las. Assim, a floresta terá sementes plantadas em seu solo, as quais serão, futuramente, novas castanheiras.</p><p class=\"fonte\">Fonte dos dados: &lt;https://tinyurl.com/5hapxbxa&gt; Acesso em: 11.08.2023.</p><p>A relação ecológica entre a cutia e a castanheira-do-brasil, tal como descrita no texto, é denominada</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "comensalismo.",
+        "B": "predatismo.",
+        "C": "mutualismo.",
+        "D": "parasitismo.",
+        "E": "competição."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A cutia se alimenta das castanhas e, ao enterrar algumas e esquecê-las, <strong>espalha as sementes</strong> da castanheira, que germinam e viram novas árvores. As duas espécies se beneficiam: é <strong>mutualismo</strong>. Alternativa <strong>C</strong>.</p><p>No comensalismo, só uma espécie se beneficia, sem prejudicar a outra (A). No predatismo, um animal mata e come outro (B). No parasitismo, uma espécie vive à custa da outra e a prejudica (D). E na competição as duas disputam o mesmo recurso (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 40,
+      "materia": "Matemática",
+      "assunto": "Geometria espacial",
+      "origem": {
+        "numeroOriginal": 40
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 39 a 42.</p><p class=\"apoio\">A castanheira-do-brasil ou castanheira-do-pará (<em>Bertholletia excelsa</em>), árvore nativa da Amazônia, chega a atingir cerca de 50 metros de altura, com diâmetro, na base, superior a 4 metros ou mais. Seus frutos secos, lenhosos e esféricos são chamados ouriços, os quais podem ter massa de até 1,5 kg, podem atingir entre 10 a 15 centímetros de diâmetro e contêm muitas sementes em seu interior.</p><p class=\"apoio\">Quando maduros, os frutos contendo as sementes despencam das árvores. Essas sementes, conhecidas como castanhas-do-brasil, estão envoltas, cada uma, em uma casca dura, parecida com madeira, que protege as amêndoas internas.</p><p class=\"apoio\">Essas amêndoas são ricas em ômega 3, fibras, proteínas, carboidratos, vitaminas e minerais. Seu consumo regular, em pequenas quantidades, é saudável, porque auxilia, por exemplo, no fortalecimento do sistema imunológico e na minimização dos problemas de depressão, fadiga e estresse.</p><p class=\"apoio\">Na natureza, o principal dispersor dessas sementes é a cutia, já que é um dos poucos animais que consegue roer o ouriço e a casca da castanha, para comer a amêndoa da castanheira.</p><p class=\"apoio\">Como são muitas castanhas num mesmo ouriço, a cutia enterra algumas para comer depois, e, geralmente, não volta para pegá-las. Assim, a floresta terá sementes plantadas em seu solo, as quais serão, futuramente, novas castanheiras.</p><p class=\"fonte\">Fonte dos dados: &lt;https://tinyurl.com/5hapxbxa&gt; Acesso em: 11.08.2023.</p><p>Para estimar o volume do tronco de uma árvore, pode-se utilizar a relação \\(V = (H \\cdot \\pi \\cdot r^2) \\div 3\\), na qual <strong>V</strong> indica o volume do tronco, <strong>H</strong> a altura da árvore e <strong>r</strong> é o raio da base da árvore.</p><p>Utilizando as medidas fornecidas no texto e a relação matemática dada, é correto estimar o volume mínimo do tronco de uma castanheira, em m<sup>3</sup>, em cerca de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "100π ÷ 3.",
+        "B": "200π ÷ 3.",
+        "C": "400π ÷ 3.",
+        "D": "500π ÷ 3.",
+        "E": "800π ÷ 3."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que a castanheira tem cerca de 50 m de altura e diâmetro na base de 4 m ou mais. Para o volume <strong>mínimo</strong>, o diâmetro é 4 m, então o raio é 2 m:</p><p>\\(V = \\dfrac{50 \\cdot \\pi \\cdot 2^2}{3} = \\dfrac{200\\pi}{3}\\). Alternativa <strong>B</strong>.</p><p>Usar o diâmetro (4) no lugar do raio dá \\(\\dfrac{800\\pi}{3}\\) (E), e esquecer de elevar o raio ao quadrado dá \\(\\dfrac{100\\pi}{3}\\) (A).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 41,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 41
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 39 a 42.</p><p class=\"apoio\">A castanheira-do-brasil ou castanheira-do-pará (<em>Bertholletia excelsa</em>), árvore nativa da Amazônia, chega a atingir cerca de 50 metros de altura, com diâmetro, na base, superior a 4 metros ou mais. Seus frutos secos, lenhosos e esféricos são chamados ouriços, os quais podem ter massa de até 1,5 kg, podem atingir entre 10 a 15 centímetros de diâmetro e contêm muitas sementes em seu interior.</p><p class=\"apoio\">Quando maduros, os frutos contendo as sementes despencam das árvores. Essas sementes, conhecidas como castanhas-do-brasil, estão envoltas, cada uma, em uma casca dura, parecida com madeira, que protege as amêndoas internas.</p><p class=\"apoio\">Essas amêndoas são ricas em ômega 3, fibras, proteínas, carboidratos, vitaminas e minerais. Seu consumo regular, em pequenas quantidades, é saudável, porque auxilia, por exemplo, no fortalecimento do sistema imunológico e na minimização dos problemas de depressão, fadiga e estresse.</p><p class=\"apoio\">Na natureza, o principal dispersor dessas sementes é a cutia, já que é um dos poucos animais que consegue roer o ouriço e a casca da castanha, para comer a amêndoa da castanheira.</p><p class=\"apoio\">Como são muitas castanhas num mesmo ouriço, a cutia enterra algumas para comer depois, e, geralmente, não volta para pegá-las. Assim, a floresta terá sementes plantadas em seu solo, as quais serão, futuramente, novas castanheiras.</p><p class=\"fonte\">Fonte dos dados: &lt;https://tinyurl.com/5hapxbxa&gt; Acesso em: 11.08.2023.</p><p>Com base no texto, é correto afirmar que as castanheiras possuem</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "frutos esféricos, muito duros e secos, que se abrem espontaneamente no alto das árvores, liberando as amêndoas do interior das sementes.",
+        "B": "estruturas reprodutivas, denominadas ouriços, com cascas suculentas e ricas em substâncias nutritivas necessárias à germinação das sementes.",
+        "C": "amêndoas ricas em proteínas, em carboidratos e em outras substâncias que ajudam a manter uma dieta saudável e a fortalecer a imunidade do organismo.",
+        "D": "sementes com substâncias tóxicas responsáveis por causar inúmeros problemas à saúde humana, como depressão, fadiga e estresse.",
+        "E": "sementes conhecidas como ouriços, que caem das árvores e servem de alimento para as cutias, as quais comem sua casca nutritiva."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto diz que as amêndoas “são ricas em ômega 3, fibras, proteínas, carboidratos, vitaminas e minerais” e que seu consumo regular, em pequenas quantidades, ajuda a fortalecer o sistema imunológico. Alternativa <strong>C</strong>.</p><p>Os frutos <strong>despencam</strong> das árvores, e só a cutia consegue abri-los (A). Os ouriços são secos e lenhosos, não suculentos (B). As sementes ajudam a <strong>minimizar</strong> depressão, fadiga e estresse, em vez de causá-los (D). E ouriços são os frutos, não as sementes; a cutia come a amêndoa, não a casca (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 42,
+      "materia": "Física",
+      "assunto": "Cinemática",
+      "origem": {
+        "numeroOriginal": 42
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 39 a 42.</p><p class=\"apoio\">A castanheira-do-brasil ou castanheira-do-pará (<em>Bertholletia excelsa</em>), árvore nativa da Amazônia, chega a atingir cerca de 50 metros de altura, com diâmetro, na base, superior a 4 metros ou mais. Seus frutos secos, lenhosos e esféricos são chamados ouriços, os quais podem ter massa de até 1,5 kg, podem atingir entre 10 a 15 centímetros de diâmetro e contêm muitas sementes em seu interior.</p><p class=\"apoio\">Quando maduros, os frutos contendo as sementes despencam das árvores. Essas sementes, conhecidas como castanhas-do-brasil, estão envoltas, cada uma, em uma casca dura, parecida com madeira, que protege as amêndoas internas.</p><p class=\"apoio\">Essas amêndoas são ricas em ômega 3, fibras, proteínas, carboidratos, vitaminas e minerais. Seu consumo regular, em pequenas quantidades, é saudável, porque auxilia, por exemplo, no fortalecimento do sistema imunológico e na minimização dos problemas de depressão, fadiga e estresse.</p><p class=\"apoio\">Na natureza, o principal dispersor dessas sementes é a cutia, já que é um dos poucos animais que consegue roer o ouriço e a casca da castanha, para comer a amêndoa da castanheira.</p><p class=\"apoio\">Como são muitas castanhas num mesmo ouriço, a cutia enterra algumas para comer depois, e, geralmente, não volta para pegá-las. Assim, a floresta terá sementes plantadas em seu solo, as quais serão, futuramente, novas castanheiras.</p><p class=\"fonte\">Fonte dos dados: &lt;https://tinyurl.com/5hapxbxa&gt; Acesso em: 11.08.2023.</p><p>Suponha que um fruto caia de uma castanheira-do-brasil, a partir do repouso, de uma altura de 45 metros do chão, em uma queda livre de qualquer força dissipativa, e assuma que a aceleração gravitacional é igual a 10 m/s².</p><p>Pode-se determinar a sua velocidade ao atingir o chão por meio da equação \\(v = \\sqrt{2 \\cdot g \\cdot H}\\), em que a velocidade (v) depende da altura de queda (H) e da aceleração gravitacional (g).</p><p>Assinale a alternativa que apresenta a velocidade, em m/s, com que o fruto de uma castanheira-do-brasil atingiria o chão.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "30",
+        "B": "25",
+        "C": "10",
+        "D": "9",
+        "E": "3"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>\\(v = \\sqrt{2 \\cdot 10 \\cdot 45} = \\sqrt{900} = 30\\) m/s. Alternativa <strong>A</strong>.</p><p>Esquecer o 2 dá \\(\\sqrt{450} \\approx 21\\), que não está nas alternativas. E 3 (E) e 9 (D) vêm de errar a raiz quadrada.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 43,
+      "materia": "Química",
+      "assunto": "Funções inorgânicas",
+      "origem": {
+        "numeroOriginal": 43
+      },
+      "enunciado": "<p class=\"apoio\">Além da Amazônia Verde, o Brasil tem uma área oceânica que totaliza 4,5 milhões de km², denominada de Amazônia Azul. Rica em biodiversidade marinha, a Amazônia Azul se estende de norte a sul, ao longo da costa brasileira.</p><p class=\"apoio\">Na Amazônia Azul, existem depósitos minerais, como petróleo e calcário. O principal componente do calcário é o carbonato de cálcio, um sal formado por átomos de carbono, oxigênio e cálcio.</p><p class=\"fonte\">&lt;https://tinyurl.com/3254w5tu&gt; Acesso em: 16.06.2024. Adaptado.</p><p>Assinale a alternativa que apresenta a fórmula do principal componente do sal mencionado no texto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "CaO",
+        "B": "Na<sub>2</sub>O",
+        "C": "CaC<sub>2</sub>",
+        "D": "CaCO<sub>3</sub>",
+        "E": "NaC<sub>2</sub>"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O carbonato de cálcio é formado pelo íon cálcio (Ca<sup>2+</sup>) e pelo íon carbonato (CO<sub>3</sub><sup>2−</sup>): sua fórmula é <strong>CaCO<sub>3</sub></strong>. Alternativa <strong>D</strong>.</p><p>CaO (A) é o óxido de cálcio (a cal), que não tem carbono. Na<sub>2</sub>O (B) e NaC<sub>2</sub> (E) têm sódio, e não cálcio. E CaC<sub>2</sub> (C) é o carbeto de cálcio, sem oxigênio.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 44,
+      "materia": "Química",
+      "assunto": "Química ambiental",
+      "origem": {
+        "numeroOriginal": 44
+      },
+      "enunciado": "<p>Quando o petróleo é extraído, ele é separado em diferentes frações por meio de um processo denominado destilação fracionada. Dessas frações, obtêm-se combustíveis como gás natural, gás liquefeito de petróleo, gasolina e diesel.</p><p>Esses combustíveis são de origem</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "fóssil, portanto de fonte renovável.",
+        "B": "fóssil, portanto de fonte não renovável.",
+        "C": "não fóssil, portanto de fonte não renovável.",
+        "D": "animal, portanto de fonte renovável.",
+        "E": "vegetal, portanto de fonte renovável."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O petróleo se formou ao longo de milhões de anos, a partir de restos de seres vivos soterrados: é um combustível <strong>fóssil</strong>. Como sua formação leva tanto tempo, ele não se repõe na escala da vida humana: é uma fonte <strong>não renovável</strong>. Alternativa <strong>B</strong>.</p><p>Combustíveis fósseis não são renováveis (A). Derivados do petróleo são fósseis (C). E não são de origem animal ou vegetal atual, como o biodiesel ou o etanol, que são renováveis (D e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 45,
+      "materia": "Projeto de vida",
+      "assunto": "Projeto de vida e carreira",
+      "origem": {
+        "numeroOriginal": 45
+      },
+      "enunciado": "[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/muampeuw&gt; Acesso em: 16.08.2023. Original colorido.</p><p>A tirinha utiliza a ironia para evidenciar que apenas o esforço, em determinadas situações, não traz resultados favoráveis ao indivíduo, levando-o à decepção vivenciada por outros.</p><p>Para evitar esse desfecho, sem negligenciar os projetos de vida, deve-se</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q45.webp",
+          "alt": "Tirinha de Galvão Bertazzi em quatro quadros. 1: um personagem em forma de pedra, na beira de um penhasco, vê um navio chamado “VIDA” passar e diz: “A vida segue viagem num vasto oceano de possibilidades!”. 2: ele pula em direção ao navio, pensando: “Tarefa difícil alcançá-la, mas o simples fato de tentar...”. 3: ele cai na água e afunda: “...já faz de mim uma pessoa muito, mas muito...”. 4: no fundo do mar, ele chega a um amontoado de outros personagens iguais a ele, todos afundados: “...especial.”"
+        }
+      ],
+      "alternativas": {
+        "A": "ignorar experiências anteriores cujos resultados foram bem-sucedidos.",
+        "B": "permanecer dentro do que é conhecido, evitando entrar em contato com a inovação.",
+        "C": "imaginar cenários otimistas e sonhar com a realização de seus projetos por outros indivíduos.",
+        "D": "elaborar planos de ação, considerando os possíveis obstáculos à concretização de objetivos.",
+        "E": "confiar nos instintos e aceitar, indiscriminadamente, qualquer opinião dada por indivíduos da mesma área de atuação."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Na tirinha, o personagem se joga atrás do navio sem nenhum plano e afunda, junto com muitos outros que fizeram o mesmo. A ironia mostra que só a vontade e o esforço não bastam: é preciso <strong>planejar</strong>, pensando nos obstáculos (como a distância e a água). Alternativa <strong>D</strong>.</p><p>Experiências bem-sucedidas devem ser aproveitadas, não ignoradas (A). Evitar o novo seria abandonar os projetos de vida (B). Sonhar que outros realizem os projetos não resolve nada (C). E aceitar qualquer opinião sem critério também não é planejamento (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 46,
+      "materia": "Biologia",
+      "assunto": "Zoologia",
+      "origem": {
+        "numeroOriginal": 46
+      },
+      "enunciado": "<p class=\"apoio\">As coloridas rãs da família Dendrobatidae, naturais da Amazônia, são consideradas os animais mais tóxicos ou venenosos da Terra. Possuem um veneno potente em sua pele o qual deriva da sua alimentação, pois essas rãs comem formigas, ácaros ou besouros que, por sua vez, alimentam-se de fungos venenosos.</p><p class=\"apoio\">Uma espécie em particular da família Dendrobatidae são as rãs-flecha-dourada (<em>Phyllobates terribilis</em>), as quais produzem uma potente neurotoxina, considerada cerca de 8 mil vezes mais letal do que o veneno de uma jararaca. Essas rãs provocam envenenamento do tipo passivo por compressão, ou seja, eliminam o veneno quando são pressionadas pelo predador.</p><p class=\"apoio\">Segundo o biólogo David Nelsen, os animais denominados venenosos têm glândulas de veneno, mas não possuem um aparelho inoculador (dentes ou ferrões), por isso provocam envenenamento passivo por compressão (rãs), por contato (taturana), ou por ingestão (peixe baiacu).</p><p class=\"apoio\">Por outro lado, animais peçonhentos produzem ou modificam algum veneno e possuem alguma estrutura para injetá-lo em sua presa ou predador, como, por exemplo, algumas espécies de serpentes (cascavel e jararaca), de escorpiões, de aranhas, de himenópteros (abelhas, formigas e vespas), de quilópodes (lacraias), entre outros.</p><p class=\"fonte\">&lt;https://tinyurl.com/674sfpr8&gt; Acesso em: 10.08.2023. Adaptado.</p><p>De acordo com o texto, assinale a alternativa correta.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Qualquer animal que usa toxinas para se defender ou para subjugar uma presa possui, além de glândulas de veneno, estruturas especializadas, como dentes e ferrões.",
+        "B": "Os animais venenosos, como o peixe baiacu, são incapazes de injetar toxina, mas podem causar o envenenamento ao serem ingeridos por seus predadores.",
+        "C": "Algumas serpentes, como a cascavel e a jararaca, não são animais peçonhentos, pois produzem ou modificam algum veneno e não possuem estruturas inoculadoras.",
+        "D": "As rãs da família Dendrobatidae são venenosas, porque produzem potentes toxinas que são inoculadas nos predadores por meio de ferrões ao serem pressionadas.",
+        "E": "As aranhas e os escorpiões são animais peçonhentos, porque, quando pressionados ou atacados, eliminam, passivamente por contato, substâncias tóxicas sobre suas presas."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto explica que animais <strong>venenosos</strong> têm veneno, mas não têm dentes ou ferrões para injetá-lo; envenenam por compressão, contato ou <strong>ingestão</strong>, como o peixe baiacu. Alternativa <strong>B</strong>.</p><p>Animais venenosos, como as rãs, não têm estruturas inoculadoras (A). Cascavel e jararaca têm presas que injetam veneno: são peçonhentas (C). As rãs não têm ferrões; liberam o veneno quando são pressionadas (D). E aranhas e escorpiões injetam o veneno com quelíceras e ferrões, de forma ativa (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 47,
+      "materia": "História",
+      "assunto": "Brasil Império",
+      "origem": {
+        "numeroOriginal": 47
+      },
+      "enunciado": "<p>A Cabanagem, uma das chamadas Revoltas Regenciais, ocorreu em meados do século XIX, na província do Grão-Pará.</p><p>De modo geral, essa revolta se caracterizou</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "pela insatisfação dos donos de minas de ouro com a cobrança de impostos e com a instalação de Casas de Fundição pela administração portuguesa da colônia.",
+        "B": "pela combinação entre as reivindicações populares por melhores condições de sobrevivência e o desejo de ascensão política de grupos locais de médio e alto poder econômico.",
+        "C": "pela tentativa de separar o Brasil de Portugal, instalar o regime monárquico e abolir a escravidão, em consonância com as ideias renascentistas.",
+        "D": "pela exigência da realização de eleições diretas ao cargo de presidente da República, suspensas durante o período da ditadura civil-militar.",
+        "E": "pelas demandas trabalhistas como melhores salários, jornada de trabalho de oito horas, direito a férias e fim do trabalho infantil, entre outras."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A Cabanagem (1835-1840) reuniu a população pobre do Grão-Pará (indígenas, mestiços e negros, chamados de cabanos), que lutava contra a miséria, e parte da elite local, que queria mais poder político na província. Alternativa <strong>B</strong>.</p><p>A revolta contra impostos sobre o ouro e as Casas de Fundição foi a Revolta de Vila Rica, de 1720 (A). O Brasil já era independente e monárquico em 1835 (C). As eleições diretas para presidente foram pedidas nas Diretas Já, em 1984 (D). E demandas trabalhistas como a jornada de oito horas são do século XX (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 48,
+      "materia": "História",
+      "assunto": "Povos indígenas",
+      "origem": {
+        "numeroOriginal": 48
+      },
+      "enunciado": "<p class=\"apoio\">Há milênios, os seres humanos utilizam os corpos celestes como ferramenta para marcação da passagem do tempo. Embora sob o mesmo céu, povos diferentes o experienciaram de formas variadas e, para identificar os movimentos celestes, criaram regiões que eram, basicamente, desenhos formados pela união de estrelas, como em um jogo de ligar os pontos. Dessa forma, as mesmas estrelas compuseram diversas constelações ao longo da História e estiveram associadas a diferentes significados e simbologias.</p><p class=\"apoio\">No Egito Antigo, a constelação de Escorpião marcava o período das secas na região do Nilo, por conta da posição que essa constelação ocupava no céu nesse período. Já para os Tukanos, grupos indígenas localizados na região do noroeste amazônico, as estrelas que compõem Escorpião fazem parte da maior constelação da cultura Tukano, a constelação da Jararaca, cuja posição ocupada no céu está relacionada ao início do ciclo anual para esses povos. Nessa época do ano, acontecem chuvas intensas, o nível dos rios se eleva e ocorrem as primeiras reproduções dos peixes.</p><p>Podemos partir do exemplo citado para inferir corretamente que a interpretação dos fenômenos da natureza</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "não tem aplicações práticas no cotidiano dos povos que a realizam.",
+        "B": "está associada a grupos sociais biologicamente mais desenvolvidos do que os demais.",
+        "C": "está intrinsecamente relacionada à vivência e à cultura dos povos que a estruturam.",
+        "D": "não tem relação com o cotidiano vivenciado pelos povos que a desenvolvem.",
+        "E": "é realizada sem fundamentos teóricos ou observações da realidade."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto mostra que as mesmas estrelas ganharam significados diferentes: para os egípcios, Escorpião marcava as secas do Nilo; para os Tukanos, fazia parte da Jararaca e marcava o início do ciclo anual, com chuvas e reprodução dos peixes. A leitura do céu está ligada à <strong>vivência e à cultura</strong> de cada povo. Alternativa <strong>C</strong>.</p><p>Os exemplos mostram aplicações práticas e ligação com o cotidiano, como as secas e as cheias (A e D). Nenhum grupo é biologicamente superior a outro (B). E as interpretações vêm de observações cuidadosas do céu (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    },
+    {
+      "numero": 49,
+      "materia": "História",
+      "assunto": "Brasil República",
+      "origem": {
+        "numeroOriginal": 49
+      },
+      "enunciado": "<p>Leia o excerto.</p><p class=\"apoio\">Na visão predominante daqueles dias, desenvolver significava avançar sobre a floresta. A mentalidade era de uma verdadeira batalha entre civilização e natureza. A cerimônia de inauguração do primeiro trecho, com 1 253 quilômetros, ocorreu em um ponto a cinco quilômetros de Altamira, com a presença do então presidente da República, Emílio Garrastazu Médici.</p><p class=\"fonte\">&lt;https://tinyurl.com/2dfjld27&gt; Acesso em: 18.08.2023.</p><p>O trecho faz referência à</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Rodovia dos Tamoios, instalada sobre a antiga trilha aberta pelos indígenas tamoios do litoral norte paulista e do Rio de Janeiro.",
+        "B": "Estrada Real, conjunto de caminhos organizados para facilitar o trânsito de metais e pedras preciosas em direção aos portos do Rio de Janeiro.",
+        "C": "Rodovia Transamazônica, planejada nos anos da ditadura civil-militar com o objetivo de integrar a região Norte ao restante do país.",
+        "D": "Estrada Velha de Santos, usada por carros de boi para o transporte de mercadorias entre o porto de Santos e a cidade de São Paulo.",
+        "E": "Rodovia BR–116, a maior estrada totalmente pavimentada do Brasil, que percorre 10 estados e se encerra no Rio Grande do Sul, já na fronteira com o Uruguai."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O excerto fala de uma estrada aberta na floresta, com o primeiro trecho de 1 253 km inaugurado perto de Altamira (Pará) pelo presidente Médici, durante a ditadura civil-militar. É a <strong>Rodovia Transamazônica</strong> (BR-230), planejada para integrar o Norte ao resto do país. Alternativa <strong>C</strong>.</p><p>As outras estradas ficam fora da Amazônia: a dos Tamoios, em São Paulo (A); a Estrada Real, em Minas Gerais e no Rio de Janeiro, do período colonial (B); a Estrada Velha de Santos, em São Paulo (D); e a BR-116, que vai do Ceará ao Rio Grande do Sul (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 50,
+      "materia": "História",
+      "assunto": "Povos indígenas",
+      "origem": {
+        "numeroOriginal": 50
+      },
+      "enunciado": "<p>Analise a charge.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/mr3z8nwh&gt; Acesso em: 16.08.2023. Original colorido.</p><p>A respeito dessa charge, pode-se concluir corretamente que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2024-1sem/q50.webp",
+          "alt": "Charge de um indígena com cocar de penas e o rosto pintado, na posição de quem atira com arco e flecha. No lugar da flecha, ele segura com a mão esquerda um livro com a palavra “Constituição” na capa; o arco está esticado com o outro braço."
+        }
+      ],
+      "alternativas": {
+        "A": "o conhecimento da Carta Magna, promulgada em 1988, é fundamental na luta pelos direitos de povos originários.",
+        "B": "o gesto e os adereços da personagem expressam a submissão dos povos da América Latina ao processo de aculturação.",
+        "C": "os povos originários usam permanentemente a violência como ferramenta para modificar a organização sociopolítica imposta pelos não indígenas.",
+        "D": "a luta armada pela defesa dos direitos dos povos originários da Amazônia é garantida pela Carta de Direitos Humanos.",
+        "E": "os braços abertos da personagem representam o acolhimento da cultura do colonizador."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Na charge, o indígena usa a <strong>Constituição</strong> no lugar da flecha: a “arma” dele é a lei. A Constituição de 1988 reconhece os direitos dos povos indígenas às suas terras e à sua cultura, e conhecê-la é fundamental nessa luta. Alternativa <strong>A</strong>.</p><p>O gesto é de luta, não de submissão, e os adereços afirmam a cultura indígena (B). A charge troca a arma pela lei, e não defende o uso permanente da violência (C) nem a luta armada (D). E os braços não estão abertos em acolhimento, mas na posição de atirar com o arco (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interdisciplinar"
+      ]
+    }
+  ]
+}

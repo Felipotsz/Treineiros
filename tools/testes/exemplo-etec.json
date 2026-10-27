@@ -1,0 +1,42 @@
+{
+  "id": "exemplo-etec",
+  "banca": "ETEC",
+  "ano": 2024,
+  "titulo": "ETEC exemplo",
+  "fonte": "Centro Paula Souza",
+  "duracaoMinutos": 240,
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Matemática",
+      "assunto": "Potenciação",
+      "enunciado": "<p>Qual é o valor de \\(3^2 + 4^2\\)?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "12",
+        "B": "25",
+        "C": "49",
+        "D": "7"
+      },
+      "gabarito": "B",
+      "explicacao": "\\(9 + 16 = 25\\).",
+      "explicacaoRevisada": true
+    },
+    {
+      "numero": 2,
+      "materia": "Português",
+      "assunto": "Plural",
+      "enunciado": "<p>Qual palavra está no plural?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Livro",
+        "B": "Mesa",
+        "C": "Cadernos",
+        "D": "Caneta"
+      },
+      "gabarito": "C",
+      "explicacao": "Cadernos está no plural.",
+      "explicacaoRevisada": false
+    }
+  ]
+}

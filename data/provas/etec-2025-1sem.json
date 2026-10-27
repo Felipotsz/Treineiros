@@ -1,0 +1,1236 @@
+{
+  "id": "etec-2025-1sem",
+  "banca": "ETEC",
+  "ano": 2025,
+  "semestre": 1,
+  "titulo": "Vestibulinho ETEC, 1º semestre de 2025",
+  "fonte": "Centro Paula Souza",
+  "dataExame": "2024-12-15",
+  "duracaoMinutos": 240,
+  "tema": "Plantas",
+  "pdf": "assets/provas/etec-2025-1sem.pdf",
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 1
+      },
+      "enunciado": "<p>As plantas proporcionam uma infinidade de benefícios que são essenciais para a manutenção da vida na Terra, como a produção de alimentos e de oxigênio. Além disso, são fontes de matéria-prima para a indústria, uma vez que são utilizadas para a produção de biocombustíveis e de remédios.</p><p>Outro papel fundamental das plantas é o controle da dinâmica da água na Terra e da temperatura do planeta.</p><p>Compreender suas funções vitais é importante para promover esforços de conservação do meio ambiente.</p><p>Em relação ao cultivo de plantas, uma ação que devemos adotar é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "evitar adubar a terra, a fim de impedir o excesso de nutrientes tóxicos e a proliferação tanto de pragas quanto de plantas daninhas.",
+        "B": "permitir que lesmas e caramujos cresçam entre as plantas, a fim de estimular a polinização das flores e a formação dos frutos.",
+        "C": "utilizar a quantidade certa de água para cada tipo de planta, a fim de impedir que o solo fique encharcado e as raízes não consigam respirar.",
+        "D": "evitar o uso de qualquer tipo de controle biológico, a fim de impedir a proliferação de pragas e insetos transmissores de doenças.",
+        "E": "optar por locais bem ventilados, a fim de impedir a evaporação da água do solo, o que facilita a condução de seiva pelos vasos das plantas."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Água em excesso encharca o solo e ocupa os espaços onde haveria ar; sem oxigênio, as raízes não conseguem respirar. Por isso, cada planta deve receber <strong>a quantidade certa de água</strong>. Alternativa <strong>C</strong>.</p><p>A adubação correta repõe nutrientes e não é tóxica (A). Lesmas e caramujos comem as plantas e não polinizam (B). O controle biológico é justamente uma forma de combater pragas (D). E o vento aumenta, em vez de impedir, a evaporação da água do solo (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "cultivo"
+      ]
+    },
+    {
+      "numero": 2,
+      "materia": "Geografia",
+      "assunto": "Agropecuária",
+      "origem": {
+        "numeroOriginal": 2
+      },
+      "enunciado": "<p class=\"apoio\">Segundo a Organização das Nações Unidas para Alimentação e Agricultura (FAO), na história da humanidade, das 30 mil espécies de plantas comestíveis, somente de 6 a 7 mil espécies foram cultivadas para produzir alimentos.</p><p class=\"apoio\">Atualmente, usamos apenas 170 culturas em uma escala comercial significativa, no entanto, dependemos somente de 30 delas para nos fornecer as calorias e os nutrientes de que precisamos todos os dias.</p><p class=\"apoio\">Geralmente, 60 % das calorias vegetais da dieta humana são provenientes de três grãos – arroz, milho e trigo – que não fornecem as doses necessárias de vitaminas e minerais.</p><p class=\"apoio\">Além disso, a monocultura desses grãos pode provocar a degradação do solo, acarretando o esgotamento de seus nutrientes e, consequentemente, o empobrecimento nutricional.</p><p class=\"apoio\">Por outro lado, existem milhares de culturas que foram esquecidas ou subutilizadas e que nunca entraram no mercado mundial. Isso ocorre talvez pelo fato de terem sido cultivadas em pequenas áreas geográficas, ou terem baixo rendimento, ou ainda porque não foram devidamente pesquisadas.</p><p class=\"fonte\">&lt;https://tinyurl.com/3tx9eren&gt; Acesso em: 13.07.2024. Adaptado.</p><p>Baseando-se no texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a totalidade das espécies de plantas comestíveis conhecidas foi cultivada, desenvolvida e usada comercialmente, ao longo do tempo, para a produção de alimento.",
+        "B": "dependemos, atualmente, de todas as culturas usadas em escala comercial para conseguirmos obter as calorias e os nutrientes de que precisamos todos os dias.",
+        "C": "as culturas atuais de arroz, trigo e milho, fornecem às pessoas todas as calorias vegetais necessárias à sobrevivência e oferecem todos os tipos de minerais e vitaminas essenciais à dieta humana.",
+        "D": "o cultivo de uma mesma espécie em uma determinada área está associado a diversos impactos ambientais, como o empobrecimento do solo e o desenvolvimento de doenças ou pragas.",
+        "E": "as culturas esquecidas ou subutilizadas, apesar de terem sido muito pesquisadas e apresentarem elevado rendimento de produção, não foram produzidas e comercializadas em escala global."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que a monocultura de arroz, milho e trigo “pode provocar a degradação do solo”, com esgotamento de nutrientes. O cultivo de uma única espécie numa área está ligado ao <strong>empobrecimento do solo</strong> e também favorece pragas e doenças. Alternativa <strong>D</strong>.</p><p>Só 6 a 7 mil das 30 mil espécies comestíveis foram cultivadas (A). Dependemos de apenas 30 das 170 culturas comerciais (B). Os três grãos não fornecem as vitaminas e os minerais necessários (C). E as culturas esquecidas talvez não tenham sido devidamente pesquisadas ou tenham baixo rendimento (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "monocultura"
+      ]
+    },
+    {
+      "numero": 3,
+      "materia": "Geografia",
+      "assunto": "Agropecuária",
+      "origem": {
+        "numeroOriginal": 3
+      },
+      "enunciado": "<p class=\"apoio\">Há dez mil anos, o trigo era apenas uma gramínea silvestre, confinada a uma pequena região do Oriente Médio. Em apenas alguns milênios, estava crescendo no mundo inteiro. Em áreas como as Grandes Planícies da América do Norte, onde não crescia um único pé de trigo há 10 mil anos, hoje podemos caminhar por centenas de quilômetros sem encontrar nenhuma outra planta. Atualmente, o trigo cobre 2,25 milhões de quilômetros quadrados da superfície do globo, quase 10 vezes o tamanho da Grã-Bretanha.</p><p class=\"apoio\">O trigo não gostava de rochas e pedregulhos, nem de dividir espaço, água e nutrientes com outras plantas, por isso os seres humanos tiveram que dedicar cada vez mais esforços para seu cultivo.</p><p class=\"fonte\">HARARI, Yuval Noah. <em>Sapiens – Uma breve história da humanidade.</em> 8 ed. Porto Alegre. L&amp;PM, 2015. P. 90. Adaptado.</p><p>Sobre o cereal mencionado no texto, é correto afirmar que é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o principal produto agrícola plantado na região Centro-Oeste do Brasil.",
+        "B": "na Grã-Bretanha onde se encontra a maior área plantada do planeta.",
+        "C": "o principal produto de exportação dos países do Oriente Médio.",
+        "D": "plantado em larga escala nos Estados Unidos e no Canadá.",
+        "E": "cultivado nos desertos rochosos da Europa e da África."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto cita as Grandes Planícies da América do Norte, onde hoje se caminha por centenas de quilômetros só entre plantações de trigo. Essa região fica nos <strong>Estados Unidos e no Canadá</strong>, grandes produtores do cereal. Alternativa <strong>D</strong>.</p><p>No Centro-Oeste brasileiro predominam soja e milho (A). A Grã-Bretanha aparece só como comparação de tamanho (B). O Oriente Médio exporta principalmente petróleo (C). E o texto diz que o trigo “não gostava de rochas e pedregulhos” (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "trigo"
+      ]
+    },
+    {
+      "numero": 4,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 4
+      },
+      "enunciado": "<p class=\"apoio\">A sigla PANCs significa Plantas Alimentícias Não Convencionais, ou seja, espécies já conhecidas, mas que não são popularmente consumidas. Acredita-se que o Brasil tenha, aproximadamente, 10 mil espécies de plantas com potencial de uso alimentar.</p><p class=\"apoio\">Elas são uma excelente alternativa de alimentação sustentável, já que atendem à demanda por nutrientes que suprem as necessidades humanas. No entanto, os estudos e os cultivos dessas espécies ainda não são amplamente desenvolvidas.</p><p class=\"apoio\">Infelizmente, essas plantas ainda não são produzidas em larga escala. Isso poderia ajudar a combater a fome, por exemplo.</p><p class=\"apoio\">O que se sabe é que essas espécies são rústicas, propagadas por mudas ou sementes e resistentes a doenças e pragas.</p><p class=\"apoio\">Além disso, as PANCs, geralmente hortaliças, têm como característica a boa adaptação climática e a grande eficiência na absorção de nutrientes.</p><p class=\"apoio\">Atualmente, PANCs são cultivadas por pequenas comunidades agrícolas brasileiras, muitas vezes para consumo próprio.</p><p class=\"fonte\">&lt;https://tinyurl.com/4aa77ytx&gt; Acesso em: 16.07.2024. Adaptado.</p><p>De acordo com o texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "as PANCs não permitem uma alimentação adequada ao ser humano.",
+        "B": "a utilização das PANCs tem potencial para minimizar o problema da fome.",
+        "C": "a pouca resistência às pragas é um empecilho ao cultivo das PANCs.",
+        "D": "as PANCs não suportam as condições climáticas brasileiras.",
+        "E": "a grande produção de PANCs torna o Brasil exportador desse alimento."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que as PANCs atendem à demanda por nutrientes e que produzi-las em larga escala “poderia ajudar a combater a fome”. Alternativa <strong>B</strong>.</p><p>Elas suprem as necessidades humanas de nutrientes (A), são resistentes a doenças e pragas (C), têm boa adaptação climática (D) e ainda não são produzidas em larga escala, só por pequenas comunidades (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "PANCs"
+      ]
+    },
+    {
+      "numero": 5,
+      "materia": "Matemática",
+      "assunto": "Porcentagem",
+      "origem": {
+        "numeroOriginal": 5
+      },
+      "enunciado": "<p>Leia o texto e assinale a alternativa que completa correta e respectivamente os espaços numerados.</p><p class=\"apoio\">Sócrates não tomou um pingado<sup>1</sup> com Platão. Cleópatra e Júlio César jamais marcaram um <em>date</em><sup>2</sup> num café de Alexandria. A humanidade só conheceu o café bem depois. Hoje, ele é um dos mais valiosos produtos primários comercializados no mundo, tanto que, em 2022, foi produzido um total de 171,7 milhões de sacas desse grão.</p><p class=\"apoio\">É curioso observar que cada saca de café verde tem 60 kg e rende somente 48 kg de café torrado, ou seja, o café perde cerca de ____<strong>I</strong>____ % de sua massa durante o processo de torrefação. Deste modo, é possível estimar que, para produzir uma tonelada de café torrado, são necessárias, no mínimo, ____<strong>II</strong>____ sacas de café verde.</p><p class=\"fonte\">&lt;https://tinyurl.com/3w9a2x3h&gt; Acesso em: 09.09.2024. Adaptado.</p><p class=\"fonte\"><sup>1</sup> pingado – leite com café. <sup>2</sup> <em>date</em> – encontro romântico com alguém.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "I: 12; II: 21.",
+        "B": "I: 12; II: 35.",
+        "C": "I: 20; II: 35.",
+        "D": "I: 20; II: 21.",
+        "E": "I: 21; II: 35."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A saca perde 60 − 48 = 12 kg, e 12 ÷ 60 = 0,20 = <strong>20 %</strong> (I). Uma tonelada são 1 000 kg de café torrado, e cada saca rende 48 kg: 1 000 ÷ 48 ≈ 20,8. Com 20 sacas não se chega a uma tonelada, então são necessárias, no mínimo, <strong>21 sacas</strong> (II). Alternativa <strong>D</strong>.</p><p>12 é a perda em quilos, não em porcentagem (A e B). E 35 não vem de nenhuma conta coerente com os dados (B, C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "arredondamento"
+      ]
+    },
+    {
+      "numero": 6,
+      "materia": "Física",
+      "assunto": "Eletricidade",
+      "origem": {
+        "numeroOriginal": 6
+      },
+      "enunciado": "<p>Plantas carnívoras, como as dioneias, são conhecidas pelo aprisionamento de suas presas. Esse movimento ocorre por um processo denominado tigmonastia, em que, ao serem tocadas, as células sensíveis da planta geram sinais elétricos que são propagados rapidamente e fazem com que a planta se feche.</p><p>Durante o fechamento das folhas, a resistência elétrica entre dois pontos do caule pode ser obtida por meio da Lei de Ohm, conhecida por U = R · i, em que a diferença de potencial (U) aplicada nesses pontos gera uma corrente elétrica (i) que depende da resistência elétrica (R) do material.</p><p>Se uma diferença de potencial de 1 × 10<sup>–1</sup> volt é aplicada entre esses pontos e a corrente elétrica medida é de 2 × 10<sup>–8</sup> ampères, a resistência elétrica, medida em ohm, do caule da planta é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "5 × 10<sup>–9</sup>.",
+        "B": "5 × 10<sup>–7</sup>.",
+        "C": "5 × 10<sup>–1</sup>.",
+        "D": "5 × 10<sup>6</sup>.",
+        "E": "5 × 10<sup>8</sup>."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Pela lei de Ohm, R = U ÷ i = (1 × 10<sup>–1</sup>) ÷ (2 × 10<sup>–8</sup>) = 0,5 × 10<sup>7</sup> = <strong>5 × 10<sup>6</sup> Ω</strong>. Alternativa <strong>D</strong>.</p><p>Multiplicar U por i, em vez de dividir, dá 2 × 10<sup>–9</sup>, perto do valor de A. Errar o sinal dos expoentes na divisão leva a B, C e E.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "lei de Ohm",
+        "notação científica"
+      ]
+    },
+    {
+      "numero": 7,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 7
+      },
+      "enunciado": "<p class=\"chamada\">Leia os textos para responder às questões de 07 a 09.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/3dxrhkpp&gt; Acesso em: 13.09.2024. Original colorido.</p><p>A construção de humor no texto se deve, entre outros fatores,</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q07.webp",
+          "alt": "Tirinha “Cientirinhas #180”, em quatro quadrinhos, com plantas em vasos. 1º: uma planta carnívora conta: “Aí eu disse pra Rosa: ‘Amiga, para de sofrer por esse boy lixo!’ Porque tu me conhece, né? Eu falo na lata!”. 2º: “A coitada tava lá debaixo da sacada, toda borocochô. Mas me deu uma ojeriza do Cravo, menina!”. 3º: duas flores conversam; uma diz: “Gente! Como é tagarela essa planta carnívora!”, e a outra responde: “Ela é desse jeito pra não morrer de fome.”. 4º: a primeira pergunta: “Como assim?”, e a outra diz: “Uai, você não sabia? Em boca fechada não entra mosca!”"
+        }
+      ],
+      "alternativas": {
+        "A": "à valorização do masculino, ao representá-lo como uma flor, o Cravo.",
+        "B": "à linguagem cerimoniosa e solene empregada pela Planta Carnívora.",
+        "C": "ao uso da linguagem verbal para amenizar atos de violência doméstica.",
+        "D": "à atribuição de comportamentos animalizados, como o canibalismo, a seres humanos.",
+        "E": "à prática da fofoca como um traço essencial para a sobrevivência da Planta Carnívora."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A planta carnívora fala sem parar sobre a vida das outras flores (a Rosa, o Cravo). A outra flor explica que ela é assim “pra não morrer de fome” e brinca com o ditado “em boca fechada não entra mosca”: falar o tempo todo é o que permite à planta pegar moscas. O humor está na <strong>fofoca como traço essencial para a sobrevivência</strong> da planta carnívora. Alternativa <strong>E</strong>.</p><p>O Cravo é criticado, não valorizado (A). A linguagem é coloquial, não solene (B). Não há violência doméstica sendo amenizada (C). E são plantas que ganham comportamentos humanos, e não o contrário (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "humor",
+        "tirinha"
+      ]
+    },
+    {
+      "numero": 8,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 8
+      },
+      "enunciado": "<p class=\"chamada\">Leia os textos para responder às questões de 07 a 09.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/3dxrhkpp&gt; Acesso em: 13.09.2024. Original colorido.</p><p>Após a leitura atenta dos quadrinhos, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q07.webp",
+          "alt": "Tirinha “Cientirinhas #180”, em quatro quadrinhos, com plantas em vasos. 1º: uma planta carnívora conta: “Aí eu disse pra Rosa: ‘Amiga, para de sofrer por esse boy lixo!’ Porque tu me conhece, né? Eu falo na lata!”. 2º: “A coitada tava lá debaixo da sacada, toda borocochô. Mas me deu uma ojeriza do Cravo, menina!”. 3º: duas flores conversam; uma diz: “Gente! Como é tagarela essa planta carnívora!”, e a outra responde: “Ela é desse jeito pra não morrer de fome.”. 4º: a primeira pergunta: “Como assim?”, e a outra diz: “Uai, você não sabia? Em boca fechada não entra mosca!”"
+        }
+      ],
+      "alternativas": {
+        "A": "as referências a “Rosa”, “Cravo” e “debaixo da sacada” constroem uma relação metalinguística imprescindível para a compreensão do humor nos quadrinhos.",
+        "B": "o termo “ojeriza”, no contexto apresentado, assume uma conotação positiva, em oposição ao seu sentido original de “aversão”, “antipatia”.",
+        "C": "os termos “amiga” e “menina” cumprem a mesma função de interlocução com o receptor, conhecida como vocativo.",
+        "D": "o termo “pra”, presente no primeiro e no terceiro quadrinhos, expressa localização em ambas as ocorrências.",
+        "E": "os traços de coloquialidade, como “pra”, “né” e “falo na lata”, são inadequados ao gênero desenvolvido."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Em “Amiga, para de sofrer” e em “mas me deu uma ojeriza do Cravo, menina!”, os termos “amiga” e “menina” chamam o interlocutor, isto é, quem ouve a fala: são <strong>vocativos</strong>. Alternativa <strong>C</strong>.</p><p>As referências à canção “O Cravo brigou com a Rosa” são intertextuais, não metalinguísticas (A). “Ojeriza” mantém o sentido de aversão (B). “Pra” indica finalidade (“pra não morrer de fome”) e destinatário (“disse pra Rosa”), não lugar (D). E a linguagem coloquial combina com a tirinha (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "vocativo",
+        "tirinha"
+      ]
+    },
+    {
+      "numero": 9,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 9
+      },
+      "enunciado": "<p class=\"chamada\">Leia os textos para responder às questões de 07 a 09.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/3dxrhkpp&gt; Acesso em: 13.09.2024. Original colorido.</p><p>No quarto quadrinho, a interjeição “uai” evidencia que a personagem, diante da pergunta de sua amiga, experiencia</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q07.webp",
+          "alt": "Tirinha “Cientirinhas #180”, em quatro quadrinhos, com plantas em vasos. 1º: uma planta carnívora conta: “Aí eu disse pra Rosa: ‘Amiga, para de sofrer por esse boy lixo!’ Porque tu me conhece, né? Eu falo na lata!”. 2º: “A coitada tava lá debaixo da sacada, toda borocochô. Mas me deu uma ojeriza do Cravo, menina!”. 3º: duas flores conversam; uma diz: “Gente! Como é tagarela essa planta carnívora!”, e a outra responde: “Ela é desse jeito pra não morrer de fome.”. 4º: a primeira pergunta: “Como assim?”, e a outra diz: “Uai, você não sabia? Em boca fechada não entra mosca!”"
+        }
+      ],
+      "alternativas": {
+        "A": "surpresa.",
+        "B": "alegria.",
+        "C": "medo.",
+        "D": "apatia.",
+        "E": "aversão."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>“Uai, você não sabia?” mostra espanto de quem achava aquilo óbvio. A interjeição “uai” expressa <strong>surpresa</strong>. Alternativa <strong>A</strong>.</p><p>Nada na fala indica alegria, medo, indiferença (apatia) ou aversão (B a E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interjeição",
+        "tirinha"
+      ]
+    },
+    {
+      "numero": 10,
+      "materia": "História",
+      "assunto": "História contemporânea",
+      "origem": {
+        "numeroOriginal": 10
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 10 e 11.</p><p class=\"apoio\">O movimento, que completou 50 anos em 2024, foi o responsável pelo fim da longeva ditadura de António de Oliveira Salazar, substituído, em 1968, por Marcello Caetano. Esse movimento ficou conhecido pelo nome da flor que a população colocava nos canos das armas dos soldados do exército, que se rebelaram para dar um basta ao estado de coisas que sufocava a vida do país, restabelecendo a democracia.</p><p class=\"apoio\">Um dos motivos da insatisfação foi a desastrosa campanha militar do governo ditatorial para enfrentar os movimentos de libertação nacional que estavam ocorrendo em suas colônias na África.</p><p>O evento histórico descrito no texto foi batizado de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Guerra da Papoula, e ocorreu na China.",
+        "B": "Guerra das Duas Rosas, e ocorreu na Inglaterra.",
+        "C": "Revolução do Mandacaru, e ocorreu no Brasil.",
+        "D": "Revolução do Lótus, e ocorreu na Índia.",
+        "E": "Revolução dos Cravos, e ocorreu em Portugal."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O movimento que derrubou a ditadura salazarista em 25 de abril de 1974 ficou conhecido pelos cravos colocados nos canos das armas dos soldados: a <strong>Revolução dos Cravos</strong>, em <strong>Portugal</strong>. Alternativa <strong>E</strong>.</p><p>As outras alternativas não têm relação com Salazar nem com Marcello Caetano, que governaram Portugal (A a D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Revolução dos Cravos",
+        "Portugal"
+      ]
+    },
+    {
+      "numero": 11,
+      "materia": "História",
+      "assunto": "História contemporânea",
+      "origem": {
+        "numeroOriginal": 11
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 10 e 11.</p><p class=\"apoio\">O movimento, que completou 50 anos em 2024, foi o responsável pelo fim da longeva ditadura de António de Oliveira Salazar, substituído, em 1968, por Marcello Caetano. Esse movimento ficou conhecido pelo nome da flor que a população colocava nos canos das armas dos soldados do exército, que se rebelaram para dar um basta ao estado de coisas que sufocava a vida do país, restabelecendo a democracia.</p><p class=\"apoio\">Um dos motivos da insatisfação foi a desastrosa campanha militar do governo ditatorial para enfrentar os movimentos de libertação nacional que estavam ocorrendo em suas colônias na África.</p><p>Dentre as colônias a que o texto se refere, podemos citar corretamente</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Angola e Cabo Verde.",
+        "B": "Nigéria e África do Sul.",
+        "C": "Madagascar e Senegal.",
+        "D": "Etiópia e Saara Ocidental.",
+        "E": "República Centro-Africana e Mali."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>As guerras coloniais portuguesas aconteceram em Angola, Moçambique e Guiné-Bissau, e Portugal também controlava Cabo Verde e São Tomé e Príncipe. <strong>Angola e Cabo Verde</strong> eram colônias portuguesas. Alternativa <strong>A</strong>.</p><p>Nigéria e África do Sul foram colônias britânicas (B). Madagascar, Senegal, Mali e República Centro-Africana foram francesas (C e E). A Etiópia nunca foi colônia de forma duradoura, e o Saara Ocidental foi espanhol (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "descolonização da África"
+      ]
+    },
+    {
+      "numero": 12,
+      "materia": "Química",
+      "assunto": "Química orgânica",
+      "origem": {
+        "numeroOriginal": 12
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 12 a 15.</p><p class=\"apoio\">O cravo-da-índia é uma especiaria usada desde a Antiguidade. Seu comércio motivou inúmeras viagens de navegadores europeus para o continente Asiático. Essa especiaria já foi comercializada a preço de ouro e, até hoje, é utilizada na Medicina Ayurveda, na Medicina Chinesa e na fitoterapia ocidental.</p><p class=\"apoio\">O cravo-da-índia é amplamente utilizado na culinária como condimento no preparo de pratos e doces. Seu uso em doces teve início por sua ação repelente que impede a invasão de formigas, motivo pelo qual é usado popularmente em açucareiros. Além disso, ele é usado na fabricação de medicamentos por suas propriedades antimicrobianas, antifúngicas, antivirais e anti-inflamatórias.</p><p class=\"apoio\">Seu óleo essencial é rico em eugenol, princípio ativo responsável pelas propriedades analgésicas e antissépticas, sendo bastante usado em odontologia. Fonte de matéria-prima para a fabricação de fragrâncias e aromatizantes, também foi usado anteriormente para sintetizar a vanilina (aroma artificial de baunilha).</p><p class=\"fonte\">&lt;https://tinyurl.com/nmm3dzrv&gt; Acesso em: 09.09.2024. Adaptado.</p><p>As imagens representam as estruturas do eugenol e da vanilina.</p>[[fig:1]]<p>Sobre o texto, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q12.webp",
+          "alt": "Fórmulas estruturais lado a lado. Eugenol: anel benzênico com um grupo OH, um grupo O–CH₃ vizinho a ele e, do lado oposto, a cadeia CH₂–CH=CH₂; ao todo, C₁₀H₁₂O₂. Vanilina: o mesmo anel com OH e O–CH₃, mas no lugar da cadeia há um grupo aldeído, H–C=O; ao todo, C₈H₈O₃."
+        }
+      ],
+      "alternativas": {
+        "A": "se extraía ouro, junto ao eugenol, na Antiguidade.",
+        "B": "o cravo-da-índia pode ser usado em açucareiros por repelir formigas.",
+        "C": "o eugenol, devido a sua ação repelente, é usado na fabricação de medicamentos.",
+        "D": "a vanilina está presente no óleo essencial do cravo-da-índia.",
+        "E": "o eugenol exala o aroma artificial de baunilha."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que o uso do cravo-da-índia em doces começou por “sua ação repelente que impede a invasão de formigas, motivo pelo qual é usado popularmente em açucareiros”. Alternativa <strong>B</strong>.</p><p>O cravo era vendido “a preço de ouro”, sem extração de ouro (A). Ele é usado em medicamentos por suas propriedades antimicrobianas e anti-inflamatórias, não pela ação repelente (C). O cravo serviu para sintetizar a vanilina, que não está no óleo essencial (D). E o aroma de baunilha é da vanilina, não do eugenol (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "cravo-da-índia"
+      ]
+    },
+    {
+      "numero": 13,
+      "materia": "Química",
+      "assunto": "Química orgânica",
+      "origem": {
+        "numeroOriginal": 13
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 12 a 15.</p><p class=\"apoio\">O cravo-da-índia é uma especiaria usada desde a Antiguidade. Seu comércio motivou inúmeras viagens de navegadores europeus para o continente Asiático. Essa especiaria já foi comercializada a preço de ouro e, até hoje, é utilizada na Medicina Ayurveda, na Medicina Chinesa e na fitoterapia ocidental.</p><p class=\"apoio\">O cravo-da-índia é amplamente utilizado na culinária como condimento no preparo de pratos e doces. Seu uso em doces teve início por sua ação repelente que impede a invasão de formigas, motivo pelo qual é usado popularmente em açucareiros. Além disso, ele é usado na fabricação de medicamentos por suas propriedades antimicrobianas, antifúngicas, antivirais e anti-inflamatórias.</p><p class=\"apoio\">Seu óleo essencial é rico em eugenol, princípio ativo responsável pelas propriedades analgésicas e antissépticas, sendo bastante usado em odontologia. Fonte de matéria-prima para a fabricação de fragrâncias e aromatizantes, também foi usado anteriormente para sintetizar a vanilina (aroma artificial de baunilha).</p><p class=\"fonte\">&lt;https://tinyurl.com/nmm3dzrv&gt; Acesso em: 09.09.2024. Adaptado.</p><p>As imagens representam as estruturas do eugenol e da vanilina.</p>[[fig:1]]<p>Assinale a alternativa que apresenta a comparação correta entre o eugenol e a vanilina.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q12.webp",
+          "alt": "Fórmulas estruturais lado a lado. Eugenol: anel benzênico com um grupo OH, um grupo O–CH₃ vizinho a ele e, do lado oposto, a cadeia CH₂–CH=CH₂; ao todo, C₁₀H₁₂O₂. Vanilina: o mesmo anel com OH e O–CH₃, mas no lugar da cadeia há um grupo aldeído, H–C=O; ao todo, C₈H₈O₃."
+        }
+      ],
+      "alternativas": {
+        "A": "O eugenol e a vanilina apresentam o mesmo número de átomos de carbono.",
+        "B": "O eugenol e a vanilina apresentam o mesmo número de átomos de hidrogênio.",
+        "C": "O eugenol apresenta elementos químicos diferentes da vanilina em sua estrutura.",
+        "D": "O eugenol e a vanilina apresentam estruturas idênticas com mesmo número de átomos.",
+        "E": "O eugenol e a vanilina apresentam estruturas que diferem por um átomo de oxigênio, dois átomos de carbono e quatro átomos de hidrogênio."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Contando os átomos das estruturas: o eugenol é C<sub>10</sub>H<sub>12</sub>O<sub>2</sub> e a vanilina é C<sub>8</sub>H<sub>8</sub>O<sub>3</sub>. A diferença é de <strong>dois átomos de carbono, quatro de hidrogênio e um de oxigênio</strong>. Alternativa <strong>E</strong>.</p><p>Os números de carbonos (10 e 8) e de hidrogênios (12 e 8) são diferentes (A e B). Os dois têm os mesmos elementos, C, H e O (C). E as estruturas não são idênticas (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fórmula molecular"
+      ]
+    },
+    {
+      "numero": 14,
+      "materia": "História",
+      "assunto": "Grandes Navegações",
+      "origem": {
+        "numeroOriginal": 14
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 12 a 15.</p><p class=\"apoio\">O cravo-da-índia é uma especiaria usada desde a Antiguidade. Seu comércio motivou inúmeras viagens de navegadores europeus para o continente Asiático. Essa especiaria já foi comercializada a preço de ouro e, até hoje, é utilizada na Medicina Ayurveda, na Medicina Chinesa e na fitoterapia ocidental.</p><p class=\"apoio\">O cravo-da-índia é amplamente utilizado na culinária como condimento no preparo de pratos e doces. Seu uso em doces teve início por sua ação repelente que impede a invasão de formigas, motivo pelo qual é usado popularmente em açucareiros. Além disso, ele é usado na fabricação de medicamentos por suas propriedades antimicrobianas, antifúngicas, antivirais e anti-inflamatórias.</p><p class=\"apoio\">Seu óleo essencial é rico em eugenol, princípio ativo responsável pelas propriedades analgésicas e antissépticas, sendo bastante usado em odontologia. Fonte de matéria-prima para a fabricação de fragrâncias e aromatizantes, também foi usado anteriormente para sintetizar a vanilina (aroma artificial de baunilha).</p><p class=\"fonte\">&lt;https://tinyurl.com/nmm3dzrv&gt; Acesso em: 09.09.2024. Adaptado.</p><p>As imagens representam as estruturas do eugenol e da vanilina.</p>[[fig:1]]<p>Arroz doce, canjica, doce de abóbora… Muitos doces consumidos no Brasil levam cravo-da-índia em suas receitas.</p><p>Assinale a alternativa que apresenta, corretamente, a forma como esse ingrediente foi introduzido em nosso território.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q12.webp",
+          "alt": "Fórmulas estruturais lado a lado. Eugenol: anel benzênico com um grupo OH, um grupo O–CH₃ vizinho a ele e, do lado oposto, a cadeia CH₂–CH=CH₂; ao todo, C₁₀H₁₂O₂. Vanilina: o mesmo anel com OH e O–CH₃, mas no lugar da cadeia há um grupo aldeído, H–C=O; ao todo, C₈H₈O₃."
+        }
+      ],
+      "alternativas": {
+        "A": "O cravo-da-índia foi trazido pelos portugueses ao território brasileiro no processo das Grandes Navegações, que conectaram Europa, Ásia, África e América do Sul.",
+        "B": "As primeiras mudas de cravo-da-índia chegaram ao território do atual Brasil há cerca de 5 000 anos pela Amazônia, por meio de uma rede de trilhas incas chamada de “caminho do rei”.",
+        "C": "Os caçadores-coletores da cultura de Clóvis trouxeram o cravo-da-índia durante o processo de migração pelo Estreito de Bering, da Europa para a América do Norte, há cerca de 13 000 anos.",
+        "D": "As mulheres negras africanas trouxeram para o Brasil, além de um novo jeito de preparar a comida, alimentos tipicamente africanos, como o cravo-da-índia, a canela e o gengibre.",
+        "E": "O cravo-da-índia, especiaria típica do norte da Itália, foi introduzido na culinária brasileira durante o período da imigração italiana, ocorrida entre os anos de 1870 e 1930."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O cravo-da-índia é nativo das ilhas Molucas, na Ásia. Ele chegou ao Brasil com os <strong>portugueses</strong>, que controlavam a rota marítima das especiarias aberta pelas <strong>Grandes Navegações</strong>. Alternativa <strong>A</strong>.</p><p>A planta não é americana, então não poderia vir por trilhas incas (B) nem com os povos de Clóvis, que vieram da Ásia, e não da Europa (C). Não é africana (D). E não é típica da Itália (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "especiarias"
+      ]
+    },
+    {
+      "numero": 15,
+      "materia": "Química",
+      "assunto": "Substâncias e misturas",
+      "origem": {
+        "numeroOriginal": 15
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 12 a 15.</p><p class=\"apoio\">O cravo-da-índia é uma especiaria usada desde a Antiguidade. Seu comércio motivou inúmeras viagens de navegadores europeus para o continente Asiático. Essa especiaria já foi comercializada a preço de ouro e, até hoje, é utilizada na Medicina Ayurveda, na Medicina Chinesa e na fitoterapia ocidental.</p><p class=\"apoio\">O cravo-da-índia é amplamente utilizado na culinária como condimento no preparo de pratos e doces. Seu uso em doces teve início por sua ação repelente que impede a invasão de formigas, motivo pelo qual é usado popularmente em açucareiros. Além disso, ele é usado na fabricação de medicamentos por suas propriedades antimicrobianas, antifúngicas, antivirais e anti-inflamatórias.</p><p class=\"apoio\">Seu óleo essencial é rico em eugenol, princípio ativo responsável pelas propriedades analgésicas e antissépticas, sendo bastante usado em odontologia. Fonte de matéria-prima para a fabricação de fragrâncias e aromatizantes, também foi usado anteriormente para sintetizar a vanilina (aroma artificial de baunilha).</p><p class=\"fonte\">&lt;https://tinyurl.com/nmm3dzrv&gt; Acesso em: 09.09.2024. Adaptado.</p><p>As imagens representam as estruturas do eugenol e da vanilina.</p>[[fig:1]]<p>A obtenção do eugenol é relativamente simples e pode ser realizada no aparato experimental representado na figura.</p>[[fig:2]]<p class=\"fonte\">Fonte dos dados em: &lt;https://tinyurl.com/3pmnrh9b&gt; Adaptado. Acesso em: 09.09.2024.</p><p>O processo representado na figura é denominado</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q12.webp",
+          "alt": "Fórmulas estruturais lado a lado. Eugenol: anel benzênico com um grupo OH, um grupo O–CH₃ vizinho a ele e, do lado oposto, a cadeia CH₂–CH=CH₂; ao todo, C₁₀H₁₂O₂. Vanilina: o mesmo anel com OH e O–CH₃, mas no lugar da cadeia há um grupo aldeído, H–C=O; ao todo, C₈H₈O₃."
+        },
+        {
+          "src": "assets/img/etec-2025-1sem/q15.webp",
+          "alt": "Aparelho de destilação: um balão com cravo e água é aquecido por uma manta elétrica; o vapor sobe e passa por um tubo resfriado por água fria (condensador), que goteja o líquido condensado em um béquer, onde se forma uma emulsão."
+        }
+      ],
+      "alternativas": {
+        "A": "filtração.",
+        "B": "decantação.",
+        "C": "sublimação.",
+        "D": "destilação.",
+        "E": "floculação."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O balão aquece cravo e água, o vapor passa pelo condensador resfriado com água fria e volta ao estado líquido, que é recolhido no béquer. É uma <strong>destilação</strong> (por arraste de vapor). Alternativa <strong>D</strong>.</p><p>Filtração separa sólido de líquido com um filtro (A). Decantação usa a diferença de densidade, com a mistura em repouso (B). Sublimação é a passagem direta de sólido para gás (C). E floculação aglomera partículas com um produto químico (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "separação de misturas"
+      ]
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "assunto": "Análise combinatória",
+      "origem": {
+        "numeroOriginal": 16
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 16 e 17.</p><p class=\"apoio\">Em uma rede de supermercados de Madri, uma nova forma de paquera tem chamado a atenção: a “Hora do Flerte”. Entre 19 h e 20 h, solteiros circulam pelo supermercado sinalizando disponibilidade ao andar com um abacaxi virado para baixo dentro do carrinho. Caso encontre alguém interessante, basta bater no carrinho do “crush” e começar a conversar. Os solteiros se dividem em três faixas etárias, cada uma circulando por uma seção diferente do supermercado:</p><p class=\"apoio\">• pessoas entre 18 e 24 anos ficam no setor de congelados;</p><p class=\"apoio\">• pessoas entre 25 e 40 anos ficam na peixaria; e</p><p class=\"apoio\">• pessoas com mais de 40 anos ficam no corredor de vinhos.</p><p class=\"apoio\">A popularidade é tamanha que, segundo relatos em redes sociais, o abacaxi tem acabado em várias noites.</p><p class=\"fonte\">&lt;https://tinyurl.com/mt7ytbzd&gt; Acesso em: 09.09.2024. Adaptado.</p><p>Suponha que a rede de supermercados decida promover uma campanha de marketing para divulgar ainda mais essa nova forma de paquera. A campanha terá como chamariz uma sigla formada por 3 letras diferentes retiradas do nome da fruta utilizada para sinalizar disponibilidade.</p><p>Assinale a alternativa que apresenta corretamente o total de siglas que podem ser formadas.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "24",
+        "B": "35",
+        "C": "60",
+        "D": "98",
+        "E": "210"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A palavra ABACAXI tem 5 letras diferentes: A, B, C, X e I. Uma sigla de 3 letras diferentes depende da ordem (ABC é diferente de BCA), então é um arranjo: 5 · 4 · 3 = <strong>60</strong>. Alternativa <strong>C</strong>.</p><p>Contar as 7 letras da palavra, com as repetições, daria 7 · 6 · 5 = 210 (E). E 35 seria uma combinação de 7 letras tomadas 3 a 3, que ignora a ordem (B).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "arranjo"
+      ]
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "assunto": "Porcentagem",
+      "origem": {
+        "numeroOriginal": 17
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 16 e 17.</p><p class=\"apoio\">Em uma rede de supermercados de Madri, uma nova forma de paquera tem chamado a atenção: a “Hora do Flerte”. Entre 19 h e 20 h, solteiros circulam pelo supermercado sinalizando disponibilidade ao andar com um abacaxi virado para baixo dentro do carrinho. Caso encontre alguém interessante, basta bater no carrinho do “crush” e começar a conversar. Os solteiros se dividem em três faixas etárias, cada uma circulando por uma seção diferente do supermercado:</p><p class=\"apoio\">• pessoas entre 18 e 24 anos ficam no setor de congelados;</p><p class=\"apoio\">• pessoas entre 25 e 40 anos ficam na peixaria; e</p><p class=\"apoio\">• pessoas com mais de 40 anos ficam no corredor de vinhos.</p><p class=\"apoio\">A popularidade é tamanha que, segundo relatos em redes sociais, o abacaxi tem acabado em várias noites.</p><p class=\"fonte\">&lt;https://tinyurl.com/mt7ytbzd&gt; Acesso em: 09.09.2024. Adaptado.</p><p>Para além das prateleiras e corredores dos mercados, o amor virtual também está em alta. Um dos aplicativos de namoro mais populares do mundo divulgou que tem cerca de 80 milhões de usuários, dos quais 75 % são homens.</p><p>A tabela apresenta, por faixas etárias, qual é a porcentagem de usuários que usam esse aplicativo de namoro.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Faixa etária</th><th scope=\"col\">Usuários (%)</th></tr></thead><tbody><tr><td>18 – 24</td><td>38</td></tr><tr><td>25 – 34</td><td>45</td></tr><tr><td>35 – 44</td><td>13</td></tr><tr><td>45 – 54</td><td>3</td></tr><tr><td>55 – 64</td><td>1</td></tr></tbody></table></div><p class=\"fonte\">Fonte dos dados em: &lt;https://tinyurl.com/3pmnrh9b&gt; Adaptado. Acesso em: 09.09.2024.</p><p>Suponha que os frequentadores da “Hora do Flerte” sigam o mesmo padrão percentual daqueles que utilizam o aplicativo de namoro referido no texto.</p><p>Logo, se for constatado que existe um total de 200 pessoas na rede de supermercados participando dessa nova forma de paquera, o número de homens, no setor de congelados, é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "19.",
+        "B": "57.",
+        "C": "93.",
+        "D": "107.",
+        "E": "143."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Dos 200 participantes, 75 % são homens: 0,75 · 200 = 150. O setor de congelados recebe a faixa de 18 a 24 anos, que corresponde a 38 % dos usuários: 0,38 · 150 = <strong>57</strong>. Alternativa <strong>B</strong>.</p><p>Aplicar 38 % sobre as 200 pessoas daria 76, mas aí entrariam também as mulheres. Os outros valores não correspondem à combinação dos dois percentuais.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 18,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 18
+      },
+      "enunciado": "<p class=\"apoio\">Uma pesquisa permitiu a identificação de algumas espécies de plantas domésticas muito populares em diversos países do mundo, por exemplo:</p><p class=\"apoio\">• na América do Sul, a planta doméstica mais popular foi a <em>Passiflora caerulea</em> (maracujá-azul). Essa planta se caracteriza por ser uma espécie de trepadeira, com folhas verde-escuras e flores de pétalas brancas, além de possuir filamentos roxos e azuis. Seus frutos possuem casca laranja, polpa comestível avermelhada e numerosas sementes.</p><p class=\"apoio\">• na América do Norte, a planta doméstica mais popular foi a <em>Monstera deliciosa</em> (costela-de-adão). Essa planta possui grandes folhas verdes em forma de coração, com recortes profundos formando furos. Ela também produz flores; suas sementes ficam no interior de frutos suculentos e comestíveis, cujo sabor lembra uma mistura de abacaxi com banana.</p><p class=\"fonte\">&lt;https://tinyurl.com/2e7j9f83&gt; Acesso em: 11.07.2024. Adaptado.</p><p>Assinale a alternativa que associa corretamente o grupo vegetal, ao qual pertencem as plantas domésticas descritas no enunciado, às suas respectivas características.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Grupo vegetal: Pteridófitas; Vasos condutores: Não; Folhas: Não; Flores: Sim; Frutos comestíveis: Sim; Sementes no interior dos frutos: Não.",
+        "B": "Grupo vegetal: Gimnospermas; Vasos condutores: Sim; Folhas: Sim; Flores: Não; Frutos comestíveis: Sim; Sementes no interior dos frutos: Sim.",
+        "C": "Grupo vegetal: Angiospermas; Vasos condutores: Sim; Folhas: Sim; Flores: Sim; Frutos comestíveis: Sim; Sementes no interior dos frutos: Sim.",
+        "D": "Grupo vegetal: Gimnospermas; Vasos condutores: Não; Folhas: Sim; Flores: Sim; Frutos comestíveis: Não; Sementes no interior dos frutos: Sim.",
+        "E": "Grupo vegetal: Angiospermas; Vasos condutores: Não; Folhas: Sim; Flores: Não; Frutos comestíveis: Não; Sementes no interior dos frutos: Sim."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>As duas plantas têm flores e frutos com sementes dentro: são <strong>angiospermas</strong>. Como toda angiosperma, também têm vasos condutores e folhas. A linha com “Sim” em todas as colunas é a da alternativa <strong>C</strong>.</p><p>Pteridófitas não têm flores, frutos nem sementes (A). Gimnospermas não têm flores verdadeiras nem frutos, e têm vasos condutores (B e D). E a linha E nega os vasos, as flores e os frutos, que o texto descreve.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "angiospermas"
+      ]
+    },
+    {
+      "numero": 19,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 19
+      },
+      "enunciado": "<p>As plantas purificam o ar, pois por absorverem a luz graças à presença de clorofila, realizam o processo da fotossíntese. Este processo transforma o dióxido de carbono e a água em glicose e oxigênio, o qual é liberado para o ambiente. Dessa forma, elas renovam o ar necessário ao processo de respiração.</p><p>Sobre os dois processos mencionados, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "ambos atuam na transformação de dióxido de carbono e água em glicose e oxigênio.",
+        "B": "ambos dependem da presença de clorofila para absorver a energia luminosa.",
+        "C": "apenas a fotossíntese ocorre tanto na presença como na ausência de luz.",
+        "D": "apenas a respiração ocorre tanto na presença como na ausência de luz.",
+        "E": "apenas a respiração transforma o dióxido de carbono em glicose."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A fotossíntese depende de luz. A respiração, que libera a energia da glicose, acontece o tempo todo nas células da planta, <strong>com ou sem luz</strong>. Alternativa <strong>D</strong>.</p><p>Só a fotossíntese transforma gás carbônico e água em glicose e oxigênio; a respiração faz o inverso (A e E). A respiração não depende de clorofila (B). E a fotossíntese não ocorre no escuro (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fotossíntese",
+        "respiração celular"
+      ]
+    },
+    {
+      "numero": 20,
+      "materia": "Química",
+      "assunto": "Substâncias e misturas",
+      "origem": {
+        "numeroOriginal": 20
+      },
+      "enunciado": "<p>Analise a imagem que representa o processo da fotossíntese.</p>[[fig:1]]<p>Sobre esse processo, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q20.webp",
+          "alt": "Esquema da fotossíntese: o Sol ilumina uma folha; setas mostram a entrada de CO₂ do ar e de H₂O pelo caule, a saída de O₂ e a formação de C₆H₁₂O₆ na folha. Abaixo, a equação 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂."
+        }
+      ],
+      "alternativas": {
+        "A": "temos apenas uma substância simples.",
+        "B": "temos apenas uma substância composta.",
+        "C": "a água é produto da reação.",
+        "D": "o gás carbônico é liberado.",
+        "E": "ocorre com liberação de energia."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Na equação 6CO<sub>2</sub> + 6H<sub>2</sub>O → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub>, só o O<sub>2</sub> é formado por um único elemento. Há <strong>apenas uma substância simples</strong>. Alternativa <strong>A</strong>.</p><p>Há três substâncias compostas: CO<sub>2</sub>, H<sub>2</sub>O e glicose (B). A água é reagente, não produto (C). O gás carbônico é consumido, e quem é liberado é o oxigênio (D). E a fotossíntese absorve energia luminosa em vez de liberá-la (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fotossíntese"
+      ]
+    },
+    {
+      "numero": 21,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 21
+      },
+      "enunciado": "<p>Um grupo de cientistas está estudando como diferentes condições de luz afetam o crescimento de plantas. Para isso, eles dividem as plantas em três grupos e as expõem às seguintes condições de iluminação:</p><p>• grupo I – exposto à luz branca (composta por todas as cores do espectro visível);</p><p>• grupo II – exposto apenas à luz monocromática verde; e</p><p>• grupo III – mantido no escuro, sem nenhuma luz.</p><p>Após algumas semanas, os cientistas avaliam o crescimento das plantas. O maior crescimento ocorrerá no grupo</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "III, porque a ausência de luz reduz o estresse nas plantas, permitindo um crescimento mais saudável.",
+        "B": "II, porque a luz verde é a mais eficiente para ser absorvida pelas folhas e alcançar os cloroplastos, estimulando o crescimento.",
+        "C": "I, porque a luz branca é composta de todas as cores presentes no espectro visível, o que estimula a fotossíntese e acelera o crescimento.",
+        "D": "I, porque a luz branca está na mesma faixa de frequência que a luz ultravioleta, essencial para que ocorra a fotossíntese.",
+        "E": "II, porque a luz verde é mais eficiente para estimular a floração, o que induz o maior crescimento desse grupo."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A clorofila absorve bem a luz azul e a vermelha, que fazem parte da luz branca. Com todas as cores do espectro visível, o <strong>grupo I</strong> faz mais fotossíntese e cresce mais. Alternativa <strong>C</strong>.</p><p>Sem luz não há fotossíntese (A). A luz verde é quase toda refletida pelas folhas, por isso elas parecem verdes, e é a menos aproveitada (B e E). E a luz branca não está na faixa do ultravioleta (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fotossíntese",
+        "luz"
+      ]
+    },
+    {
+      "numero": 22,
+      "materia": "Geografia",
+      "assunto": "Biomas",
+      "origem": {
+        "numeroOriginal": 22
+      },
+      "enunciado": "<p class=\"apoio\">Embora pouco conhecidos, os frutos da Caatinga – como o umbuzeiro, o juazeiro, o mandacaru, o cajueiro e o jenipapo – possuem não só uma abundância de sabores e cores, mas também servem de alimento tanto para os seres humanos como para os animais.</p><p class=\"fonte\">&lt;https://tinyurl.com/4k97dp87&gt; Acesso em: 16.07.2024. Adaptado.</p><p>O bioma citado se caracteriza por possuir formação vegetal</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "homogênea, adaptada a uma estação seca e outra úmida, com predomínio de palmáceas, caracterizadas por galhos retorcidos e folhas cobertas por pelos e com raízes rasas, devido à proximidade com o lençol freático.",
+        "B": "heterogênea, densa, com árvores altas e copas largas, onde se encontra uma enorme biodiversidade vegetal, pois a umidade constante e o calor são condições ideais para a proliferação de grande variedade de espécies.",
+        "C": "heterogênea, associada ao clima semiárido, com a presença de vegetais com folhas atrofiadas, caules grossos e raízes profundas, adaptadas para suportar os longos períodos de estiagem.",
+        "D": "homogênea, densa e exuberante, com árvores de grande porte, associadas a formações campestres compostas basicamente por gramíneas com vegetação arbustiva esparsa.",
+        "E": "homogênea, com predomínio de coníferas com árvores muito altas, capazes de suportar baixas temperaturas, apresentando poucos estratos e ausência de vegetação rasteira."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A Caatinga tem vegetação <strong>heterogênea</strong>, adaptada ao <strong>clima semiárido</strong>: folhas pequenas ou transformadas em espinhos, caules que armazenam água e raízes profundas para suportar a estiagem. Alternativa <strong>C</strong>.</p><p>A descreve uma mistura de Cerrado e Mata dos Cocais. B descreve a Floresta Amazônica. D mistura floresta e campos. E descreve a Mata de Araucárias ou a taiga.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Caatinga"
+      ]
+    },
+    {
+      "numero": 23,
+      "materia": "Física",
+      "assunto": "Termologia",
+      "origem": {
+        "numeroOriginal": 23
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 23 e 24.</p><p class=\"apoio\">Conhecida como a Cidade da Primavera Eterna, Medellín costuma atrair turistas por todo o ano, mas o aumento da urbanização expôs a cidade ao efeito de Ilha de Calor das áreas urbanas, que causa a absorção e a retenção do calor pelas ruas e construções da cidade. Em 2016, Medellín deu início ao seu programa de “corredores verdes” devido às preocupações com a poluição do ar e o aumento do calor. Os corredores verdes mostraram-se claramente eficientes para reverter este impacto. A temperatura caiu em 2 °C por toda a cidade, segundo dados da prefeitura local.</p><p class=\"fonte\">&lt;https://tinyurl.com/bdeprd3t&gt; Acesso em: 07.09.2024. Adaptado.</p><p>A solução, apontada no texto, foi adotada para minimizar um fenômeno climático que ocorre devido à transmissão de calor por meio da</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "irradiação, uma vez que o material utilizado na construção das cidades absorve a radiação solar e irradia esse calor para o ambiente.",
+        "B": "irradiação, já que os prédios das cidades dificultam a movimentação das nuvens e, dessa forma, impedem a ocorrência de chuvas.",
+        "C": "condução, porque veículos, como ônibus e motos, transportam o calor para dentro dos grandes centros urbanos.",
+        "D": "condução, dado que o material utilizado na construção das cidades conduz o calor gerado nas residências para o meio exterior.",
+        "E": "convecção, pois o calor gerado pelos metrôs, no subterrâneo das grandes cidades, esquenta o ambiente e se transmite para o solo."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Na ilha de calor, asfalto e concreto absorvem a radiação solar durante o dia e <strong>irradiam</strong> esse calor para o ambiente, inclusive à noite. Alternativa <strong>A</strong>.</p><p>Os prédios não impedem a movimentação das nuvens nem as chuvas (B). Veículos não “transportam” calor por condução (C). O fenômeno não vem do calor das residências conduzido para fora (D). E o calor do metrô não explica a ilha de calor (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ilha de calor",
+        "propagação do calor"
+      ]
+    },
+    {
+      "numero": 24,
+      "materia": "Geografia",
+      "assunto": "Clima",
+      "origem": {
+        "numeroOriginal": 24
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 23 e 24.</p><p class=\"apoio\">Conhecida como a Cidade da Primavera Eterna, Medellín costuma atrair turistas por todo o ano, mas o aumento da urbanização expôs a cidade ao efeito de Ilha de Calor das áreas urbanas, que causa a absorção e a retenção do calor pelas ruas e construções da cidade. Em 2016, Medellín deu início ao seu programa de “corredores verdes” devido às preocupações com a poluição do ar e o aumento do calor. Os corredores verdes mostraram-se claramente eficientes para reverter este impacto. A temperatura caiu em 2 °C por toda a cidade, segundo dados da prefeitura local.</p><p class=\"fonte\">&lt;https://tinyurl.com/bdeprd3t&gt; Acesso em: 07.09.2024. Adaptado.</p><p>Os corredores verdes, abordados no texto, contribuem para a mudança no microclima de Medellín porque as árvores</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "aumentam a quantidade de oxigênio na atmosfera do local a ponto de modificar o clima regional.",
+        "B": "absorvem parte da radiação solar, diminuindo o aquecimento do solo e das construções ao redor.",
+        "C": "absorvem todo o gás carbônico na atmosfera local, eliminando completamente a poluição do ar.",
+        "D": "realizam o processo de fotossíntese, que cria uma barreira para a absorção da energia proveniente do sol.",
+        "E": "funcionam como barreiras físicas contra o vento, impedindo que as brisas quentes entrem na cidade."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>As copas das árvores fazem sombra, <strong>absorvem parte da radiação solar</strong> e liberam vapor de água pela transpiração. Assim, o solo e as construções esquentam menos. Alternativa <strong>B</strong>.</p><p>O oxigênio liberado não muda o clima (A). As árvores não absorvem todo o gás carbônico nem eliminam a poluição (C). A fotossíntese não cria uma barreira para a energia do Sol (D). E não há brisas quentes sendo bloqueadas (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ilha de calor",
+        "áreas verdes"
+      ]
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "assunto": "Geometria espacial",
+      "origem": {
+        "numeroOriginal": 25
+      },
+      "enunciado": "<p class=\"chamada\">Leia os textos para responder às questões 25 e 26.</p><p class=\"apoio\">A utilização de dormentes de madeira em ferrovias garante a fixação e o alinhamento dos trilhos. Eles podem ser de tipos variados: roliços, semi-roliços, de duas faces e prismáticos.</p><p class=\"apoio\">Um dormente prismático, por exemplo, mede 2 metros de comprimento, 0,24 metros de largura, 0,16 metros de altura e tem o formato de um paralelepípedo retorretângulo, conforme imagem.</p><p class=\"apoio\">Em ferrovias brasileiras, são usados, normalmente, 1600 dormentes por quilômetro.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/3wxpuvrx&gt; Acesso em: 09.09.2024. Adaptado.</p><p>Suponha que, em uma região do Brasil, será construída uma linha férrea de 2 km usando apenas dormentes prismáticos.</p><p>Logo, o volume total de madeira, em metros cúbicos, necessária para os dormentes utilizados na construção dessa linha é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q25.webp",
+          "alt": "Ilustração de um dormente de madeira em forma de paralelepípedo, com 2 m de comprimento, 0,24 m de largura e 0,16 m de altura, e de um trilho de aço. Setas ligam os dois a uma foto de trecho de ferrovia, em que os trilhos estão presos sobre dormentes alinhados lado a lado, em meio a pedras."
+        }
+      ],
+      "alternativas": {
+        "A": "76,80.",
+        "B": "122,88.",
+        "C": "168,92.",
+        "D": "245,76.",
+        "E": "368,64."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O volume de um dormente é 2 · 0,24 · 0,16 = 0,0768 m³. Em 2 km são 2 · 1 600 = 3 200 dormentes. Volume total: 3 200 · 0,0768 = <strong>245,76 m³</strong>. Alternativa <strong>D</strong>.</p><p>Contar só 1 km dá 122,88 (B). Os outros valores vêm de erros na multiplicação das medidas.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 26
+      },
+      "enunciado": "<p class=\"chamada\">Leia os textos para responder às questões 25 e 26.</p><p class=\"apoio\">A utilização de dormentes de madeira em ferrovias garante a fixação e o alinhamento dos trilhos. Eles podem ser de tipos variados: roliços, semi-roliços, de duas faces e prismáticos.</p><p class=\"apoio\">Um dormente prismático, por exemplo, mede 2 metros de comprimento, 0,24 metros de largura, 0,16 metros de altura e tem o formato de um paralelepípedo retorretângulo, conforme imagem.</p><p class=\"apoio\">Em ferrovias brasileiras, são usados, normalmente, 1600 dormentes por quilômetro.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/3wxpuvrx&gt; Acesso em: 09.09.2024. Adaptado.</p><p>Suponha que, na construção de um trecho de 1 km de ferrovia no Brasil, uma empresa distribuiu os dormentes de forma que:</p><p>• 25 % sejam do tipo roliço;</p><p>• 30 % sejam do tipo semi-roliço;</p><p>• 35 % sejam do tipo de duas faces;</p><p>• e o restante sejam do tipo prismático.</p><p>Diante dessas condições, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q25.webp",
+          "alt": "Ilustração de um dormente de madeira em forma de paralelepípedo, com 2 m de comprimento, 0,24 m de largura e 0,16 m de altura, e de um trilho de aço. Setas ligam os dois a uma foto de trecho de ferrovia, em que os trilhos estão presos sobre dormentes alinhados lado a lado, em meio a pedras."
+        }
+      ],
+      "alternativas": {
+        "A": "a razão entre a quantidade de dormentes do tipo roliço e do tipo prismático, nessa ordem, é igual a \\(\\dfrac{2}{1}\\).",
+        "B": "a soma das porcentagens dos dormentes semi-roliços e prismáticos é igual a 35 %.",
+        "C": "300 metros da ferrovia serão compostos por dormentes do tipo prismático.",
+        "D": "a diferença percentual entre os dormentes de duas faces e prismáticos é de 5 %.",
+        "E": "a razão entre a quantidade de dormentes do tipo de duas faces e do tipo semi-roliço, nessa ordem, é igual a \\(\\dfrac{7}{6}\\)."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Os prismáticos são 100 − 25 − 30 − 35 = 10 %. A razão entre os de duas faces e os semi-roliços é 35 : 30 = <strong>7/6</strong>. Alternativa <strong>E</strong>.</p><p>Roliços para prismáticos dá 25 : 10 = 5/2 (A). Semi-roliços mais prismáticos dão 40 % (B). Os dormentes ficam espalhados por toda a ferrovia, e 10 % de 1 km seriam 100 m, não 300 (C). E a diferença entre duas faces e prismáticos é de 25 pontos percentuais (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "porcentagem"
+      ]
+    },
+    {
+      "numero": 27,
+      "materia": "História",
+      "assunto": "Idade Média",
+      "origem": {
+        "numeroOriginal": 27
+      },
+      "enunciado": "<p class=\"apoio\">Para a população camponesa da Idade Média, as mulheres reconhecidas como “bruxas” eram membros fundamentais da comunidade. Elas eram normalmente mais velhas, acumulavam anos de experiência e dominavam os saberes necessários para lidar com a vida e a morte: as plantas que curavam doenças, que auxiliavam os partos ou que causavam alívio no processo de falecimento. Como define o historiador francês Jules Michelet (1798 –1874): “a elas se pedia a vida, a morte, remédios, venenos”.</p><p class=\"fonte\">&lt;https://tinyurl.com/5ex6vdfd&gt; Acesso em: 04.09.2024. Adaptado.</p><p>Durante dez séculos, a Igreja Católica tolerou práticas consideradas pagãs em toda a Europa. Porém, entre o final do século XIV e a primeira metade do século XV, passou a reprimir tudo o que contrariasse os dogmas cristãos.</p><p>Esse período foi caracterizado pela</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "consolidação do Iluminismo, movimento intelectual cristão que valorizava a razão, considerada a única forma de garantir o progresso da humanidade, em detrimento da fé e do poder dos reis.",
+        "B": "intensificação dos fluxos de capitais, mercadorias, pessoas e informações, devido ao avanço técnico na comunicação e nos transportes, o que consolidou o poder político dos papas.",
+        "C": "atuação da Inquisição na investigação e na repressão de práticas contrárias ao catolicismo, bem como na perseguição das “bruxas”, mulheres vistas como agentes do demônio na Terra.",
+        "D": "proclamação das Repúblicas europeias e o início de um período em que todas as crenças religiosas, à exceção do cristianismo, foram consideradas primitivas e atrasadas.",
+        "E": "substituição do trabalho humano por máquinas a vapor, que condenou as mulheres à vida privada e ao trabalho doméstico, excluindo-as da vida social."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Entre o fim da Idade Média e o início da Idade Moderna, a Igreja intensificou a repressão a práticas consideradas heréticas. A <strong>Inquisição</strong> investigou e perseguiu as chamadas “bruxas”, vistas como agentes do demônio. Alternativa <strong>C</strong>.</p><p>O Iluminismo é do século XVIII e criticava a Igreja (A). A intensificação de fluxos por avanços técnicos descreve a globalização atual (B). As repúblicas europeias são bem posteriores (D). E as máquinas a vapor surgiram na Revolução Industrial, no século XVIII (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Inquisição"
+      ]
+    },
+    {
+      "numero": 28,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 28
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 28 e 29.</p><p class=\"apoio\">O Instituto Nacional de Pesquisas Espaciais (INPE) registrou cerca de 160 mil focos de incêndio de janeiro até setembro de 2024, um aumento de 100 % em relação ao mesmo período de 2023, que deixaram 60 % do país sob fumaça. A seca prolongada no Brasil, aliada a incêndios por todo o país, provocou uma onda de clima seco severo por todo o território brasileiro.</p><p class=\"apoio\">Na cidade de São Paulo, que já apresenta tempo seco no inverno, foi registrada a pior qualidade de ar do mundo em setembro, levando a um aumento do aparecimento de problemas do sistema respiratório, como rinite e sinusite.</p><p class=\"apoio\">Em consequência do atual cenário, é importante tomar medidas para se proteger e evitar que o corpo humano possa ser impactado negativamente.</p><p class=\"fonte\">&lt;https://tinyurl.com/9muukanr&gt; Acesso em: 11.09.2024. Adaptado.</p><p>Assinale a alternativa em que a ação enunciada amenize a vivência no cenário descrito no texto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Usar umidificador de ar ou uma bacia com água no ambiente, pois tornam o ambiente mais seco, colaborando com o ressecamento da mucosa respiratória.",
+        "B": "Não beber muita água para evitar a transpiração, bem como fazer refeições leves, pois não se perde minerais no suor. E não fazer exercícios físicos entre 10 e 16 horas.",
+        "C": "Manter ambientes fechados, pois isso ajuda a fazer o ar circular, aumentando a ação de ácaros, amigos da saúde respiratória, principalmente de quem já tem predisposição de alguma alergia.",
+        "D": "Evitar lavar cobertores e casacos, que estavam guardados no armário antes do inverno, para favorecer o desenvolvimento de fungos e mofos, benéficos ao sistema respiratório.",
+        "E": "Cuidar, especialmente de crianças e idosos, que são os mais afetados pela baixa umidade do ar, incentivando a ingestão de bastante água, além de sucos naturais."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Com o ar seco e a fumaça, é preciso cuidar sobretudo de <strong>crianças e idosos</strong>, mais vulneráveis, e incentivar a <strong>ingestão de água</strong> e de sucos naturais para manter o corpo hidratado. Alternativa <strong>E</strong>.</p><p>Umidificadores deixam o ambiente mais úmido, não mais seco (A). Beber pouca água piora a desidratação (B). Ambientes fechados acumulam ácaros, que pioram as alergias (C). E fungos e mofo fazem mal ao sistema respiratório (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "baixa umidade do ar"
+      ]
+    },
+    {
+      "numero": 29,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 29
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 28 e 29.</p><p class=\"apoio\">O Instituto Nacional de Pesquisas Espaciais (INPE) registrou cerca de 160 mil focos de incêndio de janeiro até setembro de 2024, um aumento de 100 % em relação ao mesmo período de 2023, que deixaram 60 % do país sob fumaça. A seca prolongada no Brasil, aliada a incêndios por todo o país, provocou uma onda de clima seco severo por todo o território brasileiro.</p><p class=\"apoio\">Na cidade de São Paulo, que já apresenta tempo seco no inverno, foi registrada a pior qualidade de ar do mundo em setembro, levando a um aumento do aparecimento de problemas do sistema respiratório, como rinite e sinusite.</p><p class=\"apoio\">Em consequência do atual cenário, é importante tomar medidas para se proteger e evitar que o corpo humano possa ser impactado negativamente.</p><p class=\"fonte\">&lt;https://tinyurl.com/9muukanr&gt; Acesso em: 11.09.2024. Adaptado.</p><p>Intervenções governamentais que poderiam contribuir com a melhora do problema apontado são</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a construção de novas rodovias próximas às áreas de maior incidência de incêndios e a liberação de queimadas em áreas de proteção ambiental.",
+        "B": "a redução da fiscalização para queimadas ilegais e a criação de incentivos fiscais para a expansão de pastagens em áreas de floresta.",
+        "C": "o estímulo ao desmatamento como forma de aumentar a área cultivável e o aumento da exportação de produtos agrícolas.",
+        "D": "a criação de programas de divulgação que abordem a educação ambiental e o incentivo a práticas agrícolas sustentáveis.",
+        "E": "o incentivo ao uso de queimadas como método de limpeza de terrenos e a liberação de agrotóxicos mais potentes para combater pragas nas plantações."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Contra queimadas e incêndios, ajudam a <strong>educação ambiental</strong> e o incentivo a <strong>práticas agrícolas sustentáveis</strong>, que dispensam o fogo para limpar terrenos. Alternativa <strong>D</strong>.</p><p>As outras alternativas propõem ações que aumentariam os incêndios: liberar queimadas, reduzir a fiscalização, estimular o desmatamento e usar o fogo como limpeza (A, B, C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "queimadas"
+      ]
+    },
+    {
+      "numero": 30,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 30
+      },
+      "enunciado": "<p class=\"apoio\">Pamela Isley, conhecida como Hera Venenosa, é uma personagem da DC Comics obcecada por ambientalismo, ecologia, botânica e plantas, chegando até mesmo a praticar ativismo terrorista em defesa do meio ambiente. Em uma de suas histórias, ao falar sobre o processo de cultivo de agave — planta com a qual se faz a tequila — ela aponta que, apesar de esse cultivo ter degradado cada vez mais terras no México, isso não impede que vegetarianos, muitas vezes defensores de causas ambientais, comprem o xarope feito a partir dessa planta para uso medicinal.</p><p class=\"fonte\">&lt;https://tinyurl.com/5fe86vt6&gt; Acesso em: 09.09.2021. Adaptado.</p><p>Imagine que você é um(a) consultor(a) de sustentabilidade. Sua missão é ajudar a Hera Venenosa a fazer escolhas que sejam verdadeiramente sustentáveis e não violentas, considerando não só o meio ambiente, mas também as implicações sociais e éticas dessas escolhas.</p><p>Com base nisso, assinale, dentre as alternativas, aquela que seria a melhor orientação para dar a Hera Venenosa.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Orientar que ela adote uma abordagem na qual todas as suas ações considerem o equilíbrio entre a preservação do meio ambiente e o bem-estar humano, escolhendo cuidadosamente suas batalhas para minimizar impactos negativos.",
+        "B": "Incentivar o uso de plantas exóticas ou transgênicas que crescem rapidamente, sem avaliar os efeitos que isso pode ter nos ecossistemas locais.",
+        "C": "Sugerir que ela continue usando métodos agressivos de ativismo para proteger a natureza, mesmo que isso possa prejudicar comunidades humanas.",
+        "D": "Optar por ações que suscitem a diminuição do consumo de produtos de origem animal, uma vez que não é necessário pensar como os produtos vegetais são cultivados e processados, pois eles não causam efeitos negativos como o desmatamento.",
+        "E": "Propor que ela concentre seus esforços em promover o uso de alimentos ultraprocessados, visto que não dependem de recursos naturais para serem produzidos e, por isso, auxiliam na preservação de plantas e na diminuição da poluição do meio ambiente."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A missão pede escolhas sustentáveis e não violentas, que considerem o meio ambiente e também as implicações sociais e éticas. A melhor orientação é buscar o <strong>equilíbrio entre preservação ambiental e bem-estar humano</strong>, minimizando impactos negativos. Alternativa <strong>A</strong>.</p><p>Usar plantas exóticas sem avaliar os efeitos ameaça os ecossistemas (B). Ativismo agressivo prejudica pessoas e não é “não violento” (C). O cultivo de vegetais também pode causar desmatamento, como mostra o caso do agave (D). E alimentos ultraprocessados dependem, sim, de recursos naturais (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sustentabilidade"
+      ]
+    },
+    {
+      "numero": 31,
+      "materia": "Matemática",
+      "assunto": "Funções",
+      "origem": {
+        "numeroOriginal": 31
+      },
+      "enunciado": "<p>Durante o Renascimento, houve um aumento de interesse por plantas medicinais. Desse período, data o primeiro uso medicinal da dedaleira, da qual, hoje, é obtido um fitofármaco conhecido como digoxina, usado no tratamento de insuficiência cardíaca.</p><p>Suponha que, nesse período histórico, a eficácia do tratamento com dedaleira, em função das semanas de tratamento, pudesse ser estimada pela expressão matemática</p><p>\\[E(t) = -2t^2 + 15t + 9\\]</p><p>em que,</p><p>• <strong>E(t)</strong> é a eficácia do tratamento, em porcentagem; e</p><p>• <strong>t</strong> é o tempo, em semanas, desde o início do tratamento (t ≥ 0).</p><p>Assinale a alternativa na qual é apontada a eficácia do tratamento após 6 semanas.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "11 %",
+        "B": "27 %",
+        "C": "43 %",
+        "D": "59 %",
+        "E": "75 %"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Basta substituir t = 6: E(6) = −2 · 36 + 15 · 6 + 9 = −72 + 90 + 9 = <strong>27 %</strong>. Alternativa <strong>B</strong>.</p><p>Um erro comum é calcular −2 · 6² como +72, o que daria 171, fora das alternativas. Ou esquecer o termo 9, o que daria 18.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "função do 2º grau"
+      ]
+    },
+    {
+      "numero": 32,
+      "materia": "Geografia",
+      "assunto": "Agropecuária",
+      "origem": {
+        "numeroOriginal": 32
+      },
+      "enunciado": "<p class=\"apoio\">No estado de Santa Catarina, em algumas escolas rurais, funciona o projeto Casa Familiar Rural, promovido pela Secretaria de Estado da Educação em parceria com a Associação das Casas Familiares Rurais. Essas escolas recebem principalmente filhos de agricultores que terminaram o Ensino Fundamental II e irão cursar o Ensino Médio com Qualificação Técnica em Agricultura. Esses jovens passam uma semana em aula na escola e a outra no sítio da família, aplicando o que aprenderam. A primeira Casa Familiar Rural foi criada em 1937, na França. A implantação desse modelo foi ideia de algumas famílias de agricultores que queriam para os filhos, além da educação formal, um ensino profissionalizante. Em um determinado dia, a primeira aula é de História, sobre o processo de independência do Brasil. A segunda é o dimensionamento de piquetes (área cercada para pastagem animal), depois da qual, na aula de matemática, com os números coletados na aula prática, são feitos cálculos que serão usados no dia a dia da propriedade. Assim, os alunos vão tomando gosto pelos assuntos da terra.</p><p class=\"fonte\">&lt;https://tinyurl.com/yr78xucm&gt; Acesso em: 16.07.2024. Adaptado.</p><p>Com base no texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "as aulas são ministradas nas propriedades rurais das famílias dos alunos para evitar o desperdício de dinheiro público na construção de escolas.",
+        "B": "as escolas, como a Casa Familiar Rural, apesar de ensinar os filhos de agricultores a plantar e a tratar de animais, não são reconhecidas pelo governo brasileiro.",
+        "C": "o modelo educacional Casa Familiar Rural foi criado para ser aplicado na França, inviabilizando sua implantação no Brasil, que não detém tecnologias agrícolas avançadas.",
+        "D": "o ensino profissionalizante implantado pelas escolas rurais impede seus estudantes de ingressarem em um curso de nível superior pela ausência de disciplinas obrigatórias.",
+        "E": "os estudantes, além de adquirir competências e habilidades comuns a qualquer escola brasileira, também adquirem conhecimentos relacionados ao seu dia a dia no campo."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O texto mostra que os alunos estudam as disciplinas comuns, como História e Matemática, e aplicam na propriedade da família o que aprendem. Eles <strong>adquirem as competências de qualquer escola e também conhecimentos do dia a dia no campo</strong>. Alternativa <strong>E</strong>.</p><p>Há aulas na escola em semanas alternadas (A). O projeto é promovido pela Secretaria de Estado da Educação (B). O modelo francês foi implantado no Brasil (C). E o curso é de Ensino Médio, que permite ingressar no Ensino Superior (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "educação no campo"
+      ]
+    },
+    {
+      "numero": 33,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 33
+      },
+      "enunciado": "<p class=\"apoio\">Francisco Alves Mendes Filho, mais conhecido como Chico Mendes, foi um profissional seringueiro. Morava na cidade de Xapuri, interior do Acre. Ele era um ativista que lutava pela conservação do meio ambiente e defendia uma reforma agrária que tornasse a distribuição de terras mais igualitária. Além disso, era, também, fundador de reservas extrativistas não predatórias em seu estado. Com seu ativismo em prol da defesa do meio ambiente, começou a criar inimigos em seu entorno. Em 1988, recebeu diversas ameaças de morte, mas não parou de lutar por aquilo que acreditava. Em 22 de dezembro daquele ano, Chico Mendes foi assassinado na cozinha de sua casa.</p><p class=\"fonte\">&lt;https://tinyurl.com/5c7ud4hr&gt; Acesso em: 16.07.2024. Adaptado.</p><p>Uma das principais atividades inerentes à profissão de Chico Mendes é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "distribuir terras na floresta para projetos de plantação de soja e para a pecuária leiteira.",
+        "B": "derrubar as seringueiras, que são árvores exóticas, para a implantação de reservas extrativistas.",
+        "C": "talhar a seringueira para extrair e recolher o látex, que é a matéria-prima da borracha natural.",
+        "D": "demarcar as terras indígenas para serem utilizadas, posteriormente, em projetos de reforma agrária.",
+        "E": "organizar sindicatos que permitam o desmatamento da floresta para fomentar o processo de industrialização da região."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O seringueiro faz cortes no tronco da seringueira (a sangria) para <strong>extrair o látex</strong>, a matéria-prima da borracha natural. Alternativa <strong>C</strong>.</p><p>Chico Mendes lutava contra o desmatamento, a soja e a pecuária na floresta (A e E). A seringueira é nativa da Amazônia, e derrubá-la contraria a atividade (B). E demarcar terras indígenas não é atividade do seringueiro (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Chico Mendes",
+        "extrativismo"
+      ]
+    },
+    {
+      "numero": 34,
+      "materia": "História",
+      "assunto": "Brasil Colônia",
+      "origem": {
+        "numeroOriginal": 34
+      },
+      "enunciado": "<p>A partir do século XVI, a Bacia Amazônica se configurou um cenário de disputas territoriais entre alguns países europeus, que se digladiaram pelo domínio da região a fim de se apropriar dos ricos e variados recursos naturais ali existentes. A vitória ficou com a Coroa Portuguesa, que intensificou o processo de ocupação territorial e exploração das chamadas “drogas do sertão”, produtos da atividade extrativista de alto valor econômico na época.</p><p>Essas drogas eram</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "entorpecentes sintéticos vendidos para os Estados Unidos.",
+        "B": "produtos pecuários utilizados pela população indígena.",
+        "C": "artefatos semi-industrializados consumidos no Brasil.",
+        "D": "insumos agrícolas comercializados com o povo Maia.",
+        "E": "especiarias exportadas para o mercado europeu."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>As “drogas do sertão” eram produtos da floresta amazônica, como cacau, cravo, canela, guaraná, salsaparrilha e castanha, <strong>exportados como especiarias para a Europa</strong>. Alternativa <strong>E</strong>.</p><p>Não eram entorpecentes nem produtos sintéticos (A), pecuários (B) ou industrializados (C). E os maias viviam na América Central (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "drogas do sertão"
+      ]
+    },
+    {
+      "numero": 35,
+      "materia": "Física",
+      "assunto": "Energia",
+      "origem": {
+        "numeroOriginal": 35
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 35 e 36.</p><p class=\"apoio\">O Brasil é o maior produtor mundial de soja, com mais de 150 milhões de toneladas na safra 2022/2023, representando aproximadamente 42 % da produção global. Para atingir essa produtividade agrícola, os tratores movidos a diesel são essenciais, pois permitem a cobertura mais eficiente de grandes áreas de plantio.</p><p>No equipamento mencionado no texto, a transformação de energia ocorrida que mais contribui para a produtividade agrícola é de energia</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "química para energia cinética.",
+        "B": "elétrica para energia térmica.",
+        "C": "química para energia sonora.",
+        "D": "cinética para energia térmica.",
+        "E": "luminosa para energia cinética."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>No motor a diesel, a combustão libera a energia <strong>química</strong> do combustível, que vira energia <strong>cinética</strong>, o movimento do trator. Alternativa <strong>A</strong>.</p><p>O motor também gera calor e ruído, mas isso é perda, não o que contribui para a produtividade (C e D). O trator não é elétrico nem movido a luz (B e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "transformação de energia"
+      ]
+    },
+    {
+      "numero": 36,
+      "materia": "Física",
+      "assunto": "Cinemática",
+      "origem": {
+        "numeroOriginal": 36
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 35 e 36.</p><p class=\"apoio\">O Brasil é o maior produtor mundial de soja, com mais de 150 milhões de toneladas na safra 2022/2023, representando aproximadamente 42 % da produção global. Para atingir essa produtividade agrícola, os tratores movidos a diesel são essenciais, pois permitem a cobertura mais eficiente de grandes áreas de plantio.</p><p>Considerando que a velocidade média de um trator movido a diesel é de 10 km/h, assinale a alternativa que apresenta o tempo necessário, em minutos, para que ele percorra o perímetro externo de uma plantação com formato quadrado de lado igual a 500 m.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "3",
+        "B": "12",
+        "C": "20",
+        "D": "200",
+        "E": "250"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O perímetro do quadrado é 4 · 500 = 2 000 m = 2 km. A 10 km/h, o tempo é 2 ÷ 10 = 0,2 h = 0,2 · 60 = <strong>12 min</strong>. Alternativa <strong>B</strong>.</p><p>Considerar só um lado do quadrado dá 3 min (A). Esquecer de converter metros em quilômetros leva a 200 (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "velocidade média"
+      ]
+    },
+    {
+      "numero": 37,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 37
+      },
+      "enunciado": "<p class=\"apoio\">No Peru, colonizadores espanhóis observaram que os povos indígenas tratavam a febre com produtos obtidos da casca e das folhas da planta <em>Cinchona ledgeriana</em> (quina amarela). Posteriormente, pesquisadores descobriram que essa planta tinha grande eficácia no tratamento da febre causada pela malária, um tipo de doença infecciosa. Isso ocorre devido ao fato de o princípio ativo importante nesse tratamento, a quinina, quando ingerida, elimina a febre dessa doença por causar a morte do parasita da malária.</p><p class=\"fonte\">&lt;https://tinyurl.com/mr3dbjjw&gt; Acesso em: 12.07.2024. Adaptado.</p><p>A respeito dessa doença, pode-se afirmar corretamente que é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "transmitida por contato direto de pessoa a pessoa.",
+        "B": "transmitida pela fêmea infectada do inseto barbeiro.",
+        "C": "causada pela bactéria parasita do gênero <em>Escherichia</em>.",
+        "D": "causada pelo protozoário parasita do gênero <em>Trypanosoma</em>.",
+        "E": "causada pelo protozoário parasita do gênero <em>Plasmodium</em>."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A malária é causada por protozoários do gênero <em>Plasmodium</em>, transmitidos pela picada da fêmea do mosquito <em>Anopheles</em>. Alternativa <strong>E</strong>.</p><p>Ela não passa de pessoa para pessoa por contato direto (A). O barbeiro e o <em>Trypanosoma</em> estão ligados à doença de Chagas (B e D). E <em>Escherichia</em> é uma bactéria do intestino (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "malária",
+        "protozoários"
+      ]
+    },
+    {
+      "numero": 38,
+      "materia": "História",
+      "assunto": "Povos indígenas",
+      "origem": {
+        "numeroOriginal": 38
+      },
+      "enunciado": "<p class=\"apoio\">A importância da mandioca para diferentes povos ao redor do mundo conferiu-lhe o título de alimento do século XXI pela Organização das Nações Unidas (ONU), após um esforço para que diversos países aumentassem a sua produção.</p><p class=\"fonte\">&lt;https://tinyurl.com/2e76xar5&gt; Acesso em: 06.09.2024. Adaptado.</p><p>No Brasil, a mandioca foi produto fundamental também na dieta dos colonizadores europeus, dos navegadores e dos africanos escravizados, chegando até os dias atuais. Sobre essa planta, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "não tem valor nutricional, sendo utilizada apenas em cultos religiosos como forma de abrir a mente e criar visões místicas, devido ao seu potencial alucinógeno.",
+        "B": "é cultivada há mais de quatro mil anos no território que, atualmente, corresponde ao Brasil, e é considerada um alimento sagrado por diferentes povos indígenas.",
+        "C": "seu consumo está restrito a grupos ribeirinhos tradicionais da Amazônia, uma vez que a planta perdeu espaço na mesa dos brasileiros de outras regiões.",
+        "D": "contém cianeto, uma substância tóxica fatal para humanos e animais e, por isso, sua comercialização foi proibida em todo o território nacional.",
+        "E": "foi introduzida pelos imigrantes árabes, especialmente os libaneses, que chegaram ao país entre o final do século XIX e o início do século XX."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A mandioca é nativa da América do Sul e foi domesticada por povos indígenas há milhares de anos, no território que hoje é o Brasil. Para vários povos, é um <strong>alimento sagrado</strong>, presente em mitos de origem. Alternativa <strong>B</strong>.</p><p>A mandioca é um alimento muito nutritivo e não é alucinógena (A). É consumida em todo o Brasil (C). Algumas variedades têm compostos que liberam cianeto, mas o processamento os elimina, e a venda é permitida (D). E ela já era cultivada muito antes da imigração árabe (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "mandioca"
+      ]
+    },
+    {
+      "numero": 39,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 39
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 39 a 42.</p><p class=\"apoio\">A organização não governamental World Wide Fund for Nature (WWF) elaborou um relatório, no qual listou vários “superalimentos do futuro”. Nessa lista, destaca-se a planta moringa (<em>Moringa oleífera</em>), também conhecida em algumas culturas como “acácia-branca” ou “árvore-da-vida” devido a suas propriedades antivirais, anti-inflamatórias, antidepressivas e antifúngicas.</p><p class=\"apoio\"></p><p class=\"apoio\">Suas folhas são ricas em proteínas, aminoácidos, vitaminas A e C, além de possuírem elevado teor de minerais como cálcio, potássio, fósforo, magnésio e ferro. Alguns desses minerais não só fortalecem ossos e dentes, como também colaboram na contração muscular. Possuem também muitas fibras que ajudam na atividade intestinal e mantêm a sensação de saciedade.</p><p class=\"apoio\"></p><p class=\"apoio\">Dentro de suas longas vagens, ficam as sementes, que, quando trituradas e adicionadas à agua barrenta, têm a capacidade de atrair impurezas, atuando como um agente purificador natural. Essas sementes são ricas em ácido oleico, que tem sido associado aos níveis elevados de colesterol “bom” no corpo.</p><p class=\"fonte\">&lt;https://tinyurl.com/486r4fux&gt; Acesso em: 18.07.2024. Adaptado.</p><p>Baseando-se no texto, é correto afirmar que essa planta</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "provoca intoxicações graves, infecções, alergias e doenças degenerativas que prejudicam a atividade intestinal e o metabolismo do corpo.",
+        "B": "auxilia na contração muscular, além de fortalecer ossos e dentes devido ao fato de ser rica em minerais, como cálcio, fósforo e magnésio.",
+        "C": "dificulta a mobilidade do tubo digestório, prejudicando o peristaltismo intestinal e aumentando a constipação ou prisão-de-ventre.",
+        "D": "possui longas vagens, que, moídas e ingeridas, regulam a função da tireoide e do pâncreas, diminuindo os níveis do colesterol bom no sangue.",
+        "E": "atua purificando águas barrentas, pois suas sementes liberam substâncias que matam os micro-organismos parasitas e as larvas dos vermes do ambiente aquático."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que as folhas têm cálcio, potássio, fósforo, magnésio e ferro, e que “alguns desses minerais não só fortalecem ossos e dentes, como também colaboram na contração muscular”. Alternativa <strong>B</strong>.</p><p>O texto cita propriedades benéficas, não intoxicações (A). As fibras ajudam o intestino, e não o atrapalham (C). As sementes ficam nas vagens e se associam a níveis maiores de colesterol bom, não menores (D). E as sementes atraem impurezas; o texto não diz que matam micro-organismos (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "nutrientes"
+      ]
+    },
+    {
+      "numero": 40,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 40
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 39 a 42.</p><p class=\"apoio\">A organização não governamental World Wide Fund for Nature (WWF) elaborou um relatório, no qual listou vários “superalimentos do futuro”. Nessa lista, destaca-se a planta moringa (<em>Moringa oleífera</em>), também conhecida em algumas culturas como “acácia-branca” ou “árvore-da-vida” devido a suas propriedades antivirais, anti-inflamatórias, antidepressivas e antifúngicas.</p><p class=\"apoio\"></p><p class=\"apoio\">Suas folhas são ricas em proteínas, aminoácidos, vitaminas A e C, além de possuírem elevado teor de minerais como cálcio, potássio, fósforo, magnésio e ferro. Alguns desses minerais não só fortalecem ossos e dentes, como também colaboram na contração muscular. Possuem também muitas fibras que ajudam na atividade intestinal e mantêm a sensação de saciedade.</p><p class=\"apoio\"></p><p class=\"apoio\">Dentro de suas longas vagens, ficam as sementes, que, quando trituradas e adicionadas à agua barrenta, têm a capacidade de atrair impurezas, atuando como um agente purificador natural. Essas sementes são ricas em ácido oleico, que tem sido associado aos níveis elevados de colesterol “bom” no corpo.</p><p class=\"fonte\">&lt;https://tinyurl.com/486r4fux&gt; Acesso em: 18.07.2024. Adaptado.</p><p>Sobre os nutrientes da planta mencionada no texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o ferro atua como componente da hemoglobina, pigmento responsável pelo transporte de oxigênio dos pulmões aos tecidos do corpo.",
+        "B": "o potássio regula a quantidade de água no corpo e é essencial para o funcionamento dos olhos, de modo que sua escassez gera uma doença chamada escorbuto.",
+        "C": "a vitamina A atua como anticorpo, defendendo o organismo de micro-organismos parasitas e fortalecendo o sistema imunológico humano.",
+        "D": "o magnésio é essencial para o funcionamento e a produção hormonal da glândula tireoide, além de atuar também no aumento da sensibilidade térmica.",
+        "E": "a vitamina C atua na síntese de proteínas e é produzida pelo corpo humano, de modo que não precisa ser ingerida na alimentação."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O <strong>ferro</strong> faz parte da hemoglobina, a proteína das hemácias que transporta oxigênio dos pulmões aos tecidos. Alternativa <strong>A</strong>.</p><p>O escorbuto é causado pela falta de vitamina C, e a visão depende da vitamina A (B). Anticorpos são proteínas produzidas pelo corpo, não vitaminas (C). O mineral ligado à tireoide é o iodo (D). E o ser humano não produz vitamina C, por isso precisa ingeri-la (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "nutrientes",
+        "sangue"
+      ]
+    },
+    {
+      "numero": 41,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 41
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 39 a 42.</p><p class=\"apoio\">A organização não governamental World Wide Fund for Nature (WWF) elaborou um relatório, no qual listou vários “superalimentos do futuro”. Nessa lista, destaca-se a planta moringa (<em>Moringa oleífera</em>), também conhecida em algumas culturas como “acácia-branca” ou “árvore-da-vida” devido a suas propriedades antivirais, anti-inflamatórias, antidepressivas e antifúngicas.</p><p class=\"apoio\"></p><p class=\"apoio\">Suas folhas são ricas em proteínas, aminoácidos, vitaminas A e C, além de possuírem elevado teor de minerais como cálcio, potássio, fósforo, magnésio e ferro. Alguns desses minerais não só fortalecem ossos e dentes, como também colaboram na contração muscular. Possuem também muitas fibras que ajudam na atividade intestinal e mantêm a sensação de saciedade.</p><p class=\"apoio\"></p><p class=\"apoio\">Dentro de suas longas vagens, ficam as sementes, que, quando trituradas e adicionadas à agua barrenta, têm a capacidade de atrair impurezas, atuando como um agente purificador natural. Essas sementes são ricas em ácido oleico, que tem sido associado aos níveis elevados de colesterol “bom” no corpo.</p><p class=\"fonte\">&lt;https://tinyurl.com/486r4fux&gt; Acesso em: 18.07.2024. Adaptado.</p><p>Considerando os dados dos elementos químicos encontrados nas folhas da planta moringa, assinale a alternativa correta.</p><p>Dados: \\({}^{40}_{20}\\mathrm{Ca}\\quad {}^{39}_{19}\\mathrm{K}\\quad {}^{31}_{15}\\mathrm{P}\\quad {}^{24}_{12}\\mathrm{Mg}\\quad {}^{56}_{26}\\mathrm{Fe}\\)</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "O cálcio apresenta 20 nêutrons.",
+        "B": "O ferro apresenta número atômico 56.",
+        "C": "O potássio apresenta número atômico 15.",
+        "D": "O elemento de menor número de massa é o fósforo.",
+        "E": "O elemento com maior número de nêutrons é o magnésio."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O número de nêutrons é a massa (em cima) menos o número atômico (embaixo). No cálcio: 40 − 20 = <strong>20 nêutrons</strong>. Alternativa <strong>A</strong>.</p><p>O número atômico do ferro é 26; 56 é a massa (B). O do potássio é 19; 15 é o do fósforo (C). O menor número de massa é o do magnésio, 24 (D). E quem tem mais nêutrons é o ferro, 56 − 26 = 30; o magnésio tem só 12 (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "número de massa"
+      ]
+    },
+    {
+      "numero": 42,
+      "materia": "Química",
+      "assunto": "Química orgânica",
+      "origem": {
+        "numeroOriginal": 42
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 39 a 42.</p><p class=\"apoio\">A organização não governamental World Wide Fund for Nature (WWF) elaborou um relatório, no qual listou vários “superalimentos do futuro”. Nessa lista, destaca-se a planta moringa (<em>Moringa oleífera</em>), também conhecida em algumas culturas como “acácia-branca” ou “árvore-da-vida” devido a suas propriedades antivirais, anti-inflamatórias, antidepressivas e antifúngicas.</p><p class=\"apoio\"></p><p class=\"apoio\">Suas folhas são ricas em proteínas, aminoácidos, vitaminas A e C, além de possuírem elevado teor de minerais como cálcio, potássio, fósforo, magnésio e ferro. Alguns desses minerais não só fortalecem ossos e dentes, como também colaboram na contração muscular. Possuem também muitas fibras que ajudam na atividade intestinal e mantêm a sensação de saciedade.</p><p class=\"apoio\"></p><p class=\"apoio\">Dentro de suas longas vagens, ficam as sementes, que, quando trituradas e adicionadas à agua barrenta, têm a capacidade de atrair impurezas, atuando como um agente purificador natural. Essas sementes são ricas em ácido oleico, que tem sido associado aos níveis elevados de colesterol “bom” no corpo.</p><p class=\"fonte\">&lt;https://tinyurl.com/486r4fux&gt; Acesso em: 18.07.2024. Adaptado.</p><p>As vitaminas são moléculas que não podem ser sintetizadas pelo organismo humano, dessa forma necessita-se da suplementação destes compostos por meio da alimentação.</p><p>Podem ser divididas, quanto a sua solubilidade, em duas classes: hidrossolúveis (solúvel em água); e lipossolúveis (solúvel em óleo ou gordura).</p><p>Para uma vitamina ser hidrossolúvel, ela deve apresentar, em sua estrutura, vários grupos que interajam com a água, como os grupos hidroxilas (O–H), que devem estar bem espalhados em toda sua estrutura.</p><p>Observe as estruturas das vitaminas A e C presentes nas folhas da planta moringa.</p>[[fig:1]]<p>De acordo com o texto, é correto afirmar que a vitamina</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q42.webp",
+          "alt": "Fórmulas estruturais. Vitamina A: uma longa cadeia de carbonos com várias ligações duplas alternadas, ligada a um anel de seis carbonos com grupos CH₃, e um único grupo OH na ponta da cadeia. Vitamina C: um anel de cinco átomos com um oxigênio e um grupo C=O, ligado a uma cadeia curta; ao todo, quatro grupos OH espalhados pela molécula."
+        }
+      ],
+      "alternativas": {
+        "A": "A é hidrossolúvel.",
+        "B": "C é lipossolúvel.",
+        "C": "C é mais solúvel em água que a vitamina A.",
+        "D": "A apresenta várias hidroxilas em sua estrutura, por isso é solúvel em água.",
+        "E": "C apresenta vários grupos que interagem com óleo e gordura."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A vitamina C tem quatro grupos OH espalhados pela estrutura, que interagem com a água. A vitamina A é uma longa cadeia de carbono e hidrogênio, com um só OH na ponta. Por isso, a vitamina <strong>C é mais solúvel em água</strong> que a A. Alternativa <strong>C</strong>.</p><p>A vitamina A é lipossolúvel (A e D), e a C é hidrossolúvel (B e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "solubilidade",
+        "vitaminas"
+      ]
+    },
+    {
+      "numero": 43,
+      "materia": "História",
+      "assunto": "Brasil Colônia",
+      "origem": {
+        "numeroOriginal": 43
+      },
+      "enunciado": "<p class=\"apoio\">As atividades ligadas à cana-de-açúcar praticamente definiram a economia colonial. A vida cotidiana girava em torno dos engenhos e do modo de viver que emanavam, por isso os vínculos sociais foram se definindo nesses espaços, nos quais público e privado se misturavam, e os quais agregavam colonizadores, colonos e colonizados em torno das relações de trabalho.</p><p class=\"fonte\">&lt;https://tinyurl.com/5mphnrck&gt; Acesso em: 04.09.2024. Adaptado.</p><p>A produção de açúcar no Brasil colonial se baseou em três características que definiram as estruturas de nossa sociedade até a atualidade.</p><p>Essas características são</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "diversificação de culturas, reforma agrária e mão de obra assalariada.",
+        "B": "rotação trienal de cultivos, feudalismo e mão de obra servil.",
+        "C": "monocultura, latifúndio e mão de obra escravizada.",
+        "D": "sistema agroflorestal, agricultura familiar e mão de obra livre.",
+        "E": "produção orgânica, propriedade coletiva da terra e trabalho voluntário."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A produção de açúcar colonial seguiu o modelo de <em>plantation</em>: <strong>monocultura</strong> voltada à exportação, em grandes propriedades (<strong>latifúndios</strong>), com <strong>mão de obra escravizada</strong>. Alternativa <strong>C</strong>.</p><p>Não havia diversificação, reforma agrária nem trabalho assalariado (A). Rotação trienal, feudalismo e servidão são da Europa medieval (B). E agricultura familiar, produção orgânica e propriedade coletiva não marcaram a colônia (D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "plantation"
+      ]
+    },
+    {
+      "numero": 44,
+      "materia": "História",
+      "assunto": "Antiguidade",
+      "origem": {
+        "numeroOriginal": 44
+      },
+      "enunciado": "<p>O papiro foi uma planta de grande importância para os egípcios, uma vez que era abundante em seu território. A planta era utilizada tanto para a confecção de cordas, como para a construção de barcos.</p><p>Os egípcios antigos também utilizavam partes dessa planta para</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "fabricar uma arma que garantiu sua hegemonia no norte da África.",
+        "B": "construir os canais que desviavam a água do rio Nilo para as suas plantações de trigo.",
+        "C": "produzir o material fino e resistente que foi utilizado como suporte para a sua escrita.",
+        "D": "criar os pigmentos utilizados na concepção de maquiagem para os olhos e os lábios.",
+        "E": "compor unguentos e pomadas utilizadas no tratamento de doenças de pele."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Do caule do papiro, cortado em tiras prensadas, os egípcios faziam um <strong>material fino e resistente para escrever</strong>, também chamado papiro. Alternativa <strong>C</strong>.</p><p>O papiro não era usado para fazer armas (A), construir canais (B), fazer pigmentos de maquiagem (D) ou como base de pomadas (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Egito",
+        "escrita"
+      ]
+    },
+    {
+      "numero": 45,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 45
+      },
+      "enunciado": "<p class=\"apoio\">Quando o agricultor suíço Ernest Götsch comprou sua fazenda na Bahia, nos anos 1980, quase todos os 510 hectares da propriedade haviam sido desmatados, e os animais silvestres eram raros. Os donos anteriores passaram anos criando porcos e cultivando mandioca de forma convencional, o que esgotou o solo e assoreou 14 riachos que cruzavam a fazenda. “Dentro de pouco menos de dois anos, eu tinha reflorestado tudo”, conta o suíço, que também viu todos os riachos renascerem no processo. Hoje a maior parte da propriedade virou uma reserva ambiental privada, e somente 5 hectares — menos de 1 % do terreno — lhe geram receitas. É nessa área que, em meio a grande variedade de frutas, legumes e árvores imensas, ele cultiva um cacau de alto valor, exportado para Portugal.</p><p class=\"fonte\">&lt;https://tinyurl.com/nzy48dz5&gt; Acesso em: 04.09.2024.</p><p>A partir da leitura do texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "investir em áreas desmatadas não gera lucros e receitas.",
+        "B": "preservar o meio ambiente impede a produção de alimentos.",
+        "C": "criar porcos e cultivar mandioca de forma convencional ajuda a reflorestar áreas degradadas.",
+        "D": "investir na melhora do bem-estar da população necessariamente provoca danos ao meio ambiente.",
+        "E": "preservar o meio ambiente pode gerar renda e desenvolvimento econômico."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Götsch reflorestou a fazenda e hoje tira renda de uma pequena área, onde cultiva cacau de alto valor em meio à floresta. <strong>Preservar o meio ambiente pode gerar renda</strong>. Alternativa <strong>E</strong>.</p><p>A fazenda era desmatada e hoje dá lucro (A). Ali se produzem frutas, legumes e cacau (B). A criação de porcos e o cultivo convencional esgotaram o solo (C). E o texto não fala em danos ambientais causados por melhorar o bem-estar (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "agrofloresta"
+      ]
+    },
+    {
+      "numero": 46,
+      "materia": "Português",
+      "assunto": "Coesão e referência",
+      "origem": {
+        "numeroOriginal": 46
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 46 a 49.</p><p class=\"apoio\"><strong>Biotecnologia Indígena</strong></p><p class=\"apoio\">Entre 5 e 8 mil anos atrás, o cupuaçu estava em desenvolvimento na região do médio-alto Rio Negro. Fruta hoje muito apreciada na culinária amazônica, <strong>ela </strong>(I) não surgiu da evolução natural da floresta: foi obra da mão humana. Os indígenas que viviam na região milhares de anos antes da colonização portuguesa empregaram técnicas de domesticação de plantas para criá-<strong>la</strong> (II).</p><p class=\"apoio\">Pesquisadores, auxiliados por mateiros – os guias locais da região amazônica –, foram em busca das florestas primárias, <strong>aquelas</strong> (III) nas quais houve pouca ou nenhuma interferência humana, e constataram que <strong>nelas </strong>(IV) não se encontrava o cupuaçu.</p><p class=\"apoio\">Se o cupuaçu não nascia “naturalmente” em áreas de fraca interferência humana, era razoável supor que <strong>ele</strong> (V) seria uma variante domesticada do cupuí, desenvolvida pelos antigos ocupantes da Amazônia.</p><p class=\"apoio\">Como muitas civilizações antigas, os pré-colombianos se valiam de técnicas elaboradas para cruzar os melhores espécimes vegetais, com a finalidade de obter frutas e grãos aprimorados – é <strong>isso</strong> (VI) que Charles Darwin chamou de “seleção artificial”. Foi assim que, a partir do mirrado cupuí, os indígenas do Rio Negro desenvolveram o cupuaçu, fruta mais gorda.</p><p class=\"apoio\">A análise genética também permitiu datar o processo original de domesticação do cupuaçu em meados do Holoceno, época geológica iniciada há cerca de 11 mil anos e <strong>na qual</strong> (VII) vivemos ainda hoje. Uma segunda fase da domesticação se deu mais recentemente, nos últimos dois séculos, quando a fruta se popularizou e foi introduzida em outras regiões.</p><p class=\"apoio\">Antes da colonização, a Amazônia foi um centro de domesticação e modificação de espécies selvagens. O cupuaçu, sabemos agora, é mais um entre tantos outros frutos criados a partir de técnicas complexas de manejo e cultivo utilizadas pelos povos indígenas para desenvolver novas plantas. “A mandioca, o bacuri e a castanha-do-pará são alguns exemplos de frutos <strong>que</strong> (VIII) foram manipulados por <strong>eles</strong> (IX)”, diz Matheus Colli-Silva, da USP, responsável pela descoberta. Desenvolvidas há milhares de anos, essas técnicas não comprometiam a estrutura selvagem da Floresta Amazônica. O desmatamento só viria com a ocupação europeia.</p><p class=\"fonte\">&lt;https://tinyurl.com/rrfz6kuu&gt; Acesso em: 13.09.2024. Adaptado.</p><p>Pronomes são importantes elementos de coesão textual e têm a função de retomar ou antecipar informações com as quais eles estabelecem uma referência. Analisando os pronomes em destaque no texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "I e II se referem ao termo “culinária”.",
+        "B": "II, III e IV se referem ao termo “florestas”.",
+        "C": "IV e V se referem à expressão “variante domesticada”.",
+        "D": "VI e VII se referem, respectivamente, a “frutas” e “pré-colombianos”.",
+        "E": "VIII e IX se referem, respectivamente, a “frutos” e “povos indígenas”."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>“Que” (VIII) retoma “frutos” (“frutos que foram manipulados”) e “eles” (IX) retoma os <strong>povos indígenas</strong>, que manipularam esses frutos. Alternativa <strong>E</strong>.</p><p>I e II se referem ao cupuaçu (A). II se refere ao cupuaçu, enquanto III e IV retomam “florestas primárias” (B). V se refere ao cupuaçu (C). E VI retoma a técnica de cruzar espécimes, e VII retoma “Holoceno” (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pronomes"
+      ]
+    },
+    {
+      "numero": 47,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 47
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 46 a 49.</p><p class=\"apoio\"><strong>Biotecnologia Indígena</strong></p><p class=\"apoio\">Entre 5 e 8 mil anos atrás, o cupuaçu estava em desenvolvimento na região do médio-alto Rio Negro. Fruta hoje muito apreciada na culinária amazônica, <strong>ela </strong>(I) não surgiu da evolução natural da floresta: foi obra da mão humana. Os indígenas que viviam na região milhares de anos antes da colonização portuguesa empregaram técnicas de domesticação de plantas para criá-<strong>la</strong> (II).</p><p class=\"apoio\">Pesquisadores, auxiliados por mateiros – os guias locais da região amazônica –, foram em busca das florestas primárias, <strong>aquelas</strong> (III) nas quais houve pouca ou nenhuma interferência humana, e constataram que <strong>nelas </strong>(IV) não se encontrava o cupuaçu.</p><p class=\"apoio\">Se o cupuaçu não nascia “naturalmente” em áreas de fraca interferência humana, era razoável supor que <strong>ele</strong> (V) seria uma variante domesticada do cupuí, desenvolvida pelos antigos ocupantes da Amazônia.</p><p class=\"apoio\">Como muitas civilizações antigas, os pré-colombianos se valiam de técnicas elaboradas para cruzar os melhores espécimes vegetais, com a finalidade de obter frutas e grãos aprimorados – é <strong>isso</strong> (VI) que Charles Darwin chamou de “seleção artificial”. Foi assim que, a partir do mirrado cupuí, os indígenas do Rio Negro desenvolveram o cupuaçu, fruta mais gorda.</p><p class=\"apoio\">A análise genética também permitiu datar o processo original de domesticação do cupuaçu em meados do Holoceno, época geológica iniciada há cerca de 11 mil anos e <strong>na qual</strong> (VII) vivemos ainda hoje. Uma segunda fase da domesticação se deu mais recentemente, nos últimos dois séculos, quando a fruta se popularizou e foi introduzida em outras regiões.</p><p class=\"apoio\">Antes da colonização, a Amazônia foi um centro de domesticação e modificação de espécies selvagens. O cupuaçu, sabemos agora, é mais um entre tantos outros frutos criados a partir de técnicas complexas de manejo e cultivo utilizadas pelos povos indígenas para desenvolver novas plantas. “A mandioca, o bacuri e a castanha-do-pará são alguns exemplos de frutos <strong>que</strong> (VIII) foram manipulados por <strong>eles</strong> (IX)”, diz Matheus Colli-Silva, da USP, responsável pela descoberta. Desenvolvidas há milhares de anos, essas técnicas não comprometiam a estrutura selvagem da Floresta Amazônica. O desmatamento só viria com a ocupação europeia.</p><p class=\"fonte\">&lt;https://tinyurl.com/rrfz6kuu&gt; Acesso em: 13.09.2024. Adaptado.</p><p>Sobre as informações presentes no texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "houve interferência humana nas florestas primárias, pois os guias locais encontraram tanto cupuaçu quanto cupuí nessas áreas.",
+        "B": "a interferência esporádica dos povos originários da Amazônia na natureza acarretou o surgimento de novas espécies, como o cupuí e o cupuaçu.",
+        "C": "houve duas etapas no processo de domesticação do cupuaçu: a primeira, datada entre 5 e 8 mil anos atrás; a segunda, há cerca de 200 anos.",
+        "D": "as civilizações pré-colombianas se apropriaram dos estudos de Darwin para desenvolver frutas e grãos mais adaptados ao meio em que se encontravam.",
+        "E": "os povos originários já utilizavam técnicas complexas de manejo agrícola, como a modificação genética e o desmatamento, para ampliar a produção de alimentos."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto diz que a domesticação começou há 5 a 8 mil anos e que “uma segunda fase da domesticação se deu mais recentemente, nos últimos dois séculos”. Houve <strong>duas etapas</strong>. Alternativa <strong>C</strong>.</p><p>O cupuaçu não foi encontrado nas florestas primárias (A). O cupuí já existia; o cupuaçu surgiu de técnicas elaboradas, não de interferência esporádica (B). Darwin deu nome a uma prática muito anterior a ele (D). E o desmatamento só veio com os europeus (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 48,
+      "materia": "Português",
+      "assunto": "Conectivos",
+      "origem": {
+        "numeroOriginal": 48
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 46 a 49.</p><p class=\"apoio\"><strong>Biotecnologia Indígena</strong></p><p class=\"apoio\">Entre 5 e 8 mil anos atrás, o cupuaçu estava em desenvolvimento na região do médio-alto Rio Negro. Fruta hoje muito apreciada na culinária amazônica, <strong>ela </strong>(I) não surgiu da evolução natural da floresta: foi obra da mão humana. Os indígenas que viviam na região milhares de anos antes da colonização portuguesa empregaram técnicas de domesticação de plantas para criá-<strong>la</strong> (II).</p><p class=\"apoio\">Pesquisadores, auxiliados por mateiros – os guias locais da região amazônica –, foram em busca das florestas primárias, <strong>aquelas</strong> (III) nas quais houve pouca ou nenhuma interferência humana, e constataram que <strong>nelas </strong>(IV) não se encontrava o cupuaçu.</p><p class=\"apoio\">Se o cupuaçu não nascia “naturalmente” em áreas de fraca interferência humana, era razoável supor que <strong>ele</strong> (V) seria uma variante domesticada do cupuí, desenvolvida pelos antigos ocupantes da Amazônia.</p><p class=\"apoio\">Como muitas civilizações antigas, os pré-colombianos se valiam de técnicas elaboradas para cruzar os melhores espécimes vegetais, com a finalidade de obter frutas e grãos aprimorados – é <strong>isso</strong> (VI) que Charles Darwin chamou de “seleção artificial”. Foi assim que, a partir do mirrado cupuí, os indígenas do Rio Negro desenvolveram o cupuaçu, fruta mais gorda.</p><p class=\"apoio\">A análise genética também permitiu datar o processo original de domesticação do cupuaçu em meados do Holoceno, época geológica iniciada há cerca de 11 mil anos e <strong>na qual</strong> (VII) vivemos ainda hoje. Uma segunda fase da domesticação se deu mais recentemente, nos últimos dois séculos, quando a fruta se popularizou e foi introduzida em outras regiões.</p><p class=\"apoio\">Antes da colonização, a Amazônia foi um centro de domesticação e modificação de espécies selvagens. O cupuaçu, sabemos agora, é mais um entre tantos outros frutos criados a partir de técnicas complexas de manejo e cultivo utilizadas pelos povos indígenas para desenvolver novas plantas. “A mandioca, o bacuri e a castanha-do-pará são alguns exemplos de frutos <strong>que</strong> (VIII) foram manipulados por <strong>eles</strong> (IX)”, diz Matheus Colli-Silva, da USP, responsável pela descoberta. Desenvolvidas há milhares de anos, essas técnicas não comprometiam a estrutura selvagem da Floresta Amazônica. O desmatamento só viria com a ocupação europeia.</p><p class=\"fonte\">&lt;https://tinyurl.com/rrfz6kuu&gt; Acesso em: 13.09.2024. Adaptado.</p><p>Assinale a alternativa na qual o elemento coesivo em destaque contribui para expressar uma hipótese.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "“<strong>Entre</strong> 5 e 8 mil anos atrás, o cupuaçu estava sendo desenvolvido na região do médio-alto Rio Negro.”",
+        "B": "“...ela não surgiu da evolução natural da floresta: foi obra <strong>da</strong> mão humana.”",
+        "C": "“Os indígenas <strong>que</strong> viviam na região milhares de anos antes da colonização portuguesa empregaram técnicas de domesticação de plantas para criá-la.”",
+        "D": "“<strong>Se</strong> o cupuaçu não nascia ‘naturalmente’ em áreas de fraca interferência humana, era razoável supor que ele seria uma variante domesticada do cupuí...”",
+        "E": "“Antes da colonização, a Amazônia foi um centro de domesticação <strong>e</strong> modificação de espécies selvagens.”"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A conjunção <strong>“se”</strong> introduz uma condição, e a partir dela o texto levanta uma hipótese (“era razoável supor que ele seria uma variante domesticada”). Alternativa <strong>D</strong>.</p><p>“Entre” delimita um intervalo de tempo (A). “Da” liga “obra” a “mão humana”, indicando origem (B). “Que” é pronome relativo e retoma “indígenas” (C). E “e” soma ideias (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "conjunção condicional"
+      ]
+    },
+    {
+      "numero": 49,
+      "materia": "Português",
+      "assunto": "Pontuação",
+      "origem": {
+        "numeroOriginal": 49
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 46 a 49.</p><p class=\"apoio\"><strong>Biotecnologia Indígena</strong></p><p class=\"apoio\">Entre 5 e 8 mil anos atrás, o cupuaçu estava em desenvolvimento na região do médio-alto Rio Negro. Fruta hoje muito apreciada na culinária amazônica, <strong>ela </strong>(I) não surgiu da evolução natural da floresta: foi obra da mão humana. Os indígenas que viviam na região milhares de anos antes da colonização portuguesa empregaram técnicas de domesticação de plantas para criá-<strong>la</strong> (II).</p><p class=\"apoio\">Pesquisadores, auxiliados por mateiros – os guias locais da região amazônica –, foram em busca das florestas primárias, <strong>aquelas</strong> (III) nas quais houve pouca ou nenhuma interferência humana, e constataram que <strong>nelas </strong>(IV) não se encontrava o cupuaçu.</p><p class=\"apoio\">Se o cupuaçu não nascia “naturalmente” em áreas de fraca interferência humana, era razoável supor que <strong>ele</strong> (V) seria uma variante domesticada do cupuí, desenvolvida pelos antigos ocupantes da Amazônia.</p><p class=\"apoio\">Como muitas civilizações antigas, os pré-colombianos se valiam de técnicas elaboradas para cruzar os melhores espécimes vegetais, com a finalidade de obter frutas e grãos aprimorados – é <strong>isso</strong> (VI) que Charles Darwin chamou de “seleção artificial”. Foi assim que, a partir do mirrado cupuí, os indígenas do Rio Negro desenvolveram o cupuaçu, fruta mais gorda.</p><p class=\"apoio\">A análise genética também permitiu datar o processo original de domesticação do cupuaçu em meados do Holoceno, época geológica iniciada há cerca de 11 mil anos e <strong>na qual</strong> (VII) vivemos ainda hoje. Uma segunda fase da domesticação se deu mais recentemente, nos últimos dois séculos, quando a fruta se popularizou e foi introduzida em outras regiões.</p><p class=\"apoio\">Antes da colonização, a Amazônia foi um centro de domesticação e modificação de espécies selvagens. O cupuaçu, sabemos agora, é mais um entre tantos outros frutos criados a partir de técnicas complexas de manejo e cultivo utilizadas pelos povos indígenas para desenvolver novas plantas. “A mandioca, o bacuri e a castanha-do-pará são alguns exemplos de frutos <strong>que</strong> (VIII) foram manipulados por <strong>eles</strong> (IX)”, diz Matheus Colli-Silva, da USP, responsável pela descoberta. Desenvolvidas há milhares de anos, essas técnicas não comprometiam a estrutura selvagem da Floresta Amazônica. O desmatamento só viria com a ocupação europeia.</p><p class=\"fonte\">&lt;https://tinyurl.com/rrfz6kuu&gt; Acesso em: 13.09.2024. Adaptado.</p><p>No segundo parágrafo, os travessões em “– os guias locais da região amazônica –” destacam trecho que se refere aos mateiros, apresentando uma</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "contradição.",
+        "B": "explicação.",
+        "C": "retificação.",
+        "D": "enumeração.",
+        "E": "advertência."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O trecho entre travessões diz o que são os mateiros: “os guias locais da região amazônica”. É uma <strong>explicação</strong> do termo anterior (um aposto explicativo). Alternativa <strong>B</strong>.</p><p>O trecho não contradiz, corrige (retificação), enumera nem adverte (A, C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "travessão"
+      ]
+    },
+    {
+      "numero": 50,
+      "materia": "Português",
+      "assunto": "Texto literário",
+      "origem": {
+        "numeroOriginal": 50
+      },
+      "enunciado": "[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/47zu6p23&gt; Acesso em: 13.09.2024.</p><p>Depreende-se do poema que o processo de crescimento pressupõe</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2025-1sem/q50.webp",
+          "alt": "Poema curto de João Doederlein (@akapoeta), em versos livres e com letras minúsculas. O eu lírico se compara a uma árvore torta que cresceu num lugar que não lhe daria espaço: perdeu folhas, queimou os galhos por alcançar o sol cedo demais e chora junto com a chuva para ninguém notar. Diz que crescer é um pouco se adaptar e um pouco se aceitar, que é injusto mas necessário, e termina dizendo que suas raízes o empurram para o céu e que é uma árvore que queria ser estrela."
+        }
+      ],
+      "alternativas": {
+        "A": "reconhecer que esse processo é justo por exigir subserviência e aceitação.",
+        "B": "conciliar a aceitação de si mesmo com a necessidade de ser resiliente diante dos problemas enfrentados.",
+        "C": "expor sem receios os sofrimentos a fim de depender do apoio das pessoas com quem se convive.",
+        "D": "acelerar o processo de evolução por meio da busca constante pelo sucesso a qualquer custo.",
+        "E": "resignar-se a viver de maneira limitada, mesmo que haja condições propícias ao desenvolvimento."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O eu lírico diz que “crescer é um pouco de se adaptar / com se aceitar” e que, apesar das dificuldades, suas raízes o empurram “pro céu”. Crescer pressupõe <strong>conciliar a aceitação de si com a resiliência</strong> diante dos problemas. Alternativa <strong>B</strong>.</p><p>O poema diz que crescer “é um pouco injusto” (A). O eu lírico esconde o choro “pra ninguém perceber” (C). Não há busca por sucesso a qualquer custo (D). E ele não se resigna: quer “ser estrela” (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "poema"
+      ]
+    }
+  ]
+}

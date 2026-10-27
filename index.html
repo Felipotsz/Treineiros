@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1E1813">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Treineiros — Simulados de vestibular">
+<meta property="og:description" content="Treine com as provas oficiais da ETEC, da FATEC e do Enem, uma questão por vez, com cronômetro e correção comentada.">
+<meta property="og:image" content="https://Felipotsz.github.io/Treineiros/assets/og.png">
+<meta property="og:url" content="https://Felipotsz.github.io/Treineiros/">
+<meta name="twitter:card" content="summary_large_image">
+<title>Treineiros: simulados da ETEC e da FATEC</title>
+<meta name="description" content="Simulados grátis com as provas oficiais do Vestibulinho ETEC e do Vestibular FATEC, desde 2017. Cronômetro, correção comentada e revisão dos erros, no celular.">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/home.css"><link rel="stylesheet" href="css/simulado.css">
+<script src="js/theme.js"></script>
+</head>
+<body>
+<main id="conteudo" class="home">
+
+  <section class="hero" aria-labelledby="titulo">
+    <div class="hero__texto">
+      <h1 id="titulo">Treine com as provas de verdade da ETEC e da FATEC.</h1>
+      <p class="hero__lead">Questões oficiais desde 2017, com o tempo da prova, correção comentada e revisão do que você errou. Grátis, sem cadastro e pensado para o celular.</p>
+      <p class="botoes"><a class="btn btn--primary" href="provas.html">Escolher uma prova</a><a class="btn" href="#experimente">Responder uma questão agora</a></p>
+      <p class="hero__status" id="status-home" role="status"></p>
+    </div>
+
+    <!-- Questão de demonstração: real, do Vestibulinho ETEC 2º sem/2026. Fica no HTML para a página inicial não baixar a prova inteira. -->
+    <section class="demo" id="experimente" aria-labelledby="demo-tit" data-gabarito="D">
+      <h2 id="demo-tit" class="q-tit" aria-label="Experimente: questão 4 do Vestibulinho ETEC, 2º semestre de 2026"><span class="q-tit__rot" aria-hidden="true">Questão</span><span class="q-tit__n" aria-hidden="true">04</span></h2>
+      <p class="origem">Vestibulinho ETEC, 2º semestre de 2026</p>
+      <div class="enunciado"><p>O tráfico atlântico de africanos escravizados envolveu uma operação logística que ligava três continentes. As embarcações partiam da Europa com mercadorias (como armas, cachaça e tecidos) para a África. Na África, essas mercadorias eram trocadas por pessoas escravizadas, que eram então transportadas através do Atlântico até a América.</p><p>Essas relações comerciais ocorreram entre os séculos XVI e XIX e, entre os historiadores, o nome atribuído a elas é</p></div>
+      <div class="demo__alts" role="group" aria-label="Alternativas">
+        <button type="button" class="alt" data-letra="A" aria-pressed="false"><span class="alt__letra">A</span><span>Rota Transpacífica.</span><span class="alt__status"></span></button>
+        <button type="button" class="alt" data-letra="B" aria-pressed="false"><span class="alt__letra">B</span><span>Rota das Especiarias.</span><span class="alt__status"></span></button>
+        <button type="button" class="alt" data-letra="C" aria-pressed="false"><span class="alt__letra">C</span><span>Rota da Seda.</span><span class="alt__status"></span></button>
+        <button type="button" class="alt" data-letra="D" aria-pressed="false"><span class="alt__letra">D</span><span>Comércio Triangular.</span><span class="alt__status"></span></button>
+        <button type="button" class="alt" data-letra="E" aria-pressed="false"><span class="alt__letra">E</span><span>Comércio Intercolonial.</span><span class="alt__status"></span></button>
+      </div>
+      <div class="explicacao" id="demo-expl" tabindex="-1" hidden>
+        <span class="explicacao__rotulo">Correção comentada</span>
+        <p>O circuito descrito liga <strong>três continentes</strong>: Europa (mercadorias), África (pessoas escravizadas) e América (produtos coloniais). Os historiadores o chamam de <strong>Comércio Triangular</strong>, alternativa <strong>D</strong>.</p>
+        <p>A Rota Transpacífica (A) cruza o Pacífico. A Rota das Especiarias (B) ligava a Europa ao Oriente. A Rota da Seda (C) era terrestre, entre a China e o Mediterrâneo. “Comércio intercolonial” (E) não é o nome desse circuito entre três continentes.</p>
+        <p class="botoes"><a class="btn btn--primary" href="simulado.html?id=etec-2026-2sem">Fazer esta prova inteira</a><button type="button" class="btn btn--ghost" id="demo-de-novo">Responder de novo</button></p>
+      </div>
+    </section>
+  </section>
+
+  <div class="divisor" aria-hidden="true">❦</div>
+  <section class="secao como" aria-labelledby="como">
+    <h2 id="como">Como funciona</h2>
+    <ol class="passos">
+      <li><h3>Escolha a prova</h3><p>Vestibulinho ETEC ou Vestibular FATEC, de 2017 até hoje, com a mesma duração do dia da prova.</p></li>
+      <li><h3>Responda no seu ritmo</h3><p>Uma questão por vez, com cronômetro ou sem. Pause quando precisar: nada se perde.</p></li>
+      <li><h3>Entenda cada resposta</h3><p>A correção explica por que a certa está certa e por que as outras estão erradas.</p></li>
+      <li><h3>Volte no que errou</h3><p>As questões erradas voltam para revisão nos dias certos, até você dominar o assunto.</p></li>
+    </ol>
+  </section>
+
+  <section class="secao bancas" aria-labelledby="bancas">
+    <h2 id="bancas">As provas</h2>
+    <div class="bancas__lista">
+      <article class="banca" data-banca="ETEC">
+        <h3>Vestibulinho ETEC</h3>
+        <p>Para entrar no ensino médio, no ensino médio com técnico ou num curso técnico das Escolas Técnicas Estaduais de São Paulo.</p>
+        <p class="botoes"><a class="btn" href="provas.html?banca=etec">Ver provas da ETEC</a><a class="btn btn--ghost" href="etec.html">O que é a ETEC</a></p>
+      </article>
+      <article class="banca" data-banca="FATEC">
+        <h3>Vestibular FATEC</h3>
+        <p>Para os cursos superiores de tecnologia, gratuitos, das Faculdades de Tecnologia do Estado de São Paulo.</p>
+        <p class="botoes"><a class="btn" href="provas.html?banca=fatec">Ver provas da FATEC</a><a class="btn btn--ghost" href="fatec.html">O que é a FATEC</a></p>
+      </article>
+      <article class="banca" data-banca="Enem">
+        <h3>Enem <span class="em-breve">em breve</span></h3>
+        <p>As provas do Exame Nacional do Ensino Médio estão sendo preparadas. Enquanto isso, dá para treinar a redação com os temas oficiais.</p>
+        <p class="botoes"><a class="btn" href="redacao.html">Treinar a redação</a><a class="btn btn--ghost" href="enem.html">O que é o Enem</a></p>
+      </article>
+    </div>
+  </section>
+
+  <div class="divisor" aria-hidden="true">❦</div>
+  <section class="secao apoio-chamada" aria-labelledby="apoio">
+    <h2 id="apoio">Este projeto é feito por uma pessoa</h2>
+    <p>O Treineiros é gratuito e não tem anúncios. Se ele te ajudou a estudar e você quiser agradecer, dá para apoiar o projeto com uma contribuição pelo Pix, do valor que quiser. É totalmente opcional: o site continua livre para todo mundo.</p>
+    <p class="botoes"><a class="btn" href="apoie.html">Conhecer o projeto e apoiar</a></p>
+  </section>
+
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/registro.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/home.js"></script>
+</body>
+</html>

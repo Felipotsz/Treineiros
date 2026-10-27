@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#1E1813">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css">
+<script src="js/theme.js"></script>
+<title>Receber progresso | Treineiros</title>
+</head>
+<body>
+<main id="conteudo">
+  <h1>Receber progresso</h1>
+  <div id="app"><p>Lendo os dados do link…</p></div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/registro.js"></script><script src="js/transferir.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script>
+<script>
+  /* Página aberta pelo QR code: mostra o que veio e só grava quando o aluno confirmar. */
+  (function () {
+    var app = document.getElementById("app");
+    Transferir.lerLink(location.hash).then(function (d) {
+      var h = Array.isArray(d.historico) ? d.historico.length : 0, e = d.erros ? Object.keys(d.erros).length : 0, n = d.notas ? Object.keys(d.notas).length : 0;
+      app.innerHTML = "<p>Este link traz de outro aparelho: <strong>" + h + "</strong> simulados no histórico, <strong>" + e + "</strong> questões no caderno de erros e <strong>" + n + "</strong> anotações, além da meta, da contagem regressiva e da sequência de dias.</p>" +
+        "<p>O histórico é somado ao deste aparelho. O caderno de erros, as anotações e a meta são substituídos.</p>" +
+        '<p><button class="btn btn--primary" id="b-ok" type="button">Receber o progresso</button> <a class="btn" href="index.html">Agora não</a></p><p id="st" role="status"></p>';
+      document.getElementById("b-ok").onclick = function () {
+        Transferir.aplicar(d);
+        history.replaceState(null, "", location.pathname);          // tira os dados do endereço
+        document.getElementById("st").textContent = "Pronto! Seu progresso chegou.";
+        this.disabled = true;
+        setTimeout(function () { location.href = "estudo.html"; }, 1200);
+      };
+    }).catch(function () {
+      app.innerHTML = '<p>Este link não tem um progresso válido. Gere um novo QR code no outro aparelho, em <a href="provas.html#bk">Provas › Seu progresso</a>.</p>';
+    });
+  })();
+</script>
+</body>
+</html>

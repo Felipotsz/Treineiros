@@ -1,0 +1,86 @@
+/* Treineiros: tokens de design. Para mudar cores, tipos ou espaços, mexa SÓ neste arquivo.
+   Identidade: dark academia. De dia, papel envelhecido, tinta sépia e lacre cor de vinho;
+   à noite, a biblioteca à luz de vela, com o dourado das lombadas.
+   O sistema de acessibilidade que vier depois deve trocar estas variáveis. */
+
+/* Fontes no próprio site (assets/fonts, licença SIL OFL) */
+@font-face{font-family:"Playfair Display";font-weight:700;font-display:swap;src:url("../assets/fonts/playfair-display-700.woff2") format("woff2")}
+@font-face{font-family:"Playfair Display";font-weight:800;font-display:swap;src:url("../assets/fonts/playfair-display-800.woff2") format("woff2")}
+@font-face{font-family:"Playfair Display";font-weight:400;font-style:italic;font-display:swap;src:url("../assets/fonts/playfair-display-400-italic.woff2") format("woff2")}
+@font-face{font-family:"Playfair Display";font-weight:700;font-style:italic;font-display:swap;src:url("../assets/fonts/playfair-display-700-italic.woff2") format("woff2")}
+@font-face{font-family:"Source Serif 4";font-weight:400;font-display:swap;src:url("../assets/fonts/source-serif-4-400.woff2") format("woff2")}
+@font-face{font-family:"Source Serif 4";font-weight:400;font-style:italic;font-display:swap;src:url("../assets/fonts/source-serif-4-400-italic.woff2") format("woff2")}
+@font-face{font-family:"Source Serif 4";font-weight:600;font-display:swap;src:url("../assets/fonts/source-serif-4-600.woff2") format("woff2")}
+@font-face{font-family:"Source Serif 4";font-weight:700;font-display:swap;src:url("../assets/fonts/source-serif-4-700.woff2") format("woff2")}
+@font-face{font-family:"Cedarville Cursive";font-weight:400;font-display:swap;src:url("../assets/fonts/cedarville-cursive-400.woff2") format("woff2")}
+
+:root, [data-theme="light"] {               /* papel envelhecido */
+  --bg:#EDE0C6;           /* papel da mesa */
+  --surface:#F4EAD5;      /* folha */
+  --surface-2:#E7D8B9;    /* folha sombreada */
+  --text:#2D2723;         /* tinta sépia escura */
+  --text-muted:#5E5046;
+  --line:#CDB993;         /* risco a lápis: divisões */
+  --line-forte:#81614B;   /* madeira: contornos de campos e bolhas (3:1 sobre a folha) */
+  --caneta:#7A2E22;       /* lacre cor de vinho: ações, links, resposta marcada */
+  --caneta-clara:#EBD3C2; /* fundo de algo marcado */
+  --tinta:#7A2E22;        /* preenchimento de botões e bolhas */
+  --sobre-tinta:#F7EEDC;  /* texto sobre a tinta */
+  --margem:#7A2E22;       /* correção, ETEC */
+  --ouro:#9C7228;         /* dourado das lombadas: foco do teclado, filetes, Enem */
+  --verde:#3D5A45;        /* verde-garrafa: FATEC */
+  --ok:#556126; --ok-claro:#E3E1BF;
+  --bad:#9A2F1F; --bad-claro:#F0D6C8;
+  --faixa:#3A2F28;        /* faixa escura "Leia o texto...", couro */
+  --sobre-escuro:#F4EAD5;
+  --sombra:0 1px 0 rgba(45,39,35,.12),0 10px 24px -14px rgba(45,39,35,.45);
+  --brilho:transparent;   /* luz de vela no topo (só à noite) */
+  --textura:.09;          /* intensidade do grão do papel */
+  --logo-tinta:#7A2E22; --logo-pena:#9C7228;
+  --accent:var(--caneta); --on-accent:var(--sobre-tinta);   /* nomes antigos, ainda usados em alguns lugares */
+  --wood:var(--line-forte); --gold:var(--ouro); --oxblood:var(--tinta);
+}
+[data-theme="dark"] {                       /* biblioteca à luz de vela */
+  --bg:#1E1813;
+  --surface:#2B241F;
+  --surface-2:#3A3029;
+  --text:#EADCC0;
+  --text-muted:#BBA88E;
+  --line:#4B3F35;
+  --line-forte:#9C8068;
+  --caneta:#D4AC5E;       /* à noite, o destaque é o dourado */
+  --caneta-clara:#43341F;
+  --tinta:#8C3B2E;        /* o lacre continua vinho */
+  --sobre-tinta:#F7EEDC;
+  --margem:#E0917F;
+  --ouro:#D4AC5E;
+  --verde:#9DBB9F;
+  --ok:#A8B66C; --ok-claro:#2F3220;
+  --bad:#E0917F; --bad-claro:#43271F;
+  --faixa:#120E0B;
+  --sobre-escuro:#1E1813;
+  --sombra:0 1px 0 rgba(0,0,0,.35),0 12px 28px -14px rgba(0,0,0,.7);
+  --brilho:rgba(212,172,94,.12);
+  --textura:.06;
+  --logo-tinta:#C0503E; --logo-pena:#D4AC5E;
+  --accent:var(--caneta); --on-accent:var(--sobre-escuro);
+  --wood:var(--line-forte); --gold:var(--ouro); --oxblood:var(--tinta);
+}
+[data-theme="dark"] .chamada{--sobre-escuro:#EADCC0}
+
+:root {
+  /* tipos: Playfair Display (títulos), Source Serif 4 (leitura e interface, com versaletes nos rótulos),
+     Cedarville Cursive (anotações à mão: correção comentada, rascunho) */
+  --font-title:"Playfair Display","Cormorant Garamond",Georgia,serif;
+  --font-body:"Source Serif 4",Georgia,serif;
+  --font-ui:"Source Serif 4",Georgia,serif;
+  --font-hand:"Cedarville Cursive","Segoe Script",cursive;
+  --fs-base:1.0625rem; --lh:1.7;
+  /* escala tipográfica (razão 1,25) */
+  --fs-1:.875rem; --fs-2:1rem; --fs-3:1.25rem; --fs-4:1.5625rem; --fs-5:1.953rem; --fs-6:2.441rem;
+  --s1:.25rem; --s2:.5rem; --s3:1rem; --s4:1.5rem; --s5:2.5rem; --s6:4rem;
+  --radius:2px; --radius-caixa:3px; --measure:65ch; --wrap:70rem;
+  --shadow:var(--sombra);
+  --qr-fundo:#FFFFFF; --qr-tinta:#000000;    /* QR code precisa de contraste máximo nos dois temas */
+}
+@media (min-width:48rem){ :root{ --fs-base:1.125rem; } }

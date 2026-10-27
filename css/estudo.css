@@ -1,0 +1,16 @@
+/* Meu estudo: painéis empilhados no celular, duas colunas no computador */
+.bloco{max-width:52rem;margin:0 0 var(--s5)}
+.bloco>h2{display:flex;align-items:center;gap:var(--s3)}
+.bloco>h2::after{content:"";flex:1;height:1.5px;background:var(--line-forte)}
+.linha{display:flex;flex-wrap:wrap;gap:var(--s2) var(--s3);align-items:center;margin:var(--s3) 0}
+.linha .par{display:inline-flex;gap:var(--s2);align-items:center}
+.linha .par .campo{width:11rem;max-width:100%}
+.linha label{font:600 var(--fs-2) var(--font-ui)}
+#f-treino fieldset{margin:0 0 var(--s3);padding:var(--s3);border:1px solid var(--line);border-radius:var(--radius)}
+#f-treino legend{padding:0 var(--s2);font:700 var(--fs-2) var(--font-ui)}
+.lista-plano,.mat-barras{list-style:none;margin:var(--s3) 0;padding:0}
+.lista-plano li{display:flex;flex-wrap:wrap;gap:var(--s2) var(--s3);align-items:center;justify-content:space-between;max-width:none;padding:var(--s3) 0;border-bottom:1px solid var(--line);font-family:var(--font-ui)}
+.mat-barras li{display:grid;grid-template-columns:10rem 1fr 9rem;gap:var(--s3);align-items:center;max-width:none;margin-bottom:var(--s2);font-family:var(--font-ui)}
+@media (max-width:40rem){.mat-barras li{grid-template-columns:1fr auto;gap:var(--s1) var(--s3)}.mat-barras .progresso{grid-column:1/-1;grid-row:2}}
+.grafico{width:100%;max-width:40rem;height:auto}
+.tabela--larga{max-width:40rem}

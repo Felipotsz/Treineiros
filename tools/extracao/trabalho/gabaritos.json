@@ -1,0 +1,7924 @@
+{
+ "etec-2017-1sem": {
+  "1": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "26": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "2": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "27": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "3": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "28": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "4": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "29": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "5": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "30": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "6": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "31": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "7": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "32": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "8": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "33": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "9": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "34": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "10": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "35": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "11": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "36": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "12": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "37": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "13": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "38": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "14": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "39": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "15": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "40": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "16": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "41": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "17": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "42": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "18": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "43": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "19": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "44": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "20": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "45": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "21": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "46": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "22": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "47": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "23": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "48": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "24": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "49": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "25": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "50": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  }
+ },
+ "etec-2017-2sem": {
+  "1": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "26": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "2": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "27": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "3": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "28": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "4": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "29": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "5": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "30": {
+   "g": "ANULADA",
+   "comp": "C1",
+   "disc": null
+  },
+  "6": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "31": {
+   "g": "ANULADA",
+   "comp": "C1",
+   "disc": null
+  },
+  "7": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "32": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "8": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "33": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "9": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "34": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "10": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "35": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "11": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "36": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "12": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "37": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "13": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "38": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "14": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "39": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "15": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "40": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "16": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "41": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "17": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "42": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "18": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "43": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "19": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "44": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "20": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "45": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "21": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "46": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "22": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "47": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "23": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "48": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "24": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "49": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "25": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "50": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  }
+ },
+ "etec-2018-1sem": {
+  "1": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "26": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "2": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "27": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "3": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "28": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "4": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "29": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "5": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "30": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "6": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "31": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "7": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "32": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "8": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "33": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "9": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "34": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "10": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "35": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "11": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "36": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "12": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "37": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "13": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "38": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "14": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "39": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "15": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "40": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "16": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "41": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "17": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "42": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "18": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "43": {
+   "g": "A",
+   "comp": "C5",
+   "disc": null
+  },
+  "19": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "44": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "20": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "45": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "21": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "46": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "22": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "47": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "23": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "48": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "24": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "49": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "25": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "50": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  }
+ },
+ "etec-2018-2sem": {
+  "1": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "26": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "2": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "27": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "3": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "28": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "4": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "29": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "5": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "30": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "6": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "31": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "7": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "32": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "8": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "33": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "9": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "34": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "10": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "35": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "11": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "36": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "12": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "37": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "13": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "38": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "14": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "39": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "15": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "40": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "16": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "41": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "17": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "42": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "18": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "43": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "19": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "44": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "20": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "45": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "21": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "46": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "22": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "47": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "23": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "48": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "24": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "49": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "25": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "50": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  }
+ },
+ "etec-2019-1sem": {
+  "1": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "26": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "2": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "27": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "3": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "28": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "4": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "29": {
+   "g": "A",
+   "comp": "C5",
+   "disc": null
+  },
+  "5": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "30": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "6": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "31": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "7": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "32": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "8": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "33": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "9": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "34": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "10": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "35": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "11": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "36": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "12": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "37": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "13": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "38": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "14": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "39": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "15": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "40": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "16": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "41": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "17": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "42": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "18": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "43": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "19": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "44": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "20": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "45": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "21": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "46": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "22": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "47": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "23": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "48": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "24": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "49": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "25": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "50": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  }
+ },
+ "etec-2019-2sem": {
+  "1": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "26": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "2": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "27": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "3": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "28": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "4": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "29": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "5": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "30": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "6": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "31": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "7": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "32": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "8": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "33": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "9": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "34": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "10": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "35": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "11": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "36": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "12": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "37": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "13": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "38": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "14": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "39": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "15": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "40": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "16": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "41": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "17": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "42": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "18": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "43": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "19": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "44": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "20": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "45": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "21": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "46": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "22": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "47": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "23": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "48": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "24": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "49": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "25": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "50": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  }
+ },
+ "etec-2020-1sem": {
+  "1": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "26": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "2": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "27": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "3": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "28": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "4": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "29": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "5": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "30": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "6": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "31": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "7": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "32": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "8": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "33": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "9": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "34": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "10": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "35": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "11": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "36": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "12": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "37": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "13": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "38": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "14": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "39": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "15": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "40": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "16": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "41": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "17": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "42": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "18": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "43": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "19": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "44": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "20": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "45": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "21": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "46": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "22": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "47": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "23": {
+   "g": "ANULADA",
+   "comp": "C1",
+   "disc": null
+  },
+  "48": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "24": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "49": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "25": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "50": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  }
+ },
+ "etec-2022-2sem": {
+  "1": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "26": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "2": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "27": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "3": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "28": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "4": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "29": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "5": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "30": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "6": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "31": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "7": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "32": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "8": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "33": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "9": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "34": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "10": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "35": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "11": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "36": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "12": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "37": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "13": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "38": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "14": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "39": {
+   "g": "A",
+   "comp": "C5",
+   "disc": null
+  },
+  "15": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "40": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "16": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "41": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "17": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "42": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "18": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "43": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "19": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "44": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "20": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "45": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "21": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "46": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "22": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "47": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "23": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "48": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "24": {
+   "g": "A",
+   "comp": "C5",
+   "disc": null
+  },
+  "49": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "25": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "50": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  }
+ },
+ "etec-2023-1sem": {
+  "1": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "21": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "2": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "22": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "3": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "23": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "4": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "24": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "5": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "25": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "6": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "26": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "7": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "27": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "8": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "28": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "9": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "29": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "10": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "30": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "11": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "31": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "12": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "32": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "13": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "33": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "14": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "34": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "15": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "35": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "16": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "36": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "17": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "37": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "18": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "38": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "19": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "39": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "20": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "40": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  }
+ },
+ "etec-2023-2sem": {
+  "1": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "26": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "2": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "27": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "3": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "28": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "4": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "29": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "5": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "30": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "6": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "31": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "7": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "32": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "8": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "33": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "9": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "34": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "10": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "35": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "11": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "36": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "12": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "37": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "13": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "38": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "14": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "39": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "15": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "40": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "16": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "41": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "17": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "42": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "18": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "43": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "19": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "44": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "20": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "45": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "21": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "46": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "22": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "47": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "23": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "48": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "24": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "49": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "25": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "50": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  }
+ },
+ "etec-2024-1sem": {
+  "1": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "26": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "2": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "27": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "3": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "28": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "4": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "29": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "5": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "30": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "6": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "31": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "7": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "32": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "8": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "33": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "9": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "34": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  },
+  "10": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "35": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "11": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "36": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "12": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "37": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "13": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "38": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "14": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "39": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "15": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "40": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "16": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "41": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "17": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "42": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "18": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "43": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "19": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "44": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "20": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "45": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "21": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "46": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "22": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "47": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "23": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "48": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "24": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "49": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "25": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "50": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  }
+ },
+ "etec-2024-2sem": {
+  "1": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "2": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "3": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "4": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "5": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "6": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "7": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "8": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "9": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "10": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "11": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "12": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "13": {
+   "g": "A",
+   "comp": "C5",
+   "disc": null
+  },
+  "14": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "15": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "16": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "17": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "18": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "19": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "20": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "21": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "22": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "23": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "24": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "25": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null,
+   "retificada": true
+  },
+  "26": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "27": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "28": {
+   "g": "A",
+   "comp": "C5",
+   "disc": null
+  },
+  "29": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "30": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "31": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "32": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "33": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "34": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "35": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "36": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "37": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "38": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "39": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "40": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "41": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "42": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "43": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "44": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "45": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "46": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "47": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "48": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "49": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "50": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  }
+ },
+ "etec-2025-1sem": {
+  "1": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "26": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "2": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "27": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "3": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "28": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "4": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "29": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "5": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "30": {
+   "g": "A",
+   "comp": "C5",
+   "disc": null
+  },
+  "6": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "31": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "7": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "32": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "8": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "33": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "9": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "34": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "10": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "35": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "11": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "36": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "12": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "37": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "13": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "38": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "14": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "39": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "15": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "40": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "16": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "41": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "17": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "42": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "18": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "43": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "19": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "44": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "20": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "45": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "21": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "46": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "22": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "47": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "23": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "48": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "24": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "49": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "25": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "50": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  }
+ },
+ "etec-2026-1sem": {
+  "1": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "26": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "2": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "27": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "3": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "28": {
+   "g": "E",
+   "comp": "C4",
+   "disc": null
+  },
+  "4": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "29": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "5": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "30": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "6": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "31": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "7": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "32": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "8": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "33": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "9": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "34": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "10": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "35": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "11": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "36": {
+   "g": "D",
+   "comp": "C4",
+   "disc": null
+  },
+  "12": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "37": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "13": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "38": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "14": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "39": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "15": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "40": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "16": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "41": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "17": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "42": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "18": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "43": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "19": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "44": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "20": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "45": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "21": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "46": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "22": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "47": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "23": {
+   "g": "A",
+   "comp": "C2",
+   "disc": null
+  },
+  "48": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "24": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "49": {
+   "g": "C",
+   "comp": "C3",
+   "disc": null
+  },
+  "25": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "50": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  }
+ },
+ "etec-2026-2sem": {
+  "1": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "26": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "2": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "27": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "3": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "28": {
+   "g": "A",
+   "comp": "C5",
+   "disc": null
+  },
+  "4": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "29": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "5": {
+   "g": "D",
+   "comp": "C5",
+   "disc": null
+  },
+  "30": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "6": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "31": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "7": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "32": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "8": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "33": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "9": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "34": {
+   "g": "C",
+   "comp": "C1",
+   "disc": null
+  },
+  "10": {
+   "g": "B",
+   "comp": "C4",
+   "disc": null
+  },
+  "35": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "11": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "36": {
+   "g": "A",
+   "comp": "C5",
+   "disc": null
+  },
+  "12": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "37": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "13": {
+   "g": "A",
+   "comp": "C4",
+   "disc": null
+  },
+  "38": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "14": {
+   "g": "E",
+   "comp": "C5",
+   "disc": null
+  },
+  "39": {
+   "g": "C",
+   "comp": "C4",
+   "disc": null
+  },
+  "15": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "40": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "16": {
+   "g": "A",
+   "comp": "C1",
+   "disc": null
+  },
+  "41": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "17": {
+   "g": "B",
+   "comp": "C3",
+   "disc": null
+  },
+  "42": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "18": {
+   "g": "B",
+   "comp": "C2",
+   "disc": null
+  },
+  "43": {
+   "g": "D",
+   "comp": "C1",
+   "disc": null
+  },
+  "19": {
+   "g": "D",
+   "comp": "C3",
+   "disc": null
+  },
+  "44": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "20": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "45": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "21": {
+   "g": "C",
+   "comp": "C5",
+   "disc": null
+  },
+  "46": {
+   "g": "E",
+   "comp": "C3",
+   "disc": null
+  },
+  "22": {
+   "g": "C",
+   "comp": "C2",
+   "disc": null
+  },
+  "47": {
+   "g": "A",
+   "comp": "C3",
+   "disc": null
+  },
+  "23": {
+   "g": "E",
+   "comp": "C1",
+   "disc": null
+  },
+  "48": {
+   "g": "D",
+   "comp": "C2",
+   "disc": null
+  },
+  "24": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "49": {
+   "g": "E",
+   "comp": "C2",
+   "disc": null
+  },
+  "25": {
+   "g": "B",
+   "comp": "C1",
+   "disc": null
+  },
+  "50": {
+   "g": "B",
+   "comp": "C5",
+   "disc": null
+  }
+ },
+ "fatec-2017-1sem": {
+  "1": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "28": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "2": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "29": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "3": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "30": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "4": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "31": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "5": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "32": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "6": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "33": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "7": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "34": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "8": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "35": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "9": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "36": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "10": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "37": {
+   "g": "A",
+   "comp": null,
+   "disc": "Física"
+  },
+  "11": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "38": {
+   "g": "C",
+   "comp": null,
+   "disc": "Física"
+  },
+  "12": {
+   "g": "E",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "39": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "13": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "40": {
+   "g": "C",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "14": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "41": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "15": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "42": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "16": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "43": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "17": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "44": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "18": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "45": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "19": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "46": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "20": {
+   "g": "E",
+   "comp": null,
+   "disc": "Química"
+  },
+  "47": {
+   "g": "B",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "21": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "48": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "22": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "49": {
+   "g": "B",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "23": {
+   "g": "E",
+   "comp": null,
+   "disc": "Química"
+  },
+  "50": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "24": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "51": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "25": {
+   "g": "C",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "52": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "26": {
+   "g": "B",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "53": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "27": {
+   "g": "A",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "54": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  }
+ },
+ "fatec-2017-2sem": {
+  "1": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "28": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "2": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "29": {
+   "g": "A",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "3": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "30": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "4": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "31": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "5": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "32": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "6": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "33": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "7": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "34": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "8": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "35": {
+   "g": "A",
+   "comp": null,
+   "disc": "Física"
+  },
+  "9": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "36": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "10": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "37": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "11": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "38": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "12": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "39": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "13": {
+   "g": "E",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "40": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "14": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "41": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "15": {
+   "g": "A",
+   "comp": null,
+   "disc": "História"
+  },
+  "42": {
+   "g": "C",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "16": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "43": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "17": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "44": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "18": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "45": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "19": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "46": {
+   "g": "B",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "20": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "47": {
+   "g": "A",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "21": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "48": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "22": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "49": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "23": {
+   "g": "A",
+   "comp": null,
+   "disc": "Química"
+  },
+  "50": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "24": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "51": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "25": {
+   "g": "C",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "52": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "26": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "53": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "27": {
+   "g": "B",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "54": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  }
+ },
+ "fatec-2018-1sem": {
+  "1": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "28": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "2": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "29": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "3": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "30": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "4": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "31": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "5": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "32": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "6": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "33": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "7": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "34": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "8": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "35": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "9": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "36": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "10": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "37": {
+   "g": "A",
+   "comp": null,
+   "disc": "Física"
+  },
+  "11": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "38": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "12": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "39": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "13": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "40": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "14": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "41": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "15": {
+   "g": "A",
+   "comp": null,
+   "disc": "História"
+  },
+  "42": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "16": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "43": {
+   "g": "C",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "17": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "44": {
+   "g": "B",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "18": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "45": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "19": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "46": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "20": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "47": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "21": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "48": {
+   "g": "B",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "22": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "49": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "23": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "50": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "24": {
+   "g": "A",
+   "comp": null,
+   "disc": "Química"
+  },
+  "51": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "25": {
+   "g": "A",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "52": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "26": {
+   "g": "B",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "53": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "27": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "54": {
+   "g": "A",
+   "comp": null,
+   "disc": "Português"
+  }
+ },
+ "fatec-2018-2sem": {
+  "1": {
+   "g": "E",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "28": {
+   "g": "A",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "2": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "29": {
+   "g": "C",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "3": {
+   "g": "A",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "30": {
+   "g": "E",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "4": {
+   "g": "D",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "31": {
+   "g": "B",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "5": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "32": {
+   "g": "ANULADA",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "6": {
+   "g": "D",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "33": {
+   "g": "C",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "7": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "34": {
+   "g": "ANULADA",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "8": {
+   "g": "D",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "35": {
+   "g": "C",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "9": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "36": {
+   "g": "A",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "10": {
+   "g": "C",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "37": {
+   "g": "D",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "11": {
+   "g": "B",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "38": {
+   "g": "A",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "12": {
+   "g": "D",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "39": {
+   "g": "C",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "13": {
+   "g": "D",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "40": {
+   "g": "B",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "14": {
+   "g": "B",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "41": {
+   "g": "A",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "15": {
+   "g": "C",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "42": {
+   "g": "D",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "16": {
+   "g": "E",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "43": {
+   "g": "A",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "17": {
+   "g": "A",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "44": {
+   "g": "D",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "18": {
+   "g": "E",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "45": {
+   "g": "D",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "19": {
+   "g": "B",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "46": {
+   "g": "C",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "20": {
+   "g": "B",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "47": {
+   "g": "D",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "21": {
+   "g": "C",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "48": {
+   "g": "C",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "22": {
+   "g": "B",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "49": {
+   "g": "C",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "23": {
+   "g": "E",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "50": {
+   "g": "E",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "24": {
+   "g": "D",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "51": {
+   "g": "B",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "25": {
+   "g": "D",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "52": {
+   "g": "A",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "26": {
+   "g": "E",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "53": {
+   "g": "B",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "27": {
+   "g": "D",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "54": {
+   "g": "C",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  }
+ },
+ "fatec-2019-1sem": {
+  "1": {
+   "g": "E",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "28": {
+   "g": "C",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "2": {
+   "g": "A",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "29": {
+   "g": "B",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "3": {
+   "g": "C",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "30": {
+   "g": "ANULADA",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "4": {
+   "g": "A",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "31": {
+   "g": "C",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "5": {
+   "g": "D",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "32": {
+   "g": "C",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "6": {
+   "g": "A",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "33": {
+   "g": "D",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "7": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "34": {
+   "g": "B",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "8": {
+   "g": "A",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "35": {
+   "g": "E",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "9": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "36": {
+   "g": "D",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "10": {
+   "g": "D",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "37": {
+   "g": "B",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "11": {
+   "g": "B",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "38": {
+   "g": "D",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "12": {
+   "g": "E",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "39": {
+   "g": "E",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "13": {
+   "g": "B",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "40": {
+   "g": "B",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "14": {
+   "g": "A",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "41": {
+   "g": "C",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "15": {
+   "g": "B",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "42": {
+   "g": "B",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "16": {
+   "g": "C",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "43": {
+   "g": "A",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "17": {
+   "g": "C",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "44": {
+   "g": "E",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "18": {
+   "g": "D",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "45": {
+   "g": "B",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "19": {
+   "g": "A",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "46": {
+   "g": "E",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "20": {
+   "g": "E",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "47": {
+   "g": "B",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "21": {
+   "g": "B",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "48": {
+   "g": "A",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "22": {
+   "g": "B",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "49": {
+   "g": "C",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "23": {
+   "g": "A",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "50": {
+   "g": "B",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "24": {
+   "g": "E",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "51": {
+   "g": "E",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "25": {
+   "g": "C",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "52": {
+   "g": "D",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "26": {
+   "g": "A",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "53": {
+   "g": "A",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "27": {
+   "g": "E",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "54": {
+   "g": "C",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  }
+ },
+ "fatec-2019-2sem": {
+  "1": {
+   "g": "D",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "28": {
+   "g": "C",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "2": {
+   "g": "C",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "29": {
+   "g": "E",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "3": {
+   "g": "D",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "30": {
+   "g": "D",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "4": {
+   "g": "E",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "31": {
+   "g": "B",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "5": {
+   "g": "A",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "32": {
+   "g": "A",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "6": {
+   "g": "D",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "33": {
+   "g": "D",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "7": {
+   "g": "D",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "34": {
+   "g": "ANULADA",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "8": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "35": {
+   "g": "B",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "9": {
+   "g": "E",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "36": {
+   "g": "C",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "10": {
+   "g": "C",
+   "comp": null,
+   "disc": "RAC LÓGICO"
+  },
+  "37": {
+   "g": "C",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "11": {
+   "g": "A",
+   "comp": null,
+   "disc": "RAC LÓGICO"
+  },
+  "38": {
+   "g": "B",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "12": {
+   "g": "B",
+   "comp": null,
+   "disc": "RAC LÓGICO"
+  },
+  "39": {
+   "g": "E",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "13": {
+   "g": "D",
+   "comp": null,
+   "disc": "RAC LÓGICO"
+  },
+  "40": {
+   "g": "E",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "14": {
+   "g": "C",
+   "comp": null,
+   "disc": "RAC LÓGICO"
+  },
+  "41": {
+   "g": "B",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "15": {
+   "g": "B",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "42": {
+   "g": "E",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "16": {
+   "g": "C",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "43": {
+   "g": "B",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "17": {
+   "g": "C",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "44": {
+   "g": "D",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "18": {
+   "g": "D",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "45": {
+   "g": "D",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "19": {
+   "g": "E",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "46": {
+   "g": "B",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "20": {
+   "g": "A",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "47": {
+   "g": "E",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "21": {
+   "g": "B",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "48": {
+   "g": "B",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "22": {
+   "g": "E",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "49": {
+   "g": "B",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "23": {
+   "g": "B",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "50": {
+   "g": "B",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "24": {
+   "g": "E",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "51": {
+   "g": "C",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "25": {
+   "g": "D",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "52": {
+   "g": "B",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "26": {
+   "g": "B",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "53": {
+   "g": "D",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "27": {
+   "g": "E",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "54": {
+   "g": "E",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  }
+ },
+ "fatec-2020-1sem": {
+  "1": {
+   "g": "A",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "28": {
+   "g": "E",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "2": {
+   "g": "C",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "29": {
+   "g": "B",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "3": {
+   "g": "D",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "30": {
+   "g": "B",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "4": {
+   "g": "A",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "31": {
+   "g": "D",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "5": {
+   "g": "B",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "32": {
+   "g": "C",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "6": {
+   "g": "D",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "33": {
+   "g": "B",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "7": {
+   "g": "A",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "34": {
+   "g": "D",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "8": {
+   "g": "C",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "35": {
+   "g": "D",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "9": {
+   "g": "B",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "36": {
+   "g": "A",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "10": {
+   "g": "E",
+   "comp": null,
+   "disc": null
+  },
+  "37": {
+   "g": "E",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "11": {
+   "g": "C",
+   "comp": null,
+   "disc": null
+  },
+  "38": {
+   "g": "C",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "12": {
+   "g": "B",
+   "comp": null,
+   "disc": null
+  },
+  "39": {
+   "g": "B",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "13": {
+   "g": "E",
+   "comp": null,
+   "disc": null
+  },
+  "40": {
+   "g": "D",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "14": {
+   "g": "E",
+   "comp": null,
+   "disc": null
+  },
+  "41": {
+   "g": "B",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "15": {
+   "g": "D",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "42": {
+   "g": "D",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "16": {
+   "g": "A",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "43": {
+   "g": "E",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "17": {
+   "g": "D",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "44": {
+   "g": "E",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "18": {
+   "g": "C",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "45": {
+   "g": "A",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "19": {
+   "g": "A",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "46": {
+   "g": "E",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "20": {
+   "g": "B",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "47": {
+   "g": "C",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "21": {
+   "g": "C",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "48": {
+   "g": "B",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "22": {
+   "g": "D",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "49": {
+   "g": "C",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "23": {
+   "g": "C",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "50": {
+   "g": "E",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "24": {
+   "g": "B",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "51": {
+   "g": "C",
+   "comp": null,
+   "disc": "ANULADA"
+  },
+  "25": {
+   "g": "D",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "52": {
+   "g": "A",
+   "comp": null,
+   "disc": "ANULADA"
+  },
+  "26": {
+   "g": "A",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "53": {
+   "g": "B",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "27": {
+   "g": "E",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "54": {
+   "g": "D",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  }
+ },
+ "fatec-2022-2sem": {
+  "1": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "28": {
+   "g": "B",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "2": {
+   "g": "C",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "29": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "3": {
+   "g": "D",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "30": {
+   "g": "E",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "4": {
+   "g": "B",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "31": {
+   "g": "E",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "5": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "32": {
+   "g": "C",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "6": {
+   "g": "C",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "33": {
+   "g": "B",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "7": {
+   "g": "C",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "34": {
+   "g": "C",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "8": {
+   "g": "B",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "35": {
+   "g": "E",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "9": {
+   "g": "E",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "36": {
+   "g": "E",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "10": {
+   "g": "C",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "37": {
+   "g": "D",
+   "comp": null,
+   "disc": "BIOLOGIA"
+  },
+  "11": {
+   "g": "C",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "38": {
+   "g": "A",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "12": {
+   "g": "C",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "39": {
+   "g": "A",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "13": {
+   "g": "A",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "40": {
+   "g": "B",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "14": {
+   "g": "E",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "41": {
+   "g": "C",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "15": {
+   "g": "D",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "42": {
+   "g": "C",
+   "comp": null,
+   "disc": "QUÍMICA"
+  },
+  "16": {
+   "g": "A",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "43": {
+   "g": "D",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "17": {
+   "g": "B",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "44": {
+   "g": "E",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "18": {
+   "g": "B",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "45": {
+   "g": "E",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "19": {
+   "g": "C",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "46": {
+   "g": "E",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "20": {
+   "g": "B",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "47": {
+   "g": "D",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "21": {
+   "g": "E",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "48": {
+   "g": "A",
+   "comp": null,
+   "disc": "FÍSICA"
+  },
+  "22": {
+   "g": "C",
+   "comp": null,
+   "disc": "MATEMÁTICA"
+  },
+  "49": {
+   "g": "B",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "23": {
+   "g": "A",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "50": {
+   "g": "C",
+   "comp": null,
+   "disc": "INGLÊS"
+  },
+  "24": {
+   "g": "B",
+   "comp": null,
+   "disc": "GEOGRAFIA"
+  },
+  "51": {
+   "g": "C",
+   "comp": null,
+   "disc": "MULTIDISCIPLINAR"
+  },
+  "25": {
+   "g": "B",
+   "comp": null,
+   "disc": "RACIOCÍNIO LÓGICO"
+  },
+  "52": {
+   "g": "E",
+   "comp": null,
+   "disc": "HISTÓRIA"
+  },
+  "26": {
+   "g": "D",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "53": {
+   "g": "D",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "27": {
+   "g": "E",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  },
+  "54": {
+   "g": "D",
+   "comp": null,
+   "disc": "PORTUGUÊS"
+  }
+ },
+ "fatec-2023-1sem": {
+  "1": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "28": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "2": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "29": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "3": {
+   "g": "B",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "30": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "4": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "31": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "5": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "32": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "6": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "33": {
+   "g": "C",
+   "comp": null,
+   "disc": "Física"
+  },
+  "7": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "34": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "8": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "35": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "9": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "36": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "10": {
+   "g": "E",
+   "comp": null,
+   "disc": "Química"
+  },
+  "37": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "11": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "38": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "12": {
+   "g": "A",
+   "comp": null,
+   "disc": "Português"
+  },
+  "39": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "13": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "40": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "14": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "41": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "15": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "42": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "16": {
+   "g": "B",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "43": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "17": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "44": {
+   "g": "C",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "18": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "45": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "19": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "46": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "20": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "47": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "21": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "48": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "22": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "49": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "23": {
+   "g": "B",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "50": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "24": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "51": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "25": {
+   "g": "B",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "52": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "26": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "53": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "27": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "54": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  }
+ },
+ "fatec-2023-2sem": {
+  "1": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "29": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "2": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "30": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "3": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "31": {
+   "g": "A",
+   "comp": null,
+   "disc": "Química"
+  },
+  "4": {
+   "g": "A",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "32": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "5": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "33": {
+   "g": "E",
+   "comp": null,
+   "disc": "Química"
+  },
+  "6": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "34": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "7": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "35": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "8": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "36": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "9": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "37": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "10": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "38": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "11": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "39": {
+   "g": "ANULADA",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "12": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "40": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "13": {
+   "g": "C",
+   "comp": null,
+   "disc": "Física"
+  },
+  "41": {
+   "g": "A",
+   "comp": null,
+   "disc": "Química"
+  },
+  "14": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "42": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "15": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "43": {
+   "g": "A",
+   "comp": null,
+   "disc": "Química"
+  },
+  "16": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "44": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "17": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "45": {
+   "g": "C",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "18": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "46": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "19": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "47": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "20": {
+   "g": "E",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "48": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "21": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "49": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "22": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "50": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "23": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "51": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "24": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "52": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "25": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "53": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "26": {
+   "g": "C",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "54": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "27": {
+   "g": "C",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "28": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  }
+ },
+ "fatec-2024-1sem": {
+  "1": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "29": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "2": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "30": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "3": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "31": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "4": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "32": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "5": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "33": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "6": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "34": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "7": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "35": {
+   "g": "B",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "8": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "36": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "9": {
+   "g": "A",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "37": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "10": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "38": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "11": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "39": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "12": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "40": {
+   "g": "A",
+   "comp": null,
+   "disc": "Química"
+  },
+  "13": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "41": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "14": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "42": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "15": {
+   "g": "E",
+   "comp": null,
+   "disc": "Química"
+  },
+  "43": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "16": {
+   "g": "A",
+   "comp": null,
+   "disc": "Química"
+  },
+  "44": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "17": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "45": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "18": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "46": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "19": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "47": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "20": {
+   "g": "A",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "48": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "21": {
+   "g": "C",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "49": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "22": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "50": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "23": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "51": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "24": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "52": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "25": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "53": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "26": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "54": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "27": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "28": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  }
+ },
+ "fatec-2024-2sem": {
+  "1": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "2": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "3": {
+   "g": "E",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "4": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "5": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "6": {
+   "g": "C",
+   "comp": null,
+   "disc": "Física"
+  },
+  "7": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "8": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "9": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "10": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "11": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "12": {
+   "g": "B",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "13": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "14": {
+   "g": "B",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "15": {
+   "g": "A",
+   "comp": null,
+   "disc": "Química"
+  },
+  "16": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "17": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "18": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "19": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "20": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "21": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "22": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "23": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "24": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "25": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "26": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "27": {
+   "g": "A",
+   "comp": null,
+   "disc": "Português"
+  },
+  "28": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "29": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "30": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "31": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "32": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "33": {
+   "g": "E",
+   "comp": null,
+   "disc": "Química"
+  },
+  "34": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "35": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "36": {
+   "g": "C",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "37": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "38": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "39": {
+   "g": "A",
+   "comp": null,
+   "disc": "Física"
+  },
+  "40": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "41": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "42": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "43": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "44": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática",
+   "retificada": true
+  },
+  "45": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "46": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "47": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "48": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "49": {
+   "g": "A",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "50": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "51": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "52": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "53": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "54": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  }
+ },
+ "fatec-2025-2sem": {
+  "1": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "34": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "2": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "35": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "3": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "36": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "4": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "37": {
+   "g": "E",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "5": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "38": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "6": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "39": {
+   "g": "A",
+   "comp": null,
+   "disc": "História"
+  },
+  "7": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "40": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "8": {
+   "g": "C",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "41": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "9": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "42": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "10": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "43": {
+   "g": "B",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "11": {
+   "g": "A",
+   "comp": null,
+   "disc": "História"
+  },
+  "44": {
+   "g": "E",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "12": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "45": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "13": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "46": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "14": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "47": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "15": {
+   "g": "A",
+   "comp": null,
+   "disc": "Física"
+  },
+  "48": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "16": {
+   "g": "A",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "49": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "17": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "50": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "18": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "51": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "19": {
+   "g": "C",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "52": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "20": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "53": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "21": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "54": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "22": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "55": {
+   "g": "E",
+   "comp": null,
+   "disc": "Química"
+  },
+  "23": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "56": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "24": {
+   "g": "B",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "57": {
+   "g": "A",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "25": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "58": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "26": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "59": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "27": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "60": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "28": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "29": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "30": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "31": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "32": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "33": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "61": {
+   "g": "A",
+   "comp": null,
+   "disc": "Física"
+  },
+  "62": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "63": {
+   "g": "C",
+   "comp": null,
+   "disc": "Física"
+  },
+  "64": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  }
+ },
+ "fatec-2026-1sem": {
+  "1": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "32": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "2": {
+   "g": "A",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "33": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "3": {
+   "g": "B",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "34": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "4": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "35": {
+   "g": "C",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "5": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "36": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "6": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "37": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "7": {
+   "g": "A",
+   "comp": null,
+   "disc": "Física"
+  },
+  "38": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "8": {
+   "g": "A",
+   "comp": null,
+   "disc": "Física"
+  },
+  "39": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "9": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "40": {
+   "g": "E",
+   "comp": null,
+   "disc": "Química"
+  },
+  "10": {
+   "g": "B",
+   "comp": null,
+   "disc": "Física"
+  },
+  "41": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "11": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "42": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "12": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "43": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "13": {
+   "g": "C",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "44": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "14": {
+   "g": "B",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "45": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "15": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "46": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "16": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "47": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "17": {
+   "g": "B",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "48": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "18": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "49": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "19": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "50": {
+   "g": "E",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "20": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "51": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "21": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "52": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "22": {
+   "g": "A",
+   "comp": null,
+   "disc": "História"
+  },
+  "53": {
+   "g": "A",
+   "comp": null,
+   "disc": "Português"
+  },
+  "23": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "54": {
+   "g": "A",
+   "comp": null,
+   "disc": "Português"
+  },
+  "24": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "55": {
+   "g": "A",
+   "comp": null,
+   "disc": "Português"
+  },
+  "25": {
+   "g": "C",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "56": {
+   "g": "D",
+   "comp": null,
+   "disc": "Português"
+  },
+  "26": {
+   "g": "A",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "57": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "27": {
+   "g": "B",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "58": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "28": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "59": {
+   "g": "A",
+   "comp": null,
+   "disc": "Português"
+  },
+  "29": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "60": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "30": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "31": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  }
+ },
+ "fatec-2026-2sem": {
+  "1": {
+   "g": "D",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "32": {
+   "g": "E",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "2": {
+   "g": "C",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "33": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "3": {
+   "g": "B",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "34": {
+   "g": "C",
+   "comp": null,
+   "disc": "Física"
+  },
+  "4": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "35": {
+   "g": "E",
+   "comp": null,
+   "disc": "Física"
+  },
+  "5": {
+   "g": "E",
+   "comp": null,
+   "disc": "Biologia"
+  },
+  "36": {
+   "g": "A",
+   "comp": null,
+   "disc": "Física"
+  },
+  "6": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "37": {
+   "g": "D",
+   "comp": null,
+   "disc": "Física"
+  },
+  "7": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "38": {
+   "g": "C",
+   "comp": null,
+   "disc": "Física"
+  },
+  "8": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "39": {
+   "g": "B",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "9": {
+   "g": "D",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "40": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "10": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "41": {
+   "g": "E",
+   "comp": null,
+   "disc": "História"
+  },
+  "11": {
+   "g": "E",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "42": {
+   "g": "B",
+   "comp": null,
+   "disc": "História"
+  },
+  "12": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "43": {
+   "g": "C",
+   "comp": null,
+   "disc": "História"
+  },
+  "13": {
+   "g": "B",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "44": {
+   "g": "D",
+   "comp": null,
+   "disc": "História"
+  },
+  "14": {
+   "g": "A",
+   "comp": null,
+   "disc": "Matemática"
+  },
+  "45": {
+   "g": "A",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "15": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "46": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "16": {
+   "g": "E",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "47": {
+   "g": "D",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "17": {
+   "g": "B",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "48": {
+   "g": "B",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "18": {
+   "g": "D",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "49": {
+   "g": "C",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "19": {
+   "g": "C",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "50": {
+   "g": "A",
+   "comp": null,
+   "disc": "Raciocínio Lógico"
+  },
+  "20": {
+   "g": "A",
+   "comp": null,
+   "disc": "Geografia"
+  },
+  "51": {
+   "g": "E",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "21": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "52": {
+   "g": "E",
+   "comp": null,
+   "disc": "Português"
+  },
+  "22": {
+   "g": "D",
+   "comp": null,
+   "disc": "Química"
+  },
+  "53": {
+   "g": "A",
+   "comp": null,
+   "disc": "Português"
+  },
+  "23": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "54": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "24": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "55": {
+   "g": "A",
+   "comp": null,
+   "disc": "Português"
+  },
+  "25": {
+   "g": "C",
+   "comp": null,
+   "disc": "Química"
+  },
+  "56": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "26": {
+   "g": "B",
+   "comp": null,
+   "disc": "Química"
+  },
+  "57": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "27": {
+   "g": "C",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "58": {
+   "g": "C",
+   "comp": null,
+   "disc": "Português"
+  },
+  "28": {
+   "g": "B",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "59": {
+   "g": "B",
+   "comp": null,
+   "disc": "Português"
+  },
+  "29": {
+   "g": "C",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "60": {
+   "g": "D",
+   "comp": null,
+   "disc": "Multidisciplinar"
+  },
+  "30": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  },
+  "31": {
+   "g": "D",
+   "comp": null,
+   "disc": "Inglês"
+  }
+ }
+}

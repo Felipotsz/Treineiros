@@ -1,0 +1,1347 @@
+{
+  "id": "etec-2017-2sem",
+  "banca": "ETEC",
+  "ano": 2017,
+  "semestre": 2,
+  "titulo": "Vestibulinho ETEC, 2º semestre de 2017",
+  "fonte": "Centro Paula Souza",
+  "dataExame": "2017-06-11",
+  "duracaoMinutos": 240,
+  "tema": "Diversão",
+  "apresentacao": "<p>Prezado(a) candidato(a), nesta prova, você terá contato com diversas formas de diversão e sua relação com as áreas do conhecimento. Matemática e Geografia, por exemplo, estão presentes em jogos de tabuleiro. Linguagens, História e Ciências, em filmes. Assim como você pode se divertir de várias maneiras, também pode se divertir enquanto aprende.</p><p>Boa prova e divirta-se!</p>",
+  "pdf": "assets/provas/etec-2017-2sem.pdf",
+  "imagensProva": {
+    "apresentacao": {
+      "src": "assets/img/etec-2017-2sem/apresentacao.webp",
+      "alt": "Ícones de pessoas se divertindo: uma família, um banco de praça, uma pipa, alguém passeando com o cachorro, uma criança com balão, pessoas jogando à mesa, alguém de bicicleta, uma criança correndo e outra no balanço."
+    }
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Geografia",
+      "assunto": "Hidrografia",
+      "origem": {
+        "numeroOriginal": 1
+      },
+      "enunciado": "<p>Um dos grandes divertimentos na cidade de São Paulo, no início do século XX, era acompanhar as grandes regatas que aconteciam no rio Tietê.</p><p>Disputas de natação também ocorriam nesse rio, além das tradicionais pescarias em suas margens.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/k3k67v8&gt; Acesso em: 13.02.2017.</p><p>Esse rio</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q01.webp",
+          "alt": "Foto antiga, em preto e branco, de barcos de remo no rio Tietê, com pessoas assistindo das margens e uma ponte e prédios ao fundo."
+        }
+      ],
+      "alternativas": {
+        "A": "nasce na cidade de São Paulo e deságua na cidade de Santos.",
+        "B": "nasce na Serra do Mar, corre para o interior e deságua no rio Paraná.",
+        "C": "é um afluente do rio Grande, corre para oeste e deságua no oceano Pacífico.",
+        "D": "é um afluente do rio Pinheiros, correndo em direção ao Vale do Paraíba.",
+        "E": "é um afluente do rio Piracicaba e deságua no oceano Atlântico."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O Tietê <strong>nasce na Serra do Mar</strong>, em Salesópolis, a poucos quilômetros do litoral, mas corre <strong>para o interior</strong>, atravessa o estado de São Paulo e <strong>deságua no rio Paraná</strong>. Alternativa <strong>B</strong>.</p><p>Ele não nasce na capital nem deságua em Santos (A). Não é afluente do rio Grande nem chega ao Pacífico (C). O Pinheiros é que é afluente do Tietê, e o Tietê não vai para o Vale do Paraíba (D). E o Piracicaba é afluente do Tietê, não o contrário (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "rio Tietê"
+      ]
+    },
+    {
+      "numero": 2,
+      "materia": "Química",
+      "assunto": "Substâncias e misturas",
+      "origem": {
+        "numeroOriginal": 2
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto, que brinca com dois conceitos químicos, para responder às questões de números 02 e 03.</p><p class=\"apoio\">• Por que tomar água no meio da aula prejudica o aprendizado?<br>Resposta: Porque ela diminui a concentração.</p><p class=\"apoio\">• Um nêutron entra num bar e pergunta: – Qual o valor da bebida?<br>O garçom responde: – Pra você? É zero!</p><p>A ideia química, no primeiro exemplo se refere ao conceito de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "diluição.",
+        "B": "dissolução.",
+        "C": "evaporação.",
+        "D": "destilação fracionada.",
+        "E": "separação de misturas."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A piada joga com dois sentidos de “concentração”: a atenção do aluno e a concentração de uma solução. Ao acrescentar água, a solução fica mais <strong>diluída</strong>, isto é, sua concentração diminui. Alternativa <strong>A</strong>.</p><p>Dissolução é o ato de dissolver um soluto (B). Evaporação aumentaria a concentração (C). E destilação e separação de misturas não se relacionam com a piada (D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "concentração"
+      ]
+    },
+    {
+      "numero": 3,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 3
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto, que brinca com dois conceitos químicos, para responder às questões de números 02 e 03.</p><p class=\"apoio\">• Por que tomar água no meio da aula prejudica o aprendizado?<br>Resposta: Porque ela diminui a concentração.</p><p class=\"apoio\">• Um nêutron entra num bar e pergunta: – Qual o valor da bebida?<br>O garçom responde: – Pra você? É zero!</p><p>No segundo exemplo, o valor da bebida faz analogia</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a carga elétrica do nêutron.",
+        "B": "a massa atômica do nêutron.",
+        "C": "a massa molecular do nêutron.",
+        "D": "ao número de massa do nêutron.",
+        "E": "ao grupo na tabela periódica do nêutron."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O nêutron não tem carga elétrica: sua <strong>carga é zero</strong>. O garçom diz que, para ele, o valor “é zero”. Alternativa <strong>A</strong>.</p><p>A massa do nêutron não é zero; vale cerca de 1 u (B e D). Nêutron não é molécula (C). E ele não ocupa grupo na tabela periódica, que organiza elementos (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 4
+      },
+      "enunciado": "<p class=\"chamada\">Leia o cartum e responda às questões de números 04 e 05.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/jbakwyq&gt; Acesso em: 10.02.2017.</p><p>O cartum lido trata de maneira cômica o problema vivenciado por um aluno.</p><p>O humor está baseado no fato de o aluno</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q04.webp",
+          "alt": "Cartum de A. J. Talber. Um aluno lê uma folha diante do quadro, onde está escrito “Aula de hoje: redação. Tema: a situação mais apavorante da sua vida”. No alto, o texto dele: “Tudo começou quando acordei e descobri que meu computador estava sem conexão com a internet e meu celular com o sinal fraco. Subi no telhado, e ao conseguir sinal pro celular, a bateria descarregou. O mesmo ocorreu com o celular do meu pai, da minha mãe, e da minha irmã. Quando fui recarregar a bateria, faltou energia elétrica, e então, sobreveio o pavor absoluto…”"
+        }
+      ],
+      "alternativas": {
+        "A": "não entender o tema da redação.",
+        "B": "não ter permissão para usar o celular de seus familiares.",
+        "C": "conseguir consertar seu computador que estava quebrado.",
+        "D": "tratar como apavorante ficar sem acesso a dispositivos tecnológicos.",
+        "E": "não poder terminar sua redação por conta da falta de energia elétrica."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O tema da redação é “a situação mais apavorante da sua vida”, e o aluno escreve sobre ficar sem internet, sem celular e sem energia. O humor está em <strong>tratar como apavorante ficar sem acesso a dispositivos tecnológicos</strong>. Alternativa <strong>D</strong>.</p><p>Ele entendeu o tema (A). Usou o celular dos familiares, que também descarregou (B). Não consertou o computador (C). E a falta de energia é parte da história, não o motivo de não terminar a redação (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "cartum"
+      ]
+    },
+    {
+      "numero": 5,
+      "materia": "Português",
+      "assunto": "Verbos",
+      "origem": {
+        "numeroOriginal": 5
+      },
+      "enunciado": "<p class=\"chamada\">Leia o cartum e responda às questões de números 04 e 05.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/jbakwyq&gt; Acesso em: 10.02.2017.</p><p>Releia os períodos retirados do cartum.</p><p class=\"apoio\">\"[...] quando <strong>acordei</strong> e <strong>descobri</strong> que meu computador estava sem conexão com a internet [...]”</p><p>Ao analisarmos esses períodos, percebemos que o sujeito correspondente às formas verbais destacadas é oculto (ou desinencial), pois</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q04.webp",
+          "alt": "Cartum de A. J. Talber. Um aluno lê uma folha diante do quadro, onde está escrito “Aula de hoje: redação. Tema: a situação mais apavorante da sua vida”. No alto, o texto dele: “Tudo começou quando acordei e descobri que meu computador estava sem conexão com a internet e meu celular com o sinal fraco. Subi no telhado, e ao conseguir sinal pro celular, a bateria descarregou. O mesmo ocorreu com o celular do meu pai, da minha mãe, e da minha irmã. Quando fui recarregar a bateria, faltou energia elétrica, e então, sobreveio o pavor absoluto…”"
+        }
+      ],
+      "alternativas": {
+        "A": "possui um verbo impessoal.",
+        "B": "possui mais de um núcleo exposto na frase.",
+        "C": "possui somente um núcleo exposto na frase.",
+        "D": "os verbos apresentam-se na 3<sup>a</sup> pessoa do plural.",
+        "E": "é indicado pela desinência verbal."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Em “acordei” e “descobri”, o sujeito “eu” não aparece escrito, mas é <strong>indicado pela desinência verbal</strong> “-ei”/“-i”, da 1ª pessoa do singular. Alternativa <strong>E</strong>.</p><p>Os verbos não são impessoais (A). O sujeito não está exposto na frase, nem com um nem com vários núcleos (B e C). E os verbos estão na 1ª pessoa do singular (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sujeito oculto"
+      ]
+    },
+    {
+      "numero": 6,
+      "materia": "História",
+      "assunto": "Brasil Colônia",
+      "origem": {
+        "numeroOriginal": 6
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e observe a imagem para responder às questões de números 06 e 07.</p><p class=\"apoio\">Segundo a historiadora Laura de Mello e Souza, um dos principais divertimentos da população escravizada ou livre e pobre que vivia nas zonas de mineração eram as festas e procissões religiosas, celebradas com a ostentação típica dos tempos do barroco. Mais do que celebrações religiosas, estes eventos deixavam de lado momentaneamente a pobreza existente naquela época e demonstravam, entre outras coisas, aquilo que aquela sociedade gostaria de ser. Em uma dessas festas, de origem africana, um casal era coroado e reverenciado, como se vê na imagem.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/htna9r4&gt; Acesso em: 09.02.2017.</p><p>Sobre o ato representado na imagem, é correto afirmar que se trata</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q06.webp",
+          "alt": "Gravura de Rugendas: uma grande multidão de pessoas negras em festa ao ar livre, com bandeiras, tambores e dançarinos, cercando um casal coroado; à esquerda, homens a cavalo observam.",
+          "legenda": "Festa de Nossa Senhora do Rosário, padroeira dos negros. Rugendas, c. 1835."
+        }
+      ],
+      "alternativas": {
+        "A": "do Maracatu, que com a sua corte desfilava nas ruas das cidades de mineradores, celebrando a prosperidade que caracterizava toda aquela sociedade.",
+        "B": "do Carnaval, cujo rei Momo e rainha vinham em cavalos e carruagens enfeitadas, acompanhados por negros e brancos sem distinção.",
+        "C": "da Congada, que acontecia junto às festas católicas, com tambores e outros instrumentos, e saudava rei e rainha do Congo.",
+        "D": "da Festa do Bonfim, quando as escadarias das igrejas eram lavadas e perfumadas por um grande conjunto de pessoas.",
+        "E": "da Folia de Reis, que ocorria semanas antes do Natal, em que todos compareciam descalços e em silêncio."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A coroação de um rei e uma rainha negros, junto às festas católicas de Nossa Senhora do Rosário e ao som de tambores, é a <strong>Congada</strong>, que saudava o rei e a rainha do Congo. Alternativa <strong>C</strong>.</p><p>O maracatu é pernambucano, e a sociedade mineradora não era próspera para todos (A). O carnaval com rei Momo é muito posterior (B). A lavagem das escadarias é a festa do Bonfim, em Salvador (D). E a Folia de Reis acontece depois do Natal, com cantoria (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Congada",
+        "cultura afro-brasileira"
+      ]
+    },
+    {
+      "numero": 7,
+      "materia": "História",
+      "assunto": "Brasil Colônia",
+      "origem": {
+        "numeroOriginal": 7
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e observe a imagem para responder às questões de números 06 e 07.</p><p class=\"apoio\">Segundo a historiadora Laura de Mello e Souza, um dos principais divertimentos da população escravizada ou livre e pobre que vivia nas zonas de mineração eram as festas e procissões religiosas, celebradas com a ostentação típica dos tempos do barroco. Mais do que celebrações religiosas, estes eventos deixavam de lado momentaneamente a pobreza existente naquela época e demonstravam, entre outras coisas, aquilo que aquela sociedade gostaria de ser. Em uma dessas festas, de origem africana, um casal era coroado e reverenciado, como se vê na imagem.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/htna9r4&gt; Acesso em: 09.02.2017.</p><p>É correto afirmar que no século XVIII, a mineração</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q06.webp",
+          "alt": "Gravura de Rugendas: uma grande multidão de pessoas negras em festa ao ar livre, com bandeiras, tambores e dançarinos, cercando um casal coroado; à esquerda, homens a cavalo observam.",
+          "legenda": "Festa de Nossa Senhora do Rosário, padroeira dos negros. Rugendas, c. 1835."
+        }
+      ],
+      "alternativas": {
+        "A": "permitiu o enriquecimento das populações paraenses, que celebravam em grandes festas o fim da pobreza.",
+        "B": "contribuiu para a abolição da escravidão por meio da Lei Áurea, cujo nome fazia referência ao ouro.",
+        "C": "trouxe prosperidade à região de Cuiabá, onde foi fundada a nova capital do Brasil.",
+        "D": "foi a base sobre a qual se estruturaram as sociedades do nordeste colonial, sobretudo em Pernambuco.",
+        "E": "possibilitou o desenvolvimento do barroco mineiro, expresso na arquitetura e nas celebrações religiosas."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A riqueza do ouro em Minas Gerais financiou igrejas, esculturas e festas religiosas: é o <strong>barroco mineiro</strong>, de artistas como Aleijadinho. Alternativa <strong>E</strong>.</p><p>A mineração foi em Minas, Goiás e Mato Grosso, não no Pará, e a pobreza continuou (A). A Lei Áurea, de 1888, não tem relação com o ouro (B). A capital passou de Salvador para o Rio de Janeiro, não para Cuiabá (C). E o Nordeste colonial se estruturou no açúcar (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "mineração",
+        "barroco"
+      ]
+    },
+    {
+      "numero": 8,
+      "materia": "Química",
+      "assunto": "Substâncias e misturas",
+      "origem": {
+        "numeroOriginal": 8
+      },
+      "enunciado": "<p>Em Música, usam-se as partituras como meio de registro e guia para permitir tocar a peça musical como o compositor a criou. Em Química, utilizam-se protocolos experimentais como registro de um método procedimental predefinido para a implementação de experiências.</p><p>Numa partitura existem notas musicais... Poderiam as reações químicas ser traduzidas por notas musicais?</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/l9ml95o&gt; Acesso em 10.02.2017. Original colorido.</p><p>Na imagem temos uma analogia entre os instrumentos musicais e os equipamentos de laboratório. Observamos que as notas musicais escapam de um dos instrumentos, assim como uma substância gasosa escaparia de um recipiente aberto, em um experimento químico.</p><p>Um exemplo de substância que, em temperatura ambiente, se comportaria como as notas musicais na figura é o</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q08.webp",
+          "alt": "Ilustração de uma bateria e outros instrumentos musicais montados com vidrarias de laboratório, como balões, tubos de ensaio e suportes. Notas musicais saem do alto de um dos frascos, como um gás escapando."
+        }
+      ],
+      "alternativas": {
+        "A": "dióxido de carbono.",
+        "B": "hidróxido de sódio.",
+        "C": "cloreto de sódio.",
+        "D": "dióxido de silício.",
+        "E": "zinco."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Em temperatura ambiente, o <strong>dióxido de carbono</strong> (CO<sub>2</sub>) é um gás e escaparia de um recipiente aberto, como as notas musicais da figura. Alternativa <strong>A</strong>.</p><p>Hidróxido de sódio, cloreto de sódio, dióxido de silício (areia) e zinco são sólidos à temperatura ambiente (B, C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "estados físicos"
+      ]
+    },
+    {
+      "numero": 9,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 9
+      },
+      "enunciado": "<p>Numa partitura musical, figuras rítmicas são símbolos utilizados para representar a duração de cada nota ou acorde.</p><p>A tabela mostra o nome da figura rítmica, seu símbolo e o tempo de duração relativo.</p>[[fig:1]]<p>De acordo com a tabela, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q09.webp",
+          "alt": "Tabela com o nome da figura rítmica, seu símbolo musical e o tempo de duração relativo: semibreve, 1; mínima, 1/2; semínima, 1/4; colcheia, 1/8; semicolcheia, 1/16; fusa, 1/32; semifusa, 1/64."
+        }
+      ],
+      "alternativas": {
+        "A": "o tempo de duração da fusa é o dobro do tempo de duração da semicolcheia.",
+        "B": "o tempo de duração da mínima é metade do tempo de duração da semínima.",
+        "C": "a soma da duração de duas semínimas é igual ao tempo de duração de uma colcheia.",
+        "D": "com exceção da semibreve, cada figura rítmica apresenta metade do tempo de duração da figura dada na linha anterior.",
+        "E": "com exceção da semibreve, cada figura rítmica apresenta o dobro do tempo de duração da figura dada na linha anterior."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Os tempos são 1, 1/2, 1/4, 1/8, 1/16, 1/32 e 1/64: a partir da mínima, cada figura dura <strong>metade da figura da linha anterior</strong>. Alternativa <strong>D</strong>.</p><p>A fusa (1/32) é metade da semicolcheia (1/16), não o dobro (A). A mínima (1/2) é o dobro da semínima (1/4) (B). Duas semínimas somam 1/2, que é uma mínima, não uma colcheia (C). E E inverte a relação.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "frações"
+      ]
+    },
+    {
+      "numero": 10,
+      "materia": "Português",
+      "assunto": "Figuras de linguagem",
+      "origem": {
+        "numeroOriginal": 10
+      },
+      "enunciado": "<p>Leia a cantiga de roda.</p><p class=\"apoio\">Se esta rua,<br>se esta rua fosse minha<br>eu mandava,<br>eu mandava ladrilhar<br>com pedrinhas,<br>com pedrinhas de brilhantes<br>para o meu,<br>para o meu amor passar.</p><p class=\"apoio\">Nesta rua,<br>nesta rua tem um bosque<br>que se chama,<br>que se chama solidão<br>dentro dele,<br>dentro dele mora um anjo<br>que roubou,<br>que roubou meu coração.</p><p class=\"apoio\">Se eu roubei,<br>se eu roubei teu coração<br>tu roubaste,<br>tu roubaste o meu também<br>se eu roubei,<br>se eu roubei teu coração<br>é porque,<br>é porque te quero bem.</p><p class=\"fonte\">&lt;http://tinyurl.com/hvt5m96&gt; Acesso em: 25.01.2017.</p><p>Na cantiga, há a presença de uma figura de linguagem de construção denominada anáfora.</p><p>Assinale a alternativa que apresenta outro exemplo dessa mesma figura de linguagem.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "“Não se sente no braço do sofá.”",
+        "B": "“A vida é como o mundo dá voltas.”",
+        "C": "“As flores, na primavera, dançam com o vento.”",
+        "D": "“Este sempre foi meu lema: aproveitar as oportunidades ao máximo.”",
+        "E": "“Passou um tempo. Passou um tempo. Passou um tempo desde que te vi.”"
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Anáfora é a <strong>repetição de palavras no início</strong> de versos ou frases seguidas. Em “<strong>Passou um tempo.</strong> <strong>Passou um tempo.</strong> <strong>Passou um tempo</strong> desde que te vi.”, a mesma expressão abre as três frases. Alternativa <strong>E</strong>.</p><p>A é uma frase comum, sem repetição. B é uma comparação. C é uma personificação (as flores “dançam”). E D não repete termos no início das frases.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "anáfora"
+      ]
+    },
+    {
+      "numero": 11,
+      "materia": "História",
+      "assunto": "História contemporânea",
+      "origem": {
+        "numeroOriginal": 11
+      },
+      "enunciado": "<p>Um grande festival de música agitou uma fazenda nos Estados Unidos em agosto de 1969. Mais de 400 mil pessoas, entre elas muitos hippies, acompanharam, até debaixo de muita chuva, atrações como Janis Joplin e Jimi Hendrix, entre outros artistas e bandas de blues, rock e outros estilos musicais. O festival de Woodstock, um dos eventos musicais mais marcantes de todos os tempos, foi uma das expressões da chamada contracultura.</p><p>Sobre esse festival e o seu contexto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "ele aconteceu anualmente, na década de 1960, em diferentes países do mundo contrários à Guerra do Vietnã, como a França.",
+        "B": "a contracultura foi um movimento organizado para combater as influências musicais estrangeiras, que se tornavam populares nos Estados Unidos.",
+        "C": "a contracultura foi um movimento de contestação a diversos valores da época e se aliou aos movimentos pelos direitos civis dos negros nos Estados Unidos.",
+        "D": "ele foi uma grande comemoração pelo término da Guerra Fria, quando os Estados Unidos e a União Soviética assinaram um acordo de paz.",
+        "E": "a contracultura se expandiu após Woodstock e defendia a intervenção militar dos Estados Unidos nos conflitos do sudeste asiático."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A contracultura dos anos 1960 contestou valores tradicionais (consumismo, guerra, costumes) e se aproximou de outras lutas da época, como a do <strong>movimento pelos direitos civis dos negros</strong> nos Estados Unidos. Alternativa <strong>C</strong>.</p><p>Woodstock aconteceu uma vez, em 1969, nos Estados Unidos (A). A contracultura não combatia influências musicais estrangeiras (B). A Guerra Fria só acabou por volta de 1991 (D). E o movimento era contra a Guerra do Vietnã (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "contracultura"
+      ]
+    },
+    {
+      "numero": 12,
+      "materia": "História",
+      "assunto": "Era Vargas",
+      "origem": {
+        "numeroOriginal": 12
+      },
+      "enunciado": "<p>A divulgação do samba e do carnaval pelo rádio, principal meio de informação e entretenimento antes da chegada da televisão, foi fundamental para que eles se tornassem símbolos da cultura brasileira.</p><p>Em 1950, uma marchinha relacionada a um evento político foi marcante. Vejamos a sua letra, composta por Haroldo Lobo e Marino Pinto.</p>[[fig:1]]<p>Essa marchinha diz respeito à</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q12.webp",
+          "alt": "Letra da marchinha de carnaval de 1950, de Haroldo Lobo e Marino Pinto, em três estrofes curtas. Ela pede para pôr de novo, no mesmo lugar, o retrato do “velho”, cujo sorriso “faz a gente trabalhar” e “faz a gente se animar”. Fonte: &lt;https://tinyurl.com/z3d76fp&gt;, acesso em 08.02.2017."
+        }
+      ],
+      "alternativas": {
+        "A": "instituição do décimo-terceiro salário, a ser pago dias antes das festas de fim de ano.",
+        "B": "volta de Getúlio Vargas à presidência por eleições diretas, referindo-se ao trabalhismo.",
+        "C": "mudança de sistema político para a república, referindo-se ao trabalho livre e assalariado.",
+        "D": "reforma do Palácio da Alvorada, sede da presidência, e à recolocação dos retratos de D. Pedro II.",
+        "E": "definição do carnaval como símbolo nacional, anos depois de ter sido proibido pelo Marechal Deodoro."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Em 1950, Getúlio Vargas, o “velho”, foi eleito presidente pelo voto direto, depois de ter sido deposto em 1945. A marchinha fala em recolocar o retrato dele nas repartições e associa seu sorriso ao trabalho, lembrando o <strong>trabalhismo</strong>. Alternativa <strong>B</strong>.</p><p>O 13º salário é de 1962, no governo Goulart (A). A República é de 1889 (C). O Palácio da Alvorada só foi construído em Brasília, nos anos 1950 e 1960, e o retrato não é de D. Pedro II (D). E Deodoro não proibiu o carnaval (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 13,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 13
+      },
+      "enunciado": "<p>A pele bronzeada tornou-se um símbolo de beleza e de aparência saudável. No entanto, para os dermatologistas é preciso muito cuidado, pois o bronzeado não tem, necessariamente, relação com saúde.</p><p>Os dermatologistas recomendam baixa exposição ao sol das 10 às 16 horas, aproximadamente, quando a radiação ultravioleta é mais intensa e o uso de filtros solares se faz, portanto, essencial. Os raios ultravioleta UVA e UVB, em doses excessivas, causam vermelhidão, queimaduras, envelhecimento precoce e até podem acarretar a formação de tumores benignos e malignos nos epitélios.</p><p>Por outro lado, nosso organismo precisa das radiações solares para ativar algumas reações como, por exemplo, a produção de vitamina D, que evita o raquitismo.</p><p>Sobre esse tema, assinale a alternativa correta.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Os filtros solares são classificados de acordo com um número chamado Fator de Proteção Solar (FPS), que varia de acordo com o tipo de pele. Assim, quanto mais sensível for a pele, menor será o fator de proteção necessário.",
+        "B": "Os raios ultravioleta inibem a produção de vitamina D ao incidirem sobre a melanina, pigmento responsável pela cor da pele, e provocam hemorragias.",
+        "C": "A exposição ao sol deve ocorrer no período entre 10 e 16 horas, pois nesse horário as radiações ultravioleta são menos intensas e, portanto, menos prejudiciais à pele.",
+        "D": "A deficiência de vitamina D prejudica a fixação de cálcio nos ossos, provocando alterações ou deformidades no esqueleto humano.",
+        "E": "O bronzeamento da pele ocorre quando os raios solares danificam as fibras colágenas e elásticas situadas na derme."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A vitamina D ajuda o intestino a absorver cálcio e o fixa nos ossos. Sem ela, os ossos ficam fracos e podem se deformar, como no raquitismo. Alternativa <strong>D</strong>.</p><p>Quanto mais sensível a pele, maior deve ser o FPS (A). Os raios UV ativam a produção de vitamina D, e não provocam hemorragias (B). O texto diz que das 10 às 16 horas a radiação é mais intensa (C). E o bronzeado é a produção de melanina pela pele, não o dano às fibras da derme (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "vitamina D",
+        "pele"
+      ]
+    },
+    {
+      "numero": 14,
+      "materia": "Biologia",
+      "assunto": "Zoologia",
+      "origem": {
+        "numeroOriginal": 14
+      },
+      "enunciado": "<p class=\"apoio\">O pantanal mato-grossense possui fauna e flora muito exuberantes. Suas belezas naturais são um forte atrativo para o turismo ecológico. Assim, um grupo de estudantes, fascinados pela diversidade dos animais encontrados nessa região, fez as seguintes anotações:</p><p class=\"apoio\">• existem muitas espécies de mamíferos como, por exemplo, as onças-pintadas, as jaguatiricas e os tamanduás;<br>• possui grande diversidade de aves como, por exemplo, as garças, os colhereiros, os tucanos, as emas e os jaburus;<br>• há muitas espécies de peixes, entre os quais se destacam os pintados, os dourados, os pacus e os surubins;<br>• e entre os répteis, há os jacarés-do-pantanal, as sucuris e os lagartos.</p><p>Considerando os animais observados pelos alunos é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "os répteis citados são animais vertebrados, pulmonados e peçonhentos.",
+        "B": "as aves e os peixes possuem sexos separados e apresentam fecundação externa.",
+        "C": "os mamíferos possuem coração com três cavidades e, por isso seus movimentos são lentos.",
+        "D": "os répteis e os peixes possuem grande habilidade de nadar por apresentarem respiração branquial.",
+        "E": "os mamíferos são endotérmicos, pois controlam a temperatura corporal por meio do próprio metabolismo."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Os mamíferos são <strong>endotérmicos</strong>: produzem calor pelo próprio metabolismo e mantêm a temperatura do corpo constante. Alternativa <strong>E</strong>.</p><p>Jacarés, sucuris e lagartos não são peçonhentos (A). As aves têm fecundação interna (B). O coração dos mamíferos tem quatro cavidades (C). E os répteis respiram por pulmões, não por brânquias (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "vertebrados",
+        "Pantanal"
+      ]
+    },
+    {
+      "numero": 15,
+      "materia": "Geografia",
+      "assunto": "Biomas brasileiros",
+      "origem": {
+        "numeroOriginal": 15
+      },
+      "enunciado": "<p>Fazer uma trilha é muito divertido, desde que o passeio seja realizado com a presença de um guia, com roupas e calçados adequados e muita água potável.</p><p>Em uma trilha pela Mata Atlântica, o ambiente observado se caracteriza principalmente por</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "vegetação densa, latifoliada e heterogênea.",
+        "B": "floresta aciculifoliada homogênea e densa.",
+        "C": "selva de tundra com cactáceas esparsas.",
+        "D": "arbustos esparsos com galhos retorcidos.",
+        "E": "plantas esparsas, caducifólias e xerófitas."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A Mata Atlântica é uma floresta tropical <strong>densa</strong>, de folhas largas (<strong>latifoliada</strong>) e com grande variedade de espécies (<strong>heterogênea</strong>). Alternativa <strong>A</strong>.</p><p>Floresta aciculifoliada homogênea é a de coníferas, como a mata de araucárias (B). A tundra não tem cactos e não existe no Brasil (C). Arbustos de galhos retorcidos lembram o cerrado (D). E plantas esparsas e xerófitas são típicas da caatinga (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Mata Atlântica"
+      ]
+    },
+    {
+      "numero": 16,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 16
+      },
+      "enunciado": "[[fig:1]]<p>Um grande divertimento para os turistas que passam pelo Observatório Real de Greenwich, nos arredores de Londres, é tirar fotografias com um pé de cada lado da representação do Meridiano de Greenwich.</p><p class=\"fonte\">&lt;http://tinyurl.com/jxkcbaf&gt; Acesso em: 17.01.2017. Original colorido.</p><p>Esse Meridiano foi definido como o meridiano principal da Terra, o grau zero da longitude, em uma reunião realizada em Washington, em 1884.</p><p>Essa linha imaginária divide o globo terrestre em hemisférios</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q16.webp",
+          "alt": "Foto vista de cima de dois pés de tênis, um de cada lado da faixa metálica que marca o meridiano de Greenwich no chão."
+        }
+      ],
+      "alternativas": {
+        "A": "tropical e temperado.",
+        "B": "ártico e antártico.",
+        "C": "boreal e austral.",
+        "D": "oeste e leste.",
+        "E": "norte e sul."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O meridiano de Greenwich é o 0º de longitude e divide a Terra em hemisférios <strong>oeste (ocidental) e leste (oriental)</strong>. Alternativa <strong>D</strong>.</p><p>Norte e sul, boreal e austral, são separados pela linha do Equador (C e E). Ártico e antártico são regiões polares (B). E tropical e temperado são zonas climáticas (A).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "meridiano de Greenwich"
+      ]
+    },
+    {
+      "numero": 17,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 17
+      },
+      "enunciado": "<p>Os turistas que viajam para áreas de risco de contágio de febre amarela como, por exemplo, algumas regiões do Brasil e do exterior, devem se vacinar. Essa imunização deve ser feita pelo menos dez dias antes do embarque e é realizada, gratuitamente, em postos de saúde.</p><p>A febre amarela é uma doença infecciosa aguda de natureza viral e é transmitida por picada de mosquitos, encontrados principalmente em regiões de mata e vegetação às margens de rios.</p><p>Uma extensa faixa do território brasileiro é considerada endêmica para a febre amarela silvestre.</p><p>Os sintomas característicos dessa enfermidade variam muito. Podem ser febre alta, dor de cabeça e lombar, náuseas, vômito, prostração e calafrios, ou podem evoluir para complicações até mesmo letais, tais como, problemas cardíacos (miocardite) e comprometimento do fígado e dos rins.</p><p>Sobre a febre amarela é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o contato com objetos utilizados por pessoas doentes oferece perigo de transmissão, pois essa doença é altamente contagiosa.",
+        "B": "o período de dez dias, citado no texto, é o tempo necessário para que o indivíduo fique curado dessa doença.",
+        "C": "o aumento do número de casos de pessoas doentes está diretamente associado à falta de higiene pessoal.",
+        "D": "o contágio ocorre também por contato sexual e por transfusão de sangue contaminado.",
+        "E": "a eliminação dos mosquitos que a transmite é um método eficaz para a prevenção."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A febre amarela é transmitida pela picada de mosquitos infectados. <strong>Eliminar os mosquitos</strong> (e se vacinar) é um modo eficaz de prevenir. Alternativa <strong>E</strong>.</p><p>Ela não passa por objetos nem de pessoa para pessoa (A). Os dez dias são o prazo para a vacina proteger, não para a cura (B). A doença não depende da higiene pessoal (C). E não é transmitida por contato sexual (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "febre amarela"
+      ]
+    },
+    {
+      "numero": 18,
+      "materia": "Geografia",
+      "assunto": "Geografia da Ásia",
+      "origem": {
+        "numeroOriginal": 18
+      },
+      "enunciado": "<p>O turismo é uma atividade econômica de muita importância para diversos países. Vários deles têm no turismo uma importante fonte de renda.</p><p>Existem diversas modalidades turísticas e, portanto, diferentes razões para viajar.</p><p>A cidade de Meca, na Arábia Saudita, é um exemplo de turismo</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "de negócio, pois nessa cidade se situa o maior mercado de compra e venda de petróleo.",
+        "B": "ecológico, pois essa cidade possui um dos maiores ecossistemas tropicais do mundo.",
+        "C": "de entretenimento, pois nessa cidade se encontra o maior cassino do mundo.",
+        "D": "religioso, pois nessa cidade se localiza a Caaba, local mais sagrado do islã.",
+        "E": "desportivo, pois nessa cidade ocorrem diversos eventos automobilísticos."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Meca, na Arábia Saudita, é a cidade mais sagrada do islamismo. Lá fica a <strong>Caaba</strong>, destino da peregrinação (hajj) que todo muçulmano deve fazer ao menos uma vez na vida. É turismo <strong>religioso</strong>. Alternativa <strong>D</strong>.</p><p>Meca não é conhecida por negócios de petróleo, ecossistema tropical, cassinos ou corridas de automóvel (A, B, C e E). A Arábia Saudita é desértica, e jogos de azar são proibidos no país.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "turismo religioso"
+      ]
+    },
+    {
+      "numero": 19,
+      "materia": "Física",
+      "assunto": "Circuitos elétricos",
+      "origem": {
+        "numeroOriginal": 19
+      },
+      "enunciado": "<p>Uma brincadeira consiste em passar um anel condutor, de um extremo a outro de um fio retorcido, também condutor de eletricidade. Durante a brincadeira a chave deve permanecer fechada conectando a pilha ao circuito. O anel deve ser passado por toda a extensão do fio retorcido sem toca-lo, pois quando a lâmpada acende a brincadeira acaba.</p><p>Assinale a alternativa que apresenta um esquema de construção de um dispositivo de acordo com a descrição apresentada para a brincadeira.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q19a.webp",
+          "alt": "Alternativa A: o fio retorcido está ligado à lâmpada e também diretamente ao cabo do anel; a lâmpada, a pilha e a chave estão ligadas em sequência até o anel."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q19b.webp",
+          "alt": "Alternativa B: o anel está ligado à pilha; o fio retorcido está ligado à lâmpada, e a lâmpada à pilha; os dois terminais da chave estão ligados à pilha."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q19c.webp",
+          "alt": "Alternativa C: o fio retorcido está ligado à lâmpada, a lâmpada à chave, a chave à pilha e a pilha ao anel, tudo em sequência; o circuito só se fecha se o anel tocar o fio."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q19d.webp",
+          "alt": "Alternativa D: o anel está ligado à chave, a chave à pilha, a pilha à lâmpada e a lâmpada ao fio retorcido; o fio retorcido também está ligado diretamente à pilha."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q19e.webp",
+          "alt": "Alternativa E: o anel está ligado só ao fio retorcido; o fio está ligado à lâmpada, a lâmpada à pilha, e a pilha à chave, cujos dois terminais voltam à pilha."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:1]]",
+        "B": "[[fig:2]]",
+        "C": "[[fig:3]]",
+        "D": "[[fig:4]]",
+        "E": "[[fig:5]]"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A lâmpada deve acender só quando o anel tocar o fio. Para isso, pilha, chave e lâmpada ficam em série num caminho que vai do anel até o fio retorcido, e o único ponto aberto do circuito é o espaço entre o anel e o fio. É o que mostra a alternativa <strong>C</strong>.</p><p>Em A e E, o anel já está ligado diretamente ao fio, então o circuito fica sempre fechado (ou a lâmpada nunca participa dele). Em B e D, as ligações extras com a pilha criam outro caminho para a corrente, e o toque do anel não é o que acende a lâmpada.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "assunto": "Operações e problemas",
+      "origem": {
+        "numeroOriginal": 20
+      },
+      "enunciado": "<p>O Quadrado Mágico é uma tabela quadrada composta por números inteiros consecutivos a partir do 1, em que a soma de cada coluna, de cada linha e de cada diagonal são iguais. Essa soma é chamada de número mágico.</p><p>Aprenda a encontrar o número mágico de um quadrado 3x3, como o da figura.</p><div class=\"tabela-rola\"><table><tbody><tr><td>8</td><td>1</td><td>6</td></tr><tr><td>3</td><td>5</td><td>7</td></tr><tr><td>4</td><td>9</td><td>2</td></tr></tbody></table></div><p>O quadrado mágico 3x3 possui 9 posições, portanto deve ser preenchido com os números de 1 até 9, sem repetição.</p><p>O número mágico pode ser encontrado seguindo dois passos.</p><p class=\"apoio\"><strong>Passo 1</strong> – Encontrar a soma total dos números.<br>1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45</p><p class=\"apoio\"><strong>Passo 2</strong> – Dividir a soma encontrada pelo número de colunas existentes no quadrado.<br>No caso do quadrado mágico 3x3, os 9 números estão agrupados em 3 colunas.<br>Logo o número mágico será 45:3 = 15</p><p>Em condições semelhantes, o número mágico de um quadrado 4x4 será</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "16.",
+        "B": "24.",
+        "C": "34.",
+        "D": "64.",
+        "E": "136."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Um quadrado 4x4 usa os números de 1 a 16. A soma é 1 + 2 + … + 16 = 16 · 17 ÷ 2 = 136. Dividindo pelas 4 colunas: 136 ÷ 4 = <strong>34</strong>. Alternativa <strong>C</strong>.</p><p>136 é só a soma total, sem dividir (E). 16 e 64 confundem a quantidade de casas com a soma (A e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "quadrado mágico"
+      ]
+    },
+    {
+      "numero": 21,
+      "materia": "Português",
+      "assunto": "Conectivos",
+      "origem": {
+        "numeroOriginal": 21
+      },
+      "enunciado": "<p>Leia a tirinha.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/k34rtjp&gt; Acesso em: 10.02.2017.</p><p>No quarto quadrinho, a menina utiliza o termo “aí” como elemento coesivo para dar continuidade às ações que começou a descrever no terceiro quadrinho.</p><p>Assinale a alternativa que contenha um elemento coesivo que possa substituir corretamente o termo “aí”, preservando o mesmo sentido da fala da personagem.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q21.webp",
+          "alt": "Tirinha de Calvin em quatro quadrinhos. 1: Susie pergunta: “Ei, Calvin, quer brincar de papai e mamãe?” 2: Calvin, brincando com carrinhos: “Sei lá. Como é que se brinca disso?” 3: Susie explica: “Primeiro, você chega do trabalho. Depois eu chego do trabalho.” 4: Susie continua: “Aí a gente reclama dos nossos empregos e briga pra ver quem usa o micro-ondas primeiro.”"
+        }
+      ],
+      "alternativas": {
+        "A": "Entretanto",
+        "B": "Portanto",
+        "C": "Todavia",
+        "D": "Então",
+        "E": "Afinal"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>“Aí” indica o que acontece em seguida, numa sequência de ações: “primeiro… depois… aí”. A palavra com o mesmo sentido de sequência é <strong>então</strong>. Alternativa <strong>D</strong>.</p><p>“Entretanto” e “todavia” indicam oposição (A e C). “Portanto” indica conclusão (B). E “afinal” indica fechamento ou conclusão final (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tirinha"
+      ]
+    },
+    {
+      "numero": 22,
+      "materia": "História",
+      "assunto": "Antiguidade",
+      "origem": {
+        "numeroOriginal": 22
+      },
+      "enunciado": "<p class=\"apoio\">Imagine um só lugar onde você possa fazer compras, alugar livros, fazer ginástica e trilhas, ver obras de arte, comer, tomar um banho quente. Assim eram as termas da Roma Antiga, casas de banho criadas no século II a.C. As construções eram enormes e chegavam a abrigar milhares de banhistas. O ato de banhar-se era visto mais como uma atividade social do que como de higiene para os romanos. Era nas termas que eles fechavam negócios, falavam de política e fofocavam. Os banhos tinham horários separados para homens e mulheres e os escravos também podiam frequentar.</p><p class=\"fonte\">&lt;https://tinyurl.com/cynbuy&gt; Acesso em: 08.02.2017. Adaptado.</p><p>De acordo com o texto, é correto afirmar que as construções citadas</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "eram grandes edificações onde ocorriam diversas atividades sociais, além dos banhos quentes.",
+        "B": "surgiram da necessidade de combater doenças relacionadas à falta de higiene no período medieval.",
+        "C": "atendiam, ao mesmo tempo, a homens e mulheres, nunca ultrapassando a ocupação de mil pessoas.",
+        "D": "sediaram a assinatura de acordos políticos que tiveram como consequência a unificação italiana.",
+        "E": "funcionavam em pequenos edifícios e eram destinadas ao lazer dos nobres e de seus escravos."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O texto diz que nas termas se podia “fazer compras, alugar livros, fazer ginástica”, ver arte e comer, e que o banho era “mais uma atividade social do que de higiene”. Eram <strong>grandes edificações com diversas atividades sociais</strong>. Alternativa <strong>A</strong>.</p><p>As termas são da Roma Antiga, não da Idade Média (B). Os banhos tinham horários separados para homens e mulheres e abrigavam milhares de pessoas (C). A unificação italiana é do século XIX (D). E os edifícios eram enormes e abertos a vários grupos sociais (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Roma Antiga"
+      ]
+    },
+    {
+      "numero": 23,
+      "materia": "Física",
+      "assunto": "Dinâmica",
+      "origem": {
+        "numeroOriginal": 23
+      },
+      "enunciado": "<p>Há muitos conceitos físicos no ato de empinar pipas. Talvez por isso essa brincadeira seja tão divertida.</p><p>Uma questão física importante para que uma pipa ganhe altura está na escolha certa do ponto em que a linha do carretel é amarrada ao estirante (ponto P), conforme a figura.</p>[[fig:1]]<p class=\"apoio\">Na figura, a malha quadriculada coincide com o plano que contém a linha, o estirante e a vareta maior da pipa.</p><p>O estirante é um pedaço de fio amarrado à pipa com um pouco de folga e em dois pontos: no ponto em que as duas varetas maiores se cruzam e no extremo inferior da vareta maior, junto à rabiola.</p><p>Admitindo que a pipa esteja pairando no ar, imóvel em relação ao solo, e tendo como base a figura, os vetores que indicam as forças atuantes sobre o ponto P estão melhor representados em</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q23.webp",
+          "alt": "Pipa no ar sobre uma malha quadriculada. Do ponto P saem três fios: o fio do carretel, para baixo e à esquerda; um trecho do estirante, para cima e à direita, até o cruzamento das varetas; e outro trecho do estirante, para baixo e à direita, até o pé da vareta, junto à rabiola."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q23a.webp",
+          "alt": "Alternativa A: três vetores partindo de P, cada um apontando para fora ao longo de um dos três fios (para baixo à esquerda, para cima à direita e para baixo à direita)."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q23b.webp",
+          "alt": "Alternativa B: o vetor do fio de cima aponta para P; os outros dois apontam para fora de P."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q23c.webp",
+          "alt": "Alternativa C: o vetor do fio de baixo à direita aponta para P; os outros dois apontam para fora de P."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q23d.webp",
+          "alt": "Alternativa D: o vetor do fio do carretel aponta para P; os outros dois apontam para fora de P."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q23e.webp",
+          "alt": "Alternativa E: os três vetores apontam para P."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:2]]",
+        "B": "[[fig:3]]",
+        "C": "[[fig:4]]",
+        "D": "[[fig:5]]",
+        "E": "[[fig:6]]"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Um fio só consegue puxar, nunca empurrar. Então cada um dos três fios ligados a P exerce sobre ele uma tração <strong>apontando para fora de P</strong>, ao longo do próprio fio. Com a pipa parada, essas três forças se equilibram. Alternativa <strong>A</strong>.</p><p>Nas outras, pelo menos um vetor aponta para P, como se o fio empurrasse o ponto, o que não acontece (B, C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "equilíbrio de forças"
+      ]
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "assunto": "Equações",
+      "origem": {
+        "numeroOriginal": 24
+      },
+      "enunciado": "<p>No século XVI, divertidos duelos intelectuais entre professores das academias contribuíram para o avanço da Matemática.</p><p>Motivado por um desses duelos, o matemático italiano Niccólo Fontana (Tartaglia) (1500 – 1557) encontrou uma fórmula para resolver equações polinomiais de terceiro grau. No entanto, os outros matemáticos da época não tinham acesso a tal descoberta, tendo que encontrar formas alternativas para resolver aqueles problemas.</p><p>Uma dessas formas alternativas é a fatoração, que facilita a observação das raízes (soluções), pois transforma a adição dos termos da equação em uma multiplicação igualada a zero. Veja o exemplo.</p><p class=\"apoio\">\\(x^3 + 6x^2 + 5x - 12 = 0 \\Leftrightarrow (x - 1) \\cdot (x + 3) \\cdot (x + 4) = 0\\)</p><p>Analisando o exemplo dado, é correto afirmar que essa equação</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "possui três raízes naturais distintas.",
+        "B": "possui três raízes inteiras distintas.",
+        "C": "possui duas raízes naturais distintas e uma raiz irracional.",
+        "D": "possui duas raízes irracionais distintas e uma raiz inteira.",
+        "E": "não possui raízes reais."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O produto (x − 1)(x + 3)(x + 4) é zero quando algum fator é zero: x = 1, x = −3 ou x = −4. São <strong>três raízes inteiras distintas</strong>. Alternativa <strong>B</strong>.</p><p>−3 e −4 não são naturais (A e C). Não há raiz irracional (C e D). E há raízes reais (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fatoração"
+      ]
+    },
+    {
+      "numero": 25,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 25
+      },
+      "enunciado": "<p class=\"apoio\">Praticar uma atividade física é uma experiência muito prazerosa. No entanto, às vezes, ocorre uma forte dor na região abdominal que obriga a pessoa a parar com a atividade. Essa dor pode estar associada à falta do gás oxigênio em um músculo que participa da respiração fisiológica e fica localizado entre o tórax e o abdome. Isso acontece, provavelmente, porque o exercício está sendo feito num ritmo mais intenso que o condicionamento aeróbico do praticante e, em consequência, a respiração não consegue suprir a demanda do gás oxigênio, solicitado pela musculatura.</p><p class=\"fonte\">&lt;http://tinyurl.com/m94o229&gt; Acesso em: 08.04.2017. Adaptado.</p><p>O músculo a que o texto se refere é denominado</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "bíceps.",
+        "B": "deltoide.",
+        "C": "trapézio.",
+        "D": "diafragma.",
+        "E": "miocárdio."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O músculo que participa da respiração e fica entre o tórax e o abdome é o <strong>diafragma</strong>. Alternativa <strong>D</strong>.</p><p>Bíceps fica no braço (A). Deltoide, no ombro (B). Trapézio, nas costas e no pescoço (C). E o miocárdio é o músculo do coração (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "respiração"
+      ]
+    },
+    {
+      "numero": 26,
+      "materia": "Física",
+      "assunto": "Dinâmica",
+      "origem": {
+        "numeroOriginal": 26
+      },
+      "enunciado": "<p>Marcelo decidiu construir uma gangorra para poder brincar com seu filho. Sobre um cavalete, ele apoiou uma tábua de modo que, quando ambos se sentassem, estando cada um em um dos extremos da tábua e sem tocar os pés no chão, a gangorra pudesse ficar equilibrada horizontalmente, sem pender para nenhum dos lados. Considerou também o fato de que seu peso era três vezes maior que o de seu filho, e que a distância entre os locais onde ele e o filho deveriam se sentar era de 3,2 m.</p><p>De acordo com essas considerações, a distância entre o ponto onde o filho de Marcelo deve se sentar e o ponto de apoio da tábua no cavalete é, aproximadamente, de</p><p class=\"apoio\">Despreze o peso da tábua, bem como as dimensões dos corpos de Marcelo e de seu filho</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "0,8 m.",
+        "B": "1,2 m.",
+        "C": "1,6 m.",
+        "D": "2,0 m.",
+        "E": "2,4 m."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Na gangorra equilibrada, peso × distância ao apoio é igual dos dois lados. Se o filho pesa P e Marcelo 3P: P · d<sub>filho</sub> = 3P · d<sub>pai</sub>, ou d<sub>filho</sub> = 3 d<sub>pai</sub>. Como d<sub>filho</sub> + d<sub>pai</sub> = 3,2 m, então 4 d<sub>pai</sub> = 3,2, d<sub>pai</sub> = 0,8 m e d<sub>filho</sub> = <strong>2,4 m</strong>. Alternativa <strong>E</strong>.</p><p>0,8 m é a distância de Marcelo ao apoio (A). 1,6 m seria o apoio no meio, como se tivessem o mesmo peso (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "alavanca",
+        "torque"
+      ]
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "assunto": "Operações e problemas",
+      "origem": {
+        "numeroOriginal": 27
+      },
+      "enunciado": "<p>Uma antiga lenda da Índia afirma que o jogo de xadrez foi criado a pedido de um rei e, como recompensa, o criador do jogo recebeu grãos de trigo de acordo com o número de casas do tabuleiro, seguindo o procedimento descrito.</p><p>• O criador do jogo escolhe uma casa e recebe 2 grãos por ela.</p><p>• Para a próxima casa escolhida, ele recebe o dobro da casa anterior.</p><p>• O processo continua até que todas as casas do tabuleiro sejam escolhidas exatamente uma vez.</p><p>Observando o processo podemos perceber que, para a décima casa do tabuleiro, o rei entrega 1 024 grãos.</p>[[fig:1]]<p class=\"apoio\">O tabuleiro de xadrez conta com 64 casas distribuídas em 8 colunas verticais e 8 fileiras horizontais, cada uma com 8 casas. As casas são alternadamente escuras e claras.</p><p>É correto afirmar que, o número de grãos a ser entregue pela vigésima casa seria</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q27.webp",
+          "alt": "Tabuleiro de xadrez com 8 por 8 casas, alternadamente pretas e brancas."
+        }
+      ],
+      "alternativas": {
+        "A": "maior que 1 000 e menor que 10 000.",
+        "B": "maior que 10 000 e menor que 100 000.",
+        "C": "maior que 100 000 e menor que 1 000 000.",
+        "D": "maior que 1 000 000 e menor que 10 000 000.",
+        "E": "maior que 10 000 000 e menor que 100 000 000."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A casa <em>n</em> rende 2<sup><em>n</em></sup> grãos (a 10ª rende 2<sup>10</sup> = 1 024). A 20ª rende 2<sup>20</sup> = 1 024 · 1 024 = 1 048 576 grãos, que está <strong>entre 1 000 000 e 10 000 000</strong>. Alternativa <strong>D</strong>.</p><p>Dobrar só o resultado da 10ª casa (2 048) ou multiplicar 1 024 por 10 leva às faixas menores (A e B). E 2<sup>20</sup> ainda não chega a 10 milhões (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "potências de 2"
+      ]
+    },
+    {
+      "numero": 28,
+      "materia": "Geografia",
+      "assunto": "Climatologia",
+      "origem": {
+        "numeroOriginal": 28
+      },
+      "enunciado": "<p>O futebol faz parte do cotidiano de grande parte dos brasileiros. É um dos assuntos nas rodas de conversa nos mais variados locais, além de ser um grande divertimento para quem vai aos estádios para assistir às partidas.</p><p>Um torneio de futebol importante é a Copa Libertadores da América, da qual participam equipes de quase todos os países da América do Sul.</p><p>Uma das preocupações das equipes brasileiras participantes da Copa é jogar na cidade de La Paz, na Bolívia.</p><p>Essa preocupação existe, pois essa cidade está situada</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a mais de 3 000 metros de altitude, na Cordilheira do Himalaia, o que provoca temperaturas abaixo de 0º C, podendo trazer consequências para os atletas.",
+        "B": "a mais de 3 000 metros de altitude, na Cordilheira dos Andes, o que torna o ar mais rarefeito, dificultando a prática esportiva.",
+        "C": "ao nível do mar, nas margens do oceano Pacífico, ficando exposta às grandes ondas e a maresia provocadas pela corrente marítima de Humboldt.",
+        "D": "ao nível do mar, nas margens do oceano Atlântico, tornando-se, portanto, suscetível a terremotos constantes.",
+        "E": "ao nível do mar, nas margens do Caribe que, no verão, é assolada por tornados e furacões devastadores."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>La Paz fica a cerca de 3 600 m de altitude, na <strong>Cordilheira dos Andes</strong>. Em grande altitude o ar é <strong>rarefeito</strong>, com menos oxigênio, e os atletas se cansam mais. Alternativa <strong>B</strong>.</p><p>O Himalaia fica na Ásia (A). La Paz não fica no nível do mar nem no litoral, pois a Bolívia nem tem saída para o mar (C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "altitude",
+        "América do Sul"
+      ]
+    },
+    {
+      "numero": 29,
+      "materia": "Física",
+      "assunto": "Óptica",
+      "origem": {
+        "numeroOriginal": 29
+      },
+      "enunciado": "<p>Produzir sombras na parede é uma brincadeira simples. Para brincar, basta que você providencie uma vela e um ambiente escuro.</p><p>Em certa noite, quando a luz havia acabado, Fernando e seu irmãozinho, aproveitaram a luz de uma vela acesa deixada sobre a mesa para brincarem com sombras. Posicionou, cuidadosamente, sua mão espalmada entre a chama e a parede, de forma que a palma da mão estivesse paralela à parede. A ação assustou seu irmãozinho, uma vez que a sombra projetada na parede tinha cinco vezes a largura da mão espalmada de Fernando.</p><p>Sabendo que a distância da mão de Fernando até a chama da vela era de 0,5 m e que a largura de sua mão quando espalmada é de 20 cm, a distância entre a parede e a chama da vela (considerada puntiforme), era de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "0,5 m.",
+        "B": "1,0 m.",
+        "C": "2,0 m.",
+        "D": "2,5 m.",
+        "E": "5,0 m."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A luz se propaga em linha reta, e a mão e a sombra formam triângulos semelhantes com vértice na chama. Se a sombra é 5 vezes maior que a mão, a parede está 5 vezes mais longe da chama que a mão: 5 · 0,5 m = <strong>2,5 m</strong>. Alternativa <strong>D</strong>.</p><p>2,0 m seria a distância entre a mão e a parede (C). E 5,0 m vem de multiplicar 5 por 1 m (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sombra",
+        "semelhança de triângulos"
+      ]
+    },
+    {
+      "numero": 30,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 30
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e observe a imagem para responder às questões de números 30 e 31.</p><p class=\"apoio\">Em uma aula de Química e para apresentar a Tabela Periódica de uma forma lúdica, o professor propôs um jogo.</p><p class=\"apoio\">Grupos de quatro alunos foram formados, cada grupo recebeu uma Tabela, um dado e cada aluno recebeu uma peça colorida.</p><p class=\"apoio\">Algumas das regras do jogo são:</p><p class=\"apoio\">• Para mover sua peça o aluno joga um dado e o número obtido é a quantidade de casas (elementos), que ele deve se deslocar na Tabela.<br>• O aluno só pode deslocar sua peça em uma única direção, vertical ou horizontal (a cada jogada).<br>• Vence o jogo quem chega com a sua peça no elemento químico de número atômico 118.</p><p>Se o professor desse o comando: “Coloquem suas peças sobre os gases nobres”, os alunos deveriam colocá-las sobre elementos cujo grupo (ou família) na Tabela Periódica é identificado pelo número</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "1.",
+        "B": "2.",
+        "C": "16.",
+        "D": "17.",
+        "E": "18."
+      },
+      "gabarito": "ANULADA",
+      "explicacao": "<p>Questão anulada. Pela nomenclatura atual da IUPAC, os gases nobres (hélio, neônio, argônio, criptônio, xenônio, radônio e oganessônio, de número atômico 118) formam o <strong>grupo 18</strong> da Tabela Periódica, o que corresponderia à alternativa E.</p><p>Os grupos 1 e 2 são os metais alcalinos e alcalinoterrosos, o 16 é o dos calcogênios e o 17, o dos halogênios.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tabela periódica"
+      ],
+      "anulacao": {
+        "fonte": "analise",
+        "motivo": "O enunciado manda “observar a imagem” do jogo, mas a prova não traz nenhuma figura da Tabela Periódica usada pelos alunos. Sem ela, as regras de deslocamento do jogo (casas, direções) não podem ser conferidas, e por isso as questões 30 e 31 foram anuladas. O Centro Paula Souza não publicou o motivo; esta é a análise do Treineiros."
+      }
+    },
+    {
+      "numero": 31,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 31
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e observe a imagem para responder às questões de números 30 e 31.</p><p class=\"apoio\">Em uma aula de Química e para apresentar a Tabela Periódica de uma forma lúdica, o professor propôs um jogo.</p><p class=\"apoio\">Grupos de quatro alunos foram formados, cada grupo recebeu uma Tabela, um dado e cada aluno recebeu uma peça colorida.</p><p class=\"apoio\">Algumas das regras do jogo são:</p><p class=\"apoio\">• Para mover sua peça o aluno joga um dado e o número obtido é a quantidade de casas (elementos), que ele deve se deslocar na Tabela.<br>• O aluno só pode deslocar sua peça em uma única direção, vertical ou horizontal (a cada jogada).<br>• Vence o jogo quem chega com a sua peça no elemento químico de número atômico 118.</p><p>Suponha que um aluno esteja com sua peça no elemento químico sódio, localizado no grupo 1 da Tabela Periódica.</p><p>Ao jogar o dado, tira o número três e decide deslocar sua peça no mesmo grupo, de modo a se aproximar do elemento químico de número atômico 118.</p><p>Nessas condições, ele deve se deslocar no sentido</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "do elemento cloro.",
+        "B": "do elemento potássio.",
+        "C": "dos gases nobres.",
+        "D": "horizontal.",
+        "E": "diagonal."
+      },
+      "gabarito": "ANULADA",
+      "explicacao": "<p>Questão anulada. O elemento 118 (oganessônio) fica no 7º período, embaixo na Tabela. Andando no grupo 1 a partir do sódio (3º período) para se aproximar dele, a peça desceria pelo grupo, passando pelo <strong>potássio</strong>, rubídio e césio, o que corresponderia à alternativa B.</p><p>Cloro e gases nobres ficam em outros grupos, e as regras do jogo só permitem movimentos verticais ou horizontais, nunca em diagonal. “Horizontal” não manteria a peça no mesmo grupo.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tabela periódica"
+      ],
+      "anulacao": {
+        "fonte": "analise",
+        "motivo": "O enunciado manda “observar a imagem” do jogo, mas a prova não traz nenhuma figura da Tabela Periódica usada pelos alunos. Sem ela, as regras de deslocamento do jogo (casas, direções) não podem ser conferidas, e por isso as questões 30 e 31 foram anuladas. O Centro Paula Souza não publicou o motivo; esta é a análise do Treineiros."
+      }
+    },
+    {
+      "numero": 32,
+      "materia": "Matemática",
+      "assunto": "Funções",
+      "origem": {
+        "numeroOriginal": 32
+      },
+      "enunciado": "<p>Em um famoso jogo eletrônico de arremessar pássaros, a trajetória do lançamento corresponde a parte de uma parábola, como a da figura.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/zx74hnz&gt; Acesso em: 03.03.2017. Original colorido.</p><p>Considere que um jogador fez um lançamento de um pássaro virtual cuja trajetória pode ser descrita pela função h(x) = − x² + 4x, com x variando entre 0 e 4.</p><p>O gráfico mostra essa trajetória. O ponto de lançamento do pássaro coincide com a origem do plano cartesiano.</p>[[fig:2]]<p>Analisando o gráfico, é correto afirmar que o pássaro começa a</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q32a.webp",
+          "alt": "Tela de um jogo eletrônico com uma trajetória pontilhada em forma de arco, saindo de um estilingue à esquerda até estruturas à direita."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q32b.webp",
+          "alt": "Gráfico de uma parábola voltada para baixo, que sai da origem (0, 0), sobe até o ponto mais alto (2, 4) e desce até (4, 0)."
+        }
+      ],
+      "alternativas": {
+        "A": "cair a partir do ponto (2, 4).",
+        "B": "cair a partir do ponto (4, 2).",
+        "C": "subir a partir do ponto (2, 4).",
+        "D": "subir a partir do ponto (4, 2).",
+        "E": "subir a partir do ponto (3, 3)."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O vértice da parábola h(x) = −x² + 4x está em x = −4 ÷ (2 · (−1)) = 2, com h(2) = −4 + 8 = 4. Até esse ponto o pássaro sobe; depois dele, <strong>começa a cair a partir de (2, 4)</strong>. Alternativa <strong>A</strong>.</p><p>(4, 2) não pertence à parábola, pois h(4) = 0 (B e D). O pássaro sobe a partir da origem, não de (2, 4) (C). E (3, 3) está na descida (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "função do 2º grau"
+      ]
+    },
+    {
+      "numero": 33,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 33
+      },
+      "enunciado": "<p>Um jogo de estratégia bastante difundido no Brasil e no mundo tem como tabuleiro o mapa mundi. Os jogadores recebem uma missão de conquistar continentes e dominar exércitos inimigos.</p><p>Em um jogo com seus amigos, você recebe a missão de conquistar os continentes Asiático, Europeu e Africano, nessa ordem.</p><p>Esses continentes estão identificados no mapa, correta e respectivamente, com os números</p>[[fig:1]]<p class=\"fonte\">&lt;http://tinyurl.com/hf7n72g&gt; Acesso em: 20.01.2017.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q33.webp",
+          "alt": "Mapa-múndi em contorno com seis números: 1 sobre a América, 2 sobre a Europa, 3 sobre a África, 4 sobre a Ásia, 5 sobre a Oceania e 6 sobre a Antártida."
+        }
+      ],
+      "alternativas": {
+        "A": "4, 3 e 2.",
+        "B": "4, 2 e 3.",
+        "C": "3, 4 e 2.",
+        "D": "2, 4 e 3.",
+        "E": "2, 3 e 4."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>No mapa, a Ásia é o <strong>4</strong>, a Europa é o <strong>2</strong> e a África é o <strong>3</strong>. Na ordem pedida (Asiático, Europeu, Africano): 4, 2 e 3. Alternativa <strong>B</strong>.</p><p>As outras trocam a ordem ou os números dos continentes. O 1 é a América, o 5 é a Oceania e o 6, a Antártida.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "continentes"
+      ]
+    },
+    {
+      "numero": 34,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 34
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 34 e 35.</p><p class=\"apoio\">O Tangram é um quebra-cabeça chinês. Há uma lenda sobre esse quebra-cabeça que afirma que um jovem chinês, ao despedir-se de seu mestre, para uma longa viagem pelo mundo, recebeu uma tábua quadrada cortada em 7 peças (um quadrado, um paralelogramo e cinco triângulos). Assim o discípulo poderia reorganizá-las para registrar todas as belezas da viagem.</p><p class=\"apoio\">Lendas e histórias como essa sempre cercam a origem de objetos ou fatos, a respeito da qual temos pouco ou nenhum conhecimento, como é o caso do Tangram. Se é ou não uma história verdadeira, pouco importa: o que vale é a magia, própria dos mitos e lendas.</p><p class=\"fonte\">&lt;https://tinyurl.com/htszezr&gt; Acesso em: 03.03.2017. Adaptado.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/gngjyue&gt; Acesso em: 03.03.2017. Original colorido.</p><p>A partir das informações do texto, as peças do Tangram são</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q34.webp",
+          "alt": "Nove figuras montadas com as peças do Tangram: aves, um barco, pessoas e animais, cada uma formada por triângulos, um quadrado e um paralelogramo."
+        }
+      ],
+      "alternativas": {
+        "A": "sete polígonos côncavos.",
+        "B": "apenas triângulos isósceles.",
+        "C": "apenas quadriláteros regulares.",
+        "D": "dois trapézios e cinco triângulos.",
+        "E": "dois quadriláteros e cinco triângulos."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O texto diz que a tábua foi cortada em “um quadrado, um paralelogramo e cinco triângulos”. O quadrado e o paralelogramo têm quatro lados: são <strong>dois quadriláteros e cinco triângulos</strong>. Alternativa <strong>E</strong>.</p><p>Todas as peças são convexas (A). Há peças que não são triângulos (B). Só o quadrado é um quadrilátero regular (C). E não há trapézios (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "polígonos",
+        "Tangram"
+      ]
+    },
+    {
+      "numero": 35,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 35
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 34 e 35.</p><p class=\"apoio\">O Tangram é um quebra-cabeça chinês. Há uma lenda sobre esse quebra-cabeça que afirma que um jovem chinês, ao despedir-se de seu mestre, para uma longa viagem pelo mundo, recebeu uma tábua quadrada cortada em 7 peças (um quadrado, um paralelogramo e cinco triângulos). Assim o discípulo poderia reorganizá-las para registrar todas as belezas da viagem.</p><p class=\"apoio\">Lendas e histórias como essa sempre cercam a origem de objetos ou fatos, a respeito da qual temos pouco ou nenhum conhecimento, como é o caso do Tangram. Se é ou não uma história verdadeira, pouco importa: o que vale é a magia, própria dos mitos e lendas.</p><p class=\"fonte\">&lt;https://tinyurl.com/htszezr&gt; Acesso em: 03.03.2017. Adaptado.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/gngjyue&gt; Acesso em: 03.03.2017. Original colorido.</p><p>Observe o Tangram, em uma possível disposição de suas peças.</p>[[fig:2]]<p class=\"apoio\">Na figura, tem-se que: \\(\\overline{QS}\\) é paralelo a \\(\\overline{BD}\\); os polígonos ABCD e OPQR são quadrados; <strong>S</strong> é ponto médio de \\(\\overline{CD}\\); <strong>P</strong> é ponto médio de \\(\\overline{OB}\\); <strong>O</strong> é ponto médio de \\(\\overline{BD}\\).</p><p>Se a área do triângulo ABO é 16 cm², a área do quadrado OPQR é, em centímetros quadrados,</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q34.webp",
+          "alt": "Nove figuras montadas com as peças do Tangram: aves, um barco, pessoas e animais, cada uma formada por triângulos, um quadrado e um paralelogramo."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q35.webp",
+          "alt": "Quadrado ABCD dividido nas peças do Tangram: as diagonais se cruzam no centro O; há um quadradinho OPQR abaixo de O, um paralelogramo e triângulos de vários tamanhos, com os pontos T, S, P, Q e R marcados."
+        }
+      ],
+      "alternativas": {
+        "A": "2.",
+        "B": "4.",
+        "C": "6.",
+        "D": "8.",
+        "E": "10."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>As diagonais dividem o quadrado ABCD em 4 triângulos iguais a ABO. Então a área de ABCD é 4 · 16 = 64 cm². No Tangram, o quadradinho OPQR vale 1/8 do quadrado todo: seu lado é metade de OB, e sua diagonal é metade da diagonal do quadrado grande. Área: 64 ÷ 8 = <strong>8 cm²</strong>. Alternativa <strong>D</strong>.</p><p>4 cm² seria 1/16 do total, a área de cada triângulo pequeno (B).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "área",
+        "Tangram"
+      ]
+    },
+    {
+      "numero": 36,
+      "materia": "Física",
+      "assunto": "Pressão",
+      "origem": {
+        "numeroOriginal": 36
+      },
+      "enunciado": "<p>A amarelinha é uma brincadeira em que, em alguns momentos, a criança deve se apoiar com os dois pés no chão e, em outros, com apenas um.</p><p>Quando uma criança está equilibrada somente sobre um pé, a pressão exercida por ela sobre o chão, comparada com a pressão que é exercida quando a criança tem seus dois pés apoiados é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "quatro vezes maior.",
+        "B": "duas vezes maior.",
+        "C": "numericamente igual.",
+        "D": "duas vezes menor.",
+        "E": "quatro vezes menor."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Pressão é força dividida pela área. O peso da criança é o mesmo, mas apoiada num pé só a área de contato cai pela metade, então a pressão fica <strong>duas vezes maior</strong>. Alternativa <strong>B</strong>.</p><p>A área cai pela metade, não para um quarto (A). E a pressão não fica igual nem menor (C, D e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 37,
+      "materia": "História",
+      "assunto": "Brasil República",
+      "origem": {
+        "numeroOriginal": 37
+      },
+      "enunciado": "<p class=\"apoio\">Nas primeiras décadas do século passado, operários de fábricas brasileiras formaram times de futebol que superaram a função de diversão do operariado.</p><p class=\"apoio\">Primeiramente fundados com o apoio dos patrões como um mecanismo de controle do tempo de lazer de seus funcionários, esses times logo se caracterizariam por um perfil mais democrático, em contraste com os padrões da sociedade brasileira de então. Além disso, a reunião proporcionada pelo futebol no ambiente industrial possibilitava a discussão e a mobilização pela melhoria das condições de trabalho.</p><p class=\"fonte\">&lt;https://tinyurl.com/z76arjw&gt; Acesso em: 10.02.2017. Adaptado.</p><p>De acordo com o texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o perfil dos primeiros times operários era resultado dos padrões democráticos da sociedade brasileira de meados do século XX.",
+        "B": "os jogadores operários, dirigidos pelos patrões, se opuseram à reivindicação por direitos trabalhistas no começo do século XIX.",
+        "C": "os times operários, com apoio dos empresários, organizaram reivindicações pelos direitos trabalhistas no Brasil no início do século XIX.",
+        "D": "no começo do século XX, o momento proporcionado pelo futebol nas fábricas contribuiu para a organização das reivindicações dos operários.",
+        "E": "inicialmente proibidos pelos patrões em princípios do século XX, os times operários ganharam o apoio deles após a melhoria das condições de trabalho."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que, nas primeiras décadas do século XX, “a reunião proporcionada pelo futebol no ambiente industrial possibilitava a discussão e a mobilização pela melhoria das condições de trabalho”. Alternativa <strong>D</strong>.</p><p>O perfil democrático dos times contrastava com a sociedade da época (A). Os times são do século XX, não do XIX (B e C). E eles foram fundados com apoio dos patrões, não proibidos por eles (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "movimento operário"
+      ]
+    },
+    {
+      "numero": 38,
+      "materia": "História",
+      "assunto": "Povos indígenas",
+      "origem": {
+        "numeroOriginal": 38
+      },
+      "enunciado": "<p>Você já deve ter experimentado algum refrigerante de guaraná, presença quase certa nas festas de aniversário. Mas você já parou para imaginar qual a origem do fruto?</p><p class=\"apoio\">O guaraná é originário da Amazônia e é fundamental na cultura e nos rituais dos Sateré Mawé, grupo indígena que vive no Amazonas, e que se consideram os “filhos do Guaraná”. Toda a sociedade se envolve nas etapas de beneficiamento do fruto, desde a colheita, no período das chuvas, entre novembro e março. Este é um período de vida social intensa, quando os Sateré Mawé restauram as suas forças.</p><p class=\"apoio\">Entre eles, o guaraná é consumido ralado na água e bebido em grandes quantidades por adultos e crianças. O preparo fica a cargo de uma mulher (esposa ou filha do anfitrião) que, quando chega à quantidade correta de guaraná ralado, passa a cuia com a bebida para o seu marido, que em seguida passa para todos os presentes – primeiramente os mais velhos ou visitantes ilustres – seguindo de mão em mão até retornar ao dono da casa e à sua mulher. Ela, então, prepara mais uma rodada da bebida.</p><p class=\"fonte\">&lt;https://tinyurl.com/zy6cmm6&gt; Acesso em: 10.02.2017. Adaptado.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/zwrvvpj&gt; Acesso em: 10.02.2017. Original colorido.</p><p>Conforme o texto, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q38.webp",
+          "alt": "Foto de um cacho de frutos de guaraná abertos, com sementes escuras envoltas por uma parte branca, lembrando olhos.",
+          "legenda": "Frutos de guaraná"
+        }
+      ],
+      "alternativas": {
+        "A": "o período da colheita do guaraná é de vida social intensa e, durante esse processo, os Sateré Mawé se revigoram.",
+        "B": "o consumo da bebida preparada com o guaraná ralado é restrito aos homens adultos e aos visitantes ilustres.",
+        "C": "os Sateré Mawé, do Pantanal, inventaram o refrigerante de guaraná a partir do fruto ralado na água.",
+        "D": "os homens mais velhos entre os Sateré Mawé preparam a bebida que dá energia aos mais jovens.",
+        "E": "o guaraná é um fruto colhido na primavera, quando cessam as chuvas na floresta amazônica."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O texto diz que a colheita, no período das chuvas, “é um período de vida social intensa, quando os Sateré Mawé restauram as suas forças”. Alternativa <strong>A</strong>.</p><p>A bebida é tomada por adultos e crianças (B). Os Sateré Mawé vivem no Amazonas, e o texto não diz que inventaram o refrigerante (C). Quem prepara a bebida é uma mulher (D). E a colheita é no período das chuvas, de novembro a março (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Sateré Mawé"
+      ]
+    },
+    {
+      "numero": 39,
+      "materia": "Biologia",
+      "assunto": "Nutrição e saúde",
+      "origem": {
+        "numeroOriginal": 39
+      },
+      "enunciado": "<p>Em uma confraternização entre amigos foi oferecido um almoço com um cardápio, no qual constavam as seguintes opções: macarrão, arroz branco, feijão, frango, salada de alface com tomate, batata frita e suco de melão.</p><p>Sobre esse almoço, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "os lipídios, como os óleos e as gorduras, são abundantes em todos os componentes desse cardápio.",
+        "B": "a celulose, um tipo de glicídio encontrado na salada, é importante fonte de energia para o organismo humano.",
+        "C": "o amido, um importante nutriente energético, é encontrado exclusivamente no macarrão e no arroz.",
+        "D": "as vitaminas, nutrientes reguladores, não estão presentes nessa refeição.",
+        "E": "as proteínas, nutrientes estruturais, são encontradas no frango e no feijão."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>As <strong>proteínas</strong>, que constroem e reparam o corpo, estão no <strong>frango</strong> e no <strong>feijão</strong>. Alternativa <strong>E</strong>.</p><p>A salada de alface e o suco quase não têm gordura (A). A celulose não é digerida pelo ser humano, então não fornece energia (B). Também há amido na batata e no feijão (C). E salada, tomate e suco têm vitaminas (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 40,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 40
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e responda às questões de números 40 e 41.</p><p class=\"apoio\">Ao longo dos anos, um estúdio tornou-se famoso graças à capacidade de criar universos bastante criativos a partir de situações inusitadas. Assim foi com <em>Toy Story</em>, <em>Procurando Nemo</em>, e outros tantos. Após um período de vacas magras, em que até fez sucesso, mas sem a mesma originalidade, o estúdio retorna à sua melhor forma em <em>Divertida Mente</em>.</p><p class=\"apoio\">A história gira em torno da mente de uma garota chamada Riley, tendo como grandes protagonistas as cinco emoções responsáveis por conduzir sua vida: Alegria, Tristeza, Raiva, Medo e Nojinho. Cada emoção possui cor e temperamentos próprios, claramente infantilizados para facilitar a compreensão do público menor, mas ainda assim de uma profundidade impressionante. Ou seja, além de desenvolver a personalidade de cada uma dessas emoções, o estúdio teve que buscar meios para tornar concreto e viável algo que não é palpável, usando muita criatividade.</p><p class=\"apoio\">Há muito de psicologia em <em>Divertida Mente</em>. Vários são os conceitos adaptados nessa grande alegoria emocional, como o porquê de Riley se esquecer de fatos antigos de sua vida, o que define sua personalidade, questões do inconsciente, a formação dos sonhos e até mesmo depressão. Sim, depressão! Por mais que o mal do século jamais seja citado nominalmente no longa-metragem, ele é claramente apresentado e explicado dentro do contexto do filme. Mais ainda: <em>Divertida Mente</em> evita a vilanização da tristeza e oferece uma mensagem bastante importante sobre como lidar com ela no cotidiano, ao invés de afugentá-la a qualquer custo. Chorar, como o filme tão bem demonstra, às vezes é necessário.</p><p class=\"fonte\">&lt;http://tinyurl.com/gvsksp3&gt; Acesso em: 25.01.2017. Adaptado.</p><p>De acordo com o texto, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a animação retratou, de forma infantilizada, mas com profundidade, cinco emoções essenciais da personagem.",
+        "B": "a Tristeza é apresentada pelo longa-metragem como vilã e como algo essencial para a vida.",
+        "C": "a depressão aparece no filme como uma emoção com cor e temperamento próprios.",
+        "D": "o filme não atingiu o público infantil por empregar conceitos abstratos.",
+        "E": "a depressão é temática central em todos os filmes do estúdio."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O texto diz que cada uma das cinco emoções de Riley tem “cor e temperamentos próprios, claramente infantilizados para facilitar a compreensão do público menor, mas ainda assim de uma profundidade impressionante”. Alternativa <strong>A</strong>.</p><p>O filme evita a vilanização da tristeza (B). A depressão “jamais” é citada pelo nome e não é uma das emoções (C). O filme facilita a compreensão do público infantil (D). E o texto não diz que a depressão está em todos os filmes do estúdio (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 41,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 41
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e responda às questões de números 40 e 41.</p><p class=\"apoio\">Ao longo dos anos, um estúdio tornou-se famoso graças à capacidade de criar universos bastante criativos a partir de situações inusitadas. Assim foi com <em>Toy Story</em>, <em>Procurando Nemo</em>, e outros tantos. Após um período de vacas magras, em que até fez sucesso, mas sem a mesma originalidade, o estúdio retorna à sua melhor forma em <em>Divertida Mente</em>.</p><p class=\"apoio\">A história gira em torno da mente de uma garota chamada Riley, tendo como grandes protagonistas as cinco emoções responsáveis por conduzir sua vida: Alegria, Tristeza, Raiva, Medo e Nojinho. Cada emoção possui cor e temperamentos próprios, claramente infantilizados para facilitar a compreensão do público menor, mas ainda assim de uma profundidade impressionante. Ou seja, além de desenvolver a personalidade de cada uma dessas emoções, o estúdio teve que buscar meios para tornar concreto e viável algo que não é palpável, usando muita criatividade.</p><p class=\"apoio\">Há muito de psicologia em <em>Divertida Mente</em>. Vários são os conceitos adaptados nessa grande alegoria emocional, como o porquê de Riley se esquecer de fatos antigos de sua vida, o que define sua personalidade, questões do inconsciente, a formação dos sonhos e até mesmo depressão. Sim, depressão! Por mais que o mal do século jamais seja citado nominalmente no longa-metragem, ele é claramente apresentado e explicado dentro do contexto do filme. Mais ainda: <em>Divertida Mente</em> evita a vilanização da tristeza e oferece uma mensagem bastante importante sobre como lidar com ela no cotidiano, ao invés de afugentá-la a qualquer custo. Chorar, como o filme tão bem demonstra, às vezes é necessário.</p><p class=\"fonte\">&lt;http://tinyurl.com/gvsksp3&gt; Acesso em: 25.01.2017. Adaptado.</p><p>Releia o trecho.</p><p class=\"apoio\">Vários são os conceitos adaptados nesta grande alegoria emocional, como o <strong>porquê</strong> de se esquecer fatos antigos de sua vida [...]</p><p>Há diversos usos dos porquês e cada um deles exige uma determinada grafia. Uma das grafias existentes para essa palavra foi destacada no trecho selecionado em que o porquê exerce função de um substantivo.</p><p>Tendo isso em vista, assinale a alternativa em que a palavra “porquê” é grafada corretamente e é classificada como um substantivo.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Por quê o estúdio de cinema que inventou universos criativos fez fama?",
+        "B": "A invenção de universos criativos foi feita pelo estúdio de cinema. Porquê?",
+        "C": "O estúdio de cinema fez fama porquê inventou diversos universos criativos.",
+        "D": "O estúdio de cinema inventou universos criativos por quê queria fazer fama.",
+        "E": "A invenção de universos criativos é o porquê da fama do estúdio de cinema."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>“Porquê”, junto e com acento, é substantivo e significa “o motivo”; vem acompanhado de artigo. Em “é <strong>o porquê</strong> da fama do estúdio”, ele é usado assim. Alternativa <strong>E</strong>.</p><p>Em início de pergunta, usa-se “por que” separado e sem acento (A). No fim de pergunta, “por quê” separado e com acento (B). Para explicar uma causa, usa-se “porque” junto e sem acento (C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "porquês"
+      ]
+    },
+    {
+      "numero": 42,
+      "materia": "Física",
+      "assunto": "Magnetismo",
+      "origem": {
+        "numeroOriginal": 42
+      },
+      "enunciado": "<p>Ímãs podem ser utilizados em muitas brincadeiras. Não é a toa que há uma série de brinquedos em que figuras planas ou tridimensionais podem ser montadas utilizando-se ímãs. Um desses brinquedos consiste em uma grande quantidade de ímãs em formato de bastão.</p><p>A figura 1 mostra o perfil de um desses ímãs sendo que a parte escurecida corresponde ao polo Norte, enquanto a parte em branco corresponde ao polo Sul.</p>[[fig:1]]<p>Carlos vai dispor alguns ímãs de acordo com a figura 2, de modo que eles fiquem unidos apenas pela ação da força magnética, sem a ação de atritos ou outras forças.</p>[[fig:2]]<p>Assinale a alternativa que apresenta corretamente uma possibilidade de arranjo dos ímãs para que Carlos consiga montar a disposição apresentada na figura 2.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q42a.webp",
+          "alt": "Figura 1: um ímã em forma de bastão, visto de lado; a metade esquerda é branca (polo Sul) e a direita é escura (polo Norte)."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q42b.webp",
+          "alt": "Figura 2: seis ímãs formando dois quadrados lado a lado, com ímãs horizontais em cima e embaixo e ímãs verticais nas laterais e no meio."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q42c.webp",
+          "alt": "Alternativa A: um arranjo dos ímãs na forma da figura 2, com os polos escuros e claros numa disposição própria."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q42d.webp",
+          "alt": "Alternativa B: um arranjo dos ímãs na forma da figura 2, com os polos escuros e claros numa disposição própria."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q42e.webp",
+          "alt": "Alternativa C: um arranjo dos ímãs na forma da figura 2, com os polos escuros e claros numa disposição própria."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q42f.webp",
+          "alt": "Alternativa D: um arranjo dos ímãs na forma da figura 2, com os polos escuros e claros numa disposição própria."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q42g.webp",
+          "alt": "Alternativa E: um arranjo dos ímãs na forma da figura 2, com os polos escuros e claros numa disposição própria."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:3]]",
+        "B": "[[fig:4]]",
+        "C": "[[fig:5]]",
+        "D": "[[fig:6]]",
+        "E": "[[fig:7]]"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Polos diferentes se atraem e polos iguais se repelem. Para os ímãs ficarem unidos só pela força magnética, <strong>em cada ponto de contato um polo Norte (escuro) precisa encostar num polo Sul (claro)</strong>. Isso acontece em todos os encontros apenas no arranjo da alternativa <strong>B</strong>.</p><p>Nas outras, pelo menos um encontro junta dois polos iguais, e esses ímãs se repeliriam.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ímãs"
+      ]
+    },
+    {
+      "numero": 43,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 43
+      },
+      "enunciado": "<p>Os símbolos de alguns elementos químicos foram colocados dentro da figura que representa um corpo humano, conforme a imagem.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/mvvnsx8&gt; Acesso em: 26.01.2017. Original colorido.</p><p>Nessa imagem, observamos, dentre outros, os símbolos dos elementos químicos</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q43.webp",
+          "alt": "Silhueta de um corpo humano preenchida com quadradinhos da tabela periódica. Na cabeça aparecem C e Si; no tronco, Ge, As, In, Sn, Sb, Pb e Uuq; nos braços e pernas, Cr, Fe, Co, Rh, Ir e outros."
+        }
+      ],
+      "alternativas": {
+        "A": "cálcio, enxofre e ferro.",
+        "B": "cálcio, níquel e cloro.",
+        "C": "carbono, níquel e cloro.",
+        "D": "carbono, chumbo e ferro.",
+        "E": "carbono, chumbo e flúor."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Na figura aparecem os símbolos <strong>C</strong> (carbono), <strong>Pb</strong> (chumbo) e <strong>Fe</strong> (ferro). Alternativa <strong>D</strong>.</p><p>Os símbolos do cálcio (Ca), enxofre (S), níquel (Ni), cloro (Cℓ) e flúor (F) não aparecem na imagem (A, B, C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "símbolos dos elementos"
+      ]
+    },
+    {
+      "numero": 44,
+      "materia": "Física",
+      "assunto": "Óptica",
+      "origem": {
+        "numeroOriginal": 44
+      },
+      "enunciado": "<p>O caleidoscópio consiste em um prisma regular de base triangular, obtido da união de três espelhos planos retangulares, todos com as suas faces espelhadas voltadas uma para as outras (desenho 1). Em uma das bases triangulares, é colado um material translúcido, enquanto a outra base é opaca, contendo apenas um furo em seu centro. Dentro do caleidoscópio encontram-se pequenos objetos soltos, tais como contas ou pedacinhos de papel.</p><p>Ao olharmos para o interior do caleidoscópio através do furo da base opaca, podemos ver as imagens obtidas pelas inúmeras reflexões dos objetos nos espelhos.</p>[[fig:1]]<p>Desejando construir seu caleidoscópio, João o fez com papel cartão escuro (desenho 2).</p>[[fig:2]]<p>João colou dois espelhos consecutivos, bem como as abas correspondentes das laterais nas bases formadas com os triângulos equiláteros. Enquanto esperava a cola secar, decidiu olhar as imagens de um botão que ele segurou entre esses dois espelhos. Como o caleidoscópio ainda não estava fechado completamente, ele pôde olhar diretamente para as faces refletoras dos espelhos.</p><p>O número máximo de imagens distintas do botão, que podem ser vistas por João é</p><p class=\"apoio\">O número de imagens distintas (N) que se formam de um objeto colocado entre dois espelhos pode ser calculado pela relação \\[N = \\dfrac{360^\\circ}{\\begin{array}{c}\\text{medida do ângulo entre}\\\\ \\text{as superfícies refletoras}\\end{array}} - 1\\]</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q44a.webp",
+          "alt": "Desenho 1: um prisma comprido de base triangular; na base aparente, um triângulo com ângulos de 60º e um furo no centro."
+        },
+        {
+          "src": "assets/img/etec-2017-2sem/q44b.webp",
+          "alt": "Desenho 2: molde de papel cartão com três retângulos “cole o espelho aqui” lado a lado, abas de colagem nas laterais, um triângulo com furo de um lado e um triângulo de material translúcido do outro."
+        }
+      ],
+      "alternativas": {
+        "A": "uma.",
+        "B": "duas.",
+        "C": "três.",
+        "D": "cinco.",
+        "E": "seis."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>As bases são triângulos equiláteros, então os dois espelhos colados formam um ângulo de 60º. Pela relação dada: N = 360º ÷ 60º − 1 = 6 − 1 = <strong>5</strong> imagens. Alternativa <strong>D</strong>.</p><p>6 vem de esquecer de subtrair 1 (E). E três, duas ou uma imagem corresponderiam a ângulos maiores, de 90º, 120º ou 180º (A, B e C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "associação de espelhos"
+      ]
+    },
+    {
+      "numero": 45,
+      "materia": "Biologia",
+      "assunto": "Ecologia",
+      "origem": {
+        "numeroOriginal": 45
+      },
+      "enunciado": "<p>O filme <em>Procurando Nemo</em> é uma produção que se baseia na vida de dois peixes-palhaço, pai e filho, habitantes da Grande Barreira de Coral.</p><p>Do ponto de vista biológico, o filme apresenta algumas imprecisões. Por exemplo: Marlin é um pai zeloso e protetor, que cuida cautelosamente do filhote Nemo, único sobrevivente da ninhada. Porém, esse cuidado parental na espécie dos peixes-palhaço não ocorre na natureza, pois o macho só cuida dos ovos até o momento da eclosão.</p><p>No entanto, tal como no filme, na natureza, os peixes-palhaço ganham proteção e alimento vivendo entre os tentáculos das anêmonas-do-mar. Essa proximidade entre essas espécies é facilitada porque a pele desses peixes possui uma defesa especial, que os protege de serem atingidos pelo veneno dos tentáculos das anêmonas, que também se beneficiam dos restos de alimento deixados pelos peixes-palhaço.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/k9s33lr&gt; Acesso em: 17.03.2017. Original colorido.</p><p>É correto afirmar que a relação descrita entre esses seres vivos de espécies diferentes denomina-se</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2017-2sem/q45.webp",
+          "alt": "Foto de um peixe-palhaço, com faixas brancas, nadando entre os tentáculos de uma anêmona-do-mar.",
+          "legenda": "Peixe-palhaço entre os tentáculos da anêmona."
+        }
+      ],
+      "alternativas": {
+        "A": "competição.",
+        "B": "mimetismo.",
+        "C": "parasitismo.",
+        "D": "predação.",
+        "E": "protocooperação."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O peixe-palhaço ganha proteção e alimento, e a anêmona aproveita os restos de comida deixados por ele. As duas espécies se beneficiam, mas poderiam viver separadas: é <strong>protocooperação</strong>. Alternativa <strong>E</strong>.</p><p>Não há disputa por recurso (A). Mimetismo é imitar outra espécie (B). No parasitismo e na predação, uma espécie é prejudicada (C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "relações ecológicas"
+      ]
+    },
+    {
+      "numero": 46,
+      "materia": "Geografia",
+      "assunto": "Globalização",
+      "origem": {
+        "numeroOriginal": 46
+      },
+      "enunciado": "<p>O cinema transformou-se em um grande divertimento para as pessoas, logo após sua invenção pelos irmãos Lumière, no final do século XIX, na França.</p><p>Porém, há algum tempo, diversas salas de cinema vêm fechando suas portas, como aconteceu na Itália onde 888 salas foram desativadas entre os anos de 2000 e 2014.</p><p>A principal causa do ocorrido na Itália, que também é o reflexo de uma tendência mundial, é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a falta de novas produções cinematográficas, uma vez que os filmes que são apresentados nas telas dos cinemas são primeiramente exibidos nos canais de televisão aberta.",
+        "B": "a estatização das salas de projeção e das produtoras de filmes, fazendo com que os ingressos se tornem caros, ficando inacessíveis para a população em geral.",
+        "C": "a transferência das salas de cinema do centro das grandes cidades para cinemas de rua nas periferias, dificultando o deslocamento dos espectadores.",
+        "D": "o aumento da tecnologia e de novos meios, considerados mais práticos e mais baratos, de assistir longas-metragens, como televisão ou internet.",
+        "E": "a transformação das salas de cinema em teatros, popularizando a arte teatral e diminuindo o interesse da população pelos filmes."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Com a TV a cabo, os DVDs e, depois, o streaming pela internet, ficou <strong>mais prático e barato assistir a filmes em casa</strong>, e muitas salas de cinema fecharam. Alternativa <strong>D</strong>.</p><p>Os filmes estreiam primeiro no cinema, não na TV aberta (A). As salas não foram estatizadas (B). Na verdade, os cinemas saíram das ruas para os shopping centers (C). E as salas não viraram teatros em massa (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tecnologia"
+      ]
+    },
+    {
+      "numero": 47,
+      "materia": "Química",
+      "assunto": "Funções inorgânicas",
+      "origem": {
+        "numeroOriginal": 47
+      },
+      "enunciado": "<p>Em um trabalho interdisciplinar, o professor de redação pede aos alunos que façam um poema que seria denominado “Cienciando”, usando o estudo de Ciências.</p><p>Observe um desses poemas, em que o aluno cita algumas funções químicas.</p><p class=\"apoio\"><strong>Cienciando</strong></p><p class=\"apoio\">Periódica a nossa reação<br>Com ácido e base<br>Sem óxidos<br>A produzir um sal</p><p class=\"apoio\">A perfeita neutralização<br>Com ácido clorídrico e soda cáustica<br>Que não forme precipitado<br>Nem par conjugado.</p><p>Um exemplo de cada função, na ordem em que aparecem na primeira estrofe do poema, está presente na alternativa</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "1ª: NaOH; 2ª: HCℓ; 3ª: CO<sub>2</sub>; 4ª: NaCℓ.",
+        "B": "1ª: NaOH; 2ª: NaCℓ; 3ª: CO<sub>2</sub>; 4ª: HCℓ.",
+        "C": "1ª: HCℓ; 2ª: NaOH; 3ª: CO<sub>2</sub>; 4ª: NaCℓ.",
+        "D": "1ª: HCℓ; 2ª: NaOH; 3ª: NaCℓ; 4ª: CO<sub>2</sub>.",
+        "E": "1ª: HCℓ; 2ª: NaCℓ; 3ª: NaOH; 4ª: CO<sub>2</sub>."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A primeira estrofe cita, nesta ordem, <strong>ácido</strong>, <strong>base</strong>, <strong>óxido</strong> e <strong>sal</strong>. Um exemplo de cada: HCℓ (ácido clorídrico), NaOH (hidróxido de sódio, a soda cáustica), CO<sub>2</sub> (óxido) e NaCℓ (sal). Alternativa <strong>C</strong>.</p><p>A e B começam pela base. D e E põem o sal ou a base fora de ordem e deixam o óxido por último.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 48,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 48
+      },
+      "enunciado": "<p>Durante o verão, devido às férias, ficamos mais tempo ao ar livre e expostos à radiação solar, aumentando o risco de queimaduras. Nesta época, os raios ultravioleta apresentam maior intensidade e, por isso, todos os cuidados com a pele devem ser tomados para evitar os efeitos prejudiciais.</p><p>A pele é o maior órgão do corpo humano. Reveste, atua na defesa e colabora com outros órgãos para o bom funcionamento do organismo como, por exemplo, agindo no controle da temperatura corporal e na elaboração de metabólitos. Possui algumas estruturas especializadas, chamadas anexos da pele: pelos, unhas e glândulas sebáceas e sudoríparas. É constituída de epiderme e derme, tecidos intimamente unidos, que atuam de forma harmônica e cooperativa.</p><p>Sob a derme, a gordura se concentra no tecido adiposo, que funciona como isolante térmico e contribui para a manutenção de uma temperatura constante.</p><p>Com relação a esse órgão, assinale a alternativa correta.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "A derme atua na absorção total da luz, garantindo que o organismo adquira resistência a esse tipo de radiação.",
+        "B": "As glândulas sebáceas produzem lipídios (o chamado sebo), que aumenta o ressecamento da pele e dos pelos.",
+        "C": "A presença de uma camada de gordura sob a derme é importante na produção de sangue e na pigmentação da pele.",
+        "D": "A epiderme constitui a camada mais externa de defesa do corpo, protegendo o organismo contra a penetração de agentes externos.",
+        "E": "As glândulas sudoríparas são responsáveis por eliminar o suor, solução salina diluída que, ao evaporar, aumenta a temperatura do corpo."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A <strong>epiderme</strong> é a camada mais externa da pele e funciona como barreira contra a entrada de micro-organismos e outros agentes. Alternativa <strong>D</strong>.</p><p>A pele não absorve toda a luz nem fica resistente à radiação (A). O sebo lubrifica e evita o ressecamento (B). A gordura sob a derme isola o calor e guarda energia, não produz sangue nem pigmento (C). E o suor, ao evaporar, diminui a temperatura do corpo (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pele"
+      ]
+    },
+    {
+      "numero": 49,
+      "materia": "Português",
+      "assunto": "Interpretação de texto",
+      "origem": {
+        "numeroOriginal": 49
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e responda às questões de números 49 e 50.</p><p class=\"apoio\">A internet é uma ferramenta muito utilizada por crianças, jovens e adultos, trazendo atrativos como jogos, <em>Facebook</em>, <em>Twitter</em> e <em>Whatsapp</em>. A pergunta que se levanta é a seguinte: será que isso ajuda no desenvolvimento e no crescimento do ser humano?</p><p class=\"apoio\">A funcionária pública Nicole, de 25 anos, por exemplo, diz que se considera uma pessoa “viciada”, pois a primeira coisa que faz ao chegar ao trabalho antes de começar a sua rotina é ligar o computador para ter contato com as redes sociais <em>Facebook</em> e <em>Twitter</em>.</p><p class=\"apoio\">Ela diz que, no trabalho, acessa diariamente a internet. Nicole conta que as redes sociais promovem a conectividade entre as pessoas de forma prática, com a exibição das atualizações de uma forma dinâmica e inteligente.</p><p class=\"apoio\">Já a professora Fernanda, de 60 anos, diz que tem um pouco de dificuldade ao explicar a matéria para seus alunos, pois muitos deles só querem saber de “facebookar” no celular.</p><p class=\"apoio\">A psicóloga Miriam, de 45 anos, acredita que, com o avanço da tecnologia, as pessoas obtiveram vantagens com relação a pesquisas na internet. Ela ressalta que é preciso ter cuidado, pois o <em>Facebook</em>, <em>Twitter</em> e <em>Whatsapp</em> devem ser considerados um lazer e não um vício. “Tudo que passa do limite normal é perigoso, pode se transformar em vício. Todo vício é uma doença, independentemente da idade”, diz a psicóloga.</p><p class=\"apoio\">A especialista conclui que, para controlar o vício, é preciso ser moderado. Caso tenha perdido esse controle, suas ações já se tornaram um vício. Nesse caso, é fundamental procurar ajuda profissional.</p><p class=\"fonte\">&lt;https://tinyurl.com/gw57v7l&gt; Acesso em: 10.02.2017. Adaptado.</p><p>De acordo com o texto, é possível afirmar corretamente que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Fernanda tem dificuldade para ensinar porque seus alunos preferem procurar o conteúdo de suas aulas na internet.",
+        "B": "Nicole não se considera “viciada”, pois só se interessa em acessar suas redes sociais quando chega no trabalho.",
+        "C": "o uso da internet e de redes sociais pode se tornar um vício se as pessoas não forem moderadas.",
+        "D": "a maioria das pessoas utiliza a internet para aperfeiçoar o próprio desenvolvimento cognitivo.",
+        "E": "o uso demasiado da internet e redes sociais é prejudicial somente em áreas corporativas."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A psicóloga Miriam diz que, “para controlar o vício, é preciso ser moderado”. Ou seja, o uso da internet e das redes sociais <strong>pode virar vício sem moderação</strong>. Alternativa <strong>C</strong>.</p><p>Fernanda tem dificuldade porque os alunos querem “facebookar”, não pesquisar o conteúdo (A). Nicole se diz “viciada” (B). O texto não fala da maioria das pessoas (D). E o perigo não se limita às empresas (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 50,
+      "materia": "Português",
+      "assunto": "Formação de palavras",
+      "origem": {
+        "numeroOriginal": 50
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e responda às questões de números 49 e 50.</p><p class=\"apoio\">A internet é uma ferramenta muito utilizada por crianças, jovens e adultos, trazendo atrativos como jogos, <em>Facebook</em>, <em>Twitter</em> e <em>Whatsapp</em>. A pergunta que se levanta é a seguinte: será que isso ajuda no desenvolvimento e no crescimento do ser humano?</p><p class=\"apoio\">A funcionária pública Nicole, de 25 anos, por exemplo, diz que se considera uma pessoa “viciada”, pois a primeira coisa que faz ao chegar ao trabalho antes de começar a sua rotina é ligar o computador para ter contato com as redes sociais <em>Facebook</em> e <em>Twitter</em>.</p><p class=\"apoio\">Ela diz que, no trabalho, acessa diariamente a internet. Nicole conta que as redes sociais promovem a conectividade entre as pessoas de forma prática, com a exibição das atualizações de uma forma dinâmica e inteligente.</p><p class=\"apoio\">Já a professora Fernanda, de 60 anos, diz que tem um pouco de dificuldade ao explicar a matéria para seus alunos, pois muitos deles só querem saber de “facebookar” no celular.</p><p class=\"apoio\">A psicóloga Miriam, de 45 anos, acredita que, com o avanço da tecnologia, as pessoas obtiveram vantagens com relação a pesquisas na internet. Ela ressalta que é preciso ter cuidado, pois o <em>Facebook</em>, <em>Twitter</em> e <em>Whatsapp</em> devem ser considerados um lazer e não um vício. “Tudo que passa do limite normal é perigoso, pode se transformar em vício. Todo vício é uma doença, independentemente da idade”, diz a psicóloga.</p><p class=\"apoio\">A especialista conclui que, para controlar o vício, é preciso ser moderado. Caso tenha perdido esse controle, suas ações já se tornaram um vício. Nesse caso, é fundamental procurar ajuda profissional.</p><p class=\"fonte\">&lt;https://tinyurl.com/gw57v7l&gt; Acesso em: 10.02.2017. Adaptado.</p><p>A formação e surgimento de palavras no português acontece por meio de vários processos.</p><p>As palavras “facebookar” e “desenvolvimento”, presentes no texto, exemplificam dois desses processos: o neologismo e a derivação sufixal.</p><p class=\"apoio\"><strong>(I)</strong> Facebookar ⇒ Neologismo</p><p class=\"apoio\"><strong>(II)</strong> Desenvolvimento ⇒ Derivação sufixal</p><p>Esses dois processos acontecem quando</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "(I): há a junção de dois ou mais radicais; (II): há anexação de sufixo na palavra de origem.",
+        "B": "(I): há anexação de sufixo na palavra de origem; (II): há a criação de novas palavras.",
+        "C": "(I): há a criação de novas palavras; (II): a palavra é constituída por radicais de diferentes línguas.",
+        "D": "(I): a palavra é constituída por radicais de diferentes línguas; (II): as palavras imitam um som, como ruídos e gritos.",
+        "E": "(I): há a criação de novas palavras; (II): há anexação de sufixo na palavra de origem."
+      },
+      "gabarito": "E",
+      "explicacao": "<p><strong>Neologismo</strong> é a <strong>criação de uma palavra nova</strong>, como “facebookar”. <strong>Derivação sufixal</strong> é o acréscimo de um <strong>sufixo</strong> a uma palavra já existente: desenvolver + -mento. Alternativa <strong>E</strong>.</p><p>Juntar radicais é composição (A). B inverte os dois processos. Radicais de línguas diferentes formam hibridismos (C e D). E imitar sons é onomatopeia (D).</p>",
+      "explicacaoRevisada": false
+    }
+  ]
+}

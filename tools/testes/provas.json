@@ -1,0 +1,42 @@
+[
+  {
+    "id": "exemplo-etec",
+    "banca": "ETEC",
+    "titulo": "ETEC exemplo",
+    "ano": 2024,
+    "duracaoMinutos": 240,
+    "totalQuestoes": 2,
+    "arquivo": "data/provas/exemplo-etec.json",
+    "materias": [
+      "Matemática",
+      "Português"
+    ],
+    "assuntos": [
+      "Plural",
+      "Potenciação"
+    ],
+    "temTri": false,
+    "revisadas": 1
+  },
+  {
+    "id": "exemplo-enem",
+    "banca": "Enem",
+    "titulo": "Enem exemplo — Dia 1",
+    "ano": 2023,
+    "duracaoMinutos": 330,
+    "totalQuestoes": 3,
+    "arquivo": "data/provas/exemplo-enem.json",
+    "materias": [
+      "Ciências da Natureza",
+      "Linguagens",
+      "Matemática"
+    ],
+    "assuntos": [
+      "Citologia",
+      "Interpretação de texto",
+      "Porcentagem"
+    ],
+    "temTri": false,
+    "revisadas": 2
+  }
+]

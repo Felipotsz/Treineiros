@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1E1813">
+<meta name="description" content="Quem faz o Treineiros, por que ele existe, como foi construído e como apoiar o projeto, se você quiser.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/info.css">
+<script src="js/theme.js"></script>
+<title>Quem faz e como apoiar | Treineiros</title>
+</head>
+<body>
+<!--
+  PARA PREENCHER antes de publicar: tudo que tem class="preencher" (nome, texto sobre você, carreira, links).
+  Depois de preencher, apague o class="preencher" de cada trecho. O validador (tools/validar.py) avisa
+  enquanto sobrar algum. A chave Pix e o QR code ficam em js/config.js (Config.apoio).
+-->
+<main id="conteudo" class="info">
+  <header class="info__topo">
+    <h1>Um projeto feito por uma pessoa, para quem está estudando</h1>
+    <p>O Treineiros é gratuito, sem anúncios e sem cadastro. Aqui você conhece quem faz, por que ele existe e, se quiser, como apoiar.</p>
+  </header>
+
+  <section class="autor" aria-labelledby="quem">
+    <img class="autor__foto" src="assets/fotos/autor-288.webp" srcset="assets/fotos/autor-288.webp 1x, assets/fotos/autor-600.webp 2x" width="288" height="288" alt="Retrato do autor do Treineiros, de óculos e blusa preta, diante de uma estante de livros.">
+    <div>
+      <h2 id="quem"><span class="preencher">Seu nome</span></h2>
+      <p class="autor__papel"><span class="preencher">Sua profissão ou área, cidade</span></p>
+      <p class="preencher">Escreva aqui, em primeira pessoa, quem você é e o que te levou a criar o Treineiros. Duas ou três frases bastam: de onde você é, o que estuda ou faz, e qual a sua relação com a ETEC, a FATEC ou o Enem.</p>
+      <ul class="autor__links">
+        <li><a class="preencher" href="https://github.com/SEU-USUARIO" rel="noopener" target="_blank">GitHub</a></li>
+        <li><a class="preencher" href="https://www.linkedin.com/in/SEU-PERFIL" rel="noopener" target="_blank">LinkedIn</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="info__secao" aria-labelledby="carreira">
+    <h2 id="carreira">Carreira</h2>
+    <ol class="carreira" reversed>
+      <li class="preencher"><strong>Cargo ou curso mais recente</strong><span>Empresa ou instituição, ano de início até hoje</span></li>
+      <li class="preencher"><strong>Cargo ou curso anterior</strong><span>Empresa ou instituição, anos</span></li>
+      <li class="preencher"><strong>Formação</strong><span>Escola, curso técnico ou faculdade, ano</span></li>
+    </ol>
+  </section>
+
+  <section class="info__secao" aria-labelledby="porque">
+    <h2 id="porque">Por que o Treineiros existe</h2>
+    <p>As provas da ETEC e da FATEC são públicas, mas ficam espalhadas em PDFs, sem correção comentada e difíceis de usar no celular. Quem pode pagar um cursinho tem simulados prontos; quem não pode, muitas vezes estuda sozinho, no celular, com o pacote de dados contado.</p>
+    <p>O Treineiros junta as provas oficiais num só lugar, do jeito que elas caem no dia: mesmo tempo, mesmas questões, mesmo gabarito. E explica cada resposta, para que errar também ensine.</p>
+  </section>
+
+  <section class="info__secao" aria-labelledby="como">
+    <h2 id="como">Como ele foi feito</h2>
+    <ul class="lista-info">
+      <li><strong>As questões</strong> são transcritas dos cadernos oficiais, sem resumir nem corrigir. As figuras são recortadas do próprio caderno.</li>
+      <li><strong>O gabarito</strong> vem só do gabarito oficial publicado. Questão anulada aparece como anulada, com o motivo oficial quando ele existe.</li>
+      <li><strong>As correções comentadas</strong> são escritas com ajuda de inteligência artificial e revisadas por uma pessoa. Enquanto uma explicação não foi revisada, ela fica marcada, e qualquer um pode apontar um erro pelo botão “Reportar erro”.</li>
+      <li><strong>O site</strong> é feito só com HTML, CSS e JavaScript, sem servidor e sem cadastro. Seu progresso fica guardado no seu aparelho, e depois de aberto o site funciona até sem internet.</li>
+      <li><strong>A acessibilidade</strong> é parte do projeto desde o começo: dá para usar só com o teclado ou com leitor de tela, e há modo noturno.</li>
+    </ul>
+  </section>
+
+  <section class="pix" id="pix" aria-labelledby="apoiar">
+    <div class="pix__qr pix__qr--vazio" id="pix-qr">Pix em breve</div>
+    <div>
+      <h2 id="apoiar">Apoiar com um Pix, se você quiser</h2>
+      <p class="opcional"><strong>É totalmente opcional.</strong> O Treineiros é e continuará gratuito, com tudo liberado para todo mundo. As provas são material público do Centro Paula Souza e do Inep; o apoio ajuda a pagar o tempo de transcrever, revisar e explicar as questões, nunca o acesso a elas.</p>
+      <div id="pix-chave"><p>A chave Pix ainda não foi publicada. Enquanto isso, as outras formas de ajudar logo abaixo valem tanto quanto.</p></div>
+    </div>
+  </section>
+
+  <section class="info__secao" aria-labelledby="outras">
+    <h2 id="outras">Outras formas de ajudar, sem gastar nada</h2>
+    <ul class="ajudas">
+      <li>Achou um erro numa questão ou explicação? Use o botão <strong>Reportar erro</strong> na própria questão.</li>
+      <li>Mande o site para alguém que vai fazer a ETEC, a FATEC ou o Enem.</li>
+      <li>Professor ou professora? Use as questões em sala; a busca ajuda a montar listas por assunto.</li>
+    </ul>
+  </section>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/apoie.js"></script>
+</body>
+</html>

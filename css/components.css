@@ -1,0 +1,221 @@
+/* Componentes do Treineiros (usados em várias páginas). */
+
+/* ---------- Cabeçalho ---------- */
+.cab{position:relative;z-index:10;background:var(--surface);border-bottom:4px double var(--line-forte)}
+.cab__in{display:flex;align-items:center;gap:var(--s3);max-width:var(--wrap);margin:0 auto;padding:var(--s2) var(--s3)}
+@media (min-width:48rem){.cab__in{padding:var(--s3) var(--s4)}}
+.marca{flex:none;color:var(--text);text-decoration:none}
+.marca--logo{display:block;line-height:0;padding:var(--s1) 0}
+.marca--logo .logo{width:8.5rem}
+@media (min-width:48rem){.marca--logo .logo{width:9.5rem}}
+.cab__nav{margin-left:auto}
+.cab__nav ul{display:flex;gap:var(--s1);margin:0;padding:0;list-style:none}
+.cab__nav a{display:block;padding:var(--s2) var(--s3);font:600 1.125rem var(--font-ui);font-variant-caps:all-small-caps;letter-spacing:.09em;color:var(--text);text-decoration:none;border-radius:var(--radius)}
+.cab__nav a:hover{background:var(--surface-2)}
+.cab__nav a[aria-current="page"]{color:var(--caneta);box-shadow:inset 0 -2px 0 var(--ouro);border-radius:0}
+.cab__acoes{display:flex;gap:var(--s2);align-items:center}
+.btn-icone{display:inline-flex;align-items:center;gap:var(--s2);min-height:2.75rem;padding:0 var(--s3);font:600 var(--fs-2) var(--font-ui);
+  color:var(--text);background:transparent;border:1px solid var(--line);border-radius:var(--radius);cursor:pointer}
+.btn-icone:hover{background:var(--surface-2)}
+.btn-icone svg{width:1.15rem;height:1.15rem;flex:none}
+.cab__menu{display:none}
+/* celular: o menu vira painel que abre embaixo do cabeçalho */
+@media (max-width:59.99rem){
+  .cab__menu{display:inline-flex;margin-left:auto}
+  .cab__nav{position:absolute;left:0;right:0;top:100%;margin:0;padding:var(--s2) var(--s3) var(--s4);background:var(--surface);
+    border-bottom:1px solid var(--line);box-shadow:0 12px 24px rgba(0,0,0,.12)}
+  .cab__nav[hidden]{display:none!important}
+  .cab__nav ul{flex-direction:column;gap:0}
+  .cab__nav a{padding:var(--s3) var(--s2);font-size:var(--fs-3);border-bottom:1px solid var(--line);border-radius:0}
+  .cab__nav a[aria-current="page"]{box-shadow:inset 3px 0 0 var(--ouro);padding-left:var(--s3)}
+  .cab__nav .cab__secundarios a{font-size:var(--fs-2);color:var(--text-muted);border-bottom:0;padding:var(--s2)}
+  .cab__nav .cab__secundarios{display:flex;flex-wrap:wrap;gap:0 var(--s3);margin-top:var(--s3)}
+}
+@media (min-width:60rem){.cab__nav[hidden]{display:block!important}.cab__secundarios{display:none!important}}
+.foco .cab,.foco .rodape{display:none}
+
+/* ---------- Rodapé ---------- */
+.rodape{margin-top:auto;background:var(--surface);border-top:4px double var(--line-forte);font:var(--fs-1)/1.55 var(--font-ui);color:var(--text-muted)}
+.rodape__in{display:grid;gap:var(--s4);max-width:var(--wrap);margin:0 auto;padding:var(--s5) var(--s3) var(--s4)}
+@media (min-width:48rem){.rodape__in{grid-template-columns:1.4fr 1fr 1fr 1fr;padding:var(--s5) var(--s4) var(--s4)}}
+.rodape h2{margin:0 0 var(--s2);font:700 var(--fs-2) var(--font-ui);font-variant-caps:all-small-caps;letter-spacing:.09em;color:var(--text)}
+.rodape ul{margin:0;padding:0;list-style:none}
+.rodape li{margin:0 0 var(--s1)}
+.rodape a{color:var(--text-muted)}
+.rodape a:hover{color:var(--caneta)}
+.rodape__sobre .logo{width:7.5rem;margin-bottom:var(--s2)}
+.rodape__fim{grid-column:1/-1;margin:0;padding-top:var(--s3);border-top:1px solid var(--line);max-width:none}
+
+/* ---------- Botões ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:var(--s2);min-height:2.75rem;padding:.55rem 1.15rem;
+  font:600 1.1875rem/1.1 var(--font-ui);font-variant-caps:all-small-caps;letter-spacing:.07em;text-align:center;text-decoration:none;cursor:pointer;
+  color:var(--text);background:transparent;border:1px solid var(--line-forte);border-radius:var(--radius);
+  transition:background-color .15s,color .15s}
+.btn:hover{background:var(--surface-2)}
+.btn[aria-pressed="true"]{color:var(--sobre-tinta);background:var(--tinta);border-color:var(--ouro)}
+.btn--primary{color:var(--sobre-tinta);background:var(--tinta);border-color:var(--ouro);box-shadow:inset 0 0 0 1px rgba(255,255,255,.08)}
+.btn--primary:hover{background:var(--tinta);filter:brightness(1.15)}
+.btn--ghost{color:var(--text);background:transparent;border-color:transparent;text-decoration:underline;text-underline-offset:.2em;text-decoration-color:var(--line-forte)}
+.btn--ghost:hover{background:var(--surface-2)}
+.btn:disabled,.btn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;filter:none}
+.acoes,.botoes{display:flex;flex-wrap:wrap;gap:var(--s2);align-items:center}
+
+/* ---------- Formulário ---------- */
+.campo{min-height:2.75rem;padding:.5rem .75rem;font:var(--fs-2) var(--font-ui);color:var(--text);background:var(--surface);
+  border:1.5px solid var(--line-forte);border-radius:var(--radius);max-width:100%}
+.campo:focus-visible{outline-offset:1px}
+textarea.campo{font-family:var(--font-body);line-height:1.5}
+input[type=number].campo{width:6rem}
+input[type=date].campo{color-scheme:inherit}
+input[type=file]{font:var(--fs-2) var(--font-ui);color:var(--text);max-width:100%}
+input[type=file]::file-selector-button{margin-right:var(--s3);min-height:2.5rem;padding:.4rem 1rem;font:600 var(--fs-2) var(--font-ui);
+  color:var(--text);background:var(--surface);border:1px solid var(--line-forte);border-radius:var(--radius);cursor:pointer}
+input[type=checkbox],input[type=radio]{accent-color:var(--caneta);width:1.15rem;height:1.15rem}
+.chk input{flex:none;width:1.15rem;height:1.15rem;margin:0;accent-color:var(--caneta)}
+.chk{display:inline-flex;gap:var(--s2);align-items:center;min-height:2.25rem;margin-right:var(--s3);font-family:var(--font-ui)}
+label{font-family:var(--font-ui)}
+
+/* ---------- Etiquetas, avisos, progresso ---------- */
+.tags{display:flex;flex-wrap:wrap;gap:var(--s1) var(--s2);margin:0 0 var(--s3)}
+.tag{display:inline-block;padding:0 .55rem;font:600 .95rem/1.6 var(--font-ui);font-variant-caps:all-small-caps;letter-spacing:.08em;color:var(--text-muted);
+  background:transparent;border:1px solid var(--line-forte);border-radius:var(--radius)}
+.tag--leve{background:transparent;border-style:dashed}
+.aviso{max-width:var(--measure);margin:0 0 var(--s3);padding:var(--s3);font-size:var(--fs-2);background:var(--surface);
+  border:1px solid var(--line);border-left:4px solid var(--ouro);border-radius:var(--radius)}
+.aviso-armazem{max-width:var(--measure);margin:0 0 var(--s4);padding:var(--s3);font:var(--fs-2) var(--font-ui);
+  background:var(--bad-claro);border:1px solid var(--bad);border-radius:var(--radius)}
+.progresso{height:.6rem;background:var(--surface-2);border:1px solid var(--line-forte);border-radius:var(--radius);overflow:hidden}
+.progresso__barra{height:100%;background:var(--ouro);transition:width .3s}
+
+/* ---------- Logo ---------- */
+.logo{display:block;height:auto}
+.logo .logo-letras{fill:var(--text)} .logo .logo-tinta{fill:var(--logo-tinta)} .logo .logo-pena{fill:var(--logo-pena)}
+
+/* ---------- Questão: o vocabulário visual do caderno de prova ---------- */
+/* "Questão 01": rótulo com a caixa preta do número, e a linha que segue, como no caderno impresso */
+.q-tit{display:flex;align-items:center;margin:0 0 var(--s2);font:700 var(--fs-3)/1 var(--font-title)}
+.q-tit__rot{padding:.45rem .7rem .45rem .8rem;font-style:italic;border:1px solid var(--ouro);border-right:0;border-radius:var(--radius) 0 0 var(--radius);background:var(--surface)}
+.q-tit__n{padding:.45rem .65rem;color:var(--sobre-tinta);background:var(--tinta);border:1px solid var(--ouro);border-radius:0 var(--radius) var(--radius) 0;font-variant-numeric:lining-nums tabular-nums}
+.q-tit__de{margin-left:var(--s2);font:500 var(--fs-2) var(--font-ui);color:var(--text-muted)}
+.q-tit::after{content:"";flex:1;height:4px;margin-left:var(--s3);border-top:1px solid var(--line-forte);border-bottom:1px solid var(--line-forte);opacity:.8}
+.origem{margin:0 0 var(--s2);font:var(--fs-1)/1.45 var(--font-ui);color:var(--text-muted)}
+.enunciado{margin:var(--s3) 0}
+.enunciado p{margin:0 0 var(--s3)}
+/* texto de apoio: a caixa de cantos arredondados do caderno */
+.apoio{max-width:var(--measure);margin:0;padding:var(--s1) var(--s3);font-size:var(--fs-2);background:var(--surface);
+  border:1.5px solid var(--line-forte);border-top:0;border-bottom:0}
+.apoio:first-child,:not(.apoio)+.apoio{margin-top:var(--s2);padding-top:var(--s3);border-top:1.5px solid var(--line-forte);border-radius:var(--radius-caixa) var(--radius-caixa) 0 0}
+.apoio:has(+:not(.apoio)),.apoio:last-child{margin-bottom:var(--s3);padding-bottom:var(--s3);border-bottom:1.5px solid var(--line-forte);border-radius:0 0 var(--radius-caixa) var(--radius-caixa)}
+.apoio:first-child:has(+:not(.apoio)),:not(.apoio)+.apoio:has(+:not(.apoio)),:not(.apoio)+.apoio:last-child{border-radius:var(--radius-caixa)}
+.fonte{max-width:var(--measure);margin:calc(var(--s2) * -1) 0 var(--s3);font:var(--fs-1)/1.4 var(--font-ui);color:var(--text-muted);text-align:right;overflow-wrap:anywhere}
+/* "Leia o texto para responder às questões...": faixa escura, como no caderno */
+.chamada{max-width:var(--measure);margin:var(--s2) 0 var(--s3);padding:var(--s2) var(--s3);font:600 var(--fs-2)/1.4 var(--font-ui);
+  text-align:center;color:var(--sobre-escuro);background:var(--faixa);border-radius:var(--radius)}
+.poema{line-height:1.8}
+.fig{margin:var(--s3) 0;max-width:min(100%,40rem)}
+.fig .figura{display:block;width:100%;height:auto;margin:0;background:var(--qr-fundo);border:1px solid var(--line);border-radius:4px}
+.fig figcaption{margin-top:var(--s1);font:var(--fs-1) var(--font-ui);color:var(--text-muted)}
+.fig+.fonte{max-width:min(100%,40rem)}
+/* figura como alternativa (ímãs, gráficos pequenos): tamanho natural, sem ocupar a tela inteira */
+.alt .fig{margin:var(--s1) 0}
+.alt .fig .figura{width:auto;max-width:100%;max-height:10rem}
+.figura-btn{position:relative;display:block;width:100%;padding:0;color:inherit;background:none;border:0;cursor:zoom-in}
+.figura-btn::after{content:"Toque na figura para ampliar";display:block;margin-top:var(--s1);text-align:right;font:500 var(--fs-1) var(--font-ui);color:var(--caneta)}
+@media (hover:hover){.figura-btn::after{content:"Clique na figura para ampliar"}}
+.enunciado table{border-collapse:collapse;margin:var(--s3) 0;font:var(--fs-1)/1.45 var(--font-ui);max-width:100%;background:var(--surface)}
+.enunciado th,.enunciado td{padding:var(--s2);border:1px solid var(--line-forte);text-align:left;vertical-align:top}
+.enunciado th{background:var(--surface-2);font-weight:700}
+.tabela-rola{max-width:100%;overflow-x:auto}
+
+/* Alternativa: a bolha do cartão-resposta. Marcar = preencher com tinta. */
+.alt-linha{display:flex;gap:var(--s2);align-items:stretch}
+.alt-linha+.alt-linha{margin-top:var(--s2)}
+.alt{display:grid;grid-template-columns:2.25rem 1fr auto;align-items:center;gap:var(--s3);flex:1;width:100%;min-height:3rem;
+  padding:var(--s2) var(--s3);text-align:left;font:inherit;color:inherit;cursor:pointer;
+  background:var(--surface);border:1.5px solid var(--line);border-radius:var(--radius);transition:border-color .15s,background-color .15s}
+.alt+.alt{margin-top:var(--s2)}
+.alt:hover{border-color:var(--line-forte)}
+.alt[aria-disabled=true]{cursor:default}
+.alt__letra{position:relative;display:grid;place-items:center;width:2.1rem;height:2.1rem;font:700 var(--fs-2)/1 var(--font-title);
+  color:var(--text);border:1px solid var(--ouro);border-radius:50%;background:var(--surface)}
+.alt__status{font:600 var(--fs-2) var(--font-ui);font-variant-caps:all-small-caps;letter-spacing:.08em;text-align:right}
+.alt__status:empty{display:none}
+.alt.is-selecionada{border-color:var(--ouro);background:var(--caneta-clara)}
+.alt.is-selecionada .alt__letra{color:var(--sobre-tinta);background:var(--tinta);border-color:var(--ouro);animation:tinta .28s ease-out}
+.alt.is-correta{border-color:var(--ok);background:var(--ok-claro)}
+.alt.is-errada{border-color:var(--bad);background:var(--bad-claro)}
+.alt.is-correta .alt__letra{color:var(--sobre-escuro);background:var(--ok);border-color:var(--ok)}
+.alt.is-errada .alt__letra{color:var(--sobre-escuro);background:var(--bad);border-color:var(--bad)}
+.alt.is-correta .alt__status{color:var(--ok)} .alt.is-errada .alt__status{color:var(--bad)}
+.alt.is-eliminada>span:nth-child(2){text-decoration:line-through;text-decoration-color:var(--margem);opacity:.6}
+.alt.is-eliminada .alt__letra{opacity:.5}
+@keyframes tinta{0%{transform:scale(.7);border-radius:46% 54% 50% 50%}70%{transform:scale(1.08)}100%{transform:scale(1)}}
+.alt-risca{flex:none;width:2.75rem;font:600 var(--fs-2) var(--font-ui);color:var(--text-muted);background:var(--surface);
+  border:1.5px solid var(--line);border-radius:var(--radius);cursor:pointer}
+.alt-risca:hover{border-color:var(--line-forte)}
+.alt-risca[aria-pressed=true]{color:var(--sobre-tinta);background:var(--tinta);border-color:var(--tinta)}
+
+/* Alternativas em lista (sem interação: questão avulsa, busca, revisão) */
+.alts-lista{list-style:none;margin:var(--s3) 0;padding:0;max-width:var(--measure)}
+.alts-lista li{display:grid;grid-template-columns:2.25rem 1fr auto;gap:var(--s3);align-items:center;max-width:none;padding:var(--s2) var(--s3);
+  border:1.5px solid var(--line);border-radius:var(--radius);background:var(--surface)}
+.alts-lista li+li{margin-top:var(--s2)}
+.alts-lista .is-correta{border-color:var(--ok);background:var(--ok-claro)}
+.alts-lista .is-correta .alt__letra{color:var(--sobre-escuro);background:var(--ok);border-color:var(--ok)}
+.alts-lista .is-correta .alt__status{color:var(--ok)}
+.alts-lista .is-errada{border-color:var(--bad);background:var(--bad-claro)}
+.alts-lista .is-errada .alt__letra{color:var(--sobre-escuro);background:var(--bad);border-color:var(--bad)}
+.alts-lista .is-errada .alt__status{color:var(--bad)}
+
+/* Correção comentada: a margem vermelha do caderno, como correção à caneta */
+.explicacao{max-width:var(--measure);margin-top:var(--s4);padding:var(--s3) var(--s4) var(--s4);background:var(--surface);
+  border:1px dashed var(--line-forte);border-radius:var(--radius)}
+.explicacao__rotulo{display:block;margin-bottom:var(--s2);font:1.5rem/1.3 var(--font-hand);color:var(--caneta)}
+.explicacao p:last-child{margin-bottom:0}
+.anulada{max-width:var(--measure);margin:var(--s4) 0 0;padding:var(--s3);background:var(--bad-claro);border:1.5px solid var(--bad);border-radius:var(--radius)}
+.anulada__titulo{margin:0 0 var(--s1);font:italic 700 var(--fs-3) var(--font-title);color:var(--bad)}
+.anulada__origem{margin:var(--s2) 0 var(--s1);font:600 var(--fs-1) var(--font-ui);color:var(--text-muted)}
+.anulada p{margin-bottom:var(--s2)}
+
+/* ---------- Painéis, tabelas, janelas ---------- */
+.revisao{max-width:52rem;margin-bottom:var(--s2);padding:var(--s1) var(--s3);background:var(--surface);border:1px solid var(--line);border-radius:var(--radius)}
+.revisao summary{padding:.55rem 0;cursor:pointer;font:600 var(--fs-2)/1.4 var(--font-ui);list-style-position:inside}
+.revisao[open] summary{margin-bottom:var(--s3)}
+.tabela{width:100%;max-width:34rem;margin-bottom:var(--s4);border-collapse:collapse;font-family:var(--font-ui)}
+.tabela caption{text-align:left;padding-bottom:var(--s2);color:var(--text-muted);font-style:italic}
+.tabela th,.tabela td{padding:var(--s2);text-align:left;border-bottom:1px solid var(--line)}
+.tabela thead th{font-weight:700;border-bottom:1.5px solid var(--line-forte)}
+@media (max-width:40rem){.tabela{display:block;overflow-x:auto}}
+dialog{max-width:min(30rem,calc(100vw - 2rem));padding:var(--s4);color:var(--text);background:var(--surface);border:1px solid var(--line-forte);border-radius:var(--radius-caixa);box-shadow:inset 0 0 0 5px var(--surface),inset 0 0 0 6px var(--line),0 20px 40px rgba(0,0,0,.3)}
+dialog::backdrop{background:rgba(30,24,19,.65)}
+dialog h2{font-size:var(--fs-4)}
+.zoom-area{max-height:70vh;overflow:auto;touch-action:pan-x pan-y pinch-zoom;background:var(--qr-fundo);border-radius:4px}
+.zoom-area .zoom{display:block;width:100%;max-width:none;max-height:none;margin:0}
+.zoom-area.grande .zoom{width:200%}
+.zoom-desc{margin:var(--s2) 0;font:var(--fs-1)/1.5 var(--font-ui);color:var(--text-muted)}
+dialog.dlg-zoom{max-width:min(60rem,calc(100vw - 2rem))}
+@media (max-width:40rem){
+  dialog.dlg-zoom{width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;margin:0;padding:var(--s2);border:0;border-radius:0}
+  .dlg-zoom .zoom-area{max-height:calc(100dvh - 9rem)}
+}
+
+/* ---------- Seções de página ---------- */
+.pagina-topo{max-width:var(--measure);margin-bottom:var(--s5)}
+.pagina-topo p{font-size:var(--fs-3);line-height:1.5;color:var(--text-muted)}
+.secao{margin:0 0 var(--s6)}
+.secao>h2{margin-bottom:var(--s3)}
+.duas-col{display:grid;gap:var(--s4)}
+@media (min-width:56rem){.duas-col{grid-template-columns:1fr 1fr;gap:var(--s5)}}
+
+/* toda caixa que abre e fecha tem área de toque confortável */
+summary{min-height:2.75rem;padding-block:.55rem;cursor:pointer}
+.secao-seguinte{margin-top:var(--s5)}
+
+/* Moldura de capa de livro: filete interno sobre a folha (cartões, painéis, questão de exemplo) */
+.moldura,.demo,.banca,.vest>li,.placar,.pix,.cfg__apres,.pausa,.ficha dl{
+  border:1px solid var(--line-forte);box-shadow:inset 0 0 0 5px var(--surface),inset 0 0 0 6px var(--line),var(--sombra)}
+
+/* Fórmula em destaque mais larga que a tela: rola dentro da própria caixa, sem empurrar a página */
+.katex-display{max-width:100%;overflow-x:auto;overflow-y:hidden;padding:.25rem 0}
+.katex-display>.katex{white-space:nowrap}
+.katex{font-size:1.08em}

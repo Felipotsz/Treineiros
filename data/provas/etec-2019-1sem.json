@@ -1,0 +1,1309 @@
+{
+  "id": "etec-2019-1sem",
+  "banca": "ETEC",
+  "ano": 2019,
+  "semestre": 1,
+  "titulo": "Vestibulinho ETEC, 1º semestre de 2019",
+  "fonte": "Centro Paula Souza",
+  "dataExame": "2018-12-16",
+  "duracaoMinutos": 240,
+  "apresentacao": "<p>Prezado(a) candidato(a), esta prova engloba conceitos do passado, conceitos contemporâneos e temas gerais, explorando as diferentes áreas do conhecimento, competências e habilidades. Abordando saberes que permeiam o nosso mundo.</p><p>Boa prova!</p>",
+  "pdf": "assets/provas/etec-2019-1sem.pdf",
+  "imagensProva": {
+    "apresentacao": {
+      "src": "assets/img/etec-2019-1sem/apresentacao.webp",
+      "alt": "Ilustração de um livro aberto do qual sobem círculos com ícones de várias áreas do conhecimento: capelo de formatura, frasco de laboratório, microscópio, globo, átomo, DNA, computador, música e esporte."
+    }
+  },
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Biologia",
+      "assunto": "Zoologia",
+      "origem": {
+        "numeroOriginal": 1
+      },
+      "enunciado": "<p>Os primeiros animais surgiram nos mares e eram invertebrados de corpo mole. À medida que o tapete verde desenvolvia-se sobre a Terra, outro grupo de criaturas vivas – os artrópodes – chegava do mar para desfrutar dessa nova e enorme massa de alimentos. Os primeiros artrópodes que emergiram foram talvez os miriápodes primitivos, que atingiam aproximadamente dois metros de comprimento e apresentavam até duzentas patas. Depois vieram as lacraias, as aranhas e os escorpiões. Tempos depois, surgiram as libélulas gigantes, um dos primeiros insetos a voar, com até setenta centímetros de envergadura. O voo foi, talvez, desenvolvido para que esses insetos escapassem dos animais predadores, que os espreitavam no chão. As baratas, os gafanhotos e os grilos também faziam parte dos conjuntos de primeiros insetos que apareceram.</p><p>Considerando os animais citados no texto, podemos afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "todos possuem asas, corpo mole e segmentado.",
+        "B": "as lacraias apresentam endoesqueleto calcário e patas articuladas.",
+        "C": "os gafanhotos, os grilos e as aranhas possuem um par de antenas e quatro pares de patas.",
+        "D": "as libélulas possuem exoesqueleto, três pares de patas e corpo segmentado em cabeça, tórax e abdome.",
+        "E": "as baratas, as aranhas e os escorpiões apresentam glândulas de veneno, exoesqueleto e corpo não segmentado."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>As libélulas são insetos: como todo artrópode, têm <strong>exoesqueleto</strong> e, como todo inseto, <strong>três pares de patas</strong> e corpo dividido em <strong>cabeça, tórax e abdome</strong>. Alternativa <strong>D</strong>.</p><p>Nem todos têm asas, e artrópodes não têm corpo mole (A). As lacraias têm exoesqueleto de quitina, não endoesqueleto (B). Aranhas não têm antenas, e gafanhotos e grilos têm três pares de patas (C). E baratas não têm glândulas de veneno, e o corpo dos artrópodes é segmentado (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "artrópodes"
+      ]
+    },
+    {
+      "numero": 2,
+      "materia": "História",
+      "assunto": "Antiguidade",
+      "origem": {
+        "numeroOriginal": 2
+      },
+      "enunciado": "<p class=\"apoio\">Em 1929, o arqueólogo alemão Julius Jordan desenterrou uma vasta biblioteca de tábuas de argila com um tipo de escrita conhecida como “cuneiforme”, com cinco mil anos de idade, mais antigas que exemplares semelhantes encontrados na China, no Egito e na América.</p><p class=\"apoio\">As tábuas estavam em Uruk, uma cidade mesopotâmica – e uma das primeiras do mundo – às margens do rio Eufrates, onde hoje fica o Iraque.</p><p class=\"apoio\">As tábuas não haviam sido usadas para escrever poesia ou enviar mensagens a lugares remotos. Foram empregadas para fazer contas – e também para elaborar os primeiros contratos.</p><p class=\"fonte\">&lt;https://tinyurl.com/ycuj8mq6&gt; Acesso em: 26.10.2018. Adaptado.</p><p>O texto faz referência a um período muito conhecido da história da Humanidade, no qual surgiram os primeiros registros escritos.</p><p>Assinale a alternativa que, corretamente, descreve o contexto em que surgiu a escrita na Mesopotâmia.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Os mesopotâmicos criaram a escrita como forma de se comunicar com os deuses, entalhando placas de argila que eram cuidadosamente depositadas no interior dos templos religiosos.",
+        "B": "O surgimento da escrita foi vinculado à criação de um sistema de educação segundo o qual todas as crianças deveriam dominar o conhecimento das letras e dos cálculos.",
+        "C": "As cidades da Mesopotâmia eram separadas por longas distâncias, percorridas a pé por mensageiros que levavam cartas e ofícios trocados entre os governantes.",
+        "D": "A evolução da literatura oral gerou a necessidade de registrar os textos poéticos declamados pelos grandes oradores da Antiguidade clássica.",
+        "E": "O desenvolvimento do comércio levou à criação da escrita, utilizada, inicialmente, para realizar registros contábeis e firmar contratos."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O texto diz que as tábuas de Uruk “foram empregadas para fazer contas – e também para elaborar os primeiros contratos”. A escrita cuneiforme surgiu ligada ao <strong>comércio e à administração</strong>. Alternativa <strong>E</strong>.</p><p>O texto afirma que as tábuas não serviam para poesia nem para mensagens a lugares distantes (C e D). Não há referência a comunicação com deuses (A) nem a educação universal, já que poucos sabiam escrever (B).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "escrita"
+      ]
+    },
+    {
+      "numero": 3,
+      "materia": "Português",
+      "assunto": "Texto literário",
+      "origem": {
+        "numeroOriginal": 3
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 03 e 04.</p><p class=\"apoio\">Como filha de um homem abastado, a noiva fora instruída nos rudimentos da leitura e da escrita [...]. Só que a noiva era uma criatura histriônica*. Tudo que lia, poesia ou canção, era compartilhado com a Escrava; tudo que escrevia, em seguida lia em voz alta para a Escrava. Em segredo, a africana desconfiava daqueles sinais mágicos, tinha medo do papel que podia transportar vozes humanas. Porém, contanto que fosse a sua favorita quem dava voz às palavras, ela se sentia em segurança; contanto que fosse ela quem transformava em música os sinais no papel, a Escrava ficava contente. Agora, pela primeira vez, foi excluída. A mensagem do anjo tinha erguido uma barreira de escrita entre ambas.</p><p class=\"fonte\">*histriônica: relativo a histrião, aquele que representava as farsas, logo, comediante, farsista.</p><p class=\"fonte\">(Bahiyyih Nakhjavani, <em>O alforje</em>. Porto Alegre: Dublinense, 2018, p. 180.)</p><p>Na cena transcrita, a personagem Escrava vê, na linguagem escrita,</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o papel de unir estratos sociais diferentes, pois o texto escrito, ao ser lido pela noiva, deleitava a todos, incluindo a Escrava e sua protegida.",
+        "B": "o poder de ligar o profano e o sagrado, pois o texto escrito continha instruções divinas que garantiam o sucesso da noiva em sua representação teatral.",
+        "C": "um poder quase mágico capaz de dar vida ao que não está presente, pois “transporta vozes humanas”, ao mesmo tempo em que constrói barreiras.",
+        "D": "a função de corromper sua favorita, pois separaria a noiva de seus ideais religiosos, representados pelos histriões.",
+        "E": "o papel de garantir proteção, pois a palavra escrita garante uma aproximação entre ela, Escrava, e sua favorita."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A Escrava desconfiava daqueles “sinais mágicos” e temia o “papel que podia transportar vozes humanas”. Ao final, a escrita ergue “uma barreira” entre ela e a noiva. Ela vê na escrita um <strong>poder quase mágico</strong> que dá voz a quem não está presente e, ao mesmo tempo, <strong>constrói barreiras</strong>. Alternativa <strong>C</strong>.</p><p>A escrita acaba separando as duas, não unindo (A e E). O texto não fala de instruções divinas para teatro (B) nem de ideais religiosos ligados aos histriões (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 4,
+      "materia": "Português",
+      "assunto": "Texto literário",
+      "origem": {
+        "numeroOriginal": 4
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 03 e 04.</p><p class=\"apoio\">Como filha de um homem abastado, a noiva fora instruída nos rudimentos da leitura e da escrita [...]. Só que a noiva era uma criatura histriônica*. Tudo que lia, poesia ou canção, era compartilhado com a Escrava; tudo que escrevia, em seguida lia em voz alta para a Escrava. Em segredo, a africana desconfiava daqueles sinais mágicos, tinha medo do papel que podia transportar vozes humanas. Porém, contanto que fosse a sua favorita quem dava voz às palavras, ela se sentia em segurança; contanto que fosse ela quem transformava em música os sinais no papel, a Escrava ficava contente. Agora, pela primeira vez, foi excluída. A mensagem do anjo tinha erguido uma barreira de escrita entre ambas.</p><p class=\"fonte\">*histriônica: relativo a histrião, aquele que representava as farsas, logo, comediante, farsista.</p><p class=\"fonte\">(Bahiyyih Nakhjavani, <em>O alforje</em>. Porto Alegre: Dublinense, 2018, p. 180.)</p><p>Sobre o foco narrativo do trecho transcrito, é certo afirmar que se trata de um narrador</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "personagem, pois apresenta fatos que ocorreram com ele durante sua jornada pelo deserto.",
+        "B": "personagem observador, pois ele narra eventos dos quais não participa, mas aos quais assiste.",
+        "C": "observador, pois apresenta apenas as informações acessíveis pelos seus sentidos (o que ouviu ou viu).",
+        "D": "onisciente, pois tem acesso aos pensamentos e sentimentos da personagem, expressos em discurso indireto.",
+        "E": "personagem protagonista, pois relata fatos vivenciados por ele enquanto observava os trabalhos das personagens relatadas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O narrador não participa da cena e conta o que se passa no íntimo da Escrava (“Em segredo, a africana desconfiava...”, “tinha medo”, “se sentia em segurança”). Ele conhece pensamentos e sentimentos da personagem: é <strong>onisciente</strong>, em terceira pessoa. Alternativa <strong>D</strong>.</p><p>O narrador não é personagem (A, B e E), e o observador não teria acesso aos sentimentos íntimos da Escrava (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "foco narrativo"
+      ]
+    },
+    {
+      "numero": 5,
+      "materia": "Matemática",
+      "assunto": "Funções",
+      "origem": {
+        "numeroOriginal": 5
+      },
+      "enunciado": "[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ydbqzc47&gt; Acesso em: 07.10.2018. Original colorido.</p><p>O cartum brinca com a palavra <strong><em>parábola</em></strong>, que tem diferentes significados de acordo com o contexto em que é empregada.</p><p>Em Matemática, no estudo de funções, a parábola é uma curva que representa uma função polinomial</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q05.webp",
+          "alt": "Cartum: Jesus, de túnica, fala a dois discípulos sentados, e um balão sobre ele mostra o desenho de gráficos de parábolas, curvas em forma de U, uma voltada para baixo e outra para cima. Um discípulo pergunta: “Pedro, o que é isso?”, e o outro responde: “Ele fala por parábolas.”"
+        }
+      ],
+      "alternativas": {
+        "A": "constante e sua expressão geral é dada por f(x) = a, com a ≠ 0.",
+        "B": "de 1º grau e sua expressão geral é dada por f(x) = ax + b, com a ≠ 0.",
+        "C": "de 1º grau e sua expressão geral é dada por f(x) = ax<sup>2</sup> + bx + c, com a ≠ 0.",
+        "D": "de 2º grau e sua expressão geral é dada por f(x) = ax + b, com a ≠ 0.",
+        "E": "de 2º grau e sua expressão geral é dada por f(x) = ax<sup>2</sup> + bx + c, com a ≠ 0."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O gráfico de uma <strong>função polinomial de 2º grau</strong>, f(x) = ax² + bx + c, com a ≠ 0, é uma parábola. Alternativa <strong>E</strong>.</p><p>A função constante (A) tem como gráfico uma reta horizontal, e a de 1º grau (B), uma reta inclinada. C e D misturam o grau com a expressão errada.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "função do 2º grau"
+      ]
+    },
+    {
+      "numero": 6,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 6
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 06 a 08.</p>[[fig:1]]<p class=\"apoio\">A Organização das Nações Unidas (ONU) declarou 2019 como sendo o Ano Internacional da Tabela Periódica dos Elementos Químicos (IYPT 2019, em inglês).</p><p class=\"apoio\">Um dos principais motivos para a comemoração é que em 2019 completamos 150 anos desde a primeira tabela de Dmitry Mendeleev. Ele, na tentativa de organizar os elementos químicos conhecidos na época, inspirou-se em cartas do baralho que usava para jogar paciência e fez algo parecido com os elementos. Pegou fichas brancas e nelas escreveu o símbolo dos elementos químicos conhecidos e uma curta lista de suas propriedades químicas. Passou então a se concentrar sobre aquelas fichas e num dado momento, foi vencido pela exaustão e adormeceu, tendo um sonho em que via uma tabela na qual os elementos se encaixavam exatamente como pretendia. Ao despertar do sono, escreveu imediatamente essa tabela. Ele compreendeu que, quando os elementos eram escritos numa ordem crescente de massa atômica, várias propriedades químicas se repetiam em intervalos regulares (periódicos). Por isso, a sua descoberta recebeu o nome de Tabela Periódica dos Elementos.</p><p class=\"apoio\">O mais impressionante dessa descoberta e que fez com que ele fosse levado a sério pela comunidade científica foi que ele deixou alguns espaços vagos, dizendo que nenhum elemento se encaixava ali porque eles ainda não haviam sido descobertos, mas que ainda seriam. Além disso, ele especificou até mesmo quais seriam as propriedades desses elementos químicos ainda não descobertos. E, impressionantemente, foi o que realmente aconteceu. Após a publicação de sua tabela, os elementos germânio, gálio e escândio foram descobertos e possuíam as propriedades descritas por ele.</p><p class=\"apoio\">Atualmente, a Tabela Periódica dos Elementos Químicos está organizada em ordem crescente de número atômico (Z), porque, na realidade, não são as massas atômicas que definem as propriedades de cada elemento, mas sim o número atômico.</p>[[fig:2]]<p class=\"apoio\">Apesar de terem sofrido vários ajustes ao longo dos anos, as Tabelas Periódicas modernas continuam baseadas sobre a estrutura essencial criada por Mendeleev.</p><p class=\"apoio\">No ano de 1955, um novo elemento químico foi descoberto, tendo número atômico 101, sendo instável e sujeito a sofrer fissão nuclear espontânea. Ele recebeu o nome de mendelévio, em homenagem a esse grande cientista.</p><p class=\"fonte\">&lt;https://tinyurl.com/y9pwfcuw&gt; Acesso em: 21.10.2018. Adaptado. Original colorido.</p><p>De acordo com o texto, assinale a alternativa correta.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q06.webp",
+          "alt": "Foto antiga, em preto e branco, de Dmitry Mendeleev: homem de barba e cabelos longos, de pé, trabalhando em uma bancada de laboratório."
+        },
+        {
+          "src": "assets/img/etec-2019-1sem/q06b.webp",
+          "alt": "Peça em relevo, como um quadradinho da tabela periódica, com o símbolo Md, o número atômico 101, o nome Mendelévio e a massa (258)."
+        }
+      ],
+      "alternativas": {
+        "A": "Mendeleev construía seus baralhos para jogar paciência.",
+        "B": "O baralho de Mendeleev continha os elementos químicos conhecidos na época.",
+        "C": "Na Tabela de Mendeleev, os elementos estão organizados em ordem crescente de número atômico.",
+        "D": "A Tabela Periódica, recebeu esse nome porque as propriedades dos elementos, na organização elaborada por Mendeleev, repetiam-se periodicamente.",
+        "E": "A Tabela Periódica, usada nos dias de hoje, ainda é igual à primeira tabela de Mendeleev com os elementos em ordem crescente de massas atômicas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O texto diz que, em ordem crescente de massa atômica, “várias propriedades químicas se repetem em intervalos regulares (periódicos). Por isso, a sua descoberta recebeu o nome de Tabela Periódica”. Alternativa <strong>D</strong>.</p><p>Mendeleev usava um baralho para jogar paciência, mas não o construía para isso (A). Ele escreveu os elementos em fichas brancas, não no baralho (B). A tabela dele seguia a massa atômica, e a atual segue o número atômico (C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tabela periódica"
+      ]
+    },
+    {
+      "numero": 7,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 7
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 06 a 08.</p>[[fig:1]]<p class=\"apoio\">A Organização das Nações Unidas (ONU) declarou 2019 como sendo o Ano Internacional da Tabela Periódica dos Elementos Químicos (IYPT 2019, em inglês).</p><p class=\"apoio\">Um dos principais motivos para a comemoração é que em 2019 completamos 150 anos desde a primeira tabela de Dmitry Mendeleev. Ele, na tentativa de organizar os elementos químicos conhecidos na época, inspirou-se em cartas do baralho que usava para jogar paciência e fez algo parecido com os elementos. Pegou fichas brancas e nelas escreveu o símbolo dos elementos químicos conhecidos e uma curta lista de suas propriedades químicas. Passou então a se concentrar sobre aquelas fichas e num dado momento, foi vencido pela exaustão e adormeceu, tendo um sonho em que via uma tabela na qual os elementos se encaixavam exatamente como pretendia. Ao despertar do sono, escreveu imediatamente essa tabela. Ele compreendeu que, quando os elementos eram escritos numa ordem crescente de massa atômica, várias propriedades químicas se repetiam em intervalos regulares (periódicos). Por isso, a sua descoberta recebeu o nome de Tabela Periódica dos Elementos.</p><p class=\"apoio\">O mais impressionante dessa descoberta e que fez com que ele fosse levado a sério pela comunidade científica foi que ele deixou alguns espaços vagos, dizendo que nenhum elemento se encaixava ali porque eles ainda não haviam sido descobertos, mas que ainda seriam. Além disso, ele especificou até mesmo quais seriam as propriedades desses elementos químicos ainda não descobertos. E, impressionantemente, foi o que realmente aconteceu. Após a publicação de sua tabela, os elementos germânio, gálio e escândio foram descobertos e possuíam as propriedades descritas por ele.</p><p class=\"apoio\">Atualmente, a Tabela Periódica dos Elementos Químicos está organizada em ordem crescente de número atômico (Z), porque, na realidade, não são as massas atômicas que definem as propriedades de cada elemento, mas sim o número atômico.</p>[[fig:2]]<p class=\"apoio\">Apesar de terem sofrido vários ajustes ao longo dos anos, as Tabelas Periódicas modernas continuam baseadas sobre a estrutura essencial criada por Mendeleev.</p><p class=\"apoio\">No ano de 1955, um novo elemento químico foi descoberto, tendo número atômico 101, sendo instável e sujeito a sofrer fissão nuclear espontânea. Ele recebeu o nome de mendelévio, em homenagem a esse grande cientista.</p><p class=\"fonte\">&lt;https://tinyurl.com/y9pwfcuw&gt; Acesso em: 21.10.2018. Adaptado. Original colorido.</p><p>Mendeleev deixou, em sua Tabela, espaços vazios,</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q06.webp",
+          "alt": "Foto antiga, em preto e branco, de Dmitry Mendeleev: homem de barba e cabelos longos, de pé, trabalhando em uma bancada de laboratório."
+        },
+        {
+          "src": "assets/img/etec-2019-1sem/q06b.webp",
+          "alt": "Peça em relevo, como um quadradinho da tabela periódica, com o símbolo Md, o número atômico 101, o nome Mendelévio e a massa (258)."
+        }
+      ],
+      "alternativas": {
+        "A": "pois havia sonhado com novos elementos químicos e passou a pesquisá-los.",
+        "B": "porque previa a descoberta de novos elementos químicos, o que realmente ocorreu posteriormente.",
+        "C": "que foram preenchidos por novos elementos, com características diferentes das previstas por ele.",
+        "D": "porque não existiam elementos que apresentassem as massas atômicas que deveriam ocupá-los.",
+        "E": "para serem preenchidos por elementos químicos que havia descoberto, pouco antes de sonhar com a tabela."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O texto diz que ele deixou espaços vagos para elementos “que ainda não haviam sido descobertos, mas que ainda seriam”, e que isso realmente aconteceu com o germânio, o gálio e o escândio. Alternativa <strong>B</strong>.</p><p>O sonho mostrou a tabela, não novos elementos (A). Os elementos descobertos tinham as propriedades previstas (C). E os espaços eram para elementos ainda não descobertos (D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "tabela periódica"
+      ]
+    },
+    {
+      "numero": 8,
+      "materia": "Química",
+      "assunto": "Estrutura atômica",
+      "origem": {
+        "numeroOriginal": 8
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 06 a 08.</p>[[fig:1]]<p class=\"apoio\">A Organização das Nações Unidas (ONU) declarou 2019 como sendo o Ano Internacional da Tabela Periódica dos Elementos Químicos (IYPT 2019, em inglês).</p><p class=\"apoio\">Um dos principais motivos para a comemoração é que em 2019 completamos 150 anos desde a primeira tabela de Dmitry Mendeleev. Ele, na tentativa de organizar os elementos químicos conhecidos na época, inspirou-se em cartas do baralho que usava para jogar paciência e fez algo parecido com os elementos. Pegou fichas brancas e nelas escreveu o símbolo dos elementos químicos conhecidos e uma curta lista de suas propriedades químicas. Passou então a se concentrar sobre aquelas fichas e num dado momento, foi vencido pela exaustão e adormeceu, tendo um sonho em que via uma tabela na qual os elementos se encaixavam exatamente como pretendia. Ao despertar do sono, escreveu imediatamente essa tabela. Ele compreendeu que, quando os elementos eram escritos numa ordem crescente de massa atômica, várias propriedades químicas se repetiam em intervalos regulares (periódicos). Por isso, a sua descoberta recebeu o nome de Tabela Periódica dos Elementos.</p><p class=\"apoio\">O mais impressionante dessa descoberta e que fez com que ele fosse levado a sério pela comunidade científica foi que ele deixou alguns espaços vagos, dizendo que nenhum elemento se encaixava ali porque eles ainda não haviam sido descobertos, mas que ainda seriam. Além disso, ele especificou até mesmo quais seriam as propriedades desses elementos químicos ainda não descobertos. E, impressionantemente, foi o que realmente aconteceu. Após a publicação de sua tabela, os elementos germânio, gálio e escândio foram descobertos e possuíam as propriedades descritas por ele.</p><p class=\"apoio\">Atualmente, a Tabela Periódica dos Elementos Químicos está organizada em ordem crescente de número atômico (Z), porque, na realidade, não são as massas atômicas que definem as propriedades de cada elemento, mas sim o número atômico.</p>[[fig:2]]<p class=\"apoio\">Apesar de terem sofrido vários ajustes ao longo dos anos, as Tabelas Periódicas modernas continuam baseadas sobre a estrutura essencial criada por Mendeleev.</p><p class=\"apoio\">No ano de 1955, um novo elemento químico foi descoberto, tendo número atômico 101, sendo instável e sujeito a sofrer fissão nuclear espontânea. Ele recebeu o nome de mendelévio, em homenagem a esse grande cientista.</p><p class=\"fonte\">&lt;https://tinyurl.com/y9pwfcuw&gt; Acesso em: 21.10.2018. Adaptado. Original colorido.</p><p>O elemento químico, cujo nome é em homenagem a esse grande cientista, apresenta</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q06.webp",
+          "alt": "Foto antiga, em preto e branco, de Dmitry Mendeleev: homem de barba e cabelos longos, de pé, trabalhando em uma bancada de laboratório."
+        },
+        {
+          "src": "assets/img/etec-2019-1sem/q06b.webp",
+          "alt": "Peça em relevo, como um quadradinho da tabela periódica, com o símbolo Md, o número atômico 101, o nome Mendelévio e a massa (258)."
+        }
+      ],
+      "alternativas": {
+        "A": "número atômico igual a 258.",
+        "B": "número de massa igual a 101.",
+        "C": "estabilidade nuclear.",
+        "D": "número de prótons igual a 101.",
+        "E": "estabilidade na sua eletrosfera."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O mendelévio tem número atômico 101, e o número atômico é o <strong>número de prótons</strong> do núcleo. Alternativa <strong>D</strong>.</p><p>258 é o número de massa, e 101, o atômico (A e B). O texto diz que ele é instável e sofre fissão nuclear espontânea (C e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 9,
+      "materia": "História",
+      "assunto": "Antiguidade",
+      "origem": {
+        "numeroOriginal": 9
+      },
+      "enunciado": "<p>“Todos os caminhos levam a Roma”.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y8anvuh4&gt; Acesso em: 26.10.2018. Original colorido.</p><p>A frase e o mapa fazem referência a uma característica marcante do Império Romano (30 a.C. a 476 d.C.).</p><p>Assinale a alternativa que apresenta essa característica.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q09.webp",
+          "alt": "Trecho de um mapa romano antigo, alongado na horizontal, com muitas linhas de estradas que ligam cidades, desenhadas como pequenos edifícios, com nomes e distâncias em latim."
+        }
+      ],
+      "alternativas": {
+        "A": "A grande extensão territorial do Império impediu a construção de qualquer sistema de ligação entre a capital e a periferia, fazendo com que somente a cidade de Roma dispusesse de estradas pavimentadas para a circulação de pessoas e bigas.",
+        "B": "Em seu processo de expansão, o Império Romano fundou colônias nos cinco continentes e estabeleceu órgãos administrativos que, em escala reduzida, reproduziam a administração central e davam aos habitantes de todas as partes a sensação de viver na própria capital, a cidade de Roma.",
+        "C": "Diferentes pontos do Império Romano estavam ligados à capital, a cidade de Roma, e entre si por milhares de quilômetros de estradas pavimentadas por onde circulavam, principalmente, os mensageiros do Império.",
+        "D": "O processo de desintegração do Império Romano levou à construção de estradas que tinham o objetivo de facilitar a fuga dos habitantes da cidade de Roma, aterrorizados pela violência praticada pelos povos germânicos, que saquearam a cidade.",
+        "E": "Devido à grande influência do catolicismo na formação do Império Romano, os habitantes da capital, a cidade Roma, financiaram a pavimentação de milhares de quilômetros de estradas que eram utilizadas para a peregrinação à Terra Santa."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Os romanos construíram uma enorme rede de <strong>estradas pavimentadas</strong> que ligava as províncias à capital e entre si, usada por mensageiros, exércitos e comerciantes. Daí a frase “Todos os caminhos levam a Roma”. Alternativa <strong>C</strong>.</p><p>As estradas iam muito além da cidade de Roma (A). O Império não chegou aos cinco continentes (B). As estradas foram construídas na expansão, não para fugir dos germânicos (D). E o cristianismo só se tornou religião oficial no fim do Império (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Império Romano"
+      ]
+    },
+    {
+      "numero": 10,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 10
+      },
+      "enunciado": "<p>O Tratado da União Europeia estabelece que qualquer país europeu pode se candidatar à adesão ao bloco. Porém, um país só pode entrar na União Europeia se cumprir alguns critérios de adesão.</p><p>Um país que se candidate a membro desse bloco econômico deve necessariamente</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "ser republicano e possuir economia de mercado, porém submetida a controles constantes por parte do Fundo Monetário Internacional (FMI).",
+        "B": "permanecer fiel à legislação do bloco e delegar suas questões de segurança nacional à Organização do Tratado do Atlântico Norte (OTAN).",
+        "C": "possuir regime monarquista de governo, aceitar a política econômica do bloco e se comprometer a utilizar o Euro.",
+        "D": "estar situado na Europa Ocidental e substituir sua Câmara de Deputados e seu Senado pelo Parlamento Europeu.",
+        "E": "ter instituições estáveis que garantam a democracia, o Estado de direito e o respeito aos direitos humanos."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Os critérios de adesão à União Europeia (critérios de Copenhague) exigem <strong>instituições estáveis que garantam a democracia, o Estado de direito e os direitos humanos</strong>, além de economia de mercado. Alternativa <strong>E</strong>.</p><p>Há monarquias e repúblicas no bloco (A e C), nem todos os membros são da OTAN (B), há países do leste europeu (D), os parlamentos nacionais continuam existindo (D), e nem todos usam o euro (C).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "União Europeia"
+      ]
+    },
+    {
+      "numero": 11,
+      "materia": "Geografia",
+      "assunto": "Meio ambiente e sociedade",
+      "origem": {
+        "numeroOriginal": 11
+      },
+      "enunciado": "<p>Ao longo de sua existência, a União Europeia vem aceitando a entrada de novos países no bloco. Existem alguns países candidatos, dentre eles, a Turquia. Porém, esse país encontra dificuldades para ser aceito na União Europeia.</p><p>Dentre os fatores que dificultam a aceitação da Turquia como membro do bloco, podemos corretamente destacar o fato de esse país</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "dominar militarmente parte do território do Chipre, país membro da União Europeia.",
+        "B": "adotar o Euro, mas não se submeter às ordens do Banco Central Europeu.",
+        "C": "manter em seu território o povo Curdo, recusando-se a expulsá-lo.",
+        "D": "ter seu território inteiramente no continente asiático.",
+        "E": "ser uma república oficialmente islâmica."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Desde 1974, a Turquia ocupa militarmente o norte do <strong>Chipre</strong>, que é membro da União Europeia. Essa disputa é um dos entraves à sua entrada. Alternativa <strong>A</strong>.</p><p>A Turquia não usa o euro (B). O problema com os curdos é a repressão, não a recusa em expulsá-los (C). Parte do território turco fica na Europa (D). E a Turquia é um Estado laico (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "União Europeia"
+      ]
+    },
+    {
+      "numero": 12,
+      "materia": "Física",
+      "assunto": "Cinemática",
+      "origem": {
+        "numeroOriginal": 12
+      },
+      "enunciado": "<p>A Estrela da Morte é uma arma ícone da série cinematográfica <em>Star Wars</em>. De formato esférico ela era considerada similar a uma Lua. Essa arma/estação espacial podia se locomover pelo espaço na velocidade da luz, ou seja, 3,0 × 10<sup>5</sup> km/s.</p><p>Admita que a Estrela da Morte precisasse se posicionar de maneira a realizar um ataque de máxima eficiência ao Planeta C. Inicialmente, a estação espacial encontrava-se no ponto A e, entre ela e o Planeta C, havia um grande asteroide, por isso necessitou ir para o ponto B, de modo a poder visualizar perfeitamente o Planeta C, conforme a figura.</p>[[fig:1]]<p>Assinale a alternativa que contém o tempo que a Estrela da Morte demorou para se locomover do ponto A para o B.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q12.webp",
+          "alt": "Triângulo retângulo ABC com ângulo reto em B. A hipotenusa AC mede 1,7 × 10¹⁰ km e tem um asteroide no meio. O cateto BC, horizontal, mede 8,0 × 10⁹ km. A Estrela da Morte está em A e o Planeta C, no vértice C."
+        }
+      ],
+      "alternativas": {
+        "A": "5,0 × 10<sup>4</sup> s",
+        "B": "15,0 × 10<sup>4</sup> s",
+        "C": "45,0 × 10<sup>4</sup> s",
+        "D": "\\(\\sqrt{353} \\times 10^4\\) s",
+        "E": "\\(\\dfrac{\\sqrt{353}}{3} \\times 10^4\\) s"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Pelo teorema de Pitágoras, AB² = AC² − BC² = (17 × 10⁹)² − (8 × 10⁹)² = (289 − 64) × 10¹⁸ = 225 × 10¹⁸. Então AB = 15 × 10⁹ km = 1,5 × 10¹⁰ km.</p><p>O tempo é t = AB ÷ v = 1,5 × 10¹⁰ ÷ 3,0 × 10⁵ = <strong>5,0 × 10⁴ s</strong>. Alternativa <strong>A</strong>.</p><p>D e E vêm de somar os quadrados (289 + 64 = 353), o que daria a hipotenusa, e não um cateto.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "teorema de Pitágoras"
+      ]
+    },
+    {
+      "numero": 13,
+      "materia": "Física",
+      "assunto": "Movimentos da Terra",
+      "origem": {
+        "numeroOriginal": 13
+      },
+      "enunciado": "<p>Durante o ciclo lunar de aproximadamente quatro semanas, observa-se uma mudança no diâmetro da Lua, quando a vemos de um mesmo local da superfície da Terra e sob a mesma altura no céu, relativamente ao horizonte.</p><p>A imagem apresenta uma montagem que permite a comparação desses diferentes tamanhos no decorrer de um ciclo completo.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ya2euf2z&gt; Acesso em: 11.11.2018.</p><p>Admitindo que:</p><p>• a metade esquerda da imagem corresponde ao maior diâmetro observável da Lua; e</p><p>• a metade direita da imagem corresponde ao menor diâmetro observável da Lua.</p><p>Podemos dizer que a parte esquerda e a parte direita da imagem correspondem, nesta ordem, ao momento em que a Lua se encontra em seu</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q13.webp",
+          "alt": "Montagem de duas fotos da Lua cheia lado a lado: a metade esquerda, de uma Lua maior, e a metade direita, de uma Lua menor."
+        }
+      ],
+      "alternativas": {
+        "A": "apogeu e perigeu.",
+        "B": "afélio e periélio.",
+        "C": "periélio e afélio.",
+        "D": "perigeu e afélio.",
+        "E": "perigeu e apogeu."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A órbita da Lua em torno da Terra é elíptica. Quando a Lua está mais perto da Terra (<strong>perigeu</strong>), parece maior; quando está mais longe (<strong>apogeu</strong>), parece menor. Esquerda (maior) = perigeu; direita (menor) = apogeu. Alternativa <strong>E</strong>.</p><p>A inverte a ordem. Afélio e periélio se referem à órbita em torno do Sol, não à da Lua em torno da Terra (B, C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Lua"
+      ]
+    },
+    {
+      "numero": 14,
+      "materia": "História",
+      "assunto": "Idade Média",
+      "origem": {
+        "numeroOriginal": 14
+      },
+      "enunciado": "<p class=\"apoio\">Os Estados Unidos levaram o homem à Lua há quase 50 anos, mas estadunidenses ainda morrem de uma doença que arrasou a Europa na Idade Média, a chamada peste negra.</p><p class=\"apoio\">No final da Idade Média, a doença causou cerca de 50 milhões de mortes na África, Ásia e Europa. A epidemia dizimou metade da população europeia.</p><p class=\"apoio\">A bactéria responsável pela doença – <em>Yersinia pestis</em> – chegou aos EUA em 1900, por meio de barcos a vapor infestados de ratos, um dos tipos de roedores responsáveis pela transmissão da doença, de acordo com Daniel Epstein, da Organização Mundial da Saúde (OMS).</p><p class=\"fonte\">&lt;https://tinyurl.com/y8jqf3um&gt; Acesso em: 26.10.2018. Adaptado.</p><p>A bactéria chegou à Europa medieval</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "alojada no sangue de cachorros de caça importados pela casa real britânica, interessada em fomentar novos hábitos culturais no nascente Estado-nação.",
+        "B": "devido aos fenômenos climáticos que, no século XVI, provocaram o brusco aquecimento do continente e diversas alterações no regime de chuvas.",
+        "C": "pela rota do Mar do Norte, onde os navios pesqueiros portugueses realizavam a caça comercial de baleias infectadas desde o século VII.",
+        "D": "alojada em ratos, instalados nos navios que realizavam as viagens de intercâmbio comercial entre o Ocidente e o Oriente a partir do século XII.",
+        "E": "por meio de peregrinos que, da Terra Santa, caminhavam a Santiago de Compostela, na atual Espanha, fugindo da perseguição do Império Romano."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A peste negra chegou à Europa no século XIV pelos navios mercantes que vinham do Oriente (pelo mar Negro e pelo Mediterrâneo), com o <strong>renascimento comercial</strong> iniciado por volta do século XII. As pulgas dos <strong>ratos</strong> a bordo transmitiam a bactéria. Alternativa <strong>D</strong>.</p><p>Cães de caça, mudanças climáticas no século XVI, baleias e peregrinos fugindo do Império Romano não têm relação com a chegada da peste (A, B, C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "peste negra"
+      ]
+    },
+    {
+      "numero": 15,
+      "materia": "Português",
+      "assunto": "Figuras de linguagem",
+      "origem": {
+        "numeroOriginal": 15
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e a charge de Alberto Montt para responder às questões de números 15 a 17.</p><p class=\"apoio\">Charles Baudelaire, poeta do século XIX, é autor do livro <em>As Flores do Mal</em>. Nele, seus poemas abordam temas que questionam as convenções morais da sociedade francesa, sendo, por isso, tachado como obsceno, como um insulto aos bons costumes da época. A partir dele, originaram-se na França os chamados “poetas malditos”.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ycuzcs6h&gt; Acesso em: 27.10.2018. Original colorido.</p><p>O título da charge retoma o título da obra de Baudelaire, <em>As Flores do Mal</em>. O autor, para construir o humor em seu texto, utiliza-se de</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q15.webp",
+          "alt": "Charge “Baudelaire e suas flores do mal”, de Alberto Montt. O poeta Charles Baudelaire, de casaco e cachecol, olha de lado, desconfiado, para um vaso com três flores sorridentes. Uma flor diz: “Quando te escreverem uma mensagem, visualize, mas não responda.” Outra: “Assista às maratonas de séries nos dias úteis.” A terceira: “Coma bacon.”"
+        }
+      ],
+      "alternativas": {
+        "A": "metalinguagem, na representação das flores, que recitam versos compostos pelo poeta ao próprio Baudelaire.",
+        "B": "saudosismo, nas falas das flores, pois elas representam costumes morais inerentes à sociedade francesa do século XIX.",
+        "C": "metáfora, na representação do poeta como flores que apenas dizem verdades, indiferentes às regras morais da sociedade.",
+        "D": "polissemia do substantivo “flores”, uma vez que podem se referir às próprias flores representadas na charge ou aos desejos moralmente rejeitados pelo poeta.",
+        "E": "ambiguidade na locução adjetiva “do mal”, pois, no título original, a locução representa a temática dos poemas, mas, na charge, representa o conteúdo dos conselhos das flores."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>No livro de Baudelaire, “do mal” se refere aos temas dos poemas, considerados imorais. Na charge, as flores dão conselhos de pequenos “pecados” do dia a dia (ignorar mensagens, maratonar séries em dia útil, comer bacon). O humor vem da <strong>ambiguidade</strong> da locução “do mal”. Alternativa <strong>E</strong>.</p><p>As flores não recitam versos do poeta (A), não representam costumes do século XIX (B), não são uma metáfora do poeta (C), e a palavra com duplo sentido é “do mal”, não “flores” (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ambiguidade"
+      ]
+    },
+    {
+      "numero": 16,
+      "materia": "Português",
+      "assunto": "Verbos",
+      "origem": {
+        "numeroOriginal": 16
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e a charge de Alberto Montt para responder às questões de números 15 a 17.</p><p class=\"apoio\">Charles Baudelaire, poeta do século XIX, é autor do livro <em>As Flores do Mal</em>. Nele, seus poemas abordam temas que questionam as convenções morais da sociedade francesa, sendo, por isso, tachado como obsceno, como um insulto aos bons costumes da época. A partir dele, originaram-se na França os chamados “poetas malditos”.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ycuzcs6h&gt; Acesso em: 27.10.2018. Original colorido.</p><p>Leia os trechos seguintes:</p><p class=\"apoio\"><strong>I.</strong> “Quando te escreverem uma mensagem, visualize, mas não responda.”</p><p class=\"apoio\"><strong>II.</strong> “Assista às maratonas de séries nos dias úteis.”</p><p class=\"apoio\"><strong>III.</strong> “Coma bacon.”</p><p>Sobre os períodos apresentados, é correto afirmar que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q15.webp",
+          "alt": "Charge “Baudelaire e suas flores do mal”, de Alberto Montt. O poeta Charles Baudelaire, de casaco e cachecol, olha de lado, desconfiado, para um vaso com três flores sorridentes. Uma flor diz: “Quando te escreverem uma mensagem, visualize, mas não responda.” Outra: “Assista às maratonas de séries nos dias úteis.” A terceira: “Coma bacon.”"
+        }
+      ],
+      "alternativas": {
+        "A": "o primeiro apresenta um desvio da norma culta, pois utiliza a terceira pessoa nos verbos “visualize” e “responda”, mas utiliza o pronome da segunda pessoa, “te”, sendo, contudo, adequado ao ambiente informal.",
+        "B": "o segundo seria adequado ao diálogo formal das flores com o poeta se fosse “Que as maratonas sejam assistidas nos dias úteis!”, devido ao teor religioso das falas.",
+        "C": "o terceiro apresenta o conteúdo adequado a hábitos de vida saudável para a personagem, representando a necessidade de abstenção de atitudes agradáveis.",
+        "D": "os três apresentam análises críticas sobre o comportamento humano, utilizando a variedade culta da linguagem para expressar o discurso típico da poesia.",
+        "E": "os três apresentam verbos conjugados no subjuntivo para expressar desejos do poeta que só podem ser verbalizados pelas Flores do Mal."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Em I, “visualize” e “responda” estão no imperativo de terceira pessoa (você), mas o pronome “te” é de segunda pessoa (tu). A norma-padrão pede uniformidade de tratamento (“Quando lhe escreverem...”), mas a mistura é comum e adequada à fala informal. Alternativa <strong>A</strong>.</p><p>As falas não têm teor religioso (B). Comer bacon não é hábito saudável (C). As falas são informais, não da variedade culta (D). E os verbos estão no imperativo, não no subjuntivo (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "norma-padrão"
+      ]
+    },
+    {
+      "numero": 17,
+      "materia": "Português",
+      "assunto": "Verbos",
+      "origem": {
+        "numeroOriginal": 17
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto e a charge de Alberto Montt para responder às questões de números 15 a 17.</p><p class=\"apoio\">Charles Baudelaire, poeta do século XIX, é autor do livro <em>As Flores do Mal</em>. Nele, seus poemas abordam temas que questionam as convenções morais da sociedade francesa, sendo, por isso, tachado como obsceno, como um insulto aos bons costumes da época. A partir dele, originaram-se na França os chamados “poetas malditos”.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ycuzcs6h&gt; Acesso em: 27.10.2018. Original colorido.</p><p>Se as falas das flores fossem transpostas para o discurso indireto, teríamos: <strong>As flores do mal aconselharam a Baudelaire que...</strong></p><p>Assinale a alternativa que completa corretamente a frase com as falas transpostas.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q15.webp",
+          "alt": "Charge “Baudelaire e suas flores do mal”, de Alberto Montt. O poeta Charles Baudelaire, de casaco e cachecol, olha de lado, desconfiado, para um vaso com três flores sorridentes. Uma flor diz: “Quando te escreverem uma mensagem, visualize, mas não responda.” Outra: “Assista às maratonas de séries nos dias úteis.” A terceira: “Coma bacon.”"
+        }
+      ],
+      "alternativas": {
+        "A": "caso lhe escreverem uma mensagem, visualizasse, mas não responderia; pois assistiria às maratonas de séries naqueles dias úteis enquanto comia bacon.",
+        "B": "quando lhe escrevessem uma mensagem, visualizasse, mas não respondesse; que assistisse às maratonas de séries nos dias úteis; e que comesse bacon.",
+        "C": "quando lhe escreveriam uma mensagem, visualizaria, mas não responderia; que assistiria às maratonas nestes dias úteis; e que comeria bacon.",
+        "D": "se lhe escreverem uma mensagem, visualizá-la-ia, mas não a responderia; que assistisse às maratonas nos dias úteis; e que comeria bacon.",
+        "E": "ao te escreverem uma mensagem, visualize, contudo sem responder; assiste às maratonas de séries nesses dias úteis; e comas bacon."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>No discurso indireto, depois de um verbo no passado (“aconselharam”), o imperativo vira <strong>pretérito imperfeito do subjuntivo</strong> (“visualizasse”, “respondesse”, “assistisse”, “comesse”), o futuro do subjuntivo “escreverem” vira “escrevessem”, e “te” vira “lhe”. Alternativa <strong>B</strong>.</p><p>A, C e D usam futuro do pretérito (“responderia”, “comeria”) ou mantêm o futuro do subjuntivo. E mantém o discurso direto (“te”, “visualize”).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "discurso indireto"
+      ]
+    },
+    {
+      "numero": 18,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 18
+      },
+      "enunciado": "<p>Em uma região com alta incidência de doenças parasitárias, os alunos de uma escola técnica, na tentativa de diminuir a ocorrência de novos casos e colaborar com o Centro de Saúde local, elaboraram uma lista de medidas de prevenção e combate a essas doenças.</p><p>Entre essas medidas, constavam as seguintes:</p><p class=\"apoio\"><strong>I.</strong> Andar sempre calçado.</p><p class=\"apoio\"><strong>II.</strong> Ferver e filtrar a água antes de tomá-la.</p><p class=\"apoio\"><strong>III.</strong> Promover uma campanha de vacinação.</p><p class=\"apoio\"><strong>IV.</strong> Aconselhar o uso controlado de inseticidas.</p><p class=\"apoio\"><strong>V.</strong> Lavar muito bem frutas e verduras antes de as ingerir.</p><p>Assinale a alternativa que associa corretamente a medida mais eficiente para prevenir, respectivamente, ascaridíase e ancilostomíase.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "IV e II.",
+        "B": "II e I.",
+        "C": "III e V.",
+        "D": "I e III.",
+        "E": "V e IV."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A <strong>ascaridíase</strong> (lombriga) se pega ao ingerir ovos do verme em água ou alimentos contaminados: ferver e filtrar a água (II) previne. A <strong>ancilostomíase</strong> (amarelão) se pega quando a larva do solo penetra pela pele dos pés: andar calçado (I) previne. Alternativa <strong>B</strong>.</p><p>Não há vacina contra essas verminoses (C e D), e inseticidas não as combatem, porque não são transmitidas por insetos (A e E). Lavar frutas e verduras (V) também ajuda contra a ascaridíase, mas não contra a ancilostomíase.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "verminoses"
+      ]
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 19
+      },
+      "enunciado": "<p>Um escritório utiliza uma fragmentadora de papéis, que corta em tiras muito finas documentos cujo conteúdo não se deseja tornar público.</p><p>Suponha que a fragmentadora desse escritório só aceite uma folha por vez, sendo capaz de fazer sua função a uma velocidade de 3 metros por minuto. Sendo assim, para que um documento com 25 folhas seja fragmentado, levando em consideração que cada folha desse documento tem comprimento de 30 cm, o tempo mínimo para realizar a completa fragmentação desse documento é de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "1 min 40 s.",
+        "B": "2 min 20 s.",
+        "C": "2 min 30 s.",
+        "D": "3 min 50 s.",
+        "E": "3 min 40 s."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>As 25 folhas de 30 cm somam 25 × 0,3 = 7,5 m. A 3 metros por minuto, o tempo é 7,5 ÷ 3 = 2,5 min = <strong>2 min 30 s</strong>. Alternativa <strong>C</strong>.</p><p>Cuidado com a conversão: 0,5 min são 30 s, e não 50 s.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 20,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 20
+      },
+      "enunciado": "<p class=\"apoio\">A planta comigo-ninguém-pode é uma herbácea muito cultivada em residências e em estabelecimentos comerciais. Suas folhas são muito vistosas, com áreas verdes e manchas esbranquiçadas características, o que geralmente, em Biologia, é interpretado como um sinal de alerta para os animais, sinalizando-as como plantas potencialmente tóxicas.</p><p class=\"apoio\">A mastigação, ainda que de pequenas porções, de folhas ou pecíolos dessa planta, às vezes causa intensa irritação na boca, faringe e laringe, com inchaço da língua e estreitamento da passagem de ar nas vias aéreas superiores. Dependendo da gravidade da reação do organismo, pode ocorrer morte por asfixia.</p><p class=\"apoio\">A irritação e o inchaço são consequências de um processo alérgico causado por alguns componentes encontrados apenas em certas células da planta. Um desses componentes é o oxalato de cálcio, que se apresenta no formato, de longos cristais reunidos em feixes. O outro componente é o suco vacuolar, que banha os cristais e contém uma proteína com atividade enzimática. Os cristais, por terem extremidades cortantes, perfuram a mucosa bucal, permitindo a penetração do suco vacuolar. A proteína do suco provoca o rompimento das membranas celulares das células da mucosa bucal, que liberam histamina e outras substâncias, que desencadeiam o processo alérgico.</p><p class=\"fonte\">(LOPES, SÔNIA. Bio: Volume 2. Saraiva, 2006. Adaptado)</p>[[fig:1]]<p>De acordo com o texto, é correto afirmar sobre a planta citada que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q20.webp",
+          "alt": "Foto de uma comigo-ninguém-pode em um vaso: planta de caule ereto com folhas grandes, ovais, com manchas claras.",
+          "legenda": "Planta comigo-ninguém-pode"
+        }
+      ],
+      "alternativas": {
+        "A": "possui ramos verdes, com folhas grandes e flores vistosas, sendo muito utilizada na alimentação de vários animais herbívoros.",
+        "B": "a simples mastigação ou ingestão de um pedaço de suas flores e raízes é capaz de causar intoxicações graves.",
+        "C": "a mastigação de suas folhas libera cristais de oxalato de cálcio que penetram nos tecidos resultando em lesões.",
+        "D": "todas as suas células podem desencadear um processo alérgico e distúrbios cardíacos.",
+        "E": "o suco vacuolar das células de suas folhas possui histamina, que atua na reorganização das membranas celulares dos tecidos foliares."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O texto diz que, ao mastigar as folhas, os cristais de <strong>oxalato de cálcio</strong>, com pontas cortantes, perfuram a mucosa da boca, e a proteína do suco vacuolar penetra e causa lesões e alergia. Alternativa <strong>C</strong>.</p><p>As folhas manchadas sinalizam toxicidade, e a planta não serve de alimento (A). O texto fala de folhas e pecíolos, não de flores e raízes (B). Os componentes estão “apenas em certas células” (D). E a histamina é liberada pelas células da mucosa da pessoa, não pela planta (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "plantas tóxicas"
+      ]
+    },
+    {
+      "numero": 21,
+      "materia": "Biologia",
+      "assunto": "Fisiologia humana",
+      "origem": {
+        "numeroOriginal": 21
+      },
+      "enunciado": "<p>A pele é o maior órgão do corpo humano, revestindo toda a superfície corporal. Funciona como uma barreira protetora contra as radiações solares, particularmente os raios ultravioleta, lembrando que a exposição excessiva ao sol aumenta drasticamente o risco de câncer de pele.</p><p>A pele atua também na proteção contra agentes mecânicos (atrito e pressões), químicos (substâncias prejudiciais) e biológicos (microrganismos patogênicos). Além disso, evita a excessiva perda de água, desempenha importante papel na manutenção de nossa temperatura corporal e na elaboração de metabólitos.</p><p>Considerando as principais funções desse órgão, é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a presença de uma epiderme queratinizada, do ponto de vista adaptativo, está diretamente relacionada à reserva nutritiva.",
+        "B": "as glândulas sudoríparas são responsáveis pela produção do suor, ajudando a elevar a temperatura do corpo, ao ser eliminado.",
+        "C": "a transpiração diminui em dias frios e os vasos sanguíneos da pele se dilatam, o que aumenta a perda de calor e mantém o corpo aquecido.",
+        "D": "a transpiração aumenta em dias quentes e os vasos sanguíneos da pele se contraem, o que diminui a irradiação de calor para o meio, esfriando o corpo.",
+        "E": "a exposição da pele aos raios ultravioleta pode causar vermelhidão, queimaduras e também estimula a produção de melanina, que a protege dos efeitos negativos da radiação."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Os raios ultravioleta podem causar vermelhidão e queimaduras, e a exposição estimula a produção de <strong>melanina</strong>, pigmento que absorve parte da radiação e protege a pele. Alternativa <strong>E</strong>.</p><p>A camada de queratina protege contra atrito e perda de água, não é reserva nutritiva (A). O suor resfria o corpo ao evaporar (B). No frio, os vasos da pele se contraem para perder menos calor (C); no calor, eles se dilatam para perder mais (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pele"
+      ]
+    },
+    {
+      "numero": 22,
+      "materia": "Física",
+      "assunto": "Termologia",
+      "origem": {
+        "numeroOriginal": 22
+      },
+      "enunciado": "<p>É possível utilizar a energia proveniente do Sol para aquecimento de água.</p><p class=\"apoio\">Um projeto simples e de baixo custo, que atinge esse objetivo, consiste em dispor uma mangueira muito longa e de cor preta, enrolada em espiral e cheia de água, sobre a superfície de uma laje exposta ao Sol. As extremidades dessa mangueira estão conectadas a um reservatório de água.</p><p class=\"apoio\">Por ser de cor preta, a mangueira é capaz de ____<strong>I</strong>____ a energia solar, que é transferida para a água contida na mangueira por ____<strong>II</strong>____. Uma bomba d’água é acionada automaticamente, de tempos em tempos, forçando a água aquecida para o interior do reservatório de onde foi retirada. Como a água aquecida é menos densa que a água fria, elas não se misturam. Assim sendo, a água aquecida permanece na parte ____<strong>III</strong>____ do reservatório.</p><p>Assinale a alternativa que apresenta as palavras que completam corretamente o texto.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "I: absorver; II: condução; III: superior.",
+        "B": "I: absorver; II: convecção; III: inferior.",
+        "C": "I: refletir; II: condução; III: superior.",
+        "D": "I: refletir; II: condução; III: inferior.",
+        "E": "I: refratar; II: convecção; III: superior."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Superfícies pretas <strong>absorvem</strong> bem a radiação (I). O calor passa da parede da mangueira para a água em contato com ela por <strong>condução</strong> (II). E a água quente, menos densa, fica na parte <strong>superior</strong> do reservatório (III). Alternativa <strong>A</strong>.</p><p>Superfícies pretas não refletem nem refratam a luz (C, D e E), e a água quente não fica embaixo (B e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "propagação do calor"
+      ]
+    },
+    {
+      "numero": 23,
+      "materia": "Biologia",
+      "assunto": "Botânica",
+      "origem": {
+        "numeroOriginal": 23
+      },
+      "enunciado": "<p>Leia o trecho da letra da música <em>Luz do Sol</em>, de Caetano Veloso.</p>[[fig:1]]<p>Nessa letra, é possível notar um processo da biologia, importante para a sobrevivência dos seres vivos.</p><p>Assinale a alternativa que apresenta, corretamente, o nome e as principais características desse processo.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q23.webp",
+          "alt": "Trecho da letra da canção “Luz do Sol”, de Caetano Veloso, em duas estrofes, em itálico. A letra fala da luz do sol que a folha recebe e transforma em vida verde nova, e do céu azul que chega até a terra, que inspira e expira."
+        }
+      ],
+      "alternativas": {
+        "A": "Nome do processo: Fotossíntese; Principais características: Oxidação de compostos orgânicos na presença de energia luminosa, formando moléculas de gás carbônico (CO<sub>2</sub>), de água (H<sub>2</sub>O) e liberando energia química que será usada pelos seres vivos.",
+        "B": "Nome do processo: Respiração; Principais características: Transformação de energia luminosa em energia potencial química, armazenada nas moléculas de glicídios (açúcares) produzidas no processo.",
+        "C": "Nome do processo: Fermentação; Principais características: Degradação completa de moléculas orgânicas liberando energia luminosa para a formação de moléculas de ATP (adenosina trifosfato).",
+        "D": "Nome do processo: Fotossíntese; Principais características: Produção de compostos orgânicos, como, por exemplo, os açúcares, a partir de moléculas de gás carbônico (CO<sub>2</sub>) e de água (H<sub>2</sub>O), na presença de energia luminosa.",
+        "E": "Nome do processo: Respiração; Principais características: Liberação de energia química a partir da combustão da matéria orgânica, principalmente glicose, na presença de energia luminosa, gás carbônico (CO<sub>2</sub>) e água (H<sub>2</sub>O)."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A folha que “traduz” a luz do sol “em verde novo, em folha, em vida” remete à <strong>fotossíntese</strong>: produção de açúcares a partir de gás carbônico e água, usando a energia da luz. Alternativa <strong>D</strong>.</p><p>A descreve a respiração com o nome de fotossíntese. B descreve a fotossíntese com o nome de respiração. A fermentação é uma degradação parcial e não libera luz (C). E a respiração não depende de luz nem consome gás carbônico (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "fotossíntese"
+      ]
+    },
+    {
+      "numero": 24,
+      "materia": "Química",
+      "assunto": "Reações químicas",
+      "origem": {
+        "numeroOriginal": 24
+      },
+      "enunciado": "<p>Leia o trecho da letra da música <em>Química</em>, de João Bosco e Vinícius de Moraes.</p>[[fig:1]]<p>Na segunda estrofe, a faísca desencadeia uma transformação</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q24.webp",
+          "alt": "Trecho da letra da canção “Química”, de João Bosco e Vinícius de Moraes, em duas estrofes. A primeira fala da química que uniu um casal desde o primeiro dia e de um amor cada vez mais intenso. A segunda fala de faróis que iluminavam o coração, de uma faísca que virou uma explosão e de uma paixão cada vez mais intensa."
+        }
+      ],
+      "alternativas": {
+        "A": "química e exotérmica, pois há liberação de energia.",
+        "B": "química e endotérmica, pois há absorção de energia.",
+        "C": "física e exotérmica, pois há absorção de energia.",
+        "D": "física e endotérmica, pois há liberação de energia.",
+        "E": "física e sem variação de energia."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Uma explosão é uma reação de combustão: forma substâncias novas (transformação <strong>química</strong>) e <strong>libera</strong> muita energia, na forma de calor e luz (<strong>exotérmica</strong>). Alternativa <strong>A</strong>.</p><p>Na explosão há liberação, não absorção, de energia (B e C). E ela não é uma transformação física (C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "termoquímica"
+      ]
+    },
+    {
+      "numero": 25,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 25
+      },
+      "enunciado": "<p class=\"chamada\">Leia o trecho da letra da música <em>Civilização Fluvial</em>, composta por Fauzi Beydoun e gravada pela banda Tribo de Jah, para responder às questões de números 25 e 26.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y8br779m&gt; Acesso em: 08.10.2018. Adaptado.</p><p>O singular da palavra escrita em negrito, na segunda estrofe, significa</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q25.webp",
+          "alt": "Trecho da letra da canção “Civilização Fluvial”, em quatro estrofes. A letra fala de um novo universo que floresce ao longo dos rios além de Belém, de um império verde que domina o horizonte da costa do Amapá até a cordilheira, e de uma nova cultura e civilização dentro da mesma nação. Na segunda estrofe, a palavra “istmos” está em negrito. Na quarta estrofe, que repete a palavra “Fluvial”, estão em negrito as palavras “Ocidental” e “Setentrional”."
+        }
+      ],
+      "alternativas": {
+        "A": "nesga de areia depositada paralelamente ao litoral.",
+        "B": "porção do continente que se projeta para o oceano.",
+        "C": "depressão alongada e estreita com laterais íngremes.",
+        "D": "reentrância da costa com formato aproximadamente circular.",
+        "E": "faixa estreita de terreno que conecta duas grandes extensões de terra."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O singular de “istmos” é <strong>istmo</strong>: uma faixa estreita de terra que liga duas grandes porções de terra, como o istmo do Panamá, entre as Américas do Norte e do Sul. Alternativa <strong>E</strong>.</p><p>A descreve a restinga. B, a península (ou cabo). C, um cânion ou vale. D, uma baía ou enseada.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "formas do relevo litorâneo"
+      ]
+    },
+    {
+      "numero": 26,
+      "materia": "Geografia",
+      "assunto": "Cartografia",
+      "origem": {
+        "numeroOriginal": 26
+      },
+      "enunciado": "<p class=\"chamada\">Leia o trecho da letra da música <em>Civilização Fluvial</em>, composta por Fauzi Beydoun e gravada pela banda Tribo de Jah, para responder às questões de números 25 e 26.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y8br779m&gt; Acesso em: 08.10.2018. Adaptado.</p><p>As palavras escritas em negrito, na quarta estrofe, podem ser substituídas correta e respectivamente pelos termos</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q25.webp",
+          "alt": "Trecho da letra da canção “Civilização Fluvial”, em quatro estrofes. A letra fala de um novo universo que floresce ao longo dos rios além de Belém, de um império verde que domina o horizonte da costa do Amapá até a cordilheira, e de uma nova cultura e civilização dentro da mesma nação. Na segunda estrofe, a palavra “istmos” está em negrito. Na quarta estrofe, que repete a palavra “Fluvial”, estão em negrito as palavras “Ocidental” e “Setentrional”."
+        }
+      ],
+      "alternativas": {
+        "A": "leste e sul.",
+        "B": "leste e norte.",
+        "C": "leste e oeste.",
+        "D": "oeste e norte.",
+        "E": "oeste e sul."
+      },
+      "gabarito": "D",
+      "explicacao": "<p><strong>Ocidental</strong> se refere ao ocidente, o <strong>oeste</strong>. <strong>Setentrional</strong> se refere ao norte. Alternativa <strong>D</strong>.</p><p>Oriental seria leste, e meridional, sul (A, B, C e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "pontos cardeais"
+      ]
+    },
+    {
+      "numero": 27,
+      "materia": "Física",
+      "assunto": "Energia",
+      "origem": {
+        "numeroOriginal": 27
+      },
+      "enunciado": "<p>O gráfico indica como varia a intensidade de uma força aplicada ininterruptamente sobre um corpo enquanto é realizado um deslocamento na mesma direção e no mesmo sentido das forças aplicadas.</p><p>Na Física, existe uma grandeza denominada trabalho. O trabalho de uma força, durante a realização de um deslocamento, é determinado pelo produto entre essas duas grandezas quando ambas têm a mesma direção e sentido.</p>[[fig:1]]<p>Considerando o gráfico dado, o trabalho total realizado no deslocamento de 8 m, em joules, corresponde a</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q27.webp",
+          "alt": "Gráfico de força (N) por deslocamento (m), em degraus: força de 60 N de 0 a 2 m, de 40 N de 2 a 6 m e de 20 N de 6 a 8 m."
+        }
+      ],
+      "alternativas": {
+        "A": "160.",
+        "B": "240.",
+        "C": "280.",
+        "D": "320.",
+        "E": "520."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O trabalho é a área sob o gráfico, trecho a trecho: 60 × 2 = 120 J; 40 × 4 = 160 J; 20 × 2 = 40 J. Total: 120 + 160 + 40 = <strong>320 J</strong>. Alternativa <strong>D</strong>.</p><p>Usar só um dos trechos, ou errar a largura do trecho de 40 N (que vai de 2 a 6 m), leva aos outros valores.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "trabalho"
+      ]
+    },
+    {
+      "numero": 28,
+      "materia": "História",
+      "assunto": "Escravidão",
+      "origem": {
+        "numeroOriginal": 28
+      },
+      "enunciado": "<p>Leia o trecho do poema <em>Quilombo</em>, de José Carlos Limeira.</p>[[fig:1]]<p class=\"fonte\">(LIMEIRA, José Carlos; “Quilombos”. In: Atabaques. Rio de Janeiro: Max, 1979. p.19-24)</p><p>O poema faz referência a Palmares e à ideia de liberdade, os quais caracterizam</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q28.webp",
+          "alt": "Trecho do poema “Quilombo”, de José Carlos Limeira, em versos curtos. O eu lírico se dirige a uma pessoa negra, diz que, se Palmares ainda vivesse, queria viver lá, e fala do gosto da liberdade cravado no peito, de correr, sentir os campos e ter a vida."
+        }
+      ],
+      "alternativas": {
+        "A": "a execução de Tiradentes, líder da Inconfidência Mineira, movimento emancipacionista frustrado, ocorrido em Minas Gerais no século XVIII.",
+        "B": "a demarcação de terras indígenas no Pará, garantidas pela Constituição Federal de 1988, promulgada após aproximadamente duas décadas de regime autoritário.",
+        "C": "a demolição do Complexo Penitenciário do Carandiru, em São Paulo, onde, na segunda metade do século XX, ocorreu uma das maiores chacinas da história do estado.",
+        "D": "o mais duradouro quilombo da história do Brasil, localizado em Alagoas, no qual se refugiaram milhares de escravos fugidos de cidades e fazendas ao longo do século XVII.",
+        "E": "as comunidades pobres do Rio de Janeiro que, por volta de 1910, foram expulsas dos cortiços no centro da cidade, no processo de reformas urbanas conduzido por Pereira Passos."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Palmares, na serra da Barriga, em Alagoas, foi o <strong>maior e mais duradouro quilombo</strong> do Brasil colonial: resistiu por quase todo o século XVII e abrigou milhares de pessoas escravizadas que fugiam. Alternativa <strong>D</strong>.</p><p>As outras alternativas tratam de episódios sem relação com Palmares: a Inconfidência Mineira (A), terras indígenas (B), o Carandiru (C) e as reformas de Pereira Passos (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Palmares"
+      ]
+    },
+    {
+      "numero": 29,
+      "materia": "Química",
+      "assunto": "Funções inorgânicas",
+      "origem": {
+        "numeroOriginal": 29
+      },
+      "enunciado": "<p class=\"chamada\">Considere a imagem, que apresenta algumas peças de um quebra-cabeça de cátions e ânions, para responder às questões de números 29 a 31.</p>[[fig:1]]<p>Sabendo que os compostos devem apresentar a neutralidade de cargas, um aluno do 9º ano do Ensino Fundamental está usando as peças do quebra-cabeça para descobrir as fórmulas de algumas substâncias químicas.</p><p>Quando ele unir as peças que apresentam os íons K<sup>+</sup> e NO<sub>3</sub><sup>–</sup>, estará representando um composto</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q29.webp",
+          "alt": "Peças de quebra-cabeça numeradas. Cátions (fila de cima): 1, duas peças K⁺ (potássio); 2, duas peças H⁺ (hidrogênio); 3, duas peças Na⁺ (sódio); 4, uma peça dupla Ba²⁺ (bário); 5, uma peça dupla Ca²⁺ (cálcio). Ânions (fila de baixo): 1, uma peça dupla SO₄²⁻ (sulfato); 2, uma peça dupla CO₃²⁻ (carbonato); 3, duas peças Br⁻ (brometo); 4, duas peças Cl⁻ (cloreto); 5, duas peças NO₃⁻ (nitrato). As peças de carga 2 ocupam o espaço de duas peças de carga 1."
+        }
+      ],
+      "alternativas": {
+        "A": "iônico, denominado nitrato de potássio.",
+        "B": "iônico, denominado potássico de nitrogênio.",
+        "C": "molecular, denominado nitrato de potássio.",
+        "D": "molecular, denominado potássio de nitrogênio.",
+        "E": "metálico, denominado nitrato de potássio."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>K<sup>+</sup> (metal) e NO<sub>3</sub><sup>–</sup> formam um composto por atração entre íons: <strong>iônico</strong>. O nome vem do ânion e depois do cátion: <strong>nitrato de potássio</strong> (KNO<sub>3</sub>). Alternativa <strong>A</strong>.</p><p>“Potássico de nitrogênio” e “potássio de nitrogênio” não seguem a nomenclatura (B e D). E o composto não é molecular nem metálico (C, D e E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ligação iônica"
+      ]
+    },
+    {
+      "numero": 30,
+      "materia": "Química",
+      "assunto": "Funções inorgânicas",
+      "origem": {
+        "numeroOriginal": 30
+      },
+      "enunciado": "<p class=\"chamada\">Considere a imagem, que apresenta algumas peças de um quebra-cabeça de cátions e ânions, para responder às questões de números 29 a 31.</p>[[fig:1]]<p>Unindo as peças do quebra-cabeça de cátions e ânions, o aluno pode concluir, corretamente, que o cloreto de bário apresenta a fórmula</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q29.webp",
+          "alt": "Peças de quebra-cabeça numeradas. Cátions (fila de cima): 1, duas peças K⁺ (potássio); 2, duas peças H⁺ (hidrogênio); 3, duas peças Na⁺ (sódio); 4, uma peça dupla Ba²⁺ (bário); 5, uma peça dupla Ca²⁺ (cálcio). Ânions (fila de baixo): 1, uma peça dupla SO₄²⁻ (sulfato); 2, uma peça dupla CO₃²⁻ (carbonato); 3, duas peças Br⁻ (brometo); 4, duas peças Cl⁻ (cloreto); 5, duas peças NO₃⁻ (nitrato). As peças de carga 2 ocupam o espaço de duas peças de carga 1."
+        }
+      ],
+      "alternativas": {
+        "A": "BaCℓ.",
+        "B": "BaCℓ<sub>2</sub>.",
+        "C": "CℓBa.",
+        "D": "CℓBa<sub>2</sub>.",
+        "E": "Ba<sub>2</sub>Cℓ<sub>2</sub>."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A peça do Ba<sup>2+</sup> tem carga +2 e ocupa o lugar de duas peças de Cl<sup>–</sup> (carga −1 cada). Para neutralizar, são dois cloretos para um bário: <strong>BaCℓ<sub>2</sub></strong>. Alternativa <strong>B</strong>.</p><p>A não neutraliza as cargas. C e D põem o ânion antes do cátion. E não está na menor proporção e também não neutraliza as cargas.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "ligação iônica"
+      ]
+    },
+    {
+      "numero": 31,
+      "materia": "Química",
+      "assunto": "Funções inorgânicas",
+      "origem": {
+        "numeroOriginal": 31
+      },
+      "enunciado": "<p class=\"chamada\">Considere a imagem, que apresenta algumas peças de um quebra-cabeça de cátions e ânions, para responder às questões de números 29 a 31.</p>[[fig:1]]<p>Leia o trecho do poema <em>A Arte de Cozinhar</em>, de Vânia Jesus.</p>[[fig:2]]<p class=\"fonte\">&lt;https://tinyurl.com/ybs2sxe8&gt; Acesso em: 23.10.2018. Adaptado.</p><p>Na segunda linha, a autora faz referência a um tempero muito utilizado em nossas cozinhas.</p><p>Assinale a alternativa que apresenta, corretamente, os números das peças do quebra-cabeça que representam a fórmula do principal componente desse tempero.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q29.webp",
+          "alt": "Peças de quebra-cabeça numeradas. Cátions (fila de cima): 1, duas peças K⁺ (potássio); 2, duas peças H⁺ (hidrogênio); 3, duas peças Na⁺ (sódio); 4, uma peça dupla Ba²⁺ (bário); 5, uma peça dupla Ca²⁺ (cálcio). Ânions (fila de baixo): 1, uma peça dupla SO₄²⁻ (sulfato); 2, uma peça dupla CO₃²⁻ (carbonato); 3, duas peças Br⁻ (brometo); 4, duas peças Cl⁻ (cloreto); 5, duas peças NO₃⁻ (nitrato). As peças de carga 2 ocupam o espaço de duas peças de carga 1."
+        },
+        {
+          "src": "assets/img/etec-2019-1sem/q31.webp",
+          "alt": "Trecho do poema “A Arte de Cozinhar”, de Vânia Jesus. Os versos falam de pôr mais um pouco de alecrim, de uma pitada de sal (na segunda linha), de provar o gosto, conferir os temperos e acrescentar batata, cenoura, coentro, azeite e tomate, até que a magia da cozinha acontece."
+        }
+      ],
+      "alternativas": {
+        "A": "Cátion: 4; Ânion: 3.",
+        "B": "Cátion: 5; Ânion: 4.",
+        "C": "Cátion: 5; Ânion: 2.",
+        "D": "Cátion: 3; Ânion: 3.",
+        "E": "Cátion: 3; Ânion: 4."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O tempero da segunda linha é o <strong>sal</strong>, cujo principal componente é o cloreto de sódio, NaCℓ. Na fila de cátions, Na<sup>+</sup> é a peça <strong>3</strong>; na fila de ânions, Cl<sup>–</sup> é a peça <strong>4</strong>. Alternativa <strong>E</strong>.</p><p>As outras combinações formam brometo de bário (A), cloreto de cálcio (B), carbonato de cálcio (C) e brometo de sódio (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sal de cozinha"
+      ]
+    },
+    {
+      "numero": 32,
+      "materia": "Física",
+      "assunto": "Circuitos elétricos",
+      "origem": {
+        "numeroOriginal": 32
+      },
+      "enunciado": "<p>Quatro lâmpadas de filamento, idênticas, são conectadas a duas pilhas obedecendo ao circuito elétrico. Inicialmente, as quatro lâmpadas encontram-se acesas.</p>[[fig:1]]<p class=\"apoio\">Admita que, se apenas uma dessas lâmpadas fosse ligada às duas pilhas, ela não se queimaria por sobrecarga.</p><p>Se, em dado momento, somente a lâmpada L<sub>4</sub> tiver seu filamento rompido, apagando-se, é correto concluir que</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q32.webp",
+          "alt": "Circuito com duas pilhas em série, embaixo, e quatro lâmpadas: L1 e L2 ligadas em série no ramo de cima; L3 e L4 ligadas em série no ramo do meio. Os dois ramos estão ligados em paralelo às pilhas."
+        }
+      ],
+      "alternativas": {
+        "A": "só L<sub>3</sub> permanecerá acesa.",
+        "B": "só L<sub>1</sub> e L<sub>2</sub> permanecerão acesas.",
+        "C": "só L<sub>1</sub> e L<sub>3</sub> permanecerão acesas.",
+        "D": "as demais lâmpadas permanecerão acesas.",
+        "E": "nenhuma das lâmpadas permanecerá acesa."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>L<sub>3</sub> e L<sub>4</sub> estão em série no mesmo ramo: se o filamento de L<sub>4</sub> rompe, o ramo fica aberto e L<sub>3</sub> também apaga. O ramo de L<sub>1</sub> e L<sub>2</sub>, ligado em paralelo, continua recebendo corrente. Alternativa <strong>B</strong>.</p><p>L<sub>3</sub> não pode ficar acesa sem L<sub>4</sub> (A, C e D), e o outro ramo não é afetado (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 33,
+      "materia": "Biologia",
+      "assunto": "Ecologia",
+      "origem": {
+        "numeroOriginal": 33
+      },
+      "enunciado": "<p>As relações alimentares entre os diversos organismos de um ecossistema são denominadas teias alimentares. Essas teias são formadas por diversas cadeias alimentares interligadas entre si, por meio de linhas, que unem os diversos componentes da comunidade, evidenciando suas relações quanto ao aspecto alimentar.</p>[[fig:1]]<p>Considerando a teia alimentar representada na figura, pode-se afirmar corretamente que os organismos</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q33.webp",
+          "alt": "Teia alimentar com setas que indicam quem serve de alimento a quem: I → II, II → III, I → IV, IV → V, IV → VI, V → III, V → VI, V → VII e VII → VI."
+        }
+      ],
+      "alternativas": {
+        "A": "II, III e IV são exclusivamente consumidores de primeira ordem.",
+        "B": "V e VII são consumidores de primeira e segunda ordem.",
+        "C": "IV e VII são exclusivamente decompositores.",
+        "D": "III são consumidores de segunda e terceira ordem.",
+        "E": "I são exclusivamente seres vivos parasitas."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>I é o produtor (as setas só saem dele). III come II, que comeu I (cadeia I → II → III): é consumidor de <strong>segunda ordem</strong>. III também come V, que comeu IV, que comeu I (I → IV → V → III): aí é consumidor de <strong>terceira ordem</strong>. Alternativa <strong>D</strong>.</p><p>III não é só consumidor primário (A). V come IV, que é consumidor primário, então V é de segunda ordem, e VII come V, sendo de terceira (B). IV e VII são consumidores, não decompositores (C). E I é produtor, não parasita (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "teia alimentar"
+      ]
+    },
+    {
+      "numero": 34,
+      "materia": "Física",
+      "assunto": "Energia",
+      "origem": {
+        "numeroOriginal": 34
+      },
+      "enunciado": "<p>Um estudante avaliou o tempo diário do uso do chuveiro em sua casa no decorrer de trinta dias consecutivos, o que permitiu a construção do quadro.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Morador</th><th scope=\"col\">Tempo diário em minutos</th></tr></thead><tbody><tr><td>Mãe</td><td>20</td></tr><tr><td>Pai</td><td>15</td></tr><tr><td>Irmã</td><td>20</td></tr><tr><td>Irmão</td><td>5</td></tr><tr><td>Ele próprio</td><td>30</td></tr></tbody></table></div><p>Sabendo que o chuveiro de sua casa tem potência de 2 800 W, o estudante calculou que, no período avaliado, o consumo de energia em sua casa, devido ao uso do chuveiro, foi, aproximadamente, de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "90 kWh.",
+        "B": "105 kWh.",
+        "C": "125 kWh.",
+        "D": "140 kWh.",
+        "E": "155 kWh."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Por dia, o chuveiro fica ligado 20 + 15 + 20 + 5 + 30 = 90 min = 1,5 h. Em 30 dias: 45 h. A energia é E = P × t = 2,8 kW × 45 h = 126 kWh ≈ <strong>125 kWh</strong>. Alternativa <strong>C</strong>.</p><p>Esquecer de converter os minutos em horas ou de multiplicar pelos 30 dias leva a valores bem diferentes.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "consumo de energia elétrica"
+      ]
+    },
+    {
+      "numero": 35,
+      "materia": "História",
+      "assunto": "História contemporânea",
+      "origem": {
+        "numeroOriginal": 35
+      },
+      "enunciado": "<p class=\"apoio\">Quando na mesma pessoa, ou no mesmo órgão de governo, o poder Legislativo está unido ao poder Executivo, não existe liberdade […] E também não existe liberdade se o poder Judiciário (poder de julgar) não estiver separado do poder Legislativo (poder de fazer as leis) e do poder Executivo (poder de executar, de por em prática as leis.)</p><p class=\"fonte\">Montesquieu, O espírito das leis, 1748. <em>In</em>: FREITAS, G. de; <em>900 textos e documentos de História</em>. Lisboa: Plátano, 1978. V. III, p.24</p><p>Político, filósofo e escritor, o Barão de Montesquieu (1689–1755) se notabilizou por sua teoria sobre a separação dos poderes, que organiza o funcionamento de muitos dos Estados modernos até a atualidade.</p><p>Ao formular sua teoria, Montesquieu criticou o regime absolutista e defendeu a divisão do governo em três poderes – Executivo, Legislativo e Judiciário – como forma de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "garantir a centralização do poder monárquico e a vontade absoluta dos reis, bem como defender os interesses das classes dominantes.",
+        "B": "desestabilizar o governo e enfraquecer o Judiciário, bem como garantir a impunidade dos crimes cometidos pelos mais pobres.",
+        "C": "evitar a concentração de poder e os abusos dos governantes, bem como proteger as liberdades individuais dos cidadãos.",
+        "D": "estabilizar o governo e fortalecer o Executivo, bem como liberar as camadas subalternas da cobrança de impostos.",
+        "E": "fortalecer o povo e eliminar os governos, bem como eliminar as formas de punição consideradas abusivas."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Para Montesquieu, quando os poderes se concentram nas mesmas mãos “não existe liberdade”. A separação dos poderes serve para <strong>evitar a concentração de poder e os abusos</strong> e proteger as liberdades individuais. Alternativa <strong>C</strong>.</p><p>Ele criticava o absolutismo, não queria fortalecê-lo (A e D). A teoria busca equilíbrio entre os poderes, não enfraquecer o Judiciário (B) nem eliminar governos (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Iluminismo"
+      ]
+    },
+    {
+      "numero": 36,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 36
+      },
+      "enunciado": "<p>No munícipio de São Paulo, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE), existem 12 milhões de habitantes e, segundo o Repositório de Dados Eleitorais do Tribunal Superior Eleitoral (TSE), no mesmo município, existem 9 milhões de eleitores registrados.</p><p>Nessas condições, pode-se afirmar que, no munícipio de São Paulo, para cada 3 eleitores registrados, existem</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "75 habitantes.",
+        "B": "40 habitantes.",
+        "C": "30 habitantes.",
+        "D": "4 habitantes.",
+        "E": "3 habitantes."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A razão é 12 milhões de habitantes para 9 milhões de eleitores, ou seja, 12 : 9 = 4 : 3. Para cada 3 eleitores existem <strong>4 habitantes</strong>. Alternativa <strong>D</strong>.</p><p>3 habitantes seria igualar o número de habitantes ao de eleitores (E). Os demais valores não respeitam a proporção 4 : 3.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 37,
+      "materia": "Português",
+      "assunto": "Verbos",
+      "origem": {
+        "numeroOriginal": 37
+      },
+      "enunciado": "<p class=\"chamada\">Analise a charge para responder às questões de números 37 a 39.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yaougao9&gt; Acesso em: 12.10.2018. Original colorido.</p><p>O verbo “ajudar”, utilizado nas falas das personagens, está conjugado em modo e tempo verbais diferentes.</p><p>Identifique a alternativa em que o modo e o tempo desse verbo estão analisados correta e respectivamente.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q37.webp",
+          "alt": "Charge com o título “democracinhas”. Um homem sentado no chão, maltrapilho, com as mãos juntas, pede: “Candidato, me ajuda a comer, candidato!”. Um homem de óculos, bem vestido, curvado na direção dele, responde: “Mas é claro que te ajudo! Tem aí um sanduíche para a gente dividir?”"
+        }
+      ],
+      "alternativas": {
+        "A": "<em>Ajuda</em>, presente do indicativo, <em>ajudo</em>, pretérito perfeito do indicativo.",
+        "B": "<em>Ajuda</em>, presente do subjuntivo, <em>ajudo</em>, presente do subjuntivo.",
+        "C": "<em>Ajuda</em>, pretérito do subjuntivo, <em>ajudo</em>, presente do indicativo.",
+        "D": "<em>Ajuda</em>, imperativo afirmativo, <em>ajudo</em>, presente do indicativo.",
+        "E": "<em>Ajuda</em>, imperativo afirmativo, <em>ajudo</em>, futuro do indicativo."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>“Me ajuda a comer” é um pedido, uma ordem dirigida ao candidato: <strong>imperativo afirmativo</strong>. “Te ajudo” indica uma ação no momento da fala, na 1ª pessoa: <strong>presente do indicativo</strong>. Alternativa <strong>D</strong>.</p><p>“Ajuda” aqui não descreve um fato (A), e o subjuntivo seria “ajude” (B e C). “Ajudo” não é pretérito (que seria “ajudei”) nem futuro (“ajudarei”) (A e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 38,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 38
+      },
+      "enunciado": "<p class=\"chamada\">Analise a charge para responder às questões de números 37 a 39.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yaougao9&gt; Acesso em: 12.10.2018. Original colorido.</p><p>O título da charge “democracinhas” é um neologismo composto pelo mesmo processo de formação presente no termo</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q37.webp",
+          "alt": "Charge com o título “democracinhas”. Um homem sentado no chão, maltrapilho, com as mãos juntas, pede: “Candidato, me ajuda a comer, candidato!”. Um homem de óculos, bem vestido, curvado na direção dele, responde: “Mas é claro que te ajudo! Tem aí um sanduíche para a gente dividir?”"
+        }
+      ],
+      "alternativas": {
+        "A": "<em>desanuviar</em>, derivação sufixal.",
+        "B": "<em>inativo</em>, derivação parassintética.",
+        "C": "<em>girassol</em>, composição por hibridismo.",
+        "D": "<em>fidalgo</em>, composição por aglutinação.",
+        "E": "<em>televisão</em>, derivação prefixal e sufixal."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>“Democracinhas” junta “democracia” e “gracinhas” (ou “cracinhas”) numa só palavra, com perda de sons: é <strong>composição por aglutinação</strong>, como “fidalgo” (filho + de + algo). Alternativa <strong>D</strong>.</p><p>“Desanuviar” não é formada por sufixo, e sim pelo prefixo des- (A). “Inativo” é derivação prefixal (B). “Girassol” é composição por justaposição, e não hibridismo (C). E “televisão” é hibridismo (grego + latim) (E). Em todas, o processo e o nome não combinam.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "formação de palavras"
+      ]
+    },
+    {
+      "numero": 39,
+      "materia": "Português",
+      "assunto": "Classes de palavras",
+      "origem": {
+        "numeroOriginal": 39
+      },
+      "enunciado": "<p class=\"chamada\">Analise a charge para responder às questões de números 37 a 39.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yaougao9&gt; Acesso em: 12.10.2018. Original colorido.</p><p>Observe as passagens:</p><p class=\"apoio\"><strong>I.</strong> “Candidato, <strong>me</strong> ajuda <strong>a</strong> comer, candidato!”</p><p class=\"apoio\"><strong>II.</strong> “<strong>Mas</strong> é claro <strong>que</strong> te ajudo! Tem <strong>aí</strong> um sanduíche para <strong>a</strong> gente dividir?”</p><p>Assinale a alternativa que apresenta a análise correta da função morfológica dos termos destacados nas passagens.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q37.webp",
+          "alt": "Charge com o título “democracinhas”. Um homem sentado no chão, maltrapilho, com as mãos juntas, pede: “Candidato, me ajuda a comer, candidato!”. Um homem de óculos, bem vestido, curvado na direção dele, responde: “Mas é claro que te ajudo! Tem aí um sanduíche para a gente dividir?”"
+        }
+      ],
+      "alternativas": {
+        "A": "I – me: Pronome pessoal; I – a: Preposição; II – Mas: Conjunção; II – que: Conjunção; II – aí: Advérbio; II – a: Artigo.",
+        "B": "I – me: Pronome indefinido; I – a: Artigo; II – Mas: Preposição; II – que: Pronome relativo; II – aí: Advérbio; II – a: Preposição.",
+        "C": "I – me: Pronome reflexivo; I – a: Conjunção; II – Mas: Conjunção; II – que: Pronome relativo; II – aí: Advérbio; II – a: Pronome pessoal.",
+        "D": "I – me: Pronome pessoal reto; I – a: Preposição; II – Mas: Preposição; II – que: Pronome relativo; II – aí: Pronome pessoal; II – a: Artigo.",
+        "E": "I – me: Pronome pessoal; I – a: Pronome pessoal; II – Mas: Conjunção; II – que: Conjunção; II – aí: Pronome demonstrativo; II – a: Preposição."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Em I, “me” é pronome pessoal (oblíquo) e “a” liga “ajuda” a “comer”: preposição. Em II, “Mas” é conjunção; “que” introduz a oração “que te ajudo” (conjunção integrante); “aí” indica lugar (advérbio); e “a”, em “a gente”, é artigo. Alternativa <strong>A</strong>.</p><p>As outras classificam errado ao menos um termo: “me” não é indefinido nem reto (B e D), o primeiro “a” não é artigo nem conjunção (B e C), e “aí” não é pronome (D e E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 40,
+      "materia": "Matemática",
+      "assunto": "Operações e problemas",
+      "origem": {
+        "numeroOriginal": 40
+      },
+      "enunciado": "<p>Em uma Zona Eleitoral, há 6 seções, cada uma com uma urna eletrônica. Considere que o tempo médio que uma pessoa leva no processo de votação é de 3 minutos e cada seção atende o mesmo número de pessoas. Admita, ainda, que compareceram para votar 450 eleitores nessa Zona Eleitoral.</p><p>Assinale a alternativa que apresenta o tempo mínimo e necessário para que todo o processo de votação seja finalizado nessa Zona Eleitoral.</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "3 h 55 min",
+        "B": "3 h 45 min",
+        "C": "2 h 40 min",
+        "D": "2 h 25 min",
+        "E": "1 h 15 min"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Os 450 eleitores se dividem igualmente entre as 6 seções: 450 ÷ 6 = 75 por seção. As seções funcionam ao mesmo tempo, então o tempo total é o de uma seção: 75 × 3 = 225 min = <strong>3 h 45 min</strong>. Alternativa <strong>B</strong>.</p><p>Somar o tempo de todos os eleitores, como se houvesse uma só urna, daria 1 350 min, mais de 22 horas.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 41,
+      "materia": "História",
+      "assunto": "História contemporânea",
+      "origem": {
+        "numeroOriginal": 41
+      },
+      "enunciado": "<p>Leia um trecho do Tratado de Versalhes.</p><p class=\"apoio\">Os governos aliados e associados afirmam e a Alemanha aceita a sua responsabilidade e a dos que lutaram a seu lado por ter causado todas as perdas e prejuízos que os governos aliados e seus associados sofreram, assim como seus habitantes, em consequência da guerra, imposta a eles pela agressão da Alemanha e dos que lutaram a seu lado.</p><p class=\"fonte\">Tratado de Versalhes, artigo 231, 1919. <em>In</em>: DOMINGUES, Joelza Esther. <em>História em documento. Imagem e texto</em>. 9. 2ªed. São Paulo: FTD, 2013. p.89.</p><p>O Tratado foi assinado após a derrota alemã na</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "Segunda Guerra Mundial e estabeleceu a divisão da Alemanha em dois países distintos; a construção do Muro de Berlim e a formação de uma Força Suprapartidária Permanente para fiscalizar as fronteiras e garantir a paz.",
+        "B": "Guerra Franco-Prussiana e estabeleceu a perda dos territórios da Prússia e da Bavária; a fortificação dos postos da fronteira com a França e a criação de uma comissão para apurar os crimes de guerra.",
+        "C": "Guerra Austro-Prussiana e estabeleceu a prestação de serviços sociais nas áreas devastadas pela guerra; a militarização das fronteiras da Alemanha e a implantação de políticas de austeridade fiscal, para combater a crise econômica alemã.",
+        "D": "Guerra da Crimeia e estabeleceu a aplicação de multas aos soldados alemães acusados de crimes de guerra; o desenvolvimento da indústria armamentista e a criação de grupos paramilitares para patrulhar estradas.",
+        "E": "Primeira Guerra Mundial e estabeleceu a perda de colônias alemãs na África e parte de seu território continental; a desmilitarização e o pagamento de uma alta indenização aos Aliados, o que agravou a crise econômica no país."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O Tratado de Versalhes (1919) encerrou a <strong>Primeira Guerra Mundial</strong>. A Alemanha foi declarada culpada, perdeu suas colônias e parte do território, foi desmilitarizada e teve de pagar pesadas indenizações, o que agravou sua crise econômica. Alternativa <strong>E</strong>.</p><p>A divisão da Alemanha e o Muro de Berlim vieram depois da Segunda Guerra (A). As guerras Franco-Prussiana, Austro-Prussiana e da Crimeia são do século XIX e não terminaram com esse tratado (B, C e D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "Primeira Guerra Mundial"
+      ]
+    },
+    {
+      "numero": 42,
+      "materia": "Geografia",
+      "assunto": "Regionalização do Brasil",
+      "origem": {
+        "numeroOriginal": 42
+      },
+      "enunciado": "<p>Região é uma porção territorial que possui determinadas características naturais e humanas dominantes. Em 1970, o Instituto Brasileiro de Geografia e Estatística (IBGE) implantou uma nova divisão regional que continua válida até os dias de hoje, porém, algumas transformações territoriais no espaço geográfico brasileiro ocorreram após essa data.</p><p>Dentre essas transformações e suas distribuições no território brasileiro, podemos citar corretamente</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "o surgimento do estado de Tocantins, desmembrado do estado de Goiás e incorporado à região Centro-Oeste.",
+        "B": "a transformação dos antigos territórios federais de Rondônia, Roraima e Amapá em estados pertencentes à região Norte.",
+        "C": "a incorporação do antigo território federal de Fernando de Noronha ao estado do Rio Grande do Norte, na região Nordeste.",
+        "D": "a divisão do estado de Mato Grosso em duas novas unidades da federação, o Mato Grosso do Sul e o Mato Grosso, na região Sudeste.",
+        "E": "o desmembramento do estado da Guanabara do estado do Rio de Janeiro quando da criação da cidade de Brasília, na região Sul."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>A Constituição de 1988 transformou os territórios federais de Roraima e Amapá em estados (Rondônia já virara estado em 1981), todos na região <strong>Norte</strong>. Alternativa <strong>B</strong>.</p><p>Tocantins foi criado em 1988, mas incorporado à região Norte (A). Fernando de Noronha passou a Pernambuco (C). Mato Grosso e Mato Grosso do Sul são do Centro-Oeste (D). E a Guanabara foi fundida ao Rio de Janeiro em 1975, no Sudeste (E).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 43,
+      "materia": "História",
+      "assunto": "Brasil Colônia",
+      "origem": {
+        "numeroOriginal": 43
+      },
+      "enunciado": "<p>Frans Post, pintor, desenhista e gravador holandês, documentou paisagens e cenas do cotidiano do chamado “Brasil Holandês”, sob o governo de Maurício de Nassau (1630–1654).</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y7dtz4c8&gt; Acesso em: 26.10.2018. Original colorido.</p><p>Entre as características da presença holandesa em Pernambuco, pode-se citar, corretamente,</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q43.webp",
+          "alt": "Pintura de paisagem: à esquerda, coqueiros e um conjunto de casas brancas, com pessoas reunidas em um terreiro; ao fundo, à direita, a água de um porto e a silhueta de uma cidade no horizonte.",
+          "legenda": "Vista da Cidade Maurícia, Recife. Frans Post, 1657."
+        }
+      ],
+      "alternativas": {
+        "A": "a valorização da cultura muçulmana, a implementação da monocultura do café e a abolição da escravidão, considerada pelos holandeses um símbolo do atraso civilizatório brasileiro.",
+        "B": "a intolerância religiosa e a perseguição a cristãos e muçulmanos, o estímulo à mineração de ouro e prata e o descaso pelo patrimônio público, que não resistiu às intempéries e ao vandalismo.",
+        "C": "a implementação do regime absolutista, a perseguição a intelectuais e artistas e a deterioração dos equipamentos urbanos, cuja manutenção dependia dos investimentos diretos da Coroa portuguesa.",
+        "D": "o princípio da isonomia, o incentivo a pesquisas sobre geologia e astronomia e o desenvolvimento de uma cultura própria, na qual se destaca a miscigenação de elementos das três religiões monoteístas.",
+        "E": "a tolerância religiosa, o incentivo a pesquisas sobre a fauna e a flora tropicais e o desenvolvimento da arquitetura, no qual se destacam a drenagem de áreas alagadiças e a construção da primeira ponte de grande porte do Brasil."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Sob Maurício de Nassau, houve <strong>tolerância religiosa</strong> (inclusive com a primeira sinagoga das Américas), vieram cientistas e artistas para estudar a fauna e a flora, e Recife ganhou obras como a drenagem de áreas alagadas e a primeira grande ponte do Brasil. Alternativa <strong>E</strong>.</p><p>Os holandeses mantiveram a escravidão e o açúcar (A). Havia tolerância, e não perseguição, e eles não mineraram ouro (B). Não implantaram absolutismo e valorizaram artistas (C). E as pesquisas eram sobre a natureza tropical, não sobre geologia e astronomia (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "invasões holandesas"
+      ]
+    },
+    {
+      "numero": 44,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 44
+      },
+      "enunciado": "<p>Sem dispor de uma trena de comprimento suficiente, um pedreiro determinou a medida do desnível (d) de um terreno, valendo-se da propriedade da propagação retilínea da luz.</p><p>Observou que, em determinado momento do dia, um muro vertical de 1,5 m de altura, construído na parte alta do terreno, projetava uma sombra de 0,4 m sobre a parte superior do terreno, que era plana e horizontal. No mesmo instante, o desnível do terreno projetava sobre a parte mais baixa, igualmente horizontal, uma sombra de 1,6 m, conforme a figura.</p>[[fig:1]]<p>Com suas observações, foi capaz de deduzir corretamente que o desnível do terreno era de</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q44.webp",
+          "alt": "Corte de um terreno em dois níveis. Na parte alta, um muro vertical projeta uma sombra de 0,4 m. Raios de sol paralelos e inclinados passam pelo topo do muro e pela borda do desnível. O desnível vertical d projeta, na parte baixa, uma sombra de 1,6 m."
+        }
+      ],
+      "alternativas": {
+        "A": "6,0 m.",
+        "B": "8,0 m.",
+        "C": "10,0 m.",
+        "D": "12,0 m.",
+        "E": "14,0 m."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Os raios de sol são paralelos, então o muro e o desnível formam triângulos semelhantes com suas sombras: \\(\\dfrac{1{,}5}{0{,}4} = \\dfrac{d}{1{,}6}\\). Então \\(d = \\dfrac{1{,}5 \\times 1{,}6}{0{,}4} = 6{,}0\\) m. Alternativa <strong>A</strong>.</p><p>Os outros valores vêm de montar a proporção de forma errada.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "semelhança de triângulos"
+      ]
+    },
+    {
+      "numero": 45,
+      "materia": "Geografia",
+      "assunto": "Regionalização do Brasil",
+      "origem": {
+        "numeroOriginal": 45
+      },
+      "enunciado": "<p>A República do Suriname localiza-se no norte da América do Sul e faz fronteira com a Guiana, com a Guiana Francesa e com o Brasil. Conta com uma área de aproximadamente 163 820 km<sup>2</sup> e uma população de aproximadamente 560 000 habitantes. Sua capital é a cidade de Paramaribo.</p><p>Sobre esse país é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "foi a única colônia europeia na América a não adotar mão de obra escrava.",
+        "B": "era colônia holandesa e tornou-se um país independente em meados da década de 1970.",
+        "C": "sua língua oficial é o inglês, mas o espanhol é bastante utilizado, assim como alguns dialetos locais.",
+        "D": "é banhado pelo Oceano Pacífico e seu relevo é marcado pela existência da Cordilheira dos Andes, que corta o país de norte a sul.",
+        "E": "seu principal produto de exportação é a banana, o que torna sua economia estável devido às pequenas variações no mercado de <em>commodities</em>."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O Suriname foi <strong>colônia holandesa</strong> (a Guiana Holandesa) e se tornou independente em <strong>1975</strong>. Alternativa <strong>B</strong>.</p><p>Houve escravidão no Suriname (A). A língua oficial é o holandês (C). O país é banhado pelo Atlântico e não tem Andes (D). E sua economia depende sobretudo de minérios, como bauxita, ouro e petróleo (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "América do Sul"
+      ]
+    },
+    {
+      "numero": 46,
+      "materia": "Biologia",
+      "assunto": "Doenças e saúde",
+      "origem": {
+        "numeroOriginal": 46
+      },
+      "enunciado": "<p>Certas substâncias tóxicas, como a peçonha de cobras, têm efeitos fulminantes no organismo, podendo matar a pessoa antes que ela consiga produzir anticorpos suficientes para sua defesa. Nessas situações de urgência, o tratamento é feito pela injeção de soro imune, que tem grande quantidade de anticorpos específicos obtidos a partir do sangue de um animal previamente imunizado.</p><p>O soro é preparado injetando-se em animais como, por exemplo, cavalos, doses sucessivas e crescentes do antígeno contra o qual se deseja obter os anticorpos específicos. Em seguida, são feitas sangrias nos cavalos para avaliar a concentração de anticorpos produzidos e presentes no plasma. Quando essa concentração atinge a quantidade desejada, é realizada a sangria final para obtenção do soro.</p><p>No final do processo, hemácias, plaquetas e leucócitos retirados são devolvidos novamente aos cavalos, o que visa reduzir os efeitos colaterais provocados pelas sangrias.</p><p>A aplicação do soro na vítima de picada de cobra não confere imunidade permanente, pois a memória imunitária não é estimulada, e os anticorpos injetados desaparecem da circulação em poucos dias.</p><p>Sobre as várias etapas do processo de imunização descritas no texto é correto afirmar que</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "a pessoa picada por cobra venenosa deverá tomar soro, pois este contém os antígenos específicos que irão neutralizar o veneno.",
+        "B": "a aplicação de soro ou vacina em uma vítima de picada de cobra são processos indiferentes porque ambos possuem anticorpos.",
+        "C": "os anticorpos específicos produzidos contra o veneno da cobra, e injetados na vítima, permanecem ativos no sangue durante toda a vida do receptor.",
+        "D": "o soro não possui função preventiva, sendo usado apenas como forma de tratamento, pois contém anticorpos prontos para o uso em seres humanos.",
+        "E": "a devolução das células sanguíneas aos animais é importante porque, como as hemácias atuam na defesa, isso impede a manifestação de processos infecciosos nos cavalos."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O soro traz <strong>anticorpos prontos</strong>, que agem logo, mas desaparecem em poucos dias e não geram memória. Por isso serve para <strong>tratar</strong>, não para prevenir. Alternativa <strong>D</strong>.</p><p>O soro contém anticorpos, não antígenos (A). A vacina contém antígenos e previne, enquanto o soro trata (B). Os anticorpos do soro somem em poucos dias (C). E quem atua na defesa são os leucócitos, não as hemácias (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "soro e vacina"
+      ]
+    },
+    {
+      "numero": 47,
+      "materia": "Matemática",
+      "assunto": "Porcentagem",
+      "origem": {
+        "numeroOriginal": 47
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 47 a 49.</p><p class=\"apoio\">O Prêmio Nobel foi criado por Alfred Nobel que deixou, em testamento, parte de sua fortuna para que fosse usada na criação de uma fundação a fim de premiar pessoas que prestassem grandes serviços à humanidade. Em 2017, a Fundação Nobel aumentou o valor do prêmio em 12%, atingindo o valor de 9 milhões de coroas suecas para cada uma das modalidades de premiação. Além do prêmio em dinheiro, os vencedores do Nobel recebem uma medalha de ouro de formato circular de 66 milímetros de diâmetro e um diploma.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yc3mqe68&gt; Acesso em: 07.10.2018. Original colorido.</p><p>Considerando y o valor do prêmio em 2017 e x o valor do prêmio em 2016, assinale a alternativa que apresenta a relação correta entre os dois valores.</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q47.webp",
+          "alt": "Medalha circular do Prêmio Nobel, com o perfil de Alfred Nobel em relevo e as inscrições “ALFR. NOBEL” e as datas de nascimento e morte em algarismos romanos."
+        }
+      ],
+      "alternativas": {
+        "A": "y = x + 0,12",
+        "B": "y = 1,12x",
+        "C": "y = 12x",
+        "D": "x = 1,12y",
+        "E": "x = y + 0,12"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Aumentar 12% é multiplicar por 1 + 0,12 = 1,12. Se o valor de 2016 é x, o de 2017 é <strong>y = 1,12x</strong>. Alternativa <strong>B</strong>.</p><p>Somar 0,12 (A e E) não é aumentar 12%. Multiplicar por 12 seria aumentar 1 100% (C). E D inverte os anos.</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 48,
+      "materia": "Matemática",
+      "assunto": "Porcentagem",
+      "origem": {
+        "numeroOriginal": 48
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 47 a 49.</p><p class=\"apoio\">O Prêmio Nobel foi criado por Alfred Nobel que deixou, em testamento, parte de sua fortuna para que fosse usada na criação de uma fundação a fim de premiar pessoas que prestassem grandes serviços à humanidade. Em 2017, a Fundação Nobel aumentou o valor do prêmio em 12%, atingindo o valor de 9 milhões de coroas suecas para cada uma das modalidades de premiação. Além do prêmio em dinheiro, os vencedores do Nobel recebem uma medalha de ouro de formato circular de 66 milímetros de diâmetro e um diploma.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yc3mqe68&gt; Acesso em: 07.10.2018. Original colorido.</p><p>Com base nas informações contidas no texto e assumindo que, em 2016, uma coroa sueca era equivalente a R$ 0,42, pode-se afirmar que o valor aproximado do Prêmio Nobel, para cada modalidade de premiação, em 2016 era, em milhões de reais, de cerca de</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q47.webp",
+          "alt": "Medalha circular do Prêmio Nobel, com o perfil de Alfred Nobel em relevo e as inscrições “ALFR. NOBEL” e as datas de nascimento e morte em algarismos romanos."
+        }
+      ],
+      "alternativas": {
+        "A": "3,33",
+        "B": "3,66",
+        "C": "3,78",
+        "D": "5,04",
+        "E": "7,92"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>O prêmio de 2017 (9 milhões de coroas) é o de 2016 com 12% de aumento, então x = 9 ÷ 1,12 ≈ 8,04 milhões de coroas. Em reais: 8,04 × 0,42 ≈ 3,38 milhões. A alternativa mais próxima é <strong>3,33</strong>. Alternativa <strong>A</strong>.</p><p>O valor exato 3,33 sai de tirar 12% de 9 milhões (9 × 0,88 = 7,92) e converter (7,92 × 0,42 ≈ 3,33). Esse atalho não é exato, porque desfazer um aumento de 12% é dividir por 1,12, e não tirar 12%. Mesmo assim, a resposta é a A. 3,78 é o prêmio de 2017 em reais (9 × 0,42), sem desfazer o aumento (C). 7,92 está em coroas, não em reais (E). E 5,04 corresponde a 12 × 0,42, sem relação com o texto (D).</p>",
+      "explicacaoRevisada": false
+    },
+    {
+      "numero": 49,
+      "materia": "Matemática",
+      "assunto": "Geometria espacial",
+      "origem": {
+        "numeroOriginal": 49
+      },
+      "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 47 a 49.</p><p class=\"apoio\">O Prêmio Nobel foi criado por Alfred Nobel que deixou, em testamento, parte de sua fortuna para que fosse usada na criação de uma fundação a fim de premiar pessoas que prestassem grandes serviços à humanidade. Em 2017, a Fundação Nobel aumentou o valor do prêmio em 12%, atingindo o valor de 9 milhões de coroas suecas para cada uma das modalidades de premiação. Além do prêmio em dinheiro, os vencedores do Nobel recebem uma medalha de ouro de formato circular de 66 milímetros de diâmetro e um diploma.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yc3mqe68&gt; Acesso em: 07.10.2018. Original colorido.</p><p>Um vencedor do Prêmio Nobel deseja encomendar a construção de uma caixa para acomodar a medalha que recebeu como parte da premiação. A caixa terá a forma de um paralelepípedo de base quadrada, sobre a qual sabe-se que:</p><p>• a medida do lado da base é 4 mm maior do que o diâmetro da medalha;</p><p>• o volume total é igual a 147 cm<sup>3</sup>;</p><p>• o material do qual a caixa será feita tem espessura desprezível.</p>[[fig:2]]<p>A altura da caixa, em centímetros, será igual a</p>",
+      "imagens": [
+        {
+          "src": "assets/img/etec-2019-1sem/q47.webp",
+          "alt": "Medalha circular do Prêmio Nobel, com o perfil de Alfred Nobel em relevo e as inscrições “ALFR. NOBEL” e as datas de nascimento e morte em algarismos romanos."
+        },
+        {
+          "src": "assets/img/etec-2019-1sem/q49.webp",
+          "alt": "Desenho em perspectiva de uma caixa em forma de paralelepípedo, larga e baixa."
+        }
+      ],
+      "alternativas": {
+        "A": "2,0",
+        "B": "2,3",
+        "C": "3,0",
+        "D": "3,3",
+        "E": "4,0"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>O lado da base mede 66 + 4 = 70 mm = 7 cm, e a área da base é 7 × 7 = 49 cm². Como V = área da base × altura, a altura é 147 ÷ 49 = <strong>3,0 cm</strong>. Alternativa <strong>C</strong>.</p><p>Esquecer de somar os 4 mm (base de 6,6 cm) daria cerca de 3,4 cm, que não está entre as alternativas.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "numero": 50,
+      "materia": "Geografia",
+      "assunto": "Tectônica de placas",
+      "origem": {
+        "numeroOriginal": 50
+      },
+      "enunciado": "<p>As rochas são agregados naturais de um ou mais minerais. Existem diferentes tipos de rochas, cada um deles formado por processos distintos.</p><p>Sobre os tipos de rochas, podemos afirmar corretamente que aquelas formadas pela transformação de outras rochas existentes no interior da Terra, submetidas a enormes pressões e altas temperaturas, são conhecidas como</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "ígneas.",
+        "B": "plutônicas.",
+        "C": "magmáticas.",
+        "D": "sedimentares.",
+        "E": "metamórficas."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Rochas formadas pela transformação de outras, sob altas pressões e temperaturas no interior da Terra, sem chegar a derreter, são as <strong>metamórficas</strong> (como o mármore, que vem do calcário). Alternativa <strong>E</strong>.</p><p>Ígneas, plutônicas e magmáticas se formam pelo resfriamento do magma (A, B e C). Sedimentares se formam pelo acúmulo e compactação de sedimentos na superfície (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "rochas"
+      ]
+    }
+  ]
+}

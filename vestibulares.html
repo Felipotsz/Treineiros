@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1E1813">
+<meta name="description" content="ETEC, FATEC e Enem: para quem é cada prova, como ela funciona e onde treinar com as provas oficiais.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/info.css">
+<script src="js/theme.js"></script>
+<title>Vestibulares: ETEC, FATEC e Enem | Treineiros</title>
+</head>
+<body>
+<main id="conteudo" class="info">
+  <header class="info__topo">
+    <h1>Qual prova é a sua?</h1>
+    <p>A ETEC recebe quem está saindo do ensino fundamental e também quem quer um curso técnico. A FATEC e o Enem são para quem está terminando o ensino médio. Veja como funciona cada uma.</p>
+  </header>
+
+  <ul class="vest">
+    <li data-banca="ETEC">
+      <h2>ETEC</h2>
+      <p class="vest__para">Para quem está no 9º ano ou já está no ensino médio</p>
+      <p>Escola técnica estadual de São Paulo: ensino médio, ensino médio com técnico e cursos técnicos. A entrada é pelo Vestibulinho.</p>
+      <p class="botoes"><a class="btn btn--primary" href="etec.html">Conhecer a ETEC</a><a class="btn" href="provas.html?banca=etec">Ver provas</a></p>
+    </li>
+    <li data-banca="FATEC">
+      <h2>FATEC</h2>
+      <p class="vest__para">Para quem terminou o ensino médio</p>
+      <p>Faculdade estadual de tecnologia de São Paulo: cursos superiores gratuitos que formam tecnólogos. A entrada é pelo Vestibular Fatec.</p>
+      <p class="botoes"><a class="btn btn--primary" href="fatec.html">Conhecer a FATEC</a><a class="btn" href="provas.html?banca=fatec">Ver provas</a></p>
+    </li>
+    <li data-banca="Enem">
+      <h2>Enem <span class="em-breve">em breve</span></h2>
+      <p class="vest__para">Para quem está terminando o ensino médio</p>
+      <p>Exame nacional do Inep. A nota abre vagas em faculdades de todo o país pelo Sisu, bolsas pelo ProUni e financiamento pelo Fies.</p>
+      <p class="botoes"><a class="btn btn--primary" href="enem.html">Conhecer o Enem</a><a class="btn" href="redacao.html">Treinar a redação</a></p>
+    </li>
+  </ul>
+
+  <section class="comparar" aria-labelledby="comparar-t">
+    <h2 id="comparar-t">Lado a lado</h2>
+    <div class="comparar__rola" role="region" aria-label="Tabela comparativa (role para os lados)" tabindex="0">
+      <table>
+        <caption>Valores das edições recentes. Cada edição pode mudar: confira sempre o manual oficial.</caption>
+        <thead><tr><td></td><th scope="col">ETEC</th><th scope="col">FATEC</th><th scope="col">Enem</th></tr></thead>
+        <tbody>
+          <tr><th scope="row">Quem organiza</th><td>Centro Paula Souza</td><td>Centro Paula Souza</td><td>Inep (MEC)</td></tr>
+          <tr><th scope="row">Para entrar em</th><td>Ensino médio e cursos técnicos</td><td>Faculdade de tecnologia</td><td>Faculdades de todo o país</td></tr>
+          <tr><th scope="row">Prova objetiva</th><td>50 questões</td><td>54 questões até 2024; 60 desde 2025</td><td>180 questões</td></tr>
+          <tr><th scope="row">Redação</th><td>Não tem</td><td>Tem</td><td>Tem</td></tr>
+          <tr><th scope="row">Duração</th><td>4 horas</td><td>5 horas</td><td>Dois domingos</td></tr>
+          <tr><th scope="row">Quando</th><td>Duas vezes por ano</td><td>Duas vezes por ano</td><td>Uma vez por ano</td></tr>
+          <tr><th scope="row">No Treineiros</th><td>Provas desde 2017</td><td>Provas desde 2017</td><td>Em breve; redação já disponível</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script>
+</body>
+</html>
