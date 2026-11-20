@@ -1,0 +1,1371 @@
+{
+ "id": "fatec-2018-1sem",
+ "banca": "FATEC",
+ "ano": 2018,
+ "semestre": 1,
+ "titulo": "Vestibular FATEC, 1º semestre de 2018",
+ "fonte": "Centro Paula Souza",
+ "dataExame": "2018-01-14",
+ "duracaoMinutos": 300,
+ "tema": "Trabalho",
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p>Leia o texto.</p><p class=\"apoio\">O ser humano é único em sua essência. Ele tem personalidade própria, necessidades que o motivam e o medo das mudanças repentinas. E é justamente isso que nos faz tão diferentes uns dos outros e com uma visão de mundo totalmente diversificada. Alguns pesquisadores se interessaram em estudar o ser humano para entender um pouco melhor essa diversidade. Um desses estudiosos foi Abraham Maslow, que desenvolveu a Teoria da Hierarquia das Necessidades Humanas. Ele explica em suas pesquisas que os aspectos motivacionais das pessoas estão diretamente ligados ao entendimento das necessidades humanas. Portanto, motivação é o resultado dos estímulos que agem sobre as pessoas levando-as à ação. Ou seja, para que haja ação ou reação, é preciso que um estímulo seja implementado, seja decorrente de coisa externa ou proveniente do próprio organismo. Por isso, o ser humano tem a necessidade de ser aceito socialmente (no trabalho, na escola/faculdade, nos grupos de amigos etc.), de ser amado, reconhecido, de pertencer e fazer parte de algo, de ser notado positivamente, de ser útil, de atender a suas necessidades fisiológicas, de segurança, de autoestima e de autorrealização.</p><p class=\"fonte\">&lt;https://tinyurl.com/y968aj3g&gt; Acesso em: 07.11.2017. Adaptado.</p><p>O texto cita a Teoria da Hierarquia das Necessidades Humanas, de Abraham Maslow, com a finalidade de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "desmentir a ideia de que a necessidade de aceitação dificulta as ações reativas dos indivíduos.",
+    "B": "expor a tese de que o ser humano tem necessidade de estímulos que o motivem à ação.",
+    "C": "reafirmar a universalidade humana, revelada no caráter comum de suas necessidades.",
+    "D": "contestar a ideia de que o trabalho deve ser desempenhado com motivação.",
+    "E": "defender a premissa de que todo ser humano prescinde de autoafirmação."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto usa Maslow para sustentar que “motivação é o resultado dos estímulos que agem sobre as pessoas levando-as à ação”: o ser humano precisa de estímulos que o motivem a agir. Alternativa <strong>B</strong>.</p><p>O texto não desmente nada sobre aceitação (A). Ele destaca as diferenças entre as pessoas, não uma universalidade (C). Não contesta a motivação no trabalho (D). E diz que o ser humano <em>precisa</em> ser reconhecido, o contrário de “prescindir” de autoafirmação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "Maslow",
+    "motivação"
+   ]
+  },
+  {
+   "numero": 2,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p>Leia a tirinha que mostra o diálogo do personagem Dilbert (de óculos, sentado ao computador) com o seu chefe.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y95p2e6a&gt; Acesso em: 07.11.2017. Adaptado.</p><p>Na última quadrícula, o chefe menciona “habilidades de comunicação” (<em>communication skills</em>) com a intenção de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q02.webp",
+     "alt": "Tirinha do Dilbert em três quadros. 1) O chefe: “I signed you up for a class to try and get rid of that thing you have.” Dilbert: “What thing?” 2) Chefe: “The thing. You know. The thing that makes you the way you are.” Dilbert: “My personality?” 3) Chefe: “Exactly. But we call it communication skills because it sounds less rude.” (Inscrevi você num curso para tentar se livrar daquela coisa que você tem. — Que coisa? — A coisa que faz você ser do jeito que é. — Minha personalidade? — Exatamente. Mas chamamos de habilidades de comunicação porque soa menos grosseiro.)"
+    }
+   ],
+   "alternativas": {
+    "A": "mascarar o desejo de que Dilbert tente se livrar da própria personalidade.",
+    "B": "exaltar a necessidade da comunicação como afirmação da individualidade.",
+    "C": "criticar a timidez de Dilbert que, segundo o chefe, não é uma pessoa comunicativa.",
+    "D": "promover melhorias das relações com os empregados, por meio da comunicabilidade.",
+    "E": "incentivar o pensamento e a discussão por meio do questionamento e da comunicação."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O chefe admite que quer que Dilbert se livre da própria personalidade, mas chama o curso de “habilidades de comunicação” porque “soa menos grosseiro”: o nome serve para <strong>mascarar</strong> a intenção real. Alternativa <strong>A</strong>.</p><p>Ele não quer afirmar a individualidade de Dilbert (B), não fala em timidez (C), não busca melhorar as relações (D) nem incentivar o questionamento (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "tirinha",
+    "Dilbert"
+   ]
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Operações e problemas",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 03 e 04.</p><p class=\"apoio\"><strong>A desigualdade no mundo</strong></p><p class=\"apoio\">Neste momento, o 1% mais rico da população mundial possui a mesma riqueza* que os outros 99% possuem conjuntamente. As oito pessoas mais ricas do mundo possuem a mesma riqueza que a metade mais pobre da população do planeta.</p><p class=\"apoio\">Após décadas de trabalho – e de notáveis avanços – no combate à pobreza, tivemos um aprendizado valioso: não é possível erradicar a pobreza no mundo sem reduzir drasticamente os níveis de desigualdade.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8bbbchy&gt; Acesso em: 31.10.2017. Adaptado.</p><p class=\"fonte\">*Riqueza é a soma dos valores de bens materiais, como imóveis ou propriedades, e de bens financeiros, como aplicações ou ações.</p><p class=\"apoio\">Adote:<br>• Total da riqueza mundial: 250 trilhões de dólares;<br>• Total da riqueza concentrada pelas oito pessoas mais ricas do mundo: 428,4 bilhões de dólares;<br>• Total da população mundial: 7,2 bilhões de habitantes.</p><p>A média da riqueza, por pessoa, entre os que fazem parte do 1% mais rico da população mundial é, em milhões de dólares, aproximadamente igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,567",
+    "B": "1,623",
+    "C": "1,736",
+    "D": "1,892",
+    "E": "1,904"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O 1% mais rico tem metade da riqueza: 125 trilhões de dólares. Esse 1% são 1% de 7,2 bilhões = 72 milhões de pessoas. Média: 125 × 10¹² ÷ 72 × 10⁶ ≈ 1,736 × 10⁶ dólares = <strong>1,736 milhão</strong>. Alternativa <strong>C</strong>.</p><p>O ponto-chave é ler que o 1% tem “a mesma riqueza que os outros 99%”, isto é, metade do total.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "média",
+    "notação científica",
+    "desigualdade"
+   ]
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Operações e problemas",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 03 e 04.</p><p class=\"apoio\"><strong>A desigualdade no mundo</strong></p><p class=\"apoio\">Neste momento, o 1% mais rico da população mundial possui a mesma riqueza* que os outros 99% possuem conjuntamente. As oito pessoas mais ricas do mundo possuem a mesma riqueza que a metade mais pobre da população do planeta.</p><p class=\"apoio\">Após décadas de trabalho – e de notáveis avanços – no combate à pobreza, tivemos um aprendizado valioso: não é possível erradicar a pobreza no mundo sem reduzir drasticamente os níveis de desigualdade.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8bbbchy&gt; Acesso em: 31.10.2017. Adaptado.</p><p class=\"fonte\">*Riqueza é a soma dos valores de bens materiais, como imóveis ou propriedades, e de bens financeiros, como aplicações ou ações.</p><p class=\"apoio\">Adote:<br>• Total da riqueza mundial: 250 trilhões de dólares;<br>• Total da riqueza concentrada pelas oito pessoas mais ricas do mundo: 428,4 bilhões de dólares;<br>• Total da população mundial: 7,2 bilhões de habitantes.</p><p>A média da riqueza, por pessoa, entre os que fazem parte da metade mais pobre da população mundial é, em dólares, igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "111",
+    "B": "113",
+    "C": "115",
+    "D": "117",
+    "E": "119"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A metade mais pobre tem a mesma riqueza que as oito pessoas mais ricas: 428,4 bilhões de dólares, divididos entre 3,6 bilhões de pessoas. 428,4 ÷ 3,6 = <strong>119 dólares</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "média",
+    "desigualdade"
+   ]
+  },
+  {
+   "numero": 5,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p>Recentemente têm sido observadas grandes transformações no panorama da educação e do mercado de trabalho, afetando principalmente os jovens. Considere os gráficos.</p>[[fig:1]][[fig:2]]<p class=\"fonte\">&lt;https://tinyurl.com/y9pl9z2j&gt; Acesso em: 06.11.2017. Adaptado.</p><p class=\"fonte\">* não foi realizada a PNAD. Os números foram obtidos a partir de média simples dos valores entre os anos anterior e posterior.</p><p class=\"apoio\"><strong>PEA:</strong> População Economicamente Ativa<br><strong>Estuda e PEA:</strong> jovens que estudam e trabalham<br><strong>Só PEA:</strong> jovens que só trabalham<br><strong>Nem-nem:</strong> jovens que não estudam nem trabalham</p><p>A partir da leitura dos gráficos, é possível concluir que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q05a.webp",
+     "alt": "Gráfico 1 — Renda média dos adultos e taxa de atividade dos jovens, Brasil (1992–2012). A renda dos adultos (linha preta, eixo de R$ 200 a R$ 380) sobe de cerca de R$ 210 em 1992 para R$ 305 em 1996–1998, cai para cerca de R$ 283 em 1999–2002 e R$ 263 em 2003, e depois sobe sem parar até cerca de R$ 365 em 2012. A taxa de atividade dos jovens (PEA – Jovens, linha cinza, eixo de 58% a 68%) cai de 67% em 1992 para 62,5% em 1996, oscila perto de 63% até 2004, sobe a 65,4% em 2005 e depois cai até cerca de 59% em 2011–2012."
+    },
+    {
+     "src": "assets/img/fatec-2018-1sem/q05b.webp",
+     "alt": "Gráfico 2 — Distribuição de jovens de 15 a 24 anos por situação de atividade e estudo, Brasil (1992–2012). Só PEA cai de 49% em 1992 para cerca de 38% em 1999–2003, sobe a 41% em 2005 e fica perto de 40% até 2012. Só Estuda sobe de 16% para cerca de 24% em 2000–2003 e depois para 27% em 2011–2012. Estuda e PEA sobe de 18% para 25% em 1999 e cai a cerca de 19–20% em 2011–2012. Nem-nem fica entre 12% e 16%, com leve alta no fim do período (14% em 2012)."
+    }
+   ],
+   "alternativas": {
+    "A": "no período 1995–2006, houve aumento tanto da renda média dos adultos como da taxa de atividade dos jovens, o que resultou declínio na taxa de participação dos jovens que só trabalham, além de redução da proporção dos que são economicamente ativos e estudam simultaneamente.",
+    "B": "no período 2002–2003, a renda média dos adultos ficou estagnada e a taxa de atividade dos jovens aumentou, o que resultou declínio da taxa dos jovens que não estudam nem trabalham e aumento do número de jovens que só trabalham.",
+    "C": "no período 2009–2012, houve aumento da renda média dos adultos e diminuição da taxa de atividade dos jovens, o que resultou declínio da taxa de participação dos jovens na População Economicamente Ativa, além do aumento da participação dos jovens que só estudam.",
+    "D": "no período 1992–1995, a renda média dos adultos aumentou e a taxa de atividade dos jovens diminuiu, o que resultou aumento dos jovens que não estudam nem trabalham, bem como redução tanto dos jovens que estudam e trabalham, quanto dos que só estudam.",
+    "E": "no período 1995–1998, a renda média dos adultos diminuiu e a taxa de atividade dos jovens aumentou, o que resultou elevação da proporção tanto dos jovens que não estudam nem trabalham, quanto dos jovens que só trabalham."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>De 2009 a 2012, a renda dos adultos sobe (de cerca de R$ 330 para R$ 365) e a taxa de atividade dos jovens cai (de cerca de 63% para 59%). No mesmo período, a fatia dos que só estudam sobe de cerca de 25% para 27%. Alternativa <strong>C</strong>.</p><p>De 1995 a 2006 a taxa de atividade dos jovens não aumentou (A). De 2002 a 2003 a renda caiu, não ficou estagnada (B). De 1992 a 1995 os nem-nem diminuíram e os que só estudam aumentaram (D). De 1995 a 1998 a renda subiu e a atividade dos jovens caiu (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "gráficos",
+    "juventude e trabalho"
+   ]
+  },
+  {
+   "numero": 6,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p class=\"apoio\">Nos últimos anos, a leitura biométrica – criação e identificação de códigos com base em padrões individuais como, por exemplo, as impressões digitais – tem atraído o interesse de empresas que buscam, por meio dessa tecnologia, realizar o controle de entrada e saída de funcionários.</p><p class=\"apoio\">As impressões digitais são desenhos que se formam quando as papilas, presentes nas pontas dos dedos, tocam uma superfície lisa. Nesse contato, ocorre depósito de vestígios papilares visíveis ou ocultos. Os vestígios visíveis podem ser observados se a mão que os contém estiver suja de tinta ou de sangue. Já os ocultos resultam dos vestígios de suor que os dedos deixam em um determinado local.</p><p class=\"apoio\">Há vários reagentes que podem ser usados para tornar visíveis vestígios papilares ocultos. Uma substância bastante utilizada nesse caso é a ninidrina, que reage com um dos componentes do suor formando um produto colorido.</p><p class=\"fonte\">&lt;http://tinyurl.com/y99dvkto&gt; Acesso em: 13.11.2017. Adaptado.</p><p>A equação química simplificada que representa a reação que ocorre entre a ninidrina e uma das moléculas presentes no suor (apresentada na equação como composto X) é</p>[[fig:1]]<p>O composto X que reage com a ninidrina apresenta as funções orgânicas</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q06.webp",
+     "alt": "Equação: 2 ninidrina + composto X → produto cor púrpura. A ninidrina é um anel benzênico fundido a um anel de cinco carbonos com dois C=O e um carbono com dois OH. O composto X é R–CH(NH₂)–COOH: um carbono ligado a H, a um grupo R, a um NH₂ e a um C(=O)OH. O produto é formado por duas unidades da ninidrina ligadas por N."
+    }
+   ],
+   "alternativas": {
+    "A": "amida e álcool.",
+    "B": "amina e cetona.",
+    "C": "amina e aldeído.",
+    "D": "amida e ácido carboxílico.",
+    "E": "amina e ácido carboxílico."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O composto X, R–CH(NH₂)–COOH, é um aminoácido: tem o grupo NH₂ (<strong>amina</strong>) e o grupo COOH (<strong>ácido carboxílico</strong>). Alternativa <strong>E</strong>.</p><p>Não há N ligado a C=O, que seria amida (A e D). O OH está no grupo COOH, não é álcool (A). E o C=O pertence ao ácido carboxílico, não a cetona ou aldeído (B e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "aminoácidos",
+    "biometria"
+   ]
+  },
+  {
+   "numero": 7,
+   "materia": "História",
+   "assunto": "História contemporânea",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p>Segundo o sociólogo e filósofo alemão Herbert Marcuse (1898–1979), a sociedade de massas tem o consumo como seu ideal de vida, limitando seus horizontes e aspirações à posse de bens materiais, como automóveis e eletroeletrônicos.</p><p>Podemos afirmar corretamente que a sociedade de massas surgiu</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "no início do século XX, quando a Segunda Revolução Industrial acelerou o processo de urbanização, favorecendo a formação de mercados produtores e consumidores na Europa e nos Estados Unidos.",
+    "B": "no século XVII, quando a ascensão do pensamento Iluminista popularizou o acesso aos livros, provocando o desenvolvimento da razão e do pensamento crítico das classes populares.",
+    "C": "na Idade Moderna, quando, ao retirar Deus do centro das preocupações humanas, o Humanismo provocou a valorização do individualismo, enfraquecendo os laços comunitários.",
+    "D": "na Grécia antiga, quando o crescimento da população e o surgimento da filosofia forçaram a reformulação da legislação e a extensão dos direitos civis para todas as classes sociais.",
+    "E": "no final da Idade Média, quando as alterações climáticas provocaram a queda da produção agrícola, o êxodo rural e o surgimento da classe operária."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A sociedade de massas nasceu com a <strong>Segunda Revolução Industrial</strong> (fim do século XIX e início do XX): produção em série, urbanização acelerada e grandes mercados consumidores na Europa e nos EUA. Alternativa <strong>A</strong>.</p><p>O Iluminismo é do século XVIII e não criou consumo de massa (B). O Humanismo é renascentista (C). A Grécia antiga não estendeu direitos a todos (D). E a classe operária surge com a industrialização, não no fim da Idade Média (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "sociedade de massas",
+    "Segunda Revolução Industrial"
+   ]
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p class=\"apoio\">A análise dos padrões genéticos e ecológicos de diversas espécies foi fundamental para a emergência de um novo campo de pesquisa no final do século XX: a Sociobiologia, segundo a qual a predominância do trabalho coletivo sobre o individual é uma das condições para a existência de sociedades complexas, como as encontradas entre os Hymenoptera (formigas, abelhas), os Isoptera (cupins) e os <em>Homo sapiens</em>. Entretanto, algumas espécies perderam evolutivamente a capacidade de trabalhar coletivamente.</p><p>A predominância do trabalho individual sobre o coletivo nas espécies que perderam a capacidade de trabalhar coletivamente é, necessariamente, explicada por alterações nas relações ecológicas do tipo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "intraespecífica desarmônica.",
+    "B": "intraespecífica harmônica.",
+    "C": "interespecífica neutra.",
+    "D": "interespecífica harmônica.",
+    "E": "interespecífica desarmônica."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O trabalho coletivo de formigas, abelhas e cupins é uma <strong>sociedade</strong>: relação entre indivíduos da mesma espécie (intraespecífica) com benefício mútuo (harmônica). Se a espécie perdeu esse trabalho coletivo, mudou essa relação. Alternativa <strong>B</strong>.</p><p>As relações interespecíficas envolvem espécies diferentes (C, D e E). E a sociedade não é uma relação desarmônica (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "relações ecológicas",
+    "sociedade"
+   ]
+  },
+  {
+   "numero": 9,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p class=\"apoio\">No relatório comparativo 2003–2014 do Sistema de Informações da Mobilidade Urbana, da ANTP (Associação Nacional de Transportes Públicos), foi levantado que milhões de pessoas utilizam o transporte coletivo (ônibus municipal, metrô e trem) para deslocamento ao trabalho. No ano de 2014, esse tipo de transporte foi responsável pelo consumo de aproximadamente 3,3 Gtep contra 10,3 Gtep do transporte individual (automóveis e motos).</p><p class=\"fonte\">Fonte dos dados: http://files.antp.org.br/2016/9/3/sistemasinformacao-mobilidade--comparativo-2003_2014.pdf. Acesso em: 10.11.2017.</p><p>É correto afirmar que a diferença entre a energia consumida pelo transporte coletivo e o transporte individual, em 2014, em GWh, foi, aproximadamente, de</p><p class=\"apoio\">Considere<br><strong>tep</strong> = <strong>t</strong>onelada <strong>e</strong>quivalente de <strong>p</strong>etróleo<br>1 tep = 1,2 × 10<sup>7</sup> Wh</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "8,4 × 10<sup>3</sup>",
+    "B": "8,4 × 10<sup>5</sup>",
+    "C": "8,4 × 10<sup>7</sup>",
+    "D": "8,4 × 10<sup>9</sup>",
+    "E": "8,4 × 10<sup>11</sup>"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Diferença: 10,3 − 3,3 = 7 Gtep = 7 × 10⁹ tep. Em Wh: 7 × 10⁹ × 1,2 × 10⁷ = 8,4 × 10¹⁶ Wh. Como 1 GWh = 10⁹ Wh: 8,4 × 10¹⁶ ÷ 10⁹ = <strong>8,4 × 10⁷ GWh</strong>. Alternativa <strong>C</strong>.</p><p>Esquecer de converter para GWh leva a 8,4 × 10¹⁶, e esquecer o “giga” de Gtep leva a 8,4 × 10⁻² GWh.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "notação científica",
+    "mobilidade urbana"
+   ]
+  },
+  {
+   "numero": 10,
+   "materia": "Raciocínio lógico",
+   "assunto": "Operações e problemas",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p>A <strong>Figura 1</strong> representa uma balança cujos pratos estão nivelados. Nos pratos dessa balança estão cubos congruentes entre si, representados por quadrados, e esferas congruentes entre si, representadas por círculos.</p>[[fig:1]]<p>A <strong>Figura 2</strong> apresenta a mesma balança, porém há desnível entre os pratos. Nos pratos estão cubos e esferas idênticos aos da <strong>Figura 1</strong>.</p>[[fig:2]]<p>Para que os pratos da balança da <strong>Figura 2</strong> fiquem no mesmo nível, basta</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q10a.webp",
+     "alt": "Figura 1, pratos nivelados. Prato A: 3 cubos e 9 esferas. Prato B: 5 cubos e 3 esferas."
+    },
+    {
+     "src": "assets/img/fatec-2018-1sem/q10b.webp",
+     "alt": "Figura 2, prato B mais baixo. Prato A: 4 cubos e 3 esferas. Prato B: 7 cubos."
+    }
+   ],
+   "alternativas": {
+    "A": "retirar duas esferas do prato A.",
+    "B": "retirar dois cubos do prato B.",
+    "C": "colocar um cubo no prato A.",
+    "D": "colocar três esferas no prato A.",
+    "E": "colocar dois cubos no prato B."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na Figura 1: 3 cubos + 9 esferas = 5 cubos + 3 esferas, então 6 esferas = 2 cubos, ou <strong>1 cubo = 3 esferas</strong>.</p><p>Na Figura 2, em esferas: prato A = 4 · 3 + 3 = 15; prato B = 7 · 3 = 21. Tirando dois cubos de B, ele fica com 5 cubos = 15 esferas, igual a A. Alternativa <strong>B</strong>.</p><p>As outras deixam os pratos em 13 × 21 (A), 18 × 21 (C), 18 × 21 (D) e 15 × 27 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equilíbrio",
+    "balança"
+   ]
+  },
+  {
+   "numero": 11,
+   "materia": "Raciocínio lógico",
+   "assunto": "Raciocínio espacial",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>O retângulo ABCD da figura foi decomposto em seis quadrados.</p>[[fig:1]]<p>Sabendo que o quadrado EFGH tem área igual a 1 cm<sup>2</sup>, então a área do retângulo ABCD é, em centímetros quadrados,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q11.webp",
+     "alt": "Retângulo ABCD dividido em seis quadrados: um grande à direita, ocupando toda a altura; à esquerda, um quadrado médio em cima e, embaixo dele, um quadrado menor encostado no grande; no canto inferior esquerdo, um quadrado ainda menor e, acima dele, dois quadradinhos lado a lado, um deles EFGH, com E e H no lado AD."
+    }
+   ],
+   "alternativas": {
+    "A": "64.",
+    "B": "89.",
+    "C": "104.",
+    "D": "111.",
+    "E": "205."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os dois quadradinhos têm lado 1. Embaixo deles, o quadrado do canto tem lado 1 + 1 = 2. Ao lado, o quadrado seguinte tem lado 1 + 2 = 3. Acima de tudo isso, o quadrado médio tem lado 2 + 3 = 5. O grande, que ocupa toda a altura, tem lado 3 + 5 = 8.</p><p>O retângulo mede 5 + 8 = 13 por 8: área = <strong>104 cm²</strong>. Alternativa <strong>C</strong>. Os lados seguem a sequência de Fibonacci: 1, 1, 2, 3, 5, 8.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "áreas",
+    "quadrados"
+   ]
+  },
+  {
+   "numero": 12,
+   "materia": "Raciocínio lógico",
+   "assunto": "Operações e problemas",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>Cada número inteiro de 2 a 9 foi representado por uma letra de A a H, não necessariamente nessa ordem e sem repetição, e essas letras foram dispostas em uma tabela da seguinte forma:</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">E</th><th scope=\"col\">F</th><th scope=\"col\">G</th><th scope=\"col\">H</th></tr></thead><tbody><tr><td><strong>A</strong></td><td></td><td></td><td></td><td>18</td></tr><tr><td><strong>B</strong></td><td></td><td>20</td><td></td><td></td></tr><tr><td><strong>C</strong></td><td></td><td></td><td>42</td><td></td></tr><tr><td><strong>D</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table></div><p>Na tabela, cada número escrito é o produto do valor da letra de sua linha pelo valor da letra de sua coluna. Por exemplo, o produto de A por H é igual a 18.</p><p>Nessas condições, o produto de D por E é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "15.",
+    "B": "18.",
+    "C": "21.",
+    "D": "24.",
+    "E": "26."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com números de 2 a 9, sem repetir: 42 só pode ser 6 × 7, e 20 só pode ser 4 × 5. Então 18 não pode ser 3 × 6 (o 6 já foi usado): é 2 × 9. Sobram 3 e 8 para D e E, e D × E = <strong>24</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dedução",
+    "tabelas"
+   ]
+  },
+  {
+   "numero": 13,
+   "materia": "Raciocínio lógico",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p class=\"apoio\">João vai criar uma senha para o seu roteador. Para ter mais segurança,<br>• a senha terá nove caracteres que não se repetem, sendo 4 algarismos, 3 letras e 2 caracteres não alfanuméricos;<br>• a senha ou começará ou terminará por um caractere não alfanumérico;<br>• as três letras serão seguidas por um único caractere não alfanumérico seguido por quatro algarismos;<br>• há distinção entre letra maiúscula e letra minúscula;<br>• as letras serão escolhidas entre <strong>a</strong>, <strong>i</strong>, <strong>p</strong>, <strong>g</strong>, <strong>k</strong> e <strong>v</strong>, apenas;<br>• os caracteres não alfanuméricos serão escolhidos entre <strong>!</strong>, <strong>%</strong>, <strong>&amp;</strong> e <strong>&gt;</strong>, apenas.</p><p class=\"apoio\">Observe dois exemplos de senhas nas condições dadas:<br><strong>!pGk&amp;8460</strong> ou <strong>AiV%3841&gt;</strong></p><p>Assim sendo, a quantidade de senhas distintas que João pode formar é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "12<sup>3</sup> · 10<sup>4</sup> · 4<sup>2</sup>",
+    "B": "12<sup>2</sup> · 11 · 10<sup>2</sup> · 9 · 8 · 7 · 2",
+    "C": "12<sup>2</sup> · 11 · 10<sup>2</sup> · 9 · 8 · 7 · 3",
+    "D": "12<sup>2</sup> · 11 · 10 · 9 · 8 · 7 · 4",
+    "E": "12<sup>2</sup> · 11 · 10 · 9 · 8 · 7 · 2"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O bloco “3 letras + símbolo + 4 algarismos” fica fixo, e o outro símbolo vai no começo ou no fim: <strong>2</strong> posições.</p><p>Letras: 6 letras × 2 (maiúscula/minúscula) = 12 opções, sem repetir: 12 · 11 · 10. Algarismos: 10 · 9 · 8 · 7. Símbolos: 4 · 3 = 12.</p><p>Total: 2 · 12 · 11 · 10 · 10 · 9 · 8 · 7 · 12 = 12² · 11 · 10² · 9 · 8 · 7 · 2. Alternativa <strong>B</strong>.</p><p>A ignora que os caracteres não se repetem. C, D e E erram o número de posições ou perdem um fator 10.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo"
+   ]
+  },
+  {
+   "numero": 14,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p>Todos os vinte e três livros de uma coleção serão distribuídos entre seis alunos da Fatec–Itatiba, de modo que cada aluno receba, pelo menos, dois livros.</p><p>Nessas condições, conclui-se necessariamente que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "nenhum aluno receberá quatro livros.",
+    "B": "algum aluno receberá, pelo menos, quatro livros.",
+    "C": "todos os alunos receberão, pelo menos, três livros.",
+    "D": "cinco alunos receberão quatro livros, e um aluno receberá três.",
+    "E": "dois alunos não poderão receber a mesma quantidade de livros."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Se ninguém recebesse 4 ou mais livros, cada aluno teria no máximo 3, e os seis juntos teriam no máximo 18 — menos que 23. Então <strong>algum aluno recebe pelo menos quatro</strong>. Alternativa <strong>B</strong>.</p><p>As outras não são obrigatórias: por exemplo, 2 + 2 + 2 + 2 + 2 + 13 = 23 contraria A, C, D e E.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio da casa dos pombos"
+   ]
+  },
+  {
+   "numero": 15,
+   "materia": "História",
+   "assunto": "História contemporânea",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>Ao assumir o poder na França, Napoleão Bonaparte anunciou que o período conturbado da Revolução de 1789 chegaria ao fim. Em busca de conciliação nacional, ele afirmava estar acima dos interesses particulares e prometia que, a partir daquele momento, iria fazer da França a maior potência do mundo.</p><p>Conhecido como Era Napoleônica, o período em que Napoleão Bonaparte governou a França ficou marcado</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pela promulgação de um novo Código Civil que, entre outras determinações, separou Igreja e Estado, legalizou o divórcio e consolidou a abolição dos direitos feudais da nobreza e do clero.",
+    "B": "pela manutenção dos laços de cooperação entre França e Inglaterra e pelo Tratado de Versalhes, que estabeleceu o princípio de autodeterminação dos povos.",
+    "C": "pela adoção do pluralismo religioso, ocasionado pela chegada à França de imigrantes oriundos das colônias francesas no Oriente Médio e na África.",
+    "D": "pela guerra contra os Estados Unidos e pela conquista dos territórios indígenas do oeste da América do Norte.",
+    "E": "pela criação da União Europeia, que unificou econômica e politicamente todos os países do continente."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O <strong>Código Civil napoleônico</strong> (1804) consolidou conquistas da Revolução: igualdade perante a lei, fim dos privilégios feudais, casamento civil e divórcio, Estado laico. Alternativa <strong>A</strong>.</p><p>Napoleão viveu em guerra com a Inglaterra, e o Tratado de Versalhes é de 1919 (B). Não houve imigração das colônias (C) nem guerra contra os EUA, que até compraram dele a Louisiana (D). A União Europeia é do século XX (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Era Napoleônica",
+    "Código Civil"
+   ]
+  },
+  {
+   "numero": 16,
+   "materia": "História",
+   "assunto": "Antiguidade",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p>Ernst Gombrich, historiador de arte, afirmou que uma das principais características dos templos gregos da Antiguidade eram suas proporções humanas. Em outras palavras, os homens não se sentiam minúsculos em relação a essas imponentes construções.</p><p>Essa característica da arquitetura reflete um aspecto importante da religião grega, já que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "os deuses gregos eram considerados infalíveis e representavam um modelo de perfeição a ser seguido pelos humanos.",
+    "B": "as divindades gregas, na concepção dos filósofos da época, eram a personificação da terra, da água, do fogo e do ar, os quatro elementos naturais.",
+    "C": "os deuses gregos, segundo a tradição oral, escolhiam as cidades que iriam proteger a partir da apreciação estética das construções a eles devotadas.",
+    "D": "os deuses gregos, embora fossem imortais, apresentavam características de personalidade que os assemelhavam aos humanos, como maldade, egoísmo e fraqueza.",
+    "E": "a legislação determinava que os templos fossem construídos a partir das orientações dos oráculos dos deuses, que estabeleciam a forma, as dimensões e os materiais usados na construção."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os deuses gregos eram <strong>antropomórficos</strong>: imortais, mas com paixões e defeitos humanos, como ciúme, vingança e egoísmo. Templos em escala humana combinam com deuses próximos dos homens. Alternativa <strong>D</strong>.</p><p>Os deuses não eram infalíveis (A). Os quatro elementos são uma ideia de filósofos, não a religião (B). E C e E não têm base na tradição grega.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Grécia antiga",
+    "religião"
+   ]
+  },
+  {
+   "numero": 17,
+   "materia": "História",
+   "assunto": "Idade Moderna",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p>Leia o texto.</p><p class=\"apoio\">A Reforma Protestante jamais teria ocorrido se, antes, a imprensa de Gutenberg não tivesse sido criada. “Lutero teria usado o Twitter e o Facebook de uma maneira exaustiva se as redes existissem”, analisa o escritor Benjamin Hasselhorn. “Ele tinha um desespero enorme por fazer chegar suas convicções aos fiéis”, comentou.</p><p class=\"fonte\">&lt;https://tinyurl.com/yatbezyk&gt; Acesso em: 02.11.2017.</p><p>Historicamente, a relação que o texto estabelece entre Martinho Lutero e a imprensa de Gutenberg se evidencia, principalmente, na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "edição de material filosófico crítico à fé cristã.",
+    "B": "criação do primeiro jornal evangélico diário.",
+    "C": "publicação de novelas religiosas populares.",
+    "D": "divulgação de produtos e serviços bíblicos.",
+    "E": "impressão da Bíblia em alemão."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Lutero defendia a leitura direta da Bíblia pelos fiéis e a traduziu para o <strong>alemão</strong>; a imprensa permitiu imprimi-la em grande quantidade. Alternativa <strong>E</strong>.</p><p>Lutero não criticava a fé cristã (A), não criou jornal (B) nem novelas (C), e combatia justamente a venda de indulgências (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Reforma Protestante",
+    "imprensa"
+   ]
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Entreguerras",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p>Observe a tabela.</p><p><strong>Crescimento do Partido Nazista – Alemanha 1925-1932</strong></p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Ano</th><th scope=\"col\">Nº de filiados</th></tr></thead><tbody><tr><td>1925</td><td>27 717</td></tr><tr><td>1926</td><td>49 523</td></tr><tr><td>1927</td><td>72 590</td></tr><tr><td>1928</td><td>108 717</td></tr><tr><td>1929</td><td>176 426</td></tr><tr><td>1930</td><td>389 000</td></tr><tr><td>1931</td><td>806 294</td></tr><tr><td>1932</td><td>1 414 975</td></tr></tbody></table></div><p class=\"fonte\">Fonte dos dados: MARTIN, P.M. <em>et alii</em>. <em>Geografía y Historia</em>. Zaragoza: Edelvives, 1995. V.4, p.82.</p><p>A tabela mostra o crescimento do número de filiados ao Partido Nazista Alemão entre as décadas de 1920 e 1930.</p><p>Assinale a alternativa que associa, corretamente, o crescimento do número de filiados e o contexto internacional.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O número de filiados ao Partido Nazista no ano de 1932 pode ser explicado pela aliança estabelecida entre Hitler e Stálin, já que o comunismo era uma doutrina popular na Alemanha.",
+    "B": "O número de filiados ao Partido Nazista aumentou em 1930 como consequência da grave crise econômica mundial iniciada no ano anterior, a qual provocou o colapso da economia alemã.",
+    "C": "Em 1925, satisfeitos com a assinatura dos tratados de paz que puseram fim à Primeira Guerra Mundial, os alemães aderiram às ideias pacifistas do Partido Nazista.",
+    "D": "Em 1927, o Partido Nazista sofreu uma queda brusca no número de filiados, devido ao sucesso da política econômica implantada pela República de Weimar.",
+    "E": "O ano de 1928 foi marcado pela prosperidade econômica ocorrida na Alemanha após a Primeira Guerra Mundial, o que explica o número de filiados ao partido."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A crise de 1929 derrubou a economia alemã, que dependia de empréstimos americanos: desemprego em massa e descrédito da República de Weimar. Os filiados mais que dobraram de 1929 para 1930. Alternativa <strong>B</strong>.</p><p>O pacto entre Hitler e Stálin é de 1939, e o nazismo era anticomunista (A). O nazismo não era pacifista, e os alemães rejeitavam o Tratado de Versalhes (C). Não houve queda em 1927 (D). E a prosperidade não explica um partido de crise (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nazismo",
+    "crise de 1929"
+   ]
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p>Na década de 1780, na capitania de Minas Gerais, ocorreu um dos primeiros movimentos emancipatórios do Brasil colônia.</p><p>Conhecido como Inconfidência Mineira, esse movimento foi provocado principalmente</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pela política de incentivo ao desenvolvimento econômico do Sul do país; pela promulgação da lei de terras e pela proibição da importação de escravos africanos.",
+    "B": "pela política de isenção de impostos de importação sobre a carne argentina; pela presença holandesa no Recife e pela influência das ideias imperialistas estadunidenses.",
+    "C": "pelo aumento de impostos sobre a importação de bens de prestígio; pela chegada da família real portuguesa à cidade do Rio de Janeiro e pelo perdão das dívidas da nobreza.",
+    "D": "pela cobrança dos quintos e pela ameaça constante da derrama; pelo aumento do custo de vida, pelo fechamento das manufaturas locais e pela influência das ideias iluministas.",
+    "E": "pelo fim do pacto colonial; pelo fechamento das universidades do Rio de Janeiro e de Salvador e pela abolição da escravidão no território nacional."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Inconfidência reagiu ao <strong>quinto</strong> (imposto de 20% sobre o ouro) e à ameaça da <strong>derrama</strong>, ao alvará que proibia manufaturas na colônia (1785) e foi inspirada pelo Iluminismo e pela independência dos EUA. Alternativa <strong>D</strong>.</p><p>A Lei de Terras e o fim do tráfico são do século XIX (A). A presença holandesa é do século XVII (B). A família real chegou em 1808 (C). E não havia universidades na colônia nem abolição (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Inconfidência Mineira"
+   ]
+  },
+  {
+   "numero": 20,
+   "materia": "Química",
+   "assunto": "Substâncias e misturas",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 20 a 22.</p><p class=\"apoio\">Estima-se que cerca de um bilhão de pessoas sofram com a falta de água potável no mundo. Para tentar combater esse tipo de problema, uma empresa desenvolveu um purificador de água distribuído na forma de um sachê que é capaz de transformar dez litros de água contaminada em dez litros de água potável. Os principais componentes do sachê são sulfato de ferro (III) e hipoclorito de cálcio.</p><p class=\"apoio\">Para purificar a água, o conteúdo do sachê deve ser despejado em um recipiente com dez litros de água não potável. Depois é preciso mexer a mistura por cinco minutos, para ocorrer a união dos íons cálcio (Ca<sup>2+</sup>) e dos íons sulfato (SO<sub>4</sub><sup>2–</sup>), produzindo sulfato de cálcio, que vai ao fundo do recipiente juntamente com a sujeira. Em seguida, a água deve ser passada por um filtro, que pode ser até mesmo uma camiseta de algodão limpa. Para finalizar, deve-se esperar por 20 minutos para que ocorra a ação bactericida dos íons hipoclorito, C<em>ℓ</em>O<sup>1–</sup>.</p><p class=\"apoio\">Assim, em pouco tempo, uma água barrenta ou contaminada se transforma em água limpa para o consumo.</p><p class=\"fonte\">&lt;http://tinyurl.com/y7gdw9qx&gt; Acesso em: 13.11.2017. Adaptado.</p><p>Dois processos de separação de misturas descritos no texto são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "destilação e filtração.",
+    "B": "decantação e filtração.",
+    "C": "decantação e levigação.",
+    "D": "centrifugação e filtração.",
+    "E": "centrifugação e destilação."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O sulfato de cálcio “vai ao fundo do recipiente juntamente com a sujeira”: <strong>decantação</strong>. Depois a água passa por um pano: <strong>filtração</strong>. Alternativa <strong>B</strong>.</p><p>Não há aquecimento e condensação (destilação), corrente de água para arrastar sólidos leves (levigação) nem rotação (centrifugação).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "separação de misturas"
+   ]
+  },
+  {
+   "numero": 21,
+   "materia": "Química",
+   "assunto": "Funções inorgânicas",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 20 a 22.</p><p class=\"apoio\">Estima-se que cerca de um bilhão de pessoas sofram com a falta de água potável no mundo. Para tentar combater esse tipo de problema, uma empresa desenvolveu um purificador de água distribuído na forma de um sachê que é capaz de transformar dez litros de água contaminada em dez litros de água potável. Os principais componentes do sachê são sulfato de ferro (III) e hipoclorito de cálcio.</p><p class=\"apoio\">Para purificar a água, o conteúdo do sachê deve ser despejado em um recipiente com dez litros de água não potável. Depois é preciso mexer a mistura por cinco minutos, para ocorrer a união dos íons cálcio (Ca<sup>2+</sup>) e dos íons sulfato (SO<sub>4</sub><sup>2–</sup>), produzindo sulfato de cálcio, que vai ao fundo do recipiente juntamente com a sujeira. Em seguida, a água deve ser passada por um filtro, que pode ser até mesmo uma camiseta de algodão limpa. Para finalizar, deve-se esperar por 20 minutos para que ocorra a ação bactericida dos íons hipoclorito, C<em>ℓ</em>O<sup>1–</sup>.</p><p class=\"apoio\">Assim, em pouco tempo, uma água barrenta ou contaminada se transforma em água limpa para o consumo.</p><p class=\"fonte\">&lt;http://tinyurl.com/y7gdw9qx&gt; Acesso em: 13.11.2017. Adaptado.</p><p>Assinale a alternativa que contém a fórmula correta do sulfato de cálcio</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ca(SO<sub>4</sub>)<sub>2</sub>",
+    "B": "Ca<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>",
+    "C": "CaSO<sub>4</sub>",
+    "D": "Ca<sub>2</sub>SO<sub>4</sub>",
+    "E": "Ca<sub>4</sub>SO"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Ca²⁺ e SO₄²⁻ têm cargas de mesmo valor, então se combinam 1 para 1: <strong>CaSO₄</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sais",
+    "fórmulas"
+   ]
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 20 a 22.</p><p class=\"apoio\">Estima-se que cerca de um bilhão de pessoas sofram com a falta de água potável no mundo. Para tentar combater esse tipo de problema, uma empresa desenvolveu um purificador de água distribuído na forma de um sachê que é capaz de transformar dez litros de água contaminada em dez litros de água potável. Os principais componentes do sachê são sulfato de ferro (III) e hipoclorito de cálcio.</p><p class=\"apoio\">Para purificar a água, o conteúdo do sachê deve ser despejado em um recipiente com dez litros de água não potável. Depois é preciso mexer a mistura por cinco minutos, para ocorrer a união dos íons cálcio (Ca<sup>2+</sup>) e dos íons sulfato (SO<sub>4</sub><sup>2–</sup>), produzindo sulfato de cálcio, que vai ao fundo do recipiente juntamente com a sujeira. Em seguida, a água deve ser passada por um filtro, que pode ser até mesmo uma camiseta de algodão limpa. Para finalizar, deve-se esperar por 20 minutos para que ocorra a ação bactericida dos íons hipoclorito, C<em>ℓ</em>O<sup>1–</sup>.</p><p class=\"apoio\">Assim, em pouco tempo, uma água barrenta ou contaminada se transforma em água limpa para o consumo.</p><p class=\"fonte\">&lt;http://tinyurl.com/y7gdw9qx&gt; Acesso em: 13.11.2017. Adaptado.</p><p>Os números de oxidação do enxofre e do cloro nos íons SO<sub>4</sub><sup>2–</sup> e C<em>ℓ</em>O<sup>1–</sup> são, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1+ e 2–",
+    "B": "4+ e 1–",
+    "C": "5+ e 0",
+    "D": "6+ e 1+",
+    "E": "8+ e 2+"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O oxigênio vale −2. No SO₄²⁻: S + 4(−2) = −2, então S = <strong>+6</strong>. No ClO⁻: Cl + (−2) = −1, então Cl = <strong>+1</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "número de oxidação"
+   ]
+  },
+  {
+   "numero": 23,
+   "materia": "Química",
+   "assunto": "Propriedades da matéria",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 23 e 24.</p><p class=\"apoio\"><strong>De onde vem o cheiro de carro novo?</strong></p><p class=\"apoio\">De acordo com o gerente de uma montadora de veículos, o cheiro é composto por uma combinação de vários tipos de substâncias químicas usadas na fabricação do veículo, incluindo solventes, plásticos, colas, tecidos e borracha. Porém, muitas delas são altamente tóxicas, porque contêm Compostos Orgânicos Voláteis (COV<sub>S</sub>) em sua composição, como benzeno, tolueno e formol, que podem ser letais dependendo da quantidade. Eles acabam escapando e impregnando o ar, porque não requerem altas temperaturas para evaporarem.</p><p class=\"fonte\">&lt;http://tinyurl.com/y8ucob6c&gt; Acesso em: 13.11.2017. Adaptado.</p><p>É correto afirmar que os compostos orgânicos responsáveis pelo cheiro de carro novo apresentam</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "alta resistência ao calor.",
+    "B": "alta pressão de vapor.",
+    "C": "alta condutividade elétrica.",
+    "D": "elevada condutividade térmica.",
+    "E": "elevada maleabilidade."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os COVs evaporam sem precisar de altas temperaturas: são <strong>voláteis</strong>, e substância volátil tem <strong>alta pressão de vapor</strong>. Alternativa <strong>B</strong>.</p><p>As outras propriedades não têm relação com evaporar e espalhar cheiro; condutividade e maleabilidade são típicas de metais.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volatilidade",
+    "pressão de vapor"
+   ]
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 23 e 24.</p><p class=\"apoio\"><strong>De onde vem o cheiro de carro novo?</strong></p><p class=\"apoio\">De acordo com o gerente de uma montadora de veículos, o cheiro é composto por uma combinação de vários tipos de substâncias químicas usadas na fabricação do veículo, incluindo solventes, plásticos, colas, tecidos e borracha. Porém, muitas delas são altamente tóxicas, porque contêm Compostos Orgânicos Voláteis (COV<sub>S</sub>) em sua composição, como benzeno, tolueno e formol, que podem ser letais dependendo da quantidade. Eles acabam escapando e impregnando o ar, porque não requerem altas temperaturas para evaporarem.</p><p class=\"fonte\">&lt;http://tinyurl.com/y8ucob6c&gt; Acesso em: 13.11.2017. Adaptado.</p><p>O benzeno sofre reação de combustão segundo a equação balanceada</p><p class=\"apoio\">\\[\\text{C}_6\\text{H}_6(\\ell) + \\tfrac{15}{2}\\,\\text{O}_2(\\text{g}) \\rightarrow 6\\,\\text{CO}_2(\\text{g}) + 3\\,\\text{H}_2\\text{O}(\\ell)\\]</p><p>A entalpia de combustão do benzeno pode ser determinada conhecendo-se os valores das entalpias de formação do gás carbônico, assim como da água e do benzeno líquidos.</p><p>A tabela apresenta os valores de entalpia de formação de algumas substâncias nas condições padrão.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Substância</th><th scope=\"col\">Entalpia de formação (kJ/mol)</th></tr></thead><tbody><tr><td>C<sub>6</sub>H<sub>6</sub> (<em>ℓ</em>)</td><td>+ 50</td></tr><tr><td>CO<sub>2</sub> (g)</td><td>– 394</td></tr><tr><td>H<sub>2</sub>O (<em>ℓ</em>)</td><td>– 286</td></tr></tbody></table></div><p>A entalpia de combustão completa do benzeno, em kJ/mol, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "– 3 272",
+    "B": "– 3 172",
+    "C": "– 2 122",
+    "D": "+ 2 364",
+    "E": "+ 3 272"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>ΔH = Σ produtos − Σ reagentes = [6(−394) + 3(−286)] − [50 + 0] = −2 364 − 858 − 50 = <strong>−3 272 kJ/mol</strong>. Alternativa <strong>A</strong>.</p><p>O O₂ é substância simples e tem entalpia de formação zero. Somar o +50 em vez de subtrair dá −3 172 (B). E combustão libera calor, por isso ΔH é negativo (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "entalpia de formação",
+    "lei de Hess"
+   ]
+  },
+  {
+   "numero": 25,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>Technology brought us fake news — and it will help us kill it</strong></p><p class=\"apoio\">“Fake news” - websites disseminating news stories that are false but are believed to be true – was a major feature of the U.S. election season. Some observers believe that it determined the outcome of the election, although there is no way to definitively ascertain its effect on voting.</p><p class=\"apoio\">Fake news is news that affects the digital universe profoundly. Fake news grew because of the ease of creating and disseminating websites and stories that look and read as credible as real news sites (at least to many people). It is disseminated on social media platforms just because dissemination of information without vetting has always been a feature of those platforms. This was designed to facilitate communication - no one removes a negative comment about a restaurant on Facebook.</p><p class=\"apoio\">On the positive side, this means that everyone’s opinion can be disseminated. The awareness of fake news, though, reveals a downside – or perhaps a loophole – of the freedom to post. And fake news may beget<sup>1</sup> fake news. Facebook is not the only media company to be an inadvertent host for fake news, but it is by far the largest, with roughly 2 billion users each month.</p><p class=\"apoio\">Forbes indicates that the fallout<sup>2</sup> from fake news during the election cycle may cause advertisers to pull back from Facebook, as it is less “brand safe” than formerly. If unchecked, fake news could impact the perceived credibility of online sites where fake news runs. Since the election, Facebook has announced plans to refine and increase automated detection of fake news and to make reporting of suspected stories easier for Facebook users. It has also indicated that the current ad system will be changed, to interfere with fake news sites receiving revenue from Facebook.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8jfq2t4&gt; Acesso em: 07.11.2017. Adaptado.</p><p class=\"apoio\"><strong>Glossário</strong><br><em>beget</em><sup>1</sup>: gerar, criar, produzir.<br><em>fallout</em><sup>2</sup>: efeitos negativos.</p><p>Assinale a alternativa correta, de acordo com o texto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O termo <em>fake news</em> se aplica aos <em>websites</em> que difundem notícias falsas.",
+    "B": "A existência de <em>fake news</em> contribuiu para o desenvolvimento do universo digital.",
+    "C": "As eleições americanas foram as responsáveis pelo início da divulgação de <em>fake news</em>.",
+    "D": "O termo <em>fake news</em> é usado para designar toda informação que se baseia em fatos reais.",
+    "E": "O resultado das eleições americanas foi, inegavelmente, uma consequência de <em>fake news</em>."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto abre com a definição: “<em>Fake news – websites disseminating news stories that are false</em>”. Alternativa <strong>A</strong>.</p><p>O texto diz que as <em>fake news</em> afetam o universo digital, não que o desenvolveram (B). As eleições não marcam o início delas (C). Elas são falsas, não baseadas em fatos (D). E “<em>there is no way to definitively ascertain its effect on voting</em>” — o efeito na eleição não pode ser comprovado (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 26,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>Technology brought us fake news — and it will help us kill it</strong></p><p class=\"apoio\">“Fake news” - websites disseminating news stories that are false but are believed to be true – was a major feature of the U.S. election season. Some observers believe that it determined the outcome of the election, although there is no way to definitively ascertain its effect on voting.</p><p class=\"apoio\">Fake news is news that affects the digital universe profoundly. Fake news grew because of the ease of creating and disseminating websites and stories that look and read as credible as real news sites (at least to many people). It is disseminated on social media platforms just because dissemination of information without vetting has always been a feature of those platforms. This was designed to facilitate communication - no one removes a negative comment about a restaurant on Facebook.</p><p class=\"apoio\">On the positive side, this means that everyone’s opinion can be disseminated. The awareness of fake news, though, reveals a downside – or perhaps a loophole – of the freedom to post. And fake news may beget<sup>1</sup> fake news. Facebook is not the only media company to be an inadvertent host for fake news, but it is by far the largest, with roughly 2 billion users each month.</p><p class=\"apoio\">Forbes indicates that the fallout<sup>2</sup> from fake news during the election cycle may cause advertisers to pull back from Facebook, as it is less “brand safe” than formerly. If unchecked, fake news could impact the perceived credibility of online sites where fake news runs. Since the election, Facebook has announced plans to refine and increase automated detection of fake news and to make reporting of suspected stories easier for Facebook users. It has also indicated that the current ad system will be changed, to interfere with fake news sites receiving revenue from Facebook.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8jfq2t4&gt; Acesso em: 07.11.2017. Adaptado.</p><p class=\"apoio\"><strong>Glossário</strong><br><em>beget</em><sup>1</sup>: gerar, criar, produzir.<br><em>fallout</em><sup>2</sup>: efeitos negativos.</p><p>Assinale a alternativa que apresenta, de acordo com o texto, elementos que podem ser considerados razões para a disseminação ou o aumento de <em>fake news</em>.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A recusa em aceitar comentários negativos, atitude comum aos usuários de redes sociais que produz efeitos profundos no universo digital.",
+    "B": "A característica que as plataformas de <em>social media</em> (mídia social) apresentam de difundir informações sem verificá-las, a pretexto de facilitar a comunicação.",
+    "C": "A postura do Facebook, única plataforma de <em>social media</em> (mídia social) que se opõe veementemente à censura de qualquer tipo de informação postada.",
+    "D": "A facilidade de criação de <em>websites</em> e de histórias que, apesar de serem falsos, são capazes de convencer todos os usuários, indistintamente, de sua veracidade.",
+    "E": "A tranquilidade com a qual tais notícias são disseminadas, de maneira a serem consideradas verdadeiras simplesmente pelo fato de serem reproduzidas repetidamente."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz: “<em>It is disseminated on social media platforms just because dissemination of information without vetting has always been a feature of those platforms. This was designed to facilitate communication</em>”. Alternativa <strong>B</strong>.</p><p>Ninguém recusa comentários negativos; ao contrário, “<em>no one removes a negative comment</em>” (A). O Facebook não é a única plataforma (C). Os sites convencem “<em>many people</em>”, não todos (D). E E não aparece no texto.</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 27,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>Technology brought us fake news — and it will help us kill it</strong></p><p class=\"apoio\">“Fake news” - websites disseminating news stories that are false but are believed to be true – was a major feature of the U.S. election season. Some observers believe that it determined the outcome of the election, although there is no way to definitively ascertain its effect on voting.</p><p class=\"apoio\">Fake news is news that affects the digital universe profoundly. Fake news grew because of the ease of creating and disseminating websites and stories that look and read as credible as real news sites (at least to many people). It is disseminated on social media platforms just because dissemination of information without vetting has always been a feature of those platforms. This was designed to facilitate communication - no one removes a negative comment about a restaurant on Facebook.</p><p class=\"apoio\">On the positive side, this means that everyone’s opinion can be disseminated. The awareness of fake news, though, reveals a downside – or perhaps a loophole – of the freedom to post. And fake news may beget<sup>1</sup> fake news. Facebook is not the only media company to be an inadvertent host for fake news, but it is by far the largest, with roughly 2 billion users each month.</p><p class=\"apoio\">Forbes indicates that the fallout<sup>2</sup> from fake news during the election cycle may cause advertisers to pull back from Facebook, as it is less “brand safe” than formerly. If unchecked, fake news could impact the perceived credibility of online sites where fake news runs. Since the election, Facebook has announced plans to refine and increase automated detection of fake news and to make reporting of suspected stories easier for Facebook users. It has also indicated that the current ad system will be changed, to interfere with fake news sites receiving revenue from Facebook.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8jfq2t4&gt; Acesso em: 07.11.2017. Adaptado.</p><p class=\"apoio\"><strong>Glossário</strong><br><em>beget</em><sup>1</sup>: gerar, criar, produzir.<br><em>fallout</em><sup>2</sup>: efeitos negativos.</p><p>A respeito do papel do Facebook na disseminação de <em>fake news</em>, pode-se afirmar corretamente, tendo por base o texto apresentado, que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o Facebook, apesar de possibilitar a liberdade de expressão, não serviu como meio de divulgação de <em>fake news</em> pelo fato de ter muitos usuários.",
+    "B": "a diminuição do número de usuários do Facebook, fato explicado pelo surgimento de outras companhias de mídia tão grandes ou até maiores, fez da rede uma fonte de <em>fake news</em>.",
+    "C": "o Facebook, mesmo tendo assumido uma postura inicialmente positiva com relação a <em>fake news</em>, viu-se forçado a mudar de estratégia, exercendo a censura explícita de conteúdos.",
+    "D": "cerca de 2 bilhões de usuários por mês participam, mesmo que indiretamente, da disseminação de <em>fake news</em> em virtude da tendência humana de se comprazer com tragédias.",
+    "E": "o Facebook, por ter um elevado número de usuários, tornou-se a maior companhia de mídia a hospedar <em>fake news</em>, contribuindo, para isso, a política de liberdade de expressão do site."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que o Facebook “<em>is by far the largest</em>” hospedeiro involuntário de <em>fake news</em>, com cerca de 2 bilhões de usuários por mês, e liga isso à liberdade de postar (“<em>the freedom to post</em>”). Alternativa <strong>E</strong>.</p><p>O Facebook serviu, sim, como meio de divulgação (A). Não houve diminuição de usuários (B) nem censura explícita, e sim detecção automática e mudança nos anúncios (C). E o texto não fala em gosto por tragédias (D).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 28,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>Technology brought us fake news — and it will help us kill it</strong></p><p class=\"apoio\">“Fake news” - websites disseminating news stories that are false but are believed to be true – was a major feature of the U.S. election season. Some observers believe that it determined the outcome of the election, although there is no way to definitively ascertain its effect on voting.</p><p class=\"apoio\">Fake news is news that affects the digital universe profoundly. Fake news grew because of the ease of creating and disseminating websites and stories that look and read as credible as real news sites (at least to many people). It is disseminated on social media platforms just because dissemination of information without vetting has always been a feature of those platforms. This was designed to facilitate communication - no one removes a negative comment about a restaurant on Facebook.</p><p class=\"apoio\">On the positive side, this means that everyone’s opinion can be disseminated. The awareness of fake news, though, reveals a downside – or perhaps a loophole – of the freedom to post. And fake news may beget<sup>1</sup> fake news. Facebook is not the only media company to be an inadvertent host for fake news, but it is by far the largest, with roughly 2 billion users each month.</p><p class=\"apoio\">Forbes indicates that the fallout<sup>2</sup> from fake news during the election cycle may cause advertisers to pull back from Facebook, as it is less “brand safe” than formerly. If unchecked, fake news could impact the perceived credibility of online sites where fake news runs. Since the election, Facebook has announced plans to refine and increase automated detection of fake news and to make reporting of suspected stories easier for Facebook users. It has also indicated that the current ad system will be changed, to interfere with fake news sites receiving revenue from Facebook.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8jfq2t4&gt; Acesso em: 07.11.2017. Adaptado.</p><p class=\"apoio\"><strong>Glossário</strong><br><em>beget</em><sup>1</sup>: gerar, criar, produzir.<br><em>fallout</em><sup>2</sup>: efeitos negativos.</p><p>Ainda sobre o Facebook, pode-se afirmar corretamente, com base nos argumentos expostos no texto, que os impactos de <em>fake news</em></p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "afetam positivamente a companhia, promovendo um maior interesse do público pela plataforma digital.",
+    "B": "afetam positivamente a companhia, que se beneficiou financeiramente dos resultados da eleição americana.",
+    "C": "não repercutem sobre a companhia, que já estava preparada para tal ameaça, tendo desenvolvido ferramentas eficientes de rastreio de <em>fake news</em>.",
+    "D": "trazem, certamente, repercussões de caráter econômico para o Facebook, considerado um agente essencial no processo de criação de <em>fake news</em>.",
+    "E": "podem afetar negativamente a companhia, fazendo com que os anunciantes deixem de se interessar pelo Facebook, por ele ser menos confiável para as marcas do que era antes."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz: “<em>the fallout from fake news during the election cycle may cause advertisers to pull back from Facebook, as it is less ‘brand safe’ than formerly</em>”. Alternativa <strong>E</strong>.</p><p>Os impactos são negativos, não positivos (A e B). O Facebook só anunciou ferramentas depois da eleição (C). E o texto diz “<em>may cause</em>” (pode causar) e chama o Facebook de hospedeiro involuntário, não de agente essencial na criação (D).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 29,
+   "materia": "Inglês",
+   "assunto": "Formação de palavras",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>Technology brought us fake news — and it will help us kill it</strong></p><p class=\"apoio\">“Fake news” - websites disseminating news stories that are false but are believed to be true – was a major feature of the U.S. election season. Some observers believe that it determined the outcome of the election, although there is no way to definitively ascertain its effect on voting.</p><p class=\"apoio\">Fake news is news that affects the digital universe profoundly. Fake news grew because of the ease of creating and disseminating websites and stories that look and read as credible as real news sites (at least to many people). It is disseminated on social media platforms just because dissemination of information without vetting has always been a feature of those platforms. This was designed to facilitate communication - no one removes a negative comment about a restaurant on Facebook.</p><p class=\"apoio\">On the positive side, this means that everyone’s opinion can be disseminated. The awareness of fake news, though, reveals a downside – or perhaps a loophole – of the freedom to post. And fake news may beget<sup>1</sup> fake news. Facebook is not the only media company to be an inadvertent host for fake news, but it is by far the largest, with roughly 2 billion users each month.</p><p class=\"apoio\">Forbes indicates that the fallout<sup>2</sup> from fake news during the election cycle may cause advertisers to pull back from Facebook, as it is less “brand safe” than formerly. If unchecked, fake news could impact the perceived credibility of online sites where fake news runs. Since the election, Facebook has announced plans to refine and increase automated detection of fake news and to make reporting of suspected stories easier for Facebook users. It has also indicated that the current ad system will be changed, to interfere with fake news sites receiving revenue from Facebook.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8jfq2t4&gt; Acesso em: 07.11.2017. Adaptado.</p><p class=\"apoio\"><strong>Glossário</strong><br><em>beget</em><sup>1</sup>: gerar, criar, produzir.<br><em>fallout</em><sup>2</sup>: efeitos negativos.</p><p>A palavra <strong><em>un</em></strong><em>checked</em>, presente no quarto parágrafo, é formada por meio da adição do prefixo <strong><em>un-</em></strong> ao termo <em>checked</em>.</p><p>A alternativa que apresenta uma palavra gramaticalmente correta e formada pelo processo de prefixação, tal como <strong><em>un</em></strong><em>checked</em>, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "<strong><em>ir</em></strong><em>real.</em>",
+    "B": "<strong><em>un</em></strong><em>polite.</em>",
+    "C": "<strong><em>in</em></strong><em>certain.</em>",
+    "D": "<strong><em>under</em></strong><em>cook.</em>",
+    "E": "<strong><em>des</em></strong><em>motivated.</em>"
+   },
+   "gabarito": "D",
+   "explicacao": "<p><em>Undercook</em> (cozinhar pouco) existe em inglês e é formado pelo prefixo <em>under-</em>. Alternativa <strong>D</strong>.</p><p>As formas corretas seriam <em>unreal</em> (A), <em>impolite</em> (B), <em>uncertain</em> (C) e <em>demotivated</em> (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "prefixos"
+   ]
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p>Leia o gráfico.</p>[[fig:1]]<p class=\"fonte\">Fonte dos dados: &lt;https://tinyurl.com/y8bbbchy&gt; Acesso em: 31.10.2017.</p><p class=\"apoio\">Adote:<br>• População negra no Brasil em 2016: 54%;<br>• População branca no Brasil em 2016: 46%.</p><p>Com base no gráfico e nos dados apresentados, escolhido um brasileiro assalariado ao acaso, a probabilidade de ele ser negro e estar nas faixas salariais 0 a 0,5 salário mínimo ou 0,5 a 1 salário mínimo é igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q30.webp",
+     "alt": "Gráfico de colunas “Distribuição de negros e brancos por faixa salarial (em salários mínimos) – Brasil (2016)”, em % de cada grupo. 0 a 0,5: brancos 6%, negros 15%. 0,5 a 1: brancos 8%, negros 12%. 1 a 1,5: brancos 31%, negros 40%. 1,5 a 2: brancos 14%, negros 11%. 2 a 5: brancos 29%, negros 18%. 5 a 10: brancos 8%, negros 3%. Mais que 10: brancos 4%, negros 1%."
+    }
+   ],
+   "alternativas": {
+    "A": "11,25%",
+    "B": "12,46%",
+    "C": "13,72%",
+    "D": "14,58%",
+    "E": "15,94%"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Entre os negros, 15% + 12% = 27% estão nas duas faixas. Como os negros são 54% da população: 0,54 × 0,27 = 0,1458 = <strong>14,58%</strong>. Alternativa <strong>D</strong>.</p><p>Os percentuais do gráfico são dentro de cada grupo, por isso é preciso multiplicar pela participação dos negros na população.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráficos",
+    "probabilidade condicional"
+   ]
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p>Os salários de um homem branco, uma mulher e um homem negro foram somados, resultando em R$ 4.380,00. Sabe-se que o salário dessa mulher é igual a 62% do salário desse homem branco, e o salário desse homem negro é igual a 57% do salário desse homem branco.</p><p>Com base nessas informações, o salário dessa mulher e desse homem negro são, respectivamente, iguais a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 1.140,00 e R$ 2.000,00",
+    "B": "R$ 1.240,00 e R$ 1.140,00",
+    "C": "R$ 1.240,00 e R$ 2.000,00",
+    "D": "R$ 2.000,00 e R$ 1.140,00",
+    "E": "R$ 2.000,00 e R$ 1.240,00"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Seja x o salário do homem branco: x + 0,62x + 0,57x = 2,19x = 4 380, então x = 2 000. Mulher: 0,62 × 2 000 = <strong>R$ 1.240,00</strong>; homem negro: 0,57 × 2 000 = <strong>R$ 1.140,00</strong>. Alternativa <strong>B</strong>.</p><p>D e E trazem o salário do homem branco, que não foi pedido.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação do 1º grau"
+   ]
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p class=\"chamada\">Leia os textos e o gráfico para responder às questões de números 32 a 34.</p><p>Um artista plástico deseja construir uma obra chamada “A pirâmide da desigualdade da riqueza no Brasil”. Ele fará uma réplica do gráfico apresentado, mantendo todas as suas proporções.</p>[[fig:1]]<p class=\"apoio\">Nesse gráfico, considere que a altura da pirâmide referente à riqueza dos 10% mais ricos seja 90% da altura da pirâmide total de distribuição de riqueza e que essas pirâmides sejam semelhantes entre si.</p><p>Para construir a obra, ele utilizará quatro triângulos isósceles congruentes entre si e um quadrado, todos feitos de metal, deixando o interior da pirâmide vazio. A pirâmide terá 4 metros de altura, e a base quadrada terá 6 metros de lado.</p><p>No gráfico, o percentual que o volume da pirâmide referente aos 10% mais ricos representa do volume total é, aproximadamente, igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q32.webp",
+     "alt": "Gráfico “Distribuição da riqueza entre os 10% mais ricos e os 90% mais pobres — Brasil”: uma pirâmide de base quadrada em que quase toda a pirâmide, a parte de cima, é escura (mais ricos) e só uma fatia fina junto à base é clara (mais pobres)."
+    }
+   ],
+   "alternativas": {
+    "A": "58%",
+    "B": "62%",
+    "C": "73%",
+    "D": "87%",
+    "E": "90%"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Em sólidos semelhantes, a razão entre os volumes é o cubo da razão de semelhança: (0,9)³ = 0,729 ≈ <strong>73%</strong>. Alternativa <strong>C</strong>.</p><p>0,9² = 81% seria a razão entre áreas, e 90% a razão entre alturas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "semelhança",
+    "volume"
+   ]
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p class=\"chamada\">Leia os textos e o gráfico para responder às questões de números 32 a 34.</p><p>Um artista plástico deseja construir uma obra chamada “A pirâmide da desigualdade da riqueza no Brasil”. Ele fará uma réplica do gráfico apresentado, mantendo todas as suas proporções.</p>[[fig:1]]<p class=\"apoio\">Nesse gráfico, considere que a altura da pirâmide referente à riqueza dos 10% mais ricos seja 90% da altura da pirâmide total de distribuição de riqueza e que essas pirâmides sejam semelhantes entre si.</p><p>Para construir a obra, ele utilizará quatro triângulos isósceles congruentes entre si e um quadrado, todos feitos de metal, deixando o interior da pirâmide vazio. A pirâmide terá 4 metros de altura, e a base quadrada terá 6 metros de lado.</p><p>Para destacar a diferença entre os mais ricos e os mais pobres, o artista pintará toda a área lateral da obra com tons diferentes de tinta, um mais escuro (para os 10% mais ricos) e outro mais claro (para os 90% mais pobres), como no gráfico. O custo da tinta mais escura é de R$ 20,00 por metro quadrado, e o custo da tinta mais clara é de R$ 10,00 por metro quadrado.</p><p>O custo total para pintar essa obra será, em reais, igual a</p><p class=\"apoio\">A base da pirâmide e as linhas divisórias <strong>não</strong> serão pintadas.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q32.webp",
+     "alt": "Gráfico “Distribuição da riqueza entre os 10% mais ricos e os 90% mais pobres — Brasil”: uma pirâmide de base quadrada em que quase toda a pirâmide, a parte de cima, é escura (mais ricos) e só uma fatia fina junto à base é clara (mais pobres)."
+    }
+   ],
+   "alternativas": {
+    "A": "895,00",
+    "B": "914,00",
+    "C": "1.086,00",
+    "D": "1.148,00",
+    "E": "1.256,00"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O apótema de cada face é √(4² + 3²) = 5 m. Área lateral: 4 × (6 × 5 ÷ 2) = 60 m².</p><p>A parte escura é uma pirâmide semelhante com razão 0,9: sua área lateral é 0,9² × 60 = 48,6 m². A parte clara é o resto: 60 − 48,6 = 11,4 m².</p><p>Custo: 48,6 × 20 + 11,4 × 10 = 972 + 114 = <strong>R$ 1.086,00</strong>. Alternativa <strong>C</strong>.</p><p>Usar a razão 0,9 direto, sem elevar ao quadrado, dá 54 × 20 + 6 × 10 = 1 140.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pirâmide",
+    "área lateral",
+    "semelhança"
+   ]
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p class=\"chamada\">Leia os textos e o gráfico para responder às questões de números 32 a 34.</p><p>Um artista plástico deseja construir uma obra chamada “A pirâmide da desigualdade da riqueza no Brasil”. Ele fará uma réplica do gráfico apresentado, mantendo todas as suas proporções.</p>[[fig:1]]<p class=\"apoio\">Nesse gráfico, considere que a altura da pirâmide referente à riqueza dos 10% mais ricos seja 90% da altura da pirâmide total de distribuição de riqueza e que essas pirâmides sejam semelhantes entre si.</p><p>Para construir a obra, ele utilizará quatro triângulos isósceles congruentes entre si e um quadrado, todos feitos de metal, deixando o interior da pirâmide vazio. A pirâmide terá 4 metros de altura, e a base quadrada terá 6 metros de lado.</p><p>O total de metal necessário para construir essa obra será, em metros quadrados, igual a</p><p class=\"apoio\">Despreze a espessura das placas de metal.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q32.webp",
+     "alt": "Gráfico “Distribuição da riqueza entre os 10% mais ricos e os 90% mais pobres — Brasil”: uma pirâmide de base quadrada em que quase toda a pirâmide, a parte de cima, é escura (mais ricos) e só uma fatia fina junto à base é clara (mais pobres)."
+    }
+   ],
+   "alternativas": {
+    "A": "58",
+    "B": "60",
+    "C": "72",
+    "D": "84",
+    "E": "96"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Área total = área lateral + base = 60 + 6 × 6 = <strong>96 m²</strong>. Alternativa <strong>E</strong>.</p><p>A área lateral vem dos quatro triângulos de base 6 e altura (apótema) 5: 4 × 15 = 60 (B, que esquece a base).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pirâmide",
+    "área total"
+   ]
+  },
+  {
+   "numero": 35,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 35 a 37.</p><p>Os dispositivos eletrônicos colocados em vias públicas, conhecidos como Radares Fixos (ou “pardais”), funcionam por meio de um conjunto de sensores dispostos no chão dessas vias. Os laços detectores (conjunto de dois sensores eletromagnéticos) são colocados em cada faixa de rolamento. Uma vez que motocicletas e automóveis possuem materiais ferromagnéticos, ao passarem pelos sensores, os sinais afetados são processados e determinadas duas velocidades. Uma entre o primeiro e o segundo sensor (1º laço); e a outra entre o segundo e o terceiro sensor (2º laço), conforme a figura.</p>[[fig:1]]<p>Essas duas velocidades medidas são validadas e correlacionadas com as velocidades a serem consideradas (V<sub>C</sub>), conforme apresentado na tabela parcial de valores referenciais de velocidade para infrações (art. 218 do Código de Trânsito Brasileiro – CTB). Caso essas velocidades verificadas no 1º e no 2º laço sejam iguais, esse valor é denominado <em>velocidade medida</em> (V<sub>M</sub>), e ele é relacionado à <em>velocidade considerada</em> (V<sub>C</sub>). A câmera fotográfica é acionada para registrar a imagem da placa do veículo a ser multado apenas nas situações em que esse esteja trafegando acima do limite máximo permitido para aquele local e faixa de rolamento, considerando os valores de V<sub>C</sub>.</p><p><strong>Tabela Parcial de Velocidades Referenciais</strong> (Art. 218 CTB)</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">V<sub>M</sub> (km/h)</th><th scope=\"col\">V<sub>C</sub> (km/h)</th></tr></thead><tbody><tr><td>90</td><td>83</td></tr><tr><td>81</td><td>74</td></tr><tr><td>72</td><td>65</td></tr><tr><td>63</td><td>56</td></tr><tr><td>54</td><td>47</td></tr><tr><td>45</td><td>38</td></tr></tbody></table></div><p>Considere que, em cada faixa de rolagem, os sensores estejam distantes entre si cerca de 3 metros e suponha que o carro da figura esteja deslocando-se para a esquerda e passe pelo primeiro laço com uma velocidade de 15 m/s, levando, portanto, 0,20 s para passar pelo segundo laço.</p><p>Se a velocidade limite dessa pista for 50 km/h, podemos afirmar que o veículo</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q35.webp",
+     "alt": "Vista de cima de uma pista com faixas de rolamento. Em cada faixa há três sensores no chão, ligados em sequência, formando o 1º e o 2º laço; um carro, à esquerda, passa sobre eles, e câmeras nos postes laterais apontam para a pista."
+    }
+   ],
+   "alternativas": {
+    "A": "não será multado, pois V<sub>M</sub> é menor do que a velocidade mínima permitida.",
+    "B": "não será multado, pois V<sub>C</sub> é menor do que a velocidade máxima permitida.",
+    "C": "não será multado, pois V<sub>C</sub> é menor do que a velocidade mínima permitida.",
+    "D": "será multado, pois V<sub>M</sub> é maior do que a velocidade máxima permitida.",
+    "E": "será multado, pois V<sub>C</sub> é maior do que a velocidade máxima permitida."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>V<sub>M</sub> = 3 m ÷ 0,20 s = 15 m/s = 15 × 3,6 = 54 km/h. Pela tabela, V<sub>M</sub> = 54 corresponde a V<sub>C</sub> = 47 km/h, abaixo do limite de 50 km/h. Alternativa <strong>B</strong>.</p><p>A multa considera V<sub>C</sub>, não V<sub>M</sub> (D). E 50 km/h é a velocidade máxima, não a mínima (A e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade média",
+    "conversão de unidades"
+   ]
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 35 a 37.</p><p>Os dispositivos eletrônicos colocados em vias públicas, conhecidos como Radares Fixos (ou “pardais”), funcionam por meio de um conjunto de sensores dispostos no chão dessas vias. Os laços detectores (conjunto de dois sensores eletromagnéticos) são colocados em cada faixa de rolamento. Uma vez que motocicletas e automóveis possuem materiais ferromagnéticos, ao passarem pelos sensores, os sinais afetados são processados e determinadas duas velocidades. Uma entre o primeiro e o segundo sensor (1º laço); e a outra entre o segundo e o terceiro sensor (2º laço), conforme a figura.</p>[[fig:1]]<p>Essas duas velocidades medidas são validadas e correlacionadas com as velocidades a serem consideradas (V<sub>C</sub>), conforme apresentado na tabela parcial de valores referenciais de velocidade para infrações (art. 218 do Código de Trânsito Brasileiro – CTB). Caso essas velocidades verificadas no 1º e no 2º laço sejam iguais, esse valor é denominado <em>velocidade medida</em> (V<sub>M</sub>), e ele é relacionado à <em>velocidade considerada</em> (V<sub>C</sub>). A câmera fotográfica é acionada para registrar a imagem da placa do veículo a ser multado apenas nas situações em que esse esteja trafegando acima do limite máximo permitido para aquele local e faixa de rolamento, considerando os valores de V<sub>C</sub>.</p><p><strong>Tabela Parcial de Velocidades Referenciais</strong> (Art. 218 CTB)</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">V<sub>M</sub> (km/h)</th><th scope=\"col\">V<sub>C</sub> (km/h)</th></tr></thead><tbody><tr><td>90</td><td>83</td></tr><tr><td>81</td><td>74</td></tr><tr><td>72</td><td>65</td></tr><tr><td>63</td><td>56</td></tr><tr><td>54</td><td>47</td></tr><tr><td>45</td><td>38</td></tr></tbody></table></div><p>Podemos aproximar o conjunto de lentes da câmera fotográfica representada na figura a uma única lente convergente. Considere que a distância entre essa lente e o veículo a ser fotografado seja de 25 cm, e que a distância entre essa lente e o sensor fotossensível (anteparo) na câmera seja de 5 cm.</p><p class=\"apoio\">Considere<br>\\(\\dfrac{1}{f} = \\dfrac{1}{p} + \\dfrac{1}{p'}\\)<br><em>f</em> ⇒ distância focal<br><em>p</em> ⇒ distância objeto–lente<br><em>p′</em> ⇒ distância imagem–lente</p><p>Assinale a alternativa que apresenta o valor aproximado da vergência, em dioptrias, dessa lente.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q35.webp",
+     "alt": "Vista de cima de uma pista com faixas de rolamento. Em cada faixa há três sensores no chão, ligados em sequência, formando o 1º e o 2º laço; um carro, à esquerda, passa sobre eles, e câmeras nos postes laterais apontam para a pista."
+    }
+   ],
+   "alternativas": {
+    "A": "0,05",
+    "B": "0,20",
+    "C": "5",
+    "D": "20",
+    "E": "25"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Vergência é V = 1/f, com distâncias em metros. A resposta oficial é <strong>20 di</strong>, alternativa <strong>D</strong>, que corresponde a considerar só a distância da imagem: 1/0,05 = 20.</p><p>Observação: a conta completa com os dados do enunciado é 1/f = 1/0,25 + 1/0,05 = 4 + 20 = <strong>24 di</strong>, mais próxima de 25 (E) do que de 20. A resposta da banca só se justifica se o veículo for tratado como um objeto muito distante (1/p ≈ 0), o que não combina com os 25 cm informados. O gabarito oficial não foi alterado; fique atento a esse tipo de aproximação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lentes",
+    "vergência"
+   ]
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 35 a 37.</p><p>Os dispositivos eletrônicos colocados em vias públicas, conhecidos como Radares Fixos (ou “pardais”), funcionam por meio de um conjunto de sensores dispostos no chão dessas vias. Os laços detectores (conjunto de dois sensores eletromagnéticos) são colocados em cada faixa de rolamento. Uma vez que motocicletas e automóveis possuem materiais ferromagnéticos, ao passarem pelos sensores, os sinais afetados são processados e determinadas duas velocidades. Uma entre o primeiro e o segundo sensor (1º laço); e a outra entre o segundo e o terceiro sensor (2º laço), conforme a figura.</p>[[fig:1]]<p>Essas duas velocidades medidas são validadas e correlacionadas com as velocidades a serem consideradas (V<sub>C</sub>), conforme apresentado na tabela parcial de valores referenciais de velocidade para infrações (art. 218 do Código de Trânsito Brasileiro – CTB). Caso essas velocidades verificadas no 1º e no 2º laço sejam iguais, esse valor é denominado <em>velocidade medida</em> (V<sub>M</sub>), e ele é relacionado à <em>velocidade considerada</em> (V<sub>C</sub>). A câmera fotográfica é acionada para registrar a imagem da placa do veículo a ser multado apenas nas situações em que esse esteja trafegando acima do limite máximo permitido para aquele local e faixa de rolamento, considerando os valores de V<sub>C</sub>.</p><p><strong>Tabela Parcial de Velocidades Referenciais</strong> (Art. 218 CTB)</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">V<sub>M</sub> (km/h)</th><th scope=\"col\">V<sub>C</sub> (km/h)</th></tr></thead><tbody><tr><td>90</td><td>83</td></tr><tr><td>81</td><td>74</td></tr><tr><td>72</td><td>65</td></tr><tr><td>63</td><td>56</td></tr><tr><td>54</td><td>47</td></tr><tr><td>45</td><td>38</td></tr></tbody></table></div><p>Ao passar pelos laços detectores, o veículo provoca uma perturbação no campo eletromagnético existente. Esse tipo de técnica de detecção pode ser comparado, por exemplo, aos detectores de metal dispostos em bancos, lojas e aeroportos.</p><p>Nesses dispositivos, o sinal é gerado através de uma</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q35.webp",
+     "alt": "Vista de cima de uma pista com faixas de rolamento. Em cada faixa há três sensores no chão, ligados em sequência, formando o 1º e o 2º laço; um carro, à esquerda, passa sobre eles, e câmeras nos postes laterais apontam para a pista."
+    }
+   ],
+   "alternativas": {
+    "A": "força eletromotriz induzida pela movimentação de um elemento ferromagnético.",
+    "B": "força eletromotriz induzida pela movimentação de um elemento paramagnético.",
+    "C": "força eletromotriz induzida pela movimentação de um elemento diamagnético.",
+    "D": "corrente elétrica induzida pela movimentação de material qualquer.",
+    "E": "corrente elétrica induzida pela movimentação de um material orgânico."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz que veículos têm materiais <strong>ferromagnéticos</strong>. Ao se moverem sobre o laço, alteram o fluxo magnético e induzem uma força eletromotriz (lei de Faraday). Alternativa <strong>A</strong>.</p><p>Materiais para e diamagnéticos interagem muito fracamente com o campo (B e C). E não é qualquer material que gera o sinal (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "indução eletromagnética"
+   ]
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p>O gráfico apresenta o comportamento de um gás ideal em um processo cíclico que se inicia no ponto A.</p>[[fig:1]]<p>Com base no gráfico apresentado, podemos afirmar corretamente que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q38.webp",
+     "alt": "Gráfico P (atm) × V (ℓ) de um ciclo retangular percorrido no sentido horário: A (2 ℓ; 3 atm) → B (6 ℓ; 3 atm) → C (6 ℓ; 1 atm) → D (2 ℓ; 1 atm) → A."
+    }
+   ],
+   "alternativas": {
+    "A": "entre os pontos D e A ocorre transformação isocórica e o trabalho realizado pelo gás é negativo.",
+    "B": "entre os pontos B e C ocorre transformação isocórica e o trabalho realizado pelo gás é nulo.",
+    "C": "entre os pontos C e D ocorre transformação isobárica e o trabalho realizado pelo gás é nulo.",
+    "D": "entre os pontos A e B ocorre transformação isocórica de compressão.",
+    "E": "entre os pontos A e D ocorre transformação isobárica de expansão."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>De B para C o volume fica em 6 ℓ: transformação <strong>isocórica</strong>, e sem variação de volume o trabalho é <strong>nulo</strong>. Alternativa <strong>B</strong>.</p><p>D → A também é isocórica, mas o trabalho é nulo, não negativo (A). C → D é isobárica com compressão, e o trabalho é negativo, não nulo (C). A → B é isobárica de expansão, não isocórica (D). E A e D não são ligados por uma isobárica (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transformações gasosas",
+    "trabalho"
+   ]
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p>Os experimentos realizados pelos físicos franceses Jean-Baptiste Biot e Felix Savart, por volta de 1820, estabeleceram que a intensidade do vetor indução magnética, originado pela passagem de uma corrente elétrica por um fio condutor, pode ser dada pela equação</p><p class=\"apoio\">\\[\\Delta|\\vec{B}| = \\frac{\\mu_0}{4\\pi}\\cdot\\frac{i\\cdot\\Delta L\\cdot \\operatorname{sen}\\theta}{r^2}\\]</p><p>Se considerarmos que \\(\\Delta|\\vec{B}|\\) está em tesla, <em>i</em> está em ampère, Δ<em>L</em> e <em>r</em> estão em metros, e θ em radianos, podemos dizer que a unidade de medida da constante de permeabilidade magnética do vácuo (μ<sub>0</sub>) é dada em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "T · A · m<sup>2</sup> · rad / m",
+    "B": "T · m<sup>2</sup> / A · rad · m",
+    "C": "T · m / A · rad",
+    "D": "T · m / A",
+    "E": "T · m · A"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Isolando μ₀: μ₀ = 4π · B · r² / (i · ΔL · sen θ). O seno de um ângulo é um número puro, sem unidade (o “rad” fica no ângulo, não no seno). Então: T · m² / (A · m) = <strong>T · m / A</strong>. Alternativa <strong>D</strong>.</p><p>B e C erram ao pôr “rad” na unidade, como se o seno a carregasse.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "análise dimensional",
+    "Biot-Savart"
+   ]
+  },
+  {
+   "numero": 40,
+   "materia": "Geografia",
+   "assunto": "Biomas",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 40 e 41.</p><p class=\"apoio\">(...) segundo maior bioma da América do Sul, ocupando uma área de 2 036 448 km², cerca de 22% do território nacional. A sua área contínua (...) resulta em um elevado potencial aquífero e favorece a sua biodiversidade.</p><p class=\"apoio\">Considerado como um dos *<em>hotspots</em> mundiais de biodiversidade (...) Além dos aspectos ambientais, esse bioma brasileiro tem grande importância social. Muitas populações sobrevivem de seus recursos naturais, incluindo etnias indígenas, quilombolas, geraizeiros, ribeirinhos, babaçueiros e vazanteiros (...) Contudo, inúmeras espécies de plantas e animais correm risco de extinção. Estima-se que 20% das espécies nativas e endêmicas já não ocorram em áreas protegidas e que pelo menos 137 espécies de animais estão ameaçadas de extinção. Depois da Mata Atlântica, este é o bioma brasileiro que mais sofreu alterações com a ocupação humana.</p><p class=\"apoio\">Nas três últimas décadas, esse bioma vem sendo degradado pela expansão da fronteira agrícola brasileira.</p><p class=\"fonte\">&lt;http://www.mma.gov.br/biomas&gt; Acesso em: 07.11.2017. Adaptado.</p><p class=\"fonte\">*<em>hotspots</em> são áreas de elevada riqueza natural em termos de biodiversidade e que carecem de uma urgente conservação</p><p>Assinale a alternativa que contenha o bioma ao qual o texto faz referência.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Mata Atlântica.",
+    "B": "Caatinga.",
+    "C": "Floresta Amazônica.",
+    "D": "Pantanal.",
+    "E": "Cerrado."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O <strong>Cerrado</strong> é o segundo maior bioma da América do Sul, com cerca de 22% do território brasileiro, abriga nascentes de grandes bacias (alto potencial aquífero) e é, depois da Mata Atlântica, o bioma mais alterado pela ocupação humana. Alternativa <strong>E</strong>.</p><p>O maior bioma é a Amazônia (C). Caatinga e Pantanal são bem menores (B e D).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 41,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 40 e 41.</p><p class=\"apoio\">(...) segundo maior bioma da América do Sul, ocupando uma área de 2 036 448 km², cerca de 22% do território nacional. A sua área contínua (...) resulta em um elevado potencial aquífero e favorece a sua biodiversidade.</p><p class=\"apoio\">Considerado como um dos *<em>hotspots</em> mundiais de biodiversidade (...) Além dos aspectos ambientais, esse bioma brasileiro tem grande importância social. Muitas populações sobrevivem de seus recursos naturais, incluindo etnias indígenas, quilombolas, geraizeiros, ribeirinhos, babaçueiros e vazanteiros (...) Contudo, inúmeras espécies de plantas e animais correm risco de extinção. Estima-se que 20% das espécies nativas e endêmicas já não ocorram em áreas protegidas e que pelo menos 137 espécies de animais estão ameaçadas de extinção. Depois da Mata Atlântica, este é o bioma brasileiro que mais sofreu alterações com a ocupação humana.</p><p class=\"apoio\">Nas três últimas décadas, esse bioma vem sendo degradado pela expansão da fronteira agrícola brasileira.</p><p class=\"fonte\">&lt;http://www.mma.gov.br/biomas&gt; Acesso em: 07.11.2017. Adaptado.</p><p class=\"fonte\">*<em>hotspots</em> são áreas de elevada riqueza natural em termos de biodiversidade e que carecem de uma urgente conservação</p><p>A principal atividade econômica que ameaça o bioma citado no texto é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "expansão da criação de gado bovino de leite.",
+    "B": "expansão da criação de gado ovino para lã.",
+    "C": "extração e processamento do pau-brasil.",
+    "D": "expansão do cultivo mecanizado de soja.",
+    "E": "expansão do cultivo extensivo de cacau."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A fronteira agrícola no Cerrado avança sobretudo com a <strong>soja mecanizada</strong>, favorecida pelo relevo plano e pela correção do solo. Alternativa <strong>D</strong>.</p><p>A pecuária no Cerrado é principalmente de corte, não de leite (A). Ovinos para lã são do Sul (B). O pau-brasil é da Mata Atlântica (C). E o cacau é da Bahia e da Amazônia (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fronteira agrícola",
+    "soja"
+   ]
+  },
+  {
+   "numero": 42,
+   "materia": "Geografia",
+   "assunto": "Cartografia",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p>Observe o planisfério.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yb57zobr&gt; Acesso em: 07.11.2017. Adaptado. Original colorido.</p><p>As projeções cartográficas são produzidas a partir de figuras geométricas e possibilitam a representação da superfície esférica da Terra, ou de parte dela, em um plano (mapa). É importante ressaltar que todas as projeções causam algum tipo de distorção, seja na forma, área ou distância. O planisfério apresentado foi produzido a partir da projeção de Mercator.</p><p>Sobre a referida projeção podemos afirmar corretamente que se trata de uma</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q42.webp",
+     "alt": "Planisfério na projeção de Mercator, com meridianos de −180° a 180° e paralelos de −80° a 80°. Os paralelos ficam cada vez mais afastados em direção aos polos, e por isso a Groenlândia e a Antártida aparecem enormes."
+    }
+   ],
+   "alternativas": {
+    "A": "projeção cilíndrica conforme, que distorce as dimensões territoriais e preserva a forma dos continentes.",
+    "B": "projeção cônica, que é ideal para representação de grandes áreas cujas distorções são menores na altura da linha do Equador.",
+    "C": "projeção cilíndrica equivalente, que preserva as dimensões territoriais e distorce as formas dos continentes.",
+    "D": "projeção plana ou azimutal, que preserva as dimensões territoriais nas áreas equatoriais, distorcendo-as nas regiões tropicais.",
+    "E": "projeção cilíndrica equatorial, que preserva as dimensões territoriais nas regiões polares, distorcendo-as próximo à linha do Equador."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Mercator é uma projeção <strong>cilíndrica conforme</strong>: preserva os ângulos e as formas, mas exagera as áreas perto dos polos — a Groenlândia parece do tamanho da África. Alternativa <strong>A</strong>.</p><p>Ela não é cônica (B) nem azimutal (D). Projeção que preserva áreas é a equivalente, como a de Peters (C). E a distorção de área é maior nos polos, não no Equador (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "projeção de Mercator"
+   ]
+  },
+  {
+   "numero": 43,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>Leia os trechos de declarações de Donald Trump, presidente dos Estados Unidos.</p><p class=\"apoio\">“A economia cresceu e isso está apenas começando. Vamos crescer e não vamos perder empregos. Pelo povo deste país, saímos do acordo. Estou disposto a renegociar outro favorável aos Estados Unidos, mas que seja justo para os trabalhadores, contribuintes e empresas. É hora de colocar Youngstown, Detroit e Pittsburgh à frente de Paris.”</p><p class=\"apoio\">“Admito que a mudança climática esteja causando alguns problemas: ela nos faz gastar bilhões de dólares no desenvolvimento de tecnologias que não precisamos”.</p><p class=\"fonte\">&lt;https://tinyurl.com/yaeoj29p&gt; Acesso em: 08.11.2017. Adaptado.</p><p>Essas declarações de Donald Trump, para justificar a retirada dos Estados Unidos do acordo para reduzir emissões de gases de efeito estufa no contexto do desenvolvimento sustentável, revelam</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a preocupação com o crescimento da economia global e, ao mesmo tempo, um reconhecimento da importância de ações em defesa do meio ambiente.",
+    "B": "a sintonia do presidente da nação mais poderosa do mundo com os seus eleitores e com o que pensa a maioria dos europeus tanto sobre temas econômicos como ambientais.",
+    "C": "a posição isolacionista do atual governo estadunidense no mundo em que os interesses econômicos locais se sobrepõem às preocupações ambientais da comunidade internacional.",
+    "D": "a sincronia com o governo chinês, líder na emissão de gases estufa, que defende a tese de que o combate ao aquecimento global só será reduzido com crescimento econômico.",
+    "E": "a preocupação do principal ocupante da Casa Branca em manter os Estados Unidos alinhados aos interesses econômicos de grandes empresas de energias renováveis."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Trump prioriza os empregos e cidades americanas (“Youngstown, Detroit e Pittsburgh à frente de Paris”) e trata o combate à mudança climática como gasto desnecessário: posição <strong>isolacionista</strong>, que põe interesses econômicos locais acima dos ambientais globais. Alternativa <strong>C</strong>.</p><p>Não há reconhecimento da importância ambiental (A), nem sintonia com os europeus, que apoiavam o acordo (B). A China permaneceu no acordo (D). E Trump defendia indústrias tradicionais, não renováveis (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Acordo de Paris",
+    "Trump"
+   ]
+  },
+  {
+   "numero": 44,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>Leia o texto.</p><p class=\"apoio\">Quase 93% do grupo étnico no Iraque votou a favor da criação de um estado independente no referendo de segunda-feira. Segundo os resultados provisórios, agora conhecidos, participaram na votação 72,16% dos potenciais eleitores, mais de 3,3 milhões de pessoas.</p><p class=\"apoio\">Público, Lisboa 27.09.2017.</p><p class=\"fonte\">&lt;https://tinyurl.com/ybs2zpyz&gt; Acesso em: 08.11.2017. Adaptado.</p><p>A notícia faz referência à luta histórica do maior povo sem Estado do planeta, que vive espalhado por territórios da Turquia, Síria, Iraque e Irã, divididos pelas fronteiras resultantes tanto do fim do Império Otomano como das determinações do Tratado de Lausanne, de 1923, que esse povo nunca aceitou.</p><p>Trata-se do povo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "catalão.",
+    "B": "curdo.",
+    "C": "druso.",
+    "D": "palestino.",
+    "E": "tibetano."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os <strong>curdos</strong> são o maior povo sem Estado do mundo, divididos entre Turquia, Síria, Iraque e Irã. Em setembro de 2017, o Curdistão iraquiano votou pela independência em referendo não reconhecido. Alternativa <strong>B</strong>.</p><p>Os catalães vivem na Espanha (A), os drusos são uma minoria religiosa do Levante (C), os palestinos lutam por um Estado em Gaza e na Cisjordânia (D), e os tibetanos estão na China (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "curdos",
+    "Oriente Médio"
+   ]
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p>A prospecção de petróleo, uma atividade de considerável importância para vários países, é auxiliada por conhecimentos paleontológicos, uma vez que o petróleo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "resulta da decomposição parcial dos tecidos não esqueléticos de dinossauros, cujos esqueletos ficam próximos aos depósitos petrolíferos.",
+    "B": "pode se formar a partir do esqueleto de fósseis de coloração escura, cuja sedimentação depende parcialmente de ação vulcânica.",
+    "C": "fica aderido a rochas metamórficas, formadas por minérios e por animais que sofrem metamorfose, como anfíbios e insetos.",
+    "D": "pode ser mais facilmente encontrado próximo a camadas geológicas identificáveis por microfósseis.",
+    "E": "é um tipo de óleo biológico que foi secretado por determinados seres vivos em um passado remoto."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O petróleo se forma a partir de matéria orgânica de microrganismos marinhos (plâncton) soterrada em rochas sedimentares. Microfósseis identificam camadas com idade e ambiente propícios: por isso a Paleontologia ajuda a achar petróleo. Alternativa <strong>D</strong>.</p><p>O petróleo não vem de dinossauros (A) nem de esqueletos fósseis (B). Fica em rochas sedimentares, não metamórficas (C). E não é óleo secretado por seres vivos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fósseis",
+    "petróleo"
+   ]
+  },
+  {
+   "numero": 46,
+   "materia": "Biologia",
+   "assunto": "Reprodução",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p>As estratégias de reprodução sexuada são adaptações dos organismos aos ambientes. Elas determinam os ciclos de vida dos milhões de espécies de eucariontes. Esses ciclos são classificados em:</p><p class=\"apoio\">• Haplobionte haplonte (como o dos <strong>fungos</strong> sapróbitos <em>Rhizopus</em>);<br>• Haplobionte diplonte (como o dos Animalia);<br>• Diplobionte (como o das <strong>plantas</strong> Embryophyta).</p><p>A principal diferença entre esses ciclos consiste no momento em que ocorre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "mitose.",
+    "B": "diapausa.",
+    "C": "esporulação.",
+    "D": "nascimento.",
+    "E": "meiose."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os ciclos se distinguem pelo momento da <strong>meiose</strong>: no haplonte ela é zigótica (logo após a fecundação), no diplonte é gamética (forma os gametas) e no diplobionte é espórica (forma esporos). Alternativa <strong>E</strong>.</p><p>A mitose ocorre em todos os ciclos (A). Diapausa, esporulação e nascimento não definem os tipos de ciclo (B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclos de vida",
+    "meiose"
+   ]
+  },
+  {
+   "numero": 47,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p>Agentes mutagênicos são aqueles que têm o potencial de alterar sequências genéticas. Os efeitos desses agentes podem ser detectados por meio da sequência de bases do RNA. Caso o RNA resultante da sequência genética seja o esperado, conclui-se que o gene não sofreu mutação.</p><p>Dessa forma, a sequência <strong>3′ AGACATATA 5′</strong> de um gene terá escapado à ação de um agente mutagênico caso seja</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "traduzida em RNAt de sequência <strong>3′TCTGTATAT 5′</strong>.",
+    "B": "traduzida em RNAm de sequência <strong>3′TCTGTATAT 5′</strong>.",
+    "C": "transcrita em RNAm de sequência <strong>5′ UCUGUAUAU 3′</strong>.",
+    "D": "transcrita em RNAm de sequência <strong>5′AGACATATA 3′</strong>.",
+    "E": "transcrita em RNAt de sequência <strong>3′UCUGUAUAU 5′</strong>."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>DNA vira RNA por <strong>transcrição</strong>, e o RNA mensageiro é complementar e antiparalelo ao molde, com U no lugar de T: 3′ AGACATATA 5′ → <strong>5′ UCUGUAUAU 3′</strong>. Alternativa <strong>C</strong>.</p><p>Tradução é RNA → proteína, e RNA não tem T (A e B). D não é complementar. E tem a orientação invertida e fala em RNAt.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transcrição",
+    "RNA"
+   ]
+  },
+  {
+   "numero": 48,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p class=\"apoio\">Em um caso hipotético, apenas dois homens, um do grupo sanguíneo <strong>B</strong> (genótipo <strong>I<sup>B</sup>_</strong>) e outro do grupo sanguíneo <strong>A</strong> (genótipo <strong>I<sup>A</sup>_</strong>), podem ser o pai biológico de uma menina do grupo <strong>O</strong> (genótipo <strong>ii</strong>).</p><p>Nesse cenário, seria possível determinar com segurança a paternidade se um dos homens</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "tivesse ou o pai ou a mãe do grupo <strong>O</strong>.",
+    "B": "tivesse o pai e a mãe, ambos do grupo <strong>AB</strong>.",
+    "C": "fosse pai de um menino do grupo <strong>O</strong>.",
+    "D": "fosse pai de um menino do grupo <strong>A</strong>.",
+    "E": "fosse pai de um menino do grupo <strong>B</strong>."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A menina é ii, então o pai tem de ter um alelo i. Se um dos homens tem pai e mãe AB (I<sup>A</sup>I<sup>B</sup>), ele só pode ter recebido I<sup>A</sup> ou I<sup>B</sup> de cada um: é I<sup>A</sup>I<sup>A</sup> ou I<sup>B</sup>I<sup>B</sup>, sem alelo i. Esse homem fica descartado, e o pai é o outro. Alternativa <strong>B</strong>.</p><p>Ter pai ou mãe O só torna provável que o homem tenha o alelo i, sem excluir o outro (A). Ter um filho O mostra que ele tem i, mas o outro também pode ter (C). Filhos A ou B não decidem nada (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "grupos sanguíneos",
+    "sistema ABO"
+   ]
+  },
+  {
+   "numero": 49,
+   "materia": "Biologia",
+   "assunto": "Botânica",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>As madeiras continuam sendo, no século XXI, um dos recursos naturais mais explorados pela humanidade. Em decorrência da grande demanda por serviços ofertados por construtoras e mobiliárias, essas empresas buscam certificações que as qualifiquem, no mercado, perante as concorrentes.</p><p>Para obter certificação internacional, uma empresa precisa demonstrar que os produtos de madeira que comercializa são obtidos de reflorestamentos com plantas nativas. Assim sendo, considere que uma empresa brasileira venda móveis fabricados com a madeira representada na figura, que essa empresa alega ter vindo de um reflorestamento no estado do Tocantins.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y7obj3f&gt; Acesso em: 07.11.2017. Original colorido.</p><p>A comercialização desses móveis</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-1sem/q49.webp",
+     "alt": "Fotografia de um corte de tronco de madeira mostrando muitas faixas alternadas claras e escuras, bem marcadas e paralelas: anéis de crescimento."
+    }
+   ],
+   "alternativas": {
+    "A": "permitiria que a empresa obtivesse o certificado, já que a madeira apresenta alburno típico do crescimento primário de fanerógamas temperadas, que são nativas do Tocantins.",
+    "B": "permitiria que a empresa obtivesse o certificado, já que a madeira apresenta alburno típico do crescimento secundário de briófitas temperadas, que são nativas do Tocantins.",
+    "C": "permitiria que a empresa obtivesse o certificado, já que a madeira apresenta anéis típicos do crescimento secundário de briófitas tropicais, que são nativas do Tocantins.",
+    "D": "impediria a empresa de obter o certificado, já que a madeira apresenta alburno típico do crescimento primário de fanerógamas tropicais, que não são nativas do Tocantins.",
+    "E": "impediria a empresa de obter o certificado, já que a madeira apresenta anéis típicos do crescimento secundário de fanerógamas temperadas, que não são nativas do Tocantins."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Anéis de crescimento bem marcados surgem do <strong>crescimento secundário</strong> em climas com estações bem definidas, com alternância de lenho de primavera e de inverno: são típicos de árvores (fanerógamas) de clima <strong>temperado</strong>. Uma madeira assim não seria nativa do Tocantins, de clima tropical, e o certificado seria negado. Alternativa <strong>E</strong>.</p><p>Briófitas não formam madeira (B e C). Alburno e anéis não vêm do crescimento primário (A e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anéis de crescimento",
+    "fanerógamas"
+   ]
+  },
+  {
+   "numero": 50,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 52.</p><p class=\"apoio\"><strong>Palavras: uma questão de estilo</strong><br><em>A construção de um bom texto depende da criatividade de quem o escreve. Veja como o uso das palavras exerce um papel importante nesse contexto.</em></p><p class=\"apoio\">João Ribeiro, eminente gramático e profundo conhecedor da língua portuguesa, disse certa vez, em entrevista que deu ao jornalista carioca João do Rio (<em>O Momento Literário</em>), que o estilo seria, antes de tudo, “a ideia precisa e exata na sua forma exata e precisa”. De fato, não são poucos os que acreditam que o estilo depende, basicamente, da conjunção precisa entre forma e fundo, ideia em si mesma legítima, embora se saiba que até mesmo o que se considera erro, lacuna, falha ou desvio pode ser, no limite, considerado… uma questão de estilo. Falar em estilo na língua portuguesa remete-nos, imediatamente, a certa escala de valores que não apenas as frases, as orações e os períodos contêm, mas que também as palavras, isoladamente ou não, possuem. Assim, da mesma maneira que temos, no que compete à gramática da língua, as categorias essenciais (substantivos, verbos, adjetivos), auxiliares (artigos, preposições) e determinantes (advérbios, numerais), nas quais os vocábulos se subdividem, em termos de estilo essas categorias são também fundamentais para que possamos apreender a língua não em sua estrutura morfossintática, mas em sua configuração estilística. Uma frase como “Aires não pensava nada, mas percebeu que os outros pensavam alguma cousa”, retirada do romance <em>Memorial de Aires</em>, de Machado de Assis, é reveladora não apenas pelo sentido que ela tem para a economia do romance, mas também em razão do peso que os verbos possuem no período, ora pelo jogo de oposições entre singular e plural (pensava / pensavam); ora pela dicotomia entre afirmação e negação (pensava / não pensavam); ora pela mediação, entre os dois vocábulos, realizada pelo verbo percebeu (pensava / percebeu / pensavam); ora ainda pelo contraste entre dois tempos verbais, o pretérito imperfeito (pensava / pensavam) e o perfeito (percebeu). Tudo isso se torna significativo, literariamente falando, para a narrativa e, mais do que um traço morfossintático, é um traço estilístico marcante na escala de valores a que aqui nos referimos e que pode, ainda, ter uma natureza sinestésica, estando ligada a determinados sentidos humanos. Por exemplo, é muito comum associarmos determinadas palavras a determinados sentidos, criando assim – no âmbito da percepção estilística – imagens visuais, auditivas, táteis, olfativas ou gustativas.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7wzrn8k&gt; Acesso em: 07.11.2017. Adaptado.</p><p>Assinale a afirmação correta a respeito das ideias presentes no texto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O autor que busque um estilo narrativo marcante deve preterir a conjunção precisa entre forma e fundo.",
+    "B": "A compreensão e a análise do estilo de um autor devem se restringir ao estudo da palavra como unidade isolada no texto.",
+    "C": "As características que definem o que é estilo, para João Ribeiro, são a exposição de ideias de forma prolixa e a ausência de incorreções gramaticais.",
+    "D": "O estilo transcende as conceituações morfossintáticas, pois as palavras não são consideradas apenas individualmente, mas em seu papel no conjunto do texto.",
+    "E": "O emprego das normas gramaticais para a construção de um bom texto é uma questão de estilo, por isso a informalidade da linguagem é inadmissível."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto diz que o estilo não está só nas palavras isoladas, “mas em sua configuração estilística”, no jogo entre elas dentro da frase. Alternativa <strong>D</strong>.</p><p>“Preterir” é desprezar, e o texto valoriza a conjunção entre forma e fundo (A). O estilo não se restringe à palavra isolada (B). João Ribeiro fala em “ideia precisa e exata”, não prolixa (C). E o texto admite que até “desvios” podem ser questão de estilo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estilo"
+   ]
+  },
+  {
+   "numero": 51,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 52.</p><p class=\"apoio\"><strong>Palavras: uma questão de estilo</strong><br><em>A construção de um bom texto depende da criatividade de quem o escreve. Veja como o uso das palavras exerce um papel importante nesse contexto.</em></p><p class=\"apoio\">João Ribeiro, eminente gramático e profundo conhecedor da língua portuguesa, disse certa vez, em entrevista que deu ao jornalista carioca João do Rio (<em>O Momento Literário</em>), que o estilo seria, antes de tudo, “a ideia precisa e exata na sua forma exata e precisa”. De fato, não são poucos os que acreditam que o estilo depende, basicamente, da conjunção precisa entre forma e fundo, ideia em si mesma legítima, embora se saiba que até mesmo o que se considera erro, lacuna, falha ou desvio pode ser, no limite, considerado… uma questão de estilo. Falar em estilo na língua portuguesa remete-nos, imediatamente, a certa escala de valores que não apenas as frases, as orações e os períodos contêm, mas que também as palavras, isoladamente ou não, possuem. Assim, da mesma maneira que temos, no que compete à gramática da língua, as categorias essenciais (substantivos, verbos, adjetivos), auxiliares (artigos, preposições) e determinantes (advérbios, numerais), nas quais os vocábulos se subdividem, em termos de estilo essas categorias são também fundamentais para que possamos apreender a língua não em sua estrutura morfossintática, mas em sua configuração estilística. Uma frase como “Aires não pensava nada, mas percebeu que os outros pensavam alguma cousa”, retirada do romance <em>Memorial de Aires</em>, de Machado de Assis, é reveladora não apenas pelo sentido que ela tem para a economia do romance, mas também em razão do peso que os verbos possuem no período, ora pelo jogo de oposições entre singular e plural (pensava / pensavam); ora pela dicotomia entre afirmação e negação (pensava / não pensavam); ora pela mediação, entre os dois vocábulos, realizada pelo verbo percebeu (pensava / percebeu / pensavam); ora ainda pelo contraste entre dois tempos verbais, o pretérito imperfeito (pensava / pensavam) e o perfeito (percebeu). Tudo isso se torna significativo, literariamente falando, para a narrativa e, mais do que um traço morfossintático, é um traço estilístico marcante na escala de valores a que aqui nos referimos e que pode, ainda, ter uma natureza sinestésica, estando ligada a determinados sentidos humanos. Por exemplo, é muito comum associarmos determinadas palavras a determinados sentidos, criando assim – no âmbito da percepção estilística – imagens visuais, auditivas, táteis, olfativas ou gustativas.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7wzrn8k&gt; Acesso em: 07.11.2017. Adaptado.</p><p>O autor menciona <em>Memorial de Aires</em>, de Machado de Assis, com o intuito de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "destacar a preferência de Machado de Assis por um estilo calcado na linguagem informal, popular.",
+    "B": "revelar, pela frase do narrador, que o Conselheiro Aires mantinha-se indiferente às circunstâncias que o cercavam.",
+    "C": "demonstrar, por meio da análise de um trecho da obra machadiana, que a ausência de coesão entre forma e fundo não compromete o estilo.",
+    "D": "evidenciar como Machado de Assis articula recursos morfossintáticos de modo a construir, não somente a narrativa, mas também o próprio estilo.",
+    "E": "elucidar a oposição entre a concepção gramatical tradicionalista e a linguagem machadiana, caracterizada pelo desprendimento formal do autor."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A frase de Machado é usada para mostrar como os tempos verbais, a oposição singular/plural e a afirmação/negação constroem a narrativa e são “um traço estilístico marcante”. Alternativa <strong>D</strong>.</p><p>O exemplo não trata de linguagem popular (A), da indiferença de Aires (B), de falta de coesão (C) nem de oposição à gramática tradicional (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Machado de Assis"
+   ]
+  },
+  {
+   "numero": 52,
+   "materia": "Português",
+   "assunto": "Figuras de linguagem",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 52.</p><p class=\"apoio\"><strong>Palavras: uma questão de estilo</strong><br><em>A construção de um bom texto depende da criatividade de quem o escreve. Veja como o uso das palavras exerce um papel importante nesse contexto.</em></p><p class=\"apoio\">João Ribeiro, eminente gramático e profundo conhecedor da língua portuguesa, disse certa vez, em entrevista que deu ao jornalista carioca João do Rio (<em>O Momento Literário</em>), que o estilo seria, antes de tudo, “a ideia precisa e exata na sua forma exata e precisa”. De fato, não são poucos os que acreditam que o estilo depende, basicamente, da conjunção precisa entre forma e fundo, ideia em si mesma legítima, embora se saiba que até mesmo o que se considera erro, lacuna, falha ou desvio pode ser, no limite, considerado… uma questão de estilo. Falar em estilo na língua portuguesa remete-nos, imediatamente, a certa escala de valores que não apenas as frases, as orações e os períodos contêm, mas que também as palavras, isoladamente ou não, possuem. Assim, da mesma maneira que temos, no que compete à gramática da língua, as categorias essenciais (substantivos, verbos, adjetivos), auxiliares (artigos, preposições) e determinantes (advérbios, numerais), nas quais os vocábulos se subdividem, em termos de estilo essas categorias são também fundamentais para que possamos apreender a língua não em sua estrutura morfossintática, mas em sua configuração estilística. Uma frase como “Aires não pensava nada, mas percebeu que os outros pensavam alguma cousa”, retirada do romance <em>Memorial de Aires</em>, de Machado de Assis, é reveladora não apenas pelo sentido que ela tem para a economia do romance, mas também em razão do peso que os verbos possuem no período, ora pelo jogo de oposições entre singular e plural (pensava / pensavam); ora pela dicotomia entre afirmação e negação (pensava / não pensavam); ora pela mediação, entre os dois vocábulos, realizada pelo verbo percebeu (pensava / percebeu / pensavam); ora ainda pelo contraste entre dois tempos verbais, o pretérito imperfeito (pensava / pensavam) e o perfeito (percebeu). Tudo isso se torna significativo, literariamente falando, para a narrativa e, mais do que um traço morfossintático, é um traço estilístico marcante na escala de valores a que aqui nos referimos e que pode, ainda, ter uma natureza sinestésica, estando ligada a determinados sentidos humanos. Por exemplo, é muito comum associarmos determinadas palavras a determinados sentidos, criando assim – no âmbito da percepção estilística – imagens visuais, auditivas, táteis, olfativas ou gustativas.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7wzrn8k&gt; Acesso em: 07.11.2017. Adaptado.</p><p>O texto faz referência à sinestesia, um recurso semântico capaz de tornar o texto mais expressivo.</p><p>Assinale a alternativa que apresenta um exemplo da <strong>figura de linguagem</strong> conhecida como sinestesia.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O toque de suas mãos era frio como a neve.",
+    "B": "Suas palavras eram amargas e frias.",
+    "C": "Caía lá fora a neve fria.",
+    "D": "O inverno sem você é glacial.",
+    "E": "O frio contava as histórias de tempos passados."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Sinestesia mistura sensações de sentidos diferentes: “palavras” (audição) “amargas” (paladar) e “frias” (tato). Alternativa <strong>B</strong>.</p><p>A é comparação, C é pleonasmo, D é metáfora/hipérbole e E é personificação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sinestesia"
+   ]
+  },
+  {
+   "numero": 53,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p><em>Memorial de Aires</em> é o último romance escrito por Machado de Assis, tendo sido publicado em 1908, ano da morte do autor. Obra de caráter autobiográfico, apresenta-se como diversas entradas em uma espécie de diário, em que a relação com a velhice, as dificuldades dos relacionamentos amorosos e a futilidade da elite brasileira no final do século XIX são retratadas por meio de um série de episódios que se intercalam.</p><p>O trecho a seguir foi retirado do prefácio <em>Advertência</em>, que introduz a obra.</p><p class=\"apoio\">Quem me leu <em>Esaú e Jacó</em> talvez reconheça estas palavras do prefácio: “Nos lazeres do ofício escrevia o Memorial, que, apesar das páginas mortas ou escuras, apenas daria (e talvez dê) para matar o tempo da barca de Petrópolis”. Referia-me ao Conselheiro Aires. Tratando-se agora de imprimir o Memorial, achou-se que a parte relativa a uns dois anos (1888-1889), se for decotada de algumas circunstâncias, anedotas, descrições e reflexões, — pode dar uma narração seguida, que talvez interesse, apesar da forma de diário que tem. Não houve pachorra de a redigir à maneira daquela outra, — nem pachorra, nem habilidade. Vai como estava, mas desbastada e estreita, conservando só o que liga o mesmo assunto. O resto aparecerá um dia, se aparecer algum dia.</p><p class=\"fonte\">ASSIS, Machado de. <em>Memorial de Aires</em>. In:_______. Obra completa. Rio de Janeiro: Nova Aguilar, 1986. p. 1096.</p><p>Com base na leitura dos textos e nas obras de Machado de Assis, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "<em>Memorial de Aires</em> e <em>O Alienista</em> são obras de crítica social, mas não trazem a visão irônica da sociedade que é comum à produção machadiana.",
+    "B": "<em>Quincas Borba</em> e <em>Memorial de Aires</em> narram a trajetória de protagonistas que, apesar das imposições sociais, conseguem atingir seus objetivos.",
+    "C": "<em>Memórias Póstumas de Brás Cubas</em> e <em>Memorial de Aires</em> apresentam um narrador em terceira pessoa que relata os fatos tendo limitado conhecimento da história e dos detalhes da trama.",
+    "D": "<em>Iaiá Garcia</em> e <em>Memorial de Aires</em> apresentam características claramente identificadas com o movimento Realista, compondo, com <em>Memórias Póstumas de Brás Cubas</em>, a chamada Trilogia Realista.",
+    "E": "<em>Dom Casmurro</em> e <em>Memorial de Aires</em> seguem a tradição do romance psicológico, debruçando-se nos motivos íntimos por trás das escolhas e das ações e reações das personagens."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os romances da fase madura de Machado, como <em>Dom Casmurro</em> e <em>Memorial de Aires</em>, mergulham na psicologia das personagens: ciúme, memória, motivações íntimas. Alternativa <strong>E</strong>.</p><p>A ironia é marca de Machado, inclusive nessas obras (A). Rubião, de <em>Quincas Borba</em>, termina louco e na miséria (B). Brás Cubas e Aires narram em primeira pessoa (C). E <em>Iaiá Garcia</em> é da fase romântica; a “trilogia realista” reúne <em>Memórias Póstumas</em>, <em>Quincas Borba</em> e <em>Dom Casmurro</em> (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Machado de Assis",
+    "Realismo"
+   ]
+  },
+  {
+   "numero": 54,
+   "materia": "Português",
+   "assunto": "Gramática",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 52.</p><p class=\"apoio\"><strong>Palavras: uma questão de estilo</strong><br><em>A construção de um bom texto depende da criatividade de quem o escreve. Veja como o uso das palavras exerce um papel importante nesse contexto.</em></p><p class=\"apoio\">João Ribeiro, eminente gramático e profundo conhecedor da língua portuguesa, disse certa vez, em entrevista que deu ao jornalista carioca João do Rio (<em>O Momento Literário</em>), que o estilo seria, antes de tudo, “a ideia precisa e exata na sua forma exata e precisa”. De fato, não são poucos os que acreditam que o estilo depende, basicamente, da conjunção precisa entre forma e fundo, ideia em si mesma legítima, embora se saiba que até mesmo o que se considera erro, lacuna, falha ou desvio pode ser, no limite, considerado… uma questão de estilo. Falar em estilo na língua portuguesa remete-nos, imediatamente, a certa escala de valores que não apenas as frases, as orações e os períodos contêm, mas que também as palavras, isoladamente ou não, possuem. Assim, da mesma maneira que temos, no que compete à gramática da língua, as categorias essenciais (substantivos, verbos, adjetivos), auxiliares (artigos, preposições) e determinantes (advérbios, numerais), nas quais os vocábulos se subdividem, em termos de estilo essas categorias são também fundamentais para que possamos apreender a língua não em sua estrutura morfossintática, mas em sua configuração estilística. Uma frase como “Aires não pensava nada, mas percebeu que os outros pensavam alguma cousa”, retirada do romance <em>Memorial de Aires</em>, de Machado de Assis, é reveladora não apenas pelo sentido que ela tem para a economia do romance, mas também em razão do peso que os verbos possuem no período, ora pelo jogo de oposições entre singular e plural (pensava / pensavam); ora pela dicotomia entre afirmação e negação (pensava / não pensavam); ora pela mediação, entre os dois vocábulos, realizada pelo verbo percebeu (pensava / percebeu / pensavam); ora ainda pelo contraste entre dois tempos verbais, o pretérito imperfeito (pensava / pensavam) e o perfeito (percebeu). Tudo isso se torna significativo, literariamente falando, para a narrativa e, mais do que um traço morfossintático, é um traço estilístico marcante na escala de valores a que aqui nos referimos e que pode, ainda, ter uma natureza sinestésica, estando ligada a determinados sentidos humanos. Por exemplo, é muito comum associarmos determinadas palavras a determinados sentidos, criando assim – no âmbito da percepção estilística – imagens visuais, auditivas, táteis, olfativas ou gustativas.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7wzrn8k&gt; Acesso em: 07.11.2017. Adaptado.</p><p>Na frase de Machado de Assis citada no texto (“Aires não pensava nada, mas percebeu que os outros pensavam alguma cousa”), a relação entre os tempos verbais, embora contrastante, é coerente.</p><p>Assinale a alternativa que também apresenta a correta relação entre os tempos verbais.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O pesquisador leu a obra completa de Clarice Lispector para que pudesse identificar as marcas de estilo da escritora.",
+    "B": "O pesquisador lia a obra completa de Clarice Lispector para que terá podido identificar as marcas de estilo da escritora.",
+    "C": "O pesquisador lê a obra completa de Clarice Lispector para que pudera identificar as marcas de estilo da escritora.",
+    "D": "O pesquisador lerá a obra completa de Clarice Lispector para que tivesse podido identificar as marcas de estilo da escritora.",
+    "E": "O pesquisador leria a obra completa de Clarice Lispector para que tenha podido identificar as marcas de estilo da escritora."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Pretérito perfeito do indicativo (“leu”) combina com pretérito imperfeito do subjuntivo (“pudesse”): <strong>leu ... para que pudesse</strong>. Alternativa <strong>A</strong>.</p><p>As outras misturam tempos que não se correlacionam: “lia ... terá podido” (B), “lê ... pudera” (C), “lerá ... tivesse podido” (D), “leria ... tenha podido” (E). O certo seria, por exemplo, “lê ... para que possa”, “lerá ... para que possa” ou “leria ... para que pudesse”.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tempos verbais",
+    "correlação"
+   ]
+  }
+ ]
+}

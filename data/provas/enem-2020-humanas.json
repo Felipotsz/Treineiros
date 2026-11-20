@@ -1,0 +1,1164 @@
+{
+ "id": "enem-2020-humanas",
+ "banca": "Enem",
+ "ano": 2020,
+ "titulo": "Enem 2020: Ciências Humanas",
+ "fonte": "Inep",
+ "dataExame": "2021-01-17",
+ "duracaoMinutos": 135,
+ "area": "Ciências Humanas",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Geografia",
+   "assunto": "Comércio internacional",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\">Embora inegáveis os benefícios que ambas as economias têm auferido do intercâmbio comercial, o Brasil tem reiterado seu objetivo de desenvolver com a China uma relação comercial menos assimétrica. Os números revelam com clareza a assimetria. As exportações brasileiras de produtos básicos, especialmente soja, minério de ferro e petróleo, compõem, dependendo do ano, algo entre 75% e 80% da pauta, ao passo que as importações brasileiras consistem, aproximadamente, em 95% de produtos industrializados chineses, que vão desde os mais variados bens de consumo até máquinas e equipamentos de alto valor.</p><p class=\"fonte\">LEÃO, V. C. Prefácio. In: CINTRA, M. A. M.; SILVA FILHO, E. B.; PINTO, E. C. (Org.). China em transformação: dimensões econômicas e geopolíticas do desenvolvimento. Rio de Janeiro: Ipea, 2015.</p><p>Uma ação estatal de longo prazo capaz de reduzir a assimetria na balança comercial brasileira, conforme exposto no texto, é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "expansão do setor extrativista.",
+    "B": "incremento da atividade agrícola.",
+    "C": "diversificação da matriz energética.",
+    "D": "fortalecimento da pesquisa científica.",
+    "E": "monitoramento do fluxo alfandegário."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O Brasil exporta sobretudo produtos básicos (soja, minério, petróleo) e importa manufaturados de maior valor, o que torna a relação com a China assimétrica. Para mudar a pauta a longo prazo, o país precisa produzir bens com mais tecnologia, e isso depende do <strong>fortalecimento da pesquisa científica</strong>. Alternativa <strong>D</strong>.</p><p>Expandir o extrativismo e a agricultura (A e B) reforçaria a assimetria; matriz energética e fiscalização alfandegária (C e E) não mudam o tipo de produto exportado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Brasil e China",
+    "pauta de exportações"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "Geografia",
+   "assunto": "Espaço rural",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">As estatísticas mais recentes do Brasil rural revelam um paradoxo que interessa a toda sociedade: o emprego de natureza agrícola definha em praticamente todo o país, mas a população residente no campo voltou a crescer; ou pelo menos parou de cair. Esses sinais trocados sugerem que a dinâmica agrícola, embora fundamental, já não determina sozinha os rumos da demografia no campo. Esse novo cenário é explicado em parte pelo incremento do emprego não agrícola no campo. Ao mesmo tempo, aumentou a massa de desempregados, inativos e aposentados que mantêm residência rural.</p><p class=\"fonte\">SILVA, J. G. Velhos e novos mitos do rural brasileiro. Estudos Avançados, n. 43, dez. 2001.</p><p>Sobre o espaço brasileiro, o texto apresenta argumentos que refletem a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "heterogeneidade do modo de vida agrário.",
+    "B": "redução do fluxo populacional nas cidades.",
+    "C": "correlação entre força de trabalho e migração sazonal.",
+    "D": "indissociabilidade entre local de moradia e acesso à renda.",
+    "E": "desregulamentação das propriedades nas zonas de fronteira."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto mostra que o emprego agrícola cai, mas a população do campo volta a crescer, graças ao emprego não agrícola no meio rural (serviços, turismo, indústria, aposentadorias). O campo deixa de ser só lugar de agricultura: há uma <strong>heterogeneidade do modo de vida agrário</strong>. Alternativa <strong>A</strong>.</p><p>O texto não fala em esvaziamento das cidades (B), migração sazonal (C) ou fronteiras (E), e mostra justamente que morar no campo já não depende da renda agrícola (contra D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pluriatividade",
+    "novo rural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "Sociologia",
+   "assunto": "Trabalho e gênero",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p class=\"apoio\">Nas últimas décadas, uma acentuada feminização no mundo do trabalho vem ocorrendo. Se a participação masculina pouco cresceu no período pós-1970, a intensificação da inserção das mulheres foi o traço marcante. Entretanto, essa presença feminina se dá mais no espaço dos empregos precários, onde a exploração, em grande medida, se encontra mais acentuada.</p><p class=\"fonte\">NOGUEIRA, C. M. As trabalhadoras do telemarketing: uma nova divisão sexual do trabalho? In: ANTUNES, R. et al. Infoproletários: degradação real do trabalho virtual. São Paulo: Boitempo, 2009.</p><p>A transformação descrita no texto tem sido insuficiente para o estabelecimento de uma condição de igualdade de oportunidade em virtude da(s)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "estagnação de direitos adquiridos e do anacronismo da legislação vigente.",
+    "B": "manutenção do status quo gerencial e dos padrões de socialização familiar.",
+    "C": "desestruturação da herança patriarcal e das mudanças do perfil ocupacional.",
+    "D": "disputas na composição sindical e da presença na esfera político-partidária.",
+    "E": "exigências de aperfeiçoamento profissional e de habilidades na competência diretiva."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As mulheres entraram em massa no mercado de trabalho, mas sobretudo em empregos precários. A igualdade não veio porque se mantiveram as hierarquias nas empresas, que reservam os cargos de comando aos homens, e a divisão tradicional das tarefas na família, que sobrecarrega as mulheres: a <strong>manutenção do status quo gerencial e dos padrões de socialização familiar</strong>. Alternativa <strong>B</strong>.</p><p>A herança patriarcal não foi desestruturada (C); o problema não é o anacronismo das leis (A) nem a falta de qualificação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "feminização do trabalho",
+    "divisão sexual do trabalho"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "Sociologia",
+   "assunto": "Questão agrária",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p class=\"apoio\">A propriedade compreende, em seu conteúdo e alcance, além do tradicional direito de uso, gozo e disposição por parte de seu titular, a obrigatoriedade do atendimento de sua função social, cuja definição é inseparável do requisito obrigatório do uso racional da propriedade e dos recursos ambientais que lhe são integrantes. O proprietário, como membro integrante da comunidade, se sujeita a obrigações crescentes que, ultrapassando os limites do direito de vizinhança, no âmbito do direito privado, abrangem o campo dos direitos da coletividade, visando o bem-estar geral, no âmbito do direito público.</p><p class=\"fonte\">JELINEK, R. O princípio da função social da propriedade e sua repercussão sobre o sistema do Código Civil. Disponível em: www.mp.rs.gov.br. Acesso em: 20 fev. 2013.</p><p>Os movimentos em prol da reforma agrária, que atuam com base no conceito de direito à propriedade apresentado no texto, propõem-se a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reverter o processo de privatização fundiária.",
+    "B": "ressaltar a inviabilidade da produção latifundiária.",
+    "C": "defender a desapropriação dos espaços improdutivos.",
+    "D": "impedir a produção exportadora nas terras agricultáveis.",
+    "E": "coibir o funcionamento de empresas agroindustriais no campo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto apresenta a propriedade condicionada à sua função social: ela só se justifica se for usada de forma racional e produtiva. Com base nesse conceito, os movimentos pela reforma agrária defendem a <strong>desapropriação dos espaços improdutivos</strong>, terras que não cumprem essa função. Alternativa <strong>C</strong>.</p><p>O princípio não proíbe a propriedade privada (A), o latifúndio produtivo (B), a exportação (D) ou as agroindústrias (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função social da propriedade",
+    "reforma agrária"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"apoio\">A expansão das cidades e a formação das aglomerações urbanas no Brasil foram marcadas pela produção industrial e pela consolidação das metrópoles como locais de seu desenvolvimento. Na segunda metade do século XX, as metrópoles brasileiras estenderam-se por áreas de ocupação contínua, configurando densas regiões urbanizadas.</p><p class=\"fonte\">MOURA, R. Arranjos urbano-regionais no Brasil: especificidades e reprodução de padrões. Disponível em: www.ub.edu. Acesso em: 11 fev. 2015.</p><p>O resultado do processo geográfico descrito foi o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "valorização da escala local.",
+    "B": "crescimento das áreas periféricas.",
+    "C": "densificação do transporte ferroviário.",
+    "D": "predomínio do planejamento estadual.",
+    "E": "inibição de consórcios intermunicipais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As metrópoles brasileiras se estenderam por áreas de ocupação contínua, absorvendo municípios vizinhos e formando grandes regiões urbanizadas. O resultado foi o <strong>crescimento das áreas periféricas</strong>, que concentraram boa parte da população atraída pela industrialização. Alternativa <strong>B</strong>.</p><p>O processo valorizou a escala metropolitana, não a local (A); a expansão se apoiou no transporte rodoviário, não no ferroviário (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metropolização",
+    "periferização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Zona de pastoreio e cultura do algodão e cereais do agreste (1963)</strong></p>[[fig:1]]<p class=\"fonte\">ANDRADE, M. C. A terra e o homem no Nordeste. São Paulo: Brasiliense, 1963.</p><p>A dinâmica produtiva apresentada na imagem tem como estratégia central a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-humanas/q51.webp",
+     "alt": "Calendário circular “Zona de pastoreio e cultura do algodão e cereais do agreste (1963)”: os meses de janeiro a dezembro em volta e, em anéis, símbolos das atividades (pastoreio, plantio e limpa, crescimento, colheita de feijão, de milho verde, de milho seco e de algodão) distribuídas ao longo do ano."
+    }
+   ],
+   "alternativas": {
+    "A": "separação pelo tipo de solo.",
+    "B": "exportação da colheita sazonal.",
+    "C": "priorização da tecnologia moderna.",
+    "D": "adequação pelo tempo da natureza.",
+    "E": "intensificação da atividade pecuária."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O diagrama é um calendário circular, com os meses do ano e as fases de cada atividade: pastoreio, plantio, crescimento e colheitas de feijão, milho e algodão. Cada etapa acontece num período certo do ano, de acordo com as chuvas do agreste: a estratégia central é a <strong>adequação pelo tempo da natureza</strong>. Alternativa <strong>D</strong>.</p><p>O esquema organiza as atividades pelo tempo, não pelo tipo de solo (A); não mostra tecnologia moderna (C) nem intensificação da pecuária (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calendário agrícola",
+    "agreste nordestino"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "História",
+   "assunto": "Reforma Protestante",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"apoio\">Dois grandes eventos históricos tornaram possível um caso como o de Menocchio: a invenção da imprensa e a Reforma. A imprensa lhe permitiu confrontar os livros com a tradição oral em que havia crescido e lhe forneceu as palavras para organizar o amontoado de ideias e fantasias que nele conviviam. A Reforma lhe deu audácia para comunicar o que pensava ao padre do vilarejo, conterrâneos, inquisidores — mesmo não tendo conseguido dizer tudo diante do papa, dos cardeais e dos príncipes, como queria.</p><p class=\"fonte\">GINZBURG, C. <em>O queijo e os vermes</em>: o cotidiano e as ideias de um moleiro perseguido pela Inquisição. São Paulo: Cia. das Letras, 2006.</p><p>Os acontecimentos históricos citados ajudaram esse indivíduo, no século XVI, a repensar a visão católica do mundo ao possibilitarem a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "consulta pública das bibliotecas reais.",
+    "B": "sofisticação barroca do ritual litúrgico.",
+    "C": "aceitação popular da educação secular.",
+    "D": "interpretação autônoma dos textos bíblicos.",
+    "E": "correção doutrinária das heresias medievais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Menocchio, moleiro do século XVI, leu livros impressos e, encorajado pela Reforma, passou a formular as próprias ideias sobre religião, longe do controle da Igreja. A imprensa e a Reforma permitiram a <strong>interpretação autônoma dos textos bíblicos</strong>, central para os protestantes. Alternativa <strong>D</strong>.</p><p>A Reforma não sofisticou o ritual (B) nem corrigiu heresias (E); as bibliotecas reais não eram públicas (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "imprensa",
+    "Menocchio"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "Geografia",
+   "assunto": "Cartografia",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\">“Devo estar chegando perto do centro da Terra. Deixe ver: deve ter sido mais de seis mil quilômetros, por aí...”</p><p class=\"apoio\">(como se vê, Alice tinha aprendido uma porção de coisas desse tipo na escola, e embora essa não fosse uma oportunidade lá muito boa de demonstrar conhecimentos, já que não havia ninguém por perto para escutá-la, em todo caso era bom praticar um pouco) “... sim, deve ser mais ou menos essa a distância... mas então qual seria a latitude ou longitude em que estou?” (Alice não tinha a menor ideia do que fosse latitude ou longitude, mas achou que eram palavras muito imponentes).</p><p class=\"fonte\">CARROLL, L. Aventuras de Alice: no País das Maravilhas, Através do espelho e outros textos. São Paulo: Summus, 1980.</p><p>O texto descreve uma confusão da personagem em relação</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ao tipo de projeção cartográfica.",
+    "B": "aos contornos dos fusos horários.",
+    "C": "à localização do norte magnético.",
+    "D": "aos referenciais de posição relativa.",
+    "E": "às distorções das formas continentais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Alice imagina que está caindo em direção ao centro da Terra e pergunta em que latitude ou longitude estaria. Mas latitude e longitude localizam pontos na superfície, não no interior do planeta. A confusão é sobre os <strong>referenciais de posição relativa</strong>, as coordenadas geográficas. Alternativa <strong>D</strong>.</p><p>O texto não trata de projeções (A), fusos (B), norte magnético (C) ou distorções dos continentes (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coordenadas geográficas",
+    "latitude e longitude"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "História",
+   "assunto": "África",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"apoio\">A arte pré-histórica africana foi incontestavelmente um veículo de mensagens pedagógicas e sociais. Os San, que constituem hoje o povo mais próximo da realidade das representações rupestres, afirmam que seus antepassados lhes explicaram sua visão do mundo a partir desse gigantesco livro de imagens que são as galerias. A educação dos povos que desconhecem a escrita está baseada sobretudo na imagem e no som, no audiovisual.</p><p class=\"fonte\">KI-ZERBO, J. A arte pré-histórica africana. In: KI-ZERBO, J. (Org.) História geral da África, I: metodologia e pré-história da África. Brasília: Unesco, 2010.</p><p>De acordo com o texto, a arte mencionada é importante para os povos que a cultivam por colaborar para o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "transmissão dos saberes acumulados.",
+    "B": "expansão da propriedade individual.",
+    "C": "ruptura da disciplina hierárquica.",
+    "D": "surgimento dos laços familiares.",
+    "E": "rejeição de práticas exógenas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Ki-Zerbo diz que a arte rupestre africana era um “gigantesco livro de imagens”: por meio dela, os antepassados dos San explicaram sua visão do mundo, e povos sem escrita educavam pela imagem e pelo som. A arte serve à <strong>transmissão dos saberes acumulados</strong>. Alternativa <strong>A</strong>.</p><p>O texto não fala de propriedade (B), quebra de hierarquias (C), origem da família (D) ou rejeição do que é estrangeiro (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "arte rupestre",
+    "tradição oral"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 10,
+   "materia": "Filosofia",
+   "assunto": "Teoria do conhecimento",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p class=\"apoio\">Será que as coisas lhe pareceriam diferentes se, de fato, todas elas existissem apenas na sua mente — se tudo o que você julgasse ser o mundo externo real fosse apenas um sonho ou alucinação gigante, de que você jamais fosse despertar? Se assim fosse, então é claro que você nunca poderia despertar, como faz quando sonha, pois significaria que não há mundo “real” no qual despertar. Logo, não seria exatamente igual a um sonho ou alucinação normal.</p><p class=\"fonte\">NAGEL, T. Uma breve introdução à filosofia. São Paulo: Martins Fontes, 2011.</p><p>O texto confere visibilidade a uma doutrina filosófica contemporânea conhecida como:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Personalismo, que vincula a realidade circundante aos domínios do pessoal.",
+    "B": "Falsificacionismo, que estabelece ciclos de problemas para refutar uma conjectura.",
+    "C": "Falibilismo, que rejeita mecanismos mentais para sustentar uma crença inequívoca.",
+    "D": "Idealismo, que nega a existência de objetos independentemente do trabalho cognoscente.",
+    "E": "Solipsismo, que reconhece limitações cognitivas para compreender uma experiência compartilhada."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Nagel propõe pensar que tudo o que você julga ser o mundo existe apenas na sua mente, sem um mundo real fora dela. Essa é a hipótese do <strong>solipsismo</strong>, que parte das limitações do conhecimento: só tenho acesso à minha própria experiência e não posso provar a dos outros. Alternativa <strong>E</strong>.</p><p>O idealismo (D) não reduz o mundo a uma só mente; falsificacionismo e falibilismo (B e C) tratam da validade das teorias científicas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "solipsismo",
+    "ceticismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "Geografia",
+   "assunto": "Recursos hídricos",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p class=\"apoio\">A demanda mundial para a produção de alimentos aumenta progressivamente a taxas muito altas. Atualmente, na maioria dos países, continentes e regiões, a água consumida na agricultura é de cerca de 70% da disponibilidade total.</p><p class=\"fonte\">TUNDISI, J. G. Recursos hídricos no futuro: problemas e soluções. Estudos Avançados, n. 63, 2008 (adaptado).</p><p>Para que haja a redução da pressão sobre o recurso natural mencionado, a expansão da agricultura demanda melhorias no(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fertilização química do solo.",
+    "B": "escoamento hídrico do terreno.",
+    "C": "manutenção de poços artesianos.",
+    "D": "eficiência das técnicas de irrigação.",
+    "E": "velocidade das máquinas colheitadeiras."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A agricultura consome cerca de 70% da água disponível. Para produzir mais alimentos sem aumentar a pressão sobre a água, é preciso desperdiçar menos: a saída é a <strong>eficiência das técnicas de irrigação</strong>, como o gotejamento. Alternativa <strong>D</strong>.</p><p>Adubos químicos (A) e máquinas mais rápidas (E) não economizam água; mais poços (C) aumentariam a retirada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "irrigação",
+    "uso da água"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 12,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p class=\"apoio\">No caso do Departamento de Defesa dos Estados Unidos, a ênfase está posta no traçado de uma estratégia geral de desarticulação, não só dos inimigos reais como dos potenciais, inserida na concepção preventiva que supõe que a mínima dissidência é um sinal de perigo e de guerra futura. Deve-se ter capacidade para responder a uma guerra convencional tanto quanto para enfrentar um inimigo difuso, atentando simultaneamente para todas as áreas geográficas do planeta. Trata-se, sem dúvida, da estratégia com pretensões mais abrangentes que se desenvolveu até agora.</p><p class=\"fonte\">CECEÑA, A. E. Hegemonias e emancipações no século XXI. Buenos Aires: Clacso, 2005 (adaptado).</p><p>Tomando o texto como parâmetro, qual tendência contemporânea impulsiona a formulação de estratégias mais abrangentes por parte do Estado americano?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Erradicação dos conflitos em territórios.",
+    "B": "Propagação de organizações em redes.",
+    "C": "Eliminação das diferenças regionais.",
+    "D": "Ampliação de modelo democrático.",
+    "E": "Projeção da diplomacia mundial."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que os Estados Unidos precisam enfrentar não só guerras convencionais, mas também um “inimigo difuso”, em todas as áreas do planeta. Esse inimigo sem território fixo são grupos que agem de forma descentralizada, como organizações terroristas: a tendência é a <strong>propagação de organizações em redes</strong>. Alternativa <strong>B</strong>.</p><p>Os conflitos não foram erradicados (A); o texto não fala de diferenças regionais (C), democracia (D) ou diplomacia (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "guerra preventiva",
+    "terrorismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 13,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p class=\"apoio\">O planejamento deixou de controlar o crescimento urbano e passou a encorajá-lo por todos os meios possíveis e imagináveis. Cidades, a nova mensagem soou em alto e bom som, eram máquinas de produzir riquezas; o primeiro e principal objetivo do planejamento devia ser o de azeitar a máquina.</p><p class=\"fonte\">HALL, P. Cidades do amanhã: uma história intelectual do planejamento e do projeto urbanos no século XX. São Paulo: Perspectiva, 2016 (adaptado).</p><p>O modelo de planejamento urbano problematizado no texto é marcado pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "primazia da gestão popular.",
+    "B": "uso de práticas sustentáveis.",
+    "C": "construção do bem-estar social.",
+    "D": "soberania do poder governamental.",
+    "E": "ampliação da participação empresarial."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Peter Hall descreve um planejamento que passou a ver as cidades como “máquinas de produzir riquezas” e que deveria apenas “azeitar a máquina”, isto é, facilitar os negócios. É o planejamento empresarial ou de mercado, marcado pela <strong>ampliação da participação empresarial</strong>. Alternativa <strong>E</strong>.</p><p>O modelo não prioriza a gestão popular (A), a sustentabilidade (B) ou o bem-estar social (C), e reduz, em vez de reforçar, o papel do Estado (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "planejamento urbano",
+    "cidade-empresa"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "Geografia",
+   "assunto": "Geologia",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p class=\"apoio\">Escudos antigos ou maciços cristalinos são blocos imensos de rochas antigas. Estes escudos são constituídos por rochas cristalinas (magmáticoplutônicas), formadas em eras pré-cambrianas, ou por rochas metamórficas (material sedimentar) do Paleozoico. São resistentes, estáveis, porém bastante desgastadas. Correspondem a 36% da área territorial e dividem-se em duas grandes porções: o Escudo das Guianas (norte da Planície Amazônica) e o Escudo Brasileiro (porção centro-oriental brasileira).</p><p class=\"fonte\">Disponível em: http://ambientes.ambientebrasil.com.br. Acesso em: 25 jun. 2015.</p><p>As estruturas geológicas indicadas no texto são importantes economicamente para o Brasil por concentrarem</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fontes de águas termais.",
+    "B": "afloramentos de sal-gema.",
+    "C": "jazidas de minerais metálicos.",
+    "D": "depósitos de calcário agrícola.",
+    "E": "reservas de combustível fóssil."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os escudos cristalinos são formados por rochas magmáticas e metamórficas muito antigas. Esse tipo de rocha concentra <strong>jazidas de minerais metálicos</strong>, como ferro, manganês, ouro e bauxita, explorados, por exemplo, em Carajás e no Quadrilátero Ferrífero. Alternativa <strong>C</strong>.</p><p>Combustíveis fósseis, sal-gema e calcário (B, D e E) estão em bacias sedimentares.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escudos cristalinos",
+    "recursos minerais"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "Filosofia",
+   "assunto": "Existencialismo",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p class=\"apoio\">Em <em>A morte de Ivan Ilitch</em>, Tolstoi descreve com detalhes repulsivos o terror de encarar a morte iminente. Ilitch adoece depois de um pequeno acidente e logo compreende que se encaminha para o fim de modo impossível de parar. “Nas profundezas de seu coração, ele sabia estar morrendo, mas em vez de se acostumar com a ideia, simplesmente não o fazia e não conseguia compreendê-la”.</p><p class=\"fonte\">KAZEZ, J. O peso das coisas: filosofia para o bem-viver. Rio de Janeiro: Tinta Negra, 2004.</p><p>O texto descreve a experiência do personagem de Tolstoi diante de um aspecto incontornável de nossas vidas. Esse aspecto foi um tema central na tradição filosófica</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "marxista, no contexto do materialismo histórico.",
+    "B": "logicista, no propósito de entendimento dos fatos.",
+    "C": "utilitarista, no sentido da racionalidade das ações.",
+    "D": "pós-modernista, na discussão da fluidez das relações.",
+    "E": "existencialista, na questão do reconhecimento de si."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Ivan Ilitch encara a própria morte e não consegue compreendê-la. A finitude e o modo como cada um se reconhece diante dela foram tema central do <strong>existencialismo</strong>, de pensadores como Heidegger e Sartre. Alternativa <strong>E</strong>.</p><p>Marxismo, logicismo, utilitarismo e pós-modernismo (A a D) não têm a morte como questão central.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "finitude",
+    "Tolstoi"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p class=\"apoio\">A Divisão Internacional do Trabalho significa que alguns países se especializam em ganhar e outros, em perder. Nossa comarca no mundo, que hoje chamamos América Latina, foi precoce: especializou-se em perder desde os remotos tempos em que os europeus do Renascimento se aventuraram pelos mares e lhe cravaram os dentes na garganta. Passaram-se os séculos e a América Latina aprimorou suas funções.</p><p class=\"fonte\">GALEANO, E. <em>As veias abertas da América Latina</em>. São Paulo: Paz e Terra, 1978.</p><p>Escrito na década de 1970, o texto considera a participação da América Latina na Divisão Internacional do Trabalho marcada pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "produção inovadora de padrões de tecnologia.",
+    "B": "superação paulatina do caráter agroexportador.",
+    "C": "apropriação imperialista dos recursos territoriais.",
+    "D": "valorização econômica dos saberes tradicionais.",
+    "E": "dependência externa do suprimento de alimentos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Galeano diz que a América Latina se “especializou em perder” desde que os europeus “lhe cravaram os dentes na garganta”: suas riquezas foram extraídas para enriquecer outras regiões. A participação na Divisão Internacional do Trabalho foi marcada pela <strong>apropriação imperialista dos recursos territoriais</strong>. Alternativa <strong>C</strong>.</p><p>O texto não fala em inovação tecnológica (A), superação do modelo agroexportador (B), valorização de saberes (D) ou importação de alimentos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Galeano",
+    "dependência"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "História",
+   "assunto": "Antiguidade oriental",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p class=\"apoio\">Sexto rei sumério (governante entre os séculos XVIII e XVII a.C.) e nascido em Babel, “Khammu-rabi” (pronúncia em babilônio) foi fundador do I Império Babilônico (correspondente ao atual Iraque), unificando amplamente o mundo mesopotâmico, unindo os semitas e os sumérios e levando a Babilônia ao máximo esplendor. O nome de Hamurabi permanece indissociavelmente ligado ao código jurídico tido como o mais remoto já descoberto: o Código de Hamurabi. O legislador babilônico consolidou a tradição jurídica, harmonizou os costumes e estendeu o direito e a lei a todos os súditos.</p><p class=\"fonte\">Disponível em: www.direitoshumanos.usp.br. Acesso em: 12 fev. 2013 (adaptado).</p><p>Nesse contexto de organização da vida social, as leis contidas no Código citado tinham o sentido de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "assegurar garantias individuais aos cidadãos livres.",
+    "B": "tipificar regras referentes aos atos dignos de punição.",
+    "C": "conceder benefícios de indulto aos prisioneiros de guerra.",
+    "D": "promover distribuição de terras aos desempregados urbanos.",
+    "E": "conferir prerrogativas políticas aos descendentes de estrangeiros."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O Código de Hamurabi reunia leis escritas que definiam crimes e as penas correspondentes, muitas pela lei de talião (“olho por olho”). Seu sentido era <strong>tipificar regras referentes aos atos dignos de punição</strong>, dando uniformidade à justiça no império. Alternativa <strong>B</strong>.</p><p>Não garantia direitos individuais no sentido moderno (A) nem tratava de indultos, reforma agrária ou estrangeiros (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Código de Hamurabi",
+    "Mesopotâmia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "Sociologia",
+   "assunto": "Trabalho",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p class=\"apoio\">Desde o mundo antigo e sua filosofia, que o trabalho tem sido compreendido como expressão de vida e degradação, criação e infelicidade, atividade vital e escravidão, felicidade social e servidão. Trabalho e fadiga. Na Modernidade, sob o comando do mundo da mercadoria e do dinheiro, a prevalência do negócio (negar o ócio) veio sepultar o império do repouso, da folga e da preguiça, criando uma ética positiva do trabalho.</p><p class=\"fonte\">ANTUNES, R. O século XX e a era da degradação do trabalho. In: SILVA, J. P. (Org.). Por uma sociologia do século XX. São Paulo: Annablume, 2007 (adaptado).</p><p>O processo de ressignificação do trabalho nas sociedades modernas teve início a partir do surgimento de uma nova mentalidade, influenciada pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reforma higienista, que combateu o caráter excessivo e insalubre do trabalho fabril.",
+    "B": "Reforma Protestante, que expressou a importância das atividades laborais no mundo secularizado.",
+    "C": "força do sindicalismo, que emergiu no esteio do anarquismo reivindicando direitos trabalhistas.",
+    "D": "participação das mulheres em movimentos sociais, defendendo o direito ao trabalho.",
+    "E": "visão do catolicismo, que, desde a Idade Média, defendia a dignidade do trabalho e do lucro."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na Antiguidade, o trabalho era associado à fadiga e à servidão; na Modernidade, surgiu uma “ética positiva do trabalho”. Essa nova mentalidade foi influenciada pela <strong>Reforma Protestante</strong>, que, como mostrou Max Weber, valorizou o trabalho e a disciplina como sinais de virtude. Alternativa <strong>B</strong>.</p><p>O catolicismo medieval condenava o lucro (contra E); o sindicalismo e o higienismo (A e C) vieram depois, como reação ao trabalho fabril.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ética protestante",
+    "Max Weber"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p class=\"apoio\">É difícil imaginar que nos anos 1990, num país com setores da população na pobreza absoluta e sem uma rede de benefícios sociais em que se apoiar, um governo possa abandonar o papel de promotor de programas de geração de emprego, de assistência social, de desenvolvimento da infraestrutura e de promoção de regiões excluídas, na expectativa de que o mercado venha algum dia a dar uma resposta adequada a tudo isso.</p><p class=\"fonte\">SORJ, B. A nova sociedade brasileira. Rio de Janeiro: Jorge Zahar, 2000 (adaptado).</p><p>Nesse contexto, a criticada postura dos governos frente à situação social do país coincidiu com a priorização de que medidas?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Expansão dos investimentos nas empresas públicas e nos bancos estatais.",
+    "B": "Democratização do crédito habitacional e da aquisição de moradias populares.",
+    "C": "Enxugamento da carga fiscal individual e da contribuição tributária empresarial.",
+    "D": "Reformulação do acesso ao ensino superior e do financiamento científico nacional.",
+    "E": "Reforma das políticas macroeconômicas e dos mecanismos de controle inflacionário."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto critica governos dos anos 1990 que abandonaram políticas sociais e de emprego esperando que o mercado resolvesse tudo. É a postura neoliberal, que coincidiu com a <strong>reforma das políticas macroeconômicas e dos mecanismos de controle inflacionário</strong>, como o Plano Real, a abertura comercial e as privatizações. Alternativa <strong>E</strong>.</p><p>Houve privatização, não expansão das estatais (A); crédito habitacional e ensino superior (B e D) não foram prioridades daquele período.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "neoliberalismo",
+    "Plano Real"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "Geografia",
+   "assunto": "Transportes",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\">O conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como de uma regulação específica.</p><p class=\"fonte\">LIMA, R. C.; PENNA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). Confins, n. 26, fev. 2016.</p><p>O mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-humanas/q65.webp",
+     "alt": "Mapa do Brasil com a Região Centro-Oeste em cinza e as principais rodovias: longitudinais (BR-163, BR-158, BR-153), diagonal (BR-364) e radial (BR-070)."
+    }
+   ],
+   "alternativas": {
+    "A": "alteração da matriz econômica.",
+    "B": "substituição do modal hidroviário.",
+    "C": "retração do contingente demográfico.",
+    "D": "projeção do escoamento produtivo.",
+    "E": "estagnação de lavouras policultoras."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O mapa destaca o Centro-Oeste, grande região do agronegócio, cortado por rodovias como a BR-163 e a BR-364. O texto diz que os fluxos do agronegócio pressionam o Estado a instalar “fixos” no território. As rodovias se expandiram como resposta à <strong>projeção do escoamento produtivo</strong>, para levar a safra aos portos. Alternativa <strong>D</strong>.</p><p>Não houve retração demográfica (C) nem estagnação das lavouras (E); as rodovias não substituíram as hidrovias (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "agronegócio",
+    "rodovias"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "Sociologia",
+   "assunto": "Cultura",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p class=\"apoio\">Um dos resquícios franceses na dança são os comandos proferidos pelo marcador da quadrilha. Seu papel é anunciar os próximos passos da coreografia. O abrasileiramento de termos franceses deu origem, por exemplo, ao saruê (<em>soirée</em> — reunião social noturna, ordem para todos se juntarem no centro do salão), anarriê (<em>en arrière</em> — para trás) e anavã (<em>en avant</em> — para frente).</p><p class=\"fonte\">Disponível em: www.ebc.com.br. Acesso em: 6 jul. 2015.</p><p>A característica apresentada dessa manifestação popular resulta do seguinte processo socio-histórico:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Massificação da arte erudita.",
+    "B": "Rejeição de hábitos elitistas.",
+    "C": "Laicização dos rituais religiosos.",
+    "D": "Restauração dos costumes antigos.",
+    "E": "Apropriação de práticas estrangeiras."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A quadrilha junina tem origem nas danças de salão francesas, e os comandos do marcador (saruê, anarriê, anavã) são palavras francesas abrasileiradas. A manifestação resulta da <strong>apropriação de práticas estrangeiras</strong>, adaptadas à cultura popular brasileira. Alternativa <strong>E</strong>.</p><p>O processo não massificou arte erudita (A), não rejeitou a elite (B) e não restaurou costumes antigos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "festa junina",
+    "hibridismo cultural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "Geografia",
+   "assunto": "Geologia",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: https://noticias.uol.com.br. Acesso em: 13 jun. 2018 (adaptado).</p><p>Os aspectos físicos apresentados originam-se da atuação da força natural de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-humanas/q67.webp",
+     "alt": "Mapa da África Oriental com o Vale da Grande Fenda em linhas tracejadas, do mar Vermelho ao sul, e triângulos marcando vulcões ao longo dele; aparecem a África, a Ásia e o oceano Índico."
+    }
+   ],
+   "alternativas": {
+    "A": "colisão de placas tectônicas.",
+    "B": "rifteamento da crosta terrestre.",
+    "C": "subducção da plataforma oceânica.",
+    "D": "formação de cadeias montanhosas.",
+    "E": "metamorfismo de bordas continentais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O mapa mostra o Vale da Grande Fenda, na África Oriental, com vários vulcões ao longo dela. Ali duas partes da placa africana se afastam e a crosta se rompe e afunda: é o <strong>rifteamento da crosta terrestre</strong>. Alternativa <strong>B</strong>.</p><p>Não há colisão nem subducção (A e C), que formam cadeias montanhosas (D); o processo é de afastamento, não de metamorfismo de bordas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rifte",
+    "placas divergentes"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "História",
+   "assunto": "Historiografia",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p class=\"apoio\">A reabilitação da biografia histórica integrou as aquisições da história social e cultural, oferecendo aos diferentes atores históricos uma importância diferenciada, distinta, individual. Mas não se tratava mais de fazer, simplesmente, a história dos grandes nomes, em formato hagiográfico — quase uma vida de santo —, sem problemas, nem máculas. Mas de examinar os atores (ou o ator) célebres ou não, como testemunhas, como reflexos, como reveladores de uma época.</p><p class=\"fonte\">DEL PRIORE, M. Biografia: quando o indivíduo encontra a história. Topoi, n. 19, jul.-dez. 2009.</p><p>De acordo com o texto, novos estudos têm valorizado a história do indivíduo por se constituir como possibilidade de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "adesão ao método positivista.",
+    "B": "expressão do papel das elites.",
+    "C": "resgate das narrativas heroicas.",
+    "D": "acesso ao cotidiano das comunidades.",
+    "E": "interpretação das manifestações do divino."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Del Priore diz que a nova biografia histórica não conta mais a vida heroica dos grandes nomes, mas examina pessoas, célebres ou não, como testemunhas e reflexos de sua época. A história do indivíduo passa a ser um <strong>acesso ao cotidiano das comunidades</strong>. Alternativa <strong>D</strong>.</p><p>Essa biografia rejeita o método positivista (A), o foco nas elites (B) e as narrativas heroicas (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biografia",
+    "história social"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "Filosofia",
+   "assunto": "Filosofia política",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p class=\"apoio\">A sociedade como um sistema justo de cooperação social consiste em uma das ideias familiares fundamentais, que dá estrutura e organização à justiça como equidade. A cooperação social guia-se por regras e procedimentos publicamente reconhecidos e aceitos por aqueles que cooperam como sendo apropriados para regular a sua conduta. Diz-se que a cooperação é justa porque seus termos são tais que todos os participantes podem razoavelmente aceitar, desde que todos os demais também o aceitem.</p><p class=\"fonte\">FERES JR., J.; POGREBINSCHI, T. Teoria política contemporânea: uma introdução. Rio de Janeiro: Elsevier, 2010.</p><p>No contexto do pensamento político, a ideia apresentada mostra-se consoante o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ideal republicano de governo.",
+    "B": "corrente tripartite dos poderes.",
+    "C": "posicionamento crítico do socialismo.",
+    "D": "legitimidade do absolutismo monárquico.",
+    "E": "entendimento do contratualismo moderno."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto descreve a justiça como equidade de John Rawls: uma cooperação social justa, guiada por regras que todos podem razoavelmente aceitar. A ideia de que a ordem política se legitima pelo acordo entre os cidadãos retoma o <strong>contratualismo moderno</strong>. Alternativa <strong>E</strong>.</p><p>Não se trata do absolutismo (D), da separação dos poderes (B) nem da crítica socialista (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Rawls",
+    "justiça como equidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "História",
+   "assunto": "Roma antiga",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p class=\"apoio\">Com efeito, até a destruição de Cartago, o povo e o Senado romano governavam a República em harmonia e sem paixão, e não havia entre os cidadãos luta por glória ou dominação; o medo do inimigo mantinha a cidade no cumprimento do dever. Mas, assim que o medo desapareceu dos espíritos, introduziram-se os males pelos quais a prosperidade tem predileção, isto é, a libertinagem e o orgulho.</p><p class=\"fonte\">SALÚSTIO. <em>A conjuração de Catilina/A guerra de Jugurta</em>. Petrópolis: Vozes, 1990 (adaptado).</p><p>O acontecimento histórico mencionado no texto de Salústio, datado de I a.C., manteve correspondência com o processo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "demarcação de terras públicas.",
+    "B": "imposição da escravidão por dívidas.",
+    "C": "restrição da cidadania por parentesco.",
+    "D": "restauração de instituições ancestrais.",
+    "E": "expansão das fronteiras extrapeninsulares."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A destruição de Cartago (146 a.C.) encerrou as Guerras Púnicas e deu a Roma o domínio do Mediterrâneo ocidental. Esse acontecimento fez parte da <strong>expansão das fronteiras extrapeninsulares</strong>, para além da península Itálica. Alternativa <strong>E</strong>.</p><p>A vitória trouxe riqueza e conquistas, não restauração de instituições (D), demarcação de terras públicas (A) ou escravidão por dívidas (B), já abolida.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Guerras Púnicas",
+    "República romana"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "Geografia",
+   "assunto": "Espaço rural",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">CORALINA, C. Textos e contextos: poemas dos becos de Goiás e estórias mais. São Paulo: Global, 1997 (fragmento).</p><p>No contexto das distintas formas de apropriação da terra, o poema de Cora Coralina valoriza a relação entre</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-humanas/q71.webp",
+     "alt": "Poema “O cântico da terra”, de Cora Coralina, como aparece na prova: a terra fala ao lavrador, diz que tudo o que é dela é dele (as ferramentas, o berço do filho, a roupa e o pão), que ele um dia voltará a ela para dormir em seu seio, e termina convidando a plantar a roça e lavrar a gleba."
+    }
+   ],
+   "alternativas": {
+    "A": "grileiros e controle territorial.",
+    "B": "meeiros e divisão do trabalho.",
+    "C": "camponeses e uso da natureza.",
+    "D": "indígenas e manejo agroecológico.",
+    "E": "latifundiários e fertilização do solo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No poema, a terra fala ao lavrador e oferece tudo o que ele usa e consome: o arado, a roupa, o pão; no fim, chama a plantar a roça e lavrar a gleba. Cora Coralina valoriza a relação entre <strong>camponeses e uso da natureza</strong>, o trabalho direto na terra. Alternativa <strong>C</strong>.</p><p>O poema não fala de grileiros (A), meeiros (B), indígenas (D) ou latifundiários (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Cora Coralina",
+    "campesinato"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 27,
+   "materia": "Filosofia",
+   "assunto": "Filosofia moderna",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p class=\"apoio\">Montaigne deu o nome para um novo gênero literário; foi dos primeiros a instituir na literatura moderna um espaço privado, o espaço do “eu”, do texto íntimo. Ele cria um novo processo de escrita filosófica, no qual hesitações, autocríticas, correções entram no próprio texto.</p><p class=\"fonte\">COELHO, M. Montaigne. São Paulo: Publifolha, 2001 (adaptado).</p><p>O novo gênero de escrita aludido no texto é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "confissão, que relata experiências de transformação.",
+    "B": "ensaio, que expõe concepções subjetivas de um tema.",
+    "C": "carta, que comunica informações para um conhecido.",
+    "D": "meditação, que propõe preparações para o conhecimento.",
+    "E": "diálogo, que discute assuntos com diferentes interlocutores."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Montaigne deu nome aos seus <em>Ensaios</em>, textos em que examina temas variados a partir da própria experiência, com dúvidas e correções no próprio texto. O novo gênero é o <strong>ensaio, que expõe concepções subjetivas de um tema</strong>. Alternativa <strong>B</strong>.</p><p>Confissão, carta, meditação e diálogo (A, C, D e E) já existiam antes dele.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Montaigne",
+    "ensaio"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 28,
+   "materia": "Sociologia",
+   "assunto": "Educação",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Declaração de Salamanca – 1994</strong></p><p class=\"apoio\">Acreditamos e proclamamos que: toda criança tem direito fundamental à educação e deve ser dada a oportunidade de atingir e manter o nível adequado de aprendizagem; toda criança possui características, interesses, habilidades e necessidades de aprendizagem que são únicas; sistemas educacionais deveriam ser designados e programas educacionais deveriam ser implementados no sentido de se levar em conta a vasta diversidade de tais características e necessidades.</p><p class=\"fonte\">Disponível em: http://portal.mec.gov.br. Acesso em: 4 out. 2015.</p><p>Como signatário da Declaração citada, o Brasil comprometeu-se com a elaboração de políticas públicas educacionais que contemplem a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "criação de privilégios.",
+    "B": "contenção dos gastos.",
+    "C": "pluralidade dos sujeitos.",
+    "D": "padronização do currículo.",
+    "E": "valorização da meritocracia."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A Declaração de Salamanca afirma que toda criança tem características e necessidades únicas e que os sistemas educacionais devem levar em conta essa diversidade. É o princípio da educação inclusiva, que pede políticas públicas atentas à <strong>pluralidade dos sujeitos</strong>. Alternativa <strong>C</strong>.</p><p>A declaração vai contra privilégios (A), padronização (D) e meritocracia (E), e não trata de contenção de gastos (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "educação inclusiva",
+    "Declaração de Salamanca"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "Filosofia",
+   "assunto": "Teoria do conhecimento",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Os meus pensamentos são todos sensações.<br>Penso com os olhos e com os ouvidos<br>E com as mãos e os pés<br>E com o nariz e a boca.</p><p class=\"fonte\">PESSOA, F. O guardador de rebanhos – IX. In: GALHOZ, M. A. (Org.). Obras poéticas. Rio de Janeiro: Nova Aguilar, 1999 (fragmento).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Tudo aquilo que sei do mundo, mesmo por ciência, eu o sei a partir de uma visão minha ou de uma experiência do mundo sem a qual os símbolos da ciência não poderiam dizer nada.</p><p class=\"fonte\">MERLEAU-PONTY, M. Fenomenologia da percepção. São Paulo: Martins Fontes, 1999 (adaptado).</p><p>Os textos mostram-se alinhados a um entendimento acerca da ideia de conhecimento, numa perspectiva que ampara a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "anterioridade da razão no domínio cognitivo.",
+    "B": "confirmação da existência de saberes inatos.",
+    "C": "valorização do corpo na apreensão da realidade.",
+    "D": "verificabilidade de proposições no campo da lógica.",
+    "E": "possibilidade de contemplação de verdades atemporais."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Caeiro (heterônimo de Pessoa) diz que pensa “com os olhos e com os ouvidos”, com as mãos, os pés, o nariz e a boca. Merleau-Ponty afirma que todo saber parte da experiência que temos do mundo. Os dois textos ligam o conhecimento à percepção sensível, numa perspectiva que ampara a <strong>valorização do corpo na apreensão da realidade</strong>. Alternativa <strong>C</strong>.</p><p>Os textos não defendem a razão antes dos sentidos (A), ideias inatas (B), lógica formal (D) ou verdades eternas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fenomenologia",
+    "Merleau-Ponty"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 30,
+   "materia": "História",
+   "assunto": "América colonial",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p class=\"apoio\">Afirmar que a cartografia da época moderna integrou o processo de invenção da América por parte dos europeus significa que os conhecimentos dos ameríndios sobre o território foram ignorados pela cartografia europeia ou que eles foram privados de sua representação territorial e da autoridade que seus conhecimentos tinham sobre o espaço.</p><p class=\"fonte\">OLIVEIRA, T. K. Desconstruindo mapas, revelando espacializações: reflexões sobre o uso da cartografia em estudos sobre o Brasil colonial. Revista Brasileira de História, n. 68, 2014 (adaptado).</p><p>Na análise contida no texto, a representação cartográfica da América foi marcada por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "asserção da cultura dos nativos.",
+    "B": "avanço dos estudos do ambiente.",
+    "C": "afirmação das formas de dominação.",
+    "D": "exatidão da demarcação das regiões.",
+    "E": "aprimoramento do conceito de fronteira."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que a cartografia europeia ignorou os conhecimentos dos ameríndios e os privou de representar o próprio território. Os mapas não eram neutros: ajudaram a “inventar” a América do ponto de vista europeu e foram instrumento de <strong>afirmação das formas de dominação</strong>. Alternativa <strong>C</strong>.</p><p>A cartografia negou a cultura nativa (contra A), e o texto não fala em exatidão (D) nem em avanço ambiental (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cartografia",
+    "colonização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "História",
+   "assunto": "Estados Unidos",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p class=\"apoio\">A principal característica da situação social dos anglo-americanos é seu caráter eminentemente democrático. Afirmei anteriormente que reinava uma igualdade muito grande entre os emigrantes que foram se estabelecer na Nova Inglaterra. Para isso contribuiu a influência das leis de sucessão. Estabelecidas de uma maneira, as leis de sucessão reúnem, concentram e agrupam em um só a propriedade e o poder. Estabelecidas por outros princípios, produzem o oposto: dividem, partilham e disseminam os bens e o poder.</p><p class=\"fonte\">TOCQUEVILLE, A. A democracia na América. Belo Horizonte: Itatiaia; São Paulo: Edusp, 1977 (adaptado).</p><p>O texto tematiza o papel desempenhado por uma norma na criação de um ambiente propício ao(à)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "emprego do trabalho escravo.",
+    "B": "consolidação dos valores burgueses.",
+    "C": "banimento das dissidências religiosas.",
+    "D": "contenção da identificação nacionalista.",
+    "E": "hierarquização dos agentes econômicos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Tocqueville explica que as leis de sucessão da Nova Inglaterra, que dividiam a herança entre os filhos, impediram a concentração da propriedade e do poder. Isso criou uma sociedade de proprietários relativamente iguais, propícia à <strong>consolidação dos valores burgueses</strong>, como a igualdade, o trabalho e a propriedade individual. Alternativa <strong>B</strong>.</p><p>O texto não trata de escravidão (A), religião (C) ou nacionalismo (D), e a norma reduzia, não criava, hierarquias (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Tocqueville",
+    "democracia americana"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p class=\"apoio\">Vemos que toda cidade é uma espécie de comunidade, e toda comunidade se forma com vistas a algum bem, pois todas as ações de todos os homens são praticadas com vistas ao que lhe parece um bem;</p><p class=\"apoio\">se todas as comunidades visam algum bem, é evidente que a mais importante de todas elas e que inclui todas as outras tem mais que todas este objetivo e visa ao mais importante de todos os bens.</p><p class=\"fonte\">ARISTÓTELES. Política. Brasília: UnB,1988.</p><p>No fragmento, Aristóteles promove uma reflexão que associa dois elementos essenciais à discussão sobre a vida em comunidade, a saber:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ética e política, pois conduzem à eudaimonia.",
+    "B": "Retórica e linguagem, pois cuidam dos discursos na ágora.",
+    "C": "Metafísica e ontologia, pois tratam da filosofia primeira.",
+    "D": "Democracia e sociedade, pois se referem a relações sociais.",
+    "E": "Geração e corrupção, pois abarcam o campo da physis."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Aristóteles diz que toda comunidade visa a um bem e que a cidade (pólis), a mais importante delas, visa ao bem supremo. Para ele, a política continua a ética: ambas buscam a felicidade (eudaimonia), a vida boa. O fragmento associa <strong>ética e política, pois conduzem à eudaimonia</strong>. Alternativa <strong>A</strong>.</p><p>Retórica, metafísica e física (B, C e E) não são o tema do trecho; a democracia (D) era, para Aristóteles, apenas uma forma de governo entre outras.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Aristóteles",
+    "eudaimonia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "Geografia",
+   "assunto": "Indústria",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p class=\"apoio\">O toyotismo, a partir dos anos 1970, teve grande impacto no mundo ocidental, quando se mostrou para os países avançados como uma opção possível para a superação de uma crise de acumulação.</p><p class=\"fonte\">ANTUNES, R. Os sentidos do trabalho: ensaio sobre a afirmação e a negação do trabalho. São Paulo: Boitempo, 2009 (adaptado).</p><p>A característica organizacional do modelo em questão, requerida no contexto de crise, foi o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "expansão dos grandes estoques.",
+    "B": "incremento da fabricação em massa.",
+    "C": "adequação da produção à demanda.",
+    "D": "aumento da mecanização do trabalho.",
+    "E": "centralização das etapas de planejamento."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O toyotismo trouxe a produção enxuta, <em>just in time</em>: fabrica-se o que já foi vendido, na quantidade pedida, com estoques mínimos. A característica central é a <strong>adequação da produção à demanda</strong>, resposta à crise do modelo fordista. Alternativa <strong>C</strong>.</p><p>Grandes estoques e produção em massa (A e B) são marcas do fordismo; o toyotismo descentraliza etapas e usa trabalhadores polivalentes (contra E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "toyotismo",
+    "just in time"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 34,
+   "materia": "História",
+   "assunto": "Século XIX",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p class=\"apoio\">O fenômeno histórico conhecido como “tráfico de <em>coolies</em>” esteve associado diretamente ao período que vai do final da década de 1840 até o ano de 1874, quando milhares de chineses foram encaminhados principalmente para Cuba e Peru e muitos abusos no recrutamento de mão de obra foram identificados. O tráfico de <em>coolies</em> ou, em outros termos, o transporte por meios coativos de mão de obra de um lugar para outro, foi comparado ao tráfico africano de escravos por muitos periodistas e analistas do século XIX.</p><p class=\"fonte\">SANTOS, M. A. Migrações e trabalho sob contrato no século XIX. História, n. 12, 2017.</p><p>A comparação mencionada no texto foi possível em razão da seguinte característica:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Oferta de contrato formal.",
+    "B": "Origem étnica dos grupos de trabalhadores.",
+    "C": "Conhecimento das tarefas desenvolvidas.",
+    "D": "Controle opressivo das vidas dos indivíduos.",
+    "E": "Investimento requerido dos empregadores."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os <em>coolies</em> chineses eram levados a Cuba e ao Peru com contratos, mas recrutados à força e submetidos a abusos. A comparação com o tráfico africano foi possível pelo <strong>controle opressivo das vidas dos indivíduos</strong>, transportados e explorados de forma coercitiva. Alternativa <strong>D</strong>.</p><p>Os contratos formais (A) eram justamente a diferença em relação à escravidão africana; a origem étnica (B) era outra.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coolies",
+    "trabalho compulsório"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "Geografia",
+   "assunto": "Movimentos sociais",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p class=\"apoio\">Os seringueiros amazônicos eram invisíveis no cenário nacional nos anos 1970. Começaram a se articular como um movimento agrário no início dos anos 1980, e na década seguinte conseguiram reconhecimento nacional, obtendo a implantação das primeiras reservas extrativas após o assassinato de Chico Mendes. Assim, em vinte anos, os camponeses da floresta passaram da invisibilidade à posição de paradigma de desenvolvimento sustentável com participação popular.</p><p class=\"fonte\">ALMEIDA, M. W. B. Direitos à floresta e ambientalismo: seringueiros e suas lutas. Revista Brasileira de Ciências Sociais, n. 55, 2004.</p><p>De acordo com o texto, a visibilidade dos seringueiros amazônicos foi estabelecida pela relação entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "crescimento econômico e migração de trabalhadores.",
+    "B": "produção de borracha e escassez de recursos naturais.",
+    "C": "reivindicação de terra e preservação de mata nativa.",
+    "D": "incentivo governamental e conservação de territórios.",
+    "E": "modernização de plantio e comércio de látex."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os seringueiros se organizaram como movimento agrário nos anos 1980 e conseguiram as reservas extrativistas, áreas onde podem viver da floresta sem desmatá-la. Sua visibilidade nasceu da relação entre <strong>reivindicação de terra e preservação de mata nativa</strong>, que os tornou modelo de desenvolvimento sustentável. Alternativa <strong>C</strong>.</p><p>O texto não fala de crescimento econômico, escassez, apoio do governo ou modernização do plantio (A, B, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reservas extrativistas",
+    "Chico Mendes"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p class=\"apoio\">Porque todos confessamos não se poder viver sem alguns escravos, que busquem a lenha e a água, e façam cada dia o pão que se come, e outros serviços que não são possíveis poderem-se fazer pelos Irmãos Jesuítas, máxime sendo tão poucos, que seria necessário deixar as confissões e tudo mais. Pareceme que a Companhia de Jesus deve ter e adquirir escravos, justamente, por meios que as Constituições permitem, quando puder para nossos colégios e casas de meninos.</p><p class=\"fonte\">LEITE, S. História da Companhia de Jesus no Brasil. Rio de Janeiro: Civilização Brasileira, 1938 (adaptado).</p><p>O texto explicita premissas da expansão ultramarina portuguesa ao buscar justificar a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "propagação do ideário cristão.",
+    "B": "valorização do trabalho braçal.",
+    "C": "adoção do cativeiro na Colônia.",
+    "D": "adesão ao ascetismo contemplativo.",
+    "E": "alfabetização dos indígenas nas Missões."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto, de um jesuíta, argumenta que a Companhia de Jesus “deve ter e adquirir escravos” para os serviços dos colégios e casas, já que os irmãos eram poucos. O trecho busca justificar a <strong>adoção do cativeiro na Colônia</strong>, inclusive pela Igreja. Alternativa <strong>C</strong>.</p><p>O foco não é a fé (A) nem a alfabetização (E); o texto quer que outros façam o trabalho braçal, sem valorizá-lo (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "jesuítas",
+    "escravidão"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "Geografia",
+   "assunto": "Geologia",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p class=\"apoio\">As cidades de Puebla, no México, e Legazpi, nas Filipinas, não têm quase nada em comum. Estão muito longe uma da outra e são habitadas por povos muito diferentes. O que as une é um trágico detalhe de sua geografia. Elas foram erguidas na vizinhança de alguns dos vulcões mais perigosos do mundo: o mexicano Popocatepétl e o filipino Mayon. Seus habitantes precisam estar prontos para correr a qualquer hora. Eles fazem parte dos 550 milhões de indivíduos que moram em zonas de risco vulcânico no mundo. Ao contrário do que seria sensato, continuam ali, indiferentes ao perigo que os espreita.</p><p class=\"fonte\">ANGELO, C. Disponível em: http://super.abril.com.br. Acesso em: 24 out. 2015 (adaptado).</p><p>A característica física que justifica a fixação do homem nos locais apresentados no texto é a ocorrência de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "solo fértil.",
+    "B": "encosta íngreme.",
+    "C": "vegetação diversificada.",
+    "D": "drenagem eficiente.",
+    "E": "clima ameno."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As cidades cresceram perto de vulcões perigosos porque as cinzas e a lava, ao se decompor, formam um <strong>solo fértil</strong>, rico em nutrientes, muito bom para a agricultura. Por isso centenas de milhões de pessoas vivem perto de vulcões ativos. Alternativa <strong>A</strong>.</p><p>Encostas íngremes (B) dificultam a ocupação; vegetação, drenagem e clima (C, D e E) não são característica própria das áreas vulcânicas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vulcanismo",
+    "solos vulcânicos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 38,
+   "materia": "História",
+   "assunto": "Roma antiga",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p class=\"apoio\">Ao abrigo do teto, sua jornada de fé começava na sala de jantar. Na pequena célula cristã, dividia-se a refeição e durante elas os crentes conversavam, rezavam e liam cartas de correligionários residentes em locais diferentes do Império Romano (século II da Era Cristã). Esse ambiente garantia peculiar apoio emocional às experiências intensamente individuais que abrigava.</p><p class=\"fonte\">SENNET, R. Carne e pedra. Rio de Janeiro: Record, 2008.</p><p>Um motivo que explica a ambientação da prática descrita no texto encontra-se no(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "regra judaica, que pregava a superioridade espiritual dos cultos das sinagogas.",
+    "B": "moralismo da legislação, que dificultava as reuniões abertas da juventude livre.",
+    "C": "adesão do patriciado, que subvertia o conceito original dos valores estrangeiros.",
+    "D": "decisão política, que censurava as manifestações públicas da doutrina dissidente.",
+    "E": "violência senhorial, que impunha a desestruturação forçada das famílias escravas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No século II, os cristãos se reuniam escondidos nas casas, para comer, rezar e ler cartas. Faziam isso porque o cristianismo era perseguido pelo Império Romano: a <strong>decisão política, que censurava as manifestações públicas da doutrina dissidente</strong>, levou o culto para o espaço privado. Alternativa <strong>D</strong>.</p><p>Os cristãos não seguiam a regra das sinagogas (A), e o texto não fala de juventude, patriciado ou escravos (B, C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cristianismo primitivo",
+    "perseguição"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "Geografia",
+   "assunto": "Geologia",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p class=\"apoio\">A colisão entre uma placa continental e uma oceânica provocará a subducção desta última sob a placa continental, que, a exemplo dos arcos e ilhas, produzirá um arco magmático na borda do continente, composto por rochas vulcânicas acompanhado de deformações e metamorfismo tanto de rochas preexistentes como de parte das rochas formadas no processo.</p><p class=\"fonte\">TEIXEIRA, W. et al. (Org.). Decifrando a Terra. São Paulo: Oficina de Textos, 2000.</p><p>Qual feição fisiográfica é gerada pelo processo tectônico apresentado?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Planícies abissais.",
+    "B": "Planaltos cristalinos.",
+    "C": "Depressões absolutas.",
+    "D": "Bacias sedimentares.",
+    "E": "Dobramentos modernos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A subducção da placa oceânica sob a continental comprime e deforma as rochas na borda do continente, com vulcanismo e metamorfismo. O resultado são cordilheiras recentes, como os Andes: os <strong>dobramentos modernos</strong>. Alternativa <strong>E</strong>.</p><p>Planícies abissais (A) ficam no fundo do oceano; planaltos cristalinos (B) são antigos e desgastados; bacias sedimentares (D) se formam por acúmulo de sedimentos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "subducção",
+    "cordilheiras"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "<p class=\"apoio\">O movimento sedicioso ocorrido na capitania de Pernambuco, no ano 1817, foi analisado de formas diferentes por dois meios de comunicação daquela época. O <em>Correio Braziliense</em> apontou para o fato de ser “a comoção no Brasil motivada por um descontentamento geral, e não por maquinações de alguns indivíduos”. Já a <em>Gazeta do Rio de Janeiro</em> considerou o movimento como um “pontual desvio de norma, apenas uma ‘mancha’ nas ‘páginas da História Portuguesa’, tão distinta pelos testemunhos de amor e respeito que os vassalos desta nação consagram ao seu soberano”.</p><p class=\"fonte\">JANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). Viagem Incompleta: a experiência brasileira (1500-2000). São Paulo: Senac, 2000 (adaptado).</p><p>Os fragmentos das matérias jornalísticas sobre o acontecimento, embora com percepções diversas, relacionam-se a um aspecto do processo de independência da colônia luso-americana expresso em dissensões entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "quadros dirigentes em torno da abolição da ordem escravocrata.",
+    "B": "grupos regionais acerca da configuração político-territorial.",
+    "C": "intelectuais laicos acerca da revogação do domínio eclesiástico.",
+    "D": "homens livres em torno da extensão do direito de voto.",
+    "E": "elites locais acerca da ordenação do monopólio fundiário."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A Revolução Pernambucana de 1817 foi um movimento contra o governo de D. João, sediado no Rio de Janeiro, e proclamou uma república em Pernambuco. As duas leituras da imprensa mostram que a independência envolveu <strong>dissensões entre grupos regionais acerca da configuração político-territorial</strong>: se o Brasil seria centralizado no Rio ou não. Alternativa <strong>B</strong>.</p><p>O movimento não discutiu abolição (A), Igreja (C), voto (D) ou monopólio de terras (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Revolução Pernambucana",
+    "independência"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "História",
+   "assunto": "Revolução Francesa",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Declaração de Direitos do Homem e do Cidadão – 1789</strong></p><p class=\"apoio\">Os representantes do povo francês, tendo em vista que a ignorância, o esquecimento ou o desprezo dos direitos do homem são as únicas causas dos males públicos e da corrupção dos governos, resolveram declarar solenemente os direitos naturais, inalienáveis e sagrados do homem, a fim de que esta declaração, sempre presente em todos os membros do corpo social, lhes lembre permanentemente seus direitos e seus deveres; a fim de que as reivindicações dos cidadãos, fundadas em princípios simples e incontestáveis, se dirijam sempre à conservação da Constituição e à felicidade geral.</p><p class=\"fonte\">Disponível em: www.direitoshumanosusp.br. Acesso em: 7 jun. 2018 (adaptado).</p><p>Esse documento, elaborado no contexto da Revolução Francesa, reflete uma profunda mudança social ao estabelecer a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "manutenção das terras comunais.",
+    "B": "supressão do poder constituinte.",
+    "C": "falência da sociedade burguesa.",
+    "D": "paridade do tratamento jurídico.",
+    "E": "abolição dos partidos políticos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Declaração de 1789 afirma direitos naturais e iguais para todos os homens, contra a sociedade de ordens do Antigo Regime, em que clero e nobreza tinham privilégios. Ela estabelece a <strong>paridade do tratamento jurídico</strong>: todos são iguais perante a lei. Alternativa <strong>D</strong>.</p><p>A Declaração favorece a burguesia, não sua falência (C), e funda o poder constituinte, em vez de suprimi-lo (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Declaração dos Direitos do Homem",
+    "igualdade jurídica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 42,
+   "materia": "História",
+   "assunto": "Grécia antiga",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "<p class=\"apoio\">Na Grécia, o conceito de povo abrange tão somente aqueles indivíduos considerados cidadãos.</p><p class=\"apoio\">Assim é possível perceber que o conceito de povo era muito restritivo. Mesmo tendo isso em conta, a forma democrática vivenciada e experimentada pelos gregos atenienses nos séculos IV e V a.C. pode ser caracterizada, fundamentalmente, como direta.</p><p class=\"fonte\">MANDUCO, A. Ciência política. São Paulo: Saraiva, 2011.</p><p>Naquele contexto, a emergência do sistema de governo mencionado no excerto promoveu o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "competição para a escolha de representantes.",
+    "B": "campanha pela revitalização das oligarquias.",
+    "C": "estabelecimento de mandatos temporários.",
+    "D": "declínio da sociedade civil organizada.",
+    "E": "participação no exercício do poder."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na democracia direta de Atenas, os cidadãos (homens livres, filhos de atenienses) votavam pessoalmente as leis na assembleia. Embora o conceito de cidadão fosse restrito, o sistema promoveu a <strong>participação no exercício do poder</strong>. Alternativa <strong>E</strong>.</p><p>Escolher representantes (A) é próprio da democracia indireta; a democracia enfraqueceu, não revitalizou, as oligarquias (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "democracia ateniense",
+    "cidadania"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 43,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p>[[fig:1]]<p class=\"fonte\">Rio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">O Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.</p><p class=\"fonte\">Disponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).</p><p>Considerando a análise dos textos, a condição atual desse rio tem como origem a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-humanas/q88.webp",
+     "alt": "Foto aérea do Rio Tietê em São Paulo, com as marginais de várias pistas dos dois lados, pontes e a cidade densamente construída ao fundo."
+    }
+   ],
+   "alternativas": {
+    "A": "valorização do sítio urbano.",
+    "B": "extinção da vegetação nativa.",
+    "C": "recepção de densa carga de dejetos.",
+    "D": "captação desordenada do regime pluvial.",
+    "E": "expansão do uso de defensivos químicos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A foto mostra o Tietê cortando a metrópole paulistana, e o texto diz que 137 km do rio, na Região Metropolitana, não têm oxigênio para a vida. A morte do rio vem da <strong>recepção de densa carga de dejetos</strong>, esgoto doméstico e industrial lançado sem tratamento. Alternativa <strong>C</strong>.</p><p>Defensivos agrícolas (E) não são a principal fonte num trecho urbano; a vegetação e as chuvas (B e D) não explicam a falta de oxigênio.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "poluição hídrica",
+    "Rio Tietê"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "Filosofia",
+   "assunto": "Empirismo",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p class=\"apoio\">Adão, ainda que supuséssemos que suas faculdades racionais fossem inteiramente perfeitas desde o início, não poderia ter inferido da fluidez e transparência da água que ela o sufocaria, nem da luminosidade e calor do fogo que este poderia consumi-lo. Nenhum objeto jamais revela, pelas qualidades que aparecem aos sentidos, nem as causas que o produziram, nem os efeitos que dele provirão; e tampouco nossa razão é capaz de extrair, sem auxílio da experiência, qualquer conclusão referente à existência efetiva de coisas ou questões de fato.</p><p class=\"fonte\">HUME, D. Uma investigação sobre o entendimento humano. São Paulo: Unesp, 2003.</p><p>Segundo o autor, qual é a origem do conhecimento humano?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A potência inata da mente.",
+    "B": "A revelação da inspiração divina.",
+    "C": "O estudo das tradições filosóficas.",
+    "D": "A vivência dos fenômenos do mundo.",
+    "E": "O desenvolvimento do raciocínio abstrato."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Hume diz que nem Adão, com a razão perfeita, saberia que a água afoga ou que o fogo queima sem a experiência. Nenhum objeto revela suas causas e efeitos só pela aparência: o conhecimento vem da <strong>vivência dos fenômenos do mundo</strong>. É o empirismo. Alternativa <strong>D</strong>.</p><p>Hume nega ideias inatas (A) e o raciocínio puro como fonte das questões de fato (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Hume",
+    "empirismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">O aumento de casos suspeitos de febre amarela em Minas pode estar relacionado à tragédia de Mariana, em 2015, segundo a bióloga da Fiocruz Márcia Chame.</p><p class=\"apoio\">A hipótese tem como ponto de partida a localização das cidades mineiras que identificaram até o momento casos de pacientes com sintomas da doença. Grande parte está na região próxima do Rio Doce, afetado pelo rompimento da Barragem de Fundão, em novembro de 2015.</p><p class=\"fonte\">FORMENTI, L. Para bióloga, surto de febre amarela pode ter relação com tragédia de Mariana. O Estado de São Paulo, 14 jan. 2017.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Por outro lado, Servio Ribeiro considera remota a possibilidade de influência da tragédia de Mariana (MG) neste surto de febre amarela em Minas Gerais. “A febre amarela é uma doença de interior de floresta. O mosquito que a transmite põe ovos em cavidades de árvores e em bromélias. É um mosquito da estrutura da floresta. Ele não se relaciona muito com grandes corpos-d’água e com rios. As cidades afetadas pela doença estão em uma região onde os rejeitos não chegaram com força para derrubar a floresta”, diz o biólogo.</p><p class=\"fonte\">RODRIGUES, L. Especialistas investigam relação entre febre amarela e degradação ambiental. Agência Brasil, 25 jan. 2017.</p><p>Sobre a tragédia de Mariana, os textos apresentam divergência quanto ao(à)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "poluição dos rios locais.",
+    "B": "identificação da área afetada.",
+    "C": "destruição da vegetação nativa.",
+    "D": "aparecimento de enfermidade endêmica.",
+    "E": "surgimento de comunidades desabrigadas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A bióloga do texto I acha que o surto de febre amarela pode ter relação com o desastre de Mariana; o pesquisador do texto II considera essa relação remota, porque o mosquito vive no interior da floresta. Os dois concordam sobre o desastre, mas divergem sobre o <strong>aparecimento de enfermidade endêmica</strong> como consequência dele. Alternativa <strong>D</strong>.</p><p>Nenhum dos dois discute a poluição dos rios, a área afetada ou os desabrigados (A, B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "febre amarela",
+    "Mariana"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

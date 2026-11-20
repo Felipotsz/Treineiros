@@ -1,0 +1,1247 @@
+{
+ "id": "enem-2009-matematica",
+ "banca": "Enem",
+ "ano": 2009,
+ "titulo": "Enem 2009: Matemática",
+ "fonte": "Inep",
+ "dataExame": "2009-12-06",
+ "duracaoMinutos": 150,
+ "area": "Matemática",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 136
+   },
+   "enunciado": "<p>Dados da Associação Nacional de Empresas de Transportes Urbanos (ANTU) mostram que o número de passageiros transportados mensalmente nas principais regiões metropolitanas do país vem caindo sistematicamente. Eram 476,7 milhões de passageiros em 1995, e esse número caiu para 321,9 milhões em abril de 2001. Nesse período, o tamanho da frota de veículos mudou pouco, tendo no final de 2008 praticamente o mesmo tamanho que tinha em 2001. O gráfico a seguir mostra um índice de produtividade utilizado pelas empresas do setor, que é a razão entre o total de passageiros transportados por dia e o tamanho da frota de veículos.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://www.ntu.org.br. Acesso em 16 jul. 2009 (adaptado).</p><p>Supondo que as frotas totais de veículos naquelas regiões metropolitanas em abril de 2001 e em outubro de 2008 eram do mesmo tamanho, os dados do gráfico permitem inferir que o total de passageiros transportados no mês de outubro de 2008 foi aproximadamente igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q136.webp",
+     "alt": "Gráfico “Capitais brasileiras – Sistema de Ônibus Urbano: passageiros transportados por veículo/dia, 1995 a 2008”, em linha, de out/95 a out/08: começa em 631, cai para cerca de 500 em 1998 e oscila entre 391 e 463 depois de 2000; em abr/01 marca 400 e em out/08, 441."
+    }
+   ],
+   "alternativas": {
+    "A": "355 milhões.",
+    "B": "400 milhões.",
+    "C": "426 milhões.",
+    "D": "441 milhões.",
+    "E": "477 milhões."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O índice é passageiros por veículo, e a frota é a mesma em abril de 2001 e outubro de 2008. Então o total de passageiros é proporcional ao índice: em abril de 2001 o índice era 400 e foram 321,9 milhões de passageiros; em outubro de 2008 o índice é 441. Total: 321,9 × 441 ÷ 400 ≈ <strong>355 milhões</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 137
+   },
+   "enunciado": "<p>O mapa ao lado representa um bairro de determinada cidade, no qual as flechas indicam o sentido das mãos do tráfego. Sabe-se que esse bairro foi planejado e que cada quadra representada na figura é um terreno quadrado, de lado igual a 200 metros. Desconsiderando-se a largura das ruas, qual seria o tempo, em minutos, que um ônibus, em velocidade constante e igual a 40 km/h, partindo do ponto X, demoraria para chegar até o ponto Y?</p>[[fig:1]]",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q137.webp",
+     "alt": "Mapa de um bairro em grade, com quarteirões quadrados e setas indicando o sentido das ruas. O ponto X fica numa rua do lado esquerdo e o ponto Y numa rua mais acima e à direita."
+    }
+   ],
+   "alternativas": {
+    "A": "25 min.",
+    "B": "15 min.",
+    "C": "2,5 min.",
+    "D": "1,5 min.",
+    "E": "0,15 min."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Seguindo as mãos de tráfego, o caminho mais curto de X a Y percorre 5 lados de quadra: 5 × 200 m = 1 km. A 40 km/h, o tempo é 1/40 h = 60/40 min = <strong>1,5 min</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade",
+    "trajeto"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Função exponencial",
+   "origem": {
+    "numeroOriginal": 138
+   },
+   "enunciado": "<p class=\"apoio\">A população mundial está ficando mais velha, os índices de natalidade diminuíram e a expectativa de vida aumentou. No gráfico seguinte, são apresentados dados obtidos por pesquisa realizada pela Organização das Nações Unidas (ONU), a respeito da quantidade de pessoas com 60 anos ou mais em todo o mundo. Os números da coluna da direita representam as faixas percentuais. Por exemplo, em 1950 havia 95 milhões de pessoas com 60 anos ou mais nos países desenvolvidos, número entre 10% e 15% da população total nos países desenvolvidos.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.economist.com. Acesso em: 9 jul. 2009 (adaptado).</p><p>Suponha que o modelo exponencial \\(y = 363e^{0{,}03x}\\), em que x = 0 corresponde ao ano 2000, x = 1 corresponde ao ano 2001, e assim sucessivamente, e que y é a população em milhões de habitantes no ano x, seja usado para estimar essa população com 60 anos ou mais de idade nos países em desenvolvimento entre 2010 e 2050. Desse modo, considerando \\(e^{0{,}3} = 1{,}35\\), estima-se que a população com 60 anos ou mais estará, em 2030, entre</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q138.webp",
+     "alt": "Gráfico de 1950 a 2050 (com estimativas a partir de 2010) da população com 60 anos ou mais, em milhões, e da faixa percentual da população total (eixo da direita, de 0 a 35%). Países desenvolvidos: 95 milhões em 1950, 269 em 2010 e 461 em 2050, chegando perto de 32% da população. Países em desenvolvimento: 110 milhões em 1950, 490 em 2010 e 1.592 em 2050, chegando a cerca de 20%."
+    }
+   ],
+   "alternativas": {
+    "A": "490 e 510 milhões.",
+    "B": "550 e 620 milhões.",
+    "C": "780 e 800 milhões.",
+    "D": "810 e 860 milhões.",
+    "E": "870 e 910 milhões."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>2030 corresponde a x = 30: y = 363 · e<sup>0,9</sup> = 363 · (e<sup>0,3</sup>)<sup>3</sup> = 363 · 1,35<sup>3</sup> ≈ 363 · 2,46 ≈ 893 milhões, entre 870 e 910 milhões. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função exponencial",
+    "potências"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 139
+   },
+   "enunciado": "<p class=\"apoio\">A população mundial está ficando mais velha, os índices de natalidade diminuíram e a expectativa de vida aumentou. No gráfico seguinte, são apresentados dados obtidos por pesquisa realizada pela Organização das Nações Unidas (ONU), a respeito da quantidade de pessoas com 60 anos ou mais em todo o mundo. Os números da coluna da direita representam as faixas percentuais. Por exemplo, em 1950 havia 95 milhões de pessoas com 60 anos ou mais nos países desenvolvidos, número entre 10% e 15% da população total nos países desenvolvidos.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.economist.com. Acesso em: 9 jul. 2009 (adaptado).</p><p>Em 2050, a probabilidade de se escolher, aleatoriamente, uma pessoa com 60 anos ou mais de idade, na população dos países desenvolvidos, será um número mais próximo de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q138.webp",
+     "alt": "Gráfico de 1950 a 2050 (com estimativas a partir de 2010) da população com 60 anos ou mais, em milhões, e da faixa percentual da população total (eixo da direita, de 0 a 35%). Países desenvolvidos: 95 milhões em 1950, 269 em 2010 e 461 em 2050, chegando perto de 32% da população. Países em desenvolvimento: 110 milhões em 1950, 490 em 2010 e 1.592 em 2050, chegando a cerca de 20%."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{2}\\)",
+    "B": "\\(\\dfrac{7}{20}\\)",
+    "C": "\\(\\dfrac{8}{25}\\)",
+    "D": "\\(\\dfrac{1}{5}\\)",
+    "E": "\\(\\dfrac{3}{25}\\)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pelo gráfico, em 2050 cerca de 32% da população dos países desenvolvidos terá 60 anos ou mais. A probabilidade é próxima de 0,32 = \\(\\tfrac{8}{25}\\). Alternativa <strong>C</strong>.</p><p>A faixa percentual é lida no eixo da direita.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Áreas",
+   "origem": {
+    "numeroOriginal": 140
+   },
+   "enunciado": "<p>O governo cedeu terrenos para que famílias construíssem suas residências com a condição de que no mínimo 94% da área do terreno fosse mantida como área de preservação ambiental. Ao receber o terreno retangular ABCD, em que \\(AB = \\dfrac{BC}{2}\\), Antônio demarcou uma área quadrada no vértice A, para a construção de sua residência, de acordo com o desenho, no qual \\(AE = \\dfrac{AB}{5}\\) é lado do quadrado.</p>[[fig:1]]<p>Nesse caso, a área definida por Antônio atingiria exatamente o limite determinado pela condição se ele</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q140.webp",
+     "alt": "Retângulo ABCD com AB na vertical (lado esquerdo) e BC na horizontal; no canto A, um pequeno quadrado de lado AE, com E sobre AD."
+    }
+   ],
+   "alternativas": {
+    "A": "duplicasse a medida do lado do quadrado.",
+    "B": "triplicasse a medida do lado do quadrado.",
+    "C": "triplicasse a área do quadrado.",
+    "D": "ampliasse a medida do lado do quadrado em 4%.",
+    "E": "ampliasse a área do quadrado em 4%."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Com AB = a, BC = 2a: o terreno tem 2a². O quadrado tem lado AE = a/5 e área a²/25, que é 1/50 = 2% do terreno. O limite é 100% − 94% = 6%, o triplo de 2%: ele pode triplicar a área do quadrado. Alternativa <strong>C</strong>.</p><p>Triplicar o lado (B) multiplicaria a área por 9 (18%).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área do retângulo",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 141
+   },
+   "enunciado": "<p class=\"apoio\">Uma resolução do Conselho Nacional de Política Energética (CNPE) estabeleceu a obrigatoriedade de adição de biodísel ao óleo dísel comercializado nos postos. A exigência é que, a partir de 1.º de julho de 2009, 4% do volume da mistura final seja formada por biodísel. Até junho de 2009, esse percentual era de 3%. Essa medida estimula a demanda de biodísel, bem como possibilita a redução da importação de dísel de petróleo.</p><p class=\"fonte\">Disponível em: http://www1.folha.uol.com.br. Acesso em: 12 jul. 2009 (adaptado).</p><p>Estimativas indicam que, com a adição de 4% de biodísel ao dísel, serão consumidos 925 milhões de litros de biodísel no segundo semestre de 2009.</p><p>Considerando-se essa estimativa, para o mesmo volume da mistura final dísel/biodísel consumida no segundo semestre de 2009, qual seria o consumo de biodísel com a adição de 3%?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "27,75 milhões de litros.",
+    "B": "37,00 milhões de litros.",
+    "C": "231,25 milhões de litros.",
+    "D": "693,75 milhões de litros.",
+    "E": "888,00 milhões de litros."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Se 4% da mistura são 925 milhões de litros, a mistura total é 925 ÷ 0,04 = 23 125 milhões de litros. Com 3%: 0,03 × 23 125 = <strong>693,75 milhões de litros</strong>. Alternativa <strong>D</strong>.</p><p>Outra forma: 925 × 3/4 = 693,75.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 142
+   },
+   "enunciado": "<p class=\"apoio\">A suspeita de que haveria uma relação causal entre tabagismo e câncer de pulmão foi levantada pela primeira vez a partir de observações clínicas. Para testar essa possível associação, foram conduzidos inúmeros estudos epidemiológicos. Dentre esses, houve o estudo do número de casos de câncer em relação ao número de cigarros consumidos por dia, cujos resultados são mostrados no gráfico a seguir.</p>[[fig:1]]<p class=\"fonte\">Centers for Disease Control and Prevention CDC-EIS Summer Course – 1992 (adaptado).</p><p>De acordo com as informações do gráfico,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q142.webp",
+     "alt": "Gráfico “Casos de câncer pulmonar dado o número de cigarros consumidos diariamente”: com 0 cigarros, cerca de 2 casos; de 1 a 14 cigarros, constante em cerca de 20 casos; de 15 a 25 cigarros, constante em cerca de 52 casos."
+    }
+   ],
+   "alternativas": {
+    "A": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas inversamente proporcionais.",
+    "B": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que não se relacionam.",
+    "C": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas diretamente proporcionais.",
+    "D": "uma pessoa não fumante certamente nunca será diagnosticada com câncer de pulmão.",
+    "E": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que estão relacionadas, mas sem proporcionalidade."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O gráfico tem degraus: até 14 cigarros por dia o número de casos fica constante (cerca de 20), e acima disso salta e fica constante de novo (cerca de 50). As grandezas estão relacionadas (mais cigarros, mais casos), mas não há proporção constante entre elas. Alternativa <strong>E</strong>.</p><p>Há casos mesmo com 0 cigarros, então D é falsa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "grandezas proporcionais",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 143
+   },
+   "enunciado": "<p>O gráfico a seguir mostra a evolução, de abril de 2008 a maio de 2009, da população economicamente ativa para seis Regiões Metropolitanas pesquisadas.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.ibge.gov.br.</p><p>Considerando que a taxa de crescimento da população economicamente ativa, entre 05/09 e 06/09, seja de 4%, então o número de pessoas economicamente ativas em 06/09 será igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q143.webp",
+     "alt": "Gráfico de linha “População economicamente ativa (em mil pessoas)”, de 04/08 a 05/09: começa em 22.811, cai para 22.741 em 05/08, sobe até cerca de 23.300 em 10/08, oscila e termina com 22.959 em 04/09 e 23.020 em 05/09."
+    }
+   ],
+   "alternativas": {
+    "A": "23.940.",
+    "B": "32.228.",
+    "C": "920.800.",
+    "D": "23.940.800.",
+    "E": "32.228.000."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em 05/09 o gráfico marca 23.020 mil pessoas, ou 23 020 000. Com 4% de crescimento: 23 020 000 × 1,04 = <strong>23 940 800</strong>. Alternativa <strong>D</strong>.</p><p>A opção A esquece que os valores estão em milhares.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aumento percentual",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Frações",
+   "origem": {
+    "numeroOriginal": 144
+   },
+   "enunciado": "<p>A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte.</p>[[fig:1]]<p>Um compasso é uma unidade musical composta por determinada quantidade de notas musicais em que a soma das durações coincide com a fração indicada como fórmula do compasso. Por exemplo, se a fórmula de compasso for \\(\\tfrac{1}{2}\\), poderia ter um compasso ou com duas semínimas ou uma mínima ou quatro colcheias, sendo possível a combinação de diferentes figuras.</p><p>Um trecho musical de oito compassos, cuja fórmula é \\(\\tfrac{3}{4}\\), poderia ser preenchido com</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q144.webp",
+     "alt": "Quadro com as figuras musicais e suas durações: semibreve 1, mínima 1/2, semínima 1/4, colcheia 1/8, semicolcheia 1/16, fusa 1/32 e semifusa 1/64."
+    }
+   ],
+   "alternativas": {
+    "A": "24 fusas.",
+    "B": "3 semínimas.",
+    "C": "8 semínimas.",
+    "D": "24 colcheias e 12 semínimas.",
+    "E": "16 semínimas e 8 semicolcheias."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Cada compasso de fórmula 3/4 soma 3/4; oito compassos somam 8 × 3/4 = 6, o equivalente a 24 semínimas (1/4). A opção D dá 24 × 1/8 + 12 × 1/4 = 3 + 3 = 6. Alternativa <strong>D</strong>.</p><p>16 semínimas e 8 semicolcheias (E) somam 4 + 1/2 = 4,5.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "soma de frações",
+    "música"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 145
+   },
+   "enunciado": "<p>O controle de qualidade de uma empresa fabricante de telefones celulares aponta que a probabilidade de um aparelho de determinado modelo apresentar defeito de fabricação é de 0,2%. Se uma loja acaba de vender 4 aparelhos desse modelo para um cliente, qual é a probabilidade de esse cliente sair da loja com exatamente dois aparelhos defeituosos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2 × (0,2%)<sup>4</sup>.",
+    "B": "4 × (0,2%)<sup>2</sup>.",
+    "C": "6 × (0,2%)<sup>2</sup> × (99,8%)<sup>2</sup>.",
+    "D": "4 × (0,2%).",
+    "E": "6 × (0,2%) × (99,8%)."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Há \\(\\binom{4}{2} = 6\\) maneiras de escolher quais 2 dos 4 aparelhos são defeituosos. Cada uma tem probabilidade (0,2%)² × (99,8%)². Total: 6 × (0,2%)² × (99,8%)². Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "distribuição binomial",
+    "combinação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 146
+   },
+   "enunciado": "<p>Uma pousada oferece pacotes promocionais para atrair casais a se hospedarem por até oito dias. A hospedagem seria em apartamento de luxo e, nos três primeiros dias, a diária custaria R$ 150,00, preço da diária fora da promoção. Nos três dias seguintes, seria aplicada uma redução no valor da diária, cuja taxa média de variação, a cada dia, seria de R$ 20,00. Nos dois dias restantes, seria mantido o preço do sexto dia. Nessas condições, um modelo para a promoção idealizada é apresentado no gráfico a seguir, no qual o valor da diária é função do tempo medido em número de dias.</p>[[fig:1]]<p>De acordo com os dados e com o modelo, comparando o preço que um casal pagaria pela hospedagem por sete dias fora da promoção, um casal que adquirir o pacote promocional por oito dias fará uma economia de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q146.webp",
+     "alt": "Gráfico do valor da diária em função do tempo (dias 1 a 8): constante em 150 até o dia 3, decrescendo em linha reta até o dia 6 e constante do dia 6 ao dia 8."
+    }
+   ],
+   "alternativas": {
+    "A": "R$ 90,00.",
+    "B": "R$ 110,00.",
+    "C": "R$ 130,00.",
+    "D": "R$ 150,00.",
+    "E": "R$ 170,00."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Sete dias fora da promoção: 7 × 150 = R$ 1.050. Pacote de oito dias: 3 × 150 + 130 + 110 + 90 + 2 × 90 = 450 + 330 + 180 = R$ 960. Economia: 1 050 − 960 = <strong>R$ 90,00</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função afim por partes"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 147
+   },
+   "enunciado": "<p>As figuras a seguir exibem um trecho de um quebra-cabeças que está sendo montado. Observe que as peças são quadradas e há 8 peças no tabuleiro da figura A e 8 peças no tabuleiro da figura B. As peças são retiradas do tabuleiro da figura B e colocadas no tabuleiro da figura A na posição correta, isto é, de modo a completar os desenhos.</p>[[fig:1]]<p><strong>Figura A</strong></p>[[fig:2]]<p><strong>Figura B</strong></p><p class=\"fonte\">Disponível em: http://pt.eternityii.com. Acesso em: 14 jul. 2009.</p><p>É possível preencher corretamente o espaço indicado pela seta no tabuleiro da figura A colocando a peça</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q147a.webp",
+     "alt": "Figura A: tabuleiro 4 × 4 com 8 peças quadradas decoradas, formando faixas de desenhos; uma seta aponta para uma casa vazia na parte de baixo."
+    },
+    {
+     "src": "assets/img/enem-2009-matematica/q147b.webp",
+     "alt": "Figura B: tabuleiro 4 × 4 com 8 peças decoradas; duas delas, na fileira de baixo, são indicadas como peça 1 e peça 2."
+    }
+   ],
+   "alternativas": {
+    "A": "1 após girá-la 90° no sentido horário.",
+    "B": "1 após girá-la 180° no sentido anti-horário.",
+    "C": "2 após girá-la 90° no sentido anti-horário.",
+    "D": "2 após girá-la 180° no sentido horário.",
+    "E": "2 após girá-la 270° no sentido anti-horário."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A posição indicada pela seta precisa de uma peça que continue os desenhos das peças vizinhas. A peça 2, girada 90° no sentido anti-horário, encaixa os desenhos nos lados certos. Alternativa <strong>C</strong>.</p><p>Girar 270° no sentido anti-horário (E) equivale a 90° no horário, o que deixa o desenho invertido.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rotação",
+    "visualização"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 148
+   },
+   "enunciado": "<p>A tabela mostra alguns dados da emissão de dióxido de carbono de uma fábrica, em função do número de toneladas produzidas.</p><table class=\"tabela\"><thead><tr><th>Produção (em toneladas)</th><th>Emissão de dióxido de carbono (em partes por milhão – ppm)</th></tr></thead><tbody><tr><td>1,1</td><td>2,14</td></tr><tr><td>1,2</td><td>2,30</td></tr><tr><td>1,3</td><td>2,46</td></tr><tr><td>1,4</td><td>2,64</td></tr><tr><td>1,5</td><td>2,83</td></tr><tr><td>1,6</td><td>3,03</td></tr><tr><td>1,7</td><td>3,25</td></tr><tr><td>1,8</td><td>3,48</td></tr><tr><td>1,9</td><td>3,73</td></tr><tr><td>2,0</td><td>4,00</td></tr></tbody></table><p class=\"fonte\">Cadernos do Gestar II, Matemática TP3. Disponível em: www.mec.gov.br. Acesso em: 14 jul. 2009.</p><p>Os dados na tabela indicam que a taxa média de variação entre a emissão de dióxido de carbono (em ppm) e a produção (em toneladas) é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "inferior a 0,18.",
+    "B": "superior a 0,18 e inferior a 0,50.",
+    "C": "superior a 0,50 e inferior a 1,50.",
+    "D": "superior a 1,50 e inferior a 2,80.",
+    "E": "superior a 2,80."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Taxa média de variação = (4,00 − 2,14) ÷ (2,0 − 1,1) = 1,86 ÷ 0,9 ≈ 2,07 ppm por tonelada, entre 1,50 e 2,80. Alternativa <strong>D</strong>.</p><p>A taxa média de variação é a inclinação da reta que liga o primeiro ao último ponto da tabela: variação da emissão dividida pela variação da produção.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "taxa média de variação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 149
+   },
+   "enunciado": "<p>Em Florença, Itália, na Igreja de Santa Croce, é possível encontrar um portão em que aparecem os anéis de Borromeo. Alguns historiadores acreditavam que os círculos representavam as três artes: escultura, pintura e arquitetura, pois elas eram tão próximas quanto inseparáveis.</p>[[fig:1]]<p class=\"fonte\"><em>Scientific American</em>, ago. 2008.</p><p>Qual dos esboços a seguir melhor representa os anéis de Borromeo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q149.webp",
+     "alt": "Fotografia de um portão de ferro ornamentado com três anéis entrelaçados no centro."
+    },
+    {
+     "src": "assets/img/enem-2009-matematica/q149a.webp",
+     "alt": "Esboço A: três círculos sobrepostos; os cruzamentos se alternam de modo que dois dos anéis ficam entrelaçados entre si."
+    },
+    {
+     "src": "assets/img/enem-2009-matematica/q149b.webp",
+     "alt": "Esboço B: três círculos sobrepostos com outra combinação de cruzamentos por cima e por baixo."
+    },
+    {
+     "src": "assets/img/enem-2009-matematica/q149c.webp",
+     "alt": "Esboço C: três círculos sobrepostos com outra combinação de cruzamentos."
+    },
+    {
+     "src": "assets/img/enem-2009-matematica/q149d.webp",
+     "alt": "Esboço D: três círculos sobrepostos com outra combinação de cruzamentos."
+    },
+    {
+     "src": "assets/img/enem-2009-matematica/q149e.webp",
+     "alt": "Esboço E: três círculos sobrepostos em que cada anel passa por cima de um dos outros e por baixo do terceiro."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Nos anéis de Borromeo, os três anéis ficam presos juntos, mas nenhum par está entrelaçado: cada anel passa por cima de um e por baixo do outro, de modo que, se qualquer um for retirado, os outros dois se soltam. É o que mostra o esboço E. Alternativa <strong>E</strong>.</p><p>Nos outros esboços, algum par de anéis fica entrelaçado ou os três ficam soltos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anéis de Borromeo",
+    "visualização"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 150
+   },
+   "enunciado": "<p>Brasil e França têm relações comerciais há mais de 200 anos. Enquanto a França é a 5.ª nação mais rica do planeta, o Brasil é a 10.ª, e ambas se destacam na economia mundial. No entanto, devido a uma série de restrições, o comércio entre esses dois países ainda não é adequadamente explorado, como mostra a tabela seguinte, referente ao período 2003-2007.</p><p class=\"apoio\"><strong>Investimentos Bilaterais (em milhões de dólares)</strong></p><table class=\"tabela\"><thead><tr><th>Ano</th><th>Brasil na França</th><th>França no Brasil</th></tr></thead><tbody><tr><td>2003</td><td>367</td><td>825</td></tr><tr><td>2004</td><td>357</td><td>485</td></tr><tr><td>2005</td><td>354</td><td>1.458</td></tr><tr><td>2006</td><td>539</td><td>744</td></tr><tr><td>2007</td><td>280</td><td>1.214</td></tr></tbody></table><p class=\"fonte\">Disponível em: www.cartacapital.com.br. Acesso em: 7 jul. 2009.</p><p>Os dados da tabela mostram que, no período considerado, os valores médios dos investimentos da França no Brasil foram maiores que os investimentos do Brasil na França em um valor</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "inferior a 300 milhões de dólares.",
+    "B": "superior a 300 milhões de dólares, mas inferior a 400 milhões de dólares.",
+    "C": "superior a 400 milhões de dólares, mas inferior a 500 milhões de dólares.",
+    "D": "superior a 500 milhões de dólares, mas inferior a 600 milhões de dólares.",
+    "E": "superior a 600 milhões de dólares."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Média da França no Brasil: (825 + 485 + 1 458 + 744 + 1 214) ÷ 5 = 945,2. Média do Brasil na França: (367 + 357 + 354 + 539 + 280) ÷ 5 = 379,4. Diferença: 565,8 milhões de dólares, entre 500 e 600 milhões. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média aritmética"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Equações",
+   "origem": {
+    "numeroOriginal": 151
+   },
+   "enunciado": "<p>Um grupo de 50 pessoas fez um orçamento inicial para organizar uma festa, que seria dividido entre elas em cotas iguais. Verificou-se ao final que, para arcar com todas as despesas, faltavam R$ 510,00, e que 5 novas pessoas haviam ingressado no grupo. No acerto foi decidido que a despesa total seria dividida em partes iguais pelas 55 pessoas. Quem não havia ainda contribuído pagaria a sua parte, e cada uma das 50 pessoas do grupo inicial deveria contribuir com mais R$ 7,00. De acordo com essas informações, qual foi o valor da cota calculada no acerto final para cada uma das 55 pessoas?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 14,00.",
+    "B": "R$ 17,00.",
+    "C": "R$ 22,00.",
+    "D": "R$ 32,00.",
+    "E": "R$ 57,00."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Seja c a cota final. A despesa total é 55c. Cada um dos 50 já tinha pago c − 7, e faltavam R$ 510: 50(c − 7) + 510 = 55c. Então 50c − 350 + 510 = 55c, 5c = 160 e c = <strong>R$ 32,00</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação do 1º grau"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 152
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Técnicos concluem mapeamento do aquífero Guarani</strong></p><p class=\"apoio\">O aquífero Guarani localiza-se no subterrâneo dos territórios da Argentina, Brasil, Paraguai e Uruguai, com extensão total de 1.200.000 quilômetros quadrados, dos quais 840.000 quilômetros quadrados estão no Brasil. O aquífero armazena cerca de 30 mil quilômetros cúbicos de água e é considerado um dos maiores do mundo. Na maioria das vezes em que são feitas referências à água, são usadas as unidades metro cúbico e litro, e não as unidades já descritas. A Companhia de Saneamento Básico do Estado de São Paulo (SABESP) divulgou, por exemplo, um novo reservatório cuja capacidade de armazenagem é de 20 milhões de litros.</p><p class=\"fonte\">Disponível em: http://noticias.terra.com.br. Acesso em: 10 jul. 2009 (adaptado).</p><p>Comparando as capacidades do aquífero Guarani e desse novo reservatório da SABESP, a capacidade do aquífero Guarani é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,5 × 10<sup>2</sup> vezes a capacidade do reservatório novo.",
+    "B": "1,5 × 10<sup>3</sup> vezes a capacidade do reservatório novo.",
+    "C": "1,5 × 10<sup>6</sup> vezes a capacidade do reservatório novo.",
+    "D": "1,5 × 10<sup>8</sup> vezes a capacidade do reservatório novo.",
+    "E": "1,5 × 10<sup>9</sup> vezes a capacidade do reservatório novo."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>30 mil km³ = 3 × 10<sup>4</sup> × 10<sup>9</sup> m³ = 3 × 10<sup>13</sup> m³ = 3 × 10<sup>16</sup> litros. O reservatório tem 2 × 10<sup>7</sup> litros. Razão: 3 × 10<sup>16</sup> ÷ (2 × 10<sup>7</sup>) = 1,5 × 10<sup>9</sup>. Alternativa <strong>E</strong>.</p><p>Lembre: 1 km³ = 10<sup>9</sup> m³ e 1 m³ = 10<sup>3</sup> L.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conversão de unidades",
+    "notação científica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 153
+   },
+   "enunciado": "<p>Suponha que, na escultura do artista Emanoel Araújo, mostrada na figura a seguir, todos os prismas numerados em algarismos romanos são retos, com bases triangulares, e que as faces laterais do poliedro II são perpendiculares à sua própria face superior, que, por sua vez, é um triângulo congruente ao triângulo base dos prismas. Além disso, considere que os prismas I e III são perpendiculares ao prisma IV e ao poliedro II.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.escritosriodearte.com.br. Acesso em: 28 jul. 2009.</p><p>Imagine um plano paralelo à face α do prisma I, mas que passe pelo ponto P pertencente à aresta do poliedro II, indicado na figura. A interseção desse plano imaginário com a escultura contém</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q153.webp",
+     "alt": "Fotografia de uma escultura de Emanoel Araújo formada por prismas escuros de base triangular encaixados; estão marcados os prismas I, III e IV, o poliedro II, a face α do prisma I e o ponto P numa aresta do poliedro II."
+    }
+   ],
+   "alternativas": {
+    "A": "dois triângulos congruentes com lados correspondentes paralelos.",
+    "B": "dois retângulos congruentes e com lados correspondentes paralelos.",
+    "C": "dois trapézios congruentes com lados correspondentes perpendiculares.",
+    "D": "dois paralelogramos congruentes com lados correspondentes paralelos.",
+    "E": "dois quadriláteros congruentes com lados correspondentes perpendiculares."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O plano paralelo à face α passa pelo ponto P e corta os prismas I e III, que são perpendiculares ao plano da face α do prisma I e iguais entre si. As seções são cópias da base triangular desses prismas: dois triângulos congruentes com lados correspondentes paralelos. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "seções planas",
+    "prismas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Semelhança de triângulos",
+   "origem": {
+    "numeroOriginal": 154
+   },
+   "enunciado": "<p>A rampa de um hospital tem na sua parte mais elevada uma altura de 2,2 metros. Um paciente ao caminhar sobre a rampa percebe que se deslocou 3,2 metros e alcançou uma altura de 0,8 metro. A distância em metros que o paciente ainda deve caminhar para atingir o ponto mais alto da rampa é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,16 metros.",
+    "B": "3,0 metros.",
+    "C": "5,4 metros.",
+    "D": "5,6 metros.",
+    "E": "7,04 metros."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A rampa é a hipotenusa de triângulos semelhantes: andar 3,2 m faz subir 0,8 m, então cada metro de rampa sobe 0,25 m. Para subir 2,2 m é preciso andar 2,2 ÷ 0,25 = 8,8 m. Faltam 8,8 − 3,2 = <strong>5,6 m</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "semelhança",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Função quadrática",
+   "origem": {
+    "numeroOriginal": 155
+   },
+   "enunciado": "<p>Um posto de combustível vende 10.000 litros de álcool por dia a R$ 1,50 cada litro. Seu proprietário percebeu que, para cada centavo de desconto que concedia por litro, eram vendidos 100 litros a mais por dia. Por exemplo, no dia em que o preço do álcool foi R$ 1,48, foram vendidos 10.200 litros. Considerando x o valor, em centavos, do desconto dado no preço de cada litro, e V o valor, em R$, arrecadado por dia com a venda do álcool, então a expressão que relaciona V e x é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "V = 10.000 + 50x – x<sup>2</sup>.",
+    "B": "V = 10.000 + 50x + x<sup>2</sup>.",
+    "C": "V = 15.000 – 50x – x<sup>2</sup>.",
+    "D": "V = 15.000 + 50x – x<sup>2</sup>.",
+    "E": "V = 15.000 – 50x + x<sup>2</sup>."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com desconto de x centavos, o preço é (1,50 − 0,01x) reais e a venda é (10 000 + 100x) litros. V = (1,50 − 0,01x)(10 000 + 100x) = 15 000 + 150x − 100x − x² = 15 000 + 50x − x². Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função quadrática",
+    "modelagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Números",
+   "origem": {
+    "numeroOriginal": 156
+   },
+   "enunciado": "<p>Para cada indivíduo, a sua inscrição no Cadastro de Pessoas Físicas (CPF) é composto por um número de 9 algarismos e outro número de 2 algarismos, na forma d<sub>1</sub>d<sub>2</sub>, em que os dígitos d<sub>1</sub> e d<sub>2</sub> são denominados dígitos verificadores. Os dígitos verificadores são calculados, a partir da esquerda, da seguinte maneira: os 9 primeiros algarismos são multiplicados pela sequência 10, 9, 8, 7, 6, 5, 4, 3, 2 (o primeiro por 10, o segundo por 9, e assim sucessivamente); em seguida, calcula-se o resto r da divisão da soma dos resultados das multiplicações por 11, e se esse resto r for 0 ou 1, d<sub>1</sub> é zero, caso contrário d<sub>1</sub> = (11 – r). O dígito d<sub>2</sub> é calculado pela mesma regra, na qual os números a serem multiplicados pela sequência dada são contados a partir do segundo algarismo, sendo d<sub>1</sub> o último algarismo, isto é, d<sub>2</sub> é zero se o resto s da divisão por 11 das somas das multiplicações for 0 ou 1, caso contrário, d<sub>2</sub> = (11 – s). Suponha que João tenha perdido seus documentos, inclusive o cartão de CPF e, ao dar queixa da perda na delegacia, não conseguisse lembrar quais eram os dígitos verificadores, recordando-se apenas que os nove primeiros algarismos eram 123.456.789. Neste caso, os dígitos verificadores d<sub>1</sub> e d<sub>2</sub> esquecidos são, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0 e 9.",
+    "B": "1 e 4.",
+    "C": "1 e 7.",
+    "D": "9 e 1.",
+    "E": "0 e 1."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>d<sub>1</sub>: 1·10 + 2·9 + 3·8 + 4·7 + 5·6 + 6·5 + 7·4 + 8·3 + 9·2 = 210; 210 = 11 × 19 + 1, resto 1, então d<sub>1</sub> = 0. d<sub>2</sub>: 2·10 + 3·9 + 4·8 + 5·7 + 6·6 + 7·5 + 8·4 + 9·3 + 0·2 = 244; 244 = 11 × 22 + 2, resto 2, então d<sub>2</sub> = 11 − 2 = 9. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão e resto",
+    "dígito verificador"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 157
+   },
+   "enunciado": "<p>Uma empresa que fabrica esferas de aço, de 6 cm de raio, utiliza caixas de madeira, na forma de um cubo, para transportá-las. Sabendo que a capacidade da caixa é de 13.824 cm<sup>3</sup>, então o número máximo de esferas que podem ser transportadas em uma caixa é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4.",
+    "B": "8.",
+    "C": "16.",
+    "D": "24.",
+    "E": "32."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A aresta do cubo é \\(\\sqrt[3]{13\\,824} = 24\\) cm. Cada esfera tem 12 cm de diâmetro, então cabem 24 ÷ 12 = 2 esferas em cada direção: 2 × 2 × 2 = <strong>8</strong>. Alternativa <strong>B</strong>.</p><p>Dividir volumes (E, 32) ignora os espaços vazios entre as esferas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cubo",
+    "raiz cúbica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Escala",
+   "origem": {
+    "numeroOriginal": 158
+   },
+   "enunciado": "<p>A figura a seguir mostra as medidas reais de uma aeronave que será fabricada para utilização por companhias de transporte aéreo. Um engenheiro precisa fazer o desenho desse avião em escala de 1:150.</p>[[fig:1]]<p>Para o engenheiro fazer esse desenho em uma folha de papel, deixando uma margem de 1 cm em relação às bordas da folha, quais as dimensões mínimas, em centímetros, que essa folha deverá ter?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q158.webp",
+     "alt": "Desenho de um avião visto de cima, com envergadura de 28,5 metros e comprimento de 36 metros."
+    }
+   ],
+   "alternativas": {
+    "A": "2,9 cm × 3,4 cm.",
+    "B": "3,9 cm × 4,4 cm.",
+    "C": "20 cm × 25 cm.",
+    "D": "21 cm × 26 cm.",
+    "E": "192 cm × 242 cm."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na escala 1:150, 28,5 m = 2 850 cm vira 19 cm e 36 m = 3 600 cm vira 24 cm. Com 1 cm de margem de cada lado: 21 cm × 26 cm. Alternativa <strong>D</strong>.</p><p>A opção C esquece as margens.</p><p>Escala 1:150 significa que cada 1 cm no papel representa 150 cm reais.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Função afim",
+   "origem": {
+    "numeroOriginal": 159
+   },
+   "enunciado": "<p>Um experimento consiste em colocar certa quantidade de bolas de vidro idênticas em um copo com água até certo nível e medir o nível da água, conforme ilustrado na figura a seguir. Como resultado do experimento, concluiu-se que o nível da água é função do número de bolas de vidro que são colocadas dentro do copo.</p>[[fig:1]]<p>O quadro a seguir mostra alguns resultados do experimento realizado.</p><table class=\"tabela\"><thead><tr><th>número de bolas (x)</th><th>nível da água (y)</th></tr></thead><tbody><tr><td>5</td><td>6,35 cm</td></tr><tr><td>10</td><td>6,70 cm</td></tr><tr><td>15</td><td>7,05 cm</td></tr></tbody></table><p class=\"fonte\">Disponível em: www.penta.ufrgs.br. Acesso em: 13 jan. 2009 (adaptado).</p><p>Qual a expressão algébrica que permite calcular o nível da água (y) em função do número de bolas (x)?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q159.webp",
+     "alt": "Copo cilíndrico com água e bolas de vidro no fundo, ao lado de uma régua; y indica a altura do nível da água."
+    }
+   ],
+   "alternativas": {
+    "A": "y = 30x.",
+    "B": "y = 25x + 20,2.",
+    "C": "y = 1,27x.",
+    "D": "y = 0,7x.",
+    "E": "y = 0,07x + 6."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A cada 5 bolas, o nível sobe 0,35 cm: a taxa é 0,07 cm por bola. Com 5 bolas, y = 6,35, então o nível inicial é 6,35 − 5 × 0,07 = 6. Logo y = 0,07x + 6. Alternativa <strong>E</strong>.</p><p>Confira com 15 bolas: 0,07 × 15 + 6 = 7,05 cm, como no quadro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função afim"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 160
+   },
+   "enunciado": "<p>Uma cooperativa de colheita propôs a um fazendeiro um contrato de trabalho nos seguintes termos: a cooperativa forneceria 12 trabalhadores e 4 máquinas, em um regime de trabalho de 6 horas diárias, capazes de colher 20 hectares de milho por dia, ao custo de R$ 10,00 por trabalhador por dia de trabalho, e R$ 1.000,00 pelo aluguel diário de cada máquina. O fazendeiro argumentou que fecharia contrato se a cooperativa colhesse 180 hectares de milho em 6 dias, com gasto inferior a R$ 25.000,00. Para atender às exigências do fazendeiro e supondo que o ritmo dos trabalhadores e das máquinas seja constante, a cooperativa deveria</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "manter sua proposta.",
+    "B": "oferecer 4 máquinas a mais.",
+    "C": "oferecer 6 trabalhadores a mais.",
+    "D": "aumentar a jornada de trabalho para 9 horas diárias.",
+    "E": "reduzir em R$ 400,00 o valor do aluguel diário de uma máquina."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Hoje a cooperativa colhe 20 ha por dia, ou 120 ha em 6 dias; são necessários 180 ha, 1,5 vez mais. Aumentar a jornada de 6 para 9 horas (1,5 vez) resolve sem mudar o custo diário: 12 × 10 × 6 + 4 × 1 000 × 6 = R$ 24.720, abaixo de R$ 25.000. Alternativa <strong>D</strong>.</p><p>Mais 4 máquinas (B) dobraria o aluguel e passaria de R$ 48 mil.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "regra de três composta",
+    "custo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 161
+   },
+   "enunciado": "<p>Suponha que a etapa final de uma gincana escolar consista em um desafio de conhecimentos. Cada equipe escolheria 10 alunos para realizar uma prova objetiva, e a pontuação da equipe seria dada pela mediana das notas obtidas pelos alunos. As provas valiam, no máximo, 10 pontos cada. Ao final, a vencedora foi a equipe Ômega, com 7,8 pontos, seguida pela equipe Delta, com 7,6 pontos. Um dos alunos da equipe Gama, a qual ficou na terceira e última colocação, não pôde comparecer, tendo recebido nota zero na prova. As notas obtidas pelos 10 alunos da equipe Gama foram 10; 6,5; 8; 10; 7; 6,5; 7; 8; 6; 0. Se o aluno da equipe Gama que faltou tivesse comparecido, essa equipe</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "teria a pontuação igual a 6,5 se ele obtivesse nota 0.",
+    "B": "seria a vencedora se ele obtivesse nota 10.",
+    "C": "seria a segunda colocada se ele obtivesse nota 8.",
+    "D": "permaneceria na terceira posição, independentemente da nota obtida pelo aluno.",
+    "E": "empataria com a equipe Ômega na primeira colocação se o aluno obtivesse nota 9."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Notas da Gama em ordem: 0; 6; 6,5; 6,5; 7; 7; 8; 8; 10; 10. Mediana = (7 + 7) ÷ 2 = 7. Se o aluno faltoso tirasse 10, a lista seria 6; 6,5; 6,5; 7; 7; 8; 8; 10; 10; 10, com mediana (7 + 8) ÷ 2 = 7,5, ainda abaixo de 7,6. A mediana nunca passa de 7,5, então a Gama continua em terceiro, qualquer que seja a nota. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mediana"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 162
+   },
+   "enunciado": "<p>Uma escola lançou uma campanha para seus alunos arrecadarem, durante 30 dias, alimentos não perecíveis para doar a uma comunidade carente da região. Vinte alunos aceitaram a tarefa e nos primeiros 10 dias trabalharam 3 horas diárias, arrecadando 12 kg de alimentos por dia. Animados com os resultados, 30 novos alunos somaram-se ao grupo, e passaram a trabalhar 4 horas por dia nos dias seguintes até o término da campanha. Admitindo-se que o ritmo de coleta tenha se mantido constante, a quantidade de alimentos arrecadados ao final do prazo estipulado seria de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "920 kg.",
+    "B": "800 kg.",
+    "C": "720 kg.",
+    "D": "600 kg.",
+    "E": "570 kg."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Nos 10 primeiros dias: 12 kg/dia, total de 120 kg, com 20 alunos × 3 h = 60 horas-aluno por dia, ou 0,2 kg por hora-aluno. Nos 20 dias seguintes: 50 alunos × 4 h = 200 horas-aluno por dia, ou 40 kg/dia, total de 800 kg. Total: 120 + 800 = <strong>920 kg</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "regra de três composta"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 163
+   },
+   "enunciado": "<p>Segundo as regras da Fórmula 1, o peso mínimo do carro, de tanque vazio, com o piloto, é de 605 kg, e a gasolina deve ter densidade entre 725 e 780 gramas por litro. Entre os circuitos nos quais ocorrem competições dessa categoria, o mais longo é Spa-Francorchamps, na Bélgica, cujo traçado tem 7 km de extensão. O consumo médio de um carro da Fórmula 1 é de 75 litros para cada 100 km. Suponha que um piloto de uma equipe específica, que utiliza um tipo de gasolina com densidade de 750 g/L, esteja no circuito de Spa-Francorchamps, parado no box para reabastecimento. Caso ele pretenda dar mais 16 voltas, ao ser liberado para retornar à pista, seu carro deverá pesar, no mínimo,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "617 kg.",
+    "B": "668 kg.",
+    "C": "680 kg.",
+    "D": "689 kg.",
+    "E": "717 kg."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>16 voltas × 7 km = 112 km. Consumo: 112 × 0,75 = 84 L. Massa da gasolina: 84 × 0,75 kg = 63 kg. Peso mínimo: 605 + 63 = <strong>668 kg</strong>. Alternativa <strong>B</strong>.</p><p>O peso mínimo do carro com o piloto (605 kg) já é dado com o tanque vazio; basta somar a gasolina necessária para as 16 voltas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "densidade",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 164
+   },
+   "enunciado": "<p>Ao morrer, o pai de João, Pedro e José deixou como herança um terreno retangular de 3 km x 2 km que contém uma área de extração de ouro delimitada por um quarto de círculo de raio 1 km a partir do canto inferior esquerdo da propriedade. Dado o maior valor da área de extração de ouro, os irmãos acordaram em repartir a propriedade de modo que cada um ficasse com a terça parte da área de extração, conforme mostra a figura.</p>[[fig:1]]<p>Em relação à partilha proposta, constata-se que a porcentagem da área do terreno que coube a João corresponde, aproximadamente, a</p><p>(considere \\(\\dfrac{\\sqrt{3}}{3} = 0{,}58\\))</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q164.webp",
+     "alt": "Retângulo de 3 km por 2 km com um quarto de círculo de raio 1 km sombreado no canto inferior esquerdo; duas retas partem desse canto e dividem o terreno em três partes: João (junto ao lado esquerdo), Pedro (no meio) e José (embaixo, à direita)."
+    }
+   ],
+   "alternativas": {
+    "A": "50%.",
+    "B": "43%.",
+    "C": "37%.",
+    "D": "33%.",
+    "E": "19%."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As divisas partem do canto e dividem o quarto de círculo em três ângulos de 30°. A parte de João é o triângulo junto ao lado de 2 km, com catetos 2 km e 2 · tg 30° = 2 · \\(\\tfrac{\\sqrt3}{3}\\) ≈ 1,16 km. Área: 2 × 1,16 ÷ 2 = 1,16 km², de um terreno de 6 km²: 1,16 ÷ 6 ≈ 19%. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tangente",
+    "área de triângulo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 165
+   },
+   "enunciado": "<p>Doze times se inscreveram em um torneio de futebol amador. O jogo de abertura do torneio foi escolhido da seguinte forma: primeiro foram sorteados 4 times para compor o Grupo A. Em seguida, entre os times do Grupo A, foram sorteados 2 times para realizar o jogo de abertura do torneio, sendo que o primeiro deles jogaria em seu próprio campo, e o segundo seria o time visitante. A quantidade total de escolhas possíveis para o Grupo A e a quantidade total de escolhas dos times do jogo de abertura podem ser calculadas através de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "uma combinação e um arranjo, respectivamente.",
+    "B": "um arranjo e uma combinação, respectivamente.",
+    "C": "um arranjo e uma permutação, respectivamente.",
+    "D": "duas combinações.",
+    "E": "dois arranjos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Escolher 4 times para o Grupo A não depende da ordem: combinação C(12, 4). Escolher os 2 times do jogo de abertura depende da ordem (o primeiro joga em casa, o segundo é visitante): arranjo A(4, 2). Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combinação",
+    "arranjo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 166
+   },
+   "enunciado": "<p>Rotas aéreas são como pontes que ligam cidades, estados ou países. O mapa a seguir mostra os estados brasileiros e a localização de algumas capitais identificadas pelos números. Considere que a direção seguida por um avião AI que partiu de Brasília – DF, sem escalas, para Belém, no Pará, seja um segmento de reta com extremidades em DF e em 4.</p>[[fig:1]]<p class=\"fonte\">SIQUEIRA, S. Brasil Regiões. Disponível em: www.santiagosiqueira.pro.br. Acesso em: 28 jul. 2009 (adaptado).</p><p>Suponha que um passageiro de nome Carlos pegou um avião A<sub>II</sub>, que seguiu a direção que forma um ângulo de 135° no sentido horário com a rota Brasília – Belém e pousou em alguma das capitais brasileiras. Ao desembarcar, Carlos fez uma conexão e embarcou em um avião A<sub>III</sub>, que seguiu a direção que forma um ângulo reto, no sentido anti-horário, com a direção seguida pelo avião A<sub>II</sub> ao partir de Brasília-DF. Considerando que a direção seguida por um avião é sempre dada pela semirreta com origem na cidade de partida e que passa pela cidade destino do avião, pela descrição dada, o passageiro Carlos fez uma conexão em</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q166.webp",
+     "alt": "Mapa do Brasil com estados e capitais numeradas: 1 Manaus, 2 Boa Vista, 3 Macapá, 4 Belém, 5 São Luís, 6 Teresina, 7 Fortaleza, 8 Natal, 9 Salvador, 10 Rio de Janeiro, 11 São Paulo, 12 Curitiba, 13 Belo Horizonte, 14 Goiânia, 15 Cuiabá, 16 Campo Grande, 17 Porto Velho e 18 Rio Branco; um segmento liga o Distrito Federal (DF) a Belém (4), para o norte."
+    }
+   ],
+   "alternativas": {
+    "A": "Belo Horizonte, e em seguida embarcou para Curitiba.",
+    "B": "Belo Horizonte, e em seguida embarcou para Salvador.",
+    "C": "Boa Vista, e em seguida embarcou para Porto Velho.",
+    "D": "Goiânia, e em seguida embarcou para o Rio de Janeiro.",
+    "E": "Goiânia, e em seguida embarcou para Manaus."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A rota Brasília–Belém aponta para o norte. Girando 135° no sentido horário, o avião A<sub>II</sub> segue para o sudeste e chega a Belo Horizonte. Dali, o A<sub>III</sub> segue um ângulo reto no sentido anti-horário em relação à direção sudeste, ou seja, para o nordeste: Salvador. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ângulos",
+    "orientação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 167
+   },
+   "enunciado": "<p>O quadro apresenta informações da área aproximada de cada bioma brasileiro.</p><table class=\"tabela\"><thead><tr><th>Biomas continentais brasileiros</th><th>Área aproximada (km<sup>2</sup>)</th><th>Área / total Brasil</th></tr></thead><tbody><tr><td>Amazônia</td><td>4.196.943</td><td>49,29%</td></tr><tr><td>Cerrado</td><td>2.036.448</td><td>23,92%</td></tr><tr><td>Mata Atlântica</td><td>1.110.182</td><td>13,04%</td></tr><tr><td>Caatinga</td><td>844.453</td><td>9,92%</td></tr><tr><td>Pampa</td><td>176.496</td><td>2,07%</td></tr><tr><td>Pantanal</td><td>150.355</td><td>1,76%</td></tr><tr><td>Área Total Brasil</td><td>8.514.877</td><td></td></tr></tbody></table><p class=\"fonte\">Disponível em: www.ibge.gov.br. Acesso em: 10 jul. 2009 (adaptado).</p><p>É comum em conversas informais, ou mesmo em noticiários, o uso de múltiplos da área de um campo de futebol (com as medidas de 120 m x 90 m) para auxiliar a visualização de áreas consideradas extensas. Nesse caso, qual é o número de campos de futebol correspondente à área aproximada do bioma Pantanal?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.400",
+    "B": "14.000",
+    "C": "140.000",
+    "D": "1.400.000",
+    "E": "14.000.000"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pantanal: 150 355 km² = 1,50355 × 10<sup>11</sup> m². Campo: 120 × 90 = 10 800 m². Número de campos: 1,50355 × 10<sup>11</sup> ÷ 10 800 ≈ 1,39 × 10<sup>7</sup> ≈ <strong>14.000.000</strong>. Alternativa <strong>E</strong>.</p><p>1 km² = 10<sup>6</sup> m².</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conversão de unidades de área"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 168
+   },
+   "enunciado": "<p>Na tabela, são apresentados dados da cotação mensal do ovo extra branco vendido no atacado, em Brasília, em reais, por caixa de 30 dúzias de ovos, em alguns meses dos anos 2007 e 2008.</p><table class=\"tabela\"><thead><tr><th>Mês</th><th>Cotação</th><th>Ano</th></tr></thead><tbody><tr><td>Outubro</td><td>R$ 83,00</td><td>2007</td></tr><tr><td>Novembro</td><td>R$ 73,10</td><td>2007</td></tr><tr><td>Dezembro</td><td>R$ 81,60</td><td>2007</td></tr><tr><td>Janeiro</td><td>R$ 82,00</td><td>2008</td></tr><tr><td>Fevereiro</td><td>R$ 85,30</td><td>2008</td></tr><tr><td>Março</td><td>R$ 84,00</td><td>2008</td></tr><tr><td>Abril</td><td>R$ 84,60</td><td>2008</td></tr></tbody></table><p>De acordo com esses dados, o valor da mediana das cotações mensais do ovo extra branco nesse período era igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 73,10.",
+    "B": "R$ 81,50.",
+    "C": "R$ 82,00.",
+    "D": "R$ 83,00.",
+    "E": "R$ 85,30."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em ordem: 73,10; 81,60; 82,00; 83,00; 84,00; 84,60; 85,30. São 7 valores, e a mediana é o 4º: <strong>R$ 83,00</strong>. Alternativa <strong>D</strong>.</p><p>Com uma quantidade ímpar de valores, a mediana é o valor central depois de colocar os dados em ordem; a média seria cerca de R$ 81,94.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mediana"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Áreas",
+   "origem": {
+    "numeroOriginal": 169
+   },
+   "enunciado": "<p>A vazão do rio Tietê, em São Paulo, constitui preocupação constante nos períodos chuvosos. Em alguns trechos, são construídas canaletas para controlar o fluxo de água. Uma dessas canaletas, cujo corte vertical determina a forma de um trapézio isósceles, tem as medidas especificadas na figura I. Neste caso, a vazão da água é de 1.050 m<sup>3</sup>/s. O cálculo da vazão, Q em m<sup>3</sup>/s, envolve o produto da área A do setor transversal (por onde passa a água), em m<sup>2</sup>, pela velocidade da água no local, v, em m/s, ou seja, Q = Av.</p><p>Planeja-se uma reforma na canaleta, com as dimensões especificadas na figura II, para evitar a ocorrência de enchentes.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www2.uel.br.</p><p>Na suposição de que a velocidade da água não se alterará, qual a vazão esperada para depois da reforma na canaleta?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q169.webp",
+     "alt": "Figura I: corte de canaleta em forma de trapézio isósceles com base maior (superior) de 30 m, base menor de 20 m e altura de 2,5 m. Figura II: trapézio com base maior de 49 m, base menor de 41 m e altura de 2,0 m."
+    }
+   ],
+   "alternativas": {
+    "A": "90 m<sup>3</sup>/s.",
+    "B": "750 m<sup>3</sup>/s.",
+    "C": "1.050 m<sup>3</sup>/s.",
+    "D": "1.512 m<sup>3</sup>/s.",
+    "E": "2.009 m<sup>3</sup>/s."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Figura I: trapézio com bases 30 e 20 e altura 2,5: área (30 + 20) × 2,5 ÷ 2 = 62,5 m². Figura II: bases 49 e 41 e altura 2: (49 + 41) × 2 ÷ 2 = 90 m². Com a mesma velocidade, a vazão cresce na razão 90 ÷ 62,5 = 1,44: 1 050 × 1,44 = <strong>1 512 m³/s</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área do trapézio",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 170
+   },
+   "enunciado": "<p>A resolução das câmeras digitais modernas é dada em megapixels, unidade de medida que representa um milhão de pontos. As informações sobre cada um desses pontos são armazenadas, em geral, em 3 bytes. Porém, para evitar que as imagens ocupem muito espaço, elas são submetidas a algoritmos de compressão, que reduzem em até 95% a quantidade de bytes necessários para armazená-las. Considere 1 KB = 1.000 bytes, 1 MB = 1.000 KB, 1 GB = 1.000 MB. Utilizando uma câmera de 2.0 megapixels cujo algoritmo de compressão é de 95%, João fotografou 150 imagens para seu trabalho escolar. Se ele deseja armazená-las de modo que o espaço restante no dispositivo seja o menor espaço possível, ele deve utilizar</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "um CD de 700 MB.",
+    "B": "um pendrive de 1 GB.",
+    "C": "um HD externo de 16 GB.",
+    "D": "um memory stick de 16 MB.",
+    "E": "um cartão de memória de 64 MB."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Cada foto: 2 milhões de pontos × 3 bytes = 6 MB; com compressão de 95%, sobram 5%: 0,3 MB. 150 fotos: 45 MB. O dispositivo que cabe com menor sobra é o cartão de 64 MB. Alternativa <strong>E</strong>.</p><p>O memory stick de 16 MB (D) não comporta as fotos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "unidades de informação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 171
+   },
+   "enunciado": "<p class=\"apoio\">A população brasileira sabe, pelo menos intuitivamente, que a probabilidade de acertar as seis dezenas da mega sena não é zero, mas é quase. Mesmo assim, milhões de pessoas são atraídas por essa loteria, especialmente quando o prêmio se acumula em valores altos. Até junho de 2009, cada aposta de seis dezenas, pertencentes ao conjunto {01, 02, 03, ..., 59, 60}, custava R$ 1,50.</p><p class=\"fonte\">Disponível em: www.caixa.gov.br. Acesso em: 7 jul. 2009.</p><p>Considere que uma pessoa decida apostar exatamente R$ 126,00 e que esteja mais interessada em acertar apenas cinco das seis dezenas da mega sena, justamente pela dificuldade desta última. Nesse caso, é melhor que essa pessoa faça 84 apostas de seis dezenas diferentes, que não tenham cinco números em comum, do que uma única aposta com nove dezenas, porque a probabilidade de acertar a quina no segundo caso em relação ao primeiro é, aproximadamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(1\\tfrac{1}{2}\\) vez menor.",
+    "B": "\\(2\\tfrac{1}{2}\\) vezes menor.",
+    "C": "4 vezes menor.",
+    "D": "9 vezes menor.",
+    "E": "14 vezes menor."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Uma aposta de 6 dezenas tem C(6, 5) × 54 = 324 combinações que dão quina; 84 apostas sem cinco números em comum: 84 × 324 = 27 216. Uma aposta de 9 dezenas tem C(9, 5) × 51 = 126 × 51 = 6 426. Razão: 27 216 ÷ 6 426 ≈ 4,2: a chance com nove dezenas é cerca de 4 vezes menor. Alternativa <strong>C</strong>.</p><p>As duas opções custam R$ 126: 84 × 1,50 e C(9, 6) = 84 apostas simples.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combinação",
+    "probabilidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 172
+   },
+   "enunciado": "<p class=\"apoio\">Nos últimos anos, o volume de petróleo exportado pelo Brasil tem mostrado expressiva tendência de crescimento, ultrapassando as importações em 2008. Entretanto, apesar de as importações terem se mantido praticamente no mesmo patamar desde 2001, os recursos gerados com as exportações ainda são inferiores àqueles despendidos com as importações, uma vez que o preço médio por metro cúbico do petróleo importado é superior ao do petróleo nacional. Nos primeiros cinco meses de 2009, foram gastos 2,84 bilhões de dólares com importações e gerada uma receita de 2,24 bilhões de dólares com as exportações. O preço médio por metro cúbico em maio de 2009 foi de 340 dólares para o petróleo importado e de 230 dólares para o petróleo exportado. O quadro a seguir mostra os dados consolidados de 2001 a 2008 e dos primeiros cinco meses de 2009.</p><p class=\"apoio\"><strong>Comércio exterior de petróleo (milhões de metros cúbicos)</strong></p><table class=\"tabela\"><thead><tr><th>Ano</th><th>Importação</th><th>Exportação</th></tr></thead><tbody><tr><td>2001</td><td>24,19</td><td>6,43</td></tr><tr><td>2002</td><td>22,06</td><td>13,63</td></tr><tr><td>2003</td><td>19,96</td><td>14,03</td></tr><tr><td>2004</td><td>26,91</td><td>13,39</td></tr><tr><td>2005</td><td>21,97</td><td>15,93</td></tr><tr><td>2006</td><td>20,91</td><td>21,36</td></tr><tr><td>2007</td><td>25,38</td><td>24,45</td></tr><tr><td>2008</td><td>23,53</td><td>25,14</td></tr><tr><td>2009*</td><td>9,00</td><td>11,00</td></tr></tbody></table><p class=\"fonte\">*Valores apurados de janeiro a maio de 2009.</p><p class=\"fonte\">Disponível em: http://www.anp.gov.br. Acesso em: 15 jul. 2009 (adaptado).</p><p>Considere que as importações e exportações de petróleo de junho a dezembro de 2009 sejam iguais a \\(\\tfrac{7}{5}\\) das importações e exportações, respectivamente, ocorridas de janeiro a maio de 2009. Nesse caso, supondo que os preços para importação e exportação não sofram alterações, qual seria o valor mais aproximado da diferença entre os recursos despendidos com as importações e os recursos gerados com as exportações em 2009?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "600 milhões de dólares.",
+    "B": "840 milhões de dólares.",
+    "C": "1,34 bilhão de dólares.",
+    "D": "1,44 bilhão de dólares.",
+    "E": "2,00 bilhões de dólares."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>De junho a dezembro: importação 7/5 × 9 = 12,6 milhões de m³ × 340 = 4,284 bilhões; exportação 7/5 × 11 = 15,4 milhões de m³ × 230 = 3,542 bilhões. Somando janeiro a maio: importações 2,84 + 4,284 = 7,124 bilhões; exportações 2,24 + 3,542 = 5,782 bilhões. Diferença ≈ <strong>1,34 bilhão de dólares</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporção",
+    "operações com decimais"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 173
+   },
+   "enunciado": "<p>Uma fábrica produz velas de parafina em forma de pirâmide quadrangular regular com 19 cm de altura e 6 cm de aresta da base. Essas velas são formadas por 4 blocos de mesma altura — 3 troncos de pirâmide de bases paralelas e 1 pirâmide na parte superior —, espaçados de 1 cm entre eles, sendo que a base superior de cada bloco é igual à base inferior do bloco sobreposto, com uma haste de ferro passando pelo centro de cada bloco, unindo-os, conforme a figura.</p>[[fig:1]]<p>Se o dono da fábrica resolver diversificar o modelo, retirando a pirâmide da parte superior, que tem 1,5 cm de aresta na base, mas mantendo o mesmo molde, quanto ele passará a gastar com parafina para fabricar uma vela?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q173.webp",
+     "alt": "Vela em forma de pirâmide quadrangular de base 6 cm por 6 cm, formada por quatro blocos empilhados com pequenos espaços entre eles e um pavio no topo."
+    }
+   ],
+   "alternativas": {
+    "A": "156 cm<sup>3</sup>.",
+    "B": "189 cm<sup>3</sup>.",
+    "C": "192 cm<sup>3</sup>.",
+    "D": "216 cm<sup>3</sup>.",
+    "E": "540 cm<sup>3</sup>."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>4 blocos de altura h e 3 espaços de 1 cm: 4h + 3 = 19, então h = 4 cm. Sem os espaços, os blocos formam uma pirâmide de 16 cm de altura e base 6 cm: V = 36 × 16 ÷ 3 = 192 cm³. A pirâmide do topo tem base 1,5 cm e altura 4 cm: 2,25 × 4 ÷ 3 = 3 cm³. Sem ela: 192 − 3 = <strong>189 cm³</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume da pirâmide",
+    "tronco de pirâmide"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 174
+   },
+   "enunciado": "<p>Considere um ponto P em uma circunferência de raio r no plano cartesiano. Seja Q a projeção ortogonal de P sobre o eixo x, como mostra a figura, e suponha que o ponto P percorra, no sentido anti-horário, uma distância d ≤ r sobre a circunferência.</p>[[fig:1]]<p>Então, o ponto Q percorrerá, no eixo x, uma distância dada por</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-matematica/q174.webp",
+     "alt": "Plano cartesiano com uma circunferência de raio r; P é o ponto mais à esquerda da circunferência, e Q é sua projeção no eixo x."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(r\\left(1 - \\operatorname{sen}\\dfrac{d}{r}\\right)\\)",
+    "B": "\\(r\\left(1 - \\cos\\dfrac{d}{r}\\right)\\)",
+    "C": "\\(r\\left(1 - \\operatorname{tg}\\dfrac{d}{r}\\right)\\)",
+    "D": "\\(r\\operatorname{sen}\\left(\\dfrac{r}{d}\\right)\\)",
+    "E": "\\(r\\cos\\left(\\dfrac{r}{d}\\right)\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>P parte do ponto mais à esquerda da circunferência, com Q à distância r à esquerda do centro. Andar d sobre a circunferência corresponde ao ângulo central d/r. A projeção do novo ponto fica a r·cos(d/r) à esquerda do centro, então Q se desloca r − r·cos(d/r) = \\(r\\left(1 - \\cos\\tfrac{d}{r}\\right)\\). Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo trigonométrico",
+    "projeção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "assunto": "Sistemas de equações",
+   "origem": {
+    "numeroOriginal": 175
+   },
+   "enunciado": "<p>O Indicador do CadÚnico (ICadÚnico), que compõe o cálculo do Índice de Gestão Descentralizada do Programa Bolsa Família (IGD), é obtido por meio da média aritmética entre a taxa de cobertura qualificada de cadastros (TC) e a taxa de atualização de cadastros (TA), em que \\(TC = \\dfrac{NV}{NF}\\), \\(TA = \\dfrac{NA}{NV}\\), NV é o número de cadastros domiciliares válidos no perfil do CadÚnico, NF é o número de famílias estimadas como público alvo do CadÚnico e NA é o número de cadastros domiciliares atualizados no perfil do CadÚnico.</p><p class=\"fonte\">Portaria n° 148 de 27 de abril de 2006 (adaptado).</p><p>Suponha que o IcadÚnico de um município específico é 0,6. Porém, dobrando NF o IcadÚnico cairá para 0,5. Se NA + NV = 3.600, então NF é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "10.000.",
+    "B": "7.500.",
+    "C": "5.000.",
+    "D": "4.500.",
+    "E": "3.000."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Seja a = NV/NF e b = NA/NV. Pelo enunciado, (a + b)/2 = 0,6, ou a + b = 1,2. Dobrando NF, a vira a/2: a/2 + b = 1,0. Subtraindo, a/2 = 0,2, então a = 0,4 e b = 0,8. NA = 0,8 NV e NA + NV = 1,8 NV = 3 600, então NV = 2 000 e NF = 2 000 ÷ 0,4 = <strong>5 000</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sistema linear",
+    "razões"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 41,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 176
+   },
+   "enunciado": "<p>Joana frequenta uma academia de ginástica onde faz exercícios de musculação. O programa de Joana requer que ela faça 3 séries de exercícios em 6 aparelhos diferentes, gastando 30 segundos em cada série. No aquecimento, ela caminha durante 10 minutos na esteira e descansa durante 60 segundos para começar o primeiro exercício no primeiro aparelho. Entre uma série e outra, assim como ao mudar de aparelho, Joana descansa por 60 segundos. Suponha que, em determinado dia, Joana tenha iniciado seus exercícios às 10h30min e finalizado às 11h7min. Nesse dia e nesse tempo, Joana</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "não poderia fazer sequer a metade dos exercícios e dispor dos períodos de descanso especificados em seu programa.",
+    "B": "poderia ter feito todos os exercícios e cumprido rigorosamente os períodos de descanso especificados em seu programa.",
+    "C": "poderia ter feito todos os exercícios, mas teria de ter deixado de cumprir um dos períodos de descanso especificados em seu programa.",
+    "D": "conseguiria fazer todos os exercícios e cumpriria todos os períodos de descanso especificados em seu programa, e ainda se permitiria uma pausa de 7 min.",
+    "E": "não poderia fazer todas as 3 séries dos exercícios especificados em seu programa; em alguma dessas séries deveria ter feito uma série a menos e não deveria ter cumprido um dos períodos de descanso."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Das 10h30 às 11h07 são 37 min = 2 220 s. Aquecimento 600 s + descanso 60 s = 660 s. 18 séries (3 × 6) de 30 s = 540 s. Entre as 18 séries há 17 descansos de 60 s = 1 020 s. Total: 660 + 540 + 1 020 = 2 220 s: dá exatamente para cumprir tudo. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "unidades de tempo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 177
+   },
+   "enunciado": "<p>Um artesão construiu peças de artesanato interceptando uma pirâmide de base quadrada com um plano. Após fazer um estudo das diferentes peças que poderia obter, ele concluiu que uma delas poderia ter uma das faces pentagonal. Qual dos argumentos a seguir justifica a conclusão do artesão?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Uma pirâmide de base quadrada tem 4 arestas laterais e a interseção de um plano com a pirâmide intercepta suas arestas laterais. Assim, esses pontos formam um polígono de 4 lados.",
+    "B": "Uma pirâmide de base quadrada tem 4 faces triangulares e, quando um plano intercepta essa pirâmide, divide cada face em um triângulo e um trapézio. Logo, um dos polígonos tem 4 lados.",
+    "C": "Uma pirâmide de base quadrada tem 5 faces e a interseção de uma face com um plano é um segmento de reta. Assim, se o plano interceptar todas as faces, o polígono obtido nessa interseção tem 5 lados.",
+    "D": "O número de lados de qualquer polígono obtido como interseção de uma pirâmide com um plano é igual ao número de faces da pirâmide. Como a pirâmide tem 5 faces, o polígono tem 5 lados.",
+    "E": "O número de lados de qualquer polígono obtido interceptando-se uma pirâmide por um plano é igual ao número de arestas laterais da pirâmide. Como a pirâmide tem 4 arestas laterais, o polígono tem 4 lados."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A pirâmide de base quadrada tem 5 faces (4 triângulos e a base). Um plano corta cada face em no máximo um segmento; se cortar as 5 faces, a seção é um polígono de 5 lados, um pentágono. Alternativa <strong>C</strong>.</p><p>A e E dizem que o resultado sempre tem 4 lados, o que contradiz a conclusão do artesão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "seções planas",
+    "pirâmide"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Matemática",
+   "assunto": "Matemática financeira",
+   "origem": {
+    "numeroOriginal": 178
+   },
+   "enunciado": "<p>João deve 12 parcelas de R$ 150,00 referentes ao cheque especial de seu banco e cinco parcelas de R$ 80,00 referentes ao cartão de crédito. O gerente do banco lhe ofereceu duas parcelas de desconto no cheque especial, caso João quitasse esta dívida imediatamente ou, na mesma condição, isto é, quitação imediata, com 25% de desconto na dívida do cartão. João também poderia renegociar suas dívidas em 18 parcelas mensais de R$ 125,00. Sabendo desses termos, José, amigo de João, ofereceu-lhe emprestar o dinheiro que julgasse necessário pelo tempo de 18 meses, com juros de 25% sobre o total emprestado. A opção que dá a João o menor gasto seria</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "renegociar suas dívidas com o banco.",
+    "B": "pegar emprestado de José o dinheiro referente à quitação das duas dívidas.",
+    "C": "recusar o empréstimo de José e pagar todas as parcelas pendentes nos devidos prazos.",
+    "D": "pegar emprestado de José o dinheiro referente à quitação do cheque especial e pagar as parcelas do cartão de crédito.",
+    "E": "pegar emprestado de José o dinheiro referente à quitação do cartão de crédito e pagar as parcelas do cheque especial."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Custos: renegociar, 18 × 125 = R$ 2.250; pagar tudo no prazo, 1 800 + 400 = R$ 2.200; empréstimo para as duas quitações, (1 500 + 300) × 1,25 = R$ 2.250; só para o cheque especial, 1 500 × 1,25 + 400 = R$ 2.275; só para o cartão, 300 × 1,25 + 1 800 = <strong>R$ 2.175</strong>, o menor. Alternativa <strong>E</strong>.</p><p>Quitar o cheque com desconto de 2 parcelas custa 1 500; o cartão com 25% de desconto, 300.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "juros",
+    "comparação de opções"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 179
+   },
+   "enunciado": "<p class=\"apoio\">A cisterna é um recipiente utilizado para armazenar água da chuva. Os principais critérios a serem observados para captação e armazenagem de água da chuva são: a demanda diária de água na propriedade; o índice médio de precipitação (chuva), por região, em cada período do ano; o tempo necessário para armazenagem; e a área de telhado necessária ou disponível para captação. Para fazer o cálculo do volume de uma cisterna, deve-se acrescentar um adicional relativo ao coeficiente de evaporação. Na dificuldade em se estabelecer um coeficiente confiável, a Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) sugere que sejam adicionados 10% ao volume calculado de água. Desse modo, o volume, em m<sup>3</sup>, de uma cisterna é calculado por Vc = Vd × Ndia, em que Vd = volume de demanda da água diária (m³), Ndia = número de dias de armazenagem, e este resultado deve ser acrescido de 10%. Para melhorar a qualidade da água, recomenda-se que a captação seja feita somente nos telhados das edificações. Considerando que a precipitação de chuva de 1 mm sobre uma área de 1 m<sup>2</sup> produz 1 litro de água, pode-se calcular a área de um telhado a fim de atender a necessidade de armazenagem da seguinte maneira: área do telhado (em m<sup>2</sup>) = volume da cisterna (em litros)/precipitação.</p><p class=\"fonte\">Disponível em: www.cnpsa.embrapa.br. Acesso em: 8 jun. 2009 (adaptado).</p><p>Para atender a uma demanda diária de 2.000 litros de água, com período de armazenagem de 15 dias e precipitação média de 110 mm, o telhado, retangular, deverá ter as dimensões mínimas de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "6 metros por 5 metros, pois assim teria uma área de 30 m<sup>2</sup>.",
+    "B": "15 metros por 20 metros, pois assim teria uma área de 300 m<sup>2</sup>.",
+    "C": "50 metros por 60 metros, pois assim teria uma área de 3.000 m<sup>2</sup>.",
+    "D": "91 metros por 30 metros, pois assim teria uma área de 2.730 m<sup>2</sup>.",
+    "E": "110 metros por 30 metros, pois assim teria uma área de 3.300 m<sup>2</sup>."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Volume da cisterna: 2 000 L × 15 dias = 30 000 L, mais 10%: 33 000 L. Área do telhado: 33 000 ÷ 110 = 300 m². Dimensões: 15 m × 20 m. Alternativa <strong>B</strong>.</p><p>O que importa é a área de 300 m²; entre as opções, só 15 m × 20 m tem exatamente essa área. Lembre que 1 mm de chuva sobre 1 m² dá 1 litro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "área"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 180
+   },
+   "enunciado": "<p>Um médico está estudando um novo medicamento que combate um tipo de câncer em estágios avançados. Porém, devido ao forte efeito dos seus componentes, a cada dose administrada há uma chance de 10% de que o paciente sofra algum dos efeitos colaterais observados no estudo, tais como dores de cabeça, vômitos ou mesmo agravamento dos sintomas da doença. O médico oferece tratamentos compostos por 3, 4, 6, 8 ou 10 doses do medicamento, de acordo com o risco que o paciente pretende assumir. Se um paciente considera aceitável um risco de até 35% de chances de que ocorra algum dos efeitos colaterais durante o tratamento, qual é o maior número admissível de doses para esse paciente?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "3 doses.",
+    "B": "4 doses.",
+    "C": "6 doses.",
+    "D": "8 doses.",
+    "E": "10 doses."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A chance de não ter efeito colateral em n doses é 0,9<sup>n</sup>; o risco é 1 − 0,9<sup>n</sup> ≤ 0,35, ou 0,9<sup>n</sup> ≥ 0,65. 0,9<sup>4</sup> = 0,6561 (serve); 0,9<sup>6</sup> ≈ 0,531 (não serve). O maior número entre as opções é <strong>4 doses</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade do evento complementar",
+    "potências"
+   ],
+   "area": "Matemática"
+  }
+ ]
+}

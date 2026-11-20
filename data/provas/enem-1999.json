@@ -1,0 +1,1743 @@
+{
+ "id": "enem-1999",
+ "banca": "Enem",
+ "ano": 1999,
+ "titulo": "Enem 1999: Prova objetiva",
+ "fonte": "Inep",
+ "duracaoMinutos": 300,
+ "area": "Prova objetiva (63 questões)",
+ "caderno": "amarelo",
+ "dia": 1,
+ "fonteGabarito": {
+  "oficial": true,
+  "nome": "gabarito oficial do Inep, em cópia guardada pelo Instituto de Física da USP",
+  "url": "https://fep.if.usp.br/~profis/arquivo/avaliacao/enem/provas_gabaritos/1999/GABARITO_ENEM_1999_AMARELA.pdf"
+ },
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Português",
+   "assunto": "Semântica",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">(MORAES, Vinícius de. <em>Antologia poética</em>. São Paulo: Cia das Letras, 1992)</p><p>A palavra <strong>mesmo</strong> pode assumir diferentes significados, de acordo com a sua função na frase. Assinale a alternativa em que o sentido de <strong>mesmo</strong> equivale ao que se verifica no 3º verso da 1ª estrofe do poema de Vinícius de Moraes.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q01.webp",
+     "alt": "“Soneto de fidelidade”, de Vinicius de Moraes, em quatro estrofes: o eu lírico promete ser atento ao amor antes de tudo, mesmo diante de outro encanto, e vivê-lo em cada momento, na alegria e na tristeza; quando vierem a morte ou a solidão, quer poder dizer que o amor não foi imortal, por ser chama, mas foi infinito enquanto durou. O 3º verso da 1ª estrofe diz que, mesmo em face do maior encanto, o pensamento se encante mais pelo amor."
+    }
+   ],
+   "alternativas": {
+    "A": "“Pai, para onde fores, / irei também trilhando as <strong>mesmas</strong> ruas...” (Augusto dos Anjos)",
+    "B": "“Agora, como outrora, há aqui o <strong>mesmo</strong> contraste da vida interior, que é modesta, com a exterior, que é ruidosa.” (Machado de Assis)",
+    "C": "“Havia o mal, profundo e persistente, para o qual o remédio não surtiu efeito, <strong>mesmo</strong> em doses variáveis.” (Raimundo Faoro)",
+    "D": "“Mas, olhe cá, Mana Glória, há <strong>mesmo</strong> necessidade de fazê-lo padre?” (Machado de Assis)",
+    "E": "“Vamos de qualquer maneira, mas vamos <strong>mesmo</strong>.” (Aurélio)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Em “Que mesmo em face do maior encanto”, “mesmo” é advérbio com sentido de “até”, “ainda”: mesmo diante do maior encanto. Em C, “mesmo em doses variáveis” tem o mesmo valor: o remédio não fez efeito nem com doses variáveis. Alternativa <strong>C</strong>.</p><p>Em A e B, “mesmo” é adjetivo (“as mesmas ruas”, “o mesmo contraste”, igual); em D e E, significa “realmente”, “de fato”.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Vinicius de Moraes",
+    "advérbio"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Raciocínio lógico",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p>Vinte anos depois da formatura, cinco colegas de turma decidem organizar uma confraternização. Para marcar o dia e o local da confraternização, precisam comunicar-se por telefone. Cada um conhece o telefone de alguns colegas e desconhece o de outros. No quadro abaixo, o número 1 indica que o colega da linha correspondente conhece o telefone do colega da coluna correspondente; o número 0 indica que o colega da linha não conhece o telefone do colega da coluna. Exemplo: Beto sabe o telefone do Dino que não conhece o telefone do Aldo.</p><table class=\"tabela\"><thead><tr><th></th><th>Aldo</th><th>Beto</th><th>Carlos</th><th>Dino</th><th>Ênio</th></tr></thead><tbody><tr><td><strong>Aldo</strong></td><td>1</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td><strong>Beto</strong></td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td><strong>Carlos</strong></td><td>1</td><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td><strong>Dino</strong></td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td><strong>Ênio</strong></td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr></tbody></table><p>O número <strong>mínimo</strong> de telefonemas que Aldo deve fazer para se comunicar com Carlos é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Aldo só conhece os telefones de Beto e Dino. Quem conhece o de Carlos? Só Ênio (e o próprio Carlos). Beto conhece Dino, e Dino conhece Ênio. O caminho mais curto é Aldo → Dino → Ênio → Carlos: Aldo liga para Dino, Dino liga para Ênio e Ênio liga para Carlos. São 3 telefonemas. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "grafos",
+    "leitura de tabela"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Biologia",
+   "assunto": "Tempo geológico",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 3 a 5.</strong></p><p class=\"apoio\">Se compararmos a idade do planeta Terra, avaliada em quatro e meio bilhões de anos (4,5 × 10<sup>9</sup> anos), com a de uma pessoa de 45 anos, então, quando começaram a florescer os primeiros vegetais, a Terra já teria 42 anos. Ela só conviveu com o homem moderno nas últimas quatro horas e, há cerca de uma hora, viu-o começar a plantar e a colher. Há menos de um minuto percebeu o ruído de máquinas e de indústrias e, como denuncia uma ONG de defesa do meio ambiente, foi nesses últimos sessenta segundos que se produziu todo o lixo do planeta!</p><p>O texto acima, ao estabelecer um paralelo entre a idade da Terra e a de uma pessoa, pretende mostrar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a agricultura surgiu logo em seguida aos vegetais, perturbando desde então seu desenvolvimento.",
+    "B": "o ser humano só se tornou moderno ao dominar a agricultura e a indústria, em suma, ao poluir.",
+    "C": "desde o surgimento da Terra, são devidas ao ser humano todas as transformações e perturbações.",
+    "D": "o surgimento do ser humano e da poluição é cerca de dez vezes mais recente que o do nosso planeta.",
+    "E": "a industrialização tem sido um processo vertiginoso, sem precedentes em termos de dano ambiental."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na escala, a industrialização ocupa só o último minuto de uma vida de 45 anos, e mesmo assim produziu todo o lixo do planeta. O texto quer mostrar a rapidez e o tamanho inédito do dano ambiental causado pela indústria. Alternativa <strong>E</strong>.</p><p>A agricultura surgiu muito depois dos vegetais (A), e o ser humano não causou todas as transformações da Terra (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala de tempo",
+    "impacto ambiental"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Proporção",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 3 a 5.</strong></p><p class=\"apoio\">Se compararmos a idade do planeta Terra, avaliada em quatro e meio bilhões de anos (4,5 × 10<sup>9</sup> anos), com a de uma pessoa de 45 anos, então, quando começaram a florescer os primeiros vegetais, a Terra já teria 42 anos. Ela só conviveu com o homem moderno nas últimas quatro horas e, há cerca de uma hora, viu-o começar a plantar e a colher. Há menos de um minuto percebeu o ruído de máquinas e de indústrias e, como denuncia uma ONG de defesa do meio ambiente, foi nesses últimos sessenta segundos que se produziu todo o lixo do planeta!</p><p>O texto permite concluir que a agricultura começou a ser praticada há cerca de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "365 anos.",
+    "B": "460 anos.",
+    "C": "900 anos.",
+    "D": "10 000 anos.",
+    "E": "460 000 anos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A escala transforma 4,5 bilhões de anos em 45 anos: cada ano “da pessoa” vale 100 milhões de anos. Uma hora é 1/8.760 de ano, ou seja, cerca de 100.000.000/8.760 ≈ 11.400 anos reais. A agricultura começou há cerca de 10 000 anos. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "regra de três"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Proporção",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 3 a 5.</strong></p><p class=\"apoio\">Se compararmos a idade do planeta Terra, avaliada em quatro e meio bilhões de anos (4,5 × 10<sup>9</sup> anos), com a de uma pessoa de 45 anos, então, quando começaram a florescer os primeiros vegetais, a Terra já teria 42 anos. Ela só conviveu com o homem moderno nas últimas quatro horas e, há cerca de uma hora, viu-o começar a plantar e a colher. Há menos de um minuto percebeu o ruído de máquinas e de indústrias e, como denuncia uma ONG de defesa do meio ambiente, foi nesses últimos sessenta segundos que se produziu todo o lixo do planeta!</p><p>Na teoria do <em>Big Bang</em>, o Universo surgiu há cerca de 15 bilhões de anos, a partir da explosão e expansão de uma densíssima gota. De acordo com a escala proposta no texto, essa teoria situaria o início do Universo há cerca de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "100 anos.",
+    "B": "150 anos.",
+    "C": "1 000 anos.",
+    "D": "1 500 anos.",
+    "E": "2 000 anos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na escala, 4,5 × 10<sup>9</sup> anos reais correspondem a 45 anos: a razão é 10<sup>8</sup>. Então 15 × 10<sup>9</sup> anos reais correspondem a 15 × 10<sup>9</sup>/10<sup>8</sup> = 150 anos. Alternativa <strong>B</strong>.</p><p>O Universo tem pouco mais de três vezes a idade da Terra: 3,3 × 45 ≈ 150.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "notação científica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Gráficos",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p>Para convencer a população local da ineficiência da Companhia Telefônica Vilatel na expansão da oferta de linhas, um político publicou no jornal local o gráfico I, abaixo representado. A Companhia Vilatel respondeu publicando dias depois o gráfico II, onde pretende justificar um grande aumento na oferta de linhas. O fato é que, no período considerado, foram instaladas, efetivamente, 200 novas linhas telefônicas.</p>[[fig:1]]<p>Analisando os gráficos, pode-se concluir que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q06.webp",
+     "alt": "Dois gráficos do número total de linhas telefônicas de janeiro a dezembro, ambos de 2.000 a 2.200 linhas. No gráfico I, o eixo vertical é curto e vai de 0 a 2.200: a linha sobe pouco. No gráfico II, o eixo vertical começa em 2.000 e é bem alto: a mesma subida, passando por 2.050 em abril e 2.150 em agosto, parece muito íngreme."
+    }
+   ],
+   "alternativas": {
+    "A": "o gráfico II representa um crescimento real maior do que o do gráfico I.",
+    "B": "o gráfico I apresenta o crescimento real, sendo o II incorreto.",
+    "C": "o gráfico II apresenta o crescimento real, sendo o gráfico I incorreto.",
+    "D": "a aparente diferença de crescimento nos dois gráficos decorre da escolha das diferentes escalas.",
+    "E": "os dois gráficos são incomparáveis, pois usam escalas diferentes."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os dois gráficos mostram os mesmos dados: de 2.000 para 2.200 linhas, 200 linhas novas. No gráfico I, o eixo vertical tem escala comprimida e a subida parece pequena; no II, o eixo começa em 2.000 e é esticado, e a subida parece enorme. A diferença está só na escolha das escalas. Alternativa <strong>D</strong>.</p><p>Nenhum dos dois está errado (B, C), e eles podem ser comparados lendo os valores (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p>Leia o texto abaixo.</p><p class=\"apoio\"><em>Cabelos longos, brinco na orelha esquerda, físico de skatista. Na aparência, o estudante brasiliense Rui Lopes Viana Filho, de 16 anos, não lembra em nada o estereótipo dos gênios. Ele não usa pesados óculos de grau e está longe de ter um ar introspectivo. No final do mês passado, Rui retornou de Taiwan, onde enfrentou 419 competidores de todo o mundo na 39ª Olimpíada Internacional de Matemática. A reluzente medalha de ouro que ele trouxe na bagagem está dependurada sobre a cama de seu quarto, atulhado de rascunhos dos problemas matemáticos que aprendeu a decifrar nos últimos cinco anos.</em></p><p class=\"apoio\"><strong>Veja</strong> – Vencer uma olimpíada serve de passaporte para uma carreira profissional meteórica?</p><p class=\"apoio\"><strong>Rui</strong> – Nada disso. Decidi me dedicar à Olimpíada porque sei que a concorrência por um emprego é cada vez mais selvagem e cruel. Agora tenho algo a mais para oferecer. O problema é que as coisas estão mudando muito rápido e não sei qual será minha profissão. Além de ser muito novo para decidir sobre o meu futuro profissional, sei que esse conceito de carreira mudou muito.</p><p class=\"fonte\">(Entrevista de Rui Lopes Viana Filho à <em>Veja</em>, 05/08/1998, n.31, p. 9-10)</p><p>Na pergunta, o repórter estabelece uma relação entre a entrada do estudante no mercado de trabalho e a vitória na Olimpíada. O estudante</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "concorda com a relação e afirma que o desempenho na Olimpíada é fundamental para sua entrada no mercado.",
+    "B": "discorda da relação e complementa que é fácil se fazer previsões sobre o mercado de trabalho.",
+    "C": "discorda da relação e afirma que seu futuro profissional independe de dedicação aos estudos.",
+    "D": "discorda da relação e afirma que seu desempenho só é relevante se escolher uma profissão relacionada à matemática.",
+    "E": "concorda em parte com a relação e complementa que é complexo fazer previsões sobre o mercado de trabalho."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Rui não aceita a ideia de “carreira meteórica” (“Nada disso”), mas reconhece que a medalha é “algo a mais para oferecer” na concorrência por emprego. E diz que as coisas mudam rápido e ele não sabe qual será sua profissão: é difícil prever o mercado de trabalho. Ele concorda só em parte. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "entrevista",
+    "argumentação"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 8,
+   "materia": "Português",
+   "assunto": "Pronomes",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">(QUINO. <em>Mafalda inédita</em>. São Paulo: Martins Fontes, 1993)</p><p>Observando as falas das personagens, analise o emprego do pronome <strong>SE</strong> e o sentido que adquire no contexto. No contexto da narrativa, é correto afirmar que o pronome <strong>SE</strong>,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q08.webp",
+     "alt": "Tira da Mafalda, de Quino, em três quadros. I: Mafalda diz “Eu gosto do Natal porque as pessoas se amam muito mais”, e Susanita pergunta “Ah!... Você também sente isso?”. II: Susanita diz “Como fico feliz! Quer dizer que você também se ama muito mais no Natal? Eu, então, você nem imagina o quanto eu me amo no Natal!”. III: Mafalda, pensativa, se pergunta “Por que será que as pessoas se amam muito mais no Natal?”."
+    }
+   ],
+   "alternativas": {
+    "A": "em I, indica reflexividade e equivale a “a si mesmas”.",
+    "B": "em II, indica reciprocidade e equivale a “a si mesma”.",
+    "C": "em III, indica reciprocidade e equivale a “umas às outras”.",
+    "D": "em I e III, indica reciprocidade e equivale a “umas às outras”.",
+    "E": "em II e III, indica reflexividade e equivale a “a si mesma” e “a si mesmas”, respectivamente."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Em I, “as pessoas se amam muito mais” no Natal tem sentido recíproco (umas às outras). Em II, Susanita responde “você também se ama muito mais”, com sentido reflexivo (a si mesma). Em III, Mafalda passa a duvidar: as pessoas se amam “a si mesmas” no Natal, também reflexivo. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pronome se",
+    "reciprocidade"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 9,
+   "materia": "Química",
+   "assunto": "Reações ácido-base",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p>Suponha que um agricultor esteja interessado em fazer uma plantação de girassóis. Procurando informação, leu a seguinte reportagem:</p><p class=\"apoio\"><strong>Solo ácido não favorece plantio</strong></p><p class=\"apoio\"><em>Alguns cuidados devem ser tomados por quem decide iniciar o cultivo do girassol. A oleaginosa deve ser plantada em solos descompactados, com pH acima de 5,2 (que indica menor acidez da terra). Conforme as recomendações da Embrapa, o agricultor deve colocar, por hectare, 40 kg a 60 kg de nitrogênio, 40 kg a 80 kg de potássio e 40 kg a 80 kg de fósforo.</em></p><p class=\"apoio\"><em>O pH do solo, na região do agricultor, é de 4,8. Dessa forma, o agricultor deverá fazer a “calagem”.</em></p><p class=\"fonte\">(<em>Folha de S. Paulo</em>, 25/09/1996)</p><p>Suponha que o agricultor vá fazer calagem (aumento do pH do solo por adição de cal virgem – CaO). De maneira simplificada, a diminuição da acidez se dá pela interação da cal (CaO) com a água presente no solo, gerando hidróxido de cálcio (Ca(OH)<sub>2</sub>), que reage com os íons H<sup>+</sup> (dos ácidos), ocorrendo, então, a formação de água e deixando íons Ca<sup>2+</sup> no solo.</p><p>Considere as seguintes equações:</p><ol type=\"I\"><li>CaO + 2H<sub>2</sub>O → Ca(OH)<sub>3</sub></li><li>CaO + H<sub>2</sub>O → Ca(OH)<sub>2</sub></li><li>Ca(OH)<sub>2</sub> + 2H<sup>+</sup> → Ca<sup>2+</sup> + 2H<sub>2</sub>O</li><li>Ca(OH)<sub>2</sub> + H<sup>+</sup> → CaO + H<sub>2</sub>O</li></ol><p>O processo de calagem descrito acima pode ser representado pelas equações:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I e II",
+    "B": "I e IV",
+    "C": "II e III",
+    "D": "II e IV",
+    "E": "III e IV"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A calagem tem duas etapas: a cal reage com a água e forma hidróxido de cálcio, CaO + H<sub>2</sub>O → Ca(OH)<sub>2</sub> (II); depois o hidróxido neutraliza os íons H<sup>+</sup> do solo, formando água e deixando Ca<sup>2+</sup>: Ca(OH)<sub>2</sub> + 2H<sup>+</sup> → Ca<sup>2+</sup> + 2H<sub>2</sub>O (III). Alternativa <strong>C</strong>.</p><p>I forma um composto que não existe, Ca(OH)<sub>3</sub>, e IV é desbalanceada e faz o caminho inverso.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calagem",
+    "neutralização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Filosofia",
+   "assunto": "Fé e razão",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p>Considere os textos abaixo.</p><p class=\"apoio\"><em>(...) de modo particular, quero encorajar os crentes empenhados no campo da filosofia para que iluminem os diversos âmbitos da atividade humana, graças ao exercício de uma razão que se torna mais segura e perspicaz com o apoio que recebe da fé.</em></p><p class=\"fonte\">(Papa João Paulo II. <em>Carta Encíclica Fides et Ratio aos bispos da igreja católica sobre as relações entre fé e razão</em>, 1998)</p><p class=\"apoio\"><em>As verdades da razão natural não contradizem as verdades da fé cristã.</em></p><p class=\"fonte\">(São Tomás de Aquino - pensador medieval)</p><p>Refletindo sobre os textos, pode-se concluir que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a encíclica papal está em contradição com o pensamento de São Tomás de Aquino, refletindo a diferença de épocas.",
+    "B": "a encíclica papal procura complementar São Tomás de Aquino, pois este colocava a razão natural acima da fé.",
+    "C": "a Igreja medieval valorizava a razão mais do que a encíclica de João Paulo II.",
+    "D": "o pensamento teológico teve sua importância na Idade Média, mas, em nossos dias, não tem relação com o pensamento filosófico.",
+    "E": "tanto a encíclica papal como a frase de São Tomás de Aquino procuram conciliar os pensamentos sobre fé e razão."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A encíclica quer uma razão “mais segura e perspicaz com o apoio que recebe da fé”, e São Tomás afirma que as verdades da razão não contradizem as da fé. Os dois textos buscam conciliar fé e razão. Alternativa <strong>E</strong>.</p><p>Não há contradição entre eles (A), e Tomás não punha a razão acima da fé (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "São Tomás de Aquino",
+    "escolástica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "Física",
+   "assunto": "Dilatação térmica",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>A gasolina é vendida por litro, mas em sua utilização como combustível, a massa é o que importa. Um aumento da temperatura do ambiente leva a um aumento no volume da gasolina. Para diminuir os efeitos práticos dessa variação, os tanques dos postos de gasolina são subterrâneos. Se os tanques <strong>não</strong> fossem subterrâneos:</p><ol type=\"I\"><li>Você levaria vantagem ao abastecer o carro na hora mais quente do dia pois estaria comprando mais massa por litro de combustível.</li><li>Abastecendo com a temperatura mais baixa, você estaria comprando mais massa de combustível para cada litro.</li><li>Se a gasolina fosse vendida por kg em vez de por litro, o problema comercial decorrente da dilatação da gasolina estaria resolvido.</li></ol><p>Destas considerações, somente</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I é correta.",
+    "B": "II é correta.",
+    "C": "III é correta.",
+    "D": "I e II são corretas.",
+    "E": "II e III são corretas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com o calor, a gasolina se dilata: o mesmo litro tem menos massa. Abastecer com a temperatura mais baixa dá mais massa por litro (II está correta, e I está errada). Vendendo por quilograma, a dilatação não mudaria a quantidade comprada (III está correta). Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dilatação",
+    "densidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Física",
+   "assunto": "Energia elétrica",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>O alumínio se funde a 666 °C e é obtido à custa de energia elétrica, por eletrólise – transformação realizada a partir do óxido de alumínio a cerca de 1 000 °C.</p><p class=\"apoio\"><em>A produção brasileira de alumínio, no ano de 1985, foi da ordem de 550 000 toneladas, tendo sido consumidos cerca de 20 kWh de energia elétrica por quilograma do metal. Nesse mesmo ano, estimou-se a produção de resíduos sólidos urbanos brasileiros formados por metais ferrosos e não-ferrosos em 3 700 t/dia, das quais 1,5% estima-se corresponder ao alumínio.</em></p><p class=\"fonte\">([Dados adaptados de] FIGUEIREDO, P. J. M. <em>A sociedade do lixo: resíduos, a questão energética e a crise ambiental</em>. Piracicaba: UNIMEP, 1994)</p><p>Suponha que uma residência tenha objetos de alumínio em uso cuja massa total seja de 10 kg (panelas, janelas, latas etc.). O consumo de energia elétrica mensal dessa residência é de 100 kWh. Sendo assim, na produção desses objetos utilizou-se uma quantidade de energia elétrica que poderia abastecer essa residência por um período de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 mês.",
+    "B": "2 meses.",
+    "C": "3 meses.",
+    "D": "4 meses.",
+    "E": "5 meses."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Cada quilograma de alumínio consome 20 kWh na produção. Para 10 kg: 200 kWh. Como a casa consome 100 kWh por mês, essa energia daria para 2 meses. Alternativa <strong>B</strong>.</p><p>Os dados sobre a produção nacional e o lixo não entram na conta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "kWh",
+    "alumínio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "História",
+   "assunto": "Fim da Guerra Fria",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p>Em dezembro de 1998, um dos assuntos mais veiculados nos jornais era o que tratava da moeda única européia. Leia a notícia destacada abaixo.</p><p class=\"apoio\"><em>O nascimento do Euro, a moeda única a ser adotada por onze países europeus a partir de 1º de janeiro, é possivelmente a mais importante realização deste continente nos últimos dez anos que assistiu à derrubada do Muro de Berlim, à reunificação das Alemanhas, à libertação dos países da Cortina de Ferro e ao fim da União Soviética. Enquanto todos esses eventos têm a ver com a desmontagem de estruturas do passado, o Euro é uma ousada aposta no futuro e uma prova da vitalidade da sociedade Européia. A “Euroland”, região abrangida por Alemanha, Áustria, Bélgica, Espanha, Finlândia, França, Holanda, Irlanda, Itália, Luxemburgo e Portugal, tem um PIB (Produto Interno Bruto) equivalente a quase 80% do americano, 289 milhões de consumidores e responde por cerca de 20% do comércio internacional. Com este cacife, o Euro vai disputar com o dólar a condição de moeda hegemônica.</em></p><p class=\"fonte\">(<em>Gazeta Mercantil</em>, 30/12/1998)</p><p>A matéria refere-se à “desmontagem das estruturas do passado” que pode ser entendida como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o fim da Guerra Fria, período de inquietação mundial que dividiu o mundo em dois blocos ideológicos opostos.",
+    "B": "a inserção de alguns países do Leste Europeu em organismos supranacionais, com o intuito de exercer o controle ideológico no mundo.",
+    "C": "a crise do capitalismo, do liberalismo e da democracia levando à polarização ideológica da antiga URSS.",
+    "D": "a confrontação dos modelos socialista e capitalista para deter o processo de unificação das duas Alemanhas.",
+    "E": "a prosperidade das economias capitalista e socialista, com o conseqüente fim da Guerra Fria entre EUA e a URSS."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto cita a derrubada do Muro de Berlim, a reunificação alemã, a libertação dos países da Cortina de Ferro e o fim da União Soviética: estruturas do mundo dividido em dois blocos. A “desmontagem das estruturas do passado” é o fim da Guerra Fria. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Guerra Fria",
+    "euro"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "Química",
+   "assunto": "Indicadores",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 14 e 15.</strong></p><p>As informações abaixo foram extraídas do rótulo da água mineral de determinada fonte.</p><table class=\"tabela\"><thead><tr><th>ÁGUA MINERAL NATURAL</th><th></th></tr></thead><tbody><tr><td><strong>Composição química provável em mg/L</strong></td><td></td></tr><tr><td>Sulfato de estrôncio</td><td>0,04</td></tr><tr><td>Sulfato de cálcio</td><td>2,29</td></tr><tr><td>Sulfato de potássio</td><td>2,16</td></tr><tr><td>Sulfato de sódio</td><td>65,71</td></tr><tr><td>Carbonato de sódio</td><td>143,68</td></tr><tr><td>Bicarbonato de sódio</td><td>42,20</td></tr><tr><td>Cloreto de sódio</td><td>4,07</td></tr><tr><td>Fluoreto de sódio</td><td>1,24</td></tr><tr><td>Vanádio</td><td>0,07</td></tr><tr><td><strong>Características físico-químicas</strong></td><td></td></tr><tr><td>pH a 25 °C</td><td>10,00</td></tr><tr><td>Temperatura da água na fonte</td><td>24 °C</td></tr><tr><td>Condutividade elétrica</td><td>4,40 × 10<sup>−4</sup> ohms/cm</td></tr><tr><td>Resíduo de evaporação a 180 °C</td><td>288,00 mg/L</td></tr><tr><td><strong>Classificação</strong></td><td>“Alcalino-bicarbonatada, fluoretada, vanádica”</td></tr></tbody></table><p>Indicadores <strong>ácido base</strong> são substâncias que em solução aquosa apresentam cores diferentes conforme o pH da solução.</p><p>O quadro abaixo fornece as cores que alguns indicadores apresentam à temperatura de 25 °C</p><table class=\"tabela\"><thead><tr><th>Indicador</th><th>Cores conforme o pH</th></tr></thead><tbody><tr><td>Azul de bromotimol</td><td>amarelo em pH ≤ 6,0; azul em pH ≥ 7,6</td></tr><tr><td>Vermelho de metila</td><td>vermelho em pH ≤ 4,8; amarelo em pH ≥ 6,0</td></tr><tr><td>Fenolftaleína</td><td>incolor em pH ≤ 8,2; vermelho em pH ≥ 10,0</td></tr><tr><td>Alaranjado de metila</td><td>vermelho em pH ≤ 3,2; amarelo em pH ≥ 4,4</td></tr></tbody></table><p>Suponha que uma pessoa inescrupulosa guardou garrafas vazias dessa água mineral, enchendo-as com água de torneira (pH entre 6,5 e 7,5) para serem vendidas como água mineral. Tal fraude pode ser facilmente comprovada pingando-se na “água mineral fraudada”, à temperatura de 25 °C, gotas de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "azul de bromotimol ou fenolftaleína.",
+    "B": "alaranjado de metila ou fenolftaleína.",
+    "C": "alaranjado de metila ou azul de bromotimol.",
+    "D": "vermelho de metila ou azul de bromotimol.",
+    "E": "vermelho de metila ou alaranjado de metila."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A água mineral tem pH 10; a de torneira, entre 6,5 e 7,5. A fenolftaleína fica vermelha em pH 10 e incolor na água de torneira. O azul de bromotimol fica azul em pH 10 e amarelo ou verde (intermediário) na de torneira. Os dois revelam a fraude. Alternativa <strong>A</strong>.</p><p>Vermelho de metila e alaranjado de metila ficam amarelos nas duas águas e não distinguem uma da outra.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "indicador ácido-base",
+    "pH"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Química",
+   "assunto": "Água mineral",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 14 e 15.</strong></p><p>As informações abaixo foram extraídas do rótulo da água mineral de determinada fonte.</p><table class=\"tabela\"><thead><tr><th>ÁGUA MINERAL NATURAL</th><th></th></tr></thead><tbody><tr><td><strong>Composição química provável em mg/L</strong></td><td></td></tr><tr><td>Sulfato de estrôncio</td><td>0,04</td></tr><tr><td>Sulfato de cálcio</td><td>2,29</td></tr><tr><td>Sulfato de potássio</td><td>2,16</td></tr><tr><td>Sulfato de sódio</td><td>65,71</td></tr><tr><td>Carbonato de sódio</td><td>143,68</td></tr><tr><td>Bicarbonato de sódio</td><td>42,20</td></tr><tr><td>Cloreto de sódio</td><td>4,07</td></tr><tr><td>Fluoreto de sódio</td><td>1,24</td></tr><tr><td>Vanádio</td><td>0,07</td></tr><tr><td><strong>Características físico-químicas</strong></td><td></td></tr><tr><td>pH a 25 °C</td><td>10,00</td></tr><tr><td>Temperatura da água na fonte</td><td>24 °C</td></tr><tr><td>Condutividade elétrica</td><td>4,40 × 10<sup>−4</sup> ohms/cm</td></tr><tr><td>Resíduo de evaporação a 180 °C</td><td>288,00 mg/L</td></tr><tr><td><strong>Classificação</strong></td><td>“Alcalino-bicarbonatada, fluoretada, vanádica”</td></tr></tbody></table><p>Indicadores <strong>ácido base</strong> são substâncias que em solução aquosa apresentam cores diferentes conforme o pH da solução.</p><p>O quadro abaixo fornece as cores que alguns indicadores apresentam à temperatura de 25 °C</p><table class=\"tabela\"><thead><tr><th>Indicador</th><th>Cores conforme o pH</th></tr></thead><tbody><tr><td>Azul de bromotimol</td><td>amarelo em pH ≤ 6,0; azul em pH ≥ 7,6</td></tr><tr><td>Vermelho de metila</td><td>vermelho em pH ≤ 4,8; amarelo em pH ≥ 6,0</td></tr><tr><td>Fenolftaleína</td><td>incolor em pH ≤ 8,2; vermelho em pH ≥ 10,0</td></tr><tr><td>Alaranjado de metila</td><td>vermelho em pH ≤ 3,2; amarelo em pH ≥ 4,4</td></tr></tbody></table><p>As seguintes explicações foram dadas para a presença do elemento vanádio na água mineral em questão</p><ol type=\"I\"><li>No seu percurso até chegar à fonte, a água passa por rochas contendo minerais de vanádio, dissolvendo-os.</li><li>Na perfuração dos poços que levam aos depósitos subterrâneos da água, utilizaram-se brocas constituídas de ligas cromo-vanádio.</li><li>Foram adicionados compostos de vanádio à água mineral.</li></ol><p>Considerando todas as informações do rótulo, pode-se concluir que apenas</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a explicação I é plausível.",
+    "B": "a explicação II é plausível.",
+    "C": "a explicação III é plausível.",
+    "D": "as explicações I e II são plausíveis.",
+    "E": "as explicações II e III são plausíveis."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A composição da água mineral vem dos minerais das rochas por onde ela passa: o vanádio vem da dissolução de minerais desse elemento (I). Uma broca não liberaria vanádio continuamente na água (II), e a água mineral não pode receber aditivos (III). Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "água mineral",
+    "dissolução"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Química",
+   "assunto": "Substâncias do cotidiano",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p>A água do mar pode ser fonte de materiais utilizados pelo ser humano, como os exemplificados no esquema abaixo.</p><ul><li>Da água do mar se obtém o <strong>cloreto de sódio (I)</strong>.</li><li>Do cloreto de sódio se obtêm o cloro, a <strong>soda cáustica (II)</strong> e o carbonato de sódio.</li><li>Do cloro e da soda cáustica se obtém o <strong>hipoclorito de sódio (III)</strong>.</li><li>Do carbonato de sódio se obtém o <strong>bicarbonato de sódio (IV)</strong>.</li></ul><p>Os materiais I, II, III e IV existem como principal constituinte ativo de produtos de uso rotineiro. A alternativa que associa corretamente <strong>água sanitária</strong>, <strong>fermento em pó</strong> e <strong>solução fisiológica</strong> com os materiais obtidos da água do mar é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Água sanitária: II; fermento em pó: III; solução fisiológica: IV.",
+    "B": "Água sanitária: III; fermento em pó: I; solução fisiológica: IV.",
+    "C": "Água sanitária: III; fermento em pó: IV; solução fisiológica: I.",
+    "D": "Água sanitária: II; fermento em pó: III; solução fisiológica: I.",
+    "E": "Água sanitária: I; fermento em pó: IV; solução fisiológica: III."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Água sanitária é solução de hipoclorito de sódio (III); fermento em pó tem bicarbonato de sódio, que libera gás carbônico (IV); solução fisiológica é cloreto de sódio a 0,9% (I). Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sais",
+    "hipoclorito"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p>Leia um texto publicado no jornal <em>Gazeta Mercantil</em>. Esse texto é parte de um artigo que analisa algumas situações de crise no mundo, entre elas, a quebra da Bolsa de Nova Iorque em 1929, e foi publicado na época de uma iminente crise financeira no Brasil.</p><p class=\"apoio\"><em>Deu no que deu. No dia 29 de outubro de 1929, uma terça-feira, praticamente não havia compradores no pregão de Nova Iorque, só vendedores. Seguiu-se uma crise incomparável: o Produto Interno Bruto dos Estados Unidos caiu de 104 bilhões de dólares em 1929, para 56 bilhões em 1933, coisa inimaginável em nossos dias. O valor do dólar caiu a quase metade. O desemprego elevou-se de 1,5 milhão para 12,5 milhões de trabalhadores – cerca de 25% da população ativa – entre 1929 e 1933. A construção civil caiu 90%. Nove milhões de aplicações, tipo caderneta de poupança, perderam-se com o fechamento dos bancos. Oitenta e cinco mil firmas faliram. Houve saques e norte-americanos que passaram fome.</em></p><p class=\"fonte\">(<em>Gazeta Mercantil</em>, 05/01/1999)</p><p>Ao citar dados referentes à crise ocorrida em 1929, em um artigo jornalístico atual, pode-se atribuir ao jornalista a seguinte intenção:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "questionar a interpretação da crise.",
+    "B": "comunicar sobre o desemprego.",
+    "C": "instruir o leitor sobre aplicações em bolsa de valores.",
+    "D": "relacionar os fatos passados e presentes.",
+    "E": "analisar dados financeiros americanos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O artigo relembra a crise de 1929 num momento em que o Brasil vivia uma crise financeira iminente: o jornalista usa o passado para iluminar o presente, relacionando os fatos. Alternativa <strong>D</strong>.</p><p>Os dados de desemprego e do PIB americano são meios, e não o objetivo do texto (B, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "crise de 1929",
+    "intencionalidade"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 18,
+   "materia": "Biologia",
+   "assunto": "Saúde pública",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p>A tabela abaixo apresenta dados referentes à mortalidade infantil, à porcentagem de famílias de baixa renda com crianças menores de 6 anos e às taxas de analfabetismo das diferentes regiões brasileiras e do Brasil como um todo.</p><table class=\"tabela\"><thead><tr><th>Região</th><th>Mortalidade infantil*</th><th>Famílias pobres**</th><th>Analfab.***</th></tr></thead><tbody><tr><td>Norte</td><td>35,6</td><td>34,5</td><td>12,7</td></tr><tr><td>Nordeste</td><td>59,0</td><td>54,9</td><td>29,4</td></tr><tr><td>Sul</td><td>22,5</td><td>22,4</td><td>8,3</td></tr><tr><td>Sudeste</td><td>25,2</td><td>18,9</td><td>8,6</td></tr><tr><td>Centro-Oeste</td><td>25,4</td><td>25,5</td><td>12,4</td></tr><tr><td><strong>Brasil</strong></td><td><strong>36,7</strong></td><td><strong>31,8</strong></td><td><strong>14,7</strong></td></tr></tbody></table><p class=\"fonte\">Fonte: <em>Folha de S. Paulo</em>, 11/03/99. * A mortalidade infantil indica o número de crianças que morrem antes de completar um ano de idade para cada grupo de 1.000 crianças que nasceram vivas. ** Famílias de baixa renda com crianças menores de 6 anos (em %). *** Taxa de analfabetismo em maiores de 15 anos (em %).</p><p>Suponha que um grupo de alunos recebeu a tarefa de pesquisar fatores que interferem na manutenção da saúde ou no desenvolvimento de doenças. O primeiro grupo deveria colher dados que apoiassem a idéia de que combatendo-se agentes biológicos e químicos garante-se a saúde. Já o segundo grupo deveria coletar informações que reforçassem a idéia de que a saúde de um indivíduo está diretamente relacionada à sua condição socioeconômica.</p><p>Os dados da tabela podem ser utilizados apropriadamente para</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "apoiar apenas a argumentação do primeiro grupo.",
+    "B": "apoiar apenas a argumentação do segundo grupo.",
+    "C": "refutar apenas a posição a ser defendida pelo segundo grupo.",
+    "D": "apoiar a argumentação dos dois grupos.",
+    "E": "refutar as posições a serem defendidas pelos dois grupos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A tabela mostra que a mortalidade infantil é maior nas regiões com mais famílias pobres e mais analfabetismo (Nordeste) e menor onde esses índices são baixos (Sul e Sudeste). Isso apoia a ideia do segundo grupo, de que a saúde depende das condições socioeconômicas. A tabela não traz dados sobre agentes biológicos ou químicos. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mortalidade infantil",
+    "condições socioeconômicas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Raciocínio lógico",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p>Imagine uma eleição envolvendo 3 candidatos A, B, C e 33 eleitores (votantes). Cada eleitor vota fazendo uma ordenação dos três candidatos. Os resultados são os seguintes:</p><table class=\"tabela\"><thead><tr><th>Ordenação</th><th>Nº de votantes</th></tr></thead><tbody><tr><td>A B C</td><td>10</td></tr><tr><td>A C B</td><td>04</td></tr><tr><td>B A C</td><td>02</td></tr><tr><td>B C A</td><td>07</td></tr><tr><td>C A B</td><td>03</td></tr><tr><td>C B A</td><td>07</td></tr><tr><td><strong>Total de votantes</strong></td><td><strong>33</strong></td></tr></tbody></table><p>A primeira linha do quadro descreve que 10 eleitores escolheram A em 1º lugar, B em 2º lugar, C em 3º lugar e assim por diante.</p><p>Considere o sistema de eleição no qual cada candidato ganha 3 pontos quando é escolhido em 1º lugar, 2 pontos quando é escolhido em 2º lugar e 1 ponto se é escolhido em 3º lugar. O candidato que acumular mais pontos é eleito. Nesse caso,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A é eleito com 66 pontos.",
+    "B": "A é eleito com 68 pontos.",
+    "C": "B é eleito com 68 pontos.",
+    "D": "B é eleito com 70 pontos.",
+    "E": "C é eleito com 68 pontos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A: 1º lugar para 14 eleitores (10 + 4), 2º para 5 (2 + 3), 3º para 14 (7 + 7): 42 + 10 + 14 = 66 pontos. B: 1º para 9, 2º para 17, 3º para 7: 27 + 34 + 7 = 68. C: 1º para 10, 2º para 11, 3º para 12: 30 + 22 + 12 = 64. B é eleito com 68 pontos. Alternativa <strong>C</strong>.</p><p>A teria mais votos em 1º lugar, mas perde pela pontuação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sistemas de votação",
+    "contagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Volume do cilindro",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 20 e 21.</strong></p><p>Uma garrafa cilíndrica está fechada, contendo um líquido que ocupa quase completamente seu corpo, conforme mostra a figura. Suponha que, para fazer medições, você disponha apenas de uma régua milimetrada.</p>[[fig:1]]<p>Para calcular o volume do líquido contido na garrafa, o número mínimo de medições a serem realizadas é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q20.webp",
+     "alt": "Garrafa de corpo cilíndrico e gargalo estreito, fechada, com líquido até perto do alto do corpo cilíndrico."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O líquido ocupa um cilindro: o volume é π r² h. Basta medir o diâmetro (ou a circunferência) do corpo da garrafa e a altura do líquido: 2 medições. Alternativa <strong>B</strong>.</p><p>O líquido não chega ao gargalo, então sua forma é um cilindro perfeito e não é preciso medir mais nada; a espessura do vidro é desprezada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cilindro",
+    "medição"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Volume do cilindro",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 20 e 21.</strong></p><p>Uma garrafa cilíndrica está fechada, contendo um líquido que ocupa quase completamente seu corpo, conforme mostra a figura. Suponha que, para fazer medições, você disponha apenas de uma régua milimetrada.</p>[[fig:1]]<p>Para calcular a capacidade total da garrafa, lembrando que você pode virá-la, o número mínimo de medições a serem realizadas é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q20.webp",
+     "alt": "Garrafa de corpo cilíndrico e gargalo estreito, fechada, com líquido até perto do alto do corpo cilíndrico."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Além do diâmetro e da altura do líquido (2 medições), falta o volume do ar, que inclui o gargalo, de forma irregular. Virando a garrafa de cabeça para baixo, o ar fica na parte cilíndrica e basta medir a altura dessa camada de ar: 3 medições. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cilindro",
+    "medição indireta"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Geografia",
+   "assunto": "Teorias demográficas",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 22 e 23.</strong></p><p>Em material para análise de determinado <em>marketing</em> político, lê-se a seguinte conclusão:</p><p class=\"apoio\"><em>A explosão demográfica que ocorreu a partir dos anos 50, especialmente no Terceiro Mundo, suscitou teorias ou políticas demográficas divergentes. Uma primeira teoria, dos neomalthusianos, defende que o crescimento demográfico dificulta o desenvolvimento econômico, já que provoca uma diminuição na renda nacional per capita e desvia os investimentos do Estado para setores menos produtivos. Diante disso, o país deveria desenvolver uma rígida política de controle de natalidade. Uma segunda, a teoria reformista, argumenta que o problema não está na renda per capita e sim na distribuição irregular da renda, que não permite o acesso à educação e saúde. Diante disso o país deve promover a igualdade econômica e a justiça social.</em></p><p>Qual dos <em>slogans</em> abaixo poderia ser utilizado para defender o ponto de vista neomalthusiano?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“Controle populacional – nosso passaporte para o desenvolvimento.”",
+    "B": "“Sem reformas sociais o país se reproduz e não produz.”",
+    "C": "“População abundante, país forte!”",
+    "D": "“O crescimento gera fraternidade e riqueza para todos.”",
+    "E": "“Justiça social, sinônimo de desenvolvimento.”"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os neomalthusianos defendem o controle da natalidade como condição para o desenvolvimento: “Controle populacional – nosso passaporte para o desenvolvimento”. Alternativa <strong>A</strong>.</p><p>B e E expressam a visão reformista; C e D defendem o crescimento populacional.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "neomalthusianismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "Geografia",
+   "assunto": "Teorias demográficas",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 22 e 23.</strong></p><p>Em material para análise de determinado <em>marketing</em> político, lê-se a seguinte conclusão:</p><p class=\"apoio\"><em>A explosão demográfica que ocorreu a partir dos anos 50, especialmente no Terceiro Mundo, suscitou teorias ou políticas demográficas divergentes. Uma primeira teoria, dos neomalthusianos, defende que o crescimento demográfico dificulta o desenvolvimento econômico, já que provoca uma diminuição na renda nacional per capita e desvia os investimentos do Estado para setores menos produtivos. Diante disso, o país deveria desenvolver uma rígida política de controle de natalidade. Uma segunda, a teoria reformista, argumenta que o problema não está na renda per capita e sim na distribuição irregular da renda, que não permite o acesso à educação e saúde. Diante disso o país deve promover a igualdade econômica e a justiça social.</em></p><p>Qual dos <em>slogans</em> abaixo poderia ser utilizado para defender o ponto de vista dos reformistas?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“Controle populacional já, ou o país não resistirá.”",
+    "B": "“Com saúde e educação, o planejamento familiar virá por opção!”",
+    "C": "“População controlada, país rico!”",
+    "D": "“Basta mais gente, que o país vai para frente!”",
+    "E": "“População menor, educação melhor!”"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Para os reformistas, o problema é a má distribuição de renda, que impede o acesso à saúde e à educação; com esses direitos garantidos, as famílias reduziriam o número de filhos por escolha. “Com saúde e educação, o planejamento familiar virá por opção!” Alternativa <strong>B</strong>.</p><p>A, C e E põem o controle populacional como causa do desenvolvimento, que é a ideia neomalthusiana.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "teoria reformista"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Plano cartesiano",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 24 e 25.</strong></p><p>José e Antônio viajarão em seus carros com as respectivas famílias para a cidade de Serra Branca. Com a intenção de seguir viagem juntos, combinam um encontro no marco inicial da rodovia, onde chegarão, de modo independente, entre meio-dia e 1 hora da tarde. Entretanto, como não querem ficar muito tempo esperando um pelo outro, combinam que o primeiro que chegar ao marco inicial esperará pelo outro, no máximo, meia hora; após esse tempo, seguirá viagem sozinho.</p><p>Chamando de <strong>x</strong> o horário de chegada de José e de <strong>y</strong> o horário de chegada de Antônio, e representando os pares (x; y) em um sistema de eixos cartesianos, a região OPQR indicada corresponde ao conjunto de todas as possibilidades para o par (x; y):</p>[[fig:1]]<p>Na região indicada, o conjunto de pontos que representa o evento “José e Antônio chegam ao marco inicial exatamente no mesmo horário” corresponde</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q23.webp",
+     "alt": "Quadrado OPQR num sistema de eixos: no eixo horizontal, chegada de José, de 0 (12h) a 1 (13h); no vertical, chegada de Antônio, de 0 (12h) a 1 (13h). O é a origem, R = (1; 0), Q = (1; 1) e P = (0; 1)."
+    }
+   ],
+   "alternativas": {
+    "A": "à diagonal OQ.",
+    "B": "à diagonal PR.",
+    "C": "ao lado PQ.",
+    "D": "ao lado QR.",
+    "E": "ao lado OR."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Chegar no mesmo horário significa x = y. No quadrado, esses pontos formam a diagonal que vai de O (0; 0) a Q (1; 1). Alternativa <strong>A</strong>.</p><p>A diagonal PR é x + y = 1, que não representa chegadas iguais.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reta y = x",
+    "plano cartesiano"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Probabilidade geométrica",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 24 e 25.</strong></p><p>José e Antônio viajarão em seus carros com as respectivas famílias para a cidade de Serra Branca. Com a intenção de seguir viagem juntos, combinam um encontro no marco inicial da rodovia, onde chegarão, de modo independente, entre meio-dia e 1 hora da tarde. Entretanto, como não querem ficar muito tempo esperando um pelo outro, combinam que o primeiro que chegar ao marco inicial esperará pelo outro, no máximo, meia hora; após esse tempo, seguirá viagem sozinho.</p><p>Chamando de <strong>x</strong> o horário de chegada de José e de <strong>y</strong> o horário de chegada de Antônio, e representando os pares (x; y) em um sistema de eixos cartesianos, a região OPQR indicada corresponde ao conjunto de todas as possibilidades para o par (x; y):</p>[[fig:1]]<p>Segundo o combinado, para que José e Antônio viajem juntos, é necessário que y − x ≤ 1/2 ou que x − y ≤ 1/2.</p>[[fig:2]]<p>De acordo com o gráfico e nas condições combinadas, as chances de José e Antônio viajarem juntos são de:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q23.webp",
+     "alt": "Quadrado OPQR num sistema de eixos: no eixo horizontal, chegada de José, de 0 (12h) a 1 (13h); no vertical, chegada de Antônio, de 0 (12h) a 1 (13h). O é a origem, R = (1; 0), Q = (1; 1) e P = (0; 1)."
+    },
+    {
+     "src": "assets/img/enem-1999/q25.webp",
+     "alt": "O quadrado de lado 1, com eixos “José” e “Antônio”, dividido pelas retas y = x + 1/2, y = x e y = x − 1/2 em quatro regiões: I, o triângulo no canto superior esquerdo, acima de y = x + 1/2; II, entre y = x + 1/2 e y = x; III, entre y = x e y = x − 1/2; IV, o triângulo no canto inferior direito, abaixo de y = x − 1/2."
+    }
+   ],
+   "alternativas": {
+    "A": "0%",
+    "B": "25%",
+    "C": "50%",
+    "D": "75%",
+    "E": "100%"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Eles viajam juntos quando a diferença entre as chegadas é de no máximo meia hora: a faixa entre as retas y = x + 1/2 e y = x − 1/2 (regiões II e III). Fora dela ficam dois triângulos (I e IV), cada um com catetos 1/2 e área 1/8. A faixa tem área 1 − 2 × 1/8 = 3/4 do quadrado: 75%. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade geométrica",
+    "área"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Física",
+   "assunto": "Movimento aparente do Sol",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 26 e 27.</strong></p><p>No primeiro dia do inverno no Hemisfério Sul, uma atividade de observação de sombras é realizada por alunos de Macapá, Porto Alegre e Recife. Para isso, utiliza-se uma vareta de 30 cm fincada no chão na posição vertical. Para marcar o tamanho e a posição da sombra, o chão é forrado com uma folha de cartolina, como mostra a figura:</p>[[fig:1]][[fig:2]]<p>Nas figuras abaixo, estão representadas as sombras projetadas pelas varetas nas três cidades, no mesmo instante, ao meio-dia. A linha pontilhada indica a direção Norte-Sul.</p>[[fig:3]]<p>Levando-se em conta a localização destas três cidades no mapa, podemos afirmar que os comprimentos das sombras serão tanto maiores quanto maior for o afastamento da cidade em relação ao</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q26a.webp",
+     "alt": "Mapa do Brasil com as capitais marcadas, a linha do Equador passando perto de Macapá e o Trópico de Capricórnio passando perto de São Paulo. Boa Vista e Macapá ficam no extremo norte; Natal e Recife, no extremo leste; Porto Alegre, no extremo sul; Brasília, Goiânia e Cuiabá, no centro."
+    },
+    {
+     "src": "assets/img/enem-1999/q26b.webp",
+     "alt": "Vareta vertical fincada numa cartolina, projetando uma sombra sobre ela."
+    },
+    {
+     "src": "assets/img/enem-1999/q26c.webp",
+     "alt": "Três cartolinas com a linha Norte-Sul pontilhada e a sombra ao meio-dia. Recife: sombra média, voltada para baixo e para a direita da linha. Porto Alegre: sombra longa, voltada para baixo e para a esquerda. Macapá: sombra curta, voltada para baixo e um pouco para a esquerda."
+    }
+   ],
+   "alternativas": {
+    "A": "litoral.",
+    "B": "Equador.",
+    "C": "nível do mar.",
+    "D": "Trópico de Capricórnio.",
+    "E": "Meridiano de Greenwich."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No início do inverno do Hemisfério Sul, o Sol do meio-dia fica sobre o Trópico de Câncer, ao norte de todas as três cidades. Quanto mais ao sul a cidade, mais inclinados chegam os raios e mais longa é a sombra: Macapá, quase no Equador, tem a sombra mais curta; Porto Alegre, a mais longa. Entre as opções, o comprimento cresce com o afastamento do Equador. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sombra",
+    "latitude"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Física",
+   "assunto": "Movimento aparente do Sol",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 26 e 27.</strong></p><p>No primeiro dia do inverno no Hemisfério Sul, uma atividade de observação de sombras é realizada por alunos de Macapá, Porto Alegre e Recife. Para isso, utiliza-se uma vareta de 30 cm fincada no chão na posição vertical. Para marcar o tamanho e a posição da sombra, o chão é forrado com uma folha de cartolina, como mostra a figura:</p>[[fig:1]][[fig:2]]<p>Nas figuras abaixo, estão representadas as sombras projetadas pelas varetas nas três cidades, no mesmo instante, ao meio-dia. A linha pontilhada indica a direção Norte-Sul.</p>[[fig:3]]<p>Pelos resultados da experiência, num mesmo instante, em Recife a sombra se projeta à direita e nas outras duas cidades à esquerda da linha pontilhada na cartolina. É razoável, então, afirmar que existe uma localidade em que a sombra deverá estar bem mais próxima da linha pontilhada, em vias de passar de um lado para o outro. Em que localidade, dentre as listadas abaixo, seria mais provável que isso ocorresse?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q26a.webp",
+     "alt": "Mapa do Brasil com as capitais marcadas, a linha do Equador passando perto de Macapá e o Trópico de Capricórnio passando perto de São Paulo. Boa Vista e Macapá ficam no extremo norte; Natal e Recife, no extremo leste; Porto Alegre, no extremo sul; Brasília, Goiânia e Cuiabá, no centro."
+    },
+    {
+     "src": "assets/img/enem-1999/q26b.webp",
+     "alt": "Vareta vertical fincada numa cartolina, projetando uma sombra sobre ela."
+    },
+    {
+     "src": "assets/img/enem-1999/q26c.webp",
+     "alt": "Três cartolinas com a linha Norte-Sul pontilhada e a sombra ao meio-dia. Recife: sombra média, voltada para baixo e para a direita da linha. Porto Alegre: sombra longa, voltada para baixo e para a esquerda. Macapá: sombra curta, voltada para baixo e um pouco para a esquerda."
+    }
+   ],
+   "alternativas": {
+    "A": "Natal.",
+    "B": "Manaus.",
+    "C": "Cuiabá.",
+    "D": "Brasília.",
+    "E": "Boa Vista."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O meio-dia do relógio é o mesmo nas três cidades, mas o meio-dia solar depende da longitude. Em Recife, mais a leste, o Sol já passou do ponto mais alto, e a sombra cai de um lado; em Porto Alegre e Macapá, mais a oeste, o Sol ainda não chegou lá, e a sombra cai do outro. A sombra ficaria sobre a linha numa cidade de longitude intermediária, entre Recife e as outras duas: Brasília. Alternativa <strong>D</strong>.</p><p>Natal fica a leste até de Recife; Manaus, Cuiabá e Boa Vista ficam a oeste de Macapá e Porto Alegre.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "longitude",
+    "hora solar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Biologia",
+   "assunto": "Clonagem",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 28 e 29.</strong></p><p>A seqüência abaixo indica de maneira simplificada os passos seguidos por um grupo de cientistas para a clonagem de uma vaca:</p><ol type=\"I\"><li>Retirou-se um óvulo da vaca Z. O núcleo foi desprezado, obtendo-se um óvulo anucleado.</li><li>Retirou-se uma célula da glândula mamária da vaca W. O núcleo foi isolado e conservado, desprezando-se o resto da célula.</li><li>O núcleo da célula da glândula mamária foi introduzido no óvulo anucleado. A célula reconstituída foi estimulada para entrar em divisão.</li><li>Após algumas divisões, o embrião foi implantado no útero de uma terceira vaca Y, mãe de aluguel. O embrião se desenvolveu e deu origem ao clone.</li></ol><p>Considerando-se que os animais Z, W e Y não têm parentesco, pode-se afirmar que o animal resultante da clonagem tem as características genéticas da vaca</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Z, apenas.",
+    "B": "W, apenas.",
+    "C": "Y, apenas.",
+    "D": "Z e da W, apenas.",
+    "E": "Z, W e Y."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O material genético do clone (o núcleo) veio da célula mamária da vaca W. O óvulo de Z perdeu o núcleo, e a vaca Y só abrigou o embrião. As características genéticas são as de W. Alternativa <strong>B</strong>.</p><p>Na prática, o citoplasma do óvulo de Z traz um pouco de DNA mitocondrial, mas a questão trata da informação genética nuclear.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "clonagem",
+    "núcleo celular"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Biologia",
+   "assunto": "Clonagem",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 28 e 29.</strong></p><p>A seqüência abaixo indica de maneira simplificada os passos seguidos por um grupo de cientistas para a clonagem de uma vaca:</p><ol type=\"I\"><li>Retirou-se um óvulo da vaca Z. O núcleo foi desprezado, obtendo-se um óvulo anucleado.</li><li>Retirou-se uma célula da glândula mamária da vaca W. O núcleo foi isolado e conservado, desprezando-se o resto da célula.</li><li>O núcleo da célula da glândula mamária foi introduzido no óvulo anucleado. A célula reconstituída foi estimulada para entrar em divisão.</li><li>Após algumas divisões, o embrião foi implantado no útero de uma terceira vaca Y, mãe de aluguel. O embrião se desenvolveu e deu origem ao clone.</li></ol><p>Se a vaca Y, utilizada como “mãe de aluguel”, for a mãe biológica da vaca W, a porcentagem de genes da “mãe de aluguel”, presente no clone será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0%",
+    "B": "25%",
+    "C": "50%",
+    "D": "75%",
+    "E": "100%"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O clone tem os mesmos genes de W. Se Y for a mãe biológica de W, W herdou metade de seus genes de Y. Logo, o clone também tem 50% dos genes de Y. Alternativa <strong>C</strong>.</p><p>Gestar o embrião não transfere genes: os 50% vêm do parentesco entre Y e W.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "herança genética",
+    "clonagem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Sólidos de revolução",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p>Assim como na relação entre o perfil de um corte de um torno e a peça torneada, sólidos de revolução resultam da rotação de figuras planas em torno de um eixo. Girando-se as figuras abaixo em torno da haste indicada obtêm-se os sólidos de revolução que estão na coluna da direita.</p>[[fig:1]]<p>A correspondência correta entre as figuras planas e os sólidos de revolução obtidos é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q30.webp",
+     "alt": "À esquerda, cinco figuras planas numeradas de 1 a 5, cada uma presa a uma haste vertical à direita; à direita, cinco sólidos de revolução, de A a E. 1: forma de C, com um braço em cima e outro embaixo. 2: retângulo com uma ponta inclinada em cima. 3: forma com um degrau largo no meio. 4: duas pontas triangulares, uma em cima e outra embaixo. 5: forma de E, com três braços. A: um disco largo com uma cúpula. B: dois cones unidos pelas bases. C: três discos empilhados. D: dois discos separados. E: um cone sobre um cilindro."
+    }
+   ],
+   "alternativas": {
+    "A": "1A, 2B, 3C, 4D, 5E.",
+    "B": "1B, 2C, 3D, 4E, 5A.",
+    "C": "1B, 2D, 3E, 4A, 5C.",
+    "D": "1D, 2E, 3A, 4B, 5C.",
+    "E": "1D, 2E, 3B, 4C, 5A."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Cada figura, girando em torno da haste, gera um sólido com o mesmo perfil. A figura 1, com dois braços horizontais separados por um vão, gera dois discos (D). A figura 2, com uma ponta inclinada, gera um sólido com uma parte cônica (E). A figura 3 gera um disco largo com uma saliência (A). A 4, com dois triângulos, gera dois cones opostos (B). E a 5, em forma de E, gera três discos (C). Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sólidos de revolução",
+    "visualização espacial"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "História",
+   "assunto": "Revolução Científica",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p class=\"apoio\"><em>(...) Depois de longas investigações, convenci-me por fim de que o Sol é uma estrela fixa rodeada de planetas que giram em volta dela e de que ela é o centro e a chama. Que, além dos planetas principais, há outros de segunda ordem que circulam primeiro como satélites em redor dos planetas principais e com estes em redor do Sol. (...) Não duvido de que os matemáticos sejam da minha opinião, se quiserem dar-se ao trabalho de tomar conhecimento, não superficialmente mas duma maneira aprofundada, das demonstrações que darei nesta obra. Se alguns homens ligeiros e ignorantes quiserem cometer contra mim o abuso de invocar alguns passos da Escritura (sagrada), a que torçam o sentido, desprezarei os seus ataques: as verdades matemáticas não devem ser julgadas senão por matemáticos.</em></p><p class=\"fonte\">(COPÉRNICO, N. <em>De Revolutionibus orbium caelestium</em>.)</p><p class=\"apoio\"><em>Aqueles que se entregam à prática sem ciência são como o navegador que embarca em um navio sem leme nem bússola. Sempre a prática deve fundamentar-se em boa teoria. Antes de fazer de um caso uma regra geral, experimente-o duas ou três vezes e verifique se as experiências produzem os mesmos efeitos. Nenhuma investigação humana pode se considerar verdadeira ciência se não passa por demonstrações matemáticas.</em></p><p class=\"fonte\">(VINCI, Leonardo da. <em>Carnets</em>.)</p><p>O aspecto a ser ressaltado em ambos os textos para exemplificar o racionalismo moderno é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a fé como guia das descobertas.",
+    "B": "o senso crítico para se chegar a Deus.",
+    "C": "a limitação da ciência pelos princípios bíblicos.",
+    "D": "a importância da experiência e da observação.",
+    "E": "o princípio da autoridade e da tradição."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Copérnico chegou ao heliocentrismo “depois de longas investigações” e quer ser julgado por demonstrações matemáticas, não pela Escritura. Leonardo exige que a prática se apoie em teoria e que um caso seja testado “duas ou três vezes” antes de virar regra. Os dois valorizam a experiência, a observação e a demonstração. Alternativa <strong>D</strong>.</p><p>Ambos rejeitam a autoridade da tradição e da Bíblia como critério científico (C, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Copérnico",
+    "método científico"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "Física",
+   "assunto": "Mudanças de fase",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 32 e 33.</strong></p><p>A panela de pressão permite que os alimentos sejam cozidos em água muito mais rapidamente do que em panelas convencionais. Sua tampa possui uma borracha de vedação que não deixa o vapor escapar, a não ser através de um orifício central sobre o qual assenta um peso que controla a pressão. Quando em uso, desenvolve-se uma pressão elevada no seu interior. Para a sua operação segura, é necessário observar a limpeza do orifício central e a existência de uma válvula de segurança, normalmente situada na tampa.</p><p>O esquema da panela de pressão e um diagrama de fase da água são apresentados abaixo.</p>[[fig:1]]<p>A vantagem do uso de panela de pressão é a rapidez para o cozimento de alimentos e isto se deve</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q31.webp",
+     "alt": "À esquerda, esquema de panela de pressão sobre o fogo, com líquido embaixo, vapor em cima e a válvula de segurança na tampa. À direita, diagrama de fase da água: pressão (0 a 5 atm) em função da temperatura (0 a 160 °C); a curva separa a região do líquido, acima, da do vapor, abaixo, passando por 1 atm a 100 °C e subindo para cerca de 2 atm perto de 120 °C e 4 atm perto de 145 °C."
+    }
+   ],
+   "alternativas": {
+    "A": "à pressão no seu interior, que é igual à pressão externa.",
+    "B": "à temperatura de seu interior, que está acima da temperatura de ebulição da água no local.",
+    "C": "à quantidade de calor adicional que é transferida à panela.",
+    "D": "à quantidade de vapor que está sendo liberada pela válvula.",
+    "E": "à espessura da sua parede, que é maior que a das panelas comuns."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Com a pressão interna maior que a atmosférica, a água só ferve a uma temperatura mais alta (pelo diagrama, cerca de 120 °C a 2 atm). Os alimentos ficam em contato com água acima da temperatura normal de ebulição e cozinham mais depressa. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "panela de pressão",
+    "ponto de ebulição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Física",
+   "assunto": "Mudanças de fase",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 32 e 33.</strong></p><p>A panela de pressão permite que os alimentos sejam cozidos em água muito mais rapidamente do que em panelas convencionais. Sua tampa possui uma borracha de vedação que não deixa o vapor escapar, a não ser através de um orifício central sobre o qual assenta um peso que controla a pressão. Quando em uso, desenvolve-se uma pressão elevada no seu interior. Para a sua operação segura, é necessário observar a limpeza do orifício central e a existência de uma válvula de segurança, normalmente situada na tampa.</p><p>O esquema da panela de pressão e um diagrama de fase da água são apresentados abaixo.</p>[[fig:1]]<p>Se, por economia, abaixarmos o fogo sob uma panela de pressão logo que se inicia a saída de vapor pela válvula, de forma simplesmente a manter a fervura, o tempo de cozimento</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q31.webp",
+     "alt": "À esquerda, esquema de panela de pressão sobre o fogo, com líquido embaixo, vapor em cima e a válvula de segurança na tampa. À direita, diagrama de fase da água: pressão (0 a 5 atm) em função da temperatura (0 a 160 °C); a curva separa a região do líquido, acima, da do vapor, abaixo, passando por 1 atm a 100 °C e subindo para cerca de 2 atm perto de 120 °C e 4 atm perto de 145 °C."
+    }
+   ],
+   "alternativas": {
+    "A": "será maior porque a panela “esfria”.",
+    "B": "será menor, pois diminui a perda de água.",
+    "C": "será maior, pois a pressão diminui.",
+    "D": "será maior, pois a evaporação diminui.",
+    "E": "não será alterado, pois a temperatura não varia."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Quando o vapor começa a sair pela válvula, a pressão interna já está no valor fixado pelo peso, e a temperatura de ebulição correspondente fica constante. Mantendo a fervura com fogo baixo, a temperatura não muda, e o tempo de cozimento também não. Alternativa <strong>E</strong>.</p><p>Fogo alto só faz sair mais vapor, sem aumentar a temperatura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "panela de pressão",
+    "temperatura de ebulição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Geografia",
+   "assunto": "Hidrelétricas",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p>A construção de grandes projetos hidroelétricos também deve ser analisada do ponto de vista do regime das águas e de seu ciclo na região. Em relação ao ciclo da água, pode-se argumentar que a construção de grandes represas</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "não causa impactos na região, uma vez que a quantidade total de água da Terra permanece constante.",
+    "B": "não causa impactos na região, uma vez que a água que alimenta a represa prossegue depois rio abaixo com a mesma vazão e velocidade.",
+    "C": "aumenta a velocidade dos rios, acelerando o ciclo da água na região.",
+    "D": "aumenta a evaporação na região da represa, acompanhada também por um aumento local da umidade relativa do ar.",
+    "E": "diminui a quantidade de água disponível para a realização do ciclo da água."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A represa cria um grande espelho d’água parado: aumenta a área de evaporação, e com isso a umidade relativa do ar na região. Alternativa <strong>D</strong>.</p><p>A represa muda o regime do rio (vazão e velocidade abaixo dela), então há impacto (A, B), e não acelera os rios (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "represas",
+    "evaporação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 35 a 37.</strong></p><p>O diagrama abaixo representa a energia solar que atinge a Terra e sua utilização na geração de eletricidade. A energia solar é responsável pela manutenção do ciclo da água, pela movimentação do ar, e pelo ciclo do carbono que ocorre através da fotossíntese dos vegetais, da decomposição e da respiração dos seres vivos, além da formação de combustíveis fósseis.</p>[[fig:1]]<p>De acordo com o diagrama, a humanidade aproveita, na forma de energia elétrica, uma fração da energia recebida como radiação solar, correspondente a:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q35.webp",
+     "alt": "Diagrama de fluxo: a energia proveniente do Sol, 200 bilhões de MW, vai para aquecimento do solo, evaporação da água, aquecimento do ar e absorção pelas plantas. A evaporação gera energia potencial (chuvas), usada nas usinas hidroelétricas, que produzem 100 000 MW. A absorção pelas plantas gera petróleo, gás e carvão, usados nas usinas termoelétricas, que produzem 400 000 MW. As duas juntas geram eletricidade: 500 000 MW."
+    }
+   ],
+   "alternativas": {
+    "A": "4 × 10<sup>−9</sup>",
+    "B": "2,5 × 10<sup>−6</sup>",
+    "C": "4 × 10<sup>−4</sup>",
+    "D": "2,5 × 10<sup>−3</sup>",
+    "E": "4 × 10<sup>−2</sup>"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A eletricidade produzida é de 500 000 MW = 5 × 10<sup>5</sup> MW; a energia solar recebida é de 200 bilhões de MW = 2 × 10<sup>11</sup> MW. A fração é 5 × 10<sup>5</sup>/2 × 10<sup>11</sup> = 2,5 × 10<sup>−6</sup>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "notação científica",
+    "potência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Fontes de energia",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 35 a 37.</strong></p><p>O diagrama abaixo representa a energia solar que atinge a Terra e sua utilização na geração de eletricidade. A energia solar é responsável pela manutenção do ciclo da água, pela movimentação do ar, e pelo ciclo do carbono que ocorre através da fotossíntese dos vegetais, da decomposição e da respiração dos seres vivos, além da formação de combustíveis fósseis.</p>[[fig:1]]<p>De acordo com este diagrama, uma das modalidades de produção de energia elétrica envolve combustíveis fósseis. A modalidade de produção, o combustível e a escala de tempo típica associada à formação desse combustível são, respectivamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q35.webp",
+     "alt": "Diagrama de fluxo: a energia proveniente do Sol, 200 bilhões de MW, vai para aquecimento do solo, evaporação da água, aquecimento do ar e absorção pelas plantas. A evaporação gera energia potencial (chuvas), usada nas usinas hidroelétricas, que produzem 100 000 MW. A absorção pelas plantas gera petróleo, gás e carvão, usados nas usinas termoelétricas, que produzem 400 000 MW. As duas juntas geram eletricidade: 500 000 MW."
+    }
+   ],
+   "alternativas": {
+    "A": "hidroelétricas, chuvas, um dia.",
+    "B": "hidroelétricas, aquecimento do solo, um mês.",
+    "C": "termoelétricas, petróleo, 200 anos.",
+    "D": "termoelétricas, aquecimento do solo, 1 milhão de anos.",
+    "E": "termoelétricas, petróleo, 500 milhões de anos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A modalidade que usa combustíveis fósseis é a termoelétrica, com petróleo, gás ou carvão. Esses combustíveis se formaram a partir de restos de seres vivos ao longo de centenas de milhões de anos. Alternativa <strong>E</strong>.</p><p>200 anos (C) e 1 milhão de anos (D) são tempos muito curtos para a formação do petróleo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combustíveis fósseis",
+    "tempo geológico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Fontes de energia",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 35 a 37.</strong></p><p>O diagrama abaixo representa a energia solar que atinge a Terra e sua utilização na geração de eletricidade. A energia solar é responsável pela manutenção do ciclo da água, pela movimentação do ar, e pelo ciclo do carbono que ocorre através da fotossíntese dos vegetais, da decomposição e da respiração dos seres vivos, além da formação de combustíveis fósseis.</p>[[fig:1]]<p>No diagrama estão representadas as duas modalidades mais comuns de usinas elétricas, as hidroelétricas e as termoelétricas. No Brasil, a construção de usinas hidroelétricas deve ser incentivada porque essas</p><ol type=\"I\"><li>utilizam fontes renováveis, o que não ocorre com as termoelétricas que utilizam fontes que necessitam de bilhões de anos para serem reabastecidas.</li><li>apresentam impacto ambiental nulo, pelo represamento das águas no curso normal dos rios.</li><li>aumentam o índice pluviométrico da região de seca do Nordeste, pelo represamento de águas.</li></ol><p>Das três afirmações acima, somente</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q35.webp",
+     "alt": "Diagrama de fluxo: a energia proveniente do Sol, 200 bilhões de MW, vai para aquecimento do solo, evaporação da água, aquecimento do ar e absorção pelas plantas. A evaporação gera energia potencial (chuvas), usada nas usinas hidroelétricas, que produzem 100 000 MW. A absorção pelas plantas gera petróleo, gás e carvão, usados nas usinas termoelétricas, que produzem 400 000 MW. As duas juntas geram eletricidade: 500 000 MW."
+    }
+   ],
+   "alternativas": {
+    "A": "I está correta.",
+    "B": "II está correta.",
+    "C": "III está correta.",
+    "D": "I e II estão corretas.",
+    "E": "II e III estão corretas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Só I está correta: a água das chuvas é renovável, e os combustíveis fósseis levam muito tempo para se formar. II é falsa: represas alagam áreas e alteram ecossistemas. III é falsa: o represamento não aumenta as chuvas do sertão nordestino. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia renovável",
+    "hidrelétricas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p>Uma estação distribuidora de energia elétrica foi atingida por um raio. Este fato provocou escuridão em uma extensa área. Segundo estatísticas, ocorre em média a cada 10 anos um fato desse tipo. Com base nessa informação, pode-se afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a estação está em funcionamento há no máximo 10 anos.",
+    "B": "daqui a 10 anos deverá cair outro raio na mesma estação.",
+    "C": "se a estação já existe há mais de 10 anos, brevemente deverá cair outro raio na mesma.",
+    "D": "a probabilidade de ocorrência de um raio na estação independe do seu tempo de existência.",
+    "E": "é impossível a estação existir há mais de 30 anos sem que um raio já a tenha atingido anteriormente."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Uma média de um raio a cada 10 anos não determina quando o próximo cairá: os raios são eventos aleatórios e independentes, e a chance de a estação ser atingida num período não depende de há quanto tempo ela existe ou de quando caiu o último raio. Alternativa <strong>D</strong>.</p><p>Uma média não garante intervalos regulares (B, C) nem impede longos períodos sem raios (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eventos independentes",
+    "média"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Português",
+   "assunto": "Acentuação",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p>Diante da visão de um prédio com uma placa indicando SAPATARIA PAPALIA, um jovem deparou com a dúvida: como pronunciar a palavra PAPALIA?</p>[[fig:1]]<p>Levado o problema à sala de aula, a discussão girou em torno da utilidade de conhecer as regras de acentuação e, especialmente, do auxílio que elas podem dar à correta pronúncia de palavras. Após discutirem pronúncia, regras de acentuação e escrita, três alunos apresentaram as seguintes conclusões a respeito da palavra PAPALIA:</p><ol type=\"I\"><li>Se a sílaba tônica for o segundo PA, a escrita deveria ser PAPÁLIA, pois a palavra seria paroxítona terminada em ditongo crescente.</li><li>Se a sílaba tônica for LI, a escrita deveria ser PAPALÍA, pois “i” e “a” estariam formando hiato.</li><li>Se a sílaba tônica for LI, a escrita deveria ser PAPALIA, pois não haveria razão para o uso de acento gráfico.</li></ol><p>A conclusão está correta apenas em:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q39.webp",
+     "alt": "Foto de um prédio de dois andares com a placa “SAPATARIA PAPALIA” na fachada."
+    }
+   ],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "I e II",
+    "E": "I e III"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Se a tônica for o segundo PA, a palavra é paroxítona terminada em ditongo crescente (-lia) e leva acento: PAPÁLIA (I). Se a tônica for LI, “i” e “a” ficam em sílabas diferentes (hiato), a palavra é paroxítona terminada em “a” e não leva acento: PAPALIA (III). II erra: o acento do hiato vale quando o “i” tônico vem depois de outra vogal, como em “saída”; em PA-PA-LI-A, o “i” vem depois de consoante, e a palavra é só uma paroxítona terminada em “a”. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "acentuação",
+    "sílaba tônica"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 40,
+   "materia": "Geografia",
+   "assunto": "Brasil",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p>Uma pesquisadora francesa produziu o seguinte texto para caracterizar nosso país:</p><p class=\"apoio\"><em>O Brasil, quinto país do mundo em extensão territorial, é o mais vasto do hemisfério Sul. Ele faz parte essencialmente do mundo tropical, à exceção de seus estados mais meridionais, ao sul de São Paulo. O Brasil dispõe de vastos territórios subpovoados, como o da Amazônia, conhece também um crescimento urbano extremamente rápido, índices de pobreza que não diminuem e uma das sociedades mais desiguais do mundo. Qualificado de “terra de contrastes”, o Brasil é um país moderno do Terceiro Mundo, com todas as contradições que isso tem por conseqüência.</em></p><p class=\"fonte\">([Adaptado de] DROULERS, Martine. <em>Dictionnaire geopolitique des états</em>. Organizado por Yves Lacoste. Paris: Éditions Flamarion, 1995)</p><p>O Brasil é qualificado como uma “terra de contrastes” por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fazer parte do mundo tropical, mas ter um crescimento urbano semelhante ao dos países temperados.",
+    "B": "não conseguir evitar seu rápido crescimento urbano, por ser um país com grande extensão de fronteiras terrestres e de costa.",
+    "C": "possuir grandes diferenças sociais e regionais e ser considerado um país moderno do Terceiro Mundo.",
+    "D": "possuir vastos territórios subpovoados, apesar de não ter recursos econômicos e tecnológicos para explorá-los.",
+    "E": "ter elevados índices de pobreza, por ser um país com grande extensão territorial e predomínio de atividades rurais."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto descreve um país moderno, com crescimento urbano rápido, mas com pobreza persistente, vastas áreas subpovoadas e uma das sociedades mais desiguais do mundo: grandes diferenças sociais e regionais num país moderno do Terceiro Mundo. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "desigualdade regional"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Física",
+   "assunto": "Razão",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p>Muitas usinas hidroelétricas estão situadas em barragens. As características de algumas das grandes represas e usinas brasileiras estão apresentadas no quadro abaixo.</p><table class=\"tabela\"><thead><tr><th>Usina</th><th>Área alagada (km²)</th><th>Potência (MW)</th><th>Sistema hidrográfico</th></tr></thead><tbody><tr><td>Tucuruí</td><td>2 430</td><td>4 240</td><td>Rio Tocantins</td></tr><tr><td>Sobradinho</td><td>4 214</td><td>1 050</td><td>Rio São Francisco</td></tr><tr><td>Itaipu</td><td>1 350</td><td>12 600</td><td>Rio Paraná</td></tr><tr><td>Ilha Solteira</td><td>1 077</td><td>3 230</td><td>Rio Paraná</td></tr><tr><td>Furnas</td><td>1 450</td><td>1 312</td><td>Rio Grande</td></tr></tbody></table><p>A razão entre a área da região alagada por uma represa e a potência produzida pela usina nela instalada é uma das formas de estimar a relação entre o dano e o benefício trazidos por um projeto hidroelétrico. A partir dos dados apresentados no quadro, o projeto que mais onerou o ambiente em termos de área alagada por potência foi</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Tucuruí.",
+    "B": "Furnas.",
+    "C": "Itaipu.",
+    "D": "Ilha Solteira.",
+    "E": "Sobradinho."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Área alagada por potência (km²/MW): Tucuruí 2 430/4 240 ≈ 0,57; Sobradinho 4 214/1 050 ≈ 4,0; Itaipu 1 350/12 600 ≈ 0,11; Ilha Solteira 1 077/3 230 ≈ 0,33; Furnas 1 450/1 312 ≈ 1,1. A maior razão é a de Sobradinho. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "razão",
+    "hidrelétricas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p>Leia o que disse João Cabral de Melo Neto, poeta pernambucano, sobre a função de seus textos:</p><p class=\"apoio\">“<strong>Falo somente com o que falo:</strong> a linguagem enxuta, contato denso; <strong>falo somente do que falo</strong>: a vida seca, áspera e clara do sertão; <strong>falo somente por quem falo</strong>: o homem sertanejo sobrevivendo na adversidade e na míngua. <strong>Falo somente para quem falo:</strong> para os que precisam ser alertados para a situação da miséria no Nordeste.”</p><p>Para João Cabral de Melo Neto, no texto literário,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a linguagem do texto deve refletir o tema, e a fala do autor deve denunciar o fato social para determinados leitores.",
+    "B": "a linguagem do texto não deve ter relação com o tema, e o autor deve ser imparcial para que seu texto seja lido.",
+    "C": "o escritor deve saber separar a linguagem do tema e a perspectiva pessoal da perspectiva do leitor.",
+    "D": "a linguagem pode ser separada do tema, e o escritor deve ser o delator do fato social para todos os leitores.",
+    "E": "a linguagem está além do tema, e o fato social deve ser a proposta do escritor para convencer o leitor."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>João Cabral diz que fala “com” uma linguagem enxuta, “do” sertão seco e áspero, “por” o sertanejo e “para” quem precisa ser alertado sobre a miséria do Nordeste. A linguagem reflete o tema, e o texto denuncia um fato social para leitores determinados. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "João Cabral de Melo Neto",
+    "função social da literatura"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 43,
+   "materia": "Biologia",
+   "assunto": "Imunização",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>A variação da quantidade de anticorpos específicos foi medida por meio de uma experiência controlada, em duas crianças durante um certo período de tempo. Para a imunização de cada uma das crianças foram utilizados dois procedimentos diferentes:</p><ul><li><strong>Criança I:</strong> <em>aplicação de soro imune.</em></li><li><strong>Criança II:</strong> <em>vacinação.</em></li></ul><p>O gráfico que melhor representa as taxas de variação da quantidade de anticorpos nas crianças I e II é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q43a.webp",
+     "alt": "Gráfico de anticorpos em função do tempo: as curvas I e II sobem juntas e se estabilizam."
+    },
+    {
+     "src": "assets/img/enem-1999/q43b.webp",
+     "alt": "Gráfico: a curva I começa alta e cai; a curva II começa baixa e sobe até se estabilizar."
+    },
+    {
+     "src": "assets/img/enem-1999/q43c.webp",
+     "alt": "Gráfico: a curva I começa baixa e sobe; a curva II fica baixa e quase constante."
+    },
+    {
+     "src": "assets/img/enem-1999/q43d.webp",
+     "alt": "Gráfico: a curva I começa alta e cai; a curva II fica baixa e quase constante."
+    },
+    {
+     "src": "assets/img/enem-1999/q43e.webp",
+     "alt": "Gráfico: as curvas I e II começam altas e caem juntas."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O soro (criança I) traz anticorpos prontos: a quantidade é alta logo no início e vai caindo, porque o organismo não os produz. A vacina (criança II) estimula o próprio organismo a produzir anticorpos: a quantidade começa baixa e sobe até se estabilizar. É o gráfico B. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "soro e vacina",
+    "anticorpos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Geografia",
+   "assunto": "Conservação do solo",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>Um agricultor adquiriu alguns alqueires de terra para cultivar e residir no local. O desenho abaixo representa parte de suas terras.</p>[[fig:1]]<p>Pensando em construir sua moradia no lado I do rio e plantar no lado II, o agricultor consultou seus vizinhos e escutou as frases abaixo. Assinale a frase do vizinho que deu a sugestão mais correta.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q44.webp",
+     "alt": "Corte do terreno: à esquerda, o lado II, uma encosta alta e íngreme; no meio, o rio, no fundo do vale; à direita, o lado I, mais baixo e suave. Sob a superfície, uma camada de rocha permeável; abaixo, a região do lençol de água subterrânea; e, no fundo, rocha impermeável."
+    }
+   ],
+   "alternativas": {
+    "A": "“O terreno só se presta ao plantio, revolvendo o solo com arado.”",
+    "B": "“Não plante neste local, porque é impossível evitar a erosão”.",
+    "C": "“Pode ser utilizado, desde que se plante em curvas de nível”.",
+    "D": "“Você perderá sua plantação, quando as chuvas provocarem inundação”.",
+    "E": "“Plante forragem para pasto”."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O lado II é uma encosta íngreme de rocha permeável: dá para plantar, desde que se evite a erosão, por exemplo com plantio em curvas de nível, que segura a água e o solo. Alternativa <strong>C</strong>.</p><p>Arar a encosta (A) aumenta a erosão; ela pode ser evitada (B); e o lado II, alto, não sofre inundação (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "curvas de nível",
+    "erosão"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "Física",
+   "assunto": "Conservação da energia",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p>A tabela a seguir apresenta alguns exemplos de processos, fenômenos ou objetos em que ocorrem transformações de energia. Nessa tabela, aparecem as direções de transformação de energia. Por exemplo, o termopar é um dispositivo onde energia térmica se transforma em energia elétrica.</p><table class=\"tabela\"><thead><tr><th>Processo</th><th>De (energia)</th><th>Em (energia)</th></tr></thead><tbody><tr><td>Transformador</td><td>Elétrica</td><td>Elétrica</td></tr><tr><td>Termopar</td><td>Térmica</td><td>Elétrica</td></tr><tr><td>Reações endotérmicas</td><td>Térmica</td><td>Química</td></tr><tr><td>Dinamite</td><td>Química</td><td>Mecânica</td></tr><tr><td>Pêndulo</td><td>Mecânica</td><td>Mecânica</td></tr><tr><td>Fusão</td><td>Térmica</td><td>Térmica</td></tr></tbody></table><p>Dentre os processos indicados na tabela, ocorre conservação de energia</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "em todos os processos.",
+    "B": "somente nos processos que envolvem transformações de energia sem dissipação de calor.",
+    "C": "somente nos processos que envolvem transformações de energia mecânica.",
+    "D": "somente nos processos que não envolvem energia química.",
+    "E": "somente nos processos que não envolvem nem energia química nem energia térmica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A energia total sempre se conserva, em qualquer transformação: ela pode mudar de forma ou ser dissipada como calor, mas não é criada nem destruída. Isso vale para todos os processos da tabela. Alternativa <strong>A</strong>.</p><p>A dissipação de calor (B) não viola a conservação: a energia passa para outra forma.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conservação de energia",
+    "transformações de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 46,
+   "materia": "Geografia",
+   "assunto": "Desemprego estrutural",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p>Um dos maiores problemas da atualidade é o aumento desenfreado do desemprego. O texto abaixo destaca esta situação.</p><p class=\"apoio\"><em>O desemprego é hoje um fenômeno que atinge e preocupa o mundo todo. (...) A onda de desemprego recente não é conjuntural, ou seja, provocada por crises localizadas e temporárias. Está associada a mudanças estruturais na economia, daí o nome de desemprego estrutural.</em></p><p class=\"apoio\"><em>O desemprego manifesta-se hoje na maioria das economias, incluindo a dos países ricos. A OIT estima em 1 bilhão – um terço da força de trabalho mundial – o número de desempregados em todo o mundo em 1998. Desse total, 150 milhões encontram-se abertamente desempregados e entre 750 e 900 milhões estão subempregados.</em></p><p class=\"fonte\">([CD-ROM] <em>Almanaque Abril 1999</em>. São Paulo: Abril.)</p><p>Pode-se compreender o desemprego estrutural em termos da internacionalização da economia associada</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a uma economia desaquecida que provoca ondas gigantescas de desemprego, gerando revoltas e crises institucionais.",
+    "B": "ao setor de serviços que se expande provocando ondas de desemprego no setor industrial, atraindo essa mão-de-obra para este novo setor.",
+    "C": "ao setor industrial que passa a produzir menos, buscando enxugar custos provocando, com isso, demissões em larga escala.",
+    "D": "a novas formas de gerenciamento de produção e novas tecnologias que são inseridas no processo produtivo, eliminando empregos que não voltam.",
+    "E": "ao emprego informal que cresce, já que uma parcela da população não tem condições de regularizar o seu comércio."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O desemprego estrutural vem de mudanças permanentes na produção: automação, novas tecnologias e novas formas de gerenciamento eliminam postos que não voltam, mesmo quando a economia cresce. Alternativa <strong>D</strong>.</p><p>A descreve o desemprego conjuntural, de crise; o setor de serviços não absorve todos os demitidos (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "desemprego estrutural",
+    "automação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 47,
+   "materia": "Química",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p>A obsidiana é uma pedra de origem vulcânica que, em contato com a umidade do ar, fixa água em sua superfície formando uma camada hidratada. A espessura da camada hidratada aumenta de acordo com o tempo de permanência no ar, propriedade que pode ser utilizada para medir sua idade. O gráfico abaixo mostra como varia a espessura da camada hidratada, em mícrons (1 mícron = 1 milésimo de milímetro) em função da idade da obsidiana.</p>[[fig:1]]<p>Com base no gráfico, pode-se concluir que a espessura da camada hidratada de uma obsidiana</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q47.webp",
+     "alt": "Gráfico da espessura hidratada (0 a 15 mícrons) em função da idade (0 a 140 000 anos): a curva sobe rápido no começo, chega a cerca de 10 mícrons por volta de 30 000 anos, a cerca de 14 mícrons por volta de 60 000 anos e depois cresce bem devagar, chegando perto de 15,5 mícrons em 140 000 anos."
+    }
+   ],
+   "alternativas": {
+    "A": "é diretamente proporcional à sua idade.",
+    "B": "dobra a cada 10 000 anos.",
+    "C": "aumenta mais rapidamente quando a pedra é mais jovem.",
+    "D": "aumenta mais rapidamente quando a pedra é mais velha.",
+    "E": "a partir de 100 000 anos não aumenta mais."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A curva sobe rápido no início (cerca de 10 mícrons nos primeiros 30 000 anos) e depois cada vez mais devagar, quase se estabilizando perto de 15 mícrons. A espessura aumenta mais rapidamente quando a pedra é mais jovem. Alternativa <strong>C</strong>.</p><p>A curva não é uma reta (A), e continua subindo um pouco depois de 100 000 anos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "taxa de variação",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 48,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>Quem não passou pela experiência de estar lendo um texto e defrontar-se com passagens já lidas em outros? Os textos conversam entre si em um diálogo constante. Esse fenômeno tem a denominação de intertextualidade. Leia os seguintes textos:</p>[[fig:1]]<p>Adélia Prado e Chico Buarque estabelecem intertextualidade, em relação a Carlos Drummond de Andrade, por</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q48.webp",
+     "alt": "Três trechos. I, de Carlos Drummond de Andrade (“Alguma poesia”): ao nascer, um anjo torto, dos que vivem na sombra, diz ao poeta que seja “gauche” na vida. II, de Chico Buarque: ao nascer, um anjo safado decreta que o eu lírico está predestinado a ser errado, e sua estrada já entorta na saída, mas ele vai até o fim. III, de Adélia Prado (“Bagagem”): ao nascer, um anjo esbelto, desses que tocam trombeta, anuncia que ela vai carregar bandeira, carga muito pesada para uma mulher."
+    }
+   ],
+   "alternativas": {
+    "A": "reiteração de imagens.",
+    "B": "oposição de idéias.",
+    "C": "falta de criatividade.",
+    "D": "negação dos versos.",
+    "E": "ausência de recursos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os três poemas começam com “Quando nasci” e um anjo que anuncia o destino do poeta: Chico e Adélia retomam a imagem de Drummond (o anjo que define a vida de quem nasce), adaptando-a a outros sentidos. É reiteração de imagens. Alternativa <strong>A</strong>.</p><p>Eles não negam nem contradizem Drummond (B, D); a retomada é um recurso criativo (C, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Intertextualidade",
+    "Drummond",
+    "intertextualidade"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 49,
+   "materia": "História",
+   "assunto": "Revolução Industrial",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>A Revolução Industrial ocorrida no final do século XVIII transformou as relações do homem com o trabalho. As máquinas mudaram as formas de trabalhar, e as fábricas concentraram-se em regiões próximas às matérias-primas e grandes portos, originando vastas concentrações humanas. Muitos dos operários vinham da área rural e cumpriam jornadas de trabalho de 12 a 14 horas, na maioria das vezes em condições adversas. A legislação trabalhista surgiu muito lentamente ao longo do século XIX e a diminuição da jornada de trabalho para oito horas diárias concretizou-se no início do século XX.</p><p>Pode-se afirmar que as conquistas no início deste século, decorrentes da legislação trabalhista, estão relacionadas com</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a expansão do capitalismo e a consolidação dos regimes monárquicos constitucionais.",
+    "B": "a expressiva diminuição da oferta de mão-de-obra, devido à demanda por trabalhadores especializados.",
+    "C": "a capacidade de mobilização dos trabalhadores em defesa dos seus interesses.",
+    "D": "o crescimento do Estado ao mesmo tempo que diminuía a representação operária nos parlamentos.",
+    "E": "a vitória dos partidos comunistas nas eleições das principais capitais européias."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A legislação trabalhista e a jornada de oito horas foram conquistas obtidas pela organização dos trabalhadores: sindicatos, greves e partidos operários. Alternativa <strong>C</strong>.</p><p>Não houve escassez de mão de obra (B), e os partidos comunistas não venceram eleições nas capitais europeias (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "direitos trabalhistas",
+    "movimento operário"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 50,
+   "materia": "Biologia",
+   "assunto": "Teia alimentar",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p>Um agricultor, que possui uma plantação de milho e uma criação de galinhas, passou a ter sérios problemas com os cachorros-do-mato que atacavam sua criação. O agricultor, ajudado pelos vizinhos, exterminou os cachorros-do-mato da região. Passado pouco tempo, houve um grande aumento no número de pássaros e roedores que passaram a atacar as lavouras. Nova campanha de extermínio e, logo depois da destruição dos pássaros e roedores, uma grande praga de gafanhotos, destruiu totalmente a plantação de milho e as galinhas ficaram sem alimento.</p><p>Analisando o caso acima, podemos perceber que houve desequilíbrio na teia alimentar representada por:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "milho → gafanhotos → pássaro → galinha → roedores → cachorro-do-mato.",
+    "B": "milho → pássaro, gafanhoto, galinha e roedores; gafanhoto → pássaro; pássaro, gafanhoto, galinha e roedores → cachorro-do-mato.",
+    "C": "galinha → milho; milho → gafanhotos, roedores e pássaros; gafanhotos, roedores e pássaros → cachorro-do-mato.",
+    "D": "cachorro-do-mato → roedores, pássaros, gafanhotos e galinha; roedores, pássaros, gafanhotos e galinha → milho.",
+    "E": "galinha → milho → gafanhotos → pássaro → roedores → cachorro-do-mato."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O milho é comido por gafanhotos, pássaros, galinhas e roedores; o cachorro-do-mato come pássaros, galinhas e roedores; e os pássaros comem gafanhotos. Sem cachorros-do-mato, pássaros e roedores aumentaram; sem pássaros, os gafanhotos explodiram. Essa teia é a B. Alternativa <strong>B</strong>.</p><p>As outras põem as setas no sentido errado (o milho comendo a galinha, o cachorro-do-mato servindo de alimento) ou ligam os seres numa cadeia linear que não corresponde ao caso.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cadeia alimentar",
+    "desequilíbrio ecológico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 51,
+   "materia": "Física",
+   "assunto": "Potência elétrica",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p>Lâmpadas incandescentes são normalmente projetadas para trabalhar com a tensão da rede elétrica em que serão ligadas. Em 1997, contudo, lâmpadas projetadas para funcionar com 127 V foram retiradas do mercado e, em seu lugar, colocaram-se lâmpadas concebidas para uma tensão de 120 V. Segundo dados recentes, essa substituição representou uma mudança significativa no consumo de energia elétrica para cerca de 80 milhões de brasileiros que residem nas regiões em que a tensão da rede é de 127 V.</p><p>A tabela abaixo apresenta algumas características de duas lâmpadas de 60 W, projetadas respectivamente para 127 V (antiga) e 120 V (nova), quando ambas encontram-se ligadas numa rede de 127 V.</p><table class=\"tabela\"><thead><tr><th>Lâmpada (projeto original)</th><th>60 W – 127 V</th><th>60 W – 120 V</th></tr></thead><tbody><tr><td>Tensão da rede elétrica</td><td>127 V</td><td>127 V</td></tr><tr><td>Potência medida (W)</td><td>60</td><td>65</td></tr><tr><td>Luminosidade medida (lúmens)</td><td>750</td><td>920</td></tr><tr><td>Vida útil média (horas)</td><td>1000</td><td>452</td></tr></tbody></table><p>Acender uma lâmpada de 60 W e 120 V em um local onde a tensão na tomada é de 127 V, comparativamente a uma lâmpada de 60 W e 127 V no mesmo local tem como resultado:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "mesma potência, maior intensidade de luz e maior durabilidade.",
+    "B": "mesma potência, maior intensidade de luz e menor durabilidade.",
+    "C": "maior potência, maior intensidade de luz e maior durabilidade.",
+    "D": "maior potência, maior intensidade de luz e menor durabilidade.",
+    "E": "menor potência, menor intensidade de luz e menor durabilidade."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pela tabela, a lâmpada de 120 V ligada em 127 V dissipa 65 W (maior potência), produz 920 lúmens (mais luz) e dura em média 452 horas (menos da metade das 1000 h da de 127 V). Alternativa <strong>D</strong>.</p><p>Ligada numa tensão acima da de projeto, a corrente é maior, o filamento esquenta mais e se desgasta mais depressa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência",
+    "tensão elétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 52,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p>O número de indivíduos de certa população é representado pelo gráfico abaixo.</p>[[fig:1]]<p>Em 1975, a população tinha um tamanho aproximadamente igual ao de:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q52.webp",
+     "alt": "Gráfico do número de indivíduos (em milhares, de 1 a 10) de 1940 a 1990: a curva começa em 1 mil em 1940, sobe devagar até 1945 e depois rápido, passando por cerca de 3,7 mil em 1950, 8 mil em 1960 e 9,6 mil em 1965; chega ao máximo de 10 mil por volta de 1970, cai para cerca de 9 mil em 1975 e 8,3 mil em 1980, e se estabiliza perto de 8 mil."
+    }
+   ],
+   "alternativas": {
+    "A": "1960",
+    "B": "1963",
+    "C": "1967",
+    "D": "1970",
+    "E": "1980"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em 1975, a população está caindo depois do pico de 10 mil (por volta de 1970) e vale cerca de 9 mil. Na subida anterior, a curva passa por 8 mil em 1960 e por quase 10 mil em 1965; ela cruza os 9 mil por volta de 1963. Alternativa <strong>B</strong>.</p><p>Em 1967 (C), a população já estava perto de 10 mil, e em 1970 (D) estava no máximo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "dinâmica populacional"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 53,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\"><em>Viam-se de cima as casas acavaladas umas pelas outras, formando ruas, contornando praças. As chaminés principiavam a fumar; deslizavam as carrocinhas multicores dos padeiros; as vacas de leite caminhavam com o seu passo vagaroso, parando à porta dos fregueses, tilintando o chocalho; os quiosques vendiam café a homens de jaqueta e chapéu desabado; cruzavam-se na rua os libertinos retardios com os operários que se levantavam para a obrigação; ouvia-se o ruído estalado dos carros de água, o rodar monótono dos bondes.</em></p><p class=\"fonte\">(AZEVEDO, Aluísio de. <em>Casa de Pensão</em>. São Paulo: Martins, 1973)</p><p>O trecho, retirado de romance escrito em 1884, descreve o cotidiano de uma cidade, no seguinte contexto:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a convivência entre elementos de uma economia agrária e os de uma economia industrial indicam o início da industrialização no Brasil, no século XIX.",
+    "B": "desde o século XVIII, a principal atividade da economia brasileira era industrial, como se observa no cotidiano descrito.",
+    "C": "apesar de a industrialização ter-se iniciado no século XIX, ela continuou a ser uma atividade pouco desenvolvida no Brasil.",
+    "D": "apesar da industrialização, muitos operários levantavam cedo, porque iam diariamente para o campo desenvolver atividades rurais.",
+    "E": "a vida urbana, caracterizada pelo cotidiano apresentado no texto, ignora a industrialização existente na época."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A cidade descrita tem chaminés de fábricas e operários a caminho do trabalho, convivendo com carrocinhas, vacas de leite e carros de água: elementos de uma economia agrária e de uma industrial, sinal do início da industrialização no Brasil do século XIX. Alternativa <strong>A</strong>.</p><p>A economia brasileira não era industrial desde o século XVIII (B), e o texto mostra a indústria presente no cotidiano (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "industrialização",
+    "Aluísio Azevedo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 54,
+   "materia": "Biologia",
+   "assunto": "Florestas tropicais",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"apoio\"><em>Apesar da riqueza das florestas tropicais, elas estão geralmente baseadas em solos inférteis e improdutivos. Grande parte dos nutrientes é armazenada nas folhas que caem sobre o solo, não no solo propriamente dito. Quando esse ambiente é intensamente modificado pelo ser humano, a vegetação desaparece, o ciclo dos nutrientes é alterado e a terra se torna rapidamente infértil.</em></p><p class=\"fonte\">(CORSON, Walter H. <em>Manual Global de Ecologia</em>, 1993)</p><p>No texto acima, pode parecer uma contradição a existência de florestas tropicais exuberantes sobre solos pobres. No entanto, este fato é explicado pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "profundidade do solo, pois, embora pobre, sua espessura garante a disponibilidade de nutrientes para a sustentação dos vegetais da região.",
+    "B": "boa iluminação das regiões tropicais, uma vez que a duração regular do dia e da noite garante os ciclos dos nutrientes nas folhas dos vegetais da região.",
+    "C": "existência de grande diversidade animal, com número expressivo de populações que, com seus dejetos, fertilizam o solo.",
+    "D": "capacidade de produção abundante de oxigênio pelas plantas das florestas tropicais, consideradas os “pulmões” do mundo.",
+    "E": "rápida reciclagem dos nutrientes, potencializada pelo calor e umidade das florestas tropicais, o que favorece a vida dos decompositores."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Nas florestas tropicais, os nutrientes estão na própria vegetação e nas folhas caídas. O calor e a umidade aceleram a decomposição, e os nutrientes voltam rapidamente às plantas, sem se acumular no solo. Alternativa <strong>E</strong>.</p><p>O solo dessas florestas é pobre, não fértil por ser profundo (A); e a produção de oxigênio não explica a nutrição das plantas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclagem de nutrientes",
+    "decompositores"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 55,
+   "materia": "Geografia",
+   "assunto": "Reciclagem",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p>Com o uso intensivo do computador como ferramenta de escritório, previu-se o declínio acentuado do uso de papel para escrita. No entanto, essa previsão não se confirmou, e o consumo de papel ainda é muito grande. O papel é produzido a partir de material vegetal e, por conta disso, enormes extensões de florestas já foram extintas, uma parte sendo substituída por reflorestamentos homogêneos de uma só espécie (no Brasil, principalmente eucalipto).</p><p>Para evitar que novas áreas de florestas nativas, principalmente as tropicais, sejam destruídas para suprir a produção crescente de papel, foram propostas as seguintes ações:</p><ol type=\"I\"><li>Aumentar a reciclagem de papel, através da coleta seletiva e processamento em usinas.</li><li>Reduzir as tarifas de importação de papel.</li><li>Diminuir os impostos para produtos que usem papel reciclado.</li></ol><p>Para um meio ambiente global mais saudável, apenas</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a proposta I é adequada.",
+    "B": "a proposta II é adequada.",
+    "C": "a proposta III é adequada.",
+    "D": "as propostas I e II são adequadas.",
+    "E": "as propostas I e III são adequadas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Reciclar papel (I) e baratear produtos com papel reciclado (III) diminuem a necessidade de matéria-prima nova e, assim, a pressão sobre as florestas nativas. Reduzir tarifas de importação (II) só muda o lugar de onde vem o papel e pode transferir o desmatamento para outros países: não ajuda o meio ambiente global. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "papel reciclado",
+    "desmatamento"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 56,
+   "materia": "Biologia",
+   "assunto": "Controle de pragas",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p>O crescimento da população de uma praga agrícola está representado em função do tempo, no gráfico abaixo, onde a densidade populacional superior a <strong>P</strong> causa prejuízo à lavoura.</p><p>No momento apontado pela seta ①, um agricultor introduziu uma espécie de inseto que é inimigo natural da praga, na tentativa de controlá-la biologicamente.</p><p>No momento indicado pela seta ②, o agricultor aplicou grande quantidade de inseticida, na tentativa de eliminar totalmente a praga.</p>[[fig:1]]<p>A análise do gráfico permite concluir que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q56.webp",
+     "alt": "Gráfico da densidade populacional da praga ao longo do tempo, com uma linha pontilhada no nível P. No início, a densidade sobe muito acima de P; na seta ①, quando o inimigo natural é introduzido, ela cai e passa a oscilar abaixo de P. Na seta ②, com o inseticida, ela cai bruscamente e logo volta a subir, passando muito acima de P."
+    }
+   ],
+   "alternativas": {
+    "A": "se o inseticida tivesse sido usado no momento marcado pela seta ①, a praga teria sido controlada definitivamente, sem necessidade de um tratamento posterior.",
+    "B": "se não tivesse sido usado o inseticida no momento marcado pela seta ②, a população de praga continuaria aumentando rapidamente e causaria grandes danos à lavoura.",
+    "C": "o uso do inseticida tornou-se necessário, uma vez que o controle biológico aplicado no momento ① não resultou na diminuição da densidade da população da praga.",
+    "D": "o inseticida atacou tanto as pragas quanto os seus predadores; entretanto, a população de pragas recuperou-se mais rápido voltando a causar dano à lavoura.",
+    "E": "o controle de pragas por meio do uso de inseticidas é muito mais eficaz que o controle biológico, pois os seus efeitos são muito mais rápidos e têm maior durabilidade."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Depois da introdução do inimigo natural (seta ①), a praga oscila, mas fica controlada perto do nível P. O inseticida (seta ②) derrubou a praga e também seus predadores; sem eles, a praga se recuperou mais depressa e passou muito acima de P. Alternativa <strong>D</strong>.</p><p>O controle biológico funcionava (C é falsa), e o inseticida piorou a situação (E é falsa).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "controle biológico",
+    "inseticidas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 57,
+   "materia": "Química",
+   "assunto": "Dessalinização",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p>Em nosso planeta a quantidade de água está estimada em 1,36 × 10<sup>6</sup> trilhões de toneladas. Desse total, calcula-se que cerca de 95% são de água salgada e dos 5% restantes, quase a metade está retida nos pólos e geleiras.</p><p>O uso de água do mar para obtenção de água potável ainda não é realidade em larga escala. Isso porque, entre outras razões,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o custo dos processos tecnológicos de dessalinização é muito alto.",
+    "B": "não se sabe como separar adequadamente os sais nela dissolvidos.",
+    "C": "comprometeria muito a vida aquática dos oceanos.",
+    "D": "a água do mar possui materiais irremovíveis.",
+    "E": "a água salgada do mar tem temperatura de ebulição alta."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Já existem processos conhecidos para tirar o sal da água do mar, como a destilação e a osmose reversa, mas eles gastam muita energia e são caros em larga escala. Alternativa <strong>A</strong>.</p><p>Os sais podem ser separados (B, D), e a temperatura de ebulição da água do mar é só um pouco maior que a da água pura (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "água potável",
+    "dessalinização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 58,
+   "materia": "Química",
+   "assunto": "Evaporação",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p>Segundo o poeta Carlos Drummond de Andrade, a “água é um projeto de viver”. Nada mais correto, se levarmos em conta que toda água com que convivemos carrega, além do puro e simples H<sub>2</sub>O, muitas outras substâncias nela dissolvidas ou em suspensão. Assim, o ciclo da água, além da própria água, também promove o transporte e a redistribuição de um grande conjunto de substâncias relacionadas à dinâmica da vida.</p><p>No ciclo da água, a evaporação é um processo muito especial, já que apenas moléculas de H<sub>2</sub>O passam para o estado gasoso. Desse ponto de vista, uma das conseqüências da evaporação pode ser</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a formação da chuva ácida, em regiões poluídas, a partir de quantidades muito pequenas de substâncias ácidas evaporadas juntamente com a água.",
+    "B": "a perda de sais minerais, no solo, que são evaporados juntamente com a água.",
+    "C": "o aumento, nos campos irrigados, da concentração de sais minerais na água presente no solo.",
+    "D": "a perda, nas plantas, de substâncias indispensáveis à manutenção da vida vegetal, por meio da respiração.",
+    "E": "a diminuição, nos oceanos, da salinidade das camadas de água mais próximas da superfície."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Como só a água evapora, os sais dissolvidos ficam para trás. Nos campos irrigados, a água evapora do solo e deixa os sais, que se acumulam: é a salinização. Alternativa <strong>C</strong>.</p><p>Pela mesma razão, a evaporação aumenta (e não diminui) a salinidade da superfície do mar (E), e os sais não evaporam com a água (A, B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "salinização",
+    "ciclo da água"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 59,
+   "materia": "Química",
+   "assunto": "Conservação de alimentos",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p>A deterioração de um alimento é resultado de transformações químicas que decorrem, na maioria dos casos, da interação do alimento com microrganismos ou, ainda, da interação com o oxigênio do ar, como é o caso da rancificação de gorduras. Para conservar por mais tempo um alimento deve-se, portanto, procurar impedir ou retardar ao máximo a ocorrência dessas transformações.</p><p>Os processos comumente utilizados para conservar alimentos levam em conta os seguintes fatores:</p><ol type=\"I\"><li>microrganismos dependem da água líquida para sua sobrevivência.</li><li>microrganismos necessitam de temperaturas adequadas para crescerem e se multiplicarem. A multiplicação de microrganismos, em geral, é mais rápida entre 25 °C e 45 °C, aproximadamente.</li><li>transformações químicas têm maior rapidez quanto maior for a temperatura e a superfície de contato das substâncias que interagem.</li><li>há substâncias que acrescentadas ao alimento dificultam a sobrevivência ou a multiplicação de microrganismos.</li><li>no ar há microrganismos que encontrando alimento, água líquida e temperaturas adequadas crescem e se multiplicam.</li></ol><p>Em uma embalagem de leite “longa-vida”, lê-se: <strong>“Após aberto é preciso guardá-lo em geladeira”</strong></p><p>Caso uma pessoa <strong>não</strong> siga tal instrução, principalmente no verão tropical, o leite se deteriorará rapidamente, devido a razões relacionadas com</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o fator I, apenas.",
+    "B": "o fator II, apenas.",
+    "C": "os fatores II, III e V, apenas.",
+    "D": "os fatores I, II e III, apenas.",
+    "E": "os fatores I, II, III, IV e V."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Depois de aberto, o leite fica exposto aos microrganismos do ar (V); fora da geladeira, no verão, a temperatura favorece sua multiplicação (II) e acelera as transformações químicas (III). Alternativa <strong>C</strong>.</p><p>O leite sempre teve água líquida (I), e a instrução não trata de conservantes (IV).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "microrganismos",
+    "refrigeração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 60,
+   "materia": "História",
+   "assunto": "Guerra Fria",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p class=\"apoio\"><em>Os 45 anos que vão do lançamento das bombas atômicas até o fim da União Soviética, não foram um período homogêneo único na história do mundo. (...) dividem-se em duas metades, tendo como divisor de águas o início da década de 70. Apesar disso, a história deste período foi reunida sob um padrão único pela situação internacional peculiar que o dominou até a queda da URSS.</em></p><p class=\"fonte\">(HOBSBAWM, Eric J. <em>Era dos Extremos</em>. São Paulo: Cia das Letras, 1996)</p><p>O período citado no texto e conhecido por “Guerra Fria” pode ser definido como aquele momento histórico em que houve</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "corrida armamentista entre as potências imperialistas européias ocasionando a Primeira Guerra Mundial.",
+    "B": "domínio dos países socialistas do Sul do globo pelos países capitalistas do Norte.",
+    "C": "choque ideológico entre a Alemanha Nazista / União Soviética Stalinista, durante os anos 30.",
+    "D": "disputa pela supremacia da economia mundial entre o Ocidente e as potências orientais, como a China e o Japão.",
+    "E": "constante confronto das duas superpotências que emergiram da Segunda Guerra Mundial."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Guerra Fria foi o período, entre o fim da Segunda Guerra e o fim da URSS, em que Estados Unidos e União Soviética, as duas superpotências que emergiram do conflito, se enfrentaram em disputas políticas, militares, econômicas e ideológicas, sem guerra direta entre elas. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Guerra Fria",
+    "bipolaridade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 61,
+   "materia": "Matemática",
+   "assunto": "Média ponderada",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p>Um sistema de radar é programado para registrar automaticamente a velocidade de todos os veículos trafegando por uma avenida, onde passam em média 300 veículos por hora, sendo 55 km/h a máxima velocidade permitida. Um levantamento estatístico dos registros do radar permitiu a elaboração da distribuição percentual de veículos de acordo com sua velocidade aproximada.</p>[[fig:1]]<p>A velocidade média dos veículos que trafegam nessa avenida é de:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1999/q61.webp",
+     "alt": "Gráfico de barras da porcentagem de veículos por velocidade: 20 km/h, 5%; 30 km/h, 15%; 40 km/h, 30%; 50 km/h, 40%; 60 km/h, 6%; 70 km/h, 3%; 80 km/h, 1%."
+    }
+   ],
+   "alternativas": {
+    "A": "35 km/h",
+    "B": "44 km/h",
+    "C": "55 km/h",
+    "D": "76 km/h",
+    "E": "85 km/h"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A média é a soma de cada velocidade vezes sua porcentagem: (20 × 5 + 30 × 15 + 40 × 30 + 50 × 40 + 60 × 6 + 70 × 3 + 80 × 1)/100 = (100 + 450 + 1 200 + 2 000 + 360 + 210 + 80)/100 = 4 400/100 = 44 km/h. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada",
+    "estatística"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 62,
+   "materia": "Biologia",
+   "assunto": "Leptospirose",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p class=\"apoio\"><strong><em>Casos de leptospirose crescem na região</em></strong></p><p class=\"apoio\"><em>M.P.S. tem 12 anos e está desde janeiro em tratamento de leptospirose. Ela perdeu a tranqüilidade e encontrou nos ratos, (...), os vilões de sua infância. “Se eu não os matar, eles me matam”, diz. Seu medo reflete um dos maiores problemas do bairro: a falta de saneamento básico e o acúmulo de lixo...</em></p><p class=\"fonte\">(<em>O Estado de S. Paulo</em>, 31/07/1997)</p><p class=\"apoio\"><strong><em>Oito suspeitos de leptospirose</em></strong></p><p class=\"apoio\"><em>A cidade ficou sob as águas na madrugada de anteontem e, além de 120 desabrigados, as inundações estão fazendo outro tipo de vítimas: já há oito suspeitas de casos de leptospirose (...) transmitida pela urina de ratos contaminados.</em></p><p class=\"fonte\">(<em>Folha de S. Paulo</em>, 12/02/1999)</p><p>As notícias dos jornais sobre casos de leptospirose estão associadas aos fatos:</p><ol type=\"I\"><li>Quando ocorre uma enchente, as águas espalham, além do lixo acumulado, todos os dejetos dos animais que ali vivem.</li><li>O acúmulo de lixo cria ambiente propício para a proliferação dos ratos.</li><li>O lixo acumulado nos terrenos baldios e nas margens de rios entope os bueiros e compromete o escoamento das águas em dias de chuva.</li><li>As pessoas que vivem na região assolada pela enchente, entrando em contato com a água contaminada, têm grande chance de contrair a leptospirose.</li></ol><p>A <strong>seqüência</strong> de fatos que relaciona corretamente a leptospirose, o lixo, as enchentes e os roedores é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I, II, III e IV",
+    "B": "I, III, IV e II",
+    "C": "IV, III, II e I",
+    "D": "II, IV, I e III",
+    "E": "II, III, I e IV"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A sequência lógica é: o lixo acumulado atrai e faz proliferar os ratos (II); o lixo entope bueiros e provoca enchentes (III); a enchente espalha a urina e os dejetos dos animais (I); e quem tem contato com a água contaminada pode pegar leptospirose (IV). Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leptospirose",
+    "saneamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 63,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p class=\"apoio\"><em>E considerei a glória de um pavão ostentando o esplendor de suas cores; é um luxo imperial. Mas andei lendo livros, e descobri que aquelas cores todas não existem na pena do pavão. Não há pigmentos. O que há são minúsculas bolhas d’água em que a luz se fragmenta, como em um prisma. O pavão é um arco-íris de plumas.</em></p><p class=\"apoio\"><em>Eu considerei que este é o luxo do grande artista, atingir o máximo de matizes com o mínimo de elementos. De água e luz ele faz seu esplendor; seu grande mistério é a simplicidade.</em></p><p class=\"apoio\"><em>Considerei, por fim, que assim é o amor, oh! Minha amada; de tudo que ele suscita e esplende e estremece e delira em mim existem apenas meus olhos recebendo a luz de teu olhar. Ele me cobre de glórias e me faz magnífico.</em></p><p class=\"fonte\">(BRAGA, Rubem. <em>Ai de ti, Copacabana</em>. 20.ed.)</p><p>O poeta Carlos Drummond de Andrade escreveu assim sobre a obra de Rubem Braga:</p><p class=\"apoio\"><em>O que ele nos conta é o seu dia, o seu expediente de homem, apanhado no essencial, narrativa direta e econômica. (...) É o poeta do real, do palpável, que se vai diluindo em cisma. Dá o sentimento da realidade e o remédio para ela.</em></p><p>Em seu texto, Rubem Braga afirma que “este é o luxo do grande artista, atingir o máximo de matizes com o mínimo de elementos”. Afirmação semelhante pode ser encontrada no texto de Carlos Drummond de Andrade, quando, ao analisar a obra de Braga, diz que ela é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "uma narrativa direta e econômica.",
+    "B": "real, palpável.",
+    "C": "sentimento de realidade.",
+    "D": "seu expediente de homem.",
+    "E": "seu remédio."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>“Atingir o máximo de matizes com o mínimo de elementos” é fazer muito com pouco. Drummond diz algo parecido quando define a obra de Braga como “narrativa direta e econômica”: sem excessos, só o essencial. Alternativa <strong>A</strong>.</p><p>“Real, palpável” e “sentimento de realidade” falam do assunto da obra, não da economia de meios.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Crônica",
+    "Rubem Braga",
+    "crônica"
+   ],
+   "area": "Linguagens"
+  }
+ ]
+}

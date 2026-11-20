@@ -1,0 +1,1343 @@
+{
+ "id": "enem-2024-natureza",
+ "banca": "Enem",
+ "ano": 2024,
+ "titulo": "Enem 2024: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2024-11-10",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 91
+   },
+   "enunciado": "<p class=\"apoio\">Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas, que durante uma colisão, apresentam menor deformação. Na verdade, o que ocorre é o contrário. Por isso, a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente.</p><p class=\"fonte\">DAY, C. Crumple Zones. Disponível em: https://pubs.aip.org. Acesso em: 2 jul. 2024 (adaptado).</p><p class=\"apoio\">Assim, além dos cintos de segurança e dos airbags, os carros modernos passaram a contar com o dispositivo de segurança conhecido como <em>crumple zone</em> (região deformável, em inglês), conforme a figura.</p>[[fig:1]]<p class=\"fonte\">Momentum and Car safety. GCSE Physics Revision. Disponível em: www.shalom-education.com. Acesso em: 5 jul. 2024 (adaptado).</p><p>Considerando o carro, seus ocupantes e o muro da figura como um sistema isolado, o <em>crumple zone</em> aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q91.webp",
+     "alt": "Ilustração de um carro batendo de frente num muro, com a parte dianteira amassada (crumple zone, região deformável) e bonecos de teste presos pelo cinto de segurança, com o airbag acionado."
+    }
+   ],
+   "alternativas": {
+    "A": "aciona os airbags do veículo.",
+    "B": "absorve a energia cinética do sistema.",
+    "C": "consome a quantidade de movimento do sistema.",
+    "D": "cria uma barreira de proteção para seus ocupantes.",
+    "E": "diminui a velocidade do centro de massa do sistema."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na colisão, o carro precisa perder toda a sua energia cinética. Se a frente se deforma, essa energia é gasta deformando a estrutura, e a parada acontece num tempo maior, com forças menores sobre os ocupantes. A deformação <strong>absorve a energia cinética do sistema</strong>. Alternativa <strong>B</strong>.</p><p>Num sistema isolado, a quantidade de movimento se conserva (C) e a velocidade do centro de massa não muda (E). A deformação não aciona os airbags (A) nem cria barreira (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "impulso",
+    "energia cinética"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 92
+   },
+   "enunciado": "<p class=\"apoio\">Células a combustível microbianas (CCM) são capazes de gerar eletricidade a partir de águas residuárias urbanas e agroindustriais. As CCM são compostas de duas câmaras. Numa delas, onde ocorre o tratamento da matéria orgânica, as bactérias eletrogênicas crescem formando um biofilme e se alimentam dos poluentes presentes no efluente. Ao se alimentarem, essas bactérias geram uma corrente elétrica que percorre o material sobre o qual elas formaram o biofilme. Um fio condutor externo possibilita a migração dessa corrente para uma segunda câmara, promovendo uma reação química. A figura esquematiza uma CCM e as reações envolvidas.</p>[[fig:1]]<p class=\"apoio\">Ânodo: CH<sub>3</sub>COO<sup>−</sup> (aq) + 2 H<sub>2</sub>O (l) → 2 CO<sub>2</sub> (g) + 7 H<sup>+</sup> (aq) + 8 e<sup>−</sup><br>Cátodo: 4 H<sup>+</sup> (aq) + O<sub>2</sub> (g) + 4 e<sup>−</sup> → 2 H<sub>2</sub>O (l)</p><p class=\"fonte\">QUINTO, A. C. Biobaterias geram eletricidade a partir de esgoto sanitário e efluentes agroindustriais. Disponível em: https://jornal.usp.br. Acesso em: 1 dez. 2021 (adaptado).</p><p>Qual das equações representa a reação global que ocorre durante o funcionamento dessa CCM?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q92.webp",
+     "alt": "Esquema de uma célula a combustível microbiana: à esquerda, a câmara do ânodo, onde matéria orgânica (CH₃COO⁻) vira CO₂; no meio, uma membrana por onde passam íons H⁺; à direita, a câmara do cátodo, onde O₂ vira H₂O. Um fio externo leva os elétrons do ânodo ao cátodo."
+    }
+   ],
+   "alternativas": {
+    "A": "CH<sub>3</sub>COO<sup>−</sup> (aq) + O<sub>2</sub> (g) → 2 CO<sub>2</sub> (g) + 3 H<sup>+</sup> (aq)",
+    "B": "CO<sub>2</sub> (g) + O<sub>2</sub> (g) + H<sup>+</sup> (aq) → H<sub>2</sub>O (l) + CH<sub>3</sub>COO<sup>−</sup> (aq)",
+    "C": "CH<sub>3</sub>COO<sup>−</sup> (aq) + H<sup>+</sup> (aq) + 2 O<sub>2</sub> (g) → 2 CO<sub>2</sub> (g) + 2 H<sub>2</sub>O (l)",
+    "D": "CH<sub>3</sub>COO<sup>−</sup> (aq) + 6 H<sub>2</sub>O (l) → 2 CO<sub>2</sub> (g) + 2 O<sub>2</sub> (g) + 15 H<sup>+</sup> (aq)",
+    "E": "2 CO<sub>2</sub> (g) + 11 H<sup>+</sup> (aq) + O<sub>2</sub> (g) → CH<sub>3</sub>COO<sup>−</sup> (aq) + 4 H<sub>2</sub>O (l)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A reação global soma as duas semirreações com o mesmo número de elétrons. A do ânodo libera 8 e<sup>−</sup>; a do cátodo consome 4, então ela é multiplicada por 2: 8 H<sup>+</sup> + 2 O<sub>2</sub> + 8 e<sup>−</sup> → 4 H<sub>2</sub>O. Somando e cancelando 8 e<sup>−</sup>, 7 H<sup>+</sup> e 2 H<sub>2</sub>O: <strong>CH<sub>3</sub>COO<sup>−</sup> + H<sup>+</sup> + 2 O<sub>2</sub> → 2 CO<sub>2</sub> + 2 H<sub>2</sub>O</strong>. Alternativa <strong>C</strong>.</p><p>A soma as semirreações sem igualar os elétrons; B e E invertem o sentido; D não tem o O<sub>2</sub> como reagente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "células a combustível",
+    "semirreações"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 93
+   },
+   "enunciado": "<p>No senso comum, considera-se, ainda hoje, que compostos orgânicos são substâncias presentes nos seres vivos. Na Química, a expressão “compostos orgânicos” tem um uso histórico de mais de 200 anos, adquirindo diferentes conotações ao longo do desenvolvimento dessa ciência. Atualmente, atribui-se a essa expressão outro significado.</p><p>A concepção científica atual define esses compostos como substâncias</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "benéficas à saúde humana.",
+    "B": "capazes de serem biodegradadas.",
+    "C": "formadas a partir de gás carbônico.",
+    "D": "produzidas sem o uso de agrotóxicos.",
+    "E": "contendo carbono como elemento principal."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Hoje, “compostos orgânicos” não são mais definidos pela origem em seres vivos (ideia derrubada pela síntese da ureia por Wöhler, em 1828), e sim pela composição: são substâncias que têm o <strong>carbono como elemento principal</strong>, formando cadeias. Alternativa <strong>E</strong>.</p><p>Ser saudável, biodegradável ou sem agrotóxico (A, B e D) é o sentido do senso comum (“alimento orgânico”), e nem todo composto orgânico vem do CO<sub>2</sub> (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "compostos orgânicos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 94
+   },
+   "enunciado": "<p class=\"apoio\">A nimesulida é um fármaco pouco solúvel em água, utilizado como anti-inflamatório, analgésico e antitérmico. Essa substância pode ser convertida em uma espécie eletricamente carregada, de maior solubilidade em água, mediante o tratamento com uma base de Brönsted-Lowry, isto é, uma espécie química capaz de capturar um próton (H<sup>+</sup>). Na figura são apresentados os grupamentos presentes na estrutura química da nimesulida.</p>[[fig:1]]<p class=\"fonte\">GONÇALVES, A. A. et al. Contextualizando reações ácido-base de acordo com a teoria protônica de Brönsted-Lowry usando comprimidos de propranolol e nimesulida. Química Nova, n. 3, 2013 (adaptado).</p><p>Na estrutura desse fármaco, o grupamento capaz de reagir com a base de Brönsted-Lowry é o grupo</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q94.webp",
+     "alt": "Fórmula estrutural da nimesulida com os grupamentos destacados: metila (H₃C), sulfonamida (SO₂–NH), um anel benzênico ligado a um grupo nitro (NO₂) e, por um oxigênio (éter), a outro anel (fenila)."
+    }
+   ],
+   "alternativas": {
+    "A": "sulfonamida.",
+    "B": "metila.",
+    "C": "fenila.",
+    "D": "nitro.",
+    "E": "éter."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A base de Brönsted-Lowry captura um próton (H<sup>+</sup>). Na nimesulida, o hidrogênio ácido é o do N–H da <strong>sulfonamida</strong>: o grupo SO<sub>2</sub>, muito eletronegativo, puxa elétrons e facilita a saída desse H<sup>+</sup>. Alternativa <strong>A</strong>.</p><p>Metila, fenila, nitro e éter (B a E) não têm hidrogênio ácido para doar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ácidos e bases",
+    "Brönsted-Lowry"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 95
+   },
+   "enunciado": "<p>O desenvolvimento da biotecnologia e da clonagem gênica em procariotos fez com que a produção de proteínas se tornasse mais intensa, rápida e econômica. Para a produção de hormônios, enzimas e proteínas de resistência a drogas, uma variação da técnica de reação em cadeia pela polimerase (PCR, na sigla em inglês) utiliza a enzima transcriptase reversa (RT-PCR), que sintetiza moléculas de DNA complementares a partir de fitas de RNA.</p><p>Nesse contexto, essa técnica é importante para detectar genes</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "expressos.",
+    "B": "plasmidiais.",
+    "C": "bacterianos.",
+    "D": "dominantes.",
+    "E": "autossômicos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A variação descrita usa a transcriptase reversa: parte do RNA mensageiro, que só existe quando o gene está sendo transcrito, e o converte em DNA para amplificar. Assim a técnica detecta genes <strong>expressos</strong>. Alternativa <strong>A</strong>.</p><p>Plasmidiais, bacterianos, dominantes e autossômicos (B a E) são classificações que não dependem da expressão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "PCR",
+    "transcriptase reversa"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Física",
+   "assunto": "Mecânica",
+   "origem": {
+    "numeroOriginal": 96
+   },
+   "enunciado": "<p>Nos automóveis, é importante garantir que o centro de massa (CM) de cada conjunto roda/pneu coincida com o seu centro geométrico. Esse processo é realizado em uma máquina de balanceamento, na qual o conjunto roda e pneu é colocado para girar a uma velocidade de valor constante. Com base nas oscilações medidas, a máquina indica a posição do centro de massa do conjunto, e pequenas peças de chumbo são fixadas em lugares específicos da roda até que as vibrações diminuam. Durante o treinamento de sua equipe, a fim de corrigir a posição do centro de massa indicada pela máquina, um mecânico apresenta o esquema a seguir, com cinco possíveis pontos da roda para posicionar uma peça de chumbo.</p>[[fig:1]]<p>Em qual ponto deve ser fixada a peça de chumbo para corrigir a posição do centro de massa desse conjunto roda/pneu?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q96.webp",
+     "alt": "Roda com pneu vista de frente, com eixos tracejados horizontal e vertical passando pelo centro. O centro de massa (CM), em laranja, está um pouco à direita e acima do centro. Cinco pontos amarelos na borda da roda: 1 em cima, 2 à esquerda (na horizontal), 3 embaixo à esquerda, 4 embaixo e 5 em cima à direita."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na figura, o centro de massa (CM) está um pouco acima e à direita do centro da roda. Para trazê-lo de volta ao centro, a peça de chumbo deve ser presa do lado oposto, na mesma linha que passa pelo centro e pelo CM: embaixo e à esquerda, no <strong>ponto 3</strong>. Alternativa <strong>C</strong>.</p><p>O ponto 2 fica à esquerda, mas na horizontal, e não corrigiria o deslocamento vertical do CM; os pontos 1, 4 e 5 ficam em outras direções.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "centro de massa",
+    "balanceamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 97
+   },
+   "enunciado": "<p>O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de 1,4 mg/mL.</p><p>Considere as massas molares: NaCl = 58,5 g/mol; Na = 23 g/mol.</p><p>Qual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,7 g",
+    "B": "1,8 g",
+    "C": "2,8 g",
+    "D": "3,6 g",
+    "E": "7,0 g"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em 2 L (2 000 mL) com 1,4 mg/mL de sódio há 2 800 mg = 2,8 g de Na. Isso corresponde a 2,8 · 58,5 ÷ 23 ≈ 7,1 g de NaCl, em duas colheres. Uma colher tem cerca de <strong>3,6 g</strong>. Alternativa <strong>D</strong>.</p><p>7,0 g (E) é o total das duas colheres; 2,8 g (C) é a massa de sódio, não de sal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "concentração",
+    "massa molar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 98
+   },
+   "enunciado": "<p class=\"apoio\">Apesar de os animais representados no cladograma compartilharem um mesmo ancestral, eles se caracterizam por distintos padrões de reprodução ou de nutrição dos embriões e descendentes.</p>[[fig:1]]<p class=\"fonte\">DIXSON, A. F. Mammalian Sexuality: The Act of Mating and the Evolution of Reproduction. Disponível em: www.cambridge.org. Acesso em: 2 jul. 2024 (adaptado).</p><p>Ao longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q98.webp",
+     "alt": "Cladograma dos mamíferos (Mammalia): de um lado, Prototheria leva aos monotremados (ornitorrinco); do outro, Theria se divide em Metatheria (marsupiais, canguru) e Eutheria (placentários, elefante)."
+    }
+   ],
+   "alternativas": {
+    "A": "aumento no número de descendentes por ninhada.",
+    "B": "mudança no tipo de fecundação de externa para interna.",
+    "C": "redução da versatilidade de reprodução, que se torna unicamente sexuada.",
+    "D": "desenvolvimento embrionário, que passa do meio aquático para o terrestre.",
+    "E": "diminuição da vesícula vitelínica, associada ao desenvolvimento da lactação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No cladograma, os monotremados (ornitorrinco) põem ovos com muito vitelo; os marsupiais e os placentários têm embriões nutridos cada vez mais pela mãe, por placenta e leite. Ao longo da evolução dos mamíferos, a <strong>vesícula vitelínica diminui, associada ao desenvolvimento da lactação</strong> (e da placenta). Alternativa <strong>E</strong>.</p><p>Todos têm fecundação interna (B) e desenvolvimento terrestre (D); não há ganho de descendentes por ninhada (A) nem perda de reprodução assexuada (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mamíferos",
+    "cladograma"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 99
+   },
+   "enunciado": "<p>Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f<sub>0</sub> que são refletidas pela dianteira da ambulância, retornando para o detector com frequência f<sub>r</sub>. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.</p><p>Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências f<sub>r</sub> e f<sub>0</sub> medidas pelo radar?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Mais grave do que o som emitido e f<sub>r</sub> &lt; f<sub>0</sub>.",
+    "B": "Mais agudo do que o som emitido e f<sub>r</sub> &lt; f<sub>0</sub>.",
+    "C": "Mais agudo do que o som emitido e f<sub>r</sub> = f<sub>0</sub>.",
+    "D": "Mais agudo do que o som emitido e f<sub>r</sub> > f<sub>0</sub>.",
+    "E": "Mais grave do que o som emitido e f<sub>r</sub> > f<sub>0</sub>."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo efeito Doppler, quando a fonte se aproxima do observador, a frequência percebida aumenta: o som da sirene fica <strong>mais agudo</strong>. As ondas de rádio refletidas pela ambulância que se aproxima também voltam com frequência maior: <strong>f<sub>r</sub> &gt; f<sub>0</sub></strong>. Alternativa <strong>D</strong>.</p><p>Som mais grave e f<sub>r</sub> &lt; f<sub>0</sub> (A, B e E) valeriam para o afastamento; f<sub>r</sub> = f<sub>0</sub> (C) só se ela estivesse parada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "efeito Doppler"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 100
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Mirascópio 3D: produtor de ilusão instantânea</strong></p><p class=\"apoio\">O equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos E<sub>1</sub> e E<sub>2</sub>, apoiados um sobre o outro por suas bordas, de tal forma que o vértice de E<sub>1</sub> coincide com o foco de E<sub>2</sub> e vice-versa. Na abertura circular de E<sub>2</sub>, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de E<sub>1</sub>. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por E<sub>2</sub> e E<sub>1</sub>, respectivamente, conforme o esquema. Os observadores julgam visualizar o objeto quando estão, de fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade.</p>[[fig:1]]<p class=\"fonte\">SALZMANN, W. Disponível em: https://wissenstexte.de. Acesso em: 27 jun. 2024 (adaptado).</p><p>A natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q100.webp",
+     "alt": "Em cima, foto do mirascópio: dois espelhos côncavos pretos encaixados, com a imagem de uma pequena raposa sobre a abertura. Embaixo, o esquema em corte: espelho E₁ embaixo e E₂ em cima, com 23 cm de diâmetro; abertura de 5 cm no topo; altura de 3,8 cm de cada espelho até o plano de encontro das bordas; a raposa no fundo de E₁ e raios que refletem em E₂ e E₁ até a abertura."
+    }
+   ],
+   "alternativas": {
+    "A": "real e 5 cm.",
+    "B": "real e 3,8 cm.",
+    "C": "real e 7,6 cm.",
+    "D": "virtual e 7,6 cm.",
+    "E": "virtual e 3,8 cm."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A imagem se forma na abertura de E<sub>2</sub>, num lugar onde os raios refletidos realmente se cruzam: é <strong>real</strong> (por isso parece um objeto “de verdade”). O objeto está no vértice de E<sub>1</sub>, embaixo, e a imagem na abertura, que é o vértice de E<sub>2</sub>, em cima. A distância entre eles é a soma das duas alturas do esquema: 3,8 + 3,8 = <strong>7,6 cm</strong>. Alternativa <strong>C</strong>.</p><p>3,8 cm (B e E) é só a altura de um espelho; 5 cm (A) é o diâmetro da abertura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espelhos esféricos",
+    "imagem real"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 101
+   },
+   "enunciado": "<p class=\"apoio\"><strong>A saúde do professor: acústica arquitetônica</strong></p><p class=\"apoio\">Dentre os parâmetros acústicos que afetam a inteligibilidade dos sons emitidos em ambientes fechados, destacam-se o ruído de fundo do ambiente e o decréscimo do nível sonoro com a distância da fonte emissora. Assim, sentar-se no fundo da sala de aula pode prejudicar a aprendizagem dos estudantes, por impedir que eles distingam, com precisão, os sons emitidos, diminuindo a inteligibilidade da fala de seus professores. Considere a situação exemplificada pelo infográfico: à distância de 1 metro, o nível sonoro da fala de um professor é de 60 dB e diminui com a distância. Considere, ainda, que o ruído de fundo nessa sala de aula pode chegar a 45 dB e que, para ser compreendida, o nível sonoro da fala do professor deve estar 5 dB acima desse ruído.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.ufrrj.br. Acesso em: 2 dez. 2021 (adaptado).</p><p>Para um valor máximo do ruído de fundo, a maior distância que um estudante pode estar do professor para que ainda consiga compreender sua fala é mais próxima de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q101.webp",
+     "alt": "Gráfico do nível sonoro (dB) da fala do professor em função da distância (m), sobre o desenho de uma sala com o professor no quadro e alunos em carteiras enfileiradas: o nível vale 60 dB a 1 m, cerca de 52 dB a 2 m, 50 dB perto de 3 m, 46 dB a 4 m e vai caindo devagar até cerca de 38 dB a 10 m."
+    }
+   ],
+   "alternativas": {
+    "A": "3,0 m.",
+    "B": "4,5 m.",
+    "C": "6,5 m.",
+    "D": "8,0 m.",
+    "E": "9,5 m."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Com ruído de fundo máximo de 45 dB, a fala precisa chegar com pelo menos 45 + 5 = 50 dB. Pelo gráfico, o nível começa em 60 dB a 1 m e cai a 50 dB por volta de <strong>3 m</strong>. Alternativa <strong>A</strong>.</p><p>As outras distâncias têm nível abaixo de 50 dB, e o aluno não entenderia a fala.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nível sonoro",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Biologia",
+   "assunto": "Bioquímica",
+   "origem": {
+    "numeroOriginal": 102
+   },
+   "enunciado": "<p>Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado.</p><p>Utilizando esse procedimento, o sabor foi conservado porque houve</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "desnaturação enzimática pela alta temperatura.",
+    "B": "conversão de nutrientes pela redução de temperatura.",
+    "C": "degradação das reservas nutritivas pelo choque térmico.",
+    "D": "impedimento da entrada de oxigênio pela fervura da água.",
+    "E": "desidratação dos grãos por causa da alteração da temperatura."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A glicose do milho é convertida em amido por enzimas. A água fervente <strong>desnatura essas enzimas</strong> pela alta temperatura, e a água gelada interrompe o cozimento. Com as enzimas inativas, a glicose fica no grão e o sabor doce se mantém. Alternativa <strong>A</strong>.</p><p>O frio só para o aquecimento (B); o choque não degrada reservas (C), não impede a entrada de oxigênio (D) nem desidrata os grãos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "enzimas",
+    "desnaturação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 103
+   },
+   "enunciado": "<p class=\"apoio\">Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento.</p>[[fig:1]]<p class=\"fonte\">5 dicas de instalação de aquecedor solar. Disponível em: https://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado).</p><p>O processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q103.webp",
+     "alt": "Esquema de aquecedor solar: um coletor de tubos a vácuo inclinado recebe radiação solar; a água quente sobe dele para um reservatório cilíndrico com isolamento térmico de poliuretano, mais alto, e a água fria desce do reservatório para o coletor."
+    }
+   ],
+   "alternativas": {
+    "A": "difusão.",
+    "B": "absorção.",
+    "C": "condução.",
+    "D": "irradiação.",
+    "E": "convecção."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No aquecedor solar, a água esquentada nos coletores fica menos densa e sobe sozinha até o reservatório, enquanto a água fria, mais densa, desce para os coletores. Essa circulação por diferença de densidade é a <strong>convecção</strong>. Alternativa <strong>E</strong>.</p><p>A irradiação (D) leva o calor do Sol aos coletores, mas não dos coletores ao reservatório; a condução (C) é desprezível ao longo dos tubos; difusão e absorção (A e B) não são o mecanismo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "convecção",
+    "aquecedor solar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 104
+   },
+   "enunciado": "<p class=\"apoio\">As autoridades sanitárias brasileiras têm se preocupado muito nos últimos anos com o aumento da ocorrência de doenças transmitidas por mosquitos, principalmente arboviroses como chikungunya e zika, que se tornaram epidêmicas ou endêmicas em áreas urbanas. Parte de uma análise da relação entre a urbanização e a incidência dessas doenças está representada no fluxograma.</p>[[fig:1]]<p class=\"fonte\">ALMEIDA, L. S.; COTA, A. L. S.; RODRIGUES, D. F. Saneamento, arboviroses e determinantes ambientais: impactos na saúde urbana. Ciência & Saúde Coletiva, v. 25, n. 10, 2020 (adaptado).</p><p>Nesse contexto, como a urbanização está causando riscos à saúde humana?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q104.webp",
+     "alt": "Fluxograma: Urbanização → Ausência de saneamento básico → Contaminação da água → Redução da biodiversidade aquática → Riscos para a saúde humana."
+    }
+   ],
+   "alternativas": {
+    "A": "Disseminando verminoses.",
+    "B": "Causando a eutrofização de lagoas.",
+    "C": "Aumentando a chance de contato com coliformes.",
+    "D": "Diminuindo a população de predadores aquáticos.",
+    "E": "Aproximando as pessoas das áreas de ocorrência de mosquitos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo esquema, a urbanização sem saneamento contamina a água e reduz a biodiversidade aquática, o que traz riscos à saúde. Entre os organismos perdidos estão os predadores das larvas de mosquito, como peixes e insetos aquáticos. Com menos predadores, os mosquitos transmissores de arboviroses se multiplicam: a urbanização está <strong>diminuindo a população de predadores aquáticos</strong>. Alternativa <strong>D</strong>.</p><p>Verminoses, eutrofização e coliformes (A, B e C) são riscos reais, mas o texto trata de doenças transmitidas por mosquitos; e o esquema não fala de aproximação das pessoas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "arboviroses",
+    "saneamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 105
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Impactos do microplástico</strong></p><p class=\"apoio\">A ação de fatores abióticos aliada à biodeterioração contribuem para a formação de microplásticos, os quais se aderem a outros poluentes orgânicos apolares persistentes, como os derivados de pesticidas lipossolúveis. Há uma proporcionalidade direta entre a solubilidade desses tipos de poluentes e sua concentração nos tecidos dos organismos expostos a eles.</p><p class=\"fonte\">Disponível em: www.ecycle.com.br. Acesso em: 9 dez. 2021 (adaptado).</p><p>Em animais vertebrados, essa associação de poluentes será preferencialmente acumulada no tecido</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ósseo.",
+    "B": "nervoso.",
+    "C": "epitelial.",
+    "D": "adiposo.",
+    "E": "sanguíneo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os poluentes que aderem aos microplásticos são apolares e lipossolúveis, e o texto diz que sua concentração nos tecidos acompanha a solubilidade. Em vertebrados, eles se acumulam no tecido rico em lipídios: o <strong>adiposo</strong>. Alternativa <strong>D</strong>.</p><p>Ossos, nervos, epitélio e sangue (A, B, C e E) não são reservas de gordura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "bioacumulação",
+    "microplásticos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Física",
+   "assunto": "Física moderna",
+   "origem": {
+    "numeroOriginal": 106
+   },
+   "enunciado": "<p>Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira.</p><p>Que explicação física justifica esse procedimento?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Os raios X não interagem com os componentes metálicos do computador, o que impede a formação de imagens.",
+    "B": "Os raios X desmagnetizam o disco rígido do computador, quando refratados pelos componentes metálicos das bagagens de mão.",
+    "C": "Os raios X aquecem os materiais metálicos encontrados em bagagens de mão, quando refletidos pelos componentes do computador.",
+    "D": "Os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles.",
+    "E": "Os raios X ionizam os materiais metálicos normalmente encontrados em bagagens de mão, quando difratados pelos componentes do computador."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A imagem de raios X depende de quanto cada material deixa a radiação passar. Os componentes densos e metálicos do notebook absorvem muito os raios X e fazem uma “sombra” que esconde o que está na frente ou atrás. Por isso o computador é passado separado: os raios X <strong>não atravessam os componentes densos do computador</strong>. Alternativa <strong>D</strong>.</p><p>Os raios X interagem, sim, com metais (A), e não desmagnetizam, aquecem ou ionizam o computador de forma a justificar o procedimento (B, C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "raios X"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 107
+   },
+   "enunciado": "<p class=\"apoio\">Com base em testes realizados em ratos, concluiu-se que os compostos nitrosos são substâncias mutagênicas, ou seja, produzem mutações nas células e possivelmente câncer. Esses compostos podem ser obtidos pela reação entre o nitrito de sódio, que é um conservante adicionado às carnes, e o ácido clorídrico. O ácido nitroso produzido irá reagir com compostos nitrogenados, como as aminas, dando origem aos compostos nitrosos.</p><p>Em qual órgão esse processo será iniciado?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Rim.",
+    "B": "Fígado.",
+    "C": "Intestino.",
+    "D": "Pâncreas.",
+    "E": "Estômago."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A reação precisa de ácido clorídrico, que o corpo produz no <strong>estômago</strong> (suco gástrico). É ali que o nitrito das carnes forma ácido nitroso e, com as aminas, os compostos nitrosos. Alternativa <strong>E</strong>.</p><p>Rim, fígado, intestino e pâncreas (A a D) não têm meio fortemente ácido com HCl.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "digestão",
+    "nitrosaminas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 108
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Sistemas agroflorestais (SAFs)</strong></p><p class=\"apoio\">Os sistemas agroflorestais alinham os interesses econômicos aos ecológicos. Esses sistemas podem ser usados na recuperação ambiental de áreas degradadas que se tornaram pouco produtivas, como as utilizadas por muito tempo para pastagem. Para isso, num primeiro momento, as árvores nativas são plantadas em conjunto com culturas agrícolas anuais, como feijão, mandioca, milho e abóbora, que geram renda para os proprietários da terra e incentivam a manutenção do sistema. Em um segundo momento, são introduzidas outras espécies, como trepadeiras e arbustos, de acordo com um arranjo espacial e temporal preestabelecido. Nesse processo, ocorrerão mudanças graduais na estrutura e composição das comunidades vegetais ao longo do tempo, que culminarão no aumento da diversidade do ambiente.</p><p class=\"fonte\">Disponível em: www.embrapa.br. Acesso em: 9 dez. 2021 (adaptado).</p><p>O conjunto dessas mudanças graduais é análogo ao processo natural denominado</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "rotação de culturas.",
+    "B": "sucessão ecológica.",
+    "C": "coevolução específica.",
+    "D": "adaptação por seleção.",
+    "E": "convergência adaptativa."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Nos sistemas agroflorestais, culturas anuais e árvores pioneiras preparam a área, depois entram arbustos e trepadeiras, e a comunidade fica mais diversa com o tempo. Essa sequência de mudanças graduais imita a <strong>sucessão ecológica</strong>. Alternativa <strong>B</strong>.</p><p>Rotação de culturas troca espécies num mesmo lugar sem aumentar a complexidade (A); coevolução, seleção e convergência (C, D e E) são processos evolutivos, não mudanças de comunidade.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sucessão ecológica",
+    "agrofloresta"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 109
+   },
+   "enunciado": "<p class=\"apoio\">As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta.</p><p class=\"fonte\">SADAVA, D. et al. Vida: a ciência da biologia — volume III: plantas e animais. Porto Alegre: Artmed, 2009 (adaptado).</p><p>Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Triatlo.",
+    "B": "Salto em altura.",
+    "C": "Marcha atlética.",
+    "D": "Maratona aquática.",
+    "E": "Ciclismo em estrada."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Fibras brancas têm poucas mitocôndrias e se contraem com força e rapidez, mas cansam logo: servem a esforços curtos e explosivos. A prova que mais se beneficia delas é o <strong>salto em altura</strong>. Alternativa <strong>B</strong>.</p><p>Triatlo, marcha, maratona aquática e ciclismo de estrada (A, C, D e E) são provas de resistência, que dependem das fibras vermelhas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fibras musculares",
+    "metabolismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 110
+   },
+   "enunciado": "<p class=\"apoio\">O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.</p><p class=\"fonte\">FRANÇA, F. G. R. [...] serpentes corais em ambientes campestres, savânicos e florestais da América do Sul. Brasília: UnB, 2008 (adaptado).</p><p class=\"apoio\">Nas fotografias, são apresentados exemplos dessas serpentes: uma coral-verdadeira e uma falsa-coral.</p>[[fig:1]]<p class=\"fonte\">SILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo educativo para reconhecimento das cobras-corais do estado de Minas Gerais, Brasil. Herpetologia Brasileira, n. 1, 2021 (adaptado).</p><p>Qual é a vantagem dessa similaridade para as falsas-corais?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q110.webp",
+     "alt": "Duas fotografias de serpentes com anéis vermelhos, pretos e brancos muito parecidos: à esquerda, a coral-verdadeira (Micrurus decoratus); à direita, a falsa-coral (Erythrolamprus aesculapii)."
+    }
+   ],
+   "alternativas": {
+    "A": "Facilita a captura de presas.",
+    "B": "Diminui a competição por recursos.",
+    "C": "Possibilita a geração de indivíduos híbridos.",
+    "D": "Reduz a possibilidade de sofrerem predação.",
+    "E": "Otimiza o encontro de parceiros reprodutivos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A falsa-coral, sem peçonha, se parece com a coral-verdadeira, peçonhenta. Predadores que aprenderam a evitar a coloração da verdadeira também evitam a falsa: é o mimetismo, que <strong>reduz a possibilidade de sofrerem predação</strong>. Alternativa <strong>D</strong>.</p><p>A semelhança não ajuda a caçar (A), não muda a competição (B), não gera híbridos (C) e não serve para achar parceiros (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mimetismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 111
+   },
+   "enunciado": "<p>O exoesqueleto dos crustáceos é formado por quitina e impregnações de sais calcários e, por isso, é mais duro quando comparado com o exoesqueleto de outros artrópodes. Esse revestimento externo confere proteção, mas, por ser duro, limita o crescimento desses animais.</p><p>Para superar essa limitação, o exoesqueleto deve ser</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "formado somente na fase adulta do animal.",
+    "B": "fragmentado para expansão nas áreas de articulação.",
+    "C": "modelado continuamente para ajuste ao tamanho do corpo.",
+    "D": "substituído por meio de mudas que ocorrem periodicamente.",
+    "E": "impregnado por pequena quantidade de sais para sua distensão."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O exoesqueleto duro não cresce. Para crescer, o crustáceo o troca periodicamente: solta o antigo, cresce enquanto o novo ainda está mole e depois ele endurece. São as <strong>mudas</strong> (ecdises). Alternativa <strong>D</strong>.</p><p>O exoesqueleto existe desde jovem (A), não se fragmenta nem é remodelado aos poucos (B e C), e menos sais não resolveriam o problema (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "artrópodes",
+    "ecdise"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 112
+   },
+   "enunciado": "<p class=\"apoio\">Um dos exemplos mais conhecidos de herança recessiva ligada ao cromossomo X é o daltonismo. Como em qualquer distúrbio recessivo ligado ao cromossomo X, existem muito mais homens apresentando o fenótipo com esse tipo de daltonismo do que mulheres. Um casal formado por um homem não daltônico e por uma mulher gestante também não daltônica, mas portadora do gene recessivo para esse tipo de daltonismo, está esperando um bebê. Em uma das consultas de pré-natal, o casal recebeu um heredograma que contém todas as possibilidades de genótipo para esse bebê.</p><p>Considere a legenda: círculo com ponto vermelho = mulher heterozigota portadora do gene para daltonismo; círculo branco = mulher não daltônica; círculo vermelho = mulher daltônica; quadrado branco = homem não daltônico; quadrado azul = homem daltônico.</p><p class=\"fonte\">GRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro: Guanabara Koogan, 2016 (adaptado).</p><p>Qual heredograma foi recebido pelo casal?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q112a.webp",
+     "alt": "Alternativa A: mãe portadora e pai normal; filhos: uma mulher normal, uma mulher daltônica, um homem daltônico e um homem normal."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q112b.webp",
+     "alt": "Alternativa B: mãe portadora e pai normal; filhos: uma mulher normal, uma mulher portadora, um homem normal e um homem daltônico."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q112c.webp",
+     "alt": "Alternativa C: mãe portadora e pai normal; filhos: duas mulheres portadoras e dois homens normais."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q112d.webp",
+     "alt": "Alternativa D: mãe portadora e pai normal; filhos: duas mulheres normais e dois homens daltônicos."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q112e.webp",
+     "alt": "Alternativa E: mãe portadora e pai normal; filhos: duas mulheres daltônicas e dois homens normais."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A mãe é portadora (X<sup>D</sup>X<sup>d</sup>) e o pai é normal (X<sup>D</sup>Y). As filhas recebem o X<sup>D</sup> do pai e nunca são daltônicas: metade é normal e metade é portadora. Os filhos recebem o Y do pai e um dos X da mãe: metade é normal e metade é daltônica. O heredograma pedido reúne <strong>todas as possibilidades de genótipo</strong> do bebê: filha não portadora (X<sup>D</sup>X<sup>D</sup>), filha portadora (X<sup>D</sup>X<sup>d</sup>), filho normal (X<sup>D</sup>Y) e filho daltônico (X<sup>d</sup>Y). Alternativa <strong>B</strong>.</p><p>A mostra uma filha daltônica, impossível com pai normal, e E, duas; C deixa de fora o filho daltônico e a filha não portadora; D deixa de fora a filha portadora e o filho normal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "daltonismo",
+    "herança ligada ao X"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 113
+   },
+   "enunciado": "<p><strong>Metabolismo de procariontes</strong></p><p>O esquema representa a ação de organismos no ciclo do nitrogênio e no ciclo do carbono. Os números correspondem a algumas etapas dos dois ciclos distintos.</p>[[fig:1]]<p>Em qual etapa numerada ocorre uma transformação redox como a que ocorre nos procariontes nitrificantes?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q113.webp",
+     "alt": "Esquema “Metabolismo de procariontes”. Ciclo do nitrogênio: 1, procariontes fixadores convertem N₂ atmosférico em amônia; nitrificantes convertem amônia em nitritos e nitratos; 2, desnitrificantes convertem nitratos em N₂. Ciclo do carbono: 3, procariontes fotossintetizantes fixam CO₂; 4, plantas fixam CO₂; 5, procariontes decompositores convertem o carbono fixado em CO₂."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As bactérias nitrificantes <strong>oxidam</strong> a amônia a nitrito e nitrato para obter energia. Entre as etapas numeradas, a outra oxidação é a 5: os decompositores convertem o carbono da matéria orgânica em CO<sub>2</sub>, oxidando-o. Alternativa <strong>E</strong>.</p><p>As etapas 1 (fixação de N<sub>2</sub> em amônia) e 2 (desnitrificação de nitrato em N<sub>2</sub>) são reduções do nitrogênio; 3 e 4 (fixação de CO<sub>2</sub> pela fotossíntese) são reduções do carbono.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclos biogeoquímicos",
+    "oxirredução"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 114
+   },
+   "enunciado": "<p class=\"apoio\">Um dos agentes que mais contribui para a poluição do ar é o automóvel a combustão interna. Em áreas urbanas, isso é demonstrado dramaticamente pela fumaça fotoquímica, resultante da interação entre óxidos de nitrogênio, hidrocarbonetos e luz solar, para formar produtos de oxidação, que causam irritação aos olhos, ao aparelho respiratório e danos às plantas. As condições de operação de motores a combustão, como a razão da mistura ar/combustível no cilindro, influenciam na composição dos gases lançados pelo escapamento na atmosfera. O gráfico ilustra a variação nas composições dos principais gases, dióxido de carbono (CO<sub>2</sub>), hidrocarbonetos (HC), monóxido de carbono (CO), monóxido de nitrogênio (NO) e oxigênio molecular (O<sub>2</sub>), emitidos por um motor a gasolina, em diferentes razões ar/combustível, em massa.</p>[[fig:1]]<p class=\"fonte\">RANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos no controle da qualidade do ar. Química Nova, v. 26, 2003 (adaptado).</p><p>Na condição de razão ar/combustível igual a 18, haverá uma emissão</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q114.webp",
+     "alt": "Gráfico das emissões em função da razão ar/combustível (de 10 a 20), com a razão estequiométrica marcada perto de 15: o CO cai de 12% a quase zero; o CO₂ sobe até cerca de 14% na estequiométrica e depois cai devagar, ficando perto de 12% em 18; os hidrocarbonetos (HC) caem; o NO sobe até um máximo perto de 16 e depois cai; o O₂ cresce a partir de 15."
+    }
+   ],
+   "alternativas": {
+    "A": "baixa de O<sub>2</sub> e alta de NO.",
+    "B": "baixa de NO e alta de HC.",
+    "C": "baixa de CO e alta de CO<sub>2</sub>.",
+    "D": "baixa de HC e alta de CO.",
+    "E": "baixa de CO<sub>2</sub> e alta de HC."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No gráfico, a razão 18 fica bem à direita da estequiométrica (cerca de 15), com excesso de ar. Ali o CO está praticamente zerado e o CO<sub>2</sub> continua alto (cerca de 12%): a combustão é quase completa. A emissão é <strong>baixa de CO e alta de CO<sub>2</sub></strong>. Alternativa <strong>C</strong>.</p><p>Em 18, o O<sub>2</sub> é alto e o NO já caiu (A); os hidrocarbonetos estão baixos (B e E); e o CO é mínimo (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "catalisadores",
+    "combustão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 115
+   },
+   "enunciado": "<p class=\"apoio\">O esquema representa um experimento feito com células do protozoário <em>Amoeba proteus</em>. Nele, um grupo de células foi tratado com a droga citocalasina B, enquanto outro grupo não foi tratado, servindo como controle. O formato e o movimento das células tratadas foram comprometidos.</p>[[fig:1]]<p class=\"fonte\">SADAVA, D. et al. Vida: a ciência da biologia — volume I: célula e hereditariedade. Porto Alegre: Artmed, 2009 (adaptado).</p><p>Qual componente celular foi afetado pela droga utilizada no experimento?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q115.webp",
+     "alt": "Esquema com dois grupos de amebas: no grupo controle, a célula continua irregular, com pseudópodes; na ameba tratada com citocalasina B, a célula fica arredondada, sem pseudópodes."
+    }
+   ],
+   "alternativas": {
+    "A": "Vacúolos.",
+    "B": "Mitocôndrias.",
+    "C": "Microfilamentos.",
+    "D": "Material genético.",
+    "E": "Membrana plasmática."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As amebas tratadas perderam a forma irregular e os pseudópodes e ficaram redondas. A forma e o movimento por pseudópodes dependem dos <strong>microfilamentos</strong> de actina do citoesqueleto, alvo da citocalasina B. Alternativa <strong>C</strong>.</p><p>Vacúolos, mitocôndrias, material genético e membrana (A, B, D e E) não controlam diretamente a forma e o movimento ameboide.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "citoesqueleto"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 116
+   },
+   "enunciado": "<p>O magnésio metálico utilizado em ligas leves é produzido em um processo que envolve várias etapas e utiliza água do mar como matéria-prima. A primeira etapa desse processo consiste na reação entre o íon Mg<sup>2+</sup> e hidróxido de cálcio, Ca(OH)<sub>2</sub>, obtendo uma mistura que contém hidróxido de magnésio, pouco solúvel, e íons Ca<sup>2+</sup>, de acordo com a equação química:</p><p>Mg<sup>2+</sup> (aq) + Ca(OH)<sub>2</sub> (aq) → Mg(OH)<sub>2</sub> (s) + Ca<sup>2+</sup> (aq)</p><p>O método adequado para separar o Mg(OH)<sub>2</sub> dessa mistura é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "filtração.",
+    "B": "catação.",
+    "C": "destilação.",
+    "D": "dissolução.",
+    "E": "evaporação."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O Mg(OH)<sub>2</sub> é pouco solúvel e se forma como sólido no meio da solução. Para separar um sólido de um líquido, usa-se a <strong>filtração</strong>. Alternativa <strong>A</strong>.</p><p>Catação serve para sólidos grandes (B); destilação e evaporação separam o líquido, deixando todo o resto junto (C e E); e dissolver o sólido seria o contrário (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "filtração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 117
+   },
+   "enunciado": "<p class=\"apoio\">Moradores do Brooklin, bairro de São Paulo, perdem o sono com um som alto, constante e estridente. O barulho é causado por anfíbios anuros trazidos do Caribe, da espécie <em>Eleutherodactylus jahnstonei</em>, que têm tamanho um pouco maior que o de um grão de feijão e que encontraram na capital um ambiente favorável. Cientistas foram até o local e encontraram esses animais nos jardins das casas.</p><p class=\"fonte\">Pererecas-assobiadoras tiram o sono de moradores do Brooklin. Disponível em: http://g1.globo.com. Acesso em: 26 mar. 2015 (adaptado).</p><p>Ao emitirem o som estridente, esses anfíbios</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "indicam que estão fora de seu hábitat natural.",
+    "B": "alertam para a presença de poluição urbana.",
+    "C": "sinalizam a existência de superpopulação.",
+    "D": "direcionam insetos para sua alimentação.",
+    "E": "atraem fêmeas para o acasalamento."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Em anfíbios anuros, o canto alto e repetido dos machos serve para <strong>atrair as fêmeas para o acasalamento</strong> e demarcar território. Alternativa <strong>E</strong>.</p><p>O canto não indica que estão fora do hábitat (A), não alerta para poluição (B), não sinaliza superpopulação (C) e não atrai insetos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anfíbios",
+    "comportamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 118
+   },
+   "enunciado": "<p class=\"apoio\">A hidroxiapatita, Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>OH, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso, ilustradas a seguir. A desmineralização está associada à fragilização do esmalte do dente e à formação de cáries.</p><p class=\"apoio\">\\(\\text{Ca}_5(\\text{PO}_4)_3\\text{OH (s)} + \\text{H}^+\\text{(aq)} \\;\\underset{\\text{mineralização}}{\\overset{\\text{desmineralização}}{\\rightleftharpoons}}\\; 5\\,\\text{Ca}^{2+}\\text{(aq)} + 3\\,\\text{PO}_4^{3-}\\text{(aq)} + \\text{H}_2\\text{O (l)}\\)</p><p class=\"apoio\">O uso de creme dental pode minimizar a perda da hidroxiapatita. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais.</p><table class=\"tabela\"><thead><tr><th>Creme dental</th><th>Agente de polimento</th><th>pH</th></tr></thead><tbody><tr><td>I</td><td>Bicarbonato de sódio</td><td>9,5</td></tr><tr><td>II</td><td>Carbonato de cálcio</td><td>11,0</td></tr><tr><td>III</td><td>Citrato de potássio</td><td>7,7</td></tr><tr><td>IV</td><td>Dióxido de silício</td><td>6,9</td></tr><tr><td>V</td><td>Fosfato de cálcio</td><td>7,3</td></tr></tbody></table><p class=\"fonte\">STORGATTO, G. A.; BRAIBANTE, M. E. F.; BRAIBANTE, H. T. S. A química na odontologia. Química Nova na Escola, v. 39, fev. 2017 (adaptado).</p><p>Considerando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O íon H<sup>+</sup> é reagente da desmineralização. Quanto mais ácido o meio (menor o pH, mais H<sup>+</sup>), mais o equilíbrio se desloca para a desmineralização (Le Chatelier). O creme de menor pH é o <strong>IV</strong> (pH 6,9). Alternativa <strong>D</strong>.</p><p>Os cremes básicos (I e II, pH 9,5 e 11,0) consomem H<sup>+</sup> e favorecem a mineralização; III e V têm pH maior que o do IV.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Le Chatelier",
+    "pH",
+    "esmalte dentário"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 119
+   },
+   "enunciado": "<p class=\"apoio\">Para os circuitos de maratonas aquáticas realizadas em mares calmos e próximos à praia, é montado um sistema de boias que determinam o trajeto a ser seguido pelos nadadores. Uma das dificuldades desse tipo de circuito é compensar os efeitos da corrente marinha. O diagrama contém o circuito em que deve ser realizada uma volta no sentido anti-horário. As quatro boias estão numeradas de 1 a 4. Existe uma corrente marinha de velocidade \\(\\vec{v}_c\\), cujo módulo é 30 metros por minuto, paralela à praia em toda a área do circuito. Nas arestas mais longas, o nadador precisará nadar na direção apontada pelos vetores \\(\\vec{v}_n\\) dos pontos 1 até 2 e de 3 até 4. Considere que a velocidade do nadador é de 50 metros por minuto, em relação à água, durante todo o circuito.</p>[[fig:1]]<p>Nessa situação, em quantos minutos o nadador completará a prova?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q119.webp",
+     "alt": "Retângulo tracejado com as boias 1 (embaixo à esquerda), 2 (embaixo à direita), 3 (em cima à direita) e 4 (em cima à esquerda). Os lados de cima e de baixo têm 800 m; os laterais, 400 m. A correnteza v_c aponta para baixo (de 3 para 2). Nos lados longos, os vetores v_n do nadador estão inclinados, apontando contra a correnteza."
+    }
+   ],
+   "alternativas": {
+    "A": "42",
+    "B": "65",
+    "C": "72",
+    "D": "105",
+    "E": "120"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A correnteza tem 30 m/min, paralela aos lados de 400 m. Em cada lado de 800 m, o nadador inclina a direção (50 m/min em relação à água) para anular a correnteza: a componente útil vale √(50² − 30²) = 40 m/min, e cada lado leva 800 ÷ 40 = 20 min. No lado de 2 para 3, ele nada contra a correnteza: 50 − 30 = 20 m/min, 400 ÷ 20 = 20 min. No lado de 4 para 1, a favor: 50 + 30 = 80 m/min, 400 ÷ 80 = 5 min. Total: 20 + 20 + 20 + 5 = <strong>65 min</strong>. Alternativa <strong>B</strong>.</p><p>Ignorar a correnteza dá 2 400 ÷ 50 = 48 min, valor que não está entre as alternativas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "composição de velocidades"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 120
+   },
+   "enunciado": "<p class=\"apoio\">O vírus linfotrópico de células T humanas tipo 1 (HTLV-1) é um retrovírus do mesmo grupo do vírus da imunodeficiência humana (HIV). Ambos são transmitidos da mesma forma e infectam as mesmas células de defesa do organismo, os linfócitos T. A diferença entre eles é que o HTLV-1 estimula o aumento da produção desses linfócitos, enquanto o HIV causa destruição dessas células.</p><p class=\"fonte\">ROMANELLI, L. C. F.; CARAMELLI, P.; PROIETTI, A. B. F. C. O vírus linfotrópico de células T humanas tipo 1 (HTLV-1): quando suspeitar da infecção? Revista da Associação Médica Brasileira, v. 56, 2010 (adaptado).</p><p>Uma possível consequência da infecção por HTLV-1 é o desenvolvimento de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aids.",
+    "B": "câncer.",
+    "C": "diabetes.",
+    "D": "hepatite B.",
+    "E": "hemorragia."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que o HTLV-1, ao contrário do HIV, estimula o aumento da produção de linfócitos T. Multiplicação descontrolada de células é a marca do <strong>câncer</strong>, e o HTLV-1 está ligado à leucemia/linfoma de células T do adulto. Alternativa <strong>B</strong>.</p><p>A aids (A) é causada pelo HIV, que destrói os linfócitos; diabetes, hepatite B e hemorragia (C, D e E) não têm relação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "retrovírus",
+    "leucemia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 121
+   },
+   "enunciado": "<p class=\"apoio\">Na tirinha, Calvin se divertia em um balanço antes de soltar-se dele e cair ao chão. Em sua fala, ele demonstra ter imaginado que permaneceria em movimento circular. Porém, a força gravitacional, que permanece atuando no garoto, modifica a direção de sua velocidade, fazendo com que ele chegue ao chão da maneira ilustrada no último quadrinho.</p>[[fig:1]]<p class=\"fonte\">WATTERSON, B. Disponível em: https://tiras-do-calvin.tumblr.com. Acesso em: 19 nov. 2021 (adaptado).</p><p>Qual vetor representa a força resultante exercida pelo chão sobre Calvin no exato momento em que ele toca o chão?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q121.webp",
+     "alt": "Tirinha de Calvin em quatro quadros: ele se balança alto, solta-se do balanço com um grito, voa pelo ar e cai de cabeça no chão, dizendo “Houston, estamos com um problema na trajetória orbital”."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q121a.webp",
+     "alt": "Alternativa A: vetor inclinado para cima e para a direita."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q121b.webp",
+     "alt": "Alternativa B: vetor horizontal para a esquerda."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q121c.webp",
+     "alt": "Alternativa C: vetor inclinado para cima e para a esquerda."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q121d.webp",
+     "alt": "Alternativa D: vetor vertical para cima."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q121e.webp",
+     "alt": "Alternativa E: vetor horizontal para a direita."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O chão exerce sobre Calvin duas forças: a normal, vertical para cima, e o atrito, horizontal e contrário ao sentido em que ele desliza ao tocar o solo. Somadas, dão um vetor inclinado para cima. Alternativa <strong>A</strong>.</p><p>Só para cima (D) ignora o atrito; só na horizontal (B e E) ignora a normal; inclinado para o outro lado (C) poria o atrito a favor do movimento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "força normal",
+    "atrito"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 122
+   },
+   "enunciado": "<p class=\"apoio\">A tirinha ilustra esquimós dentro de um iglu, habitação de formato hemisférico construída durante o inverno a partir de neve ou blocos de gelo. Essa estrutura de construção se justifica pelo fato de esse povo habitar as regiões mais setentrionais da Groenlândia, Canadá e Alasca.</p>[[fig:1]]<p class=\"fonte\">LAERTE. Disponível em: https://artedafisicapibid.blogspot.com. Acesso em: 4 dez. 2021 (adaptado).</p><p>Na tirinha, a geladeira é necessária para fazer gelo porque</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q122.webp",
+     "alt": "Tirinha de Laerte em três quadros, dentro de um iglu: um esquimó pergunta “Ué, você comprou uma geladeira?!”, o outro responde “É”; “Pra quê?!” — “É para as crianças”; no último, as crianças brincam com cubos de gelo, e um diz “Elas adoram brincar de casinha”."
+    }
+   ],
+   "alternativas": {
+    "A": "a temperatura interna do iglu é maior que a de solidificação da água.",
+    "B": "a umidade dentro do iglu dificulta o processo de mudança de fase da água.",
+    "C": "o ar dentro do iglu é isolante térmico, dificultando a perda de calor pela água.",
+    "D": "a temperatura uniforme no interior do iglu impede as correntes de convecção.",
+    "E": "a pressão do ar no interior do iglu é baixa, dificultando a solidificação da água."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O iglu protege do frio extremo de fora, e por isso a temperatura lá dentro fica acima de 0 °C: a água não congela naturalmente. Para fazer gelo, os esquimós da tirinha precisam de geladeira porque <strong>a temperatura interna do iglu é maior que a de solidificação da água</strong>. Alternativa <strong>A</strong>.</p><p>Umidade, isolamento do ar, convecção e pressão (B, C, D e E) não explicam a necessidade da geladeira.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "temperatura",
+    "isolamento térmico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 123
+   },
+   "enunciado": "<p class=\"apoio\">Os pesticidas naturais vêm sendo utilizados no controle de pragas e doenças agrícolas como substituintes de pesticidas sintéticos tradicionais, por serem menos nocivos ao ambiente, biodegradáveis e minimizarem custos e riscos relativos à lavoura. Por exemplo, os compostos 1 e 2 estão envolvidos nas respostas de defesa das plantas. Os grupos funcionais presentes nesses compostos são importantes para suas propriedades no controle de pragas.</p>[[fig:1]]<p class=\"fonte\">PINTO-ZEVALLOS, D. M.; ZARBIN, P. H. G. A química na agricultura: perspectivas para o desenvolvimento de tecnologias sustentáveis. Química Nova, n. 10, 2013 (adaptado).</p><p>Qual é a função orgânica correspondente ao grupo funcional comum presente nesses dois compostos?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q123.webp",
+     "alt": "Fórmulas estruturais: composto 1, anel benzênico com um grupo COOH e um OH vizinhos; composto 2, anel de cinco carbonos com uma carbonila (C=O), uma cadeia lateral com dupla ligação e um grupo CH₂–COOH."
+    }
+   ],
+   "alternativas": {
+    "A": "Ácido carboxílico.",
+    "B": "Cetona.",
+    "C": "Alceno.",
+    "D": "Álcool.",
+    "E": "Fenol."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O composto 1 (ácido salicílico) tem um grupo –COOH e um –OH ligado ao anel; o composto 2 (ácido jasmônico) tem –COOH e uma cetona. O grupo comum é a carboxila: <strong>ácido carboxílico</strong>. Alternativa <strong>A</strong>.</p><p>Cetona e alceno aparecem só no composto 2 (B e C); fenol, só no 1 (E); e nenhum tem álcool (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "grupos funcionais"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Biologia",
+   "assunto": "Microbiologia",
+   "origem": {
+    "numeroOriginal": 124
+   },
+   "enunciado": "<p>Utilizando-se um mesmo meio nutritivo, três gêneros bacterianos diferentes foram submetidos ao cultivo em tubos de ensaio. Após certo período de crescimento da cultura bacteriana em condições físico-químicas ideais, observou-se que o padrão de distribuição das células (representadas por pontos na figura) ao longo dos tubos era diferente em cada um dos casos.</p>[[fig:1]]<p>Em relação ao metabolismo energético, os microrganismos presentes nos tubos 1, 2 e 3 são classificados, respectivamente, como</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q124.webp",
+     "alt": "Três tubos de ensaio com meio amarelo e pontinhos vermelhos (bactérias): no tubo 1, concentradas só na parte de cima; no tubo 2, só no fundo; no tubo 3, espalhadas pelo tubo todo, um pouco mais densas no alto."
+    }
+   ],
+   "alternativas": {
+    "A": "anaeróbio facultativo, anaeróbio estrito e aeróbio estrito.",
+    "B": "anaeróbio facultativo, aeróbio estrito e anaeróbio estrito.",
+    "C": "aeróbio estrito, anaeróbio estrito e anaeróbio facultativo.",
+    "D": "anaeróbio estrito, aeróbio estrito e anaeróbio facultativo.",
+    "E": "aeróbio estrito, anaeróbio facultativo e anaeróbio estrito."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O oxigênio entra pela superfície do meio. No tubo 1, as bactérias estão só no alto: precisam de O<sub>2</sub>, são <strong>aeróbias estritas</strong>. No tubo 2, só no fundo: o O<sub>2</sub> as prejudica, são <strong>anaeróbias estritas</strong>. No tubo 3, espalhadas por todo o tubo (mais no alto): vivem com ou sem O<sub>2</sub>, são <strong>anaeróbias facultativas</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metabolismo bacteriano",
+    "respiração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Química",
+   "assunto": "Atomística",
+   "origem": {
+    "numeroOriginal": 125
+   },
+   "enunciado": "<p class=\"apoio\">As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente, conforme a figura.</p>[[fig:1]]<p class=\"apoio\">Esse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa.</p><p class=\"fonte\">Zinc Sulphide Phosphorescence. Disponível em: https://physicsopenlab.org. Acesso em: 8 nov. 2023 (adaptado).</p><p>O aparecimento do brilho nessas condições ocorre como consequência de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q125.webp",
+     "alt": "Placa de saída de emergência verde e branca, com uma pessoa correndo em direção a uma porta."
+    }
+   ],
+   "alternativas": {
+    "A": "colisões interatômicas.",
+    "B": "coloração dos átomos.",
+    "C": "transições eletrônicas.",
+    "D": "reações nucleares.",
+    "E": "reflexão da luz."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na fosforescência, a luz ambiente excita elétrons do sulfeto de zinco para níveis de energia mais altos. No escuro, eles voltam aos poucos aos níveis originais e emitem a energia como luz amarelo-esverdeada: o brilho vem de <strong>transições eletrônicas</strong>. Alternativa <strong>C</strong>.</p><p>Não há colisões, reações nucleares ou simples reflexão (A, D e E), e átomos não têm “cor” própria (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fosforescência",
+    "modelo de Bohr"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 126
+   },
+   "enunciado": "<p class=\"apoio\">Indústrias farmacêuticas e instituições científicas têm trabalhado no desenvolvimento de diferentes vacinas contra a covid-19. Em algumas dessas vacinas, a principal estrutura antigênica é uma proteína de superfície viral chamada espícula (<em>spike</em>, em inglês). Essa proteína só existe em coronavírus, incluindo o SARS-CoV-2. Ela se liga a receptores de membrana específicos das células humanas por um mecanismo do tipo “chave-fechadura”. Dessa forma, os vírus entram nas células, podendo se multiplicar e acarretar a doença.</p><p class=\"fonte\">O que são vacinas? Disponível em: www.cienciaviva.pt. Acesso em: 30 nov. 2021 (adaptado).</p><p>Nessas vacinas, essa proteína viral induz a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "produção de anticorpos específicos contra os vírus.",
+    "B": "imunidade passiva contra o desenvolvimento da doença.",
+    "C": "alteração genômica para formação da memória imunológica.",
+    "D": "neutralização direta dos vírus presentes na circulação sanguínea.",
+    "E": "modificação dos receptores de membrana específicos para o vírus."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Nas vacinas, a proteína <em>spike</em> funciona como antígeno: o sistema imune a reconhece e produz <strong>anticorpos específicos contra o vírus</strong>, além de células de memória. Alternativa <strong>A</strong>.</p><p>A imunidade é ativa, não passiva (B); não há alteração do genoma (C); a proteína não neutraliza vírus por si (D) nem modifica receptores (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vacinas",
+    "covid-19"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Eletrostática",
+   "origem": {
+    "numeroOriginal": 127
+   },
+   "enunciado": "<p class=\"apoio\">Em um experimento de laboratório, duas barras metálicas, A e B, são carregadas com cargas opostas e imersas em óleo. Farelo de milho é jogado sobre o óleo e, após um certo tempo, o farelo assume o formato das linhas de campo elétrico entre as barras. A figura representa a vista superior desse experimento.</p>[[fig:1]]<p class=\"fonte\">ALMEIDA, M. A. T. Introdução às ciências físicas 2 — volume 4: módulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).</p><p>Ao repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q127.webp",
+     "alt": "Vista superior: duas barras verticais, A (com cargas +) à esquerda e B (com cargas −) à direita, com linhas de campo retas e paralelas indo de A para B."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q127a.webp",
+     "alt": "Alternativa A: um anel entre as barras, com as linhas retas de A para B atravessando o anel como se ele não existisse."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q127b.webp",
+     "alt": "Alternativa B: linhas retas atravessando o anel, mas com sentido de B para A."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q127c.webp",
+     "alt": "Alternativa C: linhas de B para A que se curvam em torno do anel, sem entrar nele."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q127d.webp",
+     "alt": "Alternativa D: linhas de A para B que se curvam e se cruzam dentro do anel."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q127e.webp",
+     "alt": "Alternativa E: linhas de A para B que se curvam e terminam na superfície do anel, sem linhas dentro dele."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Um condutor oco em equilíbrio tem campo elétrico nulo dentro dele (blindagem eletrostática, como na gaiola de Faraday), e as linhas de campo chegam à superfície do condutor perpendicularmente. No esquema certo, as linhas de A para B se curvam e terminam na superfície do cilindro, sem passar por dentro dele. Alternativa <strong>E</strong>.</p><p>As alternativas com linhas atravessando o interior (A e D) ou com o sentido de B para A (B e C) contrariam esses dois fatos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "blindagem eletrostática",
+    "linhas de campo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 128
+   },
+   "enunciado": "<p class=\"apoio\">Placas solares comuns dependem de dias ensolarados para gerar energia. Mas podemos gerar eletricidade com a ajuda de gotas de chuva, revestindo placas solares com uma fina camada de grafeno. Os íons dissociados a partir da água da chuva (A<sup>m+</sup> e B<sup>n−</sup>) tornam a combinação grafeno e água da chuva um par perfeito para geração de energia. O processo requer apenas uma camada de grafeno para que grande quantidade de elétrons (e−) se movimente ao longo da superfície.</p>[[fig:1]]<p class=\"fonte\">TANG, Q. et al. A Solar Cell that is Triggered by Sun and Rain. Angewandte Chemie International Edition, n. 55, 2016 (adaptado).</p><p>Ao produzir eletricidade em dias chuvosos, o grafeno</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q128.webp",
+     "alt": "Esquema de uma placa solar coberta por grafeno sob a chuva; no destaque, uma camada fina de água com íons Aᵐ⁺ e Bⁿ⁻ sobre uma camada fina de grafeno com elétrons e⁻; a parte de cima tem alto potencial elétrico e a de baixo, baixo potencial."
+    }
+   ],
+   "alternativas": {
+    "A": "oxida os cátions dissolvidos na água da chuva.",
+    "B": "impede a difusão da água através das placas solares.",
+    "C": "diminui a energia de ativação da reação no pseudocapacitor.",
+    "D": "forma um compósito não metálico com os íons na água da chuva.",
+    "E": "gera uma diferença de potencial pela interação dos elétrons com os cátions."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na figura, os cátions (A<sup>m+</sup>) da água da chuva atraem os elétrons do grafeno para a interface, formando uma camada dupla de cargas, com alto potencial de um lado e baixo do outro. Essa separação de cargas <strong>gera uma diferença de potencial pela interação dos elétrons com os cátions</strong>, que produz eletricidade. Alternativa <strong>E</strong>.</p><p>O grafeno não oxida os cátions (A), não é catalisador (C), não forma compósito (D) e não impede a difusão de água (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "grafeno",
+    "diferença de potencial"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 129
+   },
+   "enunciado": "<p>Um estudante comprou uma cafeteira elétrica de 700 W de potência e com capacidade de 0,5 L de água (500 g). Enquanto o café estava em preparação na capacidade máxima da cafeteira, ele marcou que demorou 3 minutos para a cafeteira ferver toda a água (100 °C) a partir da temperatura ambiente de 20 °C. Em seguida, para avaliar a eficiência da cafeteira, ele calculou esse tempo desprezando quaisquer perdas energéticas. É necessária 1 cal (4,2 J) para elevar em 1 °C a temperatura de 1 grama de água.</p><p>Qual a eficiência energética calculada pelo estudante?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "100%",
+    "B": "75%",
+    "C": "60%",
+    "D": "7,5%",
+    "E": "5,1%"
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Pela análise do Treineiros, a questão não tem resposta correta: o tempo ideal, sem perdas, seria de 4 min (168 000 J ÷ 700 W = 240 s), e a cafeteira levou só 3 min, o que daria eficiência acima de 100%. A conta que leva a uma das alternativas é 180 s ÷ 240 s = 75%, que trata o tempo real como se fosse o ideal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calorimetria",
+    "potência",
+    "eficiência"
+   ],
+   "area": "Ciências da Natureza",
+   "anulacao": {
+    "fonte": "analise",
+    "motivo": "<p>O Inep anulou a questão sem publicar o motivo. Pela análise do Treineiros, os dados são incompatíveis: aquecer 500 g de água de 20 °C a 100 °C exige 500 · 80 = 40 000 cal = 168 000 J. Com 700 W, sem perdas, isso levaria 168 000 ÷ 700 = 240 s = 4 min. Mas o texto diz que a cafeteira ferveu a água em 3 min, menos que o tempo ideal, o que daria eficiência de 240 ÷ 180 ≈ 133%, impossível. A resposta pretendida provavelmente era 75% (180 ÷ 240), invertendo a razão entre os tempos.</p>"
+   }
+  },
+  {
+   "numero": 40,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 130
+   },
+   "enunciado": "<p class=\"apoio\">O diagrama P-V a seguir representa o ciclo de Otto para um motor de combustão interna, como os motores a gasolina ou a etanol, utilizados nos automóveis.</p>[[fig:1]]<p class=\"apoio\">As etapas representadas no diagrama estão descritas no quadro.</p><table class=\"tabela\"><thead><tr><th>Etapa</th><th>Processo</th><th>Descrição</th></tr></thead><tbody><tr><td>I</td><td>0 a 1</td><td>Admissão isobárica da mistura ar-combustível no cilindro do motor.</td></tr><tr><td>II</td><td>1 a 2</td><td>Compressão adiabática da mistura.</td></tr><tr><td>III</td><td>2 a 3</td><td>Introdução de energia na forma de calor da combustão.</td></tr><tr><td>IV</td><td>3 a 4</td><td>Expansão adiabática.</td></tr><tr><td>V</td><td>4 a 1</td><td>Liberação de energia na forma de calor.</td></tr><tr><td>VI</td><td>1 a 0</td><td>Liberação dos gases resultantes da combustão.</td></tr></tbody></table><p class=\"fonte\">Disponível em: www.mspc.eng.br. Acesso em: 24 fev. 2013 (adaptado).</p><p>A transformação da energia térmica em energia útil ocorre na etapa</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q130.webp",
+     "alt": "Diagrama pressão × volume do ciclo de Otto: pontos 0 e 1 na pressão mais baixa (admissão de 0 a 1); curva de 1 a 2 subindo (compressão); segmento vertical de 2 a 3 (combustão); curva de 3 a 4 descendo (expansão); segmento vertical de 4 a 1. A área interna, marcada W, é o trabalho."
+    }
+   ],
+   "alternativas": {
+    "A": "II.",
+    "B": "III.",
+    "C": "IV.",
+    "D": "V.",
+    "E": "VI."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No ciclo de Otto, a energia térmica da combustão (etapa III, 2 a 3) vira trabalho útil quando os gases quentes se expandem e empurram o pistão: a <strong>expansão adiabática, etapa IV</strong> (3 a 4). Alternativa <strong>C</strong>.</p><p>A etapa III é a entrada de calor, não a produção de trabalho (B); II é compressão, que consome trabalho (A); V e VI liberam calor e gases (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo de Otto",
+    "máquinas térmicas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 131
+   },
+   "enunciado": "<p class=\"apoio\">O LED é um dispositivo eletrônico que conduz corrente elétrica em um único sentido, sendo caracterizado por uma tensão e uma corrente máxima de funcionamento, I<sub>máx</sub>. Um LED acende apenas se a corrente que o percorre está no sentido permitido e se a diferença de potencial à qual está submetido é igual ou superior à sua tensão de funcionamento. A figura ilustra o símbolo do LED usado na representação de circuitos.</p>[[fig:1]]<p>Um estudante de física analisa as propriedades do LED em um circuito simples de corrente contínua. Ele dispõe dos seguintes materiais: uma bateria ideal de 4,5 V; dois LEDs de tensão 3,0 V e I<sub>máx</sub> = 1,0 mA cada; e dois resistores de 1,5 kΩ cada.</p><p>O circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por I<sub>máx</sub>, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q131.webp",
+     "alt": "Símbolo do LED (um triângulo com uma barra e setas de luz) e uma seta vermelha indicando o sentido permitido da corrente, da esquerda para a direita."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q131a.webp",
+     "alt": "Alternativa A: bateria ligada a um resistor em série com dois LEDs em paralelo, apontados no sentido permitido."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q131b.webp",
+     "alt": "Alternativa B: bateria com dois ramos em paralelo, cada um com um resistor em série com um LED no sentido permitido."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q131c.webp",
+     "alt": "Alternativa C: dois ramos em paralelo, cada um com resistor e LED, mas com os LEDs invertidos."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q131d.webp",
+     "alt": "Alternativa D: bateria, dois resistores e dois LEDs, todos em série, LEDs no sentido permitido."
+    },
+    {
+     "src": "assets/img/enem-2024-natureza/q131e.webp",
+     "alt": "Alternativa E: um resistor em série com dois LEDs em paralelo, invertidos."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Cada LED precisa de 3,0 V e 1,0 mA. Com bateria de 4,5 V, sobra 1,5 V, que deve cair num resistor por onde passe 1,0 mA: R = 1,5 V ÷ 1,0 mA = 1,5 kΩ, exatamente o valor disponível. Então cada LED fica em série com um resistor, os dois ramos em paralelo com a bateria, e os LEDs no sentido permitido da corrente (do + para o −). É o circuito da Alternativa <strong>B</strong>.</p><p>Em C os LEDs estão invertidos e não acendem; em A e E, um único resistor para os dois LEDs deixaria passar 1 mA no total, só 0,5 mA em cada; em D, os dois LEDs em série precisariam de 6 V.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "LED",
+    "associação de resistores"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 132
+   },
+   "enunciado": "<p>Uma caixa decorativa utiliza duas pequenas lâmpadas, L<sub>1</sub> (6 V – 9 W) e L<sub>2</sub> (12 V – 18 W), ligadas em série a uma bateria de tensão V<sub>QR</sub>. Um fio resistivo QR, de 48 centímetros, está ligado em paralelo à bateria. Cinco pontos, A, B, C, D e E, dividem o fio QR em seis segmentos de comprimentos iguais. O circuito também tem um amperímetro com dois terminais. Um dos terminais (P) está ligado ao fio entre as duas lâmpadas. O outro terminal (S) está livre e será ligado ao fio QR. Dependendo do ponto em que esse terminal livre for conectado, ocorrerá a mudança na tensão à qual as lâmpadas são submetidas. Os demais fios do circuito têm resistências elétricas desprezíveis. A figura ilustra esse circuito.</p>[[fig:1]]<p>Em qual desses pontos o amperímetro deve ser conectado para que as lâmpadas acendam exatamente segundo as especificações de tensão e potência elétricas fornecidas?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q132.webp",
+     "alt": "Circuito: as lâmpadas L₁ (à esquerda) e L₂ (à direita) em série no ramo de cima; entre elas, o ponto P liga-se a um amperímetro cujo terminal livre S pode ser conectado ao fio de baixo QR, de 48 cm, marcado pelos pontos A, B, C, D e E igualmente espaçados; a bateria de tensão V_QR está ligada às extremidades."
+    }
+   ],
+   "alternativas": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "D",
+    "E": "E"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Pelas especificações, L<sub>1</sub> (6 V, 9 W) e L<sub>2</sub> (12 V, 18 W) usam a mesma corrente, 1,5 A, e em série funcionam juntas com 6 + 12 = 18 V na bateria. O fio QR, de 48 cm, também fica com 18 V, divididos em seis trechos de 8 cm e 3 V cada. Para as lâmpadas funcionarem certo, o ponto P entre elas deve estar 6 V acima da extremidade de L<sub>1</sub>. Ligando o amperímetro num ponto do fio com esse mesmo potencial, não passa corrente por ele e nada se altera: são 2 trechos a partir de Q, o ponto <strong>B</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ponte de fio",
+    "potencial elétrico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 133
+   },
+   "enunciado": "<p>O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 g/mol; volume molar 22 L/mol). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 g/mol) em um gerador no qual 1 m<sup>3</sup> de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 g/mL).</p><p>Nessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "300 g.",
+    "B": "400 g.",
+    "C": "510 g.",
+    "D": "590 g.",
+    "E": "720 g."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>10 mol de etanol = 460 g; com densidade 0,78 g/mL, são 460 ÷ 0,78 ≈ 590 mL = 0,59 L, justamente o que 1 m<sup>3</sup> de biogás substitui. Em 1 m<sup>3</sup> = 1 000 L de biogás, 70% é metano: 700 L ÷ 22 L/mol ≈ 31,8 mol, ou 31,8 · 16 ≈ <strong>510 g</strong>. Alternativa <strong>C</strong>.</p><p>720 g (E) usa o volume total de biogás, sem os 70%; 590 g (D) confunde volume de etanol com massa de metano.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biogás",
+    "volume molar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 134
+   },
+   "enunciado": "<p class=\"apoio\">A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura.</p>[[fig:1]]<p class=\"fonte\">LUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016 (adaptado).</p><p>O método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2024-natureza/q134.webp",
+     "alt": "Ilustração de uma árvore com destaques para os métodos de fitorremediação: fitoestabilização (imobilização dos contaminantes na raiz), fitovolatilização (transferência para uma forma volátil liberada pelas folhas), fitodegradação (degradação por enzimas), fitoestimulação (estímulo a microrganismos que degradam contaminantes orgânicos) e fitoextração (acúmulo na parte aérea das plantas)."
+    }
+   ],
+   "alternativas": {
+    "A": "fitoestabilização, ficando o mercúrio disponível sob a superfície das raízes das plantas.",
+    "B": "fitovolatilização, permitindo a retirada do mercúrio por plantas e a sua transferência para uma forma volátil.",
+    "C": "fitodegradação, com a degradação do mercúrio promovida por enzimas, contidas nas raízes, formando espécies menos tóxicas.",
+    "D": "fitoestimulação, com a remoção do mercúrio pela ação de microrganismos presentes nas raízes que absorvem e imobilizam o metal.",
+    "E": "fitoextração, em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal é retirada após o crescimento."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para tirar o mercúrio da área e evitar que entre na cadeia alimentar, ele deve sair de vez do local: na <strong>fitoextração</strong>, as plantas acumulam o metal e a biomassa é colhida e retirada. Alternativa <strong>E</strong>.</p><p>A fitoestabilização deixa o mercúrio no solo (A); a fitovolatilização o lança no ar, onde pode voltar ao ambiente (B); metais não são degradados (C); e a fitoestimulação serve a poluentes orgânicos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fitorremediação",
+    "metais pesados"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 135
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Brasil fecha 2020 entre os maiores recicladores de latas de alumínio</strong></p><p class=\"apoio\">A bauxita contém alumina (Al<sub>2</sub>O<sub>3</sub>), que é a matéria-prima para produção do alumínio (Al). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 10<sup>5</sup> toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro.</p><p class=\"fonte\">Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado).</p><p>Levando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,0 × 10<sup>4</sup> ton",
+    "B": "3,9 × 10<sup>5</sup> ton",
+    "C": "5,0 × 10<sup>5</sup> ton",
+    "D": "1,9 × 10<sup>6</sup> ton",
+    "E": "2,0 × 10<sup>7</sup> ton"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Latas recicladas: 97,4% de 4,0 · 10<sup>5</sup> t ≈ 3,9 · 10<sup>5</sup> t de alumínio. Cada 10 kg de alumínio exigiriam 50 kg de bauxita (fator 5): 3,9 · 10<sup>5</sup> · 5 ≈ <strong>1,9 · 10<sup>6</sup> t</strong> de bauxita. Alternativa <strong>D</strong>.</p><p>3,9 · 10<sup>5</sup> t (B) é a massa de alumínio, sem converter em bauxita.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reciclagem",
+    "proporção"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

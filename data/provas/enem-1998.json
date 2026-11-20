@@ -1,0 +1,1747 @@
+{
+ "id": "enem-1998",
+ "banca": "Enem",
+ "ano": 1998,
+ "titulo": "Enem 1998: Prova objetiva",
+ "fonte": "Inep",
+ "duracaoMinutos": 300,
+ "area": "Prova objetiva (63 questões)",
+ "caderno": "amarelo",
+ "dia": 1,
+ "fonteGabarito": {
+  "oficial": true,
+  "nome": "gabarito oficial do Inep, em cópia guardada pelo Instituto de Física da USP",
+  "url": "https://fep.if.usp.br/~profis/arquivo/avaliacao/enem/provas_gabaritos/1998/GABARITO_ENEM_1998_AMARELA.pdf"
+ },
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Contagem",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 1 e 2.</strong></p><p>Observe nas questões 1 e 2 o que foi feito para colocar bolinhas de gude de 1 cm de diâmetro numa caixa cúbica com 10 cm de aresta.</p><p>Uma pessoa arrumou as bolinhas em camadas superpostas iguais, tendo assim empregado:</p>[[fig:1]]",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q01.webp",
+     "alt": "Caixa cúbica cheia de bolinhas arrumadas em fileiras e camadas regulares."
+    }
+   ],
+   "alternativas": {
+    "A": "100 bolinhas.",
+    "B": "300 bolinhas.",
+    "C": "1000 bolinhas.",
+    "D": "2000 bolinhas.",
+    "E": "10000 bolinhas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Com bolinhas de 1 cm numa caixa de 10 cm, cabem 10 em cada direção: cada camada tem 10 × 10 = 100 bolinhas, e há 10 camadas. Total: 10 × 10 × 10 = 1000 bolinhas. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cubo",
+    "contagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Contagem",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 1 e 2.</strong></p><p>Observe nas questões 1 e 2 o que foi feito para colocar bolinhas de gude de 1 cm de diâmetro numa caixa cúbica com 10 cm de aresta.</p><p>Uma segunda pessoa procurou encontrar outra maneira de arrumar as bolas na caixa achando que seria uma boa idéia organizá-las em camadas alternadas, onde cada bolinha de uma camada se apoiaria em 4 bolinhas da camada inferior, como mostra a figura. Deste modo, ela conseguiu fazer 12 camadas. Portanto, ela conseguiu colocar na caixa:</p>[[fig:1]]",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q02.webp",
+     "alt": "Uma bolinha descendo para se apoiar no vão entre quatro bolinhas da camada de baixo."
+    }
+   ],
+   "alternativas": {
+    "A": "729 bolinhas.",
+    "B": "984 bolinhas.",
+    "C": "1000 bolinhas.",
+    "D": "1086 bolinhas.",
+    "E": "1200 bolinhas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Nas camadas alternadas, uma camada tem 10 × 10 = 100 bolinhas, e a seguinte, apoiada nos vãos, tem 9 × 9 = 81. Com 12 camadas, são 6 de cada tipo: 6 × 100 + 6 × 81 = 600 + 486 = 1086 bolinhas. Alternativa <strong>D</strong>.</p><p>Essa arrumação cabe mais bolinhas que a do cubo simples (1000), porque as camadas se encaixam e ocupam menos altura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "contagem",
+    "empacotamento"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 3 a 5.</strong></p><p>Para falar e escrever bem, é preciso, além de conhecer o padrão formal da Língua Portuguesa, saber adequar o uso da linguagem ao contexto discursivo. Para exemplificar este fato, seu professor de Língua Portuguesa convida-o a ler o texto <em>Aí, Galera</em>, de Luís Fernando Veríssimo. No texto, o autor brinca com situações de discurso oral que fogem à expectativa do ouvinte.</p><p class=\"apoio\"><strong>Aí, Galera</strong></p><p class=\"apoio\"><em>Jogadores de futebol podem ser vítimas de estereotipação. Por exemplo, você pode imaginar um jogador de futebol dizendo “estereotipação”? E, no entanto, por que não?</em></p><p class=\"apoio\"><em>- Aí, campeão. Uma palavrinha pra galera.<br>- Minha saudação aos aficionados do clube e aos demais esportistas, aqui presentes ou no recesso dos seus lares.<br>- Como é?<br>- Aí, galera.<br>- Quais são as instruções do técnico?<br>- Nosso treinador vaticinou que, com um trabalho de contenção coordenada, com energia otimizada, na zona de preparação, aumentam as probabilidades de, recuperado o esférico, concatenarmos um contragolpe agudo com parcimônia de meios e extrema objetividade, valendo-nos da desestruturação momentânea do sistema oposto, surpreendido pela reversão inesperada do fluxo da ação.<br>- Ahn?<br>- É pra dividir no meio e ir pra cima pra pegá eles sem calça.<br>- Certo. Você quer dizer mais alguma coisa?<br>- Posso dirigir uma mensagem de caráter sentimental, algo banal, talvez mesmo previsível e piegas, a uma pessoa à qual sou ligado por razões, inclusive, genéticas?<br>- Pode.<br>- Uma saudação para a minha progenitora.<br>- Como é?<br>- Alô, mamãe!<br>- Estou vendo que você é um, um...<br>- Um jogador que confunde o entrevistador, pois não corresponde à expectativa de que o atleta seja um ser algo primitivo com dificuldade de expressão e assim sabota a estereotipação?<br>- Estereoquê?<br>- Um chato?<br>- Isso.</em></p><p class=\"fonte\"><em>Correio Braziliense</em>, 13/05/1998.</p><p>O texto retrata duas situações relacionadas que fogem à expectativa do público. São elas:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a saudação do jogador aos fãs do clube, no início da entrevista, e a saudação final dirigida à sua mãe.",
+    "B": "a linguagem muito formal do jogador, inadequada à situação da entrevista, e um jogador que fala, com desenvoltura, de modo muito rebuscado.",
+    "C": "o uso da expressão “galera” , por parte do entrevistador, e da expressão “progenitora”, por parte do jogador.",
+    "D": "o desconhecimento, por parte do entrevistador, da palavra “estereotipação” , e a fala do jogador em “é pra dividir no meio e ir pra cima pra pegá eles sem calça”.",
+    "E": "o fato de os jogadores de futebol serem vítimas de estereotipação e o jogador entrevistado não corresponder ao estereótipo."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O público espera um jogador de linguagem simples, mas ele fala de modo muito formal, inadequado a uma entrevista à beira do campo, e com grande desenvoltura e vocabulário rebuscado (“vaticinou”, “progenitora”). As duas situações que fogem à expectativa são essas. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Veríssimo",
+    "adequação linguística"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 4,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 3 a 5.</strong></p><p>Para falar e escrever bem, é preciso, além de conhecer o padrão formal da Língua Portuguesa, saber adequar o uso da linguagem ao contexto discursivo. Para exemplificar este fato, seu professor de Língua Portuguesa convida-o a ler o texto <em>Aí, Galera</em>, de Luís Fernando Veríssimo. No texto, o autor brinca com situações de discurso oral que fogem à expectativa do ouvinte.</p><p class=\"apoio\"><strong>Aí, Galera</strong></p><p class=\"apoio\"><em>Jogadores de futebol podem ser vítimas de estereotipação. Por exemplo, você pode imaginar um jogador de futebol dizendo “estereotipação”? E, no entanto, por que não?</em></p><p class=\"apoio\"><em>- Aí, campeão. Uma palavrinha pra galera.<br>- Minha saudação aos aficionados do clube e aos demais esportistas, aqui presentes ou no recesso dos seus lares.<br>- Como é?<br>- Aí, galera.<br>- Quais são as instruções do técnico?<br>- Nosso treinador vaticinou que, com um trabalho de contenção coordenada, com energia otimizada, na zona de preparação, aumentam as probabilidades de, recuperado o esférico, concatenarmos um contragolpe agudo com parcimônia de meios e extrema objetividade, valendo-nos da desestruturação momentânea do sistema oposto, surpreendido pela reversão inesperada do fluxo da ação.<br>- Ahn?<br>- É pra dividir no meio e ir pra cima pra pegá eles sem calça.<br>- Certo. Você quer dizer mais alguma coisa?<br>- Posso dirigir uma mensagem de caráter sentimental, algo banal, talvez mesmo previsível e piegas, a uma pessoa à qual sou ligado por razões, inclusive, genéticas?<br>- Pode.<br>- Uma saudação para a minha progenitora.<br>- Como é?<br>- Alô, mamãe!<br>- Estou vendo que você é um, um...<br>- Um jogador que confunde o entrevistador, pois não corresponde à expectativa de que o atleta seja um ser algo primitivo com dificuldade de expressão e assim sabota a estereotipação?<br>- Estereoquê?<br>- Um chato?<br>- Isso.</em></p><p class=\"fonte\"><em>Correio Braziliense</em>, 13/05/1998.</p><p>O texto mostra uma situação em que a linguagem usada é <strong><u>inadequada</u></strong> ao contexto. Considerando as diferenças entre língua oral e língua escrita, assinale a opção que representa também uma inadequação da linguagem usada ao contexto:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“o carro bateu e capotô, mas num deu pra vê direito” - um pedestre que assistiu ao acidente comenta com o outro que vai passando.",
+    "B": "“E aí, ô meu! Como vai essa força?” - um jovem que fala para um amigo.",
+    "C": "“Só um instante, por favor. Eu gostaria de fazer uma observação” - alguém comenta em uma reunião de trabalho.",
+    "D": "“Venho manifestar meu interesse em candidatar-me ao cargo de Secretária Executiva desta conceituada empresa” - alguém que escreve uma carta candidatando-se a um emprego.",
+    "E": "“Porque se a gente não resolve as coisas como têm que ser, a gente corre o risco de termos, num futuro próximo, muito pouca comida nos lares brasileiros” - um professor universitário em um congresso internacional."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Num congresso internacional, espera-se de um professor universitário a norma culta. A frase de E mistura “a gente” com “termos” e tem construção coloquial e confusa: é inadequada ao contexto. Alternativa <strong>E</strong>.</p><p>Nas outras, a linguagem combina com a situação: conversa informal na rua (A) e entre amigos (B), registro cuidado numa reunião (C) e numa carta formal (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "registro formal e informal",
+    "adequação linguística"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 5,
+   "materia": "Português",
+   "assunto": "Expressões idiomáticas",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 3 a 5.</strong></p><p>Para falar e escrever bem, é preciso, além de conhecer o padrão formal da Língua Portuguesa, saber adequar o uso da linguagem ao contexto discursivo. Para exemplificar este fato, seu professor de Língua Portuguesa convida-o a ler o texto <em>Aí, Galera</em>, de Luís Fernando Veríssimo. No texto, o autor brinca com situações de discurso oral que fogem à expectativa do ouvinte.</p><p class=\"apoio\"><strong>Aí, Galera</strong></p><p class=\"apoio\"><em>Jogadores de futebol podem ser vítimas de estereotipação. Por exemplo, você pode imaginar um jogador de futebol dizendo “estereotipação”? E, no entanto, por que não?</em></p><p class=\"apoio\"><em>- Aí, campeão. Uma palavrinha pra galera.<br>- Minha saudação aos aficionados do clube e aos demais esportistas, aqui presentes ou no recesso dos seus lares.<br>- Como é?<br>- Aí, galera.<br>- Quais são as instruções do técnico?<br>- Nosso treinador vaticinou que, com um trabalho de contenção coordenada, com energia otimizada, na zona de preparação, aumentam as probabilidades de, recuperado o esférico, concatenarmos um contragolpe agudo com parcimônia de meios e extrema objetividade, valendo-nos da desestruturação momentânea do sistema oposto, surpreendido pela reversão inesperada do fluxo da ação.<br>- Ahn?<br>- É pra dividir no meio e ir pra cima pra pegá eles sem calça.<br>- Certo. Você quer dizer mais alguma coisa?<br>- Posso dirigir uma mensagem de caráter sentimental, algo banal, talvez mesmo previsível e piegas, a uma pessoa à qual sou ligado por razões, inclusive, genéticas?<br>- Pode.<br>- Uma saudação para a minha progenitora.<br>- Como é?<br>- Alô, mamãe!<br>- Estou vendo que você é um, um...<br>- Um jogador que confunde o entrevistador, pois não corresponde à expectativa de que o atleta seja um ser algo primitivo com dificuldade de expressão e assim sabota a estereotipação?<br>- Estereoquê?<br>- Um chato?<br>- Isso.</em></p><p class=\"fonte\"><em>Correio Braziliense</em>, 13/05/1998.</p><p>A expressão “pegá eles sem calça” poderia ser substituída, sem comprometimento de sentido, em língua culta, formal, por:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pegá-los na mentira.",
+    "B": "pegá-los desprevenidos.",
+    "C": "pegá-los em flagrante.",
+    "D": "pegá-los rapidamente.",
+    "E": "pegá-los momentaneamente."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>“Pegar alguém sem calça” é surpreender o adversário despreparado, desprotegido. Em língua culta: “pegá-los desprevenidos”. Alternativa <strong>B</strong>.</p><p>O jogador acabara de falar em surpreender o sistema oposto “pela reversão inesperada do fluxo da ação”.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "expressão idiomática",
+    "norma culta"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 6,
+   "materia": "Geografia",
+   "assunto": "Ciclo da água",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p>O sol participa do ciclo da água, pois além de aquecer a superfície da Terra dando origem aos ventos, provoca a evaporação da água dos rios, lagos e mares. O vapor da água, ao se resfriar, condensa em minúsculas gotinhas, que se agrupam formando as nuvens, neblinas ou névoas úmidas. As nuvens podem ser levadas pelos ventos de uma região para outra. Com a condensação e, em seguida, a chuva, a água volta à superfície da Terra, caindo sobre o solo, rios, lagos e mares. Parte dessa água evapora retornando à atmosfera, outra parte escoa superficialmente ou infiltra-se no solo, indo alimentar rios e lagos. Esse processo é chamado de ciclo da água.</p><p>Considere, então, as seguintes afirmativas:</p><ol type=\"I\"><li>a evaporação é maior nos continentes, uma vez que o aquecimento ali é maior do que nos oceanos.</li><li>a vegetação participa do ciclo hidrológico por meio da transpiração.</li><li>o ciclo hidrológico condiciona processos que ocorrem na litosfera, na atmosfera e na biosfera.</li><li>a energia gravitacional movimenta a água dentro do seu ciclo.</li><li>o ciclo hidrológico é passível de sofrer interferência humana, podendo apresentar desequilíbrios.</li></ol>",
+   "imagens": [],
+   "alternativas": {
+    "A": "somente a afirmativa III está correta.",
+    "B": "somente as afirmativas III e IV estão corretas",
+    "C": "somente as afirmativas I, II e V estão corretas.",
+    "D": "somente as afirmativas II, III, IV e V estão corretas.",
+    "E": "todas as afirmativas estão corretas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>II, III, IV e V estão corretas: as plantas devolvem água pela transpiração; o ciclo liga litosfera, atmosfera e biosfera; a gravidade faz a chuva cair e os rios correrem; e o ser humano interfere no ciclo (represas, desmatamento, impermeabilização). I é falsa: a maior parte da evaporação ocorre nos oceanos, que cobrem a maior parte do planeta. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo hidrológico"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "Física",
+   "assunto": "Torque",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p>Um portão está fixo em um muro por duas dobradiças A e B, conforme mostra a figura, sendo P o peso do portão.</p>[[fig:1]]<p>Caso um garoto se dependure no portão pela extremidade livre, e supondo que as reações máximas suportadas pelas dobradiças sejam iguais,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q07.webp",
+     "alt": "Portão retangular preso ao muro, à esquerda, por duas dobradiças: A, mais em cima, e B, mais embaixo; a outra extremidade do portão fica livre."
+    }
+   ],
+   "alternativas": {
+    "A": "é mais provável que a dobradiça A arrebente primeiro que a B.",
+    "B": "é mais provável que a dobradiça B arrebente primeiro que a A.",
+    "C": "seguramente as dobradiças A e B arrebentarão simultaneamente.",
+    "D": "nenhuma delas sofrerá qualquer esforço.",
+    "E": "o portão quebraria ao meio, ou nada sofreria."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O peso do portão, somado ao do garoto na ponta livre, tende a girar o portão para baixo em torno das dobradiças. A dobradiça de cima (A) é puxada para fora, e a de baixo (B) é empurrada contra o muro. O esforço de tração em A é maior, então é mais provável que ela arrebente primeiro. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "momento de uma força",
+    "equilíbrio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "[[fig:1]]<p>Os autores, ao fazerem alusão às imagens da lágrima sugerem que:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q08.webp",
+     "alt": "Dois textos. Texto 1, de Joaquim Manoel de Macedo: aconselha a mulher a não amar e a não crer no homem terno que jura amor e chora pranto de sangue, porque as lágrimas são gotas da mentira e o juramento, manto da perfídia. Texto 2, de Manuel Bandeira: aconselha Teresa a não acreditar no sujeito sentimental que jura uma paixão enorme, chora, se ajoelha e se rasga todo, porque é lágrima de cinema, tapeação, mentira, e termina com “cai fora”."
+    }
+   ],
+   "alternativas": {
+    "A": "há um tratamento idealizado da relação homem/mulher.",
+    "B": "há um tratamento realista da relação homem/mulher.",
+    "C": "a relação familiar é idealizada.",
+    "D": "a mulher é superior ao homem.",
+    "E": "a mulher é igual ao homem."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Nos dois textos, as lágrimas do homem fazem parte da encenação do amor romântico idealizado: o homem “terno e curvo” que chora “pranto de sangue”, o sujeito que jura “uma paixão do tamanho de um bonde” e se ajoelha. É a esse tratamento idealizado da relação homem/mulher que os autores aludem, para alertar a mulher de que ele é falso. Alternativa <strong>A</strong>.</p><p>Os textos não falam da família (C) nem comparam o valor da mulher e do homem (D, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Intertextualidade",
+    "Manuel Bandeira",
+    "amor romântico"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 9,
+   "materia": "Biologia",
+   "assunto": "Hormônios",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p>Matéria publicada em jornal diário discute o uso de anabolizantes (apelidados de “bombas”) por praticantes de musculação. Segundo o jornal, “<em>os anabolizantes são hormônios que dão uma força extra aos músculos. Quem toma consegue ganhar massa muscular mais rápido que normalmente. Isso porque uma pessoa pode crescer até certo ponto, segundo sua herança genética e independentemente do quanto ela se exercite</em>”. Um professor de musculação, diz: “<em>Comecei a tomar bomba por conta própria. Ficava nervoso e tremia. Fiquei impotente durante uns seis meses. Mas como sou lutador de vale tudo, tenho que tomar</em>”.</p><p>A respeito desta matéria, dois amigos fizeram os seguintes comentários:</p><ol type=\"I\"><li>o maior perigo da auto-medicação é seu fator anabolizante, que leva à impotência sexual.</li><li>o crescimento corporal depende tanto dos fatores hereditários quanto do tipo de alimentação da pessoa, se pratica ou não esportes, se dorme as 8 horas diárias.</li><li>os anabolizantes devem ter mexido com o sistema circulatório do professor de musculação, pois ele até ficou impotente.</li><li>os anabolizantes são mais perigosos para os homens, pois as mulheres, além de não correrem o risco da impotência, são protegidas pelos hormônios femininos.</li></ol><p>Tomando como referência as informações da matéria do jornal e o que se conhece da fisiologia humana, pode-se considerar que estão corretos os comentários:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I, II, III e IV.",
+    "B": "I, II e IV, apenas.",
+    "C": "III e IV, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III, apenas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>II está correta: o crescimento depende da herança genética e de fatores ambientais, como alimentação, exercício e sono. III também: os anabolizantes afetam o sistema circulatório, e problemas circulatórios podem causar impotência. I é falsa: o efeito anabolizante é o ganho muscular, e o maior perigo da automedicação é a falta de controle das doses. IV é falsa: as mulheres também sofrem efeitos graves, como masculinização. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anabolizantes",
+    "automedicação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Semelhança",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p><strong>A sombra de uma pessoa que tem 1,80 m de altura mede 60 cm. No mesmo momento, a seu lado, a sombra projetada de um poste mede 2,00 m. Se, mais tarde, a sombra do poste diminuiu 50 cm, a sombra da pessoa passou a medir:</strong></p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "30 cm",
+    "B": "45 cm",
+    "C": "50 cm",
+    "D": "80 cm",
+    "E": "90 cm"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A pessoa de 1,80 m faz sombra de 0,60 m: a altura é 3 vezes a sombra, e o poste (sombra de 2,00 m) tem 6 m. Mais tarde, a sombra do poste mede 1,50 m: a razão sombra/altura passa a 1,50/6 = 1/4. A sombra da pessoa será 1,80/4 = 0,45 m = 45 cm. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "semelhança de triângulos",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Física",
+   "assunto": "Usinas",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 11 a 13.</strong></p><p>Na figura abaixo está esquematizado um tipo de usina utilizada na geração de eletricidade.</p>[[fig:1]]<p>Analisando o esquema, é possível identificar que se trata de uma usina:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q11.webp",
+     "alt": "Esquema de usina: a água de uma represa, à altura h, desce por um tubo até uma turbina; a turbina, embaixo, está ligada por um eixo a um gerador; do gerador saem fios até uma torre de transmissão."
+    }
+   ],
+   "alternativas": {
+    "A": "hidrelétrica, porque a água corrente baixa a temperatura da turbina.",
+    "B": "hidrelétrica, porque a usina faz uso da energia cinética da água.",
+    "C": "termoelétrica, porque no movimento das turbinas ocorre aquecimento.",
+    "D": "eólica, porque a turbina é movida pelo movimento da água.",
+    "E": "nuclear, porque a energia é obtida do núcleo das moléculas de água."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A água represada desce, ganha velocidade e gira a turbina: a usina aproveita a energia cinética da água, que vem da energia potencial da altura h. É uma hidrelétrica. Alternativa <strong>B</strong>.</p><p>Não há queima de combustível (C), vento (D) nem reação nuclear (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hidrelétrica",
+    "energia cinética"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Física",
+   "assunto": "Potência",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 11 a 13.</strong></p><p>Na figura abaixo está esquematizado um tipo de usina utilizada na geração de eletricidade.</p>[[fig:1]]<p>A eficiência de uma usina, do tipo da representada na figura da questão anterior, é da ordem de 0,9, ou seja, 90% da energia da água no início do processo se transforma em energia elétrica. A usina Ji-Paraná, do Estado de Rondônia, tem potência instalada de 512 milhões de watt, e a barragem tem altura de aproximadamente 120 m. A vazão do rio Ji-Paraná, em litros de água por segundo, deve ser da ordem de:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q11.webp",
+     "alt": "Esquema de usina: a água de uma represa, à altura h, desce por um tubo até uma turbina; a turbina, embaixo, está ligada por um eixo a um gerador; do gerador saem fios até uma torre de transmissão."
+    }
+   ],
+   "alternativas": {
+    "A": "50",
+    "B": "500",
+    "C": "5.000",
+    "D": "50.000",
+    "E": "500.000"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A potência elétrica é 0,9 da potência da queda d’água: P = 0,9 × (massa por segundo) × g × h. Então a massa por segundo é 512 × 10<sup>6</sup>/(0,9 × 10 × 120) ≈ 474 000 kg/s. Como 1 litro de água tem 1 kg, a vazão é da ordem de 500 000 litros por segundo. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia potencial",
+    "rendimento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Física",
+   "assunto": "Transformações de energia",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 11 a 13.</strong></p><p>Na figura abaixo está esquematizado um tipo de usina utilizada na geração de eletricidade.</p>[[fig:1]]<p>No processo de obtenção de eletricidade, ocorrem várias transformações de energia. Considere duas delas:</p><p><strong>I.</strong> cinética em elétrica; <strong>II.</strong> potencial gravitacional em cinética.</p><p>Analisando o esquema, é possível identificar que elas se encontram, respectivamente, entre:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q11.webp",
+     "alt": "Esquema de usina: a água de uma represa, à altura h, desce por um tubo até uma turbina; a turbina, embaixo, está ligada por um eixo a um gerador; do gerador saem fios até uma torre de transmissão."
+    }
+   ],
+   "alternativas": {
+    "A": "I: a água no nível h e a turbina; II: o gerador e a torre de distribuição.",
+    "B": "I: a água no nível h e a turbina; II: a turbina e o gerador.",
+    "C": "I: a turbina e o gerador; II: a turbina e o gerador.",
+    "D": "I: a turbina e o gerador; II: a água no nível h e a turbina.",
+    "E": "I: o gerador e a torre de distribuição; II: a água no nível h e a turbina."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A energia cinética vira elétrica entre a turbina e o gerador (I): a turbina gira o gerador. A energia potencial gravitacional vira cinética entre a água no nível h e a turbina (II): a água cai e ganha velocidade. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transformações de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "História",
+   "assunto": "Conflitos contemporâneos",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p>Os efeitos abomináveis das armas nucleares já foram sentidos pelos japoneses há mais de 50 anos (1945). Vários países têm, isoladamente, capacidade nuclear para comprometer a vida na Terra. Montar o seu sistema de defesa é um direito de todas as nações, mas um ato irresponsável ou um descuido pode desestruturar, pelo medo ou uso, a vida civilizada em vastas regiões. A não-proliferação de armas nucleares é importante.</p><p>No 1º domingo de junho de 98, Índia e Paquistão rejeitaram a condenação da ONU, decorrente da explosão de bombas atômicas pelos dois países, a título de teste nuclear e comemoradas com festa, especialmente no Paquistão. O governo paquistanês (país que possui maioria da população muçulmana) considerou que a condenação não levou em conta o motivo da disputa: o território de CAXEMIRA, pelo qual já travaram 3 guerras desde sua independência (em 1947, do Império Britânico, que tinha o Subcontinente Indiano como colônia). Dois terços da região, de maioria muçulmana, pertencem à Índia e 1/3 ao Paquistão.</p><p>Sobre o tempo e os argumentos podemos dizer que:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a bomba atômica não existia no mundo antes de o Paquistão existir como país.",
+    "B": "a força não tem sido usada para tentar resolver os problemas entre Paquistão e Índia.",
+    "C": "Caxemira tornou-se um país independente em 1947.",
+    "D": "os governos da Índia e Paquistão encontram-se numa perigosa escalada de solução de problemas pela força.",
+    "E": "diferentemente do século anterior, no início do século XX, o Império Britânico não tinha mais expressão mundial."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Índia e Paquistão já travaram três guerras pela Caxemira e, em 1998, testaram bombas atômicas e rejeitaram a condenação da ONU: estão numa escalada perigosa de solução de problemas pela força. Alternativa <strong>D</strong>.</p><p>A bomba já existia em 1945, antes da independência do Paquistão em 1947 (A), e a Caxemira está dividida entre os dois países, não é independente (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Caxemira",
+    "armas nucleares"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "Geografia",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>Um estudo sobre o problema do desemprego na Grande São Paulo, no período 1985-1996, realizado pelo SEADE-DIEESE, apresentou o seguinte gráfico sobre taxa de desemprego.</p>[[fig:1]]<p>Pela análise do gráfico, é correto afirmar que, no período considerado,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q15.webp",
+     "alt": "Gráfico “Médias anuais da taxa de desemprego total, Grande São Paulo, 1985–1996”. Valores aproximados: 1985, 12,2%; 1986, 9,6%; 1987, 9,2%; 1988, 9,7%; 1989, 8,7%; 1990, 10,3%; 1991, 11,7%; 1992, 15,2%; 1993, 14,6%; 1994, 14,2%; 1995, 13,2%; 1996, 15,1%. Fonte: SEP, Convênio SEADE-DIEESE."
+    }
+   ],
+   "alternativas": {
+    "A": "a maior taxa de desemprego foi de 14%.",
+    "B": "a taxa de desemprego no ano de 1995 foi a menor do período.",
+    "C": "a partir de 1992, a taxa de desemprego foi decrescente.",
+    "D": "no período 1985-1996, a taxa de desemprego esteve entre 8% e 16%.",
+    "E": "a taxa de desemprego foi crescente no período compreendido entre 1988 e 1991."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No gráfico, a menor taxa é de cerca de 8,7% (1989) e a maior, de cerca de 15,2% (1992): no período, a taxa ficou entre 8% e 16%. Alternativa <strong>D</strong>.</p><p>A maior taxa passa de 14% (A); 1995 não foi o menor valor (B); depois de 1992 a taxa caiu e voltou a subir (C); e entre 1988 e 1989 ela caiu (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "desemprego",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "Geografia",
+   "assunto": "União Europeia",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p>As diferentes formas em que as sociedades se organizam socioeconomicamente visam a atender suas necessidades para a época. O liberalismo, atualmente, assume papel crescente, com os Estados diminuindo sua atuação em várias áreas, inclusive vendendo empresas estatais. Da idéia de interferência estatal na economia, do “Estado de Bem-Estar”, da assistência social ampla e emprego garantido por lei, e, às vezes, à custa de subsídios (na Europa defendido pela Social-Democracia), caminha-se para um Estado enxuto e ágil, onde a manutenção do progresso econômico e uma maior liberdade na conquista do mercado são as formas de assegurar ao cidadão o acesso ao bem-estar. Nem sempre a população concorda.</p><p>Neste contexto, as eleições gerais na Alemanha, em 1998, poderão levar Helmuth Kohl, com longa e frutuosa carreira à frente daquele país, a entregar o posto ao social-democrata Gerhard Schroeder. O desemprego na Alemanha atinge seu ponto máximo. A moeda única européia será o fim do Marco Alemão. A imagem de Helmuth Kohl começa a desvanecer-se. Conseguirá vencer este ano? Seja como for, ele luta. Mas recebeu um novo e tremendo golpe: o Partido Liberal (FDP) deixou Kohl. O secretário Geral do FDP, Guido Westerwelle declarou: Começou o fim da era Kohl!</p><p>A Alemanha ajuda a concretizar o bloco econômico da União Européia. A participação neste bloco implica a adoção de um sistema socioeconômico que:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dificulta a livre iniciativa econômica, inclusive das grandes empresas na Alemanha.",
+    "B": "ofereça mercado europeu mais restrito aos produtos e serviços alemães.",
+    "C": "diminua as oportunidades de iniciativa econômica para os alemães em outros países e vice-versa.",
+    "D": "garanta o emprego, na Alemanha, pelo afastamento da concorrência de outros países da própria União Européia.",
+    "E": "por meio da união de esforços com os o países da União Européia, permita à economia alemã concorrer em melhores condições com países de fora da União Européia."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Num bloco econômico, os países somam mercados e esforços: a economia alemã ganha escala para concorrer com as de fora do bloco, como Estados Unidos e Japão. Alternativa <strong>E</strong>.</p><p>O bloco amplia o mercado e a livre iniciativa entre os membros (A, B, C) e aumenta a concorrência interna, sem garantir empregos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "blocos econômicos",
+    "neoliberalismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p>A discussão sobre gramática na classe está “quente”. Será que os brasileiros sabem gramática? A professora de Português propõe para debate o seguinte texto:</p><p class=\"apoio\"><strong>PRA MIM BRINCAR</strong></p><p class=\"apoio\"><em>Não há nada mais gostoso do que o mim sujeito de verbo no infinito. Pra mim brincar. As cariocas que não sabem gramática falam assim. Todos os brasileiros deviam de querer falar como as cariocas que não sabem gramática.</em></p><p class=\"apoio\"><em>— As palavras mais feias da língua portuguesa são quiçá, alhures e miúde.</em></p><p class=\"fonte\">(BANDEIRA, Manuel. <em>Seleta em prosa e verso</em>. Org: Emanuel de Moraes. 4ª ed. Rio de Janeiro, José Olympio, 1986. Pág. 19)</p><p>Com a orientação da professora e após o debate sobre o texto de Manuel Bandeira, os alunos chegaram à seguinte conclusão:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "uma das propostas mais ousadas do Modernismo foi a busca da identidade do povo brasileiro e o registro, no texto literário, da diversidade das falas brasileiras.",
+    "B": "apesar de os modernistas registrarem as falas regionais do Brasil, ainda foram preconceituosos em relação às cariocas.",
+    "C": "a tradição dos valores portugueses foi a pauta temática do movimento modernista.",
+    "D": "Manuel Bandeira e os modernistas brasileiros exaltaram em seus textos o primitivismo da nação brasileira.",
+    "E": "Manuel Bandeira considera a diversidade dos falares brasileiros uma agressão à Língua Portuguesa."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Bandeira valoriza o “pra mim brincar” das cariocas que não sabem gramática: o Modernismo buscou a identidade brasileira e levou para a literatura a fala real do povo, com sua diversidade. Alternativa <strong>A</strong>.</p><p>Bandeira elogia a fala das cariocas (B, E), e os modernistas romperam com a tradição portuguesa (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Modernismo",
+    "Manuel Bandeira",
+    "fala brasileira"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Raciocínio lógico",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 18 e 19.</strong></p><p>Um armazém recebe sacos de açúcar de 24 kg para que sejam empacotados em embalagens menores. O único objeto disponível para pesagem é uma balança de 2 pratos, sem os pesos metálicos.</p><p>Realizando uma única pesagem, é possível montar pacotes de:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "3kg",
+    "B": "4kg",
+    "C": "6kg",
+    "D": "8kg",
+    "E": "12kg"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Sem pesos, a balança só serve para dividir uma quantidade em duas partes iguais, equilibrando os pratos. Com uma pesagem, os 24 kg viram dois pacotes de 12 kg. Alternativa <strong>E</strong>.</p><p>Pacotes de 3, 4, 6 ou 8 kg exigiriam outras divisões ou pesos de referência, que não existem.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão ao meio",
+    "raciocínio lógico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Raciocínio lógico",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 18 e 19.</strong></p><p>Um armazém recebe sacos de açúcar de 24 kg para que sejam empacotados em embalagens menores. O único objeto disponível para pesagem é uma balança de 2 pratos, sem os pesos metálicos.</p><p>Realizando exatamente duas pesagens, os pacotes que podem ser feitos são os de:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "3kg e 6kg",
+    "B": "3kg, 6kg e 12kg",
+    "C": "6kg, 12kg e 18kg",
+    "D": "4kg e 8kg",
+    "E": "4kg, 6kg e 8kg"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Primeira pesagem: 24 kg em 12 + 12. Segunda pesagem: um pacote de 12 kg em 6 + 6. Com exatamente duas pesagens há pacotes de 6 kg, 12 kg (o que não foi dividido) e 18 kg (juntando 12 + 6). Alternativa <strong>C</strong>.</p><p>3 kg exigiriam uma terceira divisão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão ao meio",
+    "raciocínio lógico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 20 e 21.</strong></p><p>Em um concurso de televisão, apresentam-se ao participante 3 fichas voltadas para baixo, estando representada em cada uma delas as letras T, V e E. As fichas encontram-se alinhadas em uma ordem qualquer. O participante deve ordenar as fichas ao seu gosto, mantendo as letras voltadas para baixo, tentando obter a sigla TVE. Ao desvirá-las, para cada letra que esteja na posição correta ganhará um prêmio de R$ 200,00.</p><p>A probabilidade de o <strong><u>participante</u></strong> não ganhar qualquer prêmio é igual a:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0",
+    "B": "1/3",
+    "C": "1/4",
+    "D": "1/2",
+    "E": "1/6"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As 3 fichas podem ficar em 3! = 6 ordens. Nenhuma letra no lugar certo só acontece em VET e ETV: 2 casos. A probabilidade é 2/6 = 1/3. Alternativa <strong>B</strong>.</p><p>As 6 ordens são TVE (3 acertos), TEV, VTE e EVT (1 acerto cada), e VET e ETV (nenhum acerto).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "permutações",
+    "probabilidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 20 e 21.</strong></p><p>Em um concurso de televisão, apresentam-se ao participante 3 fichas voltadas para baixo, estando representada em cada uma delas as letras T, V e E. As fichas encontram-se alinhadas em uma ordem qualquer. O participante deve ordenar as fichas ao seu gosto, mantendo as letras voltadas para baixo, tentando obter a sigla TVE. Ao desvirá-las, para cada letra que esteja na posição correta ganhará um prêmio de R$ 200,00.</p><p>A probabilidade de o <strong><u>concorrente</u></strong> ganhar exatamente o valor de R$ 400,00 é igual a:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0",
+    "B": "1/3",
+    "C": "1/2",
+    "D": "2/3",
+    "E": "1/6"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Ganhar R$ 400,00 seria acertar exatamente 2 letras. Mas, se duas letras estão no lugar certo, a terceira também está, porque só sobra o lugar dela. É impossível: probabilidade 0. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade",
+    "evento impossível"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Função linear",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 22 a 24.</strong></p><p>No quadro abaixo estão as contas de luz e água de uma mesma residência. Além do valor a pagar, cada conta mostra como calculá-lo, em função do consumo de água (em m³) e de eletricidade (em kWh). Observe que, na conta de luz, o valor a pagar é igual ao consumo multiplicado por um certo fator. Já na conta de água, existe uma tarifa mínima e diferentes faixas de tarifação.</p><p><strong>Companhia de Eletricidade</strong></p><table class=\"tabela\"><thead><tr><th>Fornecimento</th><th>Valor (R$)</th></tr></thead><tbody><tr><td>401 kWh × 0,13276000</td><td>53,23</td></tr></tbody></table><p><strong>Companhia de Saneamento — tarifas de água por m³</strong></p><table class=\"tabela\"><thead><tr><th>Faixas de consumo (m³)</th><th>Tarifa (R$)</th><th>Consumo</th><th>Valor (R$)</th></tr></thead><tbody><tr><td>até 10</td><td>5,50</td><td>tarifa mínima</td><td>5,50</td></tr><tr><td>11 a 20</td><td>0,85</td><td>7</td><td>5,95</td></tr><tr><td>21 a 30</td><td>2,13</td><td></td><td></td></tr><tr><td>31 a 50</td><td>2,13</td><td></td><td></td></tr><tr><td>acima de 50</td><td>2,36</td><td></td><td></td></tr><tr><td></td><td></td><td><strong>Total</strong></td><td><strong>11,45</strong></td></tr></tbody></table><p>Suponha que, no próximo mês, dobre o consumo de energia elétrica dessa residência. O novo valor da conta será de:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 55,23",
+    "B": "R$ 106,46",
+    "C": "R$ 802,00",
+    "D": "R$ 100,00",
+    "E": "R$ 22,90"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na conta de luz, o valor é proporcional ao consumo. Dobrando o consumo (802 kWh), o valor dobra: 2 × 53,23 = 106,46. Alternativa <strong>B</strong>.</p><p>R$ 802,00 (C) confunde o consumo em kWh com o valor em reais, e R$ 55,23 (A) soma 2 reais em vez de dobrar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade",
+    "conta de luz"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Função por partes",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 22 a 24.</strong></p><p>No quadro abaixo estão as contas de luz e água de uma mesma residência. Além do valor a pagar, cada conta mostra como calculá-lo, em função do consumo de água (em m³) e de eletricidade (em kWh). Observe que, na conta de luz, o valor a pagar é igual ao consumo multiplicado por um certo fator. Já na conta de água, existe uma tarifa mínima e diferentes faixas de tarifação.</p><p><strong>Companhia de Eletricidade</strong></p><table class=\"tabela\"><thead><tr><th>Fornecimento</th><th>Valor (R$)</th></tr></thead><tbody><tr><td>401 kWh × 0,13276000</td><td>53,23</td></tr></tbody></table><p><strong>Companhia de Saneamento — tarifas de água por m³</strong></p><table class=\"tabela\"><thead><tr><th>Faixas de consumo (m³)</th><th>Tarifa (R$)</th><th>Consumo</th><th>Valor (R$)</th></tr></thead><tbody><tr><td>até 10</td><td>5,50</td><td>tarifa mínima</td><td>5,50</td></tr><tr><td>11 a 20</td><td>0,85</td><td>7</td><td>5,95</td></tr><tr><td>21 a 30</td><td>2,13</td><td></td><td></td></tr><tr><td>31 a 50</td><td>2,13</td><td></td><td></td></tr><tr><td>acima de 50</td><td>2,36</td><td></td><td></td></tr><tr><td></td><td></td><td><strong>Total</strong></td><td><strong>11,45</strong></td></tr></tbody></table><p>Suponha agora que dobre o consumo d’água. O novo valor da conta será de:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 22,90",
+    "B": "R$ 106,46",
+    "C": "R$ 43,82",
+    "D": "R$ 17,40",
+    "E": "R$ 22,52"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O consumo atual é 10 + 7 = 17 m³; dobrado, 34 m³. Valor: tarifa mínima até 10 m³, R$ 5,50; de 11 a 20, 10 × 0,85 = R$ 8,50; de 21 a 30, 10 × 2,13 = R$ 21,30; e mais 4 m³ na faixa de 31 a 50, 4 × 2,13 = R$ 8,52. Total: R$ 43,82. Alternativa <strong>C</strong>.</p><p>R$ 22,90 (A) seria dobrar o valor da conta, o que não vale com faixas de preço crescente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tarifas por faixa",
+    "conta de água"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Função por partes",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 22 a 24.</strong></p><p>No quadro abaixo estão as contas de luz e água de uma mesma residência. Além do valor a pagar, cada conta mostra como calculá-lo, em função do consumo de água (em m³) e de eletricidade (em kWh). Observe que, na conta de luz, o valor a pagar é igual ao consumo multiplicado por um certo fator. Já na conta de água, existe uma tarifa mínima e diferentes faixas de tarifação.</p><p><strong>Companhia de Eletricidade</strong></p><table class=\"tabela\"><thead><tr><th>Fornecimento</th><th>Valor (R$)</th></tr></thead><tbody><tr><td>401 kWh × 0,13276000</td><td>53,23</td></tr></tbody></table><p><strong>Companhia de Saneamento — tarifas de água por m³</strong></p><table class=\"tabela\"><thead><tr><th>Faixas de consumo (m³)</th><th>Tarifa (R$)</th><th>Consumo</th><th>Valor (R$)</th></tr></thead><tbody><tr><td>até 10</td><td>5,50</td><td>tarifa mínima</td><td>5,50</td></tr><tr><td>11 a 20</td><td>0,85</td><td>7</td><td>5,95</td></tr><tr><td>21 a 30</td><td>2,13</td><td></td><td></td></tr><tr><td>31 a 50</td><td>2,13</td><td></td><td></td></tr><tr><td>acima de 50</td><td>2,36</td><td></td><td></td></tr><tr><td></td><td></td><td><strong>Total</strong></td><td><strong>11,45</strong></td></tr></tbody></table><p>Dos gráficos abaixo, o que melhor representa o valor da conta de água, de acordo com o consumo, é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q24a.webp",
+     "alt": "Gráfico do valor (R$) em função do consumo (m³): um trecho horizontal acima de zero no começo e depois trechos retos cada vez mais inclinados."
+    },
+    {
+     "src": "assets/img/enem-1998/q24b.webp",
+     "alt": "Gráfico partindo da origem, com trechos retos cada vez mais inclinados."
+    },
+    {
+     "src": "assets/img/enem-1998/q24c.webp",
+     "alt": "Gráfico: reta inclinada partindo da origem."
+    },
+    {
+     "src": "assets/img/enem-1998/q24d.webp",
+     "alt": "Gráfico: reta inclinada que começa acima de zero."
+    },
+    {
+     "src": "assets/img/enem-1998/q24e.webp",
+     "alt": "Gráfico: reta horizontal acima de zero."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A conta de água tem um valor mínimo fixo até 10 m³ (trecho horizontal, que não começa em zero) e, depois, cresce em trechos retos cada vez mais inclinados, porque a tarifa por m³ aumenta de faixa em faixa. É o gráfico A. Alternativa <strong>A</strong>.</p><p>B começa do zero, sem tarifa mínima; C e D são retas, com tarifa única; E é constante.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função definida por partes",
+    "gráficos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Biologia",
+   "assunto": "Evolução humana",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 25 a 27.</strong></p><p>O assunto na aula de Biologia era a evolução do Homem. Foi apresentada aos alunos uma árvore filogenética, igual à mostrada na ilustração, que relacionava primatas atuais e seus ancestrais.</p>[[fig:1]]<p>Após observar o material fornecido pelo professor, os alunos emitiram várias opiniões, a saber:</p><ol type=\"I\"><li>os macacos antropóides (orangotango, gorila e chimpanzé e gibão) surgiram na Terra mais ou menos contemporaneamente ao Homem.</li><li>alguns homens primitivos, hoje extintos, descendem dos macacos antropóides.</li><li>na história evolutiva, os homens e os macacos antropóides tiveram um ancestral comum.</li><li>não existe relação de parentesco genético entre macacos antropóides e homens.</li></ol><p>Analisando a árvore filogenética, você pode concluir que:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q25.webp",
+     "alt": "Árvore filogenética provável dos antropoides, com escala de tempo em milhões de anos (0, 5, 10, 15, 25, 35, 50). Na base, há 50 milhões de anos, os mamíferos insetívoros. Os símios do Novo Mundo e os do Velho Mundo se separam cedo. Por volta de 15 milhões de anos, perto do Dryopithecus, partem os ramos do gibão (hilobatídeos), do orangotango, do gorila e do chimpanzé (pongídeos) e do homem (hominídeos). O ramo humano passa pelo Ramapithecus e pelo Australopithecus. O chimpanzé é o pongídeo cujo ramo se separa mais tarde do humano."
+    }
+   ],
+   "alternativas": {
+    "A": "todas as afirmativas estão corretas.",
+    "B": "apenas as afirmativas I e III estão corretas.",
+    "C": "apenas as afirmativas II e IV estão corretas.",
+    "D": "apenas a afirmativa II está correta.",
+    "E": "apenas a afirmativa IV está correta."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na árvore, os antropoides atuais e o homem estão todos no topo (tempo 0): são contemporâneos (I). E as linhas do homem e dos antropoides se juntam num ancestral comum (III). II é falsa: o homem não descende dos macacos atuais; ambos descendem de ancestrais comuns. IV é falsa: há parentesco genético. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "árvore filogenética",
+    "ancestral comum"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Biologia",
+   "assunto": "Evolução humana",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 25 a 27.</strong></p><p>O assunto na aula de Biologia era a evolução do Homem. Foi apresentada aos alunos uma árvore filogenética, igual à mostrada na ilustração, que relacionava primatas atuais e seus ancestrais.</p>[[fig:1]]<p>Foram feitas comparações entre DNA e proteínas da espécie humana com DNA e proteínas de diversos primatas. Observando a árvore filogenética, você espera que os dados bioquímicos tenham apontado, entre os primatas atuais, como nosso parente mais próximo o:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q25.webp",
+     "alt": "Árvore filogenética provável dos antropoides, com escala de tempo em milhões de anos (0, 5, 10, 15, 25, 35, 50). Na base, há 50 milhões de anos, os mamíferos insetívoros. Os símios do Novo Mundo e os do Velho Mundo se separam cedo. Por volta de 15 milhões de anos, perto do Dryopithecus, partem os ramos do gibão (hilobatídeos), do orangotango, do gorila e do chimpanzé (pongídeos) e do homem (hominídeos). O ramo humano passa pelo Ramapithecus e pelo Australopithecus. O chimpanzé é o pongídeo cujo ramo se separa mais tarde do humano."
+    }
+   ],
+   "alternativas": {
+    "A": "Australopithecus.",
+    "B": "Chimpanzé.",
+    "C": "Ramapithecus.",
+    "D": "Gorila.",
+    "E": "Orangotango."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O parente mais próximo é aquele cujo ramo se separou do nosso mais recentemente. Na árvore, entre os primatas atuais, é o chimpanzé, e a comparação de DNA e proteínas confirma isso. Alternativa <strong>B</strong>.</p><p>Australopithecus e Ramapithecus estão extintos; não são primatas atuais (A, C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "parentesco evolutivo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Biologia",
+   "assunto": "Evolução humana",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 25 a 27.</strong></p><p>O assunto na aula de Biologia era a evolução do Homem. Foi apresentada aos alunos uma árvore filogenética, igual à mostrada na ilustração, que relacionava primatas atuais e seus ancestrais.</p>[[fig:1]]<p>Se fosse possível a uma máquina do tempo percorrer a evolução dos primatas em sentido contrário, aproximadamente quantos milhões de anos precisaríamos retroceder, de acordo com a árvore filogenética apresentada, para encontrar o ancestral comum do homem e dos macacos antropóides (gibão, orangotango, gorila e chimpanzé)?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q25.webp",
+     "alt": "Árvore filogenética provável dos antropoides, com escala de tempo em milhões de anos (0, 5, 10, 15, 25, 35, 50). Na base, há 50 milhões de anos, os mamíferos insetívoros. Os símios do Novo Mundo e os do Velho Mundo se separam cedo. Por volta de 15 milhões de anos, perto do Dryopithecus, partem os ramos do gibão (hilobatídeos), do orangotango, do gorila e do chimpanzé (pongídeos) e do homem (hominídeos). O ramo humano passa pelo Ramapithecus e pelo Australopithecus. O chimpanzé é o pongídeo cujo ramo se separa mais tarde do humano."
+    }
+   ],
+   "alternativas": {
+    "A": "5",
+    "B": "10",
+    "C": "15",
+    "D": "30",
+    "E": "60"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na árvore, os ramos do gibão, do orangotango, do gorila, do chimpanzé e do homem se juntam perto da linha de 15 milhões de anos, logo acima do Dryopithecus. É preciso voltar cerca de 15 milhões de anos. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tempo evolutivo",
+    "árvore filogenética"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Física",
+   "assunto": "Transmissão de movimento",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 28 a 30.</strong></p><p>As bicicletas possuem uma corrente que liga uma coroa dentada dianteira, movimentada pelos pedais, a uma coroa localizada no eixo da roda traseira, como mostra a figura.</p><p>O número de voltas dadas pela roda traseira a cada pedalada depende do tamanho relativo destas coroas.</p>[[fig:1]]<p>Em que opção abaixo a roda traseira dá o <strong>maior</strong> número de voltas por pedalada?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q28.webp",
+     "alt": "Desenho de uma bicicleta vista de lado, com a corrente ligando a coroa dos pedais à coroa da roda traseira."
+    },
+    {
+     "src": "assets/img/enem-1998/q28a.webp",
+     "alt": "Bicicleta com coroa dos pedais grande e coroa traseira bem pequena."
+    },
+    {
+     "src": "assets/img/enem-1998/q28b.webp",
+     "alt": "Bicicleta com coroa dos pedais e coroa traseira de tamanho parecido, ambas médias."
+    },
+    {
+     "src": "assets/img/enem-1998/q28c.webp",
+     "alt": "Bicicleta com coroa dos pedais média, quase do tamanho da traseira."
+    },
+    {
+     "src": "assets/img/enem-1998/q28d.webp",
+     "alt": "Bicicleta com coroa dos pedais pequena e coroa traseira grande."
+    },
+    {
+     "src": "assets/img/enem-1998/q28e.webp",
+     "alt": "Bicicleta com coroa dos pedais média e coroa traseira pequena, mas não tanto quanto em A."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A corrente percorre o mesmo comprimento nas duas coroas. Quanto maior a coroa dos pedais e menor a da roda traseira, mais voltas a roda dá a cada pedalada. Em A, a coroa dos pedais é grande e a traseira é a menor de todas. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coroa e catraca",
+    "polias"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Física",
+   "assunto": "Transmissão de movimento",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 28 a 30.</strong></p><p>As bicicletas possuem uma corrente que liga uma coroa dentada dianteira, movimentada pelos pedais, a uma coroa localizada no eixo da roda traseira, como mostra a figura.</p><p>O número de voltas dadas pela roda traseira a cada pedalada depende do tamanho relativo destas coroas.</p>[[fig:1]]<p>Quando se dá uma pedalada na bicicleta abaixo (isto é, quando a coroa acionada pelos pedais dá uma volta completa), qual é a distância aproximada percorrida pela bicicleta, sabendo-se que o comprimento de um círculo de raio R é igual a 2πR, onde π ≈ 3?</p>[[fig:2]]",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q28.webp",
+     "alt": "Desenho de uma bicicleta vista de lado, com a corrente ligando a coroa dos pedais à coroa da roda traseira."
+    },
+    {
+     "src": "assets/img/enem-1998/q29.webp",
+     "alt": "Bicicleta com as medidas indicadas: roda traseira de 80 cm de diâmetro, coroa traseira de 10 cm e coroa dos pedais de 30 cm."
+    }
+   ],
+   "alternativas": {
+    "A": "1,2 m",
+    "B": "2,4 m 30 cm 80 cm 10 cm",
+    "C": "7,2 m",
+    "D": "14,4 m",
+    "E": "48,0 m"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A coroa dos pedais tem 30 cm de diâmetro e a traseira, 10 cm: a cada pedalada, a roda traseira dá 30/10 = 3 voltas. A roda tem 80 cm de diâmetro (raio 0,4 m), e cada volta percorre 2 × 3 × 0,4 = 2,4 m. Em 3 voltas: 7,2 m. Alternativa <strong>C</strong>.</p><p>2,4 m (B) seria uma única volta da roda.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comprimento da circunferência",
+    "polias"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Física",
+   "assunto": "Transmissão de movimento",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 28 a 30.</strong></p><p>As bicicletas possuem uma corrente que liga uma coroa dentada dianteira, movimentada pelos pedais, a uma coroa localizada no eixo da roda traseira, como mostra a figura.</p><p>O número de voltas dadas pela roda traseira a cada pedalada depende do tamanho relativo destas coroas.</p>[[fig:1]]<p>Com relação ao funcionamento de uma bicicleta de marchas, onde cada marcha é uma combinação de uma das coroas dianteiras com uma das coroas traseiras, são formuladas as seguintes afirmativas:</p><ol type=\"I\"><li>numa bicicleta que tenha duas coroas dianteiras e cinco traseiras, temos um total de dez marchas possíveis onde cada marcha representa a associação de uma das coroas dianteiras com uma das traseiras.</li><li>em alta velocidade, convém acionar a coroa dianteira de maior raio com a coroa traseira de maior raio também.</li><li>em uma subida íngreme, convém acionar a coroa dianteira de menor raio e a coroa traseira de maior raio.</li></ol><p>Entre as afirmações acima, estão corretas:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q28.webp",
+     "alt": "Desenho de uma bicicleta vista de lado, com a corrente ligando a coroa dos pedais à coroa da roda traseira."
+    }
+   ],
+   "alternativas": {
+    "A": "I e III apenas.",
+    "B": "I, II e III.",
+    "C": "I e II apenas.",
+    "D": "II apenas.",
+    "E": "III apenas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>I está correta: 2 coroas dianteiras × 5 traseiras = 10 combinações. III também: na subida, coroa dianteira pequena com traseira grande dá menos voltas da roda por pedalada, mas exige menos força. II é falsa: em alta velocidade, convém a dianteira grande com a traseira pequena, para a roda dar mais voltas a cada pedalada. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "marchas",
+    "princípio multiplicativo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Biologia",
+   "assunto": "DNA",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 31 e 32.</strong></p><p>João ficou intrigado com a grande quantidade de notícias envolvendo DNA: clonagem da ovelha Dolly, terapia gênica, testes de paternidade, engenharia genética, etc. Para conseguir entender as notícias, estudou a estrutura da molécula de DNA e seu funcionamento e analisou os dados do quadro a seguir.</p><table class=\"tabela\"><thead><tr><th></th><th>Quadro</th></tr></thead><tbody><tr><td>I</td><td>A T C C G G A T G C T T<br>T A G G C C T A C G A A</td></tr><tr><td>II</td><td>A T C C G G A T G C T T<br>⇓<br>U A G G C C U A C G A A</td></tr><tr><td>III</td><td>U A G G C C U A C G A A<br>⇓<br>Metionina Alanina Leucina Glutamato</td></tr><tr><td>IV</td><td>Bases nitrogenadas: A = Adenina; T = Timina; C = Citosina; G = Guanina; U = Uracila</td></tr></tbody></table><p>Analisando-se o DNA de um animal, detectou-se que 40% de suas bases nitrogenadas eram constituídas por Adenina. Relacionando esse valor com o emparelhamento específico das bases, os valores encontrados para as outras bases nitrogenadas foram:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "T = 40%; C = 20%; G = 40%",
+    "B": "T = 10%; C = 10%; G = 40%",
+    "C": "T = 10%; C = 40%; G = 10%",
+    "D": "T = 40%; C = 10%; G = 10%",
+    "E": "T = 40%; C = 60%; G = 60%"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No DNA, A pareia com T e C com G. Se A = 40%, T = 40%. Sobram 20% para C e G, divididos igualmente: C = 10% e G = 10%. Alternativa <strong>D</strong>.</p><p>A soma das quatro bases é sempre 100%, e as quantidades de bases que pareiam entre si são sempre iguais.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pareamento de bases",
+    "porcentagem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Biologia",
+   "assunto": "DNA",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 31 e 32.</strong></p><p>João ficou intrigado com a grande quantidade de notícias envolvendo DNA: clonagem da ovelha Dolly, terapia gênica, testes de paternidade, engenharia genética, etc. Para conseguir entender as notícias, estudou a estrutura da molécula de DNA e seu funcionamento e analisou os dados do quadro a seguir.</p><table class=\"tabela\"><thead><tr><th></th><th>Quadro</th></tr></thead><tbody><tr><td>I</td><td>A T C C G G A T G C T T<br>T A G G C C T A C G A A</td></tr><tr><td>II</td><td>A T C C G G A T G C T T<br>⇓<br>U A G G C C U A C G A A</td></tr><tr><td>III</td><td>U A G G C C U A C G A A<br>⇓<br>Metionina Alanina Leucina Glutamato</td></tr><tr><td>IV</td><td>Bases nitrogenadas: A = Adenina; T = Timina; C = Citosina; G = Guanina; U = Uracila</td></tr></tbody></table><p>Em <strong>I</strong> está representado o trecho de uma molécula de DNA. Observando o quadro, pode-se concluir que:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a molécula de DNA é formada por 2 cadeias caracterizadas por seqüências de bases nitrogenadas.",
+    "B": "na molécula de DNA, podem existir diferentes tipos de complementação de bases nitrogenadas.",
+    "C": "a quantidade de A presente em uma das cadeias é exatamente igual à quantidade de A da cadeia complementar.",
+    "D": "na molécula de DNA, podem existir 5 diferentes tipos de bases nitrogenadas.",
+    "E": "no processo de mitose, cada molécula de DNA dá origem a 4 moléculas de DNA exatamente iguais."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Em I, o DNA aparece com duas cadeias, cada uma com uma sequência de bases nitrogenadas. Alternativa <strong>A</strong>.</p><p>A complementação é sempre A–T e C–G (B é falsa); a quantidade de A numa cadeia é igual à de T na outra, não à de A (C); o DNA tem 4 tipos de bases, porque U só existe no RNA (D); e na mitose cada DNA forma 2 moléculas, não 4 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estrutura do DNA"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 33 e 34.</strong></p><p class=\"apoio\"><em>Amor é fogo que arde sem se ver;<br>é ferida que dói e não se sente;<br>é um contentamento descontente;<br>é dor que desatina sem doer;</em></p><p class=\"apoio\"><em>É um não querer mais que bem querer;<br>é solitário andar por entre a gente;<br>é nunca contentar-se de contente;<br>é cuidar que se ganha em se perder;</em></p><p class=\"apoio\"><em>É querer estar preso por vontade;<br>é servir a quem vence, o vencedor;<br>é ter com quem nos mata lealdade.</em></p><p class=\"apoio\"><em>Mas como causar pode seu favor<br>nos corações humanos amizade,<br>se tão contrário a si é o mesmo Amor?</em></p><p class=\"fonte\">Luís de Camões</p><p>O poema tem, como característica, a figura de linguagem denominada antítese, relação de oposição de palavras ou idéias. Assinale a opção em que essa oposição se faz claramente presente.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“Amor é fogo que arde sem se ver.”",
+    "B": "“É um contentamento descontente.”",
+    "C": "“É servir a quem se vence, o vencedor.”",
+    "D": "“Mas como causar pode seu favor.”",
+    "E": "“Se tão contrário a si é o mesmo Amor?”"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em “É um contentamento descontente”, as palavras “contentamento” e “descontente” se opõem diretamente: é a antítese mais clara. Alternativa <strong>B</strong>.</p><p>Em A também há contradição (arder sem se ver), mas não entre termos opostos; D e E não trazem palavras de sentido contrário.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Figuras de linguagem",
+    "Camões",
+    "antítese"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 34,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 33 e 34.</strong></p><p class=\"apoio\"><em>Amor é fogo que arde sem se ver;<br>é ferida que dói e não se sente;<br>é um contentamento descontente;<br>é dor que desatina sem doer;</em></p><p class=\"apoio\"><em>É um não querer mais que bem querer;<br>é solitário andar por entre a gente;<br>é nunca contentar-se de contente;<br>é cuidar que se ganha em se perder;</em></p><p class=\"apoio\"><em>É querer estar preso por vontade;<br>é servir a quem vence, o vencedor;<br>é ter com quem nos mata lealdade.</em></p><p class=\"apoio\"><em>Mas como causar pode seu favor<br>nos corações humanos amizade,<br>se tão contrário a si é o mesmo Amor?</em></p><p class=\"fonte\">Luís de Camões</p><p>O poema pode ser considerado como um texto:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "argumentativo.",
+    "B": "narrativo.",
+    "C": "épico.",
+    "D": "de propaganda.",
+    "E": "teatral."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O soneto tenta definir o amor por uma sequência de afirmações (“Amor é...”) e termina com uma pergunta que conclui o raciocínio: como algo tão contraditório pode gerar amizade? É um texto argumentativo. Alternativa <strong>A</strong>.</p><p>Não conta uma história (B), não narra feitos heroicos (C) e não foi escrito para encenação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Gêneros textuais",
+    "Camões",
+    "tipologia textual"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 35,
+   "materia": "Química",
+   "assunto": "Poluição do ar",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p>Um dos índices de qualidade do ar diz respeito à concentração de monóxido de carbono (CO), pois esse gás pode causar vários danos à saúde. A tabela abaixo mostra a relação entre a qualidade do ar e a concentração de CO.</p><table class=\"tabela\"><thead><tr><th>Qualidade do ar</th><th>Concentração de CO – ppm* (média de 8h)</th></tr></thead><tbody><tr><td>Inadequada</td><td>15 a 30</td></tr><tr><td>Péssima</td><td>30 a 40</td></tr><tr><td>Crítica</td><td>Acima de 40</td></tr></tbody></table><p class=\"fonte\">* ppm (parte por milhão) = 1 micrograma de CO por grama de ar (10<sup>−6</sup> g)</p><p>Para analisar os efeitos do CO sobre os seres humanos, dispõe-se dos seguintes dados:</p><table class=\"tabela\"><thead><tr><th>Concentração de CO (ppm)</th><th>Sintomas em seres humanos</th></tr></thead><tbody><tr><td>10</td><td>Nenhum</td></tr><tr><td>15</td><td>Diminuição da capacidade visual</td></tr><tr><td>60</td><td>Dores de cabeça</td></tr><tr><td>100</td><td>Tonturas, fraqueza muscular</td></tr><tr><td>270</td><td>Inconsciência</td></tr><tr><td>800</td><td>Morte</td></tr></tbody></table><p>Suponha que você tenha lido em um jornal que na cidade de São Paulo foi atingido um péssimo nível de qualidade do ar. Uma pessoa que estivesse nessa área poderia:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "não apresentar nenhum sintoma.",
+    "B": "ter sua capacidade visual alterada.",
+    "C": "apresentar fraqueza muscular e tontura.",
+    "D": "ficar inconsciente.",
+    "E": "morrer."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Qualidade “péssima” corresponde a 30 a 40 ppm de CO. Pela tabela de sintomas, acima de 15 ppm há diminuição da capacidade visual, e dores de cabeça só a partir de 60 ppm. Nesse nível, a pessoa poderia ter a visão alterada. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "monóxido de carbono",
+    "leitura de tabela"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p>Uma escola de ensino médio tem 250 alunos que estão matriculados na 1ª, 2ª ou 3ª série. 32% dos alunos são homens e 40% dos homens estão na 1ª série. 20% dos alunos matriculados estão na 3ª série, sendo 10 alunos homens. Dentre os alunos da 2ª série, o número de mulheres é igual ao número de homens.</p><p>A tabela abaixo pode ser preenchida com as informações dadas:</p><table class=\"tabela\"><thead><tr><th></th><th>1ª</th><th>2ª</th><th>3ª</th><th>Total</th></tr></thead><tbody><tr><td>Mulher</td><td>a</td><td>b</td><td>c</td><td>a+b+c</td></tr><tr><td>Homem</td><td>d</td><td>e</td><td>f</td><td>d+e+f</td></tr><tr><td><strong>Total</strong></td><td>a+d</td><td>b+e</td><td>c+f</td><td>250</td></tr></tbody></table><p>O valor de <strong><u>a</u></strong> é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "10",
+    "B": "48",
+    "C": "92",
+    "D": "102",
+    "E": "120"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Homens: 32% de 250 = 80; na 1ª série, 40% de 80 = 32 (d). Na 3ª série há 20% de 250 = 50 alunos, 10 homens (f) e 40 mulheres (c). Homens na 2ª: 80 − 32 − 10 = 38 (e), e as mulheres da 2ª são também 38 (b). Mulheres no total: 250 − 80 = 170, logo a = 170 − 38 − 40 = 92. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "tabela de dupla entrada"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Biologia",
+   "assunto": "Esquistossomose",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 37 a 39.</strong></p><p>Em uma aula de Biologia, o seguinte texto é apresentado:</p><p class=\"apoio\"><strong>LAGOA AZUL ESTÁ DOENTE</strong></p><p class=\"apoio\"><em>Os vereadores da pequena cidade de Lagoa Azul estavam discutindo a situação da Saúde no Município. A situação era mais grave com relação a três doenças: Doença de Chagas, Esquistossomose e Ascaridíase (lombriga). Na tentativa de prevenir novos casos, foram apresentadas várias propostas:</em></p><ul><li><strong>Proposta 1:</strong> Promover uma campanha de vacinação.</li><li><strong>Proposta 2:</strong> Promover uma campanha de educação da população com relação a noções básicas de higiene, incluindo fervura de água.</li><li><strong>Proposta 3:</strong> Construir rede de saneamento básico.</li><li><strong>Proposta 4:</strong> Melhorar as condições de edificação das moradias e estimular o uso de telas nas portas e janelas e mosquiteiros de filó.</li><li><strong>Proposta 5:</strong> Realizar campanha de esclarecimento sobre os perigos de banhos nas lagoas.</li><li><strong>Proposta 6:</strong> Aconselhar o uso controlado de inseticidas.</li><li><strong>Proposta 7:</strong> Drenar e aterrar as lagoas do município.</li></ul><p>Em relação à Esquistossomose, a situação é complexa, pois o ciclo de vida do verme que causa a doença tem vários estágios, incluindo a existência de um hospedeiro intermediário, um caramujo aquático que é contaminado pelas fezes das pessoas doentes. Analisando as medidas propostas, o combate à doença terá sucesso se forem implementadas:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 e 6, pois envolvem a eliminação do agente causador da doença e de seu hospedeiro intermediário.",
+    "B": "1 e 4, pois além de eliminarem o agente causador da doença, também previnem o contato do transmissor com as pessoas sãs.",
+    "C": "4 e 6, pois envolvem o extermínio do transmissor da doença.",
+    "D": "1, 4 e 6, pois atingirão todas as fases do ciclo de vida do agente causador da doença, incluindo o seu hospedeiro intermediário.",
+    "E": "3 e 5, pois prevenirão a contaminação do hospedeiro intermediário pelas fezes das pessoas doentes e a contaminação de pessoas sãs por águas contaminadas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O saneamento básico (3) impede que as fezes dos doentes cheguem à água e contaminem o caramujo; e evitar banhos nas lagoas (5) impede que as larvas que saem do caramujo penetrem na pele das pessoas. Alternativa <strong>E</strong>.</p><p>Não existe vacina contra a esquistossomose (1), e o verme não é transmitido por inseto (4, 6).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "esquistossomose",
+    "saneamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Biologia",
+   "assunto": "Ascaridíase",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 37 a 39.</strong></p><p>Em uma aula de Biologia, o seguinte texto é apresentado:</p><p class=\"apoio\"><strong>LAGOA AZUL ESTÁ DOENTE</strong></p><p class=\"apoio\"><em>Os vereadores da pequena cidade de Lagoa Azul estavam discutindo a situação da Saúde no Município. A situação era mais grave com relação a três doenças: Doença de Chagas, Esquistossomose e Ascaridíase (lombriga). Na tentativa de prevenir novos casos, foram apresentadas várias propostas:</em></p><ul><li><strong>Proposta 1:</strong> Promover uma campanha de vacinação.</li><li><strong>Proposta 2:</strong> Promover uma campanha de educação da população com relação a noções básicas de higiene, incluindo fervura de água.</li><li><strong>Proposta 3:</strong> Construir rede de saneamento básico.</li><li><strong>Proposta 4:</strong> Melhorar as condições de edificação das moradias e estimular o uso de telas nas portas e janelas e mosquiteiros de filó.</li><li><strong>Proposta 5:</strong> Realizar campanha de esclarecimento sobre os perigos de banhos nas lagoas.</li><li><strong>Proposta 6:</strong> Aconselhar o uso controlado de inseticidas.</li><li><strong>Proposta 7:</strong> Drenar e aterrar as lagoas do município.</li></ul><p>Para o combate da Ascaridíase, a proposta que trará maior benefício social, se implementada pela Prefeitura, será:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "E": "6"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A lombriga é transmitida pela ingestão de ovos presentes em água e alimentos contaminados por fezes. A rede de saneamento básico (3) corta essa contaminação para toda a população, com o maior benefício social. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ascaridíase",
+    "saneamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Biologia",
+   "assunto": "Doença de Chagas",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 37 a 39.</strong></p><p>Em uma aula de Biologia, o seguinte texto é apresentado:</p><p class=\"apoio\"><strong>LAGOA AZUL ESTÁ DOENTE</strong></p><p class=\"apoio\"><em>Os vereadores da pequena cidade de Lagoa Azul estavam discutindo a situação da Saúde no Município. A situação era mais grave com relação a três doenças: Doença de Chagas, Esquistossomose e Ascaridíase (lombriga). Na tentativa de prevenir novos casos, foram apresentadas várias propostas:</em></p><ul><li><strong>Proposta 1:</strong> Promover uma campanha de vacinação.</li><li><strong>Proposta 2:</strong> Promover uma campanha de educação da população com relação a noções básicas de higiene, incluindo fervura de água.</li><li><strong>Proposta 3:</strong> Construir rede de saneamento básico.</li><li><strong>Proposta 4:</strong> Melhorar as condições de edificação das moradias e estimular o uso de telas nas portas e janelas e mosquiteiros de filó.</li><li><strong>Proposta 5:</strong> Realizar campanha de esclarecimento sobre os perigos de banhos nas lagoas.</li><li><strong>Proposta 6:</strong> Aconselhar o uso controlado de inseticidas.</li><li><strong>Proposta 7:</strong> Drenar e aterrar as lagoas do município.</li></ul><p>Você sabe que a Doença de Chagas é causada por um protozoário (<em>Trypanosoma cruzi</em>) transmitido por meio da picada de insetos hematófagos (barbeiros). Das medidas propostas no texto “A Lagoa Azul Está Doente”, as mais efetivas na prevenção dessa doença são:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 e 2",
+    "B": "3 e 5",
+    "C": "4 e 6",
+    "D": "1 e 3",
+    "E": "2 e 3"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O barbeiro vive em frestas de casas de pau a pique e pica à noite. Melhorar as moradias e usar telas e mosquiteiros (4) e controlar o inseto com inseticidas (6) são as medidas mais efetivas. Alternativa <strong>C</strong>.</p><p>Não há vacina contra a doença de Chagas (1), e saneamento não atinge o barbeiro (3).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "doença de Chagas",
+    "barbeiro"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"apoio\"><em>A figura de Getúlio Vargas, como personagem histórica, é bastante polêmica, devido à complexidade e à magnitude de suas ações como presidente do Brasil durante um longo período de quinze anos (1930-1945). Foram anos de grandes e importantes mudanças para o país e para o mundo. Pode-se perceber o destaque dado a Getúlio Vargas pelo simples fato de este período ser conhecido no Brasil como a “Era Vargas”.</em></p><p class=\"apoio\"><em>Entretanto, Vargas não é visto de forma favorável por todos. Se muitos o consideram como um fervoroso nacionalista, um progressista ativo e o “Pai dos Pobres”, existem outros tantos que o definem como ditador oportunista, um intervencionista e amigo das elites.</em></p><p>Provavelmente você percebeu que as duas opiniões sobre Vargas são opostas, defendendo valores praticamente antagônicos. As diferentes interpretações do papel de uma personalidade histórica podem ser explicadas, conforme uma das opções abaixo. Assinale-a.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Um dos grupos está totalmente errado, uma vez que a permanência no poder depende de idéias coerentes e de uma política contínua.",
+    "B": "O grupo que acusa Vargas de ser ditador está totalmente errado. Ele nunca teve uma orientação ideológica favorável aos regimes politicamente fechados e só tomou medidas duras forçado pelas circunstâncias.",
+    "C": "Os dois grupos estão certos. Cada um mostra Vargas da forma que serve melhor aos seus interesses, pois ele foi um governante apático e fraco - um verdadeiro marionete nas mãos das elites da época.",
+    "D": "O grupo que defende Vargas como um autêntico nacionalista está totalmente enganado. Poucas medidas nacionalizantes foram tomadas para iludir os brasileiros, devido à política populista do varguismo, e ele fazia tudo para agradar aos grupos estrangeiros.",
+    "E": "Os dois grupos estão errados, por assumirem características parciais e, às vezes conjunturais, como sendo posturas definitivas e absolutas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Vargas teve faces diferentes ao longo de quinze anos: medidas nacionalistas e trabalhistas, mas também a ditadura do Estado Novo e alianças com as elites. Cada grupo toma uma parte dessas características, muitas vezes ligadas a um momento, como se fosse a postura definitiva. Os dois erram por parcialidade. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Getúlio Vargas",
+    "interpretação histórica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Biologia",
+   "assunto": "Adaptações vegetais",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 41 e 42.</strong></p><p>Alunos de uma escola no Rio de Janeiro são convidados a participar de uma excursão ao Parque Nacional de Jurubatiba. Antes do passeio, eles lêem o trecho de uma reportagem publicada em uma revista:</p><p class=\"apoio\"><em>“Jurubatiba será o primeiro parque nacional em área de restinga, num braço de areia com 31 quilômetros de extensão, formado entre o mar e dezoito lagoas. Numa área de 14.000 hectares, ali vivem jacarés, capivaras, lontras, tamanduás-mirins, além de milhares de aves e de peixes de água doce e salgada. Os peixes de água salgada, na época das cheias, passam para as lagoas, onde encontram abrigo, voltando ao mar na cheia seguinte. Nos terrenos mais baixos, próximos aos lençóis freáticos, as plantas têm água suficiente para agüentar longas secas. Já nas áreas planas, os cactos são um dos poucos vegetais que proliferam, pintando o areal com um verde pálido.”</em></p><p>Depois de ler o texto, os alunos podem supor que, em Jurubatiba, os vegetais que sobrevivem nas áreas planas têm características tais como:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "quantidade considerável de folhas, para aumentar a área de contato com a umidade do ar nos dias chuvosos.",
+    "B": "redução na velocidade da fotossíntese e realização ininterrupta desse processo, durante as 24 horas.",
+    "C": "caules e folhas cobertos por espessas cutículas que impedem o ressecamento e a conseqüente perda de água.",
+    "D": "redução do calibre dos vasos que conduzem a água e os sais minerais da raiz aos centros produtores do vegetal, para evitar perdas.",
+    "E": "crescimento sob a copa de árvores frondosas, que impede o ressecamento e conseqüente perda de água."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Nas áreas planas e arenosas da restinga, sem acesso ao lençol freático, as plantas que sobrevivem, como os cactos, têm adaptações contra a perda de água: caules e folhas com cutícula espessa. Alternativa <strong>C</strong>.</p><p>Muitas folhas (A) aumentariam a perda de água, e no areal não há árvores frondosas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "restinga",
+    "xeromorfismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Biologia",
+   "assunto": "Classificação dos animais",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 41 e 42.</strong></p><p>Alunos de uma escola no Rio de Janeiro são convidados a participar de uma excursão ao Parque Nacional de Jurubatiba. Antes do passeio, eles lêem o trecho de uma reportagem publicada em uma revista:</p><p class=\"apoio\"><em>“Jurubatiba será o primeiro parque nacional em área de restinga, num braço de areia com 31 quilômetros de extensão, formado entre o mar e dezoito lagoas. Numa área de 14.000 hectares, ali vivem jacarés, capivaras, lontras, tamanduás-mirins, além de milhares de aves e de peixes de água doce e salgada. Os peixes de água salgada, na época das cheias, passam para as lagoas, onde encontram abrigo, voltando ao mar na cheia seguinte. Nos terrenos mais baixos, próximos aos lençóis freáticos, as plantas têm água suficiente para agüentar longas secas. Já nas áreas planas, os cactos são um dos poucos vegetais que proliferam, pintando o areal com um verde pálido.”</em></p><p>O texto anterior cita alguns exemplos de animais que vivem em Jurubatiba e podem ser classificados como:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "mamíferos, peixes e aves, apenas.",
+    "B": "mamíferos, peixes, aves e anfíbios.",
+    "C": "répteis, aves e anfíbios apenas.",
+    "D": "mamíferos, répteis, peixes e aves.",
+    "E": "animais pertencentes a uma só classe."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto cita jacarés (répteis), capivaras, lontras e tamanduás-mirins (mamíferos), aves e peixes. São mamíferos, répteis, peixes e aves. Alternativa <strong>D</strong>.</p><p>Não há anfíbios citados (B, C), e a classificação de A deixa de fora os jacarés.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vertebrados",
+    "classificação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Geografia",
+   "assunto": "Exclusão social",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>Depois de estudar as migrações, no Brasil, você lê o seguinte texto:</p><p class=\"apoio\"><em>O Brasil, por suas características de crescimento econômico, e apesar da crise e do retrocesso das últimas décadas, é classificado como um país moderno. Tal conceito pode ser, na verdade, questionado se levarmos em conta os indicadores sociais: o grande número de desempregados, o índice de analfabetismo, o déficit de moradia, o sucateamento da saúde, enfim, a avalanche de brasileiros envolvidos e tragados num processo de repetidas migrações (...)</em></p><p class=\"fonte\">(adap. VALIN, 1996, pág. 50. <em>Migrações: da perda de terra à exclusão social</em>. SP, Atual, 1996)</p><p>Analisando os indicadores citados no texto, você pode afirmar que:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o grande número de desempregados no Brasil está exclusivamente ligado ao grande aumento da população.",
+    "B": "existe uma “exclusão social” que é resultado da grande concorrência existente entre a mão-de-obra qualificada.",
+    "C": "o déficit da moradia está intimamente ligado à falta de espaços nas cidades grandes.",
+    "D": "os trabalhadores brasileiros não qualificados engrossam as fileiras dos “excluídos”.",
+    "E": "por conta do crescimento econômico do país, os trabalhadores pertencem à categoria de mão-de-obra qualificada."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto liga desemprego, analfabetismo, falta de moradia e migrações repetidas. Os trabalhadores sem qualificação, com menos acesso ao emprego formal, são os que engrossam as fileiras dos excluídos. Alternativa <strong>D</strong>.</p><p>O desemprego não se explica só pelo aumento da população (A), e a exclusão atinge sobretudo quem não tem qualificação (B, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "migrações",
+    "mão de obra"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>Um dos fenômenos mais discutidos e polêmicos da atualidade é a “Globalização”, a qual impacta de forma negativa:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "na mão-de-obra desqualificada, desacelerando o fluxo migratório.",
+    "B": "nos países subdesenvolvidos, aumentando o crescimento populacional.",
+    "C": "no desenvolvimento econômico dos países industrializados desenvolvidos.",
+    "D": "nos países subdesenvolvidos, provocando o fenômeno da “exclusão social”.",
+    "E": "na mão-de-obra qualificada, proporcionando o crescimento de ofertas de emprego e fazendo os salários caírem vertiginosamente."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A globalização concentra investimentos e tecnologia nos países ricos e nos trabalhadores qualificados; nos países subdesenvolvidos, ela agrava o desemprego e a desigualdade, provocando “exclusão social”. Alternativa <strong>D</strong>.</p><p>Ela não reduz o fluxo migratório (A) nem aumenta o crescimento populacional (B), e beneficia os países industrializados (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "globalização",
+    "exclusão social"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 45 e 46.</strong></p><p>Você está fazendo uma pesquisa sobre a globalização e lê a seguinte passagem, em um livro:</p><p class=\"apoio\"><strong>A SOCIEDADE GLOBAL</strong></p><p class=\"apoio\"><em>As pessoas se alimentam, se vestem, moram, se comunicam, se divertem, por meio de bens e serviços mundiais, utilizando mercadorias produzidas pelo capitalismo mundial, globalizado. Suponhamos que você vá com seus amigos comer Big Mac e tomar Coca-Cola no Mc Donald’s. Em seguida, assiste a um filme de Steven Spielberg e volta para casa num ônibus de marca Mercedes. Ao chegar em casa, liga seu aparelho de TV Philips para ver o videoclip de Michael Jackson e, em seguida, deve ouvir um CD do grupo Simply Red, gravado pela BMG Ariola Discos em seu equipamento AIWA. Veja quantas empresas transnacionais estiveram presentes nesse seu curto programa de algumas horas.</em></p><p class=\"fonte\">Adap. PRAXEDES et alli, 1997. <em>O MERCOSUL</em>. SP, Ed. Ática, 1997.</p><p>Com base no texto e em seus conhecimentos de Geografia e História, marque a resposta correta.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O capitalismo globalizado está eliminando as particularidades culturais dos povos da terra.",
+    "B": "A cultura, transmitida por empresas transnacionais, tornou-se um fenômeno criador das novas nações.",
+    "C": "A globalização do capitalismo neutralizou o surgimento de movimentos nacionalistas de forte cunho cultural e divisionista.",
+    "D": "O capitalismo globalizado atinge apenas a Europa e a América do Norte.",
+    "E": "Empresas transnacionais pertencem a países de uma mesma cultura."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Com o mesmo lanche, os mesmos filmes, músicas e marcas em toda parte, a cultura das transnacionais vai apagando hábitos e particularidades locais: o capitalismo globalizado tende a eliminar as particularidades culturais dos povos. Alternativa <strong>A</strong>.</p><p>As transnacionais do texto vêm de culturas diferentes, como Estados Unidos, Alemanha, Holanda e Japão (E), e a globalização atinge o mundo todo (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "homogeneização cultural",
+    "transnacionais"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 46,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 45 e 46.</strong></p><p>Você está fazendo uma pesquisa sobre a globalização e lê a seguinte passagem, em um livro:</p><p class=\"apoio\"><strong>A SOCIEDADE GLOBAL</strong></p><p class=\"apoio\"><em>As pessoas se alimentam, se vestem, moram, se comunicam, se divertem, por meio de bens e serviços mundiais, utilizando mercadorias produzidas pelo capitalismo mundial, globalizado. Suponhamos que você vá com seus amigos comer Big Mac e tomar Coca-Cola no Mc Donald’s. Em seguida, assiste a um filme de Steven Spielberg e volta para casa num ônibus de marca Mercedes. Ao chegar em casa, liga seu aparelho de TV Philips para ver o videoclip de Michael Jackson e, em seguida, deve ouvir um CD do grupo Simply Red, gravado pela BMG Ariola Discos em seu equipamento AIWA. Veja quantas empresas transnacionais estiveram presentes nesse seu curto programa de algumas horas.</em></p><p class=\"fonte\">Adap. PRAXEDES et alli, 1997. <em>O MERCOSUL</em>. SP, Ed. Ática, 1997.</p><p>A leitura do texto ajuda você a compreender que:</p><ol type=\"I\"><li>a globalização é um processo ideal para garantir o acesso a bens e serviços para toda a população.</li><li>a globalização é um fenômeno econômico e, ao mesmo tempo, cultural.</li><li>a globalização favorece a manutenção da diversidade de costumes.</li><li>filmes, programas de TV e música são mercadorias como quaisquer outras.</li><li>as sedes das empresas transnacionais mencionadas são os EUA, Europa Ocidental e Japão.</li></ol><p>Destas afirmativas estão corretas:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I, II e IV, apenas.",
+    "B": "II,IV e V, apenas.",
+    "C": "II, III e IV, apenas.",
+    "D": "I, III e IV, apenas.",
+    "E": "III, IV e V, apenas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto mostra a globalização econômica e cultural ao mesmo tempo (II), trata filmes, programas de TV e música como produtos de consumo (IV), e as empresas citadas têm sede nos EUA, na Europa Ocidental e no Japão (V). Alternativa <strong>B</strong>.</p><p>A globalização não garante acesso a todos (I) e tende a reduzir a diversidade de costumes (III).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "globalização",
+    "indústria cultural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 47,
+   "materia": "Química",
+   "assunto": "Tratamento de água",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 47 a 49.</strong></p><p>Seguem abaixo alguns trechos de uma matéria da revista “Superinteressante”, que descreve hábitos de um morador de Barcelona (Espanha), relacionando-os com o consumo de energia e efeitos sobre o ambiente.</p><ol type=\"I\"><li>“Apenas no banho matinal, por exemplo, um cidadão utiliza cerca de 50 litros de água, que depois terá que ser tratada. Além disso, a água é aquecida consumindo 1,5 quilowatt-hora (cerca de 1,3 milhões de calorias), e para gerar essa energia foi preciso perturbar o ambiente de alguma maneira....”</li><li>“Na hora de ir para o trabalho, o percurso médio dos moradores de Barcelona mostra que o carro libera 90 gramas do venenoso monóxido de carbono e 25 gramas de óxidos de nitrogênio ... Ao mesmo tempo, o carro consome combustível equivalente a 8,9 kWh.”</li><li>“Na hora de recolher o lixo doméstico... quase 1 kg por dia. Em cada quilo há aproximadamente 240 gramas de papel, papelão e embalagens; 80 gramas de plástico; 55 gramas de metal; 40 gramas de material biodegradável e 80 gramas de vidro.”</li></ol><p>No trecho I, a matéria faz referência ao tratamento necessário à água resultante de um banho. As afirmações abaixo dizem respeito a tratamentos e destinos dessa água. Entre elas, a mais plausível é a de que a água:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "passa por peneiração, cloração, floculação, filtração e pós-cloração, e é canalizada para os rios.",
+    "B": "passa por cloração e destilação, sendo devolvida aos consumidores em condições adequadas para ser ingerida.",
+    "C": "é fervida e clorada em reservatórios, onde fica armazenada por algum tempo antes de retornar aos consumidores.",
+    "D": "passa por decantação, filtração, cloração e, em alguns casos, por fluoretação, retornando aos consumidores.",
+    "E": "não pode ser tratada devido à presença do sabão, por isso é canalizada e despejada em rios."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A água usada no banho vai para o esgoto e, para voltar ao consumo, passa por tratamento: decantação para separar partículas, filtração, cloração para eliminar microrganismos e, em alguns casos, fluoretação. Alternativa <strong>D</strong>.</p><p>Destilação (B) é cara demais em grande escala, e o sabão não impede o tratamento (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tratamento de água",
+    "decantação e filtração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 48,
+   "materia": "Física",
+   "assunto": "Efeito Joule",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 47 a 49.</strong></p><p>Seguem abaixo alguns trechos de uma matéria da revista “Superinteressante”, que descreve hábitos de um morador de Barcelona (Espanha), relacionando-os com o consumo de energia e efeitos sobre o ambiente.</p><ol type=\"I\"><li>“Apenas no banho matinal, por exemplo, um cidadão utiliza cerca de 50 litros de água, que depois terá que ser tratada. Além disso, a água é aquecida consumindo 1,5 quilowatt-hora (cerca de 1,3 milhões de calorias), e para gerar essa energia foi preciso perturbar o ambiente de alguma maneira....”</li><li>“Na hora de ir para o trabalho, o percurso médio dos moradores de Barcelona mostra que o carro libera 90 gramas do venenoso monóxido de carbono e 25 gramas de óxidos de nitrogênio ... Ao mesmo tempo, o carro consome combustível equivalente a 8,9 kWh.”</li><li>“Na hora de recolher o lixo doméstico... quase 1 kg por dia. Em cada quilo há aproximadamente 240 gramas de papel, papelão e embalagens; 80 gramas de plástico; 55 gramas de metal; 40 gramas de material biodegradável e 80 gramas de vidro.”</li></ol><p>Também com relação ao trecho I, supondo a existência de um chuveiro elétrico, pode-se afirmar que:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a energia usada para aquecer o chuveiro é de origem química, transformando-se em energia elétrica.",
+    "B": "a energia elétrica é transformada no chuveiro em energia mecânica e, posteriormente, em energia térmica.",
+    "C": "o aquecimento da água deve-se à resistência do chuveiro, onde a energia elétrica é transformada em energia térmica.",
+    "D": "a energia térmica consumida nesse banho é posteriormente transformada em energia elétrica.",
+    "E": "como a geração da energia perturba o ambiente, pode-se concluir que sua fonte é algum derivado do petróleo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No chuveiro elétrico, a corrente passa pela resistência e a energia elétrica se transforma em energia térmica (efeito Joule), que aquece a água. Alternativa <strong>C</strong>.</p><p>Não há etapa mecânica (B), e a energia elétrica pode vir de várias fontes, não necessariamente do petróleo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "chuveiro elétrico",
+    "efeito Joule"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 49,
+   "materia": "Química",
+   "assunto": "Combustão",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 47 a 49.</strong></p><p>Seguem abaixo alguns trechos de uma matéria da revista “Superinteressante”, que descreve hábitos de um morador de Barcelona (Espanha), relacionando-os com o consumo de energia e efeitos sobre o ambiente.</p><ol type=\"I\"><li>“Apenas no banho matinal, por exemplo, um cidadão utiliza cerca de 50 litros de água, que depois terá que ser tratada. Além disso, a água é aquecida consumindo 1,5 quilowatt-hora (cerca de 1,3 milhões de calorias), e para gerar essa energia foi preciso perturbar o ambiente de alguma maneira....”</li><li>“Na hora de ir para o trabalho, o percurso médio dos moradores de Barcelona mostra que o carro libera 90 gramas do venenoso monóxido de carbono e 25 gramas de óxidos de nitrogênio ... Ao mesmo tempo, o carro consome combustível equivalente a 8,9 kWh.”</li><li>“Na hora de recolher o lixo doméstico... quase 1 kg por dia. Em cada quilo há aproximadamente 240 gramas de papel, papelão e embalagens; 80 gramas de plástico; 55 gramas de metal; 40 gramas de material biodegradável e 80 gramas de vidro.”</li></ol><p>Com referência ao trecho II, pode-se afirmar que:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "um automóvel produz monóxido de carbono pelo fato de que a queima dos combustíveis utilizados não é completa.",
+    "B": "pode-se concluir que o automóvel em questão não utiliza o álcool como combustível.",
+    "C": "a produção de óxido de nitrogênio contribui para a chuva ácida.",
+    "D": "o texto está equivocado, pois os óxidos de nitrogênio lançados na atmosfera não têm qualquer relação com o automóvel.",
+    "E": "caso o automóvel fosse elétrico, não poluiria o ambiente com monóxido de carbono, mas lançaria ao ar radiações eletromagnéticas prejudiciais à saúde."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O monóxido de carbono se forma quando a combustão é incompleta, por falta de oxigênio suficiente para formar só CO<sub>2</sub>. Alternativa <strong>A</strong>.</p><p>Carros a álcool também produzem CO (B), e os óxidos de nitrogênio vêm justamente dos motores (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combustão incompleta",
+    "monóxido de carbono"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 50,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 50 e 51.</strong></p><p>Uma pesquisa de opinião foi realizada para avaliar os níveis de audiência de alguns canais de televisão, entre 20h e 21h, durante uma determinada noite.</p><p>Os resultados obtidos estão representados no gráfico de barras abaixo:</p>[[fig:1]]<p>O número de residências atingidas nessa pesquisa foi <strong><u>aproximadamente</u></strong> de:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q50.webp",
+     "alt": "Gráfico de barras do número de residências por canal: TvA cerca de 32, TvB cerca de 30, TvC cerca de 20, TvD cerca de 100 e nenhum canal cerca de 15."
+    }
+   ],
+   "alternativas": {
+    "A": "100",
+    "B": "135",
+    "C": "150",
+    "D": "200",
+    "E": "220"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Somando as barras: cerca de 32 + 30 + 20 + 100 + 15 ≈ 197, aproximadamente 200 residências. Alternativa <strong>D</strong>.</p><p>Quem não assistia a nenhum canal também foi entrevistado e entra na conta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico de barras"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 51,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 50 e 51.</strong></p><p>Uma pesquisa de opinião foi realizada para avaliar os níveis de audiência de alguns canais de televisão, entre 20h e 21h, durante uma determinada noite.</p><p>Os resultados obtidos estão representados no gráfico de barras abaixo:</p>[[fig:1]]<p>A percentagem de entrevistados que declararam estar assistindo à TvB é <strong><u>aproximadamente</u></strong> igual a:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q50.webp",
+     "alt": "Gráfico de barras do número de residências por canal: TvA cerca de 32, TvB cerca de 30, TvC cerca de 20, TvD cerca de 100 e nenhum canal cerca de 15."
+    }
+   ],
+   "alternativas": {
+    "A": "15%",
+    "B": "20%",
+    "C": "22%",
+    "D": "27%",
+    "E": "30%"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A TvB tem cerca de 30 residências de um total de cerca de 200: 30/200 = 15%. Alternativa <strong>A</strong>.</p><p>30% (E) seria confundir o número de residências da TvB com a porcentagem, esquecendo que o total é cerca de 200, e não 100.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "gráfico de barras"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 52,
+   "materia": "Química",
+   "assunto": "Chuva ácida",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 52 e 53.</strong></p><p>Um dos problemas ambientais decorrentes da industrialização é a poluição atmosférica. Chaminés altas lançam ao ar, entre outros materiais, o dióxido de enxofre (SO<sub>2</sub>) que pode ser transportado por muitos quilômetros em poucos dias. Dessa forma, podem ocorrer precipitações ácidas em regiões distantes, causando vários danos ao meio ambiente (chuva ácida).</p><p>Um dos danos ao meio ambiente diz respeito à corrosão de certos materiais. Considere as seguintes obras:</p><ol type=\"I\"><li>monumento Itamarati - Brasília (mármore).</li><li>esculturas do Aleijadinho - MG (pedra sabão, contém carbonato de cálcio).</li><li>grades de ferro ou alumínio de edifícios.</li></ol><p>A ação da chuva ácida pode acontecer em:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A chuva ácida ataca o carbonato de cálcio do mármore (I) e da pedra-sabão das esculturas do Aleijadinho (II), e também corrói metais como o ferro e o alumínio (III). Pode agir nas três obras. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "corrosão",
+    "carbonatos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 53,
+   "materia": "Química",
+   "assunto": "Chuva ácida",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 52 e 53.</strong></p><p>Um dos problemas ambientais decorrentes da industrialização é a poluição atmosférica. Chaminés altas lançam ao ar, entre outros materiais, o dióxido de enxofre (SO<sub>2</sub>) que pode ser transportado por muitos quilômetros em poucos dias. Dessa forma, podem ocorrer precipitações ácidas em regiões distantes, causando vários danos ao meio ambiente (chuva ácida).</p><p>Com relação aos efeitos sobre o ecossistema, pode-se afirmar que:</p><ol type=\"I\"><li>as chuvas ácidas poderiam causar a diminuição do pH da água de um lago, o que acarretaria a morte de algumas espécies, rompendo a cadeia alimentar.</li><li>as chuvas ácidas poderiam provocar acidificação do solo, o que prejudicaria o crescimento de certos vegetais.</li><li>as chuvas ácidas causam danos se apresentarem valor de pH maior que o da água destilada.</li></ol><p>Dessas afirmativas está(ão) correta(s):</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "III, apenas.",
+    "C": "I e II, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I e III, apenas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>I e II estão corretas: a chuva ácida baixa o pH de lagos, matando espécies sensíveis, e acidifica o solo, prejudicando plantas. III é falsa: chuva ácida tem pH <em>menor</em> que o da água destilada, e não maior. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pH",
+    "acidificação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 54,
+   "materia": "Geografia",
+   "assunto": "Climogramas",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p>As figuras abaixo representam a variação anual de temperatura e a quantidade de chuvas mensais em dado lugar, sendo chamados de climogramas. Neste tipo de gráfico, as temperaturas são representadas pelas linhas, e as chuvas pelas colunas.</p>[[fig:1]]<p>Leia e analise.</p><p><strong>A distribuição das chuvas no decorrer do ano, conforme mostrado nos gráficos, é um parâmetro importante na caracterização de um clima.</strong></p><p>A esse respeito podemos dizer que a afirmativa:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q54.webp",
+     "alt": "Dois climogramas, de janeiro a dezembro, com temperatura (12 a 28 °C, linha) e chuva (0 a 400 mm, colunas). Climograma 1: temperatura alta o ano todo, entre cerca de 23 e 27 °C; chuvas concentradas entre março e junho, com até cerca de 160 mm, e quase nada no resto do ano. Climograma 2: temperatura com grande variação, de cerca de 25 °C no verão a cerca de 13 °C no inverno; chuvas bem distribuídas, em torno de 100 a 150 mm todos os meses."
+    }
+   ],
+   "alternativas": {
+    "A": "está errada, pois o que importa é o total pluviométrico anual.",
+    "B": "está certa, pois, juntamente com o total pluviométrico anual, são importantes variáveis na definição das condições de umidade.",
+    "C": "está errada, pois a distribuição das chuvas não tem nenhuma relação com a temperatura.",
+    "D": "está certa, pois é o que vai definir as estações climáticas.",
+    "E": "está certa, pois este é o parâmetro que define o clima de uma dada área."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A afirmativa está certa: dois lugares com totais anuais de chuva parecidos podem ter climas bem diferentes se num deles as chuvas se concentram em poucos meses e no outro se espalham pelo ano. Distribuição e total pluviométrico juntos definem as condições de umidade. Alternativa <strong>B</strong>.</p><p>A distribuição das chuvas sozinha não define o clima (E), porque a temperatura também importa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "climograma",
+    "regime de chuvas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 55,
+   "materia": "Geografia",
+   "assunto": "Questão agrária",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 55 e 56.</strong></p><p>Em uma disputa por terras, em Mato Grosso do Sul, dois depoimentos são colhidos: o do proprietário de uma fazenda e o de um integrante do Movimento dos Trabalhadores Rurais sem Terras:</p><p class=\"apoio\"><strong>Depoimento 1</strong></p><p class=\"apoio\"><em>“A minha propriedade foi conseguida com muito sacrifício pelos meus antepassados. Não admito invasão. Essa gente não sabe de nada. Estão sendo manipulados pelos comunistas. Minha resposta será à bala. Esse povo tem que saber que a Constituição do Brasil garante a propriedade privada. Além disso, se esse governo quiser as minhas terras para a Reforma Agrária terá que pagar, em dinheiro, o valor que eu quero.”</em> — proprietário de uma fazenda no Mato Grosso do Sul.</p><p class=\"apoio\"><strong>Depoimento 2</strong></p><p class=\"apoio\"><em>“Sempre lutei muito. Minha família veio para a cidade porque fui despedido quando as máquinas chegaram lá na Usina. Seu moço, acontece que eu sou um homem da terra. Olho pro céu, sei quando é tempo de plantar e de colher. Na cidade não fico mais. Eu quero um pedaço de terra, custe o que custar. Hoje eu sei que não estou sozinho. Aprendi que a terra tem um valor social. Ela é feita para produzir alimento. O que o homem come vem da terra. O que é duro é ver que aqueles que possuem muita terra e não dependem dela para sobreviver, pouco se preocupam em produzir nela.”</em> — integrante do Movimento dos Trabalhadores Rurais Sem Terra (MST), de Corumbá – MS.</p><p>A partir da leitura do depoimento 1, os argumentos utilizados para <u>defender a posição do proprietário de terras</u> são:</p><ol type=\"I\"><li>A Constituição do país garante o direito à propriedade privada, portanto, invadir terras é crime.</li><li>O MST é um movimento político controlado por partidos políticos.</li><li>As terras são o fruto do árduo trabalho das famílias que as possuem.</li><li>Este é um problema político e depende unicamente da decisão da justiça.</li></ol><p>Estão corretas as proposições:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e IV, apenas.",
+    "C": "II e IV, apenas.",
+    "D": "I , II e III, apenas.",
+    "E": "I, III e IV, apenas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O proprietário invoca a Constituição, que garante a propriedade privada (I), diz que os sem-terra são manipulados pelos comunistas (II) e que a terra foi conquistada com sacrifício dos antepassados (III). Ele não diz que o problema depende só da justiça (IV): ameaça responder à bala. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reforma agrária",
+    "argumentação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 56,
+   "materia": "Geografia",
+   "assunto": "Questão agrária",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 55 e 56.</strong></p><p>Em uma disputa por terras, em Mato Grosso do Sul, dois depoimentos são colhidos: o do proprietário de uma fazenda e o de um integrante do Movimento dos Trabalhadores Rurais sem Terras:</p><p class=\"apoio\"><strong>Depoimento 1</strong></p><p class=\"apoio\"><em>“A minha propriedade foi conseguida com muito sacrifício pelos meus antepassados. Não admito invasão. Essa gente não sabe de nada. Estão sendo manipulados pelos comunistas. Minha resposta será à bala. Esse povo tem que saber que a Constituição do Brasil garante a propriedade privada. Além disso, se esse governo quiser as minhas terras para a Reforma Agrária terá que pagar, em dinheiro, o valor que eu quero.”</em> — proprietário de uma fazenda no Mato Grosso do Sul.</p><p class=\"apoio\"><strong>Depoimento 2</strong></p><p class=\"apoio\"><em>“Sempre lutei muito. Minha família veio para a cidade porque fui despedido quando as máquinas chegaram lá na Usina. Seu moço, acontece que eu sou um homem da terra. Olho pro céu, sei quando é tempo de plantar e de colher. Na cidade não fico mais. Eu quero um pedaço de terra, custe o que custar. Hoje eu sei que não estou sozinho. Aprendi que a terra tem um valor social. Ela é feita para produzir alimento. O que o homem come vem da terra. O que é duro é ver que aqueles que possuem muita terra e não dependem dela para sobreviver, pouco se preocupam em produzir nela.”</em> — integrante do Movimento dos Trabalhadores Rurais Sem Terra (MST), de Corumbá – MS.</p><p>A partir da leitura do depoimento 2, quais os argumentos utilizados para <u>defender a posição de um trabalhador rural sem terra</u>?</p><ol type=\"I\"><li>A distribuição mais justa da terra no país está sendo resolvida, apesar de que muitos ainda não têm acesso a ela.</li><li>A terra é para quem trabalha nela e não para quem a acumula como bem material.</li><li>É necessário que se suprima o valor social da terra.</li><li>A mecanização do campo acarreta a dispensa de mão-de-obra rural.</li></ol><p>Estão corretas as proposições:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "II e IV, apenas.",
+    "D": "I, II e III, apenas.",
+    "E": "III, I, IV, apenas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O argumento do trabalhador para ter direito à terra é que ela tem valor social, deve produzir alimento e ser de quem trabalha nela, e não de quem a acumula sem produzir (II). A mecanização (IV) aparece no depoimento como parte da sua história pessoal, e não como argumento para defender a sua posição. Alternativa <strong>B</strong>.</p><p>Ele não diz que a distribuição está sendo resolvida (I) e defende, e não suprime, o valor social da terra (III).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função social da terra",
+    "argumentação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 57,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p>No início deste século, com a finalidade de possibilitar o crescimento da população de veados no planalto de Kaibab, no Arizona (EUA), moveu-se uma caçada impiedosa aos seus predadores – pumas, coiotes e lobos. No gráfico abaixo, a linha cheia indica o crescimento real da população de veados, no período de 1905 a 1940; a linha pontilhada indica a expectativa quanto ao crescimento da população de veados, nesse mesmo período, caso o homem não tivesse interferido em Kaibab.</p>[[fig:1]]<p class=\"fonte\">Extraído de AMABIS &amp; MARTHO, <em>Fundamentos de Psicologia Moderna</em>, pág. 42</p><p>Para explicar o fenômeno que ocorreu com a população de veados após a interferência do homem, o mesmo estudante elaborou as seguintes hipóteses e/ou conclusões:</p><ol type=\"I\"><li>lobos, pumas e coiotes não eram, certamente, os únicos e mais vorazes predadores dos veados; quando estes predadores, até então desapercebidos, foram favorecidos pela eliminação de seus competidores, aumentaram numericamente e quase dizimaram a população de veados.</li><li>a falta de alimentos representou para os veados um mal menor que a predação.</li><li>ainda que a atuação dos predadores pudesse representar a morte para muitos veados, a predação demonstrou-se um fator positivo para o equilíbrio dinâmico e sobrevivência da população como um todo.</li><li>a morte dos predadores acabou por permitir um crescimento exagerado da população de veados, isto levou à degradação excessiva das pastagens, tanto pelo consumo excessivo como pelo seu pisoteamento.</li></ol><p>O estudante, desta vez, acertou se indicou as alternativas:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q57.webp",
+     "alt": "Gráfico do número de veados de 1905 a 1940. Com a proibição da caça e a eliminação dos predadores, a população sobe de cerca de 4 mil para cerca de 100 mil por volta de 1924; os primeiros filhotes morrem de fome e depois 60% dos filhotes morrem; a população despenca para 40 mil, 30 mil e 20 mil por volta de 1930 e chega a 10 mil em 1939. A linha pontilhada, a expectativa sem interferência, fica estável em torno de 30 mil a 40 mil."
+    }
+   ],
+   "alternativas": {
+    "A": "I, II, III e IV.",
+    "B": "I, II e III, apenas.",
+    "C": "I, II e IV, apenas.",
+    "D": "II e III, apenas.",
+    "E": "III e IV, apenas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Sem predadores, os veados cresceram até cerca de 100 mil, devastaram as pastagens pelo consumo e pelo pisoteio, e os filhotes morreram de fome (IV). A predação, que mantinha a população equilibrada com os recursos, era um fator positivo para a população como um todo (III). Alternativa <strong>E</strong>.</p><p>I inventa predadores sem base no gráfico, e II é falsa: a fome matou mais que a predação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "predação",
+    "capacidade de suporte"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 58,
+   "materia": "História",
+   "assunto": "Cidadania",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p>Você está estudando o abolicionismo no Brasil e ficou perplexo ao ler o seguinte documento:</p><p class=\"apoio\"><strong>Texto 1</strong> — <em>Discurso do deputado baiano Jerônimo Sodré Pereira – Brasil 1879</em></p><p class=\"apoio\"><em>No dia 5 de março de 1879, o deputado baiano Jerônimo Sodré Pereira, discursando na Câmara, afirmou que era preciso que o poder público olhasse para a condição de um milhão de brasileiros, que jazem ainda no cativeiro. Nessa altura do discurso foi aparteado por um deputado que disse: “BRASILEIROS, <u>NÃO</u>”.</em></p><p>Em seguida, você tomou conhecimento da existência do Projeto Axé (Bahia), nos seguintes termos:</p><p class=\"apoio\"><strong>Texto 2</strong> — <em>Projeto Axé, Lição de cidadania – 1998 – Brasil</em></p><p class=\"apoio\"><em>Na língua africana Iorubá, axé significa força mágica. Em Salvador, Bahia, o Projeto Axé conseguiu fazer, em apenas três anos, o que sucessivos governos não foram capazes: a um custo dez vezes inferior ao de projetos governamentais, ajuda meninos e meninas de rua a construírem projetos de vida, transformando-os de pivetes em cidadãos.</em></p><p class=\"apoio\"><em>A receita do Axé é simples: competência pedagógica, administração eficiente, respeito pelo menino, incentivo, formação e bons salários para os educadores. Criado em 1991 pelo advogado e pedagogo italiano Cesare de Florio La Rocca, o Axé atende hoje a mais de duas mil crianças e adolescentes.</em></p><p class=\"apoio\"><em>A cultura afro, forte presença na Bahia, dá o tom do Projeto Erê (entidade criança do candomblé), a parte cultural do Axé. Os meninos participam da banda mirim do Olodum, do Ilé Ayê e de outros blocos, jogam capoeira e têm um grupo de teatro.</em></p><p class=\"apoio\"><em>Todas as atividades são remuneradas. Além da bolsa semanal, as crianças têm alimentação, uniforme e vale-transporte.</em></p><p>Com a leitura dos dois textos, você descobriu que a cidadania:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "jamais foi negada aos cativos e seus descendentes.",
+    "B": "foi obtida pelos ex-escravos tâo logo a abolição fora decretada.",
+    "C": "nâo era incompatível com a escravidão.",
+    "D": "ainda hoje continua incompleta para milhões de brasileiros.",
+    "E": "consiste no direito de eleger deputados."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em 1879, um deputado negou que os escravos fossem brasileiros; mais de um século depois, um projeto precisa transformar meninos de rua “de pivetes em cidadãos”. A cidadania continua incompleta para milhões de brasileiros. Alternativa <strong>D</strong>.</p><p>A abolição não trouxe cidadania plena aos ex-escravos (B), e cidadania vai além do voto (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escravidão",
+    "cidadania"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 59,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 59 e 60.</strong></p><p>Em uma prova de 100 m rasos, o desempenho típico de um corredor padrão é representado pelo gráfico a seguir:</p>[[fig:1]]<p>Baseado no gráfico, em que intervalo de tempo a <strong><u>velocidade</u></strong> do corredor é aproximadamente constante?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q59.webp",
+     "alt": "Gráfico da velocidade (0 a 12 m/s) em função do tempo (0 a 16 s): a velocidade sobe rapidamente de 0 a cerca de 8 m/s no primeiro segundo e a cerca de 10 m/s em 2 s; chega a cerca de 10,7 m/s por volta de 4 s e fica praticamente constante até cerca de 9 s; depois cai devagar e, de 12 a 15 s, cai mais rápido, até cerca de 5,5 m/s."
+    }
+   ],
+   "alternativas": {
+    "A": "Entre 0 e 1 segundo.",
+    "B": "Entre 1 e 5 segundos.",
+    "C": "Entre 5 e 8 segundos.",
+    "D": "Entre 8 e 11 segundos.",
+    "E": "Entre 12 e 15 segundos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Entre 5 e 8 segundos, a curva é praticamente horizontal, por volta de 10,7 m/s: a velocidade é aproximadamente constante. Alternativa <strong>C</strong>.</p><p>De 0 a 5 s o corredor acelera, e de 12 a 15 s a velocidade cai.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 60,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 59 e 60.</strong></p><p>Em uma prova de 100 m rasos, o desempenho típico de um corredor padrão é representado pelo gráfico a seguir:</p>[[fig:1]]<p>Em que intervalo de tempo o corredor apresenta <strong><u>aceleração</u></strong> máxima?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q59.webp",
+     "alt": "Gráfico da velocidade (0 a 12 m/s) em função do tempo (0 a 16 s): a velocidade sobe rapidamente de 0 a cerca de 8 m/s no primeiro segundo e a cerca de 10 m/s em 2 s; chega a cerca de 10,7 m/s por volta de 4 s e fica praticamente constante até cerca de 9 s; depois cai devagar e, de 12 a 15 s, cai mais rápido, até cerca de 5,5 m/s."
+    }
+   ],
+   "alternativas": {
+    "A": "Entre 0 e 1 segundo.",
+    "B": "Entre 1 e 5 segundos.",
+    "C": "Entre 5 e 8 segundo.",
+    "D": "Entre 8 e 11 segundos.",
+    "E": "Entre 9 e 15 segundos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A aceleração é a taxa de variação da velocidade: no gráfico, a inclinação da curva. A curva é mais íngreme logo na largada, entre 0 e 1 segundo, quando a velocidade sobe de 0 a cerca de 6 m/s. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aceleração",
+    "inclinação do gráfico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 61,
+   "materia": "Geografia",
+   "assunto": "América Latina",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p>A América Latina dos últimos anos insere-se num processo de democratização, oferecendo algumas oportunidades de crescimento econômico-social num contexto de liberdade e dependência econômica internacional. Cuba continua caracterizada por uma organização própria com restrições à liberdade econômica e política, crescimento em alguns aspectos sociais e um embargo econômico americano datado de 1962. Em 1998, o Papa João Paulo II visitou Cuba e depois disse ao cardeal Jaime Ortega, arcebispo de Havana, e a 13 bispos em visita ao Vaticano que apreciou as mudanças realizadas em Cuba após sua visita à ilha e espera que sejam criados novos espaços legais e sociais, para que a sociedade civil de Cuba possa crescer em autonomia e participação. A resposta internacional ao intercâmbio com Cuba foi boa, mas as autoridades locais mostraram pouco entusiasmo, não estando dispostas a abandonar o sistema socialista monopartidário.</p><p>A maioria dos países latino-americanos tem se envolvido, nos últimos anos, em processos de formação socioeconômicos caracterizados por:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "um processo de democratização à semelhança de Cuba.",
+    "B": "restrições legais generalizadas à ação da Igreja no continente.",
+    "C": "um processo de desenvolvimento econômico com restrições generalizadas à liberdade política.",
+    "D": "excelentes níveis de crescimento econômico.",
+    "E": "democratização e oferecimento de algumas oportunidades de crescimento econômico."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O próprio texto afirma que a América Latina se insere num processo de democratização, com algumas oportunidades de crescimento econômico-social. Alternativa <strong>E</strong>.</p><p>Cuba é apresentada como exceção, com restrições à liberdade (A, C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "redemocratização",
+    "Cuba"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 62,
+   "materia": "Química",
+   "assunto": "Ebulição",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p>A tabela a seguir registra a pressão atmosférica em diferentes altitudes, e o gráfico relaciona a pressão de vapor da água em função da temperatura</p><table class=\"tabela\"><thead><tr><th>Altitude (km)</th><th>Pressão atmosférica (mmHg)</th></tr></thead><tbody><tr><td>0</td><td>760</td></tr><tr><td>1</td><td>600</td></tr><tr><td>2</td><td>480</td></tr><tr><td>4</td><td>300</td></tr><tr><td>6</td><td>170</td></tr><tr><td>8</td><td>120</td></tr><tr><td>10</td><td>100</td></tr></tbody></table>[[fig:1]]<p>Um líquido, num frasco aberto, entra em ebulição a partir do momento em que a sua pressão de vapor se iguala à pressão atmosférica. Assinale a opção correta, considerando a tabela, o gráfico e os dados apresentados, sobre as seguintes cidades:</p><table class=\"tabela\"><thead><tr><th>Cidade</th><th>Altitude</th></tr></thead><tbody><tr><td>Natal (RN)</td><td>nível do mar</td></tr><tr><td>Campos do Jordão (SP)</td><td>1628 m</td></tr><tr><td>Pico da Neblina (RR)</td><td>3014 m</td></tr></tbody></table><p>A temperatura de ebulição será:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q62.webp",
+     "alt": "Gráfico da pressão de vapor da água (0 a 800 mmHg) em função da temperatura (0 a 120 °C): a curva cresce cada vez mais rápido, passando por cerca de 150 mmHg a 60 °C, 360 a 80 °C, 530 a 90 °C e 760 a 100 °C."
+    }
+   ],
+   "alternativas": {
+    "A": "maior em Campos do Jordão.",
+    "B": "menor em Natal.",
+    "C": "menor no Pico da Neblina.",
+    "D": "igual em Campos do Jordão e Natal.",
+    "E": "não dependerá da altitude."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Quanto maior a altitude, menor a pressão atmosférica (tabela), e a água ferve quando sua pressão de vapor iguala essa pressão, o que acontece a uma temperatura mais baixa (gráfico). O Pico da Neblina, o lugar mais alto, tem a menor temperatura de ebulição. Alternativa <strong>C</strong>.</p><p>Natal, ao nível do mar, tem a maior temperatura de ebulição (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão de vapor",
+    "altitude"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 63,
+   "materia": "Química",
+   "assunto": "pH",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p>O pH informa a acidez ou a basicidade de uma solução. A escala abaixo apresenta a natureza e o pH de algumas soluções e da água pura, a 25 °C.</p>[[fig:1]]<p>Uma solução desconhecida estava sendo testada no laboratório por um grupo de alunos. Esses alunos decidiram que deveriam medir o pH dessa solução como um dos parâmetros escolhidos na identificação da solução. Os resultados obtidos estão na tabela abaixo.</p><table class=\"tabela\"><thead><tr><th>Aluno</th><th>Valor de pH</th></tr></thead><tbody><tr><td>Carlos</td><td>4,5</td></tr><tr><td>Gustavo</td><td>5,5</td></tr><tr><td>Simone</td><td>5,0</td></tr><tr><td>Valéria</td><td>6,0</td></tr><tr><td>Paulo</td><td>4,5</td></tr><tr><td>Wagner</td><td>5,0</td></tr><tr><td>Renata</td><td>5,0</td></tr><tr><td>Rodrigo</td><td>5,5</td></tr><tr><td>Augusta</td><td>5,0</td></tr><tr><td>Eliane</td><td>5,5</td></tr></tbody></table><p>Da solução testada pelos alunos, o professor retirou 100 ml e adicionou água até completar 200 ml de solução diluída. O próximo grupo de alunos a medir o pH deverá encontrar para o mesmo:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-1998/q63.webp",
+     "alt": "Escala de pH de 0 a 14: ácido de 0 a 7, neutro em 7, básico de 7 a 14. Suco de limão, cerca de 2; saliva, cerca de 6 a 7; água pura, 7; clara de ovo, cerca de 8; sabão, cerca de 12."
+    }
+   ],
+   "alternativas": {
+    "A": "valores inferiores a 1,0.",
+    "B": "os mesmos valores.",
+    "C": "valores entre 5 e 7.",
+    "D": "valores entre 5 e 3.",
+    "E": "sempre o valor 7."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os alunos mediram pH entre 4,5 e 6,0: a solução é ácida. Dobrando o volume com água, a concentração de H<sup>+</sup> cai pela metade e o pH sobe um pouco (cerca de 0,3), mas a solução continua ácida, abaixo de 7. Os novos valores devem ficar entre 5 e 7. Alternativa <strong>C</strong>.</p><p>Diluir não deixa a solução mais ácida (A, D) nem a torna neutra (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pH",
+    "diluição"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

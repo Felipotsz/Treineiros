@@ -1,0 +1,1330 @@
+{
+ "id": "enem-2013-matematica",
+ "banca": "Enem",
+ "ano": 2013,
+ "titulo": "Enem 2013: Matemática",
+ "fonte": "Inep",
+ "dataExame": "2013-10-27",
+ "duracaoMinutos": 150,
+ "area": "Matemática",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 136
+   },
+   "enunciado": "<p>As torres Puerta de Europa são duas torres inclinadas uma contra a outra, construídas numa avenida de Madri, na Espanha. A inclinação das torres é de 15° com a vertical e elas têm, cada uma, uma altura de 114 m (a altura é indicada na figura como o segmento AB). Estas torres são um bom exemplo de um prisma oblíquo de base quadrada e uma delas pode ser observada na imagem.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.flickr.com. Acesso em: 27 mar. 2012.</p><p>Utilizando 0,26 como valor aproximado para a tangente de 15° e duas casas decimais nas operações, descobre-se que a área da base desse prédio ocupa na avenida um espaço</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q136.webp",
+     "alt": "Foto de uma das torres Puerta de Europa, em Madri: prédio de vidro inclinado, com o ponto A no topo e o ponto B na base, indicando a altura."
+    }
+   ],
+   "alternativas": {
+    "A": "menor que 100 m<sup>2</sup>.",
+    "B": "entre 100 m<sup>2</sup> e 300 m<sup>2</sup>.",
+    "C": "entre 300 m<sup>2</sup> e 500 m<sup>2</sup>.",
+    "D": "entre 500 m<sup>2</sup> e 700 m<sup>2</sup>.",
+    "E": "maior que 700 m<sup>2</sup>."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A torre é um prisma oblíquo inclinado 15° em relação à vertical, com altura AB = 114 m. O deslocamento horizontal do topo é 114 · tg 15° = 114 · 0,26 = 29,64 m, que corresponde ao lado da base quadrada. A área é 29,64² ≈ 878,53 m², <strong>maior que 700 m²</strong>. Alternativa <strong>E</strong>.</p><p>Quem toma 29,64 como área, e não como lado, chega a uma das opções menores.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tangente",
+    "prisma oblíquo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 137
+   },
+   "enunciado": "<p>As notas de um professor que participou de um processo seletivo, em que a banca avaliadora era composta por cinco membros, são apresentadas no gráfico. Sabe-se que cada membro da banca atribuiu duas notas ao professor, uma relativa aos conhecimentos específicos da área de atuação e outra, aos conhecimentos pedagógicos, e que a média final do professor foi dada pela média aritmética de todas as notas atribuídas pela banca avaliadora.</p>[[fig:1]]<p>Utilizando um novo critério, essa banca avaliadora resolveu descartar a maior e a menor notas atribuídas ao professor.</p><p>A nova média, em relação à média anterior, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q137.webp",
+     "alt": "Gráfico de colunas “Notas (em pontos)”, com duas colunas por avaliador (conhecimentos específicos, em preto, e pedagógicos, em cinza): Avaliador A, 18 e 16; B, 17 e 13; C, 14 e 1; D, 19 e 14; E, 16 e 12."
+    }
+   ],
+   "alternativas": {
+    "A": "0,25 ponto maior.",
+    "B": "1,00 ponto maior.",
+    "C": "1,00 ponto menor.",
+    "D": "1,25 ponto maior.",
+    "E": "2,00 pontos menor."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As dez notas são 18, 16, 17, 13, 14, 1, 19, 14, 16 e 12, com soma 140 e média 14. Descartando a maior (19) e a menor (1), sobram 120 em 8 notas: média 15. A nova média é <strong>1,00 ponto maior</strong>. Alternativa <strong>B</strong>.</p><p>A nota 1, muito baixa, puxava a média para baixo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média aritmética",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 138
+   },
+   "enunciado": "<p>Um banco solicitou aos seus clientes a criação de uma senha pessoal de seis dígitos, formada somente por algarismos de 0 a 9, para acesso à conta corrente pela internet.</p><p>Entretanto, um especialista em sistemas de segurança eletrônica recomendou à direção do banco recadastrar seus usuários, solicitando, para cada um deles, a criação de uma nova senha com seis dígitos, permitindo agora o uso das 26 letras do alfabeto, além dos algarismos de 0 a 9. Nesse novo sistema, cada letra maiúscula era considerada distinta de sua versão minúscula. Além disso, era proibido o uso de outros tipos de caracteres.</p><p>Uma forma de avaliar uma alteração no sistema de senhas é a verificação do coeficiente de melhora, que é a razão do novo número de possibilidades de senhas em relação ao antigo.</p><p>O coeficiente de melhora da alteração recomendada é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{62^6}{10^6}\\)",
+    "B": "\\(\\dfrac{62!}{10!}\\)",
+    "C": "\\(\\dfrac{62!\\,4!}{10!\\,56!}\\)",
+    "D": "\\(62! - 10!\\)",
+    "E": "\\(62^6 - 10^6\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No sistema antigo, cada um dos 6 dígitos tem 10 opções: 10<sup>6</sup> senhas. No novo, há 26 maiúsculas, 26 minúsculas e 10 algarismos, 62 símbolos, que podem se repetir: 62<sup>6</sup> senhas. O coeficiente é \\(\\dfrac{62^6}{10^6}\\). Alternativa <strong>A</strong>.</p><p>Os fatoriais (B e C) só valeriam se os símbolos não pudessem se repetir.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo",
+    "senhas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 139
+   },
+   "enunciado": "<p>Uma torneira não foi fechada corretamente e ficou pingando, da meia-noite às seis horas da manhã, com a frequência de uma gota a cada três segundos. Sabe-se que cada gota d’agua tem volume de 0,2 mL. Qual foi o valor mais aproximado do total de água desperdiçada nesse período, em litros?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,2",
+    "B": "1,2",
+    "C": "1,4",
+    "D": "12,9",
+    "E": "64,8"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>De meia-noite às seis são 6 h = 21 600 s. Com uma gota a cada 3 s, são 7 200 gotas, e 7 200 × 0,2 mL = 1 440 mL ≈ <strong>1,4 L</strong>. Alternativa <strong>C</strong>.</p><p>A opção B (1,2) seria o resultado arredondado para baixo ou com conta de tempo errada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conversão de unidades",
+    "proporcionalidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 140
+   },
+   "enunciado": "<p>Um comerciante visita um centro de vendas para fazer cotação de preços dos produtos que deseja comprar. Verifica que se aproveita 100% da quantidade adquirida de produtos do tipo A, mas apenas 90% de produtos do tipo B. Esse comerciante deseja comprar uma quantidade de produtos, obtendo o menor custo/benefício em cada um deles. O quadro mostra o preço por quilograma, em reais, de cada produto comercializado.</p><table class=\"tabela\"><thead><tr><th>Produto</th><th>Tipo A</th><th>Tipo B</th></tr></thead><tbody><tr><td>Arroz</td><td>2,00</td><td>1,70</td></tr><tr><td>Feijão</td><td>4,50</td><td>4,10</td></tr><tr><td>Soja</td><td>3,80</td><td>3,50</td></tr><tr><td>Milho</td><td>6,00</td><td>5,30</td></tr></tbody></table><p>Os tipos de arroz, feijão, soja e milho que devem ser escolhidos pelo comerciante são, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A, A, A, A.",
+    "B": "A, B, A, B.",
+    "C": "A, B, B, A.",
+    "D": "B, A, A, B.",
+    "E": "B, B, B, B."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Como só 90% do tipo B é aproveitado, o custo real por quilo aproveitado é o preço dividido por 0,9: arroz 1,70 ÷ 0,9 ≈ 1,89 (melhor que 2,00, então B); feijão 4,10 ÷ 0,9 ≈ 4,56 (pior que 4,50, então A); soja 3,50 ÷ 0,9 ≈ 3,89 (pior que 3,80, então A); milho 5,30 ÷ 0,9 ≈ 5,89 (melhor que 6,00, então B). A escolha é <strong>B, A, A, B</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "custo-benefício",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 141
+   },
+   "enunciado": "<p>Em um sistema de dutos, três canos iguais, de raio externo 30 cm, são soldados entre si e colocados dentro de um cano de raio maior, de medida R. Para posteriormente ter fácil manutenção, é necessário haver uma distância de 10 cm entre os canos soldados e o cano de raio maior. Essa distância é garantida por um espaçador de metal, conforme a figura:</p>[[fig:1]]<p>Utilize 1,7 como aproximação para \\(\\sqrt{3}\\). O valor de <em>R</em>, em centímetros, é igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q141.webp",
+     "alt": "Três circunferências iguais, tangentes entre si, dentro de uma circunferência maior de raio R. O raio de uma das menores é 30 cm, e há um espaço de 10 cm entre ela e a maior."
+    }
+   ],
+   "alternativas": {
+    "A": "64,0.",
+    "B": "65,5.",
+    "C": "74,0.",
+    "D": "81,0.",
+    "E": "91,0."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os centros dos três canos formam um triângulo equilátero de lado 60 cm. A distância do centro do triângulo a cada vértice é \\(\\dfrac{60}{\\sqrt{3}} = 20\\sqrt{3} \\approx 34\\) cm. Somando o raio de um cano (30 cm) e o espaçador (10 cm): R = 34 + 30 + 10 = <strong>74 cm</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "triângulo equilátero",
+    "circunferências tangentes"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 142
+   },
+   "enunciado": "<p>O índice de eficiência utilizado por um produtor de leite para qualificar suas vacas é dado pelo produto do tempo de lactação (em dias) pela produção média diária de leite (em kg), dividido pelo intervalo entre partos (em meses). Para esse produtor, a vaca é qualificada como eficiente quando esse índice é, no mínimo, 281 quilogramas por mês, mantendo sempre as mesmas condições de manejo (alimentação, vacinação e outros). Na comparação de duas ou mais vacas, a mais eficiente é a que tem maior índice.</p><p>A tabela apresenta os dados coletados de cinco vacas:</p><table class=\"tabela\"><thead><tr><th>Vaca</th><th>Tempo de lactação (em dias)</th><th>Produção média diária de leite (em kg)</th><th>Intervalo entre partos (em meses)</th></tr></thead><tbody><tr><td>Malhada</td><td>360</td><td>12,0</td><td>15</td></tr><tr><td>Mamona</td><td>310</td><td>11,0</td><td>12</td></tr><tr><td>Maravilha</td><td>260</td><td>14,0</td><td>12</td></tr><tr><td>Mateira</td><td>310</td><td>13,0</td><td>13</td></tr><tr><td>Mimosa</td><td>270</td><td>12,0</td><td>11</td></tr></tbody></table><p>Após a análise dos dados, o produtor avaliou que a vaca mais eficiente é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Malhada.",
+    "B": "Mamona.",
+    "C": "Maravilha.",
+    "D": "Mateira.",
+    "E": "Mimosa."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O índice é (tempo de lactação × produção diária) ÷ intervalo entre partos: Malhada 360 × 12 ÷ 15 = 288; Mamona 310 × 11 ÷ 12 ≈ 284; Maravilha 260 × 14 ÷ 12 ≈ 303; Mateira 310 × 13 ÷ 13 = 310; Mimosa 270 × 12 ÷ 11 ≈ 295. A mais eficiente é a <strong>Mateira</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "índices",
+    "comparação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Escalas",
+   "origem": {
+    "numeroOriginal": 143
+   },
+   "enunciado": "<p>A Secretaria de Saúde de um município avalia um programa que disponibiliza, para cada aluno de uma escola municipal, uma bicicleta, que deve ser usada no trajeto de ida e volta, entre sua casa e a escola. Na fase de implantação do programa, o aluno que morava mais distante da escola realizou sempre o mesmo trajeto, representado na figura, na escala 1 : 25 000, por um período de cinco dias.</p>[[fig:1]]<p>Quantos quilômetros esse aluno percorreu na fase de implantação do programa?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q143.webp",
+     "alt": "Malha quadriculada com quadrados de 1 cm de lado: o trajeto em escada, só com segmentos horizontais e verticais, vai da casa, no canto inferior esquerdo, até a escola, no canto superior direito; um ciclista aparece no caminho."
+    }
+   ],
+   "alternativas": {
+    "A": "4",
+    "B": "8",
+    "C": "16",
+    "D": "20",
+    "E": "40"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Contando os lados de quadradinho percorridos no trajeto de casa até a escola, são 16 cm. Na escala 1 : 25 000, 1 cm vale 250 m, então a ida tem 16 × 250 = 4 000 m = 4 km. Ida e volta somam 8 km por dia; em cinco dias, <strong>40 km</strong>. Alternativa <strong>E</strong>.</p><p>A opção A (4) é só a ida de um dia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "distância"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 144
+   },
+   "enunciado": "<p>A cidade de Guarulhos (SP) tem o 8º PIB municipal do Brasil, além do maior aeroporto da América do Sul.</p><p>Em proporção, possui a economia que mais cresce em indústrias, conforme mostra o gráfico.</p>[[fig:1]]<p class=\"fonte\">Fonte: IBGE, 2002-2008 (adaptado).</p><p>Analisando os dados percentuais do gráfico, qual a diferença entre o maior e o menor centro em crescimento no polo das indústrias?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q144.webp",
+     "alt": "Gráfico de colunas “Crescimento - Indústria”: Brasil, 30,95%; São Paulo (Estado), 14,76%; São Paulo (Capital), 3,57%; Guarulhos, 60,52%."
+    }
+   ],
+   "alternativas": {
+    "A": "75,28",
+    "B": "64,09",
+    "C": "56,95",
+    "D": "45,76",
+    "E": "30,07"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O maior crescimento é o de Guarulhos (60,52%) e o menor, o de São Paulo capital (3,57%). A diferença é 60,52 − 3,57 = <strong>56,95</strong> pontos percentuais. Alternativa <strong>C</strong>.</p><p>A opção D (45,76) subtrai o estado de São Paulo, e não a capital, que tem o menor crescimento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 145
+   },
+   "enunciado": "<p>Em um certo teatro, as poltronas são divididas em setores. A figura apresenta a vista do setor 3 desse teatro, no qual as cadeiras escuras estão reservadas e as claras não foram vendidas.</p>[[fig:1]]<p>A razão que representa a quantidade de cadeiras reservadas do setor 3 em relação ao total de cadeiras desse mesmo setor é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q145.webp",
+     "alt": "Vista do setor 3 de um teatro: 7 fileiras com 10 cadeiras cada; 17 cadeiras estão em preto (reservadas) e as demais em branco."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\dfrac{17}{70}\\)",
+    "B": "\\(\\dfrac{17}{53}\\)",
+    "C": "\\(\\dfrac{53}{70}\\)",
+    "D": "\\(\\dfrac{53}{17}\\)",
+    "E": "\\(\\dfrac{70}{17}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O setor tem 7 fileiras de 10 cadeiras, 70 no total. Contando as escuras, são 17 reservadas. A razão é \\(\\dfrac{17}{70}\\). Alternativa <strong>A</strong>.</p><p>A opção B divide pelo número de cadeiras livres (53), e não pelo total.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "razão",
+    "contagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 146
+   },
+   "enunciado": "<p>Uma loja acompanhou o número de compradores de dois produtos, A e B, durante os meses de janeiro, fevereiro e março de 2012. Com isso, obteve este gráfico:</p>[[fig:1]]<p>A loja sorteará um brinde entre os compradores do produto A e outro brinde entre os compradores do produto B.</p><p>Qual a probabilidade de que os dois sorteados tenham feito suas compras em fevereiro de 2012?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q146.webp",
+     "alt": "Gráfico de colunas do número de compradores: janeiro, A 10 e B 20; fevereiro, A 30 e B 20; março, A 60 e B 80."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{20}\\)",
+    "B": "\\(\\dfrac{3}{242}\\)",
+    "C": "\\(\\dfrac{5}{22}\\)",
+    "D": "\\(\\dfrac{6}{25}\\)",
+    "E": "\\(\\dfrac{7}{15}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O produto A teve 10 + 30 + 60 = 100 compradores, 30 em fevereiro; o B teve 20 + 20 + 80 = 120, 20 em fevereiro. Os sorteios são independentes: \\(\\dfrac{30}{100} \\cdot \\dfrac{20}{120} = \\dfrac{3}{10} \\cdot \\dfrac{1}{6} = \\dfrac{1}{20}\\). Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eventos independentes",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 147
+   },
+   "enunciado": "<p>Para o reflorestamento de uma área, deve-se cercar totalmente, com tela, os lados de um terreno, exceto o lado margeado pelo rio, conforme a figura. Cada rolo de tela que será comprado para confecção da cerca contém 48 metros de comprimento.</p>[[fig:1]]<p>A quantidade mínima de rolos que deve ser comprada para cercar esse terreno é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q147.webp",
+     "alt": "Terreno retangular com um lado de 190 m e os dois laterais de 81 m; o quarto lado é margeado por um rio."
+    }
+   ],
+   "alternativas": {
+    "A": "6.",
+    "B": "7.",
+    "C": "8.",
+    "D": "11.",
+    "E": "12."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Sem o lado do rio, a cerca mede 81 + 190 + 81 = 352 m. Com rolos de 48 m, são 352 ÷ 48 ≈ 7,33 rolos; como não se compra fração, são <strong>8 rolos</strong>. Alternativa <strong>C</strong>.</p><p>Arredondar para baixo (7, B) deixaria parte do terreno sem cerca.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "perímetro",
+    "arredondamento"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 148
+   },
+   "enunciado": "<p>Um dos grandes problemas enfrentados nas rodovias brasileiras é o excesso de carga transportada pelos caminhões. Dimensionado para o tráfego dentro dos limites legais de carga, o piso das estradas se deteriora com o peso excessivo dos caminhões. Além disso, o excesso de carga interfere na capacidade de frenagem e no funcionamento da suspensão do veículo, causas frequentes de acidentes.</p><p>Ciente dessa responsabilidade e com base na experiência adquirida com pesagens, um caminhoneiro sabe que seu caminhão pode carregar, no máximo, 1 500 telhas ou 1 200 tijolos.</p><p>Considerando esse caminhão carregado com 900 telhas, quantos tijolos, no máximo, podem ser acrescentados à carga de modo a não ultrapassar a carga máxima do caminhão?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "300 tijolos",
+    "B": "360 tijolos",
+    "C": "400 tijolos",
+    "D": "480 tijolos",
+    "E": "600 tijolos"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>900 telhas são 900 ÷ 1 500 = 60% da carga máxima. Sobram 40%, que correspondem a 0,4 × 1 200 = <strong>480 tijolos</strong>. Alternativa <strong>D</strong>.</p><p>Subtrair os números diretamente (1 500 − 900 = 600, E) ignora que telhas e tijolos têm pesos diferentes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade",
+    "frações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Progressões",
+   "origem": {
+    "numeroOriginal": 149
+   },
+   "enunciado": "<p>As projeções para a produção de arroz no período de 2012 - 2021, em uma determinada região produtora, apontam para uma perspectiva de crescimento constante da produção anual. O quadro apresenta a quantidade de arroz, em toneladas, que será produzida nos primeiros anos desse período, de acordo com essa projeção.</p><table class=\"tabela\"><thead><tr><th>Ano</th><th>Projeção da produção (t)</th></tr></thead><tbody><tr><td>2012</td><td>50,25</td></tr><tr><td>2013</td><td>51,50</td></tr><tr><td>2014</td><td>52,75</td></tr><tr><td>2015</td><td>54,00</td></tr></tbody></table><p>A quantidade total de arroz, em toneladas, que deverá ser produzida no período de 2012 a 2021 será de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "497,25.",
+    "B": "500,85.",
+    "C": "502,87.",
+    "D": "558,75.",
+    "E": "563,25."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A produção cresce 1,25 t por ano: é uma progressão aritmética com a<sub>1</sub> = 50,25 e razão 1,25. Em 2021 (10º termo): 50,25 + 9 × 1,25 = 61,50. A soma é \\(\\dfrac{(50{,}25 + 61{,}50) \\cdot 10}{2} = \\) <strong>558,75 t</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "progressão aritmética",
+    "soma dos termos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 150
+   },
+   "enunciado": "<p>Numa escola com 1 200 alunos foi realizada uma pesquisa sobre o conhecimento desses em duas línguas estrangeiras, inglês e espanhol.</p><p>Nessa pesquisa constatou-se que 600 alunos falam inglês, 500 falam espanhol e 300 não falam qualquer um desses idiomas.</p><p>Escolhendo-se um aluno dessa escola ao acaso e sabendo-se que ele não fala inglês, qual a probabilidade de que esse aluno fale espanhol?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{2}\\)",
+    "B": "\\(\\dfrac{5}{8}\\)",
+    "C": "\\(\\dfrac{1}{4}\\)",
+    "D": "\\(\\dfrac{5}{6}\\)",
+    "E": "\\(\\dfrac{5}{14}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Falam pelo menos uma das línguas 1 200 − 300 = 900 alunos. Como 600 + 500 = 1 100, há 200 que falam as duas. Não falam inglês 600 alunos; desses, falam espanhol 500 − 200 = 300. A probabilidade é \\(\\dfrac{300}{600} = \\dfrac{1}{2}\\). Alternativa <strong>A</strong>.</p><p>A opção B (5/8) não desconta quem fala as duas línguas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade condicional",
+    "conjuntos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Geometria analítica",
+   "origem": {
+    "numeroOriginal": 151
+   },
+   "enunciado": "<p>Durante uma aula de Matemática, o professor sugere aos alunos que seja fixado um sistema de coordenadas cartesianas (x, y) e representa na lousa a descrição de cinco conjuntos algébricos, I, II, III, IV e V, como se segue:</p><ul><li>I — é a circunferência de equação <em>x</em><sup>2</sup> + <em>y</em><sup>2</sup> = 9;</li><li>II — é a parábola de equação <em>y</em> = −<em>x</em><sup>2</sup> − 1, com <em>x</em> variando de −1 a 1;</li><li>III — é o quadrado formado pelos vértices (−2, 1), (−1, 1), (−1, 2) e (−2, 2);</li><li>IV — é o quadrado formado pelos vértices (1, 1), (2, 1), (2, 2) e (1, 2);</li><li>V — é o ponto (0, 0).</li></ul><p>A seguir, o professor representa corretamente os cinco conjuntos sobre uma mesma malha quadriculada, composta de quadrados com lados medindo uma unidade de comprimento, cada, obtendo uma figura.</p><p>Qual destas figuras foi desenhada pelo professor?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q151a.webp",
+     "alt": "Alternativa A: circunferência de raio 9 com dois quadradinhos perto do centro e uma curva voltada para baixo."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q151b.webp",
+     "alt": "Alternativa B: circunferência de raio 9 com dois quadradinhos e uma curva voltada para cima, como um sorriso."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q151c.webp",
+     "alt": "Alternativa C: circunferência de raio 3 com dois quadradinhos, um ponto no centro e uma curva voltada para cima abaixo dele."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q151d.webp",
+     "alt": "Alternativa D: circunferência de raio 3 com dois quadradinhos, um ponto e uma curva voltada para cima acima do ponto."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q151e.webp",
+     "alt": "Alternativa E: circunferência de raio 3 com dois quadradinhos acima, um ponto no centro e uma curva voltada para baixo, como uma boca triste."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A circunferência x² + y² = 9 tem raio 3, então o “rosto” vai de −3 a 3. A parábola y = −x² − 1 tem concavidade para baixo e vértice em (0, −1): é a “boca triste”. Os quadrados ficam em cima, entre 1 e 2 no eixo y, e o ponto (0, 0) é o “nariz”. É a <strong>figura E</strong>. Alternativa <strong>E</strong>.</p><p>Em A e B o raio é 9, e em C e D a parábola está virada para cima.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "circunferência",
+    "parábola"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 152
+   },
+   "enunciado": "<p>A parte interior de uma taça foi gerada pela rotação de uma parábola em torno de um eixo z, conforme mostra a figura.</p>[[fig:1]]<p>A função real que expressa a parábola, no plano cartesiano da figura, é dada pela lei \\(f(x) = \\dfrac{3}{2}x^2 - 6x + C\\), onde <em>C</em> é a medida da altura do líquido contido na taça, em centímetros. Sabe-se que o ponto <em>V</em>, na figura, representa o vértice da parábola, localizado sobre o eixo <em>x</em>.</p><p>Nessas condições, a altura do líquido contido na taça, em centímetros, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q152.webp",
+     "alt": "Taça em perfil sobre um plano cartesiano: o interior tem forma de parábola com vértice V sobre o eixo x, no fundo da taça; o eixo de rotação z passa pelo meio; o líquido ocupa a parte de baixo, até a altura C no eixo y."
+    }
+   ],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "4.",
+    "D": "5.",
+    "E": "6."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O vértice V está sobre o eixo x, então a parábola toca o eixo em um só ponto: o discriminante é zero. Δ = 36 − 4 · \\(\\tfrac{3}{2}\\) · C = 36 − 6C = 0, logo C = <strong>6</strong>. Alternativa <strong>E</strong>.</p><p>Outra forma: o vértice tem x = 6 ÷ 3 = 2, e f(2) = 6 − 12 + C = 0.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função quadrática",
+    "vértice"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 153
+   },
+   "enunciado": "<p>Muitos processos fisiológicos e bioquímicos, tais como batimentos cardíacos e taxa de respiração, apresentam escalas construídas a partir da relação entre superfície e massa (ou volume) do animal. Uma dessas escalas, por exemplo, considera que “o cubo da área S da superfície de um mamífero é proporcional ao quadrado de sua massa M”.</p><p class=\"fonte\">HUGHES-HALLETT, D. et al. <em>Cálculo e aplicações</em>. São Paulo: Edgard Blücher, 1999 (adaptado).</p><p>Isso é equivalente a dizer que, para uma constante k > 0, a área S pode ser escrita em função de M por meio da expressão:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(S = k \\cdot M\\)",
+    "B": "\\(S = k \\cdot M^{\\frac{1}{3}}\\)",
+    "C": "\\(S = k^{\\frac{1}{3}} \\cdot M^{\\frac{1}{3}}\\)",
+    "D": "\\(S = k^{\\frac{1}{3}} \\cdot M^{\\frac{2}{3}}\\)",
+    "E": "\\(S = k^{\\frac{1}{3}} \\cdot M^{2}\\)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>“O cubo da área S é proporcional ao quadrado da massa M” significa S³ = k·M². Tirando a raiz cúbica dos dois lados: \\(S = k^{\\frac{1}{3}} \\cdot M^{\\frac{2}{3}}\\). Alternativa <strong>D</strong>.</p><p>A opção E esquece a raiz cúbica no expoente de M.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potências",
+    "proporcionalidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 154
+   },
+   "enunciado": "<p>A Lei da Gravitação Universal, de Isaac Newton, estabelece a intensidade da força de atração entre duas massas. Ela é representada pela expressão:</p><p>\\(F = G\\dfrac{m_1 m_2}{d^2}\\)</p><p>onde <em>m</em><sub>1</sub> e <em>m</em><sub>2</sub> correspondem às massas dos corpos, <em>d</em> à distância entre eles, <em>G</em> à constante universal da gravitação e <em>F</em> à força que um corpo exerce sobre o outro.</p><p>O esquema representa as trajetórias circulares de cinco satélites, de mesma massa, orbitando a Terra.</p>[[fig:1]]<p>Qual gráfico expressa as intensidades das forças que a Terra exerce sobre cada satélite em função do tempo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q154.webp",
+     "alt": "Esquema com a Terra no centro e cinco órbitas circulares concêntricas; os satélites E e D estão nas órbitas mais próximas, depois C e B, e A está na órbita mais externa."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q154a.webp",
+     "alt": "Alternativa A: retas horizontais, com A no topo, depois B, C, D e E na parte de baixo."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q154b.webp",
+     "alt": "Alternativa B: retas horizontais, com E no topo, depois D, C, B e A na parte de baixo."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q154c.webp",
+     "alt": "Alternativa C: curvas crescentes que partem da origem, A a mais alta e E a mais baixa."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q154d.webp",
+     "alt": "Alternativa D: retas crescentes que partem da origem, A a mais inclinada e E a menos."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q154e.webp",
+     "alt": "Alternativa E: retas crescentes que partem da origem, E a mais inclinada e A a menos."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em órbita circular, a distância de cada satélite à Terra não muda, então a força também não muda com o tempo: os gráficos são retas horizontais. Como os satélites têm a mesma massa, quem está mais perto sofre força maior (a força cai com o quadrado da distância). A ordem, da maior para a menor força, é E, D, C, B, A, como no <strong>gráfico B</strong>. Alternativa <strong>B</strong>.</p><p>O gráfico A tem as retas horizontais, mas com a ordem invertida.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gravitação",
+    "proporcionalidade inversa"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Proporcionalidade",
+   "origem": {
+    "numeroOriginal": 155
+   },
+   "enunciado": "<p>Uma indústria tem um reservatório de água com capacidade para 900 m<sup>3</sup>. Quando há necessidade de limpeza do reservatório, toda a água precisa ser escoada. O escoamento da água é feito por seis ralos, e dura 6 horas quando o reservatório está cheio. Esta indústria construirá um novo reservatório, com capacidade de 500 m<sup>3</sup>, cujo escoamento da água deverá ser realizado em 4 horas, quando o reservatório estiver cheio. Os ralos utilizados no novo reservatório deverão ser idênticos aos do já existente.</p><p>A quantidade de ralos do novo reservatório deverá ser igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2.",
+    "B": "4.",
+    "C": "5.",
+    "D": "8.",
+    "E": "9."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No reservatório atual, 6 ralos escoam 900 m³ em 6 h: cada ralo escoa 900 ÷ 6 ÷ 6 = 25 m³ por hora. O novo precisa escoar 500 m³ em 4 h, ou 125 m³ por hora: 125 ÷ 25 = <strong>5 ralos</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "regra de três composta",
+    "vazão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 156
+   },
+   "enunciado": "<p>Uma fábrica de fórmicas produz placas quadradas de lados de medida igual a y centímetros. Essas placas são vendidas em caixas com N unidades e, na caixa, é especificada a área máxima S que pode ser coberta pelas N placas.</p><p>Devido a uma demanda do mercado por placas maiores, a fábrica triplicou a medida dos lados de suas placas e conseguiu reuni-las em uma nova caixa, de tal forma que a área coberta S não fosse alterada.</p><p>A quantidade X, de placas do novo modelo, em cada nova caixa será igual a:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{N}{9}\\)",
+    "B": "\\(\\dfrac{N}{6}\\)",
+    "C": "\\(\\dfrac{N}{3}\\)",
+    "D": "\\(3N\\)",
+    "E": "\\(9N\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Triplicando o lado, a área de cada placa fica 3² = 9 vezes maior. Para cobrir a mesma área S, são necessárias 9 vezes menos placas: \\(X = \\dfrac{N}{9}\\). Alternativa <strong>A</strong>.</p><p>A opção C (N/3) esquece que a área depende do quadrado do lado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área",
+    "semelhança"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 157
+   },
+   "enunciado": "<p>Num parque aquático existe uma piscina infantil na forma de um cilindro circular reto, de 1 m de profundidade e volume igual a 12 m<sup>3</sup>, cuja base tem raio R e centro O. Deseja-se construir uma ilha de lazer seca no interior dessa piscina, também na forma de um cilindro circular reto, cuja base estará no fundo da piscina e com centro da base coincidindo com o centro do fundo da piscina, conforme a figura. O raio da ilha de lazer será r. Deseja-se que após a construção dessa ilha, o espaço destinado à água na piscina tenha um volume de, no mínimo, 4 m<sup>3</sup>.</p>[[fig:1]]<p>Considere 3 como valor aproximado para π.</p><p>Para satisfazer as condições dadas, o raio máximo da ilha de lazer r, em metros, estará mais próximo de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q157.webp",
+     "alt": "Vista de cima da piscina circular de raio R e centro O; no meio, a ilha de lazer circular, de raio r, com o mesmo centro; a região entre as duas circunferências é a água."
+    }
+   ],
+   "alternativas": {
+    "A": "1,6.",
+    "B": "1,7.",
+    "C": "2,0.",
+    "D": "3,0.",
+    "E": "3,8."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O volume da piscina é 3 · R² · 1 = 12, então R = 2 m. A ilha ocupa 3r² · 1 m³, e a água restante deve ter pelo menos 4 m³: 12 − 3r² ≥ 4, ou r² ≤ \\(\\tfrac{8}{3}\\) ≈ 2,67. Logo r ≤ 1,63, ou seja, <strong>1,6 m</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cilindro",
+    "inequação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 158
+   },
+   "enunciado": "<p>O contribuinte que vende mais de R$ 20 mil de ações em Bolsa de Valores em um mês deverá pagar Imposto de Renda. O pagamento para a Receita Federal consistirá em 15% do lucro obtido com a venda das ações.</p><p class=\"fonte\">Disponível em: www1.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).</p><p>Um contribuinte que vende por R$ 34 mil um lote de ações que custou R$ 26 mil terá de pagar de Imposto de Renda à Receita Federal o valor de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 900,00.",
+    "B": "R$ 1 200,00.",
+    "C": "R$ 2 100,00.",
+    "D": "R$ 3 900,00.",
+    "E": "R$ 5 100,00."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O lucro foi 34 000 − 26 000 = 8 000 reais. O imposto é 15% do lucro: 0,15 × 8 000 = <strong>R$ 1 200,00</strong>. Alternativa <strong>B</strong>.</p><p>Calcular 15% do valor de venda daria R$ 5 100,00 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "imposto de renda"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 159
+   },
+   "enunciado": "<p>Para se construir um contrapiso, é comum, na constituição do concreto, se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de cimento, 4 partes de areia e 2 partes de brita. Para construir o contrapiso de uma garagem, uma construtora encomendou um caminhão betoneira com 14 m<sup>3</sup> de concreto.</p><p>Qual é o volume de cimento, em m<sup>3</sup>, na carga de concreto trazido pela betoneira?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,75",
+    "B": "2,00",
+    "C": "2,33",
+    "D": "4,00",
+    "E": "8,00"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A mistura tem 1 + 4 + 2 = 7 partes, das quais 1 é de cimento. Em 14 m³, o cimento ocupa 14 ÷ 7 = <strong>2,00 m³</strong>. Alternativa <strong>B</strong>.</p><p>A opção A (1,75) divide por 8 partes, e a C (2,33), por 6.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão proporcional",
+    "razão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 160
+   },
+   "enunciado": "<p>Cinco empresas de gêneros alimentícios encontram-se à venda. Um empresário, almejando ampliar os seus investimentos, deseja comprar uma dessas empresas. Para escolher qual delas irá comprar, analisa o lucro (em milhões de reais) de cada uma delas, em função de seus tempos (em anos) de existência, decidindo comprar a empresa que apresente o maior lucro médio anual.</p><p>O quadro apresenta o lucro (em milhões de reais) acumulado ao longo do tempo (em anos) de existência de cada empresa.</p><table class=\"tabela\"><thead><tr><th>Empresa</th><th>Lucro (em milhões de reais)</th><th>Tempo (em anos)</th></tr></thead><tbody><tr><td>F</td><td>24</td><td>3,0</td></tr><tr><td>G</td><td>24</td><td>2,0</td></tr><tr><td>H</td><td>25</td><td>2,5</td></tr><tr><td>M</td><td>15</td><td>1,5</td></tr><tr><td>P</td><td>9</td><td>1,5</td></tr></tbody></table><p>O empresário decidiu comprar a empresa</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "F.",
+    "B": "G.",
+    "C": "H.",
+    "D": "M.",
+    "E": "P."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O lucro médio anual é o lucro dividido pelo tempo: F, 24 ÷ 3 = 8; G, 24 ÷ 2 = 12; H, 25 ÷ 2,5 = 10; M, 15 ÷ 1,5 = 10; P, 9 ÷ 1,5 = 6. O maior é o da empresa <strong>G</strong>. Alternativa <strong>B</strong>.</p><p>H tem o maior lucro acumulado, mas em mais tempo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "razão",
+    "média"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 161
+   },
+   "enunciado": "<p>Deseja-se postar cartas não comerciais, sendo duas de 100 g, três de 200 g e uma de 350 g. O gráfico mostra o custo para enviar uma carta não comercial pelos Correios:</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.correios.com.br. Acesso em: 2 ago. 2012 (adaptado).</p><p>O valor total gasto, em reais, para postar essas cartas é de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q161.webp",
+     "alt": "Gráfico em degraus do custo (R$) em função da massa (g), de 0 a 400 g, em faixas de 50 g, com bolinha aberta no início e fechada no fim de cada degrau: até 20 g, 0,80; até 50 g, 1,25; até 100 g, 1,70; até 150 g, 2,15; até 200 g, 2,65; até 250 g, 3,10; até 300 g, 3,55; até 350 g, 4,00; até 400 g, 4,45."
+    }
+   ],
+   "alternativas": {
+    "A": "8,35.",
+    "B": "12,50.",
+    "C": "14,40.",
+    "D": "15,35.",
+    "E": "18,05."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo gráfico, uma carta de 100 g custa R$ 1,70; de 200 g, R$ 2,65; de 350 g, R$ 4,00 (cada degrau inclui o seu limite direito). O total é 2 × 1,70 + 3 × 2,65 + 4,00 = 3,40 + 7,95 + 4,00 = <strong>R$ 15,35</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função definida por partes",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 162
+   },
+   "enunciado": "<p>Foi realizado um levantamento nos 200 hotéis de uma cidade, no qual foram anotados os valores, em reais, das diárias para um quarto padrão de casal e a quantidade de hotéis para cada valor da diária. Os valores das diárias foram: A = R$ 200,00; B = R$ 300,00; C = R$ 400,00 e D = R$ 600,00. No gráfico, as áreas representam as quantidades de hotéis pesquisados, em porcentagem, para cada valor da diária.</p>[[fig:1]]<p>O valor mediano da diária, em reais, para o quarto padrão de casal nessa cidade, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q162.webp",
+     "alt": "Gráfico de setores: A, 25%; B, 25%; C, 40%; D, 10%."
+    }
+   ],
+   "alternativas": {
+    "A": "300,00.",
+    "B": "345,00.",
+    "C": "350,00.",
+    "D": "375,00.",
+    "E": "400,00."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Ordenando as diárias dos 200 hotéis: 25% (50 hotéis) custam 200; 25% (mais 50, até o 100º) custam 300; 40% (do 101º ao 180º) custam 400; 10% custam 600. A mediana é a média do 100º e do 101º valores: \\(\\dfrac{300 + 400}{2} = \\) <strong>R$ 350,00</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mediana",
+    "gráfico de setores"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 163
+   },
+   "enunciado": "<p>Para aumentar as vendas no início do ano, uma loja de departamentos remarcou os preços de seus produtos 20% abaixo do preço original. Quando chegam ao caixa, os clientes que possuem o cartão fidelidade da loja têm direito a um desconto adicional de 10% sobre o valor total de suas compras.</p><p>Um cliente deseja comprar um produto que custava R$ 50,00 antes da remarcação de preços. Ele não possui o cartão fidelidade da loja.</p><p>Caso esse cliente possuísse o cartão fidelidade da loja, a economia adicional que obteria ao efetuar a compra, em reais, seria de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "15,00.",
+    "B": "14,00.",
+    "C": "10,00.",
+    "D": "5,00.",
+    "E": "4,00."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com a remarcação de 20%, o produto passa a custar 0,8 × 50 = R$ 40,00. O cartão daria mais 10% sobre esse valor: 0,1 × 40 = <strong>R$ 4,00</strong>. Alternativa <strong>E</strong>.</p><p>A opção D (5,00) aplica os 10% sobre o preço original.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "descontos sucessivos",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 164
+   },
+   "enunciado": "<p>Um programa de edição de imagens possibilita transformar figuras em outras mais complexas. Deseja-se construir uma nova figura a partir da original. A nova figura deve apresentar simetria em relação ao ponto O.</p>[[fig:1]]<p>Figura original</p><p>A imagem que representa a nova figura é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q164.webp",
+     "alt": "Figura original: retângulo com a metade de cima dividida na diagonal em um triângulo preto e um cinza, e a metade de baixo branca; o ponto O fica no canto inferior direito."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q164a.webp",
+     "alt": "Alternativa A: a figura original e, à direita, uma cópia em pé com triângulos preto e cinza na vertical."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q164b.webp",
+     "alt": "Alternativa B: a figura original e, à direita, uma cópia com a parte branca em cima e os triângulos embaixo."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q164c.webp",
+     "alt": "Alternativa C: a figura original e, à direita, uma cópia refletida em espelho, lado a lado."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q164d.webp",
+     "alt": "Alternativa D: a figura original e, abaixo e à direita de O, uma cópia de cabeça para baixo, com os triângulos em posição de espelho."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q164e.webp",
+     "alt": "Alternativa E: a figura original e, abaixo e à direita de O, a cópia girada 180° em torno de O."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Simetria em relação a um ponto é a rotação de 180° em torno dele. A figura original fica acima e à esquerda de O; a figura simétrica fica abaixo e à direita, de cabeça para baixo, com o triângulo escuro e o cinza trocando de lado, como na <strong>figura E</strong>. Alternativa <strong>E</strong>.</p><p>Em D, a cópia foi refletida em vez de girada: os triângulos estão em posição de espelho.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "simetria central",
+    "rotação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 165
+   },
+   "enunciado": "<p>Um artesão de joias tem à sua disposição pedras brasileiras de três cores: vermelhas, azuis e verdes.</p><p>Ele pretende produzir joias constituídas por uma liga metálica, a partir de um molde no formato de um losango não quadrado com pedras nos seus vértices, de modo que dois vértices consecutivos tenham sempre pedras de cores diferentes.</p><p>A figura ilustra uma joia, produzida por esse artesão, cujos vértices <em>A</em>, <em>B</em>, <em>C</em> e <em>D</em> correspondem às posições ocupadas pelas pedras.</p>[[fig:1]]<p>Com base nas informações fornecidas, quantas joias diferentes, nesse formato, o artesão poderá obter?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q165.webp",
+     "alt": "Losango com os vértices A (em cima), B (direita), C (embaixo) e D (esquerda), cada um com uma pedra."
+    }
+   ],
+   "alternativas": {
+    "A": "6",
+    "B": "12",
+    "C": "18",
+    "D": "24",
+    "E": "36"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Colorindo os vértices A, B, C e D de modo que vizinhos tenham cores diferentes: se A e C têm a mesma cor, são 3 × 2 × 2 = 12 maneiras; se têm cores diferentes, 3 × 2 × 1 × 1 = 6. Seriam 18 colorações. Mas a joia é um objeto que pode ser girada 180° e virada, e várias colorações são a mesma joia. O losango não quadrado tem 4 simetrias: ficar parado (as 18 colorações continuam iguais), girar 180° (A↔C e B↔D: só as 6 com A e C da mesma cor e B e D da mesma cor ficam iguais), refletir trocando só B e D (12 ficam iguais) e refletir trocando só A e C (12). Pelo lema de Burnside, o número de joias distintas é a média: \\(\\dfrac{18 + 6 + 12 + 12}{4} = \\) <strong>12</strong>. Alternativa <strong>B</strong>.</p><p>A conta 18 (C) trata como diferentes joias que são iguais depois de girar ou virar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "contagem",
+    "simetria"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 166
+   },
+   "enunciado": "<p>Em setembro de 1987, Goiânia foi palco do maior acidente radioativo ocorrido no Brasil, quando uma amostra de césio-137, removida de um aparelho de radioterapia abandonado, foi manipulada inadvertidamente por parte da população. A meia-vida de um material radioativo é o tempo necessário para que a massa desse material se reduza à metade. A meia-vida do césio-137 é 30 anos e a quantidade restante de massa de um material radioativo, após t anos, é calculada pela expressão M(t) = A · (2,7)<sup><em>kt</em></sup>, onde A é a massa inicial e k é uma constante negativa.</p><p>Considere 0,3 como aproximação para log<sub>10</sub> 2.</p><p>Qual o tempo necessário, em anos, para que uma quantidade de massa do césio-137 se reduza a 10% da quantidade inicial?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "27",
+    "B": "36",
+    "C": "50",
+    "D": "54",
+    "E": "100"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Se após 30 anos resta metade, (2,7)<sup>30k</sup> = \\(\\tfrac{1}{2}\\). Queremos (2,7)<sup>kt</sup> = 0,1. Escrevendo (2,7)<sup>kt</sup> = \\(\\left(\\tfrac{1}{2}\\right)^{t/30}\\) e tirando o logaritmo: \\(\\tfrac{t}{30} \\cdot \\log 2 = 1\\), então t = 30 ÷ 0,3 = <strong>100 anos</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função exponencial",
+    "logaritmo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 167
+   },
+   "enunciado": "<p>A cerâmica constitui-se em um artefato bastante presente na história da humanidade. Uma de suas várias propriedades é a retração (contração), que consiste na evaporação da água existente em um conjunto ou bloco cerâmico quando submetido a uma determinada temperatura elevada. Essa elevação de temperatura, que ocorre durante o processo de cozimento, causa uma redução de até 20% nas dimensões lineares de uma peça.</p><p class=\"fonte\">Disponível em: www.arq.ufsc.br. Acesso em: 3 mar. 2012.</p><p>Suponha que uma peça, quando moldada em argila, possuía uma base retangular cujos lados mediam 30 cm e 15 cm. Após o cozimento, esses lados foram reduzidos em 20%.</p><p>Em relação à área original, a área da base dessa peça, após o cozimento, ficou reduzida em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4%.",
+    "B": "20%.",
+    "C": "36%.",
+    "D": "64%.",
+    "E": "96%."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Reduzir os lados em 20% é multiplicá-los por 0,8. A área fica multiplicada por 0,8² = 0,64, ou seja, passa a ser 64% da original: uma redução de <strong>36%</strong>. Alternativa <strong>C</strong>.</p><p>A opção B (20%) aplica a redução linear à área.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área",
+    "semelhança"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 168
+   },
+   "enunciado": "<p>Uma fábrica de parafusos possui duas máquinas, I e II, para a produção de certo tipo de parafuso.</p><p>Em setembro, a máquina I produziu \\(\\tfrac{54}{100}\\) do total de parafusos produzidos pela fábrica. Dos parafusos produzidos por essa máquina, \\(\\tfrac{25}{1\\,000}\\) eram defeituosos.</p><p>Por sua vez, \\(\\tfrac{38}{1\\,000}\\) dos parafusos produzidos no mesmo mês pela máquina II eram defeituosos.</p><p>O desempenho conjunto das duas máquinas é classificado conforme o quadro, em que <em>P</em> indica a probabilidade de um parafuso escolhido ao acaso ser defeituoso.</p><table class=\"tabela\"><thead><tr><th>Probabilidade de defeito</th><th>Desempenho</th></tr></thead><tbody><tr><td>0 ≤ P &lt; 2/100</td><td>Excelente</td></tr><tr><td>2/100 ≤ P &lt; 4/100</td><td>Bom</td></tr><tr><td>4/100 ≤ P &lt; 6/100</td><td>Regular</td></tr><tr><td>6/100 ≤ P &lt; 8/100</td><td>Ruim</td></tr><tr><td>8/100 ≤ P ≤ 1</td><td>Péssimo</td></tr></tbody></table><p>O desempenho conjunto dessas máquinas, em setembro, pode ser classificado como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "excelente.",
+    "B": "bom.",
+    "C": "regular.",
+    "D": "ruim.",
+    "E": "péssimo."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>P = 0,54 × 0,025 + 0,46 × 0,038 = 0,0135 + 0,01748 ≈ 0,031, ou cerca de 3,1%. Esse valor está entre 2/100 e 4/100: desempenho <strong>bom</strong>. Alternativa <strong>B</strong>.</p><p>A conta é uma média ponderada das taxas de defeito, com pesos iguais à participação de cada máquina na produção.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade total",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 169
+   },
+   "enunciado": "<p>Considere o seguinte jogo de apostas:</p><p>Numa cartela com 60 números disponíveis, um apostador escolhe de 6 a 10 números. Dentre os números disponíveis, serão sorteados apenas 6. O apostador será premiado caso os 6 números sorteados estejam entre os números escolhidos por ele numa mesma cartela.</p><p>O quadro apresenta o preço de cada cartela, de acordo com a quantidade de números escolhidos.</p><table class=\"tabela\"><thead><tr><th>Quantidade de números escolhidos em uma cartela</th><th>Preço da cartela (R$)</th></tr></thead><tbody><tr><td>6</td><td>2,00</td></tr><tr><td>7</td><td>12,00</td></tr><tr><td>8</td><td>40,00</td></tr><tr><td>9</td><td>125,00</td></tr><tr><td>10</td><td>250,00</td></tr></tbody></table><p>Cinco apostadores, cada um com R$ 500,00 para apostar, fizeram as seguintes opções:</p><ul><li>Arthur: 250 cartelas com 6 números escolhidos;</li><li>Bruno: 41 cartelas com 7 números escolhidos e 4 cartelas com 6 números escolhidos;</li><li>Caio: 12 cartelas com 8 números escolhidos e 10 cartelas com 6 números escolhidos;</li><li>Douglas: 4 cartelas com 9 números escolhidos;</li><li>Eduardo: 2 cartelas com 10 números escolhidos.</li></ul><p>Os dois apostadores com maiores probabilidades de serem premiados são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Caio e Eduardo.",
+    "B": "Arthur e Eduardo.",
+    "C": "Bruno e Caio.",
+    "D": "Arthur e Bruno.",
+    "E": "Douglas e Eduardo."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A chance de ganhar é proporcional ao número de sextinas cobertas. Uma cartela com n números cobre C(n, 6) sextinas: 1 (6 números), 7, 28, 84 e 210. Arthur: 250; Bruno: 41 × 7 + 4 = 291; Caio: 12 × 28 + 10 = 346; Douglas: 4 × 84 = 336; Eduardo: 2 × 210 = 420. Os maiores são <strong>Caio e Eduardo</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combinação",
+    "probabilidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 170
+   },
+   "enunciado": "<p>Nos Estados Unidos a unidade de medida de volume mais utilizada em latas de refrigerante é a onça fluida (floz), que equivale a aproximadamente 2,95 centilitros (cL).</p><p>Sabe-se que o centilitro é a centésima parte do litro e que a lata de refrigerante usualmente comercializada no Brasil tem capacidade de 355 mL.</p><p>Assim, a medida do volume da lata de refrigerante de 355 mL, em onça fluida (floz), é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,83.",
+    "B": "1,20.",
+    "C": "12,03.",
+    "D": "104,73.",
+    "E": "120,34."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>355 mL = 35,5 cL. Dividindo por 2,95 cL por onça: 35,5 ÷ 2,95 ≈ <strong>12,03 fl oz</strong>. Alternativa <strong>C</strong>.</p><p>A opção E (120,34) divide 355 mL por 2,95 sem converter as unidades.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conversão de unidades",
+    "divisão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Equações",
+   "origem": {
+    "numeroOriginal": 171
+   },
+   "enunciado": "<p>Na aferição de um novo semáforo, os tempos são ajustados de modo que, em cada ciclo completo (verde-amarelo-vermelho), a luz amarela permaneça acesa por 5 segundos, e o tempo em que a luz verde permaneça acesa seja igual a \\(\\tfrac{2}{3}\\) do tempo em que a luz vermelha fique acesa. A luz verde fica acesa, em cada ciclo, durante <em>X</em> segundos e cada ciclo dura <em>Y</em> segundos.</p><p>Qual é a expressão que representa a relação entre X e Y?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "5X − 3Y + 15 = 0",
+    "B": "5X − 2Y + 10 = 0",
+    "C": "3X − 3Y + 15 = 0",
+    "D": "3X − 2Y + 15 = 0",
+    "E": "3X − 2Y + 10 = 0"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Se o verde dura X, o vermelho dura \\(\\tfrac{3X}{2}\\) e o amarelo, 5 s. O ciclo é Y = X + \\(\\tfrac{3X}{2}\\) + 5. Multiplicando por 2: 2Y = 5X + 10, ou <strong>5X − 2Y + 10 = 0</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação do 1º grau",
+    "modelagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 172
+   },
+   "enunciado": "<p>A temperatura <em>T</em> de um forno (em graus centígrados) é reduzida por um sistema a partir do instante de seu desligamento (<em>t</em> = 0) e varia de acordo com a expressão \\(T(t) = -\\dfrac{t^2}{4} + 400\\), com <em>t</em> em minutos. Por motivos de segurança, a trava do forno só é liberada para abertura quando o forno atinge a temperatura de 39 ºC.</p><p>Qual o tempo mínimo de espera, em minutos, após se desligar o forno, para que a porta possa ser aberta?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "19,0",
+    "B": "19,8",
+    "C": "20,0",
+    "D": "38,0",
+    "E": "39,0"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A porta abre quando T = 39: 400 − \\(\\tfrac{t^2}{4}\\) = 39, então t² = 4 × 361 = 1 444 e t = <strong>38 minutos</strong>. Alternativa <strong>D</strong>.</p><p>A opção A (19) é a raiz de 361, sem multiplicar por 4.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função quadrática",
+    "equação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Aritmética",
+   "origem": {
+    "numeroOriginal": 173
+   },
+   "enunciado": "<p>O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados.</p><p class=\"fonte\">Disponível em: http://g1.globo.com. Acesso em: 27 fev. 2013.</p><p>No ano de 2101, o Sol estará no ciclo de atividade magnética de número</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "32.",
+    "B": "34.",
+    "C": "33.",
+    "D": "35.",
+    "E": "31."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O ciclo 1 ocupa 1755 a 1765, e cada ciclo começa 11 anos depois do anterior: o ciclo n começa em 1755 + 11(n − 1). Para 2101: 2101 − 1755 = 346 e 346 ÷ 11 ≈ 31,5, então já se passaram 31 ciclos completos e 2101 está no ciclo <strong>32</strong> (de 2096 a 2106). Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão",
+    "sequências"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "assunto": "Escalas",
+   "origem": {
+    "numeroOriginal": 174
+   },
+   "enunciado": "<p>A figura apresenta dois mapas, em que o estado do Rio de Janeiro é visto em diferentes escalas.</p>[[fig:1]]<p>Há interesse em estimar o número de vezes que foi ampliada a área correspondente a esse estado no mapa do Brasil.</p><p>Esse número é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q174.webp",
+     "alt": "Mapa do Brasil na escala 1 : 25 000 000 com o estado do Rio de Janeiro destacado e, num quadro ao lado, o mesmo estado ampliado, na escala 1 : 4 000 000."
+    }
+   ],
+   "alternativas": {
+    "A": "menor que 10.",
+    "B": "maior que 10 e menor que 20.",
+    "C": "maior que 20 e menor que 30.",
+    "D": "maior que 30 e menor que 40.",
+    "E": "maior que 40."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As escalas são 1 : 25 000 000 e 1 : 4 000 000. A razão entre as medidas lineares é 25 000 000 ÷ 4 000 000 = 6,25, e a área é ampliada pelo quadrado disso: 6,25² ≈ 39,06, <strong>maior que 30 e menor que 40</strong>. Alternativa <strong>D</strong>.</p><p>A opção A usa só a razão linear (6,25).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "razão de áreas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "assunto": "Geometria analítica",
+   "origem": {
+    "numeroOriginal": 175
+   },
+   "enunciado": "<p>Nos últimos anos, a televisão tem passado por uma verdadeira revolução, em termos de qualidade de imagem, som e interatividade com o telespectador. Essa transformação se deve à conversão do sinal analógico para o sinal digital. Entretanto, muitas cidades ainda não contam com essa nova tecnologia. Buscando levar esses benefícios a três cidades, uma emissora de televisão pretende construir uma nova torre de transmissão, que envie sinal às antenas A, B e C, já existentes nessas cidades. As localizações das antenas estão representadas no plano cartesiano:</p>[[fig:1]]<p>A torre deve estar situada em um local equidistante das três antenas.</p><p>O local adequado para a construção dessa torre corresponde ao ponto de coordenadas</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q175.webp",
+     "alt": "Plano cartesiano com eixos x (km) e y (km), de 0 a 90 e de 0 a 70, com os pontos A(30, 20), B(70, 20) e C(60, 50)."
+    }
+   ],
+   "alternativas": {
+    "A": "(65 ; 35).",
+    "B": "(53 ; 30).",
+    "C": "(45 ; 35).",
+    "D": "(50 ; 20).",
+    "E": "(50 ; 30)."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As antenas estão em A(30, 20), B(70, 20) e C(60, 50). O ponto equidistante de A e B está na reta x = 50. Igualando as distâncias a A e a C: (50 − 30)² + (y − 20)² = (50 − 60)² + (y − 50)², ou 400 − 40y + 400 = 100 − 100y + 2 500, então 60y = 1 800 e y = 30. O ponto é <strong>(50 ; 30)</strong>. Alternativa <strong>E</strong>.</p><p>É o circuncentro do triângulo ABC.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "distância entre pontos",
+    "circuncentro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 41,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 176
+   },
+   "enunciado": "<p>Uma cozinheira, especialista em fazer bolos, utiliza uma forma no formato representado na figura:</p>[[fig:1]]<p>Nela identifica-se a representação de duas figuras geométricas tridimensionais.</p><p>Essas figuras são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q176.webp",
+     "alt": "Forma de bolo vista em perspectiva: a parede externa é um tronco de cone mais largo em cima; no centro, um tubo também em forma de tronco de cone, mais estreito em cima; as bordas de baixo aparecem tracejadas."
+    }
+   ],
+   "alternativas": {
+    "A": "um tronco de cone e um cilindro.",
+    "B": "um cone e um cilindro.",
+    "C": "um tronco de pirâmide e um cilindro.",
+    "D": "dois troncos de cone.",
+    "E": "dois cilindros."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A forma tem uma parte externa que se alarga para cima e uma parte interna (o tubo do meio) que se estreita para cima. As duas têm bases circulares de tamanhos diferentes: são <strong>dois troncos de cone</strong>. Alternativa <strong>D</strong>.</p><p>O tubo central não é um cilindro (A), já que a base de cima é menor que a de baixo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sólidos geométricos",
+    "tronco de cone"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 177
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Uma falsa relação</strong></p><p class=\"apoio\">O cruzamento da quantidade de horas estudadas com o desempenho no Programa Internacional de Avaliação de Estudantes (Pisa) mostra que mais tempo na escola não é garantia de nota acima da média.</p>[[fig:1]]<p class=\"fonte\">* Considerando as médias de cada país no exame de matemática. <em>Nova Escola</em>, São Paulo, dez. 2010 (adaptado).</p><p>Dos países com notas abaixo da média nesse exame, aquele que apresenta maior quantidade de horas de estudo é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q177.webp",
+     "alt": "Gráfico com o eixo vertical das notas no Pisa (350 a 600) e o eixo horizontal das horas de estudo dos 7 aos 14 anos (4 500 a 9 000), cruzando-se na média. Acima da média: Finlândia, Coreia do Sul, Japão, Holanda e Austrália. Abaixo: Rússia (cerca de 5 500 h), Portugal, Itália, Israel (o mais à direita, cerca de 8 000 h) e México."
+    }
+   ],
+   "alternativas": {
+    "A": "Finlândia.",
+    "B": "Holanda.",
+    "C": "Israel.",
+    "D": "México.",
+    "E": "Rússia."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No gráfico, os países abaixo da média ficam abaixo do eixo horizontal: Rússia, Portugal, Itália, Israel e México. Entre eles, o que está mais à direita (mais horas de estudo) é <strong>Israel</strong>. Alternativa <strong>C</strong>.</p><p>Holanda e Finlândia (A e B) estão acima da média.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "média"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 178
+   },
+   "enunciado": "<p>Um restaurante utiliza, para servir bebidas, bandejas com bases quadradas. Todos os copos desse restaurante têm o formato representado na figura:</p>[[fig:1]]<p>Considere que \\(\\overline{AC} = \\tfrac{7}{5}\\overline{BD}\\) e que <em>l</em> é a medida de um dos lados da base da bandeja.</p><p>Qual deve ser o menor valor da razão \\(\\dfrac{l}{\\overline{BD}}\\) para que uma bandeja tenha capacidade de portar exatamente quatro copos de uma só vez?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q178.webp",
+     "alt": "Copo em perfil, com uma linha tracejada no eixo: na parte mais larga do bojo, A está no eixo e C na borda; na base, B está no eixo e D na borda."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(2\\)",
+    "B": "\\(\\dfrac{14}{5}\\)",
+    "C": "\\(4\\)",
+    "D": "\\(\\dfrac{24}{5}\\)",
+    "E": "\\(\\dfrac{28}{5}\\)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na figura, A e B estão no eixo do copo, então AC é o raio da parte mais larga do copo (o bojo, na altura do líquido) e BD, o raio da base. Quatro copos em 2 × 2 encostam pelo bojo (centros a 2·AC de distância), e a base de cada um precisa caber dentro da bandeja: l = 2·AC + 2·BD = 2 · \\(\\tfrac{7}{5}\\)BD + 2BD = \\(\\tfrac{24}{5}\\)BD. A razão é \\(\\dfrac{24}{5}\\). Alternativa <strong>D</strong>.</p><p>Tomar AC e BD como diâmetros daria 12/5, que não está entre as opções.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "circunferência",
+    "otimização"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 179
+   },
+   "enunciado": "<p>O dono de um sítio pretende colocar uma haste de sustentação para melhor firmar dois postes de comprimentos iguais a 6 m e 4 m. A figura representa a situação real na qual os postes são descritos pelos segmentos AC e BD e a haste é representada pelo segmento EF, todos perpendiculares ao solo, que é indicado pelo segmento de reta AB. Os segmentos AD e BC representam cabos de aço que serão instalados.</p>[[fig:1]]<p>Qual deve ser o valor do comprimento da haste <em>EF</em>?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q179.webp",
+     "alt": "Dois postes verticais: AC, com 4 m, à esquerda, e BD, com 6 m, à direita, sobre o solo AB. Os cabos AD e BC se cruzam no ponto E, e a haste vertical EF vai de E até o solo."
+    }
+   ],
+   "alternativas": {
+    "A": "1 m",
+    "B": "2 m",
+    "C": "2,4 m",
+    "D": "3 m",
+    "E": "2\\(\\sqrt{6}\\) m"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pela semelhança de triângulos, a haste no cruzamento dos cabos mede \\(\\dfrac{6 \\cdot 4}{6 + 4} = \\dfrac{24}{10} = \\) <strong>2,4 m</strong>, qualquer que seja a distância entre os postes. Alternativa <strong>C</strong>.</p><p>Em detalhe: chamando AF = a e FB = b, EF/4 = b/(a + b) e EF/6 = a/(a + b); somando, EF(1/4 + 1/6) = 1.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "semelhança de triângulos",
+    "média harmônica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 180
+   },
+   "enunciado": "<p>Gangorra é um brinquedo que consiste de uma tábua longa e estreita equilibrada e fixada no seu ponto central (pivô). Nesse brinquedo, duas pessoas sentam-se nas extremidades e, alternadamente, impulsionam-se para cima, fazendo descer a extremidade oposta, realizando, assim, o movimento da gangorra.</p><p>Considere a gangorra representada na figura, em que os pontos <em>A</em> e <em>B</em> são equidistantes do pivô:</p>[[fig:1]]<p>A projeção ortogonal da trajetória dos pontos <em>A</em> e <em>B</em>, sobre o plano do chão da gangorra, quando esta se encontra em movimento, é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-matematica/q180.webp",
+     "alt": "Gangorra inclinada sobre um pivô triangular, com a ponta A embaixo, à esquerda, e a ponta B em cima, à direita, sobre o chão."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q180a.webp",
+     "alt": "Alternativa A: um ponto acima de A e outro acima de B."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q180b.webp",
+     "alt": "Alternativa B: um segmento horizontal acima de A e outro acima de B."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q180c.webp",
+     "alt": "Alternativa C: dois arcos curvos, um acima de A e outro acima de B."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q180d.webp",
+     "alt": "Alternativa D: dois segmentos verticais, um acima de A e outro acima de B."
+    },
+    {
+     "src": "assets/img/enem-2013-matematica/q180e.webp",
+     "alt": "Alternativa E: duas linhas em forma de V invertido e de V."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os pontos A e B descrevem arcos de circunferência num plano vertical, em torno do pivô. Projetando esses arcos no chão, perpendicularmente, eles viram <strong>segmentos de reta</strong> horizontais, como na figura B. Alternativa <strong>B</strong>.</p><p>A opção C mostra os arcos vistos de lado, e não projetados no chão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "projeção ortogonal",
+    "circunferência"
+   ],
+   "area": "Matemática"
+  }
+ ]
+}

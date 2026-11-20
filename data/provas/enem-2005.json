@@ -1,0 +1,1823 @@
+{
+ "id": "enem-2005",
+ "banca": "Enem",
+ "ano": 2005,
+ "titulo": "Enem 2005: Prova objetiva",
+ "fonte": "Inep",
+ "dataExame": "2005-08-28",
+ "duracaoMinutos": 300,
+ "area": "Prova objetiva (63 questões)",
+ "caderno": "amarelo",
+ "dia": 1,
+ "fonteGabarito": {
+  "oficial": true,
+  "nome": "gabarito oficial do Inep, em cópia guardada pelo Instituto de Física da USP",
+  "url": "https://fep.if.usp.br/~profis/arquivo/avaliacao/enem/provas_gabaritos/2005/"
+ },
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p>As questões 1 e 2 referem-se ao poema.</p>[[fig:1]]<p class=\"fonte\">Carlos Drummond de Andrade. <em>Obra completa</em>. Rio de Janeiro: Aguilar, 1964. p. 366.</p><p>A definição de dança, em linguagem de dicionário, que mais se aproxima do que está expresso no poema é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q01.webp",
+     "alt": "Poema “A dança e a alma”, de Carlos Drummond de Andrade, em quatro quadras. O poeta diz que a dança não é só movimento, mas concentração e graça natural; que nela pairamos no éter, e não no solo; que é seiva e força, um estar entre céu e chão onde a paixão se liberta e a alma descreve suas parábolas mais divinas sem fugir à forma do ser."
+    }
+   ],
+   "alternativas": {
+    "A": "a mais antiga das artes, servindo como elemento de comunicação e afirmação do homem em todos os momentos de sua existência.",
+    "B": "a forma de expressão corporal que ultrapassa os limites físicos, possibilitando ao homem a liberação de seu espírito.",
+    "C": "a manifestação do ser humano, formada por uma seqüência de gestos, passos e movimentos desconcertados.",
+    "D": "o conjunto organizado de movimentos do corpo, com ritmo determinado por instrumentos musicais, ruídos, cantos, emoções etc.",
+    "E": "o movimento diretamente ligado ao psiquismo do indivíduo e, por conseqüência, ao seu desenvolvimento intelectual e à sua cultura."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O poema nega que a dança seja só movimento: ela é concentração, faz pairar “no éter” e permite que a paixão se liberte e que a alma descreva “suas mais divinas parábolas”. A definição que melhor traduz isso é a da expressão corporal que ultrapassa os limites físicos e libera o espírito. Alternativa <strong>B</strong>.</p><p>As outras falam de comunicação, sequência de passos, ritmo musical ou desenvolvimento intelectual, ideias que não estão no poema.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Interpretação de poema",
+    "Drummond",
+    "dança"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 2,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p>As questões 1 e 2 referem-se ao poema.</p>[[fig:1]]<p class=\"fonte\">Carlos Drummond de Andrade. <em>Obra completa</em>. Rio de Janeiro: Aguilar, 1964. p. 366.</p><p>O poema “A Dança e a Alma” é construído com base em contrastes, como “movimento” e “concentração”. Em uma das estrofes, o termo que estabelece contraste com <u>solo</u> é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q01.webp",
+     "alt": "Poema “A dança e a alma”, de Carlos Drummond de Andrade, em quatro quadras. O poeta diz que a dança não é só movimento, mas concentração e graça natural; que nela pairamos no éter, e não no solo; que é seiva e força, um estar entre céu e chão onde a paixão se liberta e a alma descreve suas parábolas mais divinas sem fugir à forma do ser."
+    }
+   ],
+   "alternativas": {
+    "A": "éter.",
+    "B": "seiva.",
+    "C": "chão.",
+    "D": "paixão.",
+    "E": "ser."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na segunda estrofe, “No solo não, no éter pairamos”: o éter (o espaço celeste, o ar) se opõe ao solo, como o alto ao baixo. Alternativa <strong>A</strong>.</p><p>“Chão” (C) aparece em outra estrofe e tem sentido próximo ao de solo, e não oposto; seiva, paixão e ser não formam contraste com ele.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Interpretação de poema",
+    "antítese",
+    "Drummond"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 3,
+   "materia": "Geografia",
+   "assunto": "Mercado de trabalho",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p>Leia os textos abaixo:</p><p class=\"apoio\"><strong>I - A situação de um trabalhador</strong></p><p class=\"apoio\"><em>Paulo Henrique de Jesus está há quatro meses desempregado. Com o Ensino Médio completo, ou seja, 11 anos de estudo, ele perdeu a vaga que preenchia há oito anos de encarregado numa transportadora de valores, ganhando R$800,00. Desde então, e com 50 currículos já distribuídos, só encontra oferta para ganhar R$300,00, um salário mínimo. Ele aceitou trabalhar por esse valor, sem carteira assinada, como garçom numa casa de festas para fazer frente às despesas.</em></p><p class=\"fonte\"><em>O Globo</em>, 20/07/2005.</p><p class=\"apoio\"><strong>II - Uma interpretação sobre o acesso ao mercado de trabalho</strong></p><p class=\"apoio\"><em>Atualmente, a baixa qualificação da mão-de-obra é um dos responsáveis pelo desemprego no Brasil.</em></p><p>A relação que se estabelece entre a situação (I) e a interpretação (II) e a razão para essa relação aparece em:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "II explica I - Nos níveis de escolaridade mais baixos há dificuldade de acesso ao mercado de trabalho.",
+    "B": "I reforça II - Os avanços tecnológicos da Terceira Revolução Industrial garantem somente o acesso ao trabalho para aqueles de formação em nível superior.",
+    "C": "I desmente II - O mundo globalizado promoveu desemprego especialmente para pessoas entre 10 e 15 anos de estudo.",
+    "D": "II justifica I - O desemprego estrutural leva a exclusão de trabalhadores com escolaridade de nível médio incompleto.",
+    "E": "II complementa I - O longo período de baixo crescimento econômico acirrou a competição, e pessoas de maior escolaridade passam a aceitar funções que não correspondem a sua formação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Paulo tem Ensino Médio completo e, mesmo assim, só achou vaga de garçom por um salário mínimo. A interpretação II (baixa qualificação explica o desemprego) não basta para o caso: II complementa I, porque o baixo crescimento acirrou a competição e pessoas mais escolarizadas passam a aceitar funções abaixo de sua formação. Alternativa <strong>E</strong>.</p><p>A situação de Paulo não confirma que o acesso ao trabalho esteja garantido só para quem tem curso superior (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "desemprego",
+    "escolaridade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "Geografia",
+   "assunto": "Transportes",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p>Leia as características geográficas dos países X e Y.</p><table class=\"tabela\"><thead><tr><th>País X</th><th>País Y</th></tr></thead><tbody><tr><td>desenvolvido</td><td>subdesenvolvido</td></tr><tr><td>pequena dimensão territorial</td><td>grande dimensão territorial</td></tr><tr><td>clima rigoroso com congelamento de alguns rios e portos</td><td>ausência de problemas climáticos, rios caudalosos e extenso litoral</td></tr><tr><td>intensa urbanização</td><td>concentração populacional e econômica na faixa litorânea</td></tr><tr><td>auto-suficiência de petróleo</td><td>exportador de produtos primários de baixo valor agregado</td></tr></tbody></table><p>A partir da análise dessas características é adequado priorizar as diferentes modalidades de transporte de carga, na seguinte ordem:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "país X – rodoviário, ferroviário e aquaviário.",
+    "B": "país Y – rodoviário, ferroviário e aquaviário.",
+    "C": "país X – aquaviário, ferroviário e rodoviário.",
+    "D": "país Y – rodoviário, aquaviário e ferroviário.",
+    "E": "país X – ferroviário, aquaviário e rodoviário."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O país X é pequeno, desenvolvido e muito urbanizado, tem rios que congelam (o que limita a navegação e os portos) e petróleo próprio: as distâncias curtas e o combustível barato favorecem o rodoviário, depois o ferroviário, e por último o aquaviário. Alternativa <strong>A</strong>.</p><p>O país Y, grande, com rios caudalosos, litoral extenso e exportação de produtos primários de baixo valor, deveria priorizar o aquaviário e o ferroviário, que barateiam o frete de grandes volumes por longas distâncias; por isso B e D estão erradas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "modais de transporte"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "História",
+   "assunto": "África",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p>Um professor apresentou os mapas abaixo numa aula sobre as implicações da formação das fronteiras no continente africano.</p>[[fig:1]]<p>Com base na aula e na observação dos mapas, os alunos fizeram três afirmativas:</p><ol type=\"I\"><li>A brutal diferença entre as fronteiras políticas e as fronteiras étnicas no continente africano aponta para a artificialidade em uma divisão com objetivo de atender apenas aos interesses da maior potência capitalista na época da descolonização.</li><li>As fronteiras políticas jogaram a África em uma situação de constante tensão ao desprezar a diversidade étnica e cultural, acirrando conflitos entre tribos rivais.</li><li>As fronteiras artificiais criadas no contexto do colonialismo, após os processos de independência, fizeram da África um continente marcado por guerras civis, golpes de estado e conflitos étnicos e religiosos.</li></ol><p class=\"fonte\"><em>Atualidades/Vestibular 2005</em>, 1º sem., ed. Abril, p. 68.</p><p>É verdadeiro apenas o que se afirma em</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q05.webp",
+     "alt": "Dois mapas da África sob o título “As fronteiras étnicas e políticas da África”: no primeiro, “Divisão política”, poucas fronteiras de traçado retilíneo separam os países; no segundo, “Divisão étnica”, o continente aparece retalhado em centenas de pequenas áreas de povos diferentes, que não coincidem com as fronteiras políticas."
+    }
+   ],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "I e II.",
+    "E": "II e III."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>II e III estão corretas: as fronteiras traçadas pelos colonizadores europeus ignoraram a distribuição dos povos, separando grupos aparentados e juntando rivais, e depois das independências isso alimentou guerras civis, golpes e conflitos étnicos. Alternativa <strong>E</strong>.</p><p>I erra ao atribuir a divisão aos interesses da “maior potência capitalista na época da descolonização”: a partilha foi feita pelas potências europeias no fim do século XIX (Conferência de Berlim), muito antes da descolonização.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fronteiras",
+    "colonialismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p>Leia com atenção o texto:</p><p class=\"apoio\">[Em Portugal], você poderá ter alguns probleminhas se entrar numa loja de roupas desconhecendo certas sutilezas da língua. Por exemplo, não adianta pedir para ver os ternos — peça para ver os <em>fatos</em>. Paletó é <em>casaco</em>. Meias são <em>peúgas</em>. Suéter é <em>camisola</em> — mas não se assuste, porque calcinhas femininas são <em>cuecas</em>. (Não é uma delícia?)</p><p class=\"fonte\">Ruy Castro. <em>Viaje Bem</em>. Ano VIII, nº 3, 78.</p><p>O texto destaca a diferença entre o português do Brasil e o de Portugal quanto</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ao vocabulário.",
+    "B": "à derivação.",
+    "C": "à pronúncia.",
+    "D": "ao gênero.",
+    "E": "à sintaxe."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Todos os exemplos são de palavras diferentes para as mesmas peças de roupa: terno é “fato”, paletó é “casaco”, meias são “peúgas”, suéter é “camisola”. A diferença destacada é de vocabulário (léxico). Alternativa <strong>A</strong>.</p><p>O texto não trata de pronúncia, de formação de palavras (derivação), de gênero gramatical nem de ordem das palavras na frase (sintaxe).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "português de Portugal",
+    "léxico"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 7,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p>Zuenir Ventura, em seu livro “Minhas memórias dos outros” (São Paulo: Planeta do Brasil, 2005), referindo-se ao fim da “Era Vargas” e ao suicídio do presidente em 1954, comenta:</p><p class=\"apoio\"><em>Quase como castigo do destino, dois anos depois eu iria trabalhar no jornal de Carlos Lacerda, o inimigo mortal de Vargas (e nunca esse adjetivo foi tão próprio).</em></p><p>Diante daquele contexto histórico, muitos estudiosos acreditam que, com o suicídio, Getúlio Vargas atingiu não apenas a si mesmo, mas o coração de seus aliados e a mente de seus inimigos.</p><p>A afirmação que aparece “entre parênteses” no comentário e uma conseqüência política que atingiu os inimigos de Vargas aparecem, respectivamente, em:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a conspiração envolvendo o jornalista Carlos Lacerda é um dos elementos do desfecho trágico e o recuo da ação de políticos conservadores devido ao impacto da reação popular.",
+    "B": "a tentativa de assassinato sofrida pelo jornalista Carlos Lacerda por apoiar os assessores do presidente que discordavam de suas idéias e o avanço dos conservadores foi intensificado pela ação dos militares.",
+    "C": "o presidente sentiu-se impotente para atender a seus inimigos, como Carlos Lacerda, que o pressionavam contra a ditadura e os aliados do presidente teriam que aguardar mais uma década para concretizar a democracia progressista.",
+    "D": "o jornalista Carlos Lacerda foi responsável direto pela morte do presidente e este fato veio impedir definitivamente a ação de grupos conservadores.",
+    "E": "o presidente cometeu o suicído para garantir uma definitiva e dramática vitória contra seus acusadores e oferecendo a própria vida Vargas facilitou as estratégias de regimes autoritários no país."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O parêntese “nunca esse adjetivo foi tão próprio” alude ao papel de Lacerda na crise de 1954: sua campanha contra Vargas e o atentado da rua Tonelero, em que Lacerda foi alvo, levaram à pressão que terminou no suicídio. E a comoção popular com a morte de Getúlio fez recuar os conservadores, que adiaram o golpe planejado. Alternativa <strong>A</strong>.</p><p>Lacerda não foi “responsável direto” pela morte (D), e o suicídio não facilitou regimes autoritários de imediato; ao contrário, permitiu a posse de Juscelino em 1955 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Getúlio Vargas",
+    "Carlos Lacerda",
+    "1954"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "Geografia",
+   "assunto": "Orientação",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p>Leia o texto abaixo.</p><p class=\"apoio\"><strong>O jardim de caminhos que se bifurcam</strong></p><p class=\"apoio\">(....) Uma lâmpada aclarava a plataforma, mas os rostos dos meninos ficavam na sombra. Um me perguntou: O senhor vai à casa do Dr. Stephen Albert? Sem aguardar resposta, outro disse: A casa fica longe daqui, mas o senhor não se perderá se tomar esse caminho à esquerda e se em cada encruzilhada do caminho dobrar à esquerda.</p><p class=\"fonte\">Adaptado. Borges, J. <em>Ficções</em>. Rio de Janeiro: Globo, 1997. p. 96.</p><p>Quanto à cena descrita acima, considere que</p><ol type=\"I\"><li>o sol nasce à direita dos meninos;</li><li>o senhor seguiu o conselho dos meninos, tendo encontrado duas encruzilhadas até a casa.</li></ol><p>Concluiu-se que o senhor caminhou, respectivamente, nos sentidos:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "oeste, sul e leste.",
+    "B": "leste, sul e oeste.",
+    "C": "oeste, norte e leste.",
+    "D": "leste, norte e oeste.",
+    "E": "leste, norte e sul."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Se o sol nasce à direita dos meninos, a direita deles é o leste: eles estão voltados para o norte, e o caminho “à esquerda” que indicam segue para oeste. A cada encruzilhada, dobrar à esquerda gira a direção 90° no sentido anti-horário: de oeste para sul, e de sul para leste. O senhor caminhou para oeste, sul e leste. Alternativa <strong>A</strong>.</p><p>Quem toma a esquerda do próprio senhor, de frente para os meninos (olhando para o sul), chega a leste, norte e oeste (D); o gabarito considera a esquerda indicada pelos meninos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pontos cardeais",
+    "Borges"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p>As dimensões continentais do Brasil são objeto de reflexões expressas em diferentes linguagens. Esse tema aparece no seguinte poema:</p><p class=\"apoio\">“(....)<br>Que importa que uns falem mole descansado<br>Que os cariocas arranhem os erres na garganta<br>Que os capixabas e paroaras escancarem as vogais?<br>Que tem se o quinhentos réis meridional<br>Vira cinco tostões do Rio pro Norte?<br>Junto formamos este assombro de misérias e grandezas,<br>Brasil, nome de vegetal! (....)”</p><p class=\"fonte\">Mário de Andrade. <em>Poesias completas</em>. 6. ed. São Paulo: Martins Editora, 1980.</p><p>O texto poético ora reproduzido trata das diferenças brasileiras no âmbito</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "étnico e religioso.",
+    "B": "lingüístico e econômico.",
+    "C": "racial e folclórico.",
+    "D": "histórico e geográfico.",
+    "E": "literário e popular."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O poema contrasta modos de falar (“falem mole”, “arranhem os erres”, “escancarem as vogais”) e a diferença de valor do dinheiro entre o Sul e o Norte (“o quinhentos réis meridional / vira cinco tostões”), que remete às desigualdades econômicas. As diferenças são linguísticas e econômicas. Alternativa <strong>B</strong>.</p><p>Não há referência a etnias, religiões, folclore ou literatura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Modernismo",
+    "Mário de Andrade",
+    "variação linguística"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 10,
+   "materia": "Português",
+   "assunto": "Interpretação de tirinha",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "[[fig:1]]<p>A situação abordada na tira torna explícita a <u>contradição</u> entre a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q10.webp",
+     "alt": "Tira “Frank e Ernest”, de Thaves: um homem diante de uma máquina de escrever com cara de susto, e o outro personagem comenta: “Entrei em pânico e desliguei! Que tipo de empresa deixaria uma pessoa de verdade atender o telefone?”"
+    }
+   ],
+   "alternativas": {
+    "A": "relações pessoais e o avanço tecnológico.",
+    "B": "inteligência empresarial e a ignorância dos cidadãos.",
+    "C": "inclusão digital e a modernização das empresas.",
+    "D": "economia neoliberal e a reduzida atuação do Estado.",
+    "E": "revolução informática e a exclusão digital."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na tira, o personagem entra em pânico e desliga o telefone porque do outro lado atendeu uma pessoa de verdade: ele já está tão acostumado às máquinas que o contato humano o assusta. A contradição é entre as relações pessoais e o avanço tecnológico, que deveria facilitá-las. Alternativa <strong>A</strong>.</p><p>A tira não fala de exclusão digital, de neoliberalismo nem de ignorância dos cidadãos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tecnologia",
+    "tirinha"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 11,
+   "materia": "Biologia",
+   "assunto": "Nutrição",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>A obesidade, que nos países desenvolvidos já é tratada como epidemia, começa a preocupar especialistas no Brasil. Os últimos dados da Pesquisa de Orçamentos Familiares, realizada entre 2002 e 2003 pelo IBGE, mostram que 40,6% da população brasileira estão acima do peso, ou seja, 38,8 milhões de adultos. Desse total, 10,5 milhões são considerados obesos. Várias são as dietas e os remédios que prometem um emagrecimento rápido e sem riscos. Há alguns anos foi lançado no mercado brasileiro um remédio de ação diferente dos demais, pois inibe a ação das lipases, enzimas que aceleram a reação de quebra de gorduras. Sem serem quebradas elas não são absorvidas pelo intestino, e parte das gorduras ingeridas é eliminada com as fezes. Como os lipídios são altamente energéticos, a pessoa tende a emagrecer. No entanto, esse remédio apresenta algumas contra-indicações, pois a gordura não absorvida lubrifica o intestino, causando desagradáveis diarréias. Além do mais, podem ocorrer casos de baixa absorção de vitaminas lipossolúveis, como as A, D, E e K, pois</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "essas vitaminas, por serem mais energéticas que as demais, precisam de lipídios para sua absorção.",
+    "B": "a ausência dos lipídios torna a absorção dessas vitaminas desnecessária.",
+    "C": "essas vitaminas reagem com o remédio, transformando-se em outras vitaminas.",
+    "D": "as lipases também desdobram as vitaminas para que essas sejam absorvidas.",
+    "E": "essas vitaminas se dissolvem nos lipídios e só são absorvidas junto com eles."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As vitaminas A, D, E e K são lipossolúveis: dissolvem-se nas gorduras e são absorvidas no intestino junto com elas, nas micelas formadas com a bile. Se o remédio impede a digestão e a absorção das gorduras, essas vitaminas saem com as fezes. Alternativa <strong>E</strong>.</p><p>Vitaminas não são fonte de energia (A), não reagem com o remédio (C) e não são quebradas pelas lipases (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vitaminas lipossolúveis",
+    "lipases"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>No gráfico abaixo, mostra-se como variou o valor do dólar, em relação ao real, entre o final de 2001 e o início de 2005. Por exemplo, em janeiro de 2002, um dólar valia cerca de R$ 2,40.</p>[[fig:1]]<p class=\"fonte\">Fonte: Banco Central do Brasil.</p><p>Durante esse período, a época em que o real esteve mais desvalorizado em relação ao dólar foi no</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q12.webp",
+     "alt": "Gráfico de linha da cotação do dólar em reais, de dezembro de 2001 a janeiro de 2005, com escala de 1,20 a 4,00. A curva começa perto de 2,40, sobe a partir de meados de 2002 até o pico de cerca de 3,90 no fim de 2002, cai para perto de 2,90 ao longo de 2003, tem uma pequena alta para 3,20 em meados de 2004 e termina perto de 2,70 no início de 2005."
+    }
+   ],
+   "alternativas": {
+    "A": "final de 2001.",
+    "B": "final de 2002.",
+    "C": "início de 2003.",
+    "D": "final de 2004.",
+    "E": "início de 2005."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O real está mais desvalorizado quando um dólar custa mais reais. O pico do gráfico, perto de R$ 3,90, ocorre no fim de 2002, pouco antes de janeiro de 2003. Alternativa <strong>B</strong>.</p><p>No fim de 2001 e no início de 2005 o dólar estava entre R$ 2,40 e R$ 2,80, e no início de 2003 já havia recuado para cerca de R$ 3,50.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "câmbio"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Química",
+   "assunto": "Chuva ácida",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p>Diretores de uma grande indústria siderúrgica, para evitar o desmatamento e adequar a empresa às normas de proteção ambiental, resolveram mudar o combustível dos fornos da indústria. O carvão vegetal foi então substituído pelo carvão mineral. Entretanto, foram observadas alterações ecológicas graves em um riacho das imediações, tais como a morte dos peixes e dos vegetais ribeirinhos. Tal fato pode ser justificado em decorrência</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "da diminuição de resíduos orgânicos na água do riacho, reduzindo a demanda de oxigênio na água.",
+    "B": "do aquecimento da água do riacho devido ao monóxido de carbono liberado na queima do carvão.",
+    "C": "da formação de ácido clorídrico no riacho a partir de produtos da combustão na água, diminuindo o pH.",
+    "D": "do acúmulo de elementos no riacho, tais como, ferro, derivados do novo combustível utilizado.",
+    "E": "da formação de ácido sulfúrico no riacho a partir dos óxidos de enxofre liberados na combustão."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O carvão mineral contém enxofre. Na queima, forma SO2 e SO3, que reagem com a água e originam ácido sulfúrico (H2SO4); a água do riacho fica ácida e mata peixes e plantas. Alternativa <strong>E</strong>.</p><p>A queima não produz ácido clorídrico (C) e o monóxido de carbono não aquece a água (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "carvão mineral",
+    "óxidos de enxofre"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p>Observe a situação descrita na tirinha abaixo.</p>[[fig:1]]<p class=\"fonte\">Francisco Caruso &amp; Luisa Daou. <em>Tirinhas de Física</em>, vol. 2, CBPF, Rio de Janeiro, 2000.</p><p>Assim que o menino lança a flecha, há transformação de um tipo de energia em outra. A transformação, nesse caso, é de energia</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q14.webp",
+     "alt": "Tirinha em três quadros. Um menino com arco mira um garoto amarrado a uma árvore com uma maçã na cabeça; uma menina pergunta se ele quer matá-lo ou acertar a maçã. Ela o aconselha a mirar mais para cima para compensar a gravidade; ele mira mais alto. No último quadro, a flecha acerta a maçã, e o garoto amarrado diz: “Ufa! Ainda bem que Lisa chegou!”."
+    }
+   ],
+   "alternativas": {
+    "A": "potencial elástica em energia gravitacional.",
+    "B": "gravitacional em energia potencial.",
+    "C": "potencial elástica em energia cinética.",
+    "D": "cinética em energia potencial elástica.",
+    "E": "gravitacional em energia cinética."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Ao puxar a corda, o arco se deforma e armazena energia potencial elástica. Quando o menino solta a flecha, o arco volta à forma original e essa energia vira energia cinética da flecha. Alternativa <strong>C</strong>.</p><p>A energia gravitacional entra só depois, conforme a flecha sobe ou desce na trajetória, e não no instante do lançamento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "arco e flecha",
+    "energia elástica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Física",
+   "assunto": "Movimento circular",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Adaptado. Luisa Daou &amp; Francisco Caruso, <em>Tirinhas de Física</em>, vol. 2, CBPF, Rio de Janeiro, 2000.</p><p>Observe o fenômeno indicado na tirinha acima.</p><p>A força que atua sobre o peso e produz o deslocamento vertical da garrafa é a força</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q15.webp",
+     "alt": "Tirinha em dois quadros. No primeiro, uma mão segura um tubo; por dentro dele passa um fio com um pequeno peso na ponta de cima e uma garrafa com água pendurada na ponta de baixo; um balão diz: “Vou levantar a garrafa sem puxar o fio ou o peso...”. No segundo, a mão gira o tubo e o peso descreve um círculo horizontal acima dele, e a garrafa aparece mais alta, perto do tubo."
+    }
+   ],
+   "alternativas": {
+    "A": "de inércia.",
+    "B": "gravitacional.",
+    "C": "de empuxo.",
+    "D": "centrípeta.",
+    "E": "elástica."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Ao girar o peso em círculo, o fio precisa puxá-lo para o centro: é a força centrípeta, que aumenta com a velocidade. Essa tração no fio, transmitida pelo tubo, fica maior que o peso da garrafa e a faz subir. Alternativa <strong>D</strong>.</p><p>Não há líquido envolvendo a garrafa para gerar empuxo (C), e a gravidade (B) puxa a garrafa para baixo, e não para cima.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "força centrípeta"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Geografia",
+   "assunto": "Demografia",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<table class=\"tabela\"><thead><tr><th>País</th><th>Tipo</th><th>Jovens</th><th>Adultos</th><th>Idosos</th></tr></thead><tbody><tr><td>Estados Unidos</td><td>maduro</td><td>25,7</td><td>57,4</td><td>16,9</td></tr><tr><td>Suécia</td><td>maduro</td><td>19,8</td><td>56,7</td><td>23,5</td></tr><tr><td>Brasil</td><td>em transição</td><td>43,2</td><td>48,5</td><td>8,3</td></tr><tr><td>Bangladesh</td><td>jovem</td><td>50,2</td><td>44,8</td><td>5,0</td></tr><tr><td>Nigéria</td><td>jovem</td><td>55,4</td><td>40,1</td><td>4,5</td></tr></tbody></table><p class=\"fonte\">Jovens: até 19 anos; adultos: de 20 a 59 anos; idosos: 60 anos ou mais. Tipo: classificação do país (“maduro”, em transição ou “jovem”).</p><p class=\"fonte\">Distribuição etária da população em alguns países (em %). Elaborada a partir de dados do US Bureau of Census. <em>World Population Profile</em>: 1999.</p><p class=\"apoio\"><em>Os brasileiros tiveram, em junho, o maior tempo de navegação residencial na internet entre 11 países monitorados pelo Ibope/NetRatings: média mensal de 16 horas e 54 minutos por pessoa. O país ficou à frente de nações como a França, Japão, Estados Unidos e Espanha.</em></p><p class=\"fonte\">Adaptado. <em>Folha de S.Paulo</em>, 23/07/2005.</p><p>Com base na tabela e no texto acima, analise os possíveis motivos para a liderança do Brasil no tempo de uso da internet.</p><ol type=\"I\"><li>O país tem uma estrutura populacional com maior percentual de jovens do que os países da Europa e os EUA.</li><li>O uso de internet em casa se distribui igualmente entre as classes A, B e C, o que demonstra iniciativas de inclusão digital.</li><li>A adesão ao sistema de internet por banda larga ocorre, porque essa tecnologia promove a mudança de comportamento dos usuários.</li></ol><p>Está correto apenas o que se afirma em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "I e II.",
+    "E": "II e III."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Só I está correta: o Brasil tem 43,2% de jovens, contra cerca de 20% a 26% nos EUA e na Suécia, e os jovens são os que mais usam a internet. Alternativa <strong>A</strong>.</p><p>II e III não se apoiam nos dados: nem a tabela nem o texto falam de distribuição por classes sociais ou de banda larga, e o acesso à internet no Brasil era muito desigual entre as classes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estrutura etária",
+    "internet"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 17 e 18.</strong></p><p class=\"apoio\"><em>Na investigação forense, utiliza-se luminol, uma substância que reage com o ferro presente na hemoglobina do sangue, produzindo luz que permite visualizar locais contaminados com pequenas quantidades de sangue, mesmo em superfícies lavadas.</em></p><p class=\"apoio\"><em>É proposto que, na reação do luminol (I) em meio alcalino, na presença de peróxido de hidrogênio (II) e de um metal de transição (M<sup>n+</sup>), forma-se o composto 3-amino ftalato (III) que sofre uma relaxação dando origem ao produto final da reação (IV), com liberação de energia (hν) e de gás nitrogênio (N<sub>2</sub>).</em></p><p class=\"fonte\">Adaptado. <em>Química Nova</em>, 25, nº 6, 2002. pp. 1003-1011.</p>[[fig:1]]<p class=\"apoio\">Dados: pesos moleculares: Luminol = 177; 3-amino ftalato = 164</p><p>Na reação <u>do luminol</u>, está ocorrendo o fenômeno de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q17.webp",
+     "alt": "Esquema da reação: luminol (I), uma estrutura com anel benzênico ligado a NH2 e a um anel com dois grupos C=O e dois NH, reage com H2O2 (II) e Mn+ e forma o 3-amino ftalato excitado (III, entre colchetes com asterisco, com dois grupos carboxilato). Este se converte no 3-amino ftalato (IV), liberando hν e N2."
+    }
+   ],
+   "alternativas": {
+    "A": "fluorescência, quando espécies excitadas por absorção de uma radiação eletromagnética relaxam liberando luz.",
+    "B": "incandescência, um processo físico de emissão de luz que transforma energia elétrica em energia luminosa.",
+    "C": "quimiluminescência, uma reação química que ocorre com liberação de energia eletromagnética na forma de luz.",
+    "D": "fosforescência, em que átomos excitados pela radiação visível sofrem decaimento, emitindo fótons.",
+    "E": "fusão nuclear a frio, através de reação química de hidrólise com liberação de energia."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A luz vem da própria reação química: o 3-amino ftalato é formado em estado excitado e, ao relaxar, emite fótons. Emissão de luz por reação química é quimiluminescência. Alternativa <strong>C</strong>.</p><p>Não há absorção prévia de radiação, como na fluorescência e na fosforescência (A, D), nem corrente elétrica (B) ou reação nuclear (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "luminol",
+    "quimiluminescência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 17 e 18.</strong></p><p class=\"apoio\"><em>Na investigação forense, utiliza-se luminol, uma substância que reage com o ferro presente na hemoglobina do sangue, produzindo luz que permite visualizar locais contaminados com pequenas quantidades de sangue, mesmo em superfícies lavadas.</em></p><p class=\"apoio\"><em>É proposto que, na reação do luminol (I) em meio alcalino, na presença de peróxido de hidrogênio (II) e de um metal de transição (M<sup>n+</sup>), forma-se o composto 3-amino ftalato (III) que sofre uma relaxação dando origem ao produto final da reação (IV), com liberação de energia (hν) e de gás nitrogênio (N<sub>2</sub>).</em></p><p class=\"fonte\">Adaptado. <em>Química Nova</em>, 25, nº 6, 2002. pp. 1003-1011.</p>[[fig:1]]<p class=\"apoio\">Dados: pesos moleculares: Luminol = 177; 3-amino ftalato = 164</p><p>Na análise de uma amostra biológica para análise forense, utilizou-se 54 g de luminol e peróxido de hidrogênio em excesso, obtendo-se um rendimento final de 70%. Sendo assim, a quantidade do produto final (IV) formada na reação foi de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q17.webp",
+     "alt": "Esquema da reação: luminol (I), uma estrutura com anel benzênico ligado a NH2 e a um anel com dois grupos C=O e dois NH, reage com H2O2 (II) e Mn+ e forma o 3-amino ftalato excitado (III, entre colchetes com asterisco, com dois grupos carboxilato). Este se converte no 3-amino ftalato (IV), liberando hν e N2."
+    }
+   ],
+   "alternativas": {
+    "A": "123,9.",
+    "B": "114,8.",
+    "C": "86,0.",
+    "D": "35,0.",
+    "E": "16,2."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A proporção é de 1 mol de luminol para 1 mol de produto IV. 54 g de luminol são 54/177 ≈ 0,305 mol, que daria 0,305 × 164 ≈ 50,0 g de 3-amino ftalato com rendimento total. Com 70%: 0,7 × 50,0 ≈ 35,0 g. Alternativa <strong>D</strong>.</p><p>A alternativa C (86,0) multiplica as massas sem dividir, e B (114,8) esquece a conversão em mols.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rendimento",
+    "massa molar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "Amazônia",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p>Observe as seguintes estratégias para a ocupação da Amazônia Brasileira.</p><ol type=\"I\"><li>Desenvolvimento de infra-estrutura do projeto Calha Norte;</li><li>Exploração mineral por meio do Projeto Ferro Carajás;</li><li>Criação da Superintendência para o Desenvolvimento da Amazônia;</li><li>Extração do látex durante o chamado Surto da Borracha.</li></ol><p>A ordenação desses elementos, desde o mais antigo ao mais recente, é a seguinte:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "IV, III, II, I.",
+    "B": "I, II, III, IV.",
+    "C": "IV, II, I, III.",
+    "D": "III, IV, II, I.",
+    "E": "III, IV, I, II."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A ordem é: o surto da borracha (fim do século XIX e início do XX), a criação da Sudam (1966, no regime militar), o Projeto Ferro Carajás (início dos anos 1980) e o Projeto Calha Norte (1985). Ou seja, IV, III, II, I. Alternativa <strong>A</strong>.</p><p>O Calha Norte, de ocupação militar das fronteiras ao norte do Amazonas, é o mais recente dos quatro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ocupação da Amazônia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "Artes",
+   "assunto": "Artes visuais",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 20 e 21.</strong></p><p>Cândido Portinari (1903-1962), um dos mais importantes artistas brasileiros do século XX, tratou de diferentes aspectos da nossa realidade em seus quadros.</p>[[fig:1]]<p>Sobre a temática dos “Retirantes”, Portinari também escreveu o seguinte poema:</p>[[fig:2]]<p class=\"fonte\">Cândido Portinari. <em>Poemas</em>. Rio de Janeiro: J. Olympio, 1964.</p><p>Das quatro obras reproduzidas, assinale aquelas que abordam a problemática que é tema do poema.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q20a.webp",
+     "alt": "Quatro reproduções de quadros de Portinari, numeradas. 1: casais dançando num salão. 2: um grupo de figuras magras e esfarrapadas, com crianças e trouxas, em paisagem árida. 3: uma família de retirantes em pé, de roupas pobres, com crianças, contra um céu claro. 4: uma figura solitária com chapéu e roupa de retalhos coloridos, como um arlequim."
+    },
+    {
+     "src": "assets/img/enem-2005/q20b.webp",
+     "alt": "Fragmento do poema de Portinari sobre os retirantes: descreve homens de ventre enorme, mulheres com trouxas, corpos disformes com panos sujos e rasgados, vindos de terras secas e de pedregulhos que doem como fagulhas de carvão, e mulheres barrigudas carregando garotos que choramingam."
+    }
+   ],
+   "alternativas": {
+    "A": "1 e 2",
+    "B": "1 e 3",
+    "C": "2 e 3",
+    "D": "3 e 4",
+    "E": "2 e 4"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O poema descreve os retirantes da seca: famílias pobres, de corpos deformados, com trouxas e crianças, vindas das terras secas. As obras 2 e 3 mostram exatamente grupos de retirantes esfarrapados com crianças. Alternativa <strong>C</strong>.</p><p>A obra 1 retrata um baile e a 4, uma figura solitária de arlequim, temas sem relação com a migração da seca.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Portinari",
+    "retirantes"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 21,
+   "materia": "Biologia",
+   "assunto": "Parasitoses",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 20 e 21.</strong></p><p>Cândido Portinari (1903-1962), um dos mais importantes artistas brasileiros do século XX, tratou de diferentes aspectos da nossa realidade em seus quadros.</p>[[fig:1]]<p>Sobre a temática dos “Retirantes”, Portinari também escreveu o seguinte poema:</p>[[fig:2]]<p class=\"fonte\">Cândido Portinari. <em>Poemas</em>. Rio de Janeiro: J. Olympio, 1964.</p><p>No texto de Portinari, algumas das pessoas descritas provavelmente estão infectadas com o verme <em>Schistosoma mansoni</em>. Os “homens de enorme ventre bojudo” corresponderiam aos doentes da chamada “barriga d’água”.</p><p>O ciclo de vida do <em>Schistosoma mansoni</em> e as condições sócio-ambientais de um local são fatores determinantes para maior ou menor incidência dessa doença. O aumento da incidência da esquistossomose deve-se à presença de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q20a.webp",
+     "alt": "Quatro reproduções de quadros de Portinari, numeradas. 1: casais dançando num salão. 2: um grupo de figuras magras e esfarrapadas, com crianças e trouxas, em paisagem árida. 3: uma família de retirantes em pé, de roupas pobres, com crianças, contra um céu claro. 4: uma figura solitária com chapéu e roupa de retalhos coloridos, como um arlequim."
+    },
+    {
+     "src": "assets/img/enem-2005/q20b.webp",
+     "alt": "Fragmento do poema de Portinari sobre os retirantes: descreve homens de ventre enorme, mulheres com trouxas, corpos disformes com panos sujos e rasgados, vindos de terras secas e de pedregulhos que doem como fagulhas de carvão, e mulheres barrigudas carregando garotos que choramingam."
+    }
+   ],
+   "alternativas": {
+    "A": "roedores, ao alto índice pluvial e à inexistência de programas de vacinação.",
+    "B": "insetos hospedeiros e indivíduos infectados, à inexistência de programas de vacinação.",
+    "C": "indivíduos infectados e de hospedeiros intermediários e à ausência de saneamento básico.",
+    "D": "mosquitos, a inexistência de programas de vacinação e à ausência de controle de águas paradas.",
+    "E": "gatos e de alimentos contaminados, e à ausência de precauções higiênicas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O ciclo do <em>Schistosoma mansoni</em> precisa de pessoas infectadas (que eliminam ovos nas fezes) e de caramujos do gênero <em>Biomphalaria</em>, hospedeiros intermediários, em água doce. Sem saneamento, as fezes chegam aos rios e lagoas, e as larvas (cercárias) penetram na pele de quem entra na água. Alternativa <strong>C</strong>.</p><p>Não há vacina contra a esquistossomose, e ela não é transmitida por insetos, roedores ou gatos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "esquistossomose",
+    "saneamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p>A água é um dos componentes mais importantes das células. A tabela abaixo mostra como a quantidade de água varia em seres humanos, dependendo do tipo de célula. Em média, a água corresponde a 70% da composição química de um indivíduo normal.</p><table class=\"tabela\"><thead><tr><th>Tipo de célula</th><th>Quantidade de água</th></tr></thead><tbody><tr><td>Tecido nervoso – substância cinzenta</td><td>85%</td></tr><tr><td>Tecido nervoso – substância branca</td><td>70%</td></tr><tr><td>Medula óssea</td><td>75%</td></tr><tr><td>Tecido conjuntivo</td><td>60%</td></tr><tr><td>Tecido adiposo</td><td>15%</td></tr><tr><td>Hemácias</td><td>65%</td></tr><tr><td>Ossos (sem medula)</td><td>20%</td></tr></tbody></table><p class=\"fonte\">Fonte: L.C. Junqueira e J. Carneiro. <em>Histologia Básica</em>. 8. ed., Rio de Janeiro: Guanabara Koogan, 1985.</p><p>Durante uma biópsia, foi isolada uma amostra de tecido para análise em um laboratório. Enquanto intacta, essa amostra pesava 200 mg. Após secagem em estufa, quando se retirou toda a água do tecido, a amostra passou a pesar 80 mg. Baseado na tabela, pode-se afirmar que essa é uma amostra de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "tecido nervoso – substância cinzenta.",
+    "B": "tecido nervoso – substância branca.",
+    "C": "hemácias.",
+    "D": "tecido conjuntivo.",
+    "E": "tecido adiposo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A amostra perdeu 200 − 80 = 120 mg de água, ou seja, 120/200 = 60% da massa era água. Pela tabela, esse é o teor do tecido conjuntivo. Alternativa <strong>D</strong>.</p><p>Quem toma os 80 mg restantes como água chega a 40%, valor que não está na tabela; a substância cinzenta (85%) e as hemácias (65%) têm teores diferentes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "água nas células",
+    "porcentagem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Geografia",
+   "assunto": "Desigualdade",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p>Analise o quadro acerca da distribuição da miséria no mundo, nos anos de 1987 a 1998.</p><p class=\"apoio\"><strong>Mapa da Miséria — população que vive com menos de US$ 1 por dia (em %)</strong></p><table class=\"tabela\"><thead><tr><th>Região</th><th>1987</th><th>1990</th><th>1993</th><th>1996</th><th>1998*</th></tr></thead><tbody><tr><td>Extremo Oriente e Pacífico</td><td>26,6</td><td>27,6</td><td>25,2</td><td>14,9</td><td>15,3</td></tr><tr><td>Europa e Ásia Central</td><td>0,2</td><td>1,6</td><td>4,0</td><td>5,1</td><td>5,1</td></tr><tr><td>América Latina e Caribe</td><td>15,3</td><td>16,8</td><td>15,3</td><td>15,6</td><td>15,6</td></tr><tr><td>Oriente Médio e Norte da África</td><td>4,3</td><td>2,4</td><td>1,9</td><td>1,8</td><td>1,9</td></tr><tr><td>Sul da Ásia</td><td>44,9</td><td>44,0</td><td>42,4</td><td>42,3</td><td>40,0</td></tr><tr><td>África Subsaariana</td><td>46,6</td><td>47,7</td><td>49,7</td><td>48,5</td><td>46,3</td></tr><tr><td>Mundo</td><td>28,3</td><td>29,0</td><td>28,1</td><td>24,5</td><td>24,0</td></tr></tbody></table><p class=\"fonte\">*Preliminar. Fonte: Banco Mundial. Adaptado. <em>Gazeta Mercantil</em>, 17 de outubro de 2001, p. A-6.</p><p>A leitura dos dados apresentados permite afirmar que, no período considerado,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "no sul da Ásia e na África Subsaariana está, proporcionalmente, a maior concentração da população miserável.",
+    "B": "registra-se um aumento generalizado da população pobre e miserável.",
+    "C": "na África Subsaariana, o percentual de população pobre foi crescente.",
+    "D": "em números absolutos a situação da Europa e da Ásia Central é a melhor dentre todas as regiões consideradas.",
+    "E": "o Oriente Médio e o Norte da África mantiveram o mesmo percentual de população miserável."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O Sul da Ásia (cerca de 40% a 45%) e a África Subsaariana (46% a 50%) têm, em todos os anos, as maiores porcentagens de população vivendo com menos de US$ 1 por dia. Alternativa <strong>A</strong>.</p><p>O total mundial caiu de 28,3% para 24,0% (B); na África Subsaariana o índice subiu até 1993 e depois caiu (C); a tabela traz porcentagens, não números absolutos (D); e o Oriente Médio e Norte da África caiu de 4,3% para 1,9% (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pobreza",
+    "leitura de tabela"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "Geografia",
+   "assunto": "Espaço agrário",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "[[fig:1]]<p>Considerando os conhecimentos sobre o espaço agrário brasileiro e os dados apresentados no gráfico, é correto afirmar que, no período indicado,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q24.webp",
+     "alt": "Gráfico “Produção de grãos” (soja, trigo, milho, arroz e algodão) de 1990 a 2002, este último como previsão. A linha de produção, em milhões de toneladas, sobe de 56,0 em 1990 para 73,6 em 1996 e 97,5 em 2002. A linha de área plantada, em milhões de hectares, fica quase reta: 36,8 em 1990, 36,3 em 1996 e 37,8 em 2002. Fontes: Censo Agropecuário, IBGE e Ministério da Agricultura."
+    }
+   ],
+   "alternativas": {
+    "A": "ocorreu um aumento da produtividade agrícola devido à significativa mecanização de algumas lavouras, como a da soja.",
+    "B": "verificou-se um incremento na produção de grãos proporcionalmente à incorporação de novas terras produtivas.",
+    "C": "registrou-se elevada produção de grãos em virtude do uso intensivo de mão-de-obra pelas empresas rurais.",
+    "D": "houve um salto na produção de grãos, a partir de 91, em decorrência do total de exportações feitas por pequenos agricultores.",
+    "E": "constataram-se ganhos tanto na produção quanto na produtividade agrícolas resultantes da efetiva reforma agrária executada."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Entre 1990 e 2002, a produção de grãos quase dobrou (de 56,0 para 97,5 milhões de toneladas), enquanto a área plantada ficou quase igual (de 36,8 para 37,8 milhões de hectares). Produzir muito mais na mesma área é ganho de produtividade, ligado à mecanização e à tecnologia em lavouras como a soja. Alternativa <strong>A</strong>.</p><p>Não houve incorporação proporcional de terras (B), e a modernização reduziu, em vez de aumentar, o uso de mão de obra (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "produtividade agrícola",
+    "modernização do campo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "Sociologia",
+   "assunto": "Trabalho",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "[[fig:1]][[fig:2]]<p>As tiras ironizam uma célebre fábula e a conduta dos governantes. Tendo como referência o estado atual dos países periféricos, pode-se afirmar que nessas histórias está contida a seguinte idéia:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q25a.webp",
+     "alt": "Tira “Graúna”, de Henfil, em três quadros. Um personagem de chapéu reclama: “Toda hora somos pisados pelos governantes!”, e a Graúna concorda. Ele diz: “Vocês, mulheres, têm que exigir seus direitos!”. No último quadro, explica: “Exigir o direito de pisar também! Com seus pés maravilhosos!”, enquanto se joga aos pés dela, que diz “Ai!”."
+    },
+    {
+     "src": "assets/img/enem-2005/q25b.webp",
+     "alt": "Tira “Frank e Ernest”, de Thaves, intitulada “Fábulas dos anos 90”: um homem conta ao outro: “Lembram-se da história da cigarra e da formiga? A formiga trabalhou duro a vida inteira e, no fim... alguém pisa nela.”"
+    }
+   ],
+   "alternativas": {
+    "A": "Crítica à precária situação dos trabalhadores ativos e aposentados.",
+    "B": "Necessidade de atualização crítica de clássicos da literatura.",
+    "C": "Menosprezo governamental com relação a questões ecologicamente corretas.",
+    "D": "Exigência da inserção adequada da mulher no mercado de trabalho.",
+    "E": "Aprofundamento do problema social do desemprego e do subemprego."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na primeira tira, quem é “pisado pelos governantes” só quer o direito de pisar também; na segunda, a fábula da cigarra e da formiga é atualizada: a formiga trabalhou duro a vida inteira e, no fim, alguém pisa nela. As duas ironizam o trabalhador que se esforça a vida toda e termina desamparado, como os aposentados. Alternativa <strong>A</strong>.</p><p>A atualização da fábula é o recurso, e não a ideia defendida (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Henfil",
+    "cigarra e a formiga"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "Física",
+   "assunto": "Energia elétrica",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p>Podemos estimar o consumo de energia elétrica de uma casa considerando as principais fontes desse consumo. Pense na situação em que apenas os aparelhos que constam da tabela abaixo fossem utilizados diariamente da mesma forma.</p><table class=\"tabela\"><thead><tr><th>Aparelho</th><th>Potência (KW)</th><th>Tempo de uso diário (horas)</th></tr></thead><tbody><tr><td>Ar condicionado</td><td>1,5</td><td>8</td></tr><tr><td>Chuveiro elétrico</td><td>3,3</td><td>1/3</td></tr><tr><td>Freezer</td><td>0,2</td><td>10</td></tr><tr><td>Geladeira</td><td>0,35</td><td>10</td></tr><tr><td>Lâmpadas</td><td>0,10</td><td>6</td></tr></tbody></table><p class=\"fonte\">Tabela: A tabela fornece a potência e o tempo efetivo de uso diário de cada aparelho doméstico.</p><p>Supondo que o mês tenha 30 dias e que o custo de 1 KWh é de R$ 0,40, o consumo de energia elétrica mensal dessa casa, é de aproximadamente</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 135.",
+    "B": "R$ 165.",
+    "C": "R$ 190.",
+    "D": "R$ 210.",
+    "E": "R$ 230."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Consumo diário: ar condicionado 1,5 × 8 = 12 kWh; chuveiro 3,3 × 1/3 = 1,1 kWh; freezer 0,2 × 10 = 2 kWh; geladeira 0,35 × 10 = 3,5 kWh; lâmpadas 0,10 × 6 = 0,6 kWh. Total: 19,2 kWh por dia, ou 576 kWh em 30 dias. A R$ 0,40 o kWh, o custo é 576 × 0,40 ≈ R$ 230. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "kWh",
+    "consumo de energia"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p>As cobras estão entre os animais peçonhentos que mais causam acidentes no Brasil, principalmente na área rural. As cascavéis (<em>Crotalus</em>), apesar de extremamente venenosas, são cobras que, em relação a outras espécies, causam poucos acidentes a humanos. Isso se deve ao ruído de seu “chocalho”, que faz com que suas vítimas percebam sua presença e as evitem. Esses animais só atacam os seres humanos para sua defesa e se alimentam de pequenos roedores e aves. Apesar disso, elas têm sido caçadas continuamente, por serem facilmente detectadas. Ultimamente os cientistas observaram que essas cobras têm ficado mais silenciosas, o que passa a ser um problema, pois, se as pessoas não as percebem, aumentam os riscos de acidentes.</p><p>A explicação darwinista para o fato de a cascavel estar ficando mais silenciosa é que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a necessidade de não ser descoberta e morta mudou seu comportamento.",
+    "B": "as alterações no seu código genético surgiram para aperfeiçoá-la.",
+    "C": "as mutações sucessivas foram acontecendo para que ela pudesse adaptar-se.",
+    "D": "as variedades mais silenciosas foram selecionadas positivamente.",
+    "E": "as variedades sofreram mutações para se adaptarem à presença de seres humanos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Para Darwin, a variação já existe na população: há cascavéis que chocalham menos. Como as barulhentas são achadas e mortas pelo homem, as silenciosas sobrevivem e se reproduzem mais, e a característica aumenta na população. Alternativa <strong>D</strong>.</p><p>As outras alternativas dizem que a necessidade causa a mudança ou que as mutações surgem “para” adaptar o animal, ideias lamarckistas ou finalistas, e não darwinistas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "seleção natural",
+    "Darwin"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p>Há quatro séculos alguns animais domésticos foram introduzidos na Ilha da Trindade como “reserva de alimento”. Porcos e cabras soltos davam boa carne aos navegantes de passagem, cansados de tanto peixe no cardápio. Entretanto, as cabras consumiram toda a vegetação rasteira e ainda comeram a casca dos arbustos sobreviventes. Os porcos revolveram raízes e a terra na busca de semente. Depois de consumir todo o verde, de volta ao estado selvagem, os porcos passaram a devorar qualquer coisa: ovos de tartarugas, de aves marinhas, caranguejos e até cabritos pequenos.</p><p>Com base nos fatos acima, pode-se afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a introdução desses animais domésticos, trouxe, com o passar dos anos, o equilíbrio ecológico.",
+    "B": "o ecossistema da Ilha da Trindade foi alterado, pois não houve uma interação equilibrada entre os seres vivos.",
+    "C": "a principal alteração do ecossistema foi a presença dos homens, pois animais nunca geram desequilíbrios no ecossistema.",
+    "D": "o desequilíbrio só apareceu quando os porcos começaram a comer os cabritos pequenos.",
+    "E": "o aumento da biodiversidade, a longo prazo, foi favorecido pela introdução de mais dois tipos de animais na ilha."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Cabras e porcos, sem predadores na ilha, devoraram a vegetação rasteira, as cascas dos arbustos e depois ovos de tartarugas e aves e caranguejos. Faltou uma interação equilibrada entre os seres vivos, e o ecossistema foi alterado. Alternativa <strong>B</strong>.</p><p>O desequilíbrio começou com a destruição da vegetação, bem antes de os porcos comerem cabritos (D), e espécies exóticas reduzem, e não aumentam, a biodiversidade (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espécies exóticas",
+    "desequilíbrio ecológico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p>O gás natural veicular (GNV) pode substituir a gasolina ou álcool nos veículos automotores. Nas grandes cidades, essa possibilidade tem sido explorada, principalmente, pelos táxis, que recuperam em um tempo relativamente curto o investimento feito com a conversão por meio da economia proporcionada pelo uso do gás natural. Atualmente, a conversão para gás natural do motor de um automóvel que utiliza a gasolina custa R$ 3.000,00. Um litro de gasolina permite percorrer cerca de 10 km e custa R$ 2,20, enquanto um metro cúbico de GNV permite percorrer cerca de 12 km e custa R$ 1,10. Desse modo, um taxista que percorra 6.000 km por mês recupera o investimento da conversão em aproximadamente</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2 meses.",
+    "B": "4 meses.",
+    "C": "6 meses.",
+    "D": "8 meses.",
+    "E": "10 meses."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Com gasolina, 6.000 km pedem 600 litros, a R$ 2,20: R$ 1.320 por mês. Com GNV, 6.000 km pedem 500 m³, a R$ 1,10: R$ 550 por mês. A economia é de R$ 770 por mês, e 3.000/770 ≈ 3,9, ou seja, cerca de 4 meses. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "GNV",
+    "economia"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p>Um estudo caracterizou 5 ambientes aquáticos, nomeados de A a E, em uma região, medindo parâmetros físico-químicos de cada um deles, incluindo o pH nos ambientes. O Gráfico I representa os valores de pH dos 5 ambientes. Utilizando o gráfico II, que representa a distribuição estatística de espécies em diferentes faixas de pH, pode-se esperar um maior número de espécies no ambiente:</p>[[fig:1]]",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q30.webp",
+     "alt": "Gráfico I, de barras, com o pH de cada ambiente: A, 10; B, cerca de 5,7; C, 6; D, cerca de 7,7; E, 5. Gráfico II, histograma do número de espécies por faixa de pH ótimo de sobrevida: 4 a 5, 10 espécies; 5 a 6, 20; 6 a 7, 30; 7 a 8, 40; 8 a 9, 30; 9 a 10, 20."
+    }
+   ],
+   "alternativas": {
+    "A": "A.",
+    "B": "B.",
+    "C": "C.",
+    "D": "D.",
+    "E": "E."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O Gráfico II mostra que o maior número de espécies (40) vive com pH ótimo entre 7 e 8. No Gráfico I, o ambiente com pH nessa faixa é o D, com pH perto de 7,7. Alternativa <strong>D</strong>.</p><p>A tem pH 10 (cerca de 20 espécies), B e C ficam perto de 6 (cerca de 20 a 30) e E, com pH 5, entra na faixa de 20 espécies.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pH",
+    "biodiversidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Química",
+   "assunto": "Resíduos sólidos",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p>Os plásticos, por sua versatilidade e menor custo relativo, têm seu uso cada vez mais crescente. Da produção anual brasileira de cerca de 2,5 milhões de toneladas, 40% destinam-se à indústria de embalagens. Entretanto, este crescente aumento de produção e consumo resulta em lixo que só se reintegra ao ciclo natural ao longo de décadas ou mesmo de séculos. Para minimizar esse problema uma ação possível e adequada é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "proibir a produção de plásticos e substituí-los por materiais renováveis como os metais.",
+    "B": "incinerar o lixo de modo que o gás carbônico e outros produtos resultantes da combustão voltem aos ciclos naturais.",
+    "C": "queimar o lixo para que os aditivos contidos na composição dos plásticos, tóxicos e não degradáveis sejam diluídos no ar.",
+    "D": "estimular a produção de plásticos recicláveis para reduzir a demanda de matéria prima não renovável e o acúmulo de lixo.",
+    "E": "reciclar o material para aumentar a qualidade do produto e facilitar a sua comercialização em larga escala."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Plásticos recicláveis permitem reaproveitar o material, o que reduz o uso de petróleo (matéria-prima não renovável) e o acúmulo de lixo. Alternativa <strong>D</strong>.</p><p>Metais não são renováveis (A); a queima libera gás carbônico e substâncias tóxicas, e não resolve o problema (B, C); e reciclar não serve para “aumentar a qualidade” do produto (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reciclagem",
+    "plásticos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p>Um aluno de uma escola será escolhido por sorteio para representá-la em uma certa atividade. A escola tem dois turnos. No diurno há 300 alunos, distribuídos em 10 turmas de 30 alunos. No noturno há 240 alunos, distribuídos em 6 turmas de 40 alunos.</p><p>Em vez do sorteio direto envolvendo os 540 alunos, foram propostos dois outros métodos de sorteio.</p><p><strong>Método I</strong>: escolher ao acaso um dos turnos (por exemplo, lançando uma moeda) e, a seguir, sortear um dos alunos do turno escolhido.</p><p><strong>Método II</strong>: escolher ao acaso uma das 16 turmas (por exemplo, colocando um papel com o número de cada turma em uma urna e sorteando uma delas) e, a seguir, sortear um dos alunos dessa turma.</p><p>Sobre os métodos <strong>I</strong> e <strong>II</strong> de sorteio é correto afirmar:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "em ambos os métodos, todos os alunos têm a mesma chance de serem sorteados.",
+    "B": "no método I, todos os alunos têm a mesma chance de serem sorteados, mas, no método II a chance de um aluno do diurno ser sorteado é maior que a de um aluno do noturno.",
+    "C": "no método II, todos os alunos têm a mesma chance de serem sorteados, mas, no método I, a chance de um aluno do diurno ser sorteado é maior que a de um aluno do noturno.",
+    "D": "no método I, a chance de um aluno do noturno ser sorteado é maior do que a de um aluno do diurno, enquanto no método II ocorre o contrário.",
+    "E": "em ambos os métodos, a chance de um aluno do diurno ser sorteado é maior do que a de um aluno do noturno."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Método I: cada aluno do diurno tem chance 1/2 × 1/300 = 1/600, e cada aluno do noturno, 1/2 × 1/240 = 1/480, maior. Método II: cada aluno do diurno tem 1/16 × 1/30 = 1/480, e cada aluno do noturno, 1/16 × 1/40 = 1/640, menor. No I o noturno leva vantagem; no II, o diurno. Alternativa <strong>D</strong>.</p><p>Só o sorteio direto entre os 540 daria a mesma chance (1/540) a todos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade condicional",
+    "sorteio"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Português",
+   "assunto": "Denotação e conotação",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p>O termo (ou expressão) destacado que está empregado em seu sentido próprio, denotativo ocorre em</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q33a.webp",
+     "alt": "Trecho de canção: “(....) É de laço e de nó / De gibeira o jiló / Dessa vida, cumprida a sol (....)”, com a expressão “cumprida a sol” destacada. Fonte: Renato Teixeira, Romaria, Kuarup Discos, setembro de 1992."
+    },
+    {
+     "src": "assets/img/enem-2005/q33b.webp",
+     "alt": "Trova: “Protegendo os inocentes / é que Deus, sábio demais, / põe cenários diferentes / nas impressões digitais.”, com a palavra “cenários” destacada. Fonte: Maria N. S. Carvalho, Evangelho da Trova."
+    },
+    {
+     "src": "assets/img/enem-2005/q33d.webp",
+     "alt": "Tirinha do Menino Maluquinho em dois quadros: uma mulher pensativa diz “Às vezes eu tenho a impressão...”, e no quadro seguinte, enquanto o menino pula agitado entre ela e outra mulher, completa: “...de que a bateria dele não acaba!”, com a palavra “bateria” destacada. Fonte: O Globo, agosto de 2002."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "“O <u><strong>dicionário-padrão</strong></u> da língua e os dicionários unilíngües são os tipos mais comuns de dicionários. Em nossos dias, eles se tornaram um objeto de consumo obrigatório para as nações civilizadas e desenvolvidas.” (Maria T. Camargo Biderman. <em>O dicionário-padrão da língua</em>. Alfa (28), 2743, 1974 Supl.)",
+    "D": "[[fig:3]]",
+    "E": "“Humorismo é a arte de <u><strong>fazer cócegas no raciocínio</strong></u> dos outros. Há duas espécies de humorismo: o trágico e o cômico. O trágico é o que não consegue fazer rir; o cômico é o que é verdadeiramente trágico para se fazer.” (Leon Eliachar. Acessado em julho de 2005.)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Em C, “dicionário-padrão” nomeia literalmente um tipo de dicionário: é o sentido próprio, denotativo. Alternativa <strong>C</strong>.</p><p>Nas demais o sentido é figurado: “cumprida a sol” (vida de trabalho sob o sol), “cenários” (os desenhos das impressões digitais), “bateria” (a energia do menino) e “fazer cócegas no raciocínio” (provocar o pensamento).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sentido denotativo",
+    "linguagem figurada"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p>Quatro estações distribuidoras de energia A, B, C e D estão dispostas como vértices de um quadrado de 40 km de lado. Deseja-se construir uma estação central que seja ao mesmo tempo equidistante das estações A e B e da estrada (reta) que liga as estações C e D.</p><p>A nova estação deve ser localizada</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "no centro do quadrado.",
+    "B": "na perpendicular à estrada que liga C e D passando por seu ponto médio, a 15 km dessa estrada.",
+    "C": "na perpendicular à estrada que liga C e D passando por seu ponto médio, a 25 km dessa estrada.",
+    "D": "no vértice de um triângulo equilátero de base AB, oposto a essa base.",
+    "E": "no ponto médio da estrada que liga as estações A e B."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Ponha a estrada CD no eixo x e A e B em (0, 40) e (40, 40). Ser equidistante de A e B coloca o ponto na mediatriz de AB, x = 20, que é a perpendicular a CD por seu ponto médio. Se ele está a d km da estrada, sua distância a A é √(20² + (40 − d)²). Igualando a d: 400 + 1600 − 80d + d² = d², logo d = 25 km. Alternativa <strong>C</strong>.</p><p>O centro do quadrado (A) fica a 20 km da estrada, mas a cerca de 28 km de A.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mediatriz",
+    "distância"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Biologia",
+   "assunto": "Paleontologia",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p>Uma expedição de paleontólogos descobre em um determinado extrato geológico marinho uma nova espécie de animal fossilizado. No mesmo extrato, foram encontrados artrópodes xifosuras e trilobitas, braquiópodos e peixes ostracodermos e placodermos.</p>[[fig:1]]<p>O esquema acima representa os períodos geológicos em que esses grupos viveram. Observando esse esquema os paleontólogos concluíram que o período geológico em que haviam encontrado essa nova espécie era o Devoniano, tendo ela uma idade estimada entre 405 milhões e 345 milhões de anos.</p><p>Destes cinco grupos de animais que estavam associados à nova espécie, aquele que foi determinante para a definição do período geológico em que ela foi encontrada é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q35.webp",
+     "alt": "Esquema dos períodos geológicos, do Cambriano (embaixo) ao Quaternário (em cima), agrupados nas eras Paleozoica, Mesozoica e Cenozoica, com barras verticais mostrando quando viveu cada grupo: xifosura, do Ordoviciano ao Quaternário; trilobita, do Cambriano ao Triássico; braquiópodo, do Cambriano ao Quaternário; ostracodermo, do Cambriano ao Devoniano; placodermo, só no Devoniano, entre duas linhas tracejadas que marcam esse período."
+    }
+   ],
+   "alternativas": {
+    "A": "xifosura, grupo muito antigo, associado a outros animais.",
+    "B": "trilobita, grupo típico da era Paleozóica.",
+    "C": "braquiópodo, grupo de maior distribuição geológica.",
+    "D": "ostracodermo, grupo de peixes que só aparece até o Devoniano.",
+    "E": "placodermo, grupo que só existiu no Devoniano."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pelo esquema, xifosuras, trilobitas e braquiópodos viveram por vários períodos, e os ostracodermos existiram do Cambriano ao Devoniano. Só os placodermos existiram apenas no Devoniano: sua presença no mesmo estrato é o que define a idade da nova espécie. Alternativa <strong>E</strong>.</p><p>Os ostracodermos (D) também aparecem em períodos anteriores, por isso não bastam para fixar o Devoniano.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fósseis-guia",
+    "Devoniano"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p>Quando um reservatório de água é agredido ambientalmente por poluição de origem doméstica ou industrial, uma rápida providência é fundamental para diminuir os danos ecológicos. Como o monitoramento constante dessas águas demanda aparelhos caros e testes demorados, cientistas têm se utilizado de biodetectores, como peixes que são colocados em gaiolas dentro da água, podendo ser observados periodicamente.</p><p>Para testar a resistência de três espécies de peixes, cientistas separaram dois grupos de cada espécie, cada um com cem peixes, totalizando seis grupos. Foi, então, adicionada a mesma quantidade de poluentes de origem doméstica e industrial, em separado. Durante o período de 24 horas, o número de indivíduos passou a ser contado de hora em hora. Os resultados são apresentados abaixo.</p>[[fig:1]]<p>Pelos resultados obtidos, a espécie de peixe mais indicada para ser utilizada como detectora de poluição, a fim de que sejam tomadas providências imediatas, seria</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q36.webp",
+     "alt": "Três gráficos do número de peixes (0 a 100) ao longo de 24 horas, com uma curva para poluentes domésticos e outra para industriais. Espécie I: o número cai de 100 a quase zero logo nas primeiras horas, com os dois poluentes. Espécie II: fica em 100 por algumas horas e depois despenca, com os dois. Espécie III: cai pouco ao longo do dia, com os dois."
+    }
+   ],
+   "alternativas": {
+    "A": "a espécie I, pois sendo menos resistente à poluição, morreria mais rapidamente após a contaminação.",
+    "B": "a espécie II, pois sendo a mais resistente, haveria mais tempo para testes.",
+    "C": "a espécie III, pois como apresenta resistência diferente à poluição doméstica e industrial, propicia estudos posteriores.",
+    "D": "as espécies I e III juntas, pois tendo resistência semelhante em relação à poluição permitem comparar resultados.",
+    "E": "as espécies II e III juntas, pois como são pouco tolerantes à poluição, propiciam um rápido alerta."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Um bom biodetector precisa reagir rápido. A espécie I morre em poucas horas com os dois tipos de poluente, dando o alarme logo após a contaminação. Alternativa <strong>A</strong>.</p><p>A espécie II resiste algumas horas antes de morrer, e a III quase não é afetada; espécies resistentes demoram a indicar o problema, o contrário do que se quer (B, C, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "bioindicadores",
+    "poluição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p>A Embrapa possui uma linhagem de soja transgênica resistente ao herbicida IMAZAPIR. A planta está passando por testes de segurança nutricional e ambiental, processo que exige cerca de três anos. Uma linhagem de soja transgênica requer a produção inicial de 200 plantas resistentes ao herbicida e destas são selecionadas as dez mais “estáveis”, com maior capacidade de gerar descendentes também resistentes. Esses descendentes são submetidos a doses de herbicida três vezes superiores às aplicadas nas lavouras convencionais. Em seguida, as cinco melhores são separadas e apenas uma delas é levada a testes de segurança. Os riscos ambientais da soja transgênica são pequenos, já que ela não tem possibilidade de cruzamento com outras plantas e o perigo de polinização cruzada com outro tipo de soja é de apenas 1%.</p><p>A soja transgênica, segundo o texto, apresenta baixo risco ambiental porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a resistência ao herbicida não é estável e assim não passa para as plantas-filhas.",
+    "B": "as doses de herbicida aplicadas nas plantas são 3 vezes superiores às usuais.",
+    "C": "a capacidade da linhagem de cruzar com espécies selvagens é inexistente.",
+    "D": "a linhagem passou por testes nutricionais e após três anos foi aprovada.",
+    "E": "a linhagem obtida foi testada rigorosamente em relação a sua segurança."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que os riscos ambientais são pequenos porque a soja transgênica “não tem possibilidade de cruzamento com outras plantas” e só 1% de chance de polinização cruzada com outra soja: ela não passa o gene a espécies selvagens. Alternativa <strong>C</strong>.</p><p>As doses de herbicida (B) e os testes de segurança (D, E) dizem respeito à estabilidade e à segurança do produto, e não ao risco ambiental; e o texto afirma que a resistência é estável (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transgênicos",
+    "soja"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p>As 23 ex-alunas de uma turma que completou o Ensino Médio há 10 anos se encontraram em uma reunião comemorativa. Várias delas haviam se casado e tido filhos. A distribuição das mulheres, de acordo com a quantidade de filhos, é mostrada no gráfico abaixo.</p>[[fig:1]]<p>Um prêmio foi sorteado entre todos os filhos dessas ex-alunas. A probabilidade de que a criança premiada tenha sido um(a) filho(a) único(a) é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q38.webp",
+     "alt": "Gráfico de barras do número de mulheres por quantidade de filhos: sem filhos, 8; 1 filho, 7; 2 filhos, 6; 3 filhos, 2."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\frac{1}{3}\\)",
+    "B": "\\(\\frac{1}{4}\\)",
+    "C": "\\(\\frac{7}{15}\\)",
+    "D": "\\(\\frac{7}{23}\\)",
+    "E": "\\(\\frac{7}{25}\\)"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pelo gráfico, 8 ex-alunas não têm filhos, 7 têm 1 filho, 6 têm 2 e 2 têm 3 (total de 23). Os filhos são 7 × 1 + 6 × 2 + 2 × 3 = 25, dos quais 7 são filhos únicos. A probabilidade é 7/25. Alternativa <strong>E</strong>.</p><p>A alternativa D (7/23) divide pelo número de mães, mas o sorteio é entre os filhos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico de barras"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Geografia",
+   "assunto": "Climatologia",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p>A água é um dos fatores determinantes para todos os seres vivos, mas a precipitação varia muito nos continentes, como podemos observar no mapa abaixo.</p>[[fig:1]]<table class=\"tabela\"><thead><tr><th>Latitude (°) / hemisfério</th><th>Temperatura média (°C)</th></tr></thead><tbody><tr><td>60 / Norte</td><td>0</td></tr><tr><td>30 / Norte</td><td>10</td></tr><tr><td>10 / Norte</td><td>24</td></tr><tr><td>10 / Sul</td><td>28</td></tr><tr><td>30 / Sul</td><td>14</td></tr><tr><td>60 / Sul</td><td>9</td></tr></tbody></table><p class=\"fonte\">Robert E. Ricklefs. <em>A Economia da Natureza</em>, 3. ed. Rio de Janeiro: Guanabara Koogan, 1996. p. 55.</p><p>Ao examinar a tabela da temperatura média anual em algumas latitudes, podemos concluir que as chuvas são mais abundantes nas maiores latitudes próximas do Equador, porque</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q39.webp",
+     "alt": "Mapa-múndi “Mapa de distribuição dos grandes desertos e das áreas úmidas”, com as latitudes 60° N, 30° N, 0°, 30° S e 60° S marcadas. As áreas úmidas (mais de 1.500 mm de chuva por ano), em preto, concentram-se na faixa equatorial: Amazônia, África central e Sudeste Asiático. Os desertos (menos de 250 mm), em cinza, ficam perto de 30° N e 30° S, como o Saara, a Arábia e a Austrália."
+    }
+   ],
+   "alternativas": {
+    "A": "as grandes extensões de terra fria das latitudes extremas impedem precipitações mais abundantes.",
+    "B": "a água superficial é mais quente nos trópicos do que nas regiões temperadas, causando maior precipitação.",
+    "C": "o ar mais quente tropical retém mais vapor de água na atmosfera, aumentando as precipitações.",
+    "D": "o ar mais frio das regiões temperadas retém mais vapor de água, impedindo as precipitações.",
+    "E": "a água superficial é fria e menos abundante nas latitudes extremas, causando menor precipitação."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Perto do Equador, a temperatura média é alta (24 °C a 28 °C, pela tabela). O ar quente consegue reter mais vapor de água; ao subir e esfriar, esse vapor condensa e cai como chuva abundante. Alternativa <strong>C</strong>.</p><p>O ar frio retém menos vapor, e não mais (D); A, B e E não explicam o mecanismo pelo qual a temperatura afeta a precipitação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "chuvas",
+    "latitude"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "Geografia",
+   "assunto": "Fontes de energia",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p>Nos últimos meses o preço do petróleo tem alcançado recordes históricos. Por isso a procura de fontes energéticas alternativas se faz necessária. Para os especialistas, uma das mais interessantes é o gás natural, pois ele apresentaria uma série de vantagens em relação a outras opções energéticas.</p><p>A tabela compara a distribuição das reservas de petróleo e de gás natural no mundo, e a figura, a emissão de monóxido de carbono entre vários tipos de fontes energéticas.</p><table class=\"tabela\"><thead><tr><th>Região</th><th>Distribuição de petróleo no mundo (%)</th><th>Distribuição de gás natural no mundo (%)</th></tr></thead><tbody><tr><td>América do Norte</td><td>3,5</td><td>5,0</td></tr><tr><td>América Latina</td><td>13,0</td><td>6,0</td></tr><tr><td>Europa</td><td>2,0</td><td>3,6</td></tr><tr><td>Ex-União Soviética</td><td>6,3</td><td>38,7</td></tr><tr><td>Oriente Médio</td><td>64,0</td><td>33,0</td></tr><tr><td>África</td><td>7,2</td><td>7,7</td></tr><tr><td>Ásia/Oceania</td><td>4,0</td><td>6,0</td></tr></tbody></table><p class=\"apoio\"><strong>Emissão de dióxido de carbono (CO<sub>2</sub>)</strong></p>[[fig:1]]<p class=\"fonte\">Fonte: Gas World International – Petroleum Economist.</p><p>A partir da análise da tabela e da figura, são feitas as seguintes afirmativas:</p><ol type=\"I\"><li><em>Enquanto as reservas mundiais de petróleo estão concentradas geograficamente, as reservas mundiais de gás natural são mais distribuídas ao redor do mundo garantindo um mercado competitivo, menos dependente de crises internacionais e políticas.</em></li><li><em>A emissão de dióxido de carbono (CO<sub>2</sub>) para o gás natural é a mais baixa entre os diversos combustíveis analisados, o que é importante, uma vez que esse gás é um dos principais responsáveis pelo agravamento do efeito estufa.</em></li></ol><p>Com relação a essas afirmativas pode-se dizer que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q40.webp",
+     "alt": "Gráfico de barras da emissão de dióxido de carbono, em escala de 0 a 160: carvão de baixo teor de enxofre, cerca de 145; carvão de alto teor de enxofre, cerca de 120; óleo residual, cerca de 78; óleos destilados, cerca de 75; gás natural, cerca de 56."
+    }
+   ],
+   "alternativas": {
+    "A": "a primeira está incorreta, pois novas reservas de petróleo serão descobertas futuramente.",
+    "B": "a segunda está incorreta, pois o dióxido de carbono (CO<sub>2</sub>) apresenta pouca importância no agravamento do efeito estufa.",
+    "C": "ambas são análises corretas, mostrando que o gás natural é uma importante alternativa energética.",
+    "D": "ambas não procedem para o Brasil, que já é praticamente auto-suficiente em petróleo e não contribui para o agravamento do efeito estufa.",
+    "E": "nenhuma delas mostra vantagem do uso de gás natural sobre o petróleo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As duas afirmativas estão corretas: o petróleo está concentrado (64% no Oriente Médio), enquanto o gás natural se divide principalmente entre a ex-União Soviética (38,7%) e o Oriente Médio (33%), além de outras regiões; e o gráfico mostra que o gás natural é o que menos emite CO2, um dos principais gases do efeito estufa. Alternativa <strong>C</strong>.</p><p>O CO2 tem grande importância no efeito estufa (B), e o Brasil também contribui para o problema (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gás natural",
+    "efeito estufa"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Biologia",
+   "assunto": "Ácidos nucleicos",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p>Um fabricante afirma que um produto disponível comercialmente possui DNA vegetal, elemento que proporcionaria melhor hidratação dos cabelos.</p>[[fig:1]]<p>Sobre as características químicas dessa molécula essencial à vida, é correto afirmar que o DNA</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q41.webp",
+     "alt": "Pote de creme com a marca fictícia “Wxyz”, o desenho de uma dupla hélice e os dizeres “Com DNA vegetal, 450 g”."
+    }
+   ],
+   "alternativas": {
+    "A": "de qualquer espécie serviria, já que têm a mesma composição.",
+    "B": "de origem vegetal é diferente quimicamente dos demais pois possui clorofila.",
+    "C": "das bactérias poderia causar mutações no couro cabeludo.",
+    "D": "dos animais encontra-se sempre enovelado e é de difícil absorção.",
+    "E": "de características básicas, assegura sua eficiência hidratante."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O DNA de todos os seres vivos é feito dos mesmos componentes: desoxirribose, fosfato e as bases A, T, C e G. Quimicamente, o DNA vegetal não tem nada de especial, e qualquer DNA serviria. Alternativa <strong>A</strong>.</p><p>Clorofila não faz parte do DNA (B), DNA aplicado ao cabelo não causa mutação no couro cabeludo (C), e o caráter ácido, e não básico, é o que dá nome à molécula (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "DNA",
+    "propaganda"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Proporção",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p>Um pátio de grandes dimensões vai ser revestido por pastilhas quadradas brancas e pretas, segundo o padrão representado abaixo, que vai ser repetido em toda a extensão do pátio.</p>[[fig:1]]<p>As pastilhas de cor branca custam R$ 8,00 por metro quadrado e as de cor preta, R$ 10,00. O custo por metro quadrado do revestimento será de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q42.webp",
+     "alt": "Malha quadriculada de pastilhas brancas com pastilhas pretas espalhadas em padrão regular: em cada fileira, uma pastilha preta a cada cinco, deslocada de uma fileira para a outra."
+    }
+   ],
+   "alternativas": {
+    "A": "R$ 8,20.",
+    "B": "R$ 8,40.",
+    "C": "R$ 8,60.",
+    "D": "R$ 8,80.",
+    "E": "R$ 9,00."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No padrão, cada fileira tem 1 pastilha preta a cada 5, ou seja, 1/5 = 20% da área é preta e 80% é branca. O custo por metro quadrado é 0,8 × 8 + 0,2 × 10 = 6,40 + 2,00 = R$ 8,40. Alternativa <strong>B</strong>.</p><p>Outra conta: o revestimento custa R$ 8 por m², mais R$ 2 a mais em cada 20% de área preta, isto é, 8 + 0,4.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>A atividade pesqueira é antes de tudo extrativista, o que causa impactos ambientais. Muitas espécies já apresentam sério comprometimento em seus estoques e, para diminuir esse impacto, várias espécies vêm sendo cultivadas. No Brasil, o cultivo de algas, mexilhões, ostras, peixes e camarões, vem sendo realizado há alguns anos, com grande sucesso, graças ao estudo minucioso da biologia dessas espécies.</p><p>Os crustáceos decápodes, por exemplo, apresentam durante seu desenvolvimento larvário, várias etapas com mudança radical de sua forma.</p>[[fig:1]]<p class=\"fonte\">Algumas das fases larvárias de crustáceos</p><p>Não só a sua forma muda, mas também a sua alimentação e habitat. Isso faz com que os criadores estejam atentos a essas mudanças, porque a alimentação ministrada tem de mudar a cada fase.</p><p>Se para o criador, essas mudanças são um problema para a espécie em questão, essa metamorfose apresenta uma vantagem importante para sua sobrevivência, pois</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q43.webp",
+     "alt": "Desenhos de quatro fases larvais de crustáceos, de formas muito diferentes entre si: uma larva pequena com longos apêndices, uma com espinhos, uma achatada com muitas patas e, por fim, uma já parecida com um camarão."
+    }
+   ],
+   "alternativas": {
+    "A": "aumenta a predação entre os indivíduos.",
+    "B": "aumenta o ritmo de crescimento.",
+    "C": "diminui a competição entre os indivíduos da mesma espécie.",
+    "D": "diminui a quantidade de nichos ecológicos ocupados pela espécie.",
+    "E": "mantém a uniformidade da espécie."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Se cada fase larval tem forma, alimentação e habitat diferentes, larvas e adultos da mesma espécie não disputam os mesmos recursos. A metamorfose diminui a competição intraespecífica. Alternativa <strong>C</strong>.</p><p>Ocupar fases diferentes aumenta, e não diminui, o número de nichos ocupados pela espécie (D), e não aumenta a predação entre os indivíduos (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metamorfose",
+    "competição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Artes",
+   "assunto": "Surrealismo",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>Os transgênicos vêm ocupando parte da imprensa com opiniões ora favoráveis ora desfavoráveis. Um organismo ao receber material genético de outra espécie, ou modificado da mesma espécie, passa a apresentar novas características. Assim, por exemplo, já temos bactérias fabricando hormônios humanos, algodão colorido e cabras que produzem fatores de coagulação sangüínea humana.</p><p>O belga René Magritte (1896 – 1967), um dos pintores surrealistas mais importantes, deixou obras enigmáticas. Caso você fosse escolher uma ilustração para um artigo sobre os transgênicos, qual das obras de Magritte, abaixo, estaria mais de acordo com esse tema tão polêmico?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q44a.webp",
+     "alt": "Pintura de Magritte: duas figuras de costas, de sobretudo e chapéu-coco, a da direita com o corpo recortado mostrando céu e nuvens."
+    },
+    {
+     "src": "assets/img/enem-2005/q44b.webp",
+     "alt": "Pintura de Magritte: na beira do mar, um ser deitado na areia com a cabeça e o tronco de peixe e as pernas de mulher."
+    },
+    {
+     "src": "assets/img/enem-2005/q44c.webp",
+     "alt": "Pintura de Magritte: um veleiro em mar agitado, com o casco e as velas feitos da mesma textura das ondas."
+    },
+    {
+     "src": "assets/img/enem-2005/q44d.webp",
+     "alt": "Pintura de Magritte: um cachimbo, com a frase em francês “Ceci n’est pas une pipe” (Isto não é um cachimbo)."
+    },
+    {
+     "src": "assets/img/enem-2005/q44e.webp",
+     "alt": "Pintura de Magritte: um pintor diante do cavalete olha um ovo sobre a mesa e pinta na tela um pássaro de asas abertas."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Transgênicos misturam características de espécies diferentes. A obra B mostra um ser híbrido, com a parte de cima de peixe e a de baixo de mulher, que traduz essa ideia. Alternativa <strong>B</strong>.</p><p>As outras obras exploram outros enigmas de Magritte: figuras de chapéu-coco recortadas, um navio feito de mar, a pintura que “não é um cachimbo” e o pintor que pinta um pássaro olhando um ovo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "René Magritte",
+    "transgênicos"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Botânica",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p>Caso os cientistas descobrissem alguma substância que impedisse a reprodução de todos os insetos, certamente nos livraríamos de várias doenças em que esses animais são vetores. Em compensação teríamos grandes problemas como a diminuição drástica de plantas que dependem dos insetos para polinização, que é o caso das</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "algas.",
+    "B": "briófitas como os musgos.",
+    "C": "pteridófitas como as samambaias.",
+    "D": "gimnospermas como os pinheiros.",
+    "E": "angiospermas como as árvores frutíferas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As angiospermas são as plantas com flores e frutos, e muitas dependem de insetos para a polinização, como as árvores frutíferas. Sem insetos, sua reprodução cairia drasticamente. Alternativa <strong>E</strong>.</p><p>Algas, briófitas e pteridófitas não têm flores nem polinização, e as gimnospermas, como os pinheiros, são polinizadas pelo vento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "polinização",
+    "angiospermas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 46,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p>A escrita Braile para cegos é um sistema de símbolos no qual cada caráter é um conjunto de 6 pontos dispostos em forma retangular, dos quais pelo menos um se destaca em relação aos demais.</p><p>Por exemplo, a letra A é representada por</p>[[fig:1]]<p>O número total de caracteres que podem ser representados no sistema Braile é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q46.webp",
+     "alt": "Cela braile com 6 pontos em 3 linhas e 2 colunas, na qual só o ponto superior esquerdo é maior, em destaque."
+    }
+   ],
+   "alternativas": {
+    "A": "12.",
+    "B": "31.",
+    "C": "36.",
+    "D": "63.",
+    "E": "720."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Cada um dos 6 pontos pode estar em destaque ou não: são 2<sup>6</sup> = 64 combinações. Tirando a única em que nenhum ponto se destaca, restam 64 − 1 = 63 caracteres. Alternativa <strong>D</strong>.</p><p>720 (E) seria 6!, o número de ordenações dos pontos, o que não é o caso.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo",
+    "braile"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 47,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p>Em uma área observa-se o seguinte regime pluviométrico:</p>[[fig:1]]<p>Os anfíbios são seres que podem ocupar tanto ambientes aquáticos quanto terrestres. Entretanto, há espécies de anfíbios que passam todo o tempo na terra ou então na água. Apesar disso, a maioria das espécies terrestres depende de água para se reproduzir e o faz quando essa existe em abundância. Os meses do ano em que, nessa área, esses anfíbios terrestres poderiam se reproduzir mais eficientemente são de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q47.webp",
+     "alt": "Gráfico de barras da precipitação mensal (mm) de janeiro a dezembro: jan, cerca de 300; fev, 200; mar, 150; abr, 100; mai, 40; jun a set, entre 15 e 30; out, 130; nov, 240; dez, 310."
+    }
+   ],
+   "alternativas": {
+    "A": "setembro a dezembro.",
+    "B": "novembro a fevereiro.",
+    "C": "janeiro a abril.",
+    "D": "março a julho.",
+    "E": "maio a agosto."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os anfíbios terrestres se reproduzem quando há água em abundância. No gráfico, as chuvas mais intensas vão de novembro a fevereiro (cerca de 240 mm em novembro, 310 em dezembro, 300 em janeiro e 200 em fevereiro). Alternativa <strong>B</strong>.</p><p>De maio a setembro chove quase nada, e março e abril já mostram queda das chuvas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anfíbios",
+    "regime de chuvas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 48,
+   "materia": "Geografia",
+   "assunto": "Problemas ambientais urbanos",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>Moradores de três cidades, aqui chamadas de X, Y e Z, foram indagados quanto aos tipos de poluição que mais afligiam as suas áreas urbanas. Nos gráficos abaixo estão representadas as porcentagens de reclamações sobre cada tipo de poluição ambiental.</p>[[fig:1]]<p>Considerando a queixa principal dos cidadãos de cada cidade, a primeira medida de combate à poluição em cada uma delas seria, respectivamente:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q48.webp",
+     "alt": "Três gráficos de setores. Cidade X: dejetos tóxicos 34%, poluição sonora 30%, lixo 24%, esgoto aberto 12%, poluição do ar 0%. Cidade Y: lixo 40%, dejetos tóxicos 23%, poluição sonora 22%, poluição do ar 13%, esgoto aberto 2%. Cidade Z: esgoto aberto 36%, poluição do ar 23%, lixo 22%, dejetos tóxicos 12%, poluição sonora 7%."
+    }
+   ],
+   "alternativas": {
+    "A": "X: manejamento de lixo; Y: esgotamento sanitário; Z: controle emissão de gases.",
+    "B": "X: controle de despejo industrial; Y: manejamento de lixo; Z: controle emissão de gases.",
+    "C": "X: manejamento de lixo; Y: esgotamento sanitário; Z: controle de despejo industrial.",
+    "D": "X: controle emissão de gases; Y: controle de despejo industrial; Z: esgotamento sanitário.",
+    "E": "X: controle de despejo industrial; Y: manejamento de lixo; Z: esgotamento sanitário."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A maior queixa em X são os dejetos tóxicos (34%), o que pede controle de despejo industrial; em Y, o lixo (40%), que pede manejamento de lixo; em Z, o esgoto aberto (36%), que pede esgotamento sanitário. Alternativa <strong>E</strong>.</p><p>A poluição do ar só aparece com peso em Z (23%), e nem lá é a principal queixa, por isso não cabe começar pelo controle de emissão de gases.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "poluição",
+    "gráfico de setores"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 49,
+   "materia": "Biologia",
+   "assunto": "Controle biológico",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "[[fig:1]]<p>Foram publicados recentemente trabalhos relatando o uso de fungos como controle biológico de mosquitos transmissores da malária. Observou-se o percentual de sobrevivência dos mosquitos <em>Anopheles</em> sp. após exposição ou não a superfícies cobertas com fungos sabidamente pesticidas, ao longo de duas semanas. Os dados obtidos estão presentes no gráfico acima. No grupo exposto aos fungos, o período em que houve 50% de sobrevivência ocorreu entre os dias</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q49.webp",
+     "alt": "Gráfico da porcentagem de sobrevivência dos mosquitos em função dos dias após a exposição (0 a 14). A curva tracejada com círculos, rotulada na legenda como “mosquitos expostos”, fica entre 90% e 100% o tempo todo. A curva contínua com quadrados, rotulada como “mosquitos não expostos”, fica perto de 90% até o dia 6 e depois cai: 80% no dia 7, 70% no dia 8, 55% no dia 9, 40% no dia 10, 25% no dia 11, 20% no dia 12 e 5% no dia 14."
+    }
+   ],
+   "alternativas": {
+    "A": "2 e 4.",
+    "B": "4 e 6.",
+    "C": "6 e 8.",
+    "D": "8 e 10.",
+    "E": "10 e 12."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A única curva que chega a 50% de sobrevivência cai de cerca de 70% no dia 8 para 40% no dia 10, cruzando os 50% entre esses dias (perto do dia 9). Alternativa <strong>D</strong>.</p><p>Atenção: na legenda do gráfico original, essa curva que despenca aparece como a dos mosquitos “não expostos”, e a que fica perto de 90% como a dos “expostos”. Pelo sentido do experimento (fungos que matam mosquitos) e pelo gabarito, a curva que cai é a do grupo exposto; a legenda parece trocada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fungos",
+    "malária"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 50,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Fonte: Raquel Aguiar, <em>Ciência Hoje on-line</em> 13/05/02.</p><p>Foi proposto um novo modelo de evolução dos primatas elaborado por matemáticos e biólogos. Nesse modelo o grupo de primatas pode ter tido origem quando os dinossauros ainda habitavam a Terra, e não há 65 milhões de anos, como é comumente aceito.</p><p>Examinando esta árvore evolutiva podemos dizer que a divergência entre os macacos do Velho Mundo e o grupo dos grandes macacos e de humanos ocorreu há aproximadamente</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q50.webp",
+     "alt": "Árvore evolutiva dos primatas sobre uma escala de tempo em milhões de anos (90, 80, 70, 60 e mais marcas a cada 10 milhões até o presente), do Cretáceo superior e Paleoceno aos primatas atuais. O ancestral comum mais antigo fica perto de 85 milhões de anos, antes da linha da extinção dos dinossauros (cerca de 65). Dele saem os ramos de lêmures e lóris, de társios e macacos do Novo Mundo, e um ramo que se divide em macacos do Velho Mundo e grandes macacos e humanos por volta de 40 milhões de anos."
+    }
+   ],
+   "alternativas": {
+    "A": "10 milhões de anos.",
+    "B": "40 milhões de anos.",
+    "C": "55 milhões de anos.",
+    "D": "65 milhões de anos.",
+    "E": "85 milhões de anos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na árvore, o ramo dos macacos do Velho Mundo se separa do ramo dos grandes macacos e humanos num ponto bem à direita da extinção dos dinossauros (cerca de 65 milhões de anos), a pouco mais de duas divisões depois da marca de 60 milhões, cada uma de 10 milhões de anos: cerca de 40 milhões de anos. Alternativa <strong>B</strong>.</p><p>85 milhões de anos (E) é a idade do ancestral comum mais antigo, e 65 milhões (D), a extinção dos dinossauros.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "primatas",
+    "árvore filogenética"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 51,
+   "materia": "Geografia",
+   "assunto": "Saúde e desenvolvimento",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p>Entre 1975 e 1999, apenas 15 novos produtos foram desenvolvidos para o tratamento da tuberculose e de doenças tropicais, as chamadas doenças negligenciadas. No mesmo período, 179 novas drogas surgiram para atender portadores de doenças cardiovasculares. Desde 2003, um grande programa articula esforços em pesquisa e desenvolvimento tecnológico de instituições científicas, governamentais e privadas de vários países para reverter esse quadro de modo duradouro e profissional.</p><p>Sobre as doenças negligenciadas e o programa internacional, considere as seguintes afirmativas:</p><ol type=\"I\"><li>As doenças negligenciadas, típicas das regiões subdesenvolvidas do planeta, são geralmente associadas à subnutrição e à falta de saneamento básico.</li><li>As pesquisas sobre as doenças negligenciadas não interessam à indústria farmacêutica porque atingem países em desenvolvimento sendo economicamente pouco atrativas.</li><li>O programa de combate às doenças negligenciadas endêmicas não interessa ao Brasil porque atende a uma parcela muito pequena da população.</li></ol><p>Está correto apenas o que se afirma em:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "I e II.",
+    "E": "II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>I e II estão corretas: as doenças negligenciadas (malária, doença de Chagas, leishmaniose, tuberculose) são ligadas à pobreza, à subnutrição e à falta de saneamento, e atraem pouco a indústria farmacêutica, porque os doentes estão em países pobres e o retorno econômico é baixo. Alternativa <strong>D</strong>.</p><p>III é falsa: essas doenças são endêmicas no Brasil e atingem milhões de pessoas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "doenças negligenciadas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 52,
+   "materia": "Geografia",
+   "assunto": "Biomas brasileiros",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p>Em um estudo feito pelo Instituto Florestal, foi possível acompanhar a evolução de ecossistemas paulistas desde 1962. Desse estudo publicou-se o Inventário Florestal de São Paulo, que mostrou resultados de décadas de transformações da Mata Atlântica.</p>[[fig:1]]<p class=\"fonte\">Fonte: <em>Pesquisa</em>. 91, São Paulo: FAPESP, set/2003, p. 48.</p><p>Examinando o gráfico da área de vegetação natural remanescente (em mil km<sup>2</sup>) pode-se inferir que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q52.webp",
+     "alt": "Gráfico de barras “Área de vegetação natural (em mil km²)”: 1962-1963, 72,6; 1971-1973, 43,9; 1990-1992, 33,3; 2000-2001, 34,6."
+    }
+   ],
+   "alternativas": {
+    "A": "a Mata Atlântica teve sua área devastada em 50% entre 1963 e 1973.",
+    "B": "a vegetação natural da Mata Atlântica aumentou antes da década de 60, mas reduziu nas décadas posteriores.",
+    "C": "a devastação da Mata Atlântica remanescente vem sendo contida desde a década de 60.",
+    "D": "em 2000-2001, a área de Mata Atlântica preservada em relação ao período de 1990-1992 foi de 34,6%.",
+    "E": "a área preservada da Mata Atlântica nos anos 2000 e 2001 é maior do que a registrada no período de 1990-1992."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pelo gráfico, a área de vegetação natural foi de 33,3 mil km² em 1990-1992 para 34,6 mil km² em 2000-2001: a área de 2000-2001 é maior. Alternativa <strong>E</strong>.</p><p>De 1962-1963 para 1971-1973 a queda foi de 72,6 para 43,9 mil km², cerca de 40%, e não 50% (A); a devastação continuou depois dos anos 60 (C); e 34,6 é a área em mil km², e não uma porcentagem (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Mata Atlântica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 53,
+   "materia": "Geografia",
+   "assunto": "Recursos hídricos",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\">Segundo a análise do Prof. Paulo Canedo de Magalhães, do Laboratório de Hidrologia da COPPE, UFRJ, o projeto de transposição das águas do Rio São Francisco envolve uma vazão de água modesta e não representa nenhum perigo para o Velho Chico, mas pode beneficiar milhões de pessoas. No entanto, o sucesso do empreendimento dependerá do aprimoramento da capacidade de gestão das águas nas regiões doadora e receptora, bem como no exercício cotidiano de operar e manter o sistema transportador.</p><p class=\"apoio\">Embora não seja contestado que o reforço hídrico poderá beneficiar o interior do Nordeste, um grupo de cientistas e técnicos, a convite da SBPC, numa análise isenta, aponta algumas incertezas no projeto de transposição das águas do Rio São Francisco. Afirma também que a água por si só não gera desenvolvimento e será preciso implantar sistemas de escoamento de produção, capacitar e educar pessoas, entre outras ações.</p><p class=\"fonte\">Adaptado. <em>Ciência Hoje</em>, volume 37, número 217, julho de 2005.</p><p>Os diferentes pontos de vista sobre o megaprojeto de transposição das águas do Rio São Francisco quando confrontados indicam que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as perspectivas de sucesso dependem integralmente do desenvolvimento tecnológico prévio da região do semi-árido nordestino.",
+    "B": "o desenvolvimento sustentado da região receptora com a implantação do megaprojeto independe de ações sociais já existentes.",
+    "C": "o projeto deve limitar-se às infra-estruturas de transporte de água e evitar induzir ou incentivar a gestão participativa dos recursos hídricos.",
+    "D": "o projeto deve ir além do aumento de recursos hídricos e remeter a um conjunto de ações para o desenvolvimento das regiões afetadas.",
+    "E": "as perspectivas claras de insucesso do megaprojeto inviabilizam a sua aplicação, apesar da necessidade hídrica do semi-árido."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os dois pontos de vista concordam que a obra pode beneficiar o Nordeste, mas os dois dizem que ela não basta: o primeiro exige melhor gestão das águas, e o segundo, escoamento da produção e educação das pessoas. O projeto deve ir além do aumento de recursos hídricos. Alternativa <strong>D</strong>.</p><p>Nenhum dos textos prevê fracasso certo (E) nem defende evitar a gestão participativa (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transposição do São Francisco",
+    "semiárido"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 54,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p>Pesquisas recentes estimam o seguinte perfil da concentração de oxigênio (O<sub>2</sub>) atmosférico ao longo da história evolutiva da Terra:</p>[[fig:1]]<p>No período Carbonífero entre aproximadamente 350 e 300 milhões de anos, houve uma ampla ocorrência de animais gigantes, como por exemplo insetos voadores de 45 centímetros e anfíbios de até 2 metros de comprimento. No entanto, grande parte da vida na Terra foi extinta há cerca de 250 milhões de anos, durante o período Permiano. Sabendo-se que o O<sub>2</sub> é um gás extremamente importante para os processos de obtenção de energia em sistemas biológicos, conclui-se que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q54.webp",
+     "alt": "Gráfico da concentração de O2 (%) em função do tempo, de 600 milhões de anos atrás até hoje. A curva fica entre 12% e 15% até cerca de 450 milhões de anos, sobe a um pico perto de 30% por volta de 300 milhões de anos, cai para cerca de 12% perto de 250 milhões de anos e depois oscila entre 15% e 23% até hoje."
+    }
+   ],
+   "alternativas": {
+    "A": "a concentração de nitrogênio atmosférico se manteve constante nos últimos 400 milhões de anos, possibilitando o surgimento de animais gigantes.",
+    "B": "a produção de energia dos organismos fotossintéticos causou a extinção em massa no período Permiano por aumentar a concentração de oxigênio atmosférico.",
+    "C": "o surgimento de animais gigantes pode ser explicado pelo aumento de concentração de oxigênio atmosférico, o que possibilitou uma maior absorção de oxigênio por esses animais.",
+    "D": "o aumento da concentração de gás carbônico (CO<sub>2</sub>) atmosférico no período Carbonífero causou mutações que permitiram o aparecimento de animais gigantes.",
+    "E": "a redução da concentração de oxigênio atmosférico no período Permiano permitiu um aumento da biodiversidade terrestre por meio da indução de processos de obtenção de energia."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O gráfico mostra o pico de O2 (perto de 30%) por volta de 300 milhões de anos, no Carbonífero, quando surgiram os animais gigantes. Com mais oxigênio no ar, organismos grandes, como insetos que respiram por traqueias, conseguiam absorver O2 suficiente. Alternativa <strong>C</strong>.</p><p>A queda do oxigênio no Permiano coincide com a grande extinção, e não com aumento da biodiversidade (E); o texto não fala de nitrogênio (A) nem de mutações causadas por CO2 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "oxigênio atmosférico",
+    "Carbonífero"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 55,
+   "materia": "Matemática",
+   "assunto": "Aritmética",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p>Os números de identificação utilizados no cotidiano (de contas bancárias, de CPF, de Carteira de Identidade etc) usualmente possuem um dígito de verificação, normalmente representado após o hífen, como em 17326-9. Esse dígito adicional tem a finalidade de evitar erros no preenchimento ou digitação de documentos. Um dos métodos usados para gerar esse dígito utiliza os seguintes passos:</p><ul><li>multiplica-se o último algarismo do número por 1, o penúltimo por 2, o antepenúltimo por 1, e assim por diante, sempre alternando multiplicações por 1 e por 2.</li><li>soma-se 1 a cada um dos resultados dessas multiplicações que for maior do que ou igual a 10.</li><li>somam-se os resultados obtidos.</li><li>calcula-se o resto da divisão dessa soma por 10, obtendo-se assim o dígito verificador.</li></ul><p>O dígito de verificação fornecido pelo processo acima para o número 24685 é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "4.",
+    "D": "6.",
+    "E": "8."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para 24685, do último ao primeiro algarismo: 5 × 1 = 5; 8 × 2 = 16, que vira 17; 6 × 1 = 6; 4 × 2 = 8; 2 × 1 = 2. A soma é 5 + 17 + 6 + 8 + 2 = 38, e o resto da divisão por 10 é 8. Alternativa <strong>E</strong>.</p><p>Quem esquece de somar 1 ao 16 chega a 37 e marca 7, que não está entre as opções; quem começa a alternância pelo primeiro algarismo obtém outro valor.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dígito verificador"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 56,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p>Leia estes textos.</p><p class=\"apoio\"><strong>Texto 1</strong></p>[[fig:1]]<p class=\"fonte\">QUINO. <em>O mundo da Mafalda</em>. São Paulo: Martins Fontes, 1999. p. 3.</p><p class=\"apoio\"><strong>Texto 2 — Sonho Impossível</strong></p>[[fig:2]]<p class=\"fonte\">J. Darione – M. Leigh – Versão de Chico Buarque de Hollanda e Ruy Guerra, 1972.</p><p>A tirinha e a canção apresentam uma reflexão sobre o futuro da humanidade. É correto concluir que os dois textos</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q56a.webp",
+     "alt": "Tira de Mafalda, de Quino, em cinco quadros, sem falas até o fim. Mafalda lê no jornal a manchete “Nova tentativa de desarmamento”, recorta a notícia, dobra-a em forma de avião de papel e o lança; o avião rodopia e se espatifa no chão (“ploc”). No último quadro, Mafalda pensa: “Depois eu é que sou a pessimista!”."
+    },
+    {
+     "src": "assets/img/enem-2005/q56b.webp",
+     "alt": "Letra da canção “Sonho impossível”, em versão de Chico Buarque e Ruy Guerra: o eu lírico se propõe a sonhar o sonho impossível, lutar quando é fácil ceder, vencer o inimigo invencível e tocar o chão inacessível, sem se importar com o tamanho das guerras; acredita que valerá a pena e que o mundo verá uma flor brotar do chão impossível."
+    }
+   ],
+   "alternativas": {
+    "A": "afirmam que o homem é capaz de alcançar a paz.",
+    "B": "concordam que o desarmamento é inatingível.",
+    "C": "julgam que o sonho é um desafio invencível.",
+    "D": "têm visões diferentes sobre um possível mundo melhor.",
+    "E": "transmitem uma mensagem de otimismo sobre a paz."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na tirinha, Mafalda vê a notícia de “nova tentativa de desarmamento” virar um avião de papel que cai e se espatifa: a paz parece impossível. Na canção, o eu lírico insiste em sonhar o “sonho impossível” e acredita que “o mundo vai ver uma flor brotar do impossível chão”. Uma visão é pessimista, a outra é esperançosa. Alternativa <strong>D</strong>.</p><p>Por isso os dois textos não concordam (B) nem transmitem, juntos, uma mensagem otimista (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Intertextualidade",
+    "Mafalda",
+    "Chico Buarque"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 57,
+   "materia": "Biologia",
+   "assunto": "Fisiologia animal",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p>O desenvolvimento da maior parte das espécies de insetos passa por vários estágios até chegar à fase adulta, quando finalmente estão aptos à reprodução. Esse desenvolvimento é um jogo complexo de hormônios. A ecdisona promove as mudas (ecdíases), mas o hormônio juvenil impede que o inseto perca suas características de larva. Com o tempo, a quantidade desse hormônio diminui e o inseto chega à fase adulta.</p>[[fig:1]]<p>Cientistas descobriram que algumas árvores produzem um composto químico muito semelhante ao hormônio juvenil dos insetos. A vantagem de uma árvore que produz uma substância que funcione como hormônio juvenil é que a larva do inseto, ao se alimentar da planta, ingere esse hormônio e</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q57.webp",
+     "alt": "Esquema do desenvolvimento de um besouro: ovo, larvas de tamanhos crescentes, pupa e adulto, ligados por setas de “muda”. A ecdisona atua em todas as mudas; o hormônio juvenil também, mas com setas cada vez mais finas, indicando que sua quantidade diminui até a fase adulta."
+    }
+   ],
+   "alternativas": {
+    "A": "vive sem se reproduzir, pois nunca chega à fase adulta.",
+    "B": "vive menos tempo, pois seu ciclo de vida encurta.",
+    "C": "vive mais tempo, pois ocorrem poucas mudas.",
+    "D": "morre, pois chega muito rápido à fase adulta.",
+    "E": "morre, pois não sofrerá mais mudas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O hormônio juvenil impede que o inseto perca as características de larva. Se a larva o ingere continuamente ao comer a planta, nunca chega à fase adulta e, portanto, não se reproduz: a planta reduz a população de insetos que a atacam. Alternativa <strong>A</strong>.</p><p>O hormônio não acelera a chegada à fase adulta (D) e não impede as mudas, que dependem da ecdisona (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hormônio juvenil",
+    "metamorfose"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 58,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p>Leia estes poemas.</p>[[fig:1]]<p class=\"fonte\">Texto 1: Manuel Bandeira. <em>Poesia completa e prosa</em>. Rio de Janeiro: Aguilar, 1983. p. 395. Texto 2: Carlos Drummond de Andrade. <em>Obra completa</em>. Rio de Janeiro: Aguilar, 1964. p. 53.</p><p>Esses poemas têm em comum o fato de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q58.webp",
+     "alt": "Dois poemas lado a lado. Texto 1, “Auto-retrato”, de Manuel Bandeira: o poeta se descreve com ironia como provinciano que não sabe escolher gravata, poeta ruim na prosa, arquiteto e músico falhados, sem família, religião ou filosofia, e “um tísico profissional” (tísico: tuberculoso). Texto 2, “Poema de sete faces”, de Drummond: um anjo torto diz ao poeta, quando ele nasce, que vá ser “gauche” na vida; o eu lírico pergunta a Deus por que o abandonou, se sabia que ele era fraco, e termina dizendo que, se se chamasse Raimundo, seria uma rima, não uma solução, e que mais vasto que o mundo é o seu coração."
+    }
+   ],
+   "alternativas": {
+    "A": "descreverem aspectos físicos dos próprios autores.",
+    "B": "refletirem um sentimento pessimista.",
+    "C": "terem a doença como tema.",
+    "D": "narrarem a vida dos autores desde o nascimento.",
+    "E": "defenderem crenças religiosas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os dois eus líricos se veem como fracassados ou deslocados: Bandeira se descreve como poeta ruim, arquiteto e músico falhados, sem família nem religião; Drummond nasce destinado a ser “gauche” e se sente fraco e abandonado. O tom dos dois é pessimista, ainda que com ironia. Alternativa <strong>B</strong>.</p><p>Nenhum descreve o físico (A) ou narra a vida desde o nascimento em detalhe (D), e a doença só aparece no poema de Bandeira (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Modernismo",
+    "Manuel Bandeira",
+    "Drummond"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 59,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p>Leia estes poemas.</p>[[fig:1]]<p class=\"fonte\">Texto 1: Manuel Bandeira. <em>Poesia completa e prosa</em>. Rio de Janeiro: Aguilar, 1983. p. 395. Texto 2: Carlos Drummond de Andrade. <em>Obra completa</em>. Rio de Janeiro: Aguilar, 1964. p. 53.</p><p>No verso “Meu Deus, por que me abandonaste” do texto 2, Drummond retoma as palavras de Cristo, na cruz, pouco antes de morrer. Esse recurso de repetir palavras de outrem equivale a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q58.webp",
+     "alt": "Dois poemas lado a lado. Texto 1, “Auto-retrato”, de Manuel Bandeira: o poeta se descreve com ironia como provinciano que não sabe escolher gravata, poeta ruim na prosa, arquiteto e músico falhados, sem família, religião ou filosofia, e “um tísico profissional” (tísico: tuberculoso). Texto 2, “Poema de sete faces”, de Drummond: um anjo torto diz ao poeta, quando ele nasce, que vá ser “gauche” na vida; o eu lírico pergunta a Deus por que o abandonou, se sabia que ele era fraco, e termina dizendo que, se se chamasse Raimundo, seria uma rima, não uma solução, e que mais vasto que o mundo é o seu coração."
+    }
+   ],
+   "alternativas": {
+    "A": "emprego de termos moralizantes.",
+    "B": "uso de vício de linguagem pouco tolerado.",
+    "C": "repetição desnecessária de idéias.",
+    "D": "emprego estilístico da fala de outra pessoa.",
+    "E": "uso de uma pergunta sem resposta."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Drummond retoma a frase de Cristo na cruz (“Meu Deus, por que me abandonaste?”) para expressar o abandono do próprio eu lírico. Repetir de propósito as palavras de outra pessoa, com finalidade expressiva, é um recurso estilístico de intertextualidade (citação). Alternativa <strong>D</strong>.</p><p>Não se trata de vício de linguagem (B) nem de repetição desnecessária (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Intertextualidade",
+    "intertextualidade",
+    "Drummond"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 60,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p>A escolaridade dos jogadores de futebol nos grandes centros é maior do que se imagina, como mostra a pesquisa abaixo, realizada com os jogadores profissionais dos quatro principais clubes de futebol do Rio de Janeiro.</p>[[fig:1]]<p class=\"fonte\"><em>O Globo</em>, 24/7/2005.</p><p>De acordo com esses dados, o percentual dos jogadores dos quatro clubes que concluíram o Ensino Médio é de aproximadamente:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q60.webp",
+     "alt": "Gráfico de barras da escolaridade de 112 jogadores: Fundamental incompleto, 14; Fundamental, 16; Médio incompleto, 14; Médio, 54; Superior incompleto, 14."
+    }
+   ],
+   "alternativas": {
+    "A": "14%.",
+    "B": "48%.",
+    "C": "54%.",
+    "D": "60%.",
+    "E": "68%."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Concluíram o Ensino Médio os que têm Médio completo (54) e os que já estão no Superior incompleto (14): 68 jogadores. Em 112, isso é 68/112 ≈ 0,607, ou seja, cerca de 60%. Alternativa <strong>D</strong>.</p><p>68% (E) confunde o número de jogadores com a porcentagem, e 48% (B) considera só os 54 do Médio completo (54/112).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "gráfico de barras"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 61,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p>Os três recipientes da figura têm formas diferentes, mas a mesma altura e o mesmo diâmetro da boca. Neles são colocados líquido até a metade de sua altura, conforme indicado nas figuras.</p>[[fig:1]]<p>Representando por V<sub>1</sub>, V<sub>2</sub> e V<sub>3</sub> o volume de líquido em cada um dos recipientes, tem-se</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q61.webp",
+     "alt": "Três recipientes de mesma altura e mesma boca, cheios até a metade. V1: um cone com a ponta para baixo. V2: um recipiente arredondado, como uma tigela funda. V3: dois cones unidos pela ponta, como uma ampulheta, com o cone de baixo apoiado pela base."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(V_1 = V_2 = V_3\\)",
+    "B": "\\(V_1 < V_3 < V_2\\)",
+    "C": "\\(V_1 = V_3 < V_2\\)",
+    "D": "\\(V_3 < V_1 < V_2\\)",
+    "E": "\\(V_1 < V_2 = V_3\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Até a metade da altura, o cone com a ponta para baixo (V1) contém só a parte estreita: um cone semelhante de razão 1/2, com 1/8 do volume total. O recipiente 2, mais largo embaixo, tem a parte de baixo mais volumosa (V2 é o maior). No recipiente 3, de dois cones unidos pela ponta, a metade de baixo é um cone com a base embaixo, maior que V1 e menor que V2. Assim, V1 &lt; V3 &lt; V2. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "semelhança"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 62,
+   "materia": "Física",
+   "assunto": "Radioatividade",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p>Um problema ainda não resolvido da geração nuclear de eletricidade é a destinação dos rejeitos radiativos, o chamado “lixo atômico”. Os rejeitos mais ativos ficam por um período em piscinas de aço inoxidável nas próprias usinas antes de ser, como os demais rejeitos, acondicionados em tambores que são dispostos em áreas cercadas ou encerrados em depósitos subterrâneos secos, como antigas minas de sal. A complexidade do problema do lixo atômico, comparativamente a outros lixos com substâncias tóxicas, se deve ao fato de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "emitir radiações nocivas, por milhares de anos, em um processo que não tem como ser interrompido artificialmente.",
+    "B": "acumular-se em quantidades bem maiores do que o lixo industrial convencional, faltando assim locais para reunir tanto material.",
+    "C": "ser constituído de materiais orgânicos que podem contaminar muitas espécies vivas, incluindo os próprios seres humanos.",
+    "D": "exalar continuamente gases venenosos, que tornariam o ar irrespirável por milhares de anos.",
+    "E": "emitir radiações e gases que podem destruir a camada de ozônio e agravar o efeito estufa."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O lixo atômico contém isótopos radioativos que continuam emitindo radiação por milhares de anos, e o decaimento não pode ser acelerado nem interrompido por nenhum processo químico ou físico conhecido. Por isso ele precisa ser isolado por muito tempo. Alternativa <strong>A</strong>.</p><p>O volume de rejeito é pequeno (B), ele não é orgânico (C) e não exala gases venenosos nem destrói a camada de ozônio (D, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lixo atômico",
+    "meia-vida"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 63,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p>Leia o texto e examine a ilustração:</p><p class=\"apoio\"><strong>Óbito do autor</strong></p><p class=\"apoio\">(....) expirei às duas horas da tarde de uma sexta-feira do mês de agosto de 1869, na minha bela chácara de Catumbi. Tinha uns sessenta e quatro anos, rijos e prósperos, era solteiro, possuía cerca de trezentos contos e fui acompanhado ao cemitério por onze amigos. Onze amigos! Verdade é que não houve cartas nem anúncios. Acresce que chovia — peneirava — uma chuvinha miúda, triste e constante, tão constante e tão triste, que levou um daqueles fiéis da última hora a intercalar esta engenhosa idéia no discurso que proferiu à beira de minha cova: — “Vós, que o conhecestes, meus senhores, vós podeis dizer comigo que a natureza parece estar chorando a perda irreparável de um dos mais belos caracteres que tem honrado a humanidade. Este ar sombrio, estas gotas do céu, aquelas nuvens escuras que cobrem o azul como um crepe funéreo, tudo isto é a dor crua e má que lhe rói à natureza as mais íntimas entranhas; tudo isso é um sublime louvor ao nosso ilustre finado.” (....)</p>[[fig:1]]<p class=\"fonte\">Adaptado. Machado de Assis. <em>Memórias póstumas de Brás Cubas</em>. Ilustrado por Cândido Portinari. Rio de Janeiro: Cem Bibliófilos do Brasil, 1943. p. 1.</p><p>Compare o texto de Machado de Assis com a ilustração de Portinari. É correto afirmar que a ilustração do pintor</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2005/q63.webp",
+     "alt": "Ilustração a traço de Portinari: num cemitério, sob chuva forte, um pequeno grupo de homens de casaca se abriga sob um guarda-chuva enquanto outro, de pé ao lado de um túmulo, discursa com a mão erguida; ao redor há túmulos, uma coroa de flores no chão, colunas caídas e a estátua de um anjinho."
+    }
+   ],
+   "alternativas": {
+    "A": "apresenta detalhes ausentes na cena descrita no texto verbal.",
+    "B": "retrata fielmente a cena descrita por Machado de Assis.",
+    "C": "distorce a cena descrita no romance.",
+    "D": "expressa um sentimento inadequado à situação.",
+    "E": "contraria o que descreve Machado de Assis."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A ilustração mantém o essencial do texto (a chuva, o pequeno grupo de amigos, o discurso à beira da cova), mas acrescenta elementos que Machado não menciona: o guarda-chuva que abriga o grupo, a estátua de um anjinho, colunas caídas e uma coroa de flores no chão. Ela apresenta detalhes ausentes na cena verbal. Alternativa <strong>A</strong>.</p><p>Por acrescentar esses detalhes, não é uma reprodução fiel (B); mas também não contraria nem distorce a cena (C, E), e o clima sombrio é adequado ao enterro (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Realismo",
+    "Machado de Assis",
+    "Portinari"
+   ],
+   "area": "Linguagens"
+  }
+ ]
+}

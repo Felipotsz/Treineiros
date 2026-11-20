@@ -1,0 +1,1443 @@
+{
+ "id": "fatec-2020-1sem",
+ "banca": "FATEC",
+ "ano": 2020,
+ "semestre": 1,
+ "titulo": "Vestibular FATEC, 1º semestre de 2020",
+ "fonte": "Centro Paula Souza",
+ "dataExame": "2019-12-08",
+ "duracaoMinutos": 300,
+ "tema": "Mundo do trabalho",
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p>Leia a charge.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y3lrke6a&gt; Acesso em: 08.10.2019. Original colorido.</p><p>A ironia da charge se constrói no fato de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q01.webp",
+     "alt": "Charge em inglês: uma mulher sentada à mesa lê um jornal com a manchete “Jobs are returning!” (os empregos estão voltando!) e o subtítulo “But they're low wage, no benefits jobs” (mas são empregos de baixo salário e sem benefícios). Um homem sorridente entra pela porta e diz: “Good news… each of my three jobs are letting me take Labor Day off!” (boa notícia… cada um dos meus três empregos vai me deixar folgar no Dia do Trabalho!)."
+    }
+   ],
+   "alternativas": {
+    "A": "as pessoas parecerem felizes por terem subempregos.",
+    "B": "os trabalhadores estarem otimistas com os novos benefícios trabalhistas.",
+    "C": "haver o aquecimento da economia e consequente aumento de bons empregos.",
+    "D": "a taxa de desemprego diminuir e haver inúmeras vantagens aos trabalhadores atualmente.",
+    "E": "bons salários aparecerem entre as conquistas dos trabalhadores no atual cenário mundial."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O homem comemora que seus <strong>três empregos</strong> lhe dão folga no Dia do Trabalho, enquanto o jornal avisa que os novos empregos pagam pouco e não têm benefícios. A ironia está em alguém parecer feliz com subempregos que o obrigam a trabalhar em três lugares. Alternativa <strong>A</strong>.</p><p>A manchete diz que os empregos não têm benefícios (B), não são bons (C), não trazem vantagens (D) e não pagam bem (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "charge",
+    "ironia"
+   ]
+  },
+  {
+   "numero": 2,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p class=\"apoio\">O conceito de precariado se refere a uma classe emergente, definida por uma combinação distinta de relações. As pessoas do precariado estão sendo forçadas a aceitar uma vida de empregos instáveis, sem uma identidade ocupacional, sendo exploradas e sem horários regulares de trabalho.</p><p class=\"fonte\">&lt;https://tinyurl.com/y6kgyeqz&gt; Acesso em: 10.10.2019. Adaptado.</p><p>De acordo com o texto, o precariado é um grupo de pessoas que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "não aceita a tutela do Estado e negocia sua força de trabalho diretamente com o governo, que o repassa às empresas, conseguindo, dessa forma, remunerações acima do mercado.",
+    "B": "não é explorado pelo fato de trabalhar sem folgas semanais, uma vez que possui registro na carteira de trabalho, e aceita, voluntariamente, não tirar as férias anuais previstas em lei.",
+    "C": "não possui um emprego formal e, portanto, não possui direitos trabalhistas, estando sujeito às atividades com longas jornadas de trabalho, por prazo determinado e em condições insalubres.",
+    "D": "não recebe mais que um salário mínimo, contudo, possui horários regulares de trabalho e está amparado pelas leis trabalhistas, que permitem uma remuneração menor que a prevista na Constituição Federal.",
+    "E": "não quer ter um emprego formal, mas tem seus direitos trabalhistas legais respeitados, mesmo cumprindo jornadas de trabalho superiores a vinte horas diárias, e também possui estabilidade no emprego de caráter oficial."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que o precariado aceita “empregos instáveis, sem uma identidade ocupacional”, com exploração e sem horários regulares: são trabalhadores sem emprego formal e, portanto, sem direitos trabalhistas. Alternativa <strong>C</strong>.</p><p>O precariado não negocia com o governo nem ganha acima do mercado (A). Ele é explorado e não tem carteira assinada (B). Não tem horários regulares nem amparo das leis (D). E não há estabilidade nem direitos respeitados (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "precariado",
+    "trabalho informal"
+   ]
+  },
+  {
+   "numero": 3,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"chamada\">Leia os textos I e II para responder às questões de 03 a 05.</p><p><strong>Texto I</strong></p>[[fig:1]]<p><strong>Texto II</strong></p>[[fig:2]]<p class=\"fonte\">&lt;https://tinyurl.com/y4ur7lhb&gt; Acesso em: 18.10.2019. Original colorido.</p><p class=\"fonte\">* Texto da imagem: “Em 1888, a princesa Isabel assinou a Lei Áurea, mas nem todo mundo conseguiu ler.”</p><p class=\"apoio\">As informações contidas na imagem do texto II, localizadas no canto inferior direito, não foram reproduzidas, pois não interferem na resolução das questões apresentadas.</p><p>Após a leitura e a análise, infere-se corretamente que ambos os textos abordam temáticas</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q03a.webp",
+     "alt": "Texto I: o poema “O Açúcar”, de Ferreira Gullar, em versos livres. O eu lírico adoça o café numa manhã em Ipanema e reflete que o açúcar branco e puro não foi feito por ele, nem pelo dono da mercearia, nem pelo dono da usina: veio de canaviais distantes, plantados e colhidos por homens que vivem sem hospital nem escola, não sabem ler e morrem de fome jovens, e foi produzido em usinas escuras por homens de vida amarga e dura. Fonte: GULLAR, F. “O Açúcar”. Toda poesia. Rio de Janeiro, Civilização Brasileira, 1980."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q03b.webp",
+     "alt": "Texto II: foto em preto e branco de mãos negras segurando colmos de cana-de-açúcar dispostos como as grades de uma cela. No canto superior esquerdo, uma frase em letras pequenas."
+    }
+   ],
+   "alternativas": {
+    "A": "tangenciais, pois, apesar de tratarem do processo de produção e do consumo do açúcar, ignoram a desigualdade existente entre o consumidor final e o comerciante do produto.",
+    "B": "semelhantes, pois o primeiro induz à reflexão sobre as desigualdades existentes no ciclo de produção e de consumo, e o segundo representa o impacto ambiental gerado pelo consumo excessivo.",
+    "C": "conflitantes, pois o primeiro representa a alienação dos poetas de todo o processo de produção dos alimentos, enquanto o segundo, a mão de obra empregada nos centros urbanos.",
+    "D": "similares, pois o primeiro ressalta as desigualdades existentes entre o trabalhador rural e o consumidor, o eu lírico; e o segundo evidencia a exploração da mão de obra.",
+    "E": "complementares, pois o primeiro aborda as desigualdades sociais descrevendo os ciclos econômicos desenvolvidos em períodos diferentes; enquanto o segundo retrata a mão de obra utilizada nesses períodos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O poema contrapõe o eu lírico, que adoça o café em Ipanema, aos trabalhadores rurais que vivem na miséria e produziram o açúcar. A imagem, com mãos negras presas atrás de “grades” de cana e a frase sobre a Lei Áurea, denuncia a exploração da mão de obra, que continuou depois da abolição. Os temas são <strong>similares</strong>. Alternativa <strong>D</strong>.</p><p>Os textos tratam justamente da desigualdade (A). O Texto II não fala de impacto ambiental (B), o poema não mostra a alienação dos poetas nem a imagem fala de centros urbanos (C), e os textos não descrevem ciclos econômicos de períodos diferentes (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "intertextualidade"
+   ]
+  },
+  {
+   "numero": 4,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p>Atualmente, o cultivo da cana-de-açúcar está mais mecanizado. Porém, até 2005, o Instituto de Economia Agrícola (IEA) informava que um único boia-fria cortava cerca de 9 toneladas de cana em uma jornada aproximada de 12 horas de trabalho por dia. Além disso, o <em>International Sugar Journal</em> mensura que 1 tonelada de cana de açúcar gera aproximadamente 1,7 Gcal de energia e rende, em média, 150 kg de açúcar.</p><p>Com as informações fornecidas, podemos concluir, corretamente que, na jornada de um dia de trabalho, um boia-fria contribuía até 2005 com uma produção de energia e uma massa de açúcar, aproximada e respectivamente, de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Gcal/h: 1,3; kg: 1 350.",
+    "B": "Gcal/h: 1,3; kg: 150.",
+    "C": "Gcal/h: 1,7; kg: 135.",
+    "D": "Gcal/h: 1,7; kg: 150.",
+    "E": "Gcal/h: 1,7; kg: 1 350."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Um boia-fria cortava 9 t de cana em 12 h. Energia: 9 · 1,7 = 15,3 Gcal em 12 h, ou 15,3 ÷ 12 ≈ <strong>1,3 Gcal/h</strong>. Açúcar: 9 · 150 = <strong>1 350 kg</strong>. Alternativa <strong>A</strong>.</p><p>1,7 Gcal e 150 kg são os valores de uma tonelada só, sem considerar as 9 t e as 12 h (C, D e E). E 150 kg ignora as 9 t (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "proporção"
+   ]
+  },
+  {
+   "numero": 5,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p class=\"chamada\">Leia os textos I e II para responder às questões de 03 a 05.</p><p><strong>Texto I</strong></p>[[fig:1]]<p><strong>Texto II</strong></p>[[fig:2]]<p class=\"fonte\">&lt;https://tinyurl.com/y4ur7lhb&gt; Acesso em: 18.10.2019. Original colorido.</p><p class=\"fonte\">* Texto da imagem: “Em 1888, a princesa Isabel assinou a Lei Áurea, mas nem todo mundo conseguiu ler.”</p><p class=\"apoio\">As informações contidas na imagem do texto II, localizadas no canto inferior direito, não foram reproduzidas, pois não interferem na resolução das questões apresentadas.</p><p>O texto II remete a um período de produção do açúcar em que se estabeleceu um tipo característico de relação social e de trabalho.</p><p>Assinale a alternativa que apresenta, corretamente, algumas das características dessas relações sociais e de trabalho nos engenhos de açúcar da América portuguesa, no século XVI.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q03a.webp",
+     "alt": "Texto I: o poema “O Açúcar”, de Ferreira Gullar, em versos livres. O eu lírico adoça o café numa manhã em Ipanema e reflete que o açúcar branco e puro não foi feito por ele, nem pelo dono da mercearia, nem pelo dono da usina: veio de canaviais distantes, plantados e colhidos por homens que vivem sem hospital nem escola, não sabem ler e morrem de fome jovens, e foi produzido em usinas escuras por homens de vida amarga e dura. Fonte: GULLAR, F. “O Açúcar”. Toda poesia. Rio de Janeiro, Civilização Brasileira, 1980."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q03b.webp",
+     "alt": "Texto II: foto em preto e branco de mãos negras segurando colmos de cana-de-açúcar dispostos como as grades de uma cela. No canto superior esquerdo, uma frase em letras pequenas."
+    }
+   ],
+   "alternativas": {
+    "A": "O modelo de produção de açúcar na América portuguesa beneficiou-se da prática corrente entre os povos africanos, que se ofereciam voluntariamente à escravidão, como forma de fugir das más condições econômicas e climáticas características do subdesenvolvimento do seu continente.",
+    "B": "A escravidão africana foi justificada por diferentes narrativas que utilizavam passagens bíblicas para defender o trabalho forçado como castigo divino ou como forma de expiação dos supostos pecados dos africanos, que, muitas vezes, na América portuguesa, foram separados de membros de suas famílias e comunidades.",
+    "C": "Embora no sudeste prevalecesse a escravidão africana, nos engenhos de açúcar do Nordeste, a mão de obra escravizada era predominantemente de origem indígena andina, fornecida por traficantes de escravos especializados em atravessar clandestinamente a linha de fronteira demarcada pelo Tratado de Tordesilhas.",
+    "D": "Ao contrário das capitanias do Nordeste, que utilizavam mão de obra escravizada, a capitania de São Vicente se caracterizou pelo açúcar de alta qualidade, produzido a partir da mão de obra livre de imigrantes italianos e alemães, que vinham para a América fugindo das guerras de unificação de seus respectivos países.",
+    "E": "A escravidão de africanos e afrodescendentes nos engenhos de açúcar coloniais seguia a lógica interna das sociedades africanas, cujo sistema de produção de <em>commodities</em> em larga escala foi tomado como modelo para o desenvolvimento das colônias europeias em todo o continente americano."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A Igreja e os colonizadores usavam interpretações bíblicas (como a “maldição de Cam”) para justificar a escravidão como castigo ou expiação. Os africanos escravizados eram separados de suas famílias e comunidades no tráfico e na venda. Alternativa <strong>B</strong>.</p><p>Os africanos eram capturados à força, não se ofereciam (A). Nos engenhos do Nordeste predominou a mão de obra africana, não a indígena andina (C). Imigrantes italianos e alemães só vieram no século XIX (D). E a escravidão colonial não seguia um modelo africano de produção de <em>commodities</em> (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escravidão",
+    "engenhos de açúcar"
+   ]
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p>Embora há milhares de ano o ser humano utilize a Biotecnologia tradicional na produção de vinhos, vinagres, queijos e iogurtes, a partir de organismos vivos como são encontrados na natureza, foram os conhecimentos em diversas áreas científicas, como a Química, a Biologia, a Física, a Informática e, em especial, as áreas relacionadas à molécula de DNA, que revolucionaram o modo de manipular os organismos por meio da Engenharia Genética ou da tecnologia do DNA recombinante.</p><p>Assim, a Biotecnologia moderna tem uma formação multidisciplinar com conhecimentos em várias áreas, podendo atuar em vários setores, como na saúde, na microbiologia, no meio ambiente, na indústria, na agricultura, etc.</p><p>Atualmente, sabe-se que certas enzimas bacterianas podem cortar moléculas de DNA em pontos específicos, gerando fragmentos de DNA com tamanhos definidos. Esses fragmentos podem ser separados por meio de um processo específico realizado em uma placa de gelatina especial (gel). Esse processo permite identificar pessoas.</p><p>Assinale a alternativa que associa correta e respectivamente os nomes das enzimas bacterianas e do processo específico referidos no texto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "enzimas bacterianas: endonucleases de restrição; processo: centrifugação.",
+    "B": "enzimas bacterianas: DNA polimerase; processo: eletroforese.",
+    "C": "enzimas bacterianas: transcriptase reversa; processo: centrifugação.",
+    "D": "enzimas bacterianas: endonucleases de restrição; processo: eletroforese.",
+    "E": "enzimas bacterianas: DNA polimerase; processo: centrifugação."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As enzimas bacterianas que cortam o DNA em pontos específicos são as <strong>endonucleases (enzimas) de restrição</strong>. Os fragmentos são separados por tamanho num gel, sob corrente elétrica: é a <strong>eletroforese</strong>, base do teste de DNA. Alternativa <strong>D</strong>.</p><p>A DNA polimerase copia o DNA, não o corta (B e E). A transcriptase reversa produz DNA a partir de RNA (C). E a centrifugação separa por densidade, não usa gel (A, C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biotecnologia",
+    "eletroforese"
+   ]
+  },
+  {
+   "numero": 7,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p>Uma das áreas de aplicação dos conhecimentos de biotecnologia no mercado de trabalho é a produção de alimentos, bebidas e biocombustíveis que utilizam microorganismos em sua fabricação. Nesse contexto, um dos processos utilizados é a fermentação de carboidratos. A equação química que representa a reação que ocorre na fermentação alcoólica da glicose é</p>\\[\\text{C}_6\\text{H}_{12}\\text{O}_6(aq) \\rightarrow 2\\,\\text{C}_2\\text{H}_6\\text{O}(aq) + 2\\,\\text{CO}_2(g) \\qquad \\Delta_r H = ?\\]<p>Assinale a alternativa que apresenta o valor correto da entalpia padrão da reação (∆<sub>r</sub>H) de fermentação da glicose, em kJ/mol.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Substância</th><th scope=\"col\">∆<sub>f</sub>H (kJ/mol)</th></tr></thead><tbody><tr><td>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(aq)</td><td>– 1 277</td></tr><tr><td>C<sub>2</sub>H<sub>6</sub>O(aq)</td><td>– 278</td></tr><tr><td>CO<sub>2</sub>(g)</td><td>– 394</td></tr></tbody></table></div>",
+   "imagens": [],
+   "alternativas": {
+    "A": "– 67",
+    "B": "– 32",
+    "C": "+16",
+    "D": "+32",
+    "E": "+67"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>∆H = Σ(produtos) − Σ(reagentes) = [2 · (–278) + 2 · (–394)] − (–1 277) = (–556 – 788) + 1 277 = –1 344 + 1 277 = <strong>–67 kJ/mol</strong>. Alternativa <strong>A</strong>.</p><p>Inverter produtos e reagentes dá +67 (E). E esquecer os coeficientes 2 leva a valores como –32 ou +32 (B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "termoquímica",
+    "entalpia de formação"
+   ]
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p>Leia o gráfico que apresenta a distribuição do trabalho informal no Brasil, em milhões de trabalhadores, referente ao segundo trimestre de 2019.</p>[[fig:1]]<p>Segundo o gráfico, a porcentagem aproximada de trabalhadores empregados no setor privado sem carteira assinada, em relação ao total de trabalhadores informais, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q08.webp",
+     "alt": "Gráfico de setores do trabalho informal no Brasil, em milhões de trabalhadores: conta própria sem carteira assinada, 19,42; empregado no setor privado sem carteira assinada, 11,66; trabalhador doméstico sem carteira assinada, 4,53; trabalhador familiar auxiliar, 2,23; empregador sem CNPJ, 0,85."
+    }
+   ],
+   "alternativas": {
+    "A": "10%",
+    "B": "20%",
+    "C": "30%",
+    "D": "40%",
+    "E": "50%"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O total é 19,42 + 11,66 + 4,53 + 2,23 + 0,85 = 38,69 milhões. Os empregados no setor privado sem carteira são 11,66 milhões: 11,66 ÷ 38,69 ≈ 0,30, ou cerca de <strong>30%</strong>. Alternativa <strong>C</strong>.</p><p>50% seria a fatia da conta própria (E). Os demais valores não correspondem a nenhuma fatia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "gráfico de setores",
+    "trabalho informal"
+   ]
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p>Carlos está desempregado já há algum tempo e resolveu estudar a possibilidade de se tornar motorista de aplicativos. Pesquisando as possibilidades, encontrou uma simulação de quanto recebem os motoristas de aplicativos em viagens curtas de 5 quilômetros.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Plataforma</th><th scope=\"col\">Valor da viagem para o passageiro (R$)</th><th scope=\"col\">Taxa do valor da viagem que vai para o motorista</th><th scope=\"col\">Valor que o motorista recebe (R$)</th></tr></thead><tbody><tr><td>I</td><td>12,88</td><td>75%</td><td>9,66</td></tr><tr><td>II</td><td>13,50</td><td>75%</td><td>10,12</td></tr><tr><td>III</td><td>11,64</td><td>100%</td><td>11,64</td></tr><tr><td>IV</td><td>14,05</td><td>80%</td><td>11,24</td></tr><tr><td>V</td><td>19,54</td><td>80%</td><td>15,63</td></tr><tr><td>VI</td><td>18,10</td><td>100%</td><td>18,10</td></tr></tbody></table></div><p>Carlos trabalhará apenas com plataformas nas quais o valor recebido pelo motorista para esse tipo de viagem esteja acima da média aritmética dos valores encontrados na tabela.</p><p>Assim, a quantidade de aplicativos que atende às exigências de Carlos é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A média do que o motorista recebe é (9,66 + 10,12 + 11,64 + 11,24 + 15,63 + 18,10) ÷ 6 = 76,39 ÷ 6 ≈ 12,73. Ficam acima só as plataformas V (15,63) e VI (18,10): <strong>2</strong> aplicativos. Alternativa <strong>B</strong>.</p><p>Usar a média do valor pago pelo passageiro (cerca de 14,95) daria também 2, mas o critério é o valor recebido pelo motorista.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "média aritmética"
+   ]
+  },
+  {
+   "numero": 10,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p>Um grupo de 8 alunos da Fatec do curso de Têxtil e Moda está prestando consultoria a 32 <em>startups</em>. Cada uma dessas <em>startups</em> é auxiliada precisamente por 3 alunos desse grupo, e cada aluno auxilia o mesmo número de <em>startups</em>.</p><p>Nessas condições, a quantidade de <em>startups</em> que cada aluno auxilia é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "8.",
+    "B": "9.",
+    "C": "10.",
+    "D": "11.",
+    "E": "12."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Cada uma das 32 startups recebe 3 alunos: são 32 · 3 = 96 “atendimentos”. Divididos igualmente entre os 8 alunos, cada um auxilia 96 ÷ 8 = <strong>12</strong> startups. Alternativa <strong>E</strong>.</p><p>Dividir só 32 por 8 daria 4, e as demais alternativas não saem da conta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "contagem"
+   ]
+  },
+  {
+   "numero": 11,
+   "materia": "Raciocínio lógico",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>Observe os grupos de palavras que seguem uma determinada lógica:</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\"></th><th scope=\"col\"></th><th scope=\"col\"></th></tr></thead><tbody><tr><td><strong>I.</strong></td><td>Corte</td><td>Afiador</td><td>Bestialidade</td></tr><tr><td><strong>II.</strong></td><td>Forte</td><td>Educador</td><td>Multiplicidade</td></tr><tr><td><strong>III.</strong></td><td>Norte</td><td></td><td>Relatividade</td></tr><tr><td><strong>IV.</strong></td><td>Sorte</td><td>Observador</td><td>Trivialidade</td></tr></tbody></table></div><p>Seguindo a mesma lógica, assinale a palavra que completa, de maneira coerente, o espaço vazio na <strong>linha III</strong> da tabela.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Empreendedor.",
+    "B": "Questionador.",
+    "C": "Inspirador.",
+    "D": "Unificador.",
+    "E": "Transformador."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na coluna do meio, as palavras começam pelas vogais em ordem: <strong>A</strong>fiador, <strong>E</strong>ducador, ?, <strong>O</strong>bservador. A palavra que falta começa com I: <strong>Inspirador</strong>. Todas também terminam em “-dor”. Alternativa <strong>C</strong>.</p><p>Empreendedor começa com E, Unificador com U, e Questionador e Transformador com consoantes (A, B, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "padrões"
+   ]
+  },
+  {
+   "numero": 12,
+   "materia": "Raciocínio lógico",
+   "assunto": "Raciocínio espacial",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>A utilização de cadeira de rodas impõe limites à execução de tarefas por dificultar a aproximação aos objetos e o alcance a elementos acima e abaixo do raio de ação de uma pessoa sentada. A dificuldade nas manobras com a cadeira de rodas pressupõe o estabelecimento de um raio mínimo para a execução de atividades. As figuras se baseiam nas recomendações da Associação Brasileira de Normas Técnicas (ABNT) para manobras de rotação.</p><p>De acordo com as dimensões apresentadas nas figuras, para que uma pessoa em cadeira de rodas possa efetuar uma manobra de 360º, ela precisa de um espaço mínimo equivalente a um círculo, centrado no eixo de rotação da cadeira, de raio igual a</p>[[fig:1]]",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q12.webp",
+     "alt": "Duas figuras vistas de cima de uma pessoa em cadeira de rodas. Figura 1 – Rotação de 90°: a manobra ocupa um quadrado de 1,20 m por 1,20 m. Figura 2 – Rotação de 180°: a manobra ocupa um retângulo de 1,50 m de largura por 1,20 m de altura."
+    }
+   ],
+   "alternativas": {
+    "A": "0,60.",
+    "B": "0,75.",
+    "C": "0,85.",
+    "D": "1,20.",
+    "E": "1,50."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na rotação de 180°, a cadeira precisa de 1,50 m de largura, a maior medida necessária. Para girar 360°, ela precisa dessa largura em qualquer direção: um círculo de diâmetro 1,50 m, ou seja, raio de <strong>0,75 m</strong>. É o que recomenda a ABNT. Alternativa <strong>B</strong>.</p><p>0,60 m é a metade de 1,20 m, insuficiente para a manobra de 180° (A). E 1,20 e 1,50 são diâmetros, não raios (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "acessibilidade",
+    "círculo"
+   ]
+  },
+  {
+   "numero": 13,
+   "materia": "Física",
+   "assunto": "Eletricidade",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p>Douglas, aluno do curso de Instalações Elétricas, sabe que a resistência elétrica de um fio é diretamente proporcional ao seu comprimento e inversamente proporcional ao quadrado do diâmetro de sua secção transversal.</p><p>Durante uma atividade prática do curso, Douglas precisou realizar uma melhoria em uma máquina. Para isso um fio deveria ser trocado por outro do mesmo material, mas cujo</p><p>• comprimento seria 60% maior; e<br>• diâmetro seria 20% menor.</p><p>Assinale a alternativa que apresenta corretamente a relação entre a resistência do fio retirado (R<sub>1</sub>) e a resistência do novo fio (R<sub>2</sub>).</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R<sub>2</sub> = 0,20 · R<sub>1</sub>",
+    "B": "R<sub>2</sub> = 0,30 · R<sub>1</sub>",
+    "C": "R<sub>2</sub> = 0,75 · R<sub>1</sub>",
+    "D": "R<sub>2</sub> = 1,50 · R<sub>1</sub>",
+    "E": "R<sub>2</sub> = 2,50 · R<sub>1</sub>"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>R é proporcional a L ÷ d². O novo fio tem L₂ = 1,6 L₁ e d₂ = 0,8 d₁: R₂ = R₁ · 1,6 ÷ 0,8² = R₁ · 1,6 ÷ 0,64 = <strong>2,5 · R₁</strong>. Alternativa <strong>E</strong>.</p><p>Esquecer de elevar o diâmetro ao quadrado daria 1,6 ÷ 0,8 = 2 (nenhuma alternativa). Os outros valores invertem a proporção.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "resistência elétrica",
+    "proporção"
+   ]
+  },
+  {
+   "numero": 14,
+   "materia": "Raciocínio lógico",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p>No mundo digital, podem-se definir as cores com o auxílio de um sistema de códigos que é composto pelo sinal de sustenido (#) seguido por seis caracteres que podem ser algarismos (que vão de 0 até 9) ou letras (de A até F).</p><p>Deste modo, são exemplos de códigos que representam cores:</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Código</th><th scope=\"col\">Cor</th></tr></thead><tbody><tr><td>#084D6E</td><td>Azul Petróleo</td></tr><tr><td>#DA70D6</td><td>Orquídea</td></tr><tr><td>#FF00FF</td><td>Fúcsia</td></tr></tbody></table></div><p class=\"fonte\">&lt;https://tinyurl.com/y4qkz9j5&gt; Acesso em: 19.10.2019. Adaptado.</p><p>Logo, utilizando esse código, a quantidade de cores que é possível representar é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2<sup>6</sup>",
+    "B": "2<sup>10</sup>",
+    "C": "2<sup>12</sup>",
+    "D": "2<sup>18</sup>",
+    "E": "2<sup>24</sup>"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Cada um dos 6 caracteres pode ser um de 16 símbolos (10 algarismos + 6 letras). São 16⁶ = (2⁴)⁶ = <strong>2²⁴</strong> cores. Alternativa <strong>E</strong>.</p><p>2⁶ seria ter só 2 opções por caractere (A). E 2¹⁰, 2¹² e 2¹⁸ não correspondem a 16 opções em 6 posições (B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo",
+    "potências"
+   ]
+  },
+  {
+   "numero": 15,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>Observe o gráfico.</p>[[fig:1]]<p class=\"fonte\">Fonte dos dados &lt;https://tinyurl.com/yyu562xp&gt; Acesso em: 05.10.2019.</p><p>A leitura do gráfico permite concluir, corretamente, que o período de queda demográfica mais acentuada na Europa ocorreu</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q15.webp",
+     "alt": "Gráfico de área “Evolução demográfica da Europa”, população em milhões por ano, de 1000 a 1500: cerca de 40 em 1000; sobe aos poucos até cerca de 72 em 1300; cai bruscamente para cerca de 52 em 1350 e 50 em 1400; volta a subir para cerca de 60 em 1450 e 67 em 1500."
+    }
+   ],
+   "alternativas": {
+    "A": "na primeira metade do século XI, devido ao período de secas que comprometeu as colheitas e provocou fome generalizada em toda a porção ocidental do Continente.",
+    "B": "na primeira metade do século XII, quando a introdução de técnicas agrícolas não-sustentáveis provocou o esgotamento dos pastos e a diminuição pronunciada dos rebanhos bovinos.",
+    "C": "na segunda metade do século XIII, devido à perseguição promovida pela Igreja Católica contra judeus, muçulmanos e praticantes de religiões pagãs, acusados de bruxaria.",
+    "D": "na primeira metade do século XIV, quando o número de infectados pela peste negra atingiu seu ápice, provocando a morte de pouco menos de um terço da população europeia.",
+    "E": "na segunda metade do século XV, devido à migração de milhões de europeus em direção aos continentes recém-descobertos no processo das Grandes Navegações."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A maior queda do gráfico vai de cerca de 72 milhões, em 1300, para cerca de 52 milhões, em 1350: a primeira metade do século XIV. É a época da <strong>peste negra</strong> (a partir de 1347), que matou de um quarto a um terço da população europeia. Alternativa <strong>D</strong>.</p><p>Nos séculos XI, XII e XIII a população cresceu (A, B e C). E na segunda metade do século XV ela voltou a subir (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "peste negra",
+    "demografia"
+   ]
+  },
+  {
+   "numero": 16,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p class=\"apoio\">O projeto de ocupação populacional da Colônia foi estabelecido entre 1534 e 1536, com a adoção do sistema de capitanias hereditárias, que já havia sido empregado com sucesso nas ilhas atlânticas e, além do Brasil, seria estendido à Angola. O objetivo do rei D. João III com o sistema de capitanias hereditárias era promover a ocupação territorial, transferindo o ônus para particulares. O sistema consistia na concessão pelo rei de extensos domínios a particulares, os quais recebiam uma carta de doação real e um foral, no qual estavam especificadas suas obrigações. O donatário, nome dado ao particular que recebia a capitania, tinha o direito de explorá-la economicamente, administrar a Justiça e, ao mesmo tempo, estava obrigado a se sujeitar à autoridade da Coroa, a recolher os tributos e a expandir a fé católica, entre outras atribuições. Cabia ao donatário, ainda, a concessão de sesmarias, grandes extensões de terras que estão na origem do latifúndio no Brasil.</p><p class=\"apoio\">O sistema, contudo, começou a apresentar problemas para os donatários. Poucas foram as capitanias que efetivamente prosperaram.</p><p class=\"fonte\">&lt;https://tinyurl.com/y6q37ysu&gt; Acesso em: 15.10.2019. Adaptado.</p><p>Assinale a alternativa que apresenta, corretamente, algumas das causas do fracasso do sistema descrito no texto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A maior parte dos donatários enfrentou a resistência dos grupos indígenas à ocupação de seus territórios tradicionais, os altos custos de manutenção e de desenvolvimento das capitanias e/ou a falta de assistência por parte da Coroa portuguesa.",
+    "B": "Por serem de origem nobre, os donatários não demonstraram as habilidades necessárias para administrar adequadamente os recursos econômicos de suas capitanias e gerar lucros, forçando a Coroa portuguesa a promulgar a Lei de Terras.",
+    "C": "A natureza política do sistema de capitanias hereditárias foi questionada pela burguesia portuguesa, que recorreu a cortes internacionais para impedir a distribuição da maior parte das terras americanas aos membros da nobreza.",
+    "D": "O declínio do sistema é consequência do fracasso agrícola, causado pela alternância de períodos de chuva intensa e secas prolongadas, características do clima de monções predominante na maior parte do território americano.",
+    "E": "O sistema entrou em colapso quando a terceira geração de donatários foi derrotada na guerra contra os corsários franceses, que, após a vitória, ocuparam os territórios das antigas capitanias hereditárias."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A maioria das capitanias fracassou pela resistência indígena, pelos altos custos e pela falta de recursos dos donatários, que contavam com pouca ajuda da Coroa. Só Pernambuco e São Vicente prosperaram. Alternativa <strong>A</strong>.</p><p>A Lei de Terras é de 1850 (B). A burguesia não recorreu a cortes internacionais (C). O clima de monções é asiático (D). E os corsários franceses não ocuparam as capitanias (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "capitanias hereditárias"
+   ]
+  },
+  {
+   "numero": 17,
+   "materia": "História",
+   "assunto": "Imperialismo e neocolonialismo",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p class=\"apoio\">Tinha cinco metros o mapa que dominou o encontro, que teve lugar na Chancelaria do Reich. Mostrava o continente, com rios, lagos, nomes de alguns locais e muitas manchas brancas.</p><p class=\"apoio\">Quando a Conferência chegou ao fim, depois de mais de três meses de discussões, ainda havia grandes extensões do continente onde nenhum europeu tinha posto os pés.</p><p class=\"apoio\">Representantes de diversos países deslocaram-se a convite do chanceler alemão Otto von Bismarck para dividirem o continente entre si, “em conformidade com o direito internacional”. Com duas exceções, todos os Estados que hoje compõem o continente foram divididos entre as potências coloniais poucos anos após o encontro. Muitos historiadores consideram que a Conferência foi o fundamento de futuros conflitos internos no continente.</p><p class=\"fonte\">&lt;https://tinyurl.com/y4z6b4j7&gt; Acesso em: 15.10.2019. Adaptado.</p><p>Assinale a alternativa que apresenta, corretamente, a conferência a que o texto se refere e o processo histórico que se iniciou a partir dela.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Conferência de Verdun, cujo tratado final dividiu a Europa ocidental entre os herdeiros de Carlos Magno, no início do século X.",
+    "B": "Conferência de Tordesilhas, cujo tratado final dividiu os territórios da América entre Portugal e Espanha no final do século XV.",
+    "C": "Conferência de Madri, que tinha por objetivo rever as determinações de Tordesilhas, cujo tratado vinha sendo desrespeitado desde meados do século XVI.",
+    "D": "Conferência de Berlim, que dividiu o território do continente africano entre as principais potências mundiais do final do século XIX.",
+    "E": "Conferência de Versalhes, que separou a Alemanha e sua capital, Berlim, nas partes Oriental e Ocidental em meados do século XX."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A conferência convocada por Bismarck em Berlim (1884–1885) definiu regras para a partilha da <strong>África</strong> entre as potências europeias. As duas exceções citadas são a Libéria e a Etiópia, que não foram colonizadas. Alternativa <strong>D</strong>.</p><p>O Tratado de Verdun é do século IX (A), Tordesilhas e Madri trataram da América (B e C), e a divisão de Berlim veio depois da Segunda Guerra, não em Versalhes (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Conferência de Berlim"
+   ]
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"apoio\">No Brasil, nas primeiras décadas do século XX, as mulheres formavam grande parte do operariado, especialmente as imigrantes: espanholas, italianas, portuguesas, húngaras, romenas, polonesas, lituanas e sírias. Em 1901, como afirma a historiadora Mary Del Priore, constituíam quase 68% da mão de obra empregada na indústria de fiação e tecelagem. Trabalhavam de 10 a 14 horas por dia, em péssimas condições de higiene e sob grande controle disciplinar. Além disso, os salários eram baixos, estavam constantemente sujeitas ao assédio sexual e não existia qualquer legislação trabalhista capaz de protegê-las de tal exploração. Somente a partir da década de 1930, depois de inúmeras manifestações operárias em todo o mundo, a legislação brasileira proporcionou garantias trabalhistas às mulheres. Na Era Vargas, anos 30, 40 e 50, houve a regulamentação do trabalho de mulheres e crianças, e o presidente Getúlio Vargas fixou a jornada de trabalho em 8 horas diárias.</p><p class=\"fonte\">&lt;https://tinyurl.com/y5sq4pkp&gt; Acesso em: 15.10.2019. Adaptado.</p><p>Segundo o texto,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as inúmeras manifestações operárias em todo o mundo conquistaram o controle disciplinar sobre os trabalhadores, bem como o direito à jornada de 10 a 14 horas diárias.",
+    "B": "nas primeiras décadas do século XX, as operárias estavam protegidas por legislação que limitava a jornada de trabalho e garantia condições adequadas de higiene.",
+    "C": "o trabalho feminino foi regulamentado entre as décadas de 1930 e 1950 pelo presidente Getúlio Vargas, que também fixou a jornada de trabalho em 8 horas diárias.",
+    "D": "as mulheres que constituíram a mão de obra empregada na indústria de fiação e tecelagem estavam protegidas por mecanismos que inibiam o assédio sexual.",
+    "E": "quase 68% da população brasileira era formada pelas mulheres operárias imigrantes, principalmente as espanholas, italianas, portuguesas e húngaras."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que, na Era Vargas, houve a regulamentação do trabalho de mulheres e crianças e que Getúlio Vargas fixou a jornada em 8 horas diárias. Alternativa <strong>C</strong>.</p><p>As manifestações conquistaram direitos, não a jornada de 10 a 14 horas (A). No começo do século não havia leis que protegessem as operárias (B e D). E os 68% se referem à mão de obra da indústria têxtil, não à população brasileira (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "trabalho feminino",
+    "leis trabalhistas"
+   ]
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "História contemporânea",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p>Costuma-se definir a Guerra Fria como um período histórico de disputas estratégicas e conflitos entre Estados Unidos e União Soviética, os quais, entre o final da Segunda Guerra Mundial (1945) e o fim da União Soviética (1991), disputaram a hegemonia política, militar, tecnológica, econômica e social.</p><p>É chamada de “fria” porque não houve um confronto direto entre as duas superpotências, mas houve enfrentamento indireto em diferentes conflitos regionais, tais como:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Guerra da Coreia, Guerra do Vietnã e independências de países africanos.",
+    "B": "Revolução Francesa, independência do Haiti e Guerra da Crimeia.",
+    "C": "Guerra da Síria, Guerra do Golfo e Guerra Irã-Iraque.",
+    "D": "Revolução Mexicana, independência de Cuba e Guerra do Paraguai.",
+    "E": "Guerra dos Cem Anos, Guerra de Secessão e independência da Venezuela."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na Guerra da Coreia (1950–1953) e na do Vietnã (1955–1975), EUA e URSS apoiaram lados opostos, e também disputaram influência nas independências africanas, como em Angola e Moçambique. Alternativa <strong>A</strong>.</p><p>Os conflitos de B, D e E são dos séculos XVIII e XIX, antes da Guerra Fria. E a Guerra do Golfo (1991) e a da Síria (a partir de 2011) são do fim ou depois dela (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Guerra Fria"
+   ]
+  },
+  {
+   "numero": 20,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 20 a 24.</p><p><strong>A Química do <em>Slime</em></strong></p><p class=\"apoio\">A jornada histórica do <em>slime</em> tem início nas primeiras décadas do século XX, quando James Wright criou um material com características muito parecidas com a borracha. Atualmente, devido às mais variadas formulações disponibilizadas em plataformas e mídias digitais, pode-se produzir o próprio <em>slime</em> em casa.</p><p class=\"apoio\">O <em>slime</em> caseiro pode ser produzido pela mistura de duas colheres de chá de bicarbonato de sódio (NaHCO<sub>3</sub>), 100 mL de água boricada (solução de ácido bórico, H<sub>3</sub>BO<sub>3</sub>) e 60 g de cola de isopor (constituída de poliacetato de vinila, PVAc). Quando misturamos o bicarbonato de sódio com o ácido bórico, ocorre uma reação química que produz gás carbônico, água e borato de sódio (Na<sub>3</sub>BO<sub>3</sub>).</p><p class=\"apoio\">A dissociação, em solução aquosa, do borato e do bicarbonato de sódio libera íons sódio (Na<sup>+</sup>), que vão interagir com as moléculas do PVAc, formando um composto de elevada viscosidade e elasticidade.</p><p>Os íons sódio interagem com a estrutura do PVAc conforme representado.</p>[[fig:1]]<p>A reação entre o ácido bórico e o bicarbonato de sódio também origina o tetraborato de sódio, conhecido como “Bórax” (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>). Este, em meio básico, transforma-se em tetrahidroxiborato, conforme representado na equação 1.</p>[[fig:2]]<p>O PVAc reage com moléculas de água produzindo álcool polivinílico (PVA), conforme representado na equação 2.</p>[[fig:3]]<p>O tetrahidroxiborato reage com o PVA (equação 3), formando novas ligações que interligam as cadeias do polímero que constitui o <em>slime</em>.</p>[[fig:4]]<p class=\"fonte\">&lt;https://tinyurl.com/y4vmmd9w&gt; Acesso em: 01.10.2019. Adaptado.</p><p>Considerando que uma colher de chá de bicarbonato de sódio contém 5 g desse composto, é correto afirmar que o número de moléculas de bicarbonato de sódio utilizadas na fabricação do <em>slime</em> caseiro, conforme descrito no texto, corresponde a aproximadamente</p><p class=\"apoio\">Massa molar do NaHCO<sub>3</sub> = 84 g/mol<br>Constante de Avogadro: 6 × 10<sup>23</sup> mol<sup>–1</sup></p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q20a.webp",
+     "alt": "Interação entre um íon sódio, Na⁺, e o PVAc: o Na⁺ fica ligado por uma linha pontilhada ao oxigênio da carbonila (C=O), que tem carga parcial negativa (δ⁻); o carbono tem carga parcial positiva (δ⁺) e está ligado a um CH₃ e, por um oxigênio, a um CH da cadeia do polímero."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20b.webp",
+     "alt": "Equação 1: Na₂B₄O₇ (bórax) + 7 H₂O + 2 OH⁻ → 4 [B(OH)₄]⁻ (ânion tetrahidroxiborato, um boro ligado a quatro grupos OH) + 2 Na⁺."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20c.webp",
+     "alt": "Equação 2: um trecho do PVAc, com dois grupos –O–C(=O)–CH₃ ligados a carbonos da cadeia, + 2 H₂O → um trecho do PVA, com dois grupos –OH no lugar, + 2 H₃C–C(=O)–OH (composto X)."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20d.webp",
+     "alt": "Equação 3: dois trechos de PVA, cada um com dois grupos –OH, + o tetrahidroxiborato ⇌ trecho da cadeia do slime, em que o boro fica ligado a quatro oxigênios (ligações I, II, III e IV), cada um preso a um carbono das cadeias de PVA, + 4 H₂O."
+    }
+   ],
+   "alternativas": {
+    "A": "6,2 × 10<sup>22</sup>",
+    "B": "7,1 × 10<sup>22</sup>",
+    "C": "9,1 × 10<sup>22</sup>",
+    "D": "2,0 × 10<sup>23</sup>",
+    "E": "3,0 × 10<sup>23</sup>"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A receita usa duas colheres: 2 · 5 = 10 g de NaHCO₃. Isso é 10 ÷ 84 ≈ 0,119 mol, ou 0,119 · 6 × 10²³ ≈ <strong>7,1 × 10²²</strong> unidades. Alternativa <strong>B</strong>.</p><p>Usar uma colher só daria cerca de 3,6 × 10²². E os outros valores vêm de erros na massa molar ou na potência de dez.</p><p>Observação: o bicarbonato de sódio é um composto iônico; a rigor, contam-se “fórmulas” ou “unidades”, e não moléculas, mas a questão usa a palavra no sentido comum.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mol",
+    "constante de Avogadro"
+   ]
+  },
+  {
+   "numero": 21,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 20 a 24.</p><p><strong>A Química do <em>Slime</em></strong></p><p class=\"apoio\">A jornada histórica do <em>slime</em> tem início nas primeiras décadas do século XX, quando James Wright criou um material com características muito parecidas com a borracha. Atualmente, devido às mais variadas formulações disponibilizadas em plataformas e mídias digitais, pode-se produzir o próprio <em>slime</em> em casa.</p><p class=\"apoio\">O <em>slime</em> caseiro pode ser produzido pela mistura de duas colheres de chá de bicarbonato de sódio (NaHCO<sub>3</sub>), 100 mL de água boricada (solução de ácido bórico, H<sub>3</sub>BO<sub>3</sub>) e 60 g de cola de isopor (constituída de poliacetato de vinila, PVAc). Quando misturamos o bicarbonato de sódio com o ácido bórico, ocorre uma reação química que produz gás carbônico, água e borato de sódio (Na<sub>3</sub>BO<sub>3</sub>).</p><p class=\"apoio\">A dissociação, em solução aquosa, do borato e do bicarbonato de sódio libera íons sódio (Na<sup>+</sup>), que vão interagir com as moléculas do PVAc, formando um composto de elevada viscosidade e elasticidade.</p><p>Os íons sódio interagem com a estrutura do PVAc conforme representado.</p>[[fig:1]]<p>A reação entre o ácido bórico e o bicarbonato de sódio também origina o tetraborato de sódio, conhecido como “Bórax” (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>). Este, em meio básico, transforma-se em tetrahidroxiborato, conforme representado na equação 1.</p>[[fig:2]]<p>O PVAc reage com moléculas de água produzindo álcool polivinílico (PVA), conforme representado na equação 2.</p>[[fig:3]]<p>O tetrahidroxiborato reage com o PVA (equação 3), formando novas ligações que interligam as cadeias do polímero que constitui o <em>slime</em>.</p>[[fig:4]]<p class=\"fonte\">&lt;https://tinyurl.com/y4vmmd9w&gt; Acesso em: 01.10.2019. Adaptado.</p><p>Assinale a alternativa que contém a equação química balanceada que representa, corretamente, a reação que ocorre entre o ácido bórico e o bicarbonato de sódio.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q20a.webp",
+     "alt": "Interação entre um íon sódio, Na⁺, e o PVAc: o Na⁺ fica ligado por uma linha pontilhada ao oxigênio da carbonila (C=O), que tem carga parcial negativa (δ⁻); o carbono tem carga parcial positiva (δ⁺) e está ligado a um CH₃ e, por um oxigênio, a um CH da cadeia do polímero."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20b.webp",
+     "alt": "Equação 1: Na₂B₄O₇ (bórax) + 7 H₂O + 2 OH⁻ → 4 [B(OH)₄]⁻ (ânion tetrahidroxiborato, um boro ligado a quatro grupos OH) + 2 Na⁺."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20c.webp",
+     "alt": "Equação 2: um trecho do PVAc, com dois grupos –O–C(=O)–CH₃ ligados a carbonos da cadeia, + 2 H₂O → um trecho do PVA, com dois grupos –OH no lugar, + 2 H₃C–C(=O)–OH (composto X)."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20d.webp",
+     "alt": "Equação 3: dois trechos de PVA, cada um com dois grupos –OH, + o tetrahidroxiborato ⇌ trecho da cadeia do slime, em que o boro fica ligado a quatro oxigênios (ligações I, II, III e IV), cada um preso a um carbono das cadeias de PVA, + 4 H₂O."
+    }
+   ],
+   "alternativas": {
+    "A": "H<sub>3</sub>BO<sub>3</sub> + Na<sub>3</sub>HCO<sub>3</sub> → Na<sub>3</sub>BO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>",
+    "B": "H<sub>3</sub>BO<sub>3</sub> + 3 NaHCO<sub>3</sub> → Na<sub>3</sub>BO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>",
+    "C": "H<sub>3</sub>BO<sub>3</sub> + 3 NaHCO<sub>3</sub> → Na<sub>3</sub>BO<sub>3</sub> + 3 H<sub>2</sub>O + 3 CO<sub>2</sub>",
+    "D": "H<sub>3</sub>BO<sub>2</sub> + 3 NaHCO<sub>3</sub> → Na<sub>3</sub>BO<sub>2</sub> + 3 H<sub>2</sub>O + 3 CO<sub>2</sub>",
+    "E": "H<sub>2</sub>BO<sub>2</sub> + 2 NaHCO<sub>3</sub> → Na<sub>2</sub>BO<sub>2</sub> + 2 H<sub>2</sub>O + 2 CO<sub>2</sub>"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As fórmulas corretas são H₃BO₃, NaHCO₃ e Na₃BO₃ (dadas no texto). Para formar Na₃BO₃ são necessários 3 NaHCO₃, que trazem 3 C (3 CO₂) e, com os 3 H do ácido, 6 H (3 H₂O). Conferindo O: 3 + 9 = 12 de um lado; 3 + 3 + 6 = 12 do outro. Alternativa <strong>C</strong>.</p><p>A usa a fórmula errada Na₃HCO₃. B não está balanceada. D e E trocam as fórmulas do ácido bórico e do borato.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "balanceamento"
+   ]
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Polaridade e solubilidade",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 20 a 24.</p><p><strong>A Química do <em>Slime</em></strong></p><p class=\"apoio\">A jornada histórica do <em>slime</em> tem início nas primeiras décadas do século XX, quando James Wright criou um material com características muito parecidas com a borracha. Atualmente, devido às mais variadas formulações disponibilizadas em plataformas e mídias digitais, pode-se produzir o próprio <em>slime</em> em casa.</p><p class=\"apoio\">O <em>slime</em> caseiro pode ser produzido pela mistura de duas colheres de chá de bicarbonato de sódio (NaHCO<sub>3</sub>), 100 mL de água boricada (solução de ácido bórico, H<sub>3</sub>BO<sub>3</sub>) e 60 g de cola de isopor (constituída de poliacetato de vinila, PVAc). Quando misturamos o bicarbonato de sódio com o ácido bórico, ocorre uma reação química que produz gás carbônico, água e borato de sódio (Na<sub>3</sub>BO<sub>3</sub>).</p><p class=\"apoio\">A dissociação, em solução aquosa, do borato e do bicarbonato de sódio libera íons sódio (Na<sup>+</sup>), que vão interagir com as moléculas do PVAc, formando um composto de elevada viscosidade e elasticidade.</p><p>Os íons sódio interagem com a estrutura do PVAc conforme representado.</p>[[fig:1]]<p>A reação entre o ácido bórico e o bicarbonato de sódio também origina o tetraborato de sódio, conhecido como “Bórax” (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>). Este, em meio básico, transforma-se em tetrahidroxiborato, conforme representado na equação 1.</p>[[fig:2]]<p>O PVAc reage com moléculas de água produzindo álcool polivinílico (PVA), conforme representado na equação 2.</p>[[fig:3]]<p>O tetrahidroxiborato reage com o PVA (equação 3), formando novas ligações que interligam as cadeias do polímero que constitui o <em>slime</em>.</p>[[fig:4]]<p class=\"fonte\">&lt;https://tinyurl.com/y4vmmd9w&gt; Acesso em: 01.10.2019. Adaptado.</p><p>A interação entre os íons sódio e as estruturas do PVAc é denominada, corretamente, como</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q20a.webp",
+     "alt": "Interação entre um íon sódio, Na⁺, e o PVAc: o Na⁺ fica ligado por uma linha pontilhada ao oxigênio da carbonila (C=O), que tem carga parcial negativa (δ⁻); o carbono tem carga parcial positiva (δ⁺) e está ligado a um CH₃ e, por um oxigênio, a um CH da cadeia do polímero."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20b.webp",
+     "alt": "Equação 1: Na₂B₄O₇ (bórax) + 7 H₂O + 2 OH⁻ → 4 [B(OH)₄]⁻ (ânion tetrahidroxiborato, um boro ligado a quatro grupos OH) + 2 Na⁺."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20c.webp",
+     "alt": "Equação 2: um trecho do PVAc, com dois grupos –O–C(=O)–CH₃ ligados a carbonos da cadeia, + 2 H₂O → um trecho do PVA, com dois grupos –OH no lugar, + 2 H₃C–C(=O)–OH (composto X)."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20d.webp",
+     "alt": "Equação 3: dois trechos de PVA, cada um com dois grupos –OH, + o tetrahidroxiborato ⇌ trecho da cadeia do slime, em que o boro fica ligado a quatro oxigênios (ligações I, II, III e IV), cada um preso a um carbono das cadeias de PVA, + 4 H₂O."
+    }
+   ],
+   "alternativas": {
+    "A": "dipolo-dipolo.",
+    "B": "dipolo instantâneo-dipolo induzido.",
+    "C": "ligação de hidrogênio.",
+    "D": "íon-dipolo.",
+    "E": "íon-íon."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O Na⁺ é um íon e se atrai pelo oxigênio da carbonila, que tem carga parcial negativa (δ⁻) num grupo polar: é uma interação <strong>íon-dipolo</strong>. Alternativa <strong>D</strong>.</p><p>Dipolo-dipolo e dipolo induzido envolvem só moléculas, sem íons (A e B). Não há H ligado a F, O ou N interagindo (C). E o PVAc não é um íon (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "forças intermoleculares"
+   ]
+  },
+  {
+   "numero": 23,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 20 a 24.</p><p><strong>A Química do <em>Slime</em></strong></p><p class=\"apoio\">A jornada histórica do <em>slime</em> tem início nas primeiras décadas do século XX, quando James Wright criou um material com características muito parecidas com a borracha. Atualmente, devido às mais variadas formulações disponibilizadas em plataformas e mídias digitais, pode-se produzir o próprio <em>slime</em> em casa.</p><p class=\"apoio\">O <em>slime</em> caseiro pode ser produzido pela mistura de duas colheres de chá de bicarbonato de sódio (NaHCO<sub>3</sub>), 100 mL de água boricada (solução de ácido bórico, H<sub>3</sub>BO<sub>3</sub>) e 60 g de cola de isopor (constituída de poliacetato de vinila, PVAc). Quando misturamos o bicarbonato de sódio com o ácido bórico, ocorre uma reação química que produz gás carbônico, água e borato de sódio (Na<sub>3</sub>BO<sub>3</sub>).</p><p class=\"apoio\">A dissociação, em solução aquosa, do borato e do bicarbonato de sódio libera íons sódio (Na<sup>+</sup>), que vão interagir com as moléculas do PVAc, formando um composto de elevada viscosidade e elasticidade.</p><p>Os íons sódio interagem com a estrutura do PVAc conforme representado.</p>[[fig:1]]<p>A reação entre o ácido bórico e o bicarbonato de sódio também origina o tetraborato de sódio, conhecido como “Bórax” (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>). Este, em meio básico, transforma-se em tetrahidroxiborato, conforme representado na equação 1.</p>[[fig:2]]<p>O PVAc reage com moléculas de água produzindo álcool polivinílico (PVA), conforme representado na equação 2.</p>[[fig:3]]<p>O tetrahidroxiborato reage com o PVA (equação 3), formando novas ligações que interligam as cadeias do polímero que constitui o <em>slime</em>.</p>[[fig:4]]<p class=\"fonte\">&lt;https://tinyurl.com/y4vmmd9w&gt; Acesso em: 01.10.2019. Adaptado.</p><p>Na equação 2, o nome da reação química que ocorre entre o PVAc e a água e o nome da função orgânica a que pertence o composto X, formado na reação, são, respectivamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q20a.webp",
+     "alt": "Interação entre um íon sódio, Na⁺, e o PVAc: o Na⁺ fica ligado por uma linha pontilhada ao oxigênio da carbonila (C=O), que tem carga parcial negativa (δ⁻); o carbono tem carga parcial positiva (δ⁺) e está ligado a um CH₃ e, por um oxigênio, a um CH da cadeia do polímero."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20b.webp",
+     "alt": "Equação 1: Na₂B₄O₇ (bórax) + 7 H₂O + 2 OH⁻ → 4 [B(OH)₄]⁻ (ânion tetrahidroxiborato, um boro ligado a quatro grupos OH) + 2 Na⁺."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20c.webp",
+     "alt": "Equação 2: um trecho do PVAc, com dois grupos –O–C(=O)–CH₃ ligados a carbonos da cadeia, + 2 H₂O → um trecho do PVA, com dois grupos –OH no lugar, + 2 H₃C–C(=O)–OH (composto X)."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20d.webp",
+     "alt": "Equação 3: dois trechos de PVA, cada um com dois grupos –OH, + o tetrahidroxiborato ⇌ trecho da cadeia do slime, em que o boro fica ligado a quatro oxigênios (ligações I, II, III e IV), cada um preso a um carbono das cadeias de PVA, + 4 H₂O."
+    }
+   ],
+   "alternativas": {
+    "A": "hidrólise e álcool.",
+    "B": "hidrólise e acetona.",
+    "C": "hidrólise e ácido carboxílico.",
+    "D": "esterificação e ácido carboxílico.",
+    "E": "esterificação e acetona."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O PVAc é um éster que reage com água e se quebra: é uma <strong>hidrólise</strong>. O composto X, H₃C–COOH, tem o grupo carboxila: é um <strong>ácido carboxílico</strong> (o ácido acético). Alternativa <strong>C</strong>.</p><p>A esterificação é a reação inversa, que forma ésteres (D e E). O álcool é o PVA, não o composto X (A). E acetona é uma cetona, sem grupo –OH (B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hidrólise",
+    "ácido carboxílico"
+   ]
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Estrutura atômica",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 20 a 24.</p><p><strong>A Química do <em>Slime</em></strong></p><p class=\"apoio\">A jornada histórica do <em>slime</em> tem início nas primeiras décadas do século XX, quando James Wright criou um material com características muito parecidas com a borracha. Atualmente, devido às mais variadas formulações disponibilizadas em plataformas e mídias digitais, pode-se produzir o próprio <em>slime</em> em casa.</p><p class=\"apoio\">O <em>slime</em> caseiro pode ser produzido pela mistura de duas colheres de chá de bicarbonato de sódio (NaHCO<sub>3</sub>), 100 mL de água boricada (solução de ácido bórico, H<sub>3</sub>BO<sub>3</sub>) e 60 g de cola de isopor (constituída de poliacetato de vinila, PVAc). Quando misturamos o bicarbonato de sódio com o ácido bórico, ocorre uma reação química que produz gás carbônico, água e borato de sódio (Na<sub>3</sub>BO<sub>3</sub>).</p><p class=\"apoio\">A dissociação, em solução aquosa, do borato e do bicarbonato de sódio libera íons sódio (Na<sup>+</sup>), que vão interagir com as moléculas do PVAc, formando um composto de elevada viscosidade e elasticidade.</p><p>Os íons sódio interagem com a estrutura do PVAc conforme representado.</p>[[fig:1]]<p>A reação entre o ácido bórico e o bicarbonato de sódio também origina o tetraborato de sódio, conhecido como “Bórax” (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>). Este, em meio básico, transforma-se em tetrahidroxiborato, conforme representado na equação 1.</p>[[fig:2]]<p>O PVAc reage com moléculas de água produzindo álcool polivinílico (PVA), conforme representado na equação 2.</p>[[fig:3]]<p>O tetrahidroxiborato reage com o PVA (equação 3), formando novas ligações que interligam as cadeias do polímero que constitui o <em>slime</em>.</p>[[fig:4]]<p class=\"fonte\">&lt;https://tinyurl.com/y4vmmd9w&gt; Acesso em: 01.10.2019. Adaptado.</p><p>Na equação 3, as ligações químicas I, II, III e IV, formadas no trecho da cadeia do <em>slime</em>, são denominadas</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q20a.webp",
+     "alt": "Interação entre um íon sódio, Na⁺, e o PVAc: o Na⁺ fica ligado por uma linha pontilhada ao oxigênio da carbonila (C=O), que tem carga parcial negativa (δ⁻); o carbono tem carga parcial positiva (δ⁺) e está ligado a um CH₃ e, por um oxigênio, a um CH da cadeia do polímero."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20b.webp",
+     "alt": "Equação 1: Na₂B₄O₇ (bórax) + 7 H₂O + 2 OH⁻ → 4 [B(OH)₄]⁻ (ânion tetrahidroxiborato, um boro ligado a quatro grupos OH) + 2 Na⁺."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20c.webp",
+     "alt": "Equação 2: um trecho do PVAc, com dois grupos –O–C(=O)–CH₃ ligados a carbonos da cadeia, + 2 H₂O → um trecho do PVA, com dois grupos –OH no lugar, + 2 H₃C–C(=O)–OH (composto X)."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q20d.webp",
+     "alt": "Equação 3: dois trechos de PVA, cada um com dois grupos –OH, + o tetrahidroxiborato ⇌ trecho da cadeia do slime, em que o boro fica ligado a quatro oxigênios (ligações I, II, III e IV), cada um preso a um carbono das cadeias de PVA, + 4 H₂O."
+    }
+   ],
+   "alternativas": {
+    "A": "ligações iônicas.",
+    "B": "ligações covalentes.",
+    "C": "ligações metálicas.",
+    "D": "ligações de hidrogênio.",
+    "E": "ligações apolares."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As ligações I a IV unem o oxigênio a átomos de carbono e de boro, todos não metais, que compartilham elétrons: são <strong>ligações covalentes</strong>. Alternativa <strong>B</strong>.</p><p>Não há metal formando íons nessas ligações (A e C). Ligações de hidrogênio são interações entre moléculas (D). E as ligações entre O e C ou B são polares (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ligações químicas"
+   ]
+  },
+  {
+   "numero": 25,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>Minority ethnic Britons face ‘shocking’ job discrimination</strong></p><p class=\"apoio\"><u>Haroon Siddique</u><br>Thu 17 Jan 2019 17.00 GMT Last modified on Fri 18 Jan 2019 00.50 GMT</p><p class=\"apoio\">A study by experts based at the Centre for Social Investigation at Nuffield College, University of Oxford, found applicants from minority ethnic backgrounds had to send 80% more applications to get a positive response from an employer than a white person of British origin.</p><p class=\"apoio\">A linked study by the same researchers, comparing their results with similar field experiments dating back to 1969, found discrimination against black Britons and those of south Asian origin – particularly Pakistanis – unchanged over almost 50 years.</p><p class=\"apoio\">The research, part of a larger cross-national project funded by the European Union and shared exclusively with the Guardian before its official launch, prompted concerns that race relations legislation had failed.</p><p class=\"apoio\">It echoes findings published as part of the Guardian’s Bias in Britain series that people from minority ethnic backgrounds face discrimination when seeking a room to rent. In a snapshot survey of online flatshare ads the Guardian found that an applicant called Muhammad was significantly less likely to receive a positive response than an applicant called David.</p><p class=\"apoio\">Prof Anthony Heath, co-author and emeritus fellow of Nuffield College, said: “The absence of any real decline in discrimination against black British and people of Pakistani background is a disturbing finding, which calls into question the effectiveness of previous policies. Ethnic inequality remains a burning injustice and there needs to be a radical rethink about how to tackle it.”</p><p class=\"apoio\">Dr Zubaida Haque, the deputy director of the race equality thinktank Runnymede, described the findings as shocking. They demonstrated that “it’s not just covert racism or unconscious bias that we need to worry about; it’s overt and conscious racism, where applicants are getting shortlisted on the basis of their ethnicity and/or name”, she said.</p><p class=\"apoio\">“It’s clear that race relations legislation is not sufficient to hold employers to account. There are no real consequences for employers of racially discriminating in subtle ways, but for BME* applicants or employees it means higher unemployment, lower wages, poorer conditions and less security in work and life.”</p><p class=\"fonte\">&lt;https://tinyurl.com/y9nohdte&gt; Acesso em: 07.10.2019. Adaptado.</p><p class=\"fonte\">*BME – Black and Minority Ethnicity</p><p>O estudo mencionado no texto aponta para a discriminação racial de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "negros e caucasianos.",
+    "B": "asiáticos e latinos.",
+    "C": "negros e latinos.",
+    "D": "negros e asiáticos.",
+    "E": "asiáticos e caucasianos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto cita discriminação contra “black Britons and those of south Asian origin – particularly Pakistanis”: <strong>negros e asiáticos</strong> (do sul da Ásia). Alternativa <strong>D</strong>.</p><p>O estudo compara os candidatos de minorias aos brancos britânicos (caucasianos), que não são discriminados (A e E). E o texto não menciona latinos (B e C).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 26,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>Minority ethnic Britons face ‘shocking’ job discrimination</strong></p><p class=\"apoio\"><u>Haroon Siddique</u><br>Thu 17 Jan 2019 17.00 GMT Last modified on Fri 18 Jan 2019 00.50 GMT</p><p class=\"apoio\">A study by experts based at the Centre for Social Investigation at Nuffield College, University of Oxford, found applicants from minority ethnic backgrounds had to send 80% more applications to get a positive response from an employer than a white person of British origin.</p><p class=\"apoio\">A linked study by the same researchers, comparing their results with similar field experiments dating back to 1969, found discrimination against black Britons and those of south Asian origin – particularly Pakistanis – unchanged over almost 50 years.</p><p class=\"apoio\">The research, part of a larger cross-national project funded by the European Union and shared exclusively with the Guardian before its official launch, prompted concerns that race relations legislation had failed.</p><p class=\"apoio\">It echoes findings published as part of the Guardian’s Bias in Britain series that people from minority ethnic backgrounds face discrimination when seeking a room to rent. In a snapshot survey of online flatshare ads the Guardian found that an applicant called Muhammad was significantly less likely to receive a positive response than an applicant called David.</p><p class=\"apoio\">Prof Anthony Heath, co-author and emeritus fellow of Nuffield College, said: “The absence of any real decline in discrimination against black British and people of Pakistani background is a disturbing finding, which calls into question the effectiveness of previous policies. Ethnic inequality remains a burning injustice and there needs to be a radical rethink about how to tackle it.”</p><p class=\"apoio\">Dr Zubaida Haque, the deputy director of the race equality thinktank Runnymede, described the findings as shocking. They demonstrated that “it’s not just covert racism or unconscious bias that we need to worry about; it’s overt and conscious racism, where applicants are getting shortlisted on the basis of their ethnicity and/or name”, she said.</p><p class=\"apoio\">“It’s clear that race relations legislation is not sufficient to hold employers to account. There are no real consequences for employers of racially discriminating in subtle ways, but for BME* applicants or employees it means higher unemployment, lower wages, poorer conditions and less security in work and life.”</p><p class=\"fonte\">&lt;https://tinyurl.com/y9nohdte&gt; Acesso em: 07.10.2019. Adaptado.</p><p class=\"fonte\">*BME – Black and Minority Ethnicity</p><p>Segundo o texto, estudos indicam que a discriminação está presente tanto na busca por emprego, quanto</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "na locação de residência.",
+    "B": "no atendimento no comércio.",
+    "C": "na obtenção de vistos de viagem.",
+    "D": "na garantia de oportunidade política.",
+    "E": "na facilidade em obter seguro de vida."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto cita a série <em>Bias in Britain</em>, segundo a qual pessoas de minorias sofrem discriminação “when seeking a room to rent” (ao procurar um quarto para alugar): na <strong>locação de residência</strong>. Alternativa <strong>A</strong>.</p><p>O texto não fala de comércio, vistos, política ou seguros (B, C, D e E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 27,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>Minority ethnic Britons face ‘shocking’ job discrimination</strong></p><p class=\"apoio\"><u>Haroon Siddique</u><br>Thu 17 Jan 2019 17.00 GMT Last modified on Fri 18 Jan 2019 00.50 GMT</p><p class=\"apoio\">A study by experts based at the Centre for Social Investigation at Nuffield College, University of Oxford, found applicants from minority ethnic backgrounds had to send 80% more applications to get a positive response from an employer than a white person of British origin.</p><p class=\"apoio\">A linked study by the same researchers, comparing their results with similar field experiments dating back to 1969, found discrimination against black Britons and those of south Asian origin – particularly Pakistanis – unchanged over almost 50 years.</p><p class=\"apoio\">The research, part of a larger cross-national project funded by the European Union and shared exclusively with the Guardian before its official launch, prompted concerns that race relations legislation had failed.</p><p class=\"apoio\">It echoes findings published as part of the Guardian’s Bias in Britain series that people from minority ethnic backgrounds face discrimination when seeking a room to rent. In a snapshot survey of online flatshare ads the Guardian found that an applicant called Muhammad was significantly less likely to receive a positive response than an applicant called David.</p><p class=\"apoio\">Prof Anthony Heath, co-author and emeritus fellow of Nuffield College, said: “The absence of any real decline in discrimination against black British and people of Pakistani background is a disturbing finding, which calls into question the effectiveness of previous policies. Ethnic inequality remains a burning injustice and there needs to be a radical rethink about how to tackle it.”</p><p class=\"apoio\">Dr Zubaida Haque, the deputy director of the race equality thinktank Runnymede, described the findings as shocking. They demonstrated that “it’s not just covert racism or unconscious bias that we need to worry about; it’s overt and conscious racism, where applicants are getting shortlisted on the basis of their ethnicity and/or name”, she said.</p><p class=\"apoio\">“It’s clear that race relations legislation is not sufficient to hold employers to account. There are no real consequences for employers of racially discriminating in subtle ways, but for BME* applicants or employees it means higher unemployment, lower wages, poorer conditions and less security in work and life.”</p><p class=\"fonte\">&lt;https://tinyurl.com/y9nohdte&gt; Acesso em: 07.10.2019. Adaptado.</p><p class=\"fonte\">*BME – Black and Minority Ethnicity</p><p>De acordo com o Professor Anthony Heath, o que causa surpresa em relação à pesquisa apresentada é que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "houve aumento nos índices de xenofobia nos últimos cinquenta anos.",
+    "B": "houve diminuição nos índices de discriminação contra negros desde 1969.",
+    "C": "houve aumento nos índices de aceitação dos imigrantes desde a década de 1960.",
+    "D": "não houve estabilização nos índices discriminatórios contra latinos desde 1969.",
+    "E": "não houve diminuição nos índices de discriminação contra negros e paquistaneses."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O professor diz: “The absence of any real decline in discrimination against black British and people of Pakistani background is a disturbing finding” (a ausência de queda real na discriminação contra negros e paquistaneses é um achado perturbador). Alternativa <strong>E</strong>.</p><p>O estudo diz que a discriminação ficou “unchanged”, inalterada, e não que aumentou ou diminuiu (A, B e C). E não menciona latinos (D).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 28,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>Minority ethnic Britons face ‘shocking’ job discrimination</strong></p><p class=\"apoio\"><u>Haroon Siddique</u><br>Thu 17 Jan 2019 17.00 GMT Last modified on Fri 18 Jan 2019 00.50 GMT</p><p class=\"apoio\">A study by experts based at the Centre for Social Investigation at Nuffield College, University of Oxford, found applicants from minority ethnic backgrounds had to send 80% more applications to get a positive response from an employer than a white person of British origin.</p><p class=\"apoio\">A linked study by the same researchers, comparing their results with similar field experiments dating back to 1969, found discrimination against black Britons and those of south Asian origin – particularly Pakistanis – unchanged over almost 50 years.</p><p class=\"apoio\">The research, part of a larger cross-national project funded by the European Union and shared exclusively with the Guardian before its official launch, prompted concerns that race relations legislation had failed.</p><p class=\"apoio\">It echoes findings published as part of the Guardian’s Bias in Britain series that people from minority ethnic backgrounds face discrimination when seeking a room to rent. In a snapshot survey of online flatshare ads the Guardian found that an applicant called Muhammad was significantly less likely to receive a positive response than an applicant called David.</p><p class=\"apoio\">Prof Anthony Heath, co-author and emeritus fellow of Nuffield College, said: “The absence of any real decline in discrimination against black British and people of Pakistani background is a disturbing finding, which calls into question the effectiveness of previous policies. Ethnic inequality remains a burning injustice and there needs to be a radical rethink about how to tackle it.”</p><p class=\"apoio\">Dr Zubaida Haque, the deputy director of the race equality thinktank Runnymede, described the findings as shocking. They demonstrated that “it’s not just covert racism or unconscious bias that we need to worry about; it’s overt and conscious racism, where applicants are getting shortlisted on the basis of their ethnicity and/or name”, she said.</p><p class=\"apoio\">“It’s clear that race relations legislation is not sufficient to hold employers to account. There are no real consequences for employers of racially discriminating in subtle ways, but for BME* applicants or employees it means higher unemployment, lower wages, poorer conditions and less security in work and life.”</p><p class=\"fonte\">&lt;https://tinyurl.com/y9nohdte&gt; Acesso em: 07.10.2019. Adaptado.</p><p class=\"fonte\">*BME – Black and Minority Ethnicity</p><p>Segundo a fala da Dra. Zubaida Haque, o mais preocupante é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a xenofobia velada.",
+    "B": "a misoginia aparente.",
+    "C": "a sexismo inconsciente.",
+    "D": "o antissemitismo evidente.",
+    "E": "o racismo aberto e consciente."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Ela diz que não é só o racismo velado ou inconsciente que preocupa: “it’s overt and conscious racism” (é o racismo aberto e consciente), com candidatos selecionados pela etnia ou pelo nome. Alternativa <strong>E</strong>.</p><p>A fala não trata de xenofobia, misoginia, sexismo nem antissemitismo (A, B, C e D).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 29,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>Minority ethnic Britons face ‘shocking’ job discrimination</strong></p><p class=\"apoio\"><u>Haroon Siddique</u><br>Thu 17 Jan 2019 17.00 GMT Last modified on Fri 18 Jan 2019 00.50 GMT</p><p class=\"apoio\">A study by experts based at the Centre for Social Investigation at Nuffield College, University of Oxford, found applicants from minority ethnic backgrounds had to send 80% more applications to get a positive response from an employer than a white person of British origin.</p><p class=\"apoio\">A linked study by the same researchers, comparing their results with similar field experiments dating back to 1969, found discrimination against black Britons and those of south Asian origin – particularly Pakistanis – unchanged over almost 50 years.</p><p class=\"apoio\">The research, part of a larger cross-national project funded by the European Union and shared exclusively with the Guardian before its official launch, prompted concerns that race relations legislation had failed.</p><p class=\"apoio\">It echoes findings published as part of the Guardian’s Bias in Britain series that people from minority ethnic backgrounds face discrimination when seeking a room to rent. In a snapshot survey of online flatshare ads the Guardian found that an applicant called Muhammad was significantly less likely to receive a positive response than an applicant called David.</p><p class=\"apoio\">Prof Anthony Heath, co-author and emeritus fellow of Nuffield College, said: “The absence of any real decline in discrimination against black British and people of Pakistani background is a disturbing finding, which calls into question the effectiveness of previous policies. Ethnic inequality remains a burning injustice and there needs to be a radical rethink about how to tackle it.”</p><p class=\"apoio\">Dr Zubaida Haque, the deputy director of the race equality thinktank Runnymede, described the findings as shocking. They demonstrated that “it’s not just covert racism or unconscious bias that we need to worry about; it’s overt and conscious racism, where applicants are getting shortlisted on the basis of their ethnicity and/or name”, she said.</p><p class=\"apoio\">“It’s clear that race relations legislation is not sufficient to hold employers to account. There are no real consequences for employers of racially discriminating in subtle ways, but for BME* applicants or employees it means higher unemployment, lower wages, poorer conditions and less security in work and life.”</p><p class=\"fonte\">&lt;https://tinyurl.com/y9nohdte&gt; Acesso em: 07.10.2019. Adaptado.</p><p class=\"fonte\">*BME – Black and Minority Ethnicity</p><p>A diretora do grupo Runnymede acredita que o panorama descrito</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "incita a violência e compromete a segurança do país.",
+    "B": "degrada as condições trabalhistas das minorias.",
+    "C": "oferece segurança para os trabalhadores.",
+    "D": "assusta trabalhadores e empregadores.",
+    "E": "impede a criação de leis mais rigorosas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Ela diz que, para as minorias, a discriminação significa “higher unemployment, lower wages, poorer conditions and less security in work and life”: o panorama <strong>degrada as condições de trabalho das minorias</strong>. Alternativa <strong>B</strong>.</p><p>Ela não fala de violência (A), diz que há menos segurança, não mais (C), afirma que não há consequências reais para os empregadores (D) e critica a lei atual, sem dizer que leis mais rígidas são impedidas (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Operações e problemas",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p>Amanda resolveu complementar seu orçamento doméstico como motorista por aplicativo. Como já possui um automóvel inscreveu-se numa plataforma em que o valor cobrado do passageiro por viagem depende basicamente de três fatores:</p><p>• o valor fixo de R$ 2,00 cobrado no início de qualquer viagem;<br>• o valor de R$ 0,26 por minuto de viagem;<br>• o valor de R$ 1,40 por quilômetro rodado.</p><p>Além disso, Amanda sabe que</p><p>• a plataforma do aplicativo retém um quarto do valor pago pelo passageiro;<br>• terá um custo de combustível no valor de R$ 0,28 por quilômetro rodado.</p><p>Suponha que ela realizará apenas viagens de 5 km, com duração de 10 minutos cada.</p><p>Considerando que Amanda deseja receber mensalmente o valor líquido mínimo de R$ 2.190,00, o menor número de viagens mensais, como motorista de aplicativo, que Amanda precisa fazer é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "280",
+    "B": "300",
+    "C": "320",
+    "D": "340",
+    "E": "360"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Cada viagem custa ao passageiro 2,00 + 10 · 0,26 + 5 · 1,40 = 2,00 + 2,60 + 7,00 = R$ 11,60. Amanda fica com três quartos: 8,70. Tirando o combustível (5 · 0,28 = 1,40), sobram R$ 7,30 por viagem. São 2 190 ÷ 7,30 = <strong>300</strong> viagens. Alternativa <strong>B</strong>.</p><p>Esquecer o combustível daria cerca de 252 viagens, e esquecer a retenção da plataforma, cerca de 214.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aplicativos de transporte"
+   ]
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p>Uma empresa trabalha com fretamento de ônibus para o litoral. O valor cobrado por passageiro, no caso dos 50 lugares disponíveis serem todos ocupados, é de R$ 40,00. No caso de não ocorrer a lotação máxima, cada passageiro deverá pagar R$ 2,00 a mais por assento vazio.</p><p>O valor máximo arrecadado por essa empresa, numa dessas viagens, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 2.000,00",
+    "B": "R$ 2.200,00",
+    "C": "R$ 2.350,00",
+    "D": "R$ 2.450,00",
+    "E": "R$ 2.540,00"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com x assentos vazios, viajam 50 − x passageiros, e cada um paga 40 + 2x. A receita é R(x) = (50 − x)(40 + 2x) = −2x² + 60x + 2 000. O máximo fica no vértice, x = 60 ÷ 4 = 15: R = 35 · 70 = <strong>R$ 2.450,00</strong>. Alternativa <strong>D</strong>.</p><p>R$ 2.000,00 é a receita com o ônibus lotado (A), que não é a maior.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função do 2º grau",
+    "máximo"
+   ]
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p>Um tanque de combustível contém 50 litros de uma mistura de gasolina e álcool na razão 2:3, nessa ordem. Deseja-se acrescentar à mistura N litros de álcool para que a razão de gasolina e álcool, nessa ordem, passe a ser 1:3.</p><p>Assim, o valor N é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "10",
+    "B": "20",
+    "C": "30",
+    "D": "40",
+    "E": "50"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na razão 2 : 3, os 50 L têm 20 L de gasolina e 30 L de álcool. Para ficar em 1 : 3, o álcool precisa ser o triplo da gasolina: 60 L. Faltam 60 − 30 = <strong>30 L</strong>. Alternativa <strong>C</strong>.</p><p>10 e 20 L não chegam à razão 1 : 3, e 40 e 50 L passam dela.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "misturas"
+   ]
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p>Um aprendiz de feiticeiro, numa experiência investigativa, tem a sua disposição cinco substâncias distintas entre as quais deverá escolher três distintas para fazer uma poção. No entanto, duas dessas cinco substâncias, quando misturadas, anulam qualquer efeito reativo.</p><p>A probabilidade do aprendiz obter uma poção sem efeito reativo é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "20%",
+    "B": "30%",
+    "C": "40%",
+    "D": "50%",
+    "E": "60%"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Escolher 3 de 5 substâncias dá C(5, 3) = 10 poções. A poção fica sem efeito quando contém as duas substâncias que se anulam; a terceira pode ser qualquer uma das outras 3: são 3 casos. A probabilidade é 3 ÷ 10 = <strong>30%</strong>. Alternativa <strong>B</strong>.</p><p>60% é a probabilidade de conter pelo menos uma das duas, não as duas (E). E 70% seria a chance de a poção funcionar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combinação"
+   ]
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p>Na figura temos um mapa onde se localiza a Praça Tales de Mileto. A prefeitura pretende cobri-la completamente com grama.</p>[[fig:1]]<p class=\"apoio\">Considere retilíneos esses trechos de ruas e avenidas</p><p>Admita que a medida do ângulo agudo formado entre a Rua Fibonacci e a Avenida Descartes é igual a 60º, e que a Avenida Bhaskara é paralela à Avenida Descartes.</p><p>Nessas condições, o total da área a ser gramada é, em metros quadrados, igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q34.webp",
+     "alt": "Mapa de ruas: a Avenida Bhaskara e a Avenida Descartes são horizontais e paralelas; a Rua Fibonacci é inclinada e corta as duas; a Rua Arquimedes desce em diagonal. A Praça Tales de Mileto é um triângulo entre a Rua Fibonacci, a Rua Arquimedes e a Avenida Bhaskara, com um lado de 240 m ao longo da Rua Fibonacci e um lado de 300 m ao longo da Avenida Bhaskara."
+    }
+   ],
+   "alternativas": {
+    "A": "20 400 · √3",
+    "B": "20 400 · √2",
+    "C": "27 000",
+    "D": "18 000 · √3",
+    "E": "12 000"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Como a Avenida Bhaskara é paralela à Descartes, o ângulo entre a Rua Fibonacci e a Bhaskara também é 60° (ângulos correspondentes). Esse é o ângulo entre os lados de 240 m e 300 m da praça. A área é \\(\\tfrac{1}{2} \\cdot 240 \\cdot 300 \\cdot \\text{sen}\\,60° = 36\\,000 \\cdot \\tfrac{\\sqrt{3}}{2} = 18\\,000\\sqrt{3}\\) m². Alternativa <strong>D</strong>.</p><p>36 000 sem o seno não aparece; 27 000 e 12 000 vêm de usar outros ângulos ou fórmulas (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área do triângulo",
+    "trigonometria"
+   ]
+  },
+  {
+   "numero": 35,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p>Considere o gráfico de velocidade vertical por tempo</p>[[fig:1]]<p>Considerando-se um sistema de referência ideal orientado de cima para baixo, podemos associar o gráfico ao movimento aproximado de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q35.webp",
+     "alt": "Gráfico de velocidade por tempo: a velocidade cresce em linha reta de 0 até V₁ no instante t₁; fica constante em V₁ até t₂; cai rapidamente para V₂, menor, entre t₂ e t₃; fica constante em V₂ até t₄; e cai até zero em t₅."
+    }
+   ],
+   "alternativas": {
+    "A": "um balão com gás hélio solto das mãos de uma criança em pé no chão.",
+    "B": "um foguete, alçando voo a partir de um lançamento no solo.",
+    "C": "uma fruta, caindo de uma árvore direto ao solo.",
+    "D": "um paraquedista, saindo de uma aeronave, a qual está com velocidade vertical nula, até chegar ao solo.",
+    "E": "uma águia de bico amarelo em seu sobrevoo, atacando uma presa posicionada próxima à superfície do oceano."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O paraquedista cai acelerando (de 0 a t₁), atinge uma velocidade limite (V₁), abre o paraquedas e freia (t₂ a t₃), desce com uma nova velocidade constante menor (V₂) e para ao chegar ao solo (t₅). Alternativa <strong>D</strong>.</p><p>O balão e o foguete sobem, contra o sentido positivo adotado (A e B). A fruta não tem trechos de velocidade constante nem freia em duas etapas (C). E a águia não para no solo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico v × t",
+    "paraquedas"
+   ]
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Movimento circular",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p>O <em>tether</em> consiste em dois objetos fixos nas duas extremidades de um cabo. A pesquisadora brasileira Alessandra F. S. Ferreira, da Unesp de Guaratinguetá (SP), foi agraciada com o prêmio Mario Grossi no evento internacional <em>Tether in Space 2019</em> (em Madrid). Em seu estudo, ela propôs a aplicação de um cabo fino e rígido de 100 km de comprimento com uma ponta ancorada na superfície de um corpo celeste, como um asteroide por exemplo. A outra ponta estará ancorada em um veículo espacial, conforme apresentado na figura. Assim, a técnica poderá ser utilizada para economizar energia e aumentar o impulso em viagens espaciais mais longas.</p>[[fig:1]]<p class=\"fonte\">Obs.: Imagem fora de escala.</p><p>Uma espaçonave de 100 toneladas, navegando a uma velocidade tangencial aproximada de 28,8 mil km/h, acopla-se ao cabo citado de 100 km de extensão ancorado em um asteroide (considerado aqui como um ponto material em repouso).</p><p>Assumindo que a massa do cabo seja desprezível em relação ao sistema, podemos afirmar, corretamente, que a força centrípeta aplicada na extremidade do cabo ligada ao veículo espacial, em newtons, é</p><p class=\"apoio\">Lembre-se de que<br>\\(a_c = \\dfrac{V^2}{R}\\)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q36.webp",
+     "alt": "Esquema fora de escala: um asteroide no centro de uma trajetória circular pontilhada, ligado por um cabo a uma espaçonave na borda do círculo. A seta da velocidade tangencial da nave indica |Vt| = 28 800 km/h."
+    }
+   ],
+   "alternativas": {
+    "A": "6,4 × 10<sup>7</sup>",
+    "B": "6,4 × 10<sup>5</sup>",
+    "C": "6,4 × 10<sup>3</sup>",
+    "D": "8,3 × 10<sup>4</sup>",
+    "E": "8,3 × 10<sup>6</sup>"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Em unidades do SI: v = 28 800 ÷ 3,6 = 8 000 m/s, R = 100 km = 10⁵ m e m = 100 t = 10⁵ kg. F = m · v² ÷ R = 10⁵ · (8 × 10³)² ÷ 10⁵ = 64 × 10⁶ = <strong>6,4 × 10⁷ N</strong>. Alternativa <strong>A</strong>.</p><p>As alternativas com 8,3 vêm de usar a velocidade em km/h (D e E), e as demais, de erros nas potências de dez (B e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "força centrípeta"
+   ]
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p class=\"apoio\">Em 2019 comemora-se, em todo o mundo, o centenário das observações astronômicas realizadas na cidade de Sobral (CE), durante o eclipse solar de 29 de maio de 1919. As medidas da deflexão da luz decorrentes das estrelas na borda do Sol constituíram uma prova fundamental para a confirmação da Teoria da Relatividade Geral do físico Albert Einstein.</p><p class=\"fonte\">&lt;http://tinyurl.com/y2rn2ptp&gt;. Acesso em: 10.10.2019. Adaptado.</p><p>Sobre o eclipse referido, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as regiões de eclipse solar total comprovam a Terra ser plana e as de eclipse solar parcial a Lua ser esférica.",
+    "B": "as regiões de eclipse solar total equivalem às penumbras e as de eclipse solar parcial, às sombras.",
+    "C": "a Terra se coloca entre o Sol e a Lua, projetando, assim, a sombra da Terra na Lua.",
+    "D": "o Sol se coloca entre a Terra e a Lua, projetando, assim, a sombra do Sol na Terra.",
+    "E": "a Lua se coloca entre o Sol e a Terra, projetando, assim, a sombra da Lua na Terra."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No eclipse solar, a <strong>Lua passa entre o Sol e a Terra</strong> e projeta sua sombra sobre a Terra. Onde cai a sombra, o eclipse é total; onde cai a penumbra, é parcial. Alternativa <strong>E</strong>.</p><p>Eclipses não provam que a Terra é plana (A). As regiões estão trocadas em B. A Terra entre o Sol e a Lua é o eclipse lunar (C). E o Sol não projeta sombra, ele é a fonte de luz (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eclipse solar"
+   ]
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Física moderna",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p>Na Teoria da Relatividade Restrita de Einstein, dois conceitos estudados referem-se ao fato de que, ao considerar um objeto propagando-se à velocidade da luz, podemos verificar</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a dilatação do tempo e a dilatação do comprimento.",
+    "B": "a contração do tempo e a dilatação do comprimento.",
+    "C": "a dilatação do tempo e a contração do comprimento.",
+    "D": "a dilatação do tempo sem contração do comprimento.",
+    "E": "a contração do tempo sem contração do comprimento."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pela Relatividade Restrita, para um objeto muito rápido em relação ao observador, o tempo passa mais devagar (<strong>dilatação do tempo</strong>) e o comprimento na direção do movimento diminui (<strong>contração do comprimento</strong>). Alternativa <strong>C</strong>.</p><p>O comprimento contrai, não dilata (A e B), e as duas coisas acontecem juntas (D e E). Observação: a rigor, nenhum objeto com massa chega à velocidade da luz; os efeitos aparecem perto dela.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "relatividade restrita"
+   ]
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p>Recentemente, uma empresa britânica apresentou um protótipo de um motor a jato hipersônico que permitirá às aeronaves comerciais voarem a uma velocidade muito acima da velocidade do som, fazendo com que uma viagem de São Paulo à Austrália dure, aproximadamente, 4 horas (atualmente essa viagem dura cerca de 24 horas).</p><p>Isso só é possível devido ao fato de o motor ser alimentado por uma mistura de hidrogênio e oxigênio. Esse motor “suga” o ar à sua frente fazendo com que os gases, antes de entrarem no combustor, sejam resfriados por um sistema denominado <em>pre-cooler</em>. Esse dispositivo consegue resfriar os gases variando a temperatura 1 000 K em cerca de 50 ms. Assim, ele aumenta a eficiência de combustível.</p><p>Com base nessas informações, podemos afirmar que a taxa de variação de resfriamento térmico, em °C/s, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "25 460",
+    "B": "20 000",
+    "C": "2 546",
+    "D": "2 000",
+    "E": "250"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Uma variação de 1 000 K é também uma variação de 1 000 °C, porque as duas escalas têm graus do mesmo tamanho. Em 50 ms = 0,05 s, a taxa é 1 000 ÷ 0,05 = <strong>20 000 °C/s</strong>. Alternativa <strong>B</strong>.</p><p>Converter a variação somando 273, como se fosse uma temperatura, leva a valores como 25 460 (A). E 2 000 vem de usar 0,5 s (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escalas termométricas",
+    "taxa de variação"
+   ]
+  },
+  {
+   "numero": 40,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"apoio\">O Brasil é reconhecido internacionalmente por seu amplo programa de imunização, que disponibiliza vacinas gratuitamente à população por meio do Sistema Único de Saúde (SUS). Criado em 1973, o Programa Nacional de Imunização (PNI) teve início com 4 tipos de vacinas e, hoje, oferece 27 à população sem qualquer custo. Nem mesmo a crise econômica afeta o bilionário orçamento da iniciativa, o qual foi de R$ 3,9 bilhões em 2017.</p><p class=\"apoio\">No entanto, a cobertura vacinal no Brasil está em queda. Números do PNI analisados pela BBC Brasil, em 2017, mostram que o governo tem tido cada vez mais dificuldades em bater a meta de vacinar a maior parte da população. Um exemplo é a poliomielite: a doença, responsável pela paralisia infantil, está erradicada no País desde 1990.</p><p class=\"apoio\">Para o governo, é cedo para dizer se há tendência de queda real ou se são oscilações por mudanças em curso no sistema de notificação; porém, os números já preocupam. “Ainda é muito precoce para dizer se há oscilação real, mas estamos preocupados, sim. O sinal amarelo acendeu,” afirma a coordenadora do PNI.</p><p class=\"apoio\">O que o governo mais teme é que a redução de pessoas vacinadas crie bolsões de indivíduos suscetíveis a doenças antigas e controladas no País.</p><p class=\"fonte\">&lt;https://tinyurl.com/y8ur2re7&gt; Acesso em: 10.10.2019. Adaptado.</p><p>Uma consequência do problema abordado é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a erradicação de doenças infectocontagiosas em função da ausência de seus transmissores, pois a não imunização faz os agentes patogênicos morrerem, já que o indivíduo imunizado foi inoculado com grandes quantidades de vírus.",
+    "B": "a elevação do índice de mortalidade do grupo de pessoas que se vacinam, pois a vacina provoca uma resposta imunológica, fazendo com que o organismo pare de produzir anticorpos.",
+    "C": "a diminuição de pessoas imunizadas e a consequente eliminação dos vírus transmissores de doenças infectocontagiosas, levando ao desaparecimento das patologias.",
+    "D": "um aumento no gasto com saúde pública, pois as pessoas tendem a ficar doentes caso não sejam imunizadas, uma vez que a transmissão dos vírus tende a aumentar.",
+    "E": "um surto mundial de doenças como a poliomielite, a asma e o sarampo, uma vez que as vacinas têm um antígeno fortalecido, levando milhões de pessoas à morte."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com menos gente vacinada, doenças controladas podem voltar a circular, mais pessoas adoecem e o sistema de saúde gasta mais com tratamento. Alternativa <strong>D</strong>.</p><p>A falta de vacinação não elimina os agentes de doença; ao contrário, ajuda a espalhá-los (A e C). A vacina estimula, e não interrompe, a produção de anticorpos (B). E a asma não é uma doença infecciosa evitada por vacina (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "vacinação",
+    "saúde pública"
+   ]
+  },
+  {
+   "numero": 41,
+   "materia": "Geografia",
+   "assunto": "Tectônica de placas",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p class=\"apoio\">“A América do Sul ficou como um continente isolado no oceano durante milhões de anos. A região amazônica era um ambiente de sedimentação e os rios equatoriais corriam no sentido oposto ao atual, desaguando no Pacífico, na atual região do golfo de Guayaquil, no Equador”.</p><p class=\"fonte\">MIRANDA, Evaristo Eduardo de. <em>Quando o Amazonas corria para o Pacífico: uma história desconhecida da Amazônia.</em> Petrópolis, RJ. 2 ed.: VOZES, 2007.</p><p>A inversão do sentido dos rios amazônicos, mencionada no texto, ocorreu em consequência</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "da formação de uma única massa continental, a Pangeia, na era Pré-Cambriana.",
+    "B": "do soerguimento da Cordilheira dos Andes, no período Terciário da era Cenozoica.",
+    "C": "do processo de desertificação das áreas equatoriais, no período Jurássico da era Mesozoica.",
+    "D": "do início da abertura do Oceano Atlântico e de retração do Oceano Pacífico, na era Proterozoica.",
+    "E": "do surgimento do istmo que liga a América do Norte à América do Sul, no período Carbonífero da era Paleozoica."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O soerguimento dos <strong>Andes</strong>, no Terciário (era Cenozoica), bloqueou a saída dos rios para o Pacífico. A água se acumulou e acabou escoando para leste, rumo ao Atlântico, como o Amazonas faz hoje. Alternativa <strong>B</strong>.</p><p>A Pangeia se formou no fim da era Paleozoica, não no Pré-Cambriano (A). Não houve desertificação na Amazônia no Jurássico (C). A abertura do Atlântico ocorreu no Mesozoico (D). E o istmo do Panamá surgiu há poucos milhões de anos, não no Carbonífero (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Cordilheira dos Andes",
+    "hidrografia"
+   ]
+  },
+  {
+   "numero": 42,
+   "materia": "Geografia",
+   "assunto": "Cartografia",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p>A distância real entre a cidade A e a cidade B é de 1 500 quilômetros. Em um determinado mapa, essa distância é de 50 centímetros. Portanto, a escala numérica desse mapa é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1:3 000",
+    "B": "1:30 000",
+    "C": "1:300 000",
+    "D": "1:3 000 000",
+    "E": "1:30 000 000"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>1 500 km = 150 000 000 cm. A escala é 50 : 150 000 000 = 1 : 3 000 000. Alternativa <strong>D</strong>.</p><p>As outras escalas erram a conversão de quilômetros para centímetros por uma ou mais potências de dez.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala"
+   ]
+  },
+  {
+   "numero": 43,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p class=\"apoio\">“No Oriente Médio, nos anos 1950, à medida que o velho Império Britânico retirava-se e se reduzia a seu arquipélago inicial, os Estados Unidos substituíam-no. Para isso, colocou à frente dos países dessa região seus “homens”, sobretudo na Arábia Saudita e no Irã, principais produtores de petróleo do mundo – junto com a Venezuela, na época já sob controle estadunidense.”</p><p class=\"fonte\">&lt;https://tinyurl.com/y5jobeuu&gt; Acesso em: 10.10.2019. Adaptado.</p><p>Desde 1953, o Irã foi um grande aliado dos Estados Unidos no Oriente Médio. Porém, essa aliança se rompeu e as relações entre os dois países foram cortadas em 1980.</p><p>O fato que levou a esse rompimento aconteceu, entre 1978 e 1979, em decorrência da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Guerra Irã-Iraque, na qual o presidente do Irã, Saddam Hussein, ataca o Iraque com a intenção de expandir o islamismo xiita e se apropriar dos campos de petróleo na bacia dos rios Tigre e Eufrates.",
+    "B": "Revolução Socialista, que ocorreu no Irã e que levou o Partido Comunista desse país ao poder, suprimiu a propriedade privada e nacionalizou as companhias de petróleo estrangeiras, incluindo as estadunidenses.",
+    "C": "Guerra do Golfo, na qual o exército iraniano invadiu o Kuwait, bombardeou os poços de petróleo desse país e rumou em direção à Arábia Saudita, quando foi surpreendido pelas forças de coalizão lideradas pelos Estados Unidos.",
+    "D": "derrubada das torres gêmeas do Word Trade Center de Nova Iorque, ação comandada pelo iraniano Osama bin Laden, que tinha a intenção de destruir os centros de comando das Sete Irmãs do Petróleo instaladas naquele complexo de edifícios.",
+    "E": "Revolução Islâmica ocorrida no Irã, em que grupos que eram a favor da nacionalização do petróleo, organizações islâmicas e movimentos estudantis apoiaram a rebelião que derrubou a monarquia pró-Estados Unidos e proclamou a República Islâmica do Irã."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A <strong>Revolução Islâmica</strong> de 1979 derrubou o xá Reza Pahlevi, aliado dos EUA, e criou a República Islâmica do Irã, liderada pelo aiatolá Khomeini. A crise dos reféns na embaixada americana levou ao rompimento em 1980. Alternativa <strong>E</strong>.</p><p>Saddam Hussein governava o Iraque, que atacou o Irã em 1980 (A). Não houve revolução socialista no Irã (B). Quem invadiu o Kuwait foi o Iraque, em 1990 (C). E o 11 de Setembro foi em 2001, e Bin Laden era saudita (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Revolução Islâmica",
+    "Irã"
+   ]
+  },
+  {
+   "numero": 44,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p class=\"apoio\">“O livre mercado é um termo conciso para designar um arranjo de trocas que ocorrem na sociedade. Cada troca acontece como um acordo voluntário entre duas pessoas ou entre grupos de pessoas representados por agentes. Esses indivíduos, ou seus agentes, trocam dois bens econômicos, tanto <em>commodities</em> tangíveis quanto serviços não-tangíveis.”</p><p class=\"fonte\">&lt;https://tinyurl.com/yywpe8lx&gt; Acesso em: 10.10.2019. Adaptado.</p><p>A expressão “livre mercado”, presente no texto, é típica de uma sociedade</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "anarquista, em que as relações de poder existentes permitem que o mercado se autorregule.",
+    "B": "feudal, em que as relações entre senhores feudais e os servos ocorrem na base da livre negociação.",
+    "C": "socialista, em que o poder concentrado no parlamento viabiliza as práticas autorregulatórias do mercado.",
+    "D": "monarquista, em que a ausência de poder central oportuniza relações comerciais livres, sem a regulamentação estatal.",
+    "E": "capitalista, em que as relações econômicas e o mercado se autorregulam de acordo com a demanda dos consumidores."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O livre mercado, com trocas voluntárias reguladas pela oferta e pela demanda, é a base da sociedade <strong>capitalista</strong>. Alternativa <strong>E</strong>.</p><p>O anarquismo rejeita o Estado, mas também a lógica de mercado capitalista (A). No feudalismo, a relação entre senhores e servos era de obrigações, não de livre negociação (B). No socialismo, a economia é planejada pelo Estado (C). E as monarquias têm poder central (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "capitalismo",
+    "livre mercado"
+   ]
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Botânica",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p class=\"apoio\">Os cientistas que realizam pesquisas históricas com base nos anéis de crescimento das árvores organizam amostras de madeiras de plantas vivas e mortas para determinar as condições climáticas do passado em regiões específicas. Isso é possível porque, em certas espécies, principalmente em regiões de clima temperado, o número de anéis de crescimento corresponde exatamente ao número de anos de existência da árvore, sendo que, durante cada inverno, a atividade do câmbio é interrompida e, posteriormente, retomada na primavera. Além disso, a espessura do caule varia de acordo com diversos fatores ambientais, tais como luminosidade, temperatura, regime de chuvas, água disponível no solo e duração do período de crescimento. Quando as condições são favoráveis, os anéis são largos; em condições desfavoráveis, eles são mais estreitos.</p><p class=\"fonte\">(Amabis, José Mariano; MARTHO, Gilberto Rodrigues. <em>Biologia dos Organismos.</em> – 3ª. ed. – São Paulo: Moderna, 2009. Adaptado.)</p><p>Sobre os anéis de crescimento de certas espécies de árvores, é correto afirmar que são formados</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pela atividade do câmbio, que produz o xilema estival e o xilema primaveril em resposta às alterações climáticas das estações do ano.",
+    "B": "pela atividade do câmbio, que produz, principalmente no inverno, o xilema estival com vasos de grande calibre e paredes finas.",
+    "C": "pela atividade do câmbio, que independente dos fatores ambientais, produz o floema primaveril que conduz seiva bruta ou mineral.",
+    "D": "pelos vasos lenhosos, que se desenvolvem mais no inverno do que no verão e conduzem seiva elaborada ou orgânica.",
+    "E": "pelos feixes liberolenhosos, que se desenvolvem apenas no verão e só conduzem seiva elaborada ou orgânica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O câmbio produz xilema de forma diferente ao longo do ano: na primavera, o xilema tem vasos largos e paredes finas (xilema primaveril, mais claro); no fim do verão, vasos estreitos e paredes grossas (xilema estival, mais escuro). Cada par forma um anel. Alternativa <strong>A</strong>.</p><p>No inverno o câmbio para, e o xilema de vasos largos é o primaveril (B). O floema conduz seiva elaborada, e o câmbio depende do ambiente (C). Os vasos lenhosos conduzem seiva bruta e crescem menos no inverno (D). E os anéis não se formam só no verão (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "câmbio",
+    "anéis de crescimento"
+   ]
+  },
+  {
+   "numero": 46,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p>Assim como as bactérias, os fungos desempenham o papel de decompositores na natureza, possibilitando que outros seres vivos reaproveitem os elementos químicos da matéria decomposta. Além disso, alguns fungos, popularmente conhecidos como cogumelos, crescem perto de plantas. As hifas, filamentos microscópicos desses fungos, desenvolvem-se no solo, onde se enrolam e, às vezes, penetram nas raízes das árvores, formando as chamadas micorrizas.</p><p>Estudos recentes mostram que as plantas se beneficiam dessa associação, especialmente se o solo for pobre nos minerais de que elas necessitam, principalmente, porque esses fungos</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "atuam como decompositores e estabelecem com as plantas relações de parasitismo na troca de nutrientes.",
+    "B": "realizam fotossíntese e liberam, para o meio ambiente, a matéria orgânica presente em suas hifas clorofiladas.",
+    "C": "estabelecem um tipo específico de associação ecológica, o comensalismo, em que ambos os organismos se prejudicam com a interação.",
+    "D": "liberam antibióticos, substâncias que matam as bactérias do solo e que impedem a absorção dos sais minerais pelas raízes das plantas.",
+    "E": "aumentam a capacidade de as raízes absorverem os minerais do solo e se beneficiam pela obtenção de substâncias produzidas pelos vegetais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Nas micorrizas, as hifas aumentam a área de absorção das raízes e ajudam a planta a obter minerais; em troca, o fungo recebe açúcares produzidos pela planta. É um mutualismo. Alternativa <strong>E</strong>.</p><p>A relação não é de parasitismo (A). Fungos não fazem fotossíntese (B). No comensalismo um ganha e o outro não é afetado; aqui os dois ganham (C). E os fungos ajudam, e não impedem, a absorção de sais (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "micorrizas",
+    "mutualismo"
+   ]
+  },
+  {
+   "numero": 47,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p>Os nematelmintos são vermes que causam diversas doenças, mas geralmente não provocam a morte do hospedeiro, o que pode ser interpretado como uma grande adaptação à vida parasitária. É vantajoso ao parasita que o hospedeiro resista à parasitose, pois, se este morrer, o parasita perderá a moradia e a fonte de alimentação.</p><p>Os textos se referem a dois tipos diferentes de doenças comuns no Brasil, causadas por nematelmintos nos seres humanos.</p><p class=\"apoio\"><strong>I</strong> Verminose, habitualmente sem sintomatologia, mas que pode se manifestar por dor abdominal, diarreia, náuseas e anorexia. Quando há grande número de vermes, pode ocorrer quadro de obstrução intestinal. A contaminação ocorre por meio da ingestão dos ovos infectantes do parasita, procedentes do solo, água ou alimentos contaminados com fezes humanas.</p><p class=\"apoio\"><strong>II</strong> Verminose que pode ser assintomática em caso de infecções leves. Em crianças com parasitismo intenso, pode ocorrer queda na quantidade de proteína sanguínea e atraso no desenvolvimento físico e mental. Com frequência, dependendo da intensidade da infecção, acarreta anemia por redução de ferro. A transmissão acontece por meio de contato, geralmente dos pés, com as larvas desse parasita, que vive no solo. Não se transmite de pessoa a pessoa. Os indivíduos infectados, quando não são adequadamente tratados, podem contaminar o solo. No Brasil, predomina nas áreas rurais, principalmente sem saneamento, cujas populações têm como hábito andar descalças.</p><p>Assinale a alternativa que indica, correta e respectivamente, as verminoses descritas nos textos I e II.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I: Filariose; II: Ascaridíase.",
+    "B": "I: Ancilostomose; II: Filariose.",
+    "C": "I: Ascaridíase; II: Ancilostomose.",
+    "D": "I: Ancilostomose; II: Ascaridíase.",
+    "E": "I: Ascaridíase; II: Filariose."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>I: transmissão pela ingestão de ovos em água e alimentos contaminados, com risco de obstrução intestinal por muitos vermes: <strong>ascaridíase</strong> (lombriga). II: larvas que penetram pela pele dos pés e causam anemia por perda de ferro: <strong>ancilostomose</strong> (amarelão). Alternativa <strong>C</strong>.</p><p>A filariose é transmitida por mosquitos e afeta os vasos linfáticos (A, B e E). D inverte as duas doenças.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "verminoses"
+   ]
+  },
+  {
+   "numero": 48,
+   "materia": "Biologia",
+   "assunto": "Botânica",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>O esquema representa o ciclo reprodutivo de uma pteridófita (samambaia).</p>[[fig:1]]<p>Sobre esse ciclo, é correto afirmar que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q48.webp",
+     "alt": "Esquema circular do ciclo: o esporo dá origem ao gametófito, que produz anterozoide e oosfera; os dois se unem e formam o zigoto, que se desenvolve no esporófito; o esporófito produz esporos, recomeçando o ciclo."
+    }
+   ],
+   "alternativas": {
+    "A": "a meiose ocorre no gametófito, no processo de formação dos gametas.",
+    "B": "a meiose ocorre no esporófito, no processo de formação dos esporos.",
+    "C": "o gametófito se origina a partir da união do anterozoide com a oosfera.",
+    "D": "o gametófito é diploide e corresponde à geração predominante.",
+    "E": "o esporófito é haploide e corresponde à geração predominante."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Nas samambaias, o esporófito (diploide) é a planta que vemos, a geração predominante. Ele forma esporos por <strong>meiose</strong>. Os esporos (haploides) originam o gametófito, que produz gametas por mitose. Alternativa <strong>B</strong>.</p><p>O gametófito forma gametas por mitose, não por meiose (A). A união do anterozoide com a oosfera forma o zigoto, que dá origem ao esporófito (C). O gametófito é haploide e pequeno (D). E o esporófito é diploide (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pteridófitas",
+    "ciclo de vida"
+   ]
+  },
+  {
+   "numero": 49,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>Os tipos sanguíneos do sistema ABO são caracterizados pela presença ou ausência de aglutinogênios e aglutininas. O sangue tipo B, por exemplo, possui como principal característica a presença do aglutinogênio B nas hemácias e da aglutinina anti-A no plasma.</p><p>Esses tipos sanguíneos são codificados pela presença de três alelos múltiplos: <strong>I<sup>A</sup>, I<sup>B</sup> e i</strong>.</p><p>Entre os <strong>alelos I<sup>A</sup> e I<sup>B</sup></strong>, ocorre codominância, ou seja, ambos os alelos se expressam. Entretanto, esses alelos são dominantes sobre o <strong>alelo i</strong>.</p><p>Considere a seguinte situação: uma mulher, que possui aglutinina anti-A no seu sangue, teve um filho do grupo O.</p><p>Sabendo-se que o marido tem o aglutinogênio A, podemos afirmar que os genótipos da mulher e do seu marido são, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "♀: I<sup>B</sup>i; ♂: I<sup>B</sup>i.",
+    "B": "♀: I<sup>B</sup>I<sup>B</sup>; ♂: I<sup>A</sup>i.",
+    "C": "♀: I<sup>B</sup>i; ♂: I<sup>A</sup>i.",
+    "D": "♀: I<sup>A</sup>I<sup>B</sup>; ♂: I<sup>B</sup>I<sup>B</sup>.",
+    "E": "♀: I<sup>B</sup>i; ♂: I<sup>A</sup>I<sup>A</sup>."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O filho é do grupo O (ii): recebeu um alelo i de cada um. A mulher tem anti-A, então não tem aglutinogênio A: é B ou O. Pelas alternativas, ela é I<sup>B</sup>i. O marido tem aglutinogênio A e precisa ter um i: I<sup>A</sup>i. Alternativa <strong>C</strong>.</p><p>Quem é I<sup>B</sup>I<sup>B</sup> ou I<sup>A</sup>I<sup>A</sup> não tem o alelo i e não pode ter filho O (B, D e E). E I<sup>B</sup>i não tem aglutinogênio A, então não pode ser o marido (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sistema ABO"
+   ]
+  },
+  {
+   "numero": 50,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p>Leia a charge.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y4xtwcwo&gt; Acesso em: 19.10.2019.</p><p>De acordo com as informações verbais e não verbais apresentadas na charge, pode-se depreender, corretamente, que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q50.webp",
+     "alt": "Charge de Tiens em três quadros. 1: um homem diante de uma agência de empregos com várias placas “Não há vagas”. 2: o homem lê o jornal de classificados e ouve ao telefone: “Desculpe, mas não há vagas!”. 3: o mesmo homem, agora motorista de aplicativo num carro com a placa “Uber”, responde a uma mulher com duas crianças que pede “3 pessoas, por favor”: “Ok, há vagas!”."
+    }
+   ],
+   "alternativas": {
+    "A": "a alta qualificação profissional da maioria da população acarreta um aumento no número de vagas não preenchidas no mercado de trabalho.",
+    "B": "as vagas de emprego cresceram devido à alta concorrência entre os trabalhadores, incluindo-se até mesmo crianças e mulheres na disputa por uma vaga no mercado de trabalho.",
+    "C": "a falta de oportunidade de trabalho, aliada a novos meios de transporte de massa, impedem o desenvolvimento de atividades paralelas no mercado de trabalho.",
+    "D": "as vagas ofertadas no mercado de trabalho, apesar de inúmeras e constantes, não garantem estabilidade e remuneram menos do que as atividades “empreendedoras”.",
+    "E": "a resiliência, aliada à persistência, levam as pessoas a se realocarem dentro do mercado de trabalho e, consequentemente, adaptarem-se a novas oportunidades de trabalho."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Sem conseguir emprego, o homem persiste e passa a dirigir por aplicativo, onde agora é ele quem tem “vagas”. A charge mostra a <strong>resiliência e a persistência</strong> que levam as pessoas a se adaptar a novas formas de trabalho. Alternativa <strong>E</strong>.</p><p>A charge mostra falta de vagas, não sobra (A e B). O transporte por aplicativo é justamente uma atividade alternativa (C). E as vagas formais não são inúmeras, mas inexistentes (D).</p><p>Observação do Treineiros: a charge também pode ser lida como crítica à precarização do trabalho, que é o tema de outras questões da prova; a banca escolheu a leitura da adaptação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "charge"
+   ]
+  },
+  {
+   "numero": 51,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 51 a 54.</p><p class=\"apoio\">O leitor encontra, neste belo número da Revista <em>Katálysis</em>, um panorama rico, denso e qualificado do que vem ocorrendo no mundo do trabalho hoje, com seus traços de “continuidade” e “descontinuidade”, num período em que o capitalismo aprofundou ainda mais as penalizações que está impondo ao universo laborativo, onde o “novo” e o “velho” se (re)configuram a partir da nova Divisão Internacional do Trabalho (DIT), que se reestruturou nas últimas décadas.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">Se a Revolução Industrial, nos séculos XVIII e XIX, legou-nos um enorme processo de “desantropomorfização do trabalho” (Lukács); se o século XX pode ser caracterizado pelo que Braverman definiu como sendo a “era da degradação do trabalho”, as últimas décadas do século passado e os inícios do atual vêm presenciando a generalização de “outras formas e modalidades de precarização”, [...] aquela responsável pela geração do <em>cybertariado</em> (Ursula Huws), uma nova força de trabalho global que mescla intensamente “<strong>informatização</strong>” com “<strong>informalização</strong>”.[...]</p><p class=\"apoio\">As consequências são fortes: nesta fase de desmanche, estamos presenciando o derretimento dos poucos laços de sociabilidade, [...] sem presenciarmos uma ampliação da vida dotada de sentido, nem “dentro” e nem “fora” do trabalho. A vida se consolida, cada vez mais, como sendo desprovida de sentido no trabalho e, por outro lado, estranhada e fetichizada* também “fora” do trabalho, exaurindo-se no mundo sublimado do consumo (virtual ou real), ou na labuta incansável pelas qualificações de todo tipo, que são incentivadas como antídoto [...] para não perder o emprego daqueles que o têm.</p><p class=\"apoio\">É por isso que estamos presenciando uma desconstrução sem precedentes do trabalho em toda a era moderna, ampliando os diversos modos de ser da precarização e do desemprego estrutural. Resta para a “classe-que-vive-do-trabalho” oscilar, ao modo dos pêndulos, entre a busca de qualquer “labor” e a vivência do desemprego.</p><p class=\"apoio\">Este número especial da Revista Katálysis, dedicado às novas configurações do trabalho na sociedade capitalista, é uma contribuição efetiva para a linhagem crítica, atualizada e original, tanto pelos temas selecionados, quanto pela qualidade e competência dos colaboradores presentes, ajudando a descortinar tantos elementos que configuram a “nova morfologia do trabalho”, seus dilemas e desafios.</p><p class=\"fonte\">Ricardo Antunes, Editorial da Revista <em>Katálysis</em>, n.2, 2009. &lt;https://tinyurl.com/y6nchqmr&gt; Acesso em: 19.10.2019. Adaptado.</p><p class=\"fonte\">*fetichizar: ação de admirar exageradamente, irrestritamente, incondicionalmente uma pessoa ou coisa.</p><p>Assinale a alternativa que apresenta uma análise correta das informações apresentadas no texto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "As mudanças ocorridas no mercado de trabalho, nas últimas décadas, caracterizam-se por um processo contínuo de reformulação geradora de lucros ao trabalhador.",
+    "B": "As novas formas de relações laborais acabam por gerar oportunidades no mercado de trabalho e garantir o acesso do trabalhador aos direitos assegurados pela carteira assinada.",
+    "C": "Como resultado do processo de desumanização das relações trabalhistas, a vida é dissipada pelo consumo ou pelo desgaste devido à busca constante por aperfeiçoamento profissional.",
+    "D": "A sociedade atual mantém questionamentos e desafios herdados de períodos históricos diferentes, sem, contudo, despertar o interesse mais profundo de pesquisadores e cientistas.",
+    "E": "A partir da Revolução Industrial, repetidos processos geradores de garantias trabalhistas ocorreram, visando à humanização das relações entre empregador e empregado."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Questão anulada. Se fosse corrigida pela letra que o gabarito traz (C): o autor diz que a vida fica “desprovida de sentido no trabalho” e se esgota “no mundo sublimado do consumo” ou “na labuta incansável pelas qualificações de todo tipo”. É o que a alternativa C resume.</p><p>As mudanças recentes geram precarização, não lucro ao trabalhador (A), nem carteira assinada (B). A revista é justamente um esforço de pesquisadores sobre o tema (D). E o texto fala em degradação, não em garantias trabalhistas desde a Revolução Industrial (E).</p>",
+   "explicacaoRevisada": true,
+   "anulacao": {
+    "fonte": "oficial",
+    "motivo": "O Centro Paula Souza anulou esta questão no gabarito oficial e não publicou o motivo; ao lado da anulação, o gabarito ainda traz a letra C. Pela análise do Treineiros, a alternativa C é a que melhor resume o texto, mas ela fala em “desumanização das relações trabalhistas” como causa, enquanto o autor atribui a perda de sentido da vida ao capitalismo e à nova divisão do trabalho; a relação de causa e efeito da alternativa não está explícita no texto, o que pode ter motivado a anulação."
+   }
+  },
+  {
+   "numero": 52,
+   "materia": "Português",
+   "assunto": "Sintaxe",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 51 a 54.</p><p class=\"apoio\">O leitor encontra, neste belo número da Revista <em>Katálysis</em>, um panorama rico, denso e qualificado do que vem ocorrendo no mundo do trabalho hoje, com seus traços de “continuidade” e “descontinuidade”, num período em que o capitalismo aprofundou ainda mais as penalizações que está impondo ao universo laborativo, onde o “novo” e o “velho” se (re)configuram a partir da nova Divisão Internacional do Trabalho (DIT), que se reestruturou nas últimas décadas.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">Se a Revolução Industrial, nos séculos XVIII e XIX, legou-nos um enorme processo de “desantropomorfização do trabalho” (Lukács); se o século XX pode ser caracterizado pelo que Braverman definiu como sendo a “era da degradação do trabalho”, as últimas décadas do século passado e os inícios do atual vêm presenciando a generalização de “outras formas e modalidades de precarização”, [...] aquela responsável pela geração do <em>cybertariado</em> (Ursula Huws), uma nova força de trabalho global que mescla intensamente “<strong>informatização</strong>” com “<strong>informalização</strong>”.[...]</p><p class=\"apoio\">As consequências são fortes: nesta fase de desmanche, estamos presenciando o derretimento dos poucos laços de sociabilidade, [...] sem presenciarmos uma ampliação da vida dotada de sentido, nem “dentro” e nem “fora” do trabalho. A vida se consolida, cada vez mais, como sendo desprovida de sentido no trabalho e, por outro lado, estranhada e fetichizada* também “fora” do trabalho, exaurindo-se no mundo sublimado do consumo (virtual ou real), ou na labuta incansável pelas qualificações de todo tipo, que são incentivadas como antídoto [...] para não perder o emprego daqueles que o têm.</p><p class=\"apoio\">É por isso que estamos presenciando uma desconstrução sem precedentes do trabalho em toda a era moderna, ampliando os diversos modos de ser da precarização e do desemprego estrutural. Resta para a “classe-que-vive-do-trabalho” oscilar, ao modo dos pêndulos, entre a busca de qualquer “labor” e a vivência do desemprego.</p><p class=\"apoio\">Este número especial da Revista Katálysis, dedicado às novas configurações do trabalho na sociedade capitalista, é uma contribuição efetiva para a linhagem crítica, atualizada e original, tanto pelos temas selecionados, quanto pela qualidade e competência dos colaboradores presentes, ajudando a descortinar tantos elementos que configuram a “nova morfologia do trabalho”, seus dilemas e desafios.</p><p class=\"fonte\">Ricardo Antunes, Editorial da Revista <em>Katálysis</em>, n.2, 2009. &lt;https://tinyurl.com/y6nchqmr&gt; Acesso em: 19.10.2019. Adaptado.</p><p class=\"fonte\">*fetichizar: ação de admirar exageradamente, irrestritamente, incondicionalmente uma pessoa ou coisa.</p><p>Dentre as propostas de reescrita dos diferentes trechos retirados do texto, assinale a única que mantém o sentido original e que respeita as normas da variedade culta da língua portuguesa.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Texto original: “É por isso que estamos presenciando uma desconstrução do trabalho sem precedentes...”; Texto reescrito: É por isso que uma desconstrução inédita do trabalho está sendo presenciada por nós.",
+    "B": "Texto original: “A vida se consolida, cada vez mais, como sendo desprovida de sentido no trabalho...”; Texto reescrito: Consolidam a vida, ininterruptamente, tirando do trabalho o sentido.",
+    "C": "Texto original: “...o capitalismo aprofundou ainda mais as penalizações que está impondo ao universo laborativo...”; Texto reescrito: As penalizações impostas ao universo laborativo aprofundaram ainda mais o capitalismo.",
+    "D": "Texto original: “...as últimas décadas do século passado e os inícios do atual vêm presenciando a generalização de ‘outras formas e modalidades de precarização’ ...”; Texto reescrito: ... entre meados do século XIX e início do século XXI, a difusão de “outras formas e modalidades de precarização” foi presenciada.",
+    "E": "Texto original: “Este número especial da Revista Katálysis... é uma contribuição efetiva para a linhagem crítica, atualizada e original, tanto pelos temas selecionados, quanto pela qualidade e competência dos colaboradores presentes...”; Texto reescrito: Uma contribuição efetiva pela linguagem crítica moderna e clássica foi feita pelo número especial da Revista Katálysis, devido aos temas abordados e à qualidade dos colaboradores."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Questão anulada. Se fosse corrigida pela letra que o gabarito traz (A): a reescrita passa a frase para a voz passiva (“está sendo presenciada por nós”) e troca “sem precedentes” por “inédita”, mantendo o sentido.</p><p>B troca o sujeito e diz que alguém “tira do trabalho o sentido”. C inverte a relação: no original, é o capitalismo que aprofunda as penalizações. D muda o período (“meados do século XIX”). E troca “linhagem” por “linguagem” e “atualizada e original” por “moderna e clássica”.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reescrita",
+    "voz passiva"
+   ],
+   "anulacao": {
+    "fonte": "oficial",
+    "motivo": "O Centro Paula Souza anulou esta questão no gabarito oficial e não publicou o motivo; ao lado da anulação, o gabarito ainda traz a letra A. Pela análise do Treineiros, há um problema no próprio enunciado: o trecho citado como original na alternativa A (“uma desconstrução do trabalho sem precedentes”) não é igual ao do texto (“uma desconstrução sem precedentes do trabalho”), e a troca muda o que é “sem precedentes”. Isso compromete justamente a alternativa que o gabarito indicava."
+   }
+  },
+  {
+   "numero": 53,
+   "materia": "Português",
+   "assunto": "Formação de palavras",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 51 a 54.</p><p class=\"apoio\">O leitor encontra, neste belo número da Revista <em>Katálysis</em>, um panorama rico, denso e qualificado do que vem ocorrendo no mundo do trabalho hoje, com seus traços de “continuidade” e “descontinuidade”, num período em que o capitalismo aprofundou ainda mais as penalizações que está impondo ao universo laborativo, onde o “novo” e o “velho” se (re)configuram a partir da nova Divisão Internacional do Trabalho (DIT), que se reestruturou nas últimas décadas.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">Se a Revolução Industrial, nos séculos XVIII e XIX, legou-nos um enorme processo de “desantropomorfização do trabalho” (Lukács); se o século XX pode ser caracterizado pelo que Braverman definiu como sendo a “era da degradação do trabalho”, as últimas décadas do século passado e os inícios do atual vêm presenciando a generalização de “outras formas e modalidades de precarização”, [...] aquela responsável pela geração do <em>cybertariado</em> (Ursula Huws), uma nova força de trabalho global que mescla intensamente “<strong>informatização</strong>” com “<strong>informalização</strong>”.[...]</p><p class=\"apoio\">As consequências são fortes: nesta fase de desmanche, estamos presenciando o derretimento dos poucos laços de sociabilidade, [...] sem presenciarmos uma ampliação da vida dotada de sentido, nem “dentro” e nem “fora” do trabalho. A vida se consolida, cada vez mais, como sendo desprovida de sentido no trabalho e, por outro lado, estranhada e fetichizada* também “fora” do trabalho, exaurindo-se no mundo sublimado do consumo (virtual ou real), ou na labuta incansável pelas qualificações de todo tipo, que são incentivadas como antídoto [...] para não perder o emprego daqueles que o têm.</p><p class=\"apoio\">É por isso que estamos presenciando uma desconstrução sem precedentes do trabalho em toda a era moderna, ampliando os diversos modos de ser da precarização e do desemprego estrutural. Resta para a “classe-que-vive-do-trabalho” oscilar, ao modo dos pêndulos, entre a busca de qualquer “labor” e a vivência do desemprego.</p><p class=\"apoio\">Este número especial da Revista Katálysis, dedicado às novas configurações do trabalho na sociedade capitalista, é uma contribuição efetiva para a linhagem crítica, atualizada e original, tanto pelos temas selecionados, quanto pela qualidade e competência dos colaboradores presentes, ajudando a descortinar tantos elementos que configuram a “nova morfologia do trabalho”, seus dilemas e desafios.</p><p class=\"fonte\">Ricardo Antunes, Editorial da Revista <em>Katálysis</em>, n.2, 2009. &lt;https://tinyurl.com/y6nchqmr&gt; Acesso em: 19.10.2019. Adaptado.</p><p class=\"fonte\">*fetichizar: ação de admirar exageradamente, irrestritamente, incondicionalmente uma pessoa ou coisa.</p><p>Os termos “continuidade”, “desconstrução” e “desmanche” são palavras constituídas por diferentes processos de formação de palavras.</p><p>Assinale a alternativa cujas palavras são formadas, respectivamente, pelos mesmos processos dos vocábulos apresentados no enunciado.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Idade, endeusar e venda.",
+    "B": "Vivência, rememoração e renúncia.",
+    "C": "Morosidade, entardecer e aguardente.",
+    "D": "Idealismo, vivenciamento e desmantelar.",
+    "E": "Porosidade, descontinuamente e remontar."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>“Continuidade” (contínuo + -idade) é derivação sufixal; “desconstrução” (des- + construção, com o sufixo -ção de construir) é derivação prefixal e sufixal; “desmanche” vem do verbo desmanchar por derivação regressiva. O mesmo vale para “vivência” (viver + -ência), “rememoração” (re- + memorar + -ção) e “renúncia” (de renunciar, regressiva). Alternativa <strong>B</strong>.</p><p>“Endeusar” e “entardecer” são parassintéticas, e “aguardente” é composição (A e C). “Desmantelar” não é derivação regressiva (D). E “remontar” é prefixal (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 54,
+   "materia": "Português",
+   "assunto": "Figuras de linguagem",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 51 a 54.</p><p class=\"apoio\">O leitor encontra, neste belo número da Revista <em>Katálysis</em>, um panorama rico, denso e qualificado do que vem ocorrendo no mundo do trabalho hoje, com seus traços de “continuidade” e “descontinuidade”, num período em que o capitalismo aprofundou ainda mais as penalizações que está impondo ao universo laborativo, onde o “novo” e o “velho” se (re)configuram a partir da nova Divisão Internacional do Trabalho (DIT), que se reestruturou nas últimas décadas.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">Se a Revolução Industrial, nos séculos XVIII e XIX, legou-nos um enorme processo de “desantropomorfização do trabalho” (Lukács); se o século XX pode ser caracterizado pelo que Braverman definiu como sendo a “era da degradação do trabalho”, as últimas décadas do século passado e os inícios do atual vêm presenciando a generalização de “outras formas e modalidades de precarização”, [...] aquela responsável pela geração do <em>cybertariado</em> (Ursula Huws), uma nova força de trabalho global que mescla intensamente “<strong>informatização</strong>” com “<strong>informalização</strong>”.[...]</p><p class=\"apoio\">As consequências são fortes: nesta fase de desmanche, estamos presenciando o derretimento dos poucos laços de sociabilidade, [...] sem presenciarmos uma ampliação da vida dotada de sentido, nem “dentro” e nem “fora” do trabalho. A vida se consolida, cada vez mais, como sendo desprovida de sentido no trabalho e, por outro lado, estranhada e fetichizada* também “fora” do trabalho, exaurindo-se no mundo sublimado do consumo (virtual ou real), ou na labuta incansável pelas qualificações de todo tipo, que são incentivadas como antídoto [...] para não perder o emprego daqueles que o têm.</p><p class=\"apoio\">É por isso que estamos presenciando uma desconstrução sem precedentes do trabalho em toda a era moderna, ampliando os diversos modos de ser da precarização e do desemprego estrutural. Resta para a “classe-que-vive-do-trabalho” oscilar, ao modo dos pêndulos, entre a busca de qualquer “labor” e a vivência do desemprego.</p><p class=\"apoio\">Este número especial da Revista Katálysis, dedicado às novas configurações do trabalho na sociedade capitalista, é uma contribuição efetiva para a linhagem crítica, atualizada e original, tanto pelos temas selecionados, quanto pela qualidade e competência dos colaboradores presentes, ajudando a descortinar tantos elementos que configuram a “nova morfologia do trabalho”, seus dilemas e desafios.</p><p class=\"fonte\">Ricardo Antunes, Editorial da Revista <em>Katálysis</em>, n.2, 2009. &lt;https://tinyurl.com/y6nchqmr&gt; Acesso em: 19.10.2019. Adaptado.</p><p class=\"fonte\">*fetichizar: ação de admirar exageradamente, irrestritamente, incondicionalmente uma pessoa ou coisa.</p><p>Os termos destacados no texto são exemplos de paronomásia, figura sonora definida, segundo o Dicionário Houaiss de Língua Portuguesa, como “figura de linguagem que extrai expressividade da combinação de palavras que apresentam semelhança fônica, mas possuem sentidos diferentes”.</p><p>Assinale a alternativa em que o autor também utilizou a paronomásia na construção de seus versos.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2020-1sem/q54a.webp",
+     "alt": "Versos de Manuel Bandeira, do poema “Pneumotórax”: uma enumeração de sintomas de doença, o lamento pela vida que não foi vivida e a repetição da palavra tosse."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q54b.webp",
+     "alt": "Versos de Carlos Drummond de Andrade: uma imagem da lua no céu, chamada de irônica e diurética, comparada a uma gravura de sala de jantar."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q54c.webp",
+     "alt": "Versos de Carlos Drummond de Andrade: o eu lírico lamenta não ter amado o semelhante nem cuidado dos outros, e só ter dito algumas palavras melodiosas ao voltar da festa."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q54d.webp",
+     "alt": "Versos de Paul Verlaine, em tradução, sobre a arte poética: a música antes de tudo, o ímpar, o que é vago e solúvel no ar, sem nada que pouse ou pese. Os verbos “preza” e “pesa”, no fim do primeiro e do último verso, têm sons parecidos."
+    },
+    {
+     "src": "assets/img/fatec-2020-1sem/q54e.webp",
+     "alt": "Versos de Carlos Drummond de Andrade sobre o amor, que vive entre brigar e perdoar, com a repetição invertida “briga perdoa perdoa briga”."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em Verlaine, “preza” e “pesa” têm som quase igual e sentidos diferentes, como “informatização” e “informalização” no texto: é paronomásia. Alternativa <strong>D</strong>.</p><p>A repete a mesma palavra (“tosse”), o que é anáfora ou repetição, não paronomásia. B usa adjetivos inesperados para a lua. C enumera ações. E repete as mesmas palavras em ordem invertida (quiasmo).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "paronomásia"
+   ]
+  }
+ ]
+}

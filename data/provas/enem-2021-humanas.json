@@ -1,0 +1,1157 @@
+{
+ "id": "enem-2021-humanas",
+ "banca": "Enem",
+ "ano": 2021,
+ "titulo": "Enem 2021: Ciências Humanas",
+ "fonte": "Inep",
+ "dataExame": "2021-11-21",
+ "duracaoMinutos": 135,
+ "area": "Ciências Humanas",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Sociologia",
+   "assunto": "Trabalho",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\">Seu turno de trabalho acabou, você já está em casa e é hora do jantar da família. Mas, em vez de relaxar, você começa a pensar na possibilidade de ter recebido alguma mensagem importante no e-mail profissional ou no grupo de <em>WhatsApp</em> da empresa. Imediatamente, você fica distante. Momentos depois, com alguns toques na tela do celular, você está de volta ao ambiente de trabalho. O jantar e a família ficaram em segundo plano.</p><p class=\"fonte\">A simples vontade de checar mensagens do trabalho pós-expediente prejudica sua saúde — e a de sua família. Disponível em: www.bbc.com. Acesso em: 4 dez. 2018.</p><p>O texto indica práticas nas relações cotidianas do trabalho que causam para o indivíduo a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "proteção da vida privada.",
+    "B": "ampliação de atividades extras.",
+    "C": "elevação de etapas burocráticas.",
+    "D": "diversificação do lazer recreativo.",
+    "E": "desobrigação de afazeres domésticos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto mostra o trabalhador que, já em casa, no jantar com a família, fica pensando nas mensagens do trabalho e volta a ele pelo celular. A tecnologia leva o trabalho para dentro de casa e reduz o tempo livre: há uma <strong>ampliação de atividades extras</strong> fora do expediente. Alternativa <strong>B</strong>.</p><p>A vida privada é invadida, não protegida (A); não há burocracia (C), lazer (D) ou fuga das tarefas de casa (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tecnologia",
+    "jornada de trabalho"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "Sociologia",
+   "assunto": "Desigualdade",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">Quando a taxa de remuneração do capital excede substancialmente a taxa de crescimento da economia, pela lógica, a riqueza herdada aumenta mais rápido do que a renda e a produção. Então, basta aos herdeiros poupar uma parte limitada da renda de seu capital para que ele cresça mais rápido do que a economia como um todo. Sob essas condições, é quase inevitável que a riqueza herdada supere a riqueza constituída durante uma vida de trabalho, e que a concentração do capital atinja níveis muito altos.</p><p class=\"fonte\">PIKETTY, T. O capital no século XXI. Rio de Janeiro: Intrínseca, 2014 (adaptado).</p><p>Considerando os princípios que legitimam as democracias liberais, a lógica econômica descrita no texto enfraquece o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ideologia do mérito.",
+    "B": "direito de nascimento.",
+    "C": "eficácia da legislação.",
+    "D": "ganho das financeiras.",
+    "E": "eficiência dos mercados."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As democracias liberais justificam as diferenças de renda pelo mérito: quem se esforça e trabalha mais ganha mais. Piketty mostra que, quando o capital rende mais que o crescimento da economia, a riqueza herdada supera a riqueza construída pelo trabalho. Isso enfraquece a <strong>ideologia do mérito</strong>. Alternativa <strong>A</strong>.</p><p>A herança fortalece, não enfraquece, o “direito de nascimento” (B); o texto não fala de leis, financeiras ou eficiência (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Piketty",
+    "meritocracia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p class=\"apoio\">Atualmente, o Programa de Melhoramento “Uvas do Brasil” utiliza métodos clássicos de melhoramento, como seleção massal, seleção clonal e hibridações. Ações de ajuste de manejo de seleções avançadas vêm sendo desenvolvidas paralelamente ao Programa de Melhoramento, no sentido de viabilização desses materiais. Ao longo dos seus 40 anos, uma grande equipe técnica trabalhou para executar projetos de pesquisa para atender às necessidades e às demandas de diferentes atores da vitivinicultura nacional, incluindo produtores de uvas de mesa para exportação do semiárido nordestino, viticultores interessados em produzir sucos em regiões tropicais ou pequenos produtores familiares da região da Serra Gaúcha, interessados em melhorar a qualidade do vinho artesanal que produzem.</p><p class=\"fonte\">Programa de Melhoramento Genético “Uvas do Brasil”. Disponível em: www.embrapa.br. Acesso em: 24 nov. 2018 (adaptado).</p><p>Para melhorar a produção agrícola nas regiões mencionadas, as técnicas referidas no texto buscaram adaptar o cultivo aos(às)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "espécies nativas ameaçadas.",
+    "B": "cadeias econômicas autônomas.",
+    "C": "estruturas fundiárias tradicionais.",
+    "D": "elementos ambientais singulares.",
+    "E": "mercados consumidores internos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O programa cria variedades de uva por seleção e cruzamento para atender regiões muito diferentes: o Semiárido nordestino, áreas tropicais e a Serra Gaúcha. As técnicas adaptam o cultivo aos <strong>elementos ambientais singulares</strong> (clima, solo, relevo) de cada lugar. Alternativa <strong>D</strong>.</p><p>O texto cita exportação (contra E) e não fala de espécies nativas ameaçadas (A), cadeias autônomas (B) ou estrutura fundiária (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "melhoramento genético",
+    "vitivinicultura"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "História",
+   "assunto": "Patrimônio",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Portadoras de mensagem espiritual do passado, as obras monumentais de cada povo perduram no presente como o testemunho vivo de suas tradições seculares. A humanidade, cada vez mais consciente da unidade dos valores humanos, as considera um bem comum e, perante as gerações futuras, se reconhece solidariamente responsável por preservá-las, impondo a si mesma o dever de transmiti-las na plenitude de sua autenticidade.</p><p class=\"fonte\">Carta de Veneza, 31 de maio de 1964. Disponível em: www.iphan.gov.br. Acesso em: 7 out. 2019.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Os sistemas tradicionais de proteção se mostram cada vez menos eficientes diante do processo acelerado de urbanização e transformação de nossa sociedade. A legislação de proteção peca por considerar o monumento, até certo ponto, desvinculado da realidade socioeconômica. O tombamento, ao decretar a imutabilidade do monumento, provoca a redução de seu valor venal e o abandono, o que é uma causa, ainda que lenta, de destruição inevitável.</p><p class=\"fonte\">TELLES, L. S. Manual do patrimônio histórico. Porto Alegre; Caxias do Sul: Escola Superior de Teologia São Lourenço de Brindes, 1977 (adaptado).</p><p>Escritos em temporalidade histórica aproximada, os textos se distanciam ao apresentarem pontos de vista diferentes sobre a(s)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ampliação do comércio de imagens sacras.",
+    "B": "substituição de materiais de valor artístico.",
+    "C": "políticas de conservação de bens culturais.",
+    "D": "defesa da privatização de sítios arqueológicos.",
+    "E": "medidas de salvaguarda de peças museológicas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A Carta de Veneza defende preservar os monumentos “na plenitude de sua autenticidade”, como bem comum da humanidade. Telles critica o tombamento, que congela o monumento, reduz seu valor e acaba levando ao abandono. Os textos divergem sobre as <strong>políticas de conservação de bens culturais</strong>. Alternativa <strong>C</strong>.</p><p>Os textos não falam de comércio de imagens (A), troca de materiais (B), privatização (D) ou museus (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tombamento",
+    "Carta de Veneza"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Em 2016, foram gerados 44,7 milhões de toneladas de resíduos eletrônicos, um aumento de 8% na comparação com 2014. Especialistas previram um crescimento de mais 17%, para 52,2 milhões de toneladas, até 2021.</p><p class=\"fonte\">Disponível em: https://nacoesunidas.org. Acesso em: 12 out. 2019 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Há ainda quem exporte deliberadamente lixo eletrônico para o Gana. É mais caro reciclar devidamente os resíduos no mundo industrializado, onde até existem os recursos e a tecnologia. Um negócio muito mais lucrativo é vender o lixo eletrônico a negociantes locais, que o importam alegando tratar-se de material usado. Os negociantes depois vendem o lixo aos jovens no mercado, ou noutro lado, que o desmantelam e extraem os fios de cobre. Estes são derretidos em lareiras ao ar livre, poluindo o ar e, muitas vezes, intoxicando diretamente os próprios jovens.</p><p class=\"fonte\">KALEDZI, I.; SOUZA, G. Disponível em: www.dw.com. Acesso em: 12 out. 2019 (adaptado).</p><p>No contexto das discussões ambientais, as práticas descritas nos textos refletem um padrão de relações derivado do(a):</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Exercício pleno da cidadania.",
+    "B": "Divisão internacional do trabalho.",
+    "C": "Gestão empresarial do toyotismo.",
+    "D": "Concepção sustentável da economia.",
+    "E": "Protecionismo alfandegário dos Estados."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os países ricos geram cada vez mais lixo eletrônico e, em vez de reciclá-lo, mandam-no para países pobres como Gana, onde jovens o desmontam em condições perigosas. Os custos ambientais e de saúde ficam com a periferia: é um padrão da <strong>divisão internacional do trabalho</strong>. Alternativa <strong>B</strong>.</p><p>A prática não é sustentável (D) nem cidadã (A); não envolve toyotismo (C) ou barreiras alfandegárias (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lixo eletrônico",
+    "centro e periferia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "Geografia",
+   "assunto": "Recursos hídricos",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\">Preços justos e autorizações de uso da água devem garantir de forma adequada que a retirada de água, bem como o retorno de efluentes, mantenham operações eficientes e ambientalmente sustentáveis, de maneira que sejam adaptáveis às peculiaridades e necessidades da indústria e da irrigação em larga escala, bem como às atividades da agricultura em pequena escala e de subsistência.</p><p class=\"fonte\">UNESCO. Relatório Mundial das Nações Unidas sobre Desenvolvimento dos Recursos Hídricos. Água para um mundo sustentável. Unesco, 2015.</p><p>Considerando o debate sobre segurança hídrica, a proposta apresentada no texto está pautada no(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "distribuição equitativa do abastecimento.",
+    "B": "monitoramento do fornecimento urbano.",
+    "C": "racionamento da capacidade fluvial.",
+    "D": "revitalização gradativa de solos.",
+    "E": "geração de produtos recicláveis."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A Unesco propõe preços justos e autorizações de uso para atender tanto a indústria e a irrigação em grande escala quanto a agricultura pequena e de subsistência. A segurança hídrica se baseia na <strong>distribuição equitativa do abastecimento</strong> entre usos e usuários. Alternativa <strong>A</strong>.</p><p>O texto não trata de abastecimento urbano (B), racionamento (C), solos (D) ou reciclagem (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "segurança hídrica",
+    "gestão da água"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"apoio\">Durante os anos de 1854-55, o governo brasileiro — por meio de sua representação diplomática em Londres — e os livre-cambistas ingleses — nas colunas do <em>Daily News</em> e na Câmara dos Comuns — aumentaram a pressão pela revogação da Lei Aberdeen. O governo britânico, entretanto, ainda receava que, sem um tratado anglo-brasileiro satisfatório para substituí-la, não haveria nada que impedisse os brasileiros de um dia voltarem aos seus velhos hábitos.</p><p class=\"fonte\">BETHELL, L. A abolição do comércio brasileiro de escravos. Brasília: Senado Federal, 2002 (adaptado).</p><p>As tensões diplomáticas expressas no texto indicam o interesse britânico em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "estabelecer jurisdição conciliadora.",
+    "B": "compartilhar negócios marítimos.",
+    "C": "fomentar políticas higienistas.",
+    "D": "manter a proibição comercial.",
+    "E": "promover o negócio familiar."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O governo brasileiro e os livre-cambistas queriam revogar a Lei Aberdeen, com que a Inglaterra reprimia navios negreiros. O governo britânico temia que, sem um tratado substituto, os brasileiros “voltassem aos velhos hábitos”, isto é, ao tráfico. O interesse britânico era <strong>manter a proibição comercial</strong> do tráfico de escravos. Alternativa <strong>D</strong>.</p><p>O texto não fala de conciliação (A), negócios conjuntos (B), higienismo (C) ou negócios familiares (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Lei Aberdeen",
+    "tráfico negreiro"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "Geografia",
+   "assunto": "Cultura e região",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\">Famoso por ser o encantador de viúvas da cidade de Cabaceiras, na Paraíba, Zé de Sila é um contador de histórias parecido com o personagem Chicó, do <em>Auto da Compadecida</em>. Ele defende veementemente que a oração da avó sustentava mais a chuva. “Quando era pequeno e chovia por aqui, ajudava minha avó colocando os pratos emborcados no terreiro para diminuir o vento. Ela fazia isso e rezava para a chuva durar mais”, diz Zé de Sila.</p><p class=\"fonte\">GALDINO, V.; BARBOSA, R. C. Artistas por um dia? João Pessoa: Editora Universitária, 2009.</p><p>Ao destacar expressões e vivências populares do cotidiano, o texto mobiliza os seguintes aspectos da diversidade regional:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Alianças afetivas conectadas ao ritual matrimonial.",
+    "B": "Práticas místicas associadas ao patrimônio cultural.",
+    "C": "Manifestações teatrais atreladas ao imaginário político.",
+    "D": "Narrativas fílmicas relacionadas às intempéries climáticas.",
+    "E": "Argumentações literárias interligadas às catástrofes ambientais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Zé de Sila, contador de histórias como o Chicó, lembra a avó que emborcava pratos no terreiro e rezava para a chuva durar mais. São <strong>práticas místicas associadas ao patrimônio cultural</strong> nordestino. Alternativa <strong>B</strong>.</p><p>O “encantador de viúvas” é só um apelido (A); não há teatro político (C), filme (D) ou literatura sobre catástrofes (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cultura popular",
+    "religiosidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "Sociologia",
+   "assunto": "Trabalho",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"apoio\">O uso de novas tecnologias envolve a assimilação de uma cultura empresarial na qual haja a integração entre as propostas de modernização tecnológica e a racionalização. Nem sempre o uso de novas tecnologias é apenas um processo técnico na medida em que pressupõe uma nova orientação no controle do capital, no processo produtivo e na qualificação da mão de obra. Dos diversos efeitos que derivaram dessa orientação, a terceirização, a precarização e a flexibilização aparecem com constância como características do paradigma flexível, em substituição ao modelo taylorista-fordista.</p><p class=\"fonte\">HERÉDIA, V. Novas tecnologias nos processos de trabalho: efeitos da reestruturação produtiva. Scripta Nova, n. 170, ago. 2004 (adaptado).</p><p>O uso de novas tecnologias relacionado ao controle empresarial é criticado no texto em razão da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "operacionalização da tarefa laboral.",
+    "B": "capacitação de profissionais liberais.",
+    "C": "fragilização das relações de trabalho.",
+    "D": "hierarquização dos cargos executivos.",
+    "E": "aplicação dos conhecimentos da ciência."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que as novas tecnologias vieram com uma nova forma de controle do capital, e que seus efeitos constantes são terceirização, precarização e flexibilização. A crítica é à <strong>fragilização das relações de trabalho</strong>. Alternativa <strong>C</strong>.</p><p>O texto não critica a organização da tarefa (A), a capacitação (B), cargos executivos (D) ou a ciência (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reestruturação produtiva",
+    "precarização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 10,
+   "materia": "Geografia",
+   "assunto": "Migrações",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p class=\"apoio\">A categoria de refugiado carrega em si as noções de transitoriedade, provisoriedade e temporalidade. Os refugiados situam-se entre o país de origem e o país de destino. Ao transitarem entre os dois universos, ocupam posição marginal, tanto em termos identitários — assentada na falta de pertencimento pleno enquanto membros da comunidade receptora e nos vínculos introjetados por códigos partilhados com a comunidade de origem — quanto em termos jurídicos, ao deixarem de exercitar, ao menos em caráter temporário, o status de cidadãos no país de origem e portar o status de refugiados no país receptor.</p><p class=\"fonte\">MOREIRA, J. B. Refugiados no Brasil: reflexões acerca do processo de integração local. REMHU, n. 43, jul.-dez. 2014 (adaptado).</p><p>A condição de transitoriedade dos refugiados no Brasil, conforme abordada no texto, é provocada pela associação entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ascensão social e burocracia estatal.",
+    "B": "miscigenação étnica e limites fronteiriços.",
+    "C": "desqualificação profissional e ação policial.",
+    "D": "instabilidade financeira e crises econômicas.",
+    "E": "desenraizamento cultural e insegurança legal."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O refugiado vive entre dois mundos: não pertence plenamente à comunidade que o recebe (desenraizamento identitário) e perde o status de cidadão do país de origem, com só um status provisório no novo país (insegurança jurídica). A transitoriedade vem do <strong>desenraizamento cultural e da insegurança legal</strong>. Alternativa <strong>E</strong>.</p><p>O texto não fala de ascensão social (A), miscigenação (B), polícia (C) ou crise econômica (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "refugiados",
+    "identidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "História",
+   "assunto": "Ciência e gênero",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p class=\"apoio\">Mulheres naturalistas raramente figuraram na corrida por conhecer terras exóticas. No século XIX, mulheres como Lady Charlotte Canning eventualmente coletavam espécimes botânicos, mas quase sempre no papel de esposas coloniais, viajando para locais onde seus maridos as levavam e não em busca de seus próprios projetos científicos.</p><p class=\"fonte\">SOMBRIO, M. M. O. Em busca pelo campo — Mulheres em expedições científicas no Brasil em meados do século XX. Cadernos Pagu, n. 48, 2016.</p><p>No contexto do século XIX, a relação das mulheres com o campo científico, descrita no texto, é representativa da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "afirmação da igualdade de gênero.",
+    "B": "transformação dos espaços de lazer.",
+    "C": "superação do pensamento patriarcal.",
+    "D": "incorporação das estratificações sociais.",
+    "E": "substituição das atividades domésticas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As mulheres do século XIX só participavam de expedições como esposas, acompanhando os maridos, e não com projetos científicos próprios. O papel delas na ciência repetia a posição de subordinação que tinham na sociedade: <strong>incorporação das estratificações sociais</strong>. Alternativa <strong>D</strong>.</p><p>O texto mostra o contrário de igualdade de gênero ou superação do patriarcado (A e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mulheres na ciência"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 12,
+   "materia": "Filosofia",
+   "assunto": "Escola de Frankfurt",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p class=\"apoio\">Nos setores mais altamente desenvolvidos da sociedade contemporânea, o transplante de necessidades sociais para individuais é de tal modo eficaz que a diferença entre elas parece puramente teórica. As criaturas se reconhecem em suas mercadorias; encontram sua alma em seu automóvel, casa em patamares, utensílios de cozinha.</p><p class=\"fonte\">MARCUSE, H. A ideologia da sociedade industrial: o homem unidimensional. Rio de Janeiro: Zahar, 1979.</p><p>O texto indica que, no capitalismo, a satisfação dos desejos pessoais é influenciada por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "políticas estatais de divulgação.",
+    "B": "incentivos controlados de consumo.",
+    "C": "prescrições coletivas de organização.",
+    "D": "mecanismos subjetivos de identificação.",
+    "E": "repressões racionalizadas do narcisismo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Para Marcuse, a sociedade industrial transforma necessidades sociais em individuais de forma tão eficaz que as pessoas “se reconhecem em suas mercadorias” e encontram “sua alma em seu automóvel”. Os desejos pessoais são moldados por <strong>mecanismos subjetivos de identificação</strong> com os objetos de consumo. Alternativa <strong>D</strong>.</p><p>O controle não vem do Estado (A) nem de regras coletivas (C), mas da própria subjetividade.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Marcuse",
+    "consumo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 13,
+   "materia": "Geografia",
+   "assunto": "Espaço urbano",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p class=\"apoio\">A vida das pessoas se modifica com a mesma rapidez com que se reproduz a cidade. O lugar da festa, do encontro quase desaparecem; o número de brincadeiras infantis nas ruas diminui — as crianças quase não são vistas; os pedaços da cidade são vendidos, no mercado, como mercadorias; árvores são destruídas, praças transformadas em concreto. Por outro lado, os habitantes parecem perder na cidade suas próprias referências. A imagem de uma grande cidade hoje é tão mutante que se assemelha à de um grande guindaste, aliás, a presença maciça destes, das britadeiras, das betoneiras nos dão o limite do processo de transformação diária ao qual está submetida a cidade.</p><p class=\"fonte\">CARLOS, A. F. A. A cidade. São Paulo: Contexto, 2011 (adaptado).</p><p>No contexto das grandes cidades brasileiras, a situação apresentada no texto vem ocorrendo como consequência da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "manutenção dos modos de convívio social.",
+    "B": "preservação da essência do espaço público.",
+    "C": "ampliação das normas de controle ambiental.",
+    "D": "flexibilização das regras de participação política.",
+    "E": "alteração da organização da paisagem geográfica."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto descreve a cidade em transformação constante: praças viram concreto, árvores são derrubadas, guindastes e betoneiras por toda parte, e os moradores perdem suas referências. É a <strong>alteração da organização da paisagem geográfica</strong>. Alternativa <strong>E</strong>.</p><p>O texto mostra o desaparecimento, não a manutenção, do convívio e do espaço público (A e B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "paisagem urbana",
+    "produção do espaço"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "Geografia",
+   "assunto": "Clima",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p class=\"apoio\">No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, ao longo dos tempos, presenciados na natureza, em especial para a previsão do tempo e do clima, utilizando como referência a posição dos astros, constelação e nuvens. Conforme os sertanejos, a estação vai ser chuvosa quando a primeira lua cheia de janeiro “sair vermelha, por detrás de uma barra de nuvens”, mas “se surgir prateada, é sinal de seca”.</p><p class=\"fonte\">MAIA, D.; MAIA, A. C. A utilização dos ditos populares e da observação do tempo para a climatologia escolar no ensino fundamental II. GeoTextos, n. 1, jul. 2010 (adaptado).</p><p>O texto expõe a produção de um conhecimento que se constitui pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "técnica científica.",
+    "B": "experiência perceptiva.",
+    "C": "negação das tradições.",
+    "D": "padronização das culturas.",
+    "E": "uniformização das informações."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O sertanejo prevê chuva ou seca observando a cor da lua cheia, as nuvens e os astros, conhecimento acumulado ao longo do tempo. É um saber construído pela <strong>experiência perceptiva</strong>. Alternativa <strong>B</strong>.</p><p>Não é técnica científica (A); o saber vem da tradição (contra C), e não há padronização (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "saberes tradicionais"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "Sociologia",
+   "assunto": "Cultura e política",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">ZÉ RAMALHO. <em>A peleja do diabo com o dono do céu</em>. Rio de Janeiro: Sony, 1979 (fragmento).</p><p>Qual comportamento coletivo é criticado no trecho da letra da canção lançada em 1979?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-humanas/q60.webp",
+     "alt": "Trecho da letra “Admirável gado novo”, de Zé Ramalho, como aparece na prova: os versos se dirigem à massa que passa nos projetos do futuro, que caminha muito e dá mais do que recebe, e comparam esse povo a gado marcado, chamado ironicamente de feliz."
+    }
+   ],
+   "alternativas": {
+    "A": "Militância política.",
+    "B": "Passividade social.",
+    "C": "Altruísmo religioso.",
+    "D": "Autocontrole moral.",
+    "E": "Inconformismo eleitoral."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A canção chama o povo de “massa” que “passa nos projetos do futuro”, que dá “muito mais do que recebe” e vive uma “vida de gado”, “povo marcado”, mas “feliz”. A crítica é à <strong>passividade social</strong>, à aceitação conformada da exploração. Alternativa <strong>B</strong>.</p><p>A letra critica a falta, e não o excesso, de militância e inconformismo (A e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Zé Ramalho",
+    "alienação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "Geografia",
+   "assunto": "Espaço urbano",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p class=\"apoio\">Desde 2009, a área portuária carioca vem sofrendo grandes transformações realizadas no escopo da operação urbana consorciada conhecida como Porto Maravilha. Parte importante na tentativa de tornar o Rio de Janeiro um polo de serviços internacional, a “revitalização” urbana deveria deixar para trás uma paisagem geográfica que ainda recordava a cidade do início do século passado para abrir espaço, em seu lugar, à instalação de modernas torres comerciais, espaços de consumo e lazer inéditos e cerca de cem mil novos moradores, uma nova configuração socioespacial capaz de alçar a área portuária do Rio de Janeiro ao patamar dos <em>waterfronts</em> de Baltimore, Barcelona e Buenos Aires.</p><p class=\"fonte\">LACERDA, L.; WERNECK, M.; RIBEIRO, B. Cortiços de hoje na cidade do amanhã. E-metropolis, n. 30, set. 2017.</p><p>As intervenções urbanas descritas derivam de um processo socioespacial que busca a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "intensificação da participação na competitividade global.",
+    "B": "contenção da especulação no mercado imobiliário.",
+    "C": "democratização da habitação popular.",
+    "D": "valorização das funções tradicionais.",
+    "E": "priorização da gestão participativa."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O Porto Maravilha quer transformar o Rio num polo internacional de serviços, com torres comerciais e áreas de consumo, como os <em>waterfronts</em> de Baltimore e Barcelona. A intervenção busca a <strong>intensificação da participação na competitividade global</strong>. Alternativa <strong>A</strong>.</p><p>A “revitalização” valoriza o solo (contra B), expulsa moradores pobres (contra C) e apaga as funções tradicionais (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Porto Maravilha",
+    "cidade global"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Geografia",
+   "assunto": "Industrialização",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p class=\"apoio\">Constatou-se uma ínfima inserção da indústria brasileira nas novas tecnologias ancoradas na microeletrônica, capazes de acarretar elevação da produtividade nacional de forma sustentada. Os motores do crescimento nacional, há décadas, são os grupos relacionados a <em>commodities</em> agroindustriais e à indústria representativa do antigo padrão fordista de produção, esta última também limitada pela baixa potencialidade futura de desencadear inovações tecnológicas capazes de proporcionar elevação sustentada da produtividade.</p><p class=\"fonte\">AREND, M. A industrialização do Brasil ante a nova divisão internacional do trabalho. Disponível em: www.ipea.gov.br. Acesso em: 16 jul. 2015 (adaptado).</p><p>Um efeito desse cenário para a sociedade brasileira tem sido o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "barateamento da cesta básica.",
+    "B": "retorno à estatização econômica.",
+    "C": "ampliação do poder de consumo.",
+    "D": "subordinação aos fluxos globais.",
+    "E": "incentivo à política de modernização."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A indústria brasileira quase não entrou nas tecnologias da microeletrônica e depende de commodities e de setores fordistas antigos. Sem inovar, o país fica dependente das tecnologias e decisões de fora: <strong>subordinação aos fluxos globais</strong>. Alternativa <strong>D</strong>.</p><p>O texto não fala de cesta básica (A), estatização (B), consumo (C) ou de política de modernização (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão internacional do trabalho",
+    "indústria"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "Geografia",
+   "assunto": "Conflitos territoriais",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p class=\"apoio\">As atividades mineradoras têm criado conflitos com extrativistas, quilombolas, pequenos agricultores, ribeirinhos, pescadores artesanais e povos indígenas. Em geral, estes sujeitos têm encontrado grande dificuldade de reproduzir suas dinâmicas territoriais depois da instalação da atividade mineradora, nem sempre com reconhecimento do impacto ao seu território pelo Estado e pela empresa, ficando sem qualquer tipo de compensação econômica. Em outros casos, nem a compensação econômica tem sido capaz de evitar o esgarçamento das relações sociais destes grupos que sofrem com a reconstrução abrupta das suas identidades e de suas dinâmicas territoriais.</p><p class=\"fonte\">PALHETA, J. M. et al. Conflitos pelo uso do território na Amazônia mineral. Mercator, n. 16, 2017.</p><p>O texto apresenta uma relação entre atividade econômica e organização social marcada pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "escassez de incentivo cultural.",
+    "B": "rompimento de vínculos locais.",
+    "C": "carência de investimento financeiro.",
+    "D": "estabelecimento de práticas agroecológicas.",
+    "E": "enriquecimento das comunidades autóctones."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A mineração na Amazônia impede que extrativistas, quilombolas, ribeirinhos e indígenas mantenham suas dinâmicas territoriais e provoca o “esgarçamento das relações sociais” desses grupos. A marca é o <strong>rompimento de vínculos locais</strong>. Alternativa <strong>B</strong>.</p><p>Os grupos são empobrecidos, não enriquecidos (E); o problema não é falta de investimento (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mineração",
+    "povos tradicionais"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "Filosofia",
+   "assunto": "Filosofia contemporânea",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p class=\"apoio\">Por maioria, nós não entendemos uma quantidade relativa maior, mas a determinação de um estado ou de um padrão em relação ao qual tanto as quantidades maiores quanto as menores serão ditas minoritárias. Maioria supõe um estado de dominação. É nesse sentido que as mulheres, as crianças e também os animais são minoritários.</p><p class=\"fonte\">DELEUZE, G.; GUATTARI, F. <em>Mil platôs</em>. São Paulo: Editora 34, 2012 (adaptado).</p><p>No texto, a caracterização de uma minoria decorre da existência de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ameaças de extinção social.",
+    "B": "políticas de incentivos estatais.",
+    "C": "relações de natureza arbitrária.",
+    "D": "valorações de conexões simétricas.",
+    "E": "hierarquizações de origem biológica."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para Deleuze e Guattari, maioria não é a quantidade maior, mas um padrão de dominação; mulheres e crianças são “minoritárias” por estarem fora desse padrão. A minoria decorre de <strong>relações de natureza arbitrária</strong>, de poder, e não numéricas. Alternativa <strong>C</strong>.</p><p>O critério não é biológico (E) nem estatal (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Deleuze",
+    "minorias"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "Filosofia",
+   "assunto": "Marxismo",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "<p class=\"apoio\">Ao mesmo tempo, graças às amplas possibilidades que tive de observar a classe média, vossa adversária, rapidamente concluí que vós tendes razão, inteira razão, em não esperar dela qualquer ajuda. Seus interesses são diametralmente opostos aos vossos, mesmo que ela procure incessantemente afirmar o contrário e vos queira persuadir que sente a maior simpatia por vossa sorte. Mas seus atos desmentem suas palavras.</p><p class=\"fonte\">ENGELS, F. A situação da classe trabalhadora na Inglaterra. São Paulo: Boitempo, 2010.</p><p>No texto, o autor apresenta delineamentos éticos que correspondem ao(s)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "conceito de luta de classes.",
+    "B": "alicerce da ideia de mais-valia.",
+    "C": "fundamentos do método científico.",
+    "D": "paradigmas do processo indagativo.",
+    "E": "domínios do fetichismo da mercadoria."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Engels diz aos trabalhadores que a classe média é sua “adversária”, com interesses “diametralmente opostos” aos deles, mesmo que finja simpatia. A orientação corresponde ao <strong>conceito de luta de classes</strong>. Alternativa <strong>A</strong>.</p><p>Mais-valia e fetichismo (B e E) são outros conceitos marxistas, não tratados no trecho.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Engels",
+    "luta de classes"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "Sociologia",
+   "assunto": "Violência e desigualdade",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p class=\"apoio\">Houve crescimento de 74% da população brasileira encarcerada entre 2005 e 2012. As análises possibilitaram identificar o perfil da população que está nas prisões do país: homens, jovens (abaixo de 29 anos), negros, com ensino fundamental incompleto, acusados de crimes patrimoniais e, no caso dos presos adultos, condenados e cumprindo regime fechado e, majoritariamente, com penas de quatro até oito anos.</p><p class=\"fonte\">BRASIL. Mapa do encarceramento: os jovens do Brasil. Brasília: Presidência da República, 2015.</p><p>Nesse contexto, as políticas públicas para minimizar a problemática descrita devem privilegiar a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "flexibilização do Código Civil.",
+    "B": "promoção da inclusão social.",
+    "C": "redução da maioridade penal.",
+    "D": "contenção da corrupção política.",
+    "E": "expansão do período de reclusão."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os presos são, em geral, homens jovens, negros, com ensino fundamental incompleto, acusados de crimes contra o patrimônio. O perfil aponta para exclusão social e falta de oportunidades; as políticas devem privilegiar a <strong>promoção da inclusão social</strong>. Alternativa <strong>B</strong>.</p><p>Reduzir a maioridade ou aumentar a reclusão (C e E) aumentaria o encarceramento, que já cresceu 74%.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "encarceramento",
+    "políticas públicas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "<p class=\"apoio\">Nem guerras, nem revoltas. Os incêndios eram o mais frequente tormento da vida urbana no <em>Regnum Italicum</em>. Entre 880 e 1080, as cidades estiveram constantemente entregues ao apetite das chamas. A certa altura, a documentação parece vencer pela insistência do vocabulário, levando até o leitor mais crítico a cogitar que os medievais tinham razão ao tratar aqueles acontecimentos como castigos que antecediam o julgamento final. Como um quinto cavaleiro apocalíptico, o incêndio agia ao feitio da peste ou da fome: vagando mundo afora, retornava de tempos em tempos e expurgava justos e pecadores num tormento derradeiro, como insistiam os textos do século X. O impacto acarretado sobre as relações sociais era imediato e prolongava-se para além da destruição material. As medidas proclamadas pelas autoridades faziam mais do que reparar os danos e reconstruir a paisagem: elas convertiam a devastação em uma ocasião para alterar e expandir não só a topografia urbana, mas as práticas sociais até então vigentes.</p><p class=\"fonte\">RUST, L. D. Uma calamidade insaciável. Rev. Bras. Hist., n. 72, maio-ago. 2016 (adaptado).</p><p>De acordo com o texto, a catástrofe descrita impactava as sociedades medievais por proporcionar a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "correção dos métodos preventivos e das regras sanitárias.",
+    "B": "revelação do descaso público e das degradações ambientais.",
+    "C": "transformação do imaginário popular e das crenças religiosas.",
+    "D": "remodelação dos sistemas políticos e das administrações locais.",
+    "E": "reconfiguração dos espaços ocupados e das dinâmicas comunitárias."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que o impacto dos incêndios “prolongava-se para além da destruição material” e que as autoridades, ao reconstruir, convertiam a devastação em mudança. A catástrofe levava à <strong>reconfiguração dos espaços ocupados e das dinâmicas comunitárias</strong>. Alternativa <strong>E</strong>.</p><p>O texto não fala de regras sanitárias (A), descaso (B) ou mudanças nas crenças (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cidades medievais",
+    "catástrofes"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "Sociologia",
+   "assunto": "Movimentos sociais",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p class=\"apoio\">O protagonismo indígena vem optando por uma estratégia de “des-invisibilização”, valendo-se da dinâmica das novas tecnologias. Em outubro de 2012, após receberem uma liminar lhes negando o direito a permanecer em suas terras, os Guarani de Pyelito Kue divulgaram uma carta na qual se dispunham a morrer, mas não a sair de suas terras. Esse fato foi amplamente divulgado, gerando uma grande mobilização na internet, que levou milhares de pessoas a escolherem seu lado, divulgando a <em>hashtag</em> “#somostodosGuarani-Kaiowá” ou acrescentando o sobrenome Guarani-Kaiowá a seus nomes nos perfis das principais redes sociais.</p><p class=\"fonte\">CAPIBERIBE, A.; BONILLA, O. A ocupação do Congresso: contra o que lutam os índios? Estudos Avançados, n. 83, 2015 (adaptado).</p><p>A estratégia comunicativa adotada pelos indígenas, no contexto em pauta, teve por efeito</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "enfraquecer as formas de militância política.",
+    "B": "abalar a identidade de povos tradicionais.",
+    "C": "inserir as comunidades no mercado global.",
+    "D": "distanciar os grupos de culturas locais.",
+    "E": "angariar o apoio de segmentos étnicos externos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os Guarani-Kaiowá divulgaram uma carta na internet, e milhares de pessoas aderiram à hashtag e ao sobrenome Guarani-Kaiowá nas redes. A estratégia conseguiu <strong>angariar o apoio de segmentos étnicos externos</strong> à causa indígena. Alternativa <strong>E</strong>.</p><p>A ação fortaleceu a militância e a identidade (contra A e B), sem objetivo comercial (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Guarani-Kaiowá",
+    "redes sociais"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p class=\"apoio\">O governo Vargas, principalmente durante o Estado Novo (1937-1945), pretendeu construir um Estado capaz de criar uma nova sociedade. Uma dimensão-chave desse projeto tinha no território seu foco principal. Não por acaso, foram criadas então instituições encarregadas de fornecer dados confiáveis para a ação do governo, como o Conselho Nacional de Geografia, o Conselho Nacional de Cartografia, o Conselho Nacional de Estatística e o Instituto Brasileiro de Geografia e Estatística (IBGE), este de 1938.</p><p class=\"fonte\">LIPPI, L. A conquista do Oeste. Disponível em: http://cpdoc.fgv.br. Acesso em: 7 nov. 2014 (adaptado).</p><p>A criação dessas instituições pelo governo Vargas representava uma estratégia política de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "levantar informações para a preservação da paisagem dos sertões.",
+    "B": "controlar o crescimento exponencial da população brasileira.",
+    "C": "obter conhecimento científico das diversidades regionais.",
+    "D": "conter o fluxo migratório do campo para a cidade.",
+    "E": "propor a criação de novas unidades da federação."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para construir um Estado forte e planejar a ocupação do território, o governo Vargas criou o IBGE e os conselhos de geografia, cartografia e estatística. A estratégia era <strong>obter conhecimento científico das diversidades regionais</strong> para orientar a ação do governo. Alternativa <strong>C</strong>.</p><p>O objetivo não era preservar a paisagem (A), controlar a população (B) ou conter migrações (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Estado Novo",
+    "IBGE"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "Geografia",
+   "assunto": "Povos indígenas",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p class=\"apoio\">Foram esses cientistas Xavante que esclareceram os mistérios da germinação de cada uma das sementes. Eles tinham o conhecimento para quebrar a dormência. O fogo era fundamental para muitas; para outras, o caminho para despertar passava pelo sistema digestivo dos animais silvestres. “Essa planta nasce depois que fazemos a caçada com fogo, diziam eles, esta outra quando a anta caga a semente, aquela precisa ser comida pelo lobo”. Aliando os conhecimentos dos cientistas da aldeia e da cidade, essa área do Cerrado foi recuperada totalmente.</p><p class=\"fonte\">PAPPIANI, A. Tecnologias indígenas: esplendor e captura. Disponível em: https://outraspalavras.net. Acesso em: 10 out. 2019 (adaptado).</p><p>No texto, a relação socioespacial dos indígenas evidencia a importância do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "prática agrícola para a logística nacional.",
+    "B": "cultivo de hortaliças para o consumo urbano.",
+    "C": "saber tradicional para a conservação ambiental.",
+    "D": "criação de gado para o aprimoramento genético.",
+    "E": "reflorestamento comercial para a produção orgânica."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os Xavante sabiam como quebrar a dormência de cada semente (pelo fogo ou pela digestão dos animais) e, unindo esse saber ao dos cientistas da cidade, a área do Cerrado foi recuperada. O texto mostra a importância do <strong>saber tradicional para a conservação ambiental</strong>. Alternativa <strong>C</strong>.</p><p>Não se fala de logística, hortaliças, gado ou produção comercial (A, B, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Xavante",
+    "recuperação do Cerrado"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "Geografia",
+   "assunto": "Geologia",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p class=\"apoio\">Desde os primórdios da formação da crosta terrestre até os dias de hoje, as rochas formadas vêm sendo continuamente destruídas. Os produtos resultantes da destruição das rochas são transportados pela água, vento e gelo a toda superfície terrestre, acionados pelo calor e pela gravidade. Cessada a energia transportadora, são depositados nas regiões mais baixas da crosta, podendo formar pacotes rochosos.</p><p class=\"fonte\">LEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989.</p><p>As transformações na superfície terrestre, conforme descritas no texto, compõem o seguinte processo geomorfológico:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ciclo sedimentar.",
+    "B": "Instabilidade sísmica.",
+    "C": "Intemperismo biológico.",
+    "D": "Derramamento basáltico.",
+    "E": "Compactação superficial."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto descreve rochas sendo destruídas, os fragmentos transportados por água, vento e gelo e depositados nas partes baixas, onde formam novos pacotes rochosos. É o <strong>ciclo sedimentar</strong>: intemperismo, erosão, transporte e deposição. Alternativa <strong>A</strong>.</p><p>Não há sismos (B), ação de seres vivos (C), lava (D) ou compactação apenas superficial (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rochas sedimentares",
+    "erosão"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 27,
+   "materia": "Geografia",
+   "assunto": "Planejamento urbano",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p class=\"apoio\">A participação social no planejamento e na gestão urbanos ganhou impulso a partir do Estatuto da Cidade (Lei n. 10.257/2001), que estabeleceu condições para elaboração de planos diretores participativos, instrumentos esses indutores da expansão urbana e do ordenamento territorial que, a princípio, devem buscar representar os interesses dos diversos segmentos da sociedade. No entanto, é notório o limite à representação dos interesses das camadas sociais menos favorecidas nesse processo. Este rumo deve ser corrigido e deve-se continuar buscando mecanismos de inclusão dos interesses de toda a sociedade.</p><p class=\"fonte\">Caderno Objetivos de Desenvolvimento Sustentável — ODS n. 11: tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis. Brasília: Ipea, 2019.</p><p>Qual medida promove a participação social descrita no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Redução dos impostos municipais.",
+    "B": "Privatização dos espaços públicos.",
+    "C": "Adensamento das áreas de comércio.",
+    "D": "Valorização dos condomínios fechados.",
+    "E": "Fortalecimento das associações de bairro."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que os planos diretores deveriam representar todos os segmentos da sociedade, mas as camadas menos favorecidas ficam de fora. Para incluí-las, é preciso fortalecer as formas de organização popular, como o <strong>fortalecimento das associações de bairro</strong>. Alternativa <strong>E</strong>.</p><p>As outras medidas favorecem grupos privados ou não envolvem participação (A a D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Estatuto da Cidade",
+    "participação social"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 28,
+   "materia": "História",
+   "assunto": "República Populista",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p class=\"apoio\">Quando Getúlio Vargas se suicidou, em agosto de 1954, o país parecia à beira do caos. Acuado por uma grave crise política, o velho líder preferiu uma bala no peito à humilhação de aceitar uma nova deposição, como a que sofrera em outubro de 1945. Entretanto, ao contrário do que imaginavam os inimigos, ao ruído do estampido não se seguiu o silêncio que cerca a derrota.</p><p class=\"fonte\">REIS FILHO, D. A. O Estado à sombra de Vargas. Revista Nossa História, n. 7, maio 2004.</p><p>O evento analisado no texto teve como repercussão imediata na política nacional a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reação popular.",
+    "B": "intervenção militar.",
+    "C": "abertura democrática.",
+    "D": "campanha anticomunista.",
+    "E": "radicalização oposicionista."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz que, ao contrário do que esperavam os inimigos, o suicídio de Vargas não foi seguido do “silêncio que cerca a derrota”. A comoção levou multidões às ruas, que atacaram jornais e sedes de opositores: a repercussão imediata foi a <strong>reação popular</strong>. Alternativa <strong>A</strong>.</p><p>A comoção adiou o golpe que a oposição tramava (contra B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Getúlio Vargas",
+    "suicídio de Vargas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "<p class=\"apoio\">Eu, Dom João, pela graça de Deus, faço saber a V. Mercê que me aprouve banir para essa cidade vários ciganos — homens, mulheres e crianças — devido ao seu escandaloso procedimento neste reino. Tiveram ordem de seguir em diversos navios destinados a esse porto, e, tendo eu proibido, por lei recente, o uso da sua língua habitual, ordeno a V. Mercê que cumpra essa lei sob ameaça de penalidades, não permitindo que ensinem dita língua a seus filhos, de maneira que daqui por diante o seu uso desapareça.</p><p class=\"fonte\">TEIXEIRA, R. C. História dos ciganos no Brasil. Recife: Núcleo de Estudos Ciganos, 2008.</p><p>A ordem emanada da Coroa portuguesa para sua colônia americana, em 1718, apresentava um tratamento da identidade cultural pautado em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "converter grupos infiéis à religião oficial.",
+    "B": "suprimir formas divergentes de interação social.",
+    "C": "evitar envolvimento estrangeiro na economia local.",
+    "D": "reprimir indivíduos engajados em revoltas nativistas.",
+    "E": "controlar manifestações artísticas de comunidades autóctones."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Dom João V bane ciganos para o Brasil e proíbe que usem e ensinem a seus filhos a própria língua, “de maneira que daqui por diante o seu uso desapareça”. A ordem queria <strong>suprimir formas divergentes de interação social</strong>, apagando a identidade cigana. Alternativa <strong>B</strong>.</p><p>O texto não fala de religião (A), economia (C), revoltas (D) ou arte (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciganos",
+    "assimilação forçada"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 30,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p class=\"apoio\">De um lado, ancorados pela prática médica europeia, por outro, pela terapêutica indígena, com seu amplo uso da flora nativa, os jesuítas foram os reais iniciadores do exercício de uma medicina híbrida que se tornou marca do Brasil colonial. Alguns religiosos vinham de Portugal já versados nas artes de curar, mas a maioria aprendeu na prática diária as funções que deveriam ser atribuídas a um físico, cirurgião, barbeiro ou boticário.</p><p class=\"fonte\">GURGEL, C. Doenças e curas: o Brasil nos primeiros séculos. São Paulo: Contexto, 2010 (adaptado).</p><p>Conforme o texto, o que caracteriza a construção da prática medicinal descrita é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "adoção de rituais místicos.",
+    "B": "rejeição dos dogmas cristãos.",
+    "C": "superação da tradição popular.",
+    "D": "imposição da farmacologia nativa.",
+    "E": "conjugação de saberes empíricos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os jesuítas juntaram a prática médica europeia à terapêutica indígena com plantas nativas, e a maioria aprendeu a curar na prática diária. A medicina colonial se construiu pela <strong>conjugação de saberes empíricos</strong>. Alternativa <strong>E</strong>.</p><p>Não houve rejeição dos dogmas (B) nem imposição de um só saber (D); a tradição popular foi incorporada (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "jesuítas",
+    "medicina colonial"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p class=\"apoio\">Desde o século XII que a cristandade ocidental era agitada pelo desafio lançado pela cultura profana — a dos romances de cavalaria, mas também a cultura folclórica dos camponeses e igualmente a dos citadinos, de caráter mais jurídico — à cultura eclesiástica, cujo veículo era o latim. Francisco de Assis veio alterar a situação, propondo aos seus ouvintes uma mensagem acessível a todos e, simultaneamente, enobrecendo a língua vulgar através do seu uso na religião.</p><p class=\"fonte\">VAUCHEZ, A. A espiritualidade da Idade Média Ocidental, séc. VIII-XIII. Lisboa: Estampa, 1995.</p><p>O comportamento desse religioso demonstra uma preocupação com as características assumidas pela Igreja e com as desigualdades sociais compartilhada no seu tempo pelos(as)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "senhores feudais.",
+    "B": "movimentos heréticos.",
+    "C": "integrantes das Cruzadas.",
+    "D": "corporações de ofícios.",
+    "E": "universidades medievais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Francisco de Assis falava às pessoas na língua do povo, com uma mensagem simples, numa Igreja rica e distante, de cultura em latim. A mesma crítica à riqueza da Igreja e às desigualdades aparecia nos <strong>movimentos heréticos</strong> da época, como valdenses e cátaros. Alternativa <strong>B</strong>.</p><p>Senhores feudais, cruzados, corporações e universidades (A, C, D e E) não tinham essa pauta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Francisco de Assis",
+    "heresias"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "História",
+   "assunto": "Independências",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p class=\"apoio\">Por que o Brasil continuou um só enquanto a América espanhola se dividiu em vários países?</p><p class=\"apoio\">Para o historiador brasileiro José Murilo de Carvalho, no Brasil, parte da sociedade era muito mais coesa ideologicamente do que a espanhola. Carvalho argumenta que isso se deveu à tradição burocrática portuguesa. “Portugal nunca permitiu a criação de universidades em sua colônia”. Por outro lado, na América espanhola, entre 1772 e 1872, 150 mil estudantes se formaram em universidades locais. Para o historiador mexicano Alfredo Ávila Rueda, as universidades na América espanhola eram, em sua maioria, reacionárias. Nesse sentido, o historiador mexicano diz acreditar que a livre circulação de impressos (jornais, livros e panfletos) na América espanhola, que não era permitida na América portuguesa (a proibição só foi revertida em 1808), teve função muito mais importante na construção de regionalismos do que propriamente as universidades.</p><p class=\"fonte\">BARRUCHO, L. Disponível em: www.bbc.com. Acesso em: 8 set. 2019 (adaptado).</p><p>Os pontos de vista dos historiadores referidos no texto são divergentes em relação ao</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "papel desempenhado pelas instituições de ensino na criação das múltiplas identidades.",
+    "B": "controle exercido pelos grupos de imprensa na centralização das esferas administrativas.",
+    "C": "abandono sofrido pelas comunidades de docentes na concepção de coletividades políticas.",
+    "D": "lugar ocupado pelas associações de acadêmicos no fortalecimento das agremiações estudantis.",
+    "E": "protagonismo assumido pelos meios de comunicação no desenvolvimento das nações alfabetizadas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Carvalho atribui a unidade do Brasil à falta de universidades na colônia, que formou uma elite coesa em Coimbra; Rueda diz que as universidades hispano-americanas eram reacionárias e que a imprensa livre pesou mais na formação de regionalismos. Eles divergem sobre o <strong>papel desempenhado pelas instituições de ensino na criação das múltiplas identidades</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "unidade territorial",
+    "independências"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "História",
+   "assunto": "Revolução Inglesa",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Macaulay enfatizou o glorioso acontecimento representado pela luta do Parlamento contra Carlos I em prol da liberdade política e religiosa do povo inglês; significou o primeiro confronto entre a liberdade e a tirania real, primeiro combate em favor do Iluminismo e do Liberalismo.</p><p class=\"fonte\">ARRUDA, J. J. A. Perspectivas da Revolução Inglesa. Rev. Bras. Hist., n. 7, 1984 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">A Revolução Inglesa, como todas as revoluções, foi causada pela ruptura da velha sociedade, e não pelos desejos da velha burguesia. Na década de 1640, camponeses se revoltaram contra os cercamentos, tecelões contra a miséria resultante da depressão e os crentes contra o Anticristo a fim de instalar o reino de Cristo na Terra.</p><p class=\"fonte\">HILL, C. Uma revolução burguesa? Rev. Bras. Hist., n. 7, 1984 (adaptado).</p><p>A concepção da Revolução Inglesa apresentada no Texto II diferencia-se da do Texto I ao destacar a existência de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pluralidade das demandas sociais.",
+    "B": "homogeneidade das lutas religiosas.",
+    "C": "unicidade das abordagens históricas.",
+    "D": "superficialidade dos interesses políticos.",
+    "E": "superioridade dos aspectos econômicos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto I vê a Revolução Inglesa como a luta do Parlamento pela liberdade política e religiosa, um só conflito entre liberdade e tirania. O texto II mostra camponeses contra cercamentos, tecelões contra a miséria e crentes à espera do reino de Cristo: a <strong>pluralidade das demandas sociais</strong>. Alternativa <strong>A</strong>.</p><p>O texto II mostra diversidade, não homogeneidade (B e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Revolução Inglesa",
+    "historiografia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 34,
+   "materia": "Geografia",
+   "assunto": "Indústria",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p class=\"apoio\">As grandes empresas seriam, certamente, representação de um exercício de poder, ante o grau de autonomia de ação de que dispõem. O que se pretende salientar é a ideia de enclave: plantas industriais que estabelecem relações escassas com o entorno, mas exercem grande influência na economia extralocal.</p><p class=\"fonte\">DAVIDOVICH, F. Estado do Rio de Janeiro: o urbano metropolitano. Hipóteses e questões. GeoUERJ, n. 21, 2010.</p><p>Que tipo de ação tomada por empresas reflete a forma de territorialização da produção industrial apresentada no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Criação de vilas operárias.",
+    "B": "Promoção de eventos comunitários.",
+    "C": "Recuperação de áreas degradadas.",
+    "D": "Incorporação de saberes tradicionais.",
+    "E": "Importação de mão de obra qualificada."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A ideia de enclave descreve fábricas com poucas relações com o entorno: não usam fornecedores nem trabalhadores locais, mas influem na economia de fora. Um exemplo é a <strong>importação de mão de obra qualificada</strong>, em vez de empregar a população local. Alternativa <strong>E</strong>.</p><p>Vilas operárias, eventos, recuperação de áreas e saberes locais (A a D) criam vínculos com o entorno.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "enclave",
+    "território"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "Sociologia",
+   "assunto": "Pensamento social brasileiro",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p class=\"apoio\">Numa sociedade em transição, a marcha da mudança, em diferentes graus, está impressa em todos os aspectos da ordem social, especialmente no jogo político, que nessas sociedades sempre apresenta padrões característicos de ambivalência, cujas raízes sociais se encontram na coexistência de dois padrões de estrutura social: o padrão tradicional, em declínio, e o novo, emergente, em expansão. Em tais situações, é possível encontrar, simultaneamente, apoio para uma orientação política ou para outra que seja exatamente o seu oposto. O padrão ambivalente do processo político, nas sociedades em desenvolvimento, é o que explica um dos seus traços mais salientes, e que consiste na tendência ao adiamento das grandes decisões. Resulta daí que a inércia política ou a convulsão política podem se suceder uma à outra em períodos surpreendentemente curtos.</p><p class=\"fonte\">PINTO, L. A. C. Sociologia e desenvolvimento. Rio de Janeiro: Civilização Brasileira, 1975 (adaptado).</p><p>De acordo com a perspectiva apresentada, central no pensamento social brasileiro dos anos 1950 e 1960, o desenvolvimento do país foi marcado por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "radicalidade nas agendas de reforma das elites dirigentes.",
+    "B": "anomalias na execução dos planos econômicos ortodoxos.",
+    "C": "descompassos na construção de quadros institucionais modernos.",
+    "D": "ilegitimidade na atuação dos movimentos de representação classista.",
+    "E": "vagarosidade na dinâmica de aperfeiçoamento dos programas partidários."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Costa Pinto descreve a sociedade em transição, em que o padrão tradicional em declínio convive com o novo em expansão, gerando ambivalência, adiamento de decisões e alternância entre inércia e convulsão. O desenvolvimento foi marcado por <strong>descompassos na construção de quadros institucionais modernos</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Costa Pinto",
+    "modernização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "História",
+   "assunto": "Educação",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Manifesto dos Pioneiros da Educação Nova — 1932</strong></p><p class=\"apoio\">A Educação Nova, alargando a sua finalidade para além dos limites das classes, assume, com uma feição mais humana, a sua verdadeira função social, preparando-se para formar “a hierarquia democrática” pela “hierarquia das capacidades”, recrutadas em todos os grupos sociais, a que se abrem as mesmas oportunidades de educação. Ela tem, por objeto, organizar e desenvolver os meios de ação durável com o fim de “dirigir os desenvolvimentos natural e integral do ser humano em cada uma das etapas de seu crescimento”, de acordo com uma certa concepção do mundo.</p><p class=\"fonte\">Disponível em: www.histedbr.fe.unicamp.br. Acesso em: 7 out. 2015.</p><p>Os autores do manifesto citado procuravam contrapor-se ao caráter oligárquico da sociedade brasileira. Nesse sentido, o trecho propõe uma relação necessária entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ensino técnico e mercado de trabalho.",
+    "B": "acesso à escola e valorização do mérito.",
+    "C": "ampliação de vagas e formação de gestores.",
+    "D": "disponibilidade de financiamento e pesquisa avançada.",
+    "E": "remuneração de professores e extinção do analfabetismo."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O Manifesto defende que a escola, aberta a todos os grupos sociais, forme a “hierarquia democrática” pela “hierarquia das capacidades”, contra a sociedade oligárquica. Liga o <strong>acesso à escola e a valorização do mérito</strong>. Alternativa <strong>B</strong>.</p><p>O trecho não fala de ensino técnico (A), gestores (C), pesquisa (D) ou salários (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Escola Nova",
+    "educação pública"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p class=\"apoio\">Sócrates: “Quem não sabe o que uma coisa é, como poderia saber de que tipo de coisa ela é? Ou te parece ser possível alguém que não conhece absolutamente quem é Mênon, esse alguém saber se ele é belo, se é rico e ainda se é nobre? Parece-te ser isso possível? Assim, Mênon, que coisa afirmas ser a virtude?”.</p><p class=\"fonte\">PLATÃO. <em>Mênon</em>. Rio de Janeiro: PUC-Rio; São Paulo: Loyola, 2001 (adaptado).</p><p>A atitude apresentada na interlocução do filósofo com Mênon é um exemplo da utilização do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "escrita epistolar.",
+    "B": "método dialético.",
+    "C": "linguagem trágica.",
+    "D": "explicação fisicalista.",
+    "E": "suspensão judicativa."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Sócrates pergunta a Mênon o que é a virtude antes de discutir se ela pode ser ensinada, examinando definições por perguntas e respostas. É o <strong>método dialético</strong> socrático. Alternativa <strong>B</strong>.</p><p>O diálogo não é carta (A), tragédia (C), física (D) ou suspensão do juízo cética (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Sócrates",
+    "dialética"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 38,
+   "materia": "História",
+   "assunto": "África",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p class=\"apoio\">No seio de diversos povos africanos, nomeadamente no antigo Reino do Congo, existem testemunhos gráficos de que a escrita tomava várias formas. Exemplo disso são as tampas de panela esculpidas em baixo-relevo do povo Woyo (região de Cabinda), com cenas e provérbios do cotidiano, desenhos na terra ou areia, imagens gravadas ou inscritas nos bastões de chefe ou em pedras sagradas, mas, sobretudo, movimentos do corpo humano inscritos num gestual familiar. Entre os Woyo existia o costume de os pais oferecerem aos filhos testos ou tampas de panelas entalhados, transmitindo uma espécie de recado, com signos codificados que traduziam orientações para conseguir uma boa relação conjugal, ter sensatez na escolha do cônjuge e estar alerta para as dificuldades do casamento.</p><p class=\"fonte\">RODRIGUES, M. R. A. M.; TAVARES, A. C. P. Singularidades museológicas de uma tábua com esculturas em diálogo: do alambamento ao casamento em Cabinda (Angola). Anais do Museu Paulista, n. 2, maio-ago. 2017 (adaptado).</p><p>Para o povo Woyo, os artefatos culturais mencionados no texto cumprem a função de uma</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pedagogia dos costumes sociais.",
+    "B": "imposição das formas de comunicação.",
+    "C": "desvalorização dos comportamentos da juventude.",
+    "D": "destituição dos valores do matrimônio.",
+    "E": "etnografia das celebrações religiosas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os pais Woyo davam aos filhos tampas de panela entalhadas com recados codificados sobre a boa relação conjugal e a escolha do cônjuge. Esses objetos funcionavam como uma <strong>pedagogia dos costumes sociais</strong>. Alternativa <strong>A</strong>.</p><p>Os artefatos valorizam o casamento (contra D) e não são imposição (B), nem desvalorização da juventude (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Woyo",
+    "escrita africana"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "História",
+   "assunto": "Povos indígenas",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p class=\"apoio\">O torém dependia de organização familiar, sendo brincado por pessoas com vínculos de parentesco e afinidade que viviam no local. Era visto como uma brincadeira, um entretenimento feito para os próprios participantes e seus conhecidos. O tempo do caju era o pretexto para sua realização, sendo chamadas várias pessoas da região a fim de tomar mocororó, bebida fermentada do caju.</p><p class=\"fonte\">VALLE, C. G. O. Torém/Toré: tradições e invenção no quadro de multiplicidade étnica do Ceará contemporâneo. In: GRÜNEWALD, R. A. (Org.). Toré: regime encantado dos índios do Nordeste. Recife: Fundaj-Massangana, 2005.</p><p>O ritual mencionado no texto atribui à manifestação cultural de grupos indígenas do Nordeste brasileiro a função de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "celebrar a história oficial.",
+    "B": "estimular a coesão social.",
+    "C": "superar a atividade artesanal.",
+    "D": "manipular a memória individual.",
+    "E": "modernizar o comércio tradicional."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O torém era brincado por parentes e vizinhos, no tempo do caju, com o mocororó, e chamava pessoas da região. A manifestação tinha a função de <strong>estimular a coesão social</strong> do grupo. Alternativa <strong>B</strong>.</p><p>O ritual não celebra a história oficial (A) nem trata de artesanato ou comércio (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "torém",
+    "cultura indígena"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "História",
+   "assunto": "Escravidão",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Escravo fugido. Jornal Correio Paulistano, 13 de abril de 1879. Disponível em: http://bndigital.bn.gov.br. Acesso em: 2 ago. 2019 (adaptado).</p><p>No anúncio publicado na segunda metade do século XIX, qual a estratégia de resistência escrava apresentada?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-humanas/q85.webp",
+     "alt": "Anúncio de jornal “Escravo fugido”: “No dia 8 de Outubro do anno proximo passado fugio da fazenda do Bom Retiro, propriedade do dr. Francisco Antonio de Araújo, o escravo José, pardo claro, de 22 annos de idade, estatura regular, cheio de corpo, com a falta de um dente na frente do lado superior, cabellos avermelhados, orelha roxa, falla macia, e andar vagaroso. Intitula-se forro, e quando fugio a primeira vez esteve contratado como camarada em uma fazenda em Capivary. Quem o aprehender e entregar ao seu senhor no Amparo, ou o recolher a cadêa em qualquer parte será bem gratificado, e protesta-se com todo o rigor da lei contra quem o ac outar.”"
+    }
+   ],
+   "alternativas": {
+    "A": "Criação de relações de trabalho.",
+    "B": "Fundação de territórios quilombolas.",
+    "C": "Suavização da aplicação de normas.",
+    "D": "Regularização das funções remuneradas.",
+    "E": "Constituição de economia de subsistência."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O anúncio diz que o escravo José, quando fugiu da primeira vez, “esteve contratado como camarada em uma fazenda em Capivary”, apresentando-se como forro. A estratégia de resistência foi a <strong>criação de relações de trabalho</strong> como homem livre. Alternativa <strong>A</strong>.</p><p>O anúncio não fala de quilombo (B) nem de economia de subsistência (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "resistência escrava",
+    "anúncios de fuga"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Filosofia",
+   "assunto": "Filosofia moderna",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p class=\"apoio\">A filosofia é como uma árvore, cujas raízes são a metafísica; o tronco, a física, e os ramos que saem do tronco são todas as outras ciências, que se reduzem a três principais: a medicina, a mecânica e a moral, entendendo por moral a mais elevada e a mais perfeita porque pressupõe um saber integral das outras ciências, e é o último grau da sabedoria.</p><p class=\"fonte\">DESCARTES, R. <em>Princípios da filosofia</em>. Lisboa: Edições 70, 1997 (adaptado).</p><p>Essa construção alegórica de Descartes, acerca da condição epistemológica da filosofia, tem como objetivo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "sustentar a unidade essencial do conhecimento.",
+    "B": "refutar o elemento fundamental das crenças.",
+    "C": "impulsionar o pensamento especulativo.",
+    "D": "recepcionar o método experimental.",
+    "E": "incentivar a suspensão dos juízos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na árvore de Descartes, a metafísica é a raiz, a física o tronco e as outras ciências os ramos: todas saem de um mesmo fundamento. A alegoria quer <strong>sustentar a unidade essencial do conhecimento</strong>. Alternativa <strong>A</strong>.</p><p>Descartes não refuta crenças (B), não defende o método experimental (D) nem a suspensão dos juízos (E) nesse trecho.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Descartes",
+    "árvore do saber"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 42,
+   "materia": "Filosofia",
+   "assunto": "Filosofia contemporânea",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "<p class=\"apoio\">Minha fórmula para o que há de grande no indivíduo é <em>amor fati</em>: nada desejar além daquilo que é, nem diante de si, nem atrás de si, nem nos séculos dos séculos. Não se contentar em suportar o inelutável, e ainda menos dissimulá-lo, mas amá-lo.</p><p class=\"fonte\">NIETZSCHE apud FERRY, L. Aprender a viver: filosofia para os novos tempos. Rio de Janeiro: Objetiva, 2010 (adaptado).</p><p>Essa fórmula indicada por Nietzsche consiste em uma crítica à tradição cristã que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "combate as práticas sociais de cunho afetivo.",
+    "B": "impede o avanço científico no contexto moderno.",
+    "C": "associa os cultos pagãos à sacralização da natureza.",
+    "D": "condena os modelos filosóficos da Antiguidade Clássica.",
+    "E": "consagra a realização humana ao campo transcendental."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O <em>amor fati</em> de Nietzsche é amar a vida como ela é, sem desejar nada além dela. A crítica é ao cristianismo, que <strong>consagra a realização humana ao campo transcendental</strong>, ao além, desvalorizando a vida terrena. Alternativa <strong>E</strong>.</p><p>A crítica não é sobre afeto (A), ciência (B), paganismo (C) ou filosofia antiga (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Nietzsche",
+    "amor fati"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 43,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p class=\"apoio\">É preciso usar de violência e rebater varonilmente os apetites dos sentidos sem atender ao que a carne quer ou não quer, mas trabalhando por sujeitá-la ao espírito, ainda que se revolte. Cumpre castigá-la e curvá-la à sujeição, a tal ponto que esteja disposta para tudo, sabendo contentar-se com pouco e deleitar-se com a simplicidade, sem resmungar por qualquer incômodo.</p><p class=\"fonte\">KEMPIS, T. <em>Imitação de Cristo</em>. Petrópolis: Vozes, 2015.</p><p>Qual característica do ascetismo medieval é destacada no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Exaltação do ritualismo litúrgico.",
+    "B": "Afirmação do pensamento racional.",
+    "C": "Desqualificação da atividade laboral.",
+    "D": "Condenação da alimentação impura.",
+    "E": "Desvalorização da materialidade corpórea."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto pede para “castigar” e “curvar” a carne, sujeitando-a ao espírito, e contentar-se com pouco. O ascetismo medieval destaca a <strong>desvalorização da materialidade corpórea</strong>. Alternativa <strong>E</strong>.</p><p>O texto não fala de liturgia (A), razão (B), trabalho (C) ou alimentos impuros (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ascetismo",
+    "Imitação de Cristo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "Geografia",
+   "assunto": "Cartografia e astronomia",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: www.cdcc.usp.br. Acesso em: 27 jul. 2010 (adaptado).</p><p>Considerando as informações apresentadas, o prédio do Congresso Nacional, em Brasília, no dia 21 de junho, às 12 horas, projetará sua sombra para a direção</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-humanas/q89.webp",
+     "alt": "Esquema “Movimento de translação da Terra”: a órbita em torno do Sol com a Terra em quatro posições — equinócio em 21 de março, solstício em 21 de dezembro, equinócio em 23 de setembro e solstício em 21 de junho —, com o eixo sempre inclinado."
+    }
+   ],
+   "alternativas": {
+    "A": "norte.",
+    "B": "sul.",
+    "C": "leste.",
+    "D": "oeste.",
+    "E": "nordeste."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em 21 de junho é o solstício de inverno no hemisfério sul: ao meio-dia, o Sol está a pino no Trópico de Câncer, ao norte de Brasília. A luz vem do norte, e a sombra do prédio aponta para o <strong>sul</strong>. Alternativa <strong>B</strong>.</p><p>Leste e oeste (C e D) seriam as sombras de manhã e à tarde, não ao meio-dia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "solstício",
+    "sombra"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p>[[fig:1]]<p class=\"fonte\">EIGENHEER, E. M. <em>Lixo</em>: a limpeza urbana através dos tempos. Porto Alegre: Gráfica Palloti, 2009.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">A repugnante tarefa de carregar lixo e os dejetos da casa para as praças e praias era geralmente destinada ao único escravo da família ou ao de menor status ou valor. Todas as noites, depois das dez horas, os escravos conhecidos popularmente como “tigres” levavam tubos ou barris de excremento e lixo sobre a cabeça pelas ruas do Rio.</p><p class=\"fonte\">KARASCH, M. C. <em>A vida dos escravos no Rio de Janeiro, 1808-1850</em>. Rio de Janeiro: Cia. das Letras, 2000.</p><p>A ação representada na imagem e descrita no texto evidencia uma prática do cotidiano nas cidades no Brasil nos séculos XVIII e XIX caracterizada pela</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-humanas/q90.webp",
+     "alt": "Gravura de uma rua do Rio de Janeiro: homens escravizados carregam barris de madeira na cabeça, enquanto um homem de cartola e bengala passa ao lado."
+    }
+   ],
+   "alternativas": {
+    "A": "valorização do trabalho braçal.",
+    "B": "reiteração das hierarquias sociais.",
+    "C": "sacralização das atividades laborais.",
+    "D": "superação das exclusões econômicas.",
+    "E": "ressignificação das heranças religiosas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A gravura mostra escravizados carregando barris na cabeça, e o texto diz que os “tigres” levavam o lixo e os dejetos das casas, tarefa repugnante dada ao escravo de menor valor. A prática evidencia a <strong>reiteração das hierarquias sociais</strong>. Alternativa <strong>B</strong>.</p><p>O trabalho braçal era desprezado, não valorizado (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escravidão urbana",
+    "tigres"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

@@ -1,0 +1,1174 @@
+{
+ "id": "enem-2010-humanas",
+ "banca": "Enem",
+ "ano": 2010,
+ "titulo": "Enem 2010: Ciências Humanas",
+ "fonte": "Inep",
+ "dataExame": "2010-11-06",
+ "duracaoMinutos": 135,
+ "area": "Ciências Humanas",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Geografia",
+   "assunto": "Questão agrária",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Fonte: Incra, Estatísticas cadastrais 1998.</p><p>O gráfico representa a relação entre o tamanho e a totalidade dos imóveis rurais no Brasil. Que característica da estrutura fundiária brasileira está evidenciada no gráfico apresentado?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-humanas/q01.webp",
+     "alt": "Gráfico de setores da área dos imóveis rurais por tamanho: acima de 1 000 ha, 53%; de 100 a 1 000 ha, 30,5%; de 10 a 100 ha, 15,2%; até 10 ha, 1,3%."
+    }
+   ],
+   "alternativas": {
+    "A": "A concentração de terras nas mãos de poucos.",
+    "B": "A existência de poucas terras agricultáveis.",
+    "C": "O domínio territorial dos minifúndios.",
+    "D": "A primazia da agricultura familiar.",
+    "E": "A debilidade dos plantations modernos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O gráfico mostra que os imóveis com mais de 1 000 ha ocupam 53% da área rural, e os de até 10 ha, apenas 1,3%. Poucos imóveis muito grandes concentram a maior parte das terras: é <strong>a concentração de terras nas mãos de poucos</strong>. Alternativa <strong>A</strong>.</p><p>Os minifúndios (C) ocupam a menor parte da área, e o gráfico não fala de terras agricultáveis (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estrutura fundiária",
+    "latifúndio"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p class=\"apoio\">Antes, eram apenas as grandes cidades que se apresentavam como o império da técnica, objeto de modificações, suspensões, acréscimos, cada vez mais sofisticadas e carregadas de artifício. Esse mundo artificial inclui, hoje, o mundo rural.</p><p class=\"fonte\">SANTOS, M. <em>A Natureza do Espaço</em>. São Paulo: Hucitec, 1996.</p><p>Considerando a transformação mencionada no texto, uma consequência socioespacial que caracteriza o atual mundo rural brasileiro é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a redução do processo de concentração de terras.",
+    "B": "o aumento do aproveitamento de solos menos férteis.",
+    "C": "a ampliação do isolamento do espaço rural.",
+    "D": "a estagnação da fronteira agrícola do país.",
+    "E": "a diminuição do nível de emprego formal."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Milton Santos diz que o campo também se tornou um “mundo artificial”, cheio de técnica. Com adubos, corretivos, irrigação e máquinas, é possível produzir em solos antes pouco aproveitados, como os do Cerrado. A consequência é <strong>o aumento do aproveitamento de solos menos férteis</strong>. Alternativa <strong>B</strong>.</p><p>A modernização não reduziu a concentração de terras (A) nem estagnou a fronteira agrícola (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "meio técnico-científico",
+    "modernização do campo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"apoio\">A maioria das pessoas daqui era do campo. Vila Maria é hoje exportadora de trabalhadores. Empresários de Primavera do Leste, Estado de Mato Grosso, procuram o bairro de Vila Maria para conseguir mão de obra. É gente indo distante daqui 300, 400 quilômetros para ir trabalhar, para ganhar sete conto por dia. (Carlito, 43 anos, maranhense, entrevistado em 22/03/98).</p><p class=\"fonte\">Ribeiro, H. S. <em>O migrante e a cidade: dilemas e conflitos</em>. Araraquara: Wunderlich, 2001(adaptado).</p><p>O texto retrata um fenômeno vivenciado pela agricultura brasileira nas últimas décadas do século XX, consequência</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dos impactos sociais da modernização da agricultura.",
+    "B": "da recomposição dos salários do trabalhador rural.",
+    "C": "da exigência de qualificação do trabalhador rural.",
+    "D": "da diminuição da importância da agricultura.",
+    "E": "dos processos de desvalorização de áreas rurais."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Com a mecanização, o trabalhador rural perdeu o emprego fixo, foi para a cidade e passou a ser contratado como diarista (o boia-fria), viajando centenas de quilômetros por baixos salários. É uma consequência <strong>dos impactos sociais da modernização da agricultura</strong>. Alternativa <strong>A</strong>.</p><p>“Sete conto por dia” mostra salário baixo, e não recomposição salarial (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "boia-fria",
+    "êxodo rural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "Geografia",
+   "assunto": "Questão ambiental",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"apoio\">Os lixões são o pior tipo de disposição final dos resíduos sólidos de uma cidade, representando um grave problema ambiental e de saúde pública. Nesses locais, o lixo é jogado diretamente no solo e a céu aberto, sem nenhuma norma de controle, o que causa, entre outros problemas, a contaminação do solo e das águas pelo chorume (líquido escuro com alta carga poluidora, proveniente da decomposição da matéria orgânica presente no lixo).</p><p class=\"fonte\">RICARDO, B.; CANPANILLI, M. <em>Almanaque Brasil Socioambiental 2008</em>. São Paulo, Instituto Socioambiental, 2007.</p><p>Considere um município que deposita os resíduos sólidos produzidos por sua população em um lixão. Esse procedimento é considerado um problema de saúde pública porque os lixões</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "causam problemas respiratórios, devido ao mau cheiro que provém da decomposição.",
+    "B": "são locais propícios a proliferação de vetores de doenças, além de contaminarem o solo e as águas.",
+    "C": "provocam o fenômeno da chuva ácida, devido aos gases oriundos da decomposição da matéria orgânica.",
+    "D": "são instalados próximos ao centro das cidades, afetando toda a população que circula diariamente na área.",
+    "E": "são responsáveis pelo desaparecimento das nascentes na região onde são instalados, o que leva à escassez de água."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O lixo a céu aberto atrai ratos, baratas, moscas e mosquitos, que transmitem doenças, e o chorume contamina o solo e as águas. Os lixões são problema de saúde pública porque <strong>são locais propícios à proliferação de vetores de doenças, além de contaminarem o solo e as águas</strong>. Alternativa <strong>B</strong>.</p><p>A chuva ácida (C) vem de gases como óxidos de enxofre e nitrogênio, e não da decomposição do lixo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lixões",
+    "chorume"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "Geografia",
+   "assunto": "Solos",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Figura para as questões 5 e 6</strong></p>[[fig:1]]<p class=\"fonte\">TEIXEIRA, W. et al. (Orgs.). <em>Decifrando a Terra</em>. São Paulo: Companhia Editora Nacional, 2009.</p><p>O esquema representa um processo de erosão em encosta. Que prática realizada por um agricultor pode resultar em aceleração desse processo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-humanas/q05.webp",
+     "alt": "Esquema de uma encosta com vegetação no alto e solo exposto embaixo, cortado por sulcos ou ravinas que descem até uma boçoroca; na base, o nível d’água e uma zona temporariamente encharcada."
+    }
+   ],
+   "alternativas": {
+    "A": "Plantio direto.",
+    "B": "Associação de culturas.",
+    "C": "Implantação de curvas de nível.",
+    "D": "Aração do solo, do topo ao vale.",
+    "E": "Terraceamento na propriedade."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Arar o solo do topo ao vale cria sulcos no sentido da descida, por onde a água da chuva escorre com força, levando o solo. Isso acelera a erosão: é a <strong>aração do solo, do topo ao vale</strong>. Alternativa <strong>D</strong>.</p><p>Plantio direto, curvas de nível e terraceamento (A, C e E) são técnicas que reduzem a erosão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "erosão",
+    "conservação do solo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "Geografia",
+   "assunto": "Solos",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Figura para as questões 5 e 6</strong></p>[[fig:1]]<p class=\"fonte\">TEIXEIRA, W. et al. (Orgs.). <em>Decifrando a Terra</em>. São Paulo: Companhia Editora Nacional, 2009.</p><p>Muitos processos erosivos se concentram nas encostas, principalmente aqueles motivados pela água e pelo vento. No entanto, os reflexos também são sentidos nas áreas de baixada, onde geralmente há ocupação urbana. Um exemplo desses reflexos na vida cotidiana de muitas cidades brasileiras é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-humanas/q05.webp",
+     "alt": "Esquema de uma encosta com vegetação no alto e solo exposto embaixo, cortado por sulcos ou ravinas que descem até uma boçoroca; na base, o nível d’água e uma zona temporariamente encharcada."
+    }
+   ],
+   "alternativas": {
+    "A": "a maior ocorrência de enchentes, já que os rios assoreados comportam menos água em seus leitos.",
+    "B": "a contaminação da população pelos sedimentos trazidos pelo rio e carregados de matéria orgânica.",
+    "C": "o desgaste do solo nas áreas urbanas, causado pela redução do escoamento superficial pluvial na encosta.",
+    "D": "a maior facilidade de captação de água potável para o abastecimento público, já que é maior o efeito do escoamento sobre a infiltração.",
+    "E": "o aumento da incidência de doenças como a amebíase na população urbana, em decorrência do escoamento de água poluída do topo das encostas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O solo erodido nas encostas desce com a água e se deposita no fundo dos rios das baixadas. Os rios ficam mais rasos (assoreados) e transbordam com mais facilidade. O reflexo nas cidades é <strong>a maior ocorrência de enchentes, já que os rios assoreados comportam menos água em seus leitos</strong>. Alternativa <strong>A</strong>.</p><p>Com a erosão, o escoamento superficial aumenta, e não diminui (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "assoreamento",
+    "enchentes"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "Geografia",
+   "assunto": "Cartografia",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p class=\"apoio\">Pensando nas correntes e prestes a entrar no braço que deriva da Corrente do Golfo para o norte, lembrei-me de um vidro de café solúvel vazio. Coloquei no vidro uma nota cheia de zeros, uma bola cor rosa-choque. Anotei a posição e data: Latitude 49º49’ N, Longitude 23º49’ W. Tampei e joguei na água. Nunca imaginei que receberia uma carta com a foto de um menino norueguês, segurando a bolinha e a estranha nota.</p><p class=\"fonte\">KLINK, A. <em>Parati: entre dois pólos</em>. São Paulo: Companhia das Letras, 1998 (adaptado).</p><p>No texto, o autor anota sua coordenada geográfica, que é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a relação que se estabelece entre as distâncias representadas no mapa e as distâncias reais da superfície cartografada.",
+    "B": "o registro de que os paralelos são verticais e convergem para os polos, e os meridianos são círculos imaginários, horizontais e equidistantes.",
+    "C": "a informação de um conjunto de linhas imaginárias que permitem localizar um ponto ou acidente geográfico na superfície terrestre.",
+    "D": "a latitude como distância em graus entre um ponto e o Meridiano de Greenwich, e a longitude como a distância em graus entre um ponto e o Equador.",
+    "E": "a forma de projeção cartográfica, usado para navegação, onde os meridianos e paralelos distorcem a superfície do planeta."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A latitude (49º49’ N) e a longitude (23º49’ W) são as coordenadas geográficas: um sistema de linhas imaginárias, os paralelos e os meridianos, que permite localizar qualquer ponto da Terra. Coordenada geográfica é <strong>a informação de um conjunto de linhas imaginárias que permitem localizar um ponto ou acidente geográfico na superfície terrestre</strong>. Alternativa <strong>C</strong>.</p><p>A opção D troca as definições de latitude e longitude.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coordenadas geográficas",
+    "latitude e longitude"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "Geografia",
+   "assunto": "Geologia",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">TEIXEIRA, W. et. al. (Orgs.) <em>Decifrando a Terra</em>. São Paulo: Companhia Editora Nacional, 2009 (adaptado).</p><p>O esquema mostra depósitos em que aparecem fósseis de animais do Período Jurássico. As rochas em que se encontram esses fósseis são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-humanas/q08.webp",
+     "alt": "Esquema de dois morros com camadas de rocha sobrepostas, cortadas por um vale; nas camadas aparecem fósseis de animais, como ossos, conchas e esqueletos."
+    }
+   ],
+   "alternativas": {
+    "A": "magmáticas, pois a ação de vulcões causou as maiores extinções desses animais já conhecidas ao longo da história terrestre.",
+    "B": "sedimentares, pois os restos podem ter sido soterrados e litificados com o restante dos sedimentos.",
+    "C": "magmáticas, pois são as rochas mais facilmente erodidas, possibilitando a formação de tocas que foram posteriormente lacradas.",
+    "D": "sedimentares, já que cada uma das camadas encontradas na figura simboliza um evento de erosão dessa área representada.",
+    "E": "metamórficas, pois os animais representados precisavam estar perto de locais quentes."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Fósseis se preservam em rochas sedimentares: os restos dos animais são cobertos por sedimentos, que se compactam e endurecem (litificação). O esquema mostra camadas sobrepostas, típicas dessas rochas. As rochas são <strong>sedimentares, pois os restos podem ter sido soterrados e litificados com o restante dos sedimentos</strong>. Alternativa <strong>B</strong>.</p><p>Cada camada representa deposição, e não erosão (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rochas sedimentares",
+    "fósseis"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p class=\"apoio\">O G-20 é o grupo que reúne os países do G-7, os mais industrializados do mundo (EUA, Japão, Alemanha, França, Reino Unido, Itália e Canadá), a União Europeia e os principais emergentes (Brasil, Rússia, Índia, China, África do Sul, Arábia Saudita, Argentina, Austrália, Coreia do Sul, Indonésia, México e Turquia). Esse grupo de países vem ganhando força nos fóruns internacionais de decisão e consulta.</p><p class=\"fonte\">ALLAN, R. Crise global. Disponível em: http://conteudoclippingmp.planejamento.gov.br. Acesso em: 31 jul.2010.</p><p>Entre os países emergentes que formam o G-20, estão os chamados BRIC (Brasil, Rússia, Índia e China), termo criado em 2001 para referir-se aos países que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "apresentam características econômicas promissoras para as próximas décadas.",
+    "B": "possuem base tecnológica mais elevada.",
+    "C": "apresentam índices de igualdade social e econômica mais acentuados.",
+    "D": "apresentam diversidade ambiental suficiente para impulsionar a economia global.",
+    "E": "possuem similaridades culturais capazes de alavancar a economia mundial."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A sigla BRIC foi criada em 2001 por um economista do banco Goldman Sachs para indicar os países emergentes com grande potencial de crescimento: grandes territórios, populações e mercados. Eles <strong>apresentam características econômicas promissoras para as próximas décadas</strong>. Alternativa <strong>A</strong>.</p><p>Esses países têm grande desigualdade social (C) e culturas muito diferentes (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "BRIC",
+    "G-20"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 10,
+   "materia": "História",
+   "assunto": "Revolução Industrial",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p class=\"apoio\">A Inglaterra pedia lucros e recebia lucros. Tudo se transformava em lucro. As cidades tinham sua sujeira lucrativa, suas favelas lucrativas, sua fumaça lucrativa, sua desordem lucrativa, sua ignorância lucrativa, seu desespero lucrativo. As novas fábricas e os novos altos-fornos eram como as Pirâmides, mostrando mais a escravização do homem que seu poder.</p><p class=\"fonte\">DEANE, P. <em>A Revolução Industrial</em>. Rio de Janeiro: Zahar, 1979 (adaptado).</p><p>Qual relação é estabelecida no texto entre os avanços tecnológicos ocorridos no contexto da Revolução Industrial Inglesa e as características das cidades industriais no início do século XIX?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A facilidade em se estabelecer relações lucrativas transformava as cidades em espaços privilegiados para a livre iniciativa, característica da nova sociedade capitalista.",
+    "B": "O desenvolvimento de métodos de planejamento urbano aumentava a eficiência do trabalho industrial.",
+    "C": "A construção de núcleos urbanos integrados por meios de transporte facilitava o deslocamento dos trabalhadores das periferias até as fábricas.",
+    "D": "A grandiosidade dos prédios onde se localizavam as fábricas revelava os avanços da engenharia e da arquitetura do período, transformando as cidades em locais de experimentação estética e artística.",
+    "E": "O alto nível de exploração dos trabalhadores industriais ocasionava o surgimento de aglomerados urbanos marcados por péssimas condições de moradia, saúde e higiene."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que tudo virava lucro, até a sujeira, as favelas e a miséria, e compara as fábricas às pirâmides, que mostram “mais a escravização do homem que seu poder”. A relação é que <strong>o alto nível de exploração dos trabalhadores industriais ocasionava o surgimento de aglomerados urbanos marcados por péssimas condições de moradia, saúde e higiene</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cidades industriais",
+    "exploração do trabalho"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "História",
+   "assunto": "Revolução Industrial",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>A evolução do processo de transformação de matérias-primas em produtos acabados ocorreu em três estágios: artesanato, manufatura e maquinofatura.</p><p>Um desses estágios foi o artesanato, em que se</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "trabalhava conforme o ritmo das máquinas e de maneira padronizada.",
+    "B": "trabalhava geralmente sem o uso de máquinas e de modo diferente do modelo de produção em série.",
+    "C": "empregavam fontes de energia abundantes para o funcionamento das máquinas.",
+    "D": "realizava parte da produção por cada operário, com uso de máquinas e trabalho assalariado.",
+    "E": "faziam interferências do processo produtivo por técnicos e gerentes com vistas a determinar o ritmo de produção."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No artesanato, o artesão fazia o produto inteiro com as próprias mãos e ferramentas simples, no seu ritmo, e cada peça era única. Ele <strong>trabalhava geralmente sem o uso de máquinas e de modo diferente do modelo de produção em série</strong>. Alternativa <strong>B</strong>.</p><p>O ritmo das máquinas e a padronização (A) são da maquinofatura; a divisão do trabalho com assalariados (D) é da manufatura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "artesanato",
+    "manufatura e maquinofatura"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 12,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p class=\"apoio\">A serraria construía ramais ferroviários que adentravam as grandes matas, onde grandes locomotivas com guindastes e correntes gigantescas de mais de 100 metros arrastavam, para as composições de trem, as toras que jaziam abatidas por equipes de trabalhadores que anteriormente passavam pelo local. Quando o guindaste arrastava as grandes toras em direção à composição de trem, os ervais nativos que existiam em meio às matas eram destruídos por este deslocamento.</p><p class=\"fonte\">MACHADO, P. P. <em>Lideranças do Contestado</em>. Campinas: Unicamp, 2004 (adaptado).</p><p>No início do século XX, uma série de empreendimentos capitalistas chegou à região do meio-oeste de Santa Catarina — ferrovias, serrarias e projetos de colonização. Os impactos sociais gerados por esse processo estão na origem da chamada Guerra do Contestado. Entre tais impactos, encontrava-se</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a absorção dos trabalhadores rurais como trabalhadores da serraria, resultando em um processo de êxodo rural.",
+    "B": "o desemprego gerado pela introdução das novas máquinas, que diminuíam a necessidade de mão de obra.",
+    "C": "a desorganização da economia tradicional, que sustentava os posseiros e os trabalhadores rurais da região.",
+    "D": "a diminuição do poder dos grandes coronéis da região, que passavam disputar o poder político com os novos agentes.",
+    "E": "o crescimento dos conflitos entre os operários empregados nesses empreendimentos e os seus proprietários, ligados ao capital internacional."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A serraria Lumber e a ferrovia destruíram os ervais nativos, de onde os posseiros tiravam a erva-mate, e tomaram as terras para a colonização. Quem vivia da economia tradicional perdeu o sustento e a terra. Entre os impactos estava <strong>a desorganização da economia tradicional, que sustentava os posseiros e os trabalhadores rurais da região</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Guerra do Contestado",
+    "posseiros"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 13,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p class=\"apoio\">As secas e o apelo econômico da borracha — produto que no final do século XIX alcançava preços altos nos mercados internacionais — motivaram a movimentação de massas humanas oriundas do Nordeste do Brasil para o Acre. Entretanto, até o início do século XX, essa região pertencia à Bolívia, embora a maioria da sua população fosse brasileira e não obedecesse à autoridade boliviana. Para reagir à presença de brasileiros, o governo de La Paz negociou o arrendamento da região a uma entidade internacional, o Bolivian Syndicate, iniciando violentas disputas dos dois lados da fronteira. O conflito só terminou em 1903, com a assinatura do Tratado de Petrópolis, pelo qual o Brasil comprou o território por 2 milhões de libras esterlinas.</p><p class=\"fonte\">Disponível em: www.mre.gov.br. Acesso em: 03 nov.2008 (adaptado).</p><p>Compreendendo o contexto em que ocorreram os fatos apresentados, o Acre tornou-se parte do território nacional brasileiro</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pela formalização do Tratado de Petrópolis, que indenizava o Brasil pela sua anexação.",
+    "B": "por meio do auxílio do Bolivian Syndicate aos emigrantes brasileiros na região.",
+    "C": "devido à crescente emigração de brasileiros que exploravam os seringais.",
+    "D": "em função da presença de inúmeros imigrantes estrangeiros na região.",
+    "E": "pela indenização que os emigrantes brasileiros pagaram à Bolívia."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os seringueiros nordestinos ocuparam o Acre, que pertencia à Bolívia, e não aceitavam a autoridade boliviana. A presença maciça de brasileiros levou ao conflito e, depois, ao Tratado de Petrópolis (1903), em que o Brasil comprou a região. O Acre se tornou brasileiro <strong>devido à crescente emigração de brasileiros que exploravam os seringais</strong>. Alternativa <strong>C</strong>.</p><p>No tratado, foi o Brasil que indenizou a Bolívia (A e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Acre",
+    "ciclo da borracha"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "Geografia",
+   "assunto": "Indústria e mineração",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p class=\"apoio\">No dia 28 de fevereiro de 1985, era inaugurada a Estrada de Ferro Carajás, pertencente e diretamente operada pela Companhia Vale do Rio Doce (CVRD), na região Norte do país, ligando o interior ao principal porto da região, em São Luís. Por seus, aproximadamente, 900 quilômetros de linha, passam, hoje, 5 353 vagões e 100 locomotivas.</p><p class=\"fonte\">Disponível em: http://www.transportes.gov.br.Acesso em: 27 jul. 2010 (adaptado).</p><p>A ferrovia em questão é de extrema importância para a logística do setor primário da economia brasileira, em especial para porções dos estados do Pará e Maranhão. Um argumento que destaca a importância estratégica dessa porção do território é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "produção de energia para as principais áreas industriais do país.",
+    "B": "produção sustentável de recursos minerais não metálicos.",
+    "C": "capacidade de produção de minerais metálicos.",
+    "D": "logística de importação de matérias-primas industriais.",
+    "E": "produção de recursos minerais energéticos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A Estrada de Ferro Carajás leva ao porto de São Luís o minério de ferro da Serra dos Carajás, no Pará, uma das maiores reservas do mundo, além de manganês e cobre. A importância estratégica está na <strong>capacidade de produção de minerais metálicos</strong>. Alternativa <strong>C</strong>.</p><p>O minério é exportado, e não importado (D), e não é recurso energético (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Carajás",
+    "minério de ferro"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "Geografia",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p class=\"apoio\">A usina hidrelétrica de Belo Monte será construída no rio Xingu, no município de Vitória de Xingu, no Pará. A usina será a terceira maior do mundo e a maior totalmente brasileira, com capacidade de 11,2 mil megawatts. Os índios do Xingu tomam a paisagem com seus cocares, arcos e flechas. Em Altamira, no Pará, agricultores fecharam estradas de uma região que será inundada pelas águas da usina.</p><p class=\"fonte\">BACOCCINA, D.; QUEIROZ, G.; BORGES, R. Fim do leilão, começo da confusão. <em>Istoé Dinheiro</em>. Ano 13, n.º 655, 28 abr. 2010 (adaptado).</p><p>Os impasses, resistências e desafios associados à construção da Usina Hidrelétrica de Belo Monte estão relacionados</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ao potencial hidrelétrico dos rios no norte e nordeste quando comparados às bacias hidrográficas das regiões Sul, Sudeste e Centro-Oeste do país.",
+    "B": "à necessidade de equilibrar e compatibilizar o investimento no crescimento do país com os esforços para a conservação ambiental.",
+    "C": "à grande quantidade de recursos disponíveis para as obras e à escassez dos recursos direcionados para o pagamento pela desapropriação das terras.",
+    "D": "ao direito histórico dos indígenas à posse dessas terras e à ausência de reconhecimento desse direito por parte das empreiteiras.",
+    "E": "ao aproveitamento da mão de obra especializada disponível na região Norte e o interesse das construtoras na vinda de profissionais do Sudeste do país."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Belo Monte traz energia para o crescimento do país, mas inunda terras, afeta indígenas e agricultores e altera o rio Xingu. Os impasses estão ligados <strong>à necessidade de equilibrar e compatibilizar o investimento no crescimento do país com os esforços para a conservação ambiental</strong>. Alternativa <strong>B</strong>.</p><p>O texto não compara o potencial das bacias (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Belo Monte",
+    "hidrelétricas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "História",
+   "assunto": "América pré-colombiana",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p>O Império Inca, que corresponde principalmente aos territórios da Bolívia e do Peru, chegou a englobar enorme contingente populacional. Cuzco, a cidade sagrada, era o centro administrativo, com uma sociedade fortemente estratificada e composta por imperadores, nobres, sacerdotes, funcionários do governo, artesãos, camponeses, escravos e soldados. A religião contava com vários deuses, e a base da economia era a agricultura, principalmente o cultivo da batata e do milho.</p><p>A principal característica da sociedade inca era a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ditadura teocrática, que igualava a todos.",
+    "B": "existência da igualdade social e da coletivização da terra.",
+    "C": "estrutura social desigual compensada pela coletivização de todos os bens.",
+    "D": "existência de mobilidade social, o que levou à composição da elite pelo mérito.",
+    "E": "impossibilidade de se mudar de extrato social e a existência de uma aristocracia hereditária."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto descreve uma sociedade fortemente estratificada, com imperador, nobres e sacerdotes no topo e camponeses e escravos na base, sem mobilidade: a posição era herdada. A característica era a <strong>impossibilidade de se mudar de extrato social e a existência de uma aristocracia hereditária</strong>. Alternativa <strong>E</strong>.</p><p>Não havia igualdade social (A e B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "incas",
+    "estratificação social"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Geografia",
+   "assunto": "Questão agrária",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p class=\"apoio\">Coube aos Xavante e aos Timbira, povos indígenas do Cerrado, um recente e marcante gesto simbólico: a realização de sua tradicional corrida de toras (de buriti) em plena Avenida Paulista (SP), para denunciar o cerco de suas terras e a degradação de seus entornos pelo avanço do agronegócio.</p><p class=\"fonte\">RICARDO, B.; RICARDO, F. <em>Povos indígenas do Brasil: 2001-2005</em>. São Paulo: Instituto Socioambiental, 2006 (adaptado).</p><p>A questão indígena contemporânea no Brasil evidencia a relação dos usos socioculturais da terra com os atuais problemas socioambientais, caracterizados pelas tensões entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a expansão territorial do agronegócio, em especial nas regiões Centro-Oeste e Norte, e as leis de proteção indígena e ambiental.",
+    "B": "os grileiros articuladores do agronegócio e os povos indígenas pouco organizados no Cerrado.",
+    "C": "as leis mais brandas sobre o uso tradicional do meio ambiente e as severas leis sobre o uso capitalista do meio ambiente.",
+    "D": "os povos indígenas do Cerrado e os polos econômicos representados pelas elites industriais paulistas.",
+    "E": "o campo e a cidade no Cerrado, que faz com que as terras indígenas dali sejam alvo de invasões urbanas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os Xavante e os Timbira protestaram em São Paulo contra o cerco de suas terras pelo agronegócio. A tensão é entre <strong>a expansão territorial do agronegócio, em especial nas regiões Centro-Oeste e Norte, e as leis de proteção indígena e ambiental</strong>. Alternativa <strong>A</strong>.</p><p>Os indígenas mostraram organização ao levar o protesto à Avenida Paulista (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "povos indígenas",
+    "agronegócio"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Brasil pré-cabralino",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"apoio\">Os vestígios dos povos Tupi-guarani encontram-se desde as Missões e o rio da Prata, ao sul, até o Nordeste, com algumas ocorrências ainda mal conhecidas no sul da Amazônia. A leste, ocupavam toda a faixa litorânea, desde o Rio Grande do Sul até o Maranhão. A oeste, aparecem (no rio da Prata) no Paraguai e nas terras baixas da Bolívia. Evitam as terras inundáveis do Pantanal e marcam sua presença discretamente nos cerrados do Brasil central. De fato, ocuparam, de preferência, as regiões de floresta tropical e subtropical.</p><p class=\"fonte\">PROUS, A. <em>O Brasil antes dos brasileiros</em>. Rio de Janeiro: Jorge Zahar Editor, 2005.</p><p>Os povos indígenas citados possuíam tradições culturais específicas que os distinguiam de outras sociedades indígenas e dos colonizadores europeus. Entre as tradições tupi-guarani, destacava-se</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a organização em aldeias politicamente independentes, dirigidas por um chefe, eleito pelos indivíduos mais velhos da tribo.",
+    "B": "a ritualização da guerra entre as tribos e o caráter semissedentário de sua organização social.",
+    "C": "a conquista de terras mediante operações militares, o que permitiu seu domínio sobre vasto território.",
+    "D": "o caráter pastoril de sua economia, que prescindia da agricultura para investir na criação de animais.",
+    "E": "o desprezo pelos rituais antropofágicos praticados em outras sociedades indígenas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os Tupi-guarani viviam em aldeias que se mudavam de tempos em tempos (seminômades, com agricultura de coivara) e faziam guerras rituais entre tribos, com captura de prisioneiros e antropofagia ritual. Destacava-se <strong>a ritualização da guerra entre as tribos e o caráter semissedentário de sua organização social</strong>. Alternativa <strong>B</strong>.</p><p>Eles praticavam a antropofagia (E) e a agricultura (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tupi-guarani",
+    "guerra ritual"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p class=\"apoio\">Os tropeiros foram figuras decisivas na formação de vilarejos e cidades do Brasil colonial. A palavra tropeiro vem de “tropa” que, no passado, se referia ao conjunto de homens que transportava gado e mercadoria. Por volta do século XVIII, muita coisa era levada de um lugar a outro no lombo de mulas. O tropeirismo acabou associado à atividade mineradora, cujo auge foi a exploração de ouro em Minas Gerais e, mais tarde, em Goiás. A extração de pedras preciosas também atraiu grandes contingentes populacionais para as novas áreas e, por isso, era cada vez mais necessário dispor de alimentos e produtos básicos. A alimentação dos tropeiros era constituída por toucinho, feijão preto, farinha, pimenta-do-reino, café, fubá e coité (um molho de vinagre com fruto cáustico espremido). Nos pousos, os tropeiros comiam feijão quase sem molho com pedaços de carne de sol e toucinho, que era servido com farofa e couve picada. O feijão tropeiro é um dos pratos típicos da cozinha mineira e recebe esse nome porque era preparado pelos cozinheiros das tropas que conduziam o gado.</p><p class=\"fonte\">Disponível em:http://www.tribunadoplanalto.com.br. Acesso em: 27 nov. 2008.</p><p>A criação do feijão tropeiro na culinária brasileira está relacionada à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "atividade comercial exercida pelos homens que trabalhavam nas minas.",
+    "B": "atividade culinária exercida pelos moradores cozinheiros que viviam nas regiões das minas.",
+    "C": "atividade mercantil exercida pelos homens que transportavam gado e mercadoria.",
+    "D": "atividade agropecuária exercida pelos tropeiros que necessitavam dispor de alimentos.",
+    "E": "atividade mineradora exercida pelos tropeiros no auge da exploração do ouro."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os tropeiros levavam gado e mercadorias em longas viagens no lombo de mulas e precisavam de comida que durasse: feijão, farinha, toucinho e carne seca. O prato nasceu da <strong>atividade mercantil exercida pelos homens que transportavam gado e mercadoria</strong>. Alternativa <strong>C</strong>.</p><p>Os tropeiros não eram mineradores (E) nem agricultores (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tropeirismo",
+    "mineração"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "História",
+   "assunto": "Memória e história",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "[[fig:1]]<p>Partindo das reflexões de um trabalhador que lê um livro de História, o autor censura a memória construída sobre determinados monumentos e acontecimentos históricos. A crítica refere-se ao fato de que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-humanas/q20.webp",
+     "alt": "Trecho do poema “Perguntas de um trabalhador que lê”, de Bertolt Brecht: uma série de perguntas sobre quem construiu Tebas, a Babilônia, as casas de Lima e a Muralha da China, e sobre quem ergueu os arcos de triunfo de Roma, já que os livros só trazem nomes de reis."
+    }
+   ],
+   "alternativas": {
+    "A": "os agentes históricos de uma determinada sociedade deveriam ser aqueles que realizaram feitos heroicos ou grandiosos e, por isso, ficaram na memória.",
+    "B": "a História deveria se preocupar em memorizar os nomes de reis ou dos governantes das civilizações que se desenvolveram ao longo do tempo.",
+    "C": "os grandes monumentos históricos foram construídos por trabalhadores, mas sua memória está vinculada aos governantes das sociedades que os construíram.",
+    "D": "os trabalhadores consideram que a História é uma ciência de difícil compreensão, pois trata de sociedades antigas e distantes no tempo.",
+    "E": "as civilizações citadas no texto, embora muito importantes, permanecem sem terem sido alvos de pesquisas históricas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O poema pergunta quem construiu Tebas, a Babilônia, a Muralha da China e os arcos de Roma, já que os livros só registram nomes de reis e césares. A crítica é que <strong>os grandes monumentos históricos foram construídos por trabalhadores, mas sua memória está vinculada aos governantes das sociedades que os construíram</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Brecht",
+    "história vista de baixo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "História",
+   "assunto": "Patrimônio cultural",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p>As ruínas do povoado de Canudos, no sertão norte da Bahia, além de significativas para a identidade cultural dessa região, são úteis às investigações sobre a Guerra de Canudos e o modo de vida dos antigos revoltosos.</p><p>Essas ruínas foram reconhecidas como patrimônio cultural material pelo Iphan (Instituto do Patrimônio Histórico e Artístico Nacional) porque reúnem um conjunto de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "objetos arqueológicos e paisagísticos.",
+    "B": "acervos museológicos e bibliográficos.",
+    "C": "núcleos urbanos e etnográficos.",
+    "D": "práticas e representações de uma sociedade.",
+    "E": "expressões e técnicas de uma sociedade extinta."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As ruínas de Canudos são vestígios materiais (restos de construções, objetos) e estão inseridas na paisagem do sertão, útil para pesquisar a guerra e o modo de vida. Elas reúnem <strong>objetos arqueológicos e paisagísticos</strong>. Alternativa <strong>A</strong>.</p><p>Práticas e representações (D e E) são patrimônio imaterial.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Canudos",
+    "Iphan"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"apoio\">Substitui-se então uma história crítica, profunda, por uma crônica de detalhes onde o patriotismo e a bravura dos nossos soldados encobrem a vilania dos motivos que levaram a Inglaterra a armar brasileiros e argentinos para a destruição da mais gloriosa república que já se viu na América Latina, a do Paraguai.</p><p class=\"fonte\">CHIAVENATTO, J. J. <em>Genocídio americano: A Guerra do Paraguai</em>. São Paulo: Brasiliense, 1979 (adaptado).</p><p class=\"apoio\">O imperialismo inglês, “destruindo o Paraguai, mantém o <em>status quo</em> na América Meridional, impedindo a ascensão do seu único Estado economicamente livre”. Essa teoria conspiratória vai contra a realidade dos fatos e não tem provas documentais. Contudo essa teoria tem alguma repercussão.</p><p class=\"fonte\">DORATIOTO, F. <em>Maldita guerra: nova história da Guerra do Paraguai</em>. São Paulo: Cia. das Letras, 2002 (adaptado).</p><p>Uma leitura dessas narrativas divergentes demonstra que ambas estão refletindo sobre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a carência de fontes para a pesquisa sobre os reais motivos dessa Guerra.",
+    "B": "o caráter positivista das diferentes versões sobre essa Guerra.",
+    "C": "o resultado das intervenções britânicas nos cenários de batalha.",
+    "D": "a dificuldade de elaborar explicações convincentes sobre os motivos dessa Guerra.",
+    "E": "o nível de crueldade das ações do exército brasileiro e argentino durante o conflito."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Chiavenatto atribui a guerra ao imperialismo inglês; Doratioto diz que essa “teoria conspiratória” não tem provas. As duas narrativas divergem justamente sobre as causas: elas refletem sobre <strong>a dificuldade de elaborar explicações convincentes sobre os motivos dessa Guerra</strong>. Alternativa <strong>D</strong>.</p><p>Não se trata de falta de fontes (A): Doratioto se apoia em documentos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Guerra do Paraguai",
+    "historiografia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"apoio\">Negro, filho de escrava e fidalgo português, o baiano Luiz Gama fez da lei e das letras suas armas na luta pela liberdade. Foi vendido ilegalmente como escravo pelo seu pai para cobrir dívidas de jogo. Sabendo ler e escrever, aos 18 anos de idade conseguiu provas de que havia nascido livre. Autodidata, advogado sem diploma, fez do direito o seu oficio e transformou-se, em pouco tempo, em proeminente advogado da causa abolicionista.</p><p class=\"fonte\">AZEVEDO, E. O Orfeu de carapinha. In: <em>Revista de História</em>. Ano1, no 3. Rio de Janeiro: Biblioteca Nacional, jan. 2004 (adaptado).</p><p>A conquista da liberdade pelos afro-brasileiros na segunda metade do séc. XIX foi resultado de importantes lutas sociais condicionadas historicamente. A biografia de Luiz Gama exemplifica a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "impossibilidade de ascensão social do negro forro em uma sociedade escravocrata, mesmo sendo alfabetizado.",
+    "B": "extrema dificuldade de projeção dos intelectuais negros nesse contexto e a utilização do Direito como canal de luta pela liberdade.",
+    "C": "rigidez de uma sociedade, assentada na escravidão, que inviabilizava os mecanismos de ascensão social.",
+    "D": "possibilidade de ascensão social, viabilizada pelo apoio das elites dominantes, a um mestiço filho de pai português.",
+    "E": "troca de favores entre um representante negro e a elite agrária escravista que outorgara o direito advocatício ao mesmo."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Luiz Gama, filho de escrava, foi vendido ilegalmente, conquistou a liberdade e virou advogado sem diploma, defendendo escravizados nos tribunais. Sua biografia mostra a <strong>extrema dificuldade de projeção dos intelectuais negros nesse contexto e a utilização do Direito como canal de luta pela liberdade</strong>. Alternativa <strong>B</strong>.</p><p>Ele ascendeu, então não era impossível (A e C), e não teve apoio das elites (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Luiz Gama",
+    "abolicionismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "História",
+   "assunto": "Período Joanino",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"apoio\">Eu, o Príncipe Regente, faço saber aos que o presente Alvará virem: que desejando promover e adiantar a riqueza nacional, e sendo um dos mananciais dela as manufaturas e a indústria, sou servido abolir e revogar toda e qualquer proibição que haja a este respeito no Estado do Brasil.</p><p class=\"fonte\">Alvará de liberdade para as indústrias (1º de Abril de 1808). In Bonavides, P.; Amaral, R. <em>Textos políticos da História do Brasil</em>.Vol. 1. Brasília: Senado Federal, 2002 (adaptado).</p><p>O projeto industrializante de D.João, conforme expresso no alvará, não se concretizou. Que características desse período explicam esse fato?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A ocupação de Portugal pelas tropas francesas e o fechamento das manufaturas portuguesas.",
+    "B": "A dependência portuguesa da Inglaterra e o predomínio industrial inglês sobre suas redes de comércio.",
+    "C": "A desconfiança da burguesia industrial colonial diante da chegada da família real portuguesa.",
+    "D": "O confronto entre a França e a Inglaterra e a posição dúbia assumida por Portugal no comércio internacional.",
+    "E": "O atraso industrial da colônia provocado pela perda de mercados para as indústrias portuguesas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em 1810, os tratados com a Inglaterra deram aos produtos ingleses taxas menores que as dos próprios portugueses. Sem proteção, as manufaturas da colônia não podiam competir com a indústria inglesa. A explicação é <strong>a dependência portuguesa da Inglaterra e o predomínio industrial inglês sobre suas redes de comércio</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "alvará de 1808",
+    "tratados de 1810"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "História",
+   "assunto": "Período Joanino",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"apoio\">Em 2008 foram comemorados os 200 anos da mudança da família real portuguesa para o Brasil, onde foi instalada a sede do reino. Uma sequência de eventos importantes ocorreu no período 1808-1821, durante os 13 anos em que D. João VI e a família real portuguesa permaneceram no Brasil.</p><p class=\"apoio\">Entre esses eventos, destacam-se os seguintes:</p><ul><li>Bahia – 1808: Parada do navio que trazia a família real portuguesa para o Brasil, sob a proteção da marinha britânica, fugindo de um possível ataque de Napoleão.</li><li>Rio de Janeiro – 1808: desembarque da família real portuguesa na cidade onde residiriam durante sua permanência no Brasil.</li><li>Salvador – 1810: D. João VI assina a carta régia de abertura dos portos ao comércio de todas as nações amigas, ato antecipadamente negociado com a Inglaterra em troca da escolta dada à esquadra portuguesa.</li><li>Rio de Janeiro – 1816: D. João VI torna-se rei do Brasil e de Portugal, devido à morte de sua mãe, D. Maria I.</li><li>Pernambuco – 1817: As tropas de D. João VI sufocam a revolução republicana.</li></ul><p class=\"fonte\">GOMES, L. <em>1808: como uma rainha louca, um príncipe medroso e uma corte corrupta enganaram Napoleão e mudaram a história de Portugal e do Brasil</em>. São Paulo: Editora Planeta, 2007 (adaptado).</p><p>Uma das consequências desses eventos foi</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a decadência do império britânico, em razão do contrabando de produtos ingleses através dos portos brasileiros.",
+    "B": "o fim do comércio de escravos no Brasil, porque a Inglaterra decretara, em 1806, a proibição do tráfico de escravos em seus domínios.",
+    "C": "a conquista da região do rio da Prata em represália à aliança entre a Espanha e a França de Napoleão.",
+    "D": "a abertura de estradas, que permitiu o rompimento do isolamento que vigorava entre as províncias do país, o que dificultava a comunicação antes de 1808.",
+    "E": "o grande desenvolvimento econômico de Portugal após a vinda de D. João VI para o Brasil, uma vez que cessaram as despesas de manutenção do rei e de sua família."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Entre os eventos de 1808-1821 está a conquista da Banda Oriental (Cisplatina, atual Uruguai), em 1816-1821. Dom João atacou a região do Prata em represália à Espanha, aliada de Napoleão. Uma consequência foi <strong>a conquista da região do rio da Prata em represália à aliança entre a Espanha e a França de Napoleão</strong>. Alternativa <strong>C</strong>.</p><p>O tráfico de escravos para o Brasil só terminou em 1850 (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "família real",
+    "Cisplatina"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"apoio\"><strong>I</strong> – Para consolidar-se como governo, a República precisava eliminar as arestas, conciliar-se com o passado monarquista, incorporar distintas vertentes do republicanismo. Tiradentes não deveria ser visto como herói republicano radical, mas sim como herói cívico-religioso, como mártir, integrador, portador da imagem do povo inteiro.</p><p class=\"fonte\">CARVALHO, J. M. C. <em>A formação das almas: O imaginário da República no Brasil</em>. São Paulo: Companhia das Letras, 1990.</p><p class=\"apoio\"><strong>II</strong> – Ei-lo, o gigante da praça,<br>O Cristo da multidão!<br>É Tiradentes quem passa<br>Deixem passar o Titão.</p><p class=\"fonte\">ALVES, C. Gonzaga ou a revolução de Minas. In: CARVALHO, J. M. C. <em>A formação das almas: O imaginário da República no Brasil</em>. São Paulo: Companhia das Letras, 1990.</p><p>A 1ª República brasileira, nos seus primórdios, precisava constituir uma figura heroica capaz de congregar diferenças e sustentar simbolicamente o novo regime. Optando pela figura de Tiradentes, deixou de lado figuras como Frei Caneca ou Bento Gonçalves. A transformação do inconfidente em herói nacional evidencia que o esforço de construção de um simbolismo por parte da República estava relacionado</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ao caráter nacionalista e republicano da Inconfidência, evidenciado nas ideias e na atuação de Tiradentes.",
+    "B": "à identificação da Conjuração Mineira como o movimento precursor do positivismo brasileiro.",
+    "C": "ao fato de a proclamação da República ter sido um movimento de poucas raízes populares, que precisava de legitimação.",
+    "D": "à semelhança física entre Tiradentes e Jesus, que proporcionaria, a um povo católico como o brasileiro, uma fácil identificação.",
+    "E": "ao fato de Frei Caneca e Bento Gonçalves terem liderado movimentos separatistas no Nordeste e no Sul do país."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A República nasceu de um golpe militar, sem participação popular, e precisava de símbolos que a legitimassem. Tiradentes, mártir “cívico-religioso”, parecido com Cristo e capaz de unir todos, servia a isso. O esforço estava ligado <strong>ao fato de a proclamação da República ter sido um movimento de poucas raízes populares, que precisava de legitimação</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Tiradentes",
+    "símbolos da República"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 27,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"apoio\">O artigo 402 do Código penal Brasileiro de 1890 dizia: Fazer nas ruas e praças públicas exercícios de agilidade e destreza corporal, conhecidos pela denominação de capoeiragem: andar em correrias, com armas ou instrumentos capazes de produzir uma lesão corporal, provocando tumulto ou desordens. Pena: Prisão de dois a seis meses.</p><p class=\"fonte\">SOARES, C. E. L. <em>A Negregada instituição: os capoeiras no Rio de Janeiro: 1850-1890</em>. Rio de Janeiro: Secretaria Municipal de Cultura, 1994 (adaptado).</p><p>O artigo do primeiro Código Penal Republicano naturaliza medidas socialmente excludentes. Nesse contexto, tal regulamento expressava</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a manutenção de parte da legislação do Império com vistas ao controle da criminalidade urbana.",
+    "B": "a defesa do retorno do cativeiro e escravidão pelos primeiros governos do período republicano.",
+    "C": "o caráter disciplinador de uma sociedade industrializada, desejosa de um equilíbrio entre progresso e civilização.",
+    "D": "a criminalização de práticas culturais e a persistência de valores que vinculavam certos grupos ao passado de escravidão.",
+    "E": "o poder do regime escravista, que mantinha os negros como categoria social inferior, discriminada e segregada."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A capoeira era prática cultural de origem africana, ligada aos negros e pobres. Ao tratá-la como crime, logo após a abolição, o Código Penal mostrava <strong>a criminalização de práticas culturais e a persistência de valores que vinculavam certos grupos ao passado de escravidão</strong>. Alternativa <strong>D</strong>.</p><p>Em 1890 a escravidão já tinha acabado (B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "capoeira",
+    "Código Penal de 1890"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 28,
+   "materia": "História",
+   "assunto": "Revolução Francesa",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"apoio\">Em nosso país queremos substituir o egoísmo pela moral, a honra pela probidade, os usos pelos princípios, as conveniências pelos deveres, a tirania da moda pelo império da razão, o desprezo à desgraça pelo desprezo ao vício, a insolência pelo orgulho, a vaidade pela grandeza de alma, o amor ao dinheiro pelo amor à glória, a boa companhia pelas boas pessoas, a intriga pelo mérito, o espirituoso pelo gênio, o brilho pela verdade, o tédio da volúpia pelo encanto da felicidade, a mesquinharia dos grandes pela grandeza do homem.</p><p class=\"fonte\">HUNT, L. Revolução Francesa e Vida Privada. in: PERROT, M. (Org). <em>História da Vida Privada: da Revolução Francesa à Primeira Guerra</em>. Vol.4. São Paulo: Companhia das Letras,1991(adaptado).</p><p>O discurso de Robespierre, de 5 de fevereiro de 1794, do qual o trecho transcrito é parte, relaciona-se a qual dos grupos político-sociais envolvidos na Revolução Francesa?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "À alta burguesia, que desejava participar do poder legislativo francês como força política dominante.",
+    "B": "Ao clero francês, que desejava justiça social e era ligado à alta burguesia.",
+    "C": "A militares oriundos da pequena e média burguesia, que derrotaram as potências rivais e queriam reorganizar a França internamente.",
+    "D": "À nobreza esclarecida, que, em função do seu contato com os intelectuais iluministas, desejava extinguir o absolutismo francês.",
+    "E": "Aos representantes da pequena e média burguesia e das camadas populares, que desejavam justiça social e direitos políticos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Robespierre era líder jacobino, no período do Terror. Os jacobinos representavam a pequena e média burguesia e as camadas populares (os <em>sans-culottes</em>) e queriam uma república virtuosa, com justiça social. O discurso se liga <strong>aos representantes da pequena e média burguesia e das camadas populares, que desejavam justiça social e direitos políticos</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "jacobinos",
+    "Robespierre"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "Filosofia",
+   "assunto": "Política",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"apoio\">A política foi, inicialmente, a arte de impedir as pessoas de se ocuparem do que lhes diz respeito. Posteriormente, passou a ser a arte de compelir as pessoas a decidirem sobre aquilo de que nada entendem.</p><p class=\"fonte\">VALÉRY, P. Cadernos. Apud BENEVIDES, M. V. M. <em>A cidadania ativa</em>. São Paulo: Ática, 1996.</p><p>Nessa definição, o autor entende que a história da política está dividida em dois momentos principais: um primeiro, marcado pelo autoritarismo excludente, e um segundo, caracterizado por uma democracia incompleta. Considerando o texto, qual é o elemento comum a esses dois momentos da história política?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A distribuição equilibrada do poder.",
+    "B": "O impedimento da participação popular.",
+    "C": "O controle das decisões por uma minoria.",
+    "D": "A valorização das opiniões mais competentes.",
+    "E": "A sistematização dos processos decisórios."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No primeiro momento, a política impedia o povo de decidir; no segundo, obriga o povo a decidir sobre o que não entende. Nos dois casos, quem realmente decide é um grupo pequeno, que concentra o conhecimento e o poder. O elemento comum é <strong>o controle das decisões por uma minoria</strong>. Alternativa <strong>C</strong>.</p><p>No segundo momento há participação (B), mas sem compreensão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Paul Valéry",
+    "democracia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 30,
+   "materia": "Filosofia",
+   "assunto": "Maquiavel",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p class=\"apoio\">O príncipe, portanto, não deve se incomodar com a reputação de cruel, se seu propósito é manter o povo unido e leal. De fato, com uns poucos exemplos duros poderá ser mais clemente do que outros que, por muita piedade, permitem os distúrbios que levem ao assassínio e ao roubo.</p><p class=\"fonte\">MAQUIAVEL, N. <em>O Príncipe</em>. São Paulo: Martin Claret, 2009.</p><p>No século XVI, Maquiavel escreveu <em>O Príncipe</em>, reflexão sobre a Monarquia e a função do governante. A manutenção da ordem social, segundo esse autor, baseava-se na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "inércia do julgamento de crimes polêmicos.",
+    "B": "bondade em relação ao comportamento dos mercenários.",
+    "C": "compaixão quanto à condenação de transgressões religiosas.",
+    "D": "neutralidade diante da condenação dos servos.",
+    "E": "conveniência entre o poder tirânico e a moral do príncipe."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para Maquiavel, o príncipe pode ser cruel se isso mantiver o povo unido e leal: “uns poucos exemplos duros” evitam desordens maiores. A ordem dependia de ajustar o uso da força às necessidades de governar, da <strong>conveniência entre o poder tirânico e a moral do príncipe</strong>. Alternativa <strong>E</strong>.</p><p>Maquiavel defende o contrário de bondade e compaixão (B e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "O Príncipe",
+    "realismo político"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "História",
+   "assunto": "Período Regencial",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p>Após a abdicação de D. Pedro I, o Brasil atravessou um período marcado por inúmeras crises: as diversas forças políticas lutavam pelo poder e as reivindicações populares eram por melhores condições de vida e pelo direito de participação na vida política do país. Os conflitos representavam também o protesto contra a centralização do governo. Nesse período, ocorreu também a expansão da cultura cafeeira e o surgimento do poderoso grupo dos “barões do café”, para o qual era fundamental a manutenção da escravidão e do tráfico negreiro.</p><p>O contexto do Período Regencial foi marcado</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "por revoltas populares que reclamavam a volta da monarquia.",
+    "B": "por várias crises e pela submissão das forças políticas ao poder central.",
+    "C": "pela luta entre os principais grupos políticos que reivindicavam melhores condições de vida.",
+    "D": "pelo governo dos chamados regentes, que promoveram a ascensão social dos “barões do café”.",
+    "E": "pela convulsão política e por novas realidades econômicas que exigiam o reforço de velhas realidades sociais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto descreve crises, revoltas e disputas pelo poder (convulsão política) e a expansão do café com os “barões do café” (nova realidade econômica), mas a escravidão e o latifúndio continuaram. O período foi marcado <strong>pela convulsão política e por novas realidades econômicas que exigiam o reforço de velhas realidades sociais</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Regências",
+    "café"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p class=\"apoio\">De março de 1931 a fevereiro de 1940, foram decretadas mais de 150 leis novas de proteção social e de regulamentação do trabalho em todos os seus setores. Todas elas têm sido simplesmente uma dádiva do governo. Desde aí, o trabalhador brasileiro encontra nos quadros gerais do regime o seu verdadeiro lugar.</p><p class=\"fonte\">DANTAS, M. <em>A força nacionalizadora do Estado Novo</em>. Rio de Janeiro: DIP, 1942. Apud BERCITO, S. R. <em>Nos tempos de Getúlio: da revolução de 30 ao fim do Estado Novo</em>. São Paulo: Atual, 1990.</p><p>A adoção de novas políticas públicas e as mudanças jurídico-institucionais ocorridas no Brasil, com a ascensão de Getúlio Vargas ao poder, evidenciam o papel histórico de certas lideranças e a importância das lutas sociais na conquista da cidadania. Desse processo resultou a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "criação do Ministério do Trabalho, Indústria e Comércio, que garantiu ao operariado autonomia para o exercício de atividades sindicais.",
+    "B": "legislação previdenciária, que proibiu migrantes de ocuparem cargos de direção nos sindicatos.",
+    "C": "criação da Justiça do Trabalho, para coibir ideologias consideradas perturbadoras da “harmonia social”.",
+    "D": "legislação trabalhista que atendeu reivindicações dos operários, garantindo-lhes vários direitos e formas de proteção.",
+    "E": "decretação da Consolidação das Leis do Trabalho (CLT), que impediu o controle estatal sobre as atividades políticas da classe operária."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Vargas criou leis trabalhistas (salário mínimo, férias, jornada de oito horas, carteira de trabalho), apresentadas como “dádiva”, mas que respondiam a reivindicações antigas dos operários. Resultou a <strong>legislação trabalhista que atendeu reivindicações dos operários, garantindo-lhes vários direitos e formas de proteção</strong>. Alternativa <strong>D</strong>.</p><p>Os sindicatos ficaram atrelados ao Estado, sem autonomia (A e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "trabalhismo",
+    "Estado Novo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "História",
+   "assunto": "República Populista",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p class=\"apoio\">Não é difícil entender o que ocorreu no Brasil nos anos imediatamente anteriores ao golpe militar de 1964. A diminuição da oferta de empregos e a desvalorização dos salários, provocadas pela inflação, levaram a uma intensa mobilização política popular, marcada por sucessivas ondas grevistas de várias categorias profissionais, o que aprofundou as tensões sociais. Dessa vez, as classes trabalhadoras se recusaram a pagar o pato pelas “sobras” do modelo econômico juscelinista.</p><p class=\"fonte\">MENDONÇA, S. R. <em>A Industrialização Brasileira</em>. São Paulo: Moderna, 2002 (adaptado).</p><p>Segundo o texto, os conflitos sociais ocorridos no início dos anos 1960 decorreram principalmente</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "da manipulação política empreendida pelo governo João Goulart.",
+    "B": "das contradições econômicas do modelo desenvolvimentista.",
+    "C": "do poder político adquirido pelos sindicatos populistas.",
+    "D": "da desmobilização das classes dominantes frente ao avanço das greves.",
+    "E": "da recusa dos sindicatos em aceitar mudanças na legislação trabalhista."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que a inflação, a queda dos salários e a menor oferta de empregos, “sobras” do modelo de desenvolvimento, provocaram greves e mobilização. Os conflitos decorreram <strong>das contradições econômicas do modelo desenvolvimentista</strong>. Alternativa <strong>B</strong>.</p><p>O texto não atribui os conflitos à manipulação do governo (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "golpe de 1964",
+    "desenvolvimentismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 34,
+   "materia": "Filosofia",
+   "assunto": "Foucault",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p class=\"apoio\">A lei não nasce da natureza, junto das fontes frequentadas pelos primeiros pastores; a lei nasce das batalhas reais, das vitórias, dos massacres, das conquistas que têm sua data e seus heróis de horror: a lei nasce das cidades incendiadas, das terras devastadas; ela nasce com os famosos inocentes que agonizam no dia que está amanhecendo.</p><p class=\"fonte\">FOUCAULT, M. Aula de 14 de janeiro de 1976. In: <em>Em defesa da sociedade</em>. São Paulo: Martins Fontes, 1999.</p><p>O filósofo Michel Foucault (séc. XX) inova ao pensar a política e a lei em relação ao poder e à organização social. Com base na reflexão de Foucault, a finalidade das leis na organização das sociedades modernas é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "combater ações violentas na guerra entre as nações.",
+    "B": "coagir e servir para refrear a agressividade humana.",
+    "C": "criar limites entre a guerra e a paz praticadas entre os indivíduos de uma mesma nação.",
+    "D": "estabelecer princípios éticos que regulamentam as ações bélicas entre países inimigos.",
+    "E": "organizar as relações de poder na sociedade e entre os Estados."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para Foucault, a lei não nasce de uma natureza pacífica, mas das batalhas e das conquistas: é a continuação da guerra por outros meios. As leis servem para <strong>organizar as relações de poder na sociedade e entre os Estados</strong>. Alternativa <strong>E</strong>.</p><p>Foucault não vê a lei como instrumento ético (D), e sim como expressão de forças.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "poder",
+    "lei"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "História",
+   "assunto": "Ditadura Militar",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">ZÉ KETTI. <em>Opinião</em>. Disponível em: http://www.mpbnet.com.br. Acesso em: 28 abr. 2010.</p><p>Essa música fez parte de um importante espetáculo teatral que estreou no ano de 1964, no Rio de Janeiro. O papel exercido pela Música Popular Brasileira (MPB) nesse contexto, evidenciado pela letra de música citada, foi o de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-humanas/q35.webp",
+     "alt": "Letra da canção “Opinião”, de Zé Keti: o morador do morro diz que podem prendê-lo, bater nele e deixá-lo sem comer, mas ele não muda de opinião e não sai do morro; se falta água ou carne, ele dá um jeito; ali não paga aluguel e, se morrer, está pertinho do céu."
+    }
+   ],
+   "alternativas": {
+    "A": "entretenimento para os grupos intelectuais.",
+    "B": "valorização do progresso econômico do país.",
+    "C": "crítica à passividade dos setores populares.",
+    "D": "denúncia da situação social e política do país.",
+    "E": "mobilização dos setores que apoiavam a Ditadura Militar."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O show <em>Opinião</em> estreou em dezembro de 1964, logo depois do golpe. A canção mostra o morador do morro que não muda de opinião, resiste à pobreza e à repressão. A MPB serviu de <strong>denúncia da situação social e política do país</strong>. Alternativa <strong>D</strong>.</p><p>A canção afirma resistência, e não passividade (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "MPB",
+    "show Opinião"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "História",
+   "assunto": "Brasil contemporâneo",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p class=\"apoio\"><strong>A chegada da televisão</strong></p><p class=\"apoio\">A caixa de pandora tecnológica penetra nos lares e libera suas cabeças falantes, astros, novelas, noticiários e as fabulosas, irresistíveis garotas-propaganda, versões modernizadas do tradicional homem-sanduíche.</p><p class=\"fonte\">SEVCENKO, N. (Org). <em>História da Vida Privada no Brasil 3</em>. República: da Belle Époque à Era do Rádio. São Paulo: Cia das Letras, 1998.</p><p>A TV, a partir da década de 1950, entrou nos lares brasileiros provocando mudanças consideráveis nos hábitos da população. Certos episódios da história brasileira revelaram que a TV, especialmente como espaço de ação da imprensa, tornou-se também veículo de utilidade pública, a favor da democracia, na medida em que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "amplificou os discursos nacionalistas e autoritários durante o governo Vargas.",
+    "B": "revelou para o país casos de corrupção na esfera política de vários governos.",
+    "C": "maquiou indicadores sociais negativos durante as décadas de 1970 e 1980.",
+    "D": "apoiou, no governo Castelo Branco, as iniciativas de fechamento do parlamento.",
+    "E": "corroborou a construção de obras faraônicas durante os governos militares."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A imprensa na TV ajudou a democracia ao mostrar escândalos de corrupção, como no caso Collor e em vários governos, levando o público a cobrar providências. A TV foi útil à democracia porque <strong>revelou para o país casos de corrupção na esfera política de vários governos</strong>. Alternativa <strong>B</strong>.</p><p>As outras alternativas descrevem usos a favor de governos autoritários.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "televisão",
+    "imprensa"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "Sociologia",
+   "assunto": "Meios de comunicação",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p>Os meios de comunicação funcionam como um elo entre os diferentes segmentos de uma sociedade. Nas últimas décadas, acompanhamos a inserção de um novo meio de comunicação que supera em muito outros já existentes, visto que pode contribuir para a democratização da vida social e política da sociedade à medida que possibilita a instituição de mecanismos eletrônicos para a efetiva participação política e disseminação de informações.</p><p>Constitui o exemplo mais expressivo desse novo conjunto de redes informacionais a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Internet.",
+    "B": "fibra ótica.",
+    "C": "TV digital.",
+    "D": "telefonia móvel.",
+    "E": "portabilidade telefônica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto fala de um meio que supera os demais e permite “mecanismos eletrônicos para a efetiva participação política e disseminação de informações”: uma rede informacional. O exemplo mais expressivo é a <strong>Internet</strong>. Alternativa <strong>A</strong>.</p><p>Fibra ótica (B) é um suporte físico, e não um meio de comunicação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "internet",
+    "democracia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 38,
+   "materia": "História",
+   "assunto": "Revolução Industrial",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p class=\"apoio\">A poluição e outras ofensas ambientais ainda não tinham esse nome, mas já eram largamente notadas no século XIX, nas grandes cidades inglesas e continentais. E a própria chegada ao campo das estradas de ferro suscitou protestos. A reação antimaquinista, protagonizada pelos diversos luddismos, antecipa a batalha atual dos ambientalistas. Esse era, então, o combate social contra os miasmas urbanos.</p><p class=\"fonte\">SANTOS, M. <em>A natureza do espaço: técnica e tempo, razão e emoção</em>. São Paulo: EDUSP, 2002 (adaptado).</p><p>O crescente desenvolvimento técnico-produtivo impõe modificações na paisagem e nos objetos culturais vivenciados pelas sociedades. De acordo com o texto, pode-se dizer que tais movimentos sociais emergiram e se expressaram por meio</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "das ideologias conservacionistas, com milhares de adeptos no meio urbano.",
+    "B": "das políticas governamentais de preservação dos objetos naturais e culturais.",
+    "C": "das teorias sobre a necessidade de harmonização entre técnica e natureza.",
+    "D": "dos boicotes aos produtos das empresas exploradoras e poluentes.",
+    "E": "da contestação à degradação do trabalho, das tradições e da natureza."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Milton Santos compara os luditas, que quebravam máquinas, aos ambientalistas de hoje. Eles reagiam à perda de empregos e à degradação das cidades e do campo. Os movimentos se expressaram por meio <strong>da contestação à degradação do trabalho, das tradições e da natureza</strong>. Alternativa <strong>E</strong>.</p><p>Os luditas não eram ideólogos conservacionistas (A) nem agiam por políticas de governo (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ludismo",
+    "ambientalismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "Filosofia",
+   "assunto": "Ética",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p class=\"apoio\">A ética precisa ser compreendida como um empreendimento coletivo a ser constantemente retomado e rediscutido, porque é produto da relação interpessoal e social. A ética supõe ainda que cada grupo social se organize sentindo-se responsável por todos e que crie condições para o exercício de um pensar e agir autônomos. A relação entre ética e política é também uma questão de educação e luta pela soberania dos povos. É necessária uma ética renovada, que se construa a partir da natureza dos valores sociais para organizar também uma nova prática política.</p><p class=\"fonte\">CORDI et al. <em>Para filosofar</em>. São Paulo: Scipione, 2007 (adaptado).</p><p>O Século XX teve de repensar a ética para enfrentar novos problemas oriundos de diferentes crises sociais, conflitos ideológicos e contradições da realidade. Sob esse enfoque e a partir do texto, a ética pode ser compreendida como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "instrumento de garantia da cidadania, porque através dela os cidadãos passam a pensar e agir de acordo com valores coletivos.",
+    "B": "mecanismo de criação de direitos humanos, porque é da natureza do homem ser ético e virtuoso.",
+    "C": "meio para resolver os conflitos sociais no cenário da globalização, pois a partir do entendimento do que é efetivamente a ética, a política internacional se realiza.",
+    "D": "parâmetro para assegurar o exercício político primando pelos interesses e ação privada dos cidadãos.",
+    "E": "aceitação de valores universais implícitos numa sociedade que busca dimensionar sua vinculação à outras sociedades."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz que a ética é um “empreendimento coletivo”, que cada grupo deve se sentir “responsável por todos” e que a ética se liga à política e à educação. Ela é <strong>instrumento de garantia da cidadania, porque através dela os cidadãos passam a pensar e agir de acordo com valores coletivos</strong>. Alternativa <strong>A</strong>.</p><p>O texto prioriza o coletivo, e não interesses privados (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ética",
+    "cidadania"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "História",
+   "assunto": "Revolução Industrial",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"apoio\">Homens da Inglaterra, por que arar para os senhores que vos mantêm na miséria? Por que tecer com esforços e cuidado as ricas roupas que vossos tiranos vestem? Por que alimentar, vestir e poupar do berço até o túmulo esses parasitas ingratos que exploram vosso suor — ah, que bebem vosso sangue?</p><p class=\"fonte\">SHELLEY. Os homens da Inglaterra. Apud HUBERMAN, L. <em>História da Riqueza do Homem</em>. Rio de Janeiro: Zahar, 1982.</p><p>A análise do trecho permite identificar que o poeta romântico Shelley (1792-1822) registrou uma contradição nas condições socioeconômicas da nascente classe trabalhadora inglesa durante a Revolução Industrial. Tal contradição está identificada</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "na pobreza dos empregados, que estava dissociada da riqueza dos patrões.",
+    "B": "no salário dos operários, que era proporcional aos seus esforços nas indústrias.",
+    "C": "na burguesia, que tinha seus negócios financiados pelo proletariado.",
+    "D": "no trabalho, que era considerado uma garantia de liberdade.",
+    "E": "na riqueza, que não era usufruída por aqueles que a produziam."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Shelley pergunta aos trabalhadores por que aram, tecem e alimentam os “parasitas” que os mantêm na miséria. Quem trabalha produz a riqueza, mas não a desfruta. A contradição está <strong>na riqueza, que não era usufruída por aqueles que a produziam</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Shelley",
+    "exploração do trabalho"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Sociologia",
+   "assunto": "Diversidade",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p class=\"apoio\">“Pecado nefando” era expressão correntemente utilizada pelos inquisidores para a sodomia. Nefandus: o que não pode ser dito. A Assembleia de clérigos reunida em Salvador, em 1707, considerou a sodomia “tão péssimo e horrendo crime”, tão contrário à lei da natureza, que “era indigno de ser nomeado” e, por isso mesmo, nefando.</p><p class=\"fonte\">NOVAIS, F.; MELLO E SOUZA, L. <em>História da Vida Privada no Brasil</em>. V. 1. São Paulo: Companhia das Letras, 1997 (adaptado).</p><p class=\"apoio\">O número de homossexuais assassinados no Brasil bateu o recorde histórico em 2009. De acordo com o Relatório Anual de Assassinato de Homossexuais (LGBT – Lésbicas, Gays, Bissexuais e Travestis), nesse ano foram registrados 195 mortos por motivação homofóbica no País.</p><p class=\"fonte\">Disponível em: www.alemdanoticia.com.br/ultimas_noticias.php?codnoticia=3871. Acesso em: 29 abr. 2010 (adaptado).</p><p>A homofobia é a rejeição e menosprezo à orientação sexual do outro e, muitas vezes, expressa-se sob a forma de comportamentos violentos. Os textos indicam que as condenações públicas, perseguições e assassinatos de homossexuais no país estão associadas</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "à baixa representatividade política de grupos organizados que defendem os direitos de cidadania dos homossexuais.",
+    "B": "à falência da democracia no país, que torna impeditiva a divulgação de estatísticas relacionadas à violência contra homossexuais.",
+    "C": "à Constituição de 1988, que exclui do tecido social os homossexuais, além de impedi-los de exercer seus direitos políticos.",
+    "D": "a um passado histórico marcado pela demonização do corpo e por formas recorrentes de tabus e intolerância.",
+    "E": "a uma política eugênica desenvolvida pelo Estado, justificada a partir dos posicionamentos de correntes filosófico-científicas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O primeiro texto mostra que, desde o período colonial, a Igreja chamava a homossexualidade de “pecado nefando”. O segundo mostra recorde de assassinatos por homofobia em 2009. A violência atual se liga <strong>a um passado histórico marcado pela demonização do corpo e por formas recorrentes de tabus e intolerância</strong>. Alternativa <strong>D</strong>.</p><p>A Constituição de 1988 não exclui os homossexuais (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "homofobia",
+    "Inquisição"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 42,
+   "materia": "História",
+   "assunto": "América Latina",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Judiciário contribuiu com ditadura no Chile, diz Juiz Guzmán Tapia</strong></p><p class=\"apoio\">As cortes de apelação rejeitaram mais de 10 mil <em>habeas corpus</em> nos casos das pessoas desaparecidas. Nos tribunais militares, todas as causas foram concluídas com suspensões temporárias ou definitivas, e os desaparecimentos políticos tiveram apenas trâmite formal na Justiça. Assim, o Poder Judiciário contribuiu para que os agentes estatais ficassem impunes.</p><p class=\"fonte\">Disponível em: http://www.cartamaior.com.br. Acesso em: 20 jul. 2010 (adaptado).</p><p>Segundo o texto, durante a ditadura chilena na década de 1970, a relação entre os poderes Executivo e Judiciário caracterizava-se pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "preservação da autonomia institucional entre os poderes.",
+    "B": "valorização da atuação independente de alguns juízes.",
+    "C": "manutenção da interferência jurídica nos atos executivos.",
+    "D": "transferência das funções dos juízes para o chefe de Estado.",
+    "E": "subordinação do poder judiciário aos interesses políticos dominantes."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O juiz diz que as cortes rejeitaram mais de 10 mil <em>habeas corpus</em> e que os casos de desaparecidos só tiveram “trâmite formal”, deixando os agentes do Estado impunes. A relação era de <strong>subordinação do poder judiciário aos interesses políticos dominantes</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ditadura chilena",
+    "Pinochet"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 43,
+   "materia": "Sociologia",
+   "assunto": "Trabalho",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p class=\"apoio\">Um banco inglês decidiu cobrar de seus clientes cinco libras toda vez que recorressem aos funcionários de suas agências. E o motivo disso é que, na verdade, não querem clientes em suas agências; o que querem é reduzir o número de agências, fazendo com que os clientes usem as máquinas automáticas em todo o tipo de transações. Em suma, eles querem se livrar de seus funcionários.</p><p class=\"fonte\">HOBSBAWM, E. <em>O novo século</em>. São Paulo: Companhia das Letras, 2000 (adaptado).</p><p>O exemplo mencionado permite identificar um aspecto da adoção de novas tecnologias na economia capitalista contemporânea. Um argumento utilizado pelas empresas e uma consequência social de tal aspecto estão em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "qualidade total e estabilidade no trabalho.",
+    "B": "pleno emprego e enfraquecimento dos sindicatos.",
+    "C": "diminuição dos custos e insegurança no emprego.",
+    "D": "responsabilidade social e redução do desemprego.",
+    "E": "maximização dos lucros e aparecimento de empregos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O banco cobra para atender no guichê, empurrando o cliente para as máquinas, e assim pode fechar agências e demitir. O argumento das empresas é reduzir custos, e a consequência para o trabalhador é perder o emprego: <strong>diminuição dos custos e insegurança no emprego</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "automação",
+    "desemprego estrutural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "Filosofia",
+   "assunto": "Ética",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p class=\"apoio\">Na ética contemporânea, o sujeito não é mais um sujeito substancial, soberano e absolutamente livre, nem um sujeito empírico puramente natural. Ele é simultaneamente os dois, na medida em que é um sujeito histórico-social. Assim, a ética adquire um dimensionamento político, uma vez que a ação do sujeito não pode mais ser vista e avaliada fora da relação social coletiva. Desse modo, a ética se entrelaça, necessariamente, com a política, entendida esta como a área de avaliação dos valores que atravessam as relações sociais e que interliga os indivíduos entre si.</p><p class=\"fonte\">SEVERINO, A. J. Filosofia. São Paulo: Cortez, 1992 (adaptado).</p><p>O texto, ao evocar a dimensão histórica do processo de formação da ética na sociedade contemporânea, ressalta</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "os conteúdos éticos decorrentes das ideologias político-partidárias.",
+    "B": "o valor da ação humana derivada de preceitos metafísicos.",
+    "C": "a sistematização de valores desassociados da cultura.",
+    "D": "o sentido coletivo e político das ações humanas individuais.",
+    "E": "o julgamento da ação ética pelos políticos eleitos democraticamente."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Severino diz que o sujeito é “histórico-social” e que a ação humana não pode ser avaliada fora da relação social: a ética se entrelaça com a política. O texto ressalta <strong>o sentido coletivo e político das ações humanas individuais</strong>. Alternativa <strong>D</strong>.</p><p>O texto recusa preceitos metafísicos (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ética",
+    "política"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "Filosofia",
+   "assunto": "Política",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">QUINO. <em>Toda Mafalda</em>. São Paulo: Martins Fontes, 1991.</p><p class=\"apoio\">Democracia: “regime político no qual a soberania é exercida pelo povo, pertence ao conjunto dos cidadãos.”</p><p class=\"fonte\">JAPIASSÚ, H.; MARCONDES, D. <em>Dicionário Básico de Filosofia</em>. Rio de Janeiro: Zahar, 2006.</p><p>Uma suposta “vacina” contra o despotismo, em um contexto democrático, tem por objetivo</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-humanas/q45.webp",
+     "alt": "Tirinha da Mafalda: crianças em fila diante de uma enfermeira com uma mesa de vacinas, e uma delas diz: “Viemos nos vacinar contra o despotismo!”."
+    }
+   ],
+   "alternativas": {
+    "A": "impedir a contratação de familiares para o serviço público.",
+    "B": "reduzir a ação das instituições constitucionais.",
+    "C": "combater a distribuição equilibrada de poder.",
+    "D": "evitar a escolha de governantes autoritários.",
+    "E": "restringir a atuação do Parlamento."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na tirinha, as crianças fazem fila para tomar uma “vacina contra o despotismo”. Numa democracia, em que o povo exerce a soberania, essa vacina serviria para que o povo não escolhesse ou aceitasse governantes que concentram o poder: <strong>evitar a escolha de governantes autoritários</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "democracia",
+    "Mafalda"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

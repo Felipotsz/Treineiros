@@ -1,0 +1,443 @@
+/* Componentes do Treineiros (usados em várias páginas). */
+
+/* ---------- Cabeçalho ----------
+   Marca à esquerda, links no meio, modo noturno e dois botões à direita. Fixo no topo no computador.
+   Em telas de toque (celular e tablet) a navegação vai para a barra de baixo e o cabeçalho fica só com a marca e o tema. */
+.cab{position:relative;z-index:15;background:var(--cabeca);border-bottom:1px solid var(--line);
+  -webkit-backdrop-filter:saturate(1.4) blur(10px);backdrop-filter:saturate(1.4) blur(10px)}
+.cab__in{display:flex;align-items:center;gap:var(--s3) var(--s4);max-width:75rem;margin:0 auto;padding:.6rem var(--s3)}
+@media (min-width:48rem){.cab__in{padding:.75rem var(--s4)}}
+.marca{flex:none;display:inline-flex;align-items:center;gap:.6rem;min-height:2.75rem;color:var(--text);text-decoration:none}
+.marca__img{display:block;height:2.6rem;width:auto}
+.marca__img--noite{display:none}
+[data-theme="dark"] .marca__img--dia{display:none}
+[data-theme="dark"] .marca__img--noite{display:block}
+.marca__bolhas{display:inline-flex;gap:3px;padding-top:.3rem}
+.marca__bolhas i{width:.56rem;height:.56rem;border-radius:50%;border:1.5px solid var(--line-forte)}
+.marca__bolhas i:nth-child(3){background:var(--caneta);border-color:var(--caneta)}
+.marca:hover .marca__bolhas i:nth-child(3){animation:tinta .35s ease-out}
+.cab__nav{flex:1 1 auto}
+.cab__nav ul{display:flex;justify-content:center;flex-wrap:wrap;gap:0 var(--s1);margin:0;padding:0;list-style:none}
+.cab__nav a{display:block;padding:.5rem .8rem;font:600 1rem/1.4 var(--font-ui);color:var(--text);text-decoration:none;border-radius:var(--pilula);
+  transition:color .2s,background-color .2s}
+.cab__nav a:hover{color:var(--caneta);background:var(--surface-2)}
+.cab__nav a[aria-current="page"]{color:var(--caneta);box-shadow:inset 0 -2px 0 var(--caneta);border-radius:0}
+.cab__acoes{display:flex;gap:var(--s2);align-items:center;margin-left:auto}
+.cab__acoes .btn{min-height:2.75rem;padding:.5rem 1.1rem;font-size:.95rem}
+.cab__acoes .btn[aria-current="page"]{background:var(--caneta-clara)}
+.btn-icone{display:inline-flex;align-items:center;justify-content:center;gap:var(--s2);min-width:2.75rem;min-height:2.75rem;padding:0 .7rem;
+  font:600 var(--fs-2) var(--font-ui);color:var(--text);background:var(--surface);border:1px solid var(--line);border-radius:var(--pilula);cursor:pointer;
+  transition:background-color .2s,transform .15s}
+.btn-icone:hover{background:var(--surface-2)}
+.btn-icone svg{width:1.15rem;height:1.15rem;flex:none}
+#btn-tema{padding:0}
+:root{--topo-fixo:0px}
+@media (min-width:64rem) and (pointer:fine), (min-width:85.4rem){
+  .cab{position:sticky;top:0}
+  :root{--topo-fixo:4.35rem}
+  html{scroll-padding-top:5.5rem}
+}
+.foco{--topo-fixo:0px}
+/* toque (celular e tablet): navegação na barra de baixo */
+@media (max-width:63.99rem), (pointer:coarse) and (max-width:85.4rem){
+  .cab__nav,.cab__acoes .btn{display:none}
+}
+.foco .cab,.foco .rodape,.foco .apoio-cta,.foco .abas{display:none}
+
+/* ---------- Rodapé: marca no centro, colunas de links, aviso de fontes ---------- */
+.rodape{margin-top:auto;background:var(--base-rodape);color:var(--banda-mudo);font:var(--fs-1)/1.6 var(--font-ui)}
+.rodape__marca{max-width:75rem;margin:0 auto;padding:var(--s5) var(--s3) 0;text-align:center}
+.rodape__marca .marca{justify-content:center}
+.rodape__marca .marca__img{display:block;height:3.4rem}
+.rodape__marca .marca__bolhas i{border-color:#67807D}
+.rodape__marca .marca__bolhas i:nth-child(3){background:var(--banda-destaque);border-color:var(--banda-destaque)}
+.rodape__marca p{max-width:34rem;margin:var(--s2) auto 0;font-size:var(--fs-2)}
+.rodape__in{display:grid;grid-template-columns:repeat(auto-fit,minmax(9.5rem,1fr));gap:var(--s4);max-width:58rem;margin:0 auto;padding:var(--s5) var(--s3)}
+.rodape h2{margin:0 0 var(--s2);font:700 .75rem var(--font-ui);letter-spacing:.16em;text-transform:uppercase;color:var(--banda-ouro)}
+.rodape ul{margin:0;padding:0;list-style:none}
+.rodape li{margin:0 0 .35rem}
+.rodape a{color:var(--sobre-banda);text-decoration-color:rgba(224,225,227,.35)}
+.rodape a:hover{color:var(--banda-destaque)}
+.rodape :focus-visible{outline-color:var(--banda-ouro)}
+.rodape__fim{max-width:75rem;margin:0 auto;padding:var(--s3) var(--s3) var(--s4);border-top:1px solid var(--linha-rodape);font-size:.8125rem;text-align:center}
+.rodape__fim p{max-width:56rem;margin:0 auto}
+
+/* ---------- Botões: pílulas ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:var(--s2);min-height:2.75rem;padding:.6rem 1.35rem;
+  font:700 1rem/1.15 var(--font-ui);text-align:center;text-decoration:none;cursor:pointer;
+  color:var(--tinta);background:transparent;border:1.5px solid var(--tinta);border-radius:var(--pilula);
+  transition:background-color .2s,color .2s,transform .15s,box-shadow .2s}
+[data-theme="dark"] .btn{color:var(--caneta);border-color:var(--caneta)}
+.btn:hover{background:var(--caneta-clara);transform:translateY(-1px)}
+.btn:active{transform:translateY(0)}
+.btn svg{width:1.1rem;height:1.1rem;flex:none}
+.btn[aria-pressed="true"]{color:var(--sobre-tinta);background:var(--tinta);border-color:var(--tinta)}
+.btn--primary,[data-theme="dark"] .btn--primary{color:var(--sobre-tinta);background:var(--tinta);border-color:var(--tinta)}
+.btn--primary:hover{background:var(--tinta);box-shadow:0 10px 20px -12px rgba(5,51,58,.7);filter:brightness(1.12)}
+.btn--ghost,[data-theme="dark"] .btn--ghost{color:var(--caneta);background:transparent;border-color:transparent;text-decoration:underline;text-underline-offset:.2em;text-decoration-color:var(--line-forte)}
+.btn--ghost:hover{background:var(--surface-2);transform:none}
+.btn--claro,[data-theme="dark"] .btn--claro{color:#06191F;background:var(--sobre-banda);border-color:var(--sobre-banda)}
+.btn--claro:hover{background:#FFFFFF}
+.btn--contorno-claro,[data-theme="dark"] .btn--contorno-claro{color:var(--sobre-banda);border-color:var(--banda-destaque)}
+.btn--contorno-claro:hover{background:rgba(140,195,191,.14)}
+.btn--grande{min-height:3.25rem;padding:.8rem 1.7rem;font-size:1.0625rem}
+.btn:disabled,.btn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;filter:none;transform:none}
+.acoes,.botoes{display:flex;flex-wrap:wrap;gap:var(--s2);align-items:center}
+
+/* ---------- Formulário: cada campo é uma linha da folha de respostas ----------
+   Campos em cartão de papel, rótulos em versalete, listas em pílula com a seta numa bolinha,
+   caixas de seleção e opções como bolinhas de verdade. */
+.campo{min-height:3.25rem;padding:.6rem 1.1rem;font:var(--fs-2) var(--font-ui);color:var(--text);background:var(--folha-campo);
+  border:1.5px solid var(--line-forte);border-radius:1rem;max-width:100%;box-sizing:border-box;transition:border-color .15s,box-shadow .15s}
+.campo:hover{border-color:var(--text-muted)}
+.campo:focus{outline:none}
+.campo:focus-visible{outline:none;border-color:var(--caneta);box-shadow:0 0 0 4px var(--caneta-clara)}
+.campo::placeholder{color:var(--text-muted);opacity:.85}
+textarea.campo{font-family:var(--font-body);line-height:1.6;padding:.75rem 1.1rem}
+input[type=number].campo{width:7rem;font-variant-numeric:tabular-nums}
+input[type=date].campo{color-scheme:inherit}
+input[type=search].campo{border-radius:var(--pilula);padding-left:1.25rem}
+/* Lista de opções: pílula com a seta dentro de uma bolinha, à direita */
+select.campo{-webkit-appearance:none;appearance:none;border-radius:var(--pilula);padding:.6rem 3.4rem .6rem 1.25rem;font-weight:600;cursor:pointer;
+  background-image:var(--seta-lista),radial-gradient(circle at center,var(--caneta-clara) 0 1.1rem,transparent 1.15rem);
+  background-repeat:no-repeat,no-repeat;background-position:right 1.05rem center,right .3rem center;background-size:.85rem .85rem,2.5rem 2.5rem;text-overflow:ellipsis}
+select.campo::-ms-expand{display:none}
+select.campo option,select.campo optgroup{font-weight:400;color:var(--text);background:var(--surface)}
+select.campo optgroup{font-weight:700}
+input[type=file]{font:var(--fs-2) var(--font-ui);color:var(--text);max-width:100%}
+input[type=file]::file-selector-button{margin-right:var(--s3);min-height:2.75rem;padding:.4rem 1.2rem;font:600 var(--fs-2) var(--font-ui);
+  color:var(--text);background:var(--folha-campo);border:1.5px solid var(--line-forte);border-radius:var(--pilula);cursor:pointer}
+/* Caixa de seleção e opção: bolinhas. A caixa marcada ganha o visto; a opção marcada, o miolo cheio. */
+input[type=checkbox],input[type=radio]{-webkit-appearance:none;appearance:none;flex:none;width:1.5rem;height:1.5rem;margin:0;display:inline-grid;place-items:center;
+  vertical-align:middle;background:var(--folha-campo);border:1.5px solid var(--line-forte);border-radius:50%;cursor:pointer;transition:background-color .15s,border-color .15s,box-shadow .15s}
+input[type=checkbox]:hover,input[type=radio]:hover{border-color:var(--text-muted)}
+input[type=checkbox]:checked{background:var(--tinta) var(--visto) center/.8rem no-repeat;border-color:var(--tinta)}
+input[type=radio]:checked{background:var(--tinta);border-color:var(--tinta);box-shadow:inset 0 0 0 .3rem var(--folha-campo)}
+input[type=checkbox]:focus-visible,input[type=radio]:focus-visible{outline:none;box-shadow:0 0 0 4px var(--caneta-clara)}
+input[type=radio]:checked:focus-visible{box-shadow:inset 0 0 0 .3rem var(--folha-campo),0 0 0 4px var(--caneta-clara)}
+input[type=checkbox]:disabled,input[type=radio]:disabled{opacity:.45;cursor:not-allowed}
+.chk input{width:1.5rem;height:1.5rem;margin:0}
+.chk{display:inline-flex;gap:.65rem;align-items:center;min-height:2.75rem;margin-right:var(--s3);font-family:var(--font-ui);cursor:pointer}
+/* Pílulas de marcar (matérias, assuntos): a pílula inteira é o alvo; marcada, fica cheia */
+.pilulas{display:flex;flex-wrap:wrap;gap:var(--s2);margin:0;padding:0;border:0}
+.chk--pilula{margin:0;min-height:2.75rem;padding:0 1rem 0 .4rem;gap:.55rem;background:var(--folha-campo);border:1.5px solid var(--line-forte);border-radius:var(--pilula);
+  transition:background-color .15s,border-color .15s,color .15s}
+.chk--pilula:hover{border-color:var(--text-muted)}
+.chk--pilula input{width:1.75rem;height:1.75rem}
+.chk--pilula:has(input:checked){color:var(--sobre-tinta);background:var(--tinta);border-color:var(--tinta);font-weight:600}
+.chk--pilula:has(input:checked) input{background-color:var(--banda-destaque);border-color:var(--banda-destaque);background-image:var(--visto-escuro)}
+.chk--pilula:has(input:focus-visible){box-shadow:0 0 0 4px var(--caneta-clara)}
+.chk--pilula .legenda,.chk--pilula .conta{font-size:var(--fs-1);color:inherit;opacity:.8}
+.rotulo{display:block;margin-bottom:.4rem;font:700 .75rem/1.3 var(--font-ui);letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted)}
+label{font-family:var(--font-ui)}
+
+/* ---------- Etiquetas, avisos, progresso ---------- */
+.tags{display:flex;flex-wrap:wrap;gap:var(--s1) var(--s2);margin:0 0 var(--s3)}
+.tag{display:inline-block;padding:.05rem .7rem;font:600 .875rem/1.6 var(--font-ui);color:var(--tinta);
+  background:var(--caneta-clara);border:1px solid transparent;border-radius:var(--pilula)}
+[data-theme="dark"] .tag{color:var(--text)}
+.tag--leve{color:var(--text-muted);background:transparent;border-color:var(--line)}
+.aviso{max-width:var(--measure);margin:0 0 var(--s3);padding:var(--s3) var(--s4);font-size:var(--fs-2);background:var(--folha);
+  border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--sombra)}
+.aviso::before{content:"";display:inline-block;width:.6rem;height:.6rem;margin-right:.6rem;border-radius:50%;background:var(--ouro);vertical-align:.1em}
+.aviso-armazem{max-width:var(--measure);margin:0 0 var(--s4);padding:var(--s3) var(--s4);font:var(--fs-2) var(--font-ui);
+  background:var(--bad-claro);border:1px solid var(--bad);border-radius:var(--radius)}
+.progresso{height:.55rem;background:var(--surface-2);border-radius:var(--pilula);overflow:hidden}
+.progresso__barra{height:100%;background:var(--caneta);border-radius:var(--pilula);transition:width .3s}
+
+/* ---------- Logo ---------- */
+.logo{display:block;height:auto}
+.logo .logo-letras{fill:var(--text)} .logo .logo-tinta{fill:var(--logo-tinta)} .logo .logo-pena{fill:var(--logo-pena)}
+
+/* ---------- Questão: o vocabulário visual do caderno de prova ---------- */
+/* "Questão 01": rótulo com a caixa preta do número, e a linha que segue, como no caderno impresso */
+.q-tit{display:flex;align-items:center;margin:0 0 var(--s2);font:700 var(--fs-3)/1 var(--font-title)}
+.q-tit__rot{padding:.45rem .7rem .45rem .95rem;font-style:italic;border:1.5px solid var(--tinta);border-right:0;border-radius:var(--pilula) 0 0 var(--pilula);background:var(--folha)}
+.q-tit__n{padding:.45rem .85rem .45rem .7rem;color:var(--sobre-tinta);background:var(--tinta);border:1.5px solid var(--tinta);border-radius:0 var(--pilula) var(--pilula) 0;font-variant-numeric:lining-nums tabular-nums}
+.q-tit__de{margin-left:var(--s2);font:500 var(--fs-2) var(--font-ui);color:var(--text-muted)}
+.q-tit::after{content:"";flex:1;height:0;margin-left:var(--s3);border-top:1.5px dashed var(--line)}
+.origem{margin:0 0 var(--s2);font:var(--fs-1)/1.45 var(--font-ui);color:var(--text-muted)}
+.enunciado{margin:var(--s3) 0}
+.enunciado p{margin:0 0 var(--s3)}
+/* texto de apoio: a caixa de cantos arredondados do caderno */
+.apoio{max-width:var(--measure);margin:0;padding:var(--s1) var(--s4);font-size:var(--fs-2);background:var(--folha);
+  border:1.5px solid var(--line-forte);border-top:0;border-bottom:0}
+.apoio:first-child,:not(.apoio)+.apoio{margin-top:var(--s2);padding-top:var(--s3);border-top:1.5px solid var(--line-forte);border-radius:var(--radius-caixa) var(--radius-caixa) 0 0}
+.apoio:has(+:not(.apoio)),.apoio:last-child{margin-bottom:var(--s3);padding-bottom:var(--s3);border-bottom:1.5px solid var(--line-forte);border-radius:0 0 var(--radius-caixa) var(--radius-caixa)}
+.apoio:first-child:has(+:not(.apoio)),:not(.apoio)+.apoio:has(+:not(.apoio)),:not(.apoio)+.apoio:last-child{border-radius:var(--radius-caixa)}
+.fonte{max-width:var(--measure);margin:calc(var(--s2) * -1) 0 var(--s3);font:var(--fs-1)/1.4 var(--font-ui);color:var(--text-muted);text-align:right;overflow-wrap:anywhere}
+/* "Leia o texto para responder às questões...": faixa escura, como no caderno */
+.chamada{max-width:var(--measure);margin:var(--s2) 0 var(--s3);padding:var(--s2) var(--s3);font:600 var(--fs-2)/1.4 var(--font-ui);
+  text-align:center;color:var(--sobre-escuro);background:var(--faixa);border-radius:var(--radius)}
+.poema{line-height:1.8}
+.fig{margin:var(--s3) 0;max-width:min(100%,40rem)}
+.fig .figura{display:block;width:100%;height:auto;margin:0;background:var(--qr-fundo);border:1px solid var(--line);border-radius:var(--radius)}
+.fig figcaption{margin-top:var(--s1);font:var(--fs-1) var(--font-ui);color:var(--text-muted)}
+.fig+.fonte{max-width:min(100%,40rem)}
+/* figura como alternativa (ímãs, gráficos pequenos): tamanho natural, sem ocupar a tela inteira */
+.alt .fig{margin:var(--s1) 0}
+.alt .fig .figura{width:auto;max-width:100%;max-height:10rem}
+.figura-btn{position:relative;display:block;width:100%;padding:0;color:inherit;background:none;border:0;cursor:zoom-in}
+.figura-btn::after{content:"Toque na figura para ampliar";display:block;margin-top:var(--s1);text-align:right;font:500 var(--fs-1) var(--font-ui);color:var(--caneta)}
+@media (hover:hover){.figura-btn::after{content:"Clique na figura para ampliar"}}
+.enunciado table{border-collapse:collapse;margin:var(--s3) 0;font:var(--fs-1)/1.45 var(--font-ui);max-width:100%;background:var(--surface)}
+.enunciado th,.enunciado td{padding:var(--s2);border:1px solid var(--line-forte);text-align:left;vertical-align:top}
+.enunciado th{background:var(--surface-2);font-weight:700}
+.tabela-rola{max-width:100%;overflow-x:auto}
+
+/* Alternativa: a bolha do cartão-resposta. Marcar = preencher com tinta. */
+.alt-linha{display:flex;gap:var(--s2);align-items:stretch}
+.alt-linha+.alt-linha{margin-top:var(--s2)}
+.alt{display:grid;grid-template-columns:2.4rem 1fr auto;align-items:center;gap:var(--s3);flex:1;width:100%;min-height:3.25rem;
+  padding:.5rem var(--s3) .5rem .55rem;text-align:left;font:inherit;color:inherit;cursor:pointer;
+  background:var(--folha);border:1.5px solid var(--surface-2);border-radius:var(--radius-caixa);transition:border-color .2s,background-color .2s,transform .15s,box-shadow .2s}
+.alt+.alt{margin-top:var(--s2)}
+.alt:hover{border-color:var(--line-forte);box-shadow:var(--sombra)}
+.alt[aria-disabled=true]{cursor:default}
+.alt__letra{position:relative;display:grid;place-items:center;width:2.25rem;height:2.25rem;font:700 var(--fs-2)/1 var(--font-ui);
+  color:var(--text-muted);border:1.5px solid var(--line-forte);border-radius:50%;background:transparent;transition:background-color .2s,color .2s,border-color .2s}
+.alt__status{font:600 var(--fs-2) var(--font-ui);font-variant-caps:all-small-caps;letter-spacing:.08em;text-align:right}
+.alt__status:empty{display:none}
+.alt.is-selecionada{border-color:var(--caneta);background:var(--caneta-clara)}
+.alt.is-selecionada .alt__letra{color:var(--sobre-tinta);background:var(--tinta);border-color:var(--tinta);animation:tinta .28s ease-out}
+.alt.is-correta{border-color:var(--ok);background:var(--ok-claro)}
+.alt.is-errada{border-color:var(--bad);background:var(--bad-claro)}
+.alt.is-correta .alt__letra{color:var(--sobre-escuro);background:var(--ok);border-color:var(--ok)}
+.alt.is-errada .alt__letra{color:var(--sobre-escuro);background:var(--bad);border-color:var(--bad)}
+.alt.is-correta .alt__status{color:var(--ok)} .alt.is-errada .alt__status{color:var(--bad)}
+.alt.is-eliminada>span:nth-child(2){text-decoration:line-through;text-decoration-color:var(--margem);opacity:.6}
+.alt.is-eliminada .alt__letra{opacity:.5}
+@keyframes tinta{0%{transform:scale(.7);border-radius:46% 54% 50% 50%}70%{transform:scale(1.08)}100%{transform:scale(1)}}
+.alt-risca{flex:none;width:2.75rem;font:600 var(--fs-2) var(--font-ui);color:var(--text-muted);background:var(--folha);
+  border:1.5px solid var(--surface-2);border-radius:var(--radius-caixa);cursor:pointer}
+.alt-risca:hover{border-color:var(--line-forte)}
+.alt-risca[aria-pressed=true]{color:var(--sobre-tinta);background:var(--tinta);border-color:var(--tinta)}
+
+/* Alternativas em lista (sem interação: questão avulsa, busca, revisão) */
+.alts-lista{list-style:none;margin:var(--s3) 0;padding:0;max-width:var(--measure)}
+.alts-lista li{display:grid;grid-template-columns:2.4rem 1fr auto;gap:var(--s3);align-items:center;max-width:none;padding:.5rem var(--s3) .5rem .55rem;
+  border:1.5px solid var(--surface-2);border-radius:var(--radius-caixa);background:var(--folha)}
+.alts-lista li+li{margin-top:var(--s2)}
+.alts-lista .is-correta{border-color:var(--ok);background:var(--ok-claro)}
+.alts-lista .is-correta .alt__letra{color:var(--sobre-escuro);background:var(--ok);border-color:var(--ok)}
+.alts-lista .is-correta .alt__status{color:var(--ok)}
+.alts-lista .is-errada{border-color:var(--bad);background:var(--bad-claro)}
+.alts-lista .is-errada .alt__letra{color:var(--sobre-escuro);background:var(--bad);border-color:var(--bad)}
+.alts-lista .is-errada .alt__status{color:var(--bad)}
+
+/* Correção comentada: a margem vermelha do caderno, como correção à caneta */
+.explicacao{max-width:var(--measure);margin-top:var(--s4);padding:var(--s3) var(--s4) var(--s4);background:var(--folha);
+  border:1px solid var(--line);border-radius:var(--radius-caixa);box-shadow:var(--sombra)}
+.explicacao__rotulo{display:block;margin-bottom:var(--s2);font:1.5rem/1.3 var(--font-hand);color:var(--caneta)}
+.explicacao p:last-child{margin-bottom:0}
+.anulada{max-width:var(--measure);margin:var(--s4) 0 0;padding:var(--s3);background:var(--bad-claro);border:1.5px solid var(--bad);border-radius:var(--radius)}
+.anulada__titulo{margin:0 0 var(--s1);font:italic 700 var(--fs-3) var(--font-title);color:var(--bad)}
+.anulada__origem{margin:var(--s2) 0 var(--s1);font:600 var(--fs-1) var(--font-ui);color:var(--text-muted)}
+.anulada p{margin-bottom:var(--s2)}
+
+/* ---------- Painéis, tabelas, janelas ---------- */
+.revisao{max-width:52rem;margin-bottom:var(--s2);padding:var(--s1) var(--s4);background:var(--folha);border:1px solid var(--line);border-radius:var(--radius)}
+.revisao summary{padding:.55rem 0;cursor:pointer;font:600 var(--fs-2)/1.4 var(--font-ui);list-style-position:inside}
+.revisao[open] summary{margin-bottom:var(--s3)}
+.tabela{width:100%;max-width:34rem;margin-bottom:var(--s4);border-collapse:collapse;font-family:var(--font-ui)}
+.tabela caption{text-align:left;padding-bottom:var(--s2);color:var(--text-muted);font-style:italic}
+.tabela th,.tabela td{padding:var(--s2);text-align:left;border-bottom:1px solid var(--line)}
+.tabela thead th{font-weight:700;border-bottom:1.5px solid var(--line-forte)}
+@media (max-width:40rem){.tabela{display:block;overflow-x:auto}}
+dialog{max-width:min(30rem,calc(100vw - 2rem));padding:var(--s4);color:var(--text);background:var(--folha);border:1px solid var(--line);border-radius:var(--radius-caixa);box-shadow:0 30px 60px -20px rgba(0,0,0,.45)}
+dialog::backdrop{background:rgba(3,16,15,.6);-webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px)}
+dialog h2{font-size:var(--fs-4)}
+.zoom-area{max-height:70vh;overflow:auto;touch-action:pan-x pan-y pinch-zoom;background:var(--qr-fundo);border-radius:var(--radius)}
+.zoom-area .zoom{display:block;width:100%;max-width:none;max-height:none;margin:0}
+.zoom-area.grande .zoom{width:200%}
+.zoom-desc{margin:var(--s2) 0;font:var(--fs-1)/1.5 var(--font-ui);color:var(--text-muted)}
+dialog.dlg-zoom{max-width:min(60rem,calc(100vw - 2rem))}
+@media (max-width:40rem){
+  dialog.dlg-zoom{width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;margin:0;padding:var(--s2);border:0;border-radius:0}
+  .dlg-zoom .zoom-area{max-height:calc(100dvh - 9rem)}
+}
+
+/* ---------- Seções de página ---------- */
+.pagina-topo{max-width:var(--measure);margin-bottom:var(--s5)}
+.pagina-topo p{font-size:var(--fs-3);line-height:1.5;color:var(--text-muted)}
+.secao{margin:0 0 var(--s6)}
+.secao>h2{margin-bottom:var(--s3)}
+.duas-col{display:grid;gap:var(--s4)}
+@media (min-width:56rem){.duas-col{grid-template-columns:1fr 1fr;gap:var(--s5)}}
+
+/* toda caixa que abre e fecha tem área de toque confortável */
+summary{min-height:2.75rem;padding-block:.55rem;cursor:pointer}
+.secao-seguinte{margin-top:var(--s5)}
+
+/* Cartão: a folha clara sobre a mesa, com canto suave e sombra leve (cartões, painéis, questão de exemplo) */
+.moldura,.demo,.banca,.placar,.pix,.cfg__apres,.pausa,.ficha dl{
+  background:var(--folha);border:1px solid var(--line);border-radius:var(--radius-caixa);box-shadow:var(--sombra)}
+.cartao-sobe{transition:transform .25s cubic-bezier(.2,.7,.2,1),box-shadow .25s}
+@media (hover:hover){.cartao-sobe:hover{transform:translateY(-4px);box-shadow:var(--sombra-alta)}}
+
+/* Fórmula em destaque mais larga que a tela: rola dentro da própria caixa, sem empurrar a página */
+.katex-display{max-width:100%;overflow-x:auto;overflow-y:hidden;padding:.25rem 0}
+.katex-display>.katex{white-space:nowrap}
+.katex{font-size:1.08em}
+
+
+/* ---------- Barra de navegação de baixo (celular e tablet) ----------
+   Fixa embaixo, ao alcance do polegar, sempre com ícone e nome. 5 destinos: Início, Provas, Meu estudo, Redação e Mais.
+   Vale para telas estreitas e para qualquer tela de toque até o tamanho de um tablet grande deitado. */
+:root{--abas-h:4.25rem}
+.abas{display:none}
+@media (max-width:63.99rem), (pointer:coarse) and (max-width:85.4rem){
+  /* o espaço da barra fica no fim do rodapé (mesma cor), e não como uma faixa da cor da mesa */
+  .tem-abas .rodape__fim{padding-bottom:calc(var(--abas-h) + 1.5rem + env(safe-area-inset-bottom))}
+  .tem-abas body:not(:has(.rodape)){padding-bottom:calc(var(--abas-h) + .75rem + env(safe-area-inset-bottom))}
+  .abas{display:block;position:fixed;left:0;right:0;bottom:0;z-index:20;padding:0 .5rem calc(.4rem + env(safe-area-inset-bottom));pointer-events:none}
+  .abas ul{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));max-width:34rem;margin:0 auto;padding:.3rem;list-style:none;pointer-events:auto;
+    background:var(--cabeca);-webkit-backdrop-filter:saturate(1.4) blur(12px);backdrop-filter:saturate(1.4) blur(12px);
+    border:1px solid var(--line);border-radius:1.4rem;box-shadow:0 14px 34px -14px rgba(6,25,31,.55)}
+  .abas li{max-width:none;margin:0}
+  .abas__item{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.2rem;width:100%;min-height:calc(var(--abas-h) - .6rem);
+    padding:.3rem .15rem;font:600 .78rem/1.1 var(--font-ui);color:var(--text-muted);text-decoration:none;
+    background:none;border:0;border-radius:1.1rem;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:color .2s}
+  .abas__item svg{width:1.45rem;height:1.45rem;padding:.12rem .55rem;box-sizing:content-box;border-radius:var(--pilula);transition:background-color .25s}
+  .abas__item span{white-space:nowrap}
+  .abas__item:hover{color:var(--text)}
+  .abas__item[aria-current="page"],.abas__item[data-atual]{color:var(--caneta)}
+  .abas__item[aria-current="page"] svg,.abas__item[data-atual] svg{background:var(--caneta-clara)}
+  .abas__item:focus-visible{outline:3px solid var(--ouro);outline-offset:-3px}
+}
+@media (max-width:22rem){.abas__item{font-size:.7rem}.abas__item svg{padding:.12rem .35rem}}
+@media print{.abas,.apoio-cta,.folha{display:none!important}}
+
+/* Folha "Mais": painel que sobe de baixo, com o resto do site */
+dialog.folha{width:100%;max-width:36rem;max-height:90dvh;margin:auto auto 0;padding:var(--s2) var(--s4) calc(var(--s4) + env(safe-area-inset-bottom));
+  color:var(--text);background:var(--folha);border:0;border-radius:1.5rem 1.5rem 0 0;overflow-y:auto;box-shadow:0 -20px 50px -20px rgba(0,0,0,.5)}
+dialog.folha::before{content:"";display:block;width:2.75rem;height:.3rem;margin:0 auto var(--s3);border-radius:var(--pilula);background:var(--line)}
+.folha__topo{display:flex;align-items:center;justify-content:space-between;margin-bottom:var(--s2)}
+.folha__topo h2{margin:0;font-size:var(--fs-5)}
+.folha__grupo{margin:0 0 var(--s3)}
+.folha__grupo h3{margin:0 0 var(--s1);font:700 .75rem var(--font-ui);letter-spacing:.14em;text-transform:uppercase;color:var(--ouro)}
+.folha__grupo ul{margin:0;padding:0;list-style:none;background:var(--surface);border-radius:var(--radius);overflow:hidden}
+.folha__grupo li{max-width:none;margin:0;border-bottom:1px solid var(--line)}
+.folha__grupo li:last-child{border-bottom:0}
+.folha__grupo a{display:flex;align-items:center;min-height:3rem;padding:.3rem var(--s3);font:600 var(--fs-2) var(--font-ui);color:var(--text);text-decoration:none}
+.folha__grupo a:hover{background:var(--surface-2)}
+.folha__grupo a::after{content:"›";margin-left:auto;padding-left:var(--s2);color:var(--text-muted);font-size:1.3em;line-height:1}
+.folha__grupo a[aria-current="page"]{color:var(--caneta);background:var(--caneta-clara)}
+.folha__tema{width:100%}
+
+/* ---------- Faixa de apoio (antes do rodapé, em todas as páginas menos a inicial, a Apoie e o simulado) ---------- */
+.apoio-cta{margin-top:var(--s6);background:var(--banda);color:var(--sobre-banda)}
+.apoio-cta__in{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:var(--s4) var(--s5);max-width:75rem;margin:0 auto;padding:var(--s5) var(--s3)}
+@media (min-width:48rem){.apoio-cta__in{padding:4rem var(--s4)}}
+.apoio-cta__foto{flex:none;width:9rem;height:10.8rem;object-fit:cover;border-radius:var(--radius-caixa);border:3px solid var(--banda-ouro)}
+.apoio-cta__texto{flex:999 1 22rem;min-width:0}
+.apoio-cta__selo{margin:0 0 var(--s2);font:700 .8125rem var(--font-ui);letter-spacing:.16em;text-transform:uppercase;color:var(--banda-ouro)}
+.apoio-cta h2{margin:0 0 var(--s2);font-size:clamp(1.6rem,4.6vw,2.4rem);line-height:1.15;color:var(--sobre-banda)}
+.apoio-cta h2 em{font-weight:400;color:var(--banda-destaque)}
+.apoio-cta p{color:var(--banda-mudo)}
+.apoio-cta__botoes{display:flex;flex-wrap:wrap;gap:var(--s2);margin-top:var(--s3)}
+.apoio-cta :focus-visible{outline-color:var(--banda-ouro)}
+@media (max-width:29.99rem){.apoio-cta__botoes .btn{flex:1 1 100%}.apoio-cta__foto{width:7rem;height:8.4rem}}
+.apoio-cta + .rodape{margin-top:0}
+/* Cartão do Pix: na página inicial e na faixa de apoio de todas as páginas */
+.pix-cartao{flex:0 1 18.75rem;max-width:18.75rem;display:flex;flex-direction:column;align-items:center;gap:.75rem;padding:1.25rem;color:var(--text);
+  background:var(--folha-banda);border-radius:1.25rem;box-shadow:0 30px 50px -30px rgba(0,0,0,.6);text-align:center;font-family:var(--font-ui)}
+.h-sec--banda .pix-cartao p,.apoio-cta .pix-cartao p{color:var(--text)}
+.pix-cartao__rot{margin:0;font-size:.8125rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--text-muted)!important}
+.pix-cartao__qr{display:grid;place-items:center;width:11.25rem;height:11.25rem;overflow:hidden;font-size:.875rem;line-height:1.4;color:#3B5156;
+  background:var(--qr-fundo);border:2px dashed var(--line);border-radius:var(--radius)}
+.pix-cartao__qr.tem-qr{border:0;padding:.5rem}
+.pix-cartao__qr img{display:block;width:100%;height:100%;object-fit:contain}
+.pix-cartao__instr{margin:0;font-size:.875rem;color:var(--text-muted)!important}
+.pix-cartao__chave{margin:0;font-weight:700;font-size:.9375rem;overflow-wrap:anywhere}
+.pix-cartao .btn{width:100%}
+
+.apoio-cta .pix-cartao{color:var(--text)}
+
+/* ---------- Páginas internas com faixa verde-petróleo no topo (Provas, Meu estudo) ---------- */
+main.pag{max-width:none;padding:0}
+.faixa{background:var(--banda);color:var(--sobre-banda)}
+.faixa__in,.pag__corpo{max-width:75rem;margin:0 auto;padding-left:var(--s3);padding-right:var(--s3)}
+@media (min-width:48rem){.faixa__in,.pag__corpo{padding-left:var(--s4);padding-right:var(--s4)}}
+.faixa__in{display:flex;flex-wrap:wrap;gap:var(--s4) var(--s6);align-items:center;justify-content:space-between;padding-top:3rem;padding-bottom:3rem}
+@media (min-width:48rem){.faixa__in{padding-top:3.5rem;padding-bottom:3.5rem}}
+.faixa__texto{flex:1 1 22rem;max-width:36rem}
+.faixa h1{margin:0 0 var(--s2);color:#F7F8F8;font-size:clamp(2.3rem,5vw,3.5rem);font-weight:800;line-height:1.04;letter-spacing:-.02em}
+.faixa h1 em{font-weight:400;color:var(--banda-destaque)}
+.faixa__lead{margin:0;font-size:1.125rem;line-height:1.55;color:var(--banda-mudo);max-width:34rem}
+.faixa__lead a{color:var(--banda-destaque);font-weight:700}
+.faixa .sobretitulo{margin:0 0 var(--s2);font:700 .8125rem/1.4 var(--font-ui);letter-spacing:.16em;text-transform:uppercase;color:var(--banda-ouro)}
+.faixa__painel{flex:0 1 30rem;display:flex;flex-direction:column;gap:var(--s3);padding:1.25rem;background:rgba(255,255,255,.07);border-radius:1.5rem}
+.faixa .rotulo{color:var(--banda-ouro)}
+.pag__corpo{padding-top:var(--s5);padding-bottom:var(--s6)}
+.sobretitulo{margin:0 0 var(--s2);font:700 .8125rem/1.4 var(--font-ui);letter-spacing:.16em;text-transform:uppercase;color:var(--ouro)}
+/* Seletor em pílula (escolha única, até 4 opções), claro e sobre a faixa */
+.segmento{display:grid;grid-auto-columns:minmax(0,1fr);grid-auto-flow:column;gap:4px;padding:5px;background:var(--surface-2);border-radius:var(--pilula)}
+.segmento button{min-height:2.75rem;padding:0 .75rem;font:600 1rem var(--font-ui);color:var(--text);background:transparent;border:0;border-radius:var(--pilula);cursor:pointer;transition:background-color .15s,color .15s}
+.segmento button[aria-pressed="true"],.segmento button[aria-checked="true"]{font-weight:700;color:var(--sobre-tinta);background:var(--tinta)}
+.segmento button:focus-visible{outline:none;box-shadow:0 0 0 3px var(--ouro)}
+.faixa .segmento{background:#0A3239}
+.faixa .segmento button{color:var(--sobre-banda)}
+.faixa .segmento button[aria-pressed="true"]{color:#05333A;background:#E0E1E3}
+.faixa .chk{color:#F7F8F8}
+.faixa input[type=checkbox]{background-color:transparent;border-color:var(--banda-destaque)}
+.faixa input[type=checkbox]:checked{background-color:var(--banda-destaque);border-color:var(--banda-destaque);background-image:var(--visto-escuro)}
+.faixa select.campo{color:#06191F;background-color:#F7F8F8;border-color:#F7F8F8;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2305333A' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E"),radial-gradient(circle at center,#CFE1E0 0 1.1rem,transparent 1.15rem)}
+.faixa select.campo option{color:#06191F;background:#F7F8F8}
+/* Título de seção com o tracejado da folha */
+.faixa--centro .faixa__in{flex-direction:column;align-items:center;text-align:center;gap:var(--s3)}
+.faixa--centro h1{margin:0}
+/* folha que sobe sobre a faixa (receber o progresso e outras telas de uma decisão só) */
+.faixa--sobe .faixa__in{padding-bottom:7.5rem}
+.sobe{max-width:50rem;margin:-6rem auto 0;padding:0 var(--s3) var(--s6);position:relative}
+@media (min-width:48rem){.sobe{padding:0 var(--s4) var(--s6)}}
+.sobe__folha{display:flex;flex-direction:column;gap:var(--s4);padding:1.5rem 1.15rem;background:var(--folha);border-radius:1.75rem;box-shadow:0 24px 50px -30px rgba(6,25,31,.55)}
+@media (min-width:48rem){.sobe__folha{padding:2rem 2.25rem}}
+[data-theme="dark"] .sobe__folha{border:1px solid var(--line)}
+.sobe__folha>*{margin-top:0;margin-bottom:0}
+.sobe__folha h2{font-size:clamp(1.4rem,3vw,1.6rem);font-weight:800}
+.sobe__folha h2 em{font-weight:400;color:var(--caneta)}
+.btn--grande{min-height:3.4rem;padding:0 1.6rem;font-size:1.0625rem;gap:.6rem}
+.trilha--faixa{margin:0 0 var(--s3);font:var(--fs-1) var(--font-ui);color:var(--banda-mudo)}
+.trilha--faixa a{color:var(--banda-destaque)}
+.titulo-linha{display:flex;align-items:baseline;gap:var(--s3);margin:0 0 var(--s3)}
+.titulo-linha h2{margin:0;font-size:clamp(1.6rem,3.5vw,2rem);font-weight:800;line-height:1.1}
+.titulo-linha h2 em{font-weight:400;color:var(--caneta)}
+.titulo-linha::after{content:"";order:1;flex:1 1 auto;border-top:1.5px dashed var(--line)}
+.titulo-linha>.titulo-linha__extra{order:2;font:var(--fs-1) var(--font-ui);color:var(--text-muted)}
+
+/* ---------- Receber o progresso ---------- */
+.recebe__aparelhos{display:flex;align-items:center;gap:1.1rem;color:var(--banda-ouro)}
+.recebe__cel{width:2.9rem;height:4.9rem;box-sizing:border-box;border:2px solid var(--banda-destaque);border-radius:.6rem;display:grid;place-items:center}
+.recebe__cel i{width:1.25rem;height:4px;border-radius:2px;background:var(--banda-destaque)}
+.recebe__note{width:6rem;height:4.1rem;box-sizing:border-box;border:2px solid #F7F8F8;border-radius:.5rem;background:rgba(255,255,255,.07)}
+.recebe__nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,9.5rem),1fr));gap:.75rem}
+.recebe__nums div{display:flex;flex-direction:column;gap:.3rem;padding:1.1rem;background:var(--folha-campo);border-radius:1.1rem}
+.recebe__nums dd{order:-1;margin:0;font:800 2.2rem/1 var(--font-title);color:var(--tinta)}
+[data-theme="dark"] .recebe__nums dd{color:var(--text)}
+.recebe__nums dt{font:.9375rem/1.35 var(--font-ui);color:var(--text-muted)}
+.recebe__extra{font:.9375rem var(--font-ui);color:var(--text-muted)}
+.recebe__oque h3{margin:0 0 .6rem}
+.recebe__oque ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:.5rem}
+.recebe__oque li{max-width:none;margin:0;display:flex;gap:.75rem;align-items:flex-start;padding:.9rem 1rem;border-radius:1rem;font-family:var(--font-ui)}
+.recebe__oque li b{flex:none;font-size:.875rem;color:#F7F8F8;border-radius:var(--pilula);padding:.2rem .65rem}
+.recebe__soma{background:var(--caneta-clara)}
+.recebe__soma b{background:var(--caneta)}
+.recebe__troca{background:var(--folha-campo);box-shadow:inset 0 0 0 1.5px var(--ouro)}
+.recebe__troca b{background:#735826}
+.recebe__acoes{display:flex;flex-wrap:wrap;gap:var(--s2);align-items:center;padding-top:1.25rem;border-top:1.5px dashed var(--line)}
+.recebe__copia{flex:1 1 100%;justify-content:flex-start;padding-left:0;min-height:2.5rem}
+.sobe__folha [role=status]:empty{display:none}
+@media (max-width:39.99rem){.recebe__acoes .btn{flex:1 1 100%;justify-content:center}}
+
+/* selo de revisão humana, no pé da correção comentada */
+.selo-rev{display:inline-flex;align-items:center;gap:.4rem;margin:.4rem 0 0;padding:.3rem .8rem .3rem .45rem;font:700 .8125rem/1.3 var(--font-ui);color:var(--tinta);background:var(--caneta-clara);border-radius:var(--pilula)}
+.selo-rev svg{flex:none;width:1.25rem;height:1.25rem;padding:.15rem;box-sizing:border-box;color:#F7F8F8;background:var(--caneta);border-radius:50%}
+[data-theme="dark"] .selo-rev{color:var(--text)}
+
+/* foto com nome embaixo, nas chamadas de apoio */
+.cta-autor{flex:none;margin:0;display:flex;flex-direction:column;align-items:center;gap:.5rem}
+.cta-autor figcaption{max-width:9rem;text-align:center;font:600 var(--fs-1)/1.3 var(--font-ui);color:var(--sobre-banda)}
+/* Com "Sobre", o menu de cima tem 5 itens: entre 1024 e 1199 px, aperta o espaçamento para caber numa linha só */
+@media (max-width:74.99rem){.cab__nav ul{gap:0}.cab__nav a{padding:.5rem .55rem;font-size:.95rem}.cab__acoes .btn{padding-inline:.85rem}}

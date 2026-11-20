@@ -1,0 +1,1300 @@
+{
+ "id": "enem-2016-natureza",
+ "banca": "Enem",
+ "ano": 2016,
+ "titulo": "Enem 2016: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2016-11-05",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Química",
+   "assunto": "Polaridade e solubilidade",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\">Em sua formulação, o <em>spray</em> de pimenta contém porcentagens variadas de oleorresina de <em>Capsicum</em>, cujo princípio ativo é a capsaicina, e um solvente (um álcool como etanol ou isopropanol). Em contato com os olhos, pele ou vias respiratórias, a capsaicina causa um efeito inflamatório que gera uma sensação de dor e ardor, levando à cegueira temporária. O processo é desencadeado pela liberação de neuropeptídios das terminações nervosas.</p><p class=\"fonte\">Como funciona o gás de pimenta. Disponível em: http://pessoas.hsw.uol.com.br. Acesso em: 1 mar. 2012 (adaptado).</p><p>Quando uma pessoa é atingida com o <em>spray</em> de pimenta nos olhos ou na pele, a lavagem da região atingida com água é ineficaz porque a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reação entre etanol e água libera calor, intensificando o ardor.",
+    "B": "solubilidade do princípio ativo em água é muito baixa, dificultando a sua remoção.",
+    "C": "permeabilidade da água na pele é muito alta, não permitindo a remoção do princípio ativo.",
+    "D": "solubilização do óleo em água causa um maior espalhamento além das áreas atingidas.",
+    "E": "ardência faz evaporar rapidamente a água, não permitindo que haja contato entre o óleo e o solvente."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A capsaicina vem de uma oleorresina e está dissolvida em álcool: é uma molécula de baixa polaridade, pouco solúvel em água. Por isso a água não consegue retirá-la da pele ou dos olhos: a <strong>solubilidade do princípio ativo em água é muito baixa, dificultando a sua remoção</strong>. Alternativa <strong>B</strong>.</p><p>Etanol e água se misturam sem reação química que libere calor relevante (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "solubilidade",
+    "capsaicina"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">A usina de Itaipu é uma das maiores hidrelétricas do mundo em geração de energia. Com 20 unidades geradoras e 14 000 MW de potência total instalada, apresenta uma queda de 118,4 m e vazão nominal de 690 m<sup>3</sup>/s por unidade geradora. O cálculo da potência teórica leva em conta a altura da massa de água represada pela barragem, a gravidade local (10 m/s<sup>2</sup>) e a densidade da água (1 000 kg/m<sup>3</sup>). A diferença entre a potência teórica e a instalada é a potência não aproveitada.</p><p class=\"fonte\">Disponível em: www.itaipu.gov.br. Acesso em: 11 maio 2013 (adaptado).</p><p>Qual é a potência, em MW, não aproveitada em cada unidade geradora de Itaipu?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0",
+    "B": "1,18",
+    "C": "116,96",
+    "D": "816,96",
+    "E": "13 183,04"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Potência teórica de cada unidade: P = ρ · Q · g · h = 1 000 × 690 × 10 × 118,4 = 816 960 000 W = 816,96 MW.</p><p>Potência instalada por unidade: 14 000 MW ÷ 20 = 700 MW. Não aproveitada: 816,96 − 700 = <strong>116,96 MW</strong>. Alternativa <strong>C</strong>.</p><p>816,96 MW (D) é a potência teórica, sem descontar a instalada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência hidráulica",
+    "hidrelétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Biologia",
+   "assunto": "Questões ambientais",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>A coleta das fezes dos animais domésticos em sacolas plásticas e o seu descarte em lixeiras convencionais podem criar condições de degradação que geram produtos prejudiciais ao meio ambiente (Figura 1).</p><p><strong>Figura 1</strong></p>[[fig:1]]<p>A Figura 2 ilustra o Projeto <em>Park Spark</em>, desenvolvido em Cambridge, MA (EUA), em que as fezes dos animais domésticos são recolhidas em sacolas biodegradáveis e jogadas em um biodigestor instalado em parques públicos; e os produtos são utilizados em equipamentos no próprio parque.</p><p><strong>Figura 2</strong></p>[[fig:2]]<p class=\"fonte\">Disponível em: http://parksparkproject.com. Acesso em: 30 ago. 2013 (adaptado).</p><p>Uma inovação desse projeto é possibilitar o(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q48a.webp",
+     "alt": "Figura 1: uma pessoa recolhe as fezes de um cachorro num saco plástico e joga numa lixeira comum; o lixo vai para um monte que solta gases."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q48b.webp",
+     "alt": "Figura 2: a pessoa joga o saco com as fezes num biodigestor enterrado, ligado a um poste de luz do parque."
+    }
+   ],
+   "alternativas": {
+    "A": "queima de gás metano.",
+    "B": "armazenamento de gás carbônico.",
+    "C": "decomposição aeróbica das fezes.",
+    "D": "uso mais eficiente de combustíveis fósseis.",
+    "E": "fixação de carbono em moléculas orgânicas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No lixo comum, as fezes se decompõem sem oxigênio e liberam metano para a atmosfera, um gás de efeito estufa (Figura 1). No projeto, o biodigestor coleta esse metano (biogás) e ele é queimado nos postes de iluminação do parque (Figura 2). A inovação é possibilitar a <strong>queima de gás metano</strong>, aproveitando sua energia. Alternativa <strong>A</strong>.</p><p>O biodigestor faz decomposição anaeróbica, não aeróbica (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biogás",
+    "metano"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>Uma ambulância <strong>A</strong> em movimento retílineo e uniforme aproxima-se de um observador <strong>O</strong>, em repouso. A sirene emite um som de frequência constante <em>f</em><sub>A</sub>. O desenho ilustra as frentes de onda do som emitido pela ambulância. O observador possui um detector que consegue registrar, no esboço de um gráfico, a frequência da onda sonora detectada em função do tempo <em>f</em><sub>O</sub>(<em>t</em>), antes e depois da passagem da ambulância por ele.</p>[[fig:1]]<p>Qual esboço gráfico representa a frequência <em>f</em><sub>O</sub>(<em>t</em>) detectada pelo observador?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q49.webp",
+     "alt": "Frentes de onda circulares emitidas pela ambulância A, que se move para a direita: os círculos ficam mais juntos à direita, no sentido do observador O."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q49a.webp",
+     "alt": "Gráfico A: f_O(t) oscila em torno de f_A, como uma senoide."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q49b.webp",
+     "alt": "Gráfico B: f_O(t) igual a f_A, com um pico no meio e volta a f_A."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q49c.webp",
+     "alt": "Gráfico C: f_O(t) começa abaixo de f_A e sobe, terminando acima de f_A."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q49d.webp",
+     "alt": "Gráfico D: f_O(t) começa acima de f_A, constante, e cai, terminando abaixo de f_A."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q49e.webp",
+     "alt": "Gráfico E: f_O(t) constante, acima de f_A, o tempo todo."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo efeito Doppler, enquanto a ambulância se aproxima, o observador percebe frequência maior que f<sub>A</sub>, constante (a velocidade é constante). Quando ela passa e se afasta, a frequência percebida cai para um valor menor que f<sub>A</sub>, também constante. Perto da passagem, a transição é rápida. É o gráfico que começa acima de f<sub>A</sub> e termina abaixo. Alternativa <strong>D</strong>.</p><p>No gráfico C, a ordem está invertida; em E, não haveria efeito Doppler.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "efeito Doppler"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p>O benzeno, um importante solvente para a indústria química, é obtido industrialmente pela destilação do petróleo. Contudo, também pode ser sintetizado pela trimerização do acetileno catalisada por ferro metálico sob altas temperaturas, conforme a equação química:</p><p class=\"apoio\">3 C<sub>2</sub>H<sub>2</sub> (g) → C<sub>6</sub>H<sub>6</sub> (l)</p><p>A energia envolvida nesse processo pode ser calculada indiretamente pela variação de entalpia das reações de combustão das substâncias participantes, nas mesmas condições experimentais:</p><p class=\"apoio\">I. C<sub>2</sub>H<sub>2</sub> (g) + 5/2 O<sub>2</sub> (g) → 2 CO<sub>2</sub> (g) + H<sub>2</sub>O (l) &nbsp; Δ<em>H</em><sub>c</sub>° = −310 kcal/mol<br>II. C<sub>6</sub>H<sub>6</sub> (l) + 15/2 O<sub>2</sub> (g) → 6 CO<sub>2</sub> (g) + 3 H<sub>2</sub>O (l) &nbsp; Δ<em>H</em><sub>c</sub>° = −780 kcal/mol</p><p>A variação de entalpia do processo de trimerização, em kcal, para a formação de um mol de benzeno é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "−1 090.",
+    "B": "−150.",
+    "C": "−50.",
+    "D": "+157.",
+    "E": "+470."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Pela lei de Hess, a trimerização é 3 vezes a combustão do acetileno menos a combustão do benzeno (invertida):</p><p>ΔH = 3 × (−310) − (−780) = −930 + 780 = <strong>−150 kcal</strong>. Alternativa <strong>B</strong>.</p><p>−1 090 (A) soma as duas entalpias, sem inverter a do benzeno.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lei de Hess",
+    "entalpia de combustão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Química",
+   "assunto": "Reações inorgânicas",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\">Em meados de 2003, mais de 20 pessoas morreram no Brasil após terem ingerido uma suspensão de sulfato de bário utilizada como contraste em exames radiológicos. O sulfato de bário é um sólido pouquíssimo solúvel em água, que não se dissolve mesmo na presença de ácidos. As mortes ocorreram porque um laboratório farmacêutico forneceu o produto contaminado com carbonato de bário, que é solúvel em meio ácido. Um simples teste para verificar a existência de íons bário solúveis poderia ter evitado a tragédia. Esse teste consiste em tratar a amostra com solução aquosa de HCl e, após filtrar para separar os compostos insolúveis de bário, adiciona-se solução aquosa de H<sub>2</sub>SO<sub>4</sub> sobre o filtrado e observa-se por 30 min.</p><p class=\"fonte\">TUBINO, M.; SIMONI, J. A. Refletindo sobre o caso Celobar®. <strong>Química Nova</strong>, n. 2, 2007 (adaptado).</p><p>A presença de íons bário solúveis na amostra é indicada pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "liberação de calor.",
+    "B": "alteração da cor para rosa.",
+    "C": "precipitação de um sólido branco.",
+    "D": "formação de gás hidrogênio.",
+    "E": "volatilização de gás cloro."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O HCl dissolve o carbonato de bário, liberando íons Ba<sup>2+</sup>. Depois da filtração, o H<sub>2</sub>SO<sub>4</sub> reage com esses íons formando sulfato de bário, insolúvel: Ba<sup>2+</sup> + SO<sub>4</sub><sup>2−</sup> → BaSO<sub>4</sub>. A presença de bário solúvel é indicada pela <strong>precipitação de um sólido branco</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "precipitação",
+    "sulfato de bário"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Química",
+   "assunto": "Isomeria",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p>Os feromônios são substâncias utilizadas na comunicação entre indivíduos de uma espécie. O primeiro feromônio isolado de um inseto foi o bombicol, substância produzida pela mariposa do bicho-da-seda.</p>[[fig:1]]<p>O uso de feromônios em ações de controle de insetos-praga está de acordo com o modelo preconizado para a agricultura do futuro. São agentes altamente específicos e seus compostos químicos podem ser empregados em determinados cultivos, conforme ilustrado no quadro.</p>[[fig:2]]<p class=\"fonte\">FERREIRA, J. T. B.; ZARBIN, P. H. G. Amor ao primeiro odor: a comunicação química entre os insetos. <strong>Química Nova na Escola</strong>, n. 7, maio 1998 (adaptado).</p><p>Considerando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol é também apresentada pelo feromônio utilizado no controle do inseto</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q52a.webp",
+     "alt": "Estrutura do bombicol: uma cadeia longa de carbonos com duas ligações duplas no meio e um grupo OH na ponta."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q52b.webp",
+     "alt": "Quadro com cinco feromônios. Sitophilus spp (milho): cadeia curta com OH e C=O e ramificações metila. Migdolus fryanus (cana-de-açúcar): amida com ramificações metila. Anthonomus rubi (morango): cadeia com uma dupla ligação ligada a dois metis e um grupo CH₂OH. Grapholita molesta (frutas): cadeia longa com OH na ponta. Scrobipalpuloides absoluta (tomate): cadeia longa com duas duplas ligações no meio e um grupo OCOCH₃ na ponta."
+    }
+   ],
+   "alternativas": {
+    "A": "<em>Sitophilus spp</em>.",
+    "B": "<em>Migdolus fryanus</em>.",
+    "C": "<em>Anthonomus rubi</em>.",
+    "D": "<em>Grapholita molesta</em>.",
+    "E": "<em>Scrobipalpuloides absoluta</em>."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O bombicol tem duas ligações duplas entre carbonos com ligantes diferentes: apresenta isomeria geométrica (cis-trans). Entre os feromônios do quadro, o usado contra <em>Scrobipalpuloides absoluta</em> também tem ligações duplas na cadeia, cada carbono com ligantes diferentes. Alternativa <strong>E</strong>.</p><p>Os de <em>Sitophilus</em> e <em>Migdolus</em> (A e B) têm carbonos quirais (isomeria óptica), e o de <em>Anthonomus</em> (C) tem uma dupla sem isomeria geométrica.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "isomeria geométrica",
+    "feromônios"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Bioquímica",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p>O esquema representa, de maneira simplificada, o processo de produção de etanol utilizando milho como matéria-prima.</p>[[fig:1]]<p>A etapa de hidrólise na produção de etanol a partir do milho é fundamental para que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q53.webp",
+     "alt": "Esquema: o milho entra num tanque de hidrólise; o produto segue para um tanque de fermentação que recebe levedura e de onde saem CO₂, etanol e água."
+    }
+   ],
+   "alternativas": {
+    "A": "a glicose seja convertida em sacarose.",
+    "B": "as enzimas dessa planta sejam ativadas.",
+    "C": "a maceração favoreça a solubilização em água.",
+    "D": "o amido seja transformado em substratos utilizáveis pela levedura.",
+    "E": "os grãos com diferentes composições químicas sejam padronizados."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O milho guarda energia como amido, um polissacarídeo que a levedura não consegue fermentar. A hidrólise quebra o amido em glicose, que a levedura transforma em etanol e CO<sub>2</sub>. A etapa é fundamental para que <strong>o amido seja transformado em substratos utilizáveis pela levedura</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fermentação",
+    "hidrólise do amido"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Física",
+   "assunto": "Calorimetria",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p>Durante a primeira fase do projeto de uma usina de geração de energia elétrica, os engenheiros da equipe de avaliação de impactos ambientais procuram saber se esse projeto está de acordo com as normas ambientais. A nova planta estará localizada à beira de um rio, cuja temperatura média da água é de 25 °C, e usará a sua água somente para refrigeração. O projeto pretende que a usina opere com 1,0 MW de potência elétrica e, em razão de restrições técnicas, o dobro dessa potência será dissipada por seu sistema de arrefecimento, na forma de calor. Para atender a resolução número 430, de 13 de maio de 2011, do Conselho Nacional do Meio Ambiente, com uma ampla margem de segurança, os engenheiros determinaram que a água só poderá ser devolvida ao rio com um aumento de temperatura de, no máximo, 3 °C em relação à temperatura da água do rio captada pelo sistema de arrefecimento. Considere o calor específico da água igual a 4 kJ/(kg °C).</p><p>Para atender essa determinação, o valor mínimo do fluxo de água, em kg/s, para a refrigeração da usina deve ser mais próximo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "42.",
+    "B": "84.",
+    "C": "167.",
+    "D": "250.",
+    "E": "500."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A usina gera 1,0 MW elétrico e dissipa o dobro, 2,0 MW = 2 000 kJ/s, como calor para a água. Com aquecimento máximo de 3 °C:</p><p>fluxo = P ÷ (c · ΔT) = 2 000 ÷ (4 × 3) ≈ <strong>167 kg/s</strong>. Alternativa <strong>C</strong>.</p><p>Usar 1 MW em vez de 2 MW dá 84 kg/s (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calor específico",
+    "potência térmica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p>A Figura 1 apresenta o gráfico da intensidade, em decibéis (dB), da onda sonora emitida por um alto-falante, que está em repouso, e medida por um microfone em função da frequência da onda para diferentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm. A Figura 2 apresenta um diagrama com a indicação das diversas faixas do espectro de frequência sonora para o modelo de alto-falante utilizado neste experimento.</p>[[fig:1]][[fig:2]]<p>Relacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afetada pelo aumento da distância do microfone ao alto-falante?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q55a.webp",
+     "alt": "Figura 1, “Resposta de Frequência”: intensidade (dB) em função da frequência (de 20 a 20 000 Hz) para 3 mm, 25 mm, 51 mm e 60 mm. Nas baixas frequências, a curva de 3 mm está perto de +10 dB e a de 60 mm perto de −10 dB; acima de cerca de 1 000 Hz, as quatro curvas se juntam."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q55b.webp",
+     "alt": "Figura 2, “Faixas do espectro de frequência sonora”: subgrave (20 a 63 Hz), grave (63 a 250 Hz), média baixa (250 a 640 Hz), média (640 Hz a 2,5 kHz), média alta (2,5 a 5 kHz) e aguda (5 a 20 kHz)."
+    }
+   ],
+   "alternativas": {
+    "A": "Aumenta na faixa das frequências médias.",
+    "B": "Diminui na faixa das frequências agudas.",
+    "C": "Diminui na faixa das frequências graves.",
+    "D": "Aumenta na faixa das frequências médias altas.",
+    "E": "Aumenta na faixa das frequências médias baixas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No gráfico, as curvas para distâncias maiores ficam bem mais baixas nas frequências de 20 Hz a cerca de 250 Hz (até 20 dB a menos), e quase se juntam acima de 1 000 Hz. Pela Figura 2, essa faixa baixa é a dos graves. A intensidade <strong>diminui na faixa das frequências graves</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "intensidade sonora",
+    "frequência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p>As proteínas de uma célula eucariótica possuem peptídeos sinais, que são sequências de aminoácidos responsáveis pelo seu endereçamento para as diferentes organelas, de acordo com suas funções. Um pesquisador desenvolveu uma nanopartícula capaz de carregar proteínas para dentro de tipos celulares específicos. Agora ele quer saber se uma nanopartícula carregada com uma proteína bloqueadora do ciclo de Krebs <em>in vitro</em> é capaz de exercer sua atividade em uma célula cancerosa, podendo cortar o aporte energético e destruir essas células.</p><p>Ao escolher essa proteína bloqueadora para carregar as nanopartículas, o pesquisador deve levar em conta um peptídeo sinal de endereçamento para qual organela?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Núcleo.",
+    "B": "Mitocôndria.",
+    "C": "Peroxissomo.",
+    "D": "Complexo golgiense.",
+    "E": "Retículo endoplasmático."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O ciclo de Krebs acontece na matriz da mitocôndria. Para que a proteína bloqueadora funcione, ela precisa ser endereçada a essa organela: o pesquisador deve usar o peptídeo sinal da <strong>mitocôndria</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo de Krebs",
+    "endereçamento de proteínas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p>O morcego emite pulsos de curta duração de ondas ultrassônicas, os quais voltam na forma de ecos após atingirem objetos no ambiente, trazendo informações a respeito das suas dimensões, suas localizações e dos seus possíveis movimentos. Isso se dá em razão da sensibilidade do morcego em detectar o tempo gasto para os ecos voltarem, bem como das pequenas variações nas frequências e nas intensidades dos pulsos ultrassônicos. Essas características lhe permitem caçar pequenas presas mesmo quando estão em movimento em relação a si. Considere uma situação unidimensional em que uma mariposa se afasta, em movimento retilíneo e uniforme, de um morcego em repouso.</p><p>A distância e velocidade da mariposa, na situação descrita, seriam detectadas pelo sistema de um morcego por quais alterações nas características dos pulsos ultrassônicos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida diminuída.",
+    "B": "Intensidade aumentada, o tempo de retorno diminuído e a frequência percebida diminuída.",
+    "C": "Intensidade diminuída, o tempo de retorno diminuído e a frequência percebida aumentada.",
+    "D": "Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida aumentada.",
+    "E": "Intensidade aumentada, o tempo de retorno aumentado e a frequência percebida aumentada."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A mariposa se afasta: está cada vez mais longe, então o eco volta mais fraco (intensidade diminuída) e demora mais (tempo de retorno aumentado). Como a fonte refletora se afasta, o efeito Doppler reduz a frequência percebida. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eco",
+    "efeito Doppler"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p>A minimização do tempo e custo de uma reação química, bem como o aumento na sua taxa de conversão, caracterizam a eficiência de um processo químico. Como consequência, produtos podem chegar ao consumidor mais baratos. Um dos parâmetros que mede a eficiência de uma reação química é o seu rendimento molar (<em>R</em>, em %), definido como</p><p>\\[R = \\frac{n_{\\text{produto}}}{n_{\\text{reagente limitante}}} \\times 100\\]</p><p>em que <em>n</em> corresponde ao número de mols. O metanol pode ser obtido pela reação entre brometo de metila e hidróxido de sódio, conforme a equação química:</p><p class=\"apoio\">CH<sub>3</sub>Br + NaOH → CH<sub>3</sub>OH + NaBr</p><p>As massas molares (em g/mol) desses elementos são: H = 1; C = 12; O = 16; Na = 23; Br = 80.</p><p>O rendimento molar da reação, em que 32 g de metanol foram obtidos a partir de 142,5 g de brometo de metila e 80 g de hidróxido de sódio, é mais próximo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "22%.",
+    "B": "40%.",
+    "C": "50%.",
+    "D": "67%.",
+    "E": "75%."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Mols: CH<sub>3</sub>Br (95 g/mol): 142,5 ÷ 95 = 1,5 mol; NaOH (40 g/mol): 80 ÷ 40 = 2 mol. A proporção é 1 : 1, então o limitante é o CH<sub>3</sub>Br. Metanol (32 g/mol): 32 ÷ 32 = 1 mol.</p><p>R = 1 ÷ 1,5 × 100 ≈ <strong>67%</strong>. Alternativa <strong>D</strong>.</p><p>Dividir pelo NaOH, que está em excesso, dá 50% (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rendimento",
+    "reagente limitante"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p>Por apresentar significativa resistividade elétrica, o grafite pode ser utilizado para simular resistores elétricos em circuitos desenhados no papel, com o uso de lápis e lapiseiras. Dependendo da espessura e do comprimento das linhas desenhadas, é possível determinar a resistência elétrica de cada traçado produzido. No esquema foram utilizados três tipos de lápis diferentes (2H, HB e 6B) para efetuar três traçados distintos.</p>[[fig:1]]<p>Munido dessas informações, um estudante pegou uma folha de papel e fez o desenho de um sorvete de casquinha utilizando-se desses traçados. Os valores encontrados nesse experimento, para as resistências elétricas (R), medidas com o auxílio de um ohmímetro ligado nas extremidades das resistências, são mostrados na figura. Verificou-se que os resistores obedeciam à Lei de Ohm.</p>[[fig:2]]<p>Na sequência, conectou o ohmímetro nos terminais A e B do desenho e, em seguida, conectou-o nos terminais B e C, anotando as leituras <em>R</em><sub>AB</sub> e <em>R</em><sub>BC</sub>, respectivamente.</p><p>Ao estabelecer a razão \\(\\dfrac{R_{AB}}{R_{BC}}\\), qual resultado o estudante obteve?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q59a.webp",
+     "alt": "Três traçados de lápis: um zigue-zague (2H), uma linha reta (HB) e um arco grosso (6B)."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q59b.webp",
+     "alt": "Desenho de um sorvete de casquinha: entre os pontos A e B, um arco de 5 kΩ por cima e um zigue-zague de 20 kΩ por baixo; de A e de B descem dois traços de 10 kΩ que se encontram no ponto C, a ponta da casquinha."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "\\(\\dfrac{4}{7}\\)",
+    "C": "\\(\\dfrac{10}{27}\\)",
+    "D": "\\(\\dfrac{14}{81}\\)",
+    "E": "\\(\\dfrac{4}{81}\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No desenho, entre A e B há o traço de 5 kΩ (arco) em paralelo com o de 20 kΩ: 4 kΩ. De A e de B saem os dois lados de 10 kΩ até C.</p><p>R<sub>AB</sub>: 4 kΩ em paralelo com o caminho A–C–B (10 + 10 = 20 kΩ): 4 · 20 ÷ 24 = 10/3 kΩ.</p><p>R<sub>BC</sub>: 10 kΩ em paralelo com o caminho B–A–C (4 + 10 = 14 kΩ): 10 · 14 ÷ 24 = 35/6 kΩ.</p><p>Razão: (10/3) ÷ (35/6) = 20/35 = <strong>4/7</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "associação de resistores",
+    "lei de Ohm"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Química",
+   "assunto": "Forças intermoleculares",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p>O carvão ativado é um material que possui elevado teor de carbono, sendo muito utilizado para a remoção de compostos orgânicos voláteis do meio, como o benzeno. Para a remoção desses compostos, utiliza-se a adsorção. Esse fenômeno ocorre por meio de interações do tipo intermoleculares entre a superfície do carvão (adsorvente) e o benzeno (adsorvato, substância adsorvida).</p><p>No caso apresentado, entre o adsorvente e a substância adsorvida ocorre a formação de:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ligações dissulfeto.",
+    "B": "Ligações covalentes.",
+    "C": "Ligações de hidrogênio.",
+    "D": "Interações dipolo induzido – dipolo induzido.",
+    "E": "Interações dipolo permanente – dipolo permanente."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O benzeno é apolar, e a superfície do carvão (carbono) também. Entre moléculas apolares, as únicas atrações são as forças de London: <strong>interações dipolo induzido – dipolo induzido</strong>. Alternativa <strong>D</strong>.</p><p>A adsorção física não forma ligações covalentes (B), e o benzeno não faz ligações de hidrogênio (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "adsorção",
+    "forças de London"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p>Um pesquisador investigou o papel da predação por peixes na densidade e tamanho das presas, como possível controle de populações de espécies exóticas em costões rochosos. No experimento colocou uma tela sobre uma área da comunidade, impedindo o acesso dos peixes ao alimento, e comparou o resultado com uma área adjacente na qual os peixes tinham acesso livre. O quadro apresenta os resultados encontrados após 15 dias de experimento.</p><table class=\"tabela\"><thead><tr><th>Espécie exótica</th><th>Com tela: densidade (indivíduos/m²)</th><th>Com tela: tamanho médio (cm)</th><th>Sem tela: densidade (indivíduos/m²)</th><th>Sem tela: tamanho médio (cm)</th></tr></thead><tbody><tr><td>Alga</td><td>100</td><td>15</td><td>110</td><td>18</td></tr><tr><td>Craca</td><td>300</td><td>2</td><td>150</td><td>1,5</td></tr><tr><td>Mexilhão</td><td>380</td><td>3</td><td>200</td><td>6</td></tr><tr><td>Ascídia</td><td>55</td><td>4</td><td>58</td><td>3,8</td></tr></tbody></table><p>O pesquisador concluiu corretamente que os peixes controlam a densidade dos(as)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "algas, estimulando seu crescimento.",
+    "B": "cracas, predando especialmente animais pequenos.",
+    "C": "mexilhões, predando especialmente animais pequenos.",
+    "D": "quatro espécies testadas, predando indivíduos pequenos.",
+    "E": "ascídias, apesar de não representarem os menores organismos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Onde os peixes têm acesso (sem tela), a densidade dos mexilhões cai de 380 para 200 por m² e o tamanho médio sobe de 3 para 6 cm: os peixes comem os mexilhões pequenos e reduzem a população. Os peixes controlam a densidade dos <strong>mexilhões, predando especialmente animais pequenos</strong>. Alternativa <strong>C</strong>.</p><p>As cracas também diminuem, mas o tamanho médio cai (de 2 para 1,5 cm): os peixes comem as maiores (B). Algas e ascídias quase não mudam.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "predação",
+    "espécies exóticas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p>Ao percorrer o trajeto de uma cadeia alimentar, o carbono, elemento essencial e majoritário da matéria orgânica que compõe os indivíduos, ora se encontra em sua forma inorgânica, ora se encontra em sua forma orgânica. Em uma cadeia alimentar composta por fitoplâncton, zooplâncton, moluscos, crustáceos e peixes ocorre a transição desse elemento da forma inorgânica para a orgânica.</p><p>Em qual grupo de organismos ocorre essa transição?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Fitoplâncton.",
+    "B": "Zooplâncton.",
+    "C": "Moluscos.",
+    "D": "Crustáceos.",
+    "E": "Peixes."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O carbono passa da forma inorgânica (CO<sub>2</sub>) para a orgânica na fotossíntese, feita pelos produtores. Na cadeia citada, o produtor é o <strong>fitoplâncton</strong>. Alternativa <strong>A</strong>.</p><p>Os outros grupos são consumidores: recebem o carbono já na forma orgânica.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo do carbono",
+    "produtores"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p>Dois veículos que trafegam com velocidade constante em uma estrada, na mesma direção e sentido, devem manter entre si uma distância mínima. Isso porque o movimento de um veículo, até que ele pare totalmente, ocorre em duas etapas, a partir do momento em que o motorista detecta um problema que exige uma freada brusca. A primeira etapa é associada à distância que o veículo percorre entre o intervalo de tempo da detecção do problema e o acionamento dos freios. Já a segunda se relaciona com a distância que o automóvel percorre enquanto os freios agem com desaceleração constante.</p><p>Considerando a situação descrita, qual esboço gráfico representa a velocidade do automóvel em relação à distância percorrida até parar totalmente?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q63a.webp",
+     "alt": "Gráfico A: velocidade diminuindo em linha reta desde o início até zero."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q63b.webp",
+     "alt": "Gráfico B: velocidade constante e depois diminuindo em linha reta até zero."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q63c.webp",
+     "alt": "Gráfico C: velocidade diminuindo numa curva desde o início até zero."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q63d.webp",
+     "alt": "Gráfico D: velocidade constante e depois diminuindo numa curva cada vez mais inclinada até zero."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q63e.webp",
+     "alt": "Gráfico E: velocidade subindo e depois descendo, em forma de arco."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na primeira etapa (tempo de reação), o carro segue com velocidade constante: trecho horizontal. Na segunda, a desaceleração é constante, e pela equação de Torricelli v² = v<sub>0</sub>² − 2ad: a velocidade cai com a distância numa curva, cada vez mais inclinada até zero. É o gráfico com um trecho horizontal seguido de uma curva descendente. Alternativa <strong>D</strong>.</p><p>O gráfico B usa uma reta na frenagem, o que valeria para velocidade em função do tempo, não da distância.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação de Torricelli",
+    "tempo de reação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Biocélulas combustíveis são uma alternativa tecnológica para substituição das baterias convencionais. Em uma biocélula microbiológica, bactérias catalisam reações de oxidação de substratos orgânicos. Liberam elétrons produzidos na respiração celular para um eletrodo, onde fluem por um circuito externo até o cátodo do sistema, produzindo corrente elétrica. Uma reação típica que ocorre em biocélulas microbiológicas utiliza o acetato como substrato.</p><p class=\"fonte\">AQUINO NETO, S. Preparação e caracterização de bioanodos para biocélula a combustível etanol/O2. Disponível em: www.teses.usp.br. Acesso em: 23 jun. 2015 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Em sistemas bioeletroquímicos, os potenciais padrão (<em>E</em>°’) apresentam valores característicos. Para as biocélulas de acetato, considere as seguintes semirreações de redução e seus respectivos potenciais:</p><p class=\"apoio\">2 CO<sub>2</sub> + 7 H<sup>+</sup> + 8 e<sup>−</sup> → CH<sub>3</sub>COO<sup>−</sup> + 2 H<sub>2</sub>O &nbsp; <em>E</em>°’ = −0,3 V<br>O<sub>2</sub> + 4 H<sup>+</sup> + 4 e<sup>−</sup> → 2 H<sub>2</sub>O &nbsp; <em>E</em>°’ = 0,8 V</p><p class=\"fonte\">SCOTT, K.; YU, E. H. Microbial electrochemical and fuel cells: fundamentals and applications. Woodhead Publishing Series in Energy, n. 88, 2016 (adaptado).</p><p>Nessas condições, qual é o número mínimo de biocélulas de acetato, ligadas em série, necessárias para se obter uma diferença de potencial de 4,4 V?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "3",
+    "B": "4",
+    "C": "6",
+    "D": "9",
+    "E": "15"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Cada biocélula fornece a diferença entre os potenciais: 0,8 − (−0,3) = 1,1 V. Em série, as tensões se somam: 4,4 ÷ 1,1 = <strong>4 biocélulas</strong>. Alternativa <strong>B</strong>.</p><p>Somar os módulos dos potenciais de outro jeito, como 0,8 − 0,3 = 0,5 V, levaria a 9 células (D), o que está errado: a diferença de potencial é o maior menos o menor.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pilhas em série",
+    "potencial de redução"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "<p>A formação de coágulos sanguíneos em veias e artérias é um dos fatores responsáveis pela ocorrência de doenças cardiovasculares, como varizes, infarto e acidentes vasculares cerebrais. A prevenção e o tratamento dessas doenças podem ser feitos com drogas anticoagulantes. A indústria farmacêutica estimula a pesquisa de toxinas animais com essa propriedade.</p><p>Considerando as adaptações relacionadas aos hábitos alimentares, os animais adequados ao propósito dessas pesquisas são os(as)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "moluscos fitófagos.",
+    "B": "moscas saprófagas.",
+    "C": "pássaros carnívoros.",
+    "D": "morcegos frugívoros.",
+    "E": "mosquitos hematófagos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Animais que se alimentam de sangue precisam impedir a coagulação enquanto sugam: sua saliva tem substâncias anticoagulantes. São os <strong>mosquitos hematófagos</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anticoagulantes",
+    "hematofagia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Física",
+   "assunto": "Movimento circular",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p>A invenção e o acoplamento entre engrenagens revolucionaram a ciência na época e propiciaram a invenção de várias tecnologias, como os relógios. Ao construir um pequeno cronômetro, um relojoeiro usa o sistema de engrenagens mostrado. De acordo com a figura, um motor é ligado ao eixo e movimenta as engrenagens fazendo o ponteiro girar. A frequência do motor é de 18 RPM, e o número de dentes das engrenagens está apresentado no quadro.</p><table class=\"tabela\"><thead><tr><th>Engrenagem</th><th>Dentes</th></tr></thead><tbody><tr><td>A</td><td>24</td></tr><tr><td>B</td><td>72</td></tr><tr><td>C</td><td>36</td></tr><tr><td>D</td><td>108</td></tr></tbody></table>[[fig:1]]<p>A frequência de giro do ponteiro, em RPM, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q66.webp",
+     "alt": "Sistema de engrenagens: o eixo do motor gira a engrenagem A, que engrena na B; a C está no mesmo eixo da B e engrena na D, que leva o ponteiro."
+    }
+   ],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "4.",
+    "D": "81.",
+    "E": "162."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A engrenagem A (24 dentes) está no eixo do motor, a 18 RPM, e move a B (72 dentes): f<sub>B</sub> = 18 × 24 ÷ 72 = 6 RPM. A C gira junto com a B (mesmo eixo), a 6 RPM, e move a D (108 dentes), que leva o ponteiro: f<sub>D</sub> = 6 × 36 ÷ 108 = <strong>2 RPM</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "engrenagens",
+    "frequência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Estados físicos",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "<p class=\"apoio\">Primeiro, em relação àquilo a que chamamos água, quando congela, parece-nos estar a olhar para algo que se tornou pedra ou terra, mas quando derrete e se dispersa, esta torna-se bafo e ar; o ar, quando é queimado, torna-se fogo; e, inversamente, o fogo, quando se contrai e se extingue, regressa à forma do ar; o ar, novamente concentrado e contraído, torna-se nuvem e nevoeiro, mas, a partir destes estados, se for ainda mais comprimido, torna-se água corrente, e de água torna-se novamente terra e pedras; e deste modo, como nos parece, dão geração uns aos outros de forma cíclica.</p><p class=\"fonte\">PLATÃO. <em>Timeu-Crítias</em>. Coimbra: CECH, 2011.</p><p>Do ponto de vista da ciência moderna, os “quatro elementos” descritos por Platão correspondem, na verdade, às fases sólida, líquida, gasosa e plasma da matéria. As transições entre elas são hoje entendidas como consequências macroscópicas de transformações sofridas pela matéria em escala microscópica.</p><p>Excetuando-se a fase de plasma, essas transformações sofridas pela matéria, em nível microscópico, estão associadas a uma</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "troca de átomos entre as diferentes moléculas do material.",
+    "B": "transmutação nuclear dos elementos químicos do material.",
+    "C": "redistribuição de prótons entre os diferentes átomos do material.",
+    "D": "mudança na estrutura espacial formada pelos diferentes constituintes do material.",
+    "E": "alteração nas proporções dos diferentes isótopos de cada elemento presente no material."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Nas mudanças de estado, as moléculas não mudam: só muda a forma como elas se arranjam e se movimentam (organizadas no sólido, mais livres no líquido, muito afastadas no gás). As transformações estão associadas a uma <strong>mudança na estrutura espacial formada pelos diferentes constituintes do material</strong>. Alternativa <strong>D</strong>.</p><p>Troca de átomos, transmutação ou mudança de isótopos (A, B, C e E) seriam transformações químicas ou nucleares.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mudanças de estado",
+    "modelo cinético"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p class=\"apoio\">Para cada litro de etanol produzido em uma indústria de cana-de-açúcar são gerados cerca de 18 L de vinhaça que é utilizada na irrigação das plantações de cana-de-açúcar, já que contém teores médios de nutrientes N, P e K iguais a 357 mg/L, 60 mg/L e 2 034 mg/L, respectivamente.</p><p class=\"fonte\">SILVA, M. A. S.; GRIEBELER, N. P.; BORGES, L. C. Uso de vinhaça e impactos nas propriedades do solo e lençol freático. <strong>Revista Brasileira de Engenharia Agrícola e Ambiental</strong>, n. 1, 2007 (adaptado).</p><p>Na produção de 27 000 L de etanol, a quantidade total de fósforo, em kg, disponível na vinhaça será mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.",
+    "B": "29.",
+    "C": "60.",
+    "D": "170.",
+    "E": "1 000."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>27 000 L de etanol geram 27 000 × 18 = 486 000 L de vinhaça. Com 60 mg/L de fósforo: 486 000 × 60 = 29 160 000 mg ≈ <strong>29 kg</strong>. Alternativa <strong>B</strong>.</p><p>Esquecer os 18 L de vinhaça por litro de etanol dá cerca de 1,6 kg.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "concentração",
+    "vinhaça"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Biologia",
+   "assunto": "Fisiologia vegetal",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p class=\"apoio\">Recentemente um estudo feito em campos de trigo mostrou que níveis elevados de dióxido de carbono na atmosfera prejudicam a absorção de nitrato pelas plantas. Consequentemente, a qualidade nutricional desses alimentos pode diminuir à medida que os níveis de dióxido de carbono na atmosfera atingirem as estimativas para as próximas décadas.</p><p class=\"fonte\">BLOOM, A. J. et al. Nitrate assimilation is inhibited by elevated CO<sub>2</sub> in field-grown wheat. <strong>Nature Climate Change</strong>, n. 4, abr. 2014 (adaptado).</p><p>Nesse contexto, a qualidade nutricional do grão de trigo será modificada primariamente pela redução de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "amido.",
+    "B": "frutose.",
+    "C": "lipídeos.",
+    "D": "celulose.",
+    "E": "proteínas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O nitrato é a principal fonte de nitrogênio das plantas, usado para produzir aminoácidos. Com menos nitrato absorvido, o grão terá menos <strong>proteínas</strong>. Alternativa <strong>E</strong>.</p><p>Amido, frutose, lipídios e celulose (A a D) não contêm nitrogênio.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nitrogênio",
+    "CO2"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Química",
+   "assunto": "Radioatividade",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p class=\"apoio\">Pesquisadores recuperaram DNA de ossos de mamute (<em>Mammuthus primigenius</em>) encontrados na Sibéria, que tiveram sua idade de cerca de 28 mil anos confirmada pela técnica do carbono-14.</p><p class=\"fonte\">FAPESP. DNA de mamute é revelado. Disponível em: http://agencia.fapesp.br. Acesso em: 13 ago. 2012 (adaptado).</p><p>A técnica de datação apresentada no texto só é possível devido à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "proporção conhecida entre carbono-14 e carbono-12 na atmosfera ao longo dos anos.",
+    "B": "decomposição de todo o carbono-12 presente no organismo após a morte.",
+    "C": "fixação maior do carbono-14 nos tecidos de organismos após a morte.",
+    "D": "emissão de carbono-12 pelos tecidos de organismos após a morte.",
+    "E": "transformação do carbono-12 em carbono-14 ao longo dos anos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os seres vivos mantêm a mesma proporção de carbono-14 em relação ao carbono-12 que existe na atmosfera. Depois da morte, o C-14 decai e a proporção diminui. Medindo quanto ela caiu, calcula-se o tempo. Isso só funciona porque se conhece a <strong>proporção entre carbono-14 e carbono-12 na atmosfera ao longo dos anos</strong>. Alternativa <strong>A</strong>.</p><p>O C-12 é estável: não se decompõe nem é emitido (B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "carbono-14",
+    "datação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Biologia",
+   "assunto": "Biomas",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p>A vegetação apresenta adaptações ao ambiente, como plantas arbóreas e arbustivas com raízes que se expandem horizontalmente, permitindo forte ancoragem no substrato lamacento; raízes que se expandem verticalmente, por causa da baixa oxigenação do substrato; folhas que têm glândulas para eliminar o excesso de sais; folhas que podem apresentar cutícula espessa para reduzir a perda de água por evaporação.</p><p>As características descritas referem-se a plantas adaptadas ao bioma:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Cerrado.",
+    "B": "Pampas.",
+    "C": "Pantanal.",
+    "D": "Manguezal.",
+    "E": "Mata de Cocais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Substrato lamacento e pouco oxigenado, raízes respiratórias que crescem para cima, glândulas para eliminar sal: são adaptações das plantas do <strong>manguezal</strong>, que vivem no encontro do rio com o mar. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "manguezal",
+    "adaptações vegetais"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p>Uma pessoa é responsável pela manutenção de uma sauna úmida. Todos os dias cumpre o mesmo ritual: colhe folhas de capim-cidreira e algumas folhas de eucalipto. Em seguida, coloca as folhas na saída do vapor da sauna, aromatizando-a, conforme representado na figura.</p>[[fig:1]]<p>Qual processo de separação é responsável pela aromatização promovida?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q72.webp",
+     "alt": "Esquema de uma sauna úmida: atrás da parede, um gerador de vapor; o vapor sai por um cano para dentro da sauna, onde há folhas colocadas na saída do vapor."
+    }
+   ],
+   "alternativas": {
+    "A": "Filtração simples.",
+    "B": "Destilação simples.",
+    "C": "Extração por arraste.",
+    "D": "Sublimação fracionada.",
+    "E": "Decantação sólido-líquido."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O vapor de água passa pelas folhas e carrega consigo as substâncias aromáticas voláteis, os óleos essenciais. É a <strong>extração por arraste</strong> a vapor. Alternativa <strong>C</strong>.</p><p>Não há destilação (B), porque nada é condensado e separado: o vapor perfumado vai direto para o ambiente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "arraste a vapor",
+    "óleos essenciais"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p class=\"apoio\">Os ecossistemas degradados por intensa atividade agrícola apresentam, geralmente, diminuição de sua diversidade e perda de sua estabilidade. Nesse contexto, o uso integrado de árvores aos sistemas agrícolas (sistemas agroflorestais) pode cumprir um papel inovador ao buscar a aceleração do processo sucessional e, ao mesmo tempo, uma produção escalonada e diversificada.</p><p class=\"fonte\">Disponível em: saf.cnpgc.embrapa.br. Acesso em: 21 jan. 2012 (adaptado).</p><p>Essa é uma estratégia de conciliação entre recuperação ambiental e produção agrícola, pois</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "substitui gradativamente as espécies cultiváveis por espécies arbóreas.",
+    "B": "intensifica a fertilização do solo com o uso de técnicas apropriadas e biocidas.",
+    "C": "promove maior diversidade de vida no solo com o aumento da matéria orgânica.",
+    "D": "favorece a dispersão das sementes cultivadas pela fauna residente nas áreas florestais.",
+    "E": "cria condições para o estabelecimento de espécies pioneiras com a diminuição da insolação sobre o solo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As árvores acrescentam folhas e galhos ao solo, aumentando a matéria orgânica, que alimenta fungos, bactérias e pequenos animais. Isso recupera o solo e ao mesmo tempo mantém a produção. A estratégia <strong>promove maior diversidade de vida no solo com o aumento da matéria orgânica</strong>. Alternativa <strong>C</strong>.</p><p>Os sistemas agroflorestais não substituem as culturas por árvores (A) nem usam biocidas (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sistemas agroflorestais",
+    "sucessão ecológica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "<p>Três lâmpadas idênticas foram ligadas no circuito esquematizado. A bateria apresenta resistência interna desprezível, e os fios possuem resistência nula. Um técnico fez uma análise do circuito para prever a corrente elétrica nos pontos: A, B, C, D e E; e rotulou essas correntes de <em>I</em><sub>A</sub>, <em>I</em><sub>B</sub>, <em>I</em><sub>C</sub>, <em>I</em><sub>D</sub> e <em>I</em><sub>E</sub>, respectivamente.</p>[[fig:1]]<p>O técnico concluiu que as correntes que apresentam o mesmo valor são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q74.webp",
+     "alt": "Circuito com três lâmpadas L1, L2 e L3, uma abaixo da outra, cada uma ligada entre o fio vertical da esquerda e o fio vertical da direita. No fio da esquerda estão os pontos B (entre as ligações de L2 e L3) e A (abaixo de L3, perto da bateria V). No ramo de saída de L1 está o ponto C, no de L2 o ponto D, e no fio da direita, perto da bateria, o ponto E."
+    }
+   ],
+   "alternativas": {
+    "A": "<em>I</em><sub>A</sub> = <em>I</em><sub>E</sub> e <em>I</em><sub>C</sub> = <em>I</em><sub>D</sub>.",
+    "B": "<em>I</em><sub>A</sub> = <em>I</em><sub>B</sub> = <em>I</em><sub>E</sub> e <em>I</em><sub>C</sub> = <em>I</em><sub>D</sub>.",
+    "C": "<em>I</em><sub>A</sub> = <em>I</em><sub>B</sub>, apenas.",
+    "D": "<em>I</em><sub>A</sub> = <em>I</em><sub>B</sub> = <em>I</em><sub>E</sub>, apenas.",
+    "E": "<em>I</em><sub>C</sub> = <em>I</em><sub>B</sub>, apenas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As três lâmpadas estão em paralelo, cada uma com corrente i. A e E estão no fio principal, ligado à bateria: I<sub>A</sub> = I<sub>E</sub> = 3i. C está no fio que vem só de L1, e D no fio que vem só de L2: I<sub>C</sub> = I<sub>D</sub> = i. B, no fio da esquerda acima da ligação de L3, leva a corrente de L1 e L2: 2i. Então I<sub>A</sub> = I<sub>E</sub> e I<sub>C</sub> = I<sub>D</sub>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "circuito em paralelo",
+    "corrente elétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Biologia",
+   "assunto": "Fisiologia vegetal",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p>A figura ilustra o movimento da seiva xilêmica em uma planta.</p>[[fig:1]]<p class=\"fonte\">CORREIA, S. Teoria da tensão-coesão-adesão. <strong>Revista de Ciência Elementar</strong>, n. 1, 2014 (adaptado).</p><p>Mesmo que essa planta viesse a sofrer ação contínua do vento e sua copa crescesse voltada para baixo, essa seiva continuaria naturalmente seu percurso.</p><p>O que garante o transporte dessa seiva é a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q75.webp",
+     "alt": "Ilustração de uma árvore com setas mostrando a água entrando pelas raízes, subindo pelo vaso do xilema e saindo como vapor pelos estômatos das folhas; detalhes ampliados das raízes com água do solo e de uma folha com estômato."
+    }
+   ],
+   "alternativas": {
+    "A": "gutação.",
+    "B": "gravidade.",
+    "C": "respiração.",
+    "D": "fotossíntese.",
+    "E": "transpiração."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A seiva bruta sobe pelo xilema puxada pela perda de água nas folhas: a transpiração cria uma tensão que, com a coesão entre as moléculas de água, arrasta a coluna líquida desde as raízes. Isso funciona em qualquer posição da copa. Quem garante o transporte é a <strong>transpiração</strong>. Alternativa <strong>E</strong>.</p><p>A gravidade (B) atrapalharia a subida, e a gutação (A) é só a perda de gotas pelas folhas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "teoria da coesão-tensão",
+    "xilema"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Química",
+   "assunto": "Reações orgânicas",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p>Nucleófilos (Nu<sup>−</sup>) são bases de Lewis que reagem com haletos de alquila, por meio de uma reação chamada substituição nucleofílica (S<sub>N</sub>), como mostrado no esquema:</p><p class=\"apoio\">R–X + Nu<sup>−</sup> → R–Nu + X<sup>−</sup> &nbsp; (R = grupo alquila e X = halogênio)</p><p>A reação de S<sub>N</sub> entre metóxido de sódio (Nu<sup>−</sup> = CH<sub>3</sub>O<sup>−</sup>) e brometo de metila fornece um composto orgânico pertencente à função</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "éter.",
+    "B": "éster.",
+    "C": "álcool.",
+    "D": "haleto.",
+    "E": "hidrocarboneto."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O metóxido (CH<sub>3</sub>O<sup>−</sup>) substitui o bromo no brometo de metila: CH<sub>3</sub>Br + CH<sub>3</sub>O<sup>−</sup> → CH<sub>3</sub>–O–CH<sub>3</sub> + Br<sup>−</sup>. O produto, com o oxigênio entre dois carbonos, é um <strong>éter</strong> (dimetil éter). Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "substituição nucleofílica",
+    "éteres"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p>O trilho de ar é um dispositivo utilizado em laboratórios de física para analisar movimentos em que corpos de prova (carrinhos) podem se mover com atrito desprezível. A figura ilustra um trilho horizontal com dois carrinhos (1 e 2) em que se realiza um experimento para obter a massa do carrinho 2. No instante em que o carrinho 1, de massa 150,0 g, passa a se mover com velocidade escalar constante, o carrinho 2 está em repouso. No momento em que o carrinho 1 se choca com o carrinho 2, ambos passam a se movimentar juntos com velocidade escalar constante. Os sensores eletrônicos distribuídos ao longo do trilho determinam as posições e registram os instantes associados à passagem de cada carrinho, gerando os dados do quadro.</p>[[fig:1]]<table class=\"tabela\"><thead><tr><th>Carrinho 1: posição (cm)</th><th>Carrinho 1: instante (s)</th><th>Carrinho 2: posição (cm)</th><th>Carrinho 2: instante (s)</th></tr></thead><tbody><tr><td>15,0</td><td>0,0</td><td>45,0</td><td>0,0</td></tr><tr><td>30,0</td><td>1,0</td><td>45,0</td><td>1,0</td></tr><tr><td>75,0</td><td>8,0</td><td>75,0</td><td>8,0</td></tr><tr><td>90,0</td><td>11,0</td><td>90,0</td><td>11,0</td></tr></tbody></table><p>Com base nos dados experimentais, o valor da massa do carrinho 2 é igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q77.webp",
+     "alt": "Trilho de ar horizontal com o carrinho 1 à esquerda, movendo-se para a direita, e o carrinho 2 parado mais adiante; quatro sensores ao longo do trilho."
+    }
+   ],
+   "alternativas": {
+    "A": "50,0 g.",
+    "B": "250,0 g.",
+    "C": "300,0 g.",
+    "D": "450,0 g.",
+    "E": "600,0 g."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Antes do choque, o carrinho 1 vai de 15 cm a 30 cm em 1 s: v = 15 cm/s. Depois, os dois juntos vão de 75 cm a 90 cm em 3 s: v = 5 cm/s. Pela conservação da quantidade de movimento:</p><p>150 × 15 = (150 + m) × 5 → 150 + m = 450 → m = <strong>300 g</strong>. Alternativa <strong>C</strong>.</p><p>450 g (D) é a massa dos dois carrinhos juntos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "quantidade de movimento",
+    "colisão inelástica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p>Após seu desgaste completo, os pneus podem ser queimados para a geração de energia. Dentre os gases gerados na combustão completa da borracha vulcanizada, alguns são poluentes e provocam a chuva ácida. Para evitar que escapem para a atmosfera, esses gases podem ser borbulhados em uma solução aquosa contendo uma substância adequada. Considere as informações das substâncias listadas no quadro.</p><table class=\"tabela\"><thead><tr><th>Substância</th><th>Equilíbrio em solução aquosa</th><th>Valor da constante de equilíbrio</th></tr></thead><tbody><tr><td>Fenol</td><td>C<sub>6</sub>H<sub>5</sub>OH + H<sub>2</sub>O ⇄ C<sub>6</sub>H<sub>5</sub>O<sup>−</sup> + H<sub>3</sub>O<sup>+</sup></td><td>1,3 × 10<sup>−10</sup></td></tr><tr><td>Piridina</td><td>C<sub>5</sub>H<sub>5</sub>N + H<sub>2</sub>O ⇄ C<sub>5</sub>H<sub>5</sub>NH<sup>+</sup> + OH<sup>−</sup></td><td>1,7 × 10<sup>−9</sup></td></tr><tr><td>Metilamina</td><td>CH<sub>3</sub>NH<sub>2</sub> + H<sub>2</sub>O ⇄ CH<sub>3</sub>NH<sub>3</sub><sup>+</sup> + OH<sup>−</sup></td><td>4,4 × 10<sup>−4</sup></td></tr><tr><td>Hidrogenofosfato de potássio</td><td>HPO<sub>4</sub><sup>2−</sup> + H<sub>2</sub>O ⇄ H<sub>2</sub>PO<sub>4</sub><sup>−</sup> + OH<sup>−</sup></td><td>2,8 × 10<sup>−2</sup></td></tr><tr><td>Hidrogenossulfato de potássio</td><td>HSO<sub>4</sub><sup>−</sup> + H<sub>2</sub>O ⇄ SO<sub>4</sub><sup>2−</sup> + H<sub>3</sub>O<sup>+</sup></td><td>3,1 × 10<sup>−2</sup></td></tr></tbody></table><p>Dentre as substâncias listadas no quadro, aquela capaz de remover com maior eficiência os gases poluentes é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fenol.",
+    "B": "piridina.",
+    "C": "metilamina.",
+    "D": "hidrogenofosfato de potássio.",
+    "E": "hidrogenosulfato de potássio."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A queima da borracha vulcanizada (com enxofre) libera SO<sub>2</sub>, gás ácido. Para retê-lo, a solução deve ser básica, e quanto maior a constante de formação de OH<sup>−</sup>, melhor. Entre as bases do quadro, o hidrogenofosfato de potássio tem a maior constante (2,8 × 10<sup>−2</sup>). Alternativa <strong>D</strong>.</p><p>O hidrogenossulfato (E) tem constante alta, mas produz H<sub>3</sub>O<sup>+</sup>: é ácido.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "chuva ácida",
+    "constante de basicidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p>Vários métodos são empregados para prevenção de infecções por microrganismos. Dois desses métodos utilizam microrganismos vivos e são eles: as vacinas atenuadas, constituídas por patógenos avirulentos, e os probióticos que contêm bactérias benéficas. Na figura são apresentados cinco diferentes mecanismos de exclusão de patógenos pela ação dos probióticos no intestino de um animal.</p>[[fig:1]]<p class=\"fonte\">McALLISTER, T. A. et al. Review: The use of direct fed microbials to mitigate pathogens and enhance production in cattle. Can. J. Anim. Sci., jan. 2011 (adaptado).</p><p>Qual mecanismo de ação desses probióticos promove um efeito similar ao da vacina?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q79.webp",
+     "alt": "Esquema do epitélio intestinal com probióticos e patógenos e cinco mecanismos numerados: 1, competição por nutrientes; 2, produção de substâncias antimicrobianas; 3, disputa por sítio de adesão; 4, estímulo à produção de imunoglobulinas; 5, manutenção da integridade epitelial. Aparecem também células dendríticas e células intestinais."
+    }
+   ],
+   "alternativas": {
+    "A": "5",
+    "B": "4",
+    "C": "3",
+    "D": "2",
+    "E": "1"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A vacina age estimulando o sistema imune a produzir anticorpos. Entre os mecanismos dos probióticos, o que faz o mesmo é o número 4, “estímulo à produção de imunoglobulinas”. Alternativa <strong>B</strong>.</p><p>Os outros mecanismos (competição, substâncias antimicrobianas, disputa por adesão, integridade do epitélio) não envolvem o sistema imune.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probióticos",
+    "vacinas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Biologia",
+   "assunto": "Questões ambientais",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p class=\"apoio\">O Painel Intergovernamental de Mudanças Climáticas (na sigla em inglês, IPCC) prevê que nas próximas décadas o planeta passará por mudanças climáticas e propõe estratégias de mitigação e adaptação a elas. As <em>estratégias de mitigação</em> são direcionadas à causa dessas mudanças, procurando reduzir a concentração de gases de efeito estufa na atmosfera. As <em>estratégias de adaptação</em>, por sua vez, são direcionadas aos efeitos dessas mudanças, procurando preparar os sistemas humanos às mudanças climáticas já em andamento, de modo a reduzir seus efeitos negativos.</p><p class=\"fonte\">IPCC, 2014. Climate Change 2014: synthesis report. Disponível em: http://ar5-syr.ipcc.ch. Acesso em: 22 out. 2015 (adaptado).</p><p>Considerando as informações do texto, qual ação representa uma estratégia de adaptação?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Construção de usinas eólicas.",
+    "B": "Tratamento de resíduos sólidos.",
+    "C": "Aumento da eficiência dos veículos.",
+    "D": "Adoção de agricultura sustentável de baixo carbono.",
+    "E": "Criação de diques de contenção em regiões costeiras."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Adaptação é preparar-se para os efeitos já em andamento, como a subida do nível do mar. Construir <strong>diques de contenção em regiões costeiras</strong> protege as cidades desse efeito. Alternativa <strong>E</strong>.</p><p>Usinas eólicas, tratamento de resíduos, veículos eficientes e agricultura de baixo carbono (A a D) reduzem emissões: são mitigação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mudanças climáticas",
+    "adaptação e mitigação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Química",
+   "assunto": "Polaridade",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p>A lipofilia é um dos fatores fundamentais para o planejamento de um fármaco. Ela mede o grau de afinidade que a substância tem com ambientes apolares, podendo ser avaliada por seu coeficiente de partição.</p>[[fig:1]]<p class=\"fonte\">NOGUEIRA, L. J.; MONTANARI, C. A.; DONNICI, C. L. Histórico da evolução da química medicinal e a importância da lipofilia: de Hipócrates e Galeno a Paracelsus e as contribuições de Overton e de Hansch. <strong>Revista Virtual de Química</strong>, n. 3, 2009 (adaptado).</p><p>Em relação ao coeficiente de partição da testosterona, as lipofilias dos compostos 1 e 2 são, respectivamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q81.webp",
+     "alt": "Estrutura esteroide da testosterona, com quatro anéis, um grupo C=O num anel e um substituinte X no outro: X = OH (testosterona), X = H (composto 1), X = CH₃ (composto 2)."
+    }
+   ],
+   "alternativas": {
+    "A": "menor e menor que a lipofilia da testosterona.",
+    "B": "menor e maior que a lipofilia da testosterona.",
+    "C": "maior e menor que a lipofilia da testosterona.",
+    "D": "maior e maior que a lipofilia da testosterona.",
+    "E": "menor e igual à lipofilia da testosterona."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A testosterona tem um grupo OH, polar, que interage com a água. No composto 1 o OH é trocado por H, e no composto 2 por CH<sub>3</sub>: os dois perdem esse grupo polar e ficam mais afins a ambientes apolares. As lipofilias são <strong>maior e maior que a lipofilia da testosterona</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lipofilia",
+    "polaridade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Estática",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p>Uma invenção que significou um grande avanço tecnológico na Antiguidade, a polia composta ou a associação de polias, é atribuída a Arquimedes (287 a.C. a 212 a.C.). O aparato consiste em associar uma série de polias móveis a uma polia fixa. A figura exemplifica um arranjo possível para esse aparato. É relatado que Arquimedes teria demonstrado para o rei Hierão um outro arranjo desse aparato, movendo sozinho, sobre a areia da praia, um navio repleto de passageiros e cargas, algo que seria impossível sem a participação de muitos homens. Suponha que a massa do navio era de 3 000 kg, que o coeficiente de atrito estático entre o navio e a areia era de 0,8 e que Arquimedes tenha puxado o navio com uma força <em>F</em>, paralela à direção do movimento e de módulo igual a 400 N. Considere os fios e as polias ideais, a aceleração da gravidade igual a 10 m/s<sup>2</sup> e que a superfície da praia é perfeitamente horizontal.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.histedbr.fae.unicamp.br. Acesso em: 28 fev. 2013 (adaptado).</p><p>O número mínimo de polias móveis usadas, nessa situação, por Arquimedes foi</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q82.webp",
+     "alt": "Esquema de polias: uma polia fixa presa a uma parede e polias móveis em série, ligadas a um bloco; a força F puxa a ponta da corda."
+    }
+   ],
+   "alternativas": {
+    "A": "3.",
+    "B": "6.",
+    "C": "7.",
+    "D": "8.",
+    "E": "10."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Para mover o navio, Arquimedes precisa vencer o atrito estático: 0,8 × 3 000 × 10 = 24 000 N. Com polias móveis ideais, cada uma divide a força por 2: 400 × 2<sup>n</sup> ≥ 24 000 → 2<sup>n</sup> ≥ 60. Com 5 polias, 32 não basta; com <strong>6</strong>, 64 basta. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "polias",
+    "atrito"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p class=\"apoio\">O Brasil possui um grande número de espécies distintas entre animais, vegetais e microrganismos envoltos em uma imensa complexidade e distribuídas em uma grande variedade de ecossistemas.</p><p class=\"fonte\">SANDES, A. R. R.; BLASI, G. Biodiversidade e diversidade química e genética. Disponível em: http://novastecnologias.com.br. Acesso em: 22 set. 2015 (adaptado).</p><p>O incremento da variabilidade ocorre em razão da permuta genética, a qual propicia a troca de segmentos entre cromátides não irmãs na meiose.</p><p>Essa troca de segmentos é determinante na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "produção de indivíduos mais férteis.",
+    "B": "transmissão de novas características adquiridas.",
+    "C": "recombinação genética na formação dos gametas.",
+    "D": "ocorrência de mutações somáticas nos descendentes.",
+    "E": "variação do número de cromossomos característico da espécie."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A permutação (<em>crossing-over</em>) troca trechos entre cromátides homólogas na prófase I da meiose, criando cromossomos com novas combinações de alelos. Ela é determinante na <strong>recombinação genética na formação dos gametas</strong>. Alternativa <strong>C</strong>.</p><p>Não muda o número de cromossomos (E) e não transmite características adquiridas (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "crossing-over",
+    "meiose"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p>Num experimento, um professor deixa duas bandejas de mesma massa, uma de plástico e outra de alumínio, sobre a mesa do laboratório. Após algumas horas, ele pede aos alunos que avaliem a temperatura das duas bandejas, usando para isso o tato. Seus alunos afirmam, categoricamente, que a bandeja de alumínio encontra-se numa temperatura mais baixa. Intrigado, ele propõe uma segunda atividade, em que coloca um cubo de gelo sobre cada uma das bandejas, que estão em equilíbrio térmico com o ambiente, e os questiona em qual delas a taxa de derretimento do gelo será maior.</p><p>O aluno que responder corretamente ao questionamento do professor dirá que o derretimento ocorrerá</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "mais rapidamente na bandeja de alumínio, pois ela tem uma maior condutividade térmica que a de plástico.",
+    "B": "mais rapidamente na bandeja de plástico, pois ela tem inicialmente uma temperatura mais alta que a de alumínio.",
+    "C": "mais rapidamente na bandeja de plástico, pois ela tem uma maior capacidade térmica que a de alumínio.",
+    "D": "mais rapidamente na bandeja de alumínio, pois ela tem um calor específico menor que a de plástico.",
+    "E": "com a mesma rapidez nas duas bandejas, pois apresentarão a mesma variação de temperatura."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As duas bandejas estão na mesma temperatura (a do ambiente). O alumínio parece mais frio ao toque porque conduz calor muito melhor e o tira da mão mais depressa. Pelo mesmo motivo, ele leva calor ao gelo mais rápido: o gelo derrete <strong>mais rapidamente na bandeja de alumínio, pois ela tem uma maior condutividade térmica que a de plástico</strong>. Alternativa <strong>A</strong>.</p><p>As temperaturas iniciais são iguais (B); o que muda é a condução.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "condutividade térmica",
+    "sensação térmica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "<p>Os tensoativos são compostos capazes de interagir com substâncias polares e apolares. A parte iônica dos tensoativos interage com substâncias polares, e a parte lipofílica interage com as apolares. A estrutura orgânica de um tensoativo pode ser representada por:</p>[[fig:1]]<p>Ao adicionar um tensoativo sobre a água, suas moléculas formam um arranjo ordenado.</p><p>Esse arranjo é representado esquematicamente por:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q85.webp",
+     "alt": "Fórmula estrutural do tensoativo, uma cadeia de carbonos terminando num grupo carboxilato, e sua representação esquemática: uma linha ondulada (a cadeia) com uma bola preta na ponta (a parte iônica)."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q85a.webp",
+     "alt": "Alternativa A: camada de bolas pretas no nível da água, com as caudas para baixo, dentro da água."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q85b.webp",
+     "alt": "Alternativa B: camada de bolas pretas acima do nível da água, com as caudas para baixo, entre a água e as bolas."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q85c.webp",
+     "alt": "Alternativa C: camada de bolas pretas no nível da água, com as caudas para cima, fora da água."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q85d.webp",
+     "alt": "Alternativa D: camada de bolas pretas no fundo do béquer, com as caudas para cima, dentro da água."
+    },
+    {
+     "src": "assets/img/enem-2016-natureza/q85e.webp",
+     "alt": "Alternativa E: camada de bolas pretas abaixo do nível da água, com as caudas para cima, ainda dentro da água."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A parte iônica (carboxilato) é polar e fica na água; a cadeia de carbono, apolar, fica fora dela, no ar. Na superfície, as moléculas formam uma camada com as “cabeças” no nível da água e as “caudas” para cima. É o arranjo C. Alternativa <strong>C</strong>.</p><p>Nos outros desenhos, as cadeias ficam dentro da água, ou as cabeças ficam fora dela.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tensoativos",
+    "polaridade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p>Um experimento para comprovar a natureza ondulatória da radiação de micro-ondas foi realizado da seguinte forma: anotou-se a frequência de operação de um forno de micro-ondas e, em seguida, retirou-se sua plataforma giratória. No seu lugar, colocou-se uma travessa refratária com uma camada grossa de manteiga. Depois disso, o forno foi ligado por alguns segundos. Ao se retirar a travessa refratária do forno, observou-se que havia três pontos de manteiga derretida alinhados sobre toda a travessa. Parte da onda estacionária gerada no interior do forno é ilustrada na figura.</p>[[fig:1]]<p>De acordo com a figura, que posições correspondem a dois pontos consecutivos da manteiga derretida?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q86.webp",
+     "alt": "Trecho de onda estacionária com setas marcando cinco posições: I, III e V nos pontos de amplitude máxima (ventres) e II e IV nos pontos onde as curvas se cruzam (nós)."
+    }
+   ],
+   "alternativas": {
+    "A": "I e III",
+    "B": "I e V",
+    "C": "II e III",
+    "D": "II e IV",
+    "E": "II e V"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A manteiga derrete onde a energia é máxima, nos ventres (antinós) da onda estacionária. Na figura, os ventres estão nas posições I, III e V; os nós, em II e IV. Dois pontos consecutivos de manteiga derretida são <strong>I e III</strong>. Alternativa <strong>A</strong>.</p><p>II e IV são nós, onde a amplitude é nula.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "onda estacionária",
+    "micro-ondas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "<p>Portadores de diabetes <em>insipidus</em> reclamam da confusão feita pelos profissionais da saúde quanto aos dois tipos de diabetes: <em>mellitus</em> e <em>insipidus</em>. Enquanto o primeiro tipo está associado aos níveis ou à ação da insulina, o segundo não está ligado à deficiência desse hormônio. O diabetes <em>insipidus</em> é caracterizado por um distúrbio na produção ou no funcionamento do hormônio antidiurético (na sigla em inglês, ADH), secretado pela neuro-hipófise para controlar a reabsorção de água pelos túbulos renais.</p><p>Tendo em vista o papel funcional do ADH, qual é um sintoma clássico de um paciente acometido por diabetes <em>insipidus</em>?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Alta taxa de glicose no sangue.",
+    "B": "Aumento da pressão arterial.",
+    "C": "Ganho de massa corporal.",
+    "D": "Anemia crônica.",
+    "E": "Desidratação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O ADH faz os rins reabsorverem água. No diabetes insípido, falta ADH ou ele não age: o paciente elimina muita urina diluída e perde água. O sintoma clássico é a <strong>desidratação</strong>, com muita sede. Alternativa <strong>E</strong>.</p><p>Glicose alta (A) é sintoma do diabetes melito.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ADH",
+    "diabetes insípido"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p>A magnetohipertermia é um procedimento terapêutico que se baseia na elevação da temperatura das células de uma região específica do corpo que estejam afetadas por um tumor. Nesse tipo de tratamento, nanopartículas magnéticas são fagocitadas pelas células tumorais, e um campo magnético alternado externo é utilizado para promover a agitação das nanopartículas e consequente aquecimento da célula.</p><p>A elevação de temperatura descrita ocorre porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o campo magnético gerado pela oscilação das nanopartículas é absorvido pelo tumor.",
+    "B": "o campo magnético alternado faz as nanopartículas girarem, transferindo calor por atrito.",
+    "C": "as nanopartículas interagem magneticamente com as células do corpo, transferindo calor.",
+    "D": "o campo magnético alternado fornece calor para as nanopartículas que o transfere às células do corpo.",
+    "E": "as nanopartículas são aceleradas em um único sentido em razão da interação com o campo magnético, fazendo-as colidir com as células e transferir calor."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O campo magnético alternado faz as nanopartículas, que são pequenos ímãs, girarem para acompanhar a inversão do campo. Esse movimento dentro da célula gera calor por atrito: <strong>o campo magnético alternado faz as nanopartículas girarem, transferindo calor por atrito</strong>. Alternativa <strong>B</strong>.</p><p>O campo não “contém” calor para fornecer (D), e com o campo alternado as partículas não seguem num só sentido (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "magnetismo",
+    "hipertermia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Química",
+   "assunto": "Polaridade",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p>O aquecimento de um material por irradiação com micro-ondas ocorre por causa da interação da onda eletromagnética com o dipolo elétrico da molécula. Um importante atributo do aquecimento por micro-ondas é a absorção direta da energia pelo material a ser aquecido. Assim, esse aquecimento é seletivo e dependerá, principalmente, da constante dielétrica e da frequência de relaxação do material. O gráfico mostra a taxa de aquecimento de cinco solventes sob irradiação de micro-ondas.</p>[[fig:1]]<p class=\"fonte\">BARBOZA, A. C. R. N. et al. Aquecimento em forno de micro-ondas. Desenvolvimento de alguns conceitos fundamentais. <strong>Química Nova</strong>, n. 6, 2001 (adaptado).</p><p>No gráfico, qual solvente apresenta taxa média de aquecimento mais próxima de zero, no intervalo de 0 s a 40 s?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-natureza/q89.webp",
+     "alt": "Gráfico da temperatura (°C) em função do tempo (s), de 0 a 80 s, para água, metanol, etanol, propanol e n-hexano. Propanol, etanol e metanol aquecem mais rápido; a água aquece de forma constante; o n-hexano fica praticamente em 30 °C."
+    }
+   ],
+   "alternativas": {
+    "A": "H<sub>2</sub>O",
+    "B": "CH<sub>3</sub>OH",
+    "C": "CH<sub>3</sub>CH<sub>2</sub>OH",
+    "D": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH",
+    "E": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No gráfico, a temperatura do n-hexano praticamente não muda: fica perto de 30 °C de 0 s a 40 s. O hexano é apolar, não tem dipolo para interagir com as micro-ondas. Sua taxa média de aquecimento é a mais próxima de zero. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "micro-ondas",
+    "moléculas polares"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p>Apesar da grande diversidade biológica, a hipótese de que a vida na Terra tenha tido uma única origem comum é aceita pela comunidade científica. Uma evidência que apoia essa hipótese é a observação de processos biológicos comuns a todos os seres vivos atualmente existentes.</p><p>Um exemplo de tal processo é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "desenvolvimento embrionário.",
+    "B": "reprodução sexuada.",
+    "C": "respiração aeróbica.",
+    "D": "excreção urinária.",
+    "E": "síntese proteica."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Todos os seres vivos, de bactérias a animais, fabricam proteínas do mesmo modo: o DNA é transcrito em RNA, que é traduzido nos ribossomos usando praticamente o mesmo código genético. A <strong>síntese proteica</strong> universal é evidência de uma origem comum. Alternativa <strong>E</strong>.</p><p>Muitos seres não têm desenvolvimento embrionário, reprodução sexuada, respiração aeróbica ou excreção urinária (A a D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "origem da vida",
+    "código genético"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

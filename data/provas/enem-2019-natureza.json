@@ -1,0 +1,1217 @@
+{
+ "id": "enem-2019-natureza",
+ "banca": "Enem",
+ "ano": 2019,
+ "titulo": "Enem 2019: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2019-11-10",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 91
+   },
+   "enunciado": "<p>Para realizar o desentupimento de tubulações de esgotos residenciais, é utilizada uma mistura sólida comercial que contém hidróxido de sódio (NaOH) e outra espécie química pulverizada. Quando é adicionada água a essa mistura, ocorre uma reação que libera gás hidrogênio e energia na forma de calor, aumentando a eficiência do processo de desentupimento. Considere os potenciais padrão de redução (<em>E</em>°) da água e de outras espécies em meio básico, expressos no quadro.</p><table class=\"tabela\"><thead><tr><th>Semirreação de redução</th><th>E° (V)</th></tr></thead><tbody><tr><td>2 H<sub>2</sub>O + 2 e<sup>−</sup> → H<sub>2</sub> + 2 OH<sup>−</sup></td><td>−0,83</td></tr><tr><td>Co(OH)<sub>2</sub> + 2 e<sup>−</sup> → Co + 2 OH<sup>−</sup></td><td>−0,73</td></tr><tr><td>Cu(OH)<sub>2</sub> + 2 e<sup>−</sup> → Cu + 2 OH<sup>−</sup></td><td>−0,22</td></tr><tr><td>PbO + H<sub>2</sub>O + 2 e<sup>−</sup> → Pb + 2 OH<sup>−</sup></td><td>−0,58</td></tr><tr><td>Al(OH)<sub>4</sub><sup>−</sup> + 3 e<sup>−</sup> → Al + 4 OH<sup>−</sup></td><td>−2,33</td></tr><tr><td>Fe(OH)<sub>2</sub> + 2 e<sup>−</sup> → Fe + 2 OH<sup>−</sup></td><td>−0,88</td></tr></tbody></table><p>Qual é a outra espécie que está presente na composição da mistura sólida comercial para aumentar sua eficiência?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Al",
+    "B": "Co",
+    "C": "Cu(OH)<sub>2</sub>",
+    "D": "Fe(OH)<sub>2</sub>",
+    "E": "Pb"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Para liberar H<sub>2</sub>, a água precisa ser reduzida (E° = −0,83 V). Isso só acontece se outra espécie for oxidada, e ela precisa ter potencial de redução menor que o da água. Na tabela, o único é o do alumínio (−2,33 V): 2 Al + 2 OH<sup>−</sup> + 6 H<sub>2</sub>O → 2 Al(OH)<sub>4</sub><sup>−</sup> + 3 H<sub>2</sub>, reação que ainda libera calor. A espécie é o <strong>Al</strong>. Alternativa <strong>A</strong>.</p><p>Co, Pb e os hidróxidos (B, C, D e E) têm potencial maior que o da água e não a reduziriam.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potencial de redução",
+    "desentupidor"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 92
+   },
+   "enunciado": "<p>As redes de alta tensão para transmissão de energia elétrica geram campo magnético variável o suficiente para induzir corrente elétrica no arame das cercas. Tanto os animais quanto os funcionários das propriedades rurais ou das concessionárias de energia devem ter muito cuidado ao se aproximarem de uma cerca quando esta estiver próxima a uma rede de alta tensão, pois, se tocarem no arame da cerca, poderão sofrer choque elétrico.</p><p>Para minimizar este tipo de problema, deve-se:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Fazer o aterramento dos arames da cerca.",
+    "B": "Acrescentar fusível de segurança na cerca.",
+    "C": "Realizar o aterramento da rede de alta tensão.",
+    "D": "Instalar fusível de segurança na rede de alta tensão.",
+    "E": "Utilizar fios encapados com isolante na rede de alta tensão."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O campo magnético variável da rede induz corrente no arame da cerca, e quem toca nele vira caminho para essa corrente até o chão. Ligando o arame à terra, a corrente induzida escoa pelo fio terra, e o arame fica no mesmo potencial do solo: deve-se <strong>fazer o aterramento dos arames da cerca</strong>. Alternativa <strong>A</strong>.</p><p>Fusíveis (B e D) só atuam com correntes altas; isolar os fios da rede (E) não elimina o campo magnético.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "indução eletromagnética",
+    "aterramento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Biologia",
+   "assunto": "Parasitologia",
+   "origem": {
+    "numeroOriginal": 93
+   },
+   "enunciado": "<p class=\"apoio\">A esquistossomose (barriga-dʼágua) caracteriza-se pela inflamação do fígado e do baço causada pelo verme <em>Schistosoma mansoni</em> (esquistossomo). O contágio ocorre depois que larvas do verme são liberadas na água pelo caramujo do gênero <em>Biomphalaria</em>, seu hospedeiro intermediário, e penetram na pele humana. Após o diagnóstico, o tratamento tradicional utiliza medicamentos por via oral para matar o parasita dentro do corpo. Uma nova estratégia terapêutica baseia-se na utilização de uma vacina, feita a partir de uma proteína extraída do verme, que induz o organismo humano a produzir anticorpos para combater e prevenir a doença.</p><p class=\"fonte\">Instituto Oswaldo Cruz/Fundação Oswaldo Cruz (IOC/Fiocruz). Fiocruz anuncia nova fase de vacina para esquistossomose. Disponível em: http://agencia.fiocruz.br. Acesso em: 3 maio 2019 (adaptado).</p><p>Uma vantagem da vacina em relação ao tratamento tradicional é que ela poderá</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "impedir a penetração do parasita pela pele.",
+    "B": "eliminar o caramujo para que não haja contágio.",
+    "C": "impedir o acesso do esquistossomo especificamente para o fígado.",
+    "D": "eliminar o esquistossomo antes que ocorra contato com o organismo.",
+    "E": "eliminar o esquistossomo dentro do organismo antes da manifestação de sintomas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O tratamento tradicional age depois da infecção, matando o verme que já está no corpo. A vacina leva o organismo a produzir anticorpos antes do contato; quando a larva entra, o sistema imune já está preparado e pode <strong>eliminar o esquistossomo dentro do organismo antes da manifestação de sintomas</strong>. Alternativa <strong>E</strong>.</p><p>A vacina não impede a penetração pela pele (A), não age no caramujo (B) e não atua antes do contato (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "esquistossomose",
+    "vacina"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 94
+   },
+   "enunciado": "<p class=\"apoio\">Em 1962, um <em>jingle</em> (vinheta musical) criado por Heitor Carillo fez tanto sucesso que extrapolou as fronteiras do rádio e chegou à televisão ilustrado por um desenho animado. Nele, uma pessoa respondia ao fantasma que batia em sua porta, personificando o “frio”, que não o deixaria entrar, pois não abriria a porta e compraria lãs e cobertores para aquecer sua casa. Apesar de memorável, tal comercial televisivo continha incorreções a respeito de conceitos físicos relativos à calorimetria.</p><p class=\"fonte\">DUARTE, M. <em>Jingle é a alma do negócio</em>: livro revela os bastidores das músicas de propagandas. Disponível em: https://guiadoscuriosos.uol.com.br. Acesso em: 24 abr. 2019 (adaptado).</p><p>Para solucionar essas incorreções, deve-se associar à porta e aos cobertores, respectivamente, as funções de:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Aquecer a casa e os corpos.",
+    "B": "Evitar a entrada do frio na casa e nos corpos.",
+    "C": "Minimizar a perda de calor pela casa e pelos corpos.",
+    "D": "Diminuir a entrada do frio na casa e aquecer os corpos.",
+    "E": "Aquecer a casa e reduzir a perda de calor pelos corpos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Não existe “frio” que entra: o que existe é calor que sai do mais quente para o mais frio. A porta fechada e os cobertores não aquecem nada, só dificultam a saída do calor. A função de ambos é <strong>minimizar a perda de calor pela casa e pelos corpos</strong>. Alternativa <strong>C</strong>.</p><p>Cobertores não aquecem (A, D e E): quem produz calor é o próprio corpo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "isolante térmico",
+    "calor"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 95
+   },
+   "enunciado": "<p>Glicólise é um processo que ocorre nas células, convertendo glicose em piruvato. Durante a prática de exercícios físicos que demandam grande quantidade de esforço, a glicose é completamente oxidada na presença de O<sub>2</sub>. Entretanto, em alguns casos, as células musculares podem sofrer um déficit de O<sub>2</sub> e a glicose ser convertida em duas moléculas de ácido lático. As equações termoquímicas para a combustão da glicose e do ácido lático são, respectivamente, mostradas a seguir:</p><p class=\"centro\">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (s) + 6 O<sub>2</sub> (g) → 6 CO<sub>2</sub> (g) + 6 H<sub>2</sub>O (l)&nbsp;&nbsp; Δ<sub>c</sub>H = −2 800 kJ</p><p class=\"centro\">CH<sub>3</sub>CH(OH)COOH (s) + 3 O<sub>2</sub> (g) → 3 CO<sub>2</sub> (g) + 3 H<sub>2</sub>O (l)&nbsp;&nbsp; Δ<sub>c</sub>H = −1 344 kJ</p><p>O processo anaeróbico é menos vantajoso energeticamente porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "libera 112 kJ por mol de glicose.",
+    "B": "libera 467 kJ por mol de glicose.",
+    "C": "libera 2 688 kJ por mol de glicose.",
+    "D": "absorve 1 344 kJ por mol de glicose.",
+    "E": "absorve 2 800 kJ por mol de glicose."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A glicose vira duas moléculas de ácido lático. Pela lei de Hess, a energia dessa transformação é a combustão da glicose menos a de dois ácidos láticos: −2 800 − 2 · (−1 344) = −2 800 + 2 688 = <strong>−112 kJ</strong>. O processo anaeróbico libera só 112 kJ por mol de glicose, contra 2 800 kJ da oxidação completa. Alternativa <strong>A</strong>.</p><p>2 688 kJ (C) é a energia que ainda fica guardada no ácido lático.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lei de Hess",
+    "fermentação lática"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 96
+   },
+   "enunciado": "<p>No quadro estão apresentadas informações sobre duas estratégias de sobrevivência que podem ser adotadas por algumas espécies de seres vivos.</p><table class=\"tabela\"><thead><tr><th></th><th>Estratégia 1</th><th>Estratégia 2</th></tr></thead><tbody><tr><td><strong>Hábitat</strong></td><td>Mais instável e imprevisível</td><td>Mais estável e previsível</td></tr><tr><td><strong>Potencial biótico</strong></td><td>Muito elevado</td><td>Baixo</td></tr><tr><td><strong>Duração da vida</strong></td><td>Curta e com reprodução precoce</td><td>Longa e com reprodução tardia</td></tr><tr><td><strong>Descendentes</strong></td><td>Muitos e com tamanho corporal pequeno</td><td>Poucos e com tamanho corporal maior</td></tr><tr><td><strong>Tamanho populacional</strong></td><td>Variável</td><td>Constante</td></tr></tbody></table><p>Na recuperação de uma área desmatada deveriam ser reintroduzidas primeiramente as espécies que adotam qual estratégia?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Estratégia 1, pois essas espécies produzem descendentes pequenos, o que diminui a competição com outras espécies.",
+    "B": "Estratégia 2, pois essas espécies têm uma longa duração da vida, o que favorece a produção de muitos descendentes.",
+    "C": "Estratégia 1, pois essas espécies apresentam um elevado potencial biótico, o que facilita a rápida recolonização da área desmatada.",
+    "D": "Estratégia 2, pois essas espécies estão adaptadas a hábitats mais estáveis, o que corresponde ao ambiente de uma área desmatada.",
+    "E": "Estratégia 2, pois essas espécies apresentam um tamanho populacional constante, o que propicia uma recolonização mais estável da área desmatada."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Numa área desmatada, o ambiente é instável, e quem coloniza primeiro são espécies que se reproduzem cedo, têm muitos descendentes e crescem depressa. São as da estratégia 1: <strong>elas apresentam um elevado potencial biótico, o que facilita a rápida recolonização da área desmatada</strong>. Alternativa <strong>C</strong>.</p><p>A estratégia 2 é de ambientes estáveis (D), que a área desmatada não é.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estrategistas r e K",
+    "sucessão ecológica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 97
+   },
+   "enunciado": "<p class=\"apoio\">As cutias, pequenos roedores das zonas tropicais, transportam pela boca as sementes que caem das árvores, mas, em vez de comê-las, enterram-nas em outro lugar. Esse procedimento lhes permite salvar a maioria de suas sementes enterradas para as épocas mais secas, quando não há frutos maduros disponíveis. Cientistas descobriram que as cutias roubam as sementes enterradas por outras, e esse comportamento de “ladroagem” faz com que uma mesma semente possa ser enterrada dezenas de vezes.</p><p class=\"fonte\">Disponível em: http://chc.cienciahoje.uol.com.br. Acesso em: 30 jul. 2012.</p><p>Essa “ladroagem” está associada à relação de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "sinfilia.",
+    "B": "predatismo.",
+    "C": "parasitismo.",
+    "D": "competição.",
+    "E": "comensalismo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As cutias são da mesma espécie e disputam o mesmo recurso, as sementes guardadas. Quando uma rouba a reserva da outra, há disputa entre indivíduos da mesma espécie por alimento: é uma relação de <strong>competição</strong> (intraespecífica). Alternativa <strong>D</strong>.</p><p>Não há uma cutia comendo a outra (B) nem vivendo às custas do corpo de outra (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "competição intraespecífica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 98
+   },
+   "enunciado": "<p>Os olhos humanos normalmente têm três tipos de cones responsáveis pela percepção das cores: um tipo para tons vermelhos, um para tons azuis e outro para tons verdes. As diversas cores que enxergamos são o resultado da percepção das cores básicas, como indica a figura.</p>[[fig:1]]<p>A protanopia é um tipo de daltonismo em que há diminuição ou ausência de receptores da cor vermelha. Considere um teste com dois voluntários: uma pessoa com visão normal e outra com caso severo de protanopia. Nesse teste, eles devem escrever a cor dos cartões que lhes são mostrados. São utilizadas as cores indicadas na figura.</p><p>Para qual cartão os dois voluntários identificarão a mesma cor?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q98.webp",
+     "alt": "Diagrama de três círculos sobrepostos, vermelho, verde e azul: vermelho e verde formam amarelo; verde e azul, ciano; azul e vermelho, magenta; o centro, onde os três se encontram, é branco."
+    }
+   ],
+   "alternativas": {
+    "A": "Vermelho.",
+    "B": "Magenta.",
+    "C": "Amarelo.",
+    "D": "Branco.",
+    "E": "Azul."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na protanopia faltam os cones do vermelho. A pessoa ainda percebe o azul com os cones do azul, que funcionam normalmente, e vê o cartão azul do mesmo jeito. Já as cores que dependem do vermelho (vermelho, magenta, amarelo e branco) parecem diferentes para ela. Os dois concordam no cartão <strong>azul</strong>. Alternativa <strong>E</strong>.</p><p>O branco (D) é a soma das três cores; sem o vermelho, a pessoa o percebe como ciano.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "visão das cores",
+    "daltonismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 99
+   },
+   "enunciado": "<p class=\"apoio\">A cada safra, a quantidade de café beneficiado é igual à quantidade de resíduos gerados pelo seu beneficiamento. O resíduo pode ser utilizado como fertilizante, pois contém cerca de 6,5% de pectina (um polissacarídeo), aproximadamente 25% de açúcares fermentáveis (frutose, sacarose e galactose), bem como resíduos de alcaloides (compostos aminados) que não foram extraídos no processo.</p><p class=\"fonte\">LIMA, L. K. S. et al. Utilização de resíduo oriundo da torrefação do café na agricultura em substituição à adubação convencional. ACSA — Agropecuária Científica no Semi-Árido, v. 10, n. 1, jan.-mar., 2014 (adaptado).</p><p>Esse resíduo contribui para a fertilidade do solo, pois</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "possibilita a reciclagem de carbono e nitrogênio.",
+    "B": "promove o deslocamento do alumínio, que é tóxico.",
+    "C": "melhora a compactação do solo por causa da presença de pectina.",
+    "D": "eleva o pH do solo em função da degradação dos componentes do resíduo.",
+    "E": "apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O resíduo do café tem açúcares e pectina (fontes de carbono) e alcaloides com nitrogênio. Ao se decompor no solo, ele devolve esses elementos aos ciclos: <strong>possibilita a reciclagem de carbono e nitrogênio</strong>, nutrientes para as plantas. Alternativa <strong>A</strong>.</p><p>O texto não fala de alumínio (B), pH (D) ou efeito inibidor (E); compactar o solo seria prejudicial (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclos biogeoquímicos",
+    "adubação orgânica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 100
+   },
+   "enunciado": "<p>Um alimento orgânico deve apresentar em sua embalagem o selo de uma instituição certificadora, garantindo ao consumidor que, além de ser um alimento isento de agrotóxicos, também é produzido com técnicas planejadas e controladas. A técnica de produção desses alimentos causa menor impacto aos recursos naturais, contribuindo para melhorar a qualidade de vida das pessoas.</p><p>Nesse sistema de produção de alimentos vegetais, o controle de insetos é manejado por meio do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "prática de adubação verde.",
+    "B": "emprego da compostagem.",
+    "C": "controle da irrigação do solo.",
+    "D": "utilização de predadores naturais.",
+    "E": "uso de sementes inoculadas com <em>Rhizobium</em>."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na agricultura orgânica não se usam agrotóxicos, então as pragas são controladas por meios naturais, como o controle biológico: <strong>utilização de predadores naturais</strong> dos insetos, como joaninhas contra pulgões. Alternativa <strong>D</strong>.</p><p>Adubação verde, compostagem e <em>Rhizobium</em> (A, B e E) servem para fertilizar o solo, não para controlar insetos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "controle biológico",
+    "agricultura orgânica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 101
+   },
+   "enunciado": "<p class=\"apoio\">A eritropoetina (EPO) é um hormônio endógeno secretado pelos rins que influencia a maturação dos eritrócitos. Suas formas recombinantes, sintetizadas em laboratório, têm sido usadas por alguns atletas em esportes de resistência na busca por melhores resultados. No entanto, a administração da EPO recombinante no esporte foi proibida pelo Comitê Olímpico Internacional e seu uso considerado <em>doping</em>.</p><p class=\"fonte\">MARTELLI, A. Eritropoetina: síntese e liberação fisiológica e o uso de sua forma recombinante no esporte. Perspectivas Online: biológicas & saúde, v. 10, n. 3, 2013 (adaptado).</p><p>Uma influência que esse <em>doping</em> poderá exercer na melhoria da capacidade física desses atletas está relacionada ao transporte de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "lipídios, para aumento do gasto calórico.",
+    "B": "ATP, para aumento da síntese hormonal.",
+    "C": "oxigênio, para aumento da produção de ATP.",
+    "D": "proteínas, para aumento da massa muscular.",
+    "E": "vitamina C, para aumento da integridade dos vasos sanguíneos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A EPO estimula a produção de hemácias. Com mais hemácias, o sangue transporta mais <strong>oxigênio</strong> aos músculos, que fazem mais respiração celular e produzem mais ATP: <strong>transporte de oxigênio, para aumento da produção de ATP</strong>. Alternativa <strong>C</strong>.</p><p>As hemácias não transportam lipídios, proteínas ou vitamina C (A, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eritropoetina",
+    "doping"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 102
+   },
+   "enunciado": "<p>O objetivo de recipientes isolantes térmicos é minimizar as trocas de calor com o ambiente externo. Essa troca de calor é proporcional à condutividade térmica <em>k</em> e à área interna das faces do recipiente, bem como à diferença de temperatura entre o ambiente externo e o interior do recipiente, além de ser inversamente proporcional à espessura das faces.</p><p>A fim de avaliar a qualidade de dois recipientes A (40 cm × 40 cm × 40 cm) e B (60 cm × 40 cm × 40 cm), de faces de mesma espessura, uma estudante compara suas condutividades térmicas <em>k</em><sub>A</sub> e <em>k</em><sub>B</sub>. Para isso suspende, dentro de cada recipiente, blocos idênticos de gelo a 0 °C, de modo que suas superfícies estejam em contato apenas com o ar. Após um intervalo de tempo, ela abre os recipientes enquanto ambos ainda contêm um pouco de gelo e verifica que a massa de gelo que se fundiu no recipiente B foi o dobro da que se fundiu no recipiente A.</p><p>A razão \\(\\frac{k_A}{k_B}\\) é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,50.",
+    "B": "0,67.",
+    "C": "0,75.",
+    "D": "1,33.",
+    "E": "2,00."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Área interna de A: 6 · 40 · 40 = 9 600 cm<sup>2</sup>. De B: 2 · 40 · 40 + 4 · 60 · 40 = 12 800 cm<sup>2</sup>. O calor que entra é proporcional a k · área; em B derreteu o dobro do gelo: k<sub>B</sub> · 12 800 = 2 · k<sub>A</sub> · 9 600. Então k<sub>A</sub>/k<sub>B</sub> = 12 800/19 200 ≈ <strong>0,67</strong>. Alternativa <strong>B</strong>.</p><p>0,50 (A) ignora a diferença das áreas; 1,33 (D) inverte a razão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "condução térmica",
+    "lei de Fourier"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Química",
+   "assunto": "Oxirredução",
+   "origem": {
+    "numeroOriginal": 103
+   },
+   "enunciado": "<p>Estudos mostram o desenvolvimento de biochips utilizados para auxiliar o diagnóstico de diabetes melito, doença evidenciada pelo excesso de glicose no organismo. O teste é simples e consiste em duas reações sequenciais na superfície do biochip, entre a amostra de soro sanguíneo do paciente, enzimas específicas e reagente (iodeto de potássio, KI), conforme mostrado na imagem.</p>[[fig:1]]<p>Após a adição de soro sanguíneo, o fluxo desloca-se espontaneamente da esquerda para a direita (ii) promovendo reações sequenciais, conforme as equações 1 e 2. Na primeira, há conversão de glicose do sangue em ácido glucônico, gerando peróxido de hidrogênio:</p><p class=\"centro\">Equação 1: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (aq) + O<sub>2</sub> (g) + H<sub>2</sub>O (l) → C<sub>6</sub>H<sub>12</sub>O<sub>7</sub> (aq) + H<sub>2</sub>O<sub>2</sub> (aq) (enzimas)</p><p>Na segunda, o peróxido de hidrogênio reage com íons iodeto gerando o íon tri-iodeto, água e oxigênio.</p><p class=\"centro\">Equação 2: 2 H<sub>2</sub>O<sub>2</sub> (aq) + 3 I<sup>−</sup> (aq) → I<sub>3</sub><sup>−</sup> (aq) + 2 H<sub>2</sub>O (l) + O<sub>2</sub> (g)</p><p class=\"fonte\">GARCIA, P. T. et al. A Handheld Stamping Process to Fabricate Microfluidic Paper-Based Analytical Devices with Chemically Modified Surface for Clinical Assays. RSC Advances, v. 4, 13 ago. 2014 (adaptado).</p><p>O tipo de reação que ocorre na superfície do biochip, nas duas reações do processo, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q103.webp",
+     "alt": "Esquema do biochip: (i) antes do soro, um canal com três círculos, onde ficam as enzimas e o KI; (ii) depois de adicionado o soro à esquerda, o fluxo segue para a direita e o último círculo fica colorido."
+    }
+   ],
+   "alternativas": {
+    "A": "análise.",
+    "B": "síntese.",
+    "C": "oxirredução.",
+    "D": "complexação.",
+    "E": "ácido-base."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na primeira reação, a glicose é oxidada a ácido glucônico e o O<sub>2</sub> é reduzido a H<sub>2</sub>O<sub>2</sub>. Na segunda, o iodeto é oxidado a tri-iodeto e o oxigênio do peróxido é reduzido. Nas duas há transferência de elétrons: o tipo de reação é de <strong>oxirredução</strong>. Alternativa <strong>C</strong>.</p><p>Não são reações de síntese, análise, complexação ou ácido-base (A, B, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "número de oxidação",
+    "biossensor"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 104
+   },
+   "enunciado": "<p class=\"apoio\">Algumas toneladas de medicamentos para uso humano e veterinário são produzidas por ano. Os fármacos são desenvolvidos para serem estáveis, mantendo suas propriedades químicas de forma a atender a um propósito terapêutico. Após o consumo de fármacos, parte de sua dosagem é excretada de forma inalterada, persistindo no meio ambiente. Em todo o mundo, antibióticos, hormônios, anestésicos, anti-inflamatórios, entre outros, são detectados em concentrações preocupantes no esgoto doméstico, em águas superficiais e de subsolo. Dessa forma, a ocorrência de fármacos residuais no meio ambiente pode apresentar efeitos adversos em organismos aquáticos e terrestres.</p><p class=\"fonte\">BILA, D. M.; DEZOTTI, M. Fármacos no meio ambiente. Química Nova, v. 26, n. 4, ago. 2003 (adaptado).</p><p>Qual ação minimiza a permanência desses contaminantes nos recursos hídricos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Utilização de esterco como fertilizante na agricultura.",
+    "B": "Ampliação das redes de coleta de esgoto na zona urbana.",
+    "C": "Descarte dos medicamentos fora do prazo de validade em lixões.",
+    "D": "Desenvolvimento de novos processos nas estações de tratamento de efluentes.",
+    "E": "Reúso dos lodos provenientes das estações de tratamento de esgoto na agricultura."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os fármacos foram feitos para ser estáveis e passam pelas estações de tratamento sem ser destruídos. Ampliar a coleta de esgoto não basta, porque o tratamento atual não os remove. A ação que minimiza o problema é o <strong>desenvolvimento de novos processos nas estações de tratamento de efluentes</strong>. Alternativa <strong>D</strong>.</p><p>Esterco, lixões e reúso de lodo (A, C e E) espalhariam ainda mais os resíduos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fármacos no ambiente",
+    "tratamento de efluentes"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Química",
+   "assunto": "Atomística",
+   "origem": {
+    "numeroOriginal": 105
+   },
+   "enunciado": "<p>Um teste de laboratório permite identificar alguns cátions metálicos ao introduzir uma pequena quantidade do material de interesse em uma chama de bico de Bunsen para, em seguida, observar a cor da luz emitida.</p><p>A cor observada é proveniente da emissão de radiação eletromagnética ao ocorrer a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "mudança da fase sólida para a fase líquida do elemento metálico.",
+    "B": "combustão dos cátions metálicos provocada pelas moléculas de oxigênio da atmosfera.",
+    "C": "diminuição da energia cinética dos elétrons em uma mesma órbita na eletrosfera atômica.",
+    "D": "transição eletrônica de um nível mais externo para outro mais interno na eletrosfera atômica.",
+    "E": "promoção dos elétrons que se encontram no estado fundamental de energia para níveis mais energéticos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A chama fornece energia e os elétrons saltam para níveis mais externos. Ao voltar, eles liberam essa energia como luz, com cor característica de cada elemento. A emissão ocorre na <strong>transição eletrônica de um nível mais externo para outro mais interno</strong>. Alternativa <strong>D</strong>.</p><p>A promoção para níveis maiores (E) absorve energia; a luz vem da volta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "teste de chama",
+    "modelo de Bohr"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Física",
+   "assunto": "Estática",
+   "origem": {
+    "numeroOriginal": 106
+   },
+   "enunciado": "<p><em>Slackline</em> é um esporte no qual o atleta deve se equilibrar e executar manobras estando sobre uma fita esticada. Para a prática do esporte, as duas extremidades da fita são fixadas de forma que ela fique a alguns centímetros do solo. Quando uma atleta de massa igual a 80 kg está exatamente no meio da fita, essa se desloca verticalmente, formando um ângulo de 10° com a horizontal, como esquematizado na figura. Sabe-se que a aceleração da gravidade é igual a 10 m s<sup>−2</sup>, cos(10°) = 0,98 e sen(10°) = 0,17.</p>[[fig:1]]<p>Qual é a força que a fita exerce em cada uma das árvores por causa da presença da atleta?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q106.webp",
+     "alt": "Atleta equilibrada no meio de uma fita de slackline presa entre duas árvores; a fita forma um pequeno ângulo de 10° com a horizontal de cada lado."
+    }
+   ],
+   "alternativas": {
+    "A": "4,0 × 10<sup>2</sup> N",
+    "B": "4,1 × 10<sup>2</sup> N",
+    "C": "8,0 × 10<sup>2</sup> N",
+    "D": "2,4 × 10<sup>3</sup> N",
+    "E": "4,7 × 10<sup>3</sup> N"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No ponto da atleta, as duas metades da fita a puxam para cima: 2T · sen 10° = peso = 800 N. Então T = 800/(2 · 0,17) ≈ 2 353 N ≈ <strong>2,4 × 10<sup>3</sup> N</strong>, que é a força em cada árvore. Alternativa <strong>D</strong>.</p><p>Usar o cosseno no lugar do seno daria cerca de 4,1 × 10<sup>2</sup> N (B); com ângulo pequeno, a força é muito maior que o peso.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equilíbrio",
+    "decomposição de forças"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 107
+   },
+   "enunciado": "<p>Na piscicultura, costumam-se usar larvas de <em>Artemia</em> (crustáceo) para alimentar larvas de peixes. Ovos de <em>Artemia</em> são colocados em garrafas com água salgada e, sob condições ótimas de temperatura, luz e oxigênio, eles eclodem, liberando suas larvas, também conhecidas como náuplios. Para recolher os náuplios, coloca-se uma lâmpada branca fluorescente na boca da garrafa e estes começam a subir em direção ao gargalo.</p><p>Esse comportamento das artêmias é chamado de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "geotropismo positivo.",
+    "B": "fototropismo positivo.",
+    "C": "hidrotropismo negativo.",
+    "D": "termotropismo negativo.",
+    "E": "quimiotropismo negativo."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os náuplios se movem em direção à luz da lâmpada. Movimento de um organismo inteiro orientado pela luz se chama fototaxia, mas, entre as alternativas, a que descreve esse deslocamento em direção à luz é o <strong>fototropismo positivo</strong>. Alternativa <strong>B</strong>.</p><p>Eles sobem por causa da luz, não por gravidade, água, calor ou substâncias (A, C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comportamento animal",
+    "fototaxia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Química",
+   "assunto": "Ligações químicas",
+   "origem": {
+    "numeroOriginal": 108
+   },
+   "enunciado": "<p>Por terem camada de valência completa, alta energia de ionização e afinidade eletrônica praticamente nula, considerou-se por muito tempo que os gases nobres não formariam compostos químicos. Porém, em 1962, foi realizada com sucesso a reação entre o xenônio (camada de valência 5<em>s</em><sup>2</sup>5<em>p</em><sup>6</sup>) e o hexafluoreto de platina e, desde então, mais compostos novos de gases nobres vêm sendo sintetizados. Tais compostos demonstram que não se pode aceitar acriticamente a regra do octeto, na qual se considera que, numa ligação química, os átomos tendem a adquirir estabilidade assumindo a configuração eletrônica de gás nobre. Dentre os compostos conhecidos, um dos mais estáveis é o difluoreto de xenônio, no qual dois átomos do halogênio flúor (camada de valência 2<em>s</em><sup>2</sup>2<em>p</em><sup>5</sup>) se ligam covalentemente ao átomo de gás nobre para ficarem com oito elétrons de valência.</p><p>Ao se escrever a fórmula de Lewis do composto de xenônio citado, quantos elétrons na camada de valência haverá no átomo do gás nobre?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "6",
+    "B": "8",
+    "C": "10",
+    "D": "12",
+    "E": "14"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O composto citado é o difluoreto de xenônio, XeF<sub>2</sub>. O xenônio tem 8 elétrons de valência; ao fazer duas ligações covalentes com o flúor, compartilha mais 2 elétrons. Na fórmula de Lewis, fica com 3 pares não ligantes e 2 pares ligantes: <strong>10 elétrons</strong> na camada de valência, mais que o octeto. Alternativa <strong>C</strong>.</p><p>8 (B) seria o octeto, que o texto mostra não valer para o xenônio.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "regra do octeto",
+    "gases nobres"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Física",
+   "assunto": "Movimento circular",
+   "origem": {
+    "numeroOriginal": 109
+   },
+   "enunciado": "<p>Na madrugada de 11 de março de 1978, partes de um foguete soviético reentraram na atmosfera acima da cidade do Rio de Janeiro e caíram no Oceano Atlântico. Foi um belo espetáculo, os inúmeros fragmentos entrando em ignição devido ao atrito com a atmosfera brilharam intensamente, enquanto “cortavam o céu”. Mas se a reentrada tivesse acontecido alguns minutos depois, teríamos uma tragédia, pois a queda seria na área urbana do Rio de Janeiro e não no oceano.</p>[[fig:1]]<p class=\"fonte\">LAS CASAS, R. <em>Lixo espacial</em>. Observatório Astronômico Frei Rosário, ICEx, UFMG. Disponível em: www.observatorio.ufmg.br. Acesso em: 27 set. 2011 (adaptado).</p><p>De acordo com os fatos relatados, a velocidade angular do foguete em relação à Terra no ponto de reentrada era</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q109.webp",
+     "alt": "Globo terrestre com a linha do Equador, a América do Sul, o Oceano Atlântico e o Rio de Janeiro marcado; no polo, uma seta indica o sentido de rotação da Terra."
+    }
+   ],
+   "alternativas": {
+    "A": "igual à da Terra e no mesmo sentido.",
+    "B": "superior à da Terra e no mesmo sentido.",
+    "C": "inferior à da Terra e no sentido oposto.",
+    "D": "igual à da Terra e no sentido oposto.",
+    "E": "superior à da Terra e no sentido oposto."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Se a reentrada tivesse ocorrido minutos depois, os destroços cairiam na cidade, a oeste do oceano. A Terra gira de oeste para leste e o foguete, que estava sobre o oceano, ainda não tinha alcançado o Rio: ele se movia no mesmo sentido da rotação, mas mais rápido, “ultrapassando” a superfície. A velocidade angular era <strong>superior à da Terra e no mesmo sentido</strong>. Alternativa <strong>B</strong>.</p><p>Com velocidade igual (A), o foguete ficaria parado sobre o mesmo ponto da Terra.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade angular",
+    "referencial"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 110
+   },
+   "enunciado": "<p class=\"apoio\">Com base nos experimentos de plantas de Mendel, foram estabelecidos três princípios básicos, que são conhecidos como leis da uniformidade, segregação e distribuição independente. A lei da distribuição independente refere-se ao fato de que os membros de pares diferentes de genes segregam-se independentemente, uns dos outros, para a prole.</p><p class=\"fonte\">TURNPENNY, P. D. <em>Genética médica</em>. Rio de Janeiro: Elsevier, 2009 (adaptado).</p><p>Hoje, sabe-se que isso nem sempre é verdade. Por quê?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A distribuição depende do caráter de dominância ou recessividade do gene.",
+    "B": "Os organismos nem sempre herdam cada um dos genes de cada um dos genitores.",
+    "C": "As alterações cromossômicas podem levar a falhas na segregação durante a meiose.",
+    "D": "Os genes localizados fisicamente próximos no mesmo cromossomo tendem a ser herdados juntos.",
+    "E": "O cromossomo que contém dois determinados genes pode não sofrer a disjunção na primeira fase da meiose."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A segregação independente vale para genes em cromossomos diferentes. Genes próximos num mesmo cromossomo tendem a ir juntos para o gameta, a não ser que ocorra crossing-over entre eles: é a ligação gênica. Por isso, <strong>os genes localizados fisicamente próximos no mesmo cromossomo tendem a ser herdados juntos</strong>. Alternativa <strong>D</strong>.</p><p>Dominância (A) não altera a segregação; não disjunção (C e E) é exceção rara, não o motivo geral.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "linkage",
+    "segunda lei de Mendel"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 111
+   },
+   "enunciado": "<p>Em qualquer obra de construção civil é fundamental a utilização de equipamentos de proteção individual, tal como capacetes. Por exemplo, a queda livre de um tijolo de massa 2,5 kg de uma altura de 5 m, cujo impacto contra um capacete pode durar até 0,5 s, resulta em uma força impulsiva média maior do que o peso do tijolo. Suponha que a aceleração gravitacional seja 10 m s<sup>−2</sup> e que o efeito de resistência do ar seja desprezível.</p><p>A força impulsiva média gerada por esse impacto equivale ao peso de quantos tijolos iguais?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2",
+    "B": "5",
+    "C": "10",
+    "D": "20",
+    "E": "50"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Caindo 5 m, o tijolo chega a v = √(2gh) = √100 = 10 m/s. Seu momento linear é 2,5 · 10 = 25 kg m/s, anulado em 0,5 s: F = 25/0,5 = 50 N. O peso do tijolo é 25 N; a força equivale ao peso de <strong>2 tijolos</strong>. Alternativa <strong>A</strong>.</p><p>Dividir pelo tempo sem achar a velocidade, ou esquecer o peso como unidade, leva a 10 ou 50 (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "impulso",
+    "quantidade de movimento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Forças intermoleculares",
+   "origem": {
+    "numeroOriginal": 112
+   },
+   "enunciado": "<p>Os hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão presentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação fracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na destilação do petróleo em diferentes faixas de temperaturas.</p><table class=\"tabela\"><thead><tr><th>Fração</th><th>Faixa de temperatura (°C)</th><th>Exemplos de produto(s)</th><th>Número de átomos de carbono (hidrocarboneto de fórmula geral C<sub>n</sub>H<sub>2n+2</sub>)</th></tr></thead><tbody><tr><td>1</td><td>Até 20</td><td>Gás natural e gás de cozinha (GLP)</td><td>C<sub>1</sub> a C<sub>4</sub></td></tr><tr><td>2</td><td>30 a 180</td><td>Gasolina</td><td>C<sub>6</sub> a C<sub>12</sub></td></tr><tr><td>3</td><td>170 a 290</td><td>Querosene</td><td>C<sub>11</sub> a C<sub>16</sub></td></tr><tr><td>4</td><td>260 a 350</td><td>Óleo diesel</td><td>C<sub>14</sub> a C<sub>18</sub></td></tr></tbody></table><p class=\"fonte\">SANTA MARIA, L. C. et al. Petróleo: um tema para o ensino de química. Química Nova na Escola, n. 15, maio 2002 (adaptado).</p><p>Na fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "suas densidades são maiores.",
+    "B": "o número de ramificações é maior.",
+    "C": "sua solubilidade no petróleo é maior.",
+    "D": "as forças intermoleculares são mais intensas.",
+    "E": "a cadeia carbônica é mais difícil de ser quebrada."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os hidrocarbonetos são apolares e se atraem por forças de dispersão (London), que ficam mais fortes conforme a cadeia cresce. A fração 4 tem as maiores cadeias (C<sub>14</sub> a C<sub>18</sub>): para separar essas moléculas é preciso mais energia, porque <strong>as forças intermoleculares são mais intensas</strong>. Alternativa <strong>D</strong>.</p><p>Na destilação as moléculas só se separam, não se quebram (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "destilação fracionada",
+    "petróleo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 113
+   },
+   "enunciado": "<p>O espectrômetro de massa de tempo de voo é um dispositivo utilizado para medir a massa de íons. Nele, um íon de carga elétrica <em>q</em> é lançado em uma região de campo magnético constante \\(\\vec{B}\\), descrevendo uma trajetória helicoidal, conforme a figura. Essa trajetória é formada pela composição de um movimento circular uniforme no plano yz e uma translação ao longo do eixo x. A vantagem desse dispositivo é que a velocidade angular do movimento helicoidal do íon é independente de sua velocidade inicial. O dispositivo então mede o tempo <em>t</em> de voo para <em>N</em> voltas do íon. Logo, com base nos valores <em>q</em>, <em>B</em>, <em>N</em> e <em>t</em>, pode-se determinar a massa do íon.</p>[[fig:1]]<p>A massa do íon medida por esse dispositivo será</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q113.webp",
+     "alt": "Eixos x, y e z; linhas de campo magnético B paralelas ao eixo x; um íon positivo +q descreve uma trajetória helicoidal em torno das linhas de campo, avançando ao longo de x."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\frac{qBt}{2\\pi N}\\)",
+    "B": "\\(\\frac{qBt}{\\pi N}\\)",
+    "C": "\\(\\frac{2qBt}{\\pi N}\\)",
+    "D": "\\(\\frac{qBt}{N}\\)",
+    "E": "\\(\\frac{2qBt}{N}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No movimento circular, a força magnética é a resultante centrípeta: qvB = mv<sup>2</sup>/r, logo ω = v/r = qB/m, que não depende da velocidade. O período de uma volta é 2π/ω = 2πm/(qB). Em N voltas, t = 2πNm/(qB), e a massa é <strong>m = qBt/(2πN)</strong>. Alternativa <strong>A</strong>.</p><p>qBt/(πN) (B) usaria meia volta como período.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "força magnética",
+    "movimento helicoidal"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Biologia",
+   "assunto": "Virologia",
+   "origem": {
+    "numeroOriginal": 114
+   },
+   "enunciado": "<p>Na família <em>Retroviridae</em> encontram-se diversos vírus que infectam aves e mamíferos, sendo caracterizada pela produção de DNA a partir de uma molécula de RNA. Alguns retrovírus infectam exclusivamente humanos, não necessitando de outros hospedeiros, reservatórios ou vetores biológicos. As infecções ocasionadas por esses vírus vêm causando mortes e grandes prejuízos ao desenvolvimento social e econômico. Nesse contexto, pesquisadores têm produzido medicamentos que contribuem para o tratamento dessas doenças.</p><p>Que avanços tecnológicos têm contribuído para o tratamento dessas infecções virais?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Melhoria dos métodos de controle dos vetores desses vírus.",
+    "B": "Fabricação de soros mutagênicos para combate desses vírus.",
+    "C": "Investimento da indústria em equipamentos de proteção individual.",
+    "D": "Produção de vacinas que evitam a infecção das células hospedeiras.",
+    "E": "Desenvolvimento de antirretrovirais que dificultam a reprodução desses vírus."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os retrovírus (como o HIV) usam a transcriptase reversa para fazer DNA a partir do seu RNA, e infectam só humanos, sem vetores. Os medicamentos desenvolvidos são os <strong>antirretrovirais, que dificultam a reprodução desses vírus</strong>, bloqueando etapas como a transcrição reversa. Alternativa <strong>E</strong>.</p><p>Não há vetores para controlar (A), e o texto fala em tratamento, não em prevenção por vacina (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "retrovírus",
+    "HIV"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 115
+   },
+   "enunciado": "<p>O concreto utilizado na construção civil é um material formado por cimento misturado a areia, a brita e a água. A areia é normalmente extraída de leitos de rios e a brita, oriunda da fragmentação de rochas. Impactos ambientais gerados no uso do concreto estão associados à extração de recursos minerais e ao descarte indiscriminado desse material. Na tentativa de reverter esse quadro, foi proposta a utilização de concreto reciclado moído em substituição ao particulado rochoso graúdo na fabricação de novo concreto, obtendo um material com as mesmas propriedades que o anterior.</p><p>O benefício ambiental gerado nessa proposta é a redução do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "extração da brita.",
+    "B": "extração de areia.",
+    "C": "consumo de água.",
+    "D": "consumo de concreto.",
+    "E": "fabricação de cimento."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A proposta é usar o concreto reciclado moído no lugar do “particulado rochoso”, isto é, da brita, que vem da fragmentação de rochas. O benefício é a <strong>redução da extração da brita</strong>, além do aproveitamento do entulho. Alternativa <strong>A</strong>.</p><p>A areia, a água e o cimento (B, C e E) continuam sendo usados no novo concreto.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reciclagem",
+    "construção civil"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 116
+   },
+   "enunciado": "<p>A fluidez da membrana celular é caracterizada pela capacidade de movimento das moléculas componentes dessa estrutura. Os seres vivos mantêm essa propriedade de duas formas: controlando a temperatura e/ou alterando a composição lipídica da membrana. Neste último aspecto, o tamanho e o grau de insaturação das caudas hidrocarbônicas dos fosfolipídios, conforme representados na figura, influenciam significativamente a fluidez. Isso porque quanto maior for a magnitude das interações entre os fosfolipídios, menor será a fluidez da membrana.</p>[[fig:1]]<p>Assim, existem bicamadas lipídicas com diferentes composições de fosfolipídios, como as mostradas de I a V.</p>[[fig:2]]<p>Qual das bicamadas lipídicas apresentadas possui maior fluidez?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q116.webp",
+     "alt": "Representação simplificada de um fosfolipídio: cabeça polar redonda e duas caudas hidrocarbônicas, uma reta e outra com uma dobra que indica insaturação."
+    },
+    {
+     "src": "assets/img/enem-2019-natureza/q116b.webp",
+     "alt": "Cinco bicamadas lipídicas: I, caudas longas e retas; II, caudas curtas com dobras de insaturação; III, caudas curtas com algumas dobras; IV, caudas longas e retas, bem juntas; V, caudas longas com dobras."
+    }
+   ],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que, quanto maiores as interações entre os fosfolipídios, menor a fluidez. Caudas curtas e com insaturações (dobras) se encaixam mal e interagem menos. Na bicamada II as caudas são curtas e quase todas têm dobras de insaturação: é a de <strong>maior fluidez</strong>. Alternativa <strong>B</strong>.</p><p>I e IV têm caudas retas, que se empacotam bem; III e V misturam caudas longas ou retas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "membrana plasmática",
+    "fosfolipídios"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Física",
+   "assunto": "Calorimetria",
+   "origem": {
+    "numeroOriginal": 117
+   },
+   "enunciado": "<p>Em uma aula experimental de calorimetria, uma professora queimou 2,5 g de castanha-de-caju crua para aquecer 350 g de água, em um recipiente apropriado para diminuir as perdas de calor. Com base na leitura da tabela nutricional a seguir e da medida da temperatura da água, após a queima total do combustível, ela concluiu que 50% da energia disponível foi aproveitada. O calor específico da água é 1 cal g<sup>−1</sup> °C<sup>−1</sup>, e sua temperatura inicial era de 20 °C.</p><table class=\"tabela\"><thead><tr><th>Quantidade por porção de 10 g (2 castanhas)</th><th></th></tr></thead><tbody><tr><td>Valor energético</td><td>70 kcal</td></tr><tr><td>Carboidratos</td><td>0,8 g</td></tr><tr><td>Proteínas</td><td>3,5 g</td></tr><tr><td>Gorduras totais</td><td>3,5 g</td></tr></tbody></table><p>Qual foi a temperatura da água, em grau Celsius, medida ao final do experimento?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "25",
+    "B": "27",
+    "C": "45",
+    "D": "50",
+    "E": "70"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pela tabela, 10 g de castanha têm 70 kcal; então 2,5 g têm 17,5 kcal. Com 50% aproveitado, a água recebe 8 750 cal. ΔT = Q/(mc) = 8 750/(350 · 1) = 25 °C. A temperatura final é 20 + 25 = <strong>45 °C</strong>. Alternativa <strong>C</strong>.</p><p>25 (A) é só a variação; 70 °C (E) usaria toda a energia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calor sensível",
+    "valor energético"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 118
+   },
+   "enunciado": "<p>Grupos de pesquisa em todo o mundo vêm buscando soluções inovadoras, visando a produção de dispositivos para a geração de energia elétrica. Dentre eles, pode-se destacar as baterias de zinco-ar, que combinam o oxigênio atmosférico e o metal zinco em um eletrólito aquoso de caráter alcalino. O esquema de funcionamento da bateria zinco-ar está apresentado na figura.</p>[[fig:1]]<p class=\"fonte\">LI, Y.; DAI, H. Recent Advances in Zinc–Air Batteries. Chemical Society Reviews, v. 43, n. 15, 2014 (adaptado).</p><p>No funcionamento da bateria, a espécie química formada no ânodo é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q118.webp",
+     "alt": "Bateria zinco-ar: à esquerda, um eletrodo poroso por onde entra o O₂ do ar e se forma OH⁻; no meio, uma membrana separadora; à direita, o eletrodo de zinco, onde se forma Zn(OH)₄²⁻; os eletrodos estão ligados a uma lâmpada acesa."
+    }
+   ],
+   "alternativas": {
+    "A": "H<sub>2</sub> (g).",
+    "B": "O<sub>2</sub> (g).",
+    "C": "H<sub>2</sub>O (l).",
+    "D": "OH<sup>−</sup> (aq).",
+    "E": "Zn(OH)<sub>4</sub><sup>2−</sup> (aq)."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No ânodo ocorre a oxidação. O zinco perde elétrons e, em meio básico, forma o íon zincato: Zn + 4 OH<sup>−</sup> → Zn(OH)<sub>4</sub><sup>2−</sup> + 2 e<sup>−</sup>. A espécie formada no ânodo é <strong>Zn(OH)<sub>4</sub><sup>2−</sup></strong>. Alternativa <strong>E</strong>.</p><p>OH<sup>−</sup> (D) se forma no cátodo, pela redução do O<sub>2</sub>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pilhas",
+    "ânodo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 119
+   },
+   "enunciado": "<p>Dois amigos se encontram em um posto de gasolina para calibrar os pneus de suas bicicletas. Uma das bicicletas é de corrida (bicicleta A) e a outra, de passeio (bicicleta B). Os pneus de ambas as bicicletas têm as mesmas características, exceto que a largura dos pneus de A é menor que a largura dos pneus de B. Ao calibrarem os pneus das bicicletas A e B, respectivamente com pressões de calibração <em>p</em><sub>A</sub> e <em>p</em><sub>B</sub>, os amigos observam que o pneu da bicicleta A deforma, sob mesmos esforços, muito menos que o pneu da bicicleta B. Pode-se considerar que as massas de ar comprimido no pneu da bicicleta A, <em>m</em><sub>A</sub>, e no pneu da bicicleta B, <em>m</em><sub>B</sub>, são diretamente proporcionais aos seus volumes.</p><p>Comparando as pressões e massas de ar comprimido nos pneus das bicicletas, temos:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "<em>p</em><sub>A</sub> &lt; <em>p</em><sub>B</sub> e <em>m</em><sub>A</sub> &lt; <em>m</em><sub>B</sub>",
+    "B": "<em>p</em><sub>A</sub> &gt; <em>p</em><sub>B</sub> e <em>m</em><sub>A</sub> &lt; <em>m</em><sub>B</sub>",
+    "C": "<em>p</em><sub>A</sub> &gt; <em>p</em><sub>B</sub> e <em>m</em><sub>A</sub> = <em>m</em><sub>B</sub>",
+    "D": "<em>p</em><sub>A</sub> &lt; <em>p</em><sub>B</sub> e <em>m</em><sub>A</sub> = <em>m</em><sub>B</sub>",
+    "E": "<em>p</em><sub>A</sub> &gt; <em>p</em><sub>B</sub> e <em>m</em><sub>A</sub> &gt; <em>m</em><sub>B</sub>"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O pneu A deforma muito menos sob o mesmo esforço: está mais duro, com pressão maior, p<sub>A</sub> &gt; p<sub>B</sub>. Como os pneus de A são mais estreitos, têm volume menor; e as massas de ar são proporcionais aos volumes: m<sub>A</sub> &lt; m<sub>B</sub>. Alternativa <strong>B</strong>.</p><p>Pressão maior não significa mais ar: o pneu estreito guarda menos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão",
+    "volume"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 120
+   },
+   "enunciado": "<p>A utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem sendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.</p>[[fig:1]]<p class=\"fonte\">HAMERSKI, L.; REZENDE, M. J. C.; SILVA, B. V. Usando as cores da natureza para atender aos desejos do consumidor: substâncias naturais como corantes na indústria alimentícia. Revista Virtual de Química, n. 3, 2013.</p><p>A propriedade comum às estruturas que confere cor a esses compostos é a presença de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q120.webp",
+     "alt": "Fórmulas estruturais de três corantes naturais: bixina (presente no urucum), com grupos COOH e COOCH₃ nas pontas; licopeno (presente no tomate); e β-caroteno (presente na cenoura e na laranja), com anéis nas duas pontas. Todos têm longas cadeias de ligações duplas alternadas."
+    }
+   ],
+   "alternativas": {
+    "A": "cadeia conjugada.",
+    "B": "cadeia ramificada.",
+    "C": "átomos de carbonos terciários.",
+    "D": "ligações duplas de configuração cis.",
+    "E": "átomos de carbonos de hibridação sp3."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Bixina, licopeno e β-caroteno têm longas sequências de ligações duplas alternadas com simples. Essa <strong>cadeia conjugada</strong> deixa os elétrons espalhados pela molécula e faz com que ela absorva luz visível, o que dá a cor. Alternativa <strong>A</strong>.</p><p>Ramificações, carbonos terciários e sp<sup>3</sup> (B, C e E) não produzem cor; as duplas são principalmente trans (contra D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cadeia conjugada",
+    "corantes"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 121
+   },
+   "enunciado": "<p>Numa feira de ciências, um estudante utilizará o disco de Maxwell (ioiô) para demonstrar o princípio da conservação da energia. A apresentação consistirá em duas etapas:</p><p>Etapa 1 - a explicação de que, à medida que o disco desce, parte de sua energia potencial gravitacional é transformada em energia cinética de translação e energia cinética de rotação;</p><p>Etapa 2 - o cálculo da energia cinética de rotação do disco no ponto mais baixo de sua trajetória, supondo o sistema conservativo.</p><p>Ao preparar a segunda etapa, ele considera a aceleração da gravidade igual a 10 m s<sup>−2</sup> e a velocidade linear do centro de massa do disco desprezível em comparação com a velocidade angular. Em seguida, mede a altura do topo do disco em relação ao chão no ponto mais baixo de sua trajetória, obtendo \\(\\frac{1}{3}\\) da altura da haste do brinquedo.</p><p>As especificações de tamanho do brinquedo, isto é, de comprimento (C), largura (L) e altura (A), assim como da massa de seu disco de metal, foram encontradas pelo estudante no recorte de manual ilustrado a seguir.</p>[[fig:1]]<p>O resultado do cálculo da etapa 2, em joule, é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q121.webp",
+     "alt": "Brinquedo disco de Maxwell: estrutura com barra superior, disco de metal pendurado por dois fios; cotas mostram a altura h da haste e a descida 2h/3 do disco. Recorte do manual: conteúdo (base de metal, hastes metálicas, barra superior, disco de metal); tamanho (C × L × A): 300 mm × 100 mm × 410 mm; massa do disco de metal: 30 g."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(4{,}10 \\times 10^{-2}\\)",
+    "B": "\\(8{,}20 \\times 10^{-2}\\)",
+    "C": "\\(1{,}23 \\times 10^{-1}\\)",
+    "D": "\\(8{,}20 \\times 10^{4}\\)",
+    "E": "\\(1{,}23 \\times 10^{5}\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A haste tem h = 410 mm. Pela figura, o disco desce 2h/3 = 0,273 m. Com o sistema conservativo e a translação desprezível, toda a energia potencial perdida vira energia de rotação: E = mgΔh = 0,030 · 10 · 0,273 ≈ <strong>8,20 × 10<sup>−2</sup> J</strong>. Alternativa <strong>B</strong>.</p><p>Usar h/3 daria 4,10 × 10<sup>−2</sup> J (A), e a altura inteira, 1,23 × 10<sup>−1</sup> J (C); D e E esquecem de converter gramas e milímetros.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conservação da energia",
+    "energia de rotação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Química",
+   "assunto": "Cinética química",
+   "origem": {
+    "numeroOriginal": 122
+   },
+   "enunciado": "<p>O odor que permanece nas mãos após o contato com alho pode ser eliminado pela utilização de um “sabonete de aço inoxidável”, constituído de aço inox (74%), cromo e níquel. A principal vantagem desse “sabonete” é que ele não se desgasta com o uso. Considere que a principal substância responsável pelo odor de alho é a alicina (estrutura I) e que, para que o odor seja eliminado, ela seja transformada na estrutura II.</p>[[fig:1]]<p>Na conversão de I em II, o “sabonete” atuará como um</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q122.webp",
+     "alt": "Estrutura I, a alicina: CH₂=CH–CH₂–S(=O)–S–CH₂–CH=CH₂, com o oxigênio ligado a um dos enxofres. Estrutura II: CH₂=CH–CH₂–S–S–CH₂–CH=CH₂, sem o oxigênio."
+    }
+   ],
+   "alternativas": {
+    "A": "ácido.",
+    "B": "redutor.",
+    "C": "eletrólito.",
+    "D": "tensoativo.",
+    "E": "catalisador."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para sair da estrutura I (alicina) para a II, a molécula perde o oxigênio ligado ao enxofre. O “sabonete” de aço participa dessa transformação, mas, como diz o texto, não se desgasta com o uso: sai inalterado no fim. Uma substância que favorece a reação sem ser consumida atua como <strong>catalisador</strong>. Alternativa <strong>E</strong>.</p><p>Um redutor (B) se oxidaria e seria gasto, o que o texto descarta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "catalisador",
+    "alicina"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 123
+   },
+   "enunciado": "<p class=\"apoio\">A poluição radioativa compreende mais de 200 nuclídeos, sendo que, do ponto de vista de impacto ambiental, destacam-se o césio-137 e o estrôncio-90. A maior contribuição de radionuclídeos antropogênicos no meio marinho ocorreu durante as décadas de 1950 e 1960, como resultado dos testes nucleares realizados na atmosfera. O estrôncio-90 pode se acumular nos organismos vivos e em cadeias alimentares e, em razão de sua semelhança química, pode participar no equilíbrio com carbonato e substituir o cálcio em diversos processos biológicos.</p><p class=\"fonte\">FIGUEIRA, R. C. L.; CUNHA, I. I. L. A contaminação dos oceanos por radionuclídeos antropogênicos. Química Nova, n. 21, 1998 (adaptado).</p><p>Ao entrar numa cadeia alimentar da qual o homem faz parte, em qual tecido do organismo humano o estrôncio-90 será acumulado predominantemente?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Cartilaginoso.",
+    "B": "Sanguíneo.",
+    "C": "Muscular.",
+    "D": "Nervoso.",
+    "E": "Ósseo."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que o estrôncio-90 é quimicamente parecido com o cálcio e pode substituí-lo em processos biológicos. No corpo humano, o cálcio se concentra nos ossos; por isso o estrôncio-90 se acumula no tecido <strong>ósseo</strong>. Alternativa <strong>E</strong>.</p><p>Os outros tecidos (A a D) não armazenam cálcio de forma significativa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "radioatividade",
+    "bioacumulação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Química",
+   "assunto": "Reações orgânicas",
+   "origem": {
+    "numeroOriginal": 124
+   },
+   "enunciado": "<p>Uma das técnicas de reciclagem química do polímero PET [poli(tereftalato de etileno)] gera o tereftalato de metila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação.</p>[[fig:1]]<p>O composto A, representado no esquema de reação, é o</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q124.webp",
+     "alt": "Esquema: o PET, unidade de repetição com anel benzênico entre dois grupos éster ligados a –CH₂–CH₂–, reage com 2n A, a altas temperaturas e pressão, formando n tereftalato de metila (anel com dois –COOCH₃) e n etanodiol (HO–CH₂–CH₂–OH)."
+    }
+   ],
+   "alternativas": {
+    "A": "metano.",
+    "B": "metanol.",
+    "C": "éter metílico.",
+    "D": "ácido etanoico.",
+    "E": "anidrido etanoico."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na transesterificação, um éster reage com um álcool e troca o grupo álcool. O PET é éster de etanodiol; para gerar o tereftalato de <strong>metila</strong> (com grupos –COOCH<sub>3</sub>) e liberar o etanodiol, o reagente A tem de ser o álcool que fornece o grupo metila: o <strong>metanol</strong>. Alternativa <strong>B</strong>.</p><p>Metano e éter (A e C) não fazem transesterificação; ácido e anidrido (D e E) dariam outras reações.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transesterificação",
+    "reciclagem do PET"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Biologia",
+   "assunto": "Botânica",
+   "origem": {
+    "numeroOriginal": 125
+   },
+   "enunciado": "<p>Durante sua evolução, as plantas apresentaram grande diversidade de características, as quais permitiram sua sobrevivência em diferentes ambientes. Na imagem, cinco dessas características estão indicadas por números.</p>[[fig:1]]<p class=\"fonte\">CAMPBELL, N. et al. <em>Biologia</em>. São Paulo: Artmed, 2010 (adaptado).</p><p>A aquisição evolutiva que permitiu a conquista definitiva do ambiente terrestre pelas plantas está indicada pelo número</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q125.webp",
+     "alt": "Árvore filogenética das plantas ao longo de milhões de anos (de 500 até hoje), a partir de uma alga verde ancestral: hepáticas, antóceros e musgos; licófitas e pteridófitas; gimnospermas e angiospermas. Legenda: 1, embriões protegidos no gametófito; 2, tecidos condutores verdadeiros; 3, formação de tubo polínico; 4, polinização pelo vento; 5, produção de frutos."
+    }
+   ],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "5."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Briófitas e pteridófitas dependem de água para que o gameta masculino nade até a oosfera. Com o <strong>tubo polínico</strong> (número 3), surgido nas espermatófitas, o gameta chega à oosfera por dentro da planta, sem precisar de água: foi a conquista definitiva do ambiente terrestre. Alternativa <strong>C</strong>.</p><p>Vasos condutores (2) ajudaram, mas as pteridófitas continuaram presas à água para a fecundação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "evolução das plantas",
+    "tubo polínico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 126
+   },
+   "enunciado": "<p>Uma casa tem um cabo elétrico mal dimensionado, de resistência igual a 10 Ω, que a conecta à rede elétrica de 120 V. Nessa casa, cinco lâmpadas, de resistência igual a 200 Ω, estão conectadas ao mesmo circuito que uma televisão de resistência igual a 50 Ω, conforme ilustrado no esquema. A televisão funciona apenas com tensão entre 90 V e 130 V.</p>[[fig:1]]<p>O número máximo de lâmpadas que podem ser ligadas sem que a televisão pare de funcionar é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q126.webp",
+     "alt": "Circuito: fonte de 120 V, um resistor de 10 Ω em série (o cabo) e, em paralelo, cinco lâmpadas de 200 Ω, cada uma com seu interruptor, e uma televisão de 50 Ω."
+    }
+   ],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "5."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A TV precisa de pelo menos 90 V, então o cabo pode “perder” no máximo 30 V: a corrente total vai até 30/10 = 3 A, e a resistência do conjunto TV + lâmpadas deve ser de pelo menos 90/3 = 30 Ω. Com n lâmpadas de 200 Ω em paralelo com a TV de 50 Ω: 1/R = 1/50 + n/200 = (4 + n)/200, R = 200/(4 + n) ≥ 30, logo n ≤ 2,67. O máximo é <strong>2 lâmpadas</strong>. Alternativa <strong>B</strong>.</p><p>Com 3 lâmpadas, R ≈ 28,6 Ω e a TV receberia cerca de 89 V.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "associação de resistores",
+    "queda de tensão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Biologia",
+   "assunto": "Metabolismo energético",
+   "origem": {
+    "numeroOriginal": 127
+   },
+   "enunciado": "<p class=\"apoio\">O 2,4-dinitrofenol (DNP) é conhecido como desacoplador da cadeia de elétrons na mitocôndria e apresenta um efeito emagrecedor. Contudo, por ser perigoso e pela ocorrência de casos letais, seu uso como medicamento é proibido em diversos países, inclusive no Brasil. Na mitocôndria, essa substância captura, no espaço intermembranas, prótons (H+) provenientes da atividade das proteínas da cadeia respiratória, retornando-os à matriz mitocondrial. Assim, esses prótons não passam pelo transporte enzimático na membrana interna.</p><p class=\"fonte\">GRUNDLINGH, J. et al. 2,4-Dinitrophenol (DNP): a Weight Loss Agent with Significant Acute Toxicity and Risk of Death. Journal of Medical Toxicology, v. 7, 2011 (adaptado).</p><p>O efeito emagrecedor desse composto está relacionado ao(à)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "obstrução da cadeia respiratória, resultando em maior consumo celular de ácidos graxos.",
+    "B": "bloqueio das reações do ciclo de Krebs, resultando em maior gasto celular de energia.",
+    "C": "diminuição da produção de acetil CoA, resultando em maior gasto celular de piruvato.",
+    "D": "inibição da glicólise, resultando em maior absorção celular da glicose sanguínea.",
+    "E": "redução da produção de ATP, resultando em maior gasto celular de nutrientes."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O DNP devolve os prótons à matriz sem passar pela ATP-sintase. Assim, a cadeia respiratória continua funcionando, mas o gradiente de prótons não gera ATP. A célula precisa queimar mais nutrientes para produzir a mesma energia, e o excesso vira calor: há <strong>redução da produção de ATP, resultando em maior gasto celular de nutrientes</strong>. Alternativa <strong>E</strong>.</p><p>A cadeia respiratória e o ciclo de Krebs não são bloqueados (A e B): eles trabalham mais.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fosforilação oxidativa",
+    "desacoplador"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Química",
+   "assunto": "Modelos atômicos",
+   "origem": {
+    "numeroOriginal": 128
+   },
+   "enunciado": "<p>Em 1808, Dalton publicou o seu famoso livro intitulado <em>Um novo sistema de filosofia química</em> (do original <em>A New System of Chemical Philosophy</em>), no qual continha os cinco postulados que serviam como alicerce da primeira teoria atômica da matéria fundamentada no método científico. Esses postulados são numerados a seguir:</p><ol><li>A matéria é constituída de átomos indivisíveis.</li><li>Todos os átomos de um dado elemento químico são idênticos em massa e em todas as outras propriedades.</li><li>Diferentes elementos químicos têm diferentes tipos de átomos; em particular, seus átomos têm diferentes massas.</li><li>Os átomos são indestrutíveis e nas reações químicas mantêm suas identidades.</li><li>Átomos de elementos combinam com átomos de outros elementos em proporções de números inteiros pequenos para formar compostos.</li></ol><p>Após o modelo de Dalton, outros modelos baseados em outros dados experimentais evidenciaram, entre outras coisas, a natureza elétrica da matéria, a composição e organização do átomo e a quantização da energia no modelo atômico.</p><p class=\"fonte\">OXTOBY, D. W.; GILLIS, H. P.; BUTLER, L. J. Principles of Modern Chemistry. Boston: Cengage Learning, 2012 (adaptado).</p><p>Com base no modelo atual que descreve o átomo, qual dos postulados de Dalton ainda é considerado correto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Hoje sabemos que o átomo é divisível (1), que há isótopos de massas diferentes no mesmo elemento (2) e que núcleos podem se transformar em reações nucleares (4). O postulado 3 também tem exceções (isóbaros). Mas continua valendo que os átomos se combinam em proporções de números inteiros pequenos para formar compostos: o postulado <strong>5</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Dalton",
+    "teoria atômica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Química",
+   "assunto": "Titulação",
+   "origem": {
+    "numeroOriginal": 129
+   },
+   "enunciado": "<p>Um dos parâmetros de controle de qualidade de polpas de frutas destinadas ao consumo como bebida é a acidez total expressa em ácido cítrico, que corresponde à massa dessa substância em 100 gramas de polpa de fruta. O ácido cítrico é uma molécula orgânica que apresenta três hidrogênios ionizáveis (ácido triprótico) e massa molar 192 g mol<sup>−1</sup>. O quadro indica o valor mínimo desse parâmetro de qualidade para polpas comerciais de algumas frutas.</p><table class=\"tabela\"><thead><tr><th>Polpa de fruta</th><th>Valor mínimo da acidez total expressa em ácido cítrico (g/100 g)</th></tr></thead><tbody><tr><td>Acerola</td><td>0,8</td></tr><tr><td>Caju</td><td>0,3</td></tr><tr><td>Cupuaçu</td><td>1,5</td></tr><tr><td>Graviola</td><td>0,6</td></tr><tr><td>Maracujá</td><td>2,5</td></tr></tbody></table><p>A acidez total expressa em ácido cítrico de uma amostra comercial de polpa de fruta foi determinada. No procedimento, adicionou-se água destilada a 2,2 g da amostra e, após a solubilização do ácido cítrico, o sólido remanescente foi filtrado. A solução obtida foi titulada com solução de hidróxido de sódio 0,01 mol L<sup>−1</sup>, em que se consumiram 24 mL da solução básica (titulante).</p><p class=\"fonte\">BRASIL. Ministério da Agricultura e do Abastecimento. Instrução normativa n. 1, de 7 de janeiro de 2000. Disponível em: www.agricultura.gov.br. Acesso em: 9 maio 2019 (adaptado).</p><p>Entre as listadas, a amostra analisada pode ser de qual polpa de fruta?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Apenas caju.",
+    "B": "Apenas maracujá.",
+    "C": "Caju ou graviola.",
+    "D": "Acerola ou cupuaçu.",
+    "E": "Cupuaçu ou graviola."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Foram gastos 24 mL de NaOH 0,01 mol/L: 2,4 × 10<sup>−4</sup> mol de OH<sup>−</sup>. Como o ácido cítrico é triprótico, há 0,8 × 10<sup>−4</sup> mol de ácido, ou 0,8 × 10<sup>−4</sup> · 192 ≈ 0,0154 g em 2,2 g de polpa. Em 100 g: 0,0154 · 100/2,2 ≈ 0,70 g. Pelo quadro, esse valor atende ao mínimo do caju (0,3) e da graviola (0,6), mas não da acerola, do cupuaçu ou do maracujá: <strong>caju ou graviola</strong>. Alternativa <strong>C</strong>.</p><p>Esquecer que o ácido é triprótico daria 2,1 g/100 g e incluiria o cupuaçu.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "titulação",
+    "estequiometria"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 130
+   },
+   "enunciado": "<p>Uma cozinheira colocou sal a mais no feijão que estava cozinhando. Para solucionar o problema, ela acrescentou batatas cruas e sem tempero dentro da panela. Quando terminou de cozinhá-lo, as batatas estavam salgadas, porque absorveram parte do caldo com excesso de sal. Finalmente, ela adicionou água para completar o caldo do feijão.</p><p>O sal foi absorvido pelas batatas por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "osmose, por envolver apenas o transporte do solvente.",
+    "B": "fagocitose, porque o sal transportado é uma substância sólida.",
+    "C": "exocitose, uma vez que o sal foi transportado da água para a batata.",
+    "D": "pinocitose, porque o sal estava diluído na água quando foi transportado.",
+    "E": "difusão, porque o transporte ocorreu a favor do gradiente de concentração."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O caldo estava muito salgado e a batata, sem sal. O sal passou do meio mais concentrado (caldo) para o menos concentrado (batata), sem gasto de energia: foi <strong>difusão, porque o transporte ocorreu a favor do gradiente de concentração</strong>. Alternativa <strong>E</strong>.</p><p>Na osmose (A) só a água passa; fagocitose, pinocitose e exocitose (B, C e D) envolvem vesículas e não explicam a entrada de sal na batata cozida.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "difusão",
+    "transporte passivo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Física",
+   "assunto": "Óptica geométrica",
+   "origem": {
+    "numeroOriginal": 131
+   },
+   "enunciado": "<p>A agricultura de precisão reúne técnicas agrícolas que consideram particularidades locais do solo ou lavoura a fim de otimizar o uso de recursos. Uma das formas de adquirir informações sobre essas particularidades é a fotografia aérea de baixa altitude realizada por um veículo aéreo não tripulado (vant). Na fase de aquisição é importante determinar o nível de sobreposição entre as fotografias. A figura ilustra como uma sequência de imagens é coletada por um vant e como são formadas as sobreposições frontais.</p>[[fig:1]]<p>O operador do vant recebe uma encomenda na qual as imagens devem ter uma sobreposição frontal de 20% em um terreno plano. Para realizar a aquisição das imagens, seleciona uma altitude H fixa de voo de 1 000 m, a uma velocidade constante de 50 m s<sup>−1</sup>. A abertura da câmera fotográfica do vant é de 90°. Considere tg(45°) = 1.</p><p class=\"fonte\">Natural Resources Canada. Concepts of Aerial Photography. Disponível em: www.nrcan.gc.ca. Acesso em: 26 abr. 2019 (adaptado).</p><p>Com que intervalo de tempo o operador deve adquirir duas imagens consecutivas?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q131.webp",
+     "alt": "Esquema de um vant com câmera voando à altura H sobre o solo, com abertura de 45° para cada lado; três fotos consecutivas cobrem faixas do solo que se sobrepõem em 20% (ΔS)."
+    }
+   ],
+   "alternativas": {
+    "A": "40 segundos.",
+    "B": "32 segundos.",
+    "C": "28 segundos.",
+    "D": "16 segundos.",
+    "E": "8 segundos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Com abertura de 90° e altura de 1 000 m, cada foto cobre no solo 2 · H · tg 45° = 2 000 m. Com sobreposição de 20%, cada nova foto avança 80% disso: 1 600 m. A 50 m/s, o intervalo é 1 600/50 = <strong>32 segundos</strong>. Alternativa <strong>B</strong>.</p><p>40 s (A) não considera a sobreposição; 8 s (E) usa só os 20%.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "campo de visão",
+    "movimento uniforme"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 132
+   },
+   "enunciado": "<p class=\"apoio\">A maioria das pessoas fica com a visão embaçada ao abrir os olhos debaixo dʼágua. Mas há uma exceção: o povo moken, que habita a costa da Tailândia. Essa característica se deve principalmente à adaptabilidade do olho e à plasticidade do cérebro, o que significa que você também, com algum treinamento, poderia enxergar relativamente bem debaixo dʼágua. Estudos mostraram que as pupilas de olhos de indivíduos moken sofrem redução significativa debaixo dʼágua, o que faz com que os raios luminosos incidam quase paralelamente ao eixo óptico da pupila.</p><p class=\"fonte\">GISLÉN, A. et al. Visual Training Improves Underwater Vision in Children. Vision Research, n. 46, 2006 (adaptado).</p><p>A acuidade visual associada à redução das pupilas é fisicamente explicada pela diminuição</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "da intensidade luminosa incidente na retina.",
+    "B": "da difração dos feixes luminosos que atravessam a pupila.",
+    "C": "da intensidade dos feixes luminosos em uma direção por polarização.",
+    "D": "do desvio dos feixes luminosos refratados no interior do olho.",
+    "E": "das reflexões dos feixes luminosos no interior do olho."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Debaixo d’água, o olho perde boa parte do poder de focalizar da córnea, e a imagem fica borrada. Com a pupila menor, só entram os raios que passam pelo centro do sistema óptico, quase sem desvio: o borrão diminui, como numa câmera de abertura pequena. A acuidade melhora pela diminuição <strong>do desvio dos feixes luminosos refratados no interior do olho</strong>. Alternativa <strong>D</strong>.</p><p>Menos luz (A) não melhora a nitidez por si; pupila menor aumentaria a difração (B), não a diminuiria.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pupila",
+    "refração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 133
+   },
+   "enunciado": "<p class=\"apoio\">O “<em>The Kidney Project</em>” é um projeto realizado por cientistas que pretendem desenvolver um rim biônico que executará a maioria das funções biológicas do órgão. O rim biônico possuirá duas partes que incorporam recentes avanços de nanotecnologia, filtração de membrana e biologia celular. Esse projeto significará uma grande melhoria na qualidade de vida para aquelas pessoas que dependem da hemodiálise para sobrevivência.</p><p class=\"fonte\">Disponível em: https://pharm.ucsf.edu. Acesso em: 26 abr. 2019 (adaptado).</p><p>O dispositivo criado promoverá diretamente a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "remoção de ureia.",
+    "B": "excreção de lipídios.",
+    "C": "síntese de vasopressina.",
+    "D": "transformação de amônia.",
+    "E": "fabricação de aldosterona."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A hemodiálise substitui a principal função do rim, filtrar o sangue e eliminar as excretas nitrogenadas. Um rim biônico que substitua a hemodiálise vai promover diretamente a <strong>remoção de ureia</strong>. Alternativa <strong>A</strong>.</p><p>O rim não excreta lipídios (B), não produz vasopressina nem aldosterona (C e E), e a amônia é transformada no fígado (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "excreção",
+    "hemodiálise"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 134
+   },
+   "enunciado": "<p>Um experimento simples, que pode ser realizado com materiais encontrados em casa, é realizado da seguinte forma: adiciona-se um volume de etanol em um copo de vidro e, em seguida, uma folha de papel. Com o passar do tempo, observa-se um comportamento peculiar: o etanol se desloca sobre a superfície do papel, superando a gravidade que o atrai no sentido oposto, como mostra a imagem. Para parte dos estudantes, isso ocorre por causa da absorção do líquido pelo papel.</p>[[fig:1]]<p>Do ponto de vista científico, o que explica o movimento do líquido é a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2019-natureza/q134.webp",
+     "alt": "Copo de vidro com etanol no fundo e uma folha de papel de filtro de pé dentro dele; o líquido molha o papel acima do nível do etanol."
+    }
+   ],
+   "alternativas": {
+    "A": "evaporação do líquido.",
+    "B": "diferença de densidades.",
+    "C": "reação química com o papel.",
+    "D": "capilaridade nos poros do papel.",
+    "E": "resistência ao escoamento do líquido."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O papel de filtro tem poros finíssimos. O etanol é atraído pelas fibras (adesão) e sobe pelos canais estreitos, vencendo a gravidade, como a água sobe num tubo fino. É a <strong>capilaridade nos poros do papel</strong>. Alternativa <strong>D</strong>.</p><p>Não há reação com o papel (C), e a evaporação (A) faria o líquido sumir, não subir.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "capilaridade",
+    "adesão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 135
+   },
+   "enunciado": "<p class=\"apoio\">Quando se considera a extrema velocidade com que a luz se espalha por todos os lados e que, quando vêm de diferentes lugares, mesmo totalmente opostos, [os raios luminosos] se atravessam uns aos outros sem se atrapalharem, compreende-se que, quando vemos um objeto luminoso, isso não poderia ocorrer pelo transporte de uma matéria que venha do objeto até nós, como uma flecha ou bala atravessa o ar; pois certamente isso repugna bastante a essas duas propriedades da luz, principalmente a última.</p><p class=\"fonte\">HUYGENS, C. In: MARTINS, R. A. Tratado sobre a luz, de Cristian Huygens. Caderno de História e Filosofia da Ciência, supl. 4, 1986.</p><p>O texto contesta que concepção acerca do comportamento da luz?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O entendimento de que a luz precisa de um meio de propagação, difundido pelos defensores da existência do éter.",
+    "B": "O modelo ondulatório para a luz, o qual considera a possibilidade de interferência entre feixes luminosos.",
+    "C": "O modelo corpuscular defendido por Newton, que descreve a luz como um feixe de partículas.",
+    "D": "A crença na velocidade infinita da luz, defendida pela maioria dos filósofos gregos.",
+    "E": "A ideia defendida pelos gregos de que a luz era produzida pelos olhos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Huygens argumenta que os raios de luz se cruzam sem se atrapalhar, o que não aconteceria se a luz fosse feita de matéria que viaja do objeto até nós, “como uma flecha ou bala”. Ele contesta <strong>o modelo corpuscular defendido por Newton, que descreve a luz como um feixe de partículas</strong>. Alternativa <strong>C</strong>.</p><p>Huygens defendia o modelo ondulatório (B), não o atacava.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "natureza da luz",
+    "Huygens"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

@@ -1,0 +1,1284 @@
+{
+ "id": "enem-2014-matematica",
+ "banca": "Enem",
+ "ano": 2014,
+ "titulo": "Enem 2014: Matemática",
+ "fonte": "Inep",
+ "dataExame": "2014-11-09",
+ "duracaoMinutos": 150,
+ "area": "Matemática",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 136
+   },
+   "enunciado": "<p>O gráfico apresenta as taxas de desemprego durante o ano de 2011 e o primeiro semestre de 2012 na região metropolitana de São Paulo. A taxa de desemprego total é a soma das taxas de desemprego aberto e oculto.</p>[[fig:1]]<p>Suponha que a taxa de desemprego oculto do mês de dezembro de 2012 tenha sido a metade da mesma taxa em junho de 2012 e que a taxa de desemprego total em dezembro de 2012 seja igual a essa taxa em dezembro de 2011.</p><p class=\"fonte\">Disponível em: www.dieese.org.br. Acesso em: 1 ago. 2012 (fragmento).</p><p>Nesse caso, a taxa de desemprego aberto de dezembro de 2012 teria sido, em termos percentuais, de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q136.webp",
+     "alt": "Gráfico de colunas empilhadas e linha. Colunas de janeiro a junho de 2012, desemprego aberto e oculto: jan. 7,6 e 2,0; fev. 8,4 e 2,0; mar. 9,1 e 2,0; abr. 9,1 e 2,1; maio 8,8 e 2,1; jun. 9,0 e 2,2. Linha do total de 2011, de janeiro a dezembro: 10,5; 10,6; 11,3; 11,2; 10,7; 11,0; 11,1; 11,2; 10,6; 9,9; 9,5; 9,0 (em %)."
+    }
+   ],
+   "alternativas": {
+    "A": "1,1.",
+    "B": "3,5.",
+    "C": "4,5.",
+    "D": "6,8.",
+    "E": "7,9."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Em dezembro de 2011, a taxa total foi de 9,0%, então a de dezembro de 2012 também será 9,0%. Em junho de 2012, a taxa de desemprego oculto foi de 2,2%; a metade é 1,1%. O desemprego aberto é o total menos o oculto: 9,0 − 1,1 = <strong>7,9%</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "taxas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 137
+   },
+   "enunciado": "<p>A taxa de fecundidade é um indicador que expressa a condição reprodutiva média das mulheres de uma região, e é importante para uma análise da dinâmica demográfica dessa região. A tabela apresenta os dados obtidos pelos Censos de 2000 e 2010, feitos pelo IBGE, com relação à taxa de fecundidade no Brasil.</p><table class=\"tabela\"><thead><tr><th>Ano</th><th>Taxa de fecundidade no Brasil</th></tr></thead><tbody><tr><td>2000</td><td>2,38</td></tr><tr><td>2010</td><td>1,90</td></tr></tbody></table><p class=\"fonte\">Disponível em: www.saladeimprensa.ibge.gov.br. Acesso em: 31 jul. 2013.</p><p>Suponha que a variação percentual relativa na taxa de fecundidade no período de 2000 a 2010 se repita no período de 2010 a 2020. Nesse caso, em 2020 a taxa de fecundidade no Brasil estará mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,14.",
+    "B": "1,42.",
+    "C": "1,52.",
+    "D": "1,70.",
+    "E": "1,80."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>De 2000 a 2010, a taxa passou de 2,38 para 1,90: o fator de variação foi \\(\\dfrac{1{,}90}{2{,}38} \\approx 0{,}798\\), uma queda de cerca de 20%. Repetindo o mesmo fator: 1,90 × 0,798 ≈ <strong>1,52</strong>. Alternativa <strong>C</strong>.</p><p>Subtrair a mesma quantidade (0,48) daria 1,42 (B), mas o enunciado pede a mesma variação percentual.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "variação percentual",
+    "fecundidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 138
+   },
+   "enunciado": "<p>O Ministério da Saúde e as unidades federadas promovem frequentemente campanhas nacionais e locais de incentivo à doação voluntária de sangue, em regiões com menor número de doadores por habitante, com o intuito de manter a regularidade de estoques nos serviços hemoterápicos. Em 2010, foram recolhidos dados sobre o número de doadores e o número de habitantes de cada região conforme o quadro seguinte.</p><table class=\"tabela\"><thead><tr><th>Região</th><th>Doadores</th><th>Número de habitantes</th><th>Doadores/habitantes</th></tr></thead><tbody><tr><td>Nordeste</td><td>820 959</td><td>53 081 950</td><td>1,5%</td></tr><tr><td>Norte</td><td>232 079</td><td>15 864 454</td><td>1,5%</td></tr><tr><td>Sudeste</td><td>1 521 766</td><td>80 364 410</td><td>1,9%</td></tr><tr><td>Centro-Oeste</td><td>362 334</td><td>14 058 094</td><td>2,6%</td></tr><tr><td>Sul</td><td>690 391</td><td>27 386 891</td><td>2,5%</td></tr><tr><td>Total</td><td>3 627 529</td><td>190 755 799</td><td>1,9%</td></tr></tbody></table><p class=\"apoio\">Taxa de doação de sangue, por região, em 2010.</p><p>Os resultados obtidos permitiram que estados, municípios e o governo federal estabelecessem as regiões prioritárias do país para a intensificação das campanhas de doação de sangue.</p><p>A campanha deveria ser intensificada nas regiões em que o percentual de doadores por habitantes fosse menor ou igual ao do país.</p><p class=\"fonte\">Disponível em: http://bvsms.saude.gov.br. Acesso em: 2 ago. 2013 (adaptado).</p><p>As regiões brasileiras onde foram intensificadas as campanhas na época são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Norte, Centro-Oeste e Sul.",
+    "B": "Norte, Nordeste e Sudeste.",
+    "C": "Nordeste, Norte e Sul.",
+    "D": "Nordeste, Sudeste e Sul.",
+    "E": "Centro-Oeste, Sul e Sudeste."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A campanha deve ser intensificada onde o percentual de doadores é menor ou igual ao do país, 1,9%. Isso acontece no Nordeste (1,5%), no Norte (1,5%) e no Sudeste (1,9%). Alternativa <strong>B</strong>.</p><p>O Centro-Oeste (2,6%) e o Sul (2,5%) estão acima da média nacional.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de tabela",
+    "comparação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Proporcionalidade",
+   "origem": {
+    "numeroOriginal": 139
+   },
+   "enunciado": "<p>Um carpinteiro fabrica portas retangulares maciças, feitas de um mesmo material. Por ter recebido de seus clientes pedidos de portas mais altas, aumentou sua altura em \\(\\tfrac{1}{8}\\), preservando suas espessuras. A fim de manter o custo com o material de cada porta, precisou reduzir a largura.</p><p>A razão entre a largura da nova porta e a largura da porta anterior é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{8}\\)",
+    "B": "\\(\\dfrac{7}{8}\\)",
+    "C": "\\(\\dfrac{8}{7}\\)",
+    "D": "\\(\\dfrac{8}{9}\\)",
+    "E": "\\(\\dfrac{9}{8}\\)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O custo depende do volume de material, que é altura × largura × espessura. A altura aumentou \\(\\tfrac{1}{8}\\), ou seja, passou a ser \\(\\tfrac{9}{8}\\) da anterior, e a espessura não mudou. Para o volume ficar igual, a largura deve ser multiplicada pelo inverso: \\(\\tfrac{8}{9}\\). Alternativa <strong>D</strong>.</p><p>A opção \\(\\tfrac{7}{8}\\) (B) seria uma redução de \\(\\tfrac{1}{8}\\) na largura, o que não compensa o aumento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "grandezas inversamente proporcionais",
+    "volume"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 140
+   },
+   "enunciado": "<p>De acordo com a ONU, da água utilizada diariamente,</p><ul><li>25% são para tomar banho, lavar as mãos e escovar os dentes.</li><li>33% são utilizados em descarga de banheiro.</li><li>27% são para cozinhar e beber.</li><li>15% são para demais atividades.</li></ul><p>No Brasil, o consumo de água por pessoa chega, em média, a 200 litros por dia.</p><p>O quadro mostra sugestões de consumo moderado de água por pessoa, por dia, em algumas atividades.</p><table class=\"tabela\"><thead><tr><th>Atividade</th><th>Consumo total de água na atividade (em litros)</th></tr></thead><tbody><tr><td>Tomar banho</td><td>24,0</td></tr><tr><td>Dar descarga</td><td>18,0</td></tr><tr><td>Lavar as mãos</td><td>3,2</td></tr><tr><td>Escovar os dentes</td><td>2,4</td></tr><tr><td>Beber e cozinhar</td><td>22,0</td></tr></tbody></table><p>Se cada brasileiro adotar o consumo de água indicado no quadro, mantendo o mesmo consumo nas demais atividades, então economizará diariamente, em média, em litros de água,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "30,0.",
+    "B": "69,6.",
+    "C": "100,4.",
+    "D": "130,4.",
+    "E": "170,0."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Dos 200 L diários, 25% (50 L) vão para banho, mãos e dentes; 33% (66 L) para a descarga; 27% (54 L) para beber e cozinhar. Com o consumo sugerido, essas atividades gastariam 24 + 3,2 + 2,4 = 29,6 L; 18 L; e 22 L. A economia é (50 − 29,6) + (66 − 18) + (54 − 22) = 20,4 + 48 + 32 = <strong>100,4 L</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "consumo de água"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 141
+   },
+   "enunciado": "<p>Os candidatos K, L, M, N e P estão disputando uma única vaga de emprego em uma empresa e fizeram provas de português, matemática, direito e informática. A tabela apresenta as notas obtidas pelos cinco candidatos.</p><table class=\"tabela\"><thead><tr><th>Candidatos</th><th>Português</th><th>Matemática</th><th>Direito</th><th>Informática</th></tr></thead><tbody><tr><td>K</td><td>33</td><td>33</td><td>33</td><td>34</td></tr><tr><td>L</td><td>32</td><td>39</td><td>33</td><td>34</td></tr><tr><td>M</td><td>35</td><td>35</td><td>36</td><td>34</td></tr><tr><td>N</td><td>24</td><td>37</td><td>40</td><td>35</td></tr><tr><td>P</td><td>36</td><td>16</td><td>26</td><td>41</td></tr></tbody></table><p>Segundo o edital de seleção, o candidato aprovado será aquele para o qual a mediana das notas obtidas por ele nas quatro disciplinas for a maior.</p><p>O candidato aprovado será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "K.",
+    "B": "L.",
+    "C": "M.",
+    "D": "N.",
+    "E": "P."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Ordenando as notas e tirando a média dos dois valores centrais: K (33, 33, 33, 34) tem mediana 33; L (32, 33, 34, 39), 33,5; M (34, 35, 35, 36), 35; N (24, 35, 37, 40), 36; P (16, 26, 36, 41), 31. A maior mediana é a de <strong>N</strong>. Alternativa <strong>D</strong>.</p><p>Pela média, o maior seria M; a mediana despreza as notas extremas, como o 24 de N.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mediana",
+    "tabela"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 142
+   },
+   "enunciado": "<p>Na alimentação de gado de corte, o processo de cortar a forragem, colocá-la no solo, compactá-la e protegê-la com uma vedação denomina-se silagem. Os silos mais comuns são os horizontais, cuja forma é a de um prisma reto trapezoidal, conforme mostrado na figura.</p>[[fig:1]]<p>Considere um silo de 2 m de altura, 6 m de largura de topo e 20 m de comprimento. Para cada metro de altura do silo, a largura do topo tem 0,5 m a mais do que a largura do fundo. Após a silagem, 1 tonelada de forragem ocupa 2 m<sup>3</sup> desse tipo de silo.</p><p class=\"fonte\">EMBRAPA. Gado de corte. Disponível em: www.cnpgc.embrapa.br. Acesso em: 1 ago. 2012 (adaptado).</p><p>Após a silagem, a quantidade máxima de forragem que cabe no silo, em toneladas, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q142.webp",
+     "alt": "Silo horizontal em forma de prisma reto de base trapezoidal, com a legenda: b, largura do fundo; B, largura do topo; C, comprimento do silo; h, altura do silo."
+    }
+   ],
+   "alternativas": {
+    "A": "110.",
+    "B": "125.",
+    "C": "130.",
+    "D": "220.",
+    "E": "260."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O silo tem 2 m de altura, então o topo é 2 × 0,5 = 1 m mais largo que o fundo: o fundo mede 5 m. A área do trapézio é \\(\\dfrac{(6 + 5) \\cdot 2}{2} = 11\\) m², e o volume é 11 × 20 = 220 m³. Como cada tonelada ocupa 2 m³, cabem 220 ÷ 2 = <strong>110 toneladas</strong>. Alternativa <strong>A</strong>.</p><p>A opção D (220) esquece de dividir o volume por 2.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "prisma",
+    "volume"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 143
+   },
+   "enunciado": "<p>Para comemorar o aniversário de uma cidade, um artista projetou uma escultura transparente e oca, cujo formato foi inspirado em uma ampulheta. Ela é formada por três partes de mesma altura: duas são troncos de cone iguais e a outra é um cilindro. A figura é a vista frontal dessa escultura.</p>[[fig:1]]<p>No topo da escultura foi ligada uma torneira que verte água, para dentro dela, com vazão constante.</p><p>O gráfico que expressa a altura (h) da água na escultura em função do tempo (t) decorrido é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q143.webp",
+     "alt": "Vista frontal da escultura: um tronco de cone na base, estreitando para cima; um cilindro estreito no meio; e um tronco de cone invertido no topo, alargando para cima, formando uma ampulheta."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q143a.webp",
+     "alt": "Alternativa A: a altura h cresce em linha reta com o tempo t."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q143b.webp",
+     "alt": "Alternativa B: h cresce rápido no começo, desacelera no meio e acelera no fim."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q143c.webp",
+     "alt": "Alternativa C: h cresce cada vez mais rápido, numa curva voltada para cima."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q143d.webp",
+     "alt": "Alternativa D: h começa crescendo devagar e acelerando, segue um trecho reto e termina desacelerando."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q143e.webp",
+     "alt": "Alternativa E: h cresce rápido e desacelera, tem um trecho reto e depois volta a crescer rápido e desacelerar."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com vazão constante, a altura sobe mais rápido onde a escultura é estreita. Na parte de baixo, o tronco de cone se estreita para cima, e a altura sobe cada vez mais rápido; no cilindro do meio, sobe em ritmo constante (trecho reto); na parte de cima, o tronco se alarga, e a altura sobe cada vez mais devagar. O gráfico começa curvado para cima, tem um trecho reto e termina curvado para baixo: é o <strong>gráfico D</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "taxa de variação",
+    "gráficos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 144
+   },
+   "enunciado": "<p>Um sinalizador de trânsito tem o formato de um cone circular reto. O sinalizador precisa ser revestido externamente com adesivo fluorescente, desde sua base (base do cone) até a metade de sua altura, para sinalização noturna. O responsável pela colocação do adesivo precisa fazer o corte do material de maneira que a forma do adesivo corresponda exatamente à parte da superfície lateral a ser revestida.</p><p>Qual deverá ser a forma do adesivo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q144a.webp",
+     "alt": "Alternativa A: triângulo."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q144b.webp",
+     "alt": "Alternativa B: trapézio."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q144c.webp",
+     "alt": "Alternativa C: figura com topo reto e base em arco."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q144d.webp",
+     "alt": "Alternativa D: setor circular, com vértice em ponta e base em arco."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q144e.webp",
+     "alt": "Alternativa E: setor de coroa circular, limitado por dois arcos concêntricos."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A superfície lateral de um cone, planificada, é um setor circular. Do cone tira-se a parte de cima (outro cone menor), então o adesivo, que vai da base até a metade da altura, é a superfície lateral de um tronco de cone: um setor circular sem a ponta, limitado por dois arcos. Essa é a <strong>figura E</strong>. Alternativa <strong>E</strong>.</p><p>O trapézio (B) teria lados retos em cima e embaixo, e as bordas do adesivo são circunferências.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tronco de cone",
+    "planificação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 145
+   },
+   "enunciado": "<p>Um professor, depois de corrigir as provas de sua turma, percebeu que várias questões estavam muito difíceis. Para compensar, decidiu utilizar uma função polinomial f, de grau menor que 3, para alterar as notas x da prova para notas y = f(x), da seguinte maneira:</p><ul><li>A nota zero permanece zero.</li><li>A nota 10 permanece 10.</li><li>A nota 5 passa a ser 6.</li></ul><p>A expressão da função <em>y</em> = <em>f</em>(<em>x</em>) a ser utilizada pelo professor é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(y = -\\dfrac{1}{25}x^2 + \\dfrac{7}{5}x\\)",
+    "B": "\\(y = -\\dfrac{1}{10}x^2 + 2x\\)",
+    "C": "\\(y = \\dfrac{1}{24}x^2 + \\dfrac{7}{12}x\\)",
+    "D": "\\(y = \\dfrac{4}{5}x + 2\\)",
+    "E": "\\(y = x\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Como f(0) = 0, a função é f(x) = ax² + bx. Com f(10) = 10: 100a + 10b = 10. Com f(5) = 6: 25a + 5b = 6, ou 50a + 10b = 12. Subtraindo: 50a = −2, então \\(a = -\\tfrac{1}{25}\\), e \\(b = \\tfrac{6 + 1}{5} = \\tfrac{7}{5}\\). A função é \\(y = -\\tfrac{1}{25}x^2 + \\tfrac{7}{5}x\\). Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função quadrática",
+    "sistema linear"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Aritmética",
+   "origem": {
+    "numeroOriginal": 146
+   },
+   "enunciado": "<p>Durante a Segunda Guerra Mundial, para decifrarem as mensagens secretas, foi utilizada a técnica de decomposição em fatores primos. Um número <em>N</em> é dado pela expressão 2<sup><em>x</em></sup> ⋅ 5<sup><em>y</em></sup> ⋅ 7<sup><em>z</em></sup>, na qual <em>x</em>, <em>y</em> e <em>z</em> são números inteiros não negativos. Sabe-se que <em>N</em> é múltiplo de 10 e não é múltiplo de 7.</p><p>O número de divisores de N, diferentes de N, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "x ⋅ y ⋅ z",
+    "B": "(x + 1) ⋅ (y + 1)",
+    "C": "x ⋅ y ⋅ z − 1",
+    "D": "(x + 1) ⋅ (y + 1) ⋅ z",
+    "E": "(x + 1) ⋅ (y + 1) ⋅ (z + 1) − 1"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Se N é múltiplo de 10, tem os fatores 2 e 5 (x ≥ 1 e y ≥ 1); se não é múltiplo de 7, z = 0. O número de divisores de 2<sup>x</sup> · 5<sup>y</sup> é (x + 1)(y + 1); tirando o próprio N, sobram (x + 1)(y + 1) − 1. Como z = 0, isso é igual a <strong>(x + 1) · (y + 1) · (z + 1) − 1</strong>. Alternativa <strong>E</strong>.</p><p>A opção B conta também o próprio N.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "número de divisores",
+    "fatoração"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 147
+   },
+   "enunciado": "<p>Uma criança deseja criar triângulos utilizando palitos de fósforo de mesmo comprimento. Cada triângulo será construído com exatamente 17 palitos e pelo menos um dos lados do triângulo deve ter o comprimento de exatamente 6 palitos. A figura ilustra um triângulo construído com essas características.</p>[[fig:1]]<p>A quantidade máxima de triângulos não congruentes dois a dois que podem ser construídos é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q147.webp",
+     "alt": "Triângulo formado por palitos de fósforo enfileirados nos três lados."
+    }
+   ],
+   "alternativas": {
+    "A": "3.",
+    "B": "5.",
+    "C": "6.",
+    "D": "8.",
+    "E": "10."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Um lado tem 6 palitos, então os outros dois somam 11. Pela desigualdade triangular, cada lado deve ser menor que a metade do perímetro (8,5), ou seja, no máximo 8; então o menor é pelo menos 3. As possibilidades são (6, 3, 8), (6, 4, 7) e (6, 5, 6): <strong>3 triângulos</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "desigualdade triangular",
+    "contagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Geometria analítica",
+   "origem": {
+    "numeroOriginal": 148
+   },
+   "enunciado": "<p>A figura mostra uma criança brincando em um balanço no parque. A corda que prende o assento do balanço ao topo do suporte mede 2 metros. A criança toma cuidado para não sofrer um acidente, então se balança de modo que a corda não chegue a alcançar a posição horizontal.</p>[[fig:1]]<p>Na figura, considere o plano cartesiano que contém a trajetória do assento do balanço, no qual a origem está localizada no topo do suporte do balanço, o eixo <em>X</em> é paralelo ao chão do parque, e o eixo <em>Y</em> tem orientação positiva para cima.</p><p>A curva determinada pela trajetória do assento do balanço é parte do gráfico da função</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q148.webp",
+     "alt": "Criança num balanço: a corda de 2 metros vai do topo do suporte ao assento; uma linha tracejada mostra o arco percorrido pelo assento abaixo do topo; embaixo, o chão do parque."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(f(x) = -\\sqrt{2 - x^2}\\)",
+    "B": "\\(f(x) = \\sqrt{2 - x^2}\\)",
+    "C": "\\(f(x) = x^2 - 2\\)",
+    "D": "\\(f(x) = -\\sqrt{4 - x^2}\\)",
+    "E": "\\(f(x) = \\sqrt{4 - x^2}\\)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O assento descreve um arco de circunferência com centro no topo do suporte (a origem) e raio igual à corda, 2 m: x² + y² = 4. Como o assento fica abaixo do topo, y é negativo: \\(y = -\\sqrt{4 - x^2}\\). Alternativa <strong>D</strong>.</p><p>Em A e B o raio seria \\(\\sqrt{2}\\), e em E a curva ficaria acima do suporte.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "circunferência",
+    "função"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Proporcionalidade",
+   "origem": {
+    "numeroOriginal": 149
+   },
+   "enunciado": "<p>Um show especial de Natal teve 45 000 ingressos vendidos. Esse evento ocorrerá em um estádio de futebol que disponibilizará 5 portões de entrada, com 4 catracas eletrônicas por portão. Em cada uma dessas catracas, passará uma única pessoa a cada 2 segundos. O público foi igualmente dividido pela quantidade de portões e catracas, indicados no ingresso para o show, para a efetiva entrada no estádio. Suponha que todos aqueles que compraram ingressos irão ao show e que todos passarão pelos portões e catracas eletrônicas indicados.</p><p>Qual é o tempo mínimo para que todos passem pelas catracas?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 hora.",
+    "B": "1 hora e 15 minutos.",
+    "C": "5 horas.",
+    "D": "6 horas.",
+    "E": "6 horas e 15 minutos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>São 5 × 4 = 20 catracas, e cada uma recebe 45 000 ÷ 20 = 2 250 pessoas. A 2 segundos por pessoa, isso leva 4 500 s = 75 minutos = <strong>1 hora e 15 minutos</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão",
+    "unidades de tempo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 150
+   },
+   "enunciado": "<p>Conforme regulamento da Agência Nacional de Aviação Civil (Anac), o passageiro que embarcar em voo doméstico poderá transportar bagagem de mão, contudo a soma das dimensões da bagagem (altura + comprimento + largura) não pode ser superior a 115 cm.</p><p>A figura mostra a planificação de uma caixa que tem a forma de um paralelepípedo retângulo.</p>[[fig:1]]<p>O maior valor possível para x, em centímetros, para que a caixa permaneça dentro dos padrões permitidos pela Anac é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q150.webp",
+     "alt": "Planificação de uma caixa em forma de paralelepípedo: uma faixa horizontal de quatro faces, a última com 24 cm de largura e uma delas com largura x; acima e abaixo de uma das faces, duas abas; a altura total da planificação é de 90 cm."
+    }
+   ],
+   "alternativas": {
+    "A": "25.",
+    "B": "33.",
+    "C": "42.",
+    "D": "45.",
+    "E": "49."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pela planificação, a caixa tem uma dimensão de 24 cm e a altura de 90 cm corresponde à face central mais duas faces de 24 cm: a outra dimensão é 90 − 2 × 24 = 42 cm. A soma das três dimensões não pode passar de 115: 24 + 42 + x ≤ 115, então x ≤ <strong>49</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "planificação",
+    "paralelepípedo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 151
+   },
+   "enunciado": "<p>Uma lata de tinta, com a forma de um paralelepípedo retangular reto, tem as dimensões, em centímetros, mostradas na figura.</p>[[fig:1]]<p>Será produzida uma nova lata, com os mesmos formato e volume, de tal modo que as dimensões de sua base sejam 25% maiores que as da lata atual.</p><p>Para obter a altura da nova lata, a altura da lata atual deve ser reduzida em</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q151.webp",
+     "alt": "Lata em forma de paralelepípedo com tampa circular, base de 24 cm por 24 cm e altura de 40 cm."
+    }
+   ],
+   "alternativas": {
+    "A": "14,4%",
+    "B": "20,0%",
+    "C": "32,0%",
+    "D": "36,0%",
+    "E": "64,0%"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As dimensões da base aumentam 25%, então a área da base é multiplicada por 1,25² = 1,5625. Para o volume não mudar, a altura deve ser dividida por 1,5625, isto é, multiplicada por 0,64: uma redução de <strong>36%</strong>. Alternativa <strong>D</strong>.</p><p>Uma redução de 20% (B) só compensaria o aumento de uma das dimensões.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 152
+   },
+   "enunciado": "<p>Uma organização não governamental divulgou um levantamento de dados realizado em algumas cidades brasileiras sobre saneamento básico. Os resultados indicam que somente 36% do esgoto gerado nessas cidades é tratado, o que mostra que 8 bilhões de litros de esgoto sem nenhum tratamento são lançados todos os dias nas águas.</p><p>Uma campanha para melhorar o saneamento básico nessas cidades tem como meta a redução da quantidade de esgoto lançado nas águas diariamente, sem tratamento, para 4 bilhões de litros nos próximos meses.</p><p>Se o volume de esgoto gerado permanecer o mesmo e a meta dessa campanha se concretizar, o percentual de esgoto tratado passará a ser</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "72%",
+    "B": "68%",
+    "C": "64%",
+    "D": "54%",
+    "E": "18%"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Se só 36% é tratado, os 8 bilhões de litros sem tratamento são 64% do total, que é 8 ÷ 0,64 = 12,5 bilhões de litros. Com a meta, 4 bilhões continuam sem tratamento, que são 4 ÷ 12,5 = 32% do total. O tratado passa a ser 100% − 32% = <strong>68%</strong>. Alternativa <strong>B</strong>.</p><p>Dobrar o percentual (72%, A) não tem relação com reduzir pela metade o volume não tratado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "regra de três"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 153
+   },
+   "enunciado": "<p>Uma empresa de alimentos oferece três valores diferentes de remuneração a seus funcionários, de acordo com o grau de instrução necessário para cada cargo. No ano de 2013, a empresa teve uma receita de 10 milhões de reais por mês e um gasto mensal com a folha salarial de R$ 400 000,00, distribuídos de acordo com o Gráfico 1. No ano seguinte, a empresa ampliará o número de funcionários, mantendo o mesmo valor salarial para cada categoria. Os demais custos da empresa permanecerão constantes de 2013 para 2014. O número de funcionários em 2013 e 2014, por grau de instrução, está no Gráfico 2.</p>[[fig:1]]<p>Qual deve ser o aumento na receita da empresa para que o lucro mensal em 2014 seja o mesmo de 2013?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q153.webp",
+     "alt": "Gráfico 1, de setores, “Distribuição da folha salarial”: ensino fundamental 12,5%, ensino médio 75% e ensino superior 12,5%. Gráfico 2, de colunas, “Número de funcionários por grau de instrução”: ensino fundamental, 50 em 2013 e 70 em 2014; ensino médio, 150 em 2013 e 180 em 2014; ensino superior, 10 em 2013 e 20 em 2014."
+    }
+   ],
+   "alternativas": {
+    "A": "R$ 114 285,00",
+    "B": "R$ 130 000,00",
+    "C": "R$ 160 000,00",
+    "D": "R$ 210 000,00",
+    "E": "R$ 213 333,00"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Pelo gráfico 1, a folha de R$ 400 000 se divide em 12,5% para o ensino fundamental (R$ 50 000), 75% para o médio (R$ 300 000) e 12,5% para o superior (R$ 50 000). Com 50, 150 e 10 funcionários em 2013, os salários são R$ 1 000, R$ 2 000 e R$ 5 000. Em 2014 serão 70, 180 e 20: o aumento da folha é 20 × 1 000 + 30 × 2 000 + 10 × 5 000 = <strong>R$ 130 000</strong>, que a receita precisa crescer para manter o lucro. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráficos",
+    "média salarial"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 154
+   },
+   "enunciado": "<p>Boliche é um jogo em que se arremessa uma bola sobre uma pista para atingir dez pinos, dispostos em uma formação de base triangular, buscando derrubar o maior número de pinos. A razão entre o total de vezes em que o jogador derruba todos os pinos e o número de jogadas determina seu desempenho.</p><p>Em uma disputa entre cinco jogadores, foram obtidos os seguintes resultados:</p><ul><li>Jogador I – Derrubou todos os pinos 50 vezes em 85 jogadas.</li><li>Jogador II – Derrubou todos os pinos 40 vezes em 65 jogadas.</li><li>Jogador III – Derrubou todos os pinos 20 vezes em 65 jogadas.</li><li>Jogador IV – Derrubou todos os pinos 30 vezes em 40 jogadas.</li><li>Jogador V – Derrubou todos os pinos 48 vezes em 90 jogadas.</li></ul><p>Qual desses jogadores apresentou maior desempenho?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O desempenho é a razão entre os <em>strikes</em> e as jogadas: I, 50/85 ≈ 0,59; II, 40/65 ≈ 0,62; III, 20/65 ≈ 0,31; IV, 30/40 = 0,75; V, 48/90 ≈ 0,53. O maior é o do <strong>jogador IV</strong>. Alternativa <strong>D</strong>.</p><p>O jogador I tem mais acertos absolutos, mas também mais jogadas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "razão",
+    "comparação de frações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 155
+   },
+   "enunciado": "<p>Ao final de uma competição de ciências em uma escola, restaram apenas três candidatos. De acordo com as regras, o vencedor será o candidato que obtiver a maior média ponderada entre as notas das provas finais nas disciplinas química e física, considerando, respectivamente, os pesos 4 e 6 para elas. As notas são sempre números inteiros. Por questões médicas, o candidato II ainda não fez a prova final de química. No dia em que sua avaliação for aplicada, as notas dos outros dois candidatos, em ambas as disciplinas, já terão sido divulgadas.</p><p>O quadro apresenta as notas obtidas pelos finalistas nas provas finais.</p><table class=\"tabela\"><thead><tr><th>Candidato</th><th>Química</th><th>Física</th></tr></thead><tbody><tr><td>I</td><td>20</td><td>23</td></tr><tr><td>II</td><td>X</td><td>25</td></tr><tr><td>III</td><td>21</td><td>18</td></tr></tbody></table><p>A menor nota que o candidato II deverá obter na prova final de química para vencer a competição é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "18.",
+    "B": "19.",
+    "C": "22.",
+    "D": "25.",
+    "E": "26."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As médias ponderadas são: I, \\(\\dfrac{4 \\cdot 20 + 6 \\cdot 23}{10} = 21{,}8\\); III, \\(\\dfrac{4 \\cdot 21 + 6 \\cdot 18}{10} = 19{,}2\\). Para vencer, II precisa de \\(\\dfrac{4X + 6 \\cdot 25}{10} > 21{,}8\\), ou 4X > 68, X > 17. Como as notas são inteiras, a menor é <strong>18</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada",
+    "inequação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Escalas",
+   "origem": {
+    "numeroOriginal": 156
+   },
+   "enunciado": "<p>O condomínio de um edifício permite que cada proprietário de apartamento construa um armário em sua vaga de garagem. O projeto da garagem, na escala 1 : 100, foi disponibilizado aos interessados já com as especificações das dimensões do armário, que deveria ter o formato de um paralelepípedo retângulo reto, com dimensões, no projeto, iguais a 3 cm, 1 cm e 2 cm.</p><p>O volume real do armário, em centímetros cúbicos, será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "6.",
+    "B": "600.",
+    "C": "6 000.",
+    "D": "60 000.",
+    "E": "6 000 000."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na escala 1 : 100, cada centímetro do projeto vale 100 cm. As dimensões reais são 300 cm, 100 cm e 200 cm, e o volume é 300 × 100 × 200 = <strong>6 000 000 cm³</strong>. Alternativa <strong>E</strong>.</p><p>Multiplicar o volume do projeto (6 cm³) só por 100 ou 1 000 (B e C) esquece que a escala se aplica a cada uma das três dimensões: o fator do volume é 100³.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "volume"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 157
+   },
+   "enunciado": "<p>Uma loja que vende sapatos recebeu diversas reclamações de seus clientes relacionadas à venda de sapatos de cor branca ou preta. Os donos da loja anotaram as numerações dos sapatos com defeito e fizeram um estudo estatístico com o intuito de reclamar com o fabricante.</p><p>A tabela contém a média, a mediana e a moda desses dados anotados pelos donos.</p><table class=\"tabela\"><thead><tr><th>Estatísticas sobre as numerações dos sapatos com defeito</th><th>Média</th><th>Mediana</th><th>Moda</th></tr></thead><tbody><tr><td>Numerações dos sapatos com defeito</td><td>36</td><td>37</td><td>38</td></tr></tbody></table><p>Para quantificar os sapatos pela cor, os donos representaram a cor branca pelo número 0 e a cor preta pelo número 1. Sabe-se que a média da distribuição desses zeros e uns é igual a 0,45.</p><p>Os donos da loja decidiram que a numeração dos sapatos com maior número de reclamações e a cor com maior número de reclamações não serão mais vendidas.</p><p>A loja encaminhou um ofício ao fornecedor dos sapatos, explicando que não serão mais encomendados os sapatos de cor</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "branca e os de número 38.",
+    "B": "branca e os de número 37.",
+    "C": "branca e os de número 36.",
+    "D": "preta e os de número 38.",
+    "E": "preta e os de número 37."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A numeração com mais reclamações é a moda, <strong>38</strong>. Para a cor, a média dos zeros (branco) e uns (preto) é 0,45: 45% dos sapatos com defeito eram pretos e 55% eram brancos, então a cor com mais reclamações é a <strong>branca</strong>. Alternativa <strong>A</strong>.</p><p>A mediana (37) e a média (36) não indicam a numeração mais frequente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "moda",
+    "média"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 158
+   },
+   "enunciado": "<p>Para analisar o desempenho de um método diagnóstico, realizam-se estudos em populações contendo pacientes sadios e doentes. Quatro situações distintas podem acontecer nesse contexto de teste:</p><p>1) Paciente TEM a doença e o resultado do teste é POSITIVO.</p><p>2) Paciente TEM a doença e o resultado do teste é NEGATIVO.</p><p>3) Paciente NÃO TEM a doença e o resultado do teste é POSITIVO.</p><p>4) Paciente NÃO TEM a doença e o resultado do teste é NEGATIVO.</p><p>Um índice de desempenho para avaliação de um teste diagnóstico é a sensibilidade, definida como a probabilidade de o resultado do teste ser POSITIVO se o paciente estiver com a doença.</p><p>O quadro refere-se a um teste diagnóstico para a doença A, aplicado em uma amostra composta por duzentos indivíduos.</p><table class=\"tabela\"><thead><tr><th>Resultado do teste</th><th>Doença A presente</th><th>Doença A ausente</th></tr></thead><tbody><tr><td>Positivo</td><td>95</td><td>15</td></tr><tr><td>Negativo</td><td>5</td><td>85</td></tr></tbody></table><p class=\"fonte\">BENSEÑOR, I. M.; LOTUFO, P. A. Epidemiologia: abordagem prática. São Paulo: Sarvier, 2011 (adaptado).</p><p>Conforme o quadro do teste proposto, a sensibilidade dele é de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "47,5%.",
+    "B": "85,0%.",
+    "C": "86,3%.",
+    "D": "94,4%.",
+    "E": "95,0%."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A sensibilidade é a probabilidade de o teste dar positivo entre os que têm a doença. Dos 95 + 5 = 100 doentes, 95 tiveram resultado positivo: \\(\\dfrac{95}{100} = \\) <strong>95%</strong>. Alternativa <strong>E</strong>.</p><p>A opção A (47,5%) divide 95 pelos 200 indivíduos, mas a condição é estar doente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade condicional",
+    "tabela"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 159
+   },
+   "enunciado": "<p>Uma pessoa possui um espaço retangular de lados 11,5 m e 14 m no quintal de sua casa e pretende fazer um pomar doméstico de maçãs. Ao pesquisar sobre o plantio dessa fruta, descobriu que as mudas de maçã devem ser plantadas em covas com uma única muda e com espaçamento mínimo de 3 metros entre elas e entre elas e as laterais do terreno. Ela sabe que conseguirá plantar um número maior de mudas em seu pomar se dispuser as covas em filas alinhadas paralelamente ao lado de maior extensão.</p><p>O número máximo de mudas que essa pessoa poderá plantar no espaço disponível é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4.",
+    "B": "8.",
+    "C": "9.",
+    "D": "12.",
+    "E": "20."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Descontando 3 m de cada lateral, sobra uma área útil de 8 m por 5,5 m para as covas. Nas filas paralelas ao lado maior, com covas a cada 3 m, cabem 3 mudas (em 0, 3 e 6 m). Se as filas forem intercaladas, com as mudas formando triângulos equiláteros de lado 3 m, a distância entre filas é \\(\\dfrac{3\\sqrt{3}}{2} \\approx 2{,}6\\) m, e cabem 3 filas em 5,5 m (em 0; 2,6 e 5,2 m). As filas deslocadas ficam em 1,5; 4,5 e 7,5 m, ainda dentro dos 8 m. Total: 3 × 3 = <strong>9 mudas</strong>. Alternativa <strong>C</strong>.</p><p>Com as covas em grade quadrada, caberiam só 2 filas de 3, ou 6 mudas, valor que não está entre as opções.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "otimização",
+    "triângulo equilátero"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 160
+   },
+   "enunciado": "<p>O acesso entre os dois andares de uma casa é feito através de uma escada circular (escada caracol), representada na figura. Os cinco pontos A, B, C, D, E sobre o corrimão estão igualmente espaçados, e os pontos P, A e E estão em uma mesma reta. Nessa escada, uma pessoa caminha deslizando a mão sobre o corrimão do ponto A até o ponto D.</p>[[fig:1]]<p>A figura que melhor representa a projeção ortogonal, sobre o piso da casa (plano), do caminho percorrido pela mão dessa pessoa é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q160.webp",
+     "alt": "Escada caracol em perspectiva, com o corrimão em espiral e os pontos A, B, C, D e E marcados nele; E fica acima de A, e P está no piso, alinhado com A e E."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q160a.webp",
+     "alt": "Alternativa A: arco de um quarto de circunferência."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q160b.webp",
+     "alt": "Alternativa B: arco de meia circunferência."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q160c.webp",
+     "alt": "Alternativa C: arco de três quartos de circunferência."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q160d.webp",
+     "alt": "Alternativa D: arco em espiral de pouco mais de meia volta."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q160e.webp",
+     "alt": "Alternativa E: curva que dá mais de uma volta e se cruza."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os pontos A, B, C, D e E estão igualmente espaçados e E fica exatamente acima de A: de A a E o corrimão dá uma volta completa, dividida em 4 partes iguais. De A a D a mão percorre 3 dessas partes, ou seja, 3/4 de volta. Projetado no piso, o caminho é um arco de 3/4 de circunferência, como na <strong>figura C</strong>. Alternativa <strong>C</strong>.</p><p>A figura A é 1/4 de volta, a B é meia volta e a E passa de uma volta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "projeção ortogonal",
+    "hélice"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 161
+   },
+   "enunciado": "<p>Um pesquisador está realizando várias séries de experimentos com alguns reagentes para verificar qual o mais adequado para a produção de um determinado produto. Cada série consiste em avaliar um dado reagente em cinco experimentos diferentes. O pesquisador está especialmente interessado naquele reagente que apresentar a maior quantidade dos resultados de seus experimentos acima da média encontrada para aquele reagente. Após a realização de cinco séries de experimentos, o pesquisador encontrou os seguintes resultados:</p><table class=\"tabela\"><thead><tr><th></th><th>Reagente 1</th><th>Reagente 2</th><th>Reagente 3</th><th>Reagente 4</th><th>Reagente 5</th></tr></thead><tbody><tr><td>Experimento 1</td><td>1</td><td>0</td><td>2</td><td>2</td><td>1</td></tr><tr><td>Experimento 2</td><td>6</td><td>6</td><td>3</td><td>4</td><td>2</td></tr><tr><td>Experimento 3</td><td>6</td><td>7</td><td>8</td><td>7</td><td>9</td></tr><tr><td>Experimento 4</td><td>6</td><td>6</td><td>10</td><td>8</td><td>10</td></tr><tr><td>Experimento 5</td><td>11</td><td>5</td><td>11</td><td>12</td><td>11</td></tr></tbody></table><p>Levando-se em consideração os experimentos feitos, o reagente que atende às expectativas do pesquisador é o</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "5."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Calculando a média de cada reagente e contando os resultados acima dela: reagente 1 (1, 6, 6, 6, 11), média 6, só 1 acima; reagente 2 (0, 6, 7, 6, 5), média 4,8, <strong>4 acima</strong>; reagente 3 (2, 3, 8, 10, 11), média 6,8, 3 acima; reagente 4 (2, 4, 7, 8, 12), média 6,6, 3 acima; reagente 5 (1, 2, 9, 10, 11), média 6,6, 3 acima. O melhor é o <strong>reagente 2</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média aritmética",
+    "tabela"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 162
+   },
+   "enunciado": "<p>Em uma cidade, o valor total da conta de energia elétrica é obtido pelo produto entre o consumo (em kWh) e o valor da tarifa do kWh (com tributos), adicionado à Cosip (contribuição para custeio da iluminação pública), conforme a expressão:</p><p><em>Valor do kWh (com tributos) × consumo (em kWh) + Cosip</em></p><p>O valor da Cosip é fixo em cada faixa de consumo. O quadro mostra o valor cobrado para algumas faixas.</p><table class=\"tabela\"><thead><tr><th>Faixa de consumo mensal (kWh)</th><th>Valor da Cosip (R$)</th></tr></thead><tbody><tr><td>Até 80</td><td>0,00</td></tr><tr><td>Superior a 80 até 100</td><td>2,00</td></tr><tr><td>Superior a 100 até 140</td><td>3,00</td></tr><tr><td>Superior a 140 até 200</td><td>4,50</td></tr></tbody></table><p>Suponha que, em uma residência, todo mês o consumo seja de 150 kWh, e o valor do kWh (com tributos) seja de R$ 0,50. O morador dessa residência pretende diminuir seu consumo mensal de energia elétrica com o objetivo de reduzir o custo total da conta em pelo menos 10%.</p><p>Qual deve ser o consumo máximo, em kWh, dessa residência para produzir a redução pretendida pelo morador?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "134,1",
+    "B": "135,0",
+    "C": "137,1",
+    "D": "138,6",
+    "E": "143,1"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Hoje a conta é 150 × 0,50 + 4,50 = R$ 79,50. Reduzir pelo menos 10% significa pagar no máximo 0,9 × 79,50 = R$ 71,55. Se o consumo cair para a faixa de 100 a 140 kWh, a Cosip é R$ 3,00: 0,50c + 3 ≤ 71,55, então c ≤ <strong>137,1 kWh</strong>, que está na faixa. Alternativa <strong>C</strong>.</p><p>Mantendo a Cosip de R$ 4,50 (faixa acima de 140), o consumo teria de ser 134,1 (A), que não pertence a essa faixa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função afim por partes",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 163
+   },
+   "enunciado": "<p>Um cliente de uma videolocadora tem o hábito de alugar dois filmes por vez. Quando os devolve, sempre pega outros dois filmes e assim sucessivamente. Ele soube que a videolocadora recebeu alguns lançamentos, sendo 8 filmes de ação, 5 de comédia e 3 de drama e, por isso, estabeleceu uma estratégia para ver todos esses 16 lançamentos. Inicialmente alugará, em cada vez, um filme de ação e um de comédia. Quando se esgotarem as possibilidades de comédia, o cliente alugará um filme de ação e um de drama, até que todos os lançamentos sejam vistos e sem que nenhum filme seja repetido.</p><p>De quantas formas distintas a estratégia desse cliente poderá ser posta em prática?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(20 \\times 8! + (3!)^2\\)",
+    "B": "\\(8! \\times 5! \\times 3!\\)",
+    "C": "\\(\\dfrac{8! \\times 5! \\times 3!}{2^8}\\)",
+    "D": "\\(\\dfrac{8! \\times 5! \\times 3!}{2^2}\\)",
+    "E": "\\(\\dfrac{16!}{2^8}\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A estratégia fica definida pela ordem em que cada filme é visto. Os 8 filmes de ação podem ser vistos em 8! ordens; os 5 de comédia, em 5! ordens (eles formam par com os 5 primeiros de ação); e os 3 de drama, em 3! ordens (com os 3 últimos de ação). Pelo princípio multiplicativo: <strong>8! × 5! × 3!</strong>. Alternativa <strong>B</strong>.</p><p>Não há divisão por 2: em cada aluguel os dois filmes são de tipos diferentes, então não há pares repetidos a descontar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo",
+    "permutação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 164
+   },
+   "enunciado": "<p>O psicólogo de uma empresa aplica um teste para analisar a aptidão de um candidato a determinado cargo. O teste consiste em uma série de perguntas cujas respostas devem ser verdadeiro ou falso e termina quando o psicólogo fizer a décima pergunta ou quando o candidato der a segunda resposta errada. Com base em testes anteriores, o psicólogo sabe que a probabilidade de o candidato errar uma resposta é 0,20.</p><p>A probabilidade de o teste terminar na quinta pergunta é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,02048.",
+    "B": "0,08192.",
+    "C": "0,24000.",
+    "D": "0,40960.",
+    "E": "0,49152."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O teste termina na 5ª pergunta se o candidato errar exatamente uma das 4 primeiras e errar a 5ª. A probabilidade é \\(4 \\cdot 0{,}2 \\cdot 0{,}8^3 \\cdot 0{,}2 = 4 \\cdot 0{,}04 \\cdot 0{,}512 = 0{,}08192\\). O fator 4 conta em qual das quatro primeiras está o primeiro erro. Alternativa <strong>B</strong>.</p><p>Sem esse fator, o resultado seria 0,02048 (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade binomial",
+    "eventos independentes"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 165
+   },
+   "enunciado": "<p>A Companhia de Engenharia de Tráfego (CET) de São Paulo testou em 2013 novos radares que permitem o cálculo da velocidade média desenvolvida por um veículo em um trecho da via.</p>[[fig:1]]<p>No teste feito pela CET, os dois radares ficavam a uma distância de 2,1 km um do outro. As medições de velocidade deixariam de ocorrer de maneira instantânea, ao se passar pelo radar, e seriam feitas a partir da velocidade média no trecho, considerando o tempo gasto no percurso entre um radar e outro. Sabe-se que a velocidade média é calculada como sendo a razão entre a distância percorrida e o tempo gasto para percorrê-la.</p><p>O teste realizado mostrou que o tempo que permite uma condução segura de deslocamento no percurso entre os dois radares deveria ser de, no mínimo, 1 minuto e 24 segundos. Com isso, a CET precisa instalar uma placa antes do primeiro radar informando a velocidade média máxima permitida nesse trecho da via. O valor a ser exibido na placa deve ser o maior possível, entre os que atendem às condições de condução segura observadas.</p><p class=\"fonte\">Disponível em: www1.folha.uol.com.br. Acesso em: 11 jan. 2014 (adaptado).</p><p>A placa de sinalização que informa a velocidade que atende a essas condições é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q165.webp",
+     "alt": "Ilustração de dois radares instalados em postes, cada um sobre uma faixa de uma avenida, com dois carros passando. Texto: “O sistema mede o tempo decorrido entre um radar e outro e calcula a velocidade média. No teste feito pela CET, os dois radares ficavam a uma distância de 2,1 km um do outro.”"
+    }
+   ],
+   "alternativas": {
+    "A": "25 km/h",
+    "B": "69 km/h",
+    "C": "90 km/h",
+    "D": "102 km/h",
+    "E": "110 km/h"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O tempo mínimo é 1 min 24 s = 84 s, e a distância é 2,1 km = 2 100 m. A velocidade média máxima é 2 100 ÷ 84 = 25 m/s; multiplicando por 3,6: <strong>90 km/h</strong>. Alternativa <strong>C</strong>.</p><p>A opção A (25) é o valor em m/s, mas as placas usam km/h.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade média",
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 166
+   },
+   "enunciado": "<p>No Brasil há várias operadoras e planos de telefonia celular.</p><p>Uma pessoa recebeu 5 propostas (A, B, C, D e E) de planos telefônicos. O valor mensal de cada plano está em função do tempo mensal das chamadas, conforme o gráfico.</p>[[fig:1]]<p>Essa pessoa pretende gastar exatamente R$ 30,00 por mês com telefone.</p><p>Dos planos telefônicos apresentados, qual é o mais vantajoso, em tempo de chamada, para o gasto previsto para essa pessoa?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q166.webp",
+     "alt": "Gráfico do valor mensal (em reais) em função do tempo mensal (em minutos), de 0 a 60 minutos, para cinco planos. A: começa em cerca de 23 reais e chega a cerca de 43. B: reta horizontal em cerca de 49 reais. C: começa em cerca de 5 reais e chega a cerca de 56. D: começa em 30 reais e chega a cerca de 62. E: começa em 0 e chega a cerca de 78."
+    }
+   ],
+   "alternativas": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "D",
+    "E": "E"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para gastar R$ 30,00, o melhor plano é o que permite mais minutos com esse valor: a reta que cruza o nível de R$ 30 mais à direita. O plano B custa cerca de R$ 49 fixos e o D já começa em R$ 30. A reta A chega a R$ 30 por volta de 20 minutos; a E, perto de 23; a C, perto de 30 minutos. O mais vantajoso é o <strong>plano C</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função afim",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 167
+   },
+   "enunciado": "<p>Uma empresa farmacêutica produz medicamentos em pílulas, cada uma na forma de um cilindro com uma semiesfera com o mesmo raio do cilindro em cada uma de suas extremidades. Essas pílulas são moldadas por uma máquina programada para que os cilindros tenham sempre 10 mm de comprimento, adequando o raio de acordo com o volume desejado.</p><p>Um medicamento é produzido em pílulas com 5 mm de raio. Para facilitar a deglutição, deseja-se produzir esse medicamento diminuindo o raio para 4 mm, e, por consequência, seu volume. Isso exige a reprogramação da máquina que produz essas pílulas.</p><p>Use 3 como valor aproximado para π.</p><p>A redução do volume da pílula, em milímetros cúbicos, após a reprogramação da máquina, será igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "168.",
+    "B": "304.",
+    "C": "306.",
+    "D": "378.",
+    "E": "514."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A pílula é um cilindro de 10 mm mais duas semiesferas, que juntas formam uma esfera: V = πr² · 10 + \\(\\tfrac{4}{3}\\)πr³. Com π = 3: para r = 5, V = 3 · 25 · 10 + 4 · 125 = 750 + 500 = 1 250 mm³; para r = 4, V = 3 · 16 · 10 + 4 · 64 = 480 + 256 = 736 mm³. A redução é 1 250 − 736 = <strong>514 mm³</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cilindro",
+    "esfera"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 168
+   },
+   "enunciado": "<p>O Brasil é um país com uma vantagem econômica clara no terreno dos recursos naturais, dispondo de uma das maiores áreas com vocação agrícola do mundo. Especialistas calculam que, dos 853 milhões de hectares do país, as cidades, as reservas indígenas e as áreas de preservação, incluindo florestas e mananciais, cubram por volta de 470 milhões de hectares. Aproximadamente 280 milhões se destinam à agropecuária, 200 milhões para pastagens e 80 milhões para a agricultura, somadas as lavouras anuais e as perenes, como o café e a fruticultura.</p><p class=\"fonte\">FORTES, G. Recuperação de pastagens é alternativa para ampliar cultivos. <em>Folha de S. Paulo</em>, 30 out. 2011.</p><p>De acordo com os dados apresentados, o percentual correspondente à área utilizada para agricultura em relação à área do território brasileiro é mais próximo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "32,8%",
+    "B": "28,6%",
+    "C": "10,7%",
+    "D": "9,4%",
+    "E": "8,0%"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A área usada na agricultura é de 80 milhões de hectares, e o território tem 853 milhões. A razão é 80 ÷ 853 ≈ 0,094, ou <strong>9,4%</strong>. Alternativa <strong>D</strong>.</p><p>Os 280 milhões (32,8%, A) incluem as pastagens.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "leitura de texto"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Escalas",
+   "origem": {
+    "numeroOriginal": 169
+   },
+   "enunciado": "<p>A Figura 1 representa uma gravura retangular com 8 m de comprimento e 6 m de altura.</p>[[fig:1]]<p>Deseja-se reproduzi-la numa folha de papel retangular com 42 cm de comprimento e 30 cm de altura, deixando livres 3 cm em cada margem, conforme a Figura 2.</p>[[fig:2]]<p>A reprodução da gravura deve ocupar o máximo possível da região disponível, mantendo-se as proporções da Figura 1.</p><p class=\"fonte\">PRADO, A. C. <em>Superinteressante</em>, ed. 301, fev. 2012 (adaptado).</p><p>A escala da gravura reproduzida na folha de papel é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q169a.webp",
+     "alt": "Figura 1: gravura retangular de 8 metros de comprimento por 6 metros de altura, com um desenho pixelado de um monstrinho preto."
+    },
+    {
+     "src": "assets/img/enem-2014-matematica/q169b.webp",
+     "alt": "Figura 2: folha de papel de 42 cm por 30 cm com margens de 3 cm em cada lado; a região central é a disponível para reproduzir a gravura, e as margens são a região proibida."
+    }
+   ],
+   "alternativas": {
+    "A": "1 : 3.",
+    "B": "1 : 4.",
+    "C": "1 : 20.",
+    "D": "1 : 25.",
+    "E": "1 : 32."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A região disponível mede 42 − 6 = 36 cm por 30 − 6 = 24 cm. A gravura tem proporção 8 : 6 = 4 : 3. Se ocupar toda a altura de 24 cm, o comprimento será 32 cm, que cabe nos 36 cm. Então 6 m = 600 cm viram 24 cm: a escala é 24 : 600 = <strong>1 : 25</strong>. Alternativa <strong>D</strong>.</p><p>Usar os 36 cm de comprimento daria 27 cm de altura, que não cabe nos 24 cm disponíveis.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "proporcionalidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 170
+   },
+   "enunciado": "<p>Uma empresa que organiza eventos de formatura confecciona canudos de diplomas a partir de folhas de papel quadradas. Para que todos os canudos fiquem idênticos, cada folha é enrolada em torno de um cilindro de madeira de diâmetro <em>d</em> em centímetros, sem folga, dando-se 5 voltas completas em torno de tal cilindro. Ao final, amarra-se um cordão no meio do diploma, bem ajustado, para que não ocorra o desenrolamento, como ilustrado na figura.</p>[[fig:1]]<p>Em seguida, retira-se o cilindro de madeira do meio do papel enrolado, finalizando a confecção do diploma. Considere que a espessura da folha de papel original seja desprezível.</p><p>Qual é a medida, em centímetros, do lado da folha de papel usado na confecção do diploma?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q170.webp",
+     "alt": "Diploma enrolado em forma de canudo, amarrado no meio com um cordão."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\pi d\\)",
+    "B": "\\(2\\pi d\\)",
+    "C": "\\(4\\pi d\\)",
+    "D": "\\(5\\pi d\\)",
+    "E": "\\(10\\pi d\\)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Cada volta da folha em torno do cilindro usa um comprimento igual à circunferência, πd. Com 5 voltas, o lado da folha mede <strong>5πd</strong>. Alternativa <strong>D</strong>.</p><p>A espessura do papel é desprezível, então todas as voltas têm o mesmo comprimento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comprimento da circunferência",
+    "cilindro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 171
+   },
+   "enunciado": "<p>Uma ponte precisa ser dimensionada de forma que possa ter três pontos de sustentação. Sabe-se que a carga máxima suportada pela ponte será de 12 t. O ponto de sustentação central receberá 60% da carga da ponte, e o restante da carga será distribuído igualmente entre os outros dois pontos de sustentação.</p><p>No caso de carga máxima, as cargas recebidas pelos três pontos de sustentação serão, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,8 t; 8,4 t; 1,8 t.",
+    "B": "3,0 t; 6,0 t; 3,0 t.",
+    "C": "2,4 t; 7,2 t; 2,4 t.",
+    "D": "3,6 t; 4,8 t; 3,6 t.",
+    "E": "4,2 t; 3,6 t; 4,2 t."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O ponto central recebe 60% de 12 t = 7,2 t. Os outros 40% (4,8 t) se dividem igualmente: 2,4 t para cada extremidade. As cargas são <strong>2,4 t; 7,2 t; 2,4 t</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "divisão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Aritmética",
+   "origem": {
+    "numeroOriginal": 172
+   },
+   "enunciado": "<p>Os incas desenvolveram uma maneira de registrar quantidades e representar números utilizando um sistema de numeração decimal posicional: um conjunto de cordas com nós denominado <em>quipus</em>. O <em>quipus</em> era feito de uma corda matriz, ou principal (mais grossa que as demais), na qual eram penduradas outras cordas, mais finas, de diferentes tamanhos e cores (cordas pendentes). De acordo com a sua posição, os nós significavam unidades, dezenas, centenas e milhares. Na Figura 1, o <em>quipus</em> representa o número decimal 2 453. Para representar o “zero” em qualquer posição, não se coloca nenhum nó.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.culturaperuana.com.br. Acesso em: 13 dez. 2012.</p><p>O número da representação do <em>quipus</em> da Figura 2, em base decimal, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q172.webp",
+     "alt": "Quipus: uma corda principal horizontal com cordas pendentes. Na Figura 1, a corda pendente tem nós agrupados nas posições de milhares (2), centenas (4), dezenas (5) e unidades (3). Na Figura 2, a corda tem 3 nós nos milhares, nenhum nas centenas, 6 nas dezenas e 4 nas unidades."
+    }
+   ],
+   "alternativas": {
+    "A": "364.",
+    "B": "463.",
+    "C": "3 064.",
+    "D": "3 640.",
+    "E": "4 603."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na Figura 2, a corda pendente tem 3 nós na posição dos milhares, nenhum nas centenas, 6 nas dezenas e 4 nas unidades. Como a ausência de nós representa o zero, o número é <strong>3 064</strong>. Alternativa <strong>C</strong>.</p><p>A opção 364 (A) ignora o zero das centenas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sistema de numeração posicional",
+    "zero"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 173
+   },
+   "enunciado": "<p>A maior piscina do mundo, registrada no livro Guiness, está localizada no Chile, em San Alfonso del Mar, cobrindo um terreno de 8 hectares de área.</p><p>Sabe-se que 1 hectare corresponde a 1 hectômetro quadrado.</p><p>Qual é o valor, em metros quadrados, da área coberta pelo terreno da piscina?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "8",
+    "B": "80",
+    "C": "800",
+    "D": "8 000",
+    "E": "80 000"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>1 hectômetro = 100 m, então 1 hm² = 100 × 100 = 10 000 m². Os 8 hectares valem 8 × 10 000 = <strong>80 000 m²</strong>. Alternativa <strong>E</strong>.</p><p>Converter como se fosse medida linear (× 100) daria 800 (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "unidades de área",
+    "conversão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "assunto": "Aritmética",
+   "origem": {
+    "numeroOriginal": 174
+   },
+   "enunciado": "<p>Durante uma epidemia de uma gripe viral, o secretário de saúde de um município comprou 16 galões de álcool em gel, com 4 litros de capacidade cada um, para distribuir igualmente em recipientes para 10 escolas públicas do município. O fornecedor dispõe à venda diversos tipos de recipientes, com suas respectivas capacidades listadas:</p><ul><li>Recipiente I: 0,125 litro</li><li>Recipiente II: 0,250 litro</li><li>Recipiente III: 0,320 litro</li><li>Recipiente IV: 0,500 litro</li><li>Recipiente V: 0,800 litro</li></ul><p>O secretário de saúde comprará recipientes de um mesmo tipo, de modo a instalar 20 deles em cada escola, abastecidos com álcool em gel na sua capacidade máxima, de forma a utilizar todo o gel dos galões de uma só vez.</p><p>Que tipo de recipiente o secretário de saúde deve comprar?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>São 16 × 4 = 64 L de gel para 10 escolas: 6,4 L por escola. Divididos em 20 recipientes iguais, cada um deve ter 6,4 ÷ 20 = 0,32 L, o <strong>recipiente III</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão",
+    "decimais"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 175
+   },
+   "enunciado": "<p>Os vidros para veículos produzidos por certo fabricante têm transparências entre 70% e 90%, dependendo do lote fabricado. Isso significa que, quando um feixe luminoso incide no vidro, uma parte entre 70% e 90% da luz consegue atravessá-lo. Os veículos equipados com vidros desse fabricante terão instaladas, nos vidros das portas, películas protetoras cuja transparência, dependendo do lote fabricado, estará entre 50% e 70%. Considere que uma porcentagem <em>P</em> da intensidade da luz, proveniente de uma fonte externa, atravessa o vidro e a película.</p><p>De acordo com as informações, o intervalo das porcentagens que representam a variação total possível de <em>P</em> é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "[35 ; 63].",
+    "B": "[40 ; 63].",
+    "C": "[50 ; 70].",
+    "D": "[50 ; 90].",
+    "E": "[70 ; 90]."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A luz que passa pelo vidro e pela película é o produto das transparências. O menor valor é 0,70 × 0,50 = 0,35, e o maior é 0,90 × 0,70 = 0,63. P varia em <strong>[35 ; 63]</strong>. Alternativa <strong>A</strong>.</p><p>As porcentagens se multiplicam, não se somam nem se mantêm, porque a película atua sobre a luz que já passou pelo vidro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagens sucessivas",
+    "intervalos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 41,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 176
+   },
+   "enunciado": "<p>Um cientista trabalha com as espécies I e II de bactérias em um ambiente de cultura. Inicialmente, existem 350 bactérias da espécie I e 1 250 bactérias da espécie II. O gráfico representa as quantidades de bactérias de cada espécie, em função do dia, durante uma semana.</p>[[fig:1]]<p>Em que dia dessa semana a quantidade total de bactérias nesse ambiente de cultura foi máxima?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q176.webp",
+     "alt": "Gráfico de linhas “Bactérias das espécies I e II”, quantidade por dia. Espécie I: seg. 350, ter. 800, qua. 1 450, qui. 650, sex. 300, sáb. 300, dom. 0. Espécie II: seg. 1 250, ter. 1 100, qua. 300, qui. 850, sex. 1 400, sáb. 1 000, dom. 1 350."
+    }
+   ],
+   "alternativas": {
+    "A": "Terça-feira.",
+    "B": "Quarta-feira.",
+    "C": "Quinta-feira.",
+    "D": "Sexta-feira.",
+    "E": "Domingo."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Somando as duas espécies em cada dia: segunda, 350 + 1 250 = 1 600; terça, 800 + 1 100 = 1 900; quarta, 1 450 + 300 = 1 750; quinta, 650 + 850 = 1 500; sexta, 300 + 1 400 = 1 700; sábado, 290 + 1 000 = 1 290; domingo, 0 + 1 350 = 1 350. O máximo foi na <strong>terça-feira</strong>. Alternativa <strong>A</strong>.</p><p>Na quarta (B), a espécie I atinge seu máximo, mas a II está no mínimo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "soma"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 177
+   },
+   "enunciado": "<p>Um fazendeiro tem um depósito para armazenar leite formado por duas partes cúbicas que se comunicam, como indicado na figura. A aresta da parte cúbica de baixo tem medida igual ao dobro da medida da aresta da parte cúbica de cima. A torneira utilizada para encher o depósito tem vazão constante e levou 8 minutos para encher metade da parte de baixo.</p>[[fig:1]]<p>Quantos minutos essa torneira levará para encher completamente o restante do depósito?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-matematica/q177.webp",
+     "alt": "Depósito formado por dois cubos: um cubo menor apoiado sobre um cubo maior, ligados por uma abertura; o cubo de baixo está cheio de leite até a metade."
+    }
+   ],
+   "alternativas": {
+    "A": "8",
+    "B": "10",
+    "C": "16",
+    "D": "18",
+    "E": "24"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Se a aresta de cima é a, a de baixo é 2a: os volumes são a³ e 8a³. Metade da parte de baixo, 4a³, encheu em 8 minutos: 2 minutos por a³. Falta encher 4a³ (a outra metade de baixo) + a³ (a parte de cima) = 5a³, o que leva 5 × 2 = <strong>10 minutos</strong>. Alternativa <strong>B</strong>.</p><p>Achar que dobrar a aresta dobra o volume levaria a uma resposta errada: o volume é multiplicado por 2³ = 8.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cubo",
+    "razão de semelhança"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 178
+   },
+   "enunciado": "<p>Diariamente, uma residência consome 20 160 Wh. Essa residência possui 100 células solares retangulares (dispositivos capazes de converter a luz solar em energia elétrica) de dimensões 6 cm × 8 cm. Cada uma das tais células produz, ao longo do dia, 24 Wh por centímetro de diagonal. O proprietário dessa residência quer produzir, por dia, exatamente a mesma quantidade de energia que sua casa consome.</p><p>Qual deve ser a ação desse proprietário para que ele atinja o seu objetivo?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Retirar 16 células.",
+    "B": "Retirar 40 células.",
+    "C": "Acrescentar 5 células.",
+    "D": "Acrescentar 20 células.",
+    "E": "Acrescentar 40 células."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A diagonal de uma célula de 6 cm × 8 cm é \\(\\sqrt{36 + 64} = 10\\) cm, então cada célula produz 24 × 10 = 240 Wh por dia. Para produzir 20 160 Wh são necessárias 20 160 ÷ 240 = 84 células. Como há 100, o proprietário deve <strong>retirar 16 células</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "teorema de Pitágoras",
+    "proporcionalidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Equações",
+   "origem": {
+    "numeroOriginal": 179
+   },
+   "enunciado": "<p>Uma pessoa compra semanalmente, numa mesma loja, sempre a mesma quantidade de um produto que custa R$ 10,00 a unidade. Como já sabe quanto deve gastar, leva sempre R$ 6,00 a mais do que a quantia necessária para comprar tal quantidade, para o caso de eventuais despesas extras. Entretanto, um dia, ao chegar à loja, foi informada de que o preço daquele produto havia aumentado 20%. Devido a esse reajuste, concluiu que o dinheiro levado era a quantia exata para comprar duas unidades a menos em relação à quantidade habitualmente comprada.</p><p>A quantia que essa pessoa levava semanalmente para fazer a compra era</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 166,00.",
+    "B": "R$ 156,00.",
+    "C": "R$ 84,00.",
+    "D": "R$ 46,00.",
+    "E": "R$ 24,00."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Seja n a quantidade habitual. O dinheiro levado é 10n + 6. Com o aumento de 20%, o preço passa a R$ 12,00, e esse dinheiro compra exatamente n − 2 unidades: 10n + 6 = 12(n − 2), então 2n = 30 e n = 15. A pessoa levava 10 × 15 + 6 = <strong>R$ 156,00</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação do 1º grau",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 180
+   },
+   "enunciado": "<p>Um executivo sempre viaja entre as cidades A e B, que estão localizadas em fusos horários distintos. O tempo de duração da viagem de avião entre as duas cidades é de 6 horas. Ele sempre pega um voo que sai de A às 15h e chega à cidade B às 18h (respectivos horários locais).</p><p>Certo dia, ao chegar à cidade B, soube que precisava estar de volta à cidade A, no máximo, até as 13h do dia seguinte (horário local de A).</p><p>Para que o executivo chegue à cidade A no horário correto e admitindo que não haja atrasos, ele deve pegar um voo saindo da cidade B, em horário local de B, no máximo à(s)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "16h.",
+    "B": "10h.",
+    "C": "7h.",
+    "D": "4h.",
+    "E": "1h."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O voo de A para B dura 6 horas, sai às 15h de A e chega às 18h de B. Se fosse no horário de A, chegaria às 21h: B está 3 horas atrás de A. Para chegar a A às 13h, o executivo deve sair de B às 13h − 6h = 7h no horário de A, que corresponde a <strong>4h</strong> no horário de B. Alternativa <strong>D</strong>.</p><p>A opção 7h (C) é o horário de saída no fuso de A.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fusos horários",
+    "tempo"
+   ],
+   "area": "Matemática"
+  }
+ ]
+}

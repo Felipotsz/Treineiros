@@ -1,0 +1,160 @@
+# Enem 2013, 1º dia, caderno azul: Ciências Humanas (questões 1 a 45; no 1º dia de 2013 vinham Humanas e Natureza).
+# Texto legível (sem DECOD). Letra de canção (Q19, Arnaldo Antunes) como imagem.
+# Sem anuladas nesta área.
+import sys, pathlib, re
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1] / "tools"))
+from aj import completar
+from enem_aj import carregar_enem, enunciado_enem, paragrafos_enem
+
+ID = "enem-2013-humanas"
+META = {"id": ID, "banca": "Enem", "ano": 2013, "titulo": "Enem 2013: Ciências Humanas", "fonte": "Inep", "dataExame": "2013-10-26",
+        "duracaoMinutos": 135, "area": "Ciências Humanas", "caderno": "azul", "dia": 1}
+R = {n: {"numero": n, "enunciado": "", "alternativas": {}} for n in range(1, 46)}
+D = carregar_enem("enem-2013-dia1-azul")
+Q = {}
+P = lambda n: paragrafos_enem(D[n])
+T = lambda n, i: P(n)[i][1]
+p = lambda *xs: "".join(f"<p>{x}</p>" for x in xs)
+ap = lambda *xs: "".join(f'<p class="apoio">{x}</p>' for x in xs)
+fonte = lambda x: f'<p class="fonte">{x}</p>'
+ALT = lambda ini: {k: f"[[fig:{i}]]" for i, k in enumerate("ABCDE", ini)}
+tit = lambda x: f'<p class="apoio"><strong>{x}</strong></p>'
+LIMPA = lambda s: re.sub(r"fi ([a-zà-ú])", r"fi\1", re.sub(r"fl ([a-zà-ú])", r"fl\1", re.sub(r"(\w)- -(\w)", r"\1-\2", s)))
+
+
+def figs(*pares):
+    return [{"arquivo": a, "alt": t} for a, t in pares]
+
+
+def X(n, materia, assunto, expl, imagens=(), tags=(), enun=None, trocas=(), alts=None):
+    e = LIMPA(enun or enunciado_enem(D[n]))
+    for a, b in trocas:
+        assert a in e, a; e = e.replace(a, b)
+    al = {k: LIMPA(v) for k, v in (alts or D[n]["alternativas"]).items()}
+    Q[n] = {"materia": materia, "assunto": assunto, "area": "Ciências Humanas", "tags": list(tags), "numeroOriginal": n,
+                 "enunciado": e, "alternativas": al, "imagens": list(imagens), "explicacao": expl}
+
+
+def tabela(cab, linhas):
+    return ('<table class="tabela"><thead><tr>' + "".join(f"<th>{c}</th>" for c in cab) + "</tr></thead><tbody>"
+            + "".join("<tr>" + "".join(f"<td>{c}</td>" for c in l) + "</tr>" for l in linhas) + "</tbody></table>")
+
+
+
+
+X(1, "Geografia", "População", "<p>O mapa 1 mostra a população concentrada no litoral e no Sudeste, com as grandes cidades. O mapa 2 mostra que os conflitos em terras indígenas se espalham pelo interior, sobretudo na Amazônia e no Centro-Oeste, e quase não aparecem no litoral. Ali, a ocupação e as cidades vêm desde a colonização, e os povos indígenas foram expulsos há muito tempo. A menor incidência de conflitos se explica pela <strong>concentração histórica da urbanização</strong>. Alternativa <strong>E</strong>.</p><p>A expansão da fronteira agrícola (B) explica justamente onde há mais conflitos, no interior.</p>",
+  figs(("q01", "Dois mapas do Brasil. Mapa 1, “Distribuição espacial atual da população brasileira”: círculos proporcionais à população, muito concentrados no litoral, sobretudo no Sudeste e no Nordeste, com os maiores em São Paulo, Rio de Janeiro, Salvador, Brasília e Fortaleza. Mapa 2, “Conflitos em terras indígenas”: terras indígenas e símbolos de garimpeiros, madeireiros, fazendeiros e posseiros espalhados pelo interior, sobretudo na Amazônia e no Centro-Oeste.")),
+  ["conflitos fundiários", "terras indígenas"],
+  enun="[[fig:1]]" + fonte("THÉRY, H. As boas-novas sobre a população brasileira. <em>Conhecimento Prático Geográfico</em>, n. 41, jan. 2012 (adaptado). SIMIELLI, M. E. <em>Geoatlas</em>. São Paulo: Ática, 2009 (adaptado).") + p(T(1, 3)))
+X(2, "Geografia", "Urbanização", "<p>O texto mostra a construção acelerada de cidades para abrigar a população que chegava, sem atender a todas as necessidades. Com muita gente e terra urbana valorizada nas áreas centrais, os mais pobres vão morar cada vez mais longe: as periferias crescem pelo <strong>crescimento da população urbana e aumento da especulação imobiliária</strong>. Alternativa <strong>A</strong>.</p><p>As opções C, D e E descrevem políticas que conteriam a periferização, e não a expandiriam.</p>",
+  tags=["periferização", "especulação imobiliária"],
+  enun=ap(T(2, 0)) + fonte("MARICATO, E. <em>Brasil, cidades: alternativas para a crise urbana</em>. Petrópolis: Vozes, 2001.") + p(T(2, 1)),
+  alts={**D[2]["alternativas"], "E": "reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia."})
+X(3, "Geografia", "Paisagem", "<p>A categoria Paisagem Cultural valoriza a combinação entre a natureza e a ação humana. No Rio, montanhas, mar, floresta e baía se integram à cidade construída: o reconhecimento deriva da <strong>relação sociedade-natureza de caráter singular</strong>. Alternativa <strong>E</strong>.</p><p>Os prédios da ex-capital (C) ou a imagem da metrópole (B) não são o que essa categoria do título protege.</p>",
+  tags=["paisagem cultural", "Unesco"])
+X(4, "Filosofia", "Filosofia moderna", "<p>Descartes quer desfazer-se de todas as opiniões em que acreditava e começar de novo, e o texto II diz que a dúvida deve ocupar todo o espaço. Para reconstruir o conhecimento, é preciso <strong>questionar de forma ampla e profunda as antigas ideias e concepções</strong>. Alternativa <strong>B</strong>.</p><p>Duvidar não é apagar da memória (D): é suspender o crédito até achar algo certo.</p>",
+  tags=["Descartes", "dúvida metódica"], trocas=[("Meditações concernentes à Primeira Filosofia", "<em>Meditações concernentes à Primeira Filosofia</em>"), ("Descartes: a metafísica da modernidade", "<em>Descartes: a metafísica da modernidade</em>")])
+X(5, "História", "Brasil Colônia", "<p>Caminha diz que ainda não se achou ouro nem prata, mas que “o melhor fruto que dela se pode tirar me parece que será salvar esta gente”. Salvar a alma dos nativos, convertendo-os ao cristianismo, é <strong>valorizar a catequese a ser realizada sobre os povos nativos</strong>. Alternativa <strong>A</strong>.</p><p>A carta não fala em conhecimento indígena sobre riquezas (C), nem critica a falta de trabalho (E).</p>",
+  tags=["Carta de Caminha", "catequese"], trocas=[("História moderna através de textos", "<em>História moderna através de textos</em>")])
+X(6, "História", "América pré-colombiana", "<p>O canto descreve dardos quebrados, casas destelhadas, águas vermelhas de sangue e diz que os escudos, que eram o resguardo, “não detêm a desolação”. Os astecas lutaram, mas não conseguiram deter os espanhóis: é a <strong>tentativa frustrada de resistência a um poder considerado superior</strong>. Alternativa <strong>B</strong>.</p><p>O texto é um registro da derrota no momento em que ela acontece, e não uma profecia (E).</p>",
+  tags=["astecas", "conquista espanhola"],
+  enun=tit("O canto triste dos conquistados: os últimos dias de Tenochtitlán") + ap("<br>".join(T(6, i) for i in (2, 3, 4, 5, 6))) + fonte("PINSKY, J. et al. <em>História da América através de textos</em>. São Paulo: Contexto, 2007 (fragmento).") + p(T(6, 8)))
+X(7, "Geografia", "População", "<p>A taxa de fecundidade caiu de 6,16 filhos por mulher em 1940 para 1,90 em 2010. Com menos nascimentos, a diferença entre nascimentos e mortes diminui: há <strong>redução do crescimento vegetativo</strong>. Alternativa <strong>B</strong>.</p><p>A população absoluta continuou crescendo (A), só que mais devagar, e a proporção de adultos aumentou (C).</p>",
+  figs(("q07", "Gráfico de linha da taxa de fecundidade total no Brasil: 6,16 em 1940; 6,21 em 1950; 6,28 em 1960; 5,76 em 1970; 4,35 em 1980; 2,85 em 1991; 2,38 em 2000; 1,90 em 2010.")),
+  ["fecundidade", "transição demográfica"],
+  enun=tit(T(7, 0)) + "[[fig:1]]" + fonte("IBGE. <em>Censo demográfico 2010</em>: resultados gerais da amostra. Disponível em: ftp://ftp.ibge.gov.br. Acesso em: 12 mar. 2013.") + p(T(7, 3)))
+X(8, "História", "Período entreguerras", "<p>Comunistas, socialistas, liberais e outros se uniram para defender a República espanhola contra os militares de Franco, apoiados pela Alemanha nazista e pela Itália fascista. A perspectiva comum foi o <strong>combate ao fascismo</strong>. Alternativa <strong>B</strong>.</p><p>As Brigadas eram coordenadas pelos comunistas, então não se uniram na crítica ao stalinismo (A).</p>",
+  tags=["Guerra Civil Espanhola", "antifascismo"],
+  enun=ap(T(8, 0)) + fonte("SOUZA, I. I. A Guerra Civil Europeia. <em>História Viva</em>, n. 70, 2009 (fragmento).") + p("A Guerra Civil Espanhola expressou as disputas em curso na Europa na década de 1930. " + T(8, 2)))
+X(9, "Geografia", "Transportes", "<p>A intermodalidade combina ferrovias, hidrovias e rodovias. Num país com a escala do Brasil, as distâncias são enormes, e usar o modal mais barato em cada trecho reduz o custo do frete. Ela se justifica pelas <strong>grandes distâncias e a busca da redução dos custos de transporte</strong>. Alternativa <strong>B</strong>.</p><p>A produção agrícola se expandiu para o interior, longe dos portos, e não perto deles (D).</p>",
+  tags=["intermodalidade", "logística"], trocas=[("Revista Transporte y Territorio", "<em>Revista Transporte y Territorio</em>")])
+X(10, "Filosofia", "Filosofia política", "<p>Maquiavel diz que os homens são “ingratos, volúveis, simuladores, covardes e ávidos de lucro”: estão do seu lado enquanto você lhes faz bem e se revoltam quando o perigo chega. O homem é <strong>guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes</strong>. Alternativa <strong>C</strong>.</p><p>A visão de um homem naturalmente bom ou sociável (A e E) é o oposto do que o texto descreve.</p>",
+  tags=["Maquiavel", "natureza humana"], trocas=[("O príncipe", "<em>O príncipe</em>")])
+X(11, "História", "Primeira República", "<p>A política dos governadores foi o acordo pelo qual o presidente apoiava as oligarquias que dominavam cada estado, e elas elegiam bancadas fiéis ao governo federal. O autor critica esse sistema de “círculos concêntricos”, que fortaleceu o <strong>domínio de grupos regionais sobre a ordem federativa</strong>. Alternativa <strong>C</strong>.</p><p>O acordo aumentou o poder dos coronéis, em vez de limitá-lo (B).</p>",
+  tags=["política dos governadores", "oligarquias"], trocas=[("Retrato do Brasil", "<em>Retrato do Brasil</em>")])
+X(12, "História", "Primeira República", "<p>As Grandes Sociedades queriam acabar com o entrudo e impor um carnaval de desfiles “mais civilizado”, inspirado em Veneza, mas o povo não queria abrir mão de suas brincadeiras. O carnaval era um momento em que as <strong>tradições populares se transformavam em matéria de disputas sociais</strong>. Alternativa <strong>D</strong>.</p><p>As diferenças sociais não sumiam na festa (A): eram justamente o centro da disputa.</p>",
+  tags=["carnaval", "cultura popular"], trocas=[("Os senhores da alegria", "<em>Os senhores da alegria</em>"), ("Carnavais e outras frestas", "<em>Carnavais e outras frestas</em>")])
+X(13, "História", "Era Vargas", "<p>Na caricatura de 1934, uma mulher enorme e brava discursa enquanto o marido segura o bebê, e a legenda fala da “poderosa influência do partido Mulherista”. O voto feminino tinha sido conquistado em 1932 e confirmado pela Constituição de 1934: a crítica é à <strong>obtenção da participação eleitoral</strong>. Alternativa <strong>E</strong>.</p><p>O divórcio (D) só seria aprovado no Brasil em 1977.</p>",
+  figs(("q13", "Caricatura: uma mulher grande, de expressão furiosa, gesticula como se discursasse; atrás, um homem pequeno e abatido segura um bebê que chora. Legenda: “– Havera’ ainda quem resista a’ poderosa influencia do partido Mulherista.?!”")),
+  ["voto feminino", "caricatura"], trocas=[("Revista da Semana", "<em>Revista da Semana</em>"), ("Uma história do Brasil através das caricaturas (1840-2001)", "<em>Uma história do Brasil através das caricaturas (1840-2001)</em>")])
+X(14, "Geografia", "Biomas", "<p>Euclides da Cunha descreve um mato espinhento, de folhas urticantes, gravetos estalados, árvores sem folhas e galhos secos e retorcidos, que se repete por léguas: é a caatinga. São plantas adaptadas à seca, a <strong>vegetação xerófila</strong>. Alternativa <strong>A</strong>.</p><p>Florestas latifoliadas e perenifólias (B e E) têm folhas largas e permanentes, o oposto do texto.</p>",
+  tags=["caatinga", "Os sertões"], trocas=[("Os sertões", "<em>Os sertões</em>")])
+X(15, "Sociologia", "Marxismo", "<p>Para Marx, as relações de produção formam a estrutura econômica, “fundamento real” sobre o qual se ergue a superestrutura política e jurídica. É o trabalho, organizado nessas relações, que produz a vida material: o <strong>trabalho se constitui como o fundamento real da produção material</strong>. Alternativa <strong>B</strong>.</p><p>A mais-valia é a exploração do proletariado, e não um benefício a ele (A).</p>",
+  tags=["Marx", "infraestrutura e superestrutura"], trocas=[("Crítica da economia política", "<em>Crítica da economia política</em>"), ("Textos 3", "<em>Textos 3</em>")])
+X(16, "Sociologia", "Trabalho", "<p>No taylorismo e no fordismo, o controle estava no processo: o trabalhador ficava no posto, com tempo e movimentos vigiados. No trabalho flexível, ele escolhe onde trabalhar, mas é cobrado ainda mais pelo que entrega: <strong>os mecanismos de controle são deslocados dos processos para os resultados do trabalho</strong>. Alternativa <strong>E</strong>.</p><p>O texto diz que o poder sobre o trabalhador ficou mais direto, então as relações não foram democratizadas (A).</p>",
+  tags=["flexibilização", "toyotismo"], trocas=[("A corrosão do caráter", "<em>A corrosão do caráter</em>")])
+X(17, "Sociologia", "Trabalho", "<p>No modelo 1 (fordismo), a fábrica produz em massa e guarda o que fez em estoque, antes de ter comprador; se o mercado não absorver, sobra produto. No modelo 2 (toyotismo), o cliente faz a requisição e só então se produz. A diferença está na <strong>necessidade de armazenamento</strong>. Alternativa <strong>D</strong>.</p>",
+  figs(("q17", "Dois esquemas de produção. Modelo 1: fornecedor, seta para estoque, produção, outro estoque e cliente. Modelo 2: cliente faz requisição à produção, que faz requisição ao fornecedor; a entrega volta no sentido contrário, sem estoques.")),
+  ["fordismo", "just in time"])
+X(18, "Sociologia", "Cultura", "<p>Os filmes mostram a África como um lugar de “tribos doidas e rituais de desenho animado”, cheio de animais e paisagens selvagens. A memória enfatiza <strong>o exotismo</strong> e negligencia <strong>as culturas</strong> reais e diversas do continente. Alternativa <strong>B</strong>.</p>",
+  tags=["estereótipos", "etnocentrismo"], trocas=[("comédias bem vulgares, mas de muito sucesso, como Um príncipe em Nova York e Ace Ventura: um maluco na África", "comédias bem vulgares, mas de muito sucesso, como <em>Um príncipe em Nova York</em> e <em>Ace Ventura: um maluco na África</em>"), ("A animação O rei Leão", "A animação <em>O rei Leão</em>")])
+X(19, "Geografia", "Globalização", "<p>A canção mostra empresas japonesas produzindo em Hong Kong com matéria-prima brasileira para vender nos Estados Unidos, pilhas e gasolina circulando pelo mundo, mas crianças iraquianas, fugidas da guerra, sem visto para entrar na Disneylândia. Mercadorias circulam livremente, pessoas não: há <strong>ampliação das trocas econômicas e seletividade dos fluxos populacionais</strong>. Alternativa <strong>B</strong>.</p>",
+  figs(("q19", "Trecho da letra da canção “Disneylândia”, de Arnaldo Antunes, como aparece na prova: enumera produtos e empresas de vários países circulando pelo mundo e termina com crianças refugiadas que não conseguem visto para entrar na Disneylândia.")),
+  ["fluxos globais", "migrações"],
+  enun="[[fig:1]]" + fonte("ANTUNES, A. Disponível em: www.radio.uol.com.br. Acesso em: 3 fev. 2013 (fragmento).") + p(T(19, 5)))
+X(20, "História", "Ditadura militar", "<p>Em 1965, o AI-2 extinguiu todos os partidos políticos; depois foram criados só dois, a Arena (do governo) e o MDB (oposição consentida). A charge, publicada no dia de Finados, trata os antigos partidos como mortos. Revela a <strong>adoção do bipartidarismo regulado</strong>. Alternativa <strong>C</strong>.</p><p>Foram extintos todos os partidos, e não só os nanicos (A): PSD, PTB e UDN eram os maiores.</p>",
+  figs(("q20", "Charge só com texto: as siglas PSD, PTB, UDN, PSP, PDC, MTR, PTN, PST, PSB, PRP, PR, PL e PRT em letras grandes, como lista de nomes, e embaixo a palavra “Finados”.")),
+  ["AI-2", "bipartidarismo"],
+  enun="[[fig:1]]" + fonte("FORTUNA. <em>Correio da Manhã</em>, ano 65, n. 22 264, 2 nov. 1965.") + p("A imagem foi publicada no jornal <em>Correio da Manhã</em>, no dia de Finados de 1965. " + T(20, 2)))
+X(21, "Geografia", "Conflitos", "<p>Trocar “territórios palestinos” por “Palestina” é tratar a região como um Estado, e não como área ocupada. Em 2012, a ONU tinha elevado a Palestina a Estado observador. O gesto significa o <strong>reconhecimento de uma autoridade jurídica</strong>. Alternativa <strong>D</strong>.</p><p>Um nome numa página não estabelece fronteiras (E), que seguem em disputa.</p>",
+  tags=["Palestina", "Estado"], trocas=[("O site de buscas", "O <em>site</em> de buscas"), ("Folha de S. Paulo", "<em>Folha de S. Paulo</em>")])
+X(22, "Filosofia", "Filosofia política", "<p>Montesquieu quer que “o poder seja contido pelo poder”: cada poder limita os outros, e nenhum indivíduo ou grupo reúne os três. Isso exige um modelo com <strong>estabelecimento de limites aos atores públicos e às instituições do governo</strong>. Alternativa <strong>D</strong>.</p><p>Reunir as três funções num governante, mesmo eleito (E), é exatamente o que Montesquieu condena.</p>",
+  tags=["Montesquieu", "tripartição dos poderes"], trocas=[("Do espírito das leis", "<em>Do espírito das leis</em>")])
+X(23, "História", "Idade Média", "<p>Na Idade Média, a morte era uma passagem celebrada, porque se esperava a ressurreição; hoje, com a perda do sentimento religioso, ela virou “uma provação aterrorizante”. O modo de entender a morte mudou: houve <strong>transformação das representações sociais</strong>. Alternativa <strong>B</strong>.</p><p>O autor descreve uma mudança de sentimento, sem falar em ateísmo nos países cristãos (C).</p>",
+  tags=["mentalidades", "morte"], trocas=[("Ano 1000 ano 2000 na pista dos nossos medos", "<em>Ano 1000 ano 2000 na pista dos nossos medos</em>")])
+X(24, "Sociologia", "Poder e disciplina", "<p>No panóptico, o inspetor no centro pode ver todos os presos sem ser visto, e cada um se comporta como se estivesse sempre vigiado. Foucault usou o modelo para mostrar o poder disciplinar: mecanismos <strong>sutis, que adestram os corpos no espaço-tempo por meio do olhar como instrumento de controle</strong>. Alternativa <strong>D</strong>.</p><p>A força do panóptico está em dispensar a tortura física (C).</p>",
+  tags=["panóptico", "Foucault"], trocas=[("O panóptico", "<em>O panóptico</em>")])
+X(25, "Sociologia", "Comunicação", "<p>O blogueiro diz que está no Orkut, no MSN, no MySpace, no Facebook e no Twitter, e a moça responde que por isso quase não o vê “no mundo real”. A charge <strong>questiona a integração das pessoas nas redes virtuais de relacionamento</strong>: estar em todas as redes afasta das relações presenciais. Alternativa <strong>A</strong>.</p><p>A charge critica, e não enaltece (C), o desejo de estar em todos os lugares.</p>",
+  figs(("q25", "Tirinha “Problogger: o blogueiro profissional”, em quatro quadros. Uma moça pergunta se ele está no Orkut, e ele diz “Estou!”; ela pergunta sobre MSN, MySpace e Facebook, e ele diz “Em todos!”; ela pergunta do Twitter, e ele diz “Claro!”; ela conclui: “Você está em tantos lugares, por isso raramente te vejo no mundo real!”.")),
+  ["redes sociais", "charge"], enun=tit(T(25, 0)) + "[[fig:1]]" + fonte(T(25, 2)) + p(T(25, 3)))
+X(26, "História", "Roma Antiga", "<p>Sem leis escritas, os patrícios manipulavam a justiça. Os plebeus lutaram para escrever as leis (a Lei das Doze Tábuas) e, com isso, ganharam garantias e direitos que antes eram só dos patrícios. A mudança esteve ligada à <strong>extensão da cidadania aos homens livres</strong>. Alternativa <strong>B</strong>.</p><p>Roma era uma república aristocrática, sem sufrágio universal (A).</p>",
+  tags=["Lei das Doze Tábuas", "patrícios e plebeus"], trocas=[("A cidade antiga", "<em>A cidade antiga</em>")])
+X(27, "Filosofia", "Filosofia antiga", "<p>Para Aristóteles, todas as ações humanas visam algum bem, e a felicidade é o bem supremo, buscado por si mesmo e não como meio para outra coisa. Ele a identifica como <strong>finalidade das ações e condutas humanas</strong>. Alternativa <strong>C</strong>.</p><p>Bens materiais e reconhecimento (A e E) são meios, e não o fim último.</p>",
+  tags=["Aristóteles", "eudaimonia"], trocas=[("A Política", "<em>A Política</em>")])
+X(28, "Geografia", "Agricultura", "<p>A foto mostra plantações em curvas de nível, terraços que acompanham o relevo da encosta. Esse arranjo segura a água da chuva e impede que ela escorra levando o solo: o objetivo imediato é <strong>controlar a erosão laminar</strong>. Alternativa <strong>A</strong>.</p><p>O terraceamento dificulta, e não favorece, a mecanização intensiva (E).</p>",
+  figs(("q28", "Foto de uma encosta inteira cultivada em terraços curvos, que acompanham as curvas de nível do terreno, com uma pessoa caminhando entre as fileiras.")),
+  ["terraceamento", "erosão"])
+X(29, "História", "Brasil Colônia", "<p>Os escravizados elegiam um rei e uma rainha do Congo e faziam um cortejo com embaixador e criados, usando a pompa das festas europeias e católicas. Elementos africanos e portugueses se misturavam e ganhavam um novo sentido: há <strong>ressignificação cultural</strong>. Alternativa <strong>E</strong>.</p><p>A festa era celebrada pelo povo, “alegre e admirado”, e não representa supressão (D) ou exclusão (A).</p>",
+  tags=["congada", "sincretismo"], trocas=[("Festas e utopias no Brasil colonial", "<em>Festas e utopias no Brasil colonial</em>"), ("Um olhar sobre as festas populares brasileiras", "<em>Um olhar sobre as festas populares brasileiras</em>")])
+X(30, "Geografia", "Questão agrária", "<p>O texto I liga a reforma agrária à luta contra a concentração da terra (1% controla 46%) e contra a grilagem: é a <strong>correção de distorções históricas</strong>. O texto II diz que apoiar empresas produtivas gera mais que a reforma, vista como contrária ao <strong>agronegócio</strong>. Alternativa <strong>E</strong>.</p>",
+  tags=["reforma agrária", "MST"])
+X(31, "História", "Mundo contemporâneo", "<p>Desmond Tutu fala de uma sociedade em que as pessoas não sejam valorizadas por “irrelevâncias biológicas”, ou seja, pela cor da pele. O passado a ser superado é o <em>apartheid</em>: um legado <strong>segregacionista, que impedia a universalização da cidadania</strong>. Alternativa <strong>C</strong>.</p>",
+  tags=["apartheid", "Comissão da Verdade"])
+X(32, "História", "Segundo Reinado", "<p>Com o fim do tráfico, os fazendeiros queriam que o governo pagasse a vinda de imigrantes. O diretor das Terras Públicas responde que, se antes eles compravam escravos com o próprio dinheiro, deviam trazer os trabalhadores “à sua custa”. O confronto girava em torno de <strong>definir uma política de subsídio governamental para o fomento da imigração</strong>. Alternativa <strong>C</strong>.</p>",
+  tags=["imigração", "fim do tráfico"], trocas=[("História da vida privada no Brasil", "<em>História da vida privada no Brasil</em>")])
+X(33, "História", "Brasil Império", "<p>A pintura de Moreaux mostra D. Pedro I erguendo o chapéu no meio de uma multidão que o aclama: a ideia é de <strong>liderança popular</strong>. A foto de D. Pedro II, idoso, de barba branca, sentado com calma e sobriedade, transmite a <strong>estabilidade política</strong> do Segundo Reinado. Alternativa <strong>B</strong>.</p>",
+  figs(("q33a", "Pintura “Proclamação da Independência”, de Moreaux: D. Pedro I, a cavalo, ergue o chapéu no meio de uma multidão de homens, mulheres e crianças que acenam e comemoram."),
+       ("q33b", "Fotografia de D. Pedro II idoso, de barba branca e longa, sentado numa cadeira, vestido de terno escuro.")),
+  ["D. Pedro I", "D. Pedro II"],
+  enun="[[fig:1]]" + fonte("MOREAUX, F. R. <em>Proclamação da Independência</em>. Disponível em: www.tvbrasil.org.br. Acesso em: 14 jun. 2010.") + "[[fig:2]]"
+  + fonte("FERREZ, M. <em>D. Pedro II</em>. SCHWARCZ, L. M. <em>As barbas do imperador</em>: D. Pedro II, um monarca nos trópicos. São Paulo: Cia. das Letras, 1998.") + p(T(33, 6)))
+X(34, "Geografia", "Urbanização", "<p>O que dá unidade à urbanização nos três continentes é que ela é recente e muito rápida, puxada pela migração do campo para a cidade, com a formação de enormes aglomerações. A unidade é perceptível no aspecto <strong>demográfico</strong>. Alternativa <strong>C</strong>.</p><p>O texto destaca que os impactos culturais e espaciais são distintos em cada lugar (A e B).</p>",
+  tags=["urbanização", "países subdesenvolvidos"], trocas=[("Fim do século e urbanização no Brasil", "<em>Fim do século e urbanização no Brasil</em>"), ("Revista Ciência Geográfica", "<em>Revista Ciência Geográfica</em>")])
+X(35, "Sociologia", "Política", "<p>O slogan “que não nos representem” rejeita os políticos eleitos, e o pedido de referendo sobre o resgate aos bancos quer que o povo decida diretamente. A reivindicação é por <strong>democracia direta</strong>. Alternativa <strong>B</strong>.</p><p>A Espanha já tem voto universal (A) e vários partidos (C).</p>",
+  tags=["Indignados", "crise de representação"], trocas=[("Brasil de Fato", "<em>Brasil de Fato</em>")])
+X(36, "Filosofia", "Filosofia moderna", "<p>A tradição dizia que o conhecimento se regula pelos objetos; Kant propõe o contrário, que os objetos se regulem pelo nosso conhecimento. São duas posições que <strong>assumem pontos de vista opostos acerca da natureza do conhecimento</strong>. Alternativa <strong>A</strong>.</p><p>Kant adota a segunda posição; ele não recusa as duas (E).</p>",
+  tags=["Kant", "revolução copernicana"], trocas=[("Crítica da razão pura", "<em>Crítica da razão pura</em>")])
+X(37, "Geografia", "Energia", "<p>Na última década, foram construídas grandes hidrelétricas na Amazônia Legal, como Belo Monte (Xingu), Jirau e Santo Antônio (Madeira) e Estreito (Tocantins). Elas inundam áreas, deslocam populações e atingem povos indígenas e ribeirinhos: é a <strong>construção de usinas hidrelétricas sobre os rios Tocantins, Xingu e Madeira</strong>. Alternativa <strong>C</strong>.</p>",
+  tags=["hidrelétricas", "Amazônia"], trocas=[("O Brasil: território e sociedade no início do século XXI", "<em>O Brasil: território e sociedade no início do século XXI</em>")])
+X(38, "História", "Cultura afro-brasileira", "<p>O texto diz que a herança africana deve ser vista em movimento, sem nostalgia, para perceber “o próprio rosto cultural brasileiro”. A capoeira e o candomblé <strong>derivam da interação entre valores africanos e a experiência histórica brasileira</strong>. Alternativa <strong>C</strong>.</p><p>Não são simples reprodução (A), nem perderam o vínculo com o passado (B).</p>",
+  tags=["herança africana", "cultura brasileira"], trocas=[("Cadernos do Arquivo 1", "<em>Cadernos do Arquivo 1</em>")])
+X(39, "História", "República populista", "<p>JK se gaba de que o brasileiro tem carro, asfalto e gasolina nacionais, e o Jeca responde que queria “um prato de feijão brasileiro”. A charge mostra que a industrialização não chegou à mesa dos pobres: <strong>o crescimento econômico implicou aumento das contradições socioespaciais</strong>. Alternativa <strong>C</strong>.</p><p>A charge diz o contrário de B e D: o pobre continua com fome.</p>",
+  figs(("q39", "Charge “Meta de faminto”: diante de cartazes com a palavra “Meta”, Juscelino Kubitschek, de terno, aponta orgulhoso, enquanto um caipira magro e remendado, o Jeca, o olha desconfiado.")),
+  ["Plano de Metas", "desigualdade"],
+  enun="[[fig:1]]" + tit("Meta de Faminto") + ap("JK — Você agora tem automóvel brasileiro, para correr em estradas pavimentadas com asfalto brasileiro, com gazolina brasileira. Que mais quer?<br>JECA — Um prato de feijão brasileiro, seu doutô!")
+  + fonte("THÉO. In: LEMOS, R. (Org.). <em>Uma história do Brasil através da caricatura (1840-2001)</em>. Rio de Janeiro: Bom Texto; Letras &amp; Expressões, 2001.") + p(T(39, 3)))
+X(40, "História", "Brasil Império", "<p>O padre critica a mulher que lê romances, vai ao teatro e passa horas olhando a rua; Macedo compara as janelas com treliças a “gaiolas” onde pais e maridos guardavam filhas e esposas. Nos dois, a mulher deve ficar em casa, sob vigilância masculina: é a <strong>submissão de gênero, apoiada pela concepção patriarcal de família</strong>. Alternativa <strong>A</strong>.</p>",
+  tags=["patriarcalismo", "mulheres no século XIX"], trocas=[("Mulheres, cultura e literatura brasileira", "<em>Mulheres, cultura e literatura brasileira</em>"), ("Memórias da Rua do Ouvidor", "<em>Memórias da Rua do Ouvidor</em>")])
+X(41, "Filosofia", "Filosofia moderna", "<p>Descartes, Bacon e os iluministas viam a ciência como a forma mais segura de saber, capaz de dominar a natureza e melhorar a vida humana. A investigação científica deveria <strong>ser a expressão da razão e servir de modelo para outras áreas do saber que almejam o progresso</strong>. Alternativa <strong>C</strong>.</p><p>Eliminar a ética e a religião (D) não fazia parte desse projeto.</p>",
+  tags=["Iluminismo", "ciência moderna"], trocas=[("Scientiae Studia", "<em>Scientiae Studia</em>")])
+X(42, "Geografia", "Questões ambientais", "<p>O esquema mostra a emissão de dióxido de enxofre e óxidos de nitrogênio, que formam ácidos na atmosfera e voltam como chuva, neve e neblina ácidas, um problema agravado pela queima de carvão e petróleo desde a Revolução Industrial. Entre os efeitos aparecem os danos à vegetação: a consequência direta é a <strong>redução da flora</strong>. Alternativa <strong>A</strong>.</p><p>A elevação das marés (B) está ligada ao aquecimento global, e não à chuva ácida.</p>",
+  figs(("q42", "Esquema da chuva ácida: uma indústria emite dióxido de enxofre e óxido de azoto, que sobem, viram ácido sulfúrico (H2SO4) e ácido nítrico (HNO3) com o vapor-d’água das nuvens, e voltam como chuva ácida, neve ácida, neblina ácida e precipitação seca. Embaixo aparecem o desaparecimento da vida aquática num lago, a lixiviação ácida e o alumínio tóxico no solo, e danos na vegetação, com folhas manchadas.")),
+  ["chuva ácida", "poluição atmosférica"], enun="[[fig:1]]" + fonte(T(42, 2)) + p(T(42, 1)))
+X(43, "Geografia", "Energia", "<p>A notícia fala de turbinas para um complexo de energia eólica, gerada pelos ventos, uma fonte que não se esgota. A opção resulta na <strong>expansão das fontes renováveis</strong> na matriz elétrica brasileira. Alternativa <strong>C</strong>.</p><p>Bioenergia (B) vem da biomassa, e geotermia (E) do calor da Terra.</p>",
+  tags=["energia eólica", "matriz energética"], trocas=[("Folha de S. Paulo", "<em>Folha de S. Paulo</em>")])
+X(44, "História", "Segundo Reinado", "<p>Nabuco rejeita a guerra servil, as insurreições e a guerra civil e diz que “é no Parlamento” que se há de ganhar a causa da liberdade. Ele <strong>optava pela via legalista de libertação</strong>, por meio de leis. Alternativa <strong>C</strong>.</p><p>O modelo haitiano (A) foi uma revolução de escravizados, o oposto do que ele defende.</p>",
+  tags=["abolicionismo", "Joaquim Nabuco"], trocas=[("O abolicionismo", "<em>O abolicionismo</em>")])
+X(45, "Sociologia", "Cidadania", "<p>O autor viu os gays passarem da ilegalidade e da exclusão do serviço público ao reconhecimento de seus direitos. Isso só foi possível com a <strong>ampliação da noção de cidadania</strong>, estendendo direitos a grupos antes excluídos. Alternativa <strong>A</strong>.</p><p>A mudança enfrentou, e não manteve (C), as ideologias conservadoras.</p>",
+  tags=["direitos LGBT", "cidadania"], trocas=[("Na máquina do tempo", "<em>Na máquina do tempo</em>"), ("Época", "<em>Época</em>")])
+
+completar(Q, R)

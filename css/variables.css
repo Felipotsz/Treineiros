@@ -1,0 +1,106 @@
+/* Treineiros: tokens de design. Para mudar cores, tipos ou espaços, mexa SÓ neste arquivo.
+   Identidade: dark academia em tons de mar (paleta "Yín Bái Silver / Creeping Death", palettepoint.com).
+   De dia, papel cinza-prata e tinta azul-petróleo; à noite, a biblioteca do farol, no azul quase preto.
+   O único tom quente é o latão (--ouro), em filetes, foco do teclado e na pena do logo: é ele que mantém o
+   ar acolhedor. Para tirar, troque --ouro e --logo-pena por #67807D (Dark Lagoon).
+   Paleta-base: #E0E1E3 Yín Bái Silver · #06191F Creeping Death · #05333A Artist Blue · #09565D Deep Sea Green
+                #B5BABD Let It Rain · #67807D Dark Lagoon.
+   O sistema de acessibilidade que vier depois deve trocar estas variáveis. */
+
+/* Fontes no próprio site (assets/fonts, licença SIL OFL) */
+@font-face{font-family:"Playfair Display";font-weight:700;font-display:swap;src:url("../assets/fonts/playfair-display-700.woff2") format("woff2")}
+@font-face{font-family:"Playfair Display";font-weight:800;font-display:swap;src:url("../assets/fonts/playfair-display-800.woff2") format("woff2")}
+@font-face{font-family:"Playfair Display";font-weight:400;font-style:italic;font-display:swap;src:url("../assets/fonts/playfair-display-400-italic.woff2") format("woff2")}
+@font-face{font-family:"Playfair Display";font-weight:700;font-style:italic;font-display:swap;src:url("../assets/fonts/playfair-display-700-italic.woff2") format("woff2")}
+@font-face{font-family:"Source Serif 4";font-weight:400;font-display:swap;src:url("../assets/fonts/source-serif-4-400.woff2") format("woff2")}
+@font-face{font-family:"Source Serif 4";font-weight:400;font-style:italic;font-display:swap;src:url("../assets/fonts/source-serif-4-400-italic.woff2") format("woff2")}
+@font-face{font-family:"Source Serif 4";font-weight:600;font-display:swap;src:url("../assets/fonts/source-serif-4-600.woff2") format("woff2")}
+@font-face{font-family:"Source Serif 4";font-weight:700;font-display:swap;src:url("../assets/fonts/source-serif-4-700.woff2") format("woff2")}
+@font-face{font-family:"Cedarville Cursive";font-weight:400;font-display:swap;src:url("../assets/fonts/cedarville-cursive-400.woff2") format("woff2")}
+
+:root, [data-theme="light"] {               /* papel prata, tinta azul-petróleo */
+  --bg:#E0E1E3;           /* Yín Bái Silver: a mesa */
+  --surface:#F1F2F2;      /* folha */
+  --surface-2:#D5D9DA;    /* folha sombreada */
+  --text:#06191F;         /* Creeping Death: tinta */
+  --text-muted:#3B5156;
+  --line:#B5BABD;         /* Let It Rain: divisões */
+  --line-forte:#627A77;   /* Dark Lagoon (um pouco mais escuro): contornos de campos e bolhas, 3:1 */
+  --caneta:#09565D;       /* Deep Sea Green: ações, links, resposta marcada */
+  --caneta-clara:#CFE1E0; /* fundo de algo marcado */
+  --tinta:#05333A;        /* Artist Blue: preenchimento de botões e bolhas */
+  --sobre-tinta:#E0E1E3;  /* texto sobre a tinta */
+  --margem:#09565D;       /* correção, ETEC */
+  --ouro:#735826;         /* latão: foco do teclado, rótulos, Enem (escurecido para 4,5:1 sobre a mesa) */
+  --verde:#4A6360;        /* Dark Lagoon escuro: FATEC */
+  --ok:#2C6446; --ok-claro:#D5E6DB;
+  --bad:#9B3527; --bad-claro:#F1D9D3;
+  --faixa:#05333A;        /* faixa escura "Leia o texto..." */
+  --sobre-escuro:#E0E1E3;
+  --folha:#F7F8F8;        /* cartões e painéis: a folha mais clara, sobre a mesa */
+  --folha-campo:#FFFFFF;  /* fundo dos campos: o papel mais claro */
+  --seta-lista:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2305333A' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  --visto:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23E0E1E3' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5'/%3E%3C/svg%3E");
+  --visto-escuro:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2305333A' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5'/%3E%3C/svg%3E");
+  --sombra:0 1px 0 rgba(6,25,31,.05),0 12px 30px -22px rgba(6,25,31,.42);
+  --sombra-alta:0 24px 44px -24px rgba(6,25,31,.5);
+  --banda:#05333A; --folha-banda:#F7F8F8; --sobre-banda:#E0E1E3; --banda-mudo:#B5BABD; --banda-destaque:#8CC3BF; --banda-ouro:#C9A86A;
+  --base-rodape:#06191F; --linha-rodape:#1C3D44;
+  --cabeca:rgba(241,242,242,.9);
+  --brilho:transparent;   /* luz do farol no topo (só à noite) */
+  --logo-tinta:#09565D; --logo-pena:#7F622C;
+  --accent:var(--caneta); --on-accent:var(--sobre-tinta);   /* nomes antigos, ainda usados em alguns lugares */
+  --wood:var(--line-forte); --gold:var(--ouro); --oxblood:var(--tinta);
+}
+[data-theme="dark"] {                       /* a biblioteca do farol, à noite */
+  --bg:#06191F;           /* Creeping Death */
+  --surface:#0B252C;
+  --surface-2:#0E3239;    /* perto de Artist Blue */
+  --text:#E0E1E3;
+  --text-muted:#B5BABD;
+  --line:#1C3D44;
+  --line-forte:#67807D;   /* Dark Lagoon */
+  --caneta:#8CC3BF;       /* Deep Sea Green clareado: à noite, o destaque é a luz do farol na água */
+  --caneta-clara:#0F3F45;
+  --tinta:#09565D;        /* botões: Deep Sea Green */
+  --sobre-tinta:#E0E1E3;
+  --margem:#8CC3BF;
+  --ouro:#C9A86A;
+  --verde:#A9C2BF;
+  --ok:#8FC79F; --ok-claro:#173A2B;
+  --bad:#EBA394; --bad-claro:#43221D;
+  --faixa:#03100F;
+  --sobre-escuro:#06191F;
+  --folha:#0F2F36;
+  --folha-campo:#0B252C;
+  --seta-lista:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23E0E1E3' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  --visto:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23E0E1E3' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5'/%3E%3C/svg%3E");
+  --visto-escuro:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2305333A' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5'/%3E%3C/svg%3E");
+  --sombra:0 1px 0 rgba(0,0,0,.3),0 14px 30px -18px rgba(0,0,0,.75);
+  --sombra-alta:0 26px 46px -24px rgba(0,0,0,.85);
+  --banda:#0A3239; --folha-banda:#134049; --sobre-banda:#E0E1E3; --banda-mudo:#B5BABD; --banda-destaque:#8CC3BF; --banda-ouro:#C9A86A;
+  --base-rodape:#03100F; --linha-rodape:#173338;
+  --cabeca:rgba(6,25,31,.88);
+  --brilho:rgba(140,195,191,.10);
+  --logo-tinta:#5FA8A2; --logo-pena:#C9A86A;
+  --accent:var(--caneta); --on-accent:var(--sobre-escuro);
+  --wood:var(--line-forte); --gold:var(--ouro); --oxblood:var(--tinta);
+}
+[data-theme="dark"] .chamada{--sobre-escuro:#E0E1E3}
+
+:root {
+  /* tipos: Playfair Display (títulos), Source Serif 4 (leitura e interface, com versaletes nos rótulos),
+     Cedarville Cursive (anotações à mão: correção comentada, rascunho) */
+  --font-title:"Playfair Display","Cormorant Garamond",Georgia,serif;
+  --font-body:"Source Serif 4",Georgia,serif;
+  --font-ui:"Source Serif 4",Georgia,serif;
+  --font-hand:"Cedarville Cursive","Segoe Script",cursive;
+  --fs-base:1.0625rem; --lh:1.7;
+  /* escala tipográfica (razão 1,25) */
+  --fs-1:.875rem; --fs-2:1rem; --fs-3:1.25rem; --fs-4:1.5625rem; --fs-5:1.953rem; --fs-6:2.441rem;
+  --s1:.25rem; --s2:.5rem; --s3:1rem; --s4:1.5rem; --s5:2.5rem; --s6:4rem;
+  --radius:12px; --radius-caixa:18px; --pilula:999px; --measure:65ch; --wrap:70rem;
+  --shadow:var(--sombra);
+  --qr-fundo:#FFFFFF; --qr-tinta:#000000;    /* QR code precisa de contraste máximo nos dois temas */
+}
+@media (min-width:48rem){ :root{ --fs-base:1.125rem; } }

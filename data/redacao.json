@@ -1,0 +1,700 @@
+{
+ "temas": [
+  {
+   "banca": "Enem",
+   "ano": 2026,
+   "tema": "A valorização do Sistema Único de Saúde (SUS) como direito universal"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2025,
+   "tema": "Perspectivas acerca do envelhecimento na sociedade brasileira"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2024,
+   "tema": "Desafios para a valorização da herança africana no Brasil"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2023,
+   "tema": "Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2022,
+   "tema": "Desafios para a valorização de comunidades e povos tradicionais no Brasil"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2021,
+   "tema": "Invisibilidade e registro civil: garantia de acesso à cidadania no Brasil"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2020,
+   "tema": "O estigma associado às doenças mentais na sociedade brasileira"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2019,
+   "tema": "Democratização do acesso ao cinema no Brasil"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2018,
+   "tema": "Manipulação do comportamento do usuário pelo controle de dados na internet"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2017,
+   "tema": "Desafios para a formação educacional de surdos no Brasil"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2016,
+   "tema": "Caminhos para combater a intolerância religiosa no Brasil"
+  },
+  {
+   "banca": "Enem",
+   "ano": 2015,
+   "tema": "A persistência da violência contra a mulher na sociedade brasileira"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2026,
+   "semestre": 2,
+   "provaId": "fatec-2026-2sem",
+   "tema": "Qual deve ser o papel do futebol no enfrentamento dos preconceitos sociais?",
+   "generos": "texto narrativo ou dissertativo-argumentativo",
+   "coletanea": [
+    "Texto I: imagem (charge/cartaz)",
+    "Texto II: 133 casos de discriminação no futebol em 2019 (machistas, LGBT-fóbicos, xenófobos); poucos julgados e punidos",
+    "Texto III: a Democracia Corinthiana (1981-1984), Sócrates e o futebol como palco de protestos"
+   ]
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2026,
+   "semestre": 1,
+   "provaId": "fatec-2026-1sem",
+   "tema": "Como utilizar a tecnologia para combater a desinformação e disseminar o conhecimento científico?",
+   "generos": "texto narrativo ou dissertativo-argumentativo",
+   "coletanea": [
+    "Texto I: charge “O inferno do cientista” (alguém que leu algo na internet passa a eternidade dando aulas a uma professora sobre a área dela)",
+    "Texto II: pesquisa Truth Quest (OCDE): o Brasil é o país que mais se informa e mais confia nas redes sociais, e quem mais confia nelas erra mais ao identificar fake news",
+    "Texto III: pesquisadores usam as redes sociais para divulgar ciência; combater notícias falsas exige investir em educação"
+   ]
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2025,
+   "semestre": 2,
+   "provaId": "fatec-2025-2sem",
+   "tema": "Como a tecnologia pode afetar o desenvolvimento de uma economia sustentável?",
+   "generos": "texto narrativo ou dissertativo-argumentativo",
+   "coletanea": [
+    "Texto I: tecnologia sustentável ou ecológica facilita a vida e causa menos impactos (monitoramento da biodiversidade, controle de poluição, satélites)",
+    "Texto II: impactos negativos da tecnologia: emissões de gases de efeito estufa, esgotamento de recursos naturais e resíduos eletrônicos",
+    "Texto III: charge de pessoas num lixão de aparelhos eletrônicos diante de um outdoor de “novo celular”"
+   ]
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2024,
+   "semestre": 2,
+   "provaId": "fatec-2024-2sem",
+   "tema": "Como superar a permanente exploração da América Latina?",
+   "generos": "texto narrativo ou dissertativo-argumentativo",
+   "coletanea": [
+    "Texto I: imagem com os contornos da América do Sul e da África sendo esvaziados de suas riquezas",
+    "Texto II: trecho de As veias abertas da América Latina (Eduardo Galeano): a região se especializou em perder desde o Renascimento e continua trabalhando como serviçal"
+   ]
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2024,
+   "semestre": 1,
+   "provaId": "fatec-2024-1sem",
+   "tema": "A importância da representatividade na Arte para a sociedade.",
+   "generos": "texto narrativo ou dissertativo-argumentativo",
+   "coletanea": [
+    "Texto I: a representatividade constrói a subjetividade e a identidade de grupos: uma mulher no cargo mais alto do governo mostra a outras que podem chegar lá; atrizes negras sempre em papéis subalternos reforçam um lugar social"
+   ]
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2023,
+   "semestre": 2,
+   "provaId": "fatec-2023-2sem",
+   "tema": "Como combater a insegurança alimentar no Brasil?",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2023,
+   "semestre": 1,
+   "provaId": "fatec-2023-1sem",
+   "tema": "Como se preparar para o mercado de trabalho diante dos avanços tecnológicos da 4ª Revolução Industrial?",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2022,
+   "semestre": 2,
+   "provaId": "fatec-2022-2sem",
+   "tema": "Desigualdade de gênero e mercado de trabalho no Brasil contemporâneo",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2020,
+   "semestre": 1,
+   "provaId": "fatec-2020-1sem",
+   "tema": "Empreendedorismo na sociedade brasileira do século XXI",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2019,
+   "semestre": 2,
+   "provaId": "fatec-2019-2sem",
+   "tema": "Tecnologia e informação: como transformar opinião em conhecimento?",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2019,
+   "semestre": 1,
+   "provaId": "fatec-2019-1sem",
+   "tema": "Qual o papel da escola na formação do jovem para o mercado de trabalho do século XXI?",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2018,
+   "semestre": 2,
+   "provaId": "fatec-2018-2sem",
+   "tema": "O jeitinho brasileiro é uma forma de resiliência ou falta de honestidade?",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2018,
+   "semestre": 1,
+   "provaId": "fatec-2018-1sem",
+   "tema": "O emprego perfeito: realidade ou ficção?",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2017,
+   "semestre": 2,
+   "provaId": "fatec-2017-2sem",
+   "tema": "Impactos da imigração no mercado de trabalho.",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  },
+  {
+   "banca": "FATEC",
+   "ano": 2017,
+   "semestre": 1,
+   "provaId": "fatec-2017-1sem",
+   "tema": "Perspectivas de igualdade entre mulheres e homens no mundo do trabalho.",
+   "generos": "texto narrativo ou dissertativo-argumentativo"
+  }
+ ],
+ "competencias": [
+  {
+   "n": 1,
+   "titulo": "Norma culta",
+   "descricao": "Domínio da modalidade escrita formal da língua portuguesa: ortografia, acentuação, concordância, regência, pontuação."
+  },
+  {
+   "n": 2,
+   "titulo": "Tema e tipo de texto",
+   "descricao": "Compreender a proposta e desenvolver o tema em texto dissertativo-argumentativo, com repertório de várias áreas do conhecimento."
+  },
+  {
+   "n": 3,
+   "titulo": "Argumentação",
+   "descricao": "Selecionar, relacionar, organizar e interpretar informações, fatos e opiniões em defesa de um ponto de vista."
+  },
+  {
+   "n": 4,
+   "titulo": "Coesão",
+   "descricao": "Usar os mecanismos linguísticos (conectivos, retomadas) para encadear frases e parágrafos."
+  },
+  {
+   "n": 5,
+   "titulo": "Proposta de intervenção",
+   "descricao": "Propor uma solução para o problema, respeitando os direitos humanos, com agente, ação, meio, finalidade e detalhamento."
+  }
+ ],
+ "niveis": [
+  {
+   "pontos": 0,
+   "rotulo": "não atende"
+  },
+  {
+   "pontos": 40,
+   "rotulo": "precário"
+  },
+  {
+   "pontos": 80,
+   "rotulo": "insuficiente"
+  },
+  {
+   "pontos": 120,
+   "rotulo": "mediano"
+  },
+  {
+   "pontos": 160,
+   "rotulo": "bom"
+  },
+  {
+   "pontos": 200,
+   "rotulo": "excelente"
+  }
+ ],
+ "orientacoesFatec": [
+  "Atribua um título para sua redação.",
+  "Não a redija em versos.",
+  "Organize-a em parágrafos.",
+  "Empregue apenas a norma culta da língua portuguesa.",
+  "Não copie os textos da coletânea e da prova.",
+  "Narração: explore fato(s), personagem(ns), tempo e lugar.",
+  "Dissertação: selecione, organize e relacione argumentos, fatos e opiniões para sustentar seu ponto de vista."
+ ],
+ "temasExtras": [
+  {
+   "id": "x01",
+   "eixo": "Saúde",
+   "tema": "Caminhos para enfrentar a solidão em uma sociedade conectada",
+   "pontos": [
+    "Muitos contatos nas redes e poucas conversas de verdade",
+    "Idosos e jovens como grupos mais afetados",
+    "Espaços de convivência no bairro, na escola e no trabalho"
+   ]
+  },
+  {
+   "id": "x02",
+   "eixo": "Saúde",
+   "tema": "Caminhos para combater a desinformação sobre vacinas no Brasil",
+   "pontos": [
+    "A queda da cobertura vacinal de doenças que já estavam controladas",
+    "Boatos que circulam em grupos de mensagens",
+    "O papel dos agentes comunitários de saúde e da escola"
+   ]
+  },
+  {
+   "id": "x03",
+   "eixo": "Saúde",
+   "tema": "O desafio da alimentação saudável nas periferias urbanas",
+   "pontos": [
+    "Bairros com muita oferta de ultraprocessados e pouca de alimentos frescos",
+    "Preço e tempo de preparo como barreiras",
+    "Hortas comunitárias, feiras e merenda escolar"
+   ]
+  },
+  {
+   "id": "x04",
+   "eixo": "Saúde",
+   "tema": "Os impactos do uso excessivo de telas na infância",
+   "pontos": [
+    "Sono, atenção e desenvolvimento da linguagem",
+    "Telas como substituto do brincar e da convivência",
+    "Responsabilidade das famílias, das escolas e das plataformas"
+   ]
+  },
+  {
+   "id": "x05",
+   "eixo": "Saúde",
+   "tema": "Caminhos para garantir o acesso de pessoas com deficiência aos serviços de saúde",
+   "pontos": [
+    "Barreiras físicas e de comunicação nos atendimentos",
+    "A falta de intérpretes de Libras",
+    "Autonomia e direito à informação sobre o próprio corpo"
+   ]
+  },
+  {
+   "id": "x06",
+   "eixo": "Educação",
+   "tema": "Desafios para a permanência de jovens no ensino médio",
+   "pontos": [
+    "A necessidade de trabalhar para ajudar a família",
+    "Uma escola que parece distante da vida e dos planos do estudante",
+    "Programas de apoio financeiro e de orientação profissional"
+   ]
+  },
+  {
+   "id": "x07",
+   "eixo": "Educação",
+   "tema": "A importância da educação financeira na formação dos jovens brasileiros",
+   "pontos": [
+    "O endividamento das famílias e o crédito fácil",
+    "Apostas on-line como promessa de dinheiro rápido",
+    "Planejamento, consumo consciente e direitos do consumidor"
+   ]
+  },
+  {
+   "id": "x08",
+   "eixo": "Educação",
+   "tema": "O papel da leitura na formação crítica do cidadão",
+   "pontos": [
+    "Bibliotecas públicas e escolares fechadas ou sem acervo",
+    "A leitura fragmentada nas telas",
+    "Clubes de leitura, saraus e literatura periférica"
+   ]
+  },
+  {
+   "id": "x09",
+   "eixo": "Educação",
+   "tema": "Caminhos para a inclusão digital de estudantes da rede pública",
+   "pontos": [
+    "Celular com pacote de dados contado como único acesso à internet",
+    "Saber usar redes sociais não é o mesmo que saber estudar on-line",
+    "Conectividade nas escolas e formação de professores"
+   ]
+  },
+  {
+   "id": "x10",
+   "eixo": "Educação",
+   "tema": "Desafios para a valorização da profissão docente no Brasil",
+   "pontos": [
+    "Salários, jornadas longas e turmas cheias",
+    "A procura em queda pelos cursos de licenciatura",
+    "Violência e desrespeito no ambiente escolar"
+   ]
+  },
+  {
+   "id": "x11",
+   "eixo": "Educação",
+   "tema": "A educação profissional como caminho para a autonomia dos jovens",
+   "pontos": [
+    "Cursos técnicos ligados às vocações de cada região",
+    "A falta de vagas gratuitas perto de casa",
+    "O preconceito com o ensino técnico em relação à faculdade"
+   ]
+  },
+  {
+   "id": "x12",
+   "eixo": "Tecnologia",
+   "tema": "Os desafios éticos do uso da inteligência artificial no cotidiano",
+   "pontos": [
+    "Decisões automatizadas sobre crédito, emprego e segurança",
+    "Textos, imagens e vozes falsos que parecem reais",
+    "Transparência e responsabilidade de quem cria e de quem usa"
+   ]
+  },
+  {
+   "id": "x13",
+   "eixo": "Tecnologia",
+   "tema": "Caminhos para proteger a privacidade dos dados pessoais na era digital",
+   "pontos": [
+    "Aplicativos que coletam mais dados do que precisam",
+    "Golpes que usam informações vazadas",
+    "Direitos garantidos por lei e pouco conhecidos"
+   ]
+  },
+  {
+   "id": "x14",
+   "eixo": "Tecnologia",
+   "tema": "O combate aos golpes digitais contra idosos no Brasil",
+   "pontos": [
+    "Mensagens falsas de bancos, parentes e órgãos públicos",
+    "A vergonha que faz a vítima não denunciar",
+    "O papel da família, dos bancos e das campanhas de informação"
+   ]
+  },
+  {
+   "id": "x15",
+   "eixo": "Tecnologia",
+   "tema": "Os impactos das apostas on-line na vida dos brasileiros",
+   "pontos": [
+    "Propaganda com celebridades e influenciadores",
+    "Endividamento e adoecimento das famílias",
+    "Regulação, publicidade e proteção de jovens"
+   ]
+  },
+  {
+   "id": "x16",
+   "eixo": "Tecnologia",
+   "tema": "Desafios para a regulação das redes sociais no Brasil",
+   "pontos": [
+    "Discurso de ódio e desinformação que se espalham mais rápido que a verdade",
+    "Liberdade de expressão e responsabilidade das plataformas",
+    "Algoritmos que decidem o que cada pessoa vê"
+   ]
+  },
+  {
+   "id": "x17",
+   "eixo": "Tecnologia",
+   "tema": "O trabalho por aplicativos e a garantia de direitos trabalhistas",
+   "pontos": [
+    "Jornadas longas e renda incerta",
+    "A falta de proteção em caso de acidente ou doença",
+    "Autonomia de horários e dependência do algoritmo"
+   ]
+  },
+  {
+   "id": "x18",
+   "eixo": "Meio ambiente",
+   "tema": "Caminhos para enfrentar as ondas de calor nas cidades brasileiras",
+   "pontos": [
+    "Bairros sem árvores e com muito asfalto",
+    "Quem mais sofre: idosos, crianças e trabalhadores ao ar livre",
+    "Arborização, planejamento urbano e alertas à população"
+   ]
+  },
+  {
+   "id": "x19",
+   "eixo": "Meio ambiente",
+   "tema": "Desafios para a gestão do lixo eletrônico no Brasil",
+   "pontos": [
+    "Celulares e baterias descartados no lixo comum",
+    "Metais pesados e contaminação do solo e da água",
+    "Logística reversa e responsabilidade dos fabricantes"
+   ]
+  },
+  {
+   "id": "x20",
+   "eixo": "Meio ambiente",
+   "tema": "A preservação da Amazônia como compromisso nacional",
+   "pontos": [
+    "Desmatamento, garimpo ilegal e queimadas",
+    "Os povos da floresta como guardiões do território",
+    "Desenvolvimento econômico que mantém a floresta em pé"
+   ]
+  },
+  {
+   "id": "x21",
+   "eixo": "Meio ambiente",
+   "tema": "Os desafios do acesso à água potável e ao saneamento básico no Brasil",
+   "pontos": [
+    "Esgoto a céu aberto e doenças evitáveis",
+    "Desigualdade entre regiões e entre bairros",
+    "Investimento público, fiscalização e participação social"
+   ]
+  },
+  {
+   "id": "x22",
+   "eixo": "Meio ambiente",
+   "tema": "Caminhos para reduzir o desperdício de alimentos no Brasil",
+   "pontos": [
+    "Perdas na colheita, no transporte e no varejo",
+    "Fome e desperdício convivendo no mesmo país",
+    "Doação de alimentos, aproveitamento integral e educação"
+   ]
+  },
+  {
+   "id": "x23",
+   "eixo": "Meio ambiente",
+   "tema": "Os impactos dos eventos climáticos extremos sobre as populações vulneráveis",
+   "pontos": [
+    "Enchentes e deslizamentos em áreas de risco",
+    "Moradia precária e falta de alternativa",
+    "Prevenção, defesa civil e reconstrução das cidades"
+   ]
+  },
+  {
+   "id": "x24",
+   "eixo": "Cidadania",
+   "tema": "Desafios para o combate ao racismo no ambiente de trabalho",
+   "pontos": [
+    "Diferenças de salário e de acesso a cargos de liderança",
+    "Piadas e situações tratadas como “brincadeira”",
+    "Ações afirmativas, denúncia e formação nas empresas"
+   ]
+  },
+  {
+   "id": "x25",
+   "eixo": "Cidadania",
+   "tema": "Caminhos para combater o assédio nos espaços públicos",
+   "pontos": [
+    "Ônibus, trens e ruas como lugares de medo",
+    "A naturalização de comentários e abordagens",
+    "Denúncia, campanhas e desenho de cidades mais seguras"
+   ]
+  },
+  {
+   "id": "x26",
+   "eixo": "Cidadania",
+   "tema": "A participação dos jovens na vida política do país",
+   "pontos": [
+    "Desinteresse e desconfiança nas instituições",
+    "Grêmios estudantis, conselhos e coletivos",
+    "Informação de qualidade e voto consciente"
+   ]
+  },
+  {
+   "id": "x27",
+   "eixo": "Cidadania",
+   "tema": "Os desafios da população em situação de rua nas grandes cidades",
+   "pontos": [
+    "Causas que vão do desemprego ao rompimento de vínculos familiares",
+    "Invisibilidade e violência nas ruas",
+    "Moradia primeiro, saúde e trabalho como caminhos de saída"
+   ]
+  },
+  {
+   "id": "x28",
+   "eixo": "Cidadania",
+   "tema": "Caminhos para garantir a acessibilidade nas cidades brasileiras",
+   "pontos": [
+    "Calçadas, transporte e prédios que excluem",
+    "Acessibilidade também na comunicação e na internet",
+    "Leis que existem e nem sempre são cumpridas"
+   ]
+  },
+  {
+   "id": "x29",
+   "eixo": "Cidadania",
+   "tema": "O combate ao trabalho infantil no Brasil",
+   "pontos": [
+    "Trabalho doméstico e no campo, muitas vezes invisível",
+    "Pobreza como causa e como consequência",
+    "Escola em tempo integral e proteção às famílias"
+   ]
+  },
+  {
+   "id": "x30",
+   "eixo": "Cidadania",
+   "tema": "Desafios para a integração de imigrantes e refugiados no Brasil",
+   "pontos": [
+    "Barreiras de idioma, documentos e diplomas",
+    "Xenofobia e exploração no trabalho",
+    "A diversidade cultural como riqueza do país"
+   ]
+  },
+  {
+   "id": "x31",
+   "eixo": "Saúde",
+   "tema": "Desafios para ampliar a doação de sangue e de órgãos no Brasil",
+   "pontos": [
+    "Estoques baixos nos feriados e nas férias",
+    "Mitos e desinformação sobre a doação",
+    "A conversa com a família como passo decisivo"
+   ]
+  },
+  {
+   "id": "x32",
+   "eixo": "Cultura",
+   "tema": "A valorização da cultura popular brasileira na era do streaming",
+   "pontos": [
+    "Festas, ritmos e saberes regionais",
+    "Algoritmos que favorecem sempre os mesmos artistas",
+    "Políticas culturais e espaços de apresentação nas cidades"
+   ]
+  },
+  {
+   "id": "x33",
+   "eixo": "Cultura",
+   "tema": "Caminhos para democratizar o acesso ao esporte no Brasil",
+   "pontos": [
+    "Quadras e praças abandonadas nas periferias",
+    "O esporte como saúde, convivência e oportunidade",
+    "Desigualdade de investimento entre modalidades e entre gêneros"
+   ]
+  },
+  {
+   "id": "x34",
+   "eixo": "Cultura",
+   "tema": "A preservação das línguas indígenas como patrimônio do Brasil",
+   "pontos": [
+    "Línguas que desaparecem quando os mais velhos se vão",
+    "Escolas indígenas bilíngues",
+    "Tecnologia como aliada no registro das línguas"
+   ]
+  },
+  {
+   "id": "x35",
+   "eixo": "Cultura",
+   "tema": "O papel dos museus e do patrimônio histórico na construção da memória nacional",
+   "pontos": [
+    "Incêndios e abandono de acervos",
+    "Museus distantes do público jovem",
+    "Memória das periferias e dos povos que formaram o país"
+   ]
+  },
+  {
+   "id": "x36",
+   "eixo": "Trabalho",
+   "tema": "Desafios para a inserção dos jovens no mercado de trabalho",
+   "pontos": [
+    "Vagas que pedem experiência de quem ainda não teve o primeiro emprego",
+    "Estágio e aprendizagem como porta de entrada",
+    "Informalidade e falta de direitos"
+   ]
+  },
+  {
+   "id": "x37",
+   "eixo": "Trabalho",
+   "tema": "Os impactos da automação sobre o emprego no Brasil",
+   "pontos": [
+    "Funções que deixam de existir e outras que surgem",
+    "Requalificação de quem perde o emprego",
+    "Quem ganha e quem perde com a tecnologia"
+   ]
+  },
+  {
+   "id": "x38",
+   "eixo": "Trabalho",
+   "tema": "Caminhos para valorizar o trabalho doméstico remunerado no Brasil",
+   "pontos": [
+    "Uma profissão marcada pela herança da escravidão",
+    "Direitos garantidos e informalidade persistente",
+    "Respeito, jornada e segurança no trabalho"
+   ]
+  },
+  {
+   "id": "x39",
+   "eixo": "Segurança",
+   "tema": "Desafios para a segurança no trânsito das cidades brasileiras",
+   "pontos": [
+    "Motociclistas, ciclistas e pedestres como as maiores vítimas",
+    "Velocidade, álcool e celular ao volante",
+    "Educação, fiscalização e desenho das ruas"
+   ]
+  },
+  {
+   "id": "x40",
+   "eixo": "Segurança",
+   "tema": "O combate ao bullying e ao cyberbullying nas escolas",
+   "pontos": [
+    "Agressões que continuam no celular depois da aula",
+    "Silêncio de quem vê e não sabe como agir",
+    "Escuta, mediação e responsabilidade da escola"
+   ]
+  },
+  {
+   "id": "x41",
+   "eixo": "Desigualdade",
+   "tema": "Os desafios da mobilidade urbana para os trabalhadores das periferias",
+   "pontos": [
+    "Horas por dia dentro de ônibus e trens lotados",
+    "Tarifa que pesa no orçamento",
+    "Planejamento que leva emprego e serviços para perto das casas"
+   ]
+  },
+  {
+   "id": "x42",
+   "eixo": "Desigualdade",
+   "tema": "Caminhos para combater a insegurança alimentar no Brasil",
+   "pontos": [
+    "Fome em um dos maiores produtores de alimentos do mundo",
+    "Renda, emprego e preço da comida",
+    "Restaurantes populares, merenda e agricultura familiar"
+   ]
+  },
+  {
+   "id": "x43",
+   "eixo": "Desigualdade",
+   "tema": "O desafio da moradia digna nas cidades brasileiras",
+   "pontos": [
+    "Aluguel que consome boa parte da renda",
+    "Imóveis vazios e famílias sem casa",
+    "Habitação social e regularização fundiária"
+   ]
+  }
+ ]
+}

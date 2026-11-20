@@ -1,0 +1,1226 @@
+{
+ "id": "enem-2010-natureza",
+ "banca": "Enem",
+ "ano": 2010,
+ "titulo": "Enem 2010: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2010-11-06",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p>A vacina, o soro e os antibióticos submetem os organismos a processos biológicos diferentes. Pessoas que viajam para regiões em que ocorrem altas incidências de febre amarela, de picadas de cobras peçonhentas e de leptospirose e querem evitar ou tratar problemas de saúde relacionados a essas ocorrências devem seguir determinadas orientações.</p><p>Ao procurar um posto de saúde, um viajante deveria ser orientado por um médico a tomar preventivamente ou como medida de tratamento</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "antibiótico contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e vacina contra a leptospirose.",
+    "B": "vacina contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e antibiótico caso entre em contato com a <em>Leptospira</em> sp.",
+    "C": "soro contra o vírus da febre amarela, antibiótico caso seja picado por uma cobra e soro contra toxinas bacterianas.",
+    "D": "antibiótico ou soro, tanto contra o vírus da febre amarela como para veneno de cobras, e vacina contra a leptospirose.",
+    "E": "soro antiofídico e antibiótico contra a <em>Leptospira</em> sp e vacina contra a febre amarela caso entre em contato com o vírus causador da doença."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A febre amarela se previne com vacina, que faz o corpo produzir anticorpos e memória antes da viagem. Contra o veneno de cobra, que age rápido, usa-se o soro antiofídico, com anticorpos prontos. A leptospirose é causada por uma bactéria e se trata com antibiótico. A resposta é <strong>vacina contra a febre amarela, soro antiofídico se for picado e antibiótico em caso de contato com a <em>Leptospira</em></strong>. Alternativa <strong>B</strong>.</p><p>Antibióticos não agem contra vírus (A e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vacina e soro",
+    "antibióticos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p>As ondas eletromagnéticas, como a luz visível e as ondas de rádio, viajam em linha reta em um meio homogêneo. Então, as ondas de rádio emitidas na região litorânea do Brasil não alcançariam a região amazônica do Brasil por causa da curvatura da Terra. Entretanto sabemos que é possível transmitir ondas de rádio entre essas localidades devido à ionosfera.</p><p>Com a ajuda da ionosfera, a transmissão de ondas planas entre o litoral do Brasil e a região amazônica é possível por meio da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reflexão.",
+    "B": "refração.",
+    "C": "difração.",
+    "D": "polarização.",
+    "E": "interferência."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A ionosfera funciona como um espelho para as ondas de rádio de certas frequências: elas sobem, batem nessa camada e voltam para a Terra, alcançando lugares atrás da curvatura do planeta. O fenômeno é a <strong>reflexão</strong>. Alternativa <strong>A</strong>.</p><p>Na refração (B) a onda atravessa o meio e muda de direção, mas o que permite o retorno à superfície é a reflexão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ionosfera",
+    "ondas de rádio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>Todo carro possui uma caixa de fusíveis, que são utilizados para proteção dos circuitos elétricos. Os fusíveis são constituídos de um material de baixo ponto de fusão, como o estanho, por exemplo, e se fundem quando percorridos por uma corrente elétrica igual ou maior do que aquela que são capazes de suportar. O quadro a seguir mostra uma série de fusíveis e os valores de corrente por eles suportados.</p><table class=\"tabela\"><thead><tr><th>Fusível</th><th>Corrente Elétrica (A)</th></tr></thead><tbody><tr><td>Azul</td><td>1,5</td></tr><tr><td>Amarelo</td><td>2,5</td></tr><tr><td>Laranja</td><td>5,0</td></tr><tr><td>Preto</td><td>7,5</td></tr><tr><td>Vermelho</td><td>10,0</td></tr></tbody></table><p>Um farol usa uma lâmpada de gás halogênio de 55 W de potência que opera com 36 V. Os dois faróis são ligados separadamente, com um fusível para cada um, mas, após um mau funcionamento, o motorista passou a conectá-los em paralelo, usando apenas um fusível. Dessa forma, admitindo-se que a fiação suporte a carga dos dois faróis, o menor valor de fusível adequado para proteção desse novo circuito é o</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "azul.",
+    "B": "preto.",
+    "C": "laranja.",
+    "D": "amarelo.",
+    "E": "vermelho."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Cada farol consome i = P/U = 55/36 ≈ 1,53 A. Ligados em paralelo com um só fusível, a corrente total é cerca de 3,06 A. O fusível precisa suportar pelo menos isso: o menor adequado é o de 5,0 A, o <strong>laranja</strong>. Alternativa <strong>C</strong>.</p><p>O amarelo (2,5 A) queimaria; o azul só serviria para um farol.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência elétrica",
+    "associação em paralelo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Biologia",
+   "assunto": "Saúde e doenças",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p class=\"apoio\">A cárie dental resulta da atividade de bactérias que degradam os açúcares e os transformam em ácidos que corroem a porção mineralizada dos dentes. O flúor, juntamente com o cálcio e um açúcar chamado xilitol, agem inibindo esse processo. Quando não se escovam os dentes corretamente e neles acumulam-se restos de alimentos, as bactérias que vivem na boca aderem aos dentes, formando a placa bacteriana ou biofilme. Na placa, elas transformam o açúcar dos restos de alimentos em ácidos, que corroem o esmalte do dente formando uma cavidade, que é a cárie. Vale lembrar que a placa bacteriana se forma mesmo na ausência de ingestão de carboidratos fermentáveis, pois as bactérias possuem polissacarídeos intracelulares de reserva.</p><p class=\"fonte\">Disponível em: http://www.diariodasaude.com.br. Acesso em: 11 ago 2010 (adaptado).</p><p class=\"apoio\">cárie 1. destruição de um osso por corrosão progressiva. * cárie dentária: efeito da destruição da estrutura dentária por bactérias.</p><p class=\"fonte\">HOUAISS, Antônio. <em>Dicionário eletrônico</em>. Versão 1.0. Editora Objetiva, 2001 (adaptado).</p><p>A partir da leitura do texto, que discute as causas do aparecimento de cáries, e da sua relação com as informações do dicionário, conclui-se que a cárie dental resulta, principalmente, de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "falta de flúor e de cálcio na alimentação diária da população brasileira.",
+    "B": "consumo exagerado do xilitol, um açúcar, na dieta alimentar diária do indivíduo.",
+    "C": "redução na proliferação bacteriana quando a saliva é desbalanceada pela má alimentação.",
+    "D": "uso exagerado do flúor, um agente que em alta quantidade torna-se tóxico à formação dos dentes.",
+    "E": "consumo excessivo de açúcares na alimentação e má higienização bucal, que contribuem para a proliferação de bactérias."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto explica que as bactérias da placa transformam os açúcares em ácidos que corroem o dente, e que a placa se forma quando não se escovam os dentes direito. O dicionário confirma: a cárie é a destruição do dente por bactérias. Ela resulta do <strong>consumo excessivo de açúcares na alimentação e má higienização bucal, que contribuem para a proliferação de bactérias</strong>. Alternativa <strong>E</strong>.</p><p>O flúor e o xilitol aparecem no texto como inibidores da cárie (A, B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cárie",
+    "placa bacteriana"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p>Em nosso cotidiano, utilizamos as palavras “calor” e “temperatura” de forma diferente de como elas são usadas no meio científico. Na linguagem corrente, calor é identificado como “algo quente” e temperatura mede a “quantidade de calor de um corpo”. Esses significados, no entanto, não conseguem explicar diversas situações que podem ser verificadas na prática.</p><p>Do ponto de vista científico, que situação prática mostra a limitação dos conceitos corriqueiros de calor e temperatura?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A temperatura da água pode ficar constante durante o tempo em que estiver fervendo.",
+    "B": "Uma mãe coloca a mão na água da banheira do bebê para verificar a temperatura da água.",
+    "C": "A chama de um fogão pode ser usada para aumentar a temperatura da água em uma panela.",
+    "D": "A água quente que está em uma caneca é passada para outra caneca a fim de diminuir sua temperatura.",
+    "E": "Um forno pode fornecer calor para uma vasilha de água que está em seu interior com menor temperatura do que a dele."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No senso comum, temperatura mede “quanto calor” um corpo tem. Mas a água fervendo recebe calor do fogo o tempo todo e sua temperatura fica em 100 °C: o calor vai para a mudança de estado. Isso mostra a limitação dos conceitos comuns: <strong>a temperatura da água pode ficar constante durante o tempo em que estiver fervendo</strong>. Alternativa <strong>A</strong>.</p><p>As outras situações são compatíveis com a ideia comum de calor e temperatura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calor latente",
+    "mudança de estado"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p>O texto “O voo das Folhas” traz uma visão dos índios Ticunas para um fenômeno usualmente observado na natureza:</p><p class=\"apoio\"><strong>O voo das Folhas</strong></p><p class=\"apoio\">Com o vento as folhas se movimentam. E quando caem no chão ficam paradas em silêncio. Assim se forma o ngaura. O ngaura cobre o chão da floresta, enriquece a terra e alimenta as árvores. As folhas velhas morrem para ajudar o crescimento das folhas novas. Dentro do ngaura vivem aranhas, formigas, escorpiões, centopeias, minhocas, cogumelos e vários tipos de outros seres muito pequenos. As folhas também caem nos lagos, nos igarapés e igapós.</p><p class=\"fonte\"><em>A natureza segundo os Ticunas/Livro das Árvores</em>. Organização Geral dos Professores Bilíngues Ticunas, 2000.</p><p>Na visão dos índios Ticunas, a descrição sobre o ngaura permite classificá-lo como um produto diretamente relacionado ao ciclo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "da água.",
+    "B": "do oxigênio.",
+    "C": "do fósforo.",
+    "D": "do carbono.",
+    "E": "do nitrogênio."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O ngaura é a camada de folhas caídas no chão da floresta (a serapilheira). Ela é decomposta por fungos e pequenos animais, “enriquece a terra e alimenta as árvores”: devolve ao solo a matéria orgânica, feita de carbono, que as plantas captaram do ar na fotossíntese. É um produto do ciclo <strong>do carbono</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "serapilheira",
+    "ciclos biogeoquímicos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p>Com o objetivo de se testar a eficiência de fornos de micro-ondas, planejou-se o aquecimento em 10 ºC de amostras de diferentes substâncias, cada uma com determinada massa, em cinco fornos de marcas distintas. Nesse teste, cada forno operou à potência máxima.</p><p>O forno mais eficiente foi aquele que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "forneceu a maior quantidade de energia às amostras.",
+    "B": "cedeu energia à amostra de maior massa em mais tempo.",
+    "C": "forneceu a maior quantidade de energia em menos tempo.",
+    "D": "cedeu energia à amostra de menor calor específico mais lentamente.",
+    "E": "forneceu a menor quantidade de energia às amostras em menos tempo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Eficiência é aproveitar bem a energia em pouco tempo. Todos os fornos aqueceram as amostras em 10 °C, mas o melhor é o que entrega mais energia por unidade de tempo, ou seja, o que <strong>forneceu a maior quantidade de energia em menos tempo</strong>. Alternativa <strong>C</strong>.</p><p>Dar muita energia em muito tempo (A e B) não indica eficiência.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência",
+    "energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\">O fósforo, geralmente representado pelo íon de fosfato (PO<sub>4</sub><sup>3−</sup>)), é um ingrediente insubstituível da vida, já que é parte constituinte das membranas celulares e das moléculas do DNA e do trifosfato de adenosina (ATP), principal forma de armazenamento de energia das células. O fósforo utilizado nos fertilizantes agrícolas é extraído de minas, cujas reservas estão cada vez mais escassas. Certas práticas agrícolas aceleram a erosão do solo, provocando o transporte de fósforo para sistemas aquáticos, que fica imobilizado nas rochas. Ainda, a colheita das lavouras e o transporte dos restos alimentares para os lixões diminuem a disponibilidade dos íons no solo. Tais fatores têm ameaçado a sustentabilidade desse íon.</p><p>Uma medida que amenizaria esse problema seria:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Incentivar a reciclagem de resíduos biológicos, utilizando dejetos animais e restos de culturas para produção de adubo.",
+    "B": "Repor o estoque retirado das minas com um íon sintético de fósforo para garantir o abastecimento da indústria de fertilizantes.",
+    "C": "Aumentar a importação de íons fosfato dos países ricos para suprir as exigências das indústrias nacionais de fertilizantes.",
+    "D": "Substituir o fósforo dos fertilizantes por outro elemento com a mesma função para suprir as necessidades do uso de seus íons.",
+    "E": "Proibir, por meio de lei federal, o uso de fertilizantes com fósforo pelos agricultores, para diminuir sua extração das reservas naturais."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O fósforo das minas está acabando, e o dos dejetos e restos de cultura acaba no lixo ou nos rios. Transformar esses resíduos em adubo devolve o fósforo ao solo e diminui a extração. A medida seria <strong>incentivar a reciclagem de resíduos biológicos, utilizando dejetos animais e restos de culturas para produção de adubo</strong>. Alternativa <strong>A</strong>.</p><p>Não existe “íon sintético” que reponha o fósforo (B), e nenhum elemento o substitui na vida (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fósforo",
+    "reciclagem de nutrientes"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"apoio\">Júpiter, conhecido como o gigante gasoso, perdeu uma das suas listras mais proeminentes, deixando o seu hemisfério sul estranhamente vazio. Observe a região em que a faixa sumiu, destacada pela seta.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://www.inovacaotecnologica.com.br. Acesso em: 12 maio 2010 (adaptado).</p><p>A aparência de Júpiter é tipicamente marcada por duas faixas escuras em sua atmosfera — uma no hemisfério norte e outra no hemisfério sul. Como o gás está constantemente em movimento, o desaparecimento da faixa no planeta relaciona-se ao movimento das diversas camadas de nuvens em sua atmosfera. A luz do Sol, refletida nessas nuvens, gera a imagem que é captada pelos telescópios, no espaço ou na Terra. O desaparecimento da faixa sul pode ter sido determinado por uma alteração</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q54.webp",
+     "alt": "Duas fotos de Júpiter: na primeira, aparecem as duas faixas escuras, uma em cada hemisfério; na segunda, uma seta aponta a região do hemisfério sul onde a faixa sumiu."
+    }
+   ],
+   "alternativas": {
+    "A": "na temperatura da superfície do planeta.",
+    "B": "no formato da camada gasosa do planeta.",
+    "C": "no campo gravitacional gerado pelo planeta.",
+    "D": "na composição química das nuvens do planeta.",
+    "E": "na densidade das nuvens que compõem o planeta."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A faixa é vista pela luz do Sol refletida nas nuvens. Se a faixa escura sumiu, as nuvens daquela região passaram a refletir a luz de outro jeito: uma mudança na concentração das nuvens daquela camada. O desaparecimento pode ter sido causado por uma alteração <strong>na densidade das nuvens que compõem o planeta</strong>. Alternativa <strong>E</strong>.</p><p>O texto liga o fenômeno ao movimento das camadas de nuvens, e não à temperatura da superfície (A) ou ao campo gravitacional (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Júpiter",
+    "reflexão da luz"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p>Em visita a uma usina sucroalcooleira, um grupo de alunos pôde observar a série de processos de beneficiamento da cana-de-açúcar, entre os quais se destacam:</p><ol><li>A cana chega cortada da lavoura por meio de caminhões e é despejada em mesas alimentadoras que a conduzem para as moendas. Antes de ser esmagada para a retirada do caldo açucarado, toda a cana é transportada por esteiras e passada por um eletroimã para a retirada de materiais metálicos.</li><li>Após se esmagar a cana, o bagaço segue para as caldeiras, que geram vapor e energia para toda a usina.</li><li>O caldo primário, resultante do esmagamento, é passado por filtros e sofre tratamento para transformar-se em açúcar refinado e etanol.</li></ol><p>Com base nos destaques da observação dos alunos, quais operações físicas de separação de materiais foram realizadas nas etapas de beneficiamento da cana-de-açúcar?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Separação mecânica, extração, decantação.",
+    "B": "Separação magnética, combustão, filtração.",
+    "C": "Separação magnética, extração, filtração.",
+    "D": "Imantação, combustão, peneiração.",
+    "E": "Imantação, destilação, filtração."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Etapa 1: o eletroímã retira os metais da cana, uma separação magnética. Etapa 2: a cana é esmagada para retirar o caldo, uma extração (a queima do bagaço é combustão, que é transformação química, e não separação). Etapa 3: o caldo passa por filtros, uma filtração. As operações físicas são <strong>separação magnética, extração e filtração</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "separação magnética",
+    "filtração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Geografia",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">ZIEGLER, M.F. Energia Sustentável. <em>Revista IstoÉ</em>. 28 abr. 2010.</p><p>A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é extraída do calor gerado</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q56.webp",
+     "alt": "Ilustração de uma usina geotérmica: (1) ao escavar um quilômetro em direção ao centro da Terra, a temperatura chega a 250 °C; (2) a água aquecida gera vapor que impulsiona turbinas e gera energia elétrica; a água subterrânea escapa por fissuras, formando piscinas termais e gêiseres; nas regiões onde as placas tectônicas se encontram, como na Islândia, o magma está mais próximo da superfície."
+    }
+   ],
+   "alternativas": {
+    "A": "pela circulação do magma no subsolo.",
+    "B": "pelas erupções constantes dos vulcões.",
+    "C": "pelo sol que aquece as águas com radiação ultravioleta.",
+    "D": "pela queima do carvão e combustíveis fósseis.",
+    "E": "pelos detritos e cinzas vulcânicas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A figura mostra uma usina geotérmica, como as da Islândia: a água subterrânea é aquecida pelo magma, perto da superfície nas regiões de encontro de placas, e o vapor move turbinas. O calor vem <strong>da circulação do magma no subsolo</strong>. Alternativa <strong>A</strong>.</p><p>Não depende de erupções (B) nem de combustíveis (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia geotérmica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p>O despejo de dejetos de esgotos domésticos e industriais vem causando sérios problemas aos rios brasileiros. Esses poluentes são ricos em substâncias que contribuem para a eutrofização de ecossistemas, que é um enriquecimento da água por nutrientes, o que provoca um grande crescimento bacteriano e, por fim, pode promover escassez de oxigênio.</p><p>Uma maneira de evitar a diminuição da concentração de oxigênio no ambiente é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Aquecer as águas dos rios para aumentar a velocidade de decomposição dos dejetos.",
+    "B": "Retirar do esgoto os materiais ricos em nutrientes para diminuir a sua concentração nos rios.",
+    "C": "Adicionar bactérias anaeróbicas às águas dos rios para que elas sobrevivam mesmo sem o oxigênio.",
+    "D": "Substituir produtos não degradáveis por biodegradáveis para que as bactérias possam utilizar os nutrientes.",
+    "E": "Aumentar a solubilidade dos dejetos no esgoto para que os nutrientes fiquem mais acessíveis às bactérias."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na eutrofização, o excesso de nutrientes faz algas e bactérias crescerem muito; a decomposição aeróbia consome o oxigênio da água. Tirando os nutrientes do esgoto antes de chegar ao rio, o crescimento excessivo não acontece. A maneira é <strong>retirar do esgoto os materiais ricos em nutrientes para diminuir a sua concentração nos rios</strong>. Alternativa <strong>B</strong>.</p><p>Aquecer a água (A) diminui ainda mais a solubilidade do oxigênio.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eutrofização",
+    "tratamento de esgoto"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p>Sob pressão normal (ao nível do mar), a água entra em ebulição à temperatura de 100 °C. Tendo por base essa informação, um garoto residente em uma cidade litorânea fez a seguinte experiência:</p><ul><li>Colocou uma caneca metálica contendo água no fogareiro do fogão de sua casa.</li><li>Quando a água começou a ferver, encostou cuidadosamente a extremidade mais estreita de uma seringa de injeção, desprovida de agulha, na superfície do líquido e, erguendo o êmbolo da seringa, aspirou certa quantidade de água para seu interior, tapando-a em seguida.</li><li>Verificando após alguns instantes que a água da seringa havia parado de ferver, ele ergueu o êmbolo da seringa, constatando, intrigado, que a água voltou a ferver após um pequeno deslocamento do êmbolo.</li></ul><p>Considerando o procedimento anterior, a água volta a ferver porque esse deslocamento</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "permite a entrada de calor do ambiente externo para o interior da seringa.",
+    "B": "provoca, por atrito, um aquecimento da água contida na seringa.",
+    "C": "produz um aumento de volume que aumenta o ponto de ebulição da água.",
+    "D": "proporciona uma queda de pressão no interior da seringa que diminui o ponto de ebulição da água.",
+    "E": "possibilita uma diminuição da densidade da água que facilita sua ebulição."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com a seringa tampada, puxar o êmbolo aumenta o volume para o mesmo ar e vapor, e a pressão lá dentro cai. Com pressão menor, a água ferve a temperatura mais baixa: a água, ainda quente, volta a ferver. O deslocamento <strong>proporciona uma queda de pressão no interior da seringa que diminui o ponto de ebulição da água</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão e ebulição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p>As cidades industrializadas produzem grandes proporções de gases como o CO<sub>2</sub>, o principal gás causador do efeito estufa. Isso ocorre por causa da quantidade de combustíveis fósseis queimados, principalmente no transporte, mas também em caldeiras industriais. Além disso, nessas cidades concentram-se as maiores áreas com solos asfaltados e concretados, o que aumenta a retenção de calor, formando o que se conhece por “ilhas de calor”. Tal fenômeno ocorre porque esses materiais absorvem o calor e o devolvem para o ar sob a forma de radiação térmica.</p><p>Em áreas urbanas, devido à atuação conjunta do efeito estufa e das “ilhas de calor”, espera-se que o consumo de energia elétrica</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "diminua devido à utilização de caldeiras por indústrias metalúrgicas.",
+    "B": "aumente devido ao bloqueio da luz do sol pelos gases do efeito estufa.",
+    "C": "diminua devido à não necessidade de aquecer a água utilizada em indústrias.",
+    "D": "aumente devido à necessidade de maior refrigeração de indústrias e residências.",
+    "E": "diminua devido à grande quantidade de radiação térmica reutilizada."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com o efeito estufa e as ilhas de calor, as cidades ficam mais quentes. Indústrias e casas usam mais ar-condicionado e refrigeração, e o consumo de energia elétrica <strong>aumenta devido à necessidade de maior refrigeração de indústrias e residências</strong>. Alternativa <strong>D</strong>.</p><p>Os gases do efeito estufa não bloqueiam a luz visível (B); eles retêm a radiação infravermelha.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ilha de calor",
+    "consumo de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Biologia",
+   "assunto": "Fisiologia vegetal",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p class=\"apoio\">A lavoura arrozeira na planície costeira da região sul do Brasil comumente sofre perdas elevadas devido à salinização da água de irrigação, que ocasiona prejuízos diretos, como a redução de produção da lavoura. Solos com processo de salinização avançado não são indicados, por exemplo, para o cultivo de arroz. As plantas retiram a água do solo quando as forças de embebição dos tecidos das raízes são superiores às forças com que a água é retida no solo.</p><p class=\"fonte\">WINKEL, H.L.;TSCHIEDEL, M. <em>Cultura do arroz: salinização de solos em cultivos de arroz</em>. Disponível em: http://agropage.tripod.com/saliniza.hml. Acesso em: 25 jun. 2010 (adaptado).</p><p>A presença de sais na solução do solo faz com que seja dificultada a absorção de água pelas plantas, o que provoca o fenômeno conhecido por seca fisiológica, caracterizado pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aumento da salinidade, em que a água do solo atinge uma concentração de sais maior que a das células das raízes das plantas, impedindo, assim, que a água seja absorvida.",
+    "B": "aumento da salinidade, em que o solo atinge um nível muito baixo de água, e as plantas não têm força de sucção para absorver a água.",
+    "C": "diminuição da salinidade, que atinge um nível em que as plantas não têm força de sucção, fazendo com que a água não seja absorvida.",
+    "D": "aumento da salinidade, que atinge um nível em que as plantas têm muita sudação, não tendo força de sucção para superá-la.",
+    "E": "diminuição da salinidade, que atinge um nível em que as plantas ficam túrgidas e não têm força de sudação para superá-la."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A raiz absorve água por osmose, do meio menos concentrado para o mais concentrado. Se o solo tem mais sais que as células da raiz, a água não entra (e pode até sair), mesmo com o solo úmido: é a seca fisiológica. Ela se caracteriza pelo <strong>aumento da salinidade, em que a água do solo atinge uma concentração de sais maior que a das células das raízes das plantas, impedindo, assim, que a água seja absorvida</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "osmose",
+    "salinização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p class=\"apoio\">No ano de 2000, um vazamento em dutos de óleo na baía de Guanabara (RJ) causou um dos maiores acidentes ambientais do Brasil. Além de afetar a fauna e a flora, o acidente abalou o equilíbrio da cadeia alimentar de toda a baía. O petróleo forma uma película na superfície da água, o que prejudica as trocas gasosas da atmosfera com a água e desfavorece a realização de fotossíntese pelas algas, que estão na base da cadeia alimentar hídrica. Além disso, o derramamento de óleo contribuiu para o envenenamento das árvores e, consequentemente, para a intoxicação da fauna e flora aquáticas, bem como conduziu à morte diversas espécies de animais, entre outras formas de vida, afetando também a atividade pesqueira.</p><p class=\"fonte\">LAUBIER, L. Diversidade da Maré Negra. In: <em>Scientific American Brasil</em>. 4(39), ago. 2005 (adaptado).</p><p>A situação exposta no texto e suas implicações</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "indicam a independência da espécie humana com relação ao ambiente marinho.",
+    "B": "alertam para a necessidade do controle da poluição ambiental para redução do efeito estufa.",
+    "C": "ilustram a interdependência das diversas formas de vida (animal, vegetal e outras) e o seu habitat.",
+    "D": "indicam a alta resistência do meio ambiente à ação do homem, além de evidenciar a sua sustentabilidade mesmo em condições extremas de poluição.",
+    "E": "evidenciam a grande capacidade animal de se adaptar às mudanças ambientais, em contraste com a baixa capacidade das espécies vegetais, que estão na base da cadeia alimentar hídrica."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O óleo atingiu primeiro as algas, base da cadeia alimentar, e depois os peixes, as aves e a atividade pesqueira. O desequilíbrio de uma parte afetou o todo. A situação <strong>ilustra a interdependência das diversas formas de vida (animal, vegetal e outras) e o seu habitat</strong>. Alternativa <strong>C</strong>.</p><p>O petróleo na água não tem relação direta com o efeito estufa (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "derramamento de petróleo",
+    "cadeia alimentar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p>Para explicar a absorção de nutrientes, bem como a função das microvilosidades das membranas das células que revestem as paredes internas do intestino delgado, um estudante realizou o seguinte experimento: Colocou 200 mL de água em dois recipientes. No primeiro recipiente, mergulhou, por 5 segundos, um pedaço de papel liso, como na FIGURA 1; no segundo recipiente, fez o mesmo com um pedaço de papel com dobras simulando as microvilosidades, conforme FIGURA 2. Os dados obtidos foram: a quantidade de água absorvida pelo papel liso foi de 8 mL, enquanto pelo papel dobrado foi de 12 mL.</p>[[fig:1]]<p>Com base nos dados obtidos, infere-se que a função das microvilosidades intestinais com relação à absorção de nutrientes pelas células das paredes internas do intestino é a de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q62.webp",
+     "alt": "Figura 1: retângulo de papel liso de 10 cm por 5 cm. Figura 2: papel do mesmo tamanho dobrado em sanfona."
+    }
+   ],
+   "alternativas": {
+    "A": "manter o volume de absorção.",
+    "B": "aumentar a superfície de absorção.",
+    "C": "diminuir a velocidade de absorção.",
+    "D": "aumentar o tempo de absorção.",
+    "E": "manter a seletividade na absorção."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os dois papéis tinham o mesmo tamanho (10 cm por 5 cm), mas o dobrado tinha mais área em contato com a água e absorveu 12 mL, contra 8 mL do liso. As microvilosidades fazem o mesmo no intestino: <strong>aumentar a superfície de absorção</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "microvilosidades",
+    "intestino delgado"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p class=\"apoio\">O crescimento da produção de energia elétrica ao longo do tempo tem influenciado decisivamente o progresso da humanidade, mas também tem criado uma séria preocupação: o prejuízo ao meio ambiente. Nos próximos anos, uma nova tecnologia de geração de energia elétrica deverá ganhar espaço: as células a combustível hidrogênio/oxigênio.</p>[[fig:1]]<p class=\"fonte\">VILLULLAS, H. M; TICIANELLI, E. A; GONZÁLEZ, E. R. <em>Química Nova Na Escola</em>. No15, maio 2002.</p><p>Com base no texto e na figura, a produção de energia elétrica por meio da célula a combustível hidrogênio/oxigênio diferencia-se dos processos convencionais porque</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q63.webp",
+     "alt": "Esquema de uma célula a combustível: H2 entra pelo ânodo, à esquerda, e libera elétrons (2e−) que passam pelo circuito externo; íons 2H+ atravessam o eletrólito no centro; à direita, no cátodo, O2 entra e sai H2O."
+    }
+   ],
+   "alternativas": {
+    "A": "transforma energia química em energia elétrica, sem causar danos ao meio ambiente, porque o principal subproduto formado é a água.",
+    "B": "converte a energia química contida nas moléculas dos componentes em energia térmica, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente.",
+    "C": "transforma energia química em energia elétrica, porém emite gases poluentes da mesma forma que a produção de energia a partir dos combustíveis fósseis.",
+    "D": "converte energia elétrica proveniente dos combustíveis fósseis em energia química, retendo os gases poluentes produzidos no processo sem alterar a qualidade do meio ambiente.",
+    "E": "converte a energia potencial acumulada nas moléculas de água contidas no sistema em energia química, sem que ocorra a produção de gases poluentes nocivos ao meio ambiente."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na célula a combustível, o hidrogênio e o oxigênio reagem e geram corrente elétrica diretamente, e o produto é água, sem os gases poluentes da queima de combustíveis fósseis. Ela <strong>transforma energia química em energia elétrica, sem causar danos ao meio ambiente, porque o principal subproduto formado é a água</strong>. Alternativa <strong>A</strong>.</p><p>Não há conversão em energia térmica como finalidade (B), e não há emissão de poluentes (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "célula a combustível",
+    "hidrogênio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p>Alguns anfíbios e répteis são adaptados à vida subterrânea. Nessa situação, apresentam algumas características corporais como, por exemplo, ausência de patas, corpo anelado que facilita o deslocamento no subsolo e, em alguns casos, ausência de olhos.</p><p>Suponha que um biólogo tentasse explicar a origem das adaptações mencionadas no texto utilizando conceitos da teoria evolutiva de Lamarck. Ao adotar esse ponto de vista, ele diria que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as características citadas no texto foram originadas pela seleção natural.",
+    "B": "a ausência de olhos teria sido causada pela falta de uso dos mesmos, segundo a lei do uso e desuso.",
+    "C": "o corpo anelado é uma característica fortemente adaptativa, mas seria transmitida apenas à primeira geração de descendentes.",
+    "D": "as patas teriam sido perdidas pela falta de uso e, em seguida, essa característica foi incorporada ao patrimônio genético e então transmitidas aos descendentes.",
+    "E": "as características citadas no texto foram adquiridas por meio de mutações e depois, ao longo do tempo, foram selecionadas por serem mais adaptadas ao ambiente em que os organismos se encontram."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Lamarck explicava a evolução pela lei do uso e desuso (órgãos pouco usados se atrofiam) e pela herança dos caracteres adquiridos. Num ambiente subterrâneo escuro, os olhos não seriam usados e atrofiariam: <strong>a ausência de olhos teria sido causada pela falta de uso dos mesmos, segundo a lei do uso e desuso</strong>. Alternativa <strong>B</strong>.</p><p>Seleção natural e mutações (A e E) são ideias de Darwin e da teoria sintética; “patrimônio genético” (D) não existia no vocabulário de Lamarck.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Lamarck",
+    "uso e desuso"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Química",
+   "assunto": "Funções inorgânicas",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "<p class=\"apoio\">As misturas efervescentes, em pó ou em comprimidos, são comuns para a administração de vitamina C ou de medicamentos para azia. Essa forma farmacêutica sólida foi desenvolvida para facilitar o transporte, aumentar a estabilidade de substâncias e, quando em solução, acelerar a absorção do fármaco pelo organismo. As matérias-primas que atuam na efervescência são, em geral, o ácido tartárico ou o ácido cítrico que reagem com um sal de caráter básico, como o bicarbonato de sódio (NaHCO<sub>3</sub>), quando em contato com a água. A partir do contato da mistura efervescente com a água, ocorre uma série de reações químicas simultâneas: liberação de íons, formação de ácido e liberação do gás carbônico — gerando a efervescência.</p><p>As equações a seguir representam as etapas da reação da mistura efervescente na água, em que foram omitidos os estados de agregação dos reagentes, e H<sub>3</sub>A representa o ácido cítrico.</p><p class=\"apoio\">I – NaHCO<sub>3</sub> → Na<sup>+</sup> + HCO<sub>3</sub><sup>−</sup><br>II – H<sub>2</sub>CO<sub>3</sub> ⇌ H<sub>2</sub>O + CO<sub>2</sub><br>III – HCO<sub>3</sub><sup>−</sup> + H<sup>+</sup> ⇌ H<sub>2</sub>CO<sub>3</sub><br>IV – H<sub>3</sub>A ⇌ 3H<sup>+</sup> + A<sup>−</sup></p><p>A ionização, a dissociação iônica, a formação do ácido e a liberação do gás ocorrem, respectivamente, nas seguintes etapas:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "IV, I, II e III",
+    "B": "I, IV, III e II",
+    "C": "IV, III, I e II",
+    "D": "I, IV, II e III",
+    "E": "IV, I, III e II"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Ionização é o ácido liberando H<sup>+</sup> na água (IV, ácido cítrico). Dissociação iônica é um sal separando seus íons (I, bicarbonato de sódio). A formação do ácido carbônico vem da união de HCO<sub>3</sub><sup>−</sup> e H<sup>+</sup> (III). A liberação do gás é a decomposição do H<sub>2</sub>CO<sub>3</sub> em água e CO<sub>2</sub> (II). A ordem é <strong>IV, I, III e II</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ionização e dissociação",
+    "efervescência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Biologia",
+   "assunto": "Metabolismo energético",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p class=\"apoio\">Um ambiente capaz de asfixiar todos os animais conhecidos do planeta foi colonizado por pelo menos três espécies diferentes de invertebrados marinhos. Descobertos a mais de 3 000 m de profundidade no Mediterrâneo, eles são os primeiros membros do reino animal a prosperar mesmo diante da ausência total de oxigênio. Até agora, achava-se que só bactérias pudessem ter esse estilo de vida. Não admira que os bichos pertençam a um grupo pouco conhecido, o dos loricíferos, que mal chegam a 1,0 mm. Apesar do tamanho, possuem cabeça, boca, sistema digestivo e uma carapaça. A adaptação dos bichos à vida no sufoco é tão profunda que suas células dispensaram as chamadas mitocôndrias.</p><p class=\"fonte\">LOPES, R. J. <em>Italianos descobrem animal que vive em água sem oxigênio</em>. Disponível em: http://www1.folha.uol.com.br. Acesso em: 10 abr. 2010 (adaptado).</p><p>Que substâncias poderiam ter a mesma função do O<sub>2</sub> na respiração celular realizada pelos loricíferos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "S e CH<sub>4</sub>",
+    "B": "S e NO<sub>3</sub><sup>−</sup>",
+    "C": "H<sub>2</sub> e NO<sub>3</sub><sup>−</sup>",
+    "D": "CO<sub>2</sub> e CH<sub>4</sub>",
+    "E": "H<sub>2</sub> e CO<sub>2</sub>"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na respiração anaeróbia, outra substância faz o papel do O<sub>2</sub> como aceptor final de elétrons. As bactérias anaeróbias usam, por exemplo, o enxofre (S) e o nitrato (NO<sub>3</sub><sup>−</sup>), que recebem elétrons e são reduzidos. A resposta é <strong>S e NO<sub>3</sub><sup>−</sup></strong>. Alternativa <strong>B</strong>.</p><p>H<sub>2</sub> e CH<sub>4</sub> são doadores de elétrons, e não aceptores (A, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "respiração anaeróbia",
+    "aceptor de elétrons"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "<p class=\"apoio\">O abastecimento de nossas necessidades energéticas futuras dependerá certamente do desenvolvimento de tecnologias para aproveitar a energia solar com maior eficiência. A energia solar é a maior fonte de energia mundial. Num dia ensolarado, por exemplo, aproximadamente 1 kJ de energia solar atinge cada metro quadrado da superfície terrestre por segundo. No entanto, o aproveitamento dessa energia é difícil porque ela é diluída (distribuída por uma área muito extensa) e oscila com o horário e as condições climáticas. O uso efetivo da energia solar depende de formas de estocar a energia coletada para uso posterior.</p><p class=\"fonte\">BROWN, T. <em>Química a Ciência Central</em>. São Paulo: Pearson Prentice Hall, 2005.</p><p>Atualmente, uma das formas de se utilizar a energia solar tem sido armazená-la por meio de processos químicos endotérmicos que mais tarde podem ser revertidos para liberar calor. Considerando a reação: CH<sub>4(g)</sub> + H<sub>2</sub>O<sub>(v)</sub> + calor ⇌ CO<sub>(g)</sub> + 3 H<sub>2(g)</sub> e analisando-a como potencial mecanismo para o aproveitamento posterior da energia solar, conclui-se que se trata de uma estratégia</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "insatisfatória, pois a reação apresentada não permite que a energia presente no meio externo seja absorvida pelo sistema para ser utilizada posteriormente.",
+    "B": "insatisfatória, uma vez que há formação de gases poluentes e com potencial poder explosivo, tornando-a uma reação perigosa e de difícil controle.",
+    "C": "insatisfatória, uma vez que há formação de gás CO que não possui conteúdo energético passível de ser aproveitado posteriormente e é considerado um gás poluente.",
+    "D": "satisfatória, uma vez que a reação direta ocorre com absorção de calor e promove a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para obtenção de energia e realização de trabalho útil.",
+    "E": "satisfatória, uma vez que a reação direta ocorre com liberação de calor havendo ainda a formação das substâncias combustíveis que poderão ser utilizadas posteriormente para obtenção de energia e realização de trabalho útil."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A reação direta absorve calor (é endotérmica): a energia do Sol é guardada nas ligações do CO e do H<sub>2</sub>, que são combustíveis. Depois, queimá-los (ou inverter a reação) libera essa energia. É uma estratégia <strong>satisfatória, uma vez que a reação direta ocorre com absorção de calor e promove a formação das substâncias combustíveis que poderão ser utilizadas posteriormente</strong>. Alternativa <strong>D</strong>.</p><p>A opção E diz que a reação libera calor, o que contradiz a equação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reação endotérmica",
+    "energia solar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p class=\"apoio\">A energia elétrica consumida nas residências é medida, em quilowatt-hora, por meio de um relógio medidor de consumo. Nesse relógio, da direita para esquerda, tem-se o ponteiro da unidade, da dezena, da centena e do milhar. Se um ponteiro estiver entre dois números, considera-se o último número ultrapassado pelo ponteiro. Suponha que as medidas indicadas nos esquemas seguintes tenham sido feitas em uma cidade em que o preço do quilowatt-hora fosse de R$ 0,20.</p>[[fig:1]]<p class=\"fonte\">FILHO , A.G.; BAROLLI, E. <em>Instalação Elétrica</em>. São Paulo: Scipione,1997.</p><p>O valor a ser pago pelo consumo de energia elétrica registrado seria de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q68.webp",
+     "alt": "Dois conjuntos de quatro relógios de ponteiro de um medidor de energia, com a foto de um medidor ao lado. Leitura atual: os ponteiros estão logo depois do 2, do 7, do 8 e do 2. Leitura do mês passado: logo depois do 2, do 5, do 6 e do 2."
+    }
+   ],
+   "alternativas": {
+    "A": "R$ 41,80.",
+    "B": "R$ 42,00.",
+    "C": "R$ 43,00.",
+    "D": "R$ 43,80.",
+    "E": "R$ 44,00."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Lendo o último número ultrapassado em cada relógio: leitura atual 2 7 8 2 kWh; mês passado 2 5 6 2 kWh. O consumo foi 2 782 − 2 562 = 220 kWh. A R$ 0,20 o kWh: 220 × 0,20 = <strong>R$ 44,00</strong>. Alternativa <strong>E</strong>.</p><p>Os relógios giram em sentidos alternados; quem lê todos no mesmo sentido chega a outros valores.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de medidor",
+    "consumo de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p>No que tange à tecnologia de combustíveis alternativos, muitos especialistas em energia acreditam que os alcoóis vão crescer em importância em um futuro próximo. Realmente, alcoóis como metanol e etanol têm encontrado alguns nichos para uso doméstico como combustíveis há muitas décadas e, recentemente, vêm obtendo uma aceitação cada vez maior como aditivos, ou mesmo como substitutos para gasolina em veículos. Algumas das propriedades físicas desses combustíveis são mostradas no quadro seguinte.</p><table class=\"tabela\"><thead><tr><th>Álcool</th><th>Densidade a 25 ºC (g/mL)</th><th>Calor de Combustão (kJ/mol)</th></tr></thead><tbody><tr><td>Metanol (CH<sub>3</sub>OH)</td><td>0,79</td><td>−726,0</td></tr><tr><td>Etanol (CH<sub>3</sub>CH<sub>2</sub>OH)</td><td>0,79</td><td>−1367,0</td></tr></tbody></table><p class=\"fonte\">BAIRD, C. <em>Química Ambiental</em>. São Paulo: Artmed, 1995 (adaptado).</p><p>Dados: Massas molares em g/mol: H = 1,0; C = 12,0; O = 16,0.</p><p>Considere que, em pequenos volumes, o custo de produção de ambos os alcoóis seja o mesmo. Dessa forma, do ponto de vista econômico, é mais vantajoso utilizar</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "metanol, pois sua combustão completa fornece aproximadamente 22,7 kJ de energia por litro de combustível queimado.",
+    "B": "etanol, pois sua combustão completa fornece aproximadamente 29,7 kJ de energia por litro de combustível queimado.",
+    "C": "metanol, pois sua combustão completa fornece aproximadamente 17,9 MJ de energia por litro de combustível queimado.",
+    "D": "etanol, pois sua combustão completa fornece aproximadamente 23,5 MJ de energia por litro de combustível queimado.",
+    "E": "etanol, pois sua combustão completa fornece aproximadamente 33,7 MJ de energia por litro de combustível queimado."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Um litro de cada álcool tem 790 g. Metanol (32 g/mol): 790/32 ≈ 24,7 mol × 726 kJ ≈ 17,9 MJ. Etanol (46 g/mol): 790/46 ≈ 17,2 mol × 1 367 kJ ≈ 23,5 MJ. Com o mesmo custo, o mais vantajoso é o <strong>etanol, que fornece cerca de 23,5 MJ por litro</strong>. Alternativa <strong>D</strong>.</p><p>As opções A e B usam kJ no lugar de MJ.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calor de combustão",
+    "densidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p>Observe a tabela seguinte. Ela traz especificações técnicas constantes no manual de instruções fornecido pelo fabricante de uma torneira elétrica.</p><p class=\"apoio\"><strong>Especificações Técnicas</strong></p><table class=\"tabela\"><thead><tr><th>Modelo</th><th>Torneira 127 V</th><th></th><th>Torneira 220 V</th><th></th></tr></thead><tbody><tr><td>Potência Nominal (Watts) — Desligado</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Potência Nominal (Watts) — Morno</td><td>2 800</td><td>3 200</td><td>2 800</td><td>3 200</td></tr><tr><td>Potência Nominal (Watts) — Quente</td><td>4 500</td><td>5 500</td><td>4 500</td><td>5 500</td></tr><tr><td>Corrente Nominal (Ampères)</td><td>35,4</td><td>43,3</td><td>20,4</td><td>25,0</td></tr><tr><td>Fiação Mínima (Até 30 m)</td><td>6 mm²</td><td>10 mm²</td><td>4 mm²</td><td>4 mm²</td></tr><tr><td>Fiação Mínima (Acima 30 m)</td><td>10 mm²</td><td>16 mm²</td><td>6 mm²</td><td>6 mm²</td></tr><tr><td>Disjuntor (Ampères)</td><td>40</td><td>50</td><td>25</td><td>30</td></tr></tbody></table><p class=\"fonte\">Disponível em: http://www.cardal.com.br/manualprod/Manuais/Torneira%20Suprema/Manual_Torneira_Suprema_roo.pdf</p><p>Considerando que o modelo de maior potência da versão 220 V da torneira suprema foi inadvertidamente conectada a uma rede com tensão nominal de 127 V, e que o aparelho está configurado para trabalhar em sua máxima potência. Qual o valor aproximado da potência ao ligar a torneira?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.830 W",
+    "B": "2.800 W",
+    "C": "3.200 W",
+    "D": "4.030 W",
+    "E": "5.500 W"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O modelo de maior potência da versão 220 V tem 5 500 W: R = U²/P = 220²/5 500 = 8,8 Ω. Ligada em 127 V, a resistência é a mesma: P = 127²/8,8 ≈ 16 129/8,8 ≈ <strong>1 830 W</strong>. Alternativa <strong>A</strong>.</p><p>A potência não cai na mesma proporção da tensão: ela depende do quadrado da tensão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência elétrica",
+    "resistência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Biologia",
+   "assunto": "Microbiologia",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p class=\"apoio\">O uso prolongado de lentes de contato, sobretudo durante a noite, aliado a condições precárias de higiene representam fatores de risco para o aparecimento de uma infecção denominada ceratite microbiana, que causa ulceração inflamatória da córnea. Para interromper o processo da doença, é necessário tratamento antibiótico. De modo geral, os fatores de risco provocam a diminuição da oxigenação corneana e determinam mudanças no seu metabolismo, de um estado aeróbico para anaeróbico. Como decorrência, observa-se a diminuição no número e na velocidade de mitoses do epitélio, o que predispõe ao aparecimento de defeitos epiteliais e à invasão bacteriana.</p><p class=\"fonte\">CRESTA, F. Lente de contato e infecção ocular. <em>Revista Sinopse de Oftalmologia</em>. São Paulo: Moreira Jr.,v.04, n.04, 2002 (adaptado).</p><p>A instalação das bactérias e o avanço do processo infeccioso na córnea estão relacionados a algumas características gerais desses microrganismos, tais como:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A grande capacidade de adaptação, considerando as constantes mudanças no ambiente em que se reproduzem e o processo aeróbico como a melhor opção desses microrganismos para a obtenção de energia.",
+    "B": "A grande capacidade de sofrer mutações, aumentando a probabilidade do aparecimento de formas resistentes e o processo anaeróbico da fermentação como a principal via de obtenção de energia.",
+    "C": "A diversidade morfológica entre as bactérias, aumentando a variedade de tipos de agentes infecciosos e a nutrição heterotrófica, como forma de esses microrganismos obterem matéria-prima e energia.",
+    "D": "O alto poder de reprodução, aumentando a variabilidade genética dos milhares de indivíduos e a nutrição heterotrófica, como única forma de obtenção de matéria-prima e energia desses microrganismos.",
+    "E": "O alto poder de reprodução, originando milhares de descendentes geneticamente idênticos entre si e a diversidade metabólica, considerando processos aeróbicos e anaeróbicos para a obtenção de energia."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As bactérias se reproduzem por divisão binária muito rápida, gerando clones idênticos, e têm metabolismo variado: algumas respiram oxigênio, outras vivem sem ele. Com menos oxigênio na córnea, as que fazem processos anaeróbios conseguem se instalar. As características são o <strong>alto poder de reprodução, originando milhares de descendentes geneticamente idênticos entre si e a diversidade metabólica, considerando processos aeróbicos e anaeróbicos</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "bactérias",
+    "metabolismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p class=\"apoio\">Todos os organismos necessitam de água e grande parte deles vive em rios, lagos e oceanos. Os processos biológicos, como respiração e fotossíntese, exercem profunda influência na química das águas naturais em todo o planeta. O oxigênio é ator dominante na química e na bioquímica da hidrosfera. Devido a sua baixa solubilidade em água (9,0 mg/L a 20ºC) a disponibilidade de oxigênio nos ecossistemas aquáticos estabelece o limite entre a vida aeróbica e anaeróbica. Nesse contexto, um parâmetro chamado Demanda Bioquímica de Oxigênio (DBO) foi definido para medir a quantidade de matéria orgânica presente em um sistema hídrico. A DBO corresponde à massa de O<sub>2</sub> em miligramas necessária para realizar a oxidação total do carbono orgânico em um litro de água.</p><p class=\"fonte\">BAIRD, C. <em>Química Ambiental</em>. Ed. Bookman, 2005 (adaptado).</p><p>Dados: Massas molares em g/mol: C = 12; H = 1; O = 16.</p><p>Suponha que 10 mg de açúcar (fórmula mínima CH<sub>2</sub>O e massa molar igual a 30 g/mol) são dissolvidos em um litro de água; em quanto a DBO será aumentada?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,4 mg de O<sub>2</sub>/litro",
+    "B": "1,7 mg de O<sub>2</sub>/litro",
+    "C": "2,7 mg de O<sub>2</sub>/litro",
+    "D": "9,4 mg de O<sub>2</sub>/litro",
+    "E": "10,7 mg de O<sub>2</sub>/litro"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A oxidação do açúcar é CH<sub>2</sub>O + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O: 1 mol de O<sub>2</sub> (32 g) para cada 30 g de CH<sub>2</sub>O. Para 10 mg: 10 × 32/30 ≈ <strong>10,7 mg de O<sub>2</sub> por litro</strong>. Alternativa <strong>E</strong>.</p><p>A DBO é sempre um pouco maior que a massa de açúcar, porque a massa molar do O<sub>2</sub> é maior.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "DBO",
+    "proporção estequiométrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p class=\"apoio\">A composição média de uma bateria automotiva esgotada é de aproximadamente 32% Pb, 3% PbO, 17% PbO<sub>2</sub> e 36% PbSO<sub>4</sub>. A média de massa da pasta residual de uma bateria usada é de 6 kg, onde 19% é PbO<sub>2</sub>, 60% PbSO<sub>4</sub> e 21% Pb. Entre todos os compostos de chumbo presentes na pasta, o que mais preocupa é o sulfato de chumbo (II), pois nos processos pirometalúrgicos, em que os compostos de chumbo (placas das baterias) são fundidos, há a conversão de sulfato em dióxido de enxofre, gás muito poluente. Para reduzir o problema das emissões de SO<sub>2(g)</sub>, a indústria pode utilizar uma planta mista, ou seja, utilizar o processo hidrometalúrgico, para a dessulfuração antes da fusão do composto de chumbo. Nesse caso, a redução de sulfato presente no PbSO<sub>4</sub> é feita via lixiviação com solução de carbonato de sódio (Na<sub>2</sub>CO<sub>3</sub>) 1M a 45 ºC, em que se obtém o carbonato de chumbo (II) com rendimento de 91%. Após esse processo, o material segue para a fundição para obter o chumbo metálico.</p><p class=\"apoio\">PbSO<sub>4</sub> + Na<sub>2</sub>CO<sub>3</sub> → PbCO<sub>3</sub> + Na<sub>2</sub>SO<sub>4</sub></p><p class=\"apoio\">Dados: Massas molares em g/mol: Pb = 207; S = 32; Na = 23; O = 16; C = 12</p><p class=\"fonte\">ARAÚJO, R. V. V.; TINDADE, R. B. E.; SOARES, P. S. M. <em>Reciclagem de chumbo de bateria automotiva: estudo de caso</em>. Disponível em: http://www.iqsc.usp.br. Acesso em: 17 abr. 2010 (adaptado).</p><p>Segundo as condições do processo apresentado para a obtenção de carbonato de chumbo (II) por meio da lixiviação por carbonato de sódio e considerando uma massa de pasta residual de uma bateria de 6 kg, qual quantidade aproximada, em quilogramas, de PbCO<sub>3</sub> é obtida?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,7 kg",
+    "B": "1,9 kg",
+    "C": "2,9 kg",
+    "D": "3,3 kg",
+    "E": "3,6 kg"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A pasta tem 60% de PbSO<sub>4</sub>: 0,6 × 6 kg = 3,6 kg. PbSO<sub>4</sub> = 303 g/mol e PbCO<sub>3</sub> = 267 g/mol, na proporção 1 : 1: 3,6 × 267/303 ≈ 3,17 kg. Com rendimento de 91%: 3,17 × 0,91 ≈ <strong>2,9 kg</strong>. Alternativa <strong>C</strong>.</p><p>Sem o rendimento, chega-se a 3,3 kg (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rendimento",
+    "massa molar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "<p class=\"apoio\">A eletrólise é muito empregada na indústria com o objetivo de reaproveitar parte dos metais sucateados. O cobre, por exemplo, é um dos metais com maior rendimento no processo de eletrólise, com uma recuperação de aproximadamente 99,9%. Por ser um metal de alto valor comercial e de múltiplas aplicações, sua recuperação torna-se viável economicamente.</p><p>Suponha que, em um processo de recuperação de cobre puro, tenha-se eletrolisado uma solução de sulfato de cobre (II) (CuSO<sub>4</sub>) durante 3 h, empregando-se uma corrente elétrica de intensidade igual a 10 A. A massa de cobre puro recuperada é de aproximadamente</p><p>Dados: Constante de Faraday F = 96 500 C/mol; Massa molar em g/mol: Cu = 63,5.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,02 g.",
+    "B": "0,04 g.",
+    "C": "2,40 g.",
+    "D": "35,5 g.",
+    "E": "71,0 g."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Carga: Q = i · t = 10 A × 10 800 s = 108 000 C, ou 108 000/96 500 ≈ 1,12 mol de elétrons. Cada Cu<sup>2+</sup> precisa de 2 elétrons: 0,56 mol de Cu × 63,5 g/mol ≈ <strong>35,5 g</strong>. Alternativa <strong>D</strong>.</p><p>Quem esquece a carga 2+ chega a 71,0 g (E); quem usa o tempo em horas chega a valores muito pequenos (A e B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eletrólise",
+    "lei de Faraday"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Biologia",
+   "assunto": "Biomas",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "[[fig:1]]<p>Dois pesquisadores percorreram os trajetos marcados no mapa. A tarefa deles foi analisar os ecossistemas e, encontrando problemas, relatar e propor medidas de recuperação. A seguir, são reproduzidos trechos aleatórios extraídos dos relatórios desses dois pesquisadores.</p><p class=\"apoio\">Trechos aleatórios extraídos do relatório do pesquisador P1:</p><p class=\"apoio\">I. “Por causa da diminuição drástica das espécies vegetais deste ecossistema, como os pinheiros, a gralha azul também está em processo de extinção”.</p><p class=\"apoio\">I</p><p class=\"apoio\">I. “As árvores de troncos tortuosos e cascas grossas que predominam nesse ecossistema estão sendo utilizadas em carvoarias”.</p><p class=\"apoio\">Trechos aleatórios extraídos do relatório do pesquisador P2:</p><p class=\"apoio\">III. “Das palmeiras que predominam nesta região podem ser extraídas substâncias importantes para a economia regional”.</p><p class=\"apoio\">IV. “Apesar da aridez desta região, em que encontramos muitas plantas espinhosas, não se pode desprezar a sua biodiversidade.”</p><p class=\"fonte\"><em>Ecossistemas brasileiros: mapa da distribuição dos ecossistemas</em>. Disponível em: http://educacao.uol.com.br/ciencias/ult1686u52.jhtm. Acesso em: 20 abr. 2010 (adaptado).</p><p>Os trechos I, II, III e IV referem-se, pela ordem, aos seguintes ecossistemas:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q75.webp",
+     "alt": "Mapa do Brasil com os ecossistemas em tons de cinza e dois trajetos marcados por setas: o trajeto 1 vai do norte ao sul, passando pelo interior até o Sul; o trajeto 2 sai do Nordeste e faz uma curva pelo interior da região."
+    }
+   ],
+   "alternativas": {
+    "A": "Caatinga, Cerrado, Zona dos cocais e Floresta Amazônica.",
+    "B": "Mata de Araucárias, Cerrado, Zona dos cocais e Caatinga.",
+    "C": "Manguezais, Zona dos cocais, Cerrado e Mata Atlântica.",
+    "D": "Floresta Amazônica, Cerrado, Mata Atlântica e Pampas.",
+    "E": "Mata Atlântica, Cerrado, Zona dos cocais e Pantanal."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>I: pinheiros e gralha-azul são da Mata de Araucárias, no Sul. II: árvores de troncos tortuosos e casca grossa, usadas em carvoarias, são do Cerrado. III: palmeiras que dão produtos para a economia regional (babaçu, carnaúba) são da Zona dos Cocais. IV: aridez e plantas espinhosas são da Caatinga. A resposta é <strong>Mata de Araucárias, Cerrado, Zona dos Cocais e Caatinga</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ecossistemas brasileiros"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p class=\"apoio\">Investigadores das Universidades de Oxford e da Califórnia desenvolveram uma variedade de <em>Aedes aegypti</em> geneticamente modificada que é candidata para uso na busca de redução na transmissão do vírus da dengue. Nessa nova variedade de mosquito, as fêmeas não conseguem voar devido à interrupção do desenvolvimento do músculo das asas. A modificação genética introduzida é um gene dominante condicional, isso é, o gene tem expressão dominante (basta apenas uma cópia do alelo) e este só atua nas fêmeas.</p><p class=\"fonte\">FU, G. et al. <em>Female-specific flightless phenotype for mosquito control</em>. PNAS 107 (10): 4550-4554, 2010.</p><p>Prevê-se, porém, que a utilização dessa variedade de <em>Aedes aegypti</em> demore ainda anos para ser implementada, pois há demanda de muitos estudos com relação ao impacto ambiental. A liberação de machos de <em>Aedes aegypti</em> dessa variedade geneticamente modificada reduziria o número de casos de dengue em uma determinada região porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "diminuiria o sucesso reprodutivo desses machos transgênicos.",
+    "B": "restringiria a área geográfica de voo dessa espécie de mosquito.",
+    "C": "dificultaria a contaminação e reprodução do vetor natural da doença.",
+    "D": "tornaria o mosquito menos resistente ao agente etiológico da doença.",
+    "E": "dificultaria a obtenção de alimentos pelos machos geneticamente modificados."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os machos transgênicos cruzam com fêmeas selvagens e passam o gene dominante. As filhas que o herdam não voam, então não picam pessoas nem se reproduzem direito. Com o tempo, a população de vetores cai. A liberação <strong>dificultaria a contaminação e reprodução do vetor natural da doença</strong>. Alternativa <strong>C</strong>.</p><p>O sucesso dos machos em cruzar é essencial ao método (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dengue",
+    "transgênicos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Química",
+   "assunto": "Funções inorgânicas",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p>No ano de 2004, diversas mortes de animais por envenenamento no zoológico de São Paulo foram evidenciadas. Estudos técnicos apontam suspeita de intoxicação por monofluoracetato de sódio, conhecido como composto 1080 e ilegalmente comercializado como raticida. O monofluoracetato de sódio é um derivado do ácido monofluoracético e age no organismo dos mamíferos bloqueando o ciclo de Krebs, que pode levar à parada da respiração celular oxidativa e ao acúmulo de amônia na circulação.</p>[[fig:1]]<p class=\"apoio\" style=\"text-align:center\">monofluoracetato de sódio.</p><p class=\"fonte\">Disponível em: http://www1.folha.uol.com.br. Acesso em: 05 ago. 2010 (adaptado).</p><p>O monofluoracetato de sódio pode ser obtido pela</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q77.webp",
+     "alt": "Fórmula estrutural do monofluoracetato de sódio: F–CH2–C(=O)–O− Na+."
+    }
+   ],
+   "alternativas": {
+    "A": "desidratação do ácido monofluoracético, com liberação de água.",
+    "B": "hidrólise do ácido monofluoracético, sem formação de água.",
+    "C": "perda de íons hidroxila do ácido monofluoracético, com liberação de hidróxido de sódio.",
+    "D": "neutralização do ácido monofluoracético usando hidróxido de sódio, com liberação de água.",
+    "E": "substituição dos íons hidrogênio por sódio na estrutura do ácido monofluoracético, sem formação de água."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O monofluoracetato de sódio é um sal: o H ácido do grupo COOH do ácido monofluoracético foi trocado por Na<sup>+</sup>. Sal se forma pela reação de um ácido com uma base: FCH<sub>2</sub>COOH + NaOH → FCH<sub>2</sub>COONa + H<sub>2</sub>O. É a <strong>neutralização do ácido monofluoracético usando hidróxido de sódio, com liberação de água</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sais",
+    "neutralização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Física",
+   "assunto": "Eletrostática",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p>Duas irmãs que dividem o mesmo quarto de estudos combinaram de comprar duas caixas com tampas para guardarem seus pertences dentro de suas caixas, evitando, assim, a bagunça sobre a mesa de estudos. Uma delas comprou uma metálica, e a outra, uma caixa de madeira de área e espessura lateral diferentes, para facilitar a identificação. Um dia as meninas foram estudar para a prova de Física e, ao se acomodarem na mesa de estudos, guardaram seus celulares ligados dentro de suas caixas. Ao longo desse dia, uma delas recebeu ligações telefônicas, enquanto os amigos da outra tentavam ligar e recebiam a mensagem de que o celular estava fora da área de cobertura ou desligado. Para explicar essa situação, um físico deveria afirmar que o material da caixa, cujo telefone celular não recebeu as ligações é de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "madeira, e o telefone não funcionava porque a madeira não é um bom condutor de eletricidade.",
+    "B": "metal, e o telefone não funcionava devido à blindagem eletrostática que o metal proporcionava.",
+    "C": "metal, e o telefone não funcionava porque o metal refletia todo tipo de radiação que nele incidia.",
+    "D": "metal, e o telefone não funcionava porque a área lateral da caixa de metal era maior.",
+    "E": "madeira, e o telefone não funcionava porque a espessura desta caixa era maior que a espessura da caixa de metal."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Uma caixa de metal fechada funciona como uma gaiola de Faraday: as cargas se distribuem na superfície externa e o campo elétrico das ondas não chega ao interior. O celular perdeu o sinal na caixa de <strong>metal, devido à blindagem eletrostática que o metal proporcionava</strong>. Alternativa <strong>B</strong>.</p><p>O tamanho da área lateral ou a espessura (D e E) não explicam o efeito.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gaiola de Faraday",
+    "blindagem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p class=\"apoio\">As mobilizações para promover um planeta melhor para as futuras gerações são cada vez mais frequentes. A maior parte dos meios de transporte de massa é atualmente movida pela queima de um combustível fóssil. A título de exemplificação do ônus causado por essa prática, basta saber que um carro produz, em média, cerca de 200 g de dióxido de carbono por km percorrido.</p><p class=\"fonte\"><em>Revista Aquecimento Global</em>. Ano 2, nº 8. Publicação do Instituto Brasileiro de Cultura Ltda.</p><p>Um dos principais constituintes da gasolina é o octano (C<sub>8</sub>H<sub>18</sub>). Por meio da combustão do octano é possível a liberação de energia, permitindo que o carro entre em movimento. A equação que representa a reação química desse processo demonstra que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "no processo há liberação de oxigênio, sob a forma de O<sub>2</sub>.",
+    "B": "o coeficiente estequiométrico para a água é de 8 para 1 do octano.",
+    "C": "no processo há consumo de água, para que haja liberação de energia.",
+    "D": "o coeficiente estequiométrico para o oxigênio é de 12,5 para 1 do octano.",
+    "E": "o coeficiente estequiométrico para o gás carbônico é de 9 para 1 do octano."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A combustão completa do octano é C<sub>8</sub>H<sub>18</sub> + 25/2 O<sub>2</sub> → 8 CO<sub>2</sub> + 9 H<sub>2</sub>O. Para 1 octano, são 8 CO<sub>2</sub>, 9 H<sub>2</sub>O e <strong>12,5 O<sub>2</sub></strong>. Alternativa <strong>D</strong>.</p><p>O oxigênio é consumido, e não liberado (A); a água é produto (C); o CO<sub>2</sub> tem coeficiente 8, e não 9 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combustão",
+    "balanceamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p class=\"apoio\">Os pesticidas modernos são divididos em várias classes, entre as quais se destacam os organofosforados, materiais que apresentam efeito tóxico agudo para os seres humanos. Esses pesticidas contêm um átomo central de fósforo ao qual estão ligados outros átomos ou grupo de átomos como oxigênio, enxofre, grupos metoxi ou etoxi, ou um radical orgânico de cadeia longa. Os organofosforados são divididos em três subclasses: <strong>Tipo A</strong>, na qual o enxofre não se incorpora na molécula; <strong>Tipo B</strong>, na qual o oxigênio, que faz dupla ligação com fósforo, é substituído pelo enxofre; e <strong>Tipo C</strong>, no qual dois oxigênios são substituídos por enxofre.</p><p class=\"fonte\">BAIRD, C. <em>Química Ambiental</em>. Bookman, 2005.</p><p>Um exemplo de pesticida organofosforado <strong>Tipo B</strong>, que apresenta grupo etoxi em sua fórmula estrutural, está representado em:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q80a.webp",
+     "alt": "Alternativa A: fósforo com O em ligação dupla, ligado a R–O e a dois grupos O–CH3."
+    },
+    {
+     "src": "assets/img/enem-2010-natureza/q80b.webp",
+     "alt": "Alternativa B: fósforo com S em ligação dupla, ligado a R–O e a dois grupos O–CH3."
+    },
+    {
+     "src": "assets/img/enem-2010-natureza/q80c.webp",
+     "alt": "Alternativa C: fósforo com S em ligação dupla, ligado a R–S e a dois grupos O–CH3."
+    },
+    {
+     "src": "assets/img/enem-2010-natureza/q80d.webp",
+     "alt": "Alternativa D: fósforo com S em ligação dupla, ligado a NH2, a CH3O e a um oxigênio ligado a um anel benzênico com CH3 e um grupo éster."
+    },
+    {
+     "src": "assets/img/enem-2010-natureza/q80e.webp",
+     "alt": "Alternativa E: fósforo com S em ligação dupla, ligado a dois grupos OCH2CH3 e a um oxigênio ligado a um anel benzênico com o grupo O2N na outra ponta."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O Tipo B tem o enxofre no lugar do oxigênio ligado ao fósforo por ligação dupla (P=S), e os outros grupos com oxigênio. Além disso, o pesticida deve ter grupo etoxi (–OCH<sub>2</sub>CH<sub>3</sub>). A única estrutura com P=S, sem enxofre na cadeia simples e com etoxi é a da <strong>alternativa E</strong> (paration). Alternativa <strong>E</strong>.</p><p>A estrutura B também é Tipo B, mas tem grupos metoxi (–OCH<sub>3</sub>).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "organofosforados",
+    "grupo etoxi"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p>Durante uma obra em um clube, um grupo de trabalhadores teve de remover uma escultura de ferro maciço colocada no fundo de uma piscina vazia. Cinco trabalhadores amarraram cordas à escultura e tentaram puxá-la para cima, sem sucesso.</p><p>Se a piscina for preenchida com água, ficará mais fácil para os trabalhadores removerem a escultura, pois a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "escultura flutuará. Dessa forma, os homens não precisarão fazer força para remover a escultura do fundo.",
+    "B": "escultura ficará com peso menor. Dessa forma, a intensidade da força necessária para elevar a escultura será menor.",
+    "C": "água exercerá uma força na escultura proporcional a sua massa, e para cima. Esta força se somará à força que os trabalhadores fazem para anular a ação da força peso da escultura.",
+    "D": "água exercerá uma força na escultura para baixo, e esta passará a receber uma força ascendente do piso da piscina. Esta força ajudará a anular a ação da força peso na escultura.",
+    "E": "água exercerá uma força na escultura proporcional ao seu volume, e para cima. Esta força se somará à força que os trabalhadores fazem, podendo resultar em uma força ascendente maior que o peso da escultura."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Dentro da água, a escultura recebe o empuxo, uma força para cima igual ao peso da água deslocada, ou seja, proporcional ao seu volume. Essa força se soma à dos trabalhadores e pode vencer o peso. A resposta é que a <strong>água exercerá uma força na escultura proporcional ao seu volume, e para cima</strong>. Alternativa <strong>E</strong>.</p><p>O peso da escultura não muda (B), e o ferro maciço não flutua (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "empuxo",
+    "Arquimedes"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p class=\"apoio\">As baterias de Ni-Cd muito utilizadas no nosso cotidiano não devem ser descartadas em lixos comuns uma vez que uma considerável quantidade de cádmio é volatilizada e emitida para o meio ambiente quando as baterias gastas são incineradas como componente do lixo. Com o objetivo de evitar a emissão de cádmio para a atmosfera durante a combustão é indicado que seja feita a reciclagem dos materiais dessas baterias. Uma maneira de separar o cádmio dos demais compostos presentes na bateria é realizar o processo de lixiviação ácida. Nela, tanto os metais (Cd, Ni e eventualmente Co) como os hidróxidos de íons metálicos Cd(OH)<sub>2(s)</sub>, Ni(OH)<sub>2(s)</sub> , Co(OH)<sub>2(s)</sub> presentes na bateria, reagem com uma mistura ácida e são solubilizados. Em função da baixa seletividade (todos os íons metálicos são solubilizados), após a digestão ácida, é realizada uma etapa de extração dos metais com solventes orgânicos de acordo com a reação:</p><p class=\"apoio\">M<sup>2+</sup><sub>(aq)</sub> + 2 HR<sub>(org)</sub> ⇌ MR<sub>2(org)</sub> + 2 H<sup>+</sup><sub>(aq)</sub></p><p class=\"apoio\">Onde: M<sup>2+</sup> = Cd<sup>2+</sup>, Ni<sup>2+</sup> ou Co<sup>2+</sup><br>HR = C<sub>16</sub>H<sub>34</sub>–PO<sub>2</sub>H: identificado no gráfico por <strong>X</strong><br>HR = C<sub>12</sub>H<sub>12</sub>–PO<sub>2</sub>H: identificado no gráfico por <strong>Y</strong></p><p class=\"apoio\">O gráfico mostra resultado da extração utilizando os solventes orgânicos X e Y em diferentes pH.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://www.scielo.br. Acesso em 28 abr. 2010.</p><p>A reação descrita no texto mostra o processo de extração dos metais por meio da reação com moléculas orgânicas, X e Y. Considerando-se as estruturas de X e Y e o processo de separação descrito, pode-se afirmar que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q82.webp",
+     "alt": "Gráfico da extração (%) em função do pH de equilíbrio, de 0 a 7, para Cd, Co e Ni com os solventes X e Y. Com X, as curvas sobem em pH mais baixo, entre 2 e 4; com Y, sobem entre 3,5 e 6. Em cada grupo, o cádmio é extraído primeiro, depois o cobalto e por último o níquel."
+    }
+   ],
+   "alternativas": {
+    "A": "as moléculas <strong>X</strong> e <strong>Y</strong> atuam como extratores catiônicos uma vez que a parte polar da molécula troca o íon H<sup>+</sup> pelo cátion do metal.",
+    "B": "as moléculas <strong>X</strong> e <strong>Y</strong> atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon H<sup>+</sup> pelo cátion do metal.",
+    "C": "as moléculas <strong>X</strong> e <strong>Y</strong> atuam como extratores catiônicos uma vez que a parte apolar da molécula troca o íon PO<sub>2</sub><sup>2−</sup> pelo cátion do metal.",
+    "D": "as moléculas <strong>X</strong> e <strong>Y</strong> atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon PO<sub>2</sub><sup>2−</sup> pelo cátion do metal.",
+    "E": "as moléculas <strong>X</strong> e <strong>Y</strong> fazem ligações com os íons metálicos resultando em compostos com caráter apolar o que justifica a eficácia da extração."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na reação, o extrator HR libera H<sup>+</sup> e recebe o cátion metálico, formando MR<sub>2</sub>. Quem faz a troca é o grupo –PO<sub>2</sub>H, a parte polar da molécula; a cadeia carbônica longa (apolar) leva o complexo para a fase orgânica. X e Y <strong>atuam como extratores catiônicos, uma vez que a parte polar da molécula troca o íon H<sup>+</sup> pelo cátion do metal</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "extração líquido-líquido",
+    "troca iônica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p class=\"apoio\">Ao colocar um pouco de açúcar na água e mexer até a obtenção de uma só fase, prepara-se uma solução. O mesmo acontece ao se adicionar um pouquinho de sal à água e misturar bem. Uma substância capaz de dissolver o soluto é denominada solvente; por exemplo, a água é um solvente para o açúcar, para o sal e para várias outras substâncias. A figura a seguir ilustra essa citação.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.sobiologia.com.br. Acesso em: 27 abr. 2010.</p><p>Suponha que uma pessoa, para adoçar seu cafezinho, tenha utilizado 3,42 g de sacarose (massa molar igual a 342 g/mol) para uma xícara de 50 mL do líquido. Qual é a concentração final, em mol/L, de sacarose nesse cafezinho?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q83.webp",
+     "alt": "Ilustração: uma mão coloca uma colher de soluto num béquer com solvente; uma seta leva a outro béquer com a solução."
+    }
+   ],
+   "alternativas": {
+    "A": "0,02",
+    "B": "0,2",
+    "C": "2",
+    "D": "200",
+    "E": "2000"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>3,42 g de sacarose ÷ 342 g/mol = 0,01 mol. Em 50 mL = 0,05 L: 0,01/0,05 = <strong>0,2 mol/L</strong>. Alternativa <strong>B</strong>.</p><p>Quem esquece de converter mL em litros chega a 0,0002 ou a valores grandes como 200 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "concentração molar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p class=\"apoio\">Um grupo de cientistas liderado por pesquisadores do Instituto de Tecnologia da Califórnia (Caltech), nos Estados Unidos, construiu o primeiro metamaterial que apresenta valor negativo do índice de refração relativo para a luz visível. Denomina-se metamaterial um material óptico artificial, tridimensional, formado por pequenas estruturas menores do que o comprimento de onda da luz, o que lhe dá propriedades e comportamentos que não são encontrados em materiais naturais. Esse material tem sido chamado de “canhoto”.</p><p class=\"fonte\">Disponível em: http://www.inovacaotecnologica.com.br. Acesso em: 28 abr. 2010 (adaptado).</p><p>Considerando o comportamento atípico desse metamaterial, qual é a figura que representa a refração da luz ao passar do ar para esse meio?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q84a.webp",
+     "alt": "Alternativa A: o raio incidente chega ao metamaterial pela esquerda, de baixo para cima, e um raio sai para cima e para a esquerda, do mesmo lado de onde veio."
+    },
+    {
+     "src": "assets/img/enem-2010-natureza/q84b.webp",
+     "alt": "Alternativa B: o raio incidente chega pela esquerda, de baixo para cima, e continua para cima e para a direita, atravessando a normal, como na refração comum."
+    },
+    {
+     "src": "assets/img/enem-2010-natureza/q84c.webp",
+     "alt": "Alternativa C: o raio incidente chega pela esquerda e sai para a direita quase na horizontal, rente à normal tracejada."
+    },
+    {
+     "src": "assets/img/enem-2010-natureza/q84d.webp",
+     "alt": "Alternativa D: o raio incidente chega pela esquerda, de baixo para cima, e o raio refratado segue para a direita e para baixo, do mesmo lado da normal que o incidente."
+    },
+    {
+     "src": "assets/img/enem-2010-natureza/q84e.webp",
+     "alt": "Alternativa E: o raio incidente chega pela esquerda e para na superfície do metamaterial, sem raio refratado."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com índice de refração negativo, o raio refratado fica do mesmo lado da normal que o raio incidente, em vez de cruzar para o outro lado. Entrando por baixo à esquerda, ele deve seguir para baixo à direita, dentro do metamaterial. É a <strong>figura D</strong>. Alternativa <strong>D</strong>.</p><p>A figura B mostra a refração comum, com o raio passando para o outro lado da normal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "refração",
+    "índice negativo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "<p class=\"apoio\">Decisão de asfaltamento da rodovia MG-010, acompanhada da introdução de espécies exóticas, e a prática de incêndios criminosos, ameaçam o sofisticado ecossistema do campo rupestre da reserva da Serra do Espinhaço. As plantas nativas desta região, altamente adaptadas a uma alta concentração de alumínio, que inibe o crescimento das raízes e dificultam a absorção de nutrientes e água, estão sendo substituídas por espécies invasoras que não teriam naturalmente adaptação para este ambiente, no entanto elas estão dominando as margens da rodovia, equivocadamente chamada de “estrada ecológica”. Possivelmente a entrada de espécies de plantas exóticas neste ambiente foi provocada pelo uso, neste empreendimento, de um tipo de asfalto (cimento-solo), que possui uma mistura rica em cálcio, que causou modificações químicas aos solos adjacentes à rodovia MG-010.</p><p class=\"fonte\"><em>Scientific American Brasil</em>. Ano 7, nº 79, 2008 (adaptado).</p><p>Essa afirmação baseia-se no uso de cimento-solo, mistura rica em cálcio que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "inibe a toxicidade do alumínio, elevando o pH dessas áreas.",
+    "B": "inibe a toxicidade do alumínio, reduzindo o pH dessas áreas.",
+    "C": "aumenta a toxicidade do alumínio, elevando o pH dessas áreas.",
+    "D": "aumenta a toxicidade do alumínio, reduzindo o pH dessas áreas.",
+    "E": "neutraliza a toxicidade do alumínio, reduzindo o pH dessas áreas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O cálcio do cimento-solo tem caráter básico: eleva o pH do solo. Em pH mais alto, o alumínio precipita e deixa de ser tóxico. Assim, plantas invasoras que não suportariam o alumínio passam a crescer à margem da rodovia. A mistura <strong>inibe a toxicidade do alumínio, elevando o pH dessas áreas</strong>. Alternativa <strong>A</strong>.</p><p>O cálcio não reduz o pH (B, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "acidez do solo",
+    "alumínio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Biologia",
+   "assunto": "Saúde e doenças",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p>Três dos quatro tipos de testes atualmente empregados para a detecção de príons patogênicos em tecidos cerebrais de gado morto são mostrados nas figuras a seguir. Uma vez identificado um animal morto infectado, funcionários das agências de saúde pública e fazendeiros podem removê-lo do suprimento alimentar ou rastrear os alimentos infectados que o animal possa ter consumido.</p>[[fig:1]]<p class=\"fonte\">Legenda: PrP<sup>SC</sup> – proteínas do Príon. <em>Scientific American Brasil</em>, ago. 2004 (adaptado).</p><p>Analisando os testes I, II e III, para a detecção de príons patogênicos, identifique as condições em que os resultados foram positivos para a presença de príons nos três testes:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-natureza/q86.webp",
+     "alt": "Três testes de detecção de príons em cérebro bovino. Teste I: uma amostra é injetada num camundongo; o animal A está vivo e o animal B aparece marcado com X, morto. Teste II: a amostra numa lâmina recebe um anticorpo que reconhece o príon patogênico e vai ao microscópio; a lâmina A mostra uma mancha escura e a lâmina B, não. Teste III: a amostra recebe protease e passa por um gel com marcador específico para o príon; o gel A fica vazio e o gel B mostra bandas escuras."
+    }
+   ],
+   "alternativas": {
+    "A": "Animal A, lâmina B e gel A.",
+    "B": "Animal A, lâmina A e gel B.",
+    "C": "Animal B, lâmina A e gel B.",
+    "D": "Animal B, lâmina B e gel A.",
+    "E": "Animal A, lâmina B e gel B."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Teste I: o animal que recebe tecido com príons adoece e morre (animal B, marcado com X). Teste II: a lâmina com príons fica marcada pelo anticorpo (lâmina A, com a mancha). Teste III: a protease destrói as proteínas normais, e o marcador revela o príon resistente (gel B, com bandas). A resposta é <strong>Animal B, lâmina A e gel B</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "príons",
+    "doença da vaca louca"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "<p class=\"apoio\">De 15% a 20% da área de um canavial precisa ser renovada anualmente. Entre o período de corte e o de plantação de novas canas, os produtores estão optando por plantar leguminosas, pois elas fixam nitrogênio no solo, um adubo natural para a cana. Essa opção de rotação é agronomicamente favorável, de forma que municípios canavieiros são hoje grandes produtores de soja, amendoim e feijão.</p><p class=\"fonte\">As encruzilhadas da fome. <em>Planeta</em>. São Paulo, ano 36, n°. 430, jul. 2008 (adaptado).</p><p>A rotação de culturas citada no texto pode beneficiar economicamente os produtores de cana porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a decomposição da cobertura morta dessas culturas resulta em economia na aquisição de adubos industrializados.",
+    "B": "o plantio de cana-de-açúcar propicia um solo mais adequado para o cultivo posterior da soja, do amendoim e do feijão.",
+    "C": "as leguminosas absorvem do solo elementos químicos diferentes dos absorvidos pela cana, restabelecendo o equilíbrio do solo.",
+    "D": "a queima dos restos vegetais do cultivo da cana-de-açúcar transforma-se em cinzas, sendo reincorporadas ao solo, o que gera economia na aquisição de adubo.",
+    "E": "a soja, o amendoim e o feijão, além de possibilitarem a incorporação ao solo de determinadas moléculas disponíveis na atmosfera, são grãos comercializados no mercado produtivo."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As leguminosas têm bactérias nas raízes que fixam o nitrogênio do ar no solo, um adubo natural para a cana. Além disso, soja, amendoim e feijão são vendidos, gerando renda. O benefício econômico está em que <strong>a soja, o amendoim e o feijão, além de possibilitarem a incorporação ao solo de determinadas moléculas disponíveis na atmosfera, são grãos comercializados</strong>. Alternativa <strong>E</strong>.</p><p>O texto não fala de queima de restos de cana (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rotação de culturas",
+    "fixação de nitrogênio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p class=\"apoio\">Diversos comportamentos e funções fisiológicas do nosso corpo são periódicos, sendo assim, são classificados como ritmo biológico. Quando o ritmo biológico responde a um período aproximado de 24 horas, ele é denominado ritmo circadiano. Esse ritmo diário é mantido pelas pistas ambientais de claro-escuro e determina comportamentos como o ciclo do sono-vigília e o da alimentação. Uma pessoa, em condições normais, acorda às 8 h e vai dormir às 21 h, mantendo seu ciclo de sono dentro do ritmo dia e noite. Imagine que essa mesma pessoa tenha sido mantida numa sala totalmente escura por mais de quinze dias. Ao sair de lá, ela dormia às 18 h e acordava às 3 h da manhã. Além disso, dormia mais vezes durante o dia, por curtos períodos de tempo, e havia perdido a noção da contagem dos dias, pois, quando saiu, achou que havia passado muito mais tempo no escuro.</p><p class=\"fonte\">BRANDÃO, M. L. <em>Psicofisiologia</em>. São Paulo: Atheneu, 2000 (adaptado).</p><p>Em função das características observadas, conclui-se que a pessoa</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "apresentou aumento do seu período de sono contínuo e passou a dormir durante o dia, pois seu ritmo biológico foi alterado apenas no período noturno.",
+    "B": "apresentou pouca alteração do seu ritmo circadiano, sendo que sua noção de tempo foi alterada somente pela sua falta de atenção à passagem do tempo.",
+    "C": "estava com seu ritmo já alterado antes de entrar na sala, o que significa que apenas progrediu para um estado mais avançado de perda do ritmo biológico no escuro.",
+    "D": "teve seu ritmo biológico alterado devido à ausência de luz e de contato com o mundo externo, no qual a noção de tempo de um dia é modulada pela presença ou ausência do sol.",
+    "E": "deveria não ter apresentado nenhuma mudança do seu período de sono porque, na realidade, continua com o seu ritmo normal, independentemente do ambiente em que seja colocada."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O ritmo circadiano é ajustado pelas pistas ambientais de claro e escuro. Sem luz e sem contato com o mundo externo, a pessoa perde a referência do dia e seu ritmo se desajusta. Ela <strong>teve seu ritmo biológico alterado devido à ausência de luz e de contato com o mundo externo</strong>. Alternativa <strong>D</strong>.</p><p>O texto diz que o ritmo depende do ambiente, e não que se mantém sozinho (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ritmo circadiano"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p>Deseja-se instalar uma estação de geração de energia elétrica em um município localizado no interior de um pequeno vale cercado de altas montanhas de difícil acesso. A cidade é cruzada por um rio, que é fonte de água para consumo, irrigação das lavouras de subsistência e pesca. Na região, que possui pequena extensão territorial, a incidência solar é alta o ano todo. A estação em questão irá abastecer apenas o município apresentado.</p><p>Qual forma de obtenção de energia, entre as apresentadas, é a mais indicada para ser implantada nesse município de modo a causar o menor impacto ambiental?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Termelétrica, pois é possível utilizar a água do rio no sistema de refrigeração.",
+    "B": "Eólica, pois a geografia do local é própria para a captação desse tipo de energia.",
+    "C": "Nuclear, pois o modo de resfriamento de seus sistemas não afetaria a população.",
+    "D": "Fotovoltaica, pois é possível aproveitar a energia solar que chega à superfície do local.",
+    "E": "Hidrelétrica, pois o rio que corta o município é suficiente para abastecer a usina construída."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O município é pequeno, cercado de montanhas, tem alta incidência solar o ano todo e um rio que serve para consumo, irrigação e pesca. Uma hidrelétrica alagaria o vale e afetaria o rio; uma termelétrica ou nuclear aqueceria a água e traria riscos. A opção de menor impacto é a <strong>fotovoltaica, aproveitando a energia solar que chega à superfície</strong>. Alternativa <strong>D</strong>.</p><p>Nada no texto indica ventos fortes para a eólica (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "matriz energética",
+    "energia solar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p class=\"apoio\">O lixão que recebia 130 toneladas de lixo e contaminava a região com o seu chorume (líquido derivado da decomposição de compostos orgânicos) foi recuperado, transformando-se em um aterro sanitário controlado, mudando a qualidade de vida e a paisagem e proporcionando condições dignas de trabalho para os que dele subsistiam.</p><p class=\"fonte\"><em>Revista Promoção da Saúde da Secretaria de Políticas de Saúde</em>. Ano 1, nº 4, dez. 2000 (adaptado).</p><p>Quais procedimentos técnicos tornam o aterro sanitário mais vantajoso que o lixão, em relação às problemáticas abordadas no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O lixo é recolhido e incinerado pela combustão a altas temperaturas.",
+    "B": "O lixo hospitalar é separado para ser enterrado e sobre ele, colocada cal virgem.",
+    "C": "O lixo orgânico e inorgânico é encoberto, e o chorume canalizado para ser tratado e neutralizado.",
+    "D": "O lixo orgânico é completamente separado do lixo inorgânico, evitando a formação de chorume.",
+    "E": "O lixo industrial é separado e acondicionado de forma adequada, formando uma bolsa de resíduos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No aterro sanitário, o lixo é compactado e coberto com terra, e o fundo é impermeabilizado; o chorume é coletado por drenos e tratado, sem contaminar o solo e a água. O que o torna mais vantajoso é que <strong>o lixo orgânico e inorgânico é encoberto, e o chorume canalizado para ser tratado e neutralizado</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aterro sanitário",
+    "chorume"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

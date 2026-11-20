@@ -1,0 +1,1259 @@
+{
+ "id": "enem-2009-natureza",
+ "banca": "Enem",
+ "ano": 2009,
+ "titulo": "Enem 2009: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2009-12-05",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p class=\"apoio\">A atmosfera terrestre é composta pelos gases nitrogênio (N<sub>2</sub>) e oxigênio (O<sub>2</sub>), que somam cerca de 99%, e por gases traços, entre eles o gás carbônico (CO<sub>2</sub>), vapor de água (H<sub>2</sub>O), metano (CH<sub>4</sub>), ozônio (O<sub>3</sub>) e o óxido nitroso (N<sub>2</sub>O), que compõem o restante 1% do ar que respiramos.</p><p class=\"apoio\">Os gases traços, por serem constituídos por pelo menos três átomos, conseguem absorver o calor irradiado pela Terra, aquecendo o planeta. Esse fenômeno, que acontece há bilhões de anos, é chamado de efeito estufa. A partir da Revolução Industrial (século XIX), a concentração de gases traços na atmosfera, em particular o CO<sub>2</sub>, tem aumentado significativamente, o que resultou no aumento da temperatura em escala global. Mais recentemente, outro fator tornou-se diretamente envolvido no aumento da concentração de CO<sub>2</sub> na atmosfera: o desmatamento.</p><p class=\"fonte\">BROWN, I. F.; ALECHANDRE, A. S. Conceitos básicos sobre clima, carbono, florestas e comunidades. A.G. Moreira & S. Schwartzman. As mudanças climáticas globais e os ecossistemas brasileiros. Brasília: Instituto de Pesquisa Ambiental da Amazônia, 2000 (adaptado).</p><p>Considerando o texto, uma alternativa viável para combater o efeito estufa é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reduzir o calor irradiado pela Terra mediante a substituição da produção primária pela industrialização refrigerada.",
+    "B": "promover a queima da biomassa vegetal, responsável pelo aumento do efeito estufa devido à produção de CH<sub>4</sub>.",
+    "C": "reduzir o desmatamento, mantendo-se, assim, o potencial da vegetação em absorver o CO<sub>2</sub> da atmosfera.",
+    "D": "aumentar a concentração atmosférica de H<sub>2</sub>O, molécula capaz de absorver grande quantidade de calor.",
+    "E": "remover moléculas orgânicas polares da atmosfera, diminuindo a capacidade delas de reter calor."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto aponta o desmatamento como fator recente de aumento do CO<sub>2</sub> na atmosfera. A vegetação retira CO<sub>2</sub> do ar na fotossíntese; reduzir o desmatamento mantém esse sumidouro funcionando. Alternativa <strong>C</strong>.</p><p>Queimar biomassa (B) libera mais gases; aumentar o vapor de água (D) reforçaria o efeito estufa; e reduzir o calor irradiado pela Terra (A) não é algo que se controle com industrialização.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "efeito estufa",
+    "desmatamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p class=\"apoio\">Analise a figura.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http//www.alcoologia.net. Acesso em: 15 jul. 2009 (adaptado).</p><p>Supondo que seja necessário dar um título para essa figura, a alternativa que melhor traduziria o processo representado seria:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q2.webp",
+     "alt": "Gráfico da concentração de álcool no sangue (mg%) em função do tempo (horas), de 0 a 8 h, com quatro curvas: todas sobem rápido e depois descem; a maior chega a cerca de 85 mg% e zera perto de 7 h, a menor chega a cerca de 18 mg% e zera perto de 2 h. Uma linha tracejada marca 50 mg%."
+    }
+   ],
+   "alternativas": {
+    "A": "Concentração média de álcool no sangue ao longo do dia.",
+    "B": "Variação da frequência da ingestão de álcool ao longo das horas.",
+    "C": "Concentração mínima de álcool no sangue a partir de diferentes dosagens.",
+    "D": "Estimativa de tempo necessário para metabolizar diferentes quantidades de álcool.",
+    "E": "Representação gráfica da distribuição de frequência de álcool em determinada hora do dia."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O gráfico mostra várias curvas de concentração de álcool no sangue ao longo do tempo: cada curva começa num pico diferente (doses diferentes) e cai até zero em tempos diferentes. Ele representa quanto tempo o organismo leva para metabolizar diferentes quantidades de álcool. Alternativa <strong>D</strong>.</p><p>Não há “hora do dia” no eixo, só tempo depois da ingestão, e não há uma média única (A, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metabolismo do álcool",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"apoio\">Estima-se que haja atualmente no mundo 40 milhões de pessoas infectadas pelo HIV (o vírus que causa a AIDS), sendo que as taxas de novas infecções continuam crescendo, principalmente na África, Ásia e Rússia. Nesse cenário de pandemia, uma vacina contra o HIV teria imenso impacto, pois salvaria milhões de vidas. Certamente seria um marco na história planetária e também uma esperança para as populações carentes de tratamento antiviral e de acompanhamento médico.</p><p class=\"fonte\">TANURI, A.; FERREIRA JUNIOR, O. C. Vacina contra Aids: desafios e esperanças. Ciência Hoje (44) 26, 2009 (adaptado).</p><p>Uma vacina eficiente contra o HIV deveria</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "induzir a imunidade, para proteger o organismo da contaminação viral.",
+    "B": "ser capaz de alterar o genoma do organismo portador, induzindo a síntese de enzimas protetoras.",
+    "C": "produzir antígenos capazes de se ligarem ao vírus, impedindo que este entre nas células do organismo humano.",
+    "D": "ser amplamente aplicada em animais, visto que esses são os principais transmissores do vírus para os seres humanos.",
+    "E": "estimular a imunidade, minimizando a transmissão do vírus por gotículas de saliva."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Vacinas induzem o organismo a produzir sua própria defesa (anticorpos e células de memória) antes do contato com o agente. Uma vacina eficiente contra o HIV deveria induzir essa imunidade e proteger contra a infecção. Alternativa <strong>A</strong>.</p><p>Vacina não altera o genoma (B), não produz antígenos que bloqueiam o vírus (C, quem faz isso são os anticorpos), e o HIV não é transmitido por animais (D) nem por saliva (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vacina",
+    "HIV"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p>Em um experimento, preparou-se um conjunto de plantas por técnica de clonagem a partir de uma planta original que apresentava folhas verdes. Esse conjunto foi dividido em dois grupos, que foram tratados de maneira idêntica, com exceção das condições de iluminação, sendo um grupo exposto a ciclos de iluminação solar natural e outro mantido no escuro. Após alguns dias, observou-se que o grupo exposto à luz apresentava folhas verdes como a planta original e o grupo cultivado no escuro apresentava folhas amareladas. Ao final do experimento, os dois grupos de plantas apresentaram</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "os genótipos e os fenótipos idênticos.",
+    "B": "os genótipos idênticos e os fenótipos diferentes.",
+    "C": "diferenças nos genótipos e fenótipos.",
+    "D": "o mesmo fenótipo e apenas dois genótipos diferentes.",
+    "E": "o mesmo fenótipo e grande variedade de genótipos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As plantas vieram da mesma planta por clonagem: o genótipo é idêntico em todas. A cor das folhas mudou por causa do ambiente (sem luz não há clorofila), então os fenótipos são diferentes. Fenótipo = genótipo + ambiente. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "genótipo e fenótipo",
+    "clonagem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Física",
+   "assunto": "Gravitação",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p>Na linha de uma tradição antiga, o astrônomo grego Ptolomeu (100-170 d.C.) afirmou a tese do geocentrismo, segundo a qual a Terra seria o centro do universo, sendo que o Sol, a Lua e os planetas girariam em seu redor em órbitas circulares. A teoria de Ptolomeu resolvia de modo razoável os problemas astronômicos da sua época. Vários séculos mais tarde, o clérigo e astrônomo polonês Nicolau Copérnico (1473-1543), ao encontrar inexatidões na teoria de Ptolomeu, formulou a teoria do heliocentrismo, segundo a qual o Sol deveria ser considerado o centro do universo, com a Terra, a Lua e os planetas girando circularmente em torno dele. Por fim, o astrônomo e matemático alemão Johannes Kepler (1571-1630), depois de estudar o planeta Marte por cerca de trinta anos, verificou que a sua órbita é elíptica. Esse resultado generalizou-se para os demais planetas.</p><p>A respeito dos estudiosos citados no texto, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ptolomeu apresentou as ideias mais valiosas, por serem mais antigas e tradicionais.",
+    "B": "Copérnico desenvolveu a teoria do heliocentrismo inspirado no contexto político do Rei Sol.",
+    "C": "Copérnico viveu em uma época em que a pesquisa científica era livre e amplamente incentivada pelas autoridades.",
+    "D": "Kepler estudou o planeta Marte para atender às necessidades de expansão econômica e científica da Alemanha.",
+    "E": "Kepler apresentou uma teoria científica que, graças aos métodos aplicados, pôde ser testada e generalizada."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Kepler partiu de anos de observação de Marte e chegou a uma conclusão (órbitas elípticas) que pôde ser testada e estendida aos outros planetas: é o método científico. Alternativa <strong>E</strong>.</p><p>Uma ideia não vale mais por ser antiga (A); Copérnico viveu antes do “Rei Sol” (B), num tempo em que a Igreja controlava a pesquisa (C); a Alemanha nem existia como país unificado (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "história da ciência",
+    "leis de Kepler"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p>O ciclo biogeoquímico do carbono compreende diversos compartimentos, entre os quais a Terra, a atmosfera e os oceanos, e diversos processos que permitem a transferência de compostos entre esses reservatórios. Os estoques de carbono armazenados na forma de recursos não renováveis, por exemplo, o petróleo, são limitados, sendo de grande relevância que se perceba a importância da substituição de combustíveis fósseis por combustíveis de fontes renováveis. A utilização de combustíveis fósseis interfere no ciclo do carbono, pois provoca</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aumento da porcentagem de carbono contido na Terra.",
+    "B": "redução na taxa de fotossíntese dos vegetais superiores.",
+    "C": "aumento da produção de carboidratos de origem vegetal.",
+    "D": "aumento na quantidade de carbono presente na atmosfera.",
+    "E": "redução da quantidade global de carbono armazenado nos oceanos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os combustíveis fósseis guardam carbono retirado da atmosfera há milhões de anos. Queimá-los libera esse carbono como CO<sub>2</sub>, aumentando a quantidade de carbono na atmosfera mais rápido do que os outros compartimentos conseguem absorver. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo do carbono",
+    "combustíveis fósseis"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p class=\"apoio\">Um novo método para produzir insulina artificial que utiliza tecnologia de DNA recombinante foi desenvolvido por pesquisadores do Departamento de Biologia Celular da Universidade de Brasília (UnB) em parceria com a iniciativa privada. Os pesquisadores modificaram geneticamente a bactéria Escherichia coli para torná-la capaz de sintetizar o hormônio. O processo permitiu fabricar insulina em maior quantidade e em apenas 30 dias, um terço do tempo necessário para obtê-la pelo método tradicional, que consiste na extração do hormônio a partir do pâncreas de animais abatidos.</p><p class=\"fonte\">Ciência Hoje, 24 abr. 2001. Disponível em: http://cienciahoje.uol.com.br (adaptado).</p><p>A produção de insulina pela técnica do DNA recombinante tem, como consequência,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o aperfeiçoamento do processo de extração de insulina a partir do pâncreas suíno.",
+    "B": "a seleção de microrganismos resistentes a antibióticos.",
+    "C": "o progresso na técnica da síntese química de hormônios.",
+    "D": "impacto favorável na saúde de indivíduos diabéticos.",
+    "E": "a criação de animais transgênicos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A bactéria modificada produz insulina humana em mais quantidade e em menos tempo, o que barateia e amplia o acesso ao hormônio. A consequência direta é um impacto favorável na saúde de quem tem diabetes. Alternativa <strong>D</strong>.</p><p>A técnica substitui, e não aperfeiçoa, a extração do pâncreas suíno (A); não envolve animais transgênicos (E) nem síntese química (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "DNA recombinante",
+    "insulina"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p class=\"apoio\">A economia moderna depende da disponibilidade de muita energia em diferentes formas, para funcionar e crescer. No Brasil, o consumo total de energia pelas indústrias cresceu mais de quatro vezes no período entre 1970 e 2005. Enquanto os investimentos em energias limpas e renováveis, como solar e eólica, ainda são incipientes, ao se avaliar a possibilidade de instalação de usinas geradoras de energia elétrica, diversos fatores devem ser levados em consideração, tais como os impactos causados ao ambiente e às populações locais.</p><p class=\"fonte\">RICARDO, B.; CAMPANILI, M. Almanaque Brasil Socioambiental. São Paulo: Instituto Socioambiental, 2007 (adaptado).</p><p>Em uma situação hipotética, optou-se por construir uma usina hidrelétrica em região que abrange diversas quedas d’água em rios cercados por mata, alegando-se que causaria impacto ambiental muito menor que uma usina termelétrica. Entre os possíveis impactos da instalação de uma usina hidrelétrica nessa região, inclui-se</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a poluição da água por metais da usina.",
+    "B": "a destruição do habitat de animais terrestres.",
+    "C": "o aumento expressivo na liberação de CO2 para a atmosfera.",
+    "D": "o consumo não renovável de toda água que passa pelas turbinas.",
+    "E": "o aprofundamento no leito do rio, com a menor deposição de resíduos no trecho de rio anterior à represa."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Uma hidrelétrica represa o rio e alaga uma grande área. Numa região de rios cercados por mata, o lago destrói o habitat de animais terrestres. Alternativa <strong>B</strong>.</p><p>A usina não emite muito CO<sub>2</sub> (C, típico de termelétrica), a água não é consumida nas turbinas (D) e a represa faz o rio depositar mais sedimentos antes da barragem, não menos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hidrelétrica",
+    "impacto ambiental"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p class=\"apoio\">As mudanças climáticas e da vegetação ocorridas nos trópicos da América do Sul têm sido bem documentadas por diversos autores, existindo um grande acúmulo de evidências geológicas ou paleoclimatológicas que evidenciam essas mudanças ocorridas durante o Quaternário nessa região. Essas mudanças resultaram em restrição da distribuição das florestas pluviais, com expansões concomitantes de habitats não-florestais durante períodos áridos (glaciais), seguido da expansão das florestas pluviais e restrição das áreas não-florestais durante períodos úmidos (interglaciais).</p><p class=\"fonte\">Disponível em: http://zoo.bio.ufpr.br. Acesso em: 1 maio 2009.</p><p>Durante os períodos glaciais,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as áreas não-florestais ficam restritas a refúgios ecológicos devido à baixa adaptabilidade de espécies não-florestais a ambientes áridos.",
+    "B": "grande parte da diversidade de espécies vegetais é reduzida, uma vez que necessitam de condições semelhantes a dos períodos interglaciais.",
+    "C": "a vegetação comum ao cerrado deve ter se limitado a uma pequena região do centro do Brasil, da qual se expandiu até atingir a atual distribuição.",
+    "D": "plantas com adaptações ao clima árido, como o desenvolvimento de estruturas que reduzem a perda de água, devem apresentar maior área de distribuição.",
+    "E": "florestas tropicais como a amazônica apresentam distribuição geográfica mais ampla, uma vez que são densas e diminuem a ação da radiação solar sobre o solo e reduzem os efeitos da aridez."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Nos períodos glaciais o clima ficava mais seco: as florestas encolhiam e os ambientes abertos se expandiam. Plantas com adaptações à aridez, como estruturas que reduzem a perda de água, ocupavam áreas maiores. Alternativa <strong>D</strong>.</p><p>O texto diz o contrário de A e E: quem ficava em refúgios eram as florestas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "paleoclima",
+    "biomas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Biologia",
+   "assunto": "Fisiologia vegetal",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p>A fotossíntese é importante para a vida na Terra. Nos cloroplastos dos organismos fotossintetizantes, a energia solar é convertida em energia química que, juntamente com água e gás carbônico (CO<sub>2</sub>), é utilizada para a síntese de compostos orgânicos (carboidratos). A fotossíntese é o único processo de importância biológica capaz de realizar essa conversão. Todos os organismos, incluindo os produtores, aproveitam a energia armazenada nos carboidratos para impulsionar os processos celulares, liberando CO<sub>2</sub> para a atmosfera e água para a célula por meio da respiração celular. Além disso, grande fração dos recursos energéticos do planeta, produzidos tanto no presente (biomassa) como em tempos remotos (combustível fóssil), é resultante da atividade fotossintética. As informações sobre obtenção e transformação dos recursos naturais por meio dos processos vitais de fotossíntese e respiração, descritas no texto, permitem concluir que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o CO<sub>2</sub> e a água são moléculas de alto teor energético.",
+    "B": "os carboidratos convertem energia solar em energia química.",
+    "C": "a vida na Terra depende, em última análise, da energia proveniente do Sol.",
+    "D": "o processo respiratório é responsável pela retirada de carbono da atmosfera.",
+    "E": "a produção de biomassa e de combustível fóssil, por si, é responsável pelo aumento de CO<sub>2</sub> atmosférico."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A fotossíntese é o único processo que converte energia do Sol em energia química, e todos os seres vivos dependem dessa energia guardada nos carboidratos. Logo, a vida na Terra depende, em última análise, do Sol. Alternativa <strong>C</strong>.</p><p>CO<sub>2</sub> e água são pobres em energia (A); quem converte energia são os cloroplastos, não os carboidratos (B); a respiração libera carbono, não retira (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fotossíntese",
+    "fluxo de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>Para que todos os órgãos do corpo humano funcionem em boas condições, é necessário que a temperatura do corpo fique sempre entre 36 ºC e 37 ºC. Para manter-se dentro dessa faixa, em dias de muito calor ou durante intensos exercícios físicos, uma série de mecanismos fisiológicos é acionada. Pode-se citar como o principal responsável pela manutenção da temperatura corporal humana o sistema</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "digestório, pois produz enzimas que atuam na quebra de alimentos calóricos.",
+    "B": "imunológico, pois suas células agem no sangue, diminuindo a condução do calor.",
+    "C": "nervoso, pois promove a sudorese, que permite perda de calor por meio da evaporação da água.",
+    "D": "reprodutor, pois secreta hormônios que alteram a temperatura, principalmente durante a menopausa.",
+    "E": "endócrino, pois fabrica anticorpos que, por sua vez, atuam na variação do diâmetro dos vasos periféricos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O hipotálamo, parte do sistema nervoso, controla a temperatura do corpo. No calor, ele ativa a sudorese: o suor evapora e leva calor da pele. Alternativa <strong>C</strong>.</p><p>Anticorpos são do sistema imunológico, não do endócrino (E), e os outros sistemas citados não regulam a temperatura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "termorregulação",
+    "sudorese"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>Sabões são sais de ácidos carboxílicos de cadeia longa utilizados com a finalidade de facilitar, durante processos de lavagem, a remoção de substâncias de baixa solubilidade em água, por exemplo, óleos e gorduras. A figura a seguir representa a estrutura de uma molécula de sabão.</p>[[fig:1]]<p>Em solução, os ânions do sabão podem hidrolisar a água e, desse modo, formar o ácido carboxílico correspondente. Por exemplo, para o estearato de sódio, é estabelecido o seguinte equilíbrio:</p><p class=\"apoio\" style=\"text-align:center\">CH<sub>3</sub>(CH<sub>2</sub>)<sub>16</sub>COO<sup>−</sup> + H<sub>2</sub>O ⇌ CH<sub>3</sub>(CH<sub>2</sub>)<sub>16</sub>COOH + OH<sup>−</sup></p><p>Uma vez que o ácido carboxílico formado é pouco solúvel em água e menos eficiente na remoção de gorduras, o pH do meio deve ser controlado de maneira a evitar que o equilíbrio acima seja deslocado para a direita.</p><p>Com base nas informações do texto, é correto concluir que os sabões atuam de maneira</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q12.webp",
+     "alt": "Fórmula de um sal de ácido carboxílico: longa cadeia em zigue-zague de carbonos terminada em CO<sub>2</sub><sup>−</sup>Na<sup>+</sup>."
+    }
+   ],
+   "alternativas": {
+    "A": "mais eficiente em pH básico.",
+    "B": "mais eficiente em pH ácido.",
+    "C": "mais eficiente em pH neutro.",
+    "D": "eficiente em qualquer faixa de pH.",
+    "E": "mais eficiente em pH ácido ou neutro."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O equilíbrio produz OH<sup>−</sup>. Se o meio for básico (muito OH<sup>−</sup>), o equilíbrio é deslocado para a esquerda (princípio de Le Chatelier): sobra mais ânion do sabão e menos ácido carboxílico, que é pouco eficiente. Os sabões funcionam melhor em pH básico. Alternativa <strong>A</strong>.</p><p>Em meio ácido, o H<sup>+</sup> consome o OH<sup>−</sup> e o equilíbrio vai para a direita, o que se quer evitar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "deslocamento de equilíbrio",
+    "sabões"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p class=\"apoio\">A abertura e a pavimentação de rodovias em zonas rurais e regiões afastadas dos centros urbanos, por um lado, possibilita melhor acesso e maior integração entre as comunidades, contribuindo com o desenvolvimento social e urbano de populações isoladas. Por outro lado, a construção de rodovias pode trazer impactos indesejáveis ao meio ambiente, visto que a abertura de estradas pode resultar na fragmentação de habitats, comprometendo o fluxo gênico e as interações entre espécies silvestres, além de prejudicar o fluxo natural de rios e riachos, possibilitar o ingresso de espécies exóticas em ambientes naturais e aumentar a pressão antrópica sobre os ecossistemas nativos.</p><p class=\"fonte\">BARBOSA, N. P. U.; FERNANDES, G. W. A destruição do jardim. Scientific American Brasil. Ano 7, número 80, dez. 2008 (adaptado).</p><p>Nesse contexto, para conciliar os interesses aparentemente contraditórios entre o progresso social e urbano e a conservação do meio ambiente, seria razoável</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "impedir a abertura e a pavimentação de rodovias em áreas rurais e em regiões preservadas, pois a qualidade de vida e as tecnologias encontradas nos centros urbanos são prescindíveis às populações rurais.",
+    "B": "impedir a abertura e a pavimentação de rodovias em áreas rurais e em regiões preservadas, promovendo a migração das populações rurais para os centros urbanos, onde a qualidade de vida é melhor.",
+    "C": "permitir a abertura e a pavimentação de rodovias apenas em áreas rurais produtivas, haja vista que nas demais áreas o retorno financeiro necessário para produzir uma melhoria na qualidade de vida da região não é garantido.",
+    "D": "permitir a abertura e a pavimentação de rodovias, desde que comprovada a sua real necessidade e após a realização de estudos que demonstrem ser possível contornar ou compensar seus impactos ambientais.",
+    "E": "permitir a abertura e a pavimentação de rodovias, haja vista que os impactos ao meio ambiente são temporários e podem ser facilmente revertidos com as tecnologias existentes para recuperação de áreas degradadas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto reconhece os dois lados: estradas integram as comunidades, mas fragmentam habitats. A saída equilibrada é permitir as obras quando forem necessárias e depois de estudos que mostrem como evitar ou compensar os impactos. Alternativa <strong>D</strong>.</p><p>Proibir tudo (A, B) ignora o benefício social; dizer que os impactos são temporários e reversíveis (E) contraria o texto.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "impacto ambiental",
+    "desenvolvimento sustentável"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p class=\"apoio\">A eficiência de um processo de conversão de energia é definida como a razão entre a produção de energia ou trabalho útil e o total de entrada de energia no processo. A figura mostra um processo com diversas etapas. Nesse caso, a eficiência geral será igual ao produto das eficiências das etapas individuais. A entrada de energia que não se transforma em trabalho útil é perdida sob formas não utilizáveis (como resíduos de calor).</p>[[fig:1]]<p class=\"fonte\">HINRICHS, R. A. Energia e Meio Ambiente. São Paulo: Pioneira Thomson Learning, 2003 (adaptado).</p><p>Aumentar a eficiência dos processos de conversão de energia implica economizar recursos e combustíveis. Das propostas seguintes, qual resultará em maior aumento da eficiência geral do processo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q14.webp",
+     "alt": "Esquema de usina de força (E1 = 0,35), linhas de transmissão (E2 = 0,90) e lâmpada numa casa (E3 = 0,05); eficiência geral da conversão de energia química em luminosa = E1 × E2 × E3 = 0,35 × 0,90 × 0,05 = 0,016, ou 1,6%."
+    }
+   ],
+   "alternativas": {
+    "A": "Aumentar a quantidade de combustível para queima na usina de força.",
+    "B": "Utilizar lâmpadas incandescentes, que geram pouco calor e muita luminosidade.",
+    "C": "Manter o menor número possível de aparelhos elétricos em funcionamento nas moradias.",
+    "D": "Utilizar cabos com menor diâmetro nas linhas de transmissão a fim de economizar o material condutor.",
+    "E": "Utilizar materiais com melhores propriedades condutoras nas linhas de transmissão e lâmpadas fluorescentes nas moradias."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A eficiência geral é o produto das etapas: 0,35 × 0,90 × 0,05. A etapa mais fraca é a lâmpada (5%), e as linhas também perdem energia. Usar condutores melhores nas linhas e lâmpadas fluorescentes, que convertem muito mais energia em luz, eleva o produto. Alternativa <strong>E</strong>.</p><p>Mais combustível (A) não muda a eficiência; lâmpadas incandescentes geram muito calor (B); cabos mais finos aumentam a perda (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eficiência energética",
+    "transmissão de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>Para que apresente condutividade elétrica adequada a muitas aplicações, o cobre bruto obtido por métodos térmicos é purificado eletroliticamente. Nesse processo, o cobre bruto impuro constitui o ânodo da célula, que está imerso em uma solução de CuSO<sub>4</sub>. À medida que o cobre impuro é oxidado no ânodo, íons Cu<sup>2+</sup> da solução são depositados na forma pura no cátodo. Quanto às impurezas metálicas, algumas são oxidadas, passando à solução, enquanto outras simplesmente se desprendem do ânodo e se sedimentam abaixo dele. As impurezas sedimentadas são posteriormente processadas, e sua comercialização gera receita que ajuda a cobrir os custos do processo. A série eletroquímica a seguir lista o cobre e alguns metais presentes como impurezas no cobre bruto de acordo com suas forças redutoras relativas.</p>[[fig:1]]<p>Entre as impurezas metálicas que constam na série apresentada, as que se sedimentam abaixo do ânodo de cobre são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q15.webp",
+     "alt": "Série de metais em ordem de força redutora crescente, de cima para baixo: ouro, platina, prata, cobre, chumbo, níquel e zinco; uma seta para baixo indica o aumento da força redutora."
+    }
+   ],
+   "alternativas": {
+    "A": "Au, Pt, Ag, Zn, Ni e Pb.",
+    "B": "Au, Pt e Ag.",
+    "C": "Zn, Ni e Pb.",
+    "D": "Au e Zn.",
+    "E": "Ag e Pb."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os metais com maior força redutora que o cobre (chumbo, níquel e zinco) se oxidam no ânodo e passam para a solução. Os de menor força redutora (ouro, platina e prata) não se oxidam e se depositam abaixo do ânodo, como lama anódica. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eletrólise",
+    "refino do cobre"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p>A figura seguinte representa um modelo de transmissão da informação genética nos sistemas biológicos. No fim do processo, que inclui a replicação, a transcrição e a tradução, há três formas proteicas diferentes denominadas a, b e c.</p>[[fig:1]]<p>Depreende-se do modelo que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q16.webp",
+     "alt": "Esquema: o DNA com uma seta circular de replicação; seta dupla entre DNA e RNA indicando transcrição; do RNA, três setas de tradução para proteína “a”, proteína “b” e proteína “c”."
+    }
+   ],
+   "alternativas": {
+    "A": "a única molécula que participa da produção de proteínas é o DNA.",
+    "B": "o fluxo de informação genética, nos sistemas biológicos, é unidirecional.",
+    "C": "as fontes de informação ativas durante o processo de transcrição são as proteínas.",
+    "D": "é possível obter diferentes variantes proteicas a partir de um mesmo produto de transcrição.",
+    "E": "a molécula de DNA possui forma circular e as demais moléculas possuem forma de fita simples linearizadas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No esquema, um único RNA dá origem a três proteínas diferentes (a, b e c). Ou seja, a partir do mesmo produto da transcrição é possível obter variantes de proteínas (como no processamento alternativo do RNA). Alternativa <strong>D</strong>.</p><p>A seta dupla entre DNA e RNA mostra que o fluxo não é só de mão única (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "síntese proteica",
+    "transcrição e tradução"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Física",
+   "assunto": "Movimento circular",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p class=\"apoio\">O Brasil pode se transformar no primeiro país das Américas a entrar no seleto grupo das nações que dispõem de trens-bala. O Ministério dos Transportes prevê o lançamento do edital de licitação internacional para a construção da ferrovia de alta velocidade Rio-São Paulo. A viagem ligará os 403 quilômetros entre a Central do Brasil, no Rio, e a Estação da Luz, no centro da capital paulista, em uma hora e 25 minutos.</p><p class=\"fonte\">Disponível em: http://oglobo.globo.com. Acesso em: 14 jul. 2009.</p><p>Devido à alta velocidade, um dos problemas a ser enfrentado na escolha do trajeto que será percorrido pelo trem é o dimensionamento das curvas. Considerando-se que uma aceleração lateral confortável para os passageiros e segura para o trem seja de 0,1 g, em que g é a aceleração da gravidade (considerada igual a 10 m/s<sup>2</sup>), e que a velocidade do trem se mantenha constante em todo o percurso, seria correto prever que as curvas existentes no trajeto deveriam ter raio de curvatura mínimo de, aproximadamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "80 m.",
+    "B": "430 m.",
+    "C": "800 m.",
+    "D": "1.600 m.",
+    "E": "6.400 m."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Velocidade média: 403 km em 1 h 25 min (≈ 1,42 h), cerca de 284 km/h ≈ 79 m/s. A aceleração lateral é centrípeta: a = v²/R, com a = 0,1 × 10 = 1 m/s². R = 79² ÷ 1 ≈ 6 240 m: o raio mínimo fica perto de 6 400 m. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aceleração centrípeta",
+    "velocidade média"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Física",
+   "assunto": "Eletricidade",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p>O manual de instruções de um aparelho de ar-condicionado apresenta a seguinte tabela, com dados técnicos para diversos modelos:</p><table class=\"tabela\"><thead><tr><th>Capacidade de refrigeração kW/(BTU/h)</th><th>Potência (W)</th><th>Corrente elétrica - ciclo frio (A)</th><th>Eficiência energética COP (W/W)</th><th>Vazão de ar (m<sup>3</sup>/h)</th><th>Frequência (Hz)</th></tr></thead><tbody><tr><td>3,52/(12.000)</td><td>1.193</td><td>5,8</td><td>2,95</td><td>550</td><td>60</td></tr><tr><td>5,42/(18.000)</td><td>1.790</td><td>8,7</td><td>2,95</td><td>800</td><td>60</td></tr><tr><td>5,42/(18.000)</td><td>1.790</td><td>8,7</td><td>2,95</td><td>800</td><td>60</td></tr><tr><td>6,45/(22.000)</td><td>2.188</td><td>10,2</td><td>2,95</td><td>960</td><td>60</td></tr><tr><td>6,45/(22.000)</td><td>2.188</td><td>10,2</td><td>2,95</td><td>960</td><td>60</td></tr></tbody></table><p class=\"fonte\">Disponível em: http://www.institucional.brastemp.com.br. Acesso em: 13 jul. 2009 (adaptado).</p><p>Considere-se que um auditório possua capacidade para 40 pessoas, cada uma produzindo uma quantidade média de calor, e que praticamente todo o calor que flui para fora do auditório o faz por meio dos aparelhos de ar-condicionado. Nessa situação, entre as informações listadas, aquelas essenciais para se determinar quantos e/ou quais aparelhos de ar-condicionado são precisos para manter, com lotação máxima, a temperatura interna do auditório agradável e constante, bem como determinar a espessura da fiação do circuito elétrico para a ligação desses aparelhos, são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "vazão de ar e potência.",
+    "B": "vazão de ar e corrente elétrica - ciclo frio.",
+    "C": "eficiência energética e potência.",
+    "D": "capacidade de refrigeração e frequência.",
+    "E": "capacidade de refrigeração e corrente elétrica - ciclo frio."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para saber quantos aparelhos manter a temperatura, é preciso comparar o calor gerado pelas pessoas com a capacidade de refrigeração de cada modelo. Para dimensionar a espessura dos fios, é preciso saber a corrente elétrica que os aparelhos puxam. Alternativa <strong>E</strong>.</p><p>A frequência (D) é a mesma em todos os modelos e não influencia nem uma coisa nem outra.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência e corrente",
+    "refrigeração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Física",
+   "assunto": "Eletricidade",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p>A instalação elétrica de uma casa envolve várias etapas, desde a alocação dos dispositivos, instrumentos e aparelhos elétricos, até a escolha dos materiais que a compõem, passando pelo dimensionamento da potência requerida, da fiação necessária, dos eletrodutos*, entre outras. Para cada aparelho elétrico existe um valor de potência associado. Valores típicos de potências para alguns aparelhos elétricos são apresentados no quadro seguinte:</p><table class=\"tabela\"><thead><tr><th>Aparelhos</th><th>Potência (W)</th></tr></thead><tbody><tr><td>Aparelho de som</td><td>120</td></tr><tr><td>Chuveiro elétrico</td><td>3.000</td></tr><tr><td>Ferro elétrico</td><td>500</td></tr><tr><td>Televisor</td><td>200</td></tr><tr><td>Geladeira</td><td>200</td></tr><tr><td>Rádio</td><td>50</td></tr></tbody></table><p class=\"fonte\">*Eletrodutos são condutos por onde passa a fiação de uma instalação elétrica, com a finalidade de protegê-la.</p><p>A escolha das lâmpadas é essencial para obtenção de uma boa iluminação. A potência da lâmpada deverá estar de acordo com o tamanho do cômodo a ser iluminado. O quadro a seguir mostra a relação entre as áreas dos cômodos (em m<sup>2</sup>) e as potências das lâmpadas (em W), e foi utilizado como referência para o primeiro pavimento de uma residência.</p><table class=\"tabela\"><thead><tr><th>Área do cômodo (m<sup>2</sup>)</th><th>Sala/copa/cozinha (W)</th><th>Quarto, varanda e corredor (W)</th><th>Banheiro (W)</th></tr></thead><tbody><tr><td>Até 6,0</td><td>60</td><td>60</td><td>60</td></tr><tr><td>6,0 a 7,5</td><td>100</td><td>100</td><td>60</td></tr><tr><td>7,5 a 10,5</td><td>100</td><td>100</td><td>100</td></tr></tbody></table>[[fig:1]]<p class=\"fonte\">Obs.: Para efeitos dos cálculos das áreas, as paredes são desconsideradas.</p><p>Considerando a planta baixa fornecida, com todos os aparelhos em funcionamento, a potência total, em watts, será de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q19.webp",
+     "alt": "Planta baixa: à esquerda, cozinha de 3 m por 3 m com geladeira, fogão, ferro elétrico, rádio e uma lâmpada; no meio, banheiro de 1,5 m de largura e 2,1 m de profundidade com chuveiro elétrico e lâmpada, e abaixo dele um corredor com lâmpada; à direita, quarto de 2,8 m por 3 m com televisor, aparelho de som e lâmpada."
+    }
+   ],
+   "alternativas": {
+    "A": "4.070.",
+    "B": "4.270.",
+    "C": "4.320.",
+    "D": "4.390.",
+    "E": "4.470."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Aparelhos: 120 + 3 000 + 500 + 200 + 200 + 50 = 4 070 W. Lâmpadas, pela área de cada cômodo: cozinha 3 × 3 = 9 m² (100 W); banheiro 1,5 × 2,1 = 3,15 m² (60 W); quarto 2,8 × 3 = 8,4 m² (100 W); corredor 1,5 × 0,9 = 1,35 m² (60 W), somando 320 W. Total: 4 070 + 320 = <strong>4 390 W</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência elétrica",
+    "área"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\">O esquema mostra um diagrama de bloco de uma estação geradora de eletricidade abastecida por combustível fóssil.</p>[[fig:1]]<p class=\"fonte\">HINRICHS, R. A.; KLEINBACH, M. Energia e meio ambiente. São Paulo: Pioneira Thomson Learning, 2003 (adaptado).</p><p>Se fosse necessário melhorar o rendimento dessa usina, que forneceria eletricidade para abastecer uma cidade, qual das seguintes ações poderia resultar em alguma economia de energia, sem afetar a capacidade de geração da usina?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q20.webp",
+     "alt": "Diagrama de uma usina: combustível e ar entram na caldeira, que produz vapor; o vapor move a turbina ligada ao gerador de eletricidade; o vapor é condensado com água fria vinda de um lago e devolvida quente; uma bomba devolve a água líquida à caldeira; gases da combustão saem pela chaminé."
+    }
+   ],
+   "alternativas": {
+    "A": "Reduzir a quantidade de combustível fornecido à usina para ser queimado.",
+    "B": "Reduzir o volume de água do lago que circula no condensador de vapor.",
+    "C": "Reduzir o tamanho da bomba usada para devolver a água líquida à caldeira.",
+    "D": "Melhorar a capacidade dos dutos com vapor conduzirem calor para o ambiente.",
+    "E": "Usar o calor liberado com os gases pela chaminé para mover um outro gerador."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os gases quentes que saem pela chaminé levam energia que hoje é desperdiçada. Aproveitar esse calor para mover outro gerador aumenta a energia elétrica obtida com o mesmo combustível. Alternativa <strong>E</strong>.</p><p>Reduzir combustível (A) reduz a geração; menos água no condensador (B) ou dutos que perdem mais calor (D) pioram o rendimento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rendimento",
+    "usina termelétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Biologia",
+   "assunto": "Reprodução",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p>Os seres vivos apresentam diferentes ciclos de vida, caracterizados pelas fases nas quais gametas são produzidos e pelos processos reprodutivos que resultam na geração de novos indivíduos.</p><p>Considerando-se um modelo simplificado padrão para geração de indivíduos viáveis, a alternativa que corresponde ao observado em seres humanos é:</p><p class=\"fonte\">Disponível em: www.infoescola.com (adaptado).</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q21a.webp",
+     "alt": "Ciclo A: zigoto (2n) vira esporófito (2n), que por meiose forma esporos (n); esporos formam o gametófito (n), que produz gametas (n); a fecundação forma o zigoto."
+    },
+    {
+     "src": "assets/img/enem-2009-natureza/q21b.webp",
+     "alt": "Ciclo B: organismo adulto (2n) forma gametas (n) por mitose; fecundação forma zigoto (n); zigoto vira adulto por meiose."
+    },
+    {
+     "src": "assets/img/enem-2009-natureza/q21c.webp",
+     "alt": "Ciclo C: organismo adulto (2n) forma gametas (n) por meiose; fecundação forma zigoto (2n); zigoto vira adulto por mitose."
+    },
+    {
+     "src": "assets/img/enem-2009-natureza/q21d.webp",
+     "alt": "Ciclo D: organismo adulto (2n) forma gametas (n) por mitose; fecundação forma zigoto (2n); zigoto vira adulto por meiose."
+    },
+    {
+     "src": "assets/img/enem-2009-natureza/q21e.webp",
+     "alt": "Ciclo E: organismo adulto (2n) forma gametas (n) por meiose; fecundação forma zigoto (n); zigoto vira adulto por mitose."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No ser humano, o organismo adulto é diploide (2n) e produz gametas haploides (n) por meiose. A fecundação forma o zigoto (2n), que cresce por mitose até virar adulto. O esquema certo é o C. Alternativa <strong>C</strong>.</p><p>O esquema A, com esporófito e gametófito, é de plantas; nos outros, a meiose ou a mitose está no lugar trocado, ou o zigoto aparece haploide.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo de vida",
+    "meiose e mitose"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"apoio\">Um medicamento, após ser ingerido, atinge a corrente sanguínea e espalha-se pelo organismo, mas, como suas moléculas “não sabem” onde é que está o problema, podem atuar em locais diferentes do local “alvo” e desencadear efeitos além daqueles desejados. Não seria perfeito se as moléculas dos medicamentos soubessem exatamente onde está o problema e fossem apenas até aquele local exercer sua ação? A técnica conhecida como iontoforese, indolor e não invasiva, promete isso. Como mostram as figuras, essa nova técnica baseia-se na aplicação de uma corrente elétrica de baixa intensidade sobre a pele do paciente, permitindo que fármacos permeiem membranas biológicas e alcancem a corrente sanguínea, sem passar pelo estômago. Muitos pacientes relatam apenas um formigamento no local de aplicação. O objetivo da corrente elétrica é formar poros que permitam a passagem do fármaco de interesse. A corrente elétrica é distribuída por eletrodos, positivo e negativo, por meio de uma solução aplicada sobre a pele. Se a molécula do medicamento tiver carga elétrica positiva ou negativa, ao entrar em contato com o eletrodo de carga de mesmo sinal, ela será repelida e forçada a entrar na pele (eletrorrepulsão - A). Se for neutra, a molécula será forçada a entrar na pele juntamente com o fluxo de solvente fisiológico que se forma entre os eletrodos (eletrosmose - B).</p>[[fig:1]]<p class=\"fonte\">GRATIERI, T; GELFUSO, G. M.; LOPES, R. F. V. Medicação do futuro-iontoforese facilita entrada de fármacos no organismo. Ciência Hoje, vol 44, no 259, maio 2009 (adaptado).</p><p>De acordo com as informações contidas no texto e nas figuras, o uso da iontoforese</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q22.webp",
+     "alt": "Duas ilustrações da pele com eletrodos ligados a uma bateria. A, eletrorrepulsão: o eletrodo de mesmo sinal empurra o medicamento carregado pela pele até o vaso sanguíneo. B, eletrosmose: o fluxo de solvente entre os eletrodos arrasta o medicamento para dentro da pele."
+    }
+   ],
+   "alternativas": {
+    "A": "provoca ferimento na pele do paciente ao serem introduzidos os eletrodos, rompendo o epitélio.",
+    "B": "aumenta o risco de estresse nos pacientes, causado pela aplicação da corrente elétrica.",
+    "C": "inibe o mecanismo de ação dos medicamentos no tecido-alvo, pois estes passam a entrar por meio da pele.",
+    "D": "diminui o efeito colateral dos medicamentos, se comparados com aqueles em que a ingestão se faz por via oral.",
+    "E": "deve ser eficaz para medicamentos constituídos de moléculas polares e ineficaz, se essas forem apolares."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na iontoforese, uma corrente elétrica fraca leva o medicamento pela pele direto ao local que precisa ser tratado. Como o remédio não se espalha pelo corpo todo, como ocorre na via oral, os efeitos colaterais diminuem. Alternativa <strong>D</strong>.</p><p>O texto diz que a técnica é indolor e não invasiva (A, B), e a figura mostra a eletrosmose levando também moléculas sem carga (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "iontoforese",
+    "absorção de medicamentos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"apoio\">Cerca de 1% do lixo urbano é constituído por resíduos sólidos contendo elementos tóxicos. Entre esses elementos estão metais pesados como o cádmio, o chumbo e o mercúrio, componentes de pilhas e baterias, que são perigosos à saúde humana e ao meio ambiente.</p><p class=\"apoio\">Quando descartadas em lixos comuns, pilhas e baterias vão para aterros sanitários ou lixões a céu aberto, e o vazamento de seus componentes contamina o solo, os rios e o lençol freático, atingindo a flora e a fauna. Por serem bioacumulativos e não biodegradáveis, esses metais chegam de forma acumulada aos seres humanos, por meio da cadeia alimentar. A legislação vigente (Resolução CONAMA no 257/1999) regulamenta o destino de pilhas e baterias após seu esgotamento energético e determina aos fabricantes e/ou importadores a quantidade máxima permitida desses metais em cada tipo de pilha/bateria, porém o problema ainda persiste.</p><p class=\"fonte\">Disponível em: http://www.mma.gov.br. Acesso em: 11 jul. 2009 (adaptado).</p><p>Uma medida que poderia contribuir para acabar definitivamente com o problema da poluição ambiental por metais pesados relatado no texto seria</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "deixar de consumir aparelhos elétricos que utilizem pilha ou bateria como fonte de energia.",
+    "B": "usar apenas pilhas ou baterias recarregáveis e de vida útil longa e evitar ingerir alimentos contaminados, especialmente peixes.",
+    "C": "devolver pilhas e baterias, após o esgotamento da energia armazenada, à rede de assistência técnica especializada para repasse a fabricantes e/ou importadores.",
+    "D": "criar nas cidades, especialmente naquelas com mais de 100 mil habitantes, pontos estratégicos de coleta de baterias e pilhas, para posterior repasse a fabricantes e/ou importadores.",
+    "E": "exigir que fabricantes invistam em pesquisa para a substituição desses metais tóxicos por substâncias menos nocivas ao homem e ao ambiente, e que não sejam bioacumulativas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A pergunta pede uma medida que acabe definitivamente com o problema. Enquanto as pilhas tiverem cádmio, chumbo e mercúrio, sempre haverá risco de descarte errado. Substituir esses metais por substâncias menos nocivas e não bioacumulativas elimina a causa. Alternativa <strong>E</strong>.</p><p>As medidas de coleta e devolução (C, D) reduzem o problema, mas não o eliminam.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metais pesados",
+    "descarte de pilhas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p>Umidade relativa do ar é o termo usado para descrever a quantidade de vapor de água contido na atmosfera. Ela é definida pela razão entre o conteúdo real de umidade de uma parcela de ar e a quantidade de umidade que a mesma parcela de ar pode armazenar na mesma temperatura e pressão quando está saturada de vapor, isto é, com 100% de umidade relativa. O gráfico representa a relação entre a umidade relativa do ar e sua temperatura ao longo de um período de 24 horas em um determinado local.</p>[[fig:1]]<p>Considerando-se as informações do texto e do gráfico, conclui-se que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q24.webp",
+     "alt": "Gráfico de 0 a 24 horas com duas curvas: umidade relativa (eixo da esquerda, de 50% a 80%) e temperatura (eixo da direita, de −2 °C a 16 °C). A umidade fica perto de 70% de madrugada e cai até cerca de 48% por volta das 16 h; a temperatura faz o inverso, subindo até cerca de 11 °C à tarde."
+    }
+   ],
+   "alternativas": {
+    "A": "a insolação é um fator que provoca variação da umidade relativa do ar.",
+    "B": "o ar vai adquirindo maior quantidade de vapor de água à medida que se aquece.",
+    "C": "a presença de umidade relativa do ar é diretamente proporcional à temperatura do ar.",
+    "D": "a umidade relativa do ar indica, em termos absolutos, a quantidade de vapor de água existente na atmosfera.",
+    "E": "a variação da umidade do ar se verifica no verão, e não no inverno, quando as temperaturas permanecem baixas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No gráfico, quando a temperatura sobe ao longo do dia, a umidade relativa cai, e à noite acontece o contrário. A temperatura sobe por causa da insolação; logo, a insolação provoca variação da umidade relativa. Alternativa <strong>A</strong>.</p><p>A umidade relativa é inversa à temperatura nesse caso, não direta (C), e é uma razão, não uma quantidade absoluta de vapor (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "umidade relativa",
+    "temperatura"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Biologia",
+   "assunto": "Saúde e doenças",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p>Os planos de controle e erradicação de doenças em animais envolvem ações de profilaxia e dependem em grande medida da correta utilização e interpretação de testes diagnósticos. O quadro mostra um exemplo hipotético de aplicação de um teste diagnóstico.</p><table class=\"tabela\"><thead><tr><th>Resultado do teste</th><th>Condição real: infectado</th><th>Condição real: não infectado</th><th>Total</th></tr></thead><tbody><tr><td>positivo</td><td>45</td><td>38</td><td>83</td></tr><tr><td>negativo</td><td>5</td><td>912</td><td>917</td></tr><tr><td>total</td><td>50</td><td>950</td><td>1.000</td></tr></tbody></table><p class=\"fonte\">Manual Técnico do Programa Nacional de Controle e Erradicação da Brucelose e da Tuberculose Animal – PNCEBT. Brasília: Ministério da Agricultura, Pecuária e Abastecimento, 2006 (adaptado).</p><p>Considerando que, no teste diagnóstico, a sensibilidade é a probabilidade de um animal infectado ser classificado como positivo e a especificidade é a probabilidade de um animal não infectado ter resultado negativo, a interpretação do quadro permite inferir que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a especificidade aponta um número de 5 falsos positivos.",
+    "B": "o teste, a cada 100 indivíduos infectados, classificaria 90 como positivos.",
+    "C": "o teste classificaria 96 como positivos em cada 100 indivíduos não infectados.",
+    "D": "ações de profilaxia são medidas adotadas para o tratamento de falsos positivos.",
+    "E": "testes de alta sensibilidade resultam em maior número de animais falsos negativos comparado a um teste de baixa sensibilidade."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Sensibilidade = positivos entre os infectados = 45 ÷ 50 = 90%: a cada 100 infectados, o teste classifica 90 como positivos. Alternativa <strong>B</strong>.</p><p>Os falsos positivos são 38, não 5 (A); a especificidade é 912 ÷ 950 = 96%, ou seja, 96 em cada 100 não infectados dão negativo, não positivo (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sensibilidade e especificidade",
+    "teste diagnóstico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p>O processo de industrialização tem gerado sérios problemas de ordem ambiental, econômica e social, entre os quais se pode citar a chuva ácida. Os ácidos usualmente presentes em maiores proporções na água da chuva são o H<sub>2</sub>CO<sub>3</sub>, formado pela reação do CO<sub>2</sub> atmosférico com a água, o HNO<sub>3</sub>, o HNO<sub>2</sub>, o H<sub>2</sub>SO<sub>4</sub> e o H<sub>2</sub>SO<sub>3</sub>. Esses quatro últimos são formados principalmente a partir da reação da água com os óxidos de nitrogênio e de enxofre gerados pela queima de combustíveis fósseis. A formação de chuva mais ou menos ácida depende não só da concentração do ácido formado, como também do tipo de ácido. Essa pode ser uma informação útil na elaboração de estratégias para minimizar esse problema ambiental. Se consideradas concentrações idênticas, quais dos ácidos citados no texto conferem maior acidez às águas das chuvas?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "HNO<sub>3</sub> e HNO<sub>2</sub>.",
+    "B": "H<sub>2</sub>SO<sub>4</sub> e H<sub>2</sub>SO<sub>3</sub>.",
+    "C": "H<sub>2</sub>SO<sub>3</sub> e HNO<sub>2</sub>.",
+    "D": "H<sub>2</sub>SO<sub>4</sub> e HNO<sub>3</sub>.",
+    "E": "H<sub>2</sub>CO<sub>3</sub> e H<sub>2</sub>SO<sub>3</sub>."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os ácidos fortes da lista são o H<sub>2</sub>SO<sub>4</sub> (sulfúrico) e o HNO<sub>3</sub> (nítrico); H<sub>2</sub>CO<sub>3</sub>, HNO<sub>2</sub> e H<sub>2</sub>SO<sub>3</sub> são ácidos fracos. Os fortes se ionizam quase totalmente e são os que mais baixam o pH da chuva. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "chuva ácida",
+    "força dos ácidos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Física",
+   "assunto": "Gravitação",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p>O ônibus espacial Atlantis foi lançado ao espaço com cinco astronautas a bordo e uma câmera nova, que iria substituir uma outra danificada por um curto-circuito no telescópio Hubble. Depois de entrarem em órbita a 560 km de altura, os astronautas se aproximaram do Hubble. Dois astronautas saíram da Atlantis e se dirigiram ao telescópio.</p><p>Ao abrir a porta de acesso, um deles exclamou: “Esse telescópio tem a massa grande, mas o peso é pequeno.”</p>[[fig:1]]<p>Considerando o texto e as leis de Kepler, pode-se afirmar que a frase dita pelo astronauta</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q27.webp",
+     "alt": "Fotografia de um astronauta em traje espacial trabalhando junto ao telescópio Hubble, em órbita."
+    }
+   ],
+   "alternativas": {
+    "A": "se justifica porque o tamanho do telescópio determina a sua massa, enquanto seu pequeno peso decorre da falta de ação da aceleração da gravidade.",
+    "B": "se justifica ao verificar que a inércia do telescópio é grande comparada à dele próprio, e que o peso do telescópio é pequeno porque a atração gravitacional criada por sua massa era pequena.",
+    "C": "não se justifica, porque a avaliação da massa e do peso de objetos em órbita tem por base as leis de Kepler, que não se aplicam a satélites artificiais.",
+    "D": "não se justifica, porque a força-peso é a força exercida pela gravidade terrestre, neste caso, sobre o telescópio e é a responsável por manter o próprio telescópio em órbita.",
+    "E": "não se justifica, pois a ação da força-peso implica a ação de uma força de reação contrária, que não existe naquele ambiente. A massa do telescópio poderia ser avaliada simplesmente pelo seu volume."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em órbita, o telescópio continua sujeito à gravidade da Terra: a 560 km de altura, o peso dele ainda é quase 85% do que seria na superfície. É justamente essa força-peso que o mantém em órbita, fazendo o papel de força centrípeta. A frase não se justifica. Alternativa <strong>D</strong>.</p><p>A sensação de “sem peso” vem de tudo estar em queda livre junto, e não da falta de gravidade (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "peso e massa",
+    "órbita"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p>Uma pesquisadora deseja reflorestar uma área de mata ciliar quase que totalmente desmatada. Essa formação vegetal é um tipo de floresta muito comum nas margens de rios dos cerrados no Brasil central e, em seu clímax, possui vegetação arbórea perene e apresenta dossel fechado, com pouca incidência luminosa no solo e nas plântulas. Sabe-se que a incidência de luz, a disponibilidade de nutrientes e a umidade do solo são os principais fatores do meio ambiente físico que influenciam no desenvolvimento da planta. Para testar unicamente os efeitos da variação de luz, a pesquisadora analisou, em casas de vegetação com condições controladas, o desenvolvimento de plantas de 10 espécies nativas da região desmatada sob quatro condições de luminosidade: uma sob sol pleno e as demais em diferentes níveis de sombreamento. Para cada tratamento experimental, a pesquisadora relatou se o desenvolvimento da planta foi bom, razoável ou ruim, de acordo com critérios específicos. Os resultados obtidos foram os seguintes:</p><table class=\"tabela\"><thead><tr><th>Espécie</th><th>Sol pleno</th><th>Sombreamento 30%</th><th>Sombreamento 50%</th><th>Sombreamento 90%</th></tr></thead><tbody><tr><td>1</td><td>Razoável</td><td>Bom</td><td>Razoável</td><td>Ruim</td></tr><tr><td>2</td><td>Bom</td><td>Razoável</td><td>Ruim</td><td>Ruim</td></tr><tr><td>3</td><td>Bom</td><td>Bom</td><td>Razoável</td><td>Ruim</td></tr><tr><td>4</td><td>Bom</td><td>Bom</td><td>Bom</td><td>Bom</td></tr><tr><td>5</td><td>Bom</td><td>Razoável</td><td>Ruim</td><td>Ruim</td></tr><tr><td>6</td><td>Ruim</td><td>Razoável</td><td>Bom</td><td>Bom</td></tr><tr><td>7</td><td>Ruim</td><td>Ruim</td><td>Ruim</td><td>Razoável</td></tr><tr><td>8</td><td>Ruim</td><td>Ruim</td><td>Razoável</td><td>Ruim</td></tr><tr><td>9</td><td>Ruim</td><td>Razoável</td><td>Bom</td><td>Bom</td></tr><tr><td>10</td><td>Razoável</td><td>Razoável</td><td>Razoável</td><td>Bom</td></tr></tbody></table><p>Para o reflorestamento da região desmatada,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a espécie 8 é mais indicada que a 1, uma vez que aquela possui melhor adaptação a regiões com maior incidência de luz.",
+    "B": "recomenda-se a utilização de espécies pioneiras, isto é, aquelas que suportam alta incidência de luz, como as espécies 2, 3 e 5.",
+    "C": "sugere-se o uso de espécies exóticas, pois somente essas podem suportar a alta incidência luminosa característica de regiões desmatadas.",
+    "D": "espécies de comunidade clímax, como as 4 e 7, são as mais indicadas, uma vez que possuem boa capacidade de aclimatação a diferentes ambientes.",
+    "E": "é recomendado o uso de espécies com melhor desenvolvimento à sombra, como as plantas das espécies 4, 6, 7, 9 e 10, pois essa floresta, mesmo no estágio de degradação referido, possui dossel fechado, o que impede a entrada de luz."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A área está quase toda desmatada, então recebe luz direta. As espécies que se desenvolvem bem ao sol pleno (pioneiras), como 2, 3 e 5, são as indicadas para começar o reflorestamento; depois de formada a sombra, entram as de sombra. Alternativa <strong>B</strong>.</p><p>A espécie 8 é ruim ao sol (A), e a área desmatada não tem dossel fechado (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sucessão ecológica",
+    "espécies pioneiras"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Química",
+   "assunto": "Atomística",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"apoio\">Os núcleos dos átomos são constituídos de prótons e nêutrons, sendo ambos os principais responsáveis pela sua massa. Nota-se que, na maioria dos núcleos, essas partículas não estão presentes na mesma proporção. O gráfico mostra a quantidade de nêutrons (N) em função da quantidade de prótons (Z) para os núcleos estáveis conhecidos.</p>[[fig:1]]<p class=\"fonte\">KAPLAN, I. Física Nuclear. Rio de Janeiro: Guanabara Dois, 1978 (adaptado).</p><p>O antimônio é um elemento químico que possui 50 prótons e possui vários isótopos ― átomos que só se diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q29.webp",
+     "alt": "Gráfico do número de nêutrons (N, de 0 a 150) em função do número de prótons (Z, de 0 a 110), com os núcleos estáveis marcados como uma faixa de pontos que começa sobre a reta N = Z e se afasta dela para cima à medida que Z cresce."
+    }
+   ],
+   "alternativas": {
+    "A": "entre 12 e 24 nêutrons a menos que o número de prótons.",
+    "B": "exatamente o mesmo número de prótons e nêutrons.",
+    "C": "entre 0 e 12 nêutrons a mais que o número de prótons.",
+    "D": "entre 12 e 24 nêutrons a mais que o número de prótons.",
+    "E": "entre 0 e 12 nêutrons a menos que o número de prótons."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No gráfico, para Z = 50, os núcleos estáveis ficam entre N ≈ 62 e N ≈ 74. Isso dá de 12 a 24 nêutrons a mais que o número de prótons. Alternativa <strong>D</strong>.</p><p>Só os núcleos leves ficam perto da reta N = Z (B); núcleos maiores precisam de mais nêutrons para serem estáveis.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "isótopos",
+    "estabilidade nuclear"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Física",
+   "assunto": "Eletricidade",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p>É possível, com 1 litro de gasolina, usando todo o calor produzido por sua combustão direta, aquecer 200 litros de água de 20 °C a 55 °C. Pode-se efetuar esse mesmo aquecimento por um gerador de eletricidade, que consome 1 litro de gasolina por hora e fornece 110 V a um resistor de 11 Ω, imerso na água, durante um certo intervalo de tempo. Todo o calor liberado pelo resistor é transferido à água. Considerando que o calor específico da água é igual a 4,19 J g<sup>−1</sup> °C<sup>−1</sup>, aproximadamente qual a quantidade de gasolina consumida para o aquecimento de água obtido pelo gerador, quando comparado ao obtido a partir da combustão?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A quantidade de gasolina consumida é igual para os dois casos.",
+    "B": "A quantidade de gasolina consumida pelo gerador é duas vezes maior que a consumida na combustão.",
+    "C": "A quantidade de gasolina consumida pelo gerador é duas vezes menor que a consumida na combustão.",
+    "D": "A quantidade de gasolina consumida pelo gerador é sete vezes maior que a consumida na combustão.",
+    "E": "A quantidade de gasolina consumida pelo gerador é sete vezes menor que a consumida na combustão."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Calor para aquecer a água: 200 000 g × 4,19 × 35 ≈ 29 330 kJ. Potência do resistor: P = U²/R = 110² ÷ 11 = 1 100 W. Tempo: 29 330 000 ÷ 1 100 ≈ 26 700 s ≈ 7,4 h. O gerador gasta 1 L por hora, ou seja, cerca de 7 L, contra 1 L na queima direta: sete vezes mais. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência elétrica",
+    "calorimetria"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p>O progresso da tecnologia introduziu diversos artefatos geradores de campos eletromagnéticos. Uma das mais empregadas invenções nessa área são os telefones celulares e smartphones. As tecnologias de transmissão de celular atualmente em uso no Brasil contemplam dois sistemas. O primeiro deles é operado entre as frequências de 800 MHz e 900 MHz e constitui os chamados sistemas TDMA/CDMA. Já a tecnologia GSM, ocupa a frequência de 1.800 MHz.</p><p>Considerando que a intensidade de transmissão e o nível de recepção “celular” sejam os mesmos para as tecnologias de transmissão TDMA/CDMA ou GSM, se um engenheiro tiver de escolher entre as duas tecnologias para obter a mesma cobertura, levando em consideração apenas o número de antenas em uma região, ele deverá escolher:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a tecnologia GSM, pois é a que opera com ondas de maior comprimento de onda.",
+    "B": "a tecnologia TDMA/CDMA, pois é a que apresenta Efeito Doppler mais pronunciado.",
+    "C": "a tecnologia GSM, pois é a que utiliza ondas que se propagam com maior velocidade.",
+    "D": "qualquer uma das duas, pois as diferenças nas frequências são compensadas pelas diferenças nos comprimentos de onda.",
+    "E": "qualquer uma das duas, pois nesse caso as intensidades decaem igualmente da mesma forma, independentemente da frequência."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Se a intensidade de transmissão e o nível de recepção são os mesmos, a área coberta por cada antena depende de como a intensidade diminui com a distância. No modelo da questão, essa queda é igual para as duas tecnologias, qualquer que seja a frequência. Então o número de antenas seria o mesmo. Alternativa <strong>E</strong>.</p><p>GSM tem frequência maior e comprimento de onda menor (A), e as duas ondas viajam à mesma velocidade, a da luz (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ondas eletromagnéticas",
+    "frequência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Física",
+   "assunto": "Física moderna",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p>Considere um equipamento capaz de emitir radiação eletromagnética com comprimento de onda bem menor que a da radiação ultravioleta. Suponha que a radiação emitida por esse equipamento foi apontada para um tipo específico de filme fotográfico e entre o equipamento e o filme foi posicionado o pescoço de um indivíduo. Quanto mais exposto à radiação, mais escuro se torna o filme após a revelação. Após acionar o equipamento e revelar o filme, evidenciou-se a imagem mostrada na figura abaixo.</p>[[fig:1]]<p>Dentre os fenômenos decorrentes da interação entre a radiação e os átomos do indivíduo que permitem a obtenção desta imagem inclui-se a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q32.webp",
+     "alt": "Radiografia do pescoço de perfil, com as vértebras cervicais e o crânio em tom claro e os tecidos moles em tom escuro."
+    }
+   ],
+   "alternativas": {
+    "A": "absorção da radiação eletromagnética e a consequente ionização dos átomos de cálcio, que se transformam em átomos de fósforo.",
+    "B": "maior absorção da radiação eletromagnética pelos átomos de cálcio que por outros tipos de átomos.",
+    "C": "maior absorção da radiação eletromagnética pelos átomos de carbono que por átomos de cálcio.",
+    "D": "maior refração ao atravessar os átomos de carbono que os átomos de cálcio.",
+    "E": "maior ionização de moléculas de água que de átomos de carbono."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A radiação descrita é o raio X. Os ossos têm muito cálcio, que absorve mais raio X que os átomos leves dos tecidos moles (carbono, hidrogênio, oxigênio). Onde há osso, chega menos radiação ao filme, que fica claro. Alternativa <strong>B</strong>.</p><p>A radiação não transforma cálcio em fósforo (A), e o filme claro indica absorção, não refração (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "raio X",
+    "absorção de radiação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p class=\"apoio\">Os ratos <em>Peromyscus polionotus</em> encontram-se distribuídos em ampla região na América do Norte. A pelagem de ratos dessa espécie varia do marrom claro até o escuro, sendo que os ratos de uma mesma população têm coloração muito semelhante. Em geral, a coloração da pelagem também é muito parecida à cor do solo da região em que se encontram, que também apresenta a mesma variação de cor, distribuída ao longo de um gradiente sul-norte. Na figura, encontram-se representadas sete diferentes populações de P. polionotus. Cada população é representada pela pelagem do rato, por uma amostra de solo e por sua posição geográfica no mapa.</p>[[fig:1]]<p class=\"fonte\">MULLEN, L. M.; HOEKSTRA, H. E. Natural selection along an environmental gradient: a classic cline in mouse pigmentation. Evolution, 2008.</p><p>O mecanismo evolutivo envolvido na associação entre cores de pelagem e de substrato é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q33.webp",
+     "alt": "Mapa do sudeste dos Estados Unidos com pontos de coleta, do Alabama à Flórida, ligados a peles de ratos e amostras do solo de cada local: as peles e os solos vão do escuro, no interior, ao claro, no litoral."
+    }
+   ],
+   "alternativas": {
+    "A": "a alimentação, pois pigmentos de terra são absorvidos e alteram a cor da pelagem dos roedores.",
+    "B": "o fluxo gênico entre as diferentes populações, que mantém constante a grande diversidade interpopulacional.",
+    "C": "a seleção natural, que, nesse caso, poderia ser entendida como a sobrevivência diferenciada de indivíduos com características distintas.",
+    "D": "a mutação genética, que, em certos ambientes, como os de solo mais escuro, têm maior ocorrência e capacidade de alterar significativamente a cor da pelagem dos animais.",
+    "E": "a herança de caracteres adquiridos, capacidade de organismos se adaptarem a diferentes ambientes e transmitirem suas características genéticas aos descendentes."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Ratos com pelagem parecida com o solo ficam menos visíveis aos predadores e sobrevivem e se reproduzem mais. Com o tempo, cada população fica com a cor do seu solo. Isso é seleção natural. Alternativa <strong>C</strong>.</p><p>Herança de caracteres adquiridos (E) é a ideia de Lamarck, rejeitada; a alimentação não muda genes (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "seleção natural",
+    "camuflagem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p class=\"apoio\">O lixo orgânico de casa – constituído de restos de verduras, frutas, legumes, cascas de ovo, aparas de grama, entre outros –, se for depositado nos lixões, pode contribuir para o aparecimento de animais e de odores indesejáveis. Entretanto, sua reciclagem gera um excelente adubo orgânico, que pode ser usado no cultivo de hortaliças, frutíferas e plantas ornamentais. A produção do adubo ou composto orgânico se dá por meio da compostagem, um processo simples que requer alguns cuidados especiais. O material que é acumulado diariamente em recipientes próprios deve ser revirado com auxílio de ferramentas adequadas, semanalmente, de forma a homogeneizá-lo. É preciso também umedecê-lo periodicamente. O material de restos de capina pode ser intercalado entre uma camada e outra de lixo da cozinha. Por meio desse método, o adubo orgânico estará pronto em aproximadamente dois a três meses.</p><p class=\"fonte\">Como usar o lixo orgânico em casa? Ciência Hoje, v. 42, jun. 2008 (adaptado).</p><p>Suponha que uma pessoa, desejosa de fazer seu próprio adubo orgânico, tenha seguido o procedimento descrito no texto, exceto no que se refere ao umedecimento periódico do composto. Nessa situação,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o processo de compostagem iria produzir intenso mau cheiro.",
+    "B": "o adubo formado seria pobre em matéria orgânica que não foi transformada em composto.",
+    "C": "a falta de água no composto vai impedir que microrganismos decomponham a matéria orgânica.",
+    "D": "a falta de água no composto iria elevar a temperatura da mistura, o que resultaria na perda de nutrientes essenciais.",
+    "E": "apenas microrganismos que independem de oxigênio poderiam agir sobre a matéria orgânica e transformá-la em adubo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A compostagem é feita por microrganismos decompositores, e eles precisam de água para viver e agir. Se o composto não for umedecido, a decomposição para. Alternativa <strong>C</strong>.</p><p>Mau cheiro e ação de microrganismos sem oxigênio (A, E) aparecem com excesso de água, não com falta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "compostagem",
+    "decomposição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Física",
+   "assunto": "Calorimetria",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p>O Sol representa uma fonte limpa e inesgotável de energia para o nosso planeta. Essa energia pode ser captada por aquecedores solares, armazenada e convertida posteriormente em trabalho útil. Considere determinada região cuja insolação — potência solar incidente na superfície da Terra — seja de 800 watts/m<sup>2</sup>. Uma usina termossolar utiliza concentradores solares parabólicos que chegam a dezenas de quilômetros de extensão. Nesses coletores solares parabólicos, a luz refletida pela superfície parabólica espelhada é focalizada em um receptor em forma de cano e aquece o óleo contido em seu interior a 400 °C. O calor desse óleo é transferido para a água, vaporizando-a em uma caldeira. O vapor em alta pressão movimenta uma turbina acoplada a um gerador de energia elétrica.</p>[[fig:1]]<p>Considerando que a distância entre a borda inferior e a borda superior da superfície refletora tenha 6 m de largura e que focaliza no receptor os 800 watts/m<sup>2</sup> de radiação provenientes do Sol, e que o calor específico da água é 1 cal g<sup>−1</sup> ºC<sup>−1</sup> = 4.200 J kg<sup>−1</sup> ºC<sup>−1</sup>, então o comprimento linear do refletor parabólico necessário para elevar a temperatura de 1 m<sup>3</sup> (equivalente a 1 t) de água de 20 °C para 100 °C, em uma hora, estará entre</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q35.webp",
+     "alt": "Fotografia de uma fileira de longos espelhos parabólicos de uma usina termossolar, com o tubo receptor no foco."
+    }
+   ],
+   "alternativas": {
+    "A": "15 m e 21 m.",
+    "B": "22 m e 30 m.",
+    "C": "105 m e 125 m.",
+    "D": "680 m e 710 m.",
+    "E": "6.700 m e 7.150 m."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Calor para a água: Q = 1 000 kg × 4 200 × 80 = 3,36 × 10<sup>8</sup> J em uma hora, ou cerca de 93 300 W. Cada metro de refletor tem 6 m² e capta 6 × 800 = 4 800 W. Comprimento: 93 300 ÷ 4 800 ≈ 19,4 m, entre 15 m e 21 m. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência",
+    "energia solar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p class=\"apoio\">O uso de protetores solares em situações de grande exposição aos raios solares como, por exemplo, nas praias, é de grande importância para a saúde. As moléculas ativas de um protetor apresentam, usualmente, anéis aromáticos conjugados com grupos carbonila, pois esses sistemas são capazes de absorver a radiação ultravioleta mais nociva aos seres humanos. A conjugação é definida como a ocorrência de alternância entre ligações simples e duplas em uma molécula. Outra propriedade das moléculas em questão é apresentar, em uma de suas extremidades, uma parte apolar responsável por reduzir a solubilidade do composto em água, o que impede sua rápida remoção quando do contato com a água.</p><p>De acordo com as considerações do texto, qual das moléculas apresentadas a seguir é a mais adequada para funcionar como molécula ativa de protetores solares?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q36a.webp",
+     "alt": "Estrutura A: anel benzênico com grupo CH<sub>3</sub>O, ligado a uma dupla C=C e a um grupo carboxila (COOH)."
+    },
+    {
+     "src": "assets/img/enem-2009-natureza/q36b.webp",
+     "alt": "Estrutura B: cadeia aberta com uma dupla C=C conjugada a um éster, cuja outra ponta é uma cadeia ramificada; não há anel."
+    },
+    {
+     "src": "assets/img/enem-2009-natureza/q36c.webp",
+     "alt": "Estrutura C: anel benzênico com CH<sub>3</sub>O, ligado a uma dupla C=C e a uma longa cadeia ramificada; não há carbonila."
+    },
+    {
+     "src": "assets/img/enem-2009-natureza/q36d.webp",
+     "alt": "Estrutura D: anel benzênico com CH<sub>3</sub>O, ligado por duas ligações simples a um éster com cadeia ramificada."
+    },
+    {
+     "src": "assets/img/enem-2009-natureza/q36e.webp",
+     "alt": "Estrutura E: anel benzênico com CH<sub>3</sub>O, ligado a uma dupla C=C conjugada a um éster com cadeia ramificada."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A molécula precisa de: anel aromático conjugado com a carbonila (alternância de ligações simples e duplas do anel até o C=O) e uma ponta apolar longa. A estrutura E tem os dois: anel ligado à dupla C=C conjugada com o éster e uma cadeia carbônica ramificada. Alternativa <strong>E</strong>.</p><p>A não tem cadeia apolar (é um ácido); B não tem anel; C não tem carbonila; em D a ligação entre anel e carbonila é simples, sem conjugação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conjugação",
+    "polaridade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p>Sabe-se que o olho humano não consegue diferenciar componentes de cores e vê apenas a cor resultante, diferentemente do ouvido, que consegue distinguir, por exemplo, dois instrumentos diferentes tocados simultaneamente. Os raios luminosos do espectro visível, que têm comprimento de onda entre 380 nm e 780 nm, incidem na córnea, passam pelo cristalino e são projetados na retina. Na retina, encontram-se dois tipos de fotorreceptores, os cones e os bastonetes, que convertem a cor e a intensidade da luz recebida em impulsos nervosos. Os cones distinguem as cores primárias: vermelho, verde e azul, e os bastonetes diferenciam apenas níveis de intensidade, sem separar comprimentos de onda. Os impulsos nervosos produzidos são enviados ao cérebro por meio do nervo óptico, para que se dê a percepção da imagem. Um indivíduo que, por alguma deficiência, não consegue captar as informações transmitidas pelos cones, perceberá um objeto branco, iluminado apenas por luz vermelha, como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "um objeto indefinido, pois as células que captam a luz estão inativas.",
+    "B": "um objeto rosa, pois haverá mistura da luz vermelha com o branco do objeto.",
+    "C": "um objeto verde, pois o olho não consegue diferenciar componentes de cores.",
+    "D": "um objeto cinza, pois os bastonetes captam luminosidade, porém não diferenciam cor.",
+    "E": "um objeto vermelho, pois a retina capta a luz refletida pelo objeto, transformando-a em vermelho."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Sem os cones, a pessoa só usa os bastonetes, que percebem a intensidade da luz, mas não a cor. O objeto iluminado pela luz vermelha reflete essa luz, e ela é percebida só como um nível de claridade: cinza. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "visão",
+    "cones e bastonetes"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p>Durante uma ação de fiscalização em postos de combustíveis, foi encontrado um mecanismo inusitado para enganar o consumidor. Durante o inverno, o responsável por um posto de combustível compra álcool por R$ 0,50/litro, a uma temperatura de 5 °C. Para revender o líquido aos motoristas, instalou um mecanismo na bomba de combustível para aquecê-lo, para que atinja a temperatura de 35 °C, sendo o litro de álcool revendido a R$ 1,60. Diariamente o posto compra 20 mil litros de álcool a 5 ºC e os revende. Com relação à situação hipotética descrita no texto e dado que o coeficiente de dilatação volumétrica do álcool é de 1×10<sup>−3</sup> ºC<sup>−1</sup>, desprezando-se o custo da energia gasta no aquecimento do combustível, o ganho financeiro que o dono do posto teria obtido devido ao aquecimento do álcool após uma semana de vendas estaria entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 500,00 e R$ 1.000,00.",
+    "B": "R$ 1.050,00 e R$ 1.250,00.",
+    "C": "R$ 4.000,00 e R$ 5.000,00.",
+    "D": "R$ 6.000,00 e R$ 6.900,00.",
+    "E": "R$ 7.000,00 e R$ 7.950,00."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Dilatação: ΔV = V₀ · γ · Δθ = 20 000 × 10<sup>−3</sup> × 30 = 600 L a mais por dia. Vendidos a R$ 1,60: R$ 960 por dia; em uma semana, 7 × 960 = R$ 6 720, entre R$ 6.000,00 e R$ 6.900,00. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dilatação volumétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p class=\"apoio\">A invenção da geladeira proporcionou uma revolução no aproveitamento dos alimentos, ao permitir que fossem armazenados e transportados por longos períodos. A figura apresentada ilustra o processo cíclico de funcionamento de uma geladeira, em que um gás no interior de uma tubulação é forçado a circular entre o congelador e a parte externa da geladeira. É por meio dos processos de compressão, que ocorre na parte externa, e de expansão, que ocorre na parte interna, que o gás proporciona a troca de calor entre o interior e o exterior da geladeira.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://home.howstuffworks.com. Acesso em: 19 out. 2008 (adaptado).</p><p>Nos processos de transformação de energia envolvidos no funcionamento da geladeira,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q39.webp",
+     "alt": "Esquema de uma geladeira: a tubulação passa pelo compartimento do congelador, segue para o compressor e para a serpentina externa, e volta passando pela válvula de expansão."
+    }
+   ],
+   "alternativas": {
+    "A": "a expansão do gás é um processo que cede a energia necessária ao resfriamento da parte interna da geladeira.",
+    "B": "o calor flui de forma não-espontânea da parte mais fria, no interior, para a mais quente, no exterior da geladeira.",
+    "C": "a quantidade de calor cedida ao meio externo é igual ao calor retirado da geladeira.",
+    "D": "a eficiência é tanto maior quanto menos isolado termicamente do ambiente externo for o seu compartimento interno.",
+    "E": "a energia retirada do interior pode ser devolvida à geladeira abrindo-se a sua porta, o que reduz seu consumo de energia."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O calor flui sozinho do quente para o frio. Na geladeira, ele vai do interior frio para o exterior quente, o que não é espontâneo e exige trabalho do compressor. Alternativa <strong>B</strong>.</p><p>O calor cedido ao exterior é maior que o retirado, porque inclui o trabalho do compressor (C); quanto pior o isolamento, menor a eficiência (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "segunda lei da termodinâmica",
+    "refrigerador"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Química",
+   "assunto": "Química e tecnologia",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"apoio\">Na manipulação em escala nanométrica, os átomos revelam características peculiares, podendo apresentar tolerância à temperatura, reatividade química, condutividade elétrica, ou mesmo exibir força de intensidade extraordinária. Essas características explicam o interesse industrial pelos nanomateriais que estão sendo muito pesquisados em diversas áreas, desde o desenvolvimento de cosméticos, tintas e tecidos, até o de terapias contra o câncer.</p><p class=\"fonte\">LACAVA, Z. G. M; MORAIS, P. C. Nanobiotecnologia e Saúde. Disponível em: http://www.comciencia.br (adaptado).</p><p>A utilização de nanopartículas na indústria e na medicina requer estudos mais detalhados, pois</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as partículas, quanto menores, mais potentes e radiativas se tornam.",
+    "B": "as partículas podem ser manipuladas, mas não caracterizadas com a atual tecnologia.",
+    "C": "as propriedades biológicas das partículas somente podem ser testadas em microrganismos.",
+    "D": "as partículas podem atravessar poros e canais celulares, o que poderia causar impactos desconhecidos aos seres vivos e, até mesmo, aos ecossistemas.",
+    "E": "o organismo humano apresenta imunidade contra partículas tão pequenas, já que apresentam a mesma dimensão das bactérias (um bilionésimo de metro)."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto diz que, em escala nanométrica, a matéria tem propriedades diferentes das habituais. Partículas tão pequenas podem atravessar poros e canais das células, com efeitos ainda desconhecidos sobre os seres vivos e o ambiente; por isso é preciso estudar mais. Alternativa <strong>D</strong>.</p><p>Bactérias têm cerca de um milionésimo de metro, mil vezes maiores que um nanômetro (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nanotecnologia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p>Uma vítima de acidente de carro foi encontrada carbonizada devido a uma explosão. Indícios, como certos adereços de metal usados pela vítima, sugerem que a mesma seja filha de um determinado casal. Uma equipe policial de perícia teve acesso ao material biológico carbonizado da vítima, reduzido, praticamente, a fragmentos de ossos. Sabe-se que é possível obter DNA em condições para análise genética de parte do tecido interno de ossos. Os peritos necessitam escolher, entre cromossomos autossômicos, cromossomos sexuais (X e Y) ou DNAmt (DNA mitocondrial), a melhor opção para identificação do parentesco da vítima com o referido casal. Sabe-se que, entre outros aspectos, o número de cópias de um mesmo cromossomo por célula maximiza a chance de se obter moléculas não degradadas pelo calor da explosão. Com base nessas informações e tendo em vista os diferentes padrões de herança de cada fonte de DNA citada, a melhor opção para a perícia seria a utilização</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "do DNAmt, transmitido ao longo da linhagem materna, pois, em cada célula humana, há várias cópias dessa molécula.",
+    "B": "do cromossomo X, pois a vítima herdou duas cópias desse cromossomo, estando assim em número superior aos demais.",
+    "C": "do cromossomo autossômico, pois esse cromossomo apresenta maior quantidade de material genético quando comparado aos nucleares, como, por exemplo, o DNAmt.",
+    "D": "do cromossomo Y, pois, em condições normais, este é transmitido integralmente do pai para toda a prole e está presente em duas cópias em células de indivíduos do sexo feminino.",
+    "E": "de marcadores genéticos em cromossomos autossômicos, pois estes, além de serem transmitidos pelo pai e pela mãe, estão presentes em 44 cópias por célula, e os demais, em apenas uma."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz que mais cópias por célula aumentam a chance de achar DNA intacto. Cada célula tem centenas de mitocôndrias, cada uma com várias cópias de DNA mitocondrial, herdado da mãe. Comparando com a mãe do casal, dá para confirmar o parentesco. Alternativa <strong>A</strong>.</p><p>A vítima é filha, então não tem cromossomo Y (D), e os autossomos estão em apenas duas cópias de cada (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "DNA mitocondrial",
+    "herança materna"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p class=\"apoio\">O cultivo de camarões de água salgada vem se desenvolvendo muito nos últimos anos na região Nordeste do Brasil e, em algumas localidades, passou a ser a principal atividade econômica. Uma das grandes preocupações dos impactos negativos dessa atividade está relacionada à descarga, sem nenhum tipo de tratamento, dos efluentes dos viveiros diretamente no ambiente marinho, em estuários ou em manguezais. Esses efluentes possuem matéria orgânica particulada e dissolvida, amônia, nitrito, nitrato, fosfatos, partículas de sólidos em suspensão e outras substâncias que podem ser consideradas contaminantes potenciais.</p><p class=\"fonte\">CASTRO, C. B.; ARAGÃO, J. S.; COSTA-LOTUFO, L. V. Monitoramento da toxicidade de efluentes de uma fazenda de cultivo de camarão marinho. Anais do IX Congresso Brasileiro de Ecotoxicologia, 2006 (adaptado).</p><p>Suponha que tenha sido construída uma fazenda de carcinicultura próximo a um manguezal. Entre as perturbações ambientais causadas pela fazenda, espera-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a atividade microbiana se torne responsável pela reciclagem do fósforo orgânico excedente no ambiente marinho.",
+    "B": "a relativa instabilidade das condições marinhas torne as alterações de fatores físico-químicos pouco críticas à vida no mar.",
+    "C": "a amônia excedente seja convertida em nitrito, por meio do processo de nitrificação, e em nitrato, formado como produto intermediário desse processo.",
+    "D": "os efluentes promovam o crescimento excessivo de plantas aquáticas devido à alta diversidade de espécies vegetais permanentes no manguezal.",
+    "E": "o impedimento da penetração da luz pelas partículas em suspensão venha a comprometer a produtividade primária do ambiente marinho, que resulta da atividade metabólica do fitoplâncton."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os efluentes têm muita matéria particulada em suspensão, que turva a água e bloqueia a luz. Sem luz, o fitoplâncton faz menos fotossíntese e a produtividade primária do ambiente marinho cai. Alternativa <strong>E</strong>.</p><p>Na nitrificação, o nitrito é o intermediário e o nitrato é o produto final, não o contrário (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "carcinicultura",
+    "produtividade primária"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p class=\"apoio\">Nas últimas décadas, o efeito estufa tem-se intensificado de maneira preocupante, sendo esse efeito muitas vezes atribuído à intensa liberação de CO<sub>2</sub> durante a queima de combustíveis fósseis para geração de energia. O quadro traz as entalpias-padrão de combustão a 25 ºC (ΔH<sup>0</sup><sub>25</sub>) do metano, do butano e do octano.</p><table class=\"tabela\"><thead><tr><th>composto</th><th>fórmula molecular</th><th>massa molar (g/mol)</th><th>ΔH<sup>0</sup><sub>25</sub> (kJ/mol)</th></tr></thead><tbody><tr><td>metano</td><td>CH<sub>4</sub></td><td>16</td><td>−890</td></tr><tr><td>butano</td><td>C<sub>4</sub>H<sub>10</sub></td><td>58</td><td>−2.878</td></tr><tr><td>octano</td><td>C<sub>8</sub>H<sub>18</sub></td><td>114</td><td>−5.471</td></tr></tbody></table><p>À medida que aumenta a consciência sobre os impactos ambientais relacionados ao uso da energia, cresce a importância de se criar políticas de incentivo ao uso de combustíveis mais eficientes. Nesse sentido, considerando-se que o metano, o butano e o octano sejam representativos do gás natural, do gás liquefeito de petróleo (GLP) e da gasolina, respectivamente, então, a partir dos dados fornecidos, é possível concluir que, do ponto de vista da quantidade de calor obtido por mol de CO2 gerado, a ordem crescente desses três combustíveis é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "gasolina, GLP e gás natural.",
+    "B": "gás natural, gasolina e GLP.",
+    "C": "gasolina, gás natural e GLP.",
+    "D": "gás natural, GLP e gasolina.",
+    "E": "GLP, gás natural e gasolina."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Calor por mol de CO<sub>2</sub>: metano, 890 ÷ 1 = 890 kJ; butano, 2 878 ÷ 4 ≈ 720 kJ; octano, 5 471 ÷ 8 ≈ 684 kJ. Em ordem crescente: gasolina, GLP e gás natural. Alternativa <strong>A</strong>.</p><p>O número de mols de CO<sub>2</sub> é o número de carbonos da fórmula.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "entalpia de combustão",
+    "combustíveis"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p class=\"apoio\">O álcool hidratado utilizado como combustível veicular é obtido por meio da destilação fracionada de soluções aquosas geradas a partir da fermentação de biomassa. Durante a destilação, o teor de etanol da mistura é aumentado, até o limite de 96% em massa.</p><p>Considere que, em uma usina de produção de etanol, 800 kg de uma mistura etanol/água com concentração 20% em massa de etanol foram destilados, sendo obtidos 100 kg de álcool hidratado 96% em massa de etanol. A partir desses dados, é correto concluir que a destilação em questão gerou um resíduo com uma concentração de etanol em massa</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "de 0%.",
+    "B": "de 8,0%.",
+    "C": "entre 8,4% e 8,6%.",
+    "D": "entre 9,0% e 9,2%.",
+    "E": "entre 13% e 14%."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Etanol inicial: 20% de 800 kg = 160 kg. O álcool hidratado leva 96% de 100 kg = 96 kg. Sobram 160 − 96 = 64 kg de etanol num resíduo de 800 − 100 = 700 kg. Concentração: 64 ÷ 700 ≈ 9,14%, entre 9,0% e 9,2%. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem em massa",
+    "destilação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Física",
+   "assunto": "Eletricidade",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p>Considere a seguinte situação hipotética: ao preparar o palco para a apresentação de uma peça de teatro, o iluminador deveria colocar três atores sob luzes que tinham igual brilho e os demais, sob luzes de menor brilho. O iluminador determinou, então, aos técnicos, que instalassem no palco oito lâmpadas incandescentes com a mesma especificação (L1 a L8), interligadas em um circuito com uma bateria, conforme mostra a figura.</p>[[fig:1]]<p>Nessa situação, quais são as três lâmpadas que acendem com o mesmo brilho por apresentarem igual valor de corrente fluindo nelas, sob as quais devem se posicionar os três atores?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-natureza/q45.webp",
+     "alt": "Circuito com bateria E: L1 em série na saída; depois um ramo para baixo com L2 e L3 em série; em seguida L4 em série; depois outro ramo com L5 e L6 em série; por fim L7 e L8 em série fechando o circuito."
+    }
+   ],
+   "alternativas": {
+    "A": "L1, L2 e L3.",
+    "B": "L2, L3 e L4.",
+    "C": "L2, L5 e L7.",
+    "D": "L4, L5 e L6.",
+    "E": "L4, L7 e L8."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Seja R a resistência de cada lâmpada. L7 + L8 (2R) em paralelo com L5 + L6 (2R) dá R; somando L4, o ramo vale 2R, em paralelo com L2 + L3 (2R). Os dois ramos têm a mesma resistência e recebem a mesma corrente: a corrente de L4 é igual à de L2 e L3. Alternativa <strong>B</strong>.</p><p>L1 recebe a corrente total, e L5 a L8 recebem metade da corrente de L4.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "associação de resistores",
+    "corrente elétrica"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

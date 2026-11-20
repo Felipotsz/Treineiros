@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#06191F">
+<link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Treineiros | Simulados e Provas">
+<meta property="og:description" content="Faça simulados com provas reais, no tempo da prova, com correção comentada e revisão do que você errou. Grátis e sem cadastro.">
+<meta property="og:image" content="https://felipotsz.github.io/treineiros/assets/og.png">
+<meta property="og:url" content="https://felipotsz.github.io/treineiros/">
+<meta name="twitter:card" content="summary_large_image">
+<title>Treineiros | Simulados e Provas</title>
+<meta name="description" content="Simulados grátis com provas reais do Enem e de vestibulares. Cronômetro, correção comentada e revisão dos erros, sem cadastro e no celular.">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/home.css"><link rel="stylesheet" href="css/acessibilidade.css">
+<script src="js/theme.js"></script>
+</head>
+<body>
+<main id="conteudo" class="home">
+
+  <!-- Abertura: a folha de respostas -->
+  <section class="h-sec abertura" aria-labelledby="titulo">
+    <div class="h-in abertura__in">
+      <div class="abertura__texto">
+        <p class="sobretitulo">Enem · Vestibulinho ETEC · Vestibular FATEC</p>
+        <h1 id="titulo">Treine com as provas <em>de verdade.</em></h1>
+        <p class="abertura__lead">Simulados com as questões oficiais, no tempo da prova, com correção comentada e revisão do que você errou. Grátis, sem cadastro, pensado para o celular.</p>
+        <p class="botoes"><a class="btn btn--primary btn--grande" href="#cadernos">Escolher uma prova
+          <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+          <a class="btn btn--grande" href="busca.html">Treinar por assunto</a></p>
+        <ul class="fatos">
+          <li>6.270 questões oficiais</li>
+          <li>130 provas, de 1998 a 2026</li>
+          <li>sem anúncios</li>
+        </ul>
+        <p class="abertura__status" id="status-home" role="status"></p>
+      </div>
+
+      <div class="folha-resp" aria-hidden="true">
+        <div class="folha-resp__topo"><span>Folha de respostas</span><span>Enem 2023 · Matemática</span></div>
+        <p class="folha-resp__nome">Nome: <span class="mao">você mesmo</span></p>
+        <ol class="folha-resp__linhas">
+          <li><b>136</b><i>A</i><i class="m">B</i><i>C</i><i>D</i><i>E</i><s class="ok">✓</s></li>
+          <li><b>137</b><i>A</i><i>B</i><i>C</i><i class="m">D</i><i>E</i><s class="ok">✓</s></li>
+          <li><b>138</b><i class="m">A</i><i>B</i><i>C</i><i>D</i><i>E</i><s class="ok">✓</s></li>
+          <li><b>139</b><i>A</i><i>B</i><i class="x">C</i><i>D</i><i class="c">E</i><s class="erro">✗</s></li>
+          <li><b>140</b><i>A</i><i>B</i><i>C</i><i>D</i><i class="m">E</i><s class="ok">✓</s></li>
+          <li><b>141</b><i>A</i><i class="m">B</i><i>C</i><i>D</i><i>E</i><s class="ok">✓</s></li>
+          <li><b>142</b><i>A</i><i>B</i><i>C</i><i>D</i><i>E</i><s></s></li>
+          <li><b>143</b><i>A</i><i>B</i><i>C</i><i>D</i><i>E</i><s></s></li>
+        </ol>
+        <div class="folha-resp__pe"><span>Exemplo de correção</span><span class="mao mao--erro">rever a 139</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Capítulo 1: os cadernos -->
+  <section class="h-sec h-sec--clara" id="cadernos" aria-labelledby="cadernos-t">
+    <div class="h-in cadernos__in">
+      <div class="cadernos__texto">
+        <p class="capitulo">Capítulo 1</p>
+        <h2 id="cadernos-t">Escolha o <em>caderno</em></h2>
+        <div class="seletor" role="tablist" aria-label="Vestibular">
+          <button type="button" role="tab" id="aba-enem" aria-controls="painel-cadernos" aria-selected="true" data-banca="enem">Enem</button>
+          <button type="button" role="tab" id="aba-etec" aria-controls="painel-cadernos" aria-selected="false" tabindex="-1" data-banca="etec">ETEC</button>
+          <button type="button" role="tab" id="aba-fatec" aria-controls="painel-cadernos" aria-selected="false" tabindex="-1" data-banca="fatec">FATEC</button>
+        </div>
+        <div id="painel-cadernos" role="tabpanel" aria-labelledby="aba-enem">
+          <p class="cadernos__desc" id="cadernos-desc">Todas as edições, de 1998 a 2026. As provas de 63 questões do modelo antigo e as atuais, separadas por área. A redação tem os temas oficiais e temas extras.</p>
+          <ul class="edicoes" id="edicoes">
+            <li><a class="edicao edicao--todas" href="provas.html?banca=enem">Ver as provas do Enem</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="pilha" id="pilha" aria-hidden="true">
+        <div class="livro livro--fatec" data-banca="fatec">
+          <p class="livro__selo">Vestibular FATEC · 2026</p><p class="livro__tit">Caderno de questões</p>
+          <p class="livro__area">2º semestre · prova objetiva e redação</p><p class="livro__pe"><span>60 questões</span><span>5 h</span></p>
+        </div>
+        <div class="livro livro--etec" data-banca="etec">
+          <p class="livro__selo">Vestibulinho ETEC · 2026</p><p class="livro__tit">Caderno de questões</p>
+          <p class="livro__area">2º semestre · conhecimentos gerais</p><p class="livro__pe"><span>50 questões</span><span>4 h</span></p>
+        </div>
+        <div class="livro livro--enem" data-banca="enem">
+          <p class="livro__selo">Enem 2025 · 2º dia</p><p class="livro__tit">Caderno de questões</p>
+          <p class="livro__area">Matemática e Ciências da Natureza</p><p class="livro__pe"><span>90 questões</span><span>5 h</span></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Capítulo 2: a correção -->
+  <section class="h-sec h-sec--banda" aria-labelledby="correcao-t">
+    <div class="h-in correcao__in">
+      <div class="correcao__texto">
+        <p class="capitulo">Capítulo 2</p>
+        <h2 id="correcao-t">Erre aqui,<br><em>acerte na prova.</em></h2>
+        <p>Cada resposta vem corrigida e comentada: por que a certa está certa e por que as outras estão erradas. O que você errou volta para revisão nos dias certos.</p>
+        <p class="botoes"><a class="btn btn--claro btn--grande" href="provas.html">Fazer um simulado</a><a class="btn btn--contorno-claro btn--grande" href="funcionalidades.html">Tudo o que dá para fazer</a></p>
+      </div>
+      <div class="corrigida" aria-hidden="true">
+        <div class="corrigida__folha">
+          <p class="corrigida__origem">ETEC 2024 · Questão 30</p>
+          <p>Uma barra rígida móvel apoiada em um ponto fixo, como o braço que levanta o halter. A máquina citada é denominada</p>
+          <ul>
+            <li class="certa"><i>A</i>alavanca.<span class="mao">isso!</span></li>
+            <li><i>B</i>polia.</li>
+            <li><i>C</i>rosca.</li>
+          </ul>
+          <p class="mao corrigida__nota">Barra + ponto de apoio = alavanca. O cotovelo é o apoio.</p>
+        </div>
+        <div class="carimbo"><div><span>Treineiros</span><b>Corrigido</b><span>Comentado</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Capítulo 3: como funciona -->
+  <section class="h-sec" aria-labelledby="como">
+    <div class="h-in">
+      <div class="h-cabeca">
+        <p class="capitulo">Capítulo 3</p>
+        <h2 id="como">Do simulado <em>à revisão</em></h2>
+        <p>Cada etapa é uma linha da folha: você marca, confere e volta no que errou.</p>
+      </div>
+      <ol class="passos">
+        <li><h3>Escolha a prova</h3><p>Uma prova oficial inteira, com a duração do dia, ou um treino só com as matérias que você quer.</p></li>
+        <li><h3>Responda no seu ritmo</h3><p>Uma questão por vez, com cronômetro ou sem. Pause quando precisar: nada se perde.</p></li>
+        <li><h3>Entenda cada resposta</h3><p>A correção explica por que a certa está certa e por que as outras estão erradas.</p></li>
+        <li><h3>Volte no que errou</h3><p>As erradas voltam para revisão nos dias certos, até você dominar o assunto.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- Apoie -->
+  <section class="h-sec h-sec--banda apoio-home" aria-labelledby="apoio-t">
+    <div class="h-in apoio-home__in">
+      <figure class="cta-autor"><img class="apoio-home__foto" src="assets/fotos/autor-retrato-190.webp" srcset="assets/fotos/autor-retrato-190.webp 1x, assets/fotos/autor-retrato-380.webp 2x" width="190" height="228" alt="" loading="lazy"><figcaption>Felipe Gustavo Bieco</figcaption></figure>
+      <div class="apoio-home__texto">
+        <p class="sobretitulo">Gratuito e sem anúncios</p>
+        <h2 id="apoio-t">O Treineiros é feito <em>por uma pessoa</em></h2>
+        <p>Se ele está te ajudando a estudar, você pode apoiar com um Pix de qualquer valor. É opcional: tudo continua liberado para todo mundo.</p>
+        <p class="botoes"><a class="btn btn--contorno-claro" href="sobre.html">Conhecer o projeto</a></p>
+      </div>
+      <div class="pix-cartao" id="pix">
+        <p class="pix-cartao__rot">Pix</p>
+        <div class="pix-cartao__qr" id="home-pix-qr">QR Code<br>do Pix</div>
+        <p class="pix-cartao__instr">Ou use a chave (e-mail):</p>
+        <p class="pix-cartao__chave" id="home-pix-chave">educacao.treineiros@gmail.com</p>
+        <button type="button" class="btn btn--primary" id="home-pix-copiar">Copiar chave Pix</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Próximas provas -->
+  <section class="h-sec h-sec--clara" aria-labelledby="proximas-t">
+    <div class="h-in">
+      <div class="h-cabeca">
+        <h2 id="proximas-t">Próximas <em>provas</em></h2>
+        <p>As datas entram aqui assim que saírem os editais oficiais.</p>
+      </div>
+      <ul class="agenda" id="agenda"></ul>
+    </div>
+  </section>
+
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/registro.js"></script><script src="js/dados.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/acessibilidade.js"></script><script src="js/home.js"></script>
+</body>
+</html>

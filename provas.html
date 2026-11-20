@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#06191F">
+<link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/provas.css"><link rel="stylesheet" href="css/acessibilidade.css">
+<script src="js/theme.js"></script>
+<title>Escolha sua prova | Treineiros</title>
+</head>
+<body>
+<main id="conteudo" class="pag">
+  <section class="faixa" aria-labelledby="titulo">
+    <div class="faixa__in">
+      <div class="faixa__texto">
+        <p class="sobretitulo" id="provas-total">Provas oficiais · de 1998 a 2026</p>
+        <h1 id="titulo">Escolha <em>sua prova</em></h1>
+        <p class="faixa__lead">Cada linha é uma prova inteira, com o tempo do dia. A bolinha mostra se você já fez, está fazendo ou ainda não começou.</p>
+      </div>
+      <div class="faixa__painel filtros-provas">
+        <div>
+          <span class="rotulo" id="rot-vest">Vestibular</span>
+          <div class="segmento chips" role="group" aria-labelledby="rot-vest">
+            <button type="button" class="chip" data-banca="" aria-pressed="true">Todas</button>
+            <button type="button" class="chip" data-banca="Enem" aria-pressed="false">Enem</button>
+            <button type="button" class="chip" data-banca="ETEC" aria-pressed="false">ETEC</button>
+            <button type="button" class="chip" data-banca="FATEC" aria-pressed="false">FATEC</button>
+          </div>
+        </div>
+        <div class="filtros-provas__linha">
+          <label for="f-ano" class="sr">Ano</label><select id="f-ano" class="campo"></select>
+          <label class="chk"><input type="checkbox" id="f-nao"> Só as que ainda não fiz</label>
+        </div>
+        <p id="contagem" class="faixa__conta" role="status"></p>
+      </div>
+    </div>
+  </section>
+
+  <div class="pag__corpo provas-corpo">
+    <nav class="indice-anos" id="indice" aria-label="Ir para o ano" hidden></nav>
+    <div class="provas-col">
+      <div id="lista"><p>Carregando as provas…</p></div>
+      <section class="backup" id="bk" aria-labelledby="bk-t">
+        <div class="backup__topo">
+          <div>
+            <h2 id="bk-t">Seu progresso fica neste aparelho</h2>
+            <p>Não há login: o andamento, o caderno de erros e as anotações ficam neste navegador. Para continuar no celular ou em outro computador, leve o progresso por QR code ou por arquivo.</p>
+          </div>
+        </div>
+        <div class="backup__acoes">
+          <button class="btn btn--primary" id="b-qr" type="button">Gerar QR code</button>
+          <button class="btn" id="b-exp" type="button">Exportar arquivo</button>
+          <label class="btn backup__imp" for="f-imp">Importar arquivo</label>
+          <input id="f-imp" class="sr" type="file" accept=".json,application/json">
+        </div>
+        <div id="qr" class="qr" hidden></div>
+        <p class="legenda">O QR code leva o caderno de erros, o histórico, as anotações e a meta; os dados ficam só no link, nada passa por servidor. Importar substitui o andamento salvo neste aparelho.</p>
+        <p id="bk-status" role="status"></p>
+      </section>
+    </div>
+  </div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/motor.js"></script><script src="js/render.js"></script><script src="js/dados.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/acessibilidade.js"></script><script src="js/linguas.js"></script><script src="js/provas.js"></script><script src="js/registro.js"></script><script src="js/transferir.js"></script><script src="assets/vendor/qrcode.js"></script><script src="js/backup.js"></script>
+</body>
+</html>

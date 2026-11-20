@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#06191F">
+<link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/acessibilidade.css">
+<script src="js/theme.js"></script>
+<title>Receber progresso | Treineiros</title>
+</head>
+<body>
+<main id="conteudo" class="pag">
+  <section class="faixa faixa--centro faixa--sobe recebe" aria-labelledby="rc-t"><div class="faixa__in">
+    <div class="recebe__aparelhos" aria-hidden="true"><span class="recebe__cel"><i></i></span>
+      <svg width="64" height="20" viewBox="0 0 64 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M2 10h46" stroke-dasharray="4 5"/><path d="M50 3l8 7-8 7"/></svg>
+      <span class="recebe__note"></span></div>
+    <h1 id="rc-t">Receber o progresso <em>de outro aparelho</em></h1>
+    <p class="faixa__lead">Nada foi gravado ainda. Confira o que vem no link antes de aceitar.</p>
+  </div></section>
+  <div class="sobe"><div class="sobe__folha" id="app"><p>Lendo os dados do link…</p></div></div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/registro.js"></script><script src="js/transferir.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/acessibilidade.js"></script>
+<script>
+  /* Página aberta pelo QR code: mostra o que veio e só grava quando o aluno confirmar. */
+  (function () {
+    var app = document.getElementById("app");
+    // cópia do que já está neste aparelho, no mesmo formato do "Exportar arquivo" (Provas › Seu progresso)
+    function guardarCopia() {
+      var d = {};
+      try { for (var i = 0; i < localStorage.length; i++) { var k = localStorage.key(i); if (k.indexOf("treineiros:") === 0 && k !== "treineiros:tema") d[k] = localStorage.getItem(k); } } catch (e) {}
+      var c = { app: "treineiros", versao: 1, exportadoEm: new Date().toISOString(), dados: d };
+      var url = URL.createObjectURL(new Blob([JSON.stringify(c, null, 2)], { type: "application/json" })), a = document.createElement("a");
+      a.href = url; a.download = "treineiros-progresso-" + c.exportadoEm.slice(0, 10) + ".json";
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+    }
+    function numero(n, rot) { return '<div><dd>' + n + '</dd><dt>' + rot + '</dt></div>'; }
+    Transferir.lerLink(location.hash).then(function (d) {
+      var h = Array.isArray(d.historico) ? d.historico.length : 0, e = d.erros ? Object.keys(d.erros).length : 0, n = d.notas ? Object.keys(d.notas).length : 0;
+      var meta = d.meta && d.meta.questoesDia >= 1 ? Math.floor(d.meta.questoesDia) : 0;
+      app.innerHTML = '<h2>Este link <em>traz</em></h2>' +
+        '<dl class="recebe__nums">' + numero(h, h === 1 ? "simulado no histórico" : "simulados no histórico") + numero(e, e === 1 ? "questão no caderno de erros" : "questões no caderno de erros") +
+        numero(n, n === 1 ? "anotação" : "anotações") + (meta ? numero(meta + "/dia", "meta de questões") : "") + '</dl>' +
+        '<p class="recebe__extra">Também vêm a contagem regressiva e a sequência de dias.</p>' +
+        '<section class="recebe__oque" aria-labelledby="rc-o"><h3 id="rc-o" class="rotulo">E o que já está neste aparelho?</h3><ul>' +
+        '<li class="recebe__soma"><b>Soma</b><span>O <strong>histórico de simulados</strong> é somado ao daqui. Nada se perde.</span></li>' +
+        '<li class="recebe__troca"><b>Troca</b><span><strong>Caderno de erros, anotações, meta e rotina</strong> são substituídos pelos do link.</span></li></ul></section>' +
+        '<div class="recebe__acoes"><button class="btn btn--primary btn--grande" id="b-ok" type="button">Receber o progresso</button> <a class="btn btn--grande" href="index.html">Agora não</a>' +
+        '<button type="button" class="btn btn--ghost recebe__copia" id="b-copia">Guardar uma cópia do que tenho aqui antes</button></div><p id="st" role="status"></p>';
+      document.getElementById("b-copia").onclick = function () { guardarCopia(); document.getElementById("st").textContent = "Cópia baixada. Para voltar a ela, use Provas › Seu progresso › Importar arquivo."; };
+      document.getElementById("b-ok").onclick = function () {
+        Transferir.aplicar(d);
+        history.replaceState(null, "", location.pathname);          // tira os dados do endereço
+        document.getElementById("st").textContent = "Pronto! Seu progresso chegou.";
+        this.disabled = true;
+        setTimeout(function () { location.href = "estudo.html"; }, 1200);
+      };
+    }).catch(function () {
+      app.innerHTML = '<h2>Link <em>sem progresso</em></h2><p>Este link não tem um progresso válido. Gere um novo QR code no outro aparelho, em <a href="provas.html#bk">Provas › Seu progresso</a>.</p>';
+    });
+  })();
+</script>
+</body>
+</html>

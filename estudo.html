@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#06191F">
+<link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/simulado.css"><link rel="stylesheet" href="css/estudo.css"><link rel="stylesheet" href="css/acessibilidade.css">
+<script src="js/theme.js"></script>
+<title>Meu estudo | Treineiros</title>
+</head>
+<body>
+<main id="conteudo" class="pag">
+  <section class="faixa" aria-labelledby="titulo">
+    <div class="faixa__in">
+      <div class="faixa__texto">
+        <p class="sobretitulo" id="hoje-data"></p>
+        <h1 id="titulo">Meu <em>caderno</em></h1>
+        <p class="faixa__lead">O que você já fez, o que voltar a estudar hoje e as ferramentas para montar treinos. Fica salvo só neste navegador: <a href="provas.html#bk">levar para outro aparelho</a>.</p>
+      </div>
+      <dl class="faixa__numeros" id="faixa-num"></dl>
+      <div class="rot-hoje" id="faixa-hoje" hidden></div>
+    </div>
+  </section>
+
+  <div class="pag__corpo caderno">
+    <nav class="sumario" aria-label="Capítulos">
+      <p class="rotulo">Sumário</p>
+      <ol id="sumario"></ol>
+    </nav>
+    <div class="caderno__caps">
+      <p id="status" role="status"></p>
+      <article class="cap" id="cap-hoje" aria-labelledby="h-hoje">
+        <header class="cap__topo"><p class="sobretitulo">Capítulo 1</p><h2 id="h-hoje">Hoje</h2><p class="cap__explica">Defina a data da sua prova e uma meta de questões por dia. Cada dia em que você estuda entra na sequência.</p></header>
+        <div id="painel"></div>
+      </article>
+      <article class="cap" id="cap-rotina" aria-labelledby="h-rotina">
+        <header class="cap__topo"><p class="sobretitulo">Capítulo 2</p><h2 id="h-rotina">Minha <em>rotina</em></h2><p class="cap__explica">Escolha os dias, o horário, as matérias e quantas questões em cada um. A meta de hoje passa a seguir a sua semana, e o calendário do celular pode avisar na hora de estudar.</p></header>
+        <div id="rotina"><p>Carregando…</p></div>
+      </article>
+      <article class="cap" id="cap-revisao" aria-labelledby="h-revisao">
+        <header class="cap__topo"><p class="sobretitulo">Capítulo 3</p><h2 id="h-revisao">Revisão <em>de hoje</em></h2><p class="cap__explica">Toda questão que você erra, deixa em branco ou acerta chutando volta para cá depois de <span id="ints"></span> dias. Acertou em todas as voltas, ela sai da revisão.</p></header>
+        <div id="revisao"><p>Carregando…</p></div>
+      </article>
+      <article class="cap" id="cap-misto" aria-labelledby="h-misto">
+        <header class="cap__topo"><p class="sobretitulo">Capítulo 4</p><h2 id="h-misto">Simulado <em>misto</em></h2><p class="cap__explica">Uma prova que não existe: questões sorteadas de todas as edições. Escolha de onde elas vêm: de uma prova só, com a nota dela, ou de duas ou três provas mescladas, só com os acertos.</p></header>
+        <div id="misto"><p>Carregando…</p></div>
+      </article>
+      <article class="cap" id="cap-treino" aria-labelledby="h-treino">
+        <header class="cap__topo"><p class="sobretitulo">Capítulo 5</p><h2 id="h-treino">Treino <em>por matéria</em></h2><p class="cap__explica">Junte questões de várias provas só das matérias e dos assuntos que você escolher.</p></header>
+        <div id="treino"><p>Carregando…</p></div>
+      </article>
+      <article class="cap" id="cap-stats" aria-labelledby="h-stats">
+        <header class="cap__topo"><p class="sobretitulo">Capítulo 6</p><h2 id="h-stats">Estatísticas e <em>onde reforçar</em></h2><p class="cap__explica">Tudo o que você já respondeu, somado. Os assuntos para reforçar são os de menor acerto, com pelo menos 3 questões feitas.</p></header>
+        <div id="plano"><p>Carregando…</p></div><div id="stats"></div>
+      </article>
+      <article class="cap" id="cap-erros" aria-labelledby="h-erros">
+        <header class="cap__topo"><p class="sobretitulo">Capítulo 7</p><h2 id="h-erros">Caderno <em>de erros</em></h2><p class="cap__explica">Toda questão errada, em branco ou chutada fica guardada aqui com a sua anotação, até sair da revisão.</p></header>
+        <div id="caderno"><p>Carregando…</p></div>
+      </article>
+    </div>
+  </div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/motor.js"></script><script src="js/registro.js"></script><script src="js/dados.js"></script><script src="js/treino.js"></script><script src="js/render.js"></script><script src="js/formulas.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/acessibilidade.js"></script><script src="js/rotina.js"></script><script src="js/estudo.js"></script>
+</body>
+</html>

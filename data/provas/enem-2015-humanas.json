@@ -1,0 +1,1160 @@
+{
+ "id": "enem-2015-humanas",
+ "banca": "Enem",
+ "ano": 2015,
+ "titulo": "Enem 2015: Ciências Humanas",
+ "fonte": "Inep",
+ "dataExame": "2015-10-24",
+ "duracaoMinutos": 135,
+ "area": "Ciências Humanas",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Geografia",
+   "assunto": "Biomas",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">BRASIL. Ministério do Meio Ambiente/IBGE. Biomas. 2004 (adaptado).</p><p>No mapa estão representados os biomas brasileiros que, em função de suas características físicas e do modo de ocupação do território, apresentam problemas ambientais distintos. Nesse sentido, o problema ambiental destacado no mapa indica</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-humanas/q01.webp",
+     "alt": "Mapa dos biomas do Brasil (Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa e Pantanal), com áreas hachuradas de “problema ambiental” sobre grande parte da Caatinga, no Nordeste, e trechos do Pampa, no extremo sul."
+    }
+   ],
+   "alternativas": {
+    "A": "desertificação das áreas afetadas.",
+    "B": "poluição dos rios temporários.",
+    "C": "queimadas dos remanescentes vegetais.",
+    "D": "desmatamento das matas ciliares.",
+    "E": "contaminação das águas subterrâneas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No mapa, a área hachurada de “problema ambiental” cai sobre a Caatinga, no semiárido nordestino, e em trechos do Pampa gaúcho. Nos dois casos, o problema é a <strong>desertificação</strong>: degradação do solo por clima seco somado a desmatamento, uso intensivo e, no Pampa, arenização. Alternativa <strong>A</strong>.</p><p>Queimadas e matas ciliares não definem essas manchas (C e D), e rios temporários e águas subterrâneas não são o que o mapa destaca (B e E).</p>",
+   "explicacaoRevisada": true,
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "História",
+   "assunto": "Revolução Industrial",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p class=\"apoio\">Dominar a luz implica tanto um avanço tecnológico quanto uma certa liberação dos ritmos cíclicos da natureza, com a passagem das estações e as alternâncias de dia e noite. Com a iluminação noturna, a escuridão vai cedendo lugar à claridade, e a percepção temporal começa a se pautar pela marcação do relógio. Se a luz invade a noite, perde sentido a separação tradicional entre trabalho e descanso — todas as partes do dia podem ser aproveitadas produtivamente.</p><p class=\"fonte\">SILVA FILHO, A. L. M. Fortaleza: imagens da cidade. Fortaleza: Museu do Ceará; Secult-CE, 2001 (adaptado).</p><p>Em relação ao mundo do trabalho, a transformação apontada no texto teve como consequência a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "melhoria da qualidade da produção industrial.",
+    "B": "redução da oferta de emprego nas zonas rurais.",
+    "C": "permissão ao trabalhador para controlar seus próprios horários.",
+    "D": "diminuição das exigências de esforço no trabalho com máquinas.",
+    "E": "ampliação do período disponível para a jornada de trabalho."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com a luz artificial, “perde sentido a separação tradicional entre trabalho e descanso”: a noite também pode ser usada para produzir, e a jornada se estende. Alternativa <strong>E</strong>.</p><p>O texto não fala de qualidade da produção (A), emprego rural (B), autonomia do trabalhador (C) nem de menor esforço com máquinas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "trabalho"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "Filosofia",
+   "assunto": "Filosofia contemporânea",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"apoio\">Apesar de seu disfarce de iniciativa e otimismo, o homem moderno está esmagado por um profundo sentimento de impotência que o faz olhar fixamente e, como que paralisado, para as catástrofes que se avizinham. Por isso, desde já, saliente-se a necessidade de uma permanente atitude crítica, o único modo pelo qual o homem realizará sua vocação natural de integrar-se, superando a atitude do simples ajustamento ou acomodação, apreendendo temas e tarefas de sua época.</p><p class=\"fonte\">FREIRE, P. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2011.</p><p>Paulo Freire defende que a superação das dificuldades e a apreensão da realidade atual será obtida pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "desenvolvimento do pensamento autônomo.",
+    "B": "obtenção de qualificação profissional.",
+    "C": "resgate de valores tradicionais.",
+    "D": "realização de desejos pessoais.",
+    "E": "aumento da renda familiar."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Freire defende “uma permanente atitude crítica”, que supere o “simples ajustamento ou acomodação”: o caminho é o <strong>pensamento autônomo</strong>. Alternativa <strong>A</strong>.</p><p>O texto não trata de qualificação, tradição, desejos ou renda (B a E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Paulo Freire",
+    "educação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">AMARILDO. Disponível em: www.amarildo.com.br. Acesso em: 3 mar. 2013.</p><p>Na charge há uma crítica ao processo produtivo agrícola brasileiro relacionada ao</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-humanas/q04.webp",
+     "alt": "Charge de Amarildo: um delegado pergunta ao homem sentado à sua frente “Por que o sr. desconfia que sua mulher tá tentando matá-lo?”. O homem responde “Ela me serviu pimentão, alface e tomate no jantar.” e completa “E de sobremesa morango e uva!”."
+    }
+   ],
+   "alternativas": {
+    "A": "elevado preço das mercadorias no comércio.",
+    "B": "aumento da demanda por produtos naturais.",
+    "C": "crescimento da produção de alimentos.",
+    "D": "hábito de adquirir derivados industriais.",
+    "E": "uso de agrotóxicos nas plantações."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A piada é que pimentão, alface, tomate, morango e uva estão entre os alimentos com mais resíduos de <strong>agrotóxicos</strong> no Brasil: a esposa “tenta matar” o marido servindo-os. Alternativa <strong>E</strong>.</p><p>A charge não fala de preço (A), procura por orgânicos (B), quantidade produzida (C) ou industrializados (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "agrotóxicos",
+    "charge"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p class=\"apoio\">A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto... Assim a lei pode triunfar e o mundo gozar da paz.</p><p class=\"fonte\">ALDALBERON DE LAON. In: SPINOSA, F. Antologia de textos históricos medievais. Lisboa: Sá da Costa, 1981.</p><p>A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Justificar a dominação estamental / revoltas camponesas.",
+    "B": "Subverter a hierarquia social / centralização monárquica.",
+    "C": "Impedir a igualdade jurídica / revoluções burguesas.",
+    "D": "Controlar a exploração econômica / unificação monetária.",
+    "E": "Questionar a ordem divina / Reforma Católica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A divisão em “os que oram, os que combatem e os que trabalham” apresenta a ordem social como desejada por Deus e harmoniosa: serve para <strong>justificar a sociedade estamental</strong>. Quem mais se opôs a ela, na prática, foram as <strong>revoltas camponesas</strong> (como as <em>jacqueries</em>), contra a exploração senhorial. Alternativa <strong>A</strong>.</p><p>A ideologia defendia a hierarquia, não a subvertia nem a questionava (B e E). As revoluções burguesas e a Reforma Católica são da Idade Moderna (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sociedade feudal"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p class=\"apoio\">A língua de que usam, por toda a costa, carece de três letras; convém a saber, não se acha nela F, nem L, nem R, coisa digna de espanto, porque assim não têm Fé, nem Lei, nem Rei, e dessa maneira vivem desordenadamente, sem terem além disto conta, nem peso, nem medida.</p><p class=\"fonte\">GÂNDAVO, P. M. A primeira história do Brasil: história da província de Santa Cruz a que vulgarmente chamamos Brasil. Rio de Janeiro: Zahar, 2004 (adaptado).</p><p>A observação do cronista português Pero de Magalhães de Gândavo, em 1576, sobre a ausência das letras F, L e R na língua mencionada, demonstra a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "simplicidade da organização social das tribos brasileiras.",
+    "B": "dominação portuguesa imposta aos índios no início da colonização.",
+    "C": "superioridade da sociedade europeia em relação à sociedade indígena.",
+    "D": "incompreensão dos valores socioculturais indígenas pelos portugueses.",
+    "E": "dificuldade experimentada pelos portugueses no aprendizado da língua nativa."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Gândavo julga a língua tupi pelos padrões europeus e conclui que, sem F, L e R, os indígenas não teriam fé, lei nem rei: é a <strong>incompreensão dos valores e da organização indígenas</strong>. Alternativa <strong>D</strong>.</p><p>O texto revela o olhar do cronista, não descreve de fato a sociedade indígena (A) nem a dominação imposta (B). C reproduz o preconceito em vez de identificá-lo. E não há dificuldade de aprendizado no trecho.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "indígenas",
+    "eurocentrismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p class=\"apoio\">O principal articulador do atual modelo econômico chinês argumenta que o mercado é só um instrumento econômico, que se emprega de forma indistinta tanto no capitalismo como no socialismo. Porém os próprios chineses já estão sentindo, na sua sociedade, o seu real significado: o mercado não é algo neutro, ou um instrumental técnico que possibilita à sociedade utilizá-lo para a construção e edificação do socialismo. Ele é, ao contrário do que diz o articulador, um instrumento do capitalismo e é inerente à sua estrutura como modo de produção. A sua utilização está levando a uma polarização da sociedade chinesa.</p><p class=\"fonte\">OLIVEIRA, A. A Revolução Chinesa. Caros Amigos, 31 jan. 2011 (adaptado).</p><p>No texto, as reformas econômicas ocorridas na China são colocadas como antagônicas à construção de um país socialista. Nesse contexto, a característica fundamental do socialismo, à qual o modelo econômico chinês atual se contrapõe é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "desestatização da economia.",
+    "B": "instauração de um partido único.",
+    "C": "manutenção da livre concorrência.",
+    "D": "formação de sindicatos trabalhistas.",
+    "E": "extinção gradual das classes sociais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que o mercado não é neutro: ao adotá-lo, a China passa a sentir seus efeitos sociais (desigualdade), o que contradiz a meta socialista de <strong>extinguir gradualmente as classes sociais</strong>. Alternativa <strong>E</strong>.</p><p>A desestatização e a livre concorrência fazem parte do modelo, não o contradizem (A e C). O partido único se mantém (B), e sindicatos livres não são objetivo do regime (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "China",
+    "socialismo de mercado"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p class=\"apoio\">Até o fim de 2007, quase 2 milhões de pessoas perderam suas casas e outros 4 milhões corriam o risco de ser despejadas. Os valores das casas despencaram em quase todos os EUA e muitas famílias acabaram devendo mais por suas casas do que o próprio valor do imóvel. Isso desencadeou uma espiral de execuções hipotecárias que diminuiu ainda mais os valores das casas. Em Cleveland, foi como se um “Katrina financeiro” atingisse a cidade. Casas abandonadas, com tábuas em janelas e portas, dominaram a paisagem nos bairros pobres, principalmente negros. Na Califórnia, também se enfileiraram casas abandonadas.</p><p class=\"fonte\">HARVEY, D. O enigma do capital. São Paulo: Boitempo, 2011.</p><p>Inicialmente restrita, a crise descrita no texto atingiu proporções globais, devido ao(à)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "superprodução de bens de consumo.",
+    "B": "colapso industrial de países asiáticos.",
+    "C": "interdependência do sistema econômico.",
+    "D": "isolamento político dos países desenvolvidos.",
+    "E": "austeridade fiscal dos países em desenvolvimento."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A crise das hipotecas nos EUA (2007–2008) atingiu bancos e economias do mundo todo: mostra a <strong>interdependência do sistema econômico</strong> globalizado. Alternativa <strong>C</strong>.</p><p>A crise foi financeira, não de superprodução de bens (A), e começou nos EUA, não na Ásia (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "crise de 2008"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "História",
+   "assunto": "Descolonização",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: www.agostinhoneto.org. Acesso em: 30 jun. 2015.</p><p>Nesse poema, o líder angolano Agostinho Neto, na década de 1940, evoca o pan-africanismo com o objetivo de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-humanas/q09.webp",
+     "alt": "Poema “Voz do sangue”, de Agostinho Neto, reproduzido da prova. O eu lírico sente os sons do batuque e os ritmos do blues, chama o negro do Harlem, o dançarino de Chicago, o negro servidor do Sul dos EUA e os negros da África e de todo o mundo, junta a eles a sua voz e diz que vive com eles a mesma história, “meus irmãos”."
+    }
+   ],
+   "alternativas": {
+    "A": "incitar a luta por políticas de ações afirmativas na América e na África.",
+    "B": "reconhecer as desigualdades sociais entre os negros de Angola e dos Estados Unidos.",
+    "C": "descrever o quadro de pobreza após os processos de independência no continente africano.",
+    "D": "solicitar o engajamento dos negros estadunidenses na luta armada pela independência em Angola.",
+    "E": "conclamar as populações negras de diferentes países a apoiar as lutas por igualdade e independência."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Agostinho Neto se dirige aos negros “de todo o mundo” (Harlem, Chicago, África) e une sua voz à deles: o poema <strong>conclama a solidariedade negra internacional</strong> às lutas por igualdade e independência, como a de Angola. Alternativa <strong>E</strong>.</p><p>O poema não fala de ações afirmativas (A), não compara desigualdades (B), é anterior à independência (C) e não pede luta armada aos estadunidenses (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Angola",
+    "pan-africanismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 10,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p class=\"apoio\">Iniciou-se em 1903 a introdução de obras de arte com representações de bandeirantes no acervo do Museu Paulista, mediante a aquisição de uma tela que homenageava o sertanista que comandara a destruição do Quilombo de Palmares. Essa aquisição, viabilizada por verba estadual, foi simultânea à emergência de uma interpretação histórica que apontava o fenômeno do sertanismo paulista como o elo decisivo entre a trajetória territorial do Brasil e de São Paulo, concepção essa que se consolidaria entre os historiadores ligados ao Instituto Histórico e Geográfico de São Paulo ao longo das três primeiras décadas do século XX.</p><p class=\"fonte\">MARINS, P. C. G. Nas matas com pose de reis: a representação de bandeirantes e a tradição da retratística monárquica europeia. Revista do LEB, n. 44, fev. 2007.</p><p>A prática governamental descrita no texto, com a escolha dos temas das obras, tinha como propósito a construção de uma memória que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "afirmava a centralidade de um estado na política do país.",
+    "B": "resgatava a importância da resistência escrava na história brasileira.",
+    "C": "evidenciava a importância da produção artística no contexto regional.",
+    "D": "valorizava a saga histórica do povo na afirmação de uma memória social.",
+    "E": "destacava a presença do indígena no desbravamento do território colonial."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No início do século XX, São Paulo transformou o bandeirante em herói da formação do Brasil, comprando quadros com verba estadual: a prática reforçava a ideia de que <strong>São Paulo era o centro da política nacional</strong>, em plena República Oligárquica. Alternativa <strong>A</strong>.</p><p>A tela homenageava o destruidor de Palmares, o oposto de valorizar a resistência escrava (B) ou o indígena (E). O foco era político, não artístico (C), e a memória era a de uma elite, não “do povo” (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "bandeirantes",
+    "memória"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>Calendário medieval, século XV.</p>[[fig:1]]<p>Os calendários são fontes históricas importantes, na medida em que expressam a concepção de tempo das sociedades. Essas imagens compõem um calendário medieval (1460-1475) e cada uma delas representa um mês, de janeiro a dezembro. Com base na análise do calendário, apreende-se uma concepção de tempo</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-humanas/q11.webp",
+     "alt": "Doze pequenas pinturas de um calendário medieval (1460–1475), uma por mês, mostrando camponeses em tarefas do campo: semear, podar, cavalgar, ceifar o trigo, pisar uvas, colher frutos, alimentar porcos com bolotas e abatê-los, entre outras."
+    }
+   ],
+   "alternativas": {
+    "A": "cíclica, marcada pelo mito arcaico do eterno retorno.",
+    "B": "humanista, identificada pelo controle das horas de atividade por parte do trabalhador.",
+    "C": "escatológica, associada a uma visão religiosa sobre o trabalho.",
+    "D": "natural, expressa pelo trabalho realizado de acordo com as estações do ano.",
+    "E": "romântica, definida por uma visão bucólica da sociedade."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Cada imagem do calendário mostra o trabalho agrícola de um mês (plantio, colheita, vindima, matança do porco): o tempo é medido pelos <strong>ciclos da natureza e as estações</strong>. Alternativa <strong>D</strong>.</p><p>Não há controle de horas pelo relógio (B), visão escatológica (C), mito do eterno retorno (A) ou idealização romântica (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "concepção de tempo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 12,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p class=\"apoio\">O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos.</p><p class=\"fonte\">BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado).</p><p class=\"apoio\">Uma causa para o processo socioespacial mencionado no texto é o(a)</p><p class=\"fonte\">Disponível em: www.ac-grenoble.fr. Acesso em: 10 maio 2012.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "carência de matérias-primas.",
+    "B": "degradação da rede rodoviária.",
+    "C": "aumento do crescimento vegetativo.",
+    "D": "centralização do poder político.",
+    "E": "realocação da atividade industrial."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A desaceleração do crescimento das metrópoles se explica, em boa parte, pela <strong>desconcentração industrial</strong>: fábricas saíram das grandes capitais em direção a cidades médias e ao interior (custos menores, incentivos fiscais). Alternativa <strong>E</strong>.</p><p>O crescimento vegetativo vem caindo, não subindo (C), e as outras opções não explicam o fenômeno (A, B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "desconcentração industrial"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 13,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p class=\"apoio\">Trasímaco estava impaciente porque Sócrates e os seus amigos presumiam que a justiça era algo real e importante. Trasímaco negava isso. Em seu entender, as pessoas acreditavam no certo e no errado apenas por terem sido ensinadas a obedecer às regras da sua sociedade. No entanto, essas regras não passavam de invenções humanas.</p><p class=\"fonte\">RACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.</p><p>O sofista Trasímaco, personagem imortalizado no diálogo A República, de Platão, sustentava que a correlação entre justiça e ética é resultado de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "determinações biológicas impregnadas na natureza humana.",
+    "B": "verdades objetivas com fundamento anterior aos interesses sociais.",
+    "C": "mandamentos divinos inquestionáveis legados das tradições antigas.",
+    "D": "convenções sociais resultantes de interesses humanos contingentes.",
+    "E": "sentimentos experimentados diante de determinadas atitudes humanas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Para Trasímaco, certo e errado são regras inventadas pela sociedade: <strong>convenções resultantes de interesses humanos</strong> (no diálogo, “o justo é o interesse do mais forte”). Alternativa <strong>D</strong>.</p><p>Ele nega fundamento natural (A), objetivo (B) ou divino (C) para a justiça.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sofistas",
+    "justiça"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "Sociologia",
+   "assunto": "Pensamento social brasileiro",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p class=\"apoio\">Em sociedade de origens tão nitidamente personalistas como a nossa, é compreensível que os simples vínculos de pessoa a pessoa, independentes e até exclusivos de qualquer tendência para a cooperação autêntica entre os indivíduos, tenham sido quase sempre os mais decisivos. As agregações e relações pessoais, embora por vezes precárias, e, de outro lado, as lutas entre facções, entre famílias, entre regionalismos, faziam dela um todo incoerente e amorfo. O peculiar da vida brasileira parece ter sido, por essa época, uma acentuação singularmente enérgica do afetivo, do irracional, do passional e uma estagnação ou antes uma atrofia correspondente das qualidades ordenadoras, disciplinadoras, racionalizadoras.</p><p class=\"fonte\">HOLANDA, S. B. Raízes do Brasil. São Paulo: Cia. das Letras, 1995.</p><p>Um traço formador da vida pública brasileira expressa-se, segundo a análise do historiador, na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "rigidez das normas jurídicas.",
+    "B": "prevalência dos interesses privados.",
+    "C": "solidez da organização institucional.",
+    "D": "legitimidade das ações burocráticas.",
+    "E": "estabilidade das estruturas políticas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Sérgio Buarque de Holanda descreve uma sociedade em que os vínculos pessoais e as lutas entre famílias e facções pesam mais que a cooperação: é a <strong>prevalência dos interesses privados</strong> sobre os públicos (a herança personalista do “homem cordial”). Alternativa <strong>B</strong>.</p><p>O texto aponta justamente a fragilidade das instituições, das normas e da burocracia (A, C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Sérgio Buarque de Holanda"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "Geografia",
+   "assunto": "Cartografia",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p class=\"apoio\">O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras.</p><p class=\"fonte\">LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado).</p><p>A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "expansão da fronteira agrícola.",
+    "B": "remoção de populações nativas.",
+    "C": "superação da condição de pobreza.",
+    "D": "valorização de identidades coletivas.",
+    "E": "implantação de modernos projetos agroindustriais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os grupos tradicionais mapeiam os próprios territórios: a cartografia vira instrumento de reconhecimento e defesa dessas comunidades, isto é, de <strong>valorização de identidades coletivas</strong>. Alternativa <strong>D</strong>.</p><p>O projeto serve para proteger as terras, não para expandir o agronegócio ou remover populações (A, B e E), e não é um programa de renda (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cartografia social"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "Filosofia",
+   "assunto": "Filosofia moderna",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p class=\"apoio\">Todo o poder criativo da mente se reduz a nada mais do que a faculdade de compor, transpor, aumentar ou diminuir os materiais que nos fornecem os sentidos e a experiência. Quando pensamos em uma montanha de ouro, não fazemos mais do que juntar duas ideias consistentes, ouro e montanha, que já conhecíamos. Podemos conceber um cavalo virtuoso, porque somos capazes de conceber a virtude a partir de nossos próprios sentimentos, e podemos unir a isso a figura e a forma de um cavalo, animal que nos é familiar.</p><p class=\"fonte\">HUME, D. Investigação sobre o entendimento humano. São Paulo: Abril Cultural, 1995.</p><p>Hume estabelece um vínculo entre pensamento e impressão ao considerar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "os conteúdos das ideias no intelecto têm origem na sensação.",
+    "B": "o espírito é capaz de classificar os dados da percepção sensível.",
+    "C": "as ideias fracas resultam de experiências sensoriais determinadas pelo acaso.",
+    "D": "os sentimentos ordenam como os pensamentos devem ser processados na memória.",
+    "E": "as ideias têm como fonte específica o sentimento cujos dados são colhidos na empiria."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Hume diz que a mente só combina materiais “que nos fornecem os sentidos e a experiência”: até a montanha de ouro junta duas ideias já percebidas. Para o empirismo, <strong>o conteúdo das ideias vem da sensação</strong>. Alternativa <strong>A</strong>.</p><p>O texto não trata de classificar dados (B), de acaso (C) nem de sentimentos ordenando a memória (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Hume",
+    "empirismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Filosofia",
+   "assunto": "Filosofia medieval",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p class=\"apoio\">Ora, em todas as coisas ordenadas a algum fim, é preciso haver algum dirigente, pelo qual se atinja diretamente o devido fim. Com efeito, um navio, que se move para diversos lados pelo impulso dos ventos contrários, não chegaria ao fim de destino, se por indústria do piloto não fosse dirigido ao porto; ora, tem o homem um fim, para o qual se ordenam toda a sua vida e ação. Acontece, porém, agirem os homens de modos diversos em vista do fim, o que a própria diversidade dos esforços e ações humanas comprova. Portanto, precisa o homem de um dirigente para o fim.</p><p class=\"fonte\">AQUINO, T. Do reino ou do governo dos homens: ao rei do Chipre. Escritos políticos de São Tomás de Aquino. Petrópolis: Vozes, 1995 (adaptado).</p><p>No trecho citado, Tomás de Aquino justifica a monarquia como o regime de governo capaz de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "refrear os movimentos religiosos contestatórios.",
+    "B": "promover a atuação da sociedade civil na vida política.",
+    "C": "unir a sociedade tendo em vista a realização do bem comum.",
+    "D": "reformar a religião por meio do retorno à tradição helenística.",
+    "E": "dissociar a relação política entre os poderes temporal e espiritual."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Como o navio precisa de um piloto, a sociedade precisa de um governante que dirija os homens ao fim comum: para Tomás de Aquino, o poder político existe para <strong>unir a sociedade em vista do bem comum</strong>. Alternativa <strong>C</strong>.</p><p>O texto não trata de conter movimentos religiosos (A), de sociedade civil (B), de retorno helenístico (D) nem de separar Igreja e Estado (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Tomás de Aquino",
+    "bem comum"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"apoio\">A Justiça Eleitoral foi criada em 1932, como parte de uma ampla reforma no processo eleitoral incentivada pela Revolução de 1930. Sua criação foi um grande avanço institucional, garantindo que as eleições tivessem o aval de um órgão teoricamente imune à influência dos mandatários.</p><p class=\"fonte\">TAYLOR, M. Justiça Eleitoral. In: AVRITZER, L.; ANASTASIA, F. Reforma política no Brasil. Belo Horizonte: UFMG, 2006 (adaptado).</p><p>Em relação ao regime democrático no país, a instituição analisada teve o seguinte papel:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Implementou o voto direto para presidente.",
+    "B": "Combateu as fraudes sistemáticas nas apurações.",
+    "C": "Alterou as regras para as candidaturas na ditadura.",
+    "D": "Impulsionou as denúncias de corrupção administrativa.",
+    "E": "Expandiu a participação com o fim do critério censitário."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na Primeira República, as eleições eram marcadas por fraudes (voto de cabresto, “bico de pena”, degola). A Justiça Eleitoral, criada em 1932, passou a organizar e fiscalizar as eleições para <strong>combater as fraudes nas apurações</strong>. Alternativa <strong>B</strong>.</p><p>O voto direto para presidente já existia (A). Não há relação com a ditadura (C) nem com denúncias de corrupção (D). O voto censitário acabara em 1891 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Era Vargas",
+    "eleições"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">ZIRALDO. 20 anos de prontidão. In: LEMOS, R. (Org.). Uma história do Brasil através da caricatura (1840-2001). Rio de Janeiro: Letras & Expressões, 2001.</p><p>No período de 1964 a 1985, a estratégia do Regime Militar abordada na charge foi caracterizada pela</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-humanas/q19.webp",
+     "alt": "Charge: numa mesa de café da manhã, uma mulher lê o jornal em voz alta: “Só este ano já entraram no país três bilhões de dólares. O pagamento começa a ser feito daqui a dez anos.” O homem à mesa põe a mão na cabeça de um menino e diz: “Tadinho!”."
+    }
+   ],
+   "alternativas": {
+    "A": "priorização da segurança nacional.",
+    "B": "captação de financiamentos estrangeiros.",
+    "C": "execução de cortes nos gastos públicos.",
+    "D": "nacionalização de empresas multinacionais.",
+    "E": "promoção de políticas de distribuição de renda."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na charge, alguém comemora que “entraram no país três bilhões de dólares” cujo pagamento começa dali a dez anos: é o endividamento externo do regime militar, que financiou o “milagre econômico” com <strong>empréstimos estrangeiros</strong>. Alternativa <strong>B</strong>.</p><p>A charge não fala de segurança nacional (A), cortes de gastos (C), nacionalizações (D) ou distribuição de renda, que piorou no período (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dívida externa",
+    "regime militar",
+    "charge"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\">Bandeira do Brasil, és hoje a única. Hasteada a esta hora em todo o território nacional, única e só, não há lugar no coração do Brasil para outras flâmulas, outras bandeiras, outros símbolos. Os brasileiros se reuniram em torno do Brasil e decretaram desta vez com determinação de não consentir que a discórdia volte novamente a dividi-lo!</p><p class=\"fonte\">Discurso do Ministro da Justiça Francisco Campos na cerimônia da festa da bandeira, em novembro de 1937. Apud OLIVEN, G. R. A parte e o todo: a diversidade cultural do Brasil Nação. Petrópolis: Vozes, 1992.</p><p>O discurso proferido em uma celebração em que as bandeiras estaduais eram queimadas diante da bandeira nacional revela o pacto nacional proposto pelo Estado Novo, que se associa à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "supressão das diferenças socioeconômicas entre as regiões do Brasil, priorizando as regiões estaduais carentes.",
+    "B": "orientação do regime quanto ao reforço do federalismo, espelhando-se na experiência política norte-americana.",
+    "C": "adoção de práticas políticas autoritárias, considerando a contenção dos interesses regionais dispersivos.",
+    "D": "propagação de uma cultura política avessa aos ritos cívicos, cultivados pela cultura regional brasileira.",
+    "E": "defesa da unidade do território nacional, ameaçado por movimentos separatistas contrários à política varguista."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No Estado Novo (1937), Vargas queimou as bandeiras estaduais: um ato simbólico de <strong>centralização autoritária</strong>, para conter os interesses regionais das oligarquias. Alternativa <strong>C</strong>.</p><p>Não houve política de redução de desigualdades regionais (A) nem reforço do federalismo (B), que foi esvaziado. O regime cultivava ritos cívicos (D). E não havia movimento separatista ameaçando o país naquele momento (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Estado Novo",
+    "Era Vargas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"apoio\">Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles.</p><p class=\"fonte\">SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado).</p><p>As ações tomadas pelos países contra a espionagem revelam preocupação com o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "subsídio industrial.",
+    "B": "hegemonia cultural.",
+    "C": "protecionismo dos mercados.",
+    "D": "desemprego tecnológico.",
+    "E": "segurança dos dados."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Depois das denúncias de espionagem dos EUA (caso Snowden, 2013), países passaram a evitar empresas de tecnologia americanas para proteger informações: a preocupação é a <strong>segurança dos dados</strong>. Alternativa <strong>E</strong>.</p><p>O texto liga as medidas à espionagem, não a subsídios, cultura, protecionismo ou desemprego (A a D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espionagem",
+    "informação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"apoio\">TEXTO I</p><p class=\"apoio\">Canudos não se rendeu. Exemplo único em toda a história, resistiu até o esgotamento completo. Vencido palmo a palmo, na precisão integral do termo, caiu no dia 5, ao entardecer, quando caíram os seus últimos defensores, que todos morreram. Eram quatro apenas: um velho, dois homens feitos e uma criança, na frente dos quais rugiam raivosamente cinco mil soldados.</p><p class=\"fonte\">CUNHA, E. Os sertões. Rio de Janeiro: Francisco Alves, 1987.</p><p class=\"apoio\">TEXTO II</p><p class=\"apoio\">Na trincheira, no centro do reduto, permaneciam quatro fanáticos sobreviventes do extermínio. Era um velho, coxo por ferimento e usando uniforme da Guarda Católica, um rapaz de 16 a 18 anos, um preto alto e magro, e um caboclo. Ao serem intimados para deporem as armas, investiram com enorme fúria. Assim estava terminada e de maneira tão trágica a sanguinosa guerra, que o banditismo e o fanatismo traziam acesa por longos meses, naquele recanto do território nacional.</p><p class=\"fonte\">SOARES, H. M. A Guerra de Canudos. Rio de Janeiro: Altina, 1902.</p><p>Os relatos do último ato da Guerra de Canudos fazem uso de representações que se perpetuariam na memória construída sobre o conflito. Nesse sentido, cada autor caracterizou a atitude dos sertanejos, respectivamente, como fruto da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "manipulação e incompetência.",
+    "B": "ignorância e solidariedade.",
+    "C": "hesitação e obstinação.",
+    "D": "esperança e valentia.",
+    "E": "bravura e loucura."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os dois relatos mostram os últimos defensores de Canudos resistindo até a morte diante de milhares de soldados (<strong>bravura</strong>), mas o texto II os chama de “fanáticos”, com atitude quase insana (<strong>loucura</strong>). Alternativa <strong>E</strong>.</p><p>Os textos não falam de manipulação ou incompetência (A), solidariedade (B), hesitação (C) ou esperança (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Canudos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"apoio\">TEXTO I</p><p class=\"apoio\">Em todo o país a lei de 13 de maio de 1888 libertou poucos negros em relação à população de cor. A maioria já havia conquistado a alforria antes de 1888, por meio de estratégias possíveis. No entanto, a importância histórica da lei de 1888 não pode ser mensurada apenas em termos numéricos. O impacto que a extinção da escravidão causou numa sociedade constituída a partir da legitimidade da propriedade sobre a pessoa não cabe em cifras.</p><p class=\"fonte\">ALBUQUERQUE, W. O jogo da dissimulação: Abolição e cidadania negra no Brasil. São Paulo: Cia. das Letras, 2009 (adaptado).</p><p class=\"apoio\">TEXTO II</p><p class=\"apoio\">Nos anos imediatamente anteriores à Abolição, a população livre do Rio de Janeiro se tornou mais numerosa e diversificada. Os escravos, bem menos numerosos que antes, e com os africanos mais aculturados, certamente não se distinguiam muito facilmente dos libertos e dos pretos e pardos livres habitantes da cidade. Também já não é razoável presumir que uma pessoa de cor seja provavelmente cativa, pois os negros libertos e livres poderiam ser encontrados em toda parte.</p><p class=\"fonte\">CHALHOUB, S. Visões da liberdade: uma história das últimas décadas da escravidão na Corte. São Paulo: Cia. das Letras, 1990 (adaptado).</p><p>Sobre o fim da escravidão no Brasil, o elemento destacado no Texto I que complementa os argumentos apresentados no Texto II é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "variedade das estratégias de resistência dos cativos.",
+    "B": "controle jurídico exercido pelos proprietários.",
+    "C": "inovação social representada pela lei.",
+    "D": "ineficácia prática da libertação.",
+    "E": "significado político da Abolição."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto I diz que a Lei Áurea libertou poucos escravizados em números, mas teve enorme impacto numa sociedade baseada na propriedade de pessoas; o texto II também ressalta o peso da lei. A ênfase está no <strong>significado político da Abolição</strong>. Alternativa <strong>E</strong>.</p><p>A resistência e o controle jurídico aparecem, mas não são o ponto comum (A e B). A lei não é vista como inovação isolada (C) nem como ineficaz (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Abolição"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "História",
+   "assunto": "Segunda Guerra Mundial",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"apoio\">A participação da África na Segunda Guerra Mundial deve ser apreciada sob a ótica da escolha entre vários demônios. O seu engajamento não foi um processo de colaboração com o imperialismo, mas uma luta contra uma forma de hegemonia ainda mais perigosa.</p><p class=\"fonte\">MAZRUI, A. “Procurai primeiramente o reino do político...”. In: MAZRUI, A.; WONDJI, C. (Org.). História geral da África: África desde 1925. Brasília: Unesco, 2010.</p><p>Para o autor, a “forma de hegemonia” e uma de suas características que explicam o engajamento dos africanos no processo analisado foram:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Comunismo / rejeição da democracia liberal.",
+    "B": "Capitalismo / devastação do ambiente natural.",
+    "C": "Fascismo / adoção do determinismo biológico.",
+    "D": "Socialismo / planificação da economia nacional.",
+    "E": "Colonialismo / imposição da missão civilizatória."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Entre “vários demônios”, os africanos combateram o mais perigoso: o <strong>fascismo</strong> (e o nazismo), cujo racismo se apoiava no <strong>determinismo biológico</strong>, a ideia de raças superiores e inferiores. Alternativa <strong>C</strong>.</p><p>Comunismo e socialismo não eram o inimigo na guerra (A e D). O colonialismo é o “outro demônio”, com o qual os africanos colaboraram contra um mal maior (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "África"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "Sociologia",
+   "assunto": "Movimentos sociais",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"apoio\">Não nos resta a menor dúvida de que a principal contribuição dos diferentes tipos de movimentos sociais brasileiros nos últimos vinte anos foi no plano da reconstrução do processo de democratização do país. E não se trata apenas da reconstrução do regime político, da retomada da democracia e do fim do Regime Militar. Trata-se da reconstrução ou construção de novos rumos para a cultura do país, do preenchimento de vazios na condução da luta pela redemocratização, constituindo-se como agentes interlocutores que dialogam diretamente com a população e com o Estado.</p><p class=\"fonte\">GOHN, M. G. M. Os sem-terras, ONGs e cidadania. São Paulo: Cortez, 2003 (adaptado).</p><p>No processo da redemocratização brasileira, os novos movimentos sociais contribuíram para</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "diminuir a legitimidade dos novos partidos políticos então criados.",
+    "B": "tornar a democracia um valor social que ultrapassa os momentos eleitorais.",
+    "C": "difundir a democracia representativa como objetivo fundamental da luta política.",
+    "D": "ampliar as disputas pela hegemonia das entidades de trabalhadores com os sindicatos.",
+    "E": "fragmentar as lutas políticas dos diversos atores sociais frente ao Estado."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Para a autora, os movimentos sociais ajudaram a reconstruir não só o regime político, mas a cultura do país: fizeram da <strong>democracia um valor cotidiano</strong>, além do voto. Alternativa <strong>B</strong>.</p><p>O texto valoriza a participação além da representação (C) e não fala em enfraquecer partidos ou fragmentar lutas (A, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "redemocratização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "Filosofia",
+   "assunto": "Filosofia moderna",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"apoio\">A natureza fez os homens tão iguais, quanto às faculdades do corpo e do espírito, que, embora por vezes se encontre um homem manifestamente mais forte de corpo, ou de espírito mais vivo do que outro, mesmo assim, quando se considera tudo isto em conjunto, a diferença entre um e outro homem não é suficientemente considerável para que um deles possa com base nela reclamar algum benefício a que outro não possa igualmente aspirar.</p><p class=\"fonte\">HOBBES, T. Leviatã. São Paulo: Martins Fontes, 2003.</p><p>Para Hobbes, antes da constituição da sociedade civil, quando dois homens desejavam o mesmo objeto, eles</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "entravam em conflito.",
+    "B": "recorriam aos clérigos.",
+    "C": "consultavam os anciãos.",
+    "D": "apelavam aos governantes.",
+    "E": "exerciam a solidariedade."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Para Hobbes, como os homens são quase iguais em força e espírito, todos se julgam no direito às mesmas coisas, e sem um poder comum eles <strong>entram em conflito</strong>: é a guerra de todos contra todos do estado de natureza. Alternativa <strong>A</strong>.</p><p>No estado de natureza não há governantes, clérigos ou anciãos a quem recorrer (B, C e D), e a igualdade gera desconfiança, não solidariedade (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Hobbes",
+    "estado de natureza"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 27,
+   "materia": "Geografia",
+   "assunto": "Climatologia",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p>Figura 1. Diagrama das regiões de intemperismo para as condições brasileiras (adaptado de Peltier, 1950).</p>[[fig:1]]<p>Figura 2. Mapa das regiões de intemperismo do Brasil, baseado no diagrama da Figura 1.</p>[[fig:2]]<p class=\"fonte\">FONTES, M. P. F. Intemperismo de rochas e minerais. In: KER, J. C. et al. (Org.). <strong>Pedologia</strong>: fundamentos. Viçosa (MG): SBCS, 2012 (adaptado).</p><p>De acordo com as figuras, a intensidade de intemperismo de grau muito fraco é característica de qual tipo climático?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-humanas/q27a.webp",
+     "alt": "Figura 1, diagrama das regiões de intemperismo (adaptado de Peltier, 1950): temperatura (°C, de 0 a 35) × precipitação média anual (mm, de 0 a 2 800). A faixa “1. Muito Fraco” fica à esquerda, com pouca chuva; “2. Fraco” embaixo, com temperaturas baixas; “3. Moderado” no meio; e “4. Forte” no alto à direita, com muito calor e muita chuva."
+    },
+    {
+     "src": "assets/img/enem-2015-humanas/q27b.webp",
+     "alt": "Figura 2, mapa das regiões de intemperismo do Brasil: a região 4 (forte) cobre a maior parte do país; a 1 (muito fraco) é uma mancha no interior do Nordeste; a 3 (moderado) e a 2 (fraco) ficam no Sul, abaixo do Trópico de Capricórnio."
+    }
+   ],
+   "alternativas": {
+    "A": "Tropical.",
+    "B": "Litorâneo.",
+    "C": "Equatorial.",
+    "D": "Semiárido.",
+    "E": "Subtropical."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo diagrama, o intemperismo “muito fraco” ocorre com <strong>pouca chuva</strong> (abaixo de cerca de 600 mm por ano) e temperaturas altas. No mapa, a região 1 fica no interior do Nordeste: o clima <strong>semiárido</strong>. Alternativa <strong>D</strong>.</p><p>Os climas tropical, litorâneo e equatorial são úmidos, com intemperismo moderado a forte (A, B e C). O subtropical, no Sul, aparece como fraco ou moderado (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "intemperismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 28,
+   "materia": "História",
+   "assunto": "Antiguidade",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"apoio\">O que implica o sistema da pólis é uma extraordinária preeminência da palavra sobre todos os outros instrumentos do poder. A palavra constitui o debate contraditório, a discussão, a argumentação e a polêmica. Torna-se a regra do jogo intelectual, assim como do jogo político.</p><p class=\"fonte\">VERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand, 1992 (adaptado).</p><p>Na configuração política da democracia grega, em especial a ateniense, a ágora tinha por função</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "agregar os cidadãos em torno de reis que governavam em prol da cidade.",
+    "B": "permitir aos homens livres o acesso às decisões do Estado expostas por seus magistrados.",
+    "C": "constituir o lugar onde o corpo de cidadãos se reunia para deliberar sobre as questões da comunidade.",
+    "D": "reunir os exércitos para decidir em assembleias fechadas os rumos a serem tomados em caso de guerra.",
+    "E": "congregar a comunidade para eleger representantes com direito a pronunciar-se em assembleias."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A ágora era a praça pública onde os cidadãos atenienses se reuniam para debater e <strong>deliberar sobre os assuntos da cidade</strong>, com a palavra como principal instrumento de poder. Alternativa <strong>C</strong>.</p><p>A democracia ateniense era direta, sem reis (A), sem decisões tomadas só por magistrados (B), sem assembleias militares fechadas (D) e sem eleger representantes para falar (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Grécia antiga",
+    "democracia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"apoio\">No final do século XX e em razão dos avanços da ciência, produziu-se um sistema presidido pelas técnicas da informação, que passaram a exercer um papel de elo entre as demais, unindo-as e assegurando ao novo sistema uma presença planetária. Um mercado que utiliza esse sistema de técnicas avançadas resulta nessa globalização perversa.</p><p class=\"fonte\">SANTOS, M. Por uma outra globalização. Rio de Janeiro: Record, 2008 (adaptado).</p><p>Uma consequência para o setor produtivo e outra para o mundo do trabalho advindas das transformações citadas no texto estão presentes, respectivamente, em:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Eliminação das vantagens locacionais e ampliação da legislação laboral.",
+    "B": "Limitação dos fluxos logísticos e fortalecimento de associações sindicais.",
+    "C": "Diminuição dos investimentos industriais e desvalorização dos postos qualificados.",
+    "D": "Concentração das áreas manufatureiras e redução da jornada semanal.",
+    "E": "Automatização dos processos fabris e aumento dos níveis de desemprego."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As técnicas de informação, que unem as demais, levam à <strong>automação</strong> das fábricas, e essa “globalização perversa” tem como efeito no trabalho o <strong>desemprego</strong> estrutural. Alternativa <strong>E</strong>.</p><p>A globalização não elimina vantagens locacionais nem amplia direitos (A), não limita fluxos (B), não reduz a jornada (D), e valoriza os postos qualificados (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "meio técnico-científico-informacional"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 30,
+   "materia": "Geografia",
+   "assunto": "Geomorfologia",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p class=\"apoio\">Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica.</p><p class=\"fonte\">BIGARELLA, J. J. Estrutura e origem das paisagens tropicais e subtropicais. Florianópolis: UFSC, 2003 (adaptado).</p><p>Em relação ao processo descrito, sua ocorrência é minimizada em locais onde há</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "exposição do solo.",
+    "B": "drenagem eficiente.",
+    "C": "rocha matriz resistente.",
+    "D": "agricultura mecanizada.",
+    "E": "média pluviométrica elevada."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Movimentos de massa ocorrem quando a água encharca o solo da encosta. Onde há <strong>boa drenagem</strong>, a água escoa e o solo não perde coesão. Alternativa <strong>B</strong>.</p><p>Solo exposto, agricultura e muita chuva favorecem os deslizamentos (A, D e E). A rocha resistente não impede que o solo sobre ela escorregue (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "deslizamentos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "Geografia",
+   "assunto": "Geomorfologia",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">SUERTEGARAY, D. M. A. (Org.).Terra: feições ilustradas. Porto Alegre: EdUFRGS, 2003 (adaptado).</p><p>A imagem representa o resultado da erosão que ocorre em rochas nos leitos dos rios, que decorre do processo natural de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-humanas/q31.webp",
+     "alt": "Desenho de um leito rochoso de rio com várias cavidades arredondadas e fundas; um detalhe ampliado mostra pequenos seixos girando dentro de uma das cavidades."
+    }
+   ],
+   "alternativas": {
+    "A": "fraturamento geológico, derivado da força dos agentes internos.",
+    "B": "solapamento de camadas de argilas, transportadas pela correnteza.",
+    "C": "movimento circular de seixos e areias, arrastados por águas turbilhonares.",
+    "D": "decomposição das camadas sedimentares, resultante da alteração química.",
+    "E": "assoreamento no fundo do rio, proporcionado pela chegada de material sedimentar."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As cavidades circulares no leito rochoso (marmitas) se formam quando a água em redemoinho gira <strong>seixos e areia</strong>, que vão escavando a rocha. Alternativa <strong>C</strong>.</p><p>Não são fraturas internas (A), não há camadas de argila (B) nem alteração química (D), e assoreamento é acúmulo de sedimentos, não escavação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "erosão fluvial",
+    "marmitas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "Geografia",
+   "assunto": "Hidrografia",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p class=\"apoio\">Algumas regiões do Brasil passam por uma crise de água por causa da seca. Mas, uma região de Minas Gerais está enfrentando a falta de água no campo tanto em tempo de chuva como na seca. As veredas estão secando no norte e no noroeste mineiro. Ano após ano, elas vêm perdendo a capacidade de ser a caixa-d’água do grande sertão de Minas.</p><p class=\"fonte\">VIEIRA, C. Degradação do solo causa perda de fontes de água de famílias de MG. Disponível em: http://g1.globo.com. Acesso em: 1 nov. 2014.</p><p>As veredas têm um papel fundamental no equilíbrio hidrológico dos cursos de água no ambiente do Cerrado, pois</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "colaboram para a formação de vegetação xerófila.",
+    "B": "formam os leques aluviais nas planícies das bacias.",
+    "C": "fornecem sumidouro para as águas de recarga da bacia.",
+    "D": "contribuem para o aprofundamento dos talvegues à jusante.",
+    "E": "constituem um sistema represador da água na chapada."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As veredas, com buritis e solos encharcados nas áreas de chapada do Cerrado, funcionam como <strong>reservatórios</strong>: retêm a água e a liberam aos poucos para os rios. Alternativa <strong>E</strong>.</p><p>Vegetação xerófila é de clima seco (A). Veredas não formam leques aluviais (B), não drenam a recarga (C) nem aprofundam os vales (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "veredas",
+    "Cerrado"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p class=\"apoio\">Tanto potencial poderia ter ficado pelo caminho, se não fosse o reforço em tecnologia que um gaúcho buscou. Há pouco mais de oito anos, ele usava o bico da botina para cavoucar a terra e descobrir o nível de umidade do solo, na tentativa de saber o momento ideal para acionar os pivôs de irrigação. Até que conheceu uma estação meteorológica que, instalada na propriedade, ajuda a determinar a quantidade de água de que a planta necessita. Assim, quando inicia um plantio, o agricultor já entra no site do sistema e cadastra a área, o pivô, a cultura, o sistema de plantio, o espaçamento entre linhas e o número de plantas, para então receber recomendações diretamente dos técnicos da universidade.</p><p class=\"fonte\">CAETANO, M. O valor de cada gota. Globo Rural, n. 312, out. 2011.</p><p>A implementação das tecnologias mencionadas no texto garante o avanço do processo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "monitoramento da produção.",
+    "B": "valorização do preço da terra.",
+    "C": "correção dos fatores climáticos.",
+    "D": "divisão de tarefas na propriedade.",
+    "E": "estabilização da fertilidade do solo."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A estação meteorológica ajuda a decidir quando e quanto irrigar: tecnologia usada para o <strong>monitoramento da produção</strong>. Alternativa <strong>A</strong>.</p><p>O texto não fala de preço da terra (B) nem de divisão de tarefas (D). A tecnologia não corrige o clima (C) nem estabiliza a fertilidade do solo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "agricultura de precisão"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 34,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p class=\"apoio\">A filosofia grega parece começar com uma ideia absurda, com a proposição: a água é a origem e a matriz de todas as coisas. Será mesmo necessário deter-nos nela e levá-la a sério? Sim, e por três razões: em primeiro lugar, porque essa proposição enuncia algo sobre a origem das coisas; em segundo lugar, porque o faz sem imagem e fabulação; e enfim, em terceiro lugar, porque nela, embora apenas em estado de crisálida, está contido o pensamento: Tudo é um.</p><p class=\"fonte\">NIETZSCHE, F. Crítica moderna. In: Os pré-socráticos. São Paulo: Nova Cultural, 1999.</p><p>O que, de acordo com Nietzsche, caracteriza o surgimento da filosofia entre os gregos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O impulso para transformar, mediante justificativas, os elementos sensíveis em verdades racionais.",
+    "B": "O desejo de explicar, usando metáforas, a origem dos seres e das coisas.",
+    "C": "A necessidade de buscar, de forma racional, a causa primeira das coisas existentes.",
+    "D": "A ambição de expor, de maneira metódica, as diferenças entre as coisas.",
+    "E": "A tentativa de justificar, a partir de elementos empíricos, o que existe no real."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para Nietzsche, a proposição de Tales importa porque fala da origem das coisas “sem imagem e fabulação”: é a busca <strong>racional</strong> da <strong>causa primeira</strong> de tudo, que marca o nascimento da filosofia. Alternativa <strong>C</strong>.</p><p>Tales não usa metáforas (B), não busca diferenças entre as coisas (D) e procura um princípio único, não justificativas empíricas (E) nem verdades a partir do sensível (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pré-socráticos",
+    "Tales"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "Sociologia",
+   "assunto": "Cultura e sociedade",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p class=\"apoio\">Quanto ao “choque de civilizações”, é bom lembrar a carta de uma menina americana de sete anos cujo pai era piloto na Guerra do Afeganistão: ela escreveu que — embora amasse muito seu pai — estava pronta a deixá-lo morrer, a sacrificá-lo por seu país. Quando o presidente Bush citou suas palavras, elas foram entendidas como manifestação “normal” de patriotismo americano; vamos conduzir uma experiência mental simples e imaginar uma menina árabe maometana pateticamente lendo para as câmeras as mesmas palavras a respeito do pai que lutava pelo Talibã — não é necessário pensar muito sobre qual teria sido a nossa reação.</p><p class=\"fonte\">ZIZEK, S. Bem-vindo ao deserto do real. São Paulo: Bom Tempo, 2003.</p><p>A situação imaginária proposta pelo autor explicita o desafio cultural do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "prática da diplomacia.",
+    "B": "exercício da alteridade.",
+    "C": "expansão da democracia.",
+    "D": "universalização do progresso.",
+    "E": "conquista da autodeterminação."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Žižek propõe imaginar a mesma carta escrita por uma menina afegã: diríamos que é fanatismo. O exercício é colocar-se no lugar do outro, o <strong>exercício da alteridade</strong>, para ver como julgamos o mesmo gesto de forma diferente. Alternativa <strong>B</strong>.</p><p>O texto não trata de diplomacia (A), democracia (C), progresso (D) ou autodeterminação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "etnocentrismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">SCHWARCZ, L. M. As barbas do imperador: D. Pedro II, um monarca nos trópicos. São Paulo: Cia. das Letras, 1998 (adaptado).</p><p>Essas imagens de D. Pedro II foram feitas no início dos anos de 1850, pouco mais de uma década após o Golpe da Maioridade. Considerando o contexto histórico em que foram produzidas e os elementos simbólicos destacados, essas imagens representavam um</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-humanas/q36.webp",
+     "alt": "Dois retratos de D. Pedro II no início dos anos 1850: jovem, de barba cheia, em uniforme de gala com dragonas, condecorações e faixa; num deles, de pé, ao lado de uma mesa com papéis."
+    }
+   ],
+   "alternativas": {
+    "A": "jovem imaturo que agiria de forma irresponsável.",
+    "B": "imperador adulto que governaria segundo as leis.",
+    "C": "líder guerreiro que comandaria as vitórias militares.",
+    "D": "soberano religioso que acataria a autoridade papal.",
+    "E": "monarca absolutista que exerceria seu autoritarismo."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Coroado aos 15 anos após o Golpe da Maioridade, D. Pedro II aparece nos retratos de 1850 de barba, farda e documentos à mão: a imagem de um <strong>imperador adulto, que governa conforme as leis</strong> (a Constituição de 1824). Alternativa <strong>B</strong>.</p><p>As imagens querem afastar a ideia de imaturidade (A). Não mostram guerra (C), submissão ao papa (D) nem absolutismo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Segundo Reinado"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p class=\"apoio\">No início foram as cidades. O intelectual da Idade Média — no Ocidente — nasceu com elas. Foi com o desenvolvimento urbano ligado às funções comercial e industrial — digamos modestamente artesanal — que ele apareceu, como um desses homens de ofício que se instalavam nas cidades nas quais se impôs a divisão do trabalho. Um homem cujo ofício é escrever ou ensinar, e de preferência as duas coisas a um só tempo, um homem que, profissionalmente, tem uma atividade de professor e erudito, em resumo, um intelectual — esse homem só aparecerá com as cidades.</p><p class=\"apoio\">O surgimento da categoria mencionada no período em destaque no texto evidencia o(a)</p><p class=\"fonte\">LE GOFF, J. Os intelectuais na Idade Média. Rio de Janeiro: José Olympio, 2010.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "apoio dado pela Igreja ao trabalho abstrato.",
+    "B": "relação entre desenvolvimento urbano e divisão do trabalho.",
+    "C": "importância organizacional das corporações de ofício.",
+    "D": "progressiva expansão da educação escolar.",
+    "E": "acúmulo de trabalho dos professores e eruditos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Le Goff liga o surgimento do intelectual medieval às cidades: com o <strong>desenvolvimento urbano e a divisão do trabalho</strong>, surge quem tem como ofício escrever e ensinar. Alternativa <strong>B</strong>.</p><p>O texto não fala de apoio da Igreja (A), corporações (C), expansão escolar (D) ou sobrecarga de professores (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cidades medievais",
+    "universidades"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 38,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p class=\"apoio\">Um carro esportivo é financiado pelo Japão, projetado na Itália e montado em Indiana, México e França, usando os mais avançados componentes eletrônicos, que foram inventados em Nova Jérsei e fabricados na Coreia. A campanha publicitária é desenvolvida na Inglaterra, filmada no Canadá, a edição e as cópias, feitas em Nova York para serem veiculadas no mundo todo. Teias globais disfarçam-se com o uniforme nacional que lhes for mais conveniente.</p><p class=\"fonte\">REICH, R. O trabalho das nações: preparando-nos para o capitalismo no século XXI. São Paulo: Educator, 1994 (adaptado).</p><p>A viabilidade do processo de produção ilustrado pelo texto pressupõe o uso de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "linhas de montagem e formação de estoques.",
+    "B": "empresas burocráticas e mão de obra barata.",
+    "C": "controle estatal e infraestrutura consolidada.",
+    "D": "organização em rede e tecnologia de informação.",
+    "E": "gestão centralizada e protecionismo econômico."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O carro é financiado, projetado, montado e divulgado em vários países: a produção globalizada funciona em <strong>rede</strong>, coordenada pelas <strong>tecnologias de informação</strong>. Alternativa <strong>D</strong>.</p><p>O texto descreve fragmentação e coordenação, não estoques (A), burocracia (B), controle estatal (C) ou protecionismo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fragmentação da produção"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "Sociologia",
+   "assunto": "Cultura e sociedade",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p class=\"apoio\">Na sociedade contemporânea, onde as relações sociais tendem a reger-se por imagens midiáticas, a imagem de um indivíduo, principalmente na indústria do espetáculo, pode agregar valor econômico na medida de seu incremento técnico: amplitude do espelhamento e da atenção pública. Aparecer é então mais do que ser; o sujeito é famoso porque é falado. Nesse âmbito, a lógica circulatória do mercado, ao mesmo tempo que acena democraticamente para as massas com supostos “ganhos distributivos” (a informação ilimitada, a quebra das supostas hierarquias culturais), afeta a velha cultura disseminada na esfera pública. A participação nas redes sociais, a obsessão dos selfies, tanto falar e ser falado quanto ser visto são índices do desejo de “espelhamento”.</p><p class=\"fonte\">SODRÉ, M. Disponível em: http://alias.estadao.com.br. Acesso em: 9 fev. 2015 (adaptado).</p><p>A crítica contida no texto sobre a sociedade contemporânea enfatiza</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a prática identitária autorreferente.",
+    "B": "a dinâmica política democratizante.",
+    "C": "a produção instantânea de notícias.",
+    "D": "os processos difusores de informações.",
+    "E": "os mecanismos de convergência tecnológica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>“Aparecer é mais do que ser; o sujeito é famoso porque é falado”: a celebridade se alimenta da própria exposição, uma <strong>prática identitária autorreferente</strong>. Alternativa <strong>A</strong>.</p><p>O texto critica a lógica do espetáculo, não a apresenta como democratizante (B), e não trata de notícias, difusão ou convergência tecnológica (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sociedade do espetáculo",
+    "mídia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "Sociologia",
+   "assunto": "Pensamento sociológico",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"apoio\">A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo.</p><p class=\"fonte\">WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado).</p><p>Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "progresso civilizatório como decorrência da expansão do industrialismo.",
+    "B": "extinção do pensamento mítico como um desdobramento do capitalismo.",
+    "C": "emancipação como consequência do processo de racionalização da vida.",
+    "D": "afastamento de crenças tradicionais como uma característica da modernidade.",
+    "E": "fim do monoteísmo como condição para a consolidação da ciência."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O “desencantamento do mundo”, para Weber, é a perda das explicações mágicas: tudo pode ser dominado pelo cálculo. É o <strong>afastamento das crenças tradicionais</strong>, marca da modernidade. Alternativa <strong>D</strong>.</p><p>Weber não vê nisso progresso ou emancipação garantidos (A e C), não o atribui só ao capitalismo (B) e não fala de fim do monoteísmo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Max Weber",
+    "racionalização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Filosofia",
+   "assunto": "Ética",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p class=\"apoio\">Diante de ameaças surgidas com a engenharia genética de alimentos, vários grupos da sociedade civil conceberam o chamado “princípio da precaução”. O fundamento desse princípio é: quando uma tecnologia ou produto comporta alguma ameaça à saúde ou ao ambiente, ainda que não se possa avaliar a natureza precisa ou a magnitude do dano que venha a ser causado por eles, deve-se evitá-los ou deixá-los de quarentena para maiores estudos e avaliações antes de sua liberação.</p><p class=\"fonte\">SEVCENKO, N. A corrida para o século XXI: no loop da montanha-russa. São Paulo: Cia. das Letras, 2001 (adaptado).</p><p>O texto expõe uma tendência representativa do pensamento social contemporâneo, na qual o desenvolvimento de mecanismos de acautelamento ou administração de riscos tem como objetivo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "priorizar os interesses econômicos em relação aos seres humanos e à natureza.",
+    "B": "negar a perspectiva científica e suas conquistas por causa de riscos ecológicos.",
+    "C": "instituir o diálogo público sobre mudanças tecnológicas e suas consequências.",
+    "D": "combater a introdução de tecnologias para travar o curso das mudanças sociais.",
+    "E": "romper o equilíbrio entre benefícios e riscos do avanço tecnológico e científico."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O princípio da precaução manda evitar ou adiar uma tecnologia enquanto houver risco não avaliado, o que exige <strong>debate público</strong> sobre as mudanças tecnológicas e suas consequências. Alternativa <strong>C</strong>.</p><p>O princípio põe saúde e ambiente acima do lucro (A), não nega a ciência (B), não quer travar mudanças sociais (D) e busca equilibrar riscos e benefícios, não rompê-los (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio da precaução",
+    "transgênicos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 42,
+   "materia": "Sociologia",
+   "assunto": "Movimentos sociais",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p class=\"apoio\">Ninguém nasce mulher: torna-se mulher. Nenhum destino biológico, psíquico, econômico define a forma que a fêmea humana assume no seio da sociedade; é o conjunto da civilização que elabora esse produto intermediário entre o macho e o castrado que qualificam o feminino.</p><p class=\"fonte\">BEAUVOIR, S. <strong>O segundo sexo</strong>. Rio de Janeiro: Nova Fronteira, 1980.</p><p>Na década de 1960, a proposição de Simone de Beauvoir contribuiu para estruturar um movimento social que teve como marca o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ação do Poder Judiciário para criminalizar a violência sexual.",
+    "B": "pressão do Poder Legislativo para impedir a dupla jornada de trabalho.",
+    "C": "organização de protestos públicos para garantir a igualdade de gênero.",
+    "D": "oposição de grupos religiosos para impedir os casamentos homoafetivos.",
+    "E": "estabelecimento de políticas governamentais para promover ações afirmativas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>“Ninguém nasce mulher: torna-se mulher”: o gênero é construção social, não destino biológico. A ideia inspirou o feminismo dos anos 1960, com <strong>protestos públicos pela igualdade de gênero</strong>. Alternativa <strong>C</strong>.</p><p>As outras atribuem o movimento ao Judiciário, ao Legislativo, a grupos religiosos ou a governos (A, B, D e E), quando foi um movimento social.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "feminismo",
+    "Simone de Beauvoir"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 43,
+   "materia": "Sociologia",
+   "assunto": "Pensamento sociológico",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>Só num sentido muito restrito, o indivíduo cria com seus próprios recursos o modo de falar e de pensar que lhe são atribuídos. Fala o idioma de seu grupo; pensa à maneira de seu grupo. Encontra a sua disposição apenas determinadas palavras e significados. Estas não só determinam, em grau considerável, as vias de acesso mental ao mundo circundante, mas também mostram, ao mesmo tempo, sob que ângulo e em que contexto de atividade os objetos foram até agora perceptíveis ao grupo ou ao indivíduo.</p><p>MANNHEIM, K. Ideologia e utopia. Porto Alegre: Globo, 1950 (adaptado). Ilustrando uma proposição básica da sociologia do conhecimento, o argumento de Karl Mannheim defende que o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "conhecimento sobre a realidade é condicionado socialmente.",
+    "B": "submissão ao grupo manipula o conhecimento do mundo.",
+    "C": "divergência é um privilégio de indivíduos excepcionais.",
+    "D": "educação formal determina o conhecimento do idioma.",
+    "E": "domínio das línguas universaliza o conhecimento."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Mannheim diz que o indivíduo pensa e fala com as palavras e os significados do seu grupo, que orientam o acesso ao mundo: o <strong>conhecimento é condicionado socialmente</strong>. Alternativa <strong>A</strong>.</p><p>O texto não fala de manipulação (B), de privilégio de indivíduos excepcionais (C), de escola (D) ou de conhecimento universal pelas línguas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sociologia do conhecimento"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "História",
+   "assunto": "Patrimônio cultural",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p class=\"apoio\">A Unesco condenou a destruição da antiga capital assíria de Nimrod, no Iraque, pelo Estado Islâmico, com a agência da ONU considerando o ato como um crime de guerra. O grupo iniciou um processo de demolição em vários sítios arqueológicos em uma área reconhecida como um dos berços da civilização.</p><p class=\"fonte\">Unesco e especialistas condenam destruição de cidade assíria pelo Estado Islâmico. Disponível em: http://oglobo.globo.com. Acesso em: 30 mar. 2015 (adaptado).</p><p>O tipo de atentado descrito no texto tem como consequência para as populações de países como o Iraque a desestruturação do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "homogeneidade cultural.",
+    "B": "patrimônio histórico.",
+    "C": "controle ocidental.",
+    "D": "unidade étnica.",
+    "E": "religião oficial."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A destruição de sítios arqueológicos como Nimrod apaga vestígios das civilizações antigas da Mesopotâmia: a perda é do <strong>patrimônio histórico</strong>. Alternativa <strong>B</strong>.</p><p>O atentado não traz homogeneidade, controle ocidental, unidade étnica ou religião oficial (A, C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Estado Islâmico",
+    "patrimônio"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente e sociedade",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p class=\"apoio\">A questão ambiental, uma das principais pautas contemporâneas, possibilitou o surgimento de concepções políticas diversas, dentre as quais se destaca a preservação ambiental, que sugere uma ideia de intocabilidade da natureza e impede o seu aproveitamento econômico sob qualquer justificativa.</p><p class=\"fonte\">PORTO-GONÇALVES, C. W. A globalização da natureza e a natureza da globalização. Rio de Janeiro: Civilização Brasileira, 2006 (adaptado).</p><p>Considerando as atuais concepções políticas sobre a questão ambiental, a dinâmica caracterizada no texto quanto à proteção do meio ambiente está baseada na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "prática econômica sustentável.",
+    "B": "contenção de impactos ambientais.",
+    "C": "utilização progressiva dos recursos naturais.",
+    "D": "proibição permanente da exploração da natureza.",
+    "E": "definição de áreas prioritárias para a exploração econômica."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto descreve o preservacionismo: a natureza seria “intocável”, sem aproveitamento econômico “sob qualquer justificativa”. Isso equivale à <strong>proibição permanente da exploração</strong>. Alternativa <strong>D</strong>.</p><p>O uso sustentável e a contenção de impactos são da visão conservacionista, que admite exploração (A e B). C e E falam de exploração, o oposto do texto.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "preservacionismo"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

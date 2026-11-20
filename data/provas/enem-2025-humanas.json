@@ -1,0 +1,1170 @@
+{
+ "id": "enem-2025-humanas",
+ "banca": "Enem",
+ "ano": 2025,
+ "titulo": "Enem 2025: Ciências Humanas",
+ "fonte": "Inep",
+ "dataExame": "2025-11-09",
+ "duracaoMinutos": 135,
+ "area": "Ciências Humanas",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Macedônia do Norte</strong><br><em>Acordo entra em vigor e país muda oficialmente de nome</em></p><p class=\"apoio\">Entrou em vigor, em 2019, o acordo que determina a mudança de nome da Macedônia para Macedônia do Norte. A troca põe fim — ao menos por enquanto — no impasse entre essa antiga república da Iugoslávia e a vizinha Grécia. O governo grego se opunha ao uso do nome Macedônia pelo novo país vizinho porque a Grécia tem uma província no norte com o mesmo nome. Por causa desse impasse, a Grécia bloqueou as negociações de adesão de seu vizinho à União Europeia. Depois de negociações, as duas partes chegaram a um acordo.</p><p class=\"fonte\">Disponível em: https://g1.globo.com. Acesso em: 7 nov. 2021 (adaptado).</p><p>Para o país originado da antiga Iugoslávia, a mudança de nome é uma estratégia política para</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "criar a moeda própria.",
+    "B": "proteger a cultura local.",
+    "C": "subjugar a minoria étnica.",
+    "D": "expandir o território nacional.",
+    "E": "intensificar a integração regional."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Grécia bloqueava a entrada do vizinho na União Europeia por causa do nome. Ao virar “Macedônia do Norte”, o país removeu o veto e abriu caminho para entrar em blocos como a UE e a Otan: a troca serve para <strong>intensificar a integração regional</strong>. Alternativa <strong>E</strong>.</p><p>O texto não fala de moeda (A), cultura (B), minorias (C) nem de ganhar território (D); o acordo, ao contrário, afasta qualquer pretensão sobre a província grega.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "União Europeia",
+    "Bálcãs"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "Geografia",
+   "assunto": "Clima",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">Concentração de CO2 por queimadas entre África e Brasil em 30 de agosto de 2019</p>[[fig:1]]<p class=\"fonte\">Disponível em: https://noticias.uol.com.br. Acesso em: 10 out. 2019 (adaptado).</p><p>A dispersão espacial do problema ambiental representado na imagem de satélite é explicada pela seguinte característica geográfica:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-humanas/q47.webp",
+     "alt": "Imagem de satélite da América do Sul e da África em 30 de agosto de 2019, com o contorno dos estados brasileiros. Manchas de concentração de CO₂ das queimadas, em tons de amarelo a marrom, cobrem o centro da África (com núcleo escuro de até 1 200 partes por bilhão em volume) e o centro-oeste e o norte da América do Sul, e se estendem como uma faixa sobre o Oceano Atlântico entre os dois continentes."
+    }
+   ],
+   "alternativas": {
+    "A": "Amplitude das temperaturas médias.",
+    "B": "Homogeneidade da insolação anual.",
+    "C": "Ocorrência de chuvas de relevo.",
+    "D": "Circulação de massas de ar.",
+    "E": "Ausência de frentes frias."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A fumaça das queimadas aparece espalhada muito além dos focos, atravessando o Atlântico e cobrindo boa parte da América do Sul. Quem leva os poluentes para longe é o vento, isto é, a <strong>circulação das massas de ar</strong>. Alternativa <strong>D</strong>.</p><p>Temperatura, insolação, chuvas de relevo e frentes frias (A, B, C e E) não explicam o transporte horizontal da fumaça.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "queimadas",
+    "poluição atmosférica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "Filosofia",
+   "assunto": "Filosofia moderna",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p class=\"apoio\">A credulidade dos ouvintes aumenta o descaramento do narrador, e o descaramento deste conquista-lhes a credulidade. A eloquência, quando levada a seu patamar mais alto, deixa pouco lugar à razão ou à reflexão, mas, dirigindo-se inteiramente à imaginação e aos afetos, cativa os ouvintes condescendentes e subjuga-lhes o entendimento.</p><p class=\"fonte\">HUME, D. Uma investigação sobre o entendimento humano e sobre os princípios da moral. São Paulo: Edunesp, 2003.</p><p>No contexto do século XVIII, o autor propõe uma reflexão radical acerca da arte da eloquência, restringindo-a ao</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "sistema de crenças, conforme a proposta kantiana de objetividade do conhecimento.",
+    "B": "campo dos absolutos, semelhante ao entendimento medieval dos Universais.",
+    "C": "domínio da lógica, consoante a compreensão aristotélica nos Analíticos.",
+    "D": "paradigma da racionalidade, alinhado ao modelo cartesiano de método.",
+    "E": "âmbito da persuasão, análogo às críticas platônicas aos sofistas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Hume diz que a eloquência “deixa pouco lugar à razão”: ela se dirige à imaginação e aos afetos e “subjuga o entendimento” de ouvintes crédulos. É uma arte de <strong>persuasão</strong>, e não de conhecimento, crítica parecida com a que Platão fazia aos sofistas. Alternativa <strong>E</strong>.</p><p>O texto afasta a eloquência justamente da razão, da lógica e do método (C e D); não trata de crenças objetivas à maneira de Kant (A) nem dos universais medievais (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Hume",
+    "retórica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "História",
+   "assunto": "Idade Moderna",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p>[[fig:1]]<p class=\"fonte\">CARLEVARIS, L. <em>La piazetta</em> (detalhe). Óleo sobre tela, 49 × 41 cm. Ashmolean Museum, Oxford, 1729. Disponível em: www.meinsterart.de. Acesso em: 13 dez. 2017.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Antigo centro da economia mundo-europeia do século XV, no final do século XVII e início do século XVIII, Veneza ainda era uma cidade cosmopolita onde orientais podiam sentir-se em casa.</p><p class=\"fonte\">BRAUDEL, F. O tempo do mundo. São Paulo: Martins Fontes, 1979 (adaptado).</p><p>Qual elemento da condição cosmopolita de Veneza na Idade Moderna está explicitado nos textos?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-humanas/q49.webp",
+     "alt": "Pintura de Luca Carlevaris (1729): na Piazzetta de Veneza, ao lado de um longo edifício de arcadas e uma coluna com estátua, circulam pessoas de várias origens. Em primeiro plano, dois homens com trajes orientais, um com turbante vermelho e outro com manto azul; ao fundo, europeus de casaca e chapéu tricórnio conversam, e à direita um homem lê sentado junto a uma banca de livros."
+    }
+   ],
+   "alternativas": {
+    "A": "Avanço do ensino laico.",
+    "B": "Conquista das terras da América.",
+    "C": "Integração do comércio mediterrâneo.",
+    "D": "Popularização do pensamento humanista.",
+    "E": "Desenvolvimento das corporações de ofício."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A pintura mostra orientais (de turbante e túnica) circulando no porto de Veneza, e Braudel lembra que a cidade fora o centro da economia europeia, onde “orientais podiam sentir-se em casa”. O cosmopolitismo vinha do papel de Veneza como entreposto entre Europa e Oriente: a <strong>integração do comércio mediterrâneo</strong>. Alternativa <strong>C</strong>.</p><p>Os textos não falam de ensino laico (A), conquista da América (B), humanismo (D) ou corporações de ofício (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Veneza",
+    "comércio"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "Filosofia",
+   "assunto": "Filosofia contemporânea",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"apoio\">O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra.</p><p class=\"fonte\">DERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010 (adaptado).</p><p>De acordo com o texto, ainda que estejam em desconformidade com o ordenamento jurídico, são exemplos de ação justa:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Casos de desobediência civil.",
+    "B": "Repressões do aparato estatal.",
+    "C": "Conflitos de natureza intercontinental.",
+    "D": "Manifestações do movimento sindical.",
+    "E": "Mobilizações de agremiações estudantis."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Para Derrida, o direito é cálculo, regra; a justiça vai além da regra e pode exigir decisões que nenhuma norma garante. Um ato justo pode, então, contrariar a lei. O exemplo clássico é a <strong>desobediência civil</strong>: descumprir abertamente uma lei considerada injusta, em nome da justiça. Alternativa <strong>A</strong>.</p><p>Repressão estatal é aplicação da força, não ação justa contra o ordenamento (B). Conflitos, greves e mobilizações estudantis (C, D e E) podem ou não ser legais e justos; o texto não os trata como exemplo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Derrida",
+    "direito e justiça"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "Sociologia",
+   "assunto": "Vida urbana",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">PAULINHO DA VIOLA. Foi um rio que passou em minha vida. Rio de Janeiro: Odeon, 1970.</p><p>A letra da canção apresenta a permanência de uma situação da vida cotidiana ao destacar a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-humanas/q51.webp",
+     "alt": "Letra da canção “Sinal fechado”, de Paulinho da Viola, reproduzida da prova. É um diálogo rápido entre duas pessoas que se reencontram parados num sinal: trocam cumprimentos de praxe, dizem que vão “indo”, pedem desculpas pela pressa, prometem telefonar e se ver “pra semana”, lamentam não lembrar o que tinham a dizer, até que o sinal vai abrir e se despedem com “Adeus...”."
+    }
+   ],
+   "alternativas": {
+    "A": "diminuição do comportamento competitivo.",
+    "B": "importância da memória coletiva.",
+    "C": "redução da mobilidade urbana.",
+    "D": "efemeridade dos vínculos de afetividade.",
+    "E": "obsolescência dos meios de comunicação."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A canção é um diálogo apressado de dois conhecidos que se cruzam num sinal de trânsito: “Quanto tempo...”, “Me perdoe a pressa”, “Pra semana, prometo”. Ninguém consegue dizer o que queria, e o encontro termina quando o sinal abre. O retrato é o da vida urbana acelerada, de relações rápidas e superficiais: a <strong>efemeridade dos vínculos de afetividade</strong>. Alternativa <strong>D</strong>.</p><p>A pressa competitiva aparece aumentada, não diminuída (A); o telefone é citado, mas não está obsoleto (E); e a letra não trata de memória coletiva (B) nem de redução da mobilidade (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "canção",
+    "cotidiano"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "História",
+   "assunto": "Primeira Guerra Mundial",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"apoio\">Não há consenso em torno do nome dado à pandemia, tendo, desde o seu início, sido chamada de gripe espanhola provavelmente por causa da desinformação em torno da notícia sobre sua origem. Uma das hipóteses deriva da neutralidade espanhola na Primeira Guerra Mundial e a consequente liberdade de imprensa naquele país, maior do que nos demais países envolvidos no conflito. Hoje existe o consenso entre virologistas e epidemiologistas de que o vírus da gripe não se originou na Espanha. Entretanto, dificilmente essa pandemia deixará de ser conhecida como gripe espanhola.</p><p class=\"fonte\">KLAJMAN, C. A gripe sob a ótica da história ecológica. História Revista, n. 3, set.-dez. 2015 (adaptado).</p><p>De acordo com o texto, a denominação recebida pela pandemia do começo do século XX foi determinada pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "precariedade dos conhecimentos da medicina militar.",
+    "B": "retaliação da tríplice aliança aos soldados desertores.",
+    "C": "controle dos relatos oriundos de campos de batalha.",
+    "D": "emprego de armas biológicas em confrontos transnacionais.",
+    "E": "circulação de refugiados contaminados em áreas conflagradas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os países em guerra censuravam a imprensa e escondiam as notícias da epidemia, que poderiam desmoralizar as tropas. A Espanha, neutra, publicava livremente, e a doença ficou associada a ela. O nome resultou do <strong>controle dos relatos vindos dos campos de batalha</strong>. Alternativa <strong>C</strong>.</p><p>O texto não fala da medicina militar (A), de retaliações (B), de armas biológicas (D) ou de refugiados (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gripe espanhola",
+    "censura"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "História",
+   "assunto": "Religião",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">A partir do século IV, com os imperadores ditos cristãos, o teatro e a dança foram condenados. O batismo era recusado aos que atuavam no circo ou na pantomima. E em 398, no Concílio de Cartago, os que iam ao teatro nos dias santos foram excomungados.</p><p class=\"fonte\">DINIZ, T.; SANTOS, G. História da dança. Disponível em: www.uel.br. Acesso em: 18 out. 2023.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">A dança no ato litúrgico cumpre tanto um papel de adoração quanto mercadológico. Não à toa há aceitação, expansão e investimento nessa prática percebida massivamente pela ampla divulgação principalmente nas redes sociais. A expansão e ampliação por via de festivais, aulas, cursos, palestras etc. consolida a criação de um mercado específico para esse público.</p><p class=\"fonte\">SANTOS, Z. Dança gospel. Salvador: UFBA, 2021.</p><p>A percepção sobre a dança e a cultura corporal apresenta aspectos relacionados, respectivamente, a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "segregação social e intolerância eclesiástica.",
+    "B": "rituais eucarísticos e sacramentos da Igreja.",
+    "C": "transe individual e progresso intelectual.",
+    "D": "penitência pessoal e juramento coletivo.",
+    "E": "dogmatismo religioso e adesão de fiéis."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto I mostra a Igreja dos primeiros séculos condenando teatro e dança, com excomunhão e recusa do batismo: <strong>dogmatismo religioso</strong>. O texto II mostra a dança incorporada aos cultos gospel e a um mercado que atrai e mobiliza público: <strong>adesão de fiéis</strong>. Alternativa <strong>E</strong>.</p><p>O texto I não trata de segregação social (A), e o II não fala de sacramentos, transe, penitência ou juramentos (B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dança",
+    "cristianismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"apoio\">A ideia de êxodo urbano assume ares caricaturais. Pega a mais reduzida parte da pirâmide social e projeta para todos seus desejos defensivos. Se o êxodo urbano for compreendido como aquisição de uma segunda residência, então não estamos, de fato, falando de êxodo, mas da reversão de um excedente de renda de uma pequena fração da elite para as franjas metropolitanas. Se o êxodo urbano for compreendido como retorno aos municípios menos povoados, então não estamos, de fato, falando de êxodo urbano, mas de um movimento de migração de pessoas cuja estabilidade no emprego e a elevada renda lhes permitem simular, nas ilhas urbanas do interior agropecuário, a vida urbana metropolitana.</p><p class=\"fonte\">ARRAIS, T. A. O distópico êxodo urbano. Revista e, n. 11, maio 2021 (adaptado).</p><p>A crítica apresentada no texto evidencia uma dinâmica socioespacial marcada pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "valorização de tradições rurais.",
+    "B": "redução de plantações agrícolas.",
+    "C": "estagnação de atividades comerciais.",
+    "D": "precariedade de infraestruturas rodoviárias.",
+    "E": "seletividade de deslocamentos populacionais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O autor diz que o chamado “êxodo urbano” envolve só “a mais reduzida parte da pirâmide social”: pessoas de alta renda e emprego estável que compram segunda casa ou se mudam para cidades menores. Quem consegue sair é um grupo selecionado pela renda: há <strong>seletividade dos deslocamentos populacionais</strong>. Alternativa <strong>E</strong>.</p><p>Essas pessoas reproduzem a vida metropolitana, não tradições rurais (A); o texto não fala de plantações, comércio ou rodovias (B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "migração",
+    "desigualdade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 10,
+   "materia": "Filosofia",
+   "assunto": "Filosofia contemporânea",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p class=\"apoio\">A “invenção” dessa nova anatomia política não deve ser entendida como uma descoberta súbita. Mas como uma multiplicidade de processos muitas vezes mínimos, de origens diferentes, de localizações esparsas, que se recordam, que se repetem, ou se imitam, apoiam-se uns sobre os outros e esboçam aos poucos a fachada de um método geral. Encontramo-los em funcionamento nos colégios, muito cedo; mais tarde, nas escolas primárias, no espaço hospitalar e na organização militar.</p><p class=\"fonte\">FOUCAULT, M. Vigiar e punir. Petrópolis: Vozes, 2011.</p><p>O texto indica o seguinte aspecto da disciplina como ferramenta política:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Expansão das técnicas de suplício.",
+    "B": "Judicialização das relações de poder.",
+    "C": "Dissolução das distinções de nobreza.",
+    "D": "Capilarização das práticas de controle.",
+    "E": "Espetacularização das medidas de penitência."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Foucault descreve a disciplina como pequenos processos que se repetem e se espalham por colégios, escolas, hospitais e quartéis. O poder deixa de vir de um centro e passa a correr pelas instituições do cotidiano, como vasos capilares: é a <strong>capilarização das práticas de controle</strong>. Alternativa <strong>D</strong>.</p><p>A disciplina substitui o suplício e o espetáculo da punição (A e E), não os amplia. O texto não trata de judicialização (B) nem de nobreza (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Foucault",
+    "poder disciplinar"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "Geografia",
+   "assunto": "Transportes",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p class=\"apoio\">Por séculos, o Rio Reno tem sido uma rota de navegação confiável, ajudando a criar gigantes fabris ao longo de suas margens. No entanto, esses dias parecem estar no fim, pois o nível da água tem diminuído regularmente, o que impede a navegação fluvial do final do verão até o outono. Isso mostra como a crise climática atinge as economias dos países ricos.</p><p class=\"fonte\">Disponível em: www.estadao.com.br. Acesso em: 10 ago. 2023 (adaptado).</p><p>Qual é o efeito econômico do problema ambiental apresentado no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Supressão da extração de minério.",
+    "B": "Intensificação da atividade de pesca.",
+    "C": "Encarecimento da logística de transporte.",
+    "D": "Inviabilização da agricultura de subsistência.",
+    "E": "Sucateamento da indústria de transformação."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Com o nível do Reno mais baixo, as barcaças não navegam ou precisam sair com menos carga, e as indústrias recorrem a trens e caminhões, mais caros. O efeito é o <strong>encarecimento da logística de transporte</strong>. Alternativa <strong>C</strong>.</p><p>O texto não fala de mineração, pesca ou agricultura de subsistência (A, B e D), e a dificuldade atinge as fábricas sem significar seu sucateamento (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hidrovias",
+    "mudanças climáticas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 12,
+   "materia": "Geografia",
+   "assunto": "Migrações",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p class=\"apoio\">Dos 10 aos 15 anos de idade, Virgínia adorava acompanhar seu pai, aos domingos, naquela sinestésica Feira de São Cristóvão (RJ), talvez por ser o maior elo que ela experimentava com o mundo exterior à sua casa e, visto assim e agora, tão íntimo e próximo de algo que ela ainda não sabia, mas que seria, no futuro, a sua própria casa: a Paraíba. Dona Didi costurava, sob medida, camisas sociais, bermudas, shorts, vestidos, saias, sempre em casa e rodeada pelos quatro filhos pequenos do casal, desdobrando-se para dar conta de toda a responsabilidade sem trégua que isso demandava.</p><p class=\"fonte\">PASSOS, M. C. P. et al. apud SCARELI, G. A máquina de costura e os fios da memória. Revista Brasileira de Pesquisa (Auto) Biográfica, n. 18, maio-ago. 2021 (adaptado).</p><p>Os itinerários afetivos e socioespaciais mencionados no texto associam-se à vida dos personagens por apresentarem</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "histórias conectadas e recordações do lugar.",
+    "B": "direitos trabalhistas e produção industrial.",
+    "C": "preconceitos linguísticos e dinâmicas territoriais.",
+    "D": "lembranças fabris e discriminação dos operários.",
+    "E": "experiências profissionais e segregação regional."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto liga a Feira de São Cristóvão, no Rio, à Paraíba de onde vieram os pais e para onde Virgínia iria depois. As trajetórias da família se cruzam com a migração nordestina e com os lugares que guardam essa memória: <strong>histórias conectadas e recordações do lugar</strong>. Alternativa <strong>A</strong>.</p><p>A costura é feita em casa, não na indústria (B e D), e o texto não fala de preconceito linguístico, direitos trabalhistas ou segregação (B, C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "memória",
+    "migração nordestina"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 13,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p class=\"apoio\">Em 1872, havia mais de 1 milhão de votantes, correspondentes a 13% da população livre. Em 1886, votaram nas eleições parlamentares pouco mais de 100 mil eleitores, ou 0,8% da população total. Houve um corte de quase 90% do eleitorado. O dado é chocante, sobretudo se lembrarmos que a tendência de todos os países europeus da época era na direção de ampliar os direitos políticos. O mais grave é que esse retrocesso foi duradouro. A Proclamação da República não alterou o quadro.</p><p class=\"fonte\">CARVALHO, J. M. Cidadania no Brasil. Rio de Janeiro: Civilização Brasileira, 2002 (adaptado).</p><p>De acordo com o texto, a participação no processo eleitoral brasileiro após a Reforma de 1881 sofreu uma variação que se explica pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "restrição de gênero.",
+    "B": "exclusão de imigrantes.",
+    "C": "comprovação de domicílio.",
+    "D": "exigência da alfabetização.",
+    "E": "obrigatoriedade do sufrágio."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Lei Saraiva (1881) instituiu o voto direto, mas passou a exigir que o eleitor soubesse ler e escrever. Num país em que a grande maioria era analfabeta, o eleitorado caiu quase 90%, e a República manteve a exigência. A variação se explica pela <strong>exigência da alfabetização</strong>. Alternativa <strong>D</strong>.</p><p>As mulheres já não votavam antes (A), estrangeiros não eram o grosso do eleitorado (B), e o voto não era obrigatório (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Lei Saraiva",
+    "cidadania"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "Geografia",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p class=\"apoio\">Pela falta de chuvas, a geração de energia eólica, solar e térmica atingiu níveis recordes em agosto de 2021, quando as hidrelétricas ficaram com cerca de 50% do total. Para um professor da Universidade Federal da Bahia, essa queda não é uma surpresa. “Não aconteceu de uma hora para outra. Se olharmos o mapa do Brasil, um dos grandes provedores de água é a Floresta Amazônica. Se você diminui a floresta, diminui a quantidade de água que vai para a atmosfera”, explica.</p><p class=\"fonte\">BORGES, T. O fantasma do apagão. Disponível em: www.correio24horas.com.br. Acesso em: 9 out. 2021 (adaptado).</p><p>De acordo com o texto, a dificuldade na produção de energia é causada pela alteração da(s)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "variável em pesquisas meteorológicas.",
+    "B": "paisagem em locais estratégicos.",
+    "C": "demandas em regiões industriais.",
+    "D": "metas em acordos climáticos.",
+    "E": "geologia em áreas naturais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O professor explica que a Floresta Amazônica manda umidade para a atmosfera, e essa umidade vira chuva em outras regiões do país, abastecendo os reservatórios das hidrelétricas. O desmatamento muda a <strong>paisagem num local estratégico</strong> e reduz as chuvas. Alternativa <strong>B</strong>.</p><p>O problema não está nas pesquisas meteorológicas (A), na demanda industrial (C), em acordos climáticos (D) ou na geologia (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hidrelétricas",
+    "rios voadores",
+    "Amazônia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "Sociologia",
+   "assunto": "Economia e sociedade",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p class=\"apoio\">Adam Smith via o açougueiro e o padeiro não só como indivíduos buscando seus interesses financeiros, mas como pessoas moralmente motivadas dentro de uma sociedade. A base da moral era a empatia e o julgamento, instaurando uma distinção entre o que queremos fazer e o que sentimos que devemos fazer.</p><p class=\"fonte\">COLLIER, P. O futuro do capitalismo. Porto Alegre: LP&M, 2019.</p><p>O texto defende uma motivação capitalista para o campo dos negócios, na qual o lucro se mostra associado à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "consolidação do poder político.",
+    "B": "procura de satisfação subjetiva.",
+    "C": "estruturação do monopólio comercial.",
+    "D": "percepção de responsabilidade ética.",
+    "E": "conquista do reconhecimento público."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Segundo o texto, Smith via comerciantes como pessoas movidas também pela moral, baseada em empatia e julgamento, que separa “o que queremos fazer” do “que sentimos que devemos fazer”. O lucro aparece ligado à <strong>percepção de responsabilidade ética</strong>. Alternativa <strong>D</strong>.</p><p>O texto não fala de poder político (A), de prazer subjetivo (B), de monopólio (C) nem de busca de prestígio (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Adam Smith",
+    "capitalismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p class=\"apoio\">O corpo de cidadãos é o poder supremo dos Estados. A supremacia pode residir ou num homem, ou na minoria, ou em todos. Sempre que o Um, ou a Minoria, ou Todos governam, tendo em vista o bem-estar comum, essas constituições são justas; mas se procuram apenas o benefício de uma das partes, seja ela o Um, a Minoria ou Todos, estabelece-se um desvio.</p><p class=\"fonte\">ARISTÓTELES. Política. São Paulo: Nova Cultural, 2000.</p><p>No excerto encontra-se a base da teoria clássica das três formas de governo representadas pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "tirania, oligarquia e república.",
+    "B": "burocracia, autarquia e império.",
+    "C": "ditadura, autocracia e anarquia.",
+    "D": "plutocracia, tecnocracia e demagogia.",
+    "E": "monarquia, aristocracia e democracia."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Aristóteles classifica os governos pelo número de governantes, um, poucos ou muitos, e chama de justos os que visam ao bem comum: <strong>monarquia, aristocracia e democracia</strong> (na terminologia dele, “politia”). Os desvios são tirania, oligarquia e demagogia. Alternativa <strong>E</strong>.</p><p>A alternativa A mistura uma forma justa com desvios (tirania e oligarquia). As outras opções trazem termos de outras épocas e classificações (B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Aristóteles",
+    "formas de governo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Sociologia",
+   "assunto": "Teoria social",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p class=\"apoio\">Para que a utopia nasça, é preciso duas condições. A primeira é a forte sensação de que o mundo não está funcionando adequadamente e deve ter seus fundamentos revistos para que se reajuste. A segunda condição é a existência de uma confiança no potencial humano à altura da tarefa de reformar o mundo, a crença de que nós, seres humanos, podemos fazê-lo, sendo capazes de perceber o que está errado com o mundo, o que precisa ser modificado, quais são os pontos problemáticos, e ter força e coragem para extirpá-los.</p><p class=\"fonte\">BAUMAN, Z. apud OLIVEIRA, D. Bauman: para que a utopia renasça, é preciso confiar no potencial humano. Revista Cult, jan. 2017.</p><p>De acordo com o autor, qual é a função da utopia no contexto das transformações sociais?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Habilitar memórias afetivas.",
+    "B": "Apontar alternativas possíveis.",
+    "C": "Legitimar experiências pretéritas.",
+    "D": "Perpetuar paradigmas científicos.",
+    "E": "Empreender soluções conclusivas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Para Bauman, a utopia nasce de duas coisas: perceber que o mundo não funciona bem e acreditar que os seres humanos podem mudá-lo. Ela serve para imaginar outro mundo e orientar a mudança: <strong>apontar alternativas possíveis</strong>. Alternativa <strong>B</strong>.</p><p>A utopia olha para o futuro, não para memórias ou experiências passadas (A e C); ela questiona paradigmas (D) e não traz soluções prontas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Bauman",
+    "utopia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Produção e exportações brasileiras no ranking mundial em 2019</strong></p>[[fig:1]]<p class=\"fonte\">Fonte: USDA, 2020. Elaboração CNA. *Fatia de participação na produção mundial. Disponível em: www.cnabrasil.org.br. Acesso em: 15 out. 2021.</p><p>Qual condição favoreceu o cenário produtivo exposto na figura?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-humanas/q63.webp",
+     "alt": "Quadro da produção e exportação brasileiras em 2019, com a posição do Brasil no ranking mundial. Açúcar: produz 29,5 milhões de t (2º), exporta 19,6 (1º), 36% da produção mundial. Café: 3,8 (1º), 1,9 (1º), 27%. Suco de laranja: 1,3 (1º), 1,2 (1º), 76%. Soja: 117 (2º), 75,4 (1º), 51%. Carne de frango: 13,3 (2º), 3,6 (1º), 38%. Carne bovina: 9,9 (2º), 2,0 (1º), 22%. Milho: 101 (3º), 39,0 (3º), 20%. Carne suína: 3,7 (4º), 0,7 (4º), 10%."
+    }
+   ],
+   "alternativas": {
+    "A": "Redução do poder de compra da população brasileira.",
+    "B": "Ampliação da entrada do capital agroindustrial no campo.",
+    "C": "Diminuição do uso de trabalho especializado na agropecuária.",
+    "D": "Valorização da moeda nacional em relação ao dólar americano.",
+    "E": "Inclusão de pequenas propriedades em cultivos de subsistência."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O Brasil aparece entre os maiores produtores e exportadores mundiais de açúcar, café, suco de laranja, soja e carnes, com volumes enormes. Isso resulta da modernização do campo com máquinas, insumos, biotecnologia e grandes empresas: a <strong>ampliação da entrada do capital agroindustrial no campo</strong>. Alternativa <strong>B</strong>.</p><p>O que puxa a produção é a exportação, não o poder de compra interno (A); a agropecuária moderna usa mais trabalho especializado (C); a moeda desvalorizada, e não a valorizada, favorece exportar (D); e são as grandes propriedades, não a subsistência, que sustentam esse cenário (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "agronegócio",
+    "exportações"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p class=\"apoio\">Em toda a sua carreira política, Getúlio Vargas sempre contara com o seu talento pessoal de persuasão e poder de manipulação. Agora, porém, seus amigos começavam a perceber que ele parecia envelhecido e cansado. A principal figura da oposição, concordavam eles, era o belicoso jornalista Carlos Lacerda. Se ao menos pudessem “removê-lo” do cenário político, talvez Vargas se salvasse da situação. Esses seguidores decidiram tomar o assunto em suas próprias mãos com o atentado da Rua Tonelero.</p><p class=\"fonte\">SKDIMORE, T. Brasil: de Getúlio a Castelo. Rio de Janeiro: Paz e Terra, 2003 (adaptado).</p><p>Nesse contexto, a ação dos aliados de Getúlio Vargas teve como consequência imediata o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "intensificação dos ataques do grupo udenista.",
+    "B": "intervenção dos sindicatos no conflito partidário.",
+    "C": "mobilização da sociedade na defesa do governo.",
+    "D": "abandono da censura aos meios de comunicação.",
+    "E": "apoio dos parlamentares aos candidatos oposicionistas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O atentado da Rua Tonelero (agosto de 1954) feriu Lacerda e matou o major Rubens Vaz, da Aeronáutica. As investigações chegaram à guarda pessoal de Vargas, e a oposição udenista e os militares passaram a exigir a renúncia do presidente, que se suicidou dias depois. A consequência imediata foi a <strong>intensificação dos ataques do grupo udenista</strong>. Alternativa <strong>A</strong>.</p><p>Os sindicatos não intervieram no conflito (B); a mobilização popular a favor de Vargas veio só depois do suicídio (C); o atentado não pôs fim a censura alguma (D); e não havia eleição em curso (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Era Vargas",
+    "Carlos Lacerda"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "Filosofia",
+   "assunto": "Ética",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "<p class=\"apoio\"><strong>O que eu queria ter sido</strong></p><p class=\"apoio\">Um nome para o que sou, importa muito pouco. Importa o que eu gostaria de ser. O que eu gostaria de ser era uma lutadora. Quero dizer, uma pessoa que luta pelo bem dos outros. Isso desde pequena eu quis. Por que foi o destino me levando a escrever o que já escrevi, em vez de também desenvolver em mim a qualidade de lutadora que eu tinha? Em pequena, minha família por brincadeira chamava-me de “a protetora dos animais”. Porque bastava acusarem uma pessoa para eu imediatamente defendê-la. E eu sentia o drama social com tanta intensidade que vivia de coração perplexo diante das grandes injustiças a que são submetidas as chamadas classes menos privilegiadas.</p><p class=\"fonte\">LISPECTOR, C. Aprendendo a viver. Rio de Janeiro: Rocco Digital, 2013.</p><p>A reflexão contida no texto faz referência aos pressupostos de uma doutrina ética representada pelo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "estado eudaimônico.",
+    "B": "referencial hedonista.",
+    "C": "pensamento altruísta.",
+    "D": "movimento antiespecista.",
+    "E": "comportamento pragmático."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Clarice diz que gostaria de ter sido “uma pessoa que luta pelo bem dos outros”, que defendia quem fosse acusado e sofria com as injustiças contra os menos privilegiados. Agir em vista do bem do outro é o centro do <strong>pensamento altruísta</strong>. Alternativa <strong>C</strong>.</p><p>O texto não busca a felicidade própria (A) nem o prazer (B). O apelido de “protetora dos animais” é brincadeira da família, não defesa antiespecista (D), e não há cálculo prático de resultados (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "altruísmo",
+    "Clarice Lispector"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "Filosofia",
+   "assunto": "Escola de Frankfurt",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p class=\"apoio\">Independência de pensamento, autonomia e direito à oposição política estão perdendo sua função crítica básica numa sociedade que parece cada vez mais capaz de atender às necessidades dos indivíduos através da forma pela qual é organizada. Nas condições de um padrão de vida crescente, o não conformismo com o próprio sistema parece socialmente inútil, principalmente quando acarreta desvantagens econômicas e políticas tangíveis e ameaça o funcionamento suave do todo.</p><p class=\"fonte\">MARCUSE, H. Ideologia da sociedade industrial. Rio de Janeiro: Zahar, 1969.</p><p>Qual é a característica da sociedade industrial do século XX apresentada no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Gestão integrada.",
+    "B": "Relativismo moral.",
+    "C": "Desobediência civil.",
+    "D": "Realidade unidimensional.",
+    "E": "Desenvolvimento tecnológico."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Marcuse diz que a sociedade industrial, ao satisfazer necessidades e elevar o padrão de vida, faz a crítica e a oposição parecerem inúteis. O pensamento perde a dimensão crítica e aceita o sistema como o único possível: é a <strong>sociedade unidimensional</strong> (título original da obra). Alternativa <strong>D</strong>.</p><p>O texto fala do conformismo, não de desobediência (C), e não trata de gestão integrada (A), relativismo moral (B) ou tecnologia em si (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Marcuse",
+    "indústria cultural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "Geografia",
+   "assunto": "Questão agrária",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "<p class=\"apoio\">Do ponto de vista administrativo e judicial, a desapropriação da fazenda Cabaceiras, localizada na região sul do estado do Pará, é a primeira da história motivada pelo desrespeito à função social de um imóvel rural, como prevê a Constituição Federal de 1988, em decorrência da exploração de “trabalho em condições análogas à escravidão”. Na realidade, essa desapropriação não se deu apenas pela ocorrência de relações de trabalho extremamente degradantes, mas também pelas graves infrações ambientais verificadas na fazenda — o que também configura um ataque à função social da terra, de acordo com os preceitos constitucionais.</p><p class=\"fonte\">BARROS, C. J. A conquista da fazenda Cabaceiras. Disponível em: www.agb.org.br. Acesso em: 15 maio 2023.</p><p>O texto considera a promoção da justiça como um mecanismo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "manutenção da ordem agrária.",
+    "B": "legitimação da propriedade privada.",
+    "C": "hegemonia das classes dominantes.",
+    "D": "revisão das desigualdades econômicas.",
+    "E": "homogeneização da distribuição fundiária."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A fazenda foi desapropriada por não cumprir a função social da terra, com trabalho análogo à escravidão e crimes ambientais. Retirar a terra de quem a usa assim e destiná-la à reforma agrária é uma forma de <strong>revisão das desigualdades econômicas</strong>. Alternativa <strong>D</strong>.</p><p>A medida limita a propriedade, não a legitima (B), e contraria a ordem agrária e as classes dominantes (A e C). Uma desapropriação isolada não homogeneíza a distribuição de terras (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função social da terra",
+    "reforma agrária"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\">Salvador, capital do estado da Bahia.</p><p class=\"fonte\">Disponível em: https://mundoeducacao.uol.com.br. Acesso em: 20 out. 2023.</p><p>A análise dos elementos presentes na fotografia permite identificar qual característica socioespacial?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-humanas/q68.webp",
+     "alt": "Fotografia aérea de Salvador: em primeiro plano, o Farol da Barra sobre um forte numa ponta de terra cercada de mar e rochas; atrás, ao longo da orla e até o horizonte, uma grande concentração de edifícios altos."
+    }
+   ],
+   "alternativas": {
+    "A": "Estagnação da especulação imobiliária.",
+    "B": "Conservação da arquitetura colonial.",
+    "C": "Implantação de moradias populares.",
+    "D": "Predomínio da atividade comercial.",
+    "E": "Processo de verticalização urbana."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A foto do Farol da Barra, em Salvador, mostra atrás do forte uma massa contínua de prédios altos, até o horizonte. A característica é o <strong>processo de verticalização urbana</strong>. Alternativa <strong>E</strong>.</p><p>Os prédios novos indicam especulação imobiliária ativa (A). Só o forte é colonial (B), não se veem conjuntos populares (C), e a imagem não permite dizer que o comércio predomina (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Salvador",
+    "verticalização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p class=\"apoio\">A difusão pelos cônegos do ideal apostólico, bem como a influência dos eremitas e dos pregadores errantes que na sua esteira propagavam temas evangélicos, contribuíram para fazer nascer, entre os fiéis, o desejo de se erguerem ao nível espiritual do clero e de obterem a sua salvação, sem que para isso tivessem de renunciar ao seu estado. Pela primeira vez, a Igreja entreabria as portas da graça em benefício da totalidade dos fiéis, colocando, como única condição, a sua partida para o Oriente, a fim de aí lutarem contra os inimigos de Cristo.</p><p class=\"fonte\">VAUCHEZ, A. A espiritualidade da Idade Média Ocidental, séc. VIII-XIII. Lisboa: Estampa, 1995.</p><p>Conforme o texto, no imaginário dos fiéis cristãos do período medieval, a salvação era alcançada por meio das</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "palavras escritas.",
+    "B": "práticas litúrgicas.",
+    "C": "ações voluntárias.",
+    "D": "ideias messiânicas.",
+    "E": "celebrações coletivas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que a Igreja abriu “as portas da graça” a todos os fiéis com uma única condição: partir para o Oriente e lutar contra os inimigos de Cristo. São as Cruzadas, em que a salvação vinha de um gesto pessoal, a decisão de partir: <strong>ações voluntárias</strong>. Alternativa <strong>C</strong>.</p><p>O caminho apontado não é a leitura (A), a liturgia (B), a espera messiânica (D) nem as festas coletivas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Cruzadas",
+    "religiosidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "Geografia",
+   "assunto": "Geomorfologia",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p class=\"apoio\">Nos Estados Unidos, um hotel perto de um parque foi engolido por uma enorme cratera. E não é a primeira vez que esse tipo de incidente acontece na Flórida. Em minutos, uma ala inteira do hotel era engolida pela cratera de 30 metros de diâmetro e cinco de profundidade. O diretor do resort em Clermont, perto dos parques temáticos da Flórida, diz que o prédio tinha 15 anos, e que até então o solo nunca havia apresentado problemas. Os afundamentos são um fenômeno comum na Flórida por causa das formações de calcário e argila no subsolo, mas às vezes chuvas fortes, ou a drenagem do solo para construção, acabam contribuindo para o surgimento desses buracos.</p><p class=\"fonte\">Disponível em: http://g1.globo.com. Acesso em: 10 dez. 2024 (adaptado).</p><p>A situação de desmoronamento do solo descrita no texto origina-se da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "cristalização da estrutura geológica.",
+    "B": "ação do intemperismo químico.",
+    "C": "recomposição da mata ciliar.",
+    "D": "acumulação de sedimentos orgânicos.",
+    "E": "impermeabilização da superfície ocupada."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As crateras da Flórida (dolinas) surgem porque a água da chuva, levemente ácida, dissolve o calcário do subsolo e abre cavidades que acabam desabando. Essa dissolução é <strong>intemperismo químico</strong>. Alternativa <strong>B</strong>.</p><p>Não há cristalização (A), mata ciliar (C) ou acúmulo de sedimentos orgânicos (D). Impermeabilizar a superfície (E) pode agravar a drenagem, mas não é a origem do fenômeno.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "relevo cárstico",
+    "dolinas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "História",
+   "assunto": "Patrimônio",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p class=\"apoio\">Moradores de Berlim protestaram contra a demolição de um trecho do muro que dividiu a cidade durante quase três décadas. Tratado como patrimônio cultural e histórico da cidade, o East Side Gallery, repleto de grafites emblemáticos, está na mira de uma construtora que pretende levantar um condomínio de luxo às margens do Rio Spree, que corta a cidade.</p><p class=\"fonte\">ALMEIDA, R. Alemães impedem demolição de último trecho original do muro de Berlim. Disponível em: http://operamundi.uol.com.br. Acesso em: 2 fev. 2021 (adaptado).</p><p>A demolição do símbolo histórico mencionado representa uma</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "violação da memória coletiva.",
+    "B": "alteração das fronteiras políticas.",
+    "C": "adesão à arquitetura neoclássica.",
+    "D": "negação das influências orientais.",
+    "E": "reorganização da mobilidade urbana."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O East Side Gallery é tratado como patrimônio cultural e histórico: guarda a lembrança da divisão de Berlim e da Guerra Fria. Demoli-lo para um condomínio de luxo apagaria esse registro, uma <strong>violação da memória coletiva</strong>. Alternativa <strong>A</strong>.</p><p>As fronteiras já não existem (B), e o texto não trata de estilos de arquitetura (C), influências orientais (D) ou mobilidade (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Muro de Berlim",
+    "memória"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 27,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Em conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos. (Fragmento B10)</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Deus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. (Fragmento B67)</p><p class=\"fonte\">Pré-socráticos. São Paulo: Nova Cultural, 1996.</p><p>A característica do pensamento do filósofo Heráclito, registrada nos fragmentos mencionados, é a ênfase na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "qualidade imperecível do mundo.",
+    "B": "degradação material da natureza.",
+    "C": "imobilidade imanente do universo.",
+    "D": "distribuição dicotômica do cosmos.",
+    "E": "desordem incontornável das coisas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Nos fragmentos, Heráclito junta pares de opostos, como dia e noite, guerra e paz, unido e separado, e diz que eles formam uma só realidade. O cosmos se organiza pela tensão entre contrários, numa <strong>distribuição dicotômica</strong> que é também unidade. Alternativa <strong>D</strong>.</p><p>Para Heráclito tudo muda, então o mundo não é imperecível nem imóvel (A e C). A tensão dos opostos é ordem (o <em>logos</em>), não desordem (E), e não há degradação material (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Heráclito",
+    "pré-socráticos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 28,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p class=\"apoio\">Entre esses preconceitos estava o canibalismo. A prática não era, porém, uma mentira, uma invenção europeia, mas um ritual controlado por regras. Entre os tupis, por exemplo, os guerreiros se sentiam honrados quando morriam em um banquete canibal. Para os europeus, no entanto, comer carne humana era abominável, pois nem mesmo os leões ingeriam seus semelhantes. Portanto, para os conquistadores, o canibalismo era sinônimo de barbarismo e da incapacidade de se autogovernar.</p><p class=\"fonte\">RAMINELLI, R. Canibalismo para alemão ver. In: FIGUEIREDO, L. (Org.). História do Brasil para ocupados. Rio de Janeiro: Casa da Palavra, 2013 (adaptado).</p><p>No texto, europeus e ameríndios atribuíram à prática relatada, respectivamente, o significado de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "selvageria — empoderamento.",
+    "B": "impetuosidade — resistência.",
+    "C": "fanatismo — humilhação.",
+    "D": "intolerância — violência.",
+    "E": "repressão — justiça."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Para os europeus, comer carne humana era sinal de barbárie, de <strong>selvageria</strong>. Para os tupis, era um ritual com regras, e morrer num banquete canibal era uma honra para o guerreiro: o ritual conferia prestígio e força, <strong>empoderamento</strong>. Alternativa <strong>A</strong>.</p><p>Para os tupis, o ritual não era humilhação, violência sem regra ou justiça penal (C, D e E), e os europeus não o viam como impetuosidade ou intolerância (B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "antropofagia",
+    "tupis"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "Sociologia",
+   "assunto": "Religião",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "<p class=\"apoio\">Fragmentada em pequenos grupos, fragilizada pela ausência de algum tipo de organização ampla, tendo que carregar o peso do preconceito racial que se transfere do negro para a cultura negra, a religião dos orixás tem poucas chances de se sair melhor na competição — desigual — com outras religiões. Silenciosamente, assistimos hoje a um verdadeiro massacre das religiões afro-brasileiras.</p><p class=\"fonte\">PRANDI, R. O Brasil com axé. Estudos Avançados, n. 52, dez. 2004.</p><p>No processo de invisibilização dos cultos afro-brasileiros, o texto associa os seguintes elementos essenciais:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ausência de soluções partidárias e rejeição da laicidade.",
+    "B": "Precariedade de coesão representativa e recusa da alteridade.",
+    "C": "Insuficiência de estruturas decisórias e exclusão da dialogicidade.",
+    "D": "Inexistência de direitos constitucionais e negação do ecumenismo.",
+    "E": "Efemeridade das relações políticas e debilidade do pertencimento étnico."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Prandi aponta duas causas: as religiões dos orixás estão “fragmentadas em pequenos grupos”, sem “organização ampla” que as represente, e carregam o “preconceito racial” transferido do negro para a cultura negra. São a <strong>precariedade de coesão representativa</strong> e a <strong>recusa da alteridade</strong>. Alternativa <strong>B</strong>.</p><p>O texto não fala de partidos (A), de estruturas decisórias ou de diálogo (C), de direitos constitucionais (D) ou de pertencimento étnico frágil (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "religiões afro-brasileiras",
+    "intolerância religiosa"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 30,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p class=\"apoio\">A partir do século XIX e, principalmente, no século XX, iniciou-se o uso de produtos sintéticos na agricultura. No Brasil, a partir da década de 1960 e, posteriormente, nos anos 1970, os inseticidas ampliam sua fatia no mercado dos defensivos agrícolas.</p><p class=\"fonte\">TROPPMAIR, H. Biogeografia e meio ambiente. Rio de Janeiro: TB, 2012 (adaptado).</p><p>Nos espaços agrícolas, a mudança técnica descrita provocou a diminuição da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "desagregação de camadas pedológicas.",
+    "B": "diversidade de polinizadores naturais.",
+    "C": "contaminação de lençóis freáticos.",
+    "D": "produtividade da terra cultivada.",
+    "E": "ocorrência da erosão laminar."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Inseticidas sintéticos matam não só as pragas, mas também insetos úteis, como abelhas e outros polinizadores. O efeito é a queda da <strong>diversidade de polinizadores naturais</strong>. Alternativa <strong>B</strong>.</p><p>Agrotóxicos aumentam a contaminação da água, não a diminuem (C). Eles não reduzem a erosão nem a desagregação do solo (A e E), e foram adotados para aumentar a produtividade (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "agrotóxicos",
+    "biodiversidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "Filosofia",
+   "assunto": "Filosofia política",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p class=\"apoio\">Os direitos do homem constituem uma classe variável, como a história destes últimos séculos demonstra suficientemente. O elenco dos direitos do homem se modificou, e continua a se modificar, com a mudança das condições históricas, ou seja, dos carecimentos e dos interesses, das classes no poder, dos meios disponíveis para a realização dos mesmos, das transformações técnicas. Direitos que foram declarados absolutos no final do século XVIII foram submetidos a radicais limitações nas declarações contemporâneas; direitos que as declarações do século XVIII nem sequer mencionavam, como os direitos sociais, são agora proclamados com grande ostentação nas recentes declarações.</p><p class=\"fonte\">BOBBIO, N. A era dos direitos. Rio de Janeiro: Elsevier, 2004.</p><p>Os argumentos apresentados no texto sustentam que os direitos humanos são variáveis porque os considera como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fenômenos espontâneos.",
+    "B": "conquistas atemporais.",
+    "C": "convenções coletivas.",
+    "D": "resquícios religiosos.",
+    "E": "imposições políticas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Bobbio mostra que a lista de direitos muda com as condições históricas, os interesses e as classes no poder. Se mudam conforme o que cada sociedade reconhece em cada época, os direitos humanos são construções históricas, acordadas pelos homens: <strong>convenções coletivas</strong>. Alternativa <strong>C</strong>.</p><p>O texto nega que sejam atemporais (B) ou espontâneos (A); não fala de origem religiosa (D); e não os reduz a imposição de quem governa (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Bobbio",
+    "direitos humanos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "Geografia",
+   "assunto": "Recursos naturais",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Carro elétrico, uma miragem ecológica</strong></p>[[fig:1]]<p class=\"apoio\">A mudança para a eletromobilidade de fato promove uma alteração no consumo de recursos naturais. Hoje, amplamente dependentes do petróleo, nossos modais de transporte poderiam se tornar cada vez mais dependentes de trinta metais raros. Gálio, tântalo, cobalto, platinoides, tungstênio, metais de terras-raras: uma mina contém apenas ínfimas quantidades desses metais dotados de fabulosas propriedades eletrônicas, ópticas e magnéticas.</p><p class=\"fonte\">PITRON, G. Revolução tecnológica, transformação geopolítica. Disponível em: https://diplomatique.org.br. Acesso em: 10 dez. 2018.</p><p>No que se refere ao desenvolvimento sustentável, a charge e o texto indicam uma contradição no uso da tecnologia alternativa derivada do seguinte aspecto:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-humanas/q77.webp",
+     "alt": "Charge de Adão em dois quadros separados por uma parede. À esquerda, num dia ensolarado e arborizado, um homem de gravata sorri ao lado de seu carro elétrico verde, ligado na tomada por um fio vermelho. À direita, o mesmo fio atravessa a parede até um ambiente escuro, coberto de fumaça e lixo, onde duas figuras sujas e cansadas carregam o fio até a tomada."
+    }
+   ],
+   "alternativas": {
+    "A": "Necessidade de fontes não renováveis.",
+    "B": "Padronização dos modelos produtivos.",
+    "C": "Demanda de mão de obra qualificada.",
+    "D": "Precariedade da legislação industrial.",
+    "E": "Utilização de materiais recicláveis."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na charge, o carro elétrico parece limpo, mas o fio que o alimenta vem de um ambiente sujo e esfumaçado, mantido por trabalho pesado. O texto completa: os carros elétricos dependem de metais raros extraídos em mineração, recursos que se esgotam. A contradição é a <strong>necessidade de fontes não renováveis</strong>. Alternativa <strong>A</strong>.</p><p>Não se fala de padronização (B), mão de obra qualificada (C) ou legislação (D), e os metais raros não são apresentados como recicláveis (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "carro elétrico",
+    "mineração"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p class=\"apoio\">A Roda dos Expostos de Salvador (Bahia) data de 1726 e foi uma das instituições implantadas com o objetivo de acolher e prover um encaminhamento para a criança recém-nascida abandonada. Essa assistência fundamentava-se em práticas caritativas, paternalistas e imediatistas que visavam ao cuidado básico da criança e, especialmente, à salvação da sua alma, via batismo, devido à alta mortalidade.</p><p class=\"fonte\">BORRIONE, R.; CHAVES, A. M. Análise documental e contexto de desenvolvimento. Disponível em: www.scielo.br. Acesso em: 15 ago. 2013.</p><p>A instituição apresentada no texto justificava-se pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "defesa de direitos humanos.",
+    "B": "preceito de natureza sociorreligiosa.",
+    "C": "reconhecimento de vínculos familiares.",
+    "D": "discurso de cunho técnico-científico.",
+    "E": "ideologia de caráter abolicionista."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A Roda dos Expostos se baseava em caridade e buscava “especialmente a salvação da alma” da criança pelo batismo. Era uma instituição de assistência movida pela religião: <strong>preceito de natureza sociorreligiosa</strong>. Alternativa <strong>B</strong>.</p><p>A ideia de direitos humanos e o discurso científico são posteriores (A e D); a Roda garantia o anonimato, sem reconhecer vínculos familiares (C); e não há relação com o abolicionismo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "infância",
+    "Igreja"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 34,
+   "materia": "Filosofia",
+   "assunto": "Ética",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p class=\"apoio\">A missão dos governantes consiste em promover a felicidade da sociedade, punindo e recompensando. A parte da missão de governo que consiste em punir constitui mais particularmente o objeto da lei penal. A obrigatoriedade ou necessidade de punir uma ação é proporcional à medida que tal ação tende a perturbar a felicidade e à medida que a tendência do referido ato é perniciosa. A felicidade consiste naquilo que já vimos, ou seja, em desfrutar prazeres e em estar isento de dores.</p><p class=\"fonte\">BENTHAM, J. Uma introdução aos princípios da moral e da legislação. São Paulo: Abril Cultural, 1974 (adaptado).</p><p>Qual perspectiva de justiça emerge da relação, estabelecida no texto, entre punição e felicidade?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Aplicação de meios para atingir um fim.",
+    "B": "Imposição de regras para estabelecer um dever.",
+    "C": "Sobreposição de princípios para fundamentar um direito.",
+    "D": "Criação de parâmetros para reconhecer uma prescrição.",
+    "E": "Elaboração de convenções para referendar um costume."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Para Bentham, a punição só se justifica na medida em que protege a felicidade da sociedade: ela é um instrumento para maximizar o prazer e reduzir a dor. É a lógica utilitarista da <strong>aplicação de meios para atingir um fim</strong>. Alternativa <strong>A</strong>.</p><p>A justiça não vem de um dever em si (B), de princípios de direito (C), de prescrições (D) ou de costumes (E), e sim das consequências.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Bentham",
+    "utilitarismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p class=\"apoio\">Cidade sustentável é o assentamento humano constituído por uma sociedade com consciência de seu papel de agente transformador dos espaços e cuja relação não se dá pela razão natureza-objeto, e sim por uma ação sinérgica entre prudência ecológica, eficiência energética e equidade socioespacial.</p><p class=\"fonte\">ROMERO, M. Frentes do urbano para a construção de indicadores de sustentabilidade intraurbana. Paranoá, n. 4, nov. 2007.</p><p>Uma medida pública que contradiz o modelo de cidade exposto no texto é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "coleta seletiva de lixo.",
+    "B": "reutilização das águas pluviais.",
+    "C": "canalização dos cursos hídricos.",
+    "D": "arborização das avenidas centrais.",
+    "E": "educação ambiental da comunidade."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A cidade sustentável do texto busca prudência ecológica, sem tratar a natureza como objeto. <strong>Canalizar rios</strong> faz o oposto: tira a vegetação das margens, impermeabiliza, acelera a água e aumenta as enchentes. Alternativa <strong>C</strong>.</p><p>Coleta seletiva, reúso da água da chuva, arborização e educação ambiental (A, B, D e E) estão de acordo com o modelo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cidade sustentável",
+    "rios urbanos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "Sociologia",
+   "assunto": "Gênero",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p class=\"apoio\">Em decorrência da naturalização da inferioridade social da mulher e da concepção de justiça do Estado, baseada na igualdade abstratamente concebida, torna-se possível convencer o Estado burguês a conceber e implementar políticas públicas cujo conteúdo se define pela discriminação positiva de mulheres, embora isso aparentemente seja paradoxal.</p><p class=\"fonte\">SAFFIOTI, H.; ALMEIDA, S. S. Violência de gênero, poder e impotência. Rio de Janeiro: Revinter, 1995 (adaptado).</p><p>No contexto atual, qual medida atende ao tipo de política pública abordada no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ampliação do sufrágio universal.",
+    "B": "Diminuição da jornada de trabalho.",
+    "C": "Extinção do crime de feminicídio.",
+    "D": "Redução da licença-maternidade.",
+    "E": "Criação de delegacia especializada."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As autoras falam de políticas de <strong>discriminação positiva</strong>: tratamento diferenciado para mulheres, para compensar a desigualdade real. Um exemplo atual é a <strong>delegacia especializada</strong> de atendimento à mulher. Alternativa <strong>E</strong>.</p><p>O sufrágio universal e a redução de jornada valem para todos (A e B). Extinguir o crime de feminicídio e reduzir a licença-maternidade prejudicariam as mulheres (C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "políticas afirmativas",
+    "violência de gênero"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p class=\"apoio\">A cidade justa é governada pelos filósofos, administrada pelos cientistas, protegida pelos guerreiros e mantida pelos produtores. Cada classe cumprirá sua função para o bem da pólis, racionalmente dirigida pelos filósofos. Em contrapartida, a cidade injusta é aquela onde o governo está nas mãos dos proprietários — que não pensam no bem comum da pólis e lutarão por interesses econômicos particulares.</p><p class=\"fonte\">CHAUÍ, M. Convite à filosofia. São Paulo: Ática, 2000.</p><p>O texto apresenta a estrutura de governo da cidade ideal pensada por Platão, que postula uma indissociabilidade entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "cognoscência e relação intersubjetiva.",
+    "B": "mitologia e teorias cosmogônicas.",
+    "C": "cidadania e primazia da retórica.",
+    "D": "moralidade e virtudes cardeais.",
+    "E": "ética e exercício do poder."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para Platão, a cidade é justa quando governada por quem conhece o bem, o filósofo, e injusta quando governada por proprietários que só pensam em interesses particulares. A boa política depende da virtude de quem governa: há indissociabilidade entre <strong>ética e exercício do poder</strong>. Alternativa <strong>E</strong>.</p><p>O texto não trata de intersubjetividade (A), de mitos cosmogônicos (B) nem de retórica, que Platão criticava (C). As virtudes aparecem ligadas ao governo, não sozinhas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Platão",
+    "República"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 38,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p class=\"apoio\">A Impressão Régia do Rio de Janeiro foi criada pelo decreto de 13 de maio de 1808 para dar continuidade à nova sede do império português. A nova tipografia é criada em um momento no qual o projeto de reforma do império se transforma em um projeto de construção de um novo império português na América. Frente às tensões políticas que essa nova situação criava, a tipografia atuou na legitimação e sustentação daquele projeto político.</p><p class=\"fonte\">BARRA, S. H. S. A Impressão Régia do Rio de Janeiro e a colonização dos sertões na construção do novo império português na América (1808-1822). Topoi, n. 31, jul.-dez. 2015 (adaptado).</p><p>A função política da tecnologia mencionada no texto favoreceu a nova sede do Império português por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "estabelecer as normativas ideológicas aos periódicos.",
+    "B": "propagar as diretrizes administrativas às capitanias.",
+    "C": "divulgar as conquistas às metrópoles europeias.",
+    "D": "integrar as regiões territoriais ao poder central.",
+    "E": "difundir as publicações às elites lusitanas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Impressão Régia sustentava o projeto de um novo império português na América, com sede no Rio de Janeiro, e o título do artigo fala da “colonização dos sertões”. Imprimir e espalhar atos, leis e notícias do governo ajudava a <strong>integrar as regiões territoriais ao poder central</strong>. Alternativa <strong>D</strong>.</p><p>O objetivo era sustentar o poder na América, não dar notícias à Europa ou às elites de Lisboa (C e E). Também não se tratava de normas para periódicos (A), e as capitanias eram só parte do território (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "período joanino",
+    "imprensa"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "Geografia",
+   "assunto": "Recursos naturais",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p class=\"apoio\">Com o objetivo de auxiliar a prevenção e o combate a incêndios no Cerrado, o Centro de Sensoriamento Remoto da Universidade Federal de Minas Gerais (UFMG) desenvolveu um modelo computacional capaz de prever o comportamento do fogo. Essa tecnologia integra o projeto Monitoramento do Cerrado, do qual também participa o Instituto Nacional de Pesquisas Espaciais (Inpe). O instituto produz e processa dados de satélite sobre focos de calor para determinar a localização de incêndios no bioma. Esses focos são o ponto de ignição para o modelo desenvolvido na UFMG: com base em outros dados, como relevo, ventos, umidade e biomassa seca, a ferramenta estima as áreas com maior risco de incêndio e prevê a intensidade e a direção de propagação do fogo no Cerrado brasileiro.</p><p class=\"fonte\">LAGES, L. Tecnologia antiqueimada. Revista Minas Faz Ciência, n. 84, dez. 2020 – jan.-fev. 2021 (adaptado).</p><p>Em relação à causa ambiental, o uso da tecnologia mencionada indica a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "influência da produção orgânica.",
+    "B": "relevância da infraestrutura viária.",
+    "C": "significância da cosmologia nativa.",
+    "D": "importância de pesquisas acadêmicas.",
+    "E": "interferência de interesses estrangeiros."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O modelo que prevê o comportamento do fogo no Cerrado foi criado por um centro da UFMG, com dados do Inpe. A tecnologia mostra a <strong>importância das pesquisas acadêmicas</strong> para a proteção ambiental. Alternativa <strong>D</strong>.</p><p>O texto não fala de produção orgânica (A), rodovias (B), saberes indígenas (C) ou interesses estrangeiros (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Cerrado",
+    "sensoriamento remoto"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">O cinema constituía um encanto indefinível: além do entretenimento delicioso das vidas alheias por meio dos filmes, o pretexto amável para os encontros de olhos, para a mostra dos vestidos, para as tagarelices com as vizinhas de cadeiras.</p><p class=\"fonte\">SETTE, M. Anquinhas e bernardas. São Paulo: Livraria Martins, 1940 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">O pouco caso na seleção dos filmes para serem exibidos nos espetáculos diurnos tem sido causa de inúmeros dissabores sofridos pelos progenitores que levam os seus filhos ao cinema para recreá-los. Em toda parte, tanto nas casas de famílias como nos colégios, só se ouve a petizada falar em fitas, em artistas cinematográficos, nas proezas de William Hart ou nas façanhas de Mutt.</p><p class=\"fonte\">O cinema e a criança. Diário de Pernambuco. 29 ago. 1925 (adaptado).</p><p>Publicados na primeira metade do século XX, os textos apresentam</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "conclusões semelhantes sobre o mesmo suporte midiático.",
+    "B": "argumentos contrários sobre o mesmo tipo de diversão.",
+    "C": "discursos contraditórios sobre a mesma didática escolar.",
+    "D": "regras teológicas acerca de um mesmo recurso pedagógico.",
+    "E": "justificativas idênticas acerca de um mesmo aspecto cultural."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto I elogia o cinema como encanto, diversão e lugar de encontro social. O texto II reclama dos filmes mostrados às crianças e dos “dissabores” dos pais. São <strong>argumentos contrários sobre o mesmo tipo de diversão</strong>. Alternativa <strong>B</strong>.</p><p>As conclusões não são iguais (A e E), e os textos não tratam de didática escolar (C) nem de regras religiosas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cinema",
+    "cotidiano"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Geografia",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Pesquisa pioneira no Brasil propõe o uso de energia do solo para climatizar edifícios</strong></p><p class=\"apoio\">Pela primeira vez na história, o Brasil terá um prédio que usa energia do solo para climatizar seus ambientes. Uma pesquisa inovadora avaliou o uso das fundações de edifícios como meio para a troca de energia térmica entre o prédio e o subsolo. A energia geotérmica é aquela encontrada dentro da crosta terrestre, seja no solo, nas rochas ou mesmo na água, sendo identificada pela temperatura. Essa energia pode ser transferida para a superfície por processos de troca térmica a partir das fundações da edificação.</p><p class=\"fonte\">Disponível em: https://jornal.usp.br. Acesso em: 7 nov. 2021 (adaptado).</p><p>Para o sistema elétrico brasileiro, a expansão de tecnologias como a descrita no texto representa uma tendência de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "homogeneização da oferta da matriz produtiva.",
+    "B": "ampliação do consumo em unidades residenciais.",
+    "C": "redução da pressão sobre as usinas hidrelétricas.",
+    "D": "estagnação do consumo em unidades industriais.",
+    "E": "superação da necessidade de recursos renováveis."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Climatizar prédios com a energia térmica do subsolo reduz o uso de ar-condicionado e, com ele, o consumo de eletricidade. Como a maior parte da eletricidade brasileira vem das hidrelétricas, a tendência é a <strong>redução da pressão sobre as usinas hidrelétricas</strong>. Alternativa <strong>C</strong>.</p><p>A tecnologia diversifica a matriz em vez de homogeneizá-la (A), diminui o consumo (B), não trata da indústria (D) e é ela própria um recurso renovável (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia geotérmica",
+    "matriz elétrica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 42,
+   "materia": "História",
+   "assunto": "Roma Antiga",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "<p class=\"apoio\">Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses.</p><p class=\"fonte\">COULANGES, F. A cidade antiga. São Paulo: Martins Fontes, 2000.</p><p>A conjuntura sociopolítica da Roma Antiga, conforme apresentada no texto, foi contestada pelos</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "monarcas, que queriam expandir o código jurídico.",
+    "B": "plebeus, que almejavam participar da vida política.",
+    "C": "nobres, que desejavam superar a relação de dependência.",
+    "D": "camponeses, que aspiravam diminuir a jornada de trabalho.",
+    "E": "estrangeiros, que ambicionavam acessar os espaços públicos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Sem leis escritas, os patrícios manipulavam a justiça. Foram os <strong>plebeus</strong> que lutaram contra isso, e uma de suas conquistas foi a Lei das Doze Tábuas (c. 450 a.C.), a primeira legislação escrita de Roma, dentro da luta mais ampla por participação política (tribunos da plebe, acesso às magistraturas). Alternativa <strong>B</strong>.</p><p>Os reis já não governavam na República (A); os nobres eram os próprios patrícios (C); e estrangeiros ou camponeses lutando por jornada de trabalho não fazem parte desse conflito (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "patrícios e plebeus",
+    "Lei das Doze Tábuas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 43,
+   "materia": "Sociologia",
+   "assunto": "Povos indígenas",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p class=\"apoio\">Os povos indígenas têm o direito de manter, controlar, proteger e desenvolver seu patrimônio cultural, seus conhecimentos do passado, suas expressões culturais e as manifestações de suas ciências, tecnologias e culturas, compreendidos os recursos humanos e genéticos, as sementes, os medicamentos, o conhecimento das propriedades da fauna e da flora, as transmissões orais, as literaturas, os desenhos, os esportes, os jogos e as artes visuais e interpretativas.</p><p class=\"fonte\">Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas. 107ª Sessão Plenária, 13 de setembro de 2007. Disponível em: www.un.org. Acesso em: 18 abr. 2015 (adaptado).</p><p>Os direitos reconhecidos no texto representam a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "multiplicidade dos troncos linguísticos.",
+    "B": "ampliação das influências externas.",
+    "C": "complexidade dos saberes tradicionais.",
+    "D": "sofisticação das práticas de sobrevivência.",
+    "E": "diversificação da economia de subsistência."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A declaração protege ciências, tecnologias, sementes, medicamentos, conhecimento da fauna e da flora, tradições orais e artes dos povos indígenas. O conjunto mostra a <strong>complexidade dos saberes tradicionais</strong>. Alternativa <strong>C</strong>.</p><p>O texto não fala de troncos linguísticos (A) nem de influências externas (B), e vai muito além da sobrevivência ou da economia (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "direitos indígenas",
+    "patrimônio cultural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "História",
+   "assunto": "Religião",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Eu escolhi Bezalel e lhe dei competência e habilidade para fazer todo tipo de trabalho artístico; para fazer desenhos e trabalhar em ouro, prata e bronze; para lapidar e montar pedras preciosas; para entalhar madeira; e para fazer todo tipo de artesanato.</p><p class=\"fonte\">BÍBLIA. Êxodo 31, 2-5. São Paulo: Paulinas, 2005.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Moisés foi educado em toda a sabedoria dos egípcios e veio a ser poderoso em palavras e obras.</p><p class=\"fonte\">BÍBLIA. Atos 7, 22. São Paulo: Paulinas, 2005.</p><p class=\"apoio\"><strong>TEXTO III</strong></p><p class=\"apoio\">Se conhecêsseis a ciência certa, logo renunciarias à ostentação.</p><p class=\"fonte\">ALCORÃO. Sura 102, 5. São Paulo: Tangará, 1975.</p><p>Escritos em temporalidades diferentes (Antiguidade e Idade Média), os textos sagrados aproximam-se ao mostrar o papel da ciência para o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "emergência das universidades e escolas confessionais.",
+    "B": "crescimento religioso e movimentos sectários.",
+    "C": "avanço da intolerância e rivalidades nacionais.",
+    "D": "preservação das tradições e rituais místicos.",
+    "E": "desenvolvimento social e práticas laborais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os três textos sagrados valorizam o saber: Bezalel recebe habilidade para todo tipo de artesanato, Moisés é instruído na sabedoria egípcia e é “poderoso em obras”, e o Alcorão diz que a ciência afasta a ostentação. O conhecimento aparece ligado ao trabalho e à vida em sociedade: <strong>desenvolvimento social e práticas laborais</strong>. Alternativa <strong>E</strong>.</p><p>Os textos não falam de universidades (A), seitas (B), intolerância (C) ou rituais místicos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "textos sagrados",
+    "conhecimento"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "História",
+   "assunto": "Imperialismo",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p class=\"apoio\">Em 1914, uma expedição estudantil saiu da Rússia em direção à América do Sul, sendo considerada a segunda campanha científica da Rússia no continente depois da longa viagem do barão Langsdorff pelo interior do Brasil na primeira metade do século XIX. O empreendimento foi enviado pelo Museu de Antropologia e Etnografia de São Petersburgo e integrado por cinco jovens cientistas, sendo dois zoólogos, dois etnógrafos e um antropólogo, cujo objetivo era a coleta de material de valor biológico e etnográfico para compor coleções nas instituições que participaram de seu financiamento. A expedição passou por países como Brasil, Paraguai e Argentina, resultando em amplo material manuscrito e algumas publicações, além dos objetos coletados.</p><p class=\"fonte\">CARNEIRO, L. A. F. A Rússia no Brasil do início do século XX. Rio de Janeiro: Casa de Oswaldo Cruz, 2015 (adaptado).</p><p>Além do significado científico, o evento mencionado conectava-se a um projeto nacionalista de caráter</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "imperialista e colonizador.",
+    "B": "militar e disciplinador.",
+    "C": "lúdico e filantrópico.",
+    "D": "mercantil e predatório.",
+    "E": "religioso e humanitário."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No começo do século XX, as potências europeias organizavam expedições para coletar objetos e espécimes e levar a seus museus: o conhecimento sobre outros povos e territórios servia ao prestígio e à expansão nacional. A expedição russa fazia parte desse projeto <strong>imperialista e colonizador</strong>. Alternativa <strong>A</strong>.</p><p>Não era uma expedição militar (B), filantrópica (C), comercial (D) ou religiosa (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "expedições científicas",
+    "Rússia"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

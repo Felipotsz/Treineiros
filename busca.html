@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#06191F">
+<link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/simulado.css"><link rel="stylesheet" href="css/estudo.css"><link rel="stylesheet" href="css/busca.css"><link rel="stylesheet" href="css/acessibilidade.css">
+<script src="js/theme.js"></script>
+<title>Buscar questões | Treineiros</title>
+</head>
+<body>
+<main id="conteudo" class="pag busca">
+  <section class="faixa faixa--centro" aria-labelledby="titulo">
+    <div class="faixa__in">
+      <p class="sobretitulo" id="b-total">Questões de todas as provas</p>
+      <h1 id="titulo">O que você quer <em>treinar hoje?</em></h1>
+      <form id="f-busca" class="busca__form" role="search" onsubmit="return false">
+        <label for="b-texto" class="sr">Buscar um assunto ou uma palavra</label>
+        <input id="b-texto" class="campo busca__campo" type="search" placeholder="Um assunto ou uma palavra: fotossíntese, porcentagem, Era Vargas…" autocomplete="off">
+        <div class="segmento" role="group" aria-label="Vestibular" id="b-bancas">
+          <button type="button" data-banca="" aria-pressed="true">Todos</button>
+          <button type="button" data-banca="Enem" aria-pressed="false">Enem</button>
+          <button type="button" data-banca="ETEC" aria-pressed="false">ETEC</button>
+          <button type="button" data-banca="FATEC" aria-pressed="false">FATEC</button>
+        </div>
+      </form>
+      <div class="erra" id="b-erra" hidden></div>
+    </div>
+  </section>
+
+  <div class="pag__corpo">
+    <!-- ao abrir: o mapa de assuntos -->
+    <section id="mapa" aria-labelledby="mapa-t">
+      <div class="titulo-linha"><h2 id="mapa-t">Mapa <em>de assuntos</em></h2><span class="titulo-linha__extra" id="mapa-n">toque num assunto</span></div>
+      <div class="mapa-mats" id="mapa-mats"><p>Carregando as provas…</p></div>
+    </section>
+
+    <!-- depois de escolher ou buscar: índice e linhas -->
+    <div class="busca__res" id="resultados" hidden>
+      <nav class="indice-assuntos" id="b-indice" aria-label="Índice de assuntos"></nav>
+      <section class="busca__col" aria-labelledby="res-t">
+        <div class="titulo-linha"><h2 id="res-t"></h2><span class="titulo-linha__extra" id="b-contagem" role="status" aria-live="polite"></span></div>
+        <div class="busca__filtros" id="b-chips"></div>
+        <ol class="busca__lista" id="b-lista"></ol>
+        <p class="busca__mais"><button class="btn" id="b-mais" type="button" hidden>Mostrar mais</button></p>
+      </section>
+    </div>
+  </div>
+
+  <div class="cesta" id="cesta" role="region" aria-label="Sua lista" hidden>
+    <span class="cesta__bolhas" aria-hidden="true" id="c-bolhas"></span>
+    <p class="cesta__n"><strong id="c-n">0</strong> na sua lista</p>
+    <label for="c-nome" class="sr">Nome da lista</label><input id="c-nome" class="campo cesta__nome" value="Lista de questões" maxlength="80">
+    <div class="acoes">
+      <button class="btn btn--ghost" id="c-limpar" type="button">Limpar</button>
+      <button class="btn cesta__link" id="c-link" type="button">Mandar o link</button>
+      <button class="btn btn--claro" id="c-treinar" type="button">Treinar a lista</button>
+    </div>
+    <p id="c-status" role="status"></p>
+  </div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/motor.js"></script><script src="js/registro.js"></script><script src="js/dados.js"></script><script src="js/treino.js"></script><script src="js/render.js"></script><script src="js/formulas.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/acessibilidade.js"></script><script src="js/busca.js"></script>
+</body>
+</html>

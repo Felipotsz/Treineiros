@@ -1,0 +1,1292 @@
+{
+ "id": "enem-2017-matematica",
+ "banca": "Enem",
+ "ano": 2017,
+ "titulo": "Enem 2017: Matemática",
+ "fonte": "Inep",
+ "dataExame": "2017-11-12",
+ "duracaoMinutos": 150,
+ "area": "Matemática",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Matemática financeira",
+   "origem": {
+    "numeroOriginal": 136
+   },
+   "enunciado": "<p>Um empréstimo foi feito à taxa mensal de <em>i</em>%, usando juros compostos, em oito parcelas fixas e iguais a <em>P</em>.</p><p>O devedor tem a possibilidade de quitar a dívida antecipadamente a qualquer momento, pagando para isso o valor atual das parcelas ainda a pagar. Após pagar a 5ª parcela, resolve quitar a dívida no ato de pagar a 6ª parcela.</p><p>A expressão que corresponde ao valor total pago pela quitação do empréstimo é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "<em>P</em> · [1 + 1/(1 + <em>i</em>/100) + 1/(1 + <em>i</em>/100)<sup>2</sup>]",
+    "B": "<em>P</em> · [1 + 1/(1 + <em>i</em>/100) + 1/(1 + 2<em>i</em>/100)]",
+    "C": "<em>P</em> · [1/(1 + <em>i</em>/100)<sup>2</sup> + 1/(1 + <em>i</em>/100)<sup>2</sup>]",
+    "D": "<em>P</em> · [1/(1 + <em>i</em>/100) + 1/(1 + 2<em>i</em>/100) + 1/(1 + 3<em>i</em>/100)]",
+    "E": "<em>P</em> · [1/(1 + <em>i</em>/100) + 1/(1 + <em>i</em>/100)<sup>2</sup> + 1/(1 + <em>i</em>/100)<sup>3</sup>]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Quitando no ato de pagar a 6ª parcela, a pessoa paga a 6ª pelo valor cheio (P) e antecipa a 7ª e a 8ª, que venceriam em 1 e 2 meses. O valor atual de cada uma é P dividido por \\((1 + \\tfrac{i}{100})\\) elevado ao número de meses que faltam:</p><p><em>P</em> · [1 + 1/(1 + <em>i</em>/100) + 1/(1 + <em>i</em>/100)<sup>2</sup>]. Alternativa <strong>A</strong>.</p><p>A alternativa E esquece a 6ª parcela, que é paga no próprio mês, sem desconto.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "valor presente",
+    "juros compostos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Logaritmo",
+   "origem": {
+    "numeroOriginal": 137
+   },
+   "enunciado": "<p>Para realizar a viagem dos sonhos, uma pessoa precisava fazer um empréstimo no valor de R$ 5 000,00. Para pagar as prestações, dispõe de, no máximo, R$ 400,00 mensais. Para esse valor de empréstimo, o valor da prestação (<em>P</em>) é calculado em função do número de prestações (<em>n</em>) segundo a fórmula</p><p>\\[P = \\frac{5000 \\times 1{,}013^n \\times 0{,}013}{1{,}013^n - 1}\\]</p><p>Se necessário, utilize 0,005 como aproximação para log 1,013; 2,602 como aproximação para log 400; 2,525 como aproximação para log 335.</p><p>De acordo com a fórmula dada, o menor número de parcelas cujos valores não comprometem o limite definido pela pessoa é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "12.",
+    "B": "14.",
+    "C": "15.",
+    "D": "16.",
+    "E": "17."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Chamando x = 1,013<sup>n</sup>, a condição P ≤ 400 fica \\(\\dfrac{5000 \\cdot 0{,}013\\,x}{x - 1} \\le 400 \\Rightarrow 65x \\le 400x - 400 \\Rightarrow x \\ge \\dfrac{400}{335}\\).</p><p>Aplicando log: n · 0,005 ≥ 2,602 − 2,525 = 0,077, logo n ≥ 15,4. O menor número inteiro é <strong>16</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função exponencial",
+    "inequação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 138
+   },
+   "enunciado": "<p>Raios de luz solar estão atingindo a superfície de um lago formando um ângulo <em>x</em> com a sua superfície, conforme indica a figura.</p><p>Em determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por \\(I(x) = k \\cdot \\text{sen}(x)\\), sendo <em>k</em> uma constante, e supondo-se que <em>x</em> está entre 0° e 90°.</p>[[fig:1]]<p>Quando <em>x</em> = 30°, a intensidade luminosa se reduz a qual percentual de seu valor máximo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q138.webp",
+     "alt": "Raio de sol, representado por uma seta pontilhada, chegando à superfície de um lago e formando com ela o ângulo x."
+    }
+   ],
+   "alternativas": {
+    "A": "33%",
+    "B": "50%",
+    "C": "57%",
+    "D": "70%",
+    "E": "86%"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O valor máximo de I é k, quando sen x = 1 (x = 90°). Para x = 30°, I = k · sen 30° = 0,5k: a intensidade cai a <strong>50%</strong> do máximo. Alternativa <strong>B</strong>.</p><p>86% (E) seria o valor com cos 30°, que corresponderia ao ângulo medido a partir da vertical.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "seno",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Gráficos",
+   "origem": {
+    "numeroOriginal": 139
+   },
+   "enunciado": "<p>Os congestionamentos de trânsito constituem um problema que aflige, todos os dias, milhares de motoristas brasileiros. O gráfico ilustra a situação, representando, ao longo de um intervalo definido de tempo, a variação da velocidade de um veículo durante um congestionamento.</p>[[fig:1]]<p>Quantos minutos o veículo permaneceu imóvel ao longo do intervalo de tempo total analisado?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q139.webp",
+     "alt": "Gráfico da velocidade em função do tempo (min), de 0 a 10: começa num valor baixo, sobe até o máximo em 2 min, desce e fica constante de 3 a 4 min, sobe um pouco em 5 min, cai a zero em 6 min, fica em zero até 8 min e depois volta a subir até 10 min."
+    }
+   ],
+   "alternativas": {
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "1",
+    "E": "0"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O veículo está imóvel quando a velocidade é zero: no gráfico, a linha fica encostada no eixo do tempo de 6 a 8 minutos, isto é, <strong>2 minutos</strong>. Alternativa <strong>C</strong>.</p><p>Trechos horizontais acima do eixo (de 0 a 1 e de 3 a 4 min) são velocidade constante, não parada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "velocidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 140
+   },
+   "enunciado": "<p>Um garçom precisa escolher uma bandeja de base retangular para servir quatro taças de espumante que precisam ser dispostas em uma única fileira, paralela ao lado maior da bandeja, e com suas bases totalmente apoiadas na bandeja. A base e a borda superior das taças são círculos de raio 4 cm e 5 cm, respectivamente.</p>[[fig:1]]<p>A bandeja a ser escolhida deverá ter uma área mínima, em centímetro quadrado, igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q140.webp",
+     "alt": "Taça de espumante de boca larga, com haste fina e base circular."
+    }
+   ],
+   "alternativas": {
+    "A": "192.",
+    "B": "300.",
+    "C": "304.",
+    "D": "320.",
+    "E": "400."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As taças ficam lado a lado, com as bordas (raio 5 cm) se tocando: os centros ficam a 10 cm um do outro. Só as bases (raio 4 cm) precisam estar sobre a bandeja.</p><p>Comprimento: 3 × 10 + 4 + 4 = 38 cm. Largura: o diâmetro da base, 8 cm. Área: 38 × 8 = <strong>304 cm²</strong>. Alternativa <strong>C</strong>.</p><p>Usar o diâmetro das bordas nas duas medidas dá 40 × 10 = 400 cm² (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "círculo",
+    "área do retângulo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 141
+   },
+   "enunciado": "<p>Em uma cantina, o sucesso de venda no verão são sucos preparados à base de polpa de frutas. Um dos sucos mais vendidos é o de morango com acerola, que é preparado com \\(\\tfrac{2}{3}\\) de polpa de morango e \\(\\tfrac{1}{3}\\) de polpa de acerola.</p><p>Para o comerciante, as polpas são vendidas em embalagens de igual volume. Atualmente, a embalagem da polpa de morango custa R$ 18,00 e a de acerola, R$ 14,70. Porém, está prevista uma alta no preço da embalagem da polpa de acerola no próximo mês, passando a custar R$ 15,30.</p><p>Para não aumentar o preço do suco, o comerciante negociou com o fornecedor uma redução no preço da embalagem da polpa de morango.</p><p>A redução, em real, no preço da embalagem da polpa de morango deverá ser de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,20.",
+    "B": "0,90.",
+    "C": "0,60.",
+    "D": "0,40.",
+    "E": "0,30."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Cada suco leva 2/3 de polpa de morango e 1/3 de acerola. A alta da acerola encarece o suco em (15,30 − 14,70) × 1/3 = 0,20 real por embalagem de suco.</p><p>Para compensar, a redução x no morango deve cumprir x × 2/3 = 0,20, logo x = <strong>0,30 real</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporção",
+    "custo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 142
+   },
+   "enunciado": "<p>Um casal realiza sua mudança de domicílio e necessita colocar numa caixa de papelão um objeto cúbico, de 80 cm de aresta, que não pode ser desmontado. Eles têm à disposição cinco caixas, com diferentes dimensões, conforme descrito:</p><ul><li>Caixa 1: 86 cm × 86 cm × 86 cm</li><li>Caixa 2: 75 cm × 82 cm × 90 cm</li><li>Caixa 3: 85 cm × 82 cm × 90 cm</li><li>Caixa 4: 82 cm × 95 cm × 82 cm</li><li>Caixa 5: 80 cm × 95 cm × 85 cm</li></ul><p>O casal precisa escolher uma caixa na qual o objeto caiba, de modo que sobre o menor espaço livre em seu interior.</p><p>A caixa escolhida pelo casal deve ser a de número</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "5."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O cubo de 80 cm só cabe em caixas com as três dimensões de pelo menos 80 cm, o que exclui a caixa 2 (75 cm). Entre as outras, sobra menos espaço na de menor volume:</p><ul><li>1: 86 × 86 × 86 = 636 056 cm³;</li><li>3: 85 × 82 × 90 = 627 300 cm³;</li><li>4: 82 × 95 × 82 = 638 780 cm³;</li><li>5: 80 × 95 × 85 = 646 000 cm³.</li></ul><p>A escolhida é a <strong>caixa 3</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "paralelepípedo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 143
+   },
+   "enunciado": "<p>Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura.</p>[[fig:1]]<p>No setor de produção da empresa que fabrica esse brinquedo, é feita a pintura de todos os carrinhos para que o aspecto do brinquedo fique mais atraente. São utilizadas as cores amarelo, branco, laranja e verde, e cada carrinho é pintado apenas com uma cor. O caminhão-cegonha tem uma cor fixa. A empresa determinou que em todo caminhão-cegonha deve haver pelo menos um carrinho de cada uma das quatro cores disponíveis. Mudança de posição dos carrinhos no caminhão-cegonha não gera um novo modelo do brinquedo.</p><p>Com base nessas informações, quantos são os modelos distintos do brinquedo caminhão-cegonha que essa empresa poderá produzir?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q143.webp",
+     "alt": "Desenho de um caminhão-cegonha com uma carreta de três andares carregando dez carrinhos."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(C_{6,4}\\)",
+    "B": "\\(C_{9,3}\\)",
+    "C": "\\(C_{10,4}\\)",
+    "D": "\\(6^4\\)",
+    "E": "\\(4^6\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Como a posição não importa, um modelo é definido só por quantos carrinhos há de cada cor: a + b + c + d = 10, com cada cor pelo menos 1. Pintando antes um carrinho de cada cor, sobram 6 para distribuir livremente entre 4 cores: são as soluções de a′ + b′ + c′ + d′ = 6, que somam \\(C_{9,3}\\) = 84. Alternativa <strong>B</strong>.</p><p>\\(4^6\\) (E) e \\(6^4\\) (D) contariam posições diferentes como modelos diferentes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combinação com repetição"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 144
+   },
+   "enunciado": "<p>Uma empresa especializada em conservação de piscinas utiliza um produto para tratamento da água cujas especificações técnicas sugerem que seja adicionado 1,5 mL desse produto para cada 1 000 L de água da piscina. Essa empresa foi contratada para cuidar de uma piscina de base retangular, de profundidade constante igual a 1,7 m, com largura e comprimento iguais a 3 m e 5 m, respectivamente. O nível da lâmina d’água dessa piscina é mantido a 50 cm da borda da piscina.</p><p>A quantidade desse produto, em mililitro, que deve ser adicionada a essa piscina de modo a atender às suas especificações técnicas é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "11,25.",
+    "B": "27,00.",
+    "C": "28,80.",
+    "D": "32,25.",
+    "E": "49,50."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A água fica 50 cm abaixo da borda: profundidade da água = 1,7 − 0,5 = 1,2 m. Volume: 3 × 5 × 1,2 = 18 m³ = 18 000 L.</p><p>Produto: 18 × 1,5 mL = <strong>27,00 mL</strong>. Alternativa <strong>B</strong>.</p><p>Usar a profundidade total da piscina (1,7 m) dá 38,25 mL, que não está nas opções.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 145
+   },
+   "enunciado": "<p>Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).</p><p>O instituto tem 5 pesquisas recentes, P1 a P5, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.</p><p>Os dados sobre as pesquisas são os seguintes:</p><table class=\"tabela\"><thead><tr><th>Pesquisa</th><th>σ</th><th><em>N</em></th><th>√<em>N</em></th></tr></thead><tbody><tr><td>P1</td><td>0,5</td><td>1 764</td><td>42</td></tr><tr><td>P2</td><td>0,4</td><td>784</td><td>28</td></tr><tr><td>P3</td><td>0,3</td><td>576</td><td>24</td></tr><tr><td>P4</td><td>0,2</td><td>441</td><td>21</td></tr><tr><td>P5</td><td>0,1</td><td>64</td><td>8</td></tr></tbody></table><p>O erro <em>e</em> pode ser expresso por \\(|e| < 1{,}96\\,\\dfrac{\\sigma}{\\sqrt{N}}\\), em que σ é um parâmetro e <em>N</em> é o número de pessoas entrevistadas pela pesquisa.</p><p>Qual pesquisa deverá ser utilizada?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "P1",
+    "B": "P2",
+    "C": "P3",
+    "D": "P4",
+    "E": "P5"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Calculando 1,96 · σ ÷ √N para cada pesquisa:</p><ul><li>P1: 1,96 · 0,5 ÷ 42 ≈ 0,0233;</li><li>P2: 1,96 · 0,4 ÷ 28 = 0,028;</li><li>P3: 1,96 · 0,3 ÷ 24 ≈ 0,0245;</li><li>P4: 1,96 · 0,2 ÷ 21 ≈ 0,0187;</li><li>P5: 1,96 · 0,1 ÷ 8 ≈ 0,0245.</li></ul><p>Só a <strong>P4</strong> tem erro menor que 0,02. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "margem de erro",
+    "raiz quadrada"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 146
+   },
+   "enunciado": "<p>Em um teleférico turístico, bondinhos saem de estações ao nível do mar e do topo de uma montanha. A travessia dura 1,5 minuto e ambos os bondinhos se deslocam à mesma velocidade. Quarenta segundos após o bondinho <em>A</em> partir da estação ao nível do mar, ele cruza com o bondinho <em>B</em>, que havia saído do topo da montanha.</p><p>Quantos segundos após a partida do bondinho <em>B</em> partiu o bondinho <em>A</em>?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "5",
+    "B": "10",
+    "C": "15",
+    "D": "20",
+    "E": "25"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A travessia dura 90 s, e os dois bondinhos têm a mesma velocidade. Quando se cruzam, A andou 40 s, ou seja, 40/90 do caminho; B andou o resto, 50/90, o que leva 50 s. Logo B saiu 50 − 40 = <strong>10 s</strong> antes de A. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 147
+   },
+   "enunciado": "<p>Num dia de tempestade, a alteração na profundidade de um rio, num determinado local, foi registrada durante um período de 4 horas. Os resultados estão indicados no gráfico de linhas. Nele, a profundidade <em>h</em>, registrada às 13 horas, não foi anotada e, a partir de <em>h</em>, cada unidade sobre o eixo vertical representa um metro.</p>[[fig:1]]<p>Foi informado que entre 15 horas e 16 horas, a profundidade do rio diminuiu em 10%.</p><p>Às 16 horas, qual é a profundidade do rio, em metro, no local onde foram feitos os registros?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q147.webp",
+     "alt": "Gráfico “Registro de profundidade”: profundidade (m) em função da hora, de 13 a 17 h. O ponto das 13 h está no nível h; às 14 h, duas linhas acima; às 15 h, seis linhas acima (máximo); às 16 h, quatro linhas acima; às 17 h, uma linha acima."
+    }
+   ],
+   "alternativas": {
+    "A": "18",
+    "B": "20",
+    "C": "24",
+    "D": "36",
+    "E": "40"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Pelo gráfico, às 15 h a profundidade é h + 6 e às 16 h é h + 4 (cada linha vale 1 m). A queda de 10% dá:</p><p>h + 4 = 0,9 (h + 6) → h + 4 = 0,9h + 5,4 → 0,1h = 1,4 → h = 14 m.</p><p>Às 16 h: 14 + 4 = <strong>18 m</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação do 1º grau",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 148
+   },
+   "enunciado": "<p>Uma rede hoteleira dispõe de cabanas simples na ilha de Gotland, na Suécia, conforme Figura 1. A estrutura de sustentação de cada uma dessas cabanas está representada na Figura 2. A ideia é permitir ao hóspede uma estada livre de tecnologia, mas conectada com a natureza.</p>[[fig:1]]<p class=\"fonte\">ROMERO, L. Tendências. <strong>Superinteressante</strong>, n. 315, fev. 2013 (adaptado).</p><p>A forma geométrica da superfície cujas arestas estão representadas na Figura 2 é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q148.webp",
+     "alt": "Figura 1: foto de uma cabana de madeira em forma de “A”, com o telhado descendo até o chão dos dois lados. Figura 2: o esqueleto da estrutura, um sólido com duas faces triangulares nas pontas ligadas por arestas paralelas."
+    }
+   ],
+   "alternativas": {
+    "A": "tetraedro.",
+    "B": "pirâmide retangular.",
+    "C": "tronco de pirâmide retangular.",
+    "D": "prisma quadrangular reto.",
+    "E": "prisma triangular reto."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na Figura 2, a estrutura tem duas faces triangulares paralelas e iguais (as pontas da cabana), ligadas por três faces retangulares, uma delas no chão. É um <strong>prisma triangular reto</strong>. Alternativa <strong>E</strong>.</p><p>O tetraedro e as pirâmides (A, B e C) terminam em um vértice, não em uma aresta horizontal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "prismas",
+    "planificação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 149
+   },
+   "enunciado": "<p>A figura ilustra uma partida de Campo Minado, o jogo presente em praticamente todo computador pessoal. Quatro quadrados em um tabuleiro 16 × 16 foram abertos, e os números em suas faces indicam quantos dos seus 8 vizinhos contêm minas (a serem evitadas). O número 40 no canto inferior direito é o número total de minas no tabuleiro, cujas posições foram escolhidas ao acaso, de forma uniforme, antes de se abrir qualquer quadrado.</p>[[fig:1]]<p>Em sua próxima jogada, o jogador deve escolher dentre os quadrados marcados com as letras P, Q, R, S e T um para abrir, sendo que deve escolher aquele com a menor probabilidade de conter uma mina.</p><p>O jogador deverá abrir o quadrado marcado com a letra</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q149.webp",
+     "alt": "Tabuleiro de Campo Minado 16 × 16 com quatro quadrados abertos: o 2 em cima à esquerda, com P logo abaixo; o 1 um pouco à direita, com Q logo abaixo; o 3 embaixo à direita, com T logo abaixo; e o 4 embaixo à esquerda, com S logo abaixo. R fica sozinho no meio do tabuleiro. No canto, o contador marca 40 minas."
+    }
+   ],
+   "alternativas": {
+    "A": "P.",
+    "B": "Q.",
+    "C": "R.",
+    "D": "S.",
+    "E": "T."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Cada letra ao lado de um número é vizinha dele:</p><ul><li>P, vizinho do 2: 2 minas em 8 casas, 2/8;</li><li>Q, vizinho do 1: 1/8;</li><li>S, vizinho do 4: 4/8;</li><li>T, vizinho do 3: 3/8;</li><li>R, longe dos números: cerca de 40 minas em 252 casas, ≈ 0,16, mais que 1/8.</li></ul><p>A menor probabilidade é a do quadrado <strong>Q</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade",
+    "jogos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Ângulos",
+   "origem": {
+    "numeroOriginal": 150
+   },
+   "enunciado": "<p>A imagem apresentada na figura é uma cópia em preto e branco da tela quadrada intitulada <em>O peixe</em>, de Marcos Pinto, que foi colocada em uma parede para exposição e fixada nos pontos <em>A</em> e <em>B</em>.</p><p>Por um problema na fixação de um dos pontos, a tela se desprendeu, girando rente à parede. Após o giro, ela ficou posicionada como ilustrado na figura, formando um ângulo de 45° com a linha do horizonte.</p>[[fig:1]][[fig:2]]<p>Para recolocar a tela na sua posição original, deve-se girá-la, rente à parede, no menor ângulo possível inferior a 360°. A forma de recolocar a tela na posição original, obedecendo ao que foi estabelecido, é girando-a em um ângulo de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q150a.webp",
+     "alt": "Tela quadrada “O peixe”, na posição original, fixada nos pontos A (canto superior esquerdo) e B (canto inferior direito)."
+    },
+    {
+     "src": "assets/img/enem-2017-matematica/q150b.webp",
+     "alt": "A mesma tela depois de girar: presa só pelo ponto B, no alto, ela ficou como um losango, com um lado formando 45° com a horizontal."
+    }
+   ],
+   "alternativas": {
+    "A": "90° no sentido horário.",
+    "B": "135° no sentido horário.",
+    "C": "180° no sentido anti-horário.",
+    "D": "270° no sentido anti-horário.",
+    "E": "315° no sentido horário."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na posição original, o lado AB era a diagonal do quadrado, com A no canto de cima à esquerda e B no de baixo à direita. Depois do giro, B ficou no canto de cima, com a diagonal AB vertical e a tela em forma de losango. Para levar B de volta ao canto de baixo à direita pelo menor caminho, a tela deve girar <strong>135° no sentido horário</strong>. Alternativa <strong>B</strong>.</p><p>Girar 225° no sentido anti-horário também funcionaria, mas é um ângulo maior.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rotação",
+    "ângulos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 151
+   },
+   "enunciado": "<p>A avaliação de rendimento de alunos de um curso universitário baseia-se na média ponderada das notas obtidas nas disciplinas pelos respectivos números de créditos, como mostra o quadro:</p><table class=\"tabela\"><thead><tr><th>Avaliação</th><th>Média de notas (<em>M</em>)</th></tr></thead><tbody><tr><td>Excelente</td><td>9 &lt; <em>M</em> ≤ 10</td></tr><tr><td>Bom</td><td>7 ≤ <em>M</em> ≤ 9</td></tr><tr><td>Regular</td><td>5 ≤ <em>M</em> &lt; 7</td></tr><tr><td>Ruim</td><td>3 ≤ <em>M</em> &lt; 5</td></tr><tr><td>Péssimo</td><td><em>M</em> &lt; 3</td></tr></tbody></table><p>Quanto melhor a avaliação de um aluno em determinado período letivo, maior sua prioridade na escolha de disciplinas para o período seguinte.</p><p>Determinado aluno sabe que se obtiver avaliação “Bom” ou “Excelente” conseguirá matrícula nas disciplinas que deseja. Ele já realizou as provas de 4 das 5 disciplinas em que está matriculado, mas ainda não realizou a prova da disciplina I, conforme o quadro.</p><table class=\"tabela\"><thead><tr><th>Disciplinas</th><th>Notas</th><th>Número de créditos</th></tr></thead><tbody><tr><td>I</td><td></td><td>12</td></tr><tr><td>II</td><td>8,00</td><td>4</td></tr><tr><td>III</td><td>6,00</td><td>8</td></tr><tr><td>IV</td><td>5,00</td><td>8</td></tr><tr><td>V</td><td>7,50</td><td>10</td></tr></tbody></table><p>Para que atinja seu objetivo, a nota mínima que ele deve conseguir na disciplina I é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "7,00.",
+    "B": "7,38.",
+    "C": "7,50.",
+    "D": "8,25.",
+    "E": "9,00."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Para ser “Bom”, a média precisa ser pelo menos 7. Total de créditos: 12 + 4 + 8 + 8 + 10 = 42. Soma das notas já obtidas, ponderadas: 8 · 4 + 6 · 8 + 5 · 8 + 7,5 · 10 = 195.</p><p>\\(\\dfrac{12x + 195}{42} \\ge 7 \\Rightarrow 12x \\ge 99 \\Rightarrow x \\ge 8{,}25\\). Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada",
+    "inequação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 152
+   },
+   "enunciado": "<p>A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos, em formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura.</p>[[fig:1]]<p>A água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do cano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios.</p><p>Qual dos gráficos melhor descreverá a altura <em>h</em> do nível da água no Reservatório 1, em função do volume <em>V</em> de água no sistema?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q152.webp",
+     "alt": "Dois reservatórios iguais em forma de bloco retangular, lado a lado, ligados por um cano na metade da altura; o cano de entrada chega ao Reservatório 1 pelo alto."
+    },
+    {
+     "src": "assets/img/enem-2017-matematica/q152a.webp",
+     "alt": "Gráfico A: h cresce em linha reta com V, do começo ao fim."
+    },
+    {
+     "src": "assets/img/enem-2017-matematica/q152b.webp",
+     "alt": "Gráfico B: h sobe em curva, fica constante e depois sobe numa curva cada vez mais inclinada."
+    },
+    {
+     "src": "assets/img/enem-2017-matematica/q152c.webp",
+     "alt": "Gráfico C: h sobe em linha reta, fica constante e depois sobe de novo com a mesma inclinação do começo."
+    },
+    {
+     "src": "assets/img/enem-2017-matematica/q152d.webp",
+     "alt": "Gráfico D: h sobe em linha reta, fica constante e depois sobe de novo com inclinação menor que a do começo."
+    },
+    {
+     "src": "assets/img/enem-2017-matematica/q152e.webp",
+     "alt": "Gráfico E: h sobe rápido no começo e vai crescendo cada vez mais devagar, sem trecho constante."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Enquanto a água não chega ao cano de ligação, só o Reservatório 1 enche: h cresce em linha reta com V. Depois, toda a água passa para o Reservatório 2 e h fica parado. Quando o 2 atinge o mesmo nível, os dois enchem juntos: h volta a subir, em linha reta, com metade da inclinação, porque o volume se divide entre dois reservatórios iguais. Esse formato, reta, trecho horizontal e reta menos inclinada, é o da opção D. Alternativa <strong>D</strong>.</p><p>No gráfico C, a inclinação depois do trecho parado é igual à inicial, como se só um reservatório enchesse.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função afim por partes",
+    "volume"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 153
+   },
+   "enunciado": "<p>A manchete demonstra que o transporte de grandes cargas representa cada vez mais preocupação quando feito em vias urbanas.</p><p class=\"apoio\"><strong>Caminhão entala em viaduto no Centro</strong></p><p class=\"apoio\">Um caminhão de grande porte entalou embaixo do viaduto no cruzamento das avenidas Borges de Medeiros e Loureiro da Silva no sentido Centro-Bairro, próximo à Ponte de Pedra, na capital. Esse veículo vinha de São Paulo para Porto Alegre e transportava três grandes tubos, conforme ilustrado na foto.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.caminhoes-e-carretas.com. Acesso em: 21 maio 2012 (adaptado).</p><p>Considere que o raio externo de cada cano da imagem seja 0,60 m e que eles estejam em cima de uma carroceria cuja parte superior está a 1,30 m do solo. O desenho representa a vista traseira do empilhamento dos canos.</p>[[fig:2]]<p>A margem de segurança recomendada para que um veículo passe sob um viaduto é que a altura total do veículo com a carga seja, no mínimo, 0,50 m menor do que a altura do vão do viaduto.</p><p>Considere 1,7 como aproximação para √3.</p><p>Qual deveria ser a altura mínima do viaduto, em metro, para que esse caminhão pudesse passar com segurança sob seu vão?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q153a.webp",
+     "alt": "Foto de um caminhão carregando três grandes tubos empilhados, preso embaixo de um viaduto."
+    },
+    {
+     "src": "assets/img/enem-2017-matematica/q153b.webp",
+     "alt": "Vista traseira: dois círculos lado a lado apoiados numa base e um terceiro círculo em cima, encaixado entre eles; raio indicado de 0,60 m."
+    }
+   ],
+   "alternativas": {
+    "A": "2,82",
+    "B": "3,52",
+    "C": "3,70",
+    "D": "4,02",
+    "E": "4,20"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os centros dos três canos formam um triângulo equilátero de lado 1,2 m (dois raios). A altura desse triângulo é \\(\\tfrac{1{,}2\\sqrt{3}}{2} = 0{,}6\\sqrt{3} \\approx 1{,}02\\) m.</p><p>Altura da pilha: 0,6 (raio de baixo) + 1,02 + 0,6 (raio de cima) = 2,22 m. Com a carroceria: 1,30 + 2,22 = 3,52 m. Somando a margem de 0,50 m: <strong>4,02 m</strong>. Alternativa <strong>D</strong>.</p><p>3,52 m (B) é a altura do caminhão sem a margem de segurança.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "triângulo equilátero",
+    "circunferências tangentes"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Localização",
+   "origem": {
+    "numeroOriginal": 154
+   },
+   "enunciado": "<p>Um menino acaba de se mudar para um novo bairro e deseja ir à padaria. Pediu ajuda a um amigo que lhe forneceu um mapa com pontos numerados, que representam cinco locais de interesse, entre os quais está a padaria. Além disso, o amigo passou as seguintes instruções: a partir do ponto em que você se encontra, representado pela letra X, ande para oeste, vire à direita na primeira rua que encontrar, siga em frente e vire à esquerda na próxima rua. A padaria estará logo a seguir.</p>[[fig:1]]<p>A padaria está representada pelo ponto numerado com</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q154.webp",
+     "alt": "Mapa com 16 quadras em quatro fileiras, separadas pelas ruas A a E (no sentido horizontal) e pelas ruas 1 a 5 (no sentido vertical), com rosa dos ventos (norte para cima). Na Rua B estão os pontos 1 (sob a Quadra 2), 2 (sob a Quadra 3) e 3 (sob a Quadra 4); X fica na Rua C, sob a Quadra 7; na Rua D estão os pontos 4 (sob a Quadra 11) e 5 (sob a Quadra 12)."
+    }
+   ],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "5."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O ponto X fica na Rua C, abaixo da Quadra 7. Andando para oeste, a primeira rua à direita é a Rua 3; virando à direita, segue-se para o norte. A próxima rua é a Rua B; virando à esquerda, segue-se para oeste, e o primeiro ponto é o <strong>1</strong>, entre as quadras 2 e 6. Alternativa <strong>A</strong>.</p><p>O ponto 2 fica a leste da Rua 3, no sentido contrário ao da última virada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "orientação",
+    "pontos cardeais"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 155
+   },
+   "enunciado": "<p>Três alunos, X, Y e Z, estão matriculados em um curso de inglês. Para avaliar esses alunos, o professor optou por fazer cinco provas. Para que seja aprovado nesse curso, o aluno deverá ter a média aritmética das notas das cinco provas maior ou igual a 6. Na tabela, estão dispostas as notas que cada aluno tirou em cada prova.</p><table class=\"tabela\"><thead><tr><th>Aluno</th><th>1ª Prova</th><th>2ª Prova</th><th>3ª Prova</th><th>4ª Prova</th><th>5ª Prova</th></tr></thead><tbody><tr><td>X</td><td>5</td><td>5</td><td>5</td><td>10</td><td>6</td></tr><tr><td>Y</td><td>4</td><td>9</td><td>3</td><td>9</td><td>5</td></tr><tr><td>Z</td><td>5</td><td>5</td><td>8</td><td>5</td><td>6</td></tr></tbody></table><p>Com base nos dados da tabela e nas informações dadas, ficará(ão) reprovado(s)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "apenas o aluno Y.",
+    "B": "apenas o aluno Z.",
+    "C": "apenas os alunos X e Y.",
+    "D": "apenas os alunos X e Z.",
+    "E": "os alunos X, Y e Z."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Médias das cinco provas:</p><ul><li>X: (5 + 5 + 5 + 10 + 6) ÷ 5 = 6,2;</li><li>Y: (4 + 9 + 3 + 9 + 5) ÷ 5 = 6,0;</li><li>Z: (5 + 5 + 8 + 5 + 6) ÷ 5 = 5,8.</li></ul><p>Só Z fica abaixo de 6: reprova <strong>apenas o aluno Z</strong>. Alternativa <strong>B</strong>.</p><p>Y tem exatamente 6, o que basta (“maior ou igual a 6”).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média aritmética"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 156
+   },
+   "enunciado": "<p>Uma desenhista projetista deverá desenhar uma tampa de panela em forma circular. Para realizar esse desenho, ela dispõe, no momento, de apenas um compasso, cujo comprimento das hastes é de 10 cm, um transferidor e uma folha de papel com um plano cartesiano. Para esboçar o desenho dessa tampa, ela afastou as hastes do compasso de forma que o ângulo formado por elas fosse de 120°. A ponta seca está representada pelo ponto <em>C</em>, a ponta do grafite está representada pelo ponto <em>B</em> e a cabeça do compasso está representada pelo ponto <em>A</em> conforme a figura.</p>[[fig:1]]<p>Após concluir o desenho, ela o encaminha para o setor de produção. Ao receber o desenho com a indicação do raio da tampa, verificará em qual intervalo este se encontra e decidirá o tipo de material a ser utilizado na sua fabricação, de acordo com os dados.</p><table class=\"tabela\"><thead><tr><th>Tipo de material</th><th>Intervalo de valores do raio (cm)</th></tr></thead><tbody><tr><td>I</td><td>0 &lt; <em>R</em> ≤ 5</td></tr><tr><td>II</td><td>5 &lt; <em>R</em> ≤ 10</td></tr><tr><td>III</td><td>10 &lt; <em>R</em> ≤ 15</td></tr><tr><td>IV</td><td>15 &lt; <em>R</em> ≤ 21</td></tr><tr><td>V</td><td>21 &lt; <em>R</em> ≤ 40</td></tr></tbody></table><p>Considere 1,7 como aproximação para √3.</p><p>O tipo de material a ser utilizado pelo setor de produção será</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q156.webp",
+     "alt": "Plano cartesiano com um compasso: a ponta seca em C (3 ; 1), a ponta do grafite em B, sobre a circunferência traçada, e a cabeça em A, acima; o ângulo entre as hastes, em A, é de 120°."
+    }
+   ],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O raio da tampa é a distância BC entre as pontas do compasso, que formam com a cabeça A um triângulo isósceles de lados 10 cm e ângulo de 120°. Pela lei dos cossenos: BC² = 10² + 10² − 2 · 10 · 10 · cos 120° = 300, então BC = 10√3 ≈ 17 cm.</p><p>17 está entre 15 e 21: material <strong>IV</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lei dos cossenos",
+    "circunferência"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Números decimais",
+   "origem": {
+    "numeroOriginal": 157
+   },
+   "enunciado": "<p>Uma pessoa ganhou uma pulseira formada por pérolas esféricas, na qual faltava uma das pérolas. A figura indica a posição em que estaria faltando esta pérola.</p>[[fig:1]]<p>Ela levou a joia a um joalheiro que verificou que a medida do diâmetro dessas pérolas era 4 milímetros. Em seu estoque, as pérolas do mesmo tipo e formato, disponíveis para reposição, tinham diâmetros iguais a: 4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm.</p><p>O joalheiro então colocou na pulseira a pérola cujo diâmetro era o mais próximo do diâmetro das pérolas originais.</p><p>A pérola colocada na pulseira pelo joalheiro tem diâmetro, em milímetro, igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q157.webp",
+     "alt": "Foto de uma pulseira de pérolas brancas e pedrinhas brilhantes, com uma seta apontando o espaço vazio onde falta uma pérola."
+    }
+   ],
+   "alternativas": {
+    "A": "3,099.",
+    "B": "3,970.",
+    "C": "4,025.",
+    "D": "4,080.",
+    "E": "4,100."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Diferenças em relação a 4 mm: 4,025 → 0,025; 4,100 → 0,100; 3,970 → 0,030; 4,080 → 0,080; 3,099 → 0,901. A mais próxima é a de <strong>4,025 mm</strong>. Alternativa <strong>C</strong>.</p><p>3,970 (B) está a 0,030, um pouco mais longe.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comparação de decimais"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Escala",
+   "origem": {
+    "numeroOriginal": 158
+   },
+   "enunciado": "<p>Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1 : 400, e que seu volume é de 25 cm<sup>3</sup>.</p><p>O volume do monumento original, em metro cúbico, é de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "100.",
+    "B": "400.",
+    "C": "1 600.",
+    "D": "6 250.",
+    "E": "10 000."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na escala 1 : 400, as medidas lineares do monumento são 400 vezes maiores, e o volume, 400³ = 64 000 000 vezes maior.</p><p>25 cm³ × 64 000 000 = 1 600 000 000 cm³. Como 1 m³ = 1 000 000 cm³: <strong>1 600 m³</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala de volume",
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 159
+   },
+   "enunciado": "<p>Uma bicicleta do tipo <em>mountain bike</em> tem uma coroa com 3 engrenagens e uma catraca com 6 engrenagens, que, combinadas entre si, determinam 18 marchas (número de engrenagens da coroa vezes o número de engrenagens da catraca).</p>[[fig:1]]<p>Os números de dentes das engrenagens das coroas e das catracas dessa bicicleta estão listados no quadro.</p><table class=\"tabela\"><thead><tr><th>Engrenagens</th><th>1ª</th><th>2ª</th><th>3ª</th><th>4ª</th><th>5ª</th><th>6ª</th></tr></thead><tbody><tr><td>Nº de dentes da coroa</td><td>46</td><td>36</td><td>26</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Nº de dentes da catraca</td><td>24</td><td>22</td><td>20</td><td>18</td><td>16</td><td>14</td></tr></tbody></table><p>Sabe-se que o número de voltas efetuadas pela roda traseira a cada pedalada é calculado dividindo-se a quantidade de dentes da coroa pela quantidade de dentes da catraca.</p><p>Durante um passeio em uma bicicleta desse tipo, deseja-se fazer um percurso o mais devagar possível, escolhendo, para isso, uma das seguintes combinações de engrenagens (coroa x catraca):</p><table class=\"tabela\"><thead><tr><th>I</th><th>II</th><th>III</th><th>IV</th><th>V</th></tr></thead><tbody><tr><td>1ª × 1ª</td><td>1ª × 6ª</td><td>2ª × 4ª</td><td>3ª × 1ª</td><td>3ª × 6ª</td></tr></tbody></table><p>A combinação escolhida para realizar esse passeio da forma desejada é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q159.webp",
+     "alt": "Ilustração de uma corrente de bicicleta ligando as coroas (engrenagens maiores, à esquerda) às catracas (engrenagens menores, à direita)."
+    }
+   ],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A bicicleta vai mais devagar quando a roda dá menos voltas por pedalada, ou seja, com a menor razão coroa ÷ catraca:</p><ul><li>I (46 ÷ 24) ≈ 1,92;</li><li>II (46 ÷ 14) ≈ 3,29;</li><li>III (36 ÷ 18) = 2;</li><li>IV (26 ÷ 24) ≈ 1,08;</li><li>V (26 ÷ 14) ≈ 1,86.</li></ul><p>A menor é a da combinação <strong>IV</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "razão",
+    "engrenagens"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 160
+   },
+   "enunciado": "<p>O comitê organizador da Copa do Mundo 2014 criou a logomarca da Copa, composta de uma figura plana e o <em>slogan</em> “Juntos num só ritmo”, com mãos que se unem formando a taça Fifa. Considere que o comitê organizador resolvesse utilizar todas as cores da bandeira nacional (verde, amarelo, azul e branco) para colorir a logomarca, de forma que regiões vizinhas tenham cores diferentes.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.pt.fifa.com. Acesso em: 19 nov. 2013 (adaptado).</p><p>De quantas maneiras diferentes o comitê organizador da Copa poderia pintar a logomarca com as cores citadas?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q160.webp",
+     "alt": "Logomarca da Copa de 2014: mãos estilizadas que se unem formando a taça, com a frase “Juntos num só ritmo”."
+    }
+   ],
+   "alternativas": {
+    "A": "15",
+    "B": "30",
+    "C": "108",
+    "D": "360",
+    "E": "972"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A logomarca tem seis regiões, e cada região, depois da primeira, faz fronteira com apenas uma região já pintada quando se pinta na ordem certa. A primeira pode receber qualquer das 4 cores, e cada uma das outras cinco, qualquer cor diferente da vizinha: 4 · 3 · 3 · 3 · 3 · 3 = <strong>972</strong>. Alternativa <strong>E</strong>.</p><p>É a resolução que leva ao gabarito oficial; ela não exige que as quatro cores apareçam todas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo",
+    "coloração de mapas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "assunto": "Função quadrática",
+   "origem": {
+    "numeroOriginal": 161
+   },
+   "enunciado": "<p>Viveiros de lagostas são construídos, por cooperativas locais de pescadores, em formato de prismas reto-retangulares, fixados ao solo e com telas flexíveis de mesma altura, capazes de suportar a corrosão marinha. Para cada viveiro a ser construído, a cooperativa utiliza integralmente 100 metros lineares dessa tela, que é usada apenas nas laterais.</p>[[fig:1]]<p>Quais devem ser os valores de <em>X</em> e de <em>Y</em>, em metro, para que a área da base do viveiro seja máxima?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q161.webp",
+     "alt": "Viveiro em forma de bloco retangular, com a base de lados X e Y e o topo abaixo do nível do mar."
+    }
+   ],
+   "alternativas": {
+    "A": "1 e 49",
+    "B": "1 e 99",
+    "C": "10 e 10",
+    "D": "25 e 25",
+    "E": "50 e 50"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A tela cerca as quatro laterais: 2X + 2Y = 100, então Y = 50 − X. A área da base é A = X(50 − X), uma parábola com máximo no vértice, X = 25. Então Y = 25: <strong>25 e 25</strong>. Alternativa <strong>D</strong>.</p><p>Entre retângulos de mesmo perímetro, o quadrado tem a maior área.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "máximo da parábola",
+    "perímetro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 162
+   },
+   "enunciado": "<p>O fisiologista inglês Archibald Vivian Hill propôs, em seus estudos, que a velocidade <em>v</em> de contração de um músculo ao ser submetido a um peso <em>p</em> é dada pela equação (<em>p</em> + <em>a</em>) (<em>v</em> + <em>b</em>) = <em>K</em>, com <em>a</em>, <em>b</em> e <em>K</em> constantes.</p><p>Um fisioterapeuta, com o intuito de maximizar o efeito benéfico dos exercícios que recomendaria a um de seus pacientes, quis estudar essa equação e a classificou desta forma:</p><table class=\"tabela\"><thead><tr><th>Tipo de curva</th></tr></thead><tbody><tr><td>Semirreta oblíqua</td></tr><tr><td>Semirreta horizontal</td></tr><tr><td>Ramo de parábola</td></tr><tr><td>Arco de circunferência</td></tr><tr><td>Ramo de hipérbole</td></tr></tbody></table><p>O fisioterapeuta analisou a dependência entre <em>v</em> e <em>p</em> na equação de Hill e a classificou de acordo com sua representação geométrica no plano cartesiano, utilizando o par de coordenadas (<em>p</em> ; <em>v</em>). Admita que <em>K</em> &gt; 0.</p><p class=\"fonte\">Disponível em: http://rspb.royalsocietypublishing.org. Acesso em: 14 jul. 2015 (adaptado).</p><p>O gráfico da equação que o fisioterapeuta utilizou para maximizar o efeito dos exercícios é do tipo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "semirreta oblíqua.",
+    "B": "semirreta horizontal.",
+    "C": "ramo de parábola.",
+    "D": "arco de circunferência.",
+    "E": "ramo de hipérbole."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>De (p + a)(v + b) = K, com K &gt; 0, vem \\(v = \\dfrac{K}{p + a} - b\\): v é inversamente proporcional a (p + a), deslocada. O gráfico é um <strong>ramo de hipérbole</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hipérbole",
+    "função racional"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "assunto": "Otimização",
+   "origem": {
+    "numeroOriginal": 163
+   },
+   "enunciado": "<p>Em um parque há dois mirantes de alturas distintas que são acessados por elevador panorâmico. O topo do mirante 1 é acessado pelo elevador 1, enquanto que o topo do mirante 2 é acessado pelo elevador 2. Eles encontram-se a uma distância possível de ser percorrida a pé, e entre os mirantes há um teleférico que os liga que pode ou não ser utilizado pelo visitante.</p>[[fig:1]]<p>O acesso aos elevadores tem os seguintes custos:</p><ul><li>Subir pelo elevador 1: R$ 0,15;</li><li>Subir pelo elevador 2: R$ 1,80;</li><li>Descer pelo elevador 1: R$ 0,10;</li><li>Descer pelo elevador 2: R$ 2,30.</li></ul><p>O custo da passagem do teleférico partindo do topo do mirante 1 para o topo do mirante 2 é de R$ 2,00, e do topo do mirante 2 para o topo do mirante 1 é de R$ 2,50.</p><p>Qual é o menor custo, em real, para uma pessoa visitar os topos dos dois mirantes e retornar ao solo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q163.webp",
+     "alt": "Dois mirantes cilíndricos, o 1 baixo e o 2 alto, ligados no topo por um cabo de teleférico."
+    }
+   ],
+   "alternativas": {
+    "A": "2,25",
+    "B": "3,90",
+    "C": "4,35",
+    "D": "4,40",
+    "E": "4,45"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Opções para visitar os dois topos e voltar ao solo:</p><ul><li>sobe o 1, teleférico 1→2, desce o 2: 0,15 + 2,00 + 2,30 = 4,45;</li><li>sobe o 2, teleférico 2→1, desce o 1: 1,80 + 2,50 + 0,10 = 4,40;</li><li>sobe e desce o 1, depois sobe e desce o 2, a pé entre eles: 0,15 + 0,10 + 1,80 + 2,30 = 4,35.</li></ul><p>O menor custo é <strong>R$ 4,35</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comparação de custos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 164
+   },
+   "enunciado": "<p>A mensagem digitada no celular, enquanto você dirige, tira a sua atenção e, por isso, deve ser evitada. Pesquisas mostram que um motorista que dirige um carro a uma velocidade constante percorre “às cegas” (isto é, sem ter visão da pista) uma distância proporcional ao tempo gasto ao olhar para o celular durante a digitação da mensagem. Considere que isso de fato aconteça. Suponha que dois motoristas (X e Y) dirigem com a mesma velocidade constante e digitam a mesma mensagem em seus celulares. Suponha, ainda, que o tempo gasto pelo motorista X olhando para seu celular enquanto digita a mensagem corresponde a 25% do tempo gasto pelo motorista Y para executar a mesma tarefa.</p><p>A razão entre as distâncias percorridas às cegas por X e Y, nessa ordem, é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{5}{4}\\)",
+    "B": "\\(\\dfrac{1}{4}\\)",
+    "C": "\\(\\dfrac{4}{3}\\)",
+    "D": "\\(\\dfrac{4}{1}\\)",
+    "E": "\\(\\dfrac{3}{4}\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Com a mesma velocidade, a distância às cegas é proporcional ao tempo olhando o celular. O tempo de X é 25% do de Y, isto é, 1/4. A razão entre as distâncias de X e Y é <strong>1/4</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "grandezas proporcionais"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Gráficos",
+   "origem": {
+    "numeroOriginal": 165
+   },
+   "enunciado": "<p>O resultado de uma pesquisa eleitoral, sobre a preferência dos eleitores em relação a dois candidatos, foi representado por meio do Gráfico 1.</p>[[fig:1]]<p>Ao ser divulgado esse resultado em jornal, o Gráfico 1 foi cortado durante a diagramação, como mostra o Gráfico 2.</p>[[fig:2]]<p>Apesar de os valores apresentados estarem corretos e a largura das colunas ser a mesma, muitos leitores criticaram o formato do Gráfico 2 impresso no jornal, alegando que houve prejuízo visual para o candidato B.</p><p>A diferença entre as razões da altura da coluna B pela coluna A nos gráficos 1 e 2 é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q165a.webp",
+     "alt": "Gráfico 1: colunas de eleitores (%) com eixo começando em 0; candidato A com 70% e B com 30%."
+    },
+    {
+     "src": "assets/img/enem-2017-matematica/q165b.webp",
+     "alt": "Gráfico 2: as mesmas colunas, com o eixo começando em 20; A chega a 70 e B a 30, mas a coluna de B parece muito menor."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(0\\)",
+    "B": "\\(\\dfrac{1}{2}\\)",
+    "C": "\\(\\dfrac{1}{5}\\)",
+    "D": "\\(\\dfrac{2}{15}\\)",
+    "E": "\\(\\dfrac{8}{35}\\)"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No Gráfico 1, que começa em zero, as alturas são 70 e 30: razão B/A = 30/70 = 3/7. No Gráfico 2, o eixo começa em 20, e as alturas visíveis são 50 e 10: razão 10/50 = 1/5.</p><p>Diferença: 3/7 − 1/5 = 15/35 − 7/35 = <strong>8/35</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico de colunas",
+    "razão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 166
+   },
+   "enunciado": "<p>Um cientista, em seus estudos para modelar a pressão arterial de uma pessoa, utiliza uma função do tipo <em>P</em>(<em>t</em>) = <em>A</em> + <em>B</em>cos(<em>kt</em>) em que <em>A</em>, <em>B</em> e <em>K</em> são constantes reais positivas e <em>t</em> representa a variável tempo, medida em segundo. Considere que um batimento cardíaco representa o intervalo de tempo entre duas sucessivas pressões máximas.</p><p>Ao analisar um caso específico, o cientista obteve os dados:</p><table class=\"tabela\"><thead><tr><th>Dado</th><th>Valor</th></tr></thead><tbody><tr><td>Pressão mínima</td><td>78</td></tr><tr><td>Pressão máxima</td><td>120</td></tr><tr><td>Número de batimentos cardíacos por minuto</td><td>90</td></tr></tbody></table><p>A função P(t) obtida, por este cientista, ao analisar o caso específico foi</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(P(t) = 99 + 21\\cos(3\\pi t)\\)",
+    "B": "\\(P(t) = 78 + 42\\cos(3\\pi t)\\)",
+    "C": "\\(P(t) = 99 + 21\\cos(2\\pi t)\\)",
+    "D": "\\(P(t) = 99 + 21\\cos(t)\\)",
+    "E": "\\(P(t) = 78 + 42\\cos(t)\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A = média entre a máxima e a mínima: (120 + 78) ÷ 2 = 99. B = metade da diferença: (120 − 78) ÷ 2 = 21.</p><p>São 90 batimentos por minuto, 1,5 por segundo: período de 2/3 s. Então k = 2π ÷ (2/3) = 3π. P(t) = 99 + 21 cos(3πt). Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função cosseno",
+    "período"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 167
+   },
+   "enunciado": "<p>Para decorar uma mesa de festa infantil, um chefe de cozinha usará um melão esférico com diâmetro medindo 10 cm, o qual servirá de suporte para espetar diversos doces. Ele irá retirar uma calota esférica do melão, conforme ilustra a figura, e, para garantir a estabilidade deste suporte, dificultando que o melão role sobre a mesa, o chefe fará o corte de modo que o raio <em>r</em> da seção circular de corte seja de pelo menos 3 cm. Por outro lado, o chefe desejará dispor da maior área possível da região em que serão afixados os doces.</p>[[fig:1]]<p>Para atingir todos os seus objetivos, o chefe deverá cortar a calota do melão numa altura <em>h</em>, em centímetro, igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q167.webp",
+     "alt": "Esfera de centro O cortada por um plano horizontal perto da base: a seção circular tem centro A e raio r até o ponto B; a calota de altura h, abaixo do corte, será eliminada, e a parte de cima receberá os doces."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(5 - \\dfrac{\\sqrt{91}}{2}\\)",
+    "B": "\\(10 - \\sqrt{91}\\)",
+    "C": "1",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para sobrar a maior área para os doces, a calota cortada deve ser a menor possível, com o raio de corte mínimo, r = 3 cm. O centro O, o centro A do corte e o ponto B da borda formam um triângulo retângulo com hipotenusa 5 (raio do melão): OA = √(25 − 9) = 4 cm.</p><p>A altura da calota é h = 5 − 4 = <strong>1 cm</strong>. Alternativa <strong>C</strong>.</p><p>4 cm (D) é a distância do centro ao corte, não a altura da calota.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calota esférica",
+    "teorema de Pitágoras"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Função quadrática",
+   "origem": {
+    "numeroOriginal": 168
+   },
+   "enunciado": "<p>A Igreja de São Francisco de Assis, obra arquitetônica modernista de Oscar Niemeyer, localizada na Lagoa da Pampulha, em Belo Horizonte, possui abóbadas parabólicas. A seta na Figura 1 ilustra uma das abóbadas na entrada principal da capela. A Figura 2 fornece uma vista frontal desta abóbada, com medidas hipotéticas para simplificar os cálculos.</p>[[fig:1]]<p>Qual a medida da altura H, em metro, indicada na Figura 2?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q168.webp",
+     "alt": "Figura 1: desenho da Igreja da Pampulha, com uma seta indicando uma das abóbadas. Figura 2: vista frontal da abóbada em forma de parábola, de altura H; a 3 metros do chão a largura é de 4 metros, e na base é de 5 metros."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\dfrac{16}{3}\\)",
+    "B": "\\(\\dfrac{31}{5}\\)",
+    "C": "\\(\\dfrac{25}{4}\\)",
+    "D": "\\(\\dfrac{25}{3}\\)",
+    "E": "\\(\\dfrac{75}{2}\\)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pondo o eixo de simetria da parábola em x = 0, ela é y = H − kx². Ela toca o chão nas pontas da base de 5 m: x = 2,5, y = 0. E passa a 3 m de altura em x = 2 (largura de 4 m):</p><p>H = 6,25k e H − 4k = 3 → 2,25k = 3 → k = 4/3 → H = 6,25 · 4/3 = <strong>25/3 m</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "parábola",
+    "sistema de equações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 169
+   },
+   "enunciado": "<p>Quanto tempo você fica conectado à internet? Para responder a essa pergunta foi criado um miniaplicativo de computador que roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa acessa cinco <em>sites</em> visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso da sexta-feira para o sábado, nos cinco <em>sites</em> mais acessados. A seguir, temos os dados do miniaplicativo para esses dias.</p>[[fig:1]]<p>Analisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado, foi no <em>site</em></p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q169.webp",
+     "alt": "Dois gráficos de setores, sexta-feira e sábado, com o tempo de acesso em minutos. Sexta: site X 12, Y 30, Z 10, W 38, U 40. Sábado: X 21, Y 51, Z 11, W 57, U 56."
+    }
+   ],
+   "alternativas": {
+    "A": "X.",
+    "B": "Y.",
+    "C": "Z.",
+    "D": "W.",
+    "E": "U."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Taxa de aumento de cada <em>site</em>:</p><ul><li>X: 12 → 21, aumento de 9/12 = 75%;</li><li>Y: 30 → 51, 21/30 = 70%;</li><li>Z: 10 → 11, 10%;</li><li>W: 38 → 57, 50%;</li><li>U: 40 → 56, 40%.</li></ul><p>A maior taxa é a do <em>site</em> <strong>X</strong>. Alternativa <strong>A</strong>.</p><p>O maior aumento absoluto é o de Y (21 minutos), mas a pergunta é sobre a taxa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "taxa de variação",
+    "gráfico de setores"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "assunto": "Leitura de escalas",
+   "origem": {
+    "numeroOriginal": 170
+   },
+   "enunciado": "<p>Neste modelo de termômetro, os filetes na cor preta registram as temperaturas mínima e máxima do dia anterior e os filetes na cor cinza registram a temperatura ambiente atual, ou seja, no momento da leitura do termômetro.</p>[[fig:1]]<p>Por isso ele tem duas colunas. Na da esquerda, os números estão em ordem crescente, de cima para baixo, de -30 °C até 50 °C. Na coluna da direita, os números estão ordenados de forma crescente, de baixo para cima, de -30 °C até 50 °C.</p><p>A leitura é feita da seguinte maneira:</p><ul><li>a temperatura mínima é indicada pelo nível inferior do filete preto na coluna da esquerda;</li><li>a temperatura máxima é indicada pelo nível inferior do filete preto na coluna da direita;</li><li>a temperatura atual é indicada pelo nível superior dos filetes cinza nas duas colunas.</li></ul><p class=\"fonte\">Disponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado).</p><p>Qual é a temperatura máxima mais aproximada registrada nesse termômetro?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q170.webp",
+     "alt": "Termômetro de máxima e mínima com duas colunas. A da esquerda vai de −30 °C (em cima) a 50 °C (embaixo); a da direita, de 50 °C (em cima) a −30 °C (embaixo). Em cada coluna há um filete preto no alto e um filete cinza embaixo; o filete preto da direita termina logo abaixo da marca de 20."
+    }
+   ],
+   "alternativas": {
+    "A": "5 °C",
+    "B": "7 °C",
+    "C": "13 °C",
+    "D": "15 °C",
+    "E": "19 °C"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A máxima é indicada pelo nível inferior do filete preto na coluna da direita, cuja escala cresce de baixo para cima. Nessa coluna, o filete preto vai do topo até pouco abaixo da marca de 20 °C: a leitura é de cerca de <strong>19 °C</strong>. Alternativa <strong>E</strong>.</p><p>Na coluna da esquerda, o fim do filete preto marca a mínima, perto de −5 °C.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de instrumento",
+    "números negativos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Circunferência",
+   "origem": {
+    "numeroOriginal": 171
+   },
+   "enunciado": "<p>Pivô central é um sistema de irrigação muito usado na agricultura, em que uma área circular é projetada para receber uma estrutura suspensa. No centro dessa área, há uma tubulação vertical que transmite água através de um cano horizontal longo, apoiado em torres de sustentação, as quais giram, sobre rodas, em torno do centro do pivô, também chamado de base, conforme mostram as figuras. Cada torre move-se com velocidade constante.</p>[[fig:1]][[fig:2]]<p>Um pivô de três torres (T<sub>1</sub>, T<sub>2</sub> e T<sub>3</sub>) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T<sub>1</sub> são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.</p><p>Para atingir seu objetivo, as velocidades das torres T<sub>1</sub>, T<sub>2</sub> e T<sub>3</sub> devem ser, em metro por hora, de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q171a.webp",
+     "alt": "Foto de um pivô central de irrigação: uma torre metálica no centro de uma plantação, com um longo braço apoiado em torres sobre rodas."
+    },
+    {
+     "src": "assets/img/enem-2017-matematica/q171b.webp",
+     "alt": "Vista de cima: três circunferências concêntricas tracejadas em torno da BASE, com as torres T1, T2 e T3 alinhadas num raio."
+    }
+   ],
+   "alternativas": {
+    "A": "12 , 24 e 36.",
+    "B": "6 , 12 e 18.",
+    "C": "2 , 4 e 6.",
+    "D": "300 , 1 200 e 2 700.",
+    "E": "600 , 2 400 e 5 400."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Em 25 h, cada torre dá uma volta, percorrendo o comprimento da sua circunferência, 2πr = 6r (π ≈ 3):</p><ul><li>T1 (r = 50 m): 300 m ÷ 25 h = 12 m/h;</li><li>T2 (r = 100 m): 600 ÷ 25 = 24 m/h;</li><li>T3 (r = 150 m): 900 ÷ 25 = 36 m/h.</li></ul><p>Alternativa <strong>A</strong>.</p><p>Usar r² em vez de r leva à alternativa E, com áreas em vez de comprimentos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comprimento da circunferência",
+    "velocidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Gráficos",
+   "origem": {
+    "numeroOriginal": 172
+   },
+   "enunciado": "<p>Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água contida em cada reservatório nesse período pode ser visualizada na figura.</p>[[fig:1]]<p>O número de horas em que os dois reservatórios contêm a mesma quantidade de água é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q172.webp",
+     "alt": "Gráfico “Quantidade de água armazenada”, de 0 a 20 h, com dois eixos verticais: o da esquerda, do reservatório A, de 0 a 180 000 L; o da direita, do reservatório B, de 0 a 90 000 L. A (círculos) sobe até 60 000 L em 4 h, desce até 30 000 L em 8 h, fica assim até 9 h e depois sobe até 180 000 L em 19 h. B (triângulos) sobe até 30 000 L em 4 h, fica constante até 10 h, sobe até 75 000 L em 16 h, fica constante até 18 h e chega a 90 000 L em 20 h."
+    }
+   ],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "4.",
+    "D": "5.",
+    "E": "6."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Atenção às escalas: o reservatório A é lido no eixo da esquerda (até 180 000 L), e o B, no da direita (até 90 000 L). Os dois só têm a mesma quantidade quando os valores lidos são iguais. De 8 h a 9 h, A está em 30 000 L (eixo esquerdo), e B também está em 30 000 L (eixo direito). Fora desse trecho, os valores não coincidem por um intervalo de tempo. São <strong>1 hora</strong>. Alternativa <strong>A</strong>.</p><p>Os pontos em que as linhas se cruzam no desenho não indicam quantidades iguais, porque as escalas são diferentes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "escalas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 173
+   },
+   "enunciado": "<p>Para uma temporada das corridas de Fórmula 1, a capacidade do tanque de combustível de cada carro passou a ser de 100 kg de gasolina. Uma equipe optou por utilizar uma gasolina com densidade de 750 gramas por litro, iniciando a corrida com o tanque cheio. Na primeira parada de reabastecimento, um carro dessa equipe apresentou um registro em seu computador de bordo acusando o consumo de quatro décimos da gasolina originalmente existente no tanque. Para minimizar o peso desse carro e garantir o término da corrida, a equipe de apoio reabasteceu o carro com a terça parte do que restou no tanque na chegada ao reabastecimento.</p><p>A quantidade de gasolina utilizada, em litro, no reabastecimento foi</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{20}{0{,}075}\\)",
+    "B": "\\(\\dfrac{20}{0{,}75}\\)",
+    "C": "\\(\\dfrac{20}{7{,}5}\\)",
+    "D": "\\(20 \\times 0{,}075\\)",
+    "E": "\\(20 \\times 0{,}75\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O carro consumiu 4/10 de 100 kg = 40 kg; restaram 60 kg. A equipe pôs a terça parte disso: 20 kg. Com densidade de 750 g/L = 0,75 kg/L, o volume é \\(\\dfrac{20}{0{,}75}\\) litros. Alternativa <strong>B</strong>.</p><p>Dividir por 7,5 ou por 0,075 (A e C) é errar a conversão de gramas para quilogramas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "densidade",
+    "frações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 174
+   },
+   "enunciado": "<p>O gráfico apresenta a taxa de desemprego (em %) para o período de março de 2008 a abril de 2009, obtida com base nos dados observados nas regiões metropolitanas de Recife, Salvador, Belo Horizonte, Rio de Janeiro, São Paulo e Porto Alegre.</p>[[fig:1]]<p class=\"fonte\">IBGE. <strong>Pesquisa mensal de emprego</strong>. Disponível em: www.ibge.gov.br. Acesso em: 30 jul. 2012 (adaptado).</p><p>A mediana dessa taxa de desemprego, no período de março de 2008 a abril de 2009, foi de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-matematica/q174.webp",
+     "alt": "Gráfico de linha da taxa de desemprego (%), de março de 2008 a abril de 2009, com os valores: 8,6; 8,5; 7,9; 7,9; 8,1; 7,6; 7,7; 7,5; 7,6; 6,8; 8,2; 8,5; 9,0; 8,9."
+    }
+   ],
+   "alternativas": {
+    "A": "8,1%",
+    "B": "8,0%",
+    "C": "7,9%",
+    "D": "7,7%",
+    "E": "7,6%"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>São 14 valores (março de 2008 a abril de 2009). Em ordem: 6,8; 7,5; 7,6; 7,6; 7,7; 7,9; 7,9; 8,1; 8,2; 8,5; 8,5; 8,6; 8,9; 9,0.</p><p>A mediana é a média do 7º e do 8º: (7,9 + 8,1) ÷ 2 = <strong>8,0%</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mediana"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 175
+   },
+   "enunciado": "<p>Numa avenida existem 10 semáforos. Por causa de uma pane no sistema, os semáforos ficaram sem controle durante uma hora, e fixaram suas luzes unicamente em verde ou vermelho. Os semáforos funcionam de forma independente; a probabilidade de acusar a cor verde é de \\(\\tfrac{2}{3}\\) e a de acusar a cor vermelha é de \\(\\tfrac{1}{3}\\). Uma pessoa percorreu a pé toda essa avenida durante o período da pane, observando a cor da luz de cada um desses semáforos.</p><p>Qual a probabilidade de que esta pessoa tenha observado exatamente um sinal na cor verde?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{10 \\times 2}{3^{10}}\\)",
+    "B": "\\(\\dfrac{10 \\times 2^9}{3^{10}}\\)",
+    "C": "\\(\\dfrac{2^{10}}{3^{100}}\\)",
+    "D": "\\(\\dfrac{2^{90}}{3^{100}}\\)",
+    "E": "\\(\\dfrac{2}{3^{10}}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Exatamente um verde entre 10: escolhe-se qual semáforo é o verde (10 maneiras), com probabilidade 2/3, e os outros 9 são vermelhos, (1/3)<sup>9</sup>:</p><p>\\(10 \\cdot \\dfrac{2}{3} \\cdot \\left(\\dfrac{1}{3}\\right)^9 = \\dfrac{10 \\times 2}{3^{10}}\\). Alternativa <strong>A</strong>.</p><p>Sem o fator 10 (E), conta-se só um semáforo específico como o verde.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "distribuição binomial"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 41,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 176
+   },
+   "enunciado": "<p>A energia solar vai abastecer parte da demanda de energia do <em>campus</em> de uma universidade brasileira. A instalação de painéis solares na área dos estacionamentos e na cobertura do hospital pediátrico será aproveitada nas instalações universitárias e também ligada na rede da companhia elétrica distribuidora de energia.</p><p>O projeto inclui 100 m² de painéis solares que ficarão instalados nos estacionamentos, produzindo energia elétrica e proporcionando sombra para os carros. Sobre o hospital pediátrico serão colocados aproximadamente 300 m² de painéis, sendo 100 m² para gerar energia elétrica utilizada no <em>campus</em>, e 200 m² para geração de energia térmica, produzindo aquecimento de água utilizada nas caldeiras do hospital.</p><p>Suponha que cada metro quadrado de painel solar para energia elétrica gere uma economia de 1 kWh por dia e cada metro quadrado produzindo energia térmica permita economizar 0,7 kWh por dia para a universidade. Em uma segunda fase do projeto, será aumentada em 75% a área coberta pelos painéis solares que geram energia elétrica. Nessa fase também deverá ser ampliada a área de cobertura com painéis para geração de energia térmica.</p><p class=\"fonte\">Disponível em: http://agenciabrasil.ebc.com.br. Acesso em: 30 out. 2013 (adaptado).</p><p>Para se obter o dobro da quantidade de energia economizada diariamente, em relação à primeira fase, a área total dos painéis que geram energia térmica, em metro quadrado, deverá ter o valor mais próximo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "231.",
+    "B": "431.",
+    "C": "472.",
+    "D": "523.",
+    "E": "672."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na 1ª fase: 200 m² elétricos × 1 = 200 kWh e 200 m² térmicos × 0,7 = 140 kWh; total 340 kWh por dia. O dobro é 680 kWh.</p><p>Na 2ª fase, a área elétrica sobe 75%: 350 m², 350 kWh. Faltam 680 − 350 = 330 kWh térmicos: 330 ÷ 0,7 ≈ <strong>472 m²</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "equação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 177
+   },
+   "enunciado": "<p>Uma empresa construirá sua página na internet e espera atrair um público de aproximadamente um milhão de clientes. Para acessar essa página, será necessária uma senha com formato a ser definido pela empresa. Existem cinco opções de formato oferecidas pelo programador, descritas no quadro, em que “L” e “D” representam, respectivamente, letra maiúscula e dígito.</p><table class=\"tabela\"><thead><tr><th>Opção</th><th>Formato</th></tr></thead><tbody><tr><td>I</td><td>LDDDDD</td></tr><tr><td>II</td><td>DDDDDD</td></tr><tr><td>III</td><td>LLDDDD</td></tr><tr><td>IV</td><td>DDDDD</td></tr><tr><td>V</td><td>LLLDD</td></tr></tbody></table><p>As letras do alfabeto, entre as 26 possíveis, bem como os dígitos, entre os 10 possíveis, podem se repetir em qualquer das opções.</p><p>A empresa quer escolher uma opção de formato cujo número de senhas distintas possíveis seja superior ao número esperado de clientes, mas que esse número não seja superior ao dobro do número esperado de clientes.</p><p>A opção que mais se adequa às condições da empresa é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Número de senhas em cada formato (26 letras, 10 dígitos):</p><ul><li>I (LDDDDD): 26 · 10<sup>5</sup> = 2 600 000;</li><li>II (DDDDDD): 10<sup>6</sup> = 1 000 000;</li><li>III (LLDDDD): 26² · 10<sup>4</sup> = 6 760 000;</li><li>IV (DDDDD): 10<sup>5</sup> = 100 000;</li><li>V (LLLDD): 26³ · 10² = 1 757 600.</li></ul><p>Só a opção <strong>V</strong> fica entre 1 milhão (exclusive) e 2 milhões. Alternativa <strong>E</strong>.</p><p>A II dá exatamente 1 milhão, que não é superior ao número de clientes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo",
+    "senhas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 178
+   },
+   "enunciado": "<p>Como não são adeptos da prática de esportes, um grupo de amigos resolveu fazer um torneio de futebol utilizando <em>videogame</em>. Decidiram que cada jogador joga uma única vez com cada um dos outros jogadores. O campeão será aquele que conseguir o maior número de pontos. Observaram que o número de partidas jogadas depende do número de jogadores, como mostra o quadro:</p><table class=\"tabela\"><thead><tr><th>Quantidade de jogadores</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th></tr></thead><tbody><tr><td>Número de partidas</td><td>1</td><td>3</td><td>6</td><td>10</td><td>15</td><td>21</td></tr></tbody></table><p>Se a quantidade de jogadores for 8, quantas partidas serão realizadas?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "64",
+    "B": "56",
+    "C": "49",
+    "D": "36",
+    "E": "28"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Cada partida é um par de jogadores, sem importar a ordem: com n jogadores, são n(n − 1)/2 partidas (o quadro confere: 7 jogadores dão 21). Com 8: 8 · 7 ÷ 2 = <strong>28</strong>. Alternativa <strong>E</strong>.</p><p>8 · 7 = 56 (B) contaria cada jogo duas vezes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combinação",
+    "sequências"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 179
+   },
+   "enunciado": "<p>Um morador de uma região metropolitana tem 50% de probabilidade de atrasar-se para o trabalho quando chove na região; caso não chova, sua probabilidade de atraso é de 25%. Para um determinado dia, o serviço de meteorologia estima em 30% a probabilidade da ocorrência de chuva nessa região.</p><p>Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,075",
+    "B": "0,150",
+    "C": "0,325",
+    "D": "0,600",
+    "E": "0,800"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Soma das duas situações: chove e ele se atrasa, 0,3 × 0,5 = 0,15; não chove e ele se atrasa, 0,7 × 0,25 = 0,175.</p><p>Total: 0,15 + 0,175 = <strong>0,325</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade total"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Matemática",
+   "assunto": "Taxa de variação",
+   "origem": {
+    "numeroOriginal": 180
+   },
+   "enunciado": "<p>Às 17 h 15 min começa uma forte chuva, que cai com intensidade constante. Uma piscina em forma de um paralelepípedo retângulo, que se encontrava inicialmente vazia, começa a acumular a água da chuva e, às 18 horas, o nível da água em seu interior alcança 20 cm de altura. Nesse instante, é aberto o registro que libera o escoamento da água por um ralo localizado no fundo dessa piscina, cuja vazão é constante. Às 18 h 40 min a chuva cessa e, nesse exato instante, o nível da água na piscina baixou para 15 cm.</p><p>O instante em que a água dessa piscina terminar de escoar completamente está compreendido entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "19 h 30 min e 20 h 10 min.",
+    "B": "19 h 20 min e 19 h 30 min.",
+    "C": "19 h 10 min e 19 h 20 min.",
+    "D": "19 h e 19 h 10 min.",
+    "E": "18 h 40 min e 19 h."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>De 17 h 15 a 18 h (45 min), a chuva sobe o nível 20 cm: 4/9 cm/min. De 18 h a 18 h 40 (40 min), com chuva e ralo juntos, o nível cai 5 cm: −1/8 cm/min. Logo o ralo, sozinho, baixa 4/9 + 1/8 = 41/72 cm/min.</p><p>Depois que a chuva para, faltam 15 cm: 15 ÷ (41/72) = 1 080/41 ≈ 26,3 min. 18 h 40 + 26 min ≈ 19 h 06: entre <strong>19 h e 19 h 10 min</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vazão",
+    "proporcionalidade"
+   ],
+   "area": "Matemática"
+  }
+ ]
+}

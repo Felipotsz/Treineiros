@@ -1,0 +1,1219 @@
+{
+ "id": "enem-2016-humanas",
+ "banca": "Enem",
+ "ano": 2016,
+ "titulo": "Enem 2016: Ciências Humanas",
+ "fonte": "Inep",
+ "dataExame": "2016-11-05",
+ "duracaoMinutos": 135,
+ "area": "Ciências Humanas",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Filosofia",
+   "assunto": "Ética",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p class=\"apoio\">Sentimos que toda satisfação de nossos desejos advinda do mundo assemelha-se à esmola que mantém hoje o mendigo vivo, porém prolonga amanhã a sua fome. A resignação, ao contrário, assemelha-se à fortuna herdada: livra o herdeiro para sempre de todas as preocupações.</p><p class=\"fonte\">SCHOPENHAUER, A. <em>Aforismo para a sabedoria da vida</em>. São Paulo: Martins Fontes, 2005.</p><p>O trecho destaca uma ideia remanescente de uma tradição filosófica ocidental, segundo a qual a felicidade se mostra indissociavelmente ligada à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "consagração de relacionamentos afetivos.",
+    "B": "administração da independência interior.",
+    "C": "fugacidade do conhecimento empírico.",
+    "D": "liberdade de expressão religiosa.",
+    "E": "busca de prazeres efêmeros."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Schopenhauer compara a satisfação dos desejos à esmola, que mata a fome hoje e a prolonga amanhã, e a resignação à fortuna herdada, que livra de preocupações para sempre. A felicidade depende de controlar os próprios desejos: é a <strong>administração da independência interior</strong>, ideia que vem dos estoicos. Alternativa <strong>B</strong>.</p><p>A busca de prazeres efêmeros (E) é justamente o que o texto rejeita.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Schopenhauer",
+    "estoicismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "História",
+   "assunto": "Nova República",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p class=\"apoio\">Batizado por Tancredo Neves de “Nova República”, o período que marca o reencontro do Brasil com os governos civis e a democracia ainda não completou seu quinto ano e já viveu dias de grande comoção. Começou com a tragédia de Tancredo, seguiu pela euforia do Plano Cruzado, conheceu as depressões da inflação e das ameaças da hiperinflação e desembocou na movimentação que antecede as primeiras eleições diretas para presidente em 29 anos.</p><p class=\"fonte\">O álbum dos presidentes: a história vista pelo JB. <em>Jornal do Brasil</em>, 15 nov. 1989.</p><p>O período descrito apresenta continuidades e rupturas em relação à conjuntura histórica anterior. Uma dessas continuidades consistiu na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "representação do legislativo com a fórmula do bipartidarismo.",
+    "B": "detenção de lideranças populares por crimes de subversão.",
+    "C": "presença de políticos com trajetórias no regime autoritário.",
+    "D": "prorrogação das restrições advindas dos atos institucionais.",
+    "E": "estabilidade da economia com o congelamento anual de preços."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A Nova República começou com Tancredo, eleito pelo Colégio Eleitoral, e com Sarney, que tinha sido presidente do partido de apoio à ditadura. Muitos políticos do regime militar continuaram no poder: a continuidade foi a <strong>presença de políticos com trajetórias no regime autoritário</strong>. Alternativa <strong>C</strong>.</p><p>O bipartidarismo e os atos institucionais (A e D) já tinham acabado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "redemocratização",
+    "Sarney"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\">Os moradores de Andalsnes, na Noruega, poderiam se dar ao luxo de morar perto do trabalho nos dias úteis e de se refugiar na calmaria do bosque aos fins de semana. E sem sair da mesma casa. Bastaria achar uma vaga para estacionar o imóvel antes de curtir o novo endereço.</p><p class=\"fonte\">Disponível em: http://casavogue.globo.com. Acesso em: 3 out. 2015 (adaptado).</p><p>Uma vez implementada, essa proposta afetaria a dinâmica do espaço urbano por reduzir a intensidade do seguinte processo:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q03.webp",
+     "alt": "Foto de pequenas casas em forma de caixa colocadas sobre trilhos de trem, num vale entre montanhas, passando sob uma ponte."
+    }
+   ],
+   "alternativas": {
+    "A": "Êxodo rural.",
+    "B": "Movimento pendular.",
+    "C": "Migração de retorno.",
+    "D": "Deslocamento sazonal.",
+    "E": "Ocupação de áreas centrais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A proposta é de casas que se deslocam sobre trilhos, podendo ficar perto do trabalho durante a semana. Com isso, os moradores deixariam de fazer todo dia o trajeto casa-trabalho-casa, o <strong>movimento pendular</strong>. Alternativa <strong>B</strong>.</p><p>Êxodo rural e migração de retorno (A e C) são mudanças definitivas de residência, não idas e vindas diárias.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "migração pendular",
+    "mobilidade urbana"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "Geografia",
+   "assunto": "Rede urbana",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"apoio\">O Rio de Janeiro tem projeção imediata no próprio estado e no Espírito Santo, em parcela do sul do estado da Bahia, e na Zona da Mata, em Minas Gerais, onde tem influência dividida com Belo Horizonte. Compõem a rede urbana do Rio de Janeiro, entre outras cidades: Vitória, Juiz de Fora, Cachoeiro de Itapemirim, Campos dos Goytacazes, Volta Redonda - Barra Mansa, Teixeira de Freitas, Angra dos Reis e Teresópolis.</p><p class=\"fonte\">Disponível em: http://ibge.gov.br. Acesso em: 9 jul. 2015 (adaptado).</p><p>O conceito que expressa a relação entre o espaço apresentado e a cidade do Rio de Janeiro é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Frente pioneira.",
+    "B": "Zona de transição.",
+    "C": "Região polarizada.",
+    "D": "Área de conurbação.",
+    "E": "Periferia metropolitana."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto descreve várias cidades de outros estados que estão sob a influência do Rio de Janeiro, que oferece serviços e comando econômico a elas. Uma metrópole que atrai e comanda uma área ao redor forma uma <strong>região polarizada</strong>. Alternativa <strong>C</strong>.</p><p>Conurbação (D) seria a junção física das manchas urbanas, o que não ocorre entre o Rio e Vitória ou Juiz de Fora.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hierarquia urbana",
+    "polarização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Documentos do século XVI algumas vezes se referem aos habitantes indígenas como “os brasis”, ou “gente brasília” e, ocasionalmente no século XVII, o termo “brasileiro” era a eles aplicado, mas as referências ao <em>status</em> econômico e jurídico desses eram muito mais populares. Assim, os termos “negro da terra” e “índios” eram utilizados com mais frequência do que qualquer outro.</p><p class=\"fonte\">SCHWARTZ, S. B. Gente da terra braziliense da nação. Pensando o Brasil: a construção de um povo. In: MOTA, C. G. (Org.). <em>Viagem incompleta</em>: a experiência brasileira (1500-2000). São Paulo: Senac, 2000 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Índio é um conceito construído no processo de conquista da América pelos europeus. Desinteressados pela diversidade cultural, imbuídos de forte preconceito para com o outro, o indivíduo de outras culturas, espanhóis, portugueses, franceses e anglo-saxões terminaram por denominar da mesma forma povos tão díspares quanto os tupinambás e os astecas.</p><p class=\"fonte\">SILVA, K. V.; SILVA, M. H. <em>Dicionário de conceitos históricos</em>. São Paulo: Contexto, 2005.</p><p>Ao comparar os textos, as formas de designação dos grupos nativos pelos europeus, durante o período analisado, são reveladoras da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "concepção idealizada do território, entendido como geograficamente indiferenciado.",
+    "B": "percepção corrente de uma ancestralidade comum às populações ameríndias.",
+    "C": "compreensão etnocêntrica acerca das populações dos territórios conquistados.",
+    "D": "transposição direta das categorias originadas no imaginário medieval.",
+    "E": "visão utópica configurada a partir de fantasias de riqueza."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os europeus chamaram povos muito diferentes pelo mesmo nome, “índios” ou “negros da terra”, a partir de sua posição econômica e jurídica, sem considerar as culturas desses povos. Isso revela uma <strong>compreensão etnocêntrica acerca das populações dos territórios conquistados</strong>. Alternativa <strong>C</strong>.</p><p>A designação comum não vem do reconhecimento de uma ancestralidade comum (B), mas do desinteresse pela diversidade.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "etnocentrismo",
+    "povos indígenas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "Filosofia",
+   "assunto": "Existencialismo",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p class=\"apoio\">Ser ou não ser — eis a questão.<br>Morrer — dormir — Dormir! Talvez sonhar. Aí está o obstáculo!<br>Os sonhos que hão de vir no sono da morte<br>Quando tivermos escapado ao tumulto vital<br>Nos obrigam a hesitar: e é essa a reflexão<br>Que dá à desventura uma vida tão longa.</p><p class=\"fonte\">SHAKESPEARE, W. <em>Hamlet</em>. Porto Alegre: L&amp;PM, 2007.</p><p>Este solilóquio pode ser considerado um precursor do existencialismo ao enfatizar a tensão entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "consciência de si e angústia humana.",
+    "B": "inevitabilidade do destino e incerteza moral.",
+    "C": "tragicidade da personagem e ordem do mundo.",
+    "D": "racionalidade argumentativa e loucura iminente.",
+    "E": "dependência paterna e impossibilidade de ação."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Hamlet se pergunta se deve viver ou morrer e hesita diante do desconhecido que viria depois da morte: a reflexão sobre a própria existência gera angústia. O existencialismo também parte dessa tensão entre <strong>consciência de si e angústia humana</strong>. Alternativa <strong>A</strong>.</p><p>O solilóquio não fala de destino nem de loucura (B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Shakespeare",
+    "angústia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "Sociologia",
+   "assunto": "Gênero",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p>[[fig:1]]<p class=\"apoio\">Tradução: “As mulheres do futuro farão da Lua um lugar mais limpo para se viver”.</p><p class=\"fonte\">Disponível em: www.propagandashistoricas.com.br. Acesso em: 16 out. 2015.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\"><strong>Metade da nova equipe da Nasa é composta por mulheres</strong></p><p class=\"apoio\">Até hoje, cerca de 350 astronautas americanos já estiveram no espaço, enquanto as mulheres não chegam a ser um terço desse número. Após o anúncio da turma composta 50% por mulheres, alguns internautas escreveram comentários machistas e desrespeitosos sobre a escolha nas redes sociais.</p><p class=\"fonte\">Disponível em: https://catracalivre.com.br. Acesso em: 10 mar. 2016.</p><p>A comparação entre o anúncio publicitário de 1968 e a repercussão da notícia de 2016 mostra a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q07.webp",
+     "alt": "Anúncio antigo em preto e branco: uma mulher com capacete de astronauta segura um frasco de produto de limpeza; embaixo, a frase em inglês sobre as mulheres do futuro e a Lua."
+    }
+   ],
+   "alternativas": {
+    "A": "elitização da carreira científica.",
+    "B": "qualificação da atividade doméstica.",
+    "C": "ambição de indústrias patrocinadoras.",
+    "D": "manutenção de estereótipos de gênero.",
+    "E": "equiparação de papéis nas relações familiares."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O anúncio de 1968 diz que as mulheres do futuro farão da Lua “um lugar mais limpo”: até no espaço, o papel da mulher seria limpar. Em 2016, uma equipe da Nasa metade feminina ainda recebe comentários machistas. Os dois textos mostram a <strong>manutenção de estereótipos de gênero</strong>. Alternativa <strong>D</strong>.</p><p>Os comentários de 2016 mostram que a equiparação de papéis (E) ainda não se completou.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estereótipos de gênero",
+    "publicidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "História",
+   "assunto": "Escravidão",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p class=\"apoio\">A África Ocidental é conhecida pela dinâmica das suas mulheres comerciantes, caracterizadas pela perícia, autonomia e mobilidade. A sua presença, que fora atestada por viajantes e por missionários portugueses que visitaram a costa a partir do século XV, consta também na ampla documentação sobre a região. A literatura é rica em referências às grandes mulheres como as vendedoras ambulantes, cujo jeito para o negócio, bem como a autonomia e mobilidade, é tão típico da região.</p><p class=\"fonte\">HAVIK, P. Dinâmicas e assimetrias afro-atlânticas: a agência feminina e representações em mudança na Guiné (séculos XIX e XX). In: PANTOJA, S. (Org.). <em>Identidades, memórias e histórias em terras africanas</em>. Brasília: LGE; Luanda: Nzila, 2006.</p><p>A abordagem realizada pelo autor sobre a vida social da África Ocidental pode ser relacionada a uma característica marcante das cidades no Brasil escravista nos séculos XVIII e XIX, que se observa pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "restrição à realização do comércio ambulante por africanos escravizados e seus descendentes.",
+    "B": "convivência entre homens e mulheres livres, de diversas origens, no pequeno comércio.",
+    "C": "presença de mulheres negras no comércio de rua de diversos produtos e alimentos.",
+    "D": "dissolução dos hábitos culturais trazidos do continente de origem dos escravizados.",
+    "E": "entrada de imigrantes portugueses nas atividades ligadas ao pequeno comércio urbano."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto destaca as mulheres comerciantes da África Ocidental, autônomas e móveis. Essa tradição reapareceu nas cidades do Brasil escravista, com as escravizadas e libertas que vendiam alimentos e outros produtos nas ruas, as “negras de ganho”. É a <strong>presença de mulheres negras no comércio de rua de diversos produtos e alimentos</strong>. Alternativa <strong>C</strong>.</p><p>Os costumes africanos foram mantidos e adaptados, não dissolvidos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escravos de ganho",
+    "mulheres africanas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "Sociologia",
+   "assunto": "Capitalismo",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p class=\"apoio\">Quanto mais complicada se tornou a produção industrial, mais numerosos passaram a ser os elementos da indústria que exigiam garantia de fornecimento. Três deles eram de importância fundamental: o trabalho, a terra e o dinheiro. Numa sociedade comercial, esse fornecimento só poderia ser organizado de uma forma: tornando-os disponíveis à compra. Agora eles tinham que ser organizados para a venda no mercado. Isso estava de acordo com a exigência de um sistema de mercado. Sabemos que em um sistema como esse, os lucros só podem ser assegurados se se garante a autorregulação por meio de mercados competitivos interdependentes.</p><p class=\"fonte\">POLANYI, K. <em>A grande transformação</em>: as origens de nossa época. Rio de Janeiro: Campus, 2000 (adaptado).</p><p>A consequência do processo de transformação socioeconômica abordado no texto é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "expansão das terras comunais.",
+    "B": "limitação do mercado como meio de especulação.",
+    "C": "consolidação da força de trabalho como mercadoria.",
+    "D": "diminuição do comércio como efeito da industrialização.",
+    "E": "adequação do dinheiro como elemento padrão das transações."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Polanyi mostra que, com a industrialização, trabalho, terra e dinheiro passaram a ser organizados para a venda no mercado. O trabalho humano virou algo que se compra e se vende: a consequência é a <strong>consolidação da força de trabalho como mercadoria</strong>. Alternativa <strong>C</strong>.</p><p>As terras comunais foram cercadas e vendidas, não expandidas (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Polanyi",
+    "mercantilização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 10,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p class=\"apoio\">O que ocorreu na Bahia de 1798, ao contrário das outras situações de contestação política na América portuguesa, é que o projeto que lhe era subjacente não tocou somente na condição, ou no instrumento, da integração subordinada das colônias no império luso. Dessa feita, ao contrário do que se deu nas Minas Gerais (1789), a sedição avançou sobre a sua decorrência.</p><p class=\"fonte\">JANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). <em>Viagem incompleta</em>: a experiência brasileira (1500-2000). São Paulo: Senac, 2000.</p><p>A diferença entre as sedições abordadas no texto encontrava-se na pretensão de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "eliminar a hierarquia militar.",
+    "B": "abolir a escravidão africana.",
+    "C": "anular o domínio metropolitano.",
+    "D": "suprimir a propriedade fundiária.",
+    "E": "extinguir o absolutismo monárquico."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A Inconfidência Mineira (1789) queria a independência da colônia, mas não tocava na escravidão. A Conjuração Baiana (1798), com participação de alfaiates, soldados e escravizados, foi além: “avançou sobre a decorrência” da condição colonial, propondo a igualdade e o fim da escravidão. A diferença estava em <strong>abolir a escravidão africana</strong>. Alternativa <strong>B</strong>.</p><p>Anular o domínio metropolitano (C) era objetivo das duas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Conjuração Baiana",
+    "Inconfidência Mineira"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "História",
+   "assunto": "Patrimônio cultural",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p>[[fig:1]]<p class=\"fonte\">Disponível em: http://portal.iphan.gov.br. Acesso em: 6 abr. 2016.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">A eleição dos novos bens, ou melhor, de novas formas de se conceber a condição do patrimônio cultural nacional, também permite que diferentes grupos sociais, utilizando as leis do Estado e o apoio de especialistas, revejam as imagens e alegorias do seu passado, do que querem guardar e definir como próprio e identitário.</p><p class=\"fonte\">ABREU, M.; SOIHET, R.; GONTIJO, R. (Org.). <em>Cultura política e leituras do passado</em>: historiografia e ensino de história. Rio de Janeiro: Civilização Brasileira, 2007.</p><p>O texto chama a atenção para a importância da proteção de bens que, como aquele apresentado na imagem, se identificam como:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q11.webp",
+     "alt": "Foto em preto e branco das mãos de um artesão trabalhando no corpo de madeira de uma viola em construção."
+    }
+   ],
+   "alternativas": {
+    "A": "Artefatos sagrados.",
+    "B": "Heranças materiais.",
+    "C": "Objetos arqueológicos.",
+    "D": "Peças comercializáveis.",
+    "E": "Conhecimentos tradicionais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A foto mostra as mãos de um artesão fabricando uma viola, um saber transmitido entre gerações e registrado pelo Iphan como patrimônio. O texto fala de novas formas de patrimônio, além dos bens materiais. O bem protegido é um dos <strong>conhecimentos tradicionais</strong>. Alternativa <strong>E</strong>.</p><p>O que se protege é o modo de fazer, não o objeto em si (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "patrimônio imaterial",
+    "Iphan"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 12,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p class=\"apoio\">No início de maio de 2014, a instalação da plataforma petrolífera de perfuração HYSY-981 nas águas contestadas do Mar da China Meridional suscitou especulações sobre as motivações chinesas. Na avaliação de diversos observadores ocidentais, Pequim pretendeu, com esse gesto, demonstrar que pode impor seu controle e dissuadir outros países de seguir com suas reivindicações de direito de exploração dessas águas, como é o caso do Vietnã e das Filipinas.</p><p class=\"fonte\">KLARE, M.T. A guerra pelo petróleo se joga no mar. <em>Le Monde Diplomatique Brasil</em>, abr. 2015.</p><p>A ação da China em relação à situação descrita no texto evidencia um conflito que tem como foco o(a):</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Distribuição das zonas econômicas especiais.",
+    "B": "Monopólio das inovações tecnológicas extrativas.",
+    "C": "Dinamização da atividade comercial.",
+    "D": "Jurisdição da soberania territorial.",
+    "E": "Embargo da produção industrial."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A China instalou uma plataforma em águas que Vietnã e Filipinas também reivindicam, para mostrar que pode impor seu controle. O conflito é sobre quem tem soberania sobre aquelas águas: a <strong>jurisdição da soberania territorial</strong>. Alternativa <strong>D</strong>.</p><p>O texto não trata de zonas econômicas especiais (A), que são áreas de incentivo dentro da China.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Mar da China Meridional",
+    "petróleo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 13,
+   "materia": "História",
+   "assunto": "Ditaduras na América Latina",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p class=\"apoio\">A Operação Condor está diretamente vinculada às experiências históricas das ditaduras civil-militares que se disseminaram pelo Cone Sul entre as décadas de 1960 e 1980. Depois do Brasil (e do Paraguai de Stroessner), foi a vez da Argentina (1966), Bolívia (1966 e 1971), Uruguai e Chile (1973) e Argentina (novamente, em 1976). Em todos os casos se instalaram ditaduras civil-militares (em menor ou maior medida) com base na Doutrina de Segurança Nacional e tendo como principais características um anticomunismo militante, a identificação do inimigo interno, a imposição do papel político das Forças Armadas e a definição de fronteiras ideológicas.</p><p class=\"fonte\">PADRÓS, E. S. et al. <em>Ditadura de Segurança Nacional no Rio Grande do Sul (1964-1985)</em>: história e memória. Porto Alegre: Corag, 2009 (adaptado).</p><p>Levando-se em conta o contexto em que foi criada, a referida operação tinha como objetivo coordenar a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "modificação de limites territoriais.",
+    "B": "sobrevivência de oficiais exilados.",
+    "C": "interferência de potências mundiais.",
+    "D": "repressão de ativistas oposicionistas.",
+    "E": "implantação de governos nacionalistas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Operação Condor foi a colaboração entre as ditaduras do Cone Sul, apoiadas na Doutrina de Segurança Nacional e no anticomunismo, para trocar informações e perseguir opositores além das fronteiras. O objetivo era coordenar a <strong>repressão de ativistas oposicionistas</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Operação Condor",
+    "Doutrina de Segurança Nacional"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p class=\"apoio\">A regulação das relações de trabalho compõe uma estrutura complexa, em que cada elemento se ajusta aos demais. A Justiça do Trabalho é apenas uma das peças dessa vasta engrenagem. A presença de representantes classistas na composição dos órgãos da Justiça do Trabalho é também resultante da montagem dessa regulação. O poder normativo também reflete essa característica. Instituída pela Constituição de 1934, a Justiça do Trabalho só vicejou no ambiente político do Estado Novo instaurado em 1937.</p><p class=\"fonte\">ROMITA, A. S. Justiça do Trabalho: produto do Estado Novo. In: PANDOLFI, D. (Org.). <em>Repensando o Estado Novo</em>. Rio de Janeiro: Editora FGV, 1999.</p><p>A criação da referida instituição estatal na conjuntura histórica abordada teve por objetivo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "legitimar os protestos fabris.",
+    "B": "ordenar os conflitos laborais.",
+    "C": "oficializar os sindicatos plurais.",
+    "D": "assegurar os princípios liberais.",
+    "E": "unificar os salários profissionais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A Justiça do Trabalho, instalada no Estado Novo, fazia parte da estrutura em que o Estado regulava as relações entre patrões e empregados, com sindicatos controlados e representantes classistas. O objetivo era <strong>ordenar os conflitos laborais</strong> dentro do Estado. Alternativa <strong>B</strong>.</p><p>O Estado Novo combatia greves e sindicatos livres (A e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Justiça do Trabalho",
+    "corporativismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "Sociologia",
+   "assunto": "Indústria cultural",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p class=\"apoio\">Hoje, a indústria cultural assumiu a herança civilizatória da democracia de pioneiros e empresários, que tampouco desenvolvera uma fineza de sentido para os desvios espirituais. Todos são livres para dançar e para se divertir, do mesmo modo que, desde a neutralização histórica da religião, são livres para entrar em qualquer uma das inúmeras seitas. Mas a liberdade de escolha da ideologia, que reflete sempre a coerção econômica, revela-se em todos os setores como a liberdade de escolher o que é sempre a mesma coisa.</p><p class=\"fonte\">ADORNO, T; HORKHEIMER, M. <em>Dialética do esclarecimento</em>: fragmentos filosóficos. Rio de Janeiro: Zahar, 1985.</p><p>A liberdade de escolha na civilização ocidental, de acordo com a análise do texto, é um(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "legado social.",
+    "B": "patrimônio político.",
+    "C": "produto da moralidade.",
+    "D": "conquista da humanidade.",
+    "E": "ilusão da contemporaneidade."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Adorno e Horkheimer dizem que todos são “livres” para se divertir e escolher, mas a escolha reflete a coerção econômica e “é sempre a mesma coisa”. A liberdade de escolha oferecida pela indústria cultural é uma <strong>ilusão da contemporaneidade</strong>. Alternativa <strong>E</strong>.</p><p>O texto não vê essa liberdade como conquista (D): ela é aparente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Escola de Frankfurt",
+    "indústria cultural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "Geografia",
+   "assunto": "Blocos econômicos",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Parceria Transpacífica</strong></p>[[fig:1]]<p class=\"fonte\">Disponível em: http://portuguese.brazil.usembassy.gov. Acesso em: 11 maio 2016 (adaptado).</p><p>Dentro das atuais redes produtivas, o referido bloco apresenta composição estratégica por se tratar de um conjunto de países com</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q16.webp",
+     "alt": "Mapa-múndi centrado no Pacífico com os países da Parceria Transpacífica destacados: Canadá, Estados Unidos, México, Peru, Chile, Japão, Vietnã, Malásia, Cingapura, Brunei, Austrália e Nova Zelândia."
+    }
+   ],
+   "alternativas": {
+    "A": "elevado padrão social.",
+    "B": "sistema monetário integrado.",
+    "C": "alto desenvolvimento tecnológico.",
+    "D": "identidades culturais semelhantes.",
+    "E": "vantagens locacionais complementares."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Parceria Transpacífica reúne países muito diferentes dos dois lados do Pacífico: economias ricas e inovadoras (EUA, Japão, Canadá, Austrália) e países com mão de obra barata ou recursos naturais (Vietnã, Malásia, México, Peru, Chile). Juntos, eles se completam nas cadeias produtivas: <strong>vantagens locacionais complementares</strong>. Alternativa <strong>E</strong>.</p><p>Os países não têm padrão social, moeda ou cultura em comum (A, B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Parceria Transpacífica",
+    "cadeias produtivas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Geografia",
+   "assunto": "Cartografia",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: www.unric.org. Acesso em: 9 ago. 2013.</p><p>A ONU faz referência a uma projeção cartográfica em seu logotipo. A figura que ilustra o modelo dessa projeção é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q17.webp",
+     "alt": "Logotipo da ONU: o mapa-múndi visto a partir do Polo Norte, com círculos concêntricos e linhas que partem do centro, cercado por dois ramos de oliveira."
+    },
+    {
+     "src": "assets/img/enem-2016-humanas/q17a.webp",
+     "alt": "Alternativa A: um globo com um plano circular encostado no Polo Norte."
+    },
+    {
+     "src": "assets/img/enem-2016-humanas/q17b.webp",
+     "alt": "Alternativa B: um globo envolvido por um cone, com o vértice acima do polo."
+    },
+    {
+     "src": "assets/img/enem-2016-humanas/q17c.webp",
+     "alt": "Alternativa C: um globo dentro de um cilindro vertical."
+    },
+    {
+     "src": "assets/img/enem-2016-humanas/q17d.webp",
+     "alt": "Alternativa D: um globo com um plano inclinado encostado num ponto qualquer da superfície."
+    },
+    {
+     "src": "assets/img/enem-2016-humanas/q17e.webp",
+     "alt": "Alternativa E: um globo dentro de um cilindro deitado, na horizontal."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O logotipo da ONU mostra o mundo visto de cima do Polo Norte, com os continentes em volta dele e paralelos em círculos concêntricos. É uma projeção azimutal (plana), em que o plano de projeção toca o globo num ponto, o polo. O modelo correto mostra um plano tangente ao polo. Alternativa <strong>A</strong>.</p><p>O cone (B) e o cilindro (C, E) dão as projeções cônica e cilíndrica.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "projeção azimutal",
+    "projeções cartográficas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "Geografia",
+   "assunto": "Questões ambientais",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"apoio\">Segundo a Conferência de Quioto, os países centrais industrializados, responsáveis históricos pela poluição, deveriam alcançar a meta de redução de 5,2% do total de emissões segundo níveis de 1990. O nó da questão é o enorme custo desse processo, demandando mudanças radicais nas indústrias para que se adaptem rapidamente aos limites de emissão estabelecidos e adotem tecnologias energéticas limpas. A comercialização internacional de créditos de sequestro ou de redução de gases causadores do efeito estufa foi a solução encontrada para reduzir o custo global do processo. Países ou empresas que conseguirem reduzir as emissões abaixo de suas metas poderão vender este crédito para outro país ou empresa que não consiga.</p><p class=\"fonte\">BECKER, B. <em>Amazônia</em>: geopolítica na virada do II milênio. Rio de Janeiro: Garamond, 2009.</p><p>As posições contrárias à estratégia de compensação presente no texto relacionam-se à ideia de que ela promove</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "retração nos atuais níveis de consumo.",
+    "B": "surgimento de conflitos de caráter diplomático.",
+    "C": "diminuição dos lucros na produção de energia.",
+    "D": "desigualdade na distribuição do impacto ecológico.",
+    "E": "decréscimo dos índices de desenvolvimento econômico."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo mercado de créditos de carbono, países e empresas que poluem mais podem comprar créditos de quem polui menos, em vez de reduzir as próprias emissões. Os críticos dizem que os ricos continuam poluindo e transferem o esforço para os pobres: a estratégia promove a <strong>desigualdade na distribuição do impacto ecológico</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Protocolo de Quioto",
+    "créditos de carbono"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p class=\"apoio\">Dados recentes mostram que muitos são os países periféricos que dependem dos recursos enviados pelos imigrantes que estão nos países centrais. Grande parte dos países da América Latina, por exemplo, depende hoje das remessas de seus imigrantes. Para se ter uma ideia mais concreta, recentes dados divulgados pela ONU revelaram que somente os indianos recebem 10 bilhões de dólares de seus compatriotas no exterior. No México, segundo maior volume de divisas, esse valor chega a 9,9 bilhões de dólares e nas Filipinas, o terceiro, a 8,4 bilhões.</p><p class=\"fonte\">HAESBAERT, R.; PORTO-GONÇALVES, C. W. <em>A nova des-ordem mundial</em>. São Paulo: Edunesp, 2006.</p><p>Um aspecto do mundo globalizado que facilitou a ocorrência do processo descrito, na transição do século XX para o século XXI, foi o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "integração de culturas distintas.",
+    "B": "avanço técnico das comunicações.",
+    "C": "quebra de barreiras alfandegárias.",
+    "D": "flexibilização de regras trabalhistas.",
+    "E": "desconcentração espacial da produção."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As remessas de imigrantes para seus países de origem ficaram mais fáceis com o avanço das telecomunicações e da informática, que permitem transferir dinheiro de forma rápida e barata entre países. Alternativa <strong>B</strong>.</p><p>Os países centrais continuaram restringindo a imigração e o trabalho estrangeiro; não houve quebra de barreiras para pessoas (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "remessas",
+    "redes de comunicação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "Filosofia",
+   "assunto": "Racionalismo",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\">Nunca nos tornaremos matemáticos, por exemplo, embora nossa memória possua todas as demonstrações feitas por outros, se nosso espírito não for capaz de resolver toda espécie de problemas; não nos tornaríamos filósofos, por ter lido todos os raciocínios de Platão e Aristóteles, sem poder formular um juízo sólido sobre o que nos é proposto. Assim, de fato, pareceríamos ter aprendido, não ciências, mas histórias.</p><p class=\"fonte\">DESCARTES, R. <em>Regras para a orientação do espírito</em>. São Paulo: Martins Fontes, 1999.</p><p>Em sua busca pelo saber verdadeiro, o autor considera o conhecimento, de modo crítico, como resultado da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "investigação de natureza empírica.",
+    "B": "retomada da tradição intelectual.",
+    "C": "imposição de valores ortodoxos.",
+    "D": "autonomia do sujeito pensante.",
+    "E": "liberdade do agente moral."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Descartes diz que decorar demonstrações e raciocínios de outros não torna ninguém matemático ou filósofo: é preciso ser capaz de julgar por si. O conhecimento verdadeiro vem da <strong>autonomia do sujeito pensante</strong>. Alternativa <strong>D</strong>.</p><p>Retomar Platão e Aristóteles (B) é justamente o que ele critica como “histórias”.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Descartes",
+    "método"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "História",
+   "assunto": "Roma Antiga",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"apoio\">Pois quem seria tão inútil ou indolente a ponto de não desejar saber como e sob que espécie de constituição os romanos conseguiram em menos de cinquenta e três anos submeter quase todo o mundo habitado ao seu governo exclusivo — fato nunca antes ocorrido? Ou, em outras palavras, quem seria tão apaixonadamente devotado a outros espetáculos ou estudos a ponto de considerar qualquer outro objetivo mais importante que a aquisição desse conhecimento?</p><p class=\"fonte\">POLÍBIO. <em>História</em>. Brasília: Editora UnB, 1985.</p><p>A experiência a que se refere o historiador Políbio, nesse texto escrito no século II a.C., é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ampliação do contingente de camponeses livres.",
+    "B": "consolidação do poder das falanges hoplitas.",
+    "C": "concretização do desígnio imperialista.",
+    "D": "adoção do monoteísmo cristão.",
+    "E": "libertação do domínio etrusco."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Políbio quer explicar como os romanos submeteram “quase todo o mundo habitado” em menos de 53 anos, nas guerras contra Cartago e os reinos helenísticos. A experiência é a <strong>concretização do desígnio imperialista</strong> de Roma. Alternativa <strong>C</strong>.</p><p>O cristianismo (D) surgiu séculos depois, e a libertação dos etruscos (E) é muito anterior.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Políbio",
+    "expansão romana"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "História",
+   "assunto": "Oriente Médio",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">SATRAPI, M. <em>Persépolis</em>. São Paulo: Cia. das Letras, 2007 (adaptado).</p><p>A memória recuperada pela autora apresenta a relação entre</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q22.webp",
+     "alt": "Quadrinhos de Persépolis: a narradora, de véu, diz que tinha 10 anos em 1980; em outro quadro, sua classe de meninas, todas de véu; abaixo, cenas da Revolução Islâmica de 1979 e do véu tornado obrigatório nas escolas em 1980."
+    }
+   ],
+   "alternativas": {
+    "A": "conflito trabalhista e engajamento sindical.",
+    "B": "organização familiar e proteção à infância.",
+    "C": "centralização econômica e pregação religiosa.",
+    "D": "estrutura educacional e desigualdade de renda.",
+    "E": "transformação política e modificação de costumes."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Marjane Satrapi lembra que, depois da Revolução Islâmica de 1979, o véu passou a ser obrigatório nas escolas, e as meninas aparecem de véu e separadas por sexo. A mudança de regime mudou o cotidiano: <strong>transformação política e modificação de costumes</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Revolução Iraniana",
+    "Persépolis"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "Filosofia",
+   "assunto": "Pré-socráticos",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Fragmento B91: Não se pode banhar duas vezes no mesmo rio, nem substância mortal alcançar duas vezes a mesma condição; mas pela intensidade e rapidez da mudança, dispersa e de novo reúne.</p><p class=\"fonte\">HERÁCLITO. <em>Fragmentos (Sobre a natureza)</em>. São Paulo: Abril Cultural, 1996 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Fragmento B8: São muitos os sinais de que o ser é ingênito e indestrutível, pois é compacto, inabalável e sem fim; não foi nem será, pois é agora um todo homogêneo, uno, contínuo. Como poderia o que é perecer? Como poderia gerar-se?</p><p class=\"fonte\">PARMÊNIDES. <em>Da natureza</em>. São Paulo: Loyola, 2002 (adaptado).</p><p>Os fragmentos do pensamento pré-socrático expõem uma oposição que se insere no campo das</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "investigações do pensamento sistemático.",
+    "B": "preocupações do período mitológico.",
+    "C": "discussões de base ontológica.",
+    "D": "habilidades da retórica sofística.",
+    "E": "verdades do mundo sensível."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Heráclito diz que tudo muda (“não se pode banhar duas vezes no mesmo rio”); Parmênides, que o ser é imutável, sem começo nem fim. A oposição entre devir e permanência trata da natureza do ser: são <strong>discussões de base ontológica</strong>. Alternativa <strong>C</strong>.</p><p>Os pré-socráticos rompem com a explicação mitológica (B) e são anteriores aos sofistas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Heráclito",
+    "Parmênides"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "Sociologia",
+   "assunto": "Democracia",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"apoio\">A democracia deliberativa afirma que as partes do conflito político devem deliberar entre si e, por meio de argumentação razoável, tentar chegar a um acordo sobre as políticas que seja satisfatório para todos. A democracia ativista desconfia das exortações à deliberação por acreditar que, no mundo real da política, onde as desigualdades estruturais influenciam procedimentos e resultados, processos democráticos que parecem cumprir as normas de deliberação geralmente tendem a beneficiar os agentes mais poderosos. Ela recomenda, portanto, que aqueles que se preocupam com a promoção de mais justiça devem realizar principalmente a atividade de oposição crítica, em vez de tentar chegar a um acordo com quem sustenta estruturas de poder existentes ou delas se beneficia.</p><p class=\"fonte\">YOUNG, I. M. Desafios ativistas à democracia deliberativa. <em>Revista Brasileira de Ciência Política</em>, n. 13, jan.-abr. 2014.</p><p>As concepções de democracia deliberativa e de democracia ativista apresentadas no texto tratam como imprescindíveis, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a decisão da maioria e a uniformização de direitos.",
+    "B": "a organização de eleições e o movimento anarquista.",
+    "C": "a obtenção do consenso e a mobilização das minorias.",
+    "D": "a fragmentação da participação e a desobediência civil.",
+    "E": "a imposição de resistência e o monitoramento da liberdade."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A democracia deliberativa quer chegar, pelo diálogo racional, a um acordo satisfatório para todos: a <strong>obtenção do consenso</strong>. A ativista desconfia desse diálogo, porque as desigualdades favorecem os poderosos, e defende a oposição crítica e a <strong>mobilização das minorias</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "democracia deliberativa",
+    "ativismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "Filosofia",
+   "assunto": "Ética",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"apoio\">A promessa da tecnologia moderna se converteu em uma ameaça, ou esta se associou àquela de forma indissolúvel. Ela vai além da constatação da ameaça física. Concebida para a felicidade humana, a submissão da natureza, na sobremedida de seu sucesso, que agora se estende à própria natureza do homem, conduziu ao maior desafio já posto ao ser humano pela sua própria ação. O novo continente da práxis coletiva que adentramos com a alta tecnologia ainda constitui, para a teoria ética, uma terra de ninguém.</p><p class=\"fonte\">JONAS, H. <em>O princípio da responsabilidade</em>. Rio de Janeiro: Contraponto; Editora PUC-Rio, 2011 (adaptado).</p><p>As implicações éticas da articulação apresentada no texto impulsionam a necessidade de construção de um novo padrão de comportamento, cujo objetivo consiste em garantir o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pragmatismo da escolha individual.",
+    "B": "sobrevivência de gerações futuras.",
+    "C": "fortalecimento de políticas liberais.",
+    "D": "valorização de múltiplas etnias.",
+    "E": "promoção da inclusão social."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Hans Jonas diz que a técnica moderna ameaça a própria natureza humana e o futuro, exigindo uma nova ética da responsabilidade: agir de modo que a vida humana continue possível na Terra. O objetivo é garantir a <strong>sobrevivência de gerações futuras</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Hans Jonas",
+    "princípio responsabilidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p>[[fig:1]]<p class=\"fonte\"><em>Imagem de São Benedito</em>. Disponível em: http://acervo.bndigital.bn.br. Acesso em: 6 jan. 2016 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Os santos tornaram-se grandes aliados da Igreja para atrair novos devotos, pois eram obedientes a Deus e ao poder clerical. Contando e estimulando o conhecimento sobre a vida dos santos, a Igreja transmitia aos fiéis os ensinamentos que julgava corretos e que deviam ser imitados por escravos que, em geral, traziam outras crenças de suas terras de origem, muito diferentes das que preconizava a fé católica.</p><p class=\"fonte\">OLIVEIRA, A. J. Negra devoção. <em>Revista de História da Biblioteca Nacional</em>, n. 20, maio 2007 (adaptado).</p><p>Posteriormente ressignificados no interior de certas irmandades e no contato com outra matriz religiosa, o ícone e a prática mencionada no texto estiveram desde o século XVII relacionados a um esforço da Igreja Católica para</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q26.webp",
+     "alt": "Gravura antiga emoldurada de São Benedito: um santo negro, com auréola, vestido com hábito e capa ricamente decorados, segurando o Menino Jesus."
+    }
+   ],
+   "alternativas": {
+    "A": "reduzir o poder das confrarias.",
+    "B": "cristianizar a população afro-brasileira.",
+    "C": "espoliar recursos materiais dos cativos.",
+    "D": "recrutar libertos para seu corpo eclesiástico.",
+    "E": "atender a demanda popular por padroeiros locais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>São Benedito, santo negro, era usado pela Igreja para atrair escravizados à fé católica, oferecendo-lhes um modelo de obediência. A imagem e a prática de contar a vida dos santos serviam para <strong>cristianizar a população afro-brasileira</strong>. Alternativa <strong>B</strong>.</p><p>As irmandades negras ressignificaram esses santos depois; a intenção da Igreja não era reduzir as confrarias (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "catequese",
+    "santos negros"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 27,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"apoio\">Em 1935, o governo brasileiro começou a negar vistos a judeus. Posteriormente, durante o Estado Novo, uma circular secreta proibiu a concessão de vistos a “pessoas de origem semita”, inclusive turistas e negociantes, o que causou uma queda de 75% da imigração judaica ao longo daquele ano. Entretanto, mesmo com as imposições da lei, muitos judeus continuaram entrando ilegalmente no país durante a guerra e as ameaças de deportação em massa nunca foram concretizadas, apesar da extradição de alguns indivíduos por sua militância política.</p><p class=\"fonte\">GRIMBERG, K. Nova língua interior: 500 anos de história dos judeus no Brasil. In: IBGE. <em>Brasil: 500 anos de povoamento</em>. Rio de Janeiro: IBGE, 2000 (adaptado).</p><p>Uma razão para a adoção da política de imigração mencionada no texto foi o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "receio do controle sionista sobre a economia nacional.",
+    "B": "reserva de postos de trabalho para a mão de obra local.",
+    "C": "oposição do clero católico à expansão de novas religiões.",
+    "D": "apoio da diplomacia varguista às opiniões dos líderes árabes.",
+    "E": "simpatia de membros da burocracia pelo projeto totalitário alemão."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No Estado Novo, setores do governo simpatizavam com o nazifascismo, e circulares secretas proibiram vistos a “pessoas de origem semita”. O antissemitismo da política imigratória reflete a <strong>simpatia de membros da burocracia pelo projeto totalitário alemão</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "antissemitismo",
+    "Estado Novo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 28,
+   "materia": "Filosofia",
+   "assunto": "Filosofia helenística",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"apoio\">Pirro afirmava que nada é nobre nem vergonhoso, justo ou injusto; e que, da mesma maneira, nada existe do ponto de vista da verdade; que os homens agem apenas segundo a lei e o costume, nada sendo mais isto do que aquilo. Ele levou uma vida de acordo com esta doutrina, nada procurando evitar e não se desviando do que quer que fosse, suportando tudo, carroças, por exemplo, precipícios, cães, nada deixando ao arbítrio dos sentidos.</p><p class=\"fonte\">LAÉRCIO, D. <em>Vidas e sentenças dos filósofos ilustres</em>. Brasília: Editora UnB, 1988.</p><p>O ceticismo, conforme sugerido no texto, caracteriza-se por:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Desprezar quaisquer convenções e obrigações da sociedade.",
+    "B": "Atingir o verdadeiro prazer como o princípio e o fim da vida feliz.",
+    "C": "Defender a indiferença e a impossibilidade de obter alguma certeza.",
+    "D": "Aceitar o determinismo e ocupar-se com a esperança transcendente.",
+    "E": "Agir de forma virtuosa e sábia a fim de enaltecer o homem bom e belo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pirro dizia que nada é justo ou injusto em si e que não se alcança a verdade, por isso suspendia o juízo e vivia indiferente a tudo. O ceticismo se caracteriza por <strong>defender a indiferença e a impossibilidade de obter alguma certeza</strong>. Alternativa <strong>C</strong>.</p><p>O prazer como fim da vida (B) é o epicurismo; desprezar convenções (A), o cinismo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ceticismo",
+    "Pirro"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"apoio\">O conceito de função social da cidade incorpora a organização do espaço físico como fruto da regulação social, isto é, a cidade deve contemplar todos os seus moradores e não somente aqueles que estão no mercado formal da produção capitalista da cidade. A tradição dos códigos de edificação, uso e ocupação do solo no Brasil sempre partiram do pressuposto de que a cidade não tem divisões entre os incluídos e os excluídos socialmente.</p><p class=\"fonte\">QUINTO JR., L. P. Nova legislação urbana e os velhos fantasmas. <em>Estudos Avançados</em> (USP), n. 47, 2003 (adaptado).</p><p>Uma política governamental que contribui para viabilizar a função social da cidade, nos moldes indicados no texto, é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "qualificação de serviços públicos em bairros periféricos.",
+    "B": "implantação de centros comerciais em eixos rodoviários.",
+    "C": "proibição de construções residenciais em regiões íngremes.",
+    "D": "disseminação de equipamentos culturais em locais turísticos.",
+    "E": "desregulamentação do setor imobiliário em áreas favelizadas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A função social da cidade exige que ela atenda a todos os moradores, inclusive os que estão fora do mercado formal. Uma política nesse sentido é a <strong>qualificação de serviços públicos em bairros periféricos</strong>, onde vivem os excluídos. Alternativa <strong>A</strong>.</p><p>Desregulamentar o mercado imobiliário nas favelas (E) favoreceria a especulação, não os moradores.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função social da cidade",
+    "Estatuto da Cidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 30,
+   "materia": "Geografia",
+   "assunto": "Biomas",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p class=\"apoio\">O bioma Cerrado foi considerado recentemente um dos 25 <em>hotspots</em> de biodiversidade do mundo, segundo uma análise em escala mundial das regiões biogeográficas sobre áreas globais prioritárias para conservação. O conceito de <em>hotspot</em> foi criado tendo em vista a escassez de recursos direcionados para conservação, com o objetivo de apresentar os chamados “pontos quentes”, ou seja, locais para os quais existe maior necessidade de direcionamento de esforços, buscando evitar a extinção de muitas espécies que estão altamente ameaçadas por ações antrópicas.</p><p class=\"fonte\">PINTO, P. P.; DINIZ-FILHO, J. A. F. In: ALMEIDA, M. G. (Org.). <em>Tantos cerrados</em>: múltiplas abordagens sobre a biogeodiversidade e singularidade cultural. Goiânia: Vieira, 2005 (adaptado).</p><p>A necessidade desse tipo de ação na área mencionada tem como causa a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "intensificação da atividade turística.",
+    "B": "implantação de parques ecológicos.",
+    "C": "exploração dos recursos minerais.",
+    "D": "elevação do extrativismo vegetal.",
+    "E": "expansão da fronteira agrícola."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O Cerrado é considerado um <em>hotspot</em> porque perdeu grande parte da vegetação original e está muito ameaçado. A principal causa é a <strong>expansão da fronteira agrícola</strong>, com a soja e a pecuária ocupando o Centro-Oeste. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Cerrado",
+    "hotspot"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "Geografia",
+   "assunto": "Migrações",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Mais de 50 mil refugiados entraram no território húngaro apenas no primeiro semestre de 2015. Budapeste lançou os “trabalhos preparatórios” para a construção de um muro de quatro metros de altura e 175 km ao longo de sua fronteira com a Sérvia, informou o ministro húngaro das Relações Exteriores. “Uma resposta comum da União Europeia a este desafio da imigração é muito demorada, e a Hungria não pode esperar. Temos que agir”, justificou o ministro.</p><p class=\"fonte\">Disponível em: www.portugues.rfi.fr. Acesso em: 19 jun. 2015 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">O Alto Comissariado das Nações Unidas para Refugiados (ACNUR) critica as manifestações de xenofobia adotadas pelo governo da Hungria. O país foi invadido por cartazes nos quais o chefe do executivo insta os imigrantes a respeitarem as leis e a não “roubarem” os empregos dos húngaros. Para o ACNUR, a medida é surpreendente, pois a xenofobia costuma ser instigada por pequenos grupos radicais e não pelo próprio governo do país.</p><p class=\"fonte\">Disponível em: http://pt.euronews.com. Acesso em: 19 jun. 2015 (adaptado).</p><p>O posicionamento governamental citado nos textos é criticado pelo ACNUR por ser considerado um caminho para o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "alteração do regime político.",
+    "B": "fragilização da supremacia nacional.",
+    "C": "expansão dos domínios geográficos.",
+    "D": "cerceamento da liberdade de expressão.",
+    "E": "fortalecimento das práticas de discriminação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O governo húngaro ergueu um muro na fronteira e espalhou cartazes acusando imigrantes de “roubar” empregos. O ACNUR critica essa xenofobia promovida pelo próprio governo, que abre caminho para o <strong>fortalecimento das práticas de discriminação</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "xenofobia",
+    "refugiados"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "Sociologia",
+   "assunto": "Durkheim",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p class=\"apoio\">A sociologia ainda não ultrapassou a era das construções e das sínteses filosóficas. Em vez de assumir a tarefa de lançar luz sobre uma parcela restrita do campo social, ela prefere buscar as brilhantes generalidades em que todas as questões são levantadas sem que nenhuma seja expressamente tratada. Não é com exames sumários e por meio de intuições rápidas que se pode chegar a descobrir as leis de uma realidade tão complexa. Sobretudo, generalizações às vezes tão amplas e tão apressadas não são suscetíveis de nenhum tipo de prova.</p><p class=\"fonte\">DURKHEIM, E. <em>O suicídio</em>: estudo de sociologia. São Paulo: Martins Fontes, 2000.</p><p>O texto expressa o esforço de Émile Durkheim em construir uma sociologia com base na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "vinculação com a filosofia como saber unificado.",
+    "B": "reunião de percepções intuitivas para demonstração.",
+    "C": "formulação de hipóteses subjetivas sobre a vida social.",
+    "D": "adesão aos padrões de investigação típicos das ciências naturais.",
+    "E": "incorporação de um conhecimento alimentado pelo engajamento político."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Durkheim critica as sínteses filosóficas e as intuições rápidas e quer estudar fatos bem delimitados, com provas. Ele propõe a <strong>adesão aos padrões de investigação típicos das ciências naturais</strong>, tratando os fatos sociais como coisas. Alternativa <strong>D</strong>.</p><p>Ele quer separar a sociologia da filosofia (A) e das hipóteses subjetivas (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "positivismo",
+    "método sociológico"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "História",
+   "assunto": "África",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: www.imageforum-diffusion.afp.com. Acesso em: 6 jan. 2016.</p><p>O regime do <em>Apartheid</em> adotado de 1948 a 1994 na África do Sul fundamentava-se em ações estatais de segregacionismo racial. Na imagem, fuzileiros navais fazem valer a “lei do passe” que regulamentava o(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q33.webp",
+     "alt": "Foto em preto e branco: dois soldados de capacete verificam os documentos de um homem negro que está ao lado de uma bicicleta, numa estrada."
+    }
+   ],
+   "alternativas": {
+    "A": "concentração fundiária, impedindo os negros de tomar posse legítima do uso da terra.",
+    "B": "boicote econômico, proibindo os negros de consumir produtos ingleses sem resistência armada.",
+    "C": "sincretismo religioso, vetando os ritos sagrados dos negros nas cerimônias oficiais do Estado.",
+    "D": "controle sobre a movimentação, desautorizando os negros a transitar em determinadas áreas das cidades.",
+    "E": "exclusão do mercado de trabalho, negando à população negra o acesso aos bens de consumo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A foto mostra soldados conferindo os documentos de um homem negro de bicicleta. A “lei do passe” obrigava os negros a portar um documento para circular fora das áreas destinadas a eles: regulamentava o <strong>controle sobre a movimentação, desautorizando os negros a transitar em determinadas áreas das cidades</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Apartheid",
+    "segregação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 34,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p class=\"apoio\">A linhagem dos primeiros críticos ambientais brasileiros não praticou o elogio laudatório da beleza e da grandeza do meio natural brasileiro. O meio natural foi elogiado por sua riqueza e potencial econômico, sendo sua destruição interpretada como um signo de atraso, ignorância e falta de cuidado.</p><p class=\"fonte\">PÁDUA, J. A. <em>Um sopro de destruição</em>: pensamento político e crítica ambiental no Brasil escravista (1786-1888). Rio de Janeiro: Zahar, 2002 (adaptado).</p><p>Descrevendo a posição dos críticos ambientais brasileiros dos séculos XVIII e XIX, o autor demonstra que, via de regra, eles viam o meio natural como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ferramenta essencial para o avanço da nação.",
+    "B": "dádiva divina para o desenvolvimento industrial.",
+    "C": "paisagem privilegiada para a valorização fundiária.",
+    "D": "limitação topográfica para a promoção da urbanização.",
+    "E": "obstáculo climático para o estabelecimento da civilização."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz que os primeiros críticos ambientais elogiavam a natureza pela riqueza e pelo potencial econômico e viam sua destruição como sinal de atraso. Para eles, o meio natural era <strong>ferramenta essencial para o avanço da nação</strong>. Alternativa <strong>A</strong>.</p><p>Eles não exaltavam a beleza nem viam a natureza como dádiva religiosa (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "crítica ambiental",
+    "pensamento político"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p class=\"apoio\">O coronelismo era fruto de alteração na relação de forças entre os proprietários rurais e o governo, e significava o fortalecimento do poder do Estado antes que o predomínio do coronel. Nessa concepção, o coronelismo é, então, um sistema político nacional, com base em barganhas entre o governo e os coronéis. O coronel tem o controle dos cargos públicos, desde o delegado de polícia até a professora primária. O coronel hipoteca seu apoio ao governo, sobretudo na forma de voto.</p><p class=\"fonte\">CARVALHO, J. M. <em>Pontos e bordados</em>: escritos de história política. Belo Horizonte: Editora UFMG, 1998 (adaptado).</p><p>No contexto da Primeira República no Brasil, as relações políticas descritas baseavam-se na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "coação das milícias locais.",
+    "B": "estagnação da dinâmica urbana.",
+    "C": "valorização do proselitismo partidário.",
+    "D": "disseminação de práticas clientelistas.",
+    "E": "centralização de decisões administrativas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No coronelismo, o coronel garantia votos ao governo, e em troca controlava os cargos públicos locais. É uma troca de favores entre poder público e chefes locais: a <strong>disseminação de práticas clientelistas</strong>. Alternativa <strong>D</strong>.</p><p>O texto diz que o coronelismo dependia do fortalecimento do Estado, não da força das milícias locais (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coronelismo",
+    "clientelismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "Geografia",
+   "assunto": "Recursos hídricos",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Dessalinização das águas</strong></p><p>Capacidade total de dessalinização das águas salobras ou salinas (por país em metros cúbicos por dia)</p>[[fig:1]]<p class=\"fonte\">EUA. <strong>Relatório da Academia Nacional de Ciências</strong>, 2008 (adaptado).</p><p>Conforme a análise do documento cartográfico, a área de concentração das usinas de dessalinização é explicada pelo(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q36.webp",
+     "alt": "Mapa-múndi “Dessalinização das águas”, com a capacidade instalada por país em metros cúbicos por dia: Estados Unidos 5 653 941; Espanha 2 588 658; Japão 1 054 274; Emirados Árabes Unidos 6 228 017; Arábia Saudita 6 879 869; Kuwait 2 111 558. Os quadrados maiores se concentram no Oriente Médio e no norte da África."
+    }
+   ],
+   "alternativas": {
+    "A": "pioneirismo tecnológico.",
+    "B": "condição hidropedológica.",
+    "C": "escassez de água potável.",
+    "D": "efeito das mudanças climáticas.",
+    "E": "busca da sustentabilidade ambiental. Japão 1 054 274 Kuwait 2 111 558"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O mapa mostra as maiores capacidades de dessalinização no Oriente Médio (Arábia Saudita, Emirados Árabes, Kuwait) e no norte da África, regiões desérticas com pouca água doce. A concentração se explica pela <strong>escassez de água potável</strong>. Alternativa <strong>C</strong>.</p><p>EUA, Espanha e Japão também dessalinizam, mas a concentração está nas áreas áridas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dessalinização",
+    "escassez hídrica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "Filosofia",
+   "assunto": "Nietzsche",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p class=\"apoio\">Vi os homens sumirem-se numa grande tristeza. Os melhores cansaram-se das suas obras. Proclamou-se uma doutrina e com ela circulou uma crença: Tudo é oco, tudo é igual, tudo passou! O nosso trabalho foi inútil; o nosso vinho tornou-se veneno; o mau olhado amareleceu-nos os campos e os corações. Secamos de todo, e se caísse fogo em cima de nós, as nossas cinzas voariam em pó. Sim; cansamos o próprio fogo. Todas as fontes secaram para nós, e o mar retirou-se. Todos os solos se querem abrir, mas os abismos não nos querem tragar!</p><p class=\"fonte\">NIETZSCHE, F. <em>Assim falou Zaratustra</em>. Rio de Janeiro: Ediouro, 1977.</p><p>O texto exprime uma construção alegórica, que traduz um entendimento da doutrina niilista, uma vez que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reforça a liberdade do cidadão.",
+    "B": "desvela os valores do cotidiano.",
+    "C": "exorta as relações de produção.",
+    "D": "destaca a decadência da cultura.",
+    "E": "amplifica o sentimento de ansiedade."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Zaratustra descreve um mundo em que os homens se cansaram de suas obras e acreditam que “tudo é oco, tudo é igual, tudo passou”: os valores perderam o sentido. A alegoria mostra o niilismo como sintoma que <strong>destaca a decadência da cultura</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "niilismo",
+    "Nietzsche"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 38,
+   "materia": "História",
+   "assunto": "República Populista",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\"><em>O Cruzeiro</em>, década de 1960. Disponível em: www.memoriaviva.com.br. Acesso em: 28 fev. 2012 (adaptado).</p><p>No anúncio, há referências a algumas das transformações ocorridas no Brasil nos anos 1950 e 1960.</p><p>No entanto, tais referências omitem transformações que impactaram segmentos da população, como a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q38.webp",
+     "alt": "Anúncio em preto e branco do automóvel Simca Chambord estacionado diante de um prédio moderno de Brasília, com a frase “Novo toque de elegância na moderna paisagem brasileira”."
+    }
+   ],
+   "alternativas": {
+    "A": "exaltação da tradição colonial.",
+    "B": "redução da influência estrangeira.",
+    "C": "ampliação da imigração internacional.",
+    "D": "intensificação da desigualdade regional.",
+    "E": "desconcentração da produção industrial."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O anúncio do Simca Chambord mostra um carro moderno diante da arquitetura de Brasília: indústria automobilística e nova capital, símbolos do desenvolvimentismo de JK. Mas omite que a industrialização se concentrou no Sudeste, aumentando a distância em relação às outras regiões: a <strong>intensificação da desigualdade regional</strong>. Alternativa <strong>D</strong>.</p><p>A indústria se concentrou, não se desconcentrou (E), e entrou muito capital estrangeiro (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "desenvolvimentismo",
+    "JK"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "Geografia",
+   "assunto": "Questões ambientais",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Pesca industrial provoca destruição na África</strong></p><p class=\"apoio\">O súbito desaparecimento do bacalhau dos grandes cardumes da Terra Nova, no final do século XX — o que ninguém havia previsto —, teve o efeito de um eletrochoque planetário. Lançada pelos bascos no século XV, a pesca e depois a sobrepesca desse grande peixe de água fria levaram ao impensável. Ao Canadá o bacalhau nunca mais voltou. E o que ocorreu no Atlântico Norte está acontecendo em outros mares. Os maiores navios do mundo seguem agora em direção ao sul, até os limites da Antártida, para competir pelos estoques remanescentes.</p><p class=\"fonte\">MORA, J. S. Disponível em: www.diplomatique.com.br. Acesso em: 14 jan. 2014.</p><p>O problema exposto no texto jornalístico relaciona-se à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "insustentabilidade do modelo de produção e consumo.",
+    "B": "fragilidade ecológica de ecossistemas costeiros.",
+    "C": "inviabilidade comercial dos produtos marinhos.",
+    "D": "mudança natural nos oceanos e mares.",
+    "E": "vulnerabilidade social de áreas pobres."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A pesca industrial esgotou o bacalhau da Terra Nova e agora avança sobre outros mares, até a costa africana e a Antártida, em busca dos estoques restantes. O problema é a <strong>insustentabilidade do modelo de produção e consumo</strong>. Alternativa <strong>A</strong>.</p><p>O texto atribui o problema à sobrepesca, não a uma mudança natural dos oceanos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sobrepesca",
+    "sustentabilidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "Geografia",
+   "assunto": "Mundo do trabalho",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"apoio\">A mundialização introduz o aumento da produtividade do trabalho sem acumulação de capital, justamente pelo caráter divisível da forma técnica molecular-digital do que resulta a permanência da má distribuição da renda: exemplificando mais uma vez, os vendedores de refrigerantes às portas dos estádios viram sua produtividade aumentada graças ao <em>just in time</em> dos fabricantes e distribuidores de bebidas, mas para realizar o valor de tais mercadorias, a forma do trabalho dos vendedores é a mais primitiva. Combinam-se, pois, acumulação molecular-digital com o puro uso da força de trabalho.</p><p class=\"fonte\">OLIVEIRA, F. <em>Crítica à razão dualista e o ornitorrinco</em>. Campinas: Boitempo, 2003.</p><p>Os aspectos destacados no texto afetam diretamente questões como emprego e renda, sendo possível explicar essas transformações pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "crise bancária e o fortalecimento do capital industrial.",
+    "B": "inovação <em>toyotista</em> e a regularização do trabalho formal.",
+    "C": "impacto da tecnologia e as modificações na estrutura produtiva.",
+    "D": "emergência da globalização e a expansão do setor secundário.",
+    "E": "diminuição do tempo de trabalho e a necessidade de diploma superior."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto mostra que a tecnologia aumenta a produtividade (o vendedor ambulante recebe as bebidas no <em>just in time</em>), mas sem gerar emprego formal nem melhorar a renda. O que explica isso é o <strong>impacto da tecnologia e as modificações na estrutura produtiva</strong>. Alternativa <strong>C</strong>.</p><p>O exemplo é o trabalho informal, o oposto da regularização (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "informalidade",
+    "reestruturação produtiva"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Sociologia",
+   "assunto": "Modernidade",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p class=\"apoio\">Ser moderno é encontrar-se em um ambiente que promete aventura, poder, alegria, crescimento, autotransformação e transformação das coisas em redor — mas ao mesmo tempo ameaça destruir tudo o que temos, tudo o que sabemos, tudo o que somos. A experiência ambiental da modernidade anula todas as fronteiras geográficas e raciais, de classe e nacionalidade: nesse sentido, pode-se dizer que a modernidade une a espécie humana. Porém, é uma unidade paradoxal, uma unidade de desunidade.</p><p class=\"fonte\">BERMAN, M. <em>Tudo que é sólido desmancha no ar</em>: a aventura da modernidade. São Paulo: Cia. das Letras, 1986 (adaptado).</p><p>O texto apresenta uma interpretação da modernidade que a caracteriza como um(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dinâmica social contraditória.",
+    "B": "interação coletiva harmônica.",
+    "C": "fenômeno econômico estável.",
+    "D": "sistema internacional decadente.",
+    "E": "processo histórico homogeneizador."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Para Berman, a modernidade promete aventura e crescimento, mas ameaça destruir tudo; une a espécie humana, mas é “uma unidade paradoxal, uma unidade de desunidade”. É uma <strong>dinâmica social contraditória</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Berman",
+    "modernidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 42,
+   "materia": "Sociologia",
+   "assunto": "Meios de comunicação",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p class=\"apoio\">Não estou mais pensando como costumava pensar. Percebo isso de modo mais acentuado quando estou lendo. Mergulhar num livro, ou num longo artigo, costumava ser fácil. Isso raramente ocorre atualmente. Agora minha atenção começa a divagar depois de duas ou três páginas. Creio que sei o que está acontecendo. Por mais de uma década venho passando mais tempo <em>on-line</em>, procurando e surfando e algumas vezes acrescentando informação à grande biblioteca da internet. A internet tem sido uma dádiva para um escritor como eu. Pesquisas que antes exigiam dias de procura em jornais ou na biblioteca agora podem ser feitas em minutos. Como disse o teórico da comunicação Marshall McLuhan nos anos 60, a mídia não é apenas um canal passivo para o tráfego de informação. Ela fornece a matéria, mas também molda o processo de pensamento. E o que a <em>net</em> parece fazer é pulverizar minha capacidade de concentração e contemplação.</p><p class=\"fonte\">CARR, N. <em>Is Google making us stupid?</em> Disponível em: www.theatlantic.com. Acesso em: 17 fev. 2013 (adaptado).</p><p>Em relação à internet, a perspectiva defendida pelo autor ressalta um paradoxo que se caracteriza por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "associar uma experiência superficial à abundância de informações.",
+    "B": "condicionar uma capacidade individual à desorganização da rede.",
+    "C": "agregar uma tendência contemporânea à aceleração do tempo.",
+    "D": "aproximar uma mídia inovadora à passividade da recepção.",
+    "E": "equiparar uma ferramenta digital à tecnologia analógica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Carr diz que a internet lhe dá acesso a uma quantidade enorme de informação, mas que agora ele não consegue mais ler com concentração: a atenção se dispersa. O paradoxo é <strong>associar uma experiência superficial à abundância de informações</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "internet",
+    "atenção"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 43,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\">Uma scena franco-brazileira: “franco” — pelo local e os personagens, o local que é Paris e os personagens que são pessôas do povo da grande capital; “brazileira” pelo que ahi se está bebendo: café do Brazil. O Lettreiro diz a verdade apregoando que esse é o melhor de todos os cafés. (Essa página foi desenhada especialmente para <em>A Illustração Brazileira</em> pelo Sr. Tofani, desenhista do <em>Je Sais Tout</em>.)</p><p class=\"fonte\"><em>A Illustração Brazileira</em>, n. 2, 15 jun. 1909 (adaptado).</p><p>A página do periódico do início do século XX documenta um importante elemento da cultura francesa, que é revelador do papel do Brasil na economia mundial, indicado no seguinte aspecto:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q43.webp",
+     "alt": "Página de revista de 1909 com o título “O café do Brazil em Paris”: ilustração de pessoas agasalhadas tomando café diante de uma barraca de rua em Paris, com um letreiro anunciando café do Brasil."
+    }
+   ],
+   "alternativas": {
+    "A": "Prestador de serviços gerais.",
+    "B": "Exportador de bens industriais.",
+    "C": "Importador de padrões estéticos.",
+    "D": "Fornecedor de produtos agrícolas.",
+    "E": "Formador de padrões de consumo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A página mostra parisienses bebendo café do Brasil num quiosque em Paris. No início do século XX, o Brasil era o grande exportador mundial de café: seu papel era de <strong>fornecedor de produtos agrícolas</strong>. Alternativa <strong>D</strong>.</p><p>O Brasil importava, e não formava, os padrões de consumo europeus (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "economia cafeeira",
+    "agroexportação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "Geografia",
+   "assunto": "Espaço rural",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p class=\"apoio\">Participei de uma entrevista com o músico Renato Teixeira. Certa hora, alguém pediu para listar as diferenças entre a música sertaneja antiga e a atual. A resposta dele surpreendeu a todos: “Não há diferença alguma. A música caipira sempre foi a mesma. É uma música que espelha a vida do homem no campo, e a música não mente. O que mudou não foi a música, mas a vida no campo”. Faz todo sentido: a música caipira de raiz exalava uma solidão, um certo distanciamento do país “moderno”. Exigir o mesmo de uma música feita hoje, num interior conectado, globalizado e rico como o que temos, é impossível. Para o bem ou para o mal, a música reflete seu próprio tempo.</p><p class=\"fonte\">BARCINSKI, A. Mudou a música ou mudaram os caipiras? <em>Folha de São Paulo</em>, 4 jun. 2012 (adaptado).</p><p>A questão cultural indicada no texto ressalta o seguinte aspecto socioeconômico do atual campo brasileiro:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Crescimento do sistema de produção extensiva.",
+    "B": "Expansão de atividades das novas ruralidades.",
+    "C": "Persistência de relações de trabalho compulsório.",
+    "D": "Contenção da política de subsídios agrícolas.",
+    "E": "Fortalecimento do modelo de organização cooperativa."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Renato Teixeira diz que a música caipira mudou porque mudou a vida no campo: hoje o interior é conectado, globalizado e rico, com atividades além da agricultura tradicional (agroindústria, turismo, serviços). O aspecto é a <strong>expansão de atividades das novas ruralidades</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "novas ruralidades",
+    "música caipira"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "Geografia",
+   "assunto": "Demografia",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p>O número de filhos por casal diminui rapidamente. Para a maioria dos economistas, isso representa um alerta para o futuro.</p>[[fig:1]]<p class=\"fonte\">Fontes: IBGE e OCDE. Disponível em: http://epoca.globo.com. Acesso em: 20 out. 2015 (adaptado).</p><p>Uma consequência socioeconômica para os países que vivenciam o fenômeno demográfico ilustrado é a diminuição da</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2016-humanas/q45.webp",
+     "alt": "Gráfico “Taxa de fecundidade total” de 1970 a 2010 para Brasil, China, Coreia do Sul, Portugal, EUA e Japão. O Brasil cai de 5,8 em 1970 para 4,4 em 1980, 2,9 em 1990, 2,4 em 2000 e 1,9 em 2010; os outros países terminam entre cerca de 1,2 e 2,0."
+    }
+   ],
+   "alternativas": {
+    "A": "oferta de mão de obra nacional.",
+    "B": "média de expectativa de vida.",
+    "C": "disponibilidade de serviços de saúde.",
+    "D": "despesa de natureza previdenciária.",
+    "E": "imigração de trabalhadores qualificados."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O gráfico mostra a queda da taxa de fecundidade no Brasil (de 5,8 para 1,9 filho por mulher entre 1970 e 2010) e em outros países. Com menos nascimentos, entram menos jovens no mercado de trabalho nas décadas seguintes: diminui a <strong>oferta de mão de obra nacional</strong>. Alternativa <strong>A</strong>.</p><p>A despesa previdenciária (D) aumenta com o envelhecimento, não diminui.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transição demográfica",
+    "fecundidade"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

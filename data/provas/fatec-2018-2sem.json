@@ -1,0 +1,1353 @@
+{
+ "id": "fatec-2018-2sem",
+ "banca": "FATEC",
+ "ano": 2018,
+ "semestre": 2,
+ "titulo": "Vestibular FATEC, 2º semestre de 2018",
+ "fonte": "Centro Paula Souza",
+ "dataExame": "2018-07-01",
+ "duracaoMinutos": 300,
+ "tema": "Resiliência",
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p>Resiliência é um termo oriundo da Física, mas também muito usado metaforicamente em vários outros contextos sociais. Na Física, o ponto de resiliência de um material indica a capacidade máxima de absorção e, consequentemente, de acúmulo de energia durante uma situação de estresse (deformação sob tensão), sem que esse material perca a sua capacidade elástica de retornar à sua forma original e sem sofrer deformação definitiva significativa ou, até mesmo, ruptura.</p><p>Assim, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "quanto maior o ponto de resiliência de um material, menos energia o material acumulará durante a deformação.",
+    "B": "quanto menor o ponto de resiliência de um material, mais dificuldade o material terá para sofrer ruptura.",
+    "C": "quanto maior o ponto de resiliência de um material, menos elasticidade o material terá para sofrer ruptura.",
+    "D": "quanto menor o ponto de resiliência de um material, mais energia o material absorverá durante a deformação.",
+    "E": "quanto maior o ponto de resiliência de um material, mais energia o material acumulará durante a deformação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O ponto de resiliência mede a energia máxima que o material acumula sem se deformar de vez. Quanto maior esse ponto, <strong>mais energia</strong> ele acumula durante a deformação. Alternativa <strong>E</strong>.</p><p>A diz o contrário. Um ponto de resiliência menor significa que o material se rompe ou se deforma com menos energia, não que resiste mais (B e D). E maior resiliência significa mais capacidade elástica, não menos (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "resiliência",
+    "deformação elástica"
+   ]
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 02 e 03.</p><p class=\"apoio\">Um estudo com 3 707 alunos de especialização em Administração da Fundação Getúlio Vargas (FGV) mediu o nível de resiliência desses alunos utilizando a escala que relaciona nove fatores: autoeficácia, solução de problemas, temperança, empatia, proatividade, competência social, tenacidade, otimismo e flexibilidade mental. Cada um desses fatores ajuda de maneira diferente no enfrentamento de problemas e na tomada de decisões.</p><p class=\"apoio\">Nesse estudo, elaborou-se um questionário, que foi respondido por 1 500 alunos. No resultado final, 16% foram classificados com baixa resiliência, 44% foram considerados com moderada resiliência e 40% enquadraram-se em um grau elevado.</p><p class=\"fonte\">&lt;https://tinyurl.com/yd8z5kf8&gt; Acesso em: 17.02.2018. Adaptado.</p><p>Assinale a alternativa que apresenta o gráfico que melhor pode representar os dados obtidos pelo questionário aplicado no estudo da FGV.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q02a.webp",
+     "alt": "Gráfico A: setores com três fatias de tamanhos parecidos (Baixo, Moderado, Elevado)."
+    },
+    {
+     "src": "assets/img/fatec-2018-2sem/q02b.webp",
+     "alt": "Gráfico B: rosca com Baixo pequeno, Moderado maior e Elevado um pouco menor que Moderado."
+    },
+    {
+     "src": "assets/img/fatec-2018-2sem/q02c.webp",
+     "alt": "Gráfico C: linha que sobe muito de Baixo para Moderado e pouco de Moderado para Elevado."
+    },
+    {
+     "src": "assets/img/fatec-2018-2sem/q02d.webp",
+     "alt": "Gráfico D: barras horizontais com Baixo a maior, Moderado quase igual e Elevado a menor."
+    },
+    {
+     "src": "assets/img/fatec-2018-2sem/q02e.webp",
+     "alt": "Gráfico E: colunas 3D com Baixo baixa, Moderado e Elevado altas, Elevado um pouco menor."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os dados são partes de um todo (16% + 44% + 40% = 100%), próprios de um gráfico de setores (pizza ou rosca). A rosca B mostra Baixo bem pequeno, Moderado o maior e Elevado pouco menor: proporções corretas. Alternativa <strong>B</strong>.</p><p>Em A as fatias parecem iguais. C usa linha, que indica evolução no tempo, e as categorias não são sequência temporal. D inverte as proporções (Baixo seria o maior). E até respeita a ordem dos valores, mas compara categorias como se fossem independentes, sem mostrar que formam um todo, e a perspectiva 3D atrapalha a leitura das proporções.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "gráficos"
+   ]
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 02 e 03.</p><p class=\"apoio\">Um estudo com 3 707 alunos de especialização em Administração da Fundação Getúlio Vargas (FGV) mediu o nível de resiliência desses alunos utilizando a escala que relaciona nove fatores: autoeficácia, solução de problemas, temperança, empatia, proatividade, competência social, tenacidade, otimismo e flexibilidade mental. Cada um desses fatores ajuda de maneira diferente no enfrentamento de problemas e na tomada de decisões.</p><p class=\"apoio\">Nesse estudo, elaborou-se um questionário, que foi respondido por 1 500 alunos. No resultado final, 16% foram classificados com baixa resiliência, 44% foram considerados com moderada resiliência e 40% enquadraram-se em um grau elevado.</p><p class=\"fonte\">&lt;https://tinyurl.com/yd8z5kf8&gt; Acesso em: 17.02.2018. Adaptado.</p><p>Considere que 60% dos questionários foram respondidos por mulheres e que, dessas, 50% são formadas em Psicologia.</p><p>Nessas condições, o número de mulheres que responderam ao questionário e que são formadas em Psicologia é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "450.",
+    "B": "750.",
+    "C": "900.",
+    "D": "1 112.",
+    "E": "2 224."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O questionário foi respondido por 1 500 alunos: 60% são mulheres (900), e metade delas, <strong>450</strong>, são formadas em Psicologia. Alternativa <strong>A</strong>.</p><p>900 é o total de mulheres (C). 1 112 e 2 224 usam os 3 707 alunos do estudo, mas só 1 500 responderam (D e E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 4,
+   "materia": "História",
+   "assunto": "Revolução Industrial",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"apoio\">No mundo atual, permeado pela lógica capitalista, a capacidade de adaptação às demandas impostas pelo cenário vigente é de extrema importância para aqueles que se empenham em crescer no trabalho. Os trabalhadores precisam garantir sua sobrevivência e dessa maneira estão adoecendo com o novo ritmo de produção. Sintomas como estresse, ansiedade, fobias e outros, vêm surgindo cada vez mais rápido nas pessoas que sofrem grandes pressões no trabalho.</p><p class=\"apoio\">[....]</p><p class=\"apoio\">Na Revolução Industrial, além das mudanças no setor comercial e agrícola, tivemos acima de tudo as transformações sociais, ou seja, a passagem da sociedade rural para a sociedade urbana.</p><p class=\"fonte\">&lt;https://tinyurl.com/y86wcuhe&gt; Acesso em: 09.03.2017. Adaptado.</p><p>Assinale a alternativa que elenca corretamente as principais características da Primeira Revolução Industrial.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Valorização do trabalho artesanal; utilização de tração animal; eliminação da divisão do trabalho e surgimento da classe média.",
+    "B": "Valorização do trabalho qualificado; utilização de petróleo como fonte de energia; aprofundamento do uso das tecnologias da informação e surgimento dos profissionais liberais.",
+    "C": "Valorização do trabalho feminino; utilização de biocombustíveis; eliminação do trabalho braçal e surgimento das leis trabalhistas.",
+    "D": "Invenção de máquinas para substituir o trabalho humano; utilização de carvão mineral e vapor; aprofundamento da divisão do trabalho e surgimento do proletariado.",
+    "E": "Invenção de ferramentas e técnicas agrícolas; utilização de energia solar e eólica; eliminação do trabalho escravo e surgimento do campesinato."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Primeira Revolução Industrial (Inglaterra, séc. XVIII) trouxe as máquinas, movidas a <strong>vapor e carvão mineral</strong>, aprofundou a divisão do trabalho nas fábricas e fez surgir o <strong>proletariado</strong>. Alternativa <strong>D</strong>.</p><p>Ela desvalorizou o trabalho artesanal (A). Petróleo e tecnologia da informação são de fases posteriores (B). Biocombustíveis e leis trabalhistas também (C). E energia solar e eólica não fazem parte dela (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar"
+   ]
+  },
+  {
+   "numero": 5,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente e sociedade",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p class=\"apoio\">A resiliência hoje em dia é interpretada como uma competência influenciada pelo estilo de vida do indivíduo. Quanto mais se ganha consciência sobre as próprias reações e comportamentos diante de situações de pressão e desafios, mais se dominam essas questões. Nas empresas, após um período longo de enxugamento no quadro de funcionários por conta de uma crise econômica preocupante, o ambiente de trabalho se tornou altamente estressante.</p><p class=\"fonte\">&lt;https://tinyurl.com/ybfxjvgr&gt; Acesso em: 01.03.2018. Adaptado.</p><p>Um dos desafios para a classe trabalhadora brasileira é se adaptar à Reforma Trabalhista, aprovada pelo Congresso Nacional no ano de 2017.</p><p>Essa Reforma institui uma nova regra sobre o trabalho intermitente, em que o contratado</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "deverá abrir uma empresa individual e residir no local de trabalho por pelo menos um mês.",
+    "B": "poderá ser pago por período, recebendo pelas horas trabalhadas ou pela diária realizada.",
+    "C": "deverá obrigatoriamente contribuir mensalmente para a manutenção de seu sindicato.",
+    "D": "poderá ter o contrato de trabalho prorrogado sem negociação com o empregador.",
+    "E": "deverá se tornar um funcionário estatutário, recebendo menos que um efetivo."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No trabalho intermitente, o empregado é chamado conforme a necessidade e <strong>recebe pelas horas ou pelos dias trabalhados</strong>. Alternativa <strong>B</strong>.</p><p>Ele não precisa abrir empresa nem morar no local (A). A reforma tornou a contribuição sindical opcional (C). Não há prorrogação sem acordo (D). E estatutário é o servidor público (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "reforma trabalhista"
+   ]
+  },
+  {
+   "numero": 6,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p>A capacidade de resiliência dos indivíduos está diretamente ligada ao controle e à administração das emoções. Em diversas situações cotidianas, o organismo produz moléculas capazes de influenciar as emoções e o comportamento humano.</p><p>Observe as fórmulas estruturais de algumas dessas moléculas.</p>[[fig:1]]<p>As funções orgânicas comuns às moléculas ilustradas são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q06.webp",
+     "alt": "Fórmulas estruturais de quatro moléculas. Dopamina (sensação de satisfação e prazer): anel benzênico com dois OH e uma cadeia CH₂–CH₂–NH₂. Adrenalina (reação de luta e fuga): anel benzênico com dois OH e uma cadeia CH(OH)–CH₂–NH–CH₃. Serotonina (regula humor, sono e atividade sexual): anel indol com OH ligados ao anel aromático, NH no anel e cadeia CH₂–CH₂–NH₂. Noradrenalina (comportamento diante de risco): anel benzênico com dois OH e uma cadeia CH(OH)–CH₂–NH₂."
+    }
+   ],
+   "alternativas": {
+    "A": "álcool e amina.",
+    "B": "álcool e amida.",
+    "C": "fenol e amida.",
+    "D": "fenol e amina.",
+    "E": "fenol e nitrila."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As quatro moléculas têm OH ligado diretamente ao anel aromático (<strong>fenol</strong>) e nitrogênio ligado a carbonos sem C=O (<strong>amina</strong>). Alternativa <strong>D</strong>.</p><p>Só a adrenalina e a noradrenalina têm OH de álcool, então álcool não é comum a todas (A e B). Amida exige C=O ligado ao N (B e C). E nitrila é C≡N (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "neurotransmissores"
+   ]
+  },
+  {
+   "numero": 7,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p class=\"apoio\">Os aspectos físicos e psicossociais do ambiente de trabalho podem influenciar as habilidades dos indivíduos para cuidar de seu próprio bem-estar e manter seus próprios “recursos pessoais”. Os recursos pessoais incluem o senso de eficácia de um indivíduo, sua resiliência e “resistência” e a qualidade e densidade do suporte social que eles acreditam estar disponível para eles.</p><p class=\"fonte\">SHAIN, M.; KRAMER, D. M. Health promotion in the workplace: framing the concept; reviewing the evidence. <strong>Occupational and Environmental Medicine</strong>, v. 61, n. 7, p. 643, 2004. Traduzido e adaptado.</p><p>Esse texto está relacionado a uma concepção de saúde formalizada em 1948 pela Organização Mundial de Saúde (OMS). Segundo essa concepção, saúde consiste</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "na ausência de doenças agudas.",
+    "B": "no bem-estar social, físico e mental.",
+    "C": "no acesso a hospitais especializados.",
+    "D": "na ausência de doenças infectocontagiosas.",
+    "E": "no bem-estar nutricional, respiratório e mental."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Para a OMS, saúde é “um estado de completo <strong>bem-estar físico, mental e social</strong>, e não apenas a ausência de doença”. Alternativa <strong>B</strong>.</p><p>A definição vai além da ausência de doenças (A e D) e do acesso a hospitais (C), e não cita bem-estar nutricional e respiratório (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "OMS"
+   ]
+  },
+  {
+   "numero": 8,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p>Considere a charge.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ybguaefn&gt; Acesso em: 04.03.2018.</p><p>A charge, referente ao ambiente de trabalho, mostra um chefe sugerindo que seu funcionário</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q08.webp",
+     "alt": "Charge: um funcionário está sentado em posição de lótus sobre a mesa do escritório, meditando, e o chefe, de gravata, irritado, diz: “I know I said I wanted the staff to relax during the day but couldn’t you just close your eyes and take 3 deep breaths like everyone else?” (eu sei que disse que queria que a equipe relaxasse durante o dia, mas você não podia só fechar os olhos e respirar fundo três vezes, como todo mundo?)."
+    }
+   ],
+   "alternativas": {
+    "A": "mude a estratégia de meditação para evitar o estresse.",
+    "B": "pratique meditação para diminuir a ocorrência de doenças.",
+    "C": "se reúna com os demais funcionários da empresa para relaxar.",
+    "D": "simplifique a forma de relaxamento e volte a trabalhar rapidamente.",
+    "E": "utilize mais o horário de trabalho para cuidar da saúde física e mental."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O chefe reclama que o funcionário exagerou: em vez de meditar em cima da mesa, ele deveria só fechar os olhos e respirar fundo três vezes, como os outros, e voltar ao trabalho. É <strong>simplificar o relaxamento</strong>. Alternativa <strong>D</strong>.</p><p>Ele não fala de estratégia contra o estresse (A), nem de doenças (B), nem de reunir funcionários (C), e quer menos tempo de pausa, não mais (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "charge"
+   ]
+  },
+  {
+   "numero": 9,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p>Nos últimos anos, ser resiliente tem sido essencial para enfrentar o mercado de trabalho na sociedade brasileira, como podemos notar pelos dados apresentados nos gráficos.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yby34khb&gt; Acesso em: 09.03.2018. Original colorido.</p><p>Analisando as informações apresentadas, é correto afirmar que, no período</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q09.webp",
+     "alt": "Dois gráficos de barras, de 2012 a 2017 (2017: saldo do trimestre encerrado em novembro; fonte: PNAD Contínua do IBGE). “A miragem da reativação do mercado de trabalho” – taxa de desocupação dos brasileiros com 14 anos ou mais, em %: 7,4; 7,1; 6,8; 8,5; 11,3; 12. “O país perde 1 milhão de empregos formais por ano” – trabalhadores com carteira assinada no setor privado (exceto domésticos), em milhões: 34,3; 35,4; 36,6; 35,7; 34,3; 33,2."
+    }
+   ],
+   "alternativas": {
+    "A": "de 2012 a 2014, o aumento anual de pessoas com carteira de trabalho assinada foi idêntico de um ano a outro.",
+    "B": "de 2014 a 2017, houve uma queda de 3,4 milhões de trabalhadores com empregos formais.",
+    "C": "de 2012 a 2017, houve um aumento de 4,6% no número de pessoas com 14 anos empregadas.",
+    "D": "de 2016 a 2017, o número de pessoas que perderam o emprego diminuiu 0,7%.",
+    "E": "de 2012 a 2014, o país apresentava o índice médio de desemprego de 6,8%."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os trabalhadores com carteira assinada passaram de 36,6 milhões em 2014 para 33,2 milhões em 2017: queda de <strong>3,4 milhões</strong>. Alternativa <strong>B</strong>.</p><p>Os aumentos de 2012 a 2014 foram de 1,1 e 1,2 milhão, não idênticos (A). 4,6 é a variação da taxa de desocupação em pontos percentuais, não do número de empregados (C). De 2016 a 2017 a desocupação subiu (D). E a média de 2012 a 2014 é (7,4 + 7,1 + 6,8) ÷ 3 ≈ 7,1% (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "desemprego",
+    "gráficos"
+   ]
+  },
+  {
+   "numero": 10,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p>Um grupo de quatro amigos — Ana, Beto, Caio e Denise — deseja participar do vestibular da FATEC optando por cursos distintos. Considere verdadeiras as proposições:</p><p class=\"apoio\"><strong>I.</strong> Caso Ana se inscreva em Soldagem, então Beto se inscreverá para Eventos.</p><p class=\"apoio\"><strong>II.</strong> Se Denise fizer a inscrição para Polímeros, então Caio se inscreverá em Cosméticos.</p><p class=\"apoio\"><strong>III.</strong> Ana fará sua inscrição em Soldagem ou Denise em Polímeros.</p><p>Segue-se, necessariamente, que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ana não se inscrever em Soldagem implica que Caio não se inscreverá em Cosméticos.",
+    "B": "Beto se inscreverá em Eventos e Caio se inscreverá em Cosméticos.",
+    "C": "Caio se inscreverá em Cosméticos ou Beto se inscreverá em Eventos.",
+    "D": "Denise não se inscreverá em Polímeros ou Beto se inscreverá em Eventos.",
+    "E": "Denise se inscreverá em Polímeros e Beto se inscreverá em Eventos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Por III, acontece pelo menos uma das duas: Ana em Soldagem ou Denise em Polímeros. Se for a primeira, por I, Beto vai para Eventos; se for a segunda, por II, Caio vai para Cosméticos. Então, necessariamente, <strong>Caio em Cosméticos ou Beto em Eventos</strong>. Alternativa <strong>C</strong>.</p><p>B e E exigem que as duas coisas aconteçam, o que não é garantido. A não decorre: se Ana não fizer Soldagem, Denise faz Polímeros e Caio <em>vai</em> para Cosméticos. D também não é garantida.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dilema construtivo"
+   ]
+  },
+  {
+   "numero": 11,
+   "materia": "Raciocínio lógico",
+   "assunto": "Raciocínio espacial",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>Isometrias são transformações de uma figura em outra nas quais a forma, as medidas lineares e os ângulos são preservados. A reflexão em relação a um ponto é uma isometria.</p><p>A figura apresenta a letra <strong>P</strong> e o centro de reflexão, representado pelo ponto <strong>C</strong>.</p>[[fig:1]]<p>Observando a letra apresentada e o centro de reflexão, a imagem obtida, após a reflexão, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q11.webp",
+     "alt": "Um quadrado com a letra p minúscula no canto superior esquerdo e o ponto C mais abaixo e à direita."
+    }
+   ],
+   "alternativas": {
+    "A": "a letra q, menor que a letra p original.",
+    "B": "a letra d, do mesmo tamanho da letra p original.",
+    "C": "a letra p, menor que a original.",
+    "D": "a letra q, do mesmo tamanho da letra p original.",
+    "E": "a letra d em itálico (inclinada)."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Reflexão em relação a um ponto equivale a girar a figura 180°: o “p” de cabeça para baixo vira um <strong>d</strong>. Como é uma isometria, o tamanho e a forma não mudam. Alternativa <strong>B</strong>.</p><p>A letra q seria o resultado de uma reflexão em relação a uma reta horizontal (A e D). Mudar o tamanho (A e C) ou inclinar a letra (E) não preserva medidas e ângulos.</p><p>Observação: na prova, as alternativas são as próprias letras desenhadas em tamanhos e estilos diferentes; aqui foram descritas em palavras.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "simetria central"
+   ]
+  },
+  {
+   "numero": 12,
+   "materia": "Raciocínio lógico",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>Ansioso para o início da prova do vestibular, um candidato, tentando se acalmar, escreveu a palavra <strong>FATEC</strong> 10 000 vezes. Colocou as letras da palavra FATEC em linha reta e enumerou a posição delas, conforme a tabela:</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">F</th><th scope=\"col\">A</th><th scope=\"col\">T</th><th scope=\"col\">E</th><th scope=\"col\">C</th><th scope=\"col\">F</th><th scope=\"col\">A</th><th scope=\"col\">T</th><th scope=\"col\">E</th><th scope=\"col\">C</th><th scope=\"col\">...</th></tr></thead><tbody><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>...</td></tr></tbody></table></div><p>Assim sendo, a letra que ocupa a posição de número 2 018 é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "F .",
+    "B": "A .",
+    "C": "T .",
+    "D": "E .",
+    "E": "C ."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As letras se repetem a cada 5 posições, começando em 0: F (0), A (1), T (2), E (3), C (4). O resto de 2 018 por 5 é 3, então a posição 2 018 tem a mesma letra da posição 3: <strong>E</strong>. Alternativa <strong>D</strong>.</p><p>Esquecer que a contagem começa em 0 levaria a T (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "padrões cíclicos"
+   ]
+  },
+  {
+   "numero": 13,
+   "materia": "Raciocínio lógico",
+   "assunto": "Operações e problemas",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p>Uma empresa decide contratar três funcionários, cada qual com uma jornada de trabalho distinta.</p><p class=\"apoio\"><strong>I.</strong> O primeiro deles deve seguir uma escala de trabalho <strong>12 × 36</strong> — a cada <strong>12 horas</strong> consecutivas de trabalho, o funcionário tem direito a <strong>36 horas</strong> consecutivas de descanso.</p><p class=\"apoio\"><strong>II.</strong> O segundo, por sua vez, se enquadrará em uma escala de trabalho <strong>18 × 36</strong> — a cada <strong>18 horas</strong> consecutivas de trabalho, o funcionário tem direito a <strong>36 horas</strong> consecutivas de descanso.</p><p class=\"apoio\"><strong>III.</strong> O terceiro, e último, estará subordinado a uma escala de trabalho <strong>24 × 48</strong> — a cada <strong>24 horas</strong> consecutivas de trabalho, o funcionário tem direito a <strong>48 horas</strong> consecutivas de descanso.</p><p>Supondo que os três comecem a trabalhar ao mesmo tempo e no mesmo dia, bem como cumpram a jornada estabelecida, respeitando inclusive as horas de descanso, eles irão iniciar o trabalho juntos novamente depois de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "54 dias.",
+    "B": "36 dias.",
+    "C": "24 dias.",
+    "D": "18 dias.",
+    "E": "6 dias."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os ciclos completos (trabalho + descanso) duram 48 h, 54 h e 72 h. Eles recomeçam juntos no MMC: MMC(48, 54, 72) = 432 h = 432 ÷ 24 = <strong>18 dias</strong>. Alternativa <strong>D</strong>.</p><p>Usar só as horas de trabalho ou só as de descanso dá outros resultados.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "MMC"
+   ]
+  },
+  {
+   "numero": 14,
+   "materia": "Raciocínio lógico",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p>Ao ser contratado para trabalhar em uma empresa, o Sr. Cavalcante precisa criar uma senha de acesso. Contudo, devido a normas de segurança implementadas, a senha deve conter pelo menos quatro caracteres distintos: uma letra maiúscula, uma letra minúscula, um caractere não alfanumérico e um algarismo.</p><p>Para os seus primeiros dias de trabalho, o sistema gerou, aleatoriamente, a senha</p><p class=\"apoio\"><strong># F a 1</strong></p><p>Sem tempo de repensar uma senha, o Sr. Cavalcante decidiu que</p><p>• obrigatoriamente utilizaria apenas os caracteres: <strong>#</strong>, <strong>F</strong>, <strong>a</strong>, <strong>1</strong>;<br>• e que nenhum desses caracteres, em sua nova senha, deveria ocupar a mesma posição da senha gerada pelo sistema.</p><p>Nessas condições, o número total de senhas distintas que o Sr. Cavalcante poderá criar é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4.",
+    "B": "9.",
+    "C": "10.",
+    "D": "23.",
+    "E": "24."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>É preciso rearranjar 4 caracteres sem que nenhum fique na posição original: uma permutação caótica. D₄ = 4! (1 − 1 + 1/2 − 1/6 + 1/24) = 24 − 24 + 12 − 4 + 1 = <strong>9</strong>. Alternativa <strong>B</strong>.</p><p>24 são todas as permutações, inclusive a original (E), e 23 só tira a senha original (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "permutação caótica"
+   ]
+  },
+  {
+   "numero": 15,
+   "materia": "História",
+   "assunto": "Pré-História",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>Aproximadamente 12 mil anos atrás, a última era glacial chegava ao fim. Nesse período, os grupos humanos da região do chamado “Crescente Fértil” já haviam aperfeiçoado o uso de ossos, madeira e marfim para fabricar agulhas com furos, arpões, lanças, pontas e garfos e, usando pedras polidas, começaram a fabricar enxadas, foices, pilões e machados, inaugurando um período que chamamos de Neolítico.</p><p>Esse período é caracterizado principalmente pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "descoberta do fogo e pela invenção da escrita.",
+    "B": "descoberta da fundição dos metais e pelo surgimento das primeiras cidades.",
+    "C": "invenção da agricultura e pela sedentarização dos primeiros grupos humanos.",
+    "D": "invenção da roda e pela mecanização da produção agrícola.",
+    "E": "invenção dos números e pelo surgimento do capitalismo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O Neolítico é marcado pela <strong>agricultura</strong>, pela domesticação de animais e pela <strong>sedentarização</strong> dos grupos humanos. Alternativa <strong>C</strong>.</p><p>O fogo é do Paleolítico, e a escrita marca o fim da Pré-História (A). Metais e cidades vêm na Idade dos Metais (B). Não houve mecanização agrícola (D) nem capitalismo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Neolítico"
+   ]
+  },
+  {
+   "numero": 16,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p>O idioma árabe exerceu forte influência na língua portuguesa que, desse idioma, incorporou palavras como alambique, álcool, alface, açúcar, arroz, álgebra e azeitona, entre outras.</p><p>Assinale a alternativa correta sobre os contatos entre árabes e portugueses que possibilitaram essa influência.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "No início do século XXI, a eclosão da Primavera Árabe possibilitou o estreitamento dos laços entre os países muçulmanos e Portugal que, ao receber refugiados desses países, sofreu forte influência em seu idioma e hábitos alimentares.",
+    "B": "A partir do século XX, o advento das Grandes Navegações possibilitou o contato da Europa com regiões até então desconhecidas, como o Oriente Médio, cuja sofisticação cultural influenciou os hábitos e costumes da elite letrada de Portugal.",
+    "C": "Em meados do século XVI, durante a Conferência de Berlim, as potências europeias partilharam os territórios do Oriente Médio e, ali, Portugal estabeleceu intercâmbios comerciais, culturais e linguísticos com as populações de origem árabe.",
+    "D": "No final do século XII, fugindo da perseguição religiosa islâmica exercida pelo Império Turco, árabes cristãos migraram para Portugal e lá influenciaram a língua portuguesa com a introdução de cantigas tradicionais e histórias folclóricas.",
+    "E": "A partir do século VIII, populações de língua árabe se estabeleceram na Península Ibérica como resultado da expansão e conquista islâmicas, e sua influência se tornou visível na arquitetura, na arte, na medicina e na ciência ibéricas, marcando, também, a formação da língua portuguesa."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A partir de 711 (século VIII), os muçulmanos conquistaram a maior parte da Península Ibérica e ficaram ali por séculos, influenciando a arquitetura, a ciência e o vocabulário do português em formação. Alternativa <strong>E</strong>.</p><p>A Primavera Árabe é de 2011 (A). As Grandes Navegações são dos séculos XV e XVI (B). A Conferência de Berlim (1884–85) dividiu a África (C). E o Império Turco é posterior e não provocou essa migração (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "presença árabe na Península Ibérica"
+   ]
+  },
+  {
+   "numero": 17,
+   "materia": "História",
+   "assunto": "América colonial",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p>Muitos povos indígenas resistiram à dominação espanhola nas Américas. Uma das lutas de resistência mais conhecidas foi a do líder inca Tupac Amaru que, em 1780, comandou cerca de 40 mil homens em um movimento a favor de reformas para melhorar a vida e o trabalho dos indígenas peruanos.</p><p>A colonização espanhola da América se caracterizou pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "criação de quatro grandes vice-reinados, pela extração de metais preciosos e pela exploração da mão de obra indígena.",
+    "B": "criação de órgãos administrativos independentes, pela fabricação de artigos de couro para exportação e pela utilização de mão de obra assalariada.",
+    "C": "manutenção das instituições administrativas do Império Inca, pela industrialização acelerada e pela pauta de exportação, dominada por produtos como a soja e o trigo.",
+    "D": "criação de condados subordinados à administração colonial, pela organização da agricultura de subsistência e pelo trabalho indígena organizado em pequenos núcleos familiares.",
+    "E": "manutenção da organização política indígena tradicional, baseada na realização de assembleias populares, e pela introdução de alimentos originários da Ásia, como a batata e o milho."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A Espanha dividiu a América em <strong>vice-reinados</strong> (Nova Espanha, Peru, Nova Granada e Rio da Prata), extraiu ouro e prata e explorou o trabalho indígena, como na mita e na encomienda. Alternativa <strong>A</strong>.</p><p>Os órgãos não eram independentes, e não havia trabalho assalariado (B). As instituições incas foram desmontadas, e não houve industrialização (C). Não havia condados (D). E a batata e o milho são americanos, não asiáticos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "colonização espanhola"
+   ]
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "História contemporânea",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"apoio\">Em agosto de 1789, a Assembleia Nacional Constituinte aboliu o dízimo eclesiástico e todas as obrigações feudais que pesavam sobre os camponeses. Em seguida, aprovou a Declaração dos Direitos do Homem e do Cidadão, composta de 17 artigos.</p><p class=\"apoio\">A Declaração estabeleceu a igualdade de todos os homens perante a lei e determinou que a liberdade, a propriedade privada, a segurança e a resistência a qualquer tipo de opressão eram direitos naturais, inalienáveis e sagrados do homem.</p><p class=\"fonte\">ARARIBÁ Plus: <em>História</em>. 4ªed. São Paulo: Moderna, 2014. p.102.</p><p>O texto se refere aos acontecimentos da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Confederação do Equador.",
+    "B": "Independência do México.",
+    "C": "Guerra Civil Americana.",
+    "D": "Inconfidência Mineira.",
+    "E": "Revolução Francesa."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Assembleia Nacional Constituinte de 1789, o fim dos privilégios feudais e a <strong>Declaração dos Direitos do Homem e do Cidadão</strong> são marcos da <strong>Revolução Francesa</strong>. Alternativa <strong>E</strong>.</p><p>A Confederação do Equador (1824), a Independência do México (1821) e a Guerra Civil Americana (1861–65) são posteriores. A Inconfidência Mineira (1789) não aprovou leis (A, B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Revolução Francesa"
+   ]
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p>Na década de 1950, o presidente Juscelino Kubitschek adotou uma política de desenvolvimento econômico que ficou conhecida como Plano de Metas.</p><p>Sob o lema “50 anos em 5”, esse plano se caracterizou pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "adoção de uma política econômica liberal que preconizava a universalização do acesso à educação básica e a privatização dos serviços essenciais, como fornecimento de água e energia elétrica.",
+    "B": "abertura do país ao capital externo, facilitando a instalação de indústrias estrangeiras no país, ao mesmo tempo que manteve o controle estatal sobre a extração, refino e distribuição do petróleo.",
+    "C": "oferta de incentivos fiscais para a instalação de fábricas nas regiões menos desenvolvidas do país, como o Norte e o Nordeste, além de combater as desigualdades regionais e erradicar a fome.",
+    "D": "aproximação com a União Soviética, no contexto da Guerra Fria, que garantiu os investimentos necessários para a instalação da indústria siderúrgica nacional e a construção de Brasília.",
+    "E": "promoção de políticas públicas de acesso aos serviços essenciais como saneamento básico, medicina preventiva e urbanização de favelas, além da redistribuição de renda e da terra."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>JK abriu o país ao capital estrangeiro (sobretudo à indústria automobilística), mas manteve o monopólio estatal do petróleo, criado com a Petrobras em 1953. Alternativa <strong>B</strong>.</p><p>O plano não privatizou serviços (A), concentrou as indústrias no Sudeste (C), não houve aproximação com a URSS (D), e não houve redistribuição de terra nem de renda (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Plano de Metas",
+    "JK"
+   ]
+  },
+  {
+   "numero": 20,
+   "materia": "Química",
+   "assunto": "Substâncias e misturas",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p>Leia o trecho do soneto “Como eu te amo”, de Gonçalves Dias, para responder a questão.</p><p class=\"apoio\">Como se ama o silêncio, a luz, o aroma, (1)<br>O orvalho numa flor, nos céus a estrela, (2)<br>No largo mar a sombra de uma vela, (3)<br>Que lá na extrema do horizonte assoma; (4)</p><p class=\"apoio\">Como se ama o clarão da branca lua, (5)<br>Da noite na mudez os sons da flauta, (6)<br>As canções saudosíssimas do nauta, (7)<br>Quando em mole vaivém a nau flutua. (8)</p><p class=\"fonte\">&lt;https://tinyurl.com/y6uoquu5&gt; Acesso em: 17.03.2018. Adaptado.</p><p>A condensação, passagem de uma substância do estado gasoso para o estado líquido, pode ocorrer quando vapores de um material entram em contato com uma superfície fria.</p><p>O verso que cita um fenômeno resultante da condensação do vapor de água é o</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O <strong>orvalho</strong> (verso 2) se forma quando o vapor de água do ar se condensa ao tocar superfícies frias, como as pétalas de uma flor à noite. Alternativa <strong>B</strong>.</p><p>Os outros versos falam de silêncio, luz, aroma, sombra, horizonte e luar, sem relação com condensação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mudanças de estado físico"
+   ]
+  },
+  {
+   "numero": 21,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p>Considere uma vela composta de um hidrocarboneto (fórmula molecular C<sub>22</sub>H<sub>46</sub>) cuja combustão completa libera apenas gás carbônico e água.</p><p>Pode-se concluir corretamente que, na combustão completa de 1 mol desse hidrocarboneto, as quantidades de matéria, e CO<sub>2</sub> e de H<sub>2</sub>O produzidas são, em mol, respectivamente, iguais a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "11 e 13.",
+    "B": "11 e 20.",
+    "C": "22 e 23.",
+    "D": "22 e 25.",
+    "E": "22 e 46."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Cada carbono vira um CO₂: 22 mol de CO₂. Os 46 hidrogênios formam 46 ÷ 2 = 23 mol de H₂O. Alternativa <strong>C</strong>.</p><p>46 é o número de átomos de H, não de moléculas de água (E). As outras dividem ou somam de forma errada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combustão",
+    "balanceamento"
+   ]
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Estrutura atômica",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto e a tabela para responder às questões de números 22 a 24.</p><p class=\"apoio\">Barcarena, no nordeste do Pará, é uma cidade da Amazônia marcada por desastres ambientais. Há semanas, depois de fortes chuvas, houve um vazamento de rejeitos em uma das empresas do polo industrial, o que contaminou rios da região. No município de Barcarena já houve outros registros de crimes ambientais de contaminação.</p><p class=\"apoio\">Em 2004, a Universidade Federal do Pará (UFPA) realizou uma pesquisa que concluiu que a água consumida pela população, em 26 localidades, estava contaminada por íons de metais pesados tais como Pb<sup>2+</sup>, Cd<sup>2+</sup> e Hg<sup>2+</sup>, descartados pelas indústrias. Amostras de água de Vila Nova, Burajuba e do Distrito Industrial apresentaram concentração de chumbo 12 vezes maior que o máximo permitido por uma resolução de 2011 do Ministério da Saúde.</p><p class=\"fonte\">&lt;https://tinyurl.com/ydhahee2&gt; Acesso em: 06.03.2018. Adaptado.</p><p><strong>Tabela de padrão de potabilidade para algumas substâncias químicas que representam risco à saúde</strong></p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Parâmetro</th><th scope=\"col\">Número Atômico (Z)</th><th scope=\"col\">Valor máximo permitido (mg/L)</th></tr></thead><tbody><tr><td>Arsênio</td><td>33</td><td>0,010</td></tr><tr><td>Bário</td><td>56</td><td>0,7</td></tr><tr><td>Cádmio</td><td>48</td><td>0,005</td></tr><tr><td>Chumbo</td><td>82</td><td>0,01</td></tr><tr><td>Mercúrio</td><td>80</td><td>0,001</td></tr></tbody></table></div><p class=\"fonte\">&lt;https://tinyurl.com/zmxg7b9&gt; Acesso em: 06.03.2018. Adaptado.</p><p>Entre os elementos citados, o único pertencente ao grupo dos metais alcalino-terrosos é o</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "arsênio.",
+    "B": "bário.",
+    "C": "cádmio.",
+    "D": "chumbo.",
+    "E": "mercúrio."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os metais alcalino-terrosos formam o grupo 2 da tabela: Be, Mg, Ca, Sr, <strong>Ba</strong> e Ra. Alternativa <strong>B</strong>.</p><p>O arsênio é um semimetal do grupo 15 (A). Cádmio e mercúrio são metais de transição do grupo 12 (C e E). E o chumbo é do grupo 14 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tabela periódica"
+   ]
+  },
+  {
+   "numero": 23,
+   "materia": "Química",
+   "assunto": "Estrutura atômica",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto e a tabela para responder às questões de números 22 a 24.</p><p class=\"apoio\">Barcarena, no nordeste do Pará, é uma cidade da Amazônia marcada por desastres ambientais. Há semanas, depois de fortes chuvas, houve um vazamento de rejeitos em uma das empresas do polo industrial, o que contaminou rios da região. No município de Barcarena já houve outros registros de crimes ambientais de contaminação.</p><p class=\"apoio\">Em 2004, a Universidade Federal do Pará (UFPA) realizou uma pesquisa que concluiu que a água consumida pela população, em 26 localidades, estava contaminada por íons de metais pesados tais como Pb<sup>2+</sup>, Cd<sup>2+</sup> e Hg<sup>2+</sup>, descartados pelas indústrias. Amostras de água de Vila Nova, Burajuba e do Distrito Industrial apresentaram concentração de chumbo 12 vezes maior que o máximo permitido por uma resolução de 2011 do Ministério da Saúde.</p><p class=\"fonte\">&lt;https://tinyurl.com/ydhahee2&gt; Acesso em: 06.03.2018. Adaptado.</p><p><strong>Tabela de padrão de potabilidade para algumas substâncias químicas que representam risco à saúde</strong></p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Parâmetro</th><th scope=\"col\">Número Atômico (Z)</th><th scope=\"col\">Valor máximo permitido (mg/L)</th></tr></thead><tbody><tr><td>Arsênio</td><td>33</td><td>0,010</td></tr><tr><td>Bário</td><td>56</td><td>0,7</td></tr><tr><td>Cádmio</td><td>48</td><td>0,005</td></tr><tr><td>Chumbo</td><td>82</td><td>0,01</td></tr><tr><td>Mercúrio</td><td>80</td><td>0,001</td></tr></tbody></table></div><p class=\"fonte\">&lt;https://tinyurl.com/zmxg7b9&gt; Acesso em: 06.03.2018. Adaptado.</p><p>Os íons cádmio, \\({}^{112}_{48}\\text{Cd}^{2+}\\), presentes na água contaminada apresentam</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "46 prótons e 63 nêutrons.",
+    "B": "46 prótons e 64 nêutrons.",
+    "C": "48 prótons e 67 nêutrons.",
+    "D": "48 prótons e 48 elétrons.",
+    "E": "48 prótons e 46 elétrons."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O número atômico 48 é o número de prótons. O íon 2+ perdeu 2 elétrons: 48 − 2 = <strong>46 elétrons</strong>. Alternativa <strong>E</strong>.</p><p>O número de prótons não muda ao formar o íon (A e B). Os nêutrons são 112 − 48 = 64, não 67 (C). E 48 elétrons seria o átomo neutro (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "íons"
+   ]
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto e a tabela para responder às questões de números 22 a 24.</p><p class=\"apoio\">Barcarena, no nordeste do Pará, é uma cidade da Amazônia marcada por desastres ambientais. Há semanas, depois de fortes chuvas, houve um vazamento de rejeitos em uma das empresas do polo industrial, o que contaminou rios da região. No município de Barcarena já houve outros registros de crimes ambientais de contaminação.</p><p class=\"apoio\">Em 2004, a Universidade Federal do Pará (UFPA) realizou uma pesquisa que concluiu que a água consumida pela população, em 26 localidades, estava contaminada por íons de metais pesados tais como Pb<sup>2+</sup>, Cd<sup>2+</sup> e Hg<sup>2+</sup>, descartados pelas indústrias. Amostras de água de Vila Nova, Burajuba e do Distrito Industrial apresentaram concentração de chumbo 12 vezes maior que o máximo permitido por uma resolução de 2011 do Ministério da Saúde.</p><p class=\"fonte\">&lt;https://tinyurl.com/ydhahee2&gt; Acesso em: 06.03.2018. Adaptado.</p><p><strong>Tabela de padrão de potabilidade para algumas substâncias químicas que representam risco à saúde</strong></p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Parâmetro</th><th scope=\"col\">Número Atômico (Z)</th><th scope=\"col\">Valor máximo permitido (mg/L)</th></tr></thead><tbody><tr><td>Arsênio</td><td>33</td><td>0,010</td></tr><tr><td>Bário</td><td>56</td><td>0,7</td></tr><tr><td>Cádmio</td><td>48</td><td>0,005</td></tr><tr><td>Chumbo</td><td>82</td><td>0,01</td></tr><tr><td>Mercúrio</td><td>80</td><td>0,001</td></tr></tbody></table></div><p class=\"fonte\">&lt;https://tinyurl.com/zmxg7b9&gt; Acesso em: 06.03.2018. Adaptado.</p><p>No atendimento a um morador de Vila Nova, o médico calculou a quantidade de chumbo ingerida pelo paciente que havia bebido 500 mL da água contaminada na cidade.</p><p>Assinale a alternativa que apresenta a massa total de chumbo ingerida pelo paciente, em miligramas.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 × 10<sup>–3</sup>",
+    "B": "5 × 10<sup>–3</sup>",
+    "C": "3 × 10<sup>–2</sup>",
+    "D": "6 × 10<sup>–2</sup>",
+    "E": "9 × 10<sup>–2</sup>"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em Vila Nova, o chumbo estava 12 vezes acima do limite de 0,01 mg/L: 0,12 mg/L. Em 0,5 L: 0,12 · 0,5 = 0,06 mg = <strong>6 × 10⁻² mg</strong>. Alternativa <strong>D</strong>.</p><p>5 × 10⁻³ mg é o limite em 0,5 L, sem as 12 vezes (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "concentração"
+   ]
+  },
+  {
+   "numero": 25,
+   "materia": "Inglês",
+   "assunto": "Verbos",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>5 Ways to Boost Your Resilience at Work</strong></p><p class=\"apoio\">Since the pace and intensity of contemporary work culture are not likely to change, it’s more important than ever to build resilience skills to effectively navigate your worklife. While working as a CEO I’ve seen over and over again that the most resilient individuals aren’t the ones that don’t fail, but rather the ones that fail, learn and thrive<sup>1</sup> because of it.</p><p class=\"apoio\">Resilience is built by attitudes, behaviors and social supports that can be adopted and cultivated by anyone. Factors that lead to resilience include optimism and the ability to stay balanced and manage difficult emotions. To build resilience skills at work it’s important to understand and manage some of the factors that cause us to feel so stressed at work. Being hyperconnected and responsive to work anytime, anywhere, can be extremely onerous.</p><p class=\"apoio\">The current and rising levels of stress in the workplace should be cause for concern, as there is a direct and adverse relationship between negative stress, wellness and productivity. Stress that causes us to experience difficulty or unhealthy strain is a major cause for concern as it directly and adversely affects personal and business success. Here are some tips on how to develop resilience and stay motivated:</p><p class=\"apoio\"><strong>Exercise mindfulness</strong> – Turn your attention to mental training practices associated with mindfulness to improve your judgment accuracy and problem solving, job performance and cognitive flexibility.</p><p class=\"apoio\"><strong>Compartmentalize your cognitive load</strong> – Create dedicated times in the day to do specific work-related activities and not others.</p><p class=\"apoio\"><strong>Take detachment</strong><sup>2</sup> breaks – Step away from work for even a few minutes to reset energy and attention. Balancing work activity can promote greater energy, mental clarity, creativity and focus.</p><p class=\"apoio\"><strong>Develop mental agility</strong> – Decenter stress: step back, reflect, shift perspectives, create options and choose wisely.</p><p class=\"apoio\"><strong>Cultivate compassion</strong> – Create positive work relationships, increase cooperation and collaboration, happiness and well-being to decrease stress.</p><p class=\"fonte\">&lt;https://tinyurl.com/ycvtxc4v&gt; Acesso em: 04.03.2018. Adaptado.</p><p class=\"fonte\">Glossário: (1) <em>Thrive</em>: prosperar, desenvolver, ter sucesso. (2) <em>Detachment</em>: descolamento, distanciamento, separação.</p><p>Na frase, “<em>I’ve seen over and over again ....</em>”, presente no primeiro parágrafo do texto, o autor refere-se a uma ação que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ocorrerá somente no futuro.",
+    "B": "inicia e termina no passado.",
+    "C": "ocorreu num passado remoto.",
+    "D": "inicia no passado e tem continuidade no presente.",
+    "E": "está no presente e não tem conexão com o passado."
+   },
+   "gabarito": "D",
+   "explicacao": "<p><em>I’ve seen</em> está no <em>present perfect</em>: uma experiência que começou no passado e continua valendo até hoje (“tenho visto, repetidas vezes”). Alternativa <strong>D</strong>.</p><p>Não é futuro (A), nem um passado encerrado ou remoto, que seria <em>I saw</em> (B e C), nem um presente sem ligação com o passado (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "present perfect"
+   ]
+  },
+  {
+   "numero": 26,
+   "materia": "Inglês",
+   "assunto": "Coesão e referência",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>5 Ways to Boost Your Resilience at Work</strong></p><p class=\"apoio\">Since the pace and intensity of contemporary work culture are not likely to change, it’s more important than ever to build resilience skills to effectively navigate your worklife. While working as a CEO I’ve seen over and over again that the most resilient individuals aren’t the ones that don’t fail, but rather the ones that fail, learn and thrive<sup>1</sup> because of it.</p><p class=\"apoio\">Resilience is built by attitudes, behaviors and social supports that can be adopted and cultivated by anyone. Factors that lead to resilience include optimism and the ability to stay balanced and manage difficult emotions. To build resilience skills at work it’s important to understand and manage some of the factors that cause us to feel so stressed at work. Being hyperconnected and responsive to work anytime, anywhere, can be extremely onerous.</p><p class=\"apoio\">The current and rising levels of stress in the workplace should be cause for concern, as there is a direct and adverse relationship between negative stress, wellness and productivity. Stress that causes us to experience difficulty or unhealthy strain is a major cause for concern as it directly and adversely affects personal and business success. Here are some tips on how to develop resilience and stay motivated:</p><p class=\"apoio\"><strong>Exercise mindfulness</strong> – Turn your attention to mental training practices associated with mindfulness to improve your judgment accuracy and problem solving, job performance and cognitive flexibility.</p><p class=\"apoio\"><strong>Compartmentalize your cognitive load</strong> – Create dedicated times in the day to do specific work-related activities and not others.</p><p class=\"apoio\"><strong>Take detachment</strong><sup>2</sup> breaks – Step away from work for even a few minutes to reset energy and attention. Balancing work activity can promote greater energy, mental clarity, creativity and focus.</p><p class=\"apoio\"><strong>Develop mental agility</strong> – Decenter stress: step back, reflect, shift perspectives, create options and choose wisely.</p><p class=\"apoio\"><strong>Cultivate compassion</strong> – Create positive work relationships, increase cooperation and collaboration, happiness and well-being to decrease stress.</p><p class=\"fonte\">&lt;https://tinyurl.com/ycvtxc4v&gt; Acesso em: 04.03.2018. Adaptado.</p><p class=\"fonte\">Glossário: (1) <em>Thrive</em>: prosperar, desenvolver, ter sucesso. (2) <em>Detachment</em>: descolamento, distanciamento, separação.</p><p>No segundo parágrafo do texto, o trecho “<em>.... can be extremely onerous.</em>” refere-se a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "desenvolver a resiliência no trabalho.",
+    "B": "aumentar o nível de estresse no trabalho.",
+    "C": "estabelecer pausas excessivas durante o trabalho.",
+    "D": "compreender os fatores causadores do estresse no trabalho.",
+    "E": "estar constantemente conectado e disponível às demandas do trabalho."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A frase é “<em>Being hyperconnected and responsive to work anytime, anywhere, can be extremely onerous</em>”: o que é penoso é <strong>estar sempre conectado e disponível ao trabalho</strong>. Alternativa <strong>E</strong>.</p><p>O sujeito de “can be onerous” não é desenvolver resiliência (A), aumentar o estresse (B), fazer pausas (C) nem compreender o estresse (D).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 27,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>5 Ways to Boost Your Resilience at Work</strong></p><p class=\"apoio\">Since the pace and intensity of contemporary work culture are not likely to change, it’s more important than ever to build resilience skills to effectively navigate your worklife. While working as a CEO I’ve seen over and over again that the most resilient individuals aren’t the ones that don’t fail, but rather the ones that fail, learn and thrive<sup>1</sup> because of it.</p><p class=\"apoio\">Resilience is built by attitudes, behaviors and social supports that can be adopted and cultivated by anyone. Factors that lead to resilience include optimism and the ability to stay balanced and manage difficult emotions. To build resilience skills at work it’s important to understand and manage some of the factors that cause us to feel so stressed at work. Being hyperconnected and responsive to work anytime, anywhere, can be extremely onerous.</p><p class=\"apoio\">The current and rising levels of stress in the workplace should be cause for concern, as there is a direct and adverse relationship between negative stress, wellness and productivity. Stress that causes us to experience difficulty or unhealthy strain is a major cause for concern as it directly and adversely affects personal and business success. Here are some tips on how to develop resilience and stay motivated:</p><p class=\"apoio\"><strong>Exercise mindfulness</strong> – Turn your attention to mental training practices associated with mindfulness to improve your judgment accuracy and problem solving, job performance and cognitive flexibility.</p><p class=\"apoio\"><strong>Compartmentalize your cognitive load</strong> – Create dedicated times in the day to do specific work-related activities and not others.</p><p class=\"apoio\"><strong>Take detachment</strong><sup>2</sup> breaks – Step away from work for even a few minutes to reset energy and attention. Balancing work activity can promote greater energy, mental clarity, creativity and focus.</p><p class=\"apoio\"><strong>Develop mental agility</strong> – Decenter stress: step back, reflect, shift perspectives, create options and choose wisely.</p><p class=\"apoio\"><strong>Cultivate compassion</strong> – Create positive work relationships, increase cooperation and collaboration, happiness and well-being to decrease stress.</p><p class=\"fonte\">&lt;https://tinyurl.com/ycvtxc4v&gt; Acesso em: 04.03.2018. Adaptado.</p><p class=\"fonte\">Glossário: (1) <em>Thrive</em>: prosperar, desenvolver, ter sucesso. (2) <em>Detachment</em>: descolamento, distanciamento, separação.</p><p>De acordo com o texto, a resiliência no mundo do trabalho</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "é uma habilidade que poucas pessoas conseguem cultivar.",
+    "B": "está diretamente ligada a adversidades, causando o estresse.",
+    "C": "estabelece uma relação direta entre estresse negativo, bem-estar e produtividade.",
+    "D": "é desenvolvida com a compreensão e gerenciamento de fatores que nos causam estresse.",
+    "E": "é o resultado de um comportamento de constante conexão e disponibilidade para o trabalho."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto diz: “<em>To build resilience skills at work it’s important to understand and manage some of the factors that cause us to feel so stressed</em>”. Alternativa <strong>D</strong>.</p><p>A resiliência “<em>can be adopted and cultivated by anyone</em>” (A). Ela ajuda a enfrentar o estresse, não o causa (B). A relação entre estresse, bem-estar e produtividade é do estresse, não da resiliência (C). E a conexão constante é um fator de estresse (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 28,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>5 Ways to Boost Your Resilience at Work</strong></p><p class=\"apoio\">Since the pace and intensity of contemporary work culture are not likely to change, it’s more important than ever to build resilience skills to effectively navigate your worklife. While working as a CEO I’ve seen over and over again that the most resilient individuals aren’t the ones that don’t fail, but rather the ones that fail, learn and thrive<sup>1</sup> because of it.</p><p class=\"apoio\">Resilience is built by attitudes, behaviors and social supports that can be adopted and cultivated by anyone. Factors that lead to resilience include optimism and the ability to stay balanced and manage difficult emotions. To build resilience skills at work it’s important to understand and manage some of the factors that cause us to feel so stressed at work. Being hyperconnected and responsive to work anytime, anywhere, can be extremely onerous.</p><p class=\"apoio\">The current and rising levels of stress in the workplace should be cause for concern, as there is a direct and adverse relationship between negative stress, wellness and productivity. Stress that causes us to experience difficulty or unhealthy strain is a major cause for concern as it directly and adversely affects personal and business success. Here are some tips on how to develop resilience and stay motivated:</p><p class=\"apoio\"><strong>Exercise mindfulness</strong> – Turn your attention to mental training practices associated with mindfulness to improve your judgment accuracy and problem solving, job performance and cognitive flexibility.</p><p class=\"apoio\"><strong>Compartmentalize your cognitive load</strong> – Create dedicated times in the day to do specific work-related activities and not others.</p><p class=\"apoio\"><strong>Take detachment</strong><sup>2</sup> breaks – Step away from work for even a few minutes to reset energy and attention. Balancing work activity can promote greater energy, mental clarity, creativity and focus.</p><p class=\"apoio\"><strong>Develop mental agility</strong> – Decenter stress: step back, reflect, shift perspectives, create options and choose wisely.</p><p class=\"apoio\"><strong>Cultivate compassion</strong> – Create positive work relationships, increase cooperation and collaboration, happiness and well-being to decrease stress.</p><p class=\"fonte\">&lt;https://tinyurl.com/ycvtxc4v&gt; Acesso em: 04.03.2018. Adaptado.</p><p class=\"fonte\">Glossário: (1) <em>Thrive</em>: prosperar, desenvolver, ter sucesso. (2) <em>Detachment</em>: descolamento, distanciamento, separação.</p><p>Segundo o texto, o crescente nível de estresse no trabalho</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "deve ser motivo de preocupação pela pressão gerada.",
+    "B": "possibilita a cooperação e colaboração entre os trabalhadores.",
+    "C": "causa pressão favorável à busca por bem-estar e produtividade.",
+    "D": "estimula o trabalhador a buscar seu sucesso pessoal e profissional.",
+    "E": "cria competitividade e, consequentemente, aumenta a produtividade."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz: “<em>The current and rising levels of stress in the workplace should be cause for concern</em>”. Alternativa <strong>A</strong>.</p><p>O estresse prejudica o bem-estar e a produtividade, não favorece cooperação, sucesso ou produtividade (B, C, D e E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 29,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>5 Ways to Boost Your Resilience at Work</strong></p><p class=\"apoio\">Since the pace and intensity of contemporary work culture are not likely to change, it’s more important than ever to build resilience skills to effectively navigate your worklife. While working as a CEO I’ve seen over and over again that the most resilient individuals aren’t the ones that don’t fail, but rather the ones that fail, learn and thrive<sup>1</sup> because of it.</p><p class=\"apoio\">Resilience is built by attitudes, behaviors and social supports that can be adopted and cultivated by anyone. Factors that lead to resilience include optimism and the ability to stay balanced and manage difficult emotions. To build resilience skills at work it’s important to understand and manage some of the factors that cause us to feel so stressed at work. Being hyperconnected and responsive to work anytime, anywhere, can be extremely onerous.</p><p class=\"apoio\">The current and rising levels of stress in the workplace should be cause for concern, as there is a direct and adverse relationship between negative stress, wellness and productivity. Stress that causes us to experience difficulty or unhealthy strain is a major cause for concern as it directly and adversely affects personal and business success. Here are some tips on how to develop resilience and stay motivated:</p><p class=\"apoio\"><strong>Exercise mindfulness</strong> – Turn your attention to mental training practices associated with mindfulness to improve your judgment accuracy and problem solving, job performance and cognitive flexibility.</p><p class=\"apoio\"><strong>Compartmentalize your cognitive load</strong> – Create dedicated times in the day to do specific work-related activities and not others.</p><p class=\"apoio\"><strong>Take detachment</strong><sup>2</sup> breaks – Step away from work for even a few minutes to reset energy and attention. Balancing work activity can promote greater energy, mental clarity, creativity and focus.</p><p class=\"apoio\"><strong>Develop mental agility</strong> – Decenter stress: step back, reflect, shift perspectives, create options and choose wisely.</p><p class=\"apoio\"><strong>Cultivate compassion</strong> – Create positive work relationships, increase cooperation and collaboration, happiness and well-being to decrease stress.</p><p class=\"fonte\">&lt;https://tinyurl.com/ycvtxc4v&gt; Acesso em: 04.03.2018. Adaptado.</p><p class=\"fonte\">Glossário: (1) <em>Thrive</em>: prosperar, desenvolver, ter sucesso. (2) <em>Detachment</em>: descolamento, distanciamento, separação.</p><p>Assinale a alternativa que apresenta a sugestão ligada aos benefícios das pausas durante o trabalho.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Exercise mindfulness",
+    "B": "Compartmentalize your cognitive load",
+    "C": "Take detachment breaks",
+    "D": "Develop mental agility",
+    "E": "Cultivate compassion"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>“<em>Take detachment breaks – Step away from work for even a few minutes to reset energy and attention</em>”: são as pausas para se afastar do trabalho. Alternativa <strong>C</strong>.</p><p>As outras dicas tratam de atenção plena (A), organização das tarefas (B), flexibilidade mental (D) e boas relações (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto e considere as figuras para responder às questões de números 30 e 31.</p><p>Utilizando um software de desenho 3D, um tecnólogo em Mecânica elaborou o projeto de uma peça de acordo com os seguintes procedimentos:</p><p>(1º) no plano cartesiano, desenhou o polígono CDEFGHIJKLMN, conforme figura 1, adotando como unidade de cada eixo coordenado 1 cm.</p><p>(2º) tendo esse polígono como base, construiu um prisma reto conforme a figura 2.</p>[[fig:1]]<p>Nessas condições, o cosseno do ângulo ĈDN é, aproximadamente, igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q30.webp",
+     "alt": "Figura 1: no plano cartesiano, o polígono CDEFGHIJKLMN, com coordenadas C (0, 0), D (0, 12), E (6, 12), F (6, 16), G (14, 16), H (14, 12), I (20, 12), J (20, 0), K (15, 0), L (15, 5), M (5, 5) e N (5, 0): um retângulo de 20 por 12 com um ressalto de 8 por 4 em cima, entre x = 6 e x = 14, e um recorte de 10 por 5 embaixo, entre x = 5 e x = 15. Figura 2: o prisma reto construído sobre esse polígono, em perspectiva."
+    }
+   ],
+   "alternativas": {
+    "A": "0,38.",
+    "B": "0,42.",
+    "C": "0,56.",
+    "D": "0,74.",
+    "E": "0,92."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No triângulo CDN, retângulo em C, os catetos são CD = 12 e CN = 5, e a hipotenusa é DN = √(144 + 25) = 13. O cosseno do ângulo em D é o cateto adjacente sobre a hipotenusa: 12/13 ≈ <strong>0,92</strong>. Alternativa <strong>E</strong>.</p><p>5/13 ≈ 0,38 é o cosseno do outro ângulo agudo, em N (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "geometria analítica",
+    "teorema de Pitágoras"
+   ]
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto e considere as figuras para responder às questões de números 30 e 31.</p><p>Utilizando um software de desenho 3D, um tecnólogo em Mecânica elaborou o projeto de uma peça de acordo com os seguintes procedimentos:</p><p>(1º) no plano cartesiano, desenhou o polígono CDEFGHIJKLMN, conforme figura 1, adotando como unidade de cada eixo coordenado 1 cm.</p><p>(2º) tendo esse polígono como base, construiu um prisma reto conforme a figura 2.</p>[[fig:1]]<p>Se a altura do prisma é de 20 cm, então o volume do prisma é, em centímetros cúbicos, igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q30.webp",
+     "alt": "Figura 1: no plano cartesiano, o polígono CDEFGHIJKLMN, com coordenadas C (0, 0), D (0, 12), E (6, 12), F (6, 16), G (14, 16), H (14, 12), I (20, 12), J (20, 0), K (15, 0), L (15, 5), M (5, 5) e N (5, 0): um retângulo de 20 por 12 com um ressalto de 8 por 4 em cima, entre x = 6 e x = 14, e um recorte de 10 por 5 embaixo, entre x = 5 e x = 15. Figura 2: o prisma reto construído sobre esse polígono, em perspectiva."
+    }
+   ],
+   "alternativas": {
+    "A": "4 600.",
+    "B": "4 440.",
+    "C": "3 680.",
+    "D": "3 552.",
+    "E": "3 256."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Área da base: retângulo 20 × 12 = 240, mais o ressalto de cima, 8 × 4 = 32, menos o recorte de baixo, 10 × 5 = 50: 240 + 32 − 50 = 222 cm². Volume: 222 × 20 = <strong>4 440 cm³</strong>. Alternativa <strong>B</strong>.</p><p>Esquecer o recorte dá 272 × 20 = 5 440; esquecer o ressalto dá 190 × 20 = 3 800.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "prisma",
+    "volume"
+   ]
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p class=\"chamada\">Analise os gráficos para responder às questões de números 32 e 33.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yaevl4u9&gt; Acesso em: 25.02.2018. Adaptado.</p><p>De acordo com as informações dos gráficos, pode-se concluir corretamente que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q32.webp",
+     "alt": "Três gráficos sobre exportações brasileiras de produtos farmacêuticos, de 2010 a 2014. 1) Participação por tipo de produto (em %): medicamento de referência 46, 43, 42, 41, 40; genérico 12, 14, 12, 12, 13; similar 42, 43, 45, 47, 48. 2) Faturamento, em bilhões de reais: 27,71; 30,16; 32,73; 36,42; 40,35. 3) Doses comercializadas, em bilhões de unidades: 76,30; 88,04; 98,50; 111,11; 121,83."
+    }
+   ],
+   "alternativas": {
+    "A": "de 2010 a 2014, o aumento do número de doses comercializadas foi menor do que 30%.",
+    "B": "de 2010 a 2014, a participação percentual do produto similar nas exportações foi decrescente.",
+    "C": "em 2011, o faturamento dos produtos genéricos exportados foi de 30,16 bilhões de reais.",
+    "D": "em 2012, cada dose comercializada foi vendida, em média, por R$ 3,00.",
+    "E": "em 2014, foram comercializados 48,652 bilhões de doses de medicamentos de referência."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Questão anulada. Conferindo cada alternativa:</p><p>A: as doses foram de 76,30 para 121,83 bilhões, aumento de cerca de 59,7%, bem acima de 30%. B: a participação do similar subiu (42, 43, 45, 47, 48%). C: 30,16 bilhões de reais é o faturamento <em>total</em> de 2011; a parte dos genéricos é 14% disso, cerca de 4,22 bilhões. D: em 2012, 32,73 ÷ 98,50 ≈ R$ 0,33 por dose. E: 40% de 121,83 = <strong>48,732</strong> bilhões, e não 48,652 — por isso nenhuma alternativa fecha.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráficos",
+    "porcentagem"
+   ],
+   "anulacao": {
+    "fonte": "analise",
+    "motivo": "O Centro Paula Souza anulou a questão sem publicar o motivo. Pela análise do Treineiros, nenhuma alternativa está correta: a E, provável resposta pretendida, dá 40% de 121,83 = 48,732 bilhões de doses, não 48,652."
+   }
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p class=\"chamada\">Analise os gráficos para responder às questões de números 32 e 33.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yaevl4u9&gt; Acesso em: 25.02.2018. Adaptado.</p><p>No período de 2010 a 2014, o crescimento no número de doses comercializadas, em bilhões de unidades, é aproximadamente linear.</p><p>Se o crescimento observado de 2010 a 2014 se mantiver nos próximos anos, o número de doses comercializadas em 2018, em bilhões de unidades, será, aproximadamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q32.webp",
+     "alt": "Três gráficos sobre exportações brasileiras de produtos farmacêuticos, de 2010 a 2014. 1) Participação por tipo de produto (em %): medicamento de referência 46, 43, 42, 41, 40; genérico 12, 14, 12, 12, 13; similar 42, 43, 45, 47, 48. 2) Faturamento, em bilhões de reais: 27,71; 30,16; 32,73; 36,42; 40,35. 3) Doses comercializadas, em bilhões de unidades: 76,30; 88,04; 98,50; 111,11; 121,83."
+    }
+   ],
+   "alternativas": {
+    "A": "144,29.",
+    "B": "155,62.",
+    "C": "166,96.",
+    "D": "197,93.",
+    "E": "243,26."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>De 2010 a 2014 as doses passaram de 76,30 para 121,83 bilhões: aumento de 45,53 em 4 anos, cerca de 11,38 por ano. Mais 4 anos até 2018: 121,83 + 45,53 ≈ 167,4 bilhões, mais próximo de <strong>166,96</strong>. Alternativa <strong>C</strong>.</p><p>243,26 seria dobrar o valor de 2014, como se o crescimento fosse percentual e não linear (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função afim",
+    "gráficos"
+   ]
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p>Considere os dados divulgados pelo Ministério do Turismo do Brasil em relação à demanda turística internacional em 2016.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Motivo da viagem</th><th scope=\"col\">Frequência relativa</th></tr></thead><tbody><tr><td>Lazer</td><td>57%</td></tr><tr><td>Visita a amigos e parentes</td><td>21%</td></tr><tr><td>Negócios, eventos e convenções</td><td>19%</td></tr><tr><td>Outros motivos</td><td>3%</td></tr></tbody></table></div><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Nível de satisfação com a viagem</th><th scope=\"col\">Frequência relativa</th></tr></thead><tbody><tr><td>Superou as expectativas</td><td>46%</td></tr><tr><td>Atendeu plenamente as expectativas</td><td>45%</td></tr><tr><td>Atendeu em parte as expectativas</td><td>8%</td></tr><tr><td>Não atendeu as expectativas</td><td>1%</td></tr></tbody></table></div><p class=\"fonte\">&lt;https://tinyurl.com/ycsskm72&gt; Acesso em: 17.02.2018. Adaptado.</p><p>A probabilidade de que um turista estrangeiro de 2016, escolhido ao acaso, tenha viajado ao Brasil por “outros motivos” ou que tenha avaliado o seu nível de satisfação com a viagem na categoria “não atendeu as expectativas”, admitindo que esses eventos sejam independentes, é</p><p class=\"apoio\">Lembre-se de que:<br>• sendo A e B eventos de um espaço amostral, então p(A ∪ B) = p(A) + p(B) – p(A ∩ B).<br>• se os eventos A e B são independentes, então p(A ∪ B) = p(A) · p(B).</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,00%.",
+    "B": "2,56%.",
+    "C": "3,45%",
+    "D": "3,97%.",
+    "E": "4,00%."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Questão anulada. A conta correta: p(A) = 3% e p(B) = 1%; sendo independentes, p(A ∩ B) = 0,03 · 0,01 = 0,0003. Então p(A ∪ B) = 0,03 + 0,01 − 0,0003 = 0,0397 = <strong>3,97%</strong> (alternativa D).</p><p>O problema está no quadro de apoio, que troca ∩ por ∪ na regra dos eventos independentes. Guarde a regra certa: <strong>independentes → p(A ∩ B) = p(A) · p(B)</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eventos independentes",
+    "tabelas"
+   ],
+   "anulacao": {
+    "fonte": "analise",
+    "motivo": "O Centro Paula Souza anulou a questão sem publicar o motivo. Pela análise do Treineiros, o quadro “Lembre-se” traz uma fórmula errada: para eventos independentes vale p(A ∩ B) = p(A) · p(B), e não p(A ∪ B) = p(A) · p(B). Quem seguisse o quadro chegaria a 0,03%, valor fora das alternativas."
+   }
+  },
+  {
+   "numero": 35,
+   "materia": "Física",
+   "assunto": "Gravitação",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 35 a 39.</p><p class=\"apoio\"><strong>“O espaço, a fronteira final...”</strong><br><em>(Cap. James T. Kirk - USS Enterprise, 1966)</em></p><p class=\"apoio\">Em 2017, a missão Voyager sagrou-se como a mais longeva missão ainda em operação. Quando foram lançadas as espaçonaves Voyager 1 e Voyager 2, respectivamente em 5 de setembro e 20 de agosto de 1977, tinham o objetivo de explorar os limites do sistema solar.</p><p class=\"apoio\">A Voyager 1, uma espaçonave relativamente leve, com massa aproximada de 700 kg, foi lançada no momento em que os quatro planetas gasosos do sistema Solar estavam alinhados, fato que ocorre a cada 175 anos. Esse fato foi importante para que a missão fosse bem-sucedida, uma vez que a intenção era utilizar o campo gravitacional desses planetas para “estilingar” (impulsionar) a trajetória da viagem.</p><p class=\"apoio\">Cada nave continha em seu interior um disco de 12 polegadas feito de cobre e revestido de ouro. Os discos contêm dados selecionados com o intuito de mostrar a diversidade da vida no planeta Terra. Um grupo de pesquisadores liderados pelo astrônomo Carl Sagan (1934–1996) selecionou 117 imagens, variados sons da Natureza, músicas e saudações de diferentes culturas em 54 idiomas.</p><p class=\"apoio\">Em 2017, a Voyager 1 encontrava-se a aproximadamente 21 bilhões de quilômetros de distância da Terra, cerca de 140 UA (unidades astronômicas), ou seja, 140 vezes a distância média da Terra ao Sol. Em sua trajetória, contribuiu com muitas descobertas e diversos estudos, desde vulcões ativos fora da Terra até o estudo dos raios cósmicos e dos ventos solares (partículas carregadas emitidas ao espaço oriundas de explosões solares). Junto com a Voyager 2, descobriu que o campo magnético interestelar provoca uma assimetria na bolha formada pelo vento solar (a heliosfera).</p><p class=\"apoio\">A NASA estima que as baterias de Plutônio, destinadas a manter um sistema de aproximadamente 300 watts em funcionamento, devam durar ainda mais 10 anos. Esse tempo será precioso para a coleta de mais dados transmitidos pelas espaçonaves, dados esses que são recebidos após 12 a 14 horas da emissão do sinal à recepção deste na Terra.</p><p class=\"apoio\">Em homenagem aos 40 anos da missão, a NASA divulgou diversas informações, imagens, dados e curiosidades em sua página na internet: http://voyager.jpl.nasa.gov.</p><p>Em março de 1979, a Voyager 1 finalmente chegou ao primeiro planeta a ser estudado: Júpiter.</p><p>É correto afirmar que a força gravitacional sofrida pela Voyager 1 no instante em que a espaçonave passava a uma distânica de 3,5 × 10<sup>5</sup> km do centro de Júpiter é, em newtons, igual a</p><p class=\"apoio\">Adote:<br>G ≅ 7 × 10<sup>–11</sup> N·m<sup>2</sup>/kg<sup>2</sup><br>M<sub>Júpiter</sub> = 2,0 × 10<sup>27</sup> kg (Massa de Júpiter)<br>Considere: \\(F = G\\,\\dfrac{m \\cdot M}{d^2}\\)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "800 000.",
+    "B": "80 000.",
+    "C": "800.",
+    "D": "80.",
+    "E": "8."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Com m = 700 kg e d = 3,5 × 10⁵ km = 3,5 × 10⁸ m:</p><p>\\[F = \\frac{7\\times10^{-11}\\cdot 700\\cdot 2\\times10^{27}}{(3{,}5\\times10^{8})^2} = \\frac{9{,}8\\times10^{19}}{1{,}225\\times10^{17}} = 800\\ \\text{N}\\]</p><p>Alternativa <strong>C</strong>. Esquecer de converter km para m multiplica o resultado por 10⁶.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lei da gravitação universal"
+   ]
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 35 a 39.</p><p class=\"apoio\"><strong>“O espaço, a fronteira final...”</strong><br><em>(Cap. James T. Kirk - USS Enterprise, 1966)</em></p><p class=\"apoio\">Em 2017, a missão Voyager sagrou-se como a mais longeva missão ainda em operação. Quando foram lançadas as espaçonaves Voyager 1 e Voyager 2, respectivamente em 5 de setembro e 20 de agosto de 1977, tinham o objetivo de explorar os limites do sistema solar.</p><p class=\"apoio\">A Voyager 1, uma espaçonave relativamente leve, com massa aproximada de 700 kg, foi lançada no momento em que os quatro planetas gasosos do sistema Solar estavam alinhados, fato que ocorre a cada 175 anos. Esse fato foi importante para que a missão fosse bem-sucedida, uma vez que a intenção era utilizar o campo gravitacional desses planetas para “estilingar” (impulsionar) a trajetória da viagem.</p><p class=\"apoio\">Cada nave continha em seu interior um disco de 12 polegadas feito de cobre e revestido de ouro. Os discos contêm dados selecionados com o intuito de mostrar a diversidade da vida no planeta Terra. Um grupo de pesquisadores liderados pelo astrônomo Carl Sagan (1934–1996) selecionou 117 imagens, variados sons da Natureza, músicas e saudações de diferentes culturas em 54 idiomas.</p><p class=\"apoio\">Em 2017, a Voyager 1 encontrava-se a aproximadamente 21 bilhões de quilômetros de distância da Terra, cerca de 140 UA (unidades astronômicas), ou seja, 140 vezes a distância média da Terra ao Sol. Em sua trajetória, contribuiu com muitas descobertas e diversos estudos, desde vulcões ativos fora da Terra até o estudo dos raios cósmicos e dos ventos solares (partículas carregadas emitidas ao espaço oriundas de explosões solares). Junto com a Voyager 2, descobriu que o campo magnético interestelar provoca uma assimetria na bolha formada pelo vento solar (a heliosfera).</p><p class=\"apoio\">A NASA estima que as baterias de Plutônio, destinadas a manter um sistema de aproximadamente 300 watts em funcionamento, devam durar ainda mais 10 anos. Esse tempo será precioso para a coleta de mais dados transmitidos pelas espaçonaves, dados esses que são recebidos após 12 a 14 horas da emissão do sinal à recepção deste na Terra.</p><p class=\"apoio\">Em homenagem aos 40 anos da missão, a NASA divulgou diversas informações, imagens, dados e curiosidades em sua página na internet: http://voyager.jpl.nasa.gov.</p><p>Considere que a Voyager 1 continuará a se afastar da Terra com a mesma velocidade, supostamente constante, e que não se chocará em seu caminho com nenhum corpo celeste que a destruiria.</p><p>Podemos concluir, de acordo com o texto, que suas baterias de Plutônio pararão de funcionar quando a distância da espaçonave em relação à Terra for, aproximadamente, em UA, de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "175.",
+    "B": "165.",
+    "C": "150.",
+    "D": "143.",
+    "E": "142."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Em 40 anos (1977–2017), a Voyager 1 chegou a 140 UA: 3,5 UA por ano. As baterias duram mais 10 anos: 140 + 10 · 3,5 = <strong>175 UA</strong>. Alternativa <strong>A</strong>.</p><p>O 175 também aparece no texto (o alinhamento dos planetas a cada 175 anos), mas é coincidência: a conta é a de velocidade constante.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade média"
+   ]
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 35 a 39.</p><p class=\"apoio\"><strong>“O espaço, a fronteira final...”</strong><br><em>(Cap. James T. Kirk - USS Enterprise, 1966)</em></p><p class=\"apoio\">Em 2017, a missão Voyager sagrou-se como a mais longeva missão ainda em operação. Quando foram lançadas as espaçonaves Voyager 1 e Voyager 2, respectivamente em 5 de setembro e 20 de agosto de 1977, tinham o objetivo de explorar os limites do sistema solar.</p><p class=\"apoio\">A Voyager 1, uma espaçonave relativamente leve, com massa aproximada de 700 kg, foi lançada no momento em que os quatro planetas gasosos do sistema Solar estavam alinhados, fato que ocorre a cada 175 anos. Esse fato foi importante para que a missão fosse bem-sucedida, uma vez que a intenção era utilizar o campo gravitacional desses planetas para “estilingar” (impulsionar) a trajetória da viagem.</p><p class=\"apoio\">Cada nave continha em seu interior um disco de 12 polegadas feito de cobre e revestido de ouro. Os discos contêm dados selecionados com o intuito de mostrar a diversidade da vida no planeta Terra. Um grupo de pesquisadores liderados pelo astrônomo Carl Sagan (1934–1996) selecionou 117 imagens, variados sons da Natureza, músicas e saudações de diferentes culturas em 54 idiomas.</p><p class=\"apoio\">Em 2017, a Voyager 1 encontrava-se a aproximadamente 21 bilhões de quilômetros de distância da Terra, cerca de 140 UA (unidades astronômicas), ou seja, 140 vezes a distância média da Terra ao Sol. Em sua trajetória, contribuiu com muitas descobertas e diversos estudos, desde vulcões ativos fora da Terra até o estudo dos raios cósmicos e dos ventos solares (partículas carregadas emitidas ao espaço oriundas de explosões solares). Junto com a Voyager 2, descobriu que o campo magnético interestelar provoca uma assimetria na bolha formada pelo vento solar (a heliosfera).</p><p class=\"apoio\">A NASA estima que as baterias de Plutônio, destinadas a manter um sistema de aproximadamente 300 watts em funcionamento, devam durar ainda mais 10 anos. Esse tempo será precioso para a coleta de mais dados transmitidos pelas espaçonaves, dados esses que são recebidos após 12 a 14 horas da emissão do sinal à recepção deste na Terra.</p><p class=\"apoio\">Em homenagem aos 40 anos da missão, a NASA divulgou diversas informações, imagens, dados e curiosidades em sua página na internet: http://voyager.jpl.nasa.gov.</p><p>Estudo sobre os ventos solares e tempestades solares são importantes para prever suas intensidades, seus efeitos e os possíveis danos que causam na Terra e em suas proximidades. Com a tempestade solar ocorrida em março de 2018, pudemos notar a importância dos resultados desses estudos.</p><p>Em relação aos ventos solares, podemos concluir corretamente que são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "responsáveis pela geração de Auroras Boreais ou Austrais em países tropicais.",
+    "B": "partículas de ar oriundas do campo magnético interestelar que, no caso da Terra, são originadas no Sol.",
+    "C": "originados de explosões solares, portanto sopram em todas as direções, criando uma bolha que protege a Terra.",
+    "D": "tempestades solares com características eletromagnéticas, por isso há interferência em sistemas de comunicação como GPS.",
+    "E": "originados de explosões solares, que lançam no espaço partículas que não chegam até à superfície terrestre devido à atmosfera."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O vento solar é um fluxo de partículas carregadas; em tempestades solares, essas partículas perturbam o campo magnético da Terra e interferem em satélites, GPS e comunicações. Alternativa <strong>D</strong>.</p><p>Auroras ocorrem perto dos polos, não em países tropicais (A). As partículas vêm do Sol, não são “partículas de ar” do campo interestelar (B). Quem protege a Terra é o campo magnético dela, não o vento solar (C). E E atribui a proteção à atmosfera, quando o principal escudo é a magnetosfera.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vento solar"
+   ]
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 35 a 39.</p><p class=\"apoio\"><strong>“O espaço, a fronteira final...”</strong><br><em>(Cap. James T. Kirk - USS Enterprise, 1966)</em></p><p class=\"apoio\">Em 2017, a missão Voyager sagrou-se como a mais longeva missão ainda em operação. Quando foram lançadas as espaçonaves Voyager 1 e Voyager 2, respectivamente em 5 de setembro e 20 de agosto de 1977, tinham o objetivo de explorar os limites do sistema solar.</p><p class=\"apoio\">A Voyager 1, uma espaçonave relativamente leve, com massa aproximada de 700 kg, foi lançada no momento em que os quatro planetas gasosos do sistema Solar estavam alinhados, fato que ocorre a cada 175 anos. Esse fato foi importante para que a missão fosse bem-sucedida, uma vez que a intenção era utilizar o campo gravitacional desses planetas para “estilingar” (impulsionar) a trajetória da viagem.</p><p class=\"apoio\">Cada nave continha em seu interior um disco de 12 polegadas feito de cobre e revestido de ouro. Os discos contêm dados selecionados com o intuito de mostrar a diversidade da vida no planeta Terra. Um grupo de pesquisadores liderados pelo astrônomo Carl Sagan (1934–1996) selecionou 117 imagens, variados sons da Natureza, músicas e saudações de diferentes culturas em 54 idiomas.</p><p class=\"apoio\">Em 2017, a Voyager 1 encontrava-se a aproximadamente 21 bilhões de quilômetros de distância da Terra, cerca de 140 UA (unidades astronômicas), ou seja, 140 vezes a distância média da Terra ao Sol. Em sua trajetória, contribuiu com muitas descobertas e diversos estudos, desde vulcões ativos fora da Terra até o estudo dos raios cósmicos e dos ventos solares (partículas carregadas emitidas ao espaço oriundas de explosões solares). Junto com a Voyager 2, descobriu que o campo magnético interestelar provoca uma assimetria na bolha formada pelo vento solar (a heliosfera).</p><p class=\"apoio\">A NASA estima que as baterias de Plutônio, destinadas a manter um sistema de aproximadamente 300 watts em funcionamento, devam durar ainda mais 10 anos. Esse tempo será precioso para a coleta de mais dados transmitidos pelas espaçonaves, dados esses que são recebidos após 12 a 14 horas da emissão do sinal à recepção deste na Terra.</p><p class=\"apoio\">Em homenagem aos 40 anos da missão, a NASA divulgou diversas informações, imagens, dados e curiosidades em sua página na internet: http://voyager.jpl.nasa.gov.</p><p>Considerando um fornecimento constante de energia até o seu total esgotamento, podemos estimar, de acordo com o texto, que a energia dissipada pela bateria da Voyager 1 nos próximos 10 anos será de, em joules, aproximadamente:</p><p class=\"apoio\">Considere:<br>1 ano = 365 dias<br>\\(P = \\dfrac{E}{\\Delta t}\\)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "9,5 × 10<sup>10</sup>",
+    "B": "4,0 × 10<sup>9</sup>",
+    "C": "9,5 × 10<sup>8</sup>",
+    "D": "4,0 × 10<sup>7</sup>",
+    "E": "9,5 × 10<sup>6</sup>"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Δt = 10 · 365 · 24 · 3 600 s ≈ 3,15 × 10⁸ s. E = P · Δt = 300 · 3,15 × 10⁸ ≈ <strong>9,5 × 10¹⁰ J</strong>. Alternativa <strong>A</strong>.</p><p>Usar o tempo em horas, e não em segundos, dá cerca de 2,6 × 10⁷.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência"
+   ]
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 35 a 39.</p><p class=\"apoio\"><strong>“O espaço, a fronteira final...”</strong><br><em>(Cap. James T. Kirk - USS Enterprise, 1966)</em></p><p class=\"apoio\">Em 2017, a missão Voyager sagrou-se como a mais longeva missão ainda em operação. Quando foram lançadas as espaçonaves Voyager 1 e Voyager 2, respectivamente em 5 de setembro e 20 de agosto de 1977, tinham o objetivo de explorar os limites do sistema solar.</p><p class=\"apoio\">A Voyager 1, uma espaçonave relativamente leve, com massa aproximada de 700 kg, foi lançada no momento em que os quatro planetas gasosos do sistema Solar estavam alinhados, fato que ocorre a cada 175 anos. Esse fato foi importante para que a missão fosse bem-sucedida, uma vez que a intenção era utilizar o campo gravitacional desses planetas para “estilingar” (impulsionar) a trajetória da viagem.</p><p class=\"apoio\">Cada nave continha em seu interior um disco de 12 polegadas feito de cobre e revestido de ouro. Os discos contêm dados selecionados com o intuito de mostrar a diversidade da vida no planeta Terra. Um grupo de pesquisadores liderados pelo astrônomo Carl Sagan (1934–1996) selecionou 117 imagens, variados sons da Natureza, músicas e saudações de diferentes culturas em 54 idiomas.</p><p class=\"apoio\">Em 2017, a Voyager 1 encontrava-se a aproximadamente 21 bilhões de quilômetros de distância da Terra, cerca de 140 UA (unidades astronômicas), ou seja, 140 vezes a distância média da Terra ao Sol. Em sua trajetória, contribuiu com muitas descobertas e diversos estudos, desde vulcões ativos fora da Terra até o estudo dos raios cósmicos e dos ventos solares (partículas carregadas emitidas ao espaço oriundas de explosões solares). Junto com a Voyager 2, descobriu que o campo magnético interestelar provoca uma assimetria na bolha formada pelo vento solar (a heliosfera).</p><p class=\"apoio\">A NASA estima que as baterias de Plutônio, destinadas a manter um sistema de aproximadamente 300 watts em funcionamento, devam durar ainda mais 10 anos. Esse tempo será precioso para a coleta de mais dados transmitidos pelas espaçonaves, dados esses que são recebidos após 12 a 14 horas da emissão do sinal à recepção deste na Terra.</p><p class=\"apoio\">Em homenagem aos 40 anos da missão, a NASA divulgou diversas informações, imagens, dados e curiosidades em sua página na internet: http://voyager.jpl.nasa.gov.</p><p>Segundo o texto, a emissão de sinais da Voyager 1 leva de 12 a 14 horas para chegar à Terra.</p><p>Isto se deve ao fato de que esses sinais são ondas</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "mecânicas, que viajam a velocidades próximas da luz.",
+    "B": "mecânicas, que viajam a velocidades próximas do som.",
+    "C": "eletromagnéticas, que viajam a velocidades próximas da luz.",
+    "D": "eletromagnéticas, que viajam a velocidades próximas do som.",
+    "E": "eletromagnéticas, que viajam a velocidades próximas da Voyager 1."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Ondas de rádio são <strong>eletromagnéticas</strong>, viajam no vácuo à velocidade da luz (cerca de 300 000 km/s) e, mesmo assim, levam horas pela distância de mais de 20 bilhões de km. Alternativa <strong>C</strong>.</p><p>Ondas mecânicas, como o som, não se propagam no vácuo (A e B). E as ondas eletromagnéticas não viajam à velocidade do som nem da nave (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ondas eletromagnéticas"
+   ]
+  },
+  {
+   "numero": 40,
+   "materia": "Geografia",
+   "assunto": "Biomas",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p>Um surto de febre-amarela atingiu o Brasil entre 2017 e 2018. Apesar de o vírus ser o mesmo, costuma-se distinguir essa doença em urbana, que ocorre nas cidades, e em silvestre, que ocorre nas matas e nas áreas rurais. A transmissão dessa moléstia ocorre por intermédio de mosquitos que habitam e circulam em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "florestas boreais e áreas desérticas.",
+    "B": "florestas tropicais e áreas de cerrado.",
+    "C": "florestas de coníferas e áreas de tundra.",
+    "D": "florestas mediterrâneas e áreas montanhosas.",
+    "E": "florestas temperadas e áreas de picos gelados."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os mosquitos transmissores (<em>Haemagogus</em> e <em>Sabethes</em> na forma silvestre, <em>Aedes aegypti</em> na urbana) vivem em ambientes quentes e úmidos: no Brasil, <strong>florestas tropicais e cerrado</strong>. Alternativa <strong>B</strong>.</p><p>As outras opções citam biomas frios, secos ou temperados que não existem no Brasil.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "febre-amarela"
+   ]
+  },
+  {
+   "numero": 41,
+   "materia": "Geografia",
+   "assunto": "Economia brasileira",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p>O estado de São Paulo contribui com aproximadamente 30% para o Produto Interno Bruto (PIB) do Brasil. O setor terciário da economia é responsável por cerca de 70% do PIB paulista. No estado de São Paulo, esse setor se caracteriza por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "englobar a maior rede bancária do Brasil.",
+    "B": "apresentar o maior rebanho ovino do Brasil.",
+    "C": "concentrar a maioria das indústrias de base do Brasil.",
+    "D": "cultivar mais da metade dos alimentos consumidos no Brasil.",
+    "E": "produzir mais da metade dos minerais exportados pelo Brasil."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O setor terciário é o de comércio e serviços, que inclui os bancos. São Paulo concentra a <strong>maior rede bancária do país</strong> e as sedes do sistema financeiro. Alternativa <strong>A</strong>.</p><p>Rebanhos e cultivo de alimentos são do setor primário (B e D). Indústrias de base, do secundário (C). E a extração mineral é primária e se concentra em MG e PA (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "setor terciário"
+   ]
+  },
+  {
+   "numero": 42,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente e sociedade",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p>Tendo em vista a legislação ambiental vigente, o tecnólogo em Gestão Ambiental contratado por uma empresa mineradora tem como uma de suas responsabilidades vistoriar a barragem de rejeitos dessa empresa. Uma barragem de rejeitos consiste em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "uma área de depósito de resíduos vegetais em áreas que serão mineradas.",
+    "B": "um local para armazenamento de entulhos e de maquinários inutilizados.",
+    "C": "uma área de estocagem temporária de minério beneficiado a ser comercializado.",
+    "D": "um local construído para armazenar resíduos oriundos do beneficiamento de minérios.",
+    "E": "um lago artificial de águas represadas para geração de energia para o empreendimento."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Rejeito é o resíduo que sobra do <strong>beneficiamento do minério</strong> (lavagem, separação). A barragem de rejeitos é a estrutura construída para armazená-lo, como as de Mariana (2015) e Brumadinho (2019). Alternativa <strong>D</strong>.</p><p>Não guarda restos vegetais (A), entulho ou máquinas (B), nem minério para venda (C), e não é represa para gerar energia (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mineração"
+   ]
+  },
+  {
+   "numero": 43,
+   "materia": "Geografia",
+   "assunto": "Hidrografia",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>Leia o texto e considere a figura.</p><p>Um tecnólogo em Meio Ambiente e Recursos Hídricos precisa fazer um relatório sobre o estado de preservação das nascentes dos rios São Francisco, Tocantins e Paraguai, devendo, para tanto, vistoriá-las nessa ordem.</p>[[fig:1]]<p>É correto afirmar que, para vistoriar essas nascentes, o tecnólogo em questão visitará, na ordem estabelecida, os estados de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q43.webp",
+     "alt": "Mapa “Bacias hidrográficas brasileiras”, sem divisão por estados: Amazônica, Tocantins Araguaia, Atlântico NE Ocidental, Parnaíba, Atlântico NE Oriental, São Francisco, Atlântico Leste, Paraguai, Paraná, Atlântico Sudeste, Uruguai e Atlântico Sul."
+    }
+   ],
+   "alternativas": {
+    "A": "Rio São Francisco: Minas Gerais; Rio Tocantins: Goiás; Rio Paraguai: Mato Grosso.",
+    "B": "Rio São Francisco: Minas Gerais; Rio Tocantins: Mato Grosso; Rio Paraguai: Goiás.",
+    "C": "Rio São Francisco: Goiás; Rio Tocantins: Mato Grosso; Rio Paraguai: Minas Gerais.",
+    "D": "Rio São Francisco: Goiás; Rio Tocantins: Minas Gerais; Rio Paraguai: Mato Grosso.",
+    "E": "Rio São Francisco: Mato Grosso; Rio Tocantins: Goiás; Rio Paraguai: Minas Gerais."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O São Francisco nasce na Serra da Canastra, em <strong>Minas Gerais</strong>. O Tocantins se forma no planalto de <strong>Goiás</strong> (rios das Almas e Maranhão). O Paraguai nasce na Chapada dos Parecis, em <strong>Mato Grosso</strong>. Alternativa <strong>A</strong>.</p><p>As outras trocam a ordem dos estados.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "bacias hidrográficas",
+    "mapas"
+   ]
+  },
+  {
+   "numero": 44,
+   "materia": "História",
+   "assunto": "Guerra Fria",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>Guerra Fria foi o nome dado ao período de 1945 a 1991, marcado por grande tensão político-militar envolvendo superpotências. As provocações mútuas e a corrida armamentista traziam consigo a ideia de que uma guerra nuclear se iniciaria a qualquer momento.</p><p>Durante esse período, a disputa pela hegemonia planetária se caracterizou por uma Ordem Mundial</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "multipolar, na qual o poder mundial era exercido pelos Estados Unidos, que dominavam o mundo de forma absoluta.",
+    "B": "multipolar, na qual a hegemonia mundial estava centrada na Organização das Nações Unidas (ONU), criada em 1946.",
+    "C": "multipolar, uma vez que a disputa pelo controle geopolítico do planeta se caracterizava pela rivalidade entre diversos países europeus.",
+    "D": "bipolar, na qual a União Soviética, de regime socialista, e os Estados Unidos, de regime capitalista, disputavam a hegemonia global.",
+    "E": "bipolar, uma vez que o Reino Unido e a Rússia possuíam os maiores exércitos com o intuito de garantir o domínio geopolítico mundial."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Guerra Fria teve ordem <strong>bipolar</strong>: Estados Unidos (capitalismo) e União Soviética (socialismo) disputavam a hegemonia global. Alternativa <strong>D</strong>.</p><p>Não era multipolar nem dominada por um só país, pela ONU ou por potências europeias (A, B e C). E os dois polos eram EUA e URSS, não Reino Unido e Rússia (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ordem bipolar"
+   ]
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 45 a 47.</p><p class=\"apoio\"><strong>Agroflorestas se espalham pelo país: cultivo sem desmatamento</strong></p><p class=\"apoio\">À primeira vista, pode parecer uma mata crescendo sem interferência humana, tal a quantidade de árvores. Mas, caminhando pela área, o visitante identifica a grande variedade de alimentos brotando de arbustos e das próprias árvores. Limoeiros, açaizeiros, mangueiras, pés de acerola, cajueiros, bananeiras, laranjeiras e muito mais. Nada está ali por acaso. Trata-se de uma agrofloresta, também chamada de sistema agroflorestal (SAF). Os SAFs são áreas em que espécies com propriedades bem diferentes são plantadas misturadas — não raro, em meio à vegetação nativa.</p><p class=\"apoio\">“Quando me falaram, achei que era coisa de maluco. Plantar sem desmatar a floresta? Vai semear como?” — conta a agricultora Marlene Assunção, de 52 anos, dona de uma propriedade no interior do RJ. — “Hoje eu entendo. As coisas vão estar aqui para nossos netos. É menos egoísta.”</p><p class=\"apoio\">Os SAFs vêm ganhando relevância no país como uma alternativa que alia a produção de alimentos, necessária num mundo de população crescente (seremos 8,5 bilhões de <em>Homo sapiens</em> em 2030, segundo estimativas da ONU) que precisa manter os recursos naturais e, assim, frear as mudanças climáticas. A técnica preconiza que a agricultura pode se beneficiar, e muito, de áreas intensamente arborizadas.</p><p class=\"fonte\">&lt;https://tinyurl.com/yb8xauee&gt; Acesso em: 06.03.2018. Adaptado.</p><p>Assinale a alternativa que apresenta um trecho do texto em que o emprego dos SAFs está associado ao conceito ecológico de sustentabilidade.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“À primeira vista, pode parecer uma mata crescendo sem interferência humana”",
+    "B": "“o visitante identifica a grande variedade de alimentos brotando”",
+    "C": "“Nada está ali por acaso. Trata-se de uma agrofloresta.”",
+    "D": "“As coisas vão estar aqui para nossos netos.”",
+    "E": "“seremos 8,5 bilhões de Homo sapiens em 2030, segundo estimativas da ONU”"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Sustentabilidade é atender às necessidades de hoje sem comprometer as das gerações futuras. “As coisas vão estar aqui <strong>para nossos netos</strong>” expressa exatamente isso. Alternativa <strong>D</strong>.</p><p>Os outros trechos descrevem a aparência da área (A, B e C) ou dão um dado de população (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sustentabilidade",
+    "agrofloresta"
+   ]
+  },
+  {
+   "numero": 46,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 45 a 47.</p><p class=\"apoio\"><strong>Agroflorestas se espalham pelo país: cultivo sem desmatamento</strong></p><p class=\"apoio\">À primeira vista, pode parecer uma mata crescendo sem interferência humana, tal a quantidade de árvores. Mas, caminhando pela área, o visitante identifica a grande variedade de alimentos brotando de arbustos e das próprias árvores. Limoeiros, açaizeiros, mangueiras, pés de acerola, cajueiros, bananeiras, laranjeiras e muito mais. Nada está ali por acaso. Trata-se de uma agrofloresta, também chamada de sistema agroflorestal (SAF). Os SAFs são áreas em que espécies com propriedades bem diferentes são plantadas misturadas — não raro, em meio à vegetação nativa.</p><p class=\"apoio\">“Quando me falaram, achei que era coisa de maluco. Plantar sem desmatar a floresta? Vai semear como?” — conta a agricultora Marlene Assunção, de 52 anos, dona de uma propriedade no interior do RJ. — “Hoje eu entendo. As coisas vão estar aqui para nossos netos. É menos egoísta.”</p><p class=\"apoio\">Os SAFs vêm ganhando relevância no país como uma alternativa que alia a produção de alimentos, necessária num mundo de população crescente (seremos 8,5 bilhões de <em>Homo sapiens</em> em 2030, segundo estimativas da ONU) que precisa manter os recursos naturais e, assim, frear as mudanças climáticas. A técnica preconiza que a agricultura pode se beneficiar, e muito, de áreas intensamente arborizadas.</p><p class=\"fonte\">&lt;https://tinyurl.com/yb8xauee&gt; Acesso em: 06.03.2018. Adaptado.</p><p>Comparando a produtividade agrícola dos SAFs com a das monoculturas, é correto afirmar que, nos SAFs, o distanciamento entre as plantas de mesma espécie tem a vantagem de aumentar</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a frequência de anemofilia (polinização pelo vento), e a desvantagem de aumentar a insolação sobre a vegetação.",
+    "B": "a frequência de zoocoria (dispersão por animais), e a desvantagem de escoar mais rápido a água das chuvas.",
+    "C": "a formação de obstáculos contra pragas específicas, e a desvantagem de aumentar os custos durante o plantio.",
+    "D": "o consumo do solo, e a desvantagem de diminuir o tempo de crescimento requerido pelas mudas plantadas.",
+    "E": "o sombreamento sobre arbustos e ervas, e a desvantagem de aumentar a demanda por maiores quantidades de agrotóxicos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Com plantas da mesma espécie afastadas entre si, uma praga específica tem mais dificuldade de se espalhar: as outras espécies funcionam como <strong>barreira</strong>. A desvantagem é o plantio mais trabalhoso e caro. Alternativa <strong>C</strong>.</p><p>A mistura de espécies diminui a insolação e o escoamento de água (A e B), protege o solo (D) e reduz a necessidade de agrotóxicos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "agrofloresta",
+    "monocultura"
+   ]
+  },
+  {
+   "numero": 47,
+   "materia": "Biologia",
+   "assunto": "Classificação dos seres vivos",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 45 a 47.</p><p class=\"apoio\"><strong>Agroflorestas se espalham pelo país: cultivo sem desmatamento</strong></p><p class=\"apoio\">À primeira vista, pode parecer uma mata crescendo sem interferência humana, tal a quantidade de árvores. Mas, caminhando pela área, o visitante identifica a grande variedade de alimentos brotando de arbustos e das próprias árvores. Limoeiros, açaizeiros, mangueiras, pés de acerola, cajueiros, bananeiras, laranjeiras e muito mais. Nada está ali por acaso. Trata-se de uma agrofloresta, também chamada de sistema agroflorestal (SAF). Os SAFs são áreas em que espécies com propriedades bem diferentes são plantadas misturadas — não raro, em meio à vegetação nativa.</p><p class=\"apoio\">“Quando me falaram, achei que era coisa de maluco. Plantar sem desmatar a floresta? Vai semear como?” — conta a agricultora Marlene Assunção, de 52 anos, dona de uma propriedade no interior do RJ. — “Hoje eu entendo. As coisas vão estar aqui para nossos netos. É menos egoísta.”</p><p class=\"apoio\">Os SAFs vêm ganhando relevância no país como uma alternativa que alia a produção de alimentos, necessária num mundo de população crescente (seremos 8,5 bilhões de <em>Homo sapiens</em> em 2030, segundo estimativas da ONU) que precisa manter os recursos naturais e, assim, frear as mudanças climáticas. A técnica preconiza que a agricultura pode se beneficiar, e muito, de áreas intensamente arborizadas.</p><p class=\"fonte\">&lt;https://tinyurl.com/yb8xauee&gt; Acesso em: 06.03.2018. Adaptado.</p><p>Nomes vernáculos, como os das plantas citadas no texto, possibilitam uma comunicação de ordem prática, útil para assuntos mais triviais. No entanto, esses nomes contêm níveis de subjetividade e imprecisão que limitam as práticas científicas e tecnológicas.</p><p>Suponha que o autor do texto quisesse transmitir uma mensagem a um agrônomo estrangeiro fazendo uso das normas da nomenclatura biológica.</p><p>Para isso, ele deveria se referir a duas das espécies do texto como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "<em>Plantae Arbusta</em> L. (arbustos) e <em>Plantae Arborum</em> L. (árvores).",
+    "B": "<em>arbusti Planta</em> (arbustos) e <em>arboris Planta</em> (árvores).",
+    "C": "cashew Trees (cajueiros) e mango Trees (mangueiras).",
+    "D": "<em>Anacardicum occidentale</em> L. (cajueiros) e <em>Mangifera indica</em> L. (mangueiras).",
+    "E": "<em>Anacardicum Anacardicum</em> L. (cajueiros) e <em>Mangifera Mangifera</em> L. (mangueiras)."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A nomenclatura binomial usa o gênero (inicial maiúscula) seguido do epíteto específico (minúscula), em itálico, com o autor abreviado opcional: <em>Mangifera indica</em> L. Alternativa <strong>D</strong>.</p><p>“Plantae” é reino, não gênero, e arbusto e árvore não são espécies (A e B). Nomes em inglês são vernáculos (C). E repetir o gênero como epíteto, com maiúsculas, não segue as regras da botânica (E).</p><p>Observação: o nome correto do gênero do cajueiro é <em>Anacardium</em>; a prova grafou “Anacardicum”.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nomenclatura binomial"
+   ]
+  },
+  {
+   "numero": 48,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>As membranas celulares são estruturas lipoproteicas cujos lipídios possuem duas extremidades. Esses lipídios das membranas possuem apenas uma extremidade com afinidade química com a água.</p><p>Sabendo disso, em 1925, os cientistas Evert Gorter e François Grendel extraíram hemácias de vários mamíferos, seguindo um procedimento similar ao da tabela.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Etapa</th><th scope=\"col\">Controle</th><th scope=\"col\">Experimental</th></tr></thead><tbody><tr><td>Coletas de material</td><td>Hemácias extraídas (volume: V)</td><td>Hemácias extraídas (volume: V)</td></tr><tr><td>Tratamentos</td><td>Nada realizado</td><td>Lipídios extraídos das hemácias</td></tr><tr><td>Testes</td><td>Deposição das hemácias na superfície da água</td><td>Deposição dos lipídios extraídos na superfície da água</td></tr><tr><td>Resultados</td><td>Área ocupada pelas hemácias na superfície da água (área: A)</td><td>Área ocupada pelos lipídios na superfície da água (área: 2A)</td></tr></tbody></table></div><p>Assinale a alternativa cuja conclusão seja válida para os resultados apresentados e para a teoria referente a eles.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Dado que a razão entre as áreas ocupadas por lipídios e pelas hemácias foi de 1:2, nessa ordem, conclui-se que as células de mamíferos eliminam lipídios, já que possuem organelas responsáveis pelo armazenamento e secreção de lipídios para o meio externo.",
+    "B": "Dado que tanto as hemácias quanto os lipídios puderam ser depositados na superfície da água, conclui-se que no interior das células existe água, já que a água é fundamental para a sobrevivência de todas as formas de vida formadas por células.",
+    "C": "Dado que a razão entre as áreas ocupadas por lipídios e pelas células originais foi de 2:1, nessa ordem, conclui-se que as membranas das hemácias rompidas eram formadas por bicamadas, já que os lipídios que as formavam tiveram apenas uma das extremidades atraída pela água.",
+    "D": "Dado que, na amostra controle, as hemácias estavam sem lipídios e, na experimental, os lipídios estavam sem hemácias, conclui-se que as hemácias são células atípicas, já que, apesar de terem tido os lipídios extraídos, continuam com formato e disposição aparentemente semelhantes.",
+    "E": "Dado que os mamíferos possuem hemácias com membranas lipoproteicas, conclui-se que deve ter ocorrido um erro no procedimento experimental, já que o volume inicial extraído de hemácias deveria ter sido duas vezes maior, para que resultasse em uma área igual entre lipídios e hemácias nos dois procedimentos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na água, os lipídios se espalham numa camada única, com a extremidade hidrofílica voltada para a água. Se essa camada ocupa o dobro da área das hemácias, a membrana original tinha <strong>duas camadas</strong> de lipídios. Foi assim que Gorter e Grendel propuseram a bicamada lipídica. Alternativa <strong>C</strong>.</p><p>A razão é 2:1, não 1:2 (A). O experimento não mostra água no interior das células (B), as hemácias do controle não perderam lipídios (D), e não há erro de procedimento (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "membrana plasmática",
+    "bicamada lipídica"
+   ]
+  },
+  {
+   "numero": 49,
+   "materia": "Biologia",
+   "assunto": "Classificação dos seres vivos",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>Os numerosos sistemas de classificação dos seres vivos estruturam o pensamento biológico de cada época. O sistema de cinco reinos, por exemplo, foi proposto por Robert Whittaker em 1969. No entanto, esse sistema tem se mostrado incoerente, especialmente nas últimas décadas, cedendo cada vez mais espaço às propostas derivadas dos trabalhos de Carl Woese, feitas a partir da década de 1990.</p><p>Ambos os sistemas se encontram representados simplificadamente nas figuras.</p>[[fig:1]]<p>Comparando as figuras apresentadas, pode-se afirmar corretamente que o sistema de cinco reinos é artificial, dado que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q49.webp",
+     "alt": "Duas representações. Sistema de Whittaker: um tronco com cinco áreas sombreadas — na base, bactérias e arqueias; acima, algas verdes, vermelhas e pardas, flagelados, amebas e ciliados; no topo, três ramos separados para plantas terrestres, fungos e animais. Sistema de Woese: uma árvore de parentesco (cladograma) em que bactérias e arqueias saem de ramos distintos e próximos da base, e, entre os eucariontes, fungos ficam junto de animais, algas pardas junto de ciliados, e plantas terrestres junto de algas verdes e vermelhas."
+    }
+   ],
+   "alternativas": {
+    "A": "se refere mais às espécies fósseis que às espécies viventes.",
+    "B": "tem premissas fixistas, não considerando a Teoria Sintética da Evolução.",
+    "C": "se baseia em critérios ecofisiológicos subjetivos e não apenas em parentescos.",
+    "D": "foi obtido a partir de análises moleculares e não da análise de aspectos ecológicos.",
+    "E": "se baseia em espécies do Velho Mundo, ignorando os países com maior biodiversidade na Terra."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O sistema de Whittaker agrupa os seres por critérios como organização celular e modo de nutrição (fotossíntese, absorção, ingestão), e não só por parentesco. Na árvore de Woese, fungos aparecem mais próximos dos animais e as algas se espalham por ramos diferentes, o que mostra que reinos como Protista reúnem seres pouco aparentados. Por isso é considerado artificial. Alternativa <strong>C</strong>.</p><p>Ele trata de seres vivos atuais (A) e é evolucionista, não fixista (B). As análises moleculares são a base do sistema de Woese, não do de Whittaker (D). E não há recorte geográfico (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "filogenia",
+    "reinos"
+   ]
+  },
+  {
+   "numero": 50,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 53.</p><p class=\"apoio\"><strong>13 de maio</strong> Hoje amanheceu chovendo. É um dia simpatico para mim. É o dia da Abolição. Dia que comemoramos a libertação dos escravos.</p><p class=\"apoio\">...Nas prisões os negros eram os bodes espiatorios. [....]</p><p class=\"apoio\">Continua chovendo. E eu tenho só feijão e sal. A chuva está forte. Mesmo assim, mandei os meninos para a escola. Estou escrevendo até passar a chuva, para eu ir lá no senhor Manuel vender os ferros. Com o dinheiro dos ferros vou comprar arroz e linguiça. A chuva passou um pouco. Vou sair.</p><p class=\"apoio\">...Eu tenho tanto dó dos meus filhos. Quando eles vê as coisas de comer eles brada:</p><p class=\"apoio\">– Viva a mamãe!</p><p class=\"apoio\">A manifestação agrada-me. Mas eu já perdi o habito de sorrir. Dez minutos depois eles querem mais comida. Eu mandei o João pedir um pouquinho de gordura a Dona Ida. Ela não tinha. Mandei-lhe um bilhete assim:</p><p class=\"apoio\">– “Dona Ida peço-te se pode me arranjar um pouco de gordura, para eu fazer uma sopa para os meninos. Hoje choveu e eu não pude ir catar papel. Agradeço. Carolina.”</p><p class=\"apoio\">...Choveu, esfriou. É o inverno que chega. E no inverno a gente come mais. A Vera começou pedir comida. E eu não tinha. Era a reprise do espetaculo. Eu estava com dois cruzeiros. Pretendia comprar um pouco de farinha para fazer um virado. Fui pedir um pouco de banha a Dona Alice. Ela deu-me a banha e arroz. Era 9 horas da noite quando comemos.</p><p class=\"apoio\">E assim no dia 13 de maio de 1958 eu lutava contra a escravatura atual – a fome!</p><p class=\"apoio\"><strong>29 de maio</strong> [....]</p><p class=\"apoio\">...Há de existir alguem que lendo o que eu escrevo dirá...isto é mentira! Mas, as miserias são reais.</p><p class=\"fonte\">MARIA DE JESUS, Carolina. <em>Quarto de Despejo: Diário de uma favelada</em>. São Paulo: Editora Ática, 2017. Adaptado.</p><p>O texto foi retirado do livro <em>Quarto de Despejo</em>, diário escrito por Carolina Maria de Jesus, moradora da favela do Canindé, em São Paulo, na década de 1950. A edição reproduz fielmente os manuscritos originais.</p><p>Analisando a linguagem apresentada no trecho, conclui-se corretamente que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a autora não apresenta reflexão crítica sobre suas experiências por desconhecer a variedade culta do português.",
+    "B": "o fato de a autora não utilizar a variedade culta se deve ao gênero do texto, uma vez que diários não são escritos visando à publicação.",
+    "C": "os problemas de ortografia, como em “espiatorio”, e de concordância, como em “quando eles vê”, ocorrem por predominar no texto o sentido denotativo.",
+    "D": "o texto é predominantemente conotativo, o que se nota por expressões como “hoje amanheceu chovendo” e “a chuva passou”.",
+    "E": "o texto aborda, de forma crítica e empregando linguagem informal, temas relevantes à sociedade, como fome e pobreza."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Em linguagem informal, com desvios da norma-padrão, Carolina faz uma crítica forte: “no dia 13 de maio de 1958 eu lutava contra a escravatura atual – a fome!”. Alternativa <strong>E</strong>.</p><p>Há reflexão crítica (A). Ela pretendia, sim, que o diário fosse lido (“Há de existir alguém que lendo o que eu escrevo...”) (B). Desvios de ortografia e concordância não têm relação com denotação (C). E “amanheceu chovendo” e “a chuva passou” são expressões denotativas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Carolina Maria de Jesus"
+   ]
+  },
+  {
+   "numero": 51,
+   "materia": "Português",
+   "assunto": "Figuras de linguagem",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 53.</p><p class=\"apoio\"><strong>13 de maio</strong> Hoje amanheceu chovendo. É um dia simpatico para mim. É o dia da Abolição. Dia que comemoramos a libertação dos escravos.</p><p class=\"apoio\">...Nas prisões os negros eram os bodes espiatorios. [....]</p><p class=\"apoio\">Continua chovendo. E eu tenho só feijão e sal. A chuva está forte. Mesmo assim, mandei os meninos para a escola. Estou escrevendo até passar a chuva, para eu ir lá no senhor Manuel vender os ferros. Com o dinheiro dos ferros vou comprar arroz e linguiça. A chuva passou um pouco. Vou sair.</p><p class=\"apoio\">...Eu tenho tanto dó dos meus filhos. Quando eles vê as coisas de comer eles brada:</p><p class=\"apoio\">– Viva a mamãe!</p><p class=\"apoio\">A manifestação agrada-me. Mas eu já perdi o habito de sorrir. Dez minutos depois eles querem mais comida. Eu mandei o João pedir um pouquinho de gordura a Dona Ida. Ela não tinha. Mandei-lhe um bilhete assim:</p><p class=\"apoio\">– “Dona Ida peço-te se pode me arranjar um pouco de gordura, para eu fazer uma sopa para os meninos. Hoje choveu e eu não pude ir catar papel. Agradeço. Carolina.”</p><p class=\"apoio\">...Choveu, esfriou. É o inverno que chega. E no inverno a gente come mais. A Vera começou pedir comida. E eu não tinha. Era a reprise do espetaculo. Eu estava com dois cruzeiros. Pretendia comprar um pouco de farinha para fazer um virado. Fui pedir um pouco de banha a Dona Alice. Ela deu-me a banha e arroz. Era 9 horas da noite quando comemos.</p><p class=\"apoio\">E assim no dia 13 de maio de 1958 eu lutava contra a escravatura atual – a fome!</p><p class=\"apoio\"><strong>29 de maio</strong> [....]</p><p class=\"apoio\">...Há de existir alguem que lendo o que eu escrevo dirá...isto é mentira! Mas, as miserias são reais.</p><p class=\"fonte\">MARIA DE JESUS, Carolina. <em>Quarto de Despejo: Diário de uma favelada</em>. São Paulo: Editora Ática, 2017. Adaptado.</p><p>Assinale a alternativa que, de acordo com o contexto, apresenta a figura de linguagem metáfora.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Dona Ida peço-te se pode arranjar um pouco de gordura, para eu fazer uma sopa para os meninos.",
+    "B": "E assim no dia 13 de maio de 1958 eu lutava contra a escravatura atual – a fome!",
+    "C": "Mesmo assim, mandei os meninos para a escola.",
+    "D": "Dez minutos depois eles querem mais comida.",
+    "E": "Hoje choveu e eu não pude ir catar papel."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Ao chamar a fome de “escravatura atual”, a autora aproxima as duas coisas sem usar conectivo de comparação: é uma <strong>metáfora</strong>. Alternativa <strong>B</strong>.</p><p>As outras frases têm sentido literal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metáfora"
+   ]
+  },
+  {
+   "numero": 52,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 53.</p><p class=\"apoio\"><strong>13 de maio</strong> Hoje amanheceu chovendo. É um dia simpatico para mim. É o dia da Abolição. Dia que comemoramos a libertação dos escravos.</p><p class=\"apoio\">...Nas prisões os negros eram os bodes espiatorios. [....]</p><p class=\"apoio\">Continua chovendo. E eu tenho só feijão e sal. A chuva está forte. Mesmo assim, mandei os meninos para a escola. Estou escrevendo até passar a chuva, para eu ir lá no senhor Manuel vender os ferros. Com o dinheiro dos ferros vou comprar arroz e linguiça. A chuva passou um pouco. Vou sair.</p><p class=\"apoio\">...Eu tenho tanto dó dos meus filhos. Quando eles vê as coisas de comer eles brada:</p><p class=\"apoio\">– Viva a mamãe!</p><p class=\"apoio\">A manifestação agrada-me. Mas eu já perdi o habito de sorrir. Dez minutos depois eles querem mais comida. Eu mandei o João pedir um pouquinho de gordura a Dona Ida. Ela não tinha. Mandei-lhe um bilhete assim:</p><p class=\"apoio\">– “Dona Ida peço-te se pode me arranjar um pouco de gordura, para eu fazer uma sopa para os meninos. Hoje choveu e eu não pude ir catar papel. Agradeço. Carolina.”</p><p class=\"apoio\">...Choveu, esfriou. É o inverno que chega. E no inverno a gente come mais. A Vera começou pedir comida. E eu não tinha. Era a reprise do espetaculo. Eu estava com dois cruzeiros. Pretendia comprar um pouco de farinha para fazer um virado. Fui pedir um pouco de banha a Dona Alice. Ela deu-me a banha e arroz. Era 9 horas da noite quando comemos.</p><p class=\"apoio\">E assim no dia 13 de maio de 1958 eu lutava contra a escravatura atual – a fome!</p><p class=\"apoio\"><strong>29 de maio</strong> [....]</p><p class=\"apoio\">...Há de existir alguem que lendo o que eu escrevo dirá...isto é mentira! Mas, as miserias são reais.</p><p class=\"fonte\">MARIA DE JESUS, Carolina. <em>Quarto de Despejo: Diário de uma favelada</em>. São Paulo: Editora Ática, 2017. Adaptado.</p><p>Considere a charge.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y9y5og93&gt; Acesso em: 09.03.2018. Original colorido.</p><p>Comparando a charge ao texto de Carolina Maria de Jesus, conclui-se corretamente que ambos se relacionam à temática</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q52.webp",
+     "alt": "Charge assinada por Salvador: um catador de boné puxa uma carroça cheia de sacos, garrafas e materiais recicláveis e diz a uma moça, que o olha com um ponto de interrogação: “Eu prefiro usar o termo ‘agente ambiental freelancer’.”"
+    }
+   ],
+   "alternativas": {
+    "A": "do subemprego, a exemplo das passagens “com o dinheiro dos ferros vou comprar arroz e linguiça” e “eu não pude ir catar papel”.",
+    "B": "do racismo, a exemplo da passagem “Estou escrevendo até passar a chuva, para eu ir lá no senhor Manuel vender os ferros”.",
+    "C": "da solidariedade, a exemplo da passagem “eu mandei o João pedir um pouquinho de gordura a Dona Ida”.",
+    "D": "da violência urbana, a exemplo da passagem “A manifestação agrada-me. Mas eu já perdi o hábito de sorrir”.",
+    "E": "da adversidade climática, a exemplo da passagem “...Choveu, esfriou. É o inverno que chega”."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Tanto a charge quanto o diário mostram o <strong>subemprego</strong>: Carolina sobrevive vendendo ferro-velho e catando papel, como o catador da charge. Alternativa <strong>A</strong>.</p><p>Os trechos citados em B, C, D e E não tratam de racismo, solidariedade, violência urbana ou clima como tema comum aos dois textos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "charge",
+    "intertextualidade"
+   ]
+  },
+  {
+   "numero": 53,
+   "materia": "Português",
+   "assunto": "Gramática",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 53.</p><p class=\"apoio\"><strong>13 de maio</strong> Hoje amanheceu chovendo. É um dia simpatico para mim. É o dia da Abolição. Dia que comemoramos a libertação dos escravos.</p><p class=\"apoio\">...Nas prisões os negros eram os bodes espiatorios. [....]</p><p class=\"apoio\">Continua chovendo. E eu tenho só feijão e sal. A chuva está forte. Mesmo assim, mandei os meninos para a escola. Estou escrevendo até passar a chuva, para eu ir lá no senhor Manuel vender os ferros. Com o dinheiro dos ferros vou comprar arroz e linguiça. A chuva passou um pouco. Vou sair.</p><p class=\"apoio\">...Eu tenho tanto dó dos meus filhos. Quando eles vê as coisas de comer eles brada:</p><p class=\"apoio\">– Viva a mamãe!</p><p class=\"apoio\">A manifestação agrada-me. Mas eu já perdi o habito de sorrir. Dez minutos depois eles querem mais comida. Eu mandei o João pedir um pouquinho de gordura a Dona Ida. Ela não tinha. Mandei-lhe um bilhete assim:</p><p class=\"apoio\">– “Dona Ida peço-te se pode me arranjar um pouco de gordura, para eu fazer uma sopa para os meninos. Hoje choveu e eu não pude ir catar papel. Agradeço. Carolina.”</p><p class=\"apoio\">...Choveu, esfriou. É o inverno que chega. E no inverno a gente come mais. A Vera começou pedir comida. E eu não tinha. Era a reprise do espetaculo. Eu estava com dois cruzeiros. Pretendia comprar um pouco de farinha para fazer um virado. Fui pedir um pouco de banha a Dona Alice. Ela deu-me a banha e arroz. Era 9 horas da noite quando comemos.</p><p class=\"apoio\">E assim no dia 13 de maio de 1958 eu lutava contra a escravatura atual – a fome!</p><p class=\"apoio\"><strong>29 de maio</strong> [....]</p><p class=\"apoio\">...Há de existir alguem que lendo o que eu escrevo dirá...isto é mentira! Mas, as miserias são reais.</p><p class=\"fonte\">MARIA DE JESUS, Carolina. <em>Quarto de Despejo: Diário de uma favelada</em>. São Paulo: Editora Ática, 2017. Adaptado.</p><p>Assinale a alternativa em que o trecho do diário foi reescrito, mantendo-se as correlações semânticas originais e respeitando-se a variedade culta da língua portuguesa.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Hoje amanheceu chovendo por ser um dia simpático para mim, posto que é o dia da Abolição quando comemoramos a libertação dos escravos.",
+    "B": "Eu tenho tanto dó dos meus filhos, pois, quando eles veem as coisas para comer, eles bradam: “Viva a mamãe”.",
+    "C": "Como continua chovendo, eu só tenho feijão e sal. A chuva está forte, logo, mandei os meninos para a escola.",
+    "D": "Estou escrevendo mesmo que passe a chuva, depois disso eu irei ao senhor Manuel vender ferros.",
+    "E": "A manifestação me agrada, desde que eu já perdera o hábito de sorrir."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>B mantém o sentido (o dó dos filhos explicado pela reação deles à comida) e corrige a concordância: “eles <strong>veem</strong>”, “eles <strong>bradam</strong>”. Alternativa <strong>B</strong>.</p><p>A cria uma causa absurda para a chuva. C transforma a chuva em causa de ter só feijão e sal, e o “logo” muda o sentido. D troca “até passar” por “mesmo que passe”. E usa “desde que” (condição) onde o original tem oposição (“Mas”).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coesão",
+    "reescrita"
+   ]
+  },
+  {
+   "numero": 54,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p>Leia um trecho do poema <em>A Flor e a Náusea</em>.</p>[[fig:1]]<p class=\"fonte\">ANDRADE, C. D. <em>Antologia Poética</em>. Rio de Janeiro. José Olympio, 1978.</p><p>A partir da leitura do trecho de <em>A Flor e a Náusea</em>, poema do modernista Carlos Drummond de Andrade, assinale a alternativa em que o conceito é adequado à temática apresentada nos versos.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2018-2sem/q54.webp",
+     "alt": "Trecho do poema “A Flor e a Náusea”, de Carlos Drummond de Andrade, reproduzido da prova. O eu lírico caminha preso à sua classe por uma rua cinzenta, sente-se cercado de melancolia e diz que o tempo de completa justiça ainda não chegou. Em seguida anuncia, com espanto, que uma flor nasceu na rua, rompendo o asfalto: desbotada, feia, sem nome nos livros, mas realmente uma flor, que “furou o asfalto, o tédio, o nojo e o ódio”."
+    }
+   ],
+   "alternativas": {
+    "A": "Disciplina: obediência às regras, aos superiores, aos regulamentos, postura que é defendida pelo eu lírico.",
+    "B": "Dissimulação: ocultação, por um indivíduo, de suas verdadeiras intenções, uma vez que o eu lírico tenta esconder sua reação diante do surgimento da flor.",
+    "C": "Esperança: sentimento vivido pelo eu lírico, pois ele vê como possíveis a confiança em algo promissor e a realização de mudanças.",
+    "D": "Nostalgia: melancolia profunda causada pelo distanciamento entre o eu lírico e sua terra natal.",
+    "E": "Resignação: submissão à vontade do destino, postura adotada pelo eu lírico que se mostra alienado e indiferente."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A flor feia que fura o asfalto simboliza a <strong>esperança</strong>: em meio ao tédio, ao nojo e ao ódio da cidade, algo novo consegue nascer, e o eu lírico acredita na mudança. Alternativa <strong>C</strong>.</p><p>O eu lírico questiona a ordem, não a defende (A). Ele não esconde sua reação: pede silêncio para anunciar a flor (B). Não há saudade da terra natal (D). E ele é inquieto e revoltado, não resignado nem indiferente (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Modernismo",
+    "Drummond"
+   ]
+  }
+ ]
+}

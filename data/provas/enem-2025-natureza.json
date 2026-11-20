@@ -1,0 +1,1365 @@
+{
+ "id": "enem-2025-natureza",
+ "banca": "Enem",
+ "ano": 2025,
+ "titulo": "Enem 2025: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2025-11-16",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 91
+   },
+   "enunciado": "<p class=\"apoio\">A filtração em carvão é uma das mais antigas formas de purificação de água. O carvão ativado, diferentemente do carvão comum, é útil para ser empregado na remoção de material orgânico, cloro e outros contaminantes. Essa capacidade decorre de suas propriedades de adsorção. A origem do material utilizado para produzir o carvão ativado pode influenciar sua porosidade e, consequentemente, interferir na capacidade do material de remover impurezas. Na figura, é ilustrada esquematicamente a diferença entre as estruturas físicas do carvão comum e do carvão ativado.</p>[[fig:1]]<p class=\"fonte\">CORRÊA, M. A. Cosmetologia: ciência e técnica. São Paulo: Medfarma, 2012 (adaptado).</p><p>Qual característica do carvão ativado explica a sua maior eficiência nesse processo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q91.webp",
+     "alt": "Dois círculos cinza comparando estruturas. Carvão comum: poucos poros pequenos, indicados como mesoporos. Carvão ativado: superfície recortada, com macroporos, mesoporos e microporos, e pontinhos pretos de “impureza adsorvida” presos nas paredes."
+    }
+   ],
+   "alternativas": {
+    "A": "Massa.",
+    "B": "Dureza.",
+    "C": "Densidade.",
+    "D": "Superfície.",
+    "E": "Condutividade."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A adsorção acontece na superfície do sólido: as impurezas ficam presas nas paredes dos poros. A figura mostra que o carvão ativado tem muito mais poros (macro, meso e microporos) que o comum, ou seja, muito mais <strong>superfície</strong> de contato para reter contaminantes. Alternativa <strong>D</strong>.</p><p>Massa, dureza, densidade e condutividade (A, B, C e E) não determinam quanto material fica adsorvido.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "adsorção",
+    "carvão ativado"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 92
+   },
+   "enunciado": "<p class=\"apoio\">A maioria dos seres vivos tem um relógio biológico (ciclo circadiano), que regula as mudanças metabólicas e comportamentais de acordo com o ciclo de 24 horas de rotação da Terra. Em 2015, um artigo publicado na revista Science Advantage mostrou ser possível a transferência dos genes do relógio circadiano da cianobactéria <em>Synechococcus elongatus</em> para o genoma da bactéria <em>Escherichia coli</em>, um organismo não circadiano.</p><p class=\"fonte\">CHEN, A. H. et al. Transplantability of a Circardian Lock to Noncircardian Organism. Science Advantage, n. 1, 2015 (adaptado).</p><p>Estarão presentes no organismo geneticamente modificado os genes do</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "metabolismo de <em>E. coli</em>, apenas.",
+    "B": "ciclo circadiano de <em>E. coli</em>, apenas.",
+    "C": "metabolismo de <em>S. elongatus</em> e do ciclo circadiano de <em>E. coli</em>.",
+    "D": "ciclo circadiano de <em>S. elongatus</em> e do metabolismo de <em>E. coli</em>.",
+    "E": "ciclo circadiano de <em>S. elongatus</em> e do ciclo circadiano de <em>E. coli</em>."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A <em>E. coli</em> recebeu os genes do relógio circadiano da cianobactéria e manteve seu próprio genoma, inclusive os genes do metabolismo. Como a <em>E. coli</em> é “um organismo não circadiano”, ela não tinha genes de ciclo circadiano próprios. O organismo modificado tem os genes do <strong>ciclo circadiano de <em>S. elongatus</em> e do metabolismo de <em>E. coli</em></strong>. Alternativa <strong>D</strong>.</p><p>A e B ignoram os genes transferidos; C troca as origens; E supõe um ciclo circadiano da <em>E. coli</em>, que não existe.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transgênicos",
+    "ciclo circadiano"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 93
+   },
+   "enunciado": "<p>Os funcionários de um zoológico observaram um aumento na taxa de mortalidade de aves aquáticas por afogamento. Um grupo de biólogos analisou o comportamento das aves por várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com água.</p><p>O aumento na taxa de mortalidade dessas aves estava associado a uma redução na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dilatação do papo.",
+    "B": "reposição de penas das asas.",
+    "C": "secreção da glândula uropigial.",
+    "D": "formação da membrana natatória.",
+    "E": "largura das cavidades de ossos pneumáticos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As aves aquáticas espalham nas penas, com o bico, a secreção oleosa da <strong>glândula uropigial</strong>, que as impermeabiliza. Com menos secreção, as penas encharcam, a ave perde a flutuação e pode se afogar. Alternativa <strong>C</strong>.</p><p>Papo, troca de penas, membrana natatória e ossos pneumáticos (A, B, D e E) não explicam o encharcamento das penas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aves",
+    "adaptações"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 94
+   },
+   "enunciado": "<p>Réguas elétricas são dispositivos que permitem a ligação segura e simultânea de dois ou mais aparelhos eletroeletrônicos à rede elétrica. Uma estudante comprou uma régua com seis tomadas, conforme a figura. Essa régua suporta uma intensidade máxima de corrente elétrica igual a 20 A. Acima desse valor, o fusível de segurança da régua se rompe, inutilizando-a até que um novo fusível seja instalado. Considere as potências nominais de alguns aparelhos eletroeletrônicos apresentadas no quadro.</p>[[fig:1]]<p>Em um dia quente, a estudante mantém o computador e o condicionador de ar portátil ligados à régua permanentemente. Nessa situação, ela tenta realizar algumas atividades, uma de cada vez, utilizando a mesma régua, na seguinte ordem:</p><p>1º – imprimir um trabalho escolar; 2º – fazer um café com a cafeteira; 3º – ligar a luminária; 4º – secar os cabelos. Sabe-se que a régua foi ligada à tensão elétrica de 110 V, adequada para o funcionamento desses aparelhos.</p><p>Considerando a ordem das tentativas, quantas atividades a estudante conseguiu realizar sem queimar o fusível?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q94.webp",
+     "alt": "Quadro de potências: luminária de LED, 5 W; computador, 250 W; impressora a laser, 660 W; secador de cabelos, 750 W; cafeteira, 900 W; condicionador de ar portátil, 1 100 W. Ao lado, a foto de uma régua com seis tomadas e um interruptor."
+    }
+   ],
+   "alternativas": {
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "1",
+    "E": "0"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A régua suporta P = U · i = 110 · 20 = 2 200 W. Computador e ar-condicionado já somam 250 + 1 100 = 1 350 W.</p><ul><li>1º: impressora: 1 350 + 660 = 2 010 W ≤ 2 200 W, funciona.</li><li>2º: cafeteira: 1 350 + 900 = 2 250 W &gt; 2 200 W, o fusível queima.</li></ul><p>Depois disso a régua fica inutilizada. Só <strong>1</strong> atividade foi realizada. Alternativa <strong>D</strong>.</p><p>Quem não percebe que o fusível queimado inutiliza a régua conta também a luminária (3ª), chegando a 2 (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência elétrica",
+    "fusível"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 95
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\"><strong>As mariposas</strong></p><p class=\"apoio\">As mariposa, quando chega o frio<br>Fica dando volta em volta da lâmpida<br>pra se esquentá. [sic]</p><p class=\"fonte\">BARBOSA, A. Reviva: Adoniran Barbosa. São Paulo: Som Livre, 2002 (fragmento).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">As mariposas se aproximam das lâmpadas atraídas pela luz, pois, sendo basicamente criaturas noturnas, estão adaptadas a seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas.</p><p class=\"fonte\">HERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? National Geographic, nov. 2020 (adaptado).</p><p>Nesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reflexão.",
+    "B": "refração.",
+    "C": "irradiação.",
+    "D": "dispersão.",
+    "E": "convecção."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Condução e convecção precisam de um meio material (a convecção, de um fluido). A transferência que acontece até no vácuo, por ondas eletromagnéticas (infravermelho), é a <strong>irradiação</strong>: é assim que a lâmpada aquece a mariposa. Alternativa <strong>C</strong>.</p><p>Reflexão, refração e dispersão (A, B e D) são fenômenos ópticos, não processos de transferência de calor; a convecção depende de fluido (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "irradiação térmica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 96
+   },
+   "enunciado": "<p class=\"apoio\">Os sapinhos-ponta-de-flecha constituem um grupo de espécies encontradas na América Central e do Sul. Seus venenos são obtidos por meio do consumo de algumas formigas e cupins que se alimentam de plantas que contêm esses venenos. Esses anfíbios são usados para envenenar as flechas das zarabatanas dos caçadores nativos. Quando capturados e criados em condições artificiais, ou quando nascidos em cativeiro, não são tóxicos.</p><p class=\"fonte\">BADIO, B. et al. Epibatidine: Discovery and Definition as a Potent Analgesic and Nicotinic Agonist. Med. Chem. Res., n. 4, 1994 (adaptado).</p><p>A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "diferença de umidade entre os ambientes.",
+    "B": "ausência de alimentação natural.",
+    "C": "adaptação ao novo ambiente.",
+    "D": "mudança de comportamento.",
+    "E": "variabilidade genética."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que o veneno vem da dieta: os sapos o obtêm comendo formigas e cupins que se alimentam de plantas tóxicas. Em cativeiro, sem esse alimento, não acumulam a toxina. A causa é a <strong>ausência da alimentação natural</strong>. Alternativa <strong>B</strong>.</p><p>Umidade, adaptação, comportamento e genética (A, C, D e E) não explicam, já que os mesmos animais capturados também perdem a toxicidade.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anfíbios",
+    "cadeia alimentar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 97
+   },
+   "enunciado": "<p>A produção de vacinas exige uma sequência de procedimentos, além do cumprimento estrito de verificações de segurança. No esquema, estão demonstradas as etapas básicas realizadas para a fabricação de uma vacina utilizando a tecnologia tradicional e o efeito dela no organismo.</p>[[fig:1]]<p>O antígeno utilizado na vacina causa um efeito protetor contra o vírus porque</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q97.webp",
+     "alt": "Esquema das etapas de uma vacina tradicional: 1, a partir da cultura de células infectadas com vírus, faz-se o isolamento dos vírus; 2, inativação dos vírus pelo calor ou por ação química; 3, aplicação da vacina numa pessoa; 4, no organismo, surgem anticorpos (em forma de Y) ligados aos vírus."
+    }
+   ],
+   "alternativas": {
+    "A": "mata o vírus pela ligação.",
+    "B": "aglutina o vírus por associação.",
+    "C": "contém imunoglobulinas de defesa.",
+    "D": "induz a produção de proteínas neutralizadoras.",
+    "E": "mantém a quantidade de anticorpos preexistentes."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A vacina usa o vírus inativado como antígeno. Ele não causa a doença, mas é reconhecido pelo sistema imune, que produz anticorpos, <strong>proteínas que neutralizam o vírus</strong>, e células de memória. Alternativa <strong>D</strong>.</p><p>O antígeno não mata nem aglutina o vírus (A e B): quem faz isso são os anticorpos. A vacina não contém imunoglobulinas (C; isso é soro), e ela induz anticorpos novos, não mantém os que já existiam (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vacinas",
+    "anticorpos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 98
+   },
+   "enunciado": "<p class=\"apoio\">O bioma Cerrado é caracterizado por apresentar ampla e natural diversidade de espécies vegetais. Nos últimos tempos, o homem vem modificando esse cenário pela inserção de plantas exóticas nesse ambiente. Exemplo disso é o cultivo do capim-gordura, nativo do continente africano e utilizado nesse tipo de ecossistema como forma de pastagem. É importante ressaltar que essa espécie vegetal é capaz de se espalhar por grandes áreas, devido à sua agressividade e poder competitivo.</p><p class=\"fonte\">CARLOS JR., L. A.; BARBOSA, N. P. U.; FERNANDES, G. W. O capim-gordura e as invasões no Cerrado brasileiro. Jornal do Biólogo, mar.-jun. 2008 (adaptado).</p><p>Em longo prazo, essa ação do homem pode gerar qual consequência?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Diversificar nichos ecológicos.",
+    "B": "Assorear as nascentes do bioma.",
+    "C": "Dificultar a infiltração de água na terra.",
+    "D": "Diminuir as espécies nativas do bioma.",
+    "E": "Contribuir com a redução das queimadas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O capim-gordura é uma espécie exótica invasora, “agressiva” e competitiva, que se espalha e ocupa o espaço das plantas nativas. Em longo prazo, isso tende a <strong>diminuir as espécies nativas do bioma</strong>. Alternativa <strong>D</strong>.</p><p>Espécies invasoras reduzem nichos, não os diversificam (A), e o capim seco aumenta o risco de queimadas (E). Assoreamento e infiltração (B e C) não decorrem do texto.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espécies invasoras",
+    "Cerrado"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 99
+   },
+   "enunciado": "<p class=\"apoio\">O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.</p><p class=\"fonte\">RUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais. Disponível em: www.bbc.com. Acesso em: 6 dez. 2024 (adaptado).</p><p>Considerando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Cerrado.",
+    "B": "Pampas.",
+    "C": "Caatinga.",
+    "D": "Restinga.",
+    "E": "Pantanal."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O monstro de gila vive num deserto, onde falta alimento. Se lagartos do mesmo grupo têm adaptações parecidas em ambientes parecidos, o mais provável é encontrá-los no bioma brasileiro mais seco, de clima semiárido e escassez sazonal de recursos: a <strong>Caatinga</strong>. Alternativa <strong>C</strong>.</p><p>Cerrado, Pampas, Restinga e Pantanal (A, B, D e E) não têm as condições quase desérticas descritas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biomas",
+    "convergência adaptativa"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 100
+   },
+   "enunciado": "<p>Existe um processo de purificação de água em que são removidos os sais dissolvidos. A água que passa por esse processo é muito utilizada em laboratórios de química, em indústrias (como solvente), em baterias de carros etc. Entretanto, esse tipo de água não é adequado para ingestão, pois pode causar problemas de saúde, como carência iônica e diarreia.</p><p>Essa água é chamada de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dura.",
+    "B": "pesada.",
+    "C": "sanitária.",
+    "D": "destilada.",
+    "E": "oxigenada."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A água sem sais dissolvidos, usada em laboratórios, como solvente e em baterias, é a <strong>água destilada</strong> (ou deionizada). Bebê-la com frequência pode causar falta de íons. Alternativa <strong>D</strong>.</p><p>Água dura tem muitos sais de cálcio e magnésio (A); pesada é a de deutério (B); sanitária é a solução de hipoclorito (C); e oxigenada é a de peróxido de hidrogênio (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "água destilada"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 101
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Por que os olhos ficam vermelhos em algumas fotografias?</strong></p><p class=\"apoio\">Em fotos tiradas com câmeras fotográficas antigas, por vezes as pessoas aparecem com os olhos vermelhos. Isso ocorre porque a luz do flash da câmera incide diretamente no globo ocular, sendo refletida por uma região repleta de vasos sanguíneos.</p><p class=\"fonte\">Disponível em: www.uol.com.br. Acesso em: 14 jun. 2017 (adaptado).</p><p>Esse efeito é mais comum à noite ou em lugares pouco iluminados porque, com a pupila</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dilatada, chega mais luz à retina.",
+    "B": "retraída, chega mais luz vermelha à retina.",
+    "C": "retraída, chega mais luz vermelha aos bastonetes.",
+    "D": "retraída, chegam menos luzes azul e verde aos cones.",
+    "E": "dilatada, chegam menos luzes azul e verde aos bastonetes."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No escuro, a pupila fica <strong>dilatada</strong> para captar mais luz. Quando o flash dispara, entra muita luz, que reflete no fundo do olho, rico em vasos sanguíneos, e sai vermelha na foto. Com a pupila aberta, <strong>chega mais luz à retina</strong>, e mais luz volta. Alternativa <strong>A</strong>.</p><p>Em ambiente escuro, a pupila não está retraída (B, C e D), e a cor vermelha vem do reflexo nos vasos, não de menos luz azul e verde nos bastonetes (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pupila",
+    "olho humano"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 102
+   },
+   "enunciado": "<p>O sashimi (filé de peixe cru) de baiacu é uma iguaria muito apreciada no Japão. Entretanto, sua ingestão pode causar a morte por parada respiratória, pois esse peixe contém uma potente neurotoxina termoestável, a tetrodotoxina, que é produzida e armazenada nas gônadas e vísceras.</p><p>Que ação poderia evitar essa intoxicação?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Criar os peixes em cativeiro.",
+    "B": "Realizar a pesca com redes.",
+    "C": "Consumir peixes cozidos ou fritos.",
+    "D": "Preparar o peixe em condições adequadas de higiene.",
+    "E": "Manusear o peixe sem provocar o rompimento dos órgãos internos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A tetrodotoxina é <strong>termoestável</strong> (não se destrói com o calor) e fica nas gônadas e vísceras. O que evita a intoxicação é <strong>manusear o peixe sem romper os órgãos internos</strong>, para a toxina não contaminar o filé. Alternativa <strong>E</strong>.</p><p>Cozinhar ou fritar não adianta (C), porque a toxina resiste ao calor; higiene, criação em cativeiro ou tipo de rede (A, B e D) não impedem que a toxina chegue à carne.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "toxinas",
+    "baiacu"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 103
+   },
+   "enunciado": "<p class=\"apoio\">A deficiência da enzima lipase ácida causa uma doença em que o portador apresenta células que não degradam colesterol esterificado nem triglicerídeos, resultando no depósito desses compostos em diversos órgãos, principalmente no fígado.</p><p class=\"fonte\">ANDERSON, R. A. et al. In Situ Localization of the Genetic Locus Encoding [...]. Genomics, n. 1, jan. 1993 (adaptado).</p><p>Essa doença resulta da insuficiência funcional de qual estrutura celular?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Lisossomos.",
+    "B": "Ribossomos.",
+    "C": "Mitocôndrias.",
+    "D": "Peroxissomos.",
+    "E": "Retículo endoplasmático liso."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A lipase ácida é uma enzima digestiva que atua em pH ácido, dentro dos <strong>lisossomos</strong>, organelas que degradam lipídios, proteínas e outras moléculas. Sem ela, colesterol esterificado e triglicerídeos se acumulam nas células. Alternativa <strong>A</strong>.</p><p>Ribossomos fazem proteínas (B), mitocôndrias fazem a respiração celular (C), peroxissomos degradam peróxidos e ácidos graxos de cadeia longa em pH neutro (D), e o retículo liso sintetiza lipídios (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lisossomos",
+    "doenças de depósito"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 104
+   },
+   "enunciado": "<p class=\"apoio\">A quantidade de CO<sub>2</sub> na atmosfera da Terra aumentou em 50%, e a temperatura está agora cerca de 1,2 °C mais quente em comparação ao século XIX. O ritmo de aumento da temperatura precisa diminuir se quisermos evitar as piores consequências das mudanças climáticas. Cientistas afirmam que o aquecimento global precisa ser mantido em 1,5 °C até o ano 2100. No entanto, a menos que outras ações sejam tomadas, o planeta ainda pode aquecer mais de 2 °C até o final deste século. Na prática, os países precisam enfrentar as mudanças climáticas com ações mitigadoras, que reduzam tanto as emissões quanto os níveis de CO<sub>2</sub> na atmosfera.</p><p class=\"fonte\">Um guia rápido para entender as mudanças climáticas. Disponível em: www.bbc.com. Acesso em: 6 dez. 2021 (adaptado).</p><p>Qual ação mitigadora auxilia na remoção desse gás presente na atmosfera, reduzindo seus níveis?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Plantar mais árvores.",
+    "B": "Instalar mais usinas eólicas.",
+    "C": "Ampliar o uso de energia solar.",
+    "D": "Manter os combustíveis fósseis no solo.",
+    "E": "Produzir menos resíduos sólidos urbanos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A pergunta é qual ação <strong>remove</strong> o CO<sub>2</sub> que já está na atmosfera. As árvores retiram CO<sub>2</sub> do ar pela fotossíntese e o fixam na biomassa: <strong>plantar mais árvores</strong>. Alternativa <strong>A</strong>.</p><p>Usinas eólicas, energia solar, deixar o petróleo no solo e produzir menos lixo (B, C, D e E) reduzem as emissões, mas não tiram da atmosfera o CO<sub>2</sub> que já está lá.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "efeito estufa",
+    "sequestro de carbono"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 105
+   },
+   "enunciado": "<p class=\"apoio\">As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.</p>[[fig:1]]<p class=\"apoio\">Durante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático.</p><p class=\"fonte\">Disponível em: www.eletronuclear.gov.br. Acesso em: 29 nov. 2021 (adaptado).</p><p>Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q105.webp",
+     "alt": "Esquema de uma usina termonuclear: no vaso de contenção, o reator com o elemento combustível, o pressurizador e uma bomba formam o circuito primário (amarelo), que passa pelo gerador de vapor; o vapor do circuito secundário (azul) gira a turbina ligada ao gerador elétrico e à torre de transmissão, passa pelo condensador e volta pelo tanque de água de alimentação; o sistema de água de refrigeração (verde) traz água fria de um ecossistema aquático ao condensador e a devolve, havendo também uma torre de resfriamento."
+    }
+   ],
+   "alternativas": {
+    "A": "diminuição do pH.",
+    "B": "liberação de gases poluentes.",
+    "C": "contaminação por combustíveis.",
+    "D": "liberação de elementos radioativos.",
+    "E": "diminuição da solubilidade do gás oxigênio."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Se a refrigeração é ineficiente, a água devolvida ao rio ou ao mar sai mais quente. Gases se dissolvem menos em água quente, e a <strong>solubilidade do gás oxigênio diminui</strong>, prejudicando peixes e outros organismos. É a poluição térmica. Alternativa <strong>E</strong>.</p><p>A água de refrigeração não entra em contato com o reator nem com o combustível, por isso não leva radioatividade nem combustível (C e D); a poluição térmica não libera gases (B) nem baixa o pH (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "poluição térmica",
+    "solubilidade de gases"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Química",
+   "assunto": "Funções inorgânicas",
+   "origem": {
+    "numeroOriginal": 106
+   },
+   "enunciado": "<p class=\"apoio\">No início do século XX, as fórmulas das substâncias eram representadas de modo diferente do atual. A figura apresenta uma fotografia bem antiga (1909) que registra uma aula de química ministrada em um colégio em Santos (SP). Um olhar mais atento permite identificar como os compostos químicos eram representados.</p>[[fig:1]]<p class=\"apoio\">O nitrogênio era chamado de azoto e representado pelo símbolo Az. Vê-se na lousa a equação representativa da adição do oxigênio atômico (O) ao monóxido de nitrogênio (AzO) com a formação de dióxido de nitrogênio (AzO<sub>2</sub>). Analogamente, o nitrato de sódio era representado por NaAzO<sub>3</sub>.</p><p class=\"fonte\">Disponível em: www.novomilenio.inf.br. Acesso em: 29 ago. 2014 (adaptado).</p><p>Em 1909, as representações das substâncias ácido nítrico e cloreto de cálcio, tendo por base essas informações e seguindo a mesma lógica, seriam, respectivamente:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q106.webp",
+     "alt": "Fotografia antiga de uma aula de química num colégio de Santos (1909), com alunos diante de uma lousa; ao lado, a ampliação do que está escrito na lousa: AzO + O = AzO², SO² + H²O = H²SO³, 2 H²SO³ + O² = 2 H²SO⁴, 2 HCl + MgO²H² = MgCl² + 2 H²O (os índices eram escritos no alto)."
+    }
+   ],
+   "alternativas": {
+    "A": "HAzO<sub>3</sub> e CaCl<sub>2</sub>",
+    "B": "HAz<sub>3</sub>O e Ca<sub>2</sub>Cl",
+    "C": "H<sub>3</sub>AzO<sub>4</sub> e CaCl",
+    "D": "HAz<sub>3</sub>O e KCl<sub>2</sub>",
+    "E": "HAzO<sub>2</sub> e KCl"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Basta trocar N por Az. Ácido nítrico, HNO<sub>3</sub>, vira <strong>HAzO<sub>3</sub></strong> (como NaNO<sub>3</sub> virava NaAzO<sub>3</sub>). O cloreto de cálcio não tem nitrogênio e continua <strong>CaCl<sub>2</sub></strong>. Alternativa <strong>A</strong>.</p><p>B e C erram as fórmulas; D e E trocam cálcio por potássio (K).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nomenclatura",
+    "história da química"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 107
+   },
+   "enunciado": "<p>A figura apresenta a herança genética de uma característica a partir do cruzamento de insetos de uma mesma espécie.</p>[[fig:1]]<p>Qual alternativa representa a proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q107.webp",
+     "alt": "Parentais: macho com quatro pintas pretas × fêmea com uma listra preta no meio das costas. Primeira geração: macho e fêmea com quatro pintas e a listra ao mesmo tempo."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q107a.webp",
+     "alt": "Alternativa A: quatro joaninhas, todas com quatro pintas (machos e fêmeas)."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q107b.webp",
+     "alt": "Alternativa B: quatro joaninhas, todas só com a listra."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q107c.webp",
+     "alt": "Alternativa C: quatro joaninhas, todas com pintas e listra."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q107d.webp",
+     "alt": "Alternativa D: duas com quatro pintas e duas só com a listra."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q107e.webp",
+     "alt": "Alternativa E: uma com quatro pintas, uma só com a listra e duas com pintas e listra."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pais puros: macho de quatro pintas × fêmea de listra. A primeira geração tem as duas marcas ao mesmo tempo (pintas e listra): é <strong>codominância</strong>, e todos são heterozigotos. Cruzando F1 × F1, a proporção é 1 só pintas : 2 pintas e listra : 1 só listra. Entre quatro filhotes, isso dá um de pintas, um de listra e dois com as duas marcas. Alternativa <strong>E</strong>.</p><p>A e B mostram só um fenótipo; C e D mostram três de um tipo e um de outro (3 : 1), padrão de dominância completa, que não se vê na F1.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "codominância",
+    "proporção fenotípica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 108
+   },
+   "enunciado": "<p>Para transportar uma caixa do primeiro para o segundo piso de uma construção, um trabalhador precisará arrastá-la sobre um plano inclinado. O trabalhador começa a arrastar a caixa no primeiro piso, exercendo sobre ela uma força de grande intensidade, paralela ao seu deslocamento. Na medida em que a caixa sobe o plano inclinado, ele decide reduzir a força sobre ela, arrastando-a lentamente até chegar ao segundo piso. Considere que a caixa permanece em movimento nos encontros dos pisos com o plano inclinado, e que a rugosidade entre as superfícies permanece a mesma durante todo o percurso.</p><p>O comportamento da força de atrito entre a caixa e o chão no plano inclinado é representado em:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q108a.webp",
+     "alt": "Alternativa A: força de atrito × tempo que cai, depois sobe e fica constante num valor mais alto."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q108b.webp",
+     "alt": "Alternativa B: força de atrito que sobe, depois cai e fica constante num valor baixo."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q108c.webp",
+     "alt": "Alternativa C: força de atrito constante ao longo do tempo (reta horizontal)."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q108d.webp",
+     "alt": "Alternativa D: força de atrito constante e depois decrescente."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q108e.webp",
+     "alt": "Alternativa E: força de atrito que sobe e depois diminui aos poucos."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A caixa está sempre deslizando, então o atrito é <strong>cinético</strong>: f = μ · N. No plano inclinado, N = m · g · cos θ, que é constante, e a rugosidade (μ) não muda. A força que o trabalhador faz não altera o atrito. No trecho do plano, a força de atrito é <strong>constante</strong>. Alternativa <strong>C</strong>.</p><p>Os gráficos que sobem ou descem acompanham a força do trabalhador (A, B, D e E), confusão comum: ela não muda a normal nem o atrito cinético.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "atrito cinético",
+    "plano inclinado"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Química",
+   "assunto": "Reações orgânicas",
+   "origem": {
+    "numeroOriginal": 109
+   },
+   "enunciado": "<p class=\"apoio\">O fruto do cajueiro é um aquênio repleto de um líquido escuro, quase preto, cáustico e inflamável. Esse líquido da casca da castanha do caju (LCC) representa aproximadamente 25% da massa da castanha e é um subproduto de agronegócio do caju. Quando submetido a altas temperaturas, o ácido anacárdico presente no LCC é convertido a cardanol, que recebe a denominação de LCC técnico, conforme o esquema:</p>[[fig:1]]<p class=\"fonte\">MAZZETTO, S. E.; LOMONACO, D.; MELE, G. Óleo da castanha de caju: oportunidades e desafios no contexto do desenvolvimento e sustentabilidade industrial. Química Nova, n. 3, 2009 (adaptado).</p><p>O LCC técnico é produzido por meio de uma reação orgânica do tipo</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q109.webp",
+     "alt": "Esquema: ácido anacárdico (anel benzênico com OH, COOH e uma cadeia C₁₅H₃₁), aquecido a 180–200 °C, forma cardanol (anel com OH e a cadeia C₁₅H₃₁) mais CO₂."
+    }
+   ],
+   "alternativas": {
+    "A": "hidrólise.",
+    "B": "fenilação.",
+    "C": "esterificação.",
+    "D": "hidrogenação.",
+    "E": "descarboxilação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No esquema, o ácido anacárdico (que tem o grupo –COOH) vira cardanol e <strong>CO<sub>2</sub></strong> sob aquecimento: o grupo carboxila sai como gás carbônico. É uma <strong>descarboxilação</strong>. Alternativa <strong>E</strong>.</p><p>Não há entrada de água (A), de fenila (B), de H<sub>2</sub> (D) nem formação de éster (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "descarboxilação",
+    "LCC"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Química",
+   "assunto": "Radioatividade",
+   "origem": {
+    "numeroOriginal": 110
+   },
+   "enunciado": "<p>A química nuclear é uma importante ferramenta na produção de substâncias utilizadas na área da saúde humana. A radiação emitida pelo cobalto-60 é utilizada na medicina como ferramenta de diagnóstico e no tratamento do câncer. No entanto, esse radioisótopo tem um tempo de armazenamento limitado, pois seu tempo de meia-vida é de 5,3 anos. Considere um frasco com uma amostra contendo 2,00 mg de cobalto-60, armazenado durante um período de 26,5 anos.</p><p>A massa de cobalto-60, em miligrama, que restará ao final desse tempo é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2,00 mg.",
+    "B": "1,00 mg.",
+    "C": "0,40 mg.",
+    "D": "0,13 mg.",
+    "E": "0,06 mg."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>26,5 anos ÷ 5,3 anos = 5 meias-vidas. A massa cai pela metade cinco vezes: 2,00 → 1,00 → 0,50 → 0,25 → 0,125 → <strong>0,0625 mg ≈ 0,06 mg</strong>. Alternativa <strong>E</strong>.</p><p>0,13 mg (D) corresponde a quatro meias-vidas; 0,40 mg (C) é dividir 2,00 por 5, como se o decaimento fosse linear.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "meia-vida",
+    "cobalto-60"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 111
+   },
+   "enunciado": "<p class=\"apoio\">O esquema apresenta as etapas do processo de biodigestão, uma forma de dar um destino sustentável a excrementos animais e restos de comida produzidos em áreas de criação de gado e porcos confinados.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.engquimicasantossp.com.br. Acesso em: 11 fev. 2015 (adaptado).</p><p>Dar destino sustentável às sobras, conforme apresentado na etapa 4, ajuda a evitar a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q111.webp",
+     "alt": "Esquema de um biodigestor: 1, excrementos de vacas e porcos e restos de alimentos são misturados com água no alimentador; 2, dentro do biodigestor, bactérias decompõem os resíduos em gás metano e adubo; 3, o metano pode ser encanado para um gerador ou aquecedor; 4, as sobras servem como fertilizante."
+    }
+   ],
+   "alternativas": {
+    "A": "bioacumulação de toxinas em plantas.",
+    "B": "eutrofização dos corpos de água.",
+    "C": "destruição da camada de ozônio.",
+    "D": "ocorrência de inversão térmica.",
+    "E": "produção de chuva ácida."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na etapa 4, as sobras do biodigestor viram fertilizante. Usá-las assim evita que excrementos e restos ricos em nutrientes (nitrogênio e fósforo) sejam jogados em rios e lagos, onde provocariam a <strong>eutrofização</strong> (proliferação de algas e falta de oxigênio). Alternativa <strong>B</strong>.</p><p>Camada de ozônio, inversão térmica e chuva ácida (C, D e E) têm a ver com poluentes atmosféricos, e o texto não trata de toxinas em plantas (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biodigestor",
+    "eutrofização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 112
+   },
+   "enunciado": "<p class=\"apoio\">Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética.</p><p class=\"fonte\">BORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia. Viçosa: UFV, 2008 (adaptado).</p><p>Esse alimento contribui para diminuir a carência associada a qual doença?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Hemofilia.",
+    "B": "Escorbuto.",
+    "C": "Raquitismo.",
+    "D": "Cegueira noturna.",
+    "E": "Anemia perniciosa."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O betacaroteno é precursor da vitamina A, essencial para formar a rodopsina, pigmento dos bastonetes da retina. A falta dessa vitamina causa a <strong>cegueira noturna</strong>. Alternativa <strong>D</strong>.</p><p>Escorbuto é falta de vitamina C (B), raquitismo, de vitamina D (C), anemia perniciosa, de B12 (E), e hemofilia é genética (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vitamina A",
+    "transgênicos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Física",
+   "assunto": "Eletrostática",
+   "origem": {
+    "numeroOriginal": 113
+   },
+   "enunciado": "<p class=\"apoio\">A Figura 1 apresenta o esquema de um tubo de imagem em que um filamento, na posição A, libera elétrons por efeito termiônico. Esses elétrons formam um feixe estreito, que é acelerado por campos elétricos em direção à parte interna da tela. Nesse caminho, o feixe de elétrons passa por outro campo elétrico, na região B, atingindo, em seguida, a parte interna da tela do tubo, a qual é recoberta por um material que emite luz ao receber o impacto dos elétrons.</p>[[fig:1]]<p class=\"apoio\">Na Figura 2, a carga negativa representa o feixe de elétrons que é acelerado e, posteriormente, atinge um ponto da tela. O campo elétrico na região B apresenta a seguinte configuração:</p>[[fig:2]]<p class=\"fonte\">Grupo de Reelaboração do Ensino de Física. Física 3: eletromagnetismo. São Paulo: Edusp, 2000 (adaptado).</p><p>Nessa situação, qual ponto da tela será atingido pelo feixe de elétrons?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q113a.webp",
+     "alt": "Figura 1: tubo de imagem com o filamento na posição A, um conjunto de placas que acelera os elétrons, a região B com duas placas horizontais e a tela, onde estão marcados os pontos 1 (em cima), 2 (embaixo), 3 e 4 (dos lados) e 5 (no centro)."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q113b.webp",
+     "alt": "Figura 2: um elétron (carga negativa) com velocidade horizontal para a direita entre duas placas horizontais; as linhas do campo elétrico E apontam verticalmente para cima."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na região B, o campo elétrico aponta para cima. A força sobre uma carga negativa tem sentido oposto ao campo: o elétron é empurrado <strong>para baixo</strong> e atinge o ponto inferior da tela, o <strong>2</strong>. Alternativa <strong>B</strong>.</p><p>O ponto 1 seria a resposta para uma carga positiva; 3 e 4 exigiriam campo horizontal; 5 (centro), campo nulo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "força elétrica",
+    "campo elétrico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 114
+   },
+   "enunciado": "<p class=\"apoio\">A tirinha ilustra um processo físico em que uma onda sonora, produzida pela Mônica, causa a quebra das taças de cristal. O fenômeno ondulatório que provoca a quebra das taças só é possível em razão de uma característica da voz produzida pela Mônica naquele momento, que, diferentemente do que sugere a tirinha, não está relacionada à sua intensidade.</p>[[fig:1]]<p class=\"fonte\">Disponível em: https://artedafisicapibid.blogspot.com. Acesso em: 23 nov. 2021 (adaptado).</p><p>Esse fenômeno e a característica associada à voz da Mônica são, respectivamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q114.webp",
+     "alt": "Tirinha da Turma da Mônica: num restaurante, Mônica grita com Cebolinha e Cascão à mesa, e as taças de cristal que o garçom segura se quebram; o garçom pergunta “E quem está gritando muito?”."
+    }
+   ],
+   "alternativas": {
+    "A": "reflexão e comprimento de onda.",
+    "B": "ressonância e frequência.",
+    "C": "interferência e velocidade.",
+    "D": "ressonância e timbre.",
+    "E": "reflexão e amplitude."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Toda taça tem uma frequência natural de vibração. Se a voz da Mônica tiver <strong>a mesma frequência</strong>, a taça entra em <strong>ressonância</strong>: a amplitude da vibração cresce até o vidro quebrar. Alternativa <strong>B</strong>.</p><p>O texto avisa que não é a intensidade (amplitude), descartando E; o timbre não decide a ressonância (D); reflexão e interferência não quebram a taça (A e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ressonância",
+    "frequência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 115
+   },
+   "enunciado": "<p class=\"apoio\">Em uma aula prática de química orgânica, um professor identificou os frascos de várias substâncias apenas por suas fórmulas moleculares. Em seguida, apresentou a representação tridimensional da molécula do borneol, um álcool secundário, conforme a figura. Ele explicou que, quando oxidado, o borneol dá origem à cânfora, uma cetona usada desde a Antiguidade como incenso e no preparo de medicamentos. Finalmente, o professor solicitou que os alunos identificassem o frasco contendo a substância cânfora.</p>[[fig:1]]<p class=\"fonte\">SANTOS, A. P. B. et al. Oxidação do borneol à cânfora com água sanitária: um experimento simples de baixo custo e limpo. Química Nova, n. 6, 2009 (adaptado).</p><p>O frasco contendo cânfora apresenta a fórmula molecular:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q115.webp",
+     "alt": "Fórmula estrutural do borneol: sistema bicíclico de carbonos com três grupos metila (CH₃) e um grupo OH num carbono do anel."
+    }
+   ],
+   "alternativas": {
+    "A": "C<sub>9</sub>H<sub>16</sub>O",
+    "B": "C<sub>9</sub>H<sub>17</sub>O",
+    "C": "C<sub>10</sub>H<sub>16</sub>O",
+    "D": "C<sub>10</sub>H<sub>16</sub>O<sub>2</sub>",
+    "E": "C<sub>10</sub>H<sub>18</sub>O<sub>2</sub>"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pela estrutura, o borneol tem 10 carbonos e fórmula C<sub>10</sub>H<sub>18</sub>O. A oxidação de um álcool secundário a cetona retira dois hidrogênios (o do OH e o do carbono ligado a ele) e forma C=O. A cânfora é <strong>C<sub>10</sub>H<sub>16</sub>O</strong>. Alternativa <strong>C</strong>.</p><p>A e B têm um carbono a menos; D e E têm dois oxigênios.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "oxidação de álcoois",
+    "cânfora"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 116
+   },
+   "enunciado": "<p class=\"apoio\">As cangas são ambientes resultantes da atuação, ao longo de milhões de anos, de chuvas, enxurradas, calor e ventos em rochas ricas em ferro. São compostas por até 90% de óxidos de ferro e contêm solos muito ácidos, rasos, com reduzidos índices de fertilidade e temperaturas que atingem quase 70 °C na superfície. Ao contrário do que se imagina, esse tipo de ambiente abriga comunidades de plantas e animais com elevado número de espécies e distribuição restrita.</p><p class=\"fonte\">CARMO, F. F. et al. Ilhas de ferro estratégicas para a conservação. Disponível em: http://cienciahoje.org.br. Acesso em: 2 dez. 2018 (adaptado).</p><p>A seleção adaptativa nesses ambientes favorece a ocorrência de espécies</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "exóticas.",
+    "B": "migratórias.",
+    "C": "endêmicas.",
+    "D": "dominantes.",
+    "E": "generalistas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As cangas têm condições extremas (solo ácido e pobre, quase 70 °C na superfície) e abrigam espécies com “distribuição restrita”. O ambiente seleciona organismos muito especializados, que só existem ali: espécies <strong>endêmicas</strong>. Alternativa <strong>C</strong>.</p><p>Exóticas vêm de fora (A), migratórias se deslocam (B), dominantes e generalistas ocupam áreas amplas (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "endemismo",
+    "cangas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 117
+   },
+   "enunciado": "<p>Para a produção de titânio metálico ou dióxido de titânio puros, é necessário fazer a cloração do minério que contém dióxido de titânio, com o objetivo de separar esse óxido de outras substâncias presentes no minério. A principal reação química de cloração é representada por:</p><p>\\(\\text{TiO}_2\\text{ (s)} + 2\\,\\text{Cl}_2\\text{ (g)} \\rightleftharpoons \\text{TiCl}_4\\text{ (g)} + \\text{O}_2\\text{ (g)} \\qquad \\Delta H = +175\\ \\text{kJ/mol}\\)</p><p>Depois da cloração, o tetracloreto de titânio é condensado e convertido, novamente, a dióxido de titânio.</p><p>Após o sistema atingir o equilíbrio químico, como a formação do TiCl<sub>4</sub> pode ser favorecida?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Aumentando a pressão total do sistema.",
+    "B": "Diminuindo a temperatura do sistema.",
+    "C": "Aumentando a pressão parcial de O<sub>2</sub>.",
+    "D": "Aumentando a pressão parcial de Cl<sub>2</sub>.",
+    "E": "Variando a quantidade de TiO<sub>2</sub>."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo princípio de Le Chatelier, aumentar a concentração (pressão parcial) de um reagente desloca o equilíbrio para os produtos: <strong>aumentar a pressão parcial de Cl<sub>2</sub></strong> favorece a formação de TiCl<sub>4</sub>. Alternativa <strong>D</strong>.</p><p>Há 2 mols de gás de cada lado, então a pressão total não desloca o equilíbrio (A). A reação é endotérmica (ΔH &gt; 0), e esfriar favorece os reagentes (B). Mais O<sub>2</sub> desloca para os reagentes (C), e o TiO<sub>2</sub> é sólido, sem efeito no equilíbrio (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Le Chatelier"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 118
+   },
+   "enunciado": "<p>A laje de um depósito de bebidas tem 50 m<sup>2</sup> de área útil de armazenamento e foi projetada para suportar pressões de até 10<sup>4</sup> Pa. O gerente do estabelecimento pretende armazenar um produto cuja densidade é 1 250 kg/m<sup>3</sup>. Considere a aceleração da gravidade igual a 10 m/s<sup>2</sup>.</p><p>A altura máxima, em metro, de empilhamento do produto que essa laje é capaz de suportar é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,16 m.",
+    "B": "0,50 m.",
+    "C": "0,80 m.",
+    "D": "1,60 m.",
+    "E": "8,00 m."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A pressão da pilha sobre a laje é p = ρ · g · h. Com p máximo de 10<sup>4</sup> Pa: h = 10<sup>4</sup> ÷ (1 250 · 10) = 10 000 ÷ 12 500 = <strong>0,80 m</strong>. Alternativa <strong>C</strong>.</p><p>A área de 50 m<sup>2</sup> não entra na conta, porque a pressão não depende dela. Usá-la leva a valores errados, como 0,16 m (A) ou 8,00 m (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 119
+   },
+   "enunciado": "<p>Em uma comunidade rural, os moradores utilizam uma bomba-d’água alimentada por 100 V de tensão contínua, podendo variar em até 5 V. Um eletrotécnico pretende instalar placas fotovoltaicas para alimentar essa bomba. As placas são idênticas e cada uma apresenta tensão de operação igual a 34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura:</p>[[fig:1]]<p>O eletrotécnico construiu um circuito que permite à bomba-d’água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas.</p><p>O diagrama que representa o circuito construído pelo eletrotécnico é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q119.webp",
+     "alt": "Símbolo de gerador não ideal: fonte com ε = 40 V em série com um resistor r."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q119a.webp",
+     "alt": "Alternativa A: gerador de 136 V com resistência interna de 3,2 Ω ligado à bomba."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q119b.webp",
+     "alt": "Alternativa B: gerador de 120 V com resistência interna de 2,4 Ω ligado à bomba."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q119c.webp",
+     "alt": "Alternativa C: gerador de 120 V com resistência interna de 5,3 Ω ligado à bomba."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q119d.webp",
+     "alt": "Alternativa D: gerador de 102 V com resistência interna de 2,4 Ω ligado à bomba."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q119e.webp",
+     "alt": "Alternativa E: gerador de 102 V com resistência interna de 5,3 Ω ligado à bomba."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Cada placa tem fem de 40 V e, operando, 34 V com 7,5 A. A resistência interna é r = (40 − 34) ÷ 7,5 = 0,8 Ω. Para chegar perto de 100 V (aceitando 95 V a 105 V), as placas vão em <strong>série</strong>: três placas dão fem de 3 · 40 = <strong>120 V</strong>, resistência interna 3 · 0,8 = <strong>2,4 Ω</strong> e tensão de operação 3 · 34 = 102 V, dentro da faixa. Duas placas dariam só 68 V. Alternativa <strong>B</strong>.</p><p>136 V e 3,2 Ω (A) são quatro placas, que não é o menor número; 102 V (D e E) é a tensão de operação, não a fem do gerador equivalente; 5,3 Ω (C e E) não corresponde à associação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "geradores",
+    "associação em série"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 120
+   },
+   "enunciado": "<p class=\"apoio\">A figura ilustra as informações contidas no manual de um sistema de alarme que utiliza transmissores e receptores de radiação eletromagnética para a detecção de movimento. O receptor é regulado pelo tempo de resposta, que corresponde ao intervalo de tempo necessário para o corpo do invasor atravessar completamente o feixe, de diâmetro d = 15 cm. Considere que a menor porção do corpo de um invasor é a sua posição de perfil, cuja espessura típica é 20 cm. São indicados cinco possíveis movimentos de um invasor e suas velocidades típicas, que devem ser observadas para a escolha do tempo de resposta.</p>[[fig:1]]<p class=\"fonte\">Manual de referência e instalação: sensor de barreira ativo. Disponível em: cs.ind.br. Acesso em: 2 dez. 2021 (adaptado).</p><p>Nesse sistema, o menor tempo de resposta, em milissegundo, que garante a detecção de um possível invasor é mais próximo de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q120.webp",
+     "alt": "Esquema de um sensor de barreira: um transmissor emite um feixe até um receptor; o diâmetro do feixe é d. Abaixo, cinco movimentos de um invasor e velocidades típicas: escalando um muro para cima, 0,5 m/s; descendo, 0,7 m/s; andando, 1,0 m/s; andando rápido, 2,0 m/s; correndo, 5,0 m/s."
+    }
+   ],
+   "alternativas": {
+    "A": "30 ms.",
+    "B": "70 ms.",
+    "C": "300 ms.",
+    "D": "400 ms.",
+    "E": "700 ms."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O feixe só “vê” o invasor enquanto o corpo o atravessa. Para isso, o corpo percorre a espessura (20 cm) mais o diâmetro do feixe (15 cm): 0,35 m. O caso crítico é o mais rápido, 5,0 m/s: t = 0,35 ÷ 5,0 = 0,07 s = <strong>70 ms</strong>. Se o tempo de resposta for maior que isso, quem corre passa sem ser detectado. Alternativa <strong>B</strong>.</p><p>700 ms (E) usa a velocidade mais lenta (0,5 m/s); 30 ms (A) desconta o feixe em vez de somá-lo; 300 e 400 ms (C e D) não correspondem a nenhum caso crítico.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade média",
+    "sensores"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 121
+   },
+   "enunciado": "<p>A dimetilamina é uma substância de elevada toxidez que entra em ebulição a 7 °C. Na madrugada de um dia frio, essa substância se espalhou por uma rodovia após um acidente de trânsito envolvendo um caminhão que transportava esse produto. Para minimizar a agressão ao meio ambiente, bem como evitar a evaporação da dimetilamina com a elevação da temperatura ao longo do dia, um químico considerou o uso de algumas substâncias ou misturas como água, vinagre, óleo de soja, sal de cozinha e bicarbonato de sódio.</p><p>Dentre as opções apresentadas, o tratamento correto para minimizar esse problema é usar</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "água.",
+    "B": "vinagre.",
+    "C": "óleo de soja.",
+    "D": "sal de cozinha.",
+    "E": "bicarbonato de sódio."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A dimetilamina é uma <strong>base</strong> orgânica volátil. O vinagre (ácido acético) reage com ela e forma um sal de amônio, iônico e não volátil, que não evapora com o calor do dia. Usar <strong>vinagre</strong> é o tratamento correto. Alternativa <strong>B</strong>.</p><p>Água só dilui (A); óleo não reage (C); sal de cozinha é neutro (D); e o bicarbonato também é básico, sem efeito (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aminas",
+    "neutralização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 122
+   },
+   "enunciado": "<p class=\"apoio\">O aquecimento em fogões por indução utiliza bobinas para produzir um campo magnético variável. Essa bobina se localiza abaixo do vidro cerâmico sobre o qual a panela se apoia. O mecanismo aquece apenas a panela que se encontra na zona de cozimento, o que é uma das principais vantagens em relação ao uso do fogão a gás ou de resistência elétrica.</p>[[fig:1]]<p class=\"fonte\">PEREIRA, A. B. et al. Fogões de indução: montagem e testes de um circuito disponível. Disponível em: https://publicacoes.fatecsertaozinho.edu.br. Acesso em: 21 maio 2025 (adaptado).</p><p>O uso do campo magnético variável tem a finalidade de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q122.webp",
+     "alt": "Esquema de um fogão de indução: uma panela com conteúdo aquecido apoiada sobre o vidro cerâmico; abaixo, a bobina de indução cria um campo magnético (linhas vermelhas); setas indicam a transferência do calor gerado na própria panela."
+    }
+   ],
+   "alternativas": {
+    "A": "imantar o material da panela por indução.",
+    "B": "movimentar os átomos de ferro concentrados no fundo da panela.",
+    "C": "emitir radiação eletromagnética, aquecendo a panela através do vidro cerâmico.",
+    "D": "induzir corrente elétrica na parte inferior da panela, aquecendo-a por efeito Joule.",
+    "E": "gerar um fluxo de corrente de convecção no ar contido entre a região da bobina e o vidro cerâmico."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O campo magnético variável da bobina gera, por indução eletromagnética (lei de Faraday), <strong>correntes elétricas no fundo da panela</strong> metálica (correntes de Foucault). Essas correntes dissipam energia e <strong>aquecem a panela por efeito Joule</strong>. Alternativa <strong>D</strong>.</p><p>A panela não precisa ser imantada (A), os átomos não são “movimentados” (B), o vidro não é aquecido por radiação (C), e não há convecção no ar (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "indução eletromagnética",
+    "efeito Joule"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Biologia",
+   "assunto": "Fotossíntese",
+   "origem": {
+    "numeroOriginal": 123
+   },
+   "enunciado": "<p>Plantas e algas realizam fotossíntese oxigênica para síntese de matéria orgânica e, para isso, utilizam trifosfato de adenosina (ATP) e nicotinamida adenina dinucleotídeo fosfato reduzido (NADPH). Já algumas bactérias fotossintetizantes não apresentam cloroplasto e clorofila, mas um pigmento denominado bacterioclorofila. Esses procariotos realizam a fotossíntese anoxigênica, um processo de síntese de matéria orgânica utilizando o gás carbônico (CO<sub>2</sub>) e o gás sulfídrico (H<sub>2</sub>S).</p><p>Na fotossíntese oxigênica, qual composto desempenha função análoga à do H<sub>2</sub>S?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ATP.",
+    "B": "NADPH.",
+    "C": "Oxigênio.",
+    "D": "Clorofila.",
+    "E": "Água."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Pela análise do Treineiros, a resposta esperada seria a <strong>água</strong>: na fotossíntese anoxigênica, o H<sub>2</sub>S doa os elétrons (e libera enxofre); na oxigênica, quem doa elétrons é a H<sub>2</sub>O, que libera O<sub>2</sub>. Alternativa <strong>E</strong>, se a questão não tivesse sido anulada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fotossíntese",
+    "bactérias"
+   ],
+   "area": "Ciências da Natureza",
+   "anulacao": {
+    "fonte": "oficial",
+    "motivo": "<p>O Inep anulou esta questão e outras duas do 2º dia (no caderno azul, 123, 132 e 174) depois de relatos de que itens parecidos tinham sido divulgados nas redes sociais antes da prova. Segundo o Inep, nenhuma questão foi divulgada igual à da prova, só com “similaridades pontuais”, e o caso foi enviado à Polícia Federal. A anulação não aponta erro no conteúdo da questão.</p>"
+   }
+  },
+  {
+   "numero": 34,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 124
+   },
+   "enunciado": "<p class=\"apoio\">Objetos de prata escurecem em contato com compostos contendo enxofre por causa da formação de uma fina camada de sulfeto de prata. Um método simples para clarear o objeto consiste em forrar um recipiente com papel alumínio, adicionar ao recipiente uma solução aquosa de cloreto de sódio e, enfim, mergulhar o objeto de prata enegrecido. Em cerca de três minutos, a prata volta à coloração original. As seguintes semirreações e os respectivos potenciais-padrão de redução são úteis para a compreensão dos fenômenos ocorridos.</p><p class=\"apoio\">Ag<sub>2</sub>S (s) + 2 e<sup>−</sup> → 2 Ag (s) + S<sup>2−</sup> (aq) &nbsp; E° = −0,69 V<br>O<sub>2</sub> (g) + 4 H<sup>+</sup> (aq) + 4 e<sup>−</sup> → 2 H<sub>2</sub>O (l) &nbsp; E° = +1,23 V<br>Al<sup>3+</sup> (aq) + 3 e<sup>−</sup> → Al (s) &nbsp; E° = −1,68 V</p><p class=\"fonte\">SARTORI, E. R.; BATISTA, E. F.; FATIBELLO-FILHO, O. Escurecimento e limpeza de objetos de prata: um experimento simples e de fácil execução envolvendo reações de oxidação-redução. Química Nova na Escola, n. 30, 2008 (adaptado).</p><p>Os valores das diferenças de potencial-padrão das reações que representam o escurecimento e o clareamento do objeto de prata são, respectivamente:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "+0,54 V e +2,37 V.",
+    "B": "+1,92 V e +0,99 V.",
+    "C": "−0,15 V e +5,43 V.",
+    "D": "+2,61 V e +1,29 V.",
+    "E": "+0,15 V e −1,29 V."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Escurecimento: a prata é oxidada a Ag<sub>2</sub>S pelo O<sub>2</sub>, que é reduzido. ΔE° = E°(O<sub>2</sub>) − E°(Ag<sub>2</sub>S) = +1,23 − (−0,69) = <strong>+1,92 V</strong>.</p><p>Clareamento: o alumínio se oxida e reduz o Ag<sub>2</sub>S de volta a prata. ΔE° = E°(Ag<sub>2</sub>S) − E°(Al) = −0,69 − (−1,68) = <strong>+0,99 V</strong>. Alternativa <strong>B</strong>.</p><p>As demais trocam os pares ou subtraem na ordem errada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pilhas",
+    "potencial de redução"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 125
+   },
+   "enunciado": "<p>Apaixonada por culinária e química, uma chefe de cozinha calculou que, para promover o crescimento adequado da massa durante o cozimento de um bolo a 180 °C (453 K) e 1,00 atm, ela precisaria utilizar uma quantidade de fermento químico suficiente para produzir um volume de gás igual a 4,00 L. Com esse objetivo, ela escolheu utilizar o bicarbonato de amônio, um composto que, sob aquecimento, degrada-se em três gases distintos, que são os responsáveis pelo crescimento da massa. A decomposição do bicarbonato de amônio ocorre conforme a equação química apresentada e, nas condições do cozimento, seu rendimento é de 80%.</p><p>NH<sub>4</sub>HCO<sub>3</sub> (s) → NH<sub>3</sub> (g) + CO<sub>2</sub> (g) + H<sub>2</sub>O (g)</p><p>Considere que a mistura dos gases se comporta como gás ideal nas condições de cozimento utilizadas pela chefe.</p><p>Dados: Massa molar do NH<sub>4</sub>HCO<sub>3</sub> = 79 g ⋅ mol<sup>−1</sup> e R = 0,082 atm ⋅ L ⋅ mol<sup>−1</sup> ⋅ K<sup>−1</sup>.</p><p>A massa, em grama, de bicarbonato de amônio que ela deve utilizar é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2,3 g.",
+    "B": "3,5 g.",
+    "C": "5,9 g.",
+    "D": "6,8 g.",
+    "E": "8,9 g."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Mols de gás necessários: n = PV ÷ RT = (1,00 · 4,00) ÷ (0,082 · 453) ≈ 0,108 mol. Cada mol de NH<sub>4</sub>HCO<sub>3</sub> produz 3 mols de gás (NH<sub>3</sub>, CO<sub>2</sub> e H<sub>2</sub>O), então seriam 0,036 mol de bicarbonato. Com rendimento de 80%: 0,036 ÷ 0,80 ≈ 0,045 mol. Massa: 0,045 · 79 ≈ <strong>3,5 g</strong>. Alternativa <strong>B</strong>.</p><p>Esquecer o rendimento dá 2,8 g; esquecer que são 3 gases leva a valores como 8,9 g (E) ou 6,8 g (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gases ideais",
+    "rendimento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 126
+   },
+   "enunciado": "<p>Segundo o princípio da independência dos movimentos, de Galileu, sempre que a velocidade resultante de um corpo puder ser decomposta em duas ou mais componentes perpendiculares entre si, cada um desses movimentos poderá ser analisado separadamente como se os outros não existissem. Esse princípio é muito útil para a simplificação de alguns problemas reais, em três dimensões.</p><p>Considere um avião que, ao decolar, é instruído pela torre a atingir, em 6 minutos, uma posição de 20 km a Leste, 20 km a Norte e 1 km de altitude em relação ao ponto de decolagem, conforme a figura (fora de escala). No entanto, no instante da decolagem, começa a soprar um vento cujo vetor velocidade tem componentes 30 km/h para Leste, 20 km/h para Sul e 1 km/h de cima para baixo.</p>[[fig:1]]<p>Durante a ação do vento, a velocidade v que o piloto deve estabelecer em relação ao ar para que o avião chegue à posição esperada no tempo indicado tem as componentes</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q126.webp",
+     "alt": "Eixos cardeais (Norte, Sul, Leste, Oeste) e vertical, com um avião na origem e o vetor velocidade v apontando para a “posição a ser atingida”, acima e a nordeste (fora de escala)."
+    }
+   ],
+   "alternativas": {
+    "A": "230 km/h para Leste, 180 km/h para Sul e 9 km/h para baixo.",
+    "B": "230 km/h para Leste, 180 km/h para Norte e 9 km/h para cima.",
+    "C": "200 km/h para Oeste, 200 km/h para Norte e 10 km/h para cima.",
+    "D": "170 km/h para Leste, 220 km/h para Norte e 11 km/h para cima.",
+    "E": "170 km/h para Leste, 180 km/h para Norte e 11 km/h para cima."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em relação ao solo, o avião precisa percorrer 20 km para Leste, 20 km para Norte e 1 km para cima em 6 min = 0,1 h: velocidade de 200 km/h L, 200 km/h N e 10 km/h para cima. Velocidade em relação ao solo = velocidade em relação ao ar + vento, então v<sub>ar</sub> = v<sub>solo</sub> − vento:</p><ul><li>Leste: 200 − 30 = <strong>170 km/h</strong>;</li><li>Norte: 200 − (−20) = <strong>220 km/h</strong>;</li><li>vertical: 10 − (−1) = <strong>11 km/h para cima</strong>.</li></ul><p>Alternativa <strong>D</strong>.</p><p>C ignora o vento; A e B somam o vento em vez de compensá-lo; E erra só a componente Norte.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "composição de movimentos",
+    "velocidade relativa"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Química",
+   "assunto": "Cinética química",
+   "origem": {
+    "numeroOriginal": 127
+   },
+   "enunciado": "<p>Nos processos de transformação e reciclagem de recursos naturais, as velocidades das reações químicas são estudadas pela cinética química. Uma reação A → B é realizada na presença e na ausência de uma enzima, com todas as demais condições permanecendo inalteradas. Considere que, no gráfico da variação de energia ao longo dessa reação, a linha contínua representa o avanço da reação na ausência da enzima, e a linha pontilhada, na presença da enzima.</p><p>O gráfico que representa a situação descrita é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q127a.webp",
+     "alt": "Alternativa A: a curva pontilhada começa mais alta que a contínua (reagentes A em níveis diferentes), as duas têm o mesmo pico e terminam em B no mesmo nível."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q127b.webp",
+     "alt": "Alternativa B: as duas começam em A no mesmo nível e têm o mesmo pico, mas a pontilhada termina mais alta que a contínua."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q127c.webp",
+     "alt": "Alternativa C: as duas começam em A e terminam em B nos mesmos níveis; a pontilhada tem o pico mais baixo."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q127d.webp",
+     "alt": "Alternativa D: mesmos níveis de A e B; a pontilhada tem o pico mais alto."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q127e.webp",
+     "alt": "Alternativa E: a pontilhada começa e termina mais alta que a contínua, com o mesmo pico."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A enzima é um catalisador: <strong>abaixa a energia de ativação</strong> (o pico) sem mudar a energia dos reagentes e dos produtos. No gráfico certo, as duas curvas começam em A e terminam em B no mesmo nível, e a pontilhada tem pico mais baixo. Alternativa <strong>C</strong>.</p><p>A, B e E mudam a energia dos reagentes ou dos produtos; D mostra a enzima aumentando a energia de ativação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "catalisadores",
+    "energia de ativação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 128
+   },
+   "enunciado": "<p>A resistência de um fio de platina pode ser usada para medir temperaturas entre 0 °C e 100 °C e já foi utilizada como referência para a escala internacional de temperatura. Para um sensor feito de platina, a relação entre a resistência e a temperatura pode ser descrita por uma equação do tipo R(T) = A + BT, em que T é a temperatura e A e B são constantes. O gráfico apresenta a dependência da resistência em função da temperatura para cinco diferentes sensores.</p>[[fig:1]]<p>Os sensores que apresentam maior sensibilidade são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q128.webp",
+     "alt": "Gráfico resistência (ohm) × temperatura (°C), de −50 a 320 °C, com cinco retas: sensor 1 quase horizontal em cerca de 225 Ω; sensor 2 subindo muito, de cerca de 75 a 225 Ω; sensor 3 pouco inclinado, de 145 a 168 Ω; sensor 4 de 90 a 148 Ω; sensor 5 de 65 a 145 Ω."
+    }
+   ],
+   "alternativas": {
+    "A": "1 e 2.",
+    "B": "1 e 3.",
+    "C": "2 e 3.",
+    "D": "2 e 4.",
+    "E": "2 e 5."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Sensibilidade é quanto a resistência muda por grau: a inclinação da reta (B em R = A + BT). Pelo gráfico, as retas mais inclinadas são a do <strong>sensor 2</strong> (de cerca de 75 para 225 Ω) e a do <strong>sensor 5</strong> (de cerca de 65 para 145 Ω). Alternativa <strong>E</strong>.</p><p>O sensor 1 tem a maior resistência, mas quase não varia (A e B); o 3 e o 4 têm inclinações menores que a do 5 (C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "termômetro de resistência",
+    "função afim"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 129
+   },
+   "enunciado": "<p>O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro.</p><table class=\"tabela\"><thead><tr><th>Teste</th><th>Resultado</th></tr></thead><tbody><tr><td><em>Aedes aegypti</em> (larvas)</td><td>Baixa eficiência</td></tr><tr><td>Bacilo de Koch</td><td>Média eficiência</td></tr><tr><td>Moluscos aquáticos (adultos)</td><td>Alta eficiência</td></tr><tr><td>Pernilongo (larvas)</td><td>Média eficiência</td></tr><tr><td>Vermes platelmintos</td><td>Ineficiente</td></tr></tbody></table><p>O ácido úsnico mostrou-se mais indicado para o controle da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "esquistossomose.",
+    "B": "febre amarela.",
+    "C": "coqueluche.",
+    "D": "tuberculose.",
+    "E": "dengue."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O quadro mostra <strong>alta eficiência</strong> só contra moluscos aquáticos. O caramujo aquático (<em>Biomphalaria</em>) é o hospedeiro intermediário do <em>Schistosoma</em>: controlá-lo controla a <strong>esquistossomose</strong>. Alternativa <strong>A</strong>.</p><p>Contra larvas de <em>Aedes aegypti</em> (febre amarela e dengue, B e E) a eficiência é baixa; contra o bacilo de Koch (tuberculose, D), média; e a coqueluche (C) é causada por bactéria que não está no quadro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "esquistossomose",
+    "controle biológico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 130
+   },
+   "enunciado": "<p class=\"apoio\">Em sua maioria, os equipamentos eletrônicos domésticos demandam baixa potência elétrica em corrente contínua. Para alimentá-los, uma fonte externa ou embutida transforma a corrente alternada em corrente contínua de baixa tensão. Entretanto, cada equipamento tem suas especificidades, e muitas vezes não é possível simplesmente trocar essas fontes sem levar em conta a tensão, a corrente ou a potência elétrica de saída.</p><p>Considere um equipamento de resistência elétrica R<sub>C</sub> que funciona corretamente apenas em um dado valor de tensão. Porém, a única fonte de alimentação disponível fornece uma tensão 20% superior à tensão recomendada. Para adaptar essa fonte ao aparelho, a associação de um resistor de proteção R<sub>P</sub>, de potência adequada, se faz necessária.</p><p>A configuração adequada do circuito e o valor do resistor de proteção, em relação ao valor da resistência do equipamento, são:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q130a.webp",
+     "alt": "Alternativa A: fonte ligada a R_C e R_P em paralelo, com R_P = 0,2 R_C."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q130b.webp",
+     "alt": "Alternativa B: R_C e R_P em paralelo, com R_P = 1,2 R_C."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q130c.webp",
+     "alt": "Alternativa C: R_P e R_C em série, com R_P = 1,2 R_C."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q130d.webp",
+     "alt": "Alternativa D: R_P e R_C em série, com R_P = 2,2 R_C."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q130e.webp",
+     "alt": "Alternativa E: R_P e R_C em série, com R_P = 0,2 R_C."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A fonte dá 1,2 U, e o equipamento precisa de U. O resistor de proteção deve ficar em <strong>série</strong> e “segurar” 0,2 U. Em série a corrente é a mesma, então a tensão se divide na razão das resistências: R<sub>P</sub> ÷ R<sub>C</sub> = 0,2 U ÷ U, ou seja, <strong>R<sub>P</sub> = 0,2 R<sub>C</sub></strong>. Alternativa <strong>E</strong>.</p><p>Em paralelo (A e B), o equipamento continuaria recebendo a tensão total da fonte. Em série com 1,2 R<sub>C</sub> ou 2,2 R<sub>C</sub> (C e D), ele receberia menos que a tensão certa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "associação de resistores",
+    "divisor de tensão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 131
+   },
+   "enunciado": "<p class=\"apoio\">O Brasil é o maior produtor mundial de nióbio (massa molar = 93 g mol<sup>−1</sup>), metal utilizado na fabricação de vários tipos de aço: automotivos, estruturais e inoxidáveis. O processo utilizado na produção do nióbio é a redução aluminotérmica de Nb<sub>2</sub>O<sub>5</sub> com excesso de 10% de Al (massa molar = 27 g mol<sup>−1</sup>), em relação à quantidade estequiométrica da reação, representada pela equação química:</p><p class=\"apoio\">3 Nb<sub>2</sub>O<sub>5</sub> (s) + 10 Al (s) → 6 Nb (s) + 5 Al<sub>2</sub>O<sub>3</sub> (s)</p><p class=\"apoio\">Uma engenheira metalúrgica estimou a massa de alumínio necessária para produzir 9,3 kg de nióbio, nas condições descritas, para a produção de um lote de peças de aço encomendado por uma indústria, considerando um rendimento de 100%.</p><p class=\"fonte\">Disponível em: www.cbmm.com.br. Acesso em: 17 out. 2015 (adaptado).</p><p>A massa de alumínio, em quilograma, estimada pela engenheira é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2,7 kg.",
+    "B": "3,0 kg.",
+    "C": "4,1 kg.",
+    "D": "4,5 kg.",
+    "E": "5,0 kg."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>9,3 kg de Nb = 9 300 ÷ 93 = 100 mol. Pela equação, 6 mol de Nb exigem 10 mol de Al: 100 · 10 ÷ 6 ≈ 166,7 mol de Al, ou 166,7 · 27 ≈ 4 500 g = 4,5 kg. Com 10% de excesso: 4,5 · 1,1 ≈ <strong>5,0 kg</strong>. Alternativa <strong>E</strong>.</p><p>4,5 kg (D) esquece o excesso; 2,7 kg (A) usa a proporção 1 : 1.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "excesso de reagente",
+    "nióbio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 132
+   },
+   "enunciado": "<p>O nível sonoro, em decibel (dB), é calculado pela expressão:</p><p class=\"apoio\">\\( n = 10 \\log_{10}\\left(\\dfrac{I}{I_0}\\right) \\)</p><p>Uma conversa normal entre duas pessoas gera sons de níveis sonoros entre 50 e 60 dB, enquanto pessoas gritando podem gerar sons de níveis superiores a 100 dB. Supondo que, no centro de um estádio de futebol, foram realizadas medidas para avaliar o ruído médio de uma pessoa gritando a palavra “gol” em diferentes posições das arquibancadas. O valor médio obtido, considerando um grande número de medidas, foi de 100 dB. Com esse dado, estimou-se o ruído sonoro produzido por 10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, enquanto gritavam, simultaneamente, a palavra “gol”.</p><p>O valor médio estimado para o ruído produzido por essas pessoas, na posição central desse estádio hipotético, foi de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "60 dB.",
+    "B": "104 dB.",
+    "C": "140 dB.",
+    "D": "400 dB.",
+    "E": "800 dB."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Pela análise do Treineiros, a conta esperada seria esta: uma pessoa gera intensidade I<sub>1</sub> com 100 dB; 10 000 pessoas geram 10<sup>4</sup> · I<sub>1</sub>, e o nível sobe 10 · log 10<sup>4</sup> = 40 dB, chegando a <strong>140 dB</strong>. Alternativa <strong>C</strong>, se a questão não tivesse sido anulada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nível sonoro",
+    "logaritmo"
+   ],
+   "area": "Ciências da Natureza",
+   "anulacao": {
+    "fonte": "oficial",
+    "motivo": "<p>O Inep anulou esta questão e outras duas do 2º dia (no caderno azul, 123, 132 e 174) depois de relatos de que itens parecidos tinham sido divulgados nas redes sociais antes da prova. Segundo o Inep, nenhuma questão foi divulgada igual à da prova, só com “similaridades pontuais”, e o caso foi enviado à Polícia Federal. A anulação não aponta erro no conteúdo da questão.</p>"
+   }
+  },
+  {
+   "numero": 43,
+   "materia": "Química",
+   "assunto": "Interações intermoleculares",
+   "origem": {
+    "numeroOriginal": 133
+   },
+   "enunciado": "<p class=\"apoio\">O despejo acidental de óleo nos oceanos tem ocasionado incontáveis prejuízos à vida marinha e à economia de regiões costeiras. Métodos tradicionais de tratamento do despejo geram resíduos de difícil descarte e nem sempre são eficazes. Por isso, pesquisadores desenvolveram um filtro capaz de separar óleo e água. O dispositivo é montado sobre uma malha de aço com uma sequência de camadas. A primeira camada é formada por um polímero de carga positiva, a segunda é composta por nanopartículas de sílica (SiO<sub>2</sub>), a terceira é formada pelo mesmo polímero e a última é um surfactante, conforme apresentado na figura.</p>[[fig:1]]<p class=\"fonte\">BROWN, P. S.; BHUSHAN, B. Mechanically durable, superoleophobic coatings prepared by layer-by-layer technique for anti-smudge and oil-water separation. Scientific Reports, v. 5, mar. 2015 (adaptado).</p><p>Na utilização desse dispositivo, a retenção do óleo ocorre</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q133.webp",
+     "alt": "Esquema das camadas do filtro, de cima para baixo: surfactante (cadeias com átomos de flúor e cabeças negativas), camada superior de polímero (com cargas positivas), nanopartículas de sílica (SiO₂, com carga negativa), camada inferior de polímero e malha de aço."
+    }
+   ],
+   "alternativas": {
+    "A": "no surfactante.",
+    "B": "na camada superior de polímero.",
+    "C": "nas nanopartículas de sílica.",
+    "D": "na camada inferior de polímero.",
+    "E": "na malha de aço."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O filtro deixa passar a água e segura o óleo. A camada que fica em contato com a mistura é a de cima, o <strong>surfactante</strong> com cadeias fluoradas, que repele o óleo (é oleofóbico) e deixa a água atravessar. O óleo fica retido ali. Alternativa <strong>A</strong>.</p><p>As camadas de baixo (polímero, sílica e malha, B a E) dão sustentação e afinidade com a água, mas o óleo não chega até elas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "polaridade",
+    "separação óleo-água"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Química",
+   "assunto": "Interações intermoleculares",
+   "origem": {
+    "numeroOriginal": 134
+   },
+   "enunciado": "<p class=\"apoio\">Alguns hormônios sexuais têm ganhado notável atenção nos últimos anos por suas concentrações cada vez maiores no solo e na água em todo o mundo. O motivo da preocupação é porque, em níveis poluentes, eles têm sido associados ao câncer de mama e ao câncer de próstata, além de perturbarem a fisiologia dos peixes, podendo, ainda, afetarem o desenvolvimento reprodutivo de animais domésticos e selvagens. Assim, o descarte inadequado desses hormônios representa uma séria ameaça ao solo, plantas, recursos hídricos e humanos. De baixa polaridade, eles apresentam uma solubilidade pequena e variável em água, dependendo dos grupos presentes em suas estruturas, representando um grande risco para os ambientes aquáticos. As figuras a seguir apresentam as estruturas de alguns desses hormônios.</p>[[fig:1]]<p class=\"fonte\">MUHAMMAD, A. et al. Environmental Impact of Estrogens on Human, Animal and Plant Life: a Critical Review. Environment International, n. 99, 2017 (adaptado).</p><p>Do ponto de vista das interações químicas, qual desses hormônios apresenta maior solubilidade em ambientes aquáticos?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q134.webp",
+     "alt": "Estruturas de cinco hormônios esteroides (quatro anéis): estradiol, com dois OH; estriol, com três OH; estrona, com um OH e uma carbonila (C=O); novestrol, com dois OH e uma tripla ligação C≡CH; noretindrona, com uma carbonila, um OH e C≡CH."
+    }
+   ],
+   "alternativas": {
+    "A": "Estradiol.",
+    "B": "Estriol.",
+    "C": "Estrona.",
+    "D": "Novestrol.",
+    "E": "Noretindrona."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os hormônios são pouco polares, e a solubilidade em água aumenta com os grupos que fazem ligações de hidrogênio (–OH). Pelas estruturas, o <strong>estriol</strong> tem três grupos –OH, mais que todos os outros. Alternativa <strong>B</strong>.</p><p>Estradiol e novestrol têm dois –OH (A e D), e estrona e noretindrona têm um –OH e um grupo C=O (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ligações de hidrogênio",
+    "solubilidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 135
+   },
+   "enunciado": "<p class=\"apoio\">A icterícia é uma doença que acomete recém-nascidos e pode ser tratada com um método de fototerapia conhecido como banho de luz, que consiste na exposição do recém-nascido a uma fonte luminosa equipada com LEDs azuis. Para o monitoramento da dosagem dessa radiação, é utilizada a resposta óptica de um sensor constituído de materiais orgânicos que luminescem quando expostos à luz azul. Com o passar do tempo, essa radiação oxida os materiais do sensor, alterando sua coloração de vermelho-laranja para verde, o que indica o final do tratamento.</p><p class=\"apoio\">O gráfico apresenta o espectro de fotoluminescência do sensor em função do comprimento de onda da luz emitida no início do tratamento, quando o sensor, colado na fralda do bebê (Figura 1), luminesce na região do vermelho-laranja (∼600 nm). A Figura 2 apresenta a evolução da coloração do sensor, mostrando que a frequência da luz emitida por ele aumenta em função do tempo de exposição à luz azul.</p>[[fig:1]]<p class=\"fonte\">SILVA, M. M. et al. Fabricação de sensor orgânico flexível para aplicação em terapia com luz azul. Tecnol. Metal. Mater. Miner., n. 3, jul.-set. 2011 (adaptado).</p><p>Os espectros de fotoluminescência do sensor no início e no final do tratamento estão esboçados no gráfico:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2025-natureza/q135.webp",
+     "alt": "À esquerda, o gráfico de fotoluminescência do sensor × comprimento de onda (de 525 a 725 nm), com pico em 600 nm. Abaixo, a Figura 1, um bebê sob luz azul com o sensor vermelho na fralda, e a Figura 2, uma escala de tempo de exposição (0 h a 12 h) em que a cor do sensor passa de vermelho a laranja, amarelo e verde, com a frequência aumentando."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q135a.webp",
+     "alt": "Alternativa A: a curva do fim do tratamento (tracejada) tem o pico deslocado para a esquerda, em cerca de 555 nm; a do início tem pico em 600 nm."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q135b.webp",
+     "alt": "Alternativa B: o pico do fim do tratamento vai para a direita, em cerca de 635 nm."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q135c.webp",
+     "alt": "Alternativa C: as duas curvas têm pico em 600 nm; a do fim é um pouco mais baixa."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q135d.webp",
+     "alt": "Alternativa D: as duas têm pico em 600 nm; a do fim é um pouco mais alta."
+    },
+    {
+     "src": "assets/img/enem-2025-natureza/q135e.webp",
+     "alt": "Alternativa E: as duas curvas são praticamente iguais, com pico em 600 nm."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz que, com o tempo, a frequência da luz emitida pelo sensor <strong>aumenta</strong> (do vermelho-laranja ao verde). Frequência maior é comprimento de onda menor: no fim do tratamento, o pico sai de cerca de 600 nm e vai para perto de 550 nm, que é o verde. O gráfico certo tem a curva final deslocada para a esquerda. Alternativa <strong>A</strong>.</p><p>Em B o pico vai para a direita (frequência menor); em C, D e E ele fica em 600 nm, só mudando de altura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espectro eletromagnético",
+    "frequência e comprimento de onda"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

@@ -1,0 +1,1199 @@
+{
+ "id": "enem-2018-humanas",
+ "banca": "Enem",
+ "ano": 2018,
+ "titulo": "Enem 2018: Ciências Humanas",
+ "fonte": "Inep",
+ "dataExame": "2018-11-04",
+ "duracaoMinutos": 135,
+ "area": "Ciências Humanas",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "História",
+   "assunto": "Imperialismo",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\">No Segundo Congresso Internacional de Ciências Geográficas, em 1875, a que compareceram o presidente da República, o governador de Paris e o presidente da Assembleia, o discurso inaugural do almirante La Roucière-Le Noury expôs a atitude predominante no encontro: “Cavalheiros, a Providência nos ditou a obrigação de conhecer e conquistar a terra. Essa ordem suprema é um dos deveres imperiosos inscritos em nossas inteligências e nossas atividades. A geografia, essa ciência que inspira tão bela devoção e em cujo nome foram sacrificadas tantas vítimas, tornou-se a filosofia da terra”.</p><p class=\"fonte\">SAID, E. <em>Cultura e política</em>. São Paulo: Cia. das Letras, 1995.</p><p>No contexto histórico apresentado, a exaltação da ciência geográfica decorre do seu uso para o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "preservação cultural dos territórios ocupados.",
+    "B": "formação humanitária da sociedade europeia.",
+    "C": "catalogação de dados úteis aos propósitos colonialistas.",
+    "D": "desenvolvimento de técnicas matemáticas de construção de cartas.",
+    "E": "consolidação do conhecimento topográfico como campo acadêmico."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No congresso de 1875, o almirante diz que a Providência “nos ditou a obrigação de conhecer e conquistar a terra”. A geografia era exaltada porque mapear e descrever os territórios servia à expansão europeia na África e na Ásia: a <strong>catalogação de dados úteis aos propósitos colonialistas</strong>. Alternativa <strong>C</strong>.</p><p>O discurso não fala em preservar culturas (A) nem em técnicas cartográficas em si (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "neocolonialismo",
+    "geografia e poder"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">A existência em Jerusalém de um hospital voltado para o alojamento e o cuidado dos peregrinos, assim como daqueles entre eles que estavam cansados ou doentes, fortaleceu o elo entre a obra de assistência e de caridade e a Terra Santa. Ao fazer, em 1113, do Hospital de Jerusalém um estabelecimento central da ordem, Pascoal II estimulava a filiação dos hospitalários do Ocidente a ele, sobretudo daqueles que estavam ligados à peregrinação na Terra Santa ou em outro lugar. A militarização do Hospital de Jerusalém não diminuiu a vocação caritativa primitiva, mas a fortaleceu.</p><p class=\"fonte\">DEMURGER, A. <em>Os Cavaleiros de Cristo</em>. Rio de Janeiro: Jorge Zahar, 2002 (adaptado).</p><p>O acontecimento descrito vincula-se ao fenômeno ocidental do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "surgimento do monasticismo guerreiro, ocasionado pelas cruzadas.",
+    "B": "descentralização do poder eclesiástico, produzida pelo feudalismo.",
+    "C": "alastramento da peste bubônica, provocado pela expansão comercial.",
+    "D": "afirmação da fraternidade mendicante, estimulada pela reforma espiritual.",
+    "E": "criação das faculdades de medicina, promovida pelo renascimento urbano."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os hospitalários eram uma ordem religiosa ligada a Jerusalém e às peregrinações à Terra Santa, que também passou a ter função militar. Esse tipo de ordem (como os templários) é o <strong>monasticismo guerreiro, ocasionado pelas cruzadas</strong>. Alternativa <strong>A</strong>.</p><p>As ordens mendicantes (D) surgiram depois e não eram militares; o texto não fala de peste ou universidades (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ordens militares",
+    "cruzadas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "Sociologia",
+   "assunto": "Antropologia",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p class=\"apoio\">A tribo não possui um rei, mas um chefe que não é chefe de Estado. O que significa isso? Simplesmente que o chefe não dispõe de nenhuma autoridade, de nenhum poder de coerção, de nenhum meio de dar uma ordem. O chefe não é um comandante, as pessoas da tribo não têm nenhum dever de obediência. O espaço da chefia não é o lugar do poder. Essencialmente encarregado de eliminar conflitos que podem surgir entre indivíduos, famílias e linhagens, o chefe só dispõe, para restabelecer a ordem e a concórdia, do prestígio que lhe reconhece a sociedade. Mas evidentemente prestígio não significa poder, e os meios que o chefe detém para realizar sua tarefa de pacificador limitam-se ao uso exclusivo da palavra.</p><p class=\"fonte\">CLASTRES, P. <em>A sociedade contra o Estado</em>. Rio de Janeiro: Francisco Alves, 1982 (adaptado).</p><p>O modelo político das sociedades discutidas no texto contrasta com o do Estado liberal burguês porque se baseia em:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Imposição ideológica e normas hierárquicas.",
+    "B": "Determinação divina e soberania monárquica.",
+    "C": "Intervenção consensual e autonomia comunitária.",
+    "D": "Mediação jurídica e regras contratualistas.",
+    "E": "Gestão coletiva e obrigações tributárias."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Clastres mostra que o chefe da tribo não tem poder de coerção nem dá ordens: ele só tenta resolver conflitos pela palavra e pelo prestígio, e a comunidade decide. É o oposto do Estado, que detém o monopólio da força: o modelo se baseia em <strong>intervenção consensual e autonomia comunitária</strong>. Alternativa <strong>C</strong>.</p><p>Imposição, hierarquia, tributos e contratos (A, D e E) são marcas do Estado, não da tribo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Clastres",
+    "sociedades sem Estado"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "Filosofia",
+   "assunto": "Natureza da filosofia",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p class=\"apoio\">O filósofo reconhece-se pela posse inseparável do gosto da evidência e do sentido da ambiguidade. Quando se limita a suportar a ambiguidade, esta se chama equívoco. Sempre aconteceu que, mesmo aqueles que pretenderam construir uma filosofia absolutamente positiva, só conseguiram ser filósofos na medida em que, simultaneamente, se recusaram o direito de se instalar no saber absoluto. O que caracteriza o filósofo é o movimento que leva incessantemente do saber à ignorância, da ignorância ao saber, e um certo repouso neste movimento.</p><p class=\"fonte\">MERLEAU-PONTY, M. <em>Elogio da filosofia</em>. Lisboa: Guimarães, 1998 (adaptado).</p><p>O texto apresenta um entendimento acerca dos elementos constitutivos da atividade do filósofo, que se caracteriza por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reunir os antagonismos das opiniões ao método dialético.",
+    "B": "ajustar a clareza do conhecimento ao inatismo das ideias.",
+    "C": "associar a certeza do intelecto à imutabilidade da verdade.",
+    "D": "conciliar o rigor da investigação à inquietude do questionamento.",
+    "E": "compatibilizar as estruturas do pensamento aos princípios fundamentais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Merleau-Ponty diz que o filósofo une o “gosto da evidência” e o “sentido da ambiguidade”, e que nunca se instala no saber absoluto: está sempre em movimento, questionando. A atividade filosófica consiste em <strong>conciliar o rigor da investigação à inquietude do questionamento</strong>. Alternativa <strong>D</strong>.</p><p>O texto rejeita a certeza imutável (C) e não fala de inatismo ou dialética (A e B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Merleau-Ponty",
+    "atitude filosófica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "História",
+   "assunto": "Mundo contemporâneo",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Figura 1</strong></p>[[fig:1]]<p class=\"fonte\">Disponível em: www.thehenryford.org. Acesso em: 3 maio 2018.</p><p class=\"apoio\"><strong>Figura 2</strong></p>[[fig:2]]<p class=\"fonte\">Disponível em: www.abc.net.au. Acesso em: 3 maio 2018.</p><p>Esse ônibus relaciona-se ao ato praticado, em 1955, por Rosa Parks, apresentada em fotografia ao lado de Martin Luther King. O veículo alcançou o estatuto de obra museológica por simbolizar o(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-humanas/q50a.webp",
+     "alt": "Figura 1: foto de um antigo ônibus urbano exposto num museu, com o letreiro “Cleveland Ave”."
+    },
+    {
+     "src": "assets/img/enem-2018-humanas/q50b.webp",
+     "alt": "Figura 2: foto em preto e branco de Rosa Parks sorrindo, de óculos, com Martin Luther King ao fundo."
+    }
+   ],
+   "alternativas": {
+    "A": "impacto do medo da corrida armamentista.",
+    "B": "democratização do acesso à escola pública.",
+    "C": "preconceito de gênero no transporte coletivo.",
+    "D": "deflagração do movimento por igualdade civil.",
+    "E": "eclosão da rebeldia no comportamento juvenil."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Rosa Parks se recusou, em 1955, a ceder o lugar a um branco num ônibus de Montgomery, onde vigorava a segregação racial. Sua prisão levou ao boicote dos ônibus liderado por Martin Luther King. O veículo virou peça de museu por simbolizar a <strong>deflagração do movimento por igualdade civil</strong>. Alternativa <strong>D</strong>.</p><p>A questão era racial, não de gênero (C); a corrida armamentista e a rebeldia juvenil (A e E) não têm relação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Rosa Parks",
+    "direitos civis"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "Filosofia",
+   "assunto": "Filosofia medieval",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\">Desde que tenhamos compreendido o significado da palavra “Deus”, sabemos, de imediato, que Deus existe. Com efeito, essa palavra designa uma coisa de tal ordem que não podemos conceber nada que lhe seja maior. Ora, o que existe na realidade e no pensamento é maior do que o que existe apenas no pensamento. Donde se segue que o objeto designado pela palavra “Deus”, que existe no pensamento, desde que se entenda essa palavra, também existe na realidade. Por conseguinte, a existência de Deus é evidente.</p><p class=\"fonte\">TOMÁS DE AQUINO. <em>Suma teológica</em>. Rio de Janeiro: Loyola, 2002.</p><p>O texto apresenta uma elaboração teórica de Tomás de Aquino caracterizada por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reiterar a ortodoxia religiosa contra os heréticos.",
+    "B": "sustentar racionalmente doutrina alicerçada na fé.",
+    "C": "explicar as virtudes teologais pela demonstração.",
+    "D": "flexibilizar a interpretação oficial dos textos sagrados.",
+    "E": "justificar pragmaticamente crença livre de dogmas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Tomás expõe o argumento de que, entendida a palavra “Deus” (aquilo de que não se pode conceber nada maior), conclui-se que Deus existe também na realidade. É a tentativa de mostrar pela razão uma verdade da fé: <strong>sustentar racionalmente doutrina alicerçada na fé</strong>. Alternativa <strong>B</strong>.</p><p>O texto não ataca hereges (A) nem afasta os dogmas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escolástica",
+    "fé e razão"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "Filosofia",
+   "assunto": "Filosofia política",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Tudo aquilo que é válido para um tempo de guerra, em que todo homem é inimigo de todo homem, é válido também para o tempo durante o qual os homens vivem sem outra segurança senão a que lhes pode ser oferecida por sua própria força e invenção.</p><p class=\"fonte\">HOBBES, T. <em>Leviatã</em>. São Paulo: Abril Cultural, 1983.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Não vamos concluir, com Hobbes que, por não ter nenhuma ideia de bondade, o homem seja naturalmente mau. Esse autor deveria dizer que, sendo o estado de natureza aquele em que o cuidado de nossa conservação é menos prejudicial à dos outros, esse estado era, por conseguinte, o mais próprio à paz e o mais conveniente ao gênero humano.</p><p class=\"fonte\">ROUSSEAU, J.-J. Discurso sobre a origem e o fundamento da desigualdade entre os homens. São Paulo: Martins Fontes, 1993 (adaptado).</p><p>Os trechos apresentam divergências conceituais entre autores que sustentam um entendimento segundo o qual a igualdade entre os homens se dá em razão de uma</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "predisposição ao conhecimento.",
+    "B": "submissão ao transcendente.",
+    "C": "tradição epistemológica.",
+    "D": "condição original.",
+    "E": "vocação política."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Hobbes vê o estado de natureza como guerra de todos contra todos; Rousseau o vê como o mais pacífico. Divergem sobre como ele é, mas ambos partem da ideia de que os homens são iguais no estado de natureza, antes da sociedade: a igualdade se dá por uma <strong>condição original</strong>. Alternativa <strong>D</strong>.</p><p>Nenhum dos dois fundamenta a igualdade na religião (B) ou na política (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "contratualismo",
+    "estado de natureza"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\">Foi-se o tempo em que era possível mostrar um mundo econômico organizado em camadas bem definidas, onde grandes centros urbanos se ligavam, por si próprios, a economias adjacentes “lentas”, com o ritmo muito mais rápido do comércio e das finanças de longo alcance. Hoje tudo ocorre como se essas camadas sobrepostas estivessem mescladas e interpermeadas. Interdependências de curto e longo alcance não podem mais ser separadas umas das outras.</p><p class=\"fonte\">BRENNER, N. A globalização como reterritorialização. Cadernos Metrópole, n. 24, jul.-dez. 2010 (adaptado).</p><p>A maior complexidade dos espaços urbanos contemporâneos ressaltada no texto explica-se pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "expansão de áreas metropolitanas.",
+    "B": "emancipação de novos municípios.",
+    "C": "consolidação de domínios jurídicos.",
+    "D": "articulação de redes multiescalares.",
+    "E": "redefinição de regiões administrativas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto diz que as camadas da economia (local, regional, global) estão “mescladas e interpermeadas”, e que as interdependências de curto e longo alcance não se separam mais. A complexidade das cidades se explica pela <strong>articulação de redes multiescalares</strong>. Alternativa <strong>D</strong>.</p><p>Não se trata de novos municípios ou de divisões administrativas (B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "globalização",
+    "redes urbanas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">E pois que em outra cousa nesta parte me não posso vingar do demônio, admoesto da parte da cruz de Cristo Jesus a todos que este lugar lerem, que deem a esta terra o nome que com tanta solenidade lhe foi posto, sob pena de a mesma cruz que nos há de ser mostrada no dia final, os acusar de mais devotos do pau-brasil que dela.</p><p class=\"fonte\">BARROS, J. In: SOUZA, L. M. <em>Inferno atlântico</em>: demonologia e colonização: séculos XVI-XVIII. São Paulo: Cia. das Letras, 1993.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">E deste modo se hão os povoadores, os quais, por mais arraigados que na terra estejam e mais ricos que sejam, tudo pretendem levar a Portugal, e, se as fazendas e bens que possuem souberam falar, também lhes houveram de ensinar a dizer como os papagaios, aos quais a primeira coisa que ensinam é: papagaio real para Portugal, porque tudo querem para lá.</p><p class=\"fonte\">SALVADOR, F. V. In: SOUZA, L. M. (Org.). <em>História da vida privada no Brasil</em>: cotidiano e vida privada na América portuguesa. São Paulo: Cia. das Letras, 1997.</p><p>As críticas desses cronistas ao processo de colonização portuguesa na América estavam relacionadas à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "utilização do trabalho escravo.",
+    "B": "implantação de polos urbanos.",
+    "C": "devastação de áreas naturais.",
+    "D": "ocupação de terras indígenas.",
+    "E": "expropriação de riquezas locais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>João de Barros lamenta que a terra seja chamada pelo nome do pau-brasil, e não da Santa Cruz; frei Vicente do Salvador diz que os colonos “tudo pretendem levar a Portugal”. Os dois criticam uma colonização voltada a tirar as riquezas da terra: a <strong>expropriação de riquezas locais</strong>. Alternativa <strong>E</strong>.</p><p>Os textos não tratam de escravidão, cidades ou terras indígenas (A, B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "exploração colonial",
+    "cronistas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 10,
+   "materia": "História",
+   "assunto": "Guerra Fria",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p class=\"apoio\">Os soviéticos tinham chegado a Cuba muito cedo na década de 1960, esgueirando-se pela fresta aberta pela imediata hostilidade norte-americana em relação ao processo social revolucionário. Durante três décadas os soviéticos mantiveram sua presença em Cuba com bases e ajuda militar, mas, sobretudo, com todo o apoio econômico que, como saberíamos anos mais tarde, mantinha o país à tona, embora nos deixasse em dívida com os irmãos soviéticos – e depois com seus herdeiros russos – por cifras que chegavam a US$ 32 bilhões. Ou seja, o que era oferecido em nome da solidariedade socialista tinha um preço definido.</p><p class=\"fonte\">PADURA, L. Cuba e os russos. Folha de São Paulo, 19 jul. 2014 (adaptado).</p><p>O texto indica que durante a Guerra Fria as relações internas em um mesmo bloco foram marcadas pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "busca da neutralidade política.",
+    "B": "estímulo à competição comercial.",
+    "C": "subordinação à potência hegemônica.",
+    "D": "elasticidade das fronteiras geográficas.",
+    "E": "compartilhamento de pesquisas científicas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Padura conta que a ajuda soviética mantinha Cuba “à tona”, mas a deixava em dívida, e que a “solidariedade socialista tinha um preço definido”. Dentro do bloco socialista, a relação era de dependência: <strong>subordinação à potência hegemônica</strong>. Alternativa <strong>C</strong>.</p><p>Cuba não era neutra (A) e não competia comercialmente com a URSS (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Cuba",
+    "URSS"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "Geografia",
+   "assunto": "Cartografia",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p>Anamorfose é a transformação cartográfica espacial em que a forma dos objetos é distorcida, de forma a realçar o tema. A área das unidades espaciais às quais o tema se refere é alterada de forma proporcional ao respectivo valor.</p><p class=\"fonte\">GASPAR, A. J. Dicionário de ciências cartográficas. Lisboa: Lidel, 2004.</p><p>A técnica descrita foi aplicada na seguinte forma de representação do espaço:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-humanas/q56a.webp",
+     "alt": "Bloco-diagrama de um terreno com árvores."
+    },
+    {
+     "src": "assets/img/enem-2018-humanas/q56b.webp",
+     "alt": "Esquema de curvas de nível: um relevo com dois morros (456 m e 432 m) cortado por planos horizontais a 400, 420 e 440 m, projetados no plano de baixo."
+    },
+    {
+     "src": "assets/img/enem-2018-humanas/q56c.webp",
+     "alt": "Mapa das Américas em blocos com áreas distorcidas: Estados Unidos muito grandes, Canadá reduzido a uma faixa no alto, México, Brasil e outros países em tamanhos proporcionais a um dado, não ao território."
+    },
+    {
+     "src": "assets/img/enem-2018-humanas/q56d.webp",
+     "alt": "Perfil de vegetação: uma faixa de árvores ao longo de um terreno que sobe à direita."
+    },
+    {
+     "src": "assets/img/enem-2018-humanas/q56e.webp",
+     "alt": "Mapa de ruas de um centro de cidade em perspectiva, com uma linha marcando um trajeto."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A anamorfose distorce a área de cada unidade de acordo com o valor representado. O mapa C mostra os países das Américas com tamanhos que não correspondem ao território (os Estados Unidos enormes, o Canadá reduzido a uma faixa), proporcionais a algum dado, como população ou PIB. Alternativa <strong>C</strong>.</p><p>A é um bloco-diagrama, B mostra curvas de nível, D é um perfil de vegetação e E é um mapa de ruas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anamorfose",
+    "representação cartográfica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 12,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p class=\"apoio\">A poetisa Emília Freitas subiu a um palanque, nervosa, pedindo desculpas por não possuir títulos nem conhecimentos, mas orgulhosa ofereceu a sua pena que “sem ser hábil, é, em compensação, guiada pelo poder da vontade”. Maria Tomásia pronunciava orações que levantavam os ouvintes. A escritora Francisca Clotilde arrebatava, declamando seus poemas. Aquelas “angélicas senhoras”, “heroínas da caridade”, levantavam dinheiro para comprar liberdades e usavam de seu entusiasmo a fim de convencer os donos de escravos a fazerem alforrias gratuitamente.</p><p class=\"fonte\">MIRANDA, A. Disponível em: www.opovoonline.com.br. Acesso em: 10 jun. 2015.</p><p>As práticas culturais narradas remetem, historicamente, ao movimento</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "feminista.",
+    "B": "sufragista.",
+    "C": "socialista.",
+    "D": "republicano.",
+    "E": "abolicionista."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As mulheres do Ceará do texto faziam discursos, declamavam poemas e arrecadavam dinheiro “para comprar liberdades”, isto é, alforrias de escravizados. As práticas remetem ao movimento <strong>abolicionista</strong> (o Ceará aboliu a escravidão em 1884). Alternativa <strong>E</strong>.</p><p>Embora seja protagonismo feminino, a causa não era o voto (B) nem os direitos da mulher (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "abolicionismo",
+    "Ceará"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 13,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p class=\"apoio\">A democracia que eles pretendem é a democracia dos privilégios, a democracia da intolerância e do ódio. A democracia que eles querem é para liquidar com a Petrobras, é a democracia dos monopólios, nacionais e internacionais, a democracia que pudesse lutar contra o povo. Ainda ontem eu afirmava que a democracia jamais poderia ser ameaçada pelo povo, quando o povo livremente vem para as praças – as praças que são do povo. Para as ruas – que são do povo.</p><p class=\"fonte\">Disponível em: www.revistadehistoria.com.br/secao/artigos/discurso-de-joao-goulart-no-comicio-da-central. Acesso em: 29 out. 2015.</p><p>Em um momento de radicalização política, a retórica no discurso do presidente João Goulart, proferido no comício da Central do Brasil, buscava justificar a necessidade de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "conter a abertura econômica para conseguir a adesão das elites.",
+    "B": "impedir a ingerência externa para garantir a conservação de direitos.",
+    "C": "regulamentar os meios de comunicação para coibir os partidos de oposição.",
+    "D": "aprovar os projetos reformistas para atender a mobilização de setores trabalhistas.",
+    "E": "incrementar o processo de desestatização para diminuir a pressão da opinião pública."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No comício da Central do Brasil (13 de março de 1964), Jango acusa os adversários de defenderem uma “democracia dos privilégios” e diz que o povo nas ruas não ameaça a democracia. O discurso buscava apoio para as reformas de base: <strong>aprovar os projetos reformistas para atender a mobilização de setores trabalhistas</strong>. Alternativa <strong>D</strong>.</p><p>Jango não queria privatizar (E) nem atrair as elites (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "João Goulart",
+    "reformas de base"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p class=\"apoio\">A rebelião luso-brasileira em Pernambuco começou a ser urdida em 1644 e explodiu em 13 de junho de 1645, dia de Santo Antônio. Uma das primeiras medidas de João Fernandes foi decretar nulas as dívidas que os rebeldes tinham com os holandeses. Houve grande adesão da “nobreza da terra”, entusiasmada com esta proclamação heroica.</p><p class=\"fonte\">VAINFAS, R. Guerra declarada e paz fingida na restauração portuguesa. Tempo, n. 27, 2009.</p><p>O desencadeamento dessa revolta na América portuguesa seiscentista foi o resultado do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fraqueza bélica dos protestantes batavos.",
+    "B": "comércio transatlântico da África ocidental.",
+    "C": "auxílio financeiro dos negociantes flamengos.",
+    "D": "diplomacia internacional dos Estados ibéricos.",
+    "E": "interesse econômico dos senhores de engenho."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Insurreição Pernambucana começou com uma medida que anulava as dívidas dos rebeldes com os holandeses, e a “nobreza da terra” aderiu com entusiasmo. Os senhores de engenho, endividados com a Companhia das Índias Ocidentais, viram vantagem na expulsão: o motor foi o <strong>interesse econômico dos senhores de engenho</strong>. Alternativa <strong>E</strong>.</p><p>Os holandeses não eram fracos militarmente (A), e o auxílio flamengo era justamente o que gerava as dívidas (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Insurreição Pernambucana",
+    "Brasil holandês"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "Geografia",
+   "assunto": "Migrações",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p class=\"apoio\">Em Beirute, no Líbano, quando perguntado sobre onde se encontram os refugiados sírios, a resposta do homem é imediata: “em todos os lugares e em lugar nenhum”. Andando ao acaso, não é raro ver, sob um prédio ou num canto de calçada, ao abrigo do vento, uma família refugiada em volta de uma refeição frugal posta sobre jornais como se fossem guardanapos. Também se vê de vez em quando uma tenda com a sigla ACNUR (Alto Comissariado das Nações Unidas para Refugiados), erguida em um dos raros terrenos vagos da capital.</p><p class=\"fonte\">JABER, H. Quem realmente acolhe os refugiados? <em>Le Monde Diplomatique Brasil</em>, out. 2015 (adaptado).</p><p>O cenário descrito aponta para uma crise humanitária que é explicada pelo processo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "migração massiva de pessoas atingidas por catástrofe natural.",
+    "B": "hibridização cultural de grupos caracterizados por homogeneidade social.",
+    "C": "desmobilização voluntária de militantes cooptados por seitas extremistas.",
+    "D": "peregrinação religiosa de fiéis orientados por lideranças fundamentalistas.",
+    "E": "desterritorialização forçada de populações afetadas por conflitos armados."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os refugiados sírios estão “em todos os lugares e em lugar nenhum” em Beirute, vivendo nas ruas. Eles fugiram da guerra civil na Síria: a crise é explicada pela <strong>desterritorialização forçada de populações afetadas por conflitos armados</strong>. Alternativa <strong>E</strong>.</p><p>Não se trata de catástrofe natural (A) nem de peregrinação religiosa (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "refugiados",
+    "Síria"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\"><strong>Programa do Partido Social Democrático (PSD)</strong><br><em>Capitais estrangeiros</em></p><p class=\"apoio\">É indispensável manter clima propício à entrada de capitais estrangeiros. A manutenção desse clima recomenda a adoção de normas disciplinadoras dos investimentos e suas rendas, visando reter no país a maior parcela possível dos lucros auferidos.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\"><strong>Programa da União Democrática Nacional (UDN)</strong><br><em>O capital</em></p><p class=\"apoio\">Apelar para o capital estrangeiro, necessário para os empreendimentos da reconstrução nacional e, sobretudo, para o aproveitamento das nossas reservas inexploradas, dando-lhe um tratamento equitativo e liberdade para a saída dos juros.</p><p class=\"fonte\">CHACON, V. <em>História dos partidos brasileiros</em>: discurso e práxis dos seus programas. Brasília: UnB, 1981 (adaptado).</p><p>Considerando as décadas de 1950 e 1960 no Brasil, os trechos dos programas do PSD e UDN convergiam na defesa da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "autonomia de atuação das multinacionais.",
+    "B": "descentralização da cobrança tributária.",
+    "C": "flexibilização das reservas cambiais.",
+    "D": "liberdade de remessa de ganhos.",
+    "E": "captação de recursos do exterior."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O PSD quer “manter clima propício à entrada de capitais estrangeiros”, com regras para reter lucros no país; a UDN quer “apelar para o capital estrangeiro”, com liberdade de saída dos juros. Divergem sobre a remessa de lucros, mas convergem na <strong>captação de recursos do exterior</strong>. Alternativa <strong>E</strong>.</p><p>A liberdade de remessa (D) é defendida só pela UDN.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "PSD e UDN",
+    "capital estrangeiro"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p class=\"apoio\">A situação demográfica de Israel é muito particular. Desde 1967, a esquerda sionista afirma que Israel deveria se desfazer rapidamente da Cisjordânia e da Faixa de Gaza, argumentando a partir de uma lógica demográfica aparentemente inexorável. Devido à taxa de nascimento árabe ser muito mais elevada, a anexação dos territórios palestinos, formal ou informal, acarretaria dentro de uma ou duas gerações uma maioria árabe “entre o rio e o mar”.</p><p class=\"fonte\">DEMANT, P. Israel: a crise próxima. História, n. 2, jul.-dez. 2014.</p><p>A preocupação apresentada no texto revela um aspecto da condução política desse Estado identificado ao(à)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "abdicação da interferência militar em conflito local.",
+    "B": "busca da preeminência étnica sobre o espaço nacional.",
+    "C": "admissão da participação proativa em blocos regionais.",
+    "D": "rompimento com os interesses geopolíticos das potências globais.",
+    "E": "compromisso com as resoluções emanadas dos organismos internacionais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A esquerda sionista quer devolver Cisjordânia e Gaza porque, com elas, os árabes logo seriam maioria entre o rio e o mar. A preocupação é manter os judeus como maioria no território: <strong>busca da preeminência étnica sobre o espaço nacional</strong>. Alternativa <strong>B</strong>.</p><p>O texto não fala de abandonar a ação militar (A) nem de blocos regionais (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Israel",
+    "questão palestina"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "Geografia",
+   "assunto": "Climatologia",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Trajetória de ciclones tropicais</strong></p>[[fig:1]]<p class=\"fonte\">Disponível em: http://globalwarmingart.com. Acesso em: 12 jul. 2015 (adaptado).</p><p>Qual característica do meio físico é condição necessária para a distribuição espacial do fenômeno representado?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-humanas/q63.webp",
+     "alt": "Mapa-múndi “Trajetória de ciclones tropicais”, com milhares de linhas brancas concentradas sobre os oceanos tropicais (Atlântico Norte, Pacífico e Índico), quase nenhuma perto do Equador e no Atlântico Sul."
+    }
+   ],
+   "alternativas": {
+    "A": "Cobertura vegetal com porte arbóreo.",
+    "B": "Barreiras orográficas com altitudes elevadas.",
+    "C": "Pressão atmosférica com diferença acentuada.",
+    "D": "Superfície continental com refletividade intensa.",
+    "E": "Correntes marinhas com direções convergentes."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O mapa mostra os ciclones tropicais sobre os oceanos das zonas tropicais. Esses sistemas se formam sobre águas quentes, onde o ar aquecido sobe e cria centros de baixa pressão muito intensos, cercados por pressão maior: a condição necessária é uma <strong>pressão atmosférica com diferença acentuada</strong>. Alternativa <strong>C</strong>.</p><p>Vegetação e superfícies continentais (A e D) não se aplicam a fenômenos que nascem no mar; montanhas os enfraquecem (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclones tropicais",
+    "baixa pressão"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p class=\"apoio\">Outra importante manifestação das crenças e tradições africanas na Colônia eram os objetos conhecidos como “bolsas de mandinga”. A insegurança tanto física como espiritual gerava uma necessidade generalizada de proteção: das catástrofes da natureza, das doenças, da má sorte, da violência dos núcleos urbanos, dos roubos, das brigas, dos malefícios de feiticeiros etc. Também para trazer sorte, dinheiro e até atrair mulheres, o costume era corrente nas primeiras décadas do século XVIII, envolvendo não apenas escravos, mas também homens brancos.</p><p class=\"fonte\">CALAINHO, D. B. Feitiços e feiticeiros. In: FIGUEIREDO, L. <em>História do Brasil para ocupados</em>. Rio de Janeiro: Casa da Palavra, 2013 (adaptado).</p><p>A prática histórico-cultural de matriz africana descrita no texto representava um(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "expressão do valor das festividades da população pobre.",
+    "B": "ferramenta para submeter os cativos ao trabalho forçado.",
+    "C": "estratégia de subversão do poder da monarquia portuguesa.",
+    "D": "elemento de conversão dos escravos ao catolicismo romano.",
+    "E": "instrumento para minimizar o sentimento de desamparo social."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As bolsas de mandinga eram amuletos que protegiam contra doenças, violência, roubos e feitiços, num mundo de grande insegurança, e eram usadas até por brancos. Representavam um <strong>instrumento para minimizar o sentimento de desamparo social</strong>. Alternativa <strong>E</strong>.</p><p>Eram práticas condenadas pela Igreja, não meio de conversão (D), nem de submissão ao trabalho (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "religiosidade afro-brasileira",
+    "bolsas de mandinga"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "Geografia",
+   "assunto": "Transportes",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "<p class=\"apoio\">Os portos sempre foram respostas ao comércio praticado em grande volume, que se dá via marítima, lacustre e fluvial, e sofreram adaptações, ou modernizações, de acordo com um conjunto de fatores que vão desde a sua localização privilegiada frente a extensas hinterlândias, passando por sua conectividade com modernas redes de transportes que garantam acessibilidade, associados, no atual momento, à tecnologia, que os transformam em pontas de lança de uma economia globalizada que comprime o tempo em nome da produtividade e da competitividade.</p><p class=\"fonte\">ROCHA NETO, J. M.; CRAVIDÃO, F. D. Portos no contexto do meio técnico. Mercator, n. 2, maio-ago. 2014 (adaptado).</p><p>Uma mudança que permitiu aos portos adequarem-se às novas necessidades comerciais apontadas no texto foi a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "intensificação do uso de contêineres.",
+    "B": "compactação das áreas de estocagem.",
+    "C": "burocratização dos serviços de alfândega.",
+    "D": "redução da profundidade dos atracadouros.",
+    "E": "superação da especialização dos cargueiros."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os portos modernos se tornaram “pontas de lança” da produtividade com tecnologia e conectividade às redes de transporte. A mudança decisiva foi a <strong>intensificação do uso de contêineres</strong>, que padronizou a carga e permitiu embarque rápido e integração com trens e caminhões. Alternativa <strong>A</strong>.</p><p>Burocracia e menor profundidade (C e D) atrapalhariam; os navios se especializaram ainda mais (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "contêineres",
+    "portos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "Filosofia",
+   "assunto": "Iluminismo",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p class=\"apoio\">O século XVIII é, por diversas razões, um século diferenciado. Razão e experimentação se aliavam no que se acreditava ser o verdadeiro caminho para o estabelecimento do conhecimento científico, por tanto tempo almejado. O fato, a análise e a indução passavam a ser parceiros fundamentais da razão. É ainda no século XVIII que o homem começa a tomar consciência de sua situação na história.</p><p class=\"fonte\">ODALIA, N. In: PINSKY, J.; PINSKY, C. B. <em>História da cidadania</em>. São Paulo: Contexto, 2003.</p><p>No ambiente cultural do Antigo Regime, a discussão filosófica mencionada no texto tinha como uma de suas características a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aproximação entre inovação e saberes antigos.",
+    "B": "conciliação entre revelação e metafísica platônica.",
+    "C": "vinculação entre escolástica e práticas de pesquisa.",
+    "D": "separação entre teologia e fundamentalismo religioso.",
+    "E": "contraposição entre clericalismo e liberdade de pensamento."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O século XVIII aliou razão e experiência e confiou no conhecimento humano. No Antigo Regime, isso se opôs à autoridade da Igreja sobre o saber: os iluministas defendiam a <strong>contraposição entre clericalismo e liberdade de pensamento</strong>. Alternativa <strong>E</strong>.</p><p>O Iluminismo rompeu com a escolástica (C) e com o apoio em saberes antigos (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Iluminismo",
+    "razão"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "Geografia",
+   "assunto": "Recursos hídricos",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: www.biologiasur.org. Acesso em: 4 jul. 2015 (adaptado).</p><p>A dinâmica hidrológica expressa no gráfico demonstra que o processo de urbanização promove a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-humanas/q67.webp",
+     "alt": "Gráfico de precipitação (barras, em mm) e vazão dos rios ao longo do tempo (h): a curva da vazão em áreas urbanizadas sobe logo após a chuva e atinge pico alto perto de 3 h; a curva tracejada das áreas não urbanizadas sobe devagar, tem pico menor perto de 6 h e desce mais lentamente."
+    }
+   ],
+   "alternativas": {
+    "A": "redução do volume dos rios.",
+    "B": "expansão do lençol freático.",
+    "C": "diminuição do índice de chuvas.",
+    "D": "retração do nível dos reservatórios.",
+    "E": "ampliação do escoamento superficial."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No gráfico, depois da chuva, a vazão do rio em área urbanizada sobe muito mais rápido e chega a um pico maior do que em área não urbanizada. Como o asfalto impermeabiliza o solo, a água não infiltra e corre direto para os rios: há <strong>ampliação do escoamento superficial</strong>, causa das enchentes. Alternativa <strong>E</strong>.</p><p>A urbanização reduz a infiltração, ao contrário de expandir o lençol (B), e não diminui a chuva (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "impermeabilização do solo",
+    "enchentes"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "História",
+   "assunto": "América colonial",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p class=\"apoio\">O encontro entre o Velho e o Novo Mundo, que a descoberta de Colombo tornou possível, é de um tipo muito particular: é uma guerra – ou a Conquista –, como se dizia então. E um mistério continua: o resultado do combate. Por que a vitória fulgurante, se os habitantes da América eram tão superiores em número aos adversários e lutaram no próprio solo? Se nos limitarmos à conquista do México – a mais espetacular, já que a civilização mexicana é a mais brilhante do mundo pré-colombiano – como explicar que Cortez, liderando centenas de homens, tenha conseguido tomar o reino de Montezuma, que dispunha de centenas de milhares de guerreiros?</p><p class=\"fonte\">TODOROV, T. <em>A conquista da América</em>. São Paulo: Martins Fontes, 1991 (adaptado).</p><p>No contexto da conquista, conforme análise apresentada no texto, uma estratégia para superar as disparidades levantadas foi</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "implantar as missões cristãs entre as comunidades submetidas.",
+    "B": "utilizar a superioridade física dos mercenários africanos.",
+    "C": "explorar as rivalidades existentes entre os povos nativos.",
+    "D": "introduzir vetores para a disseminação de doenças epidêmicas.",
+    "E": "comprar terras para o enfraquecimento das teocracias autóctones."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Todorov pergunta como Cortez, com poucas centenas de homens, venceu milhares de guerreiros astecas. Uma das respostas é que os espanhóis se aliaram a povos dominados pelos astecas, como os tlaxcaltecas: a estratégia foi <strong>explorar as rivalidades existentes entre os povos nativos</strong>. Alternativa <strong>C</strong>.</p><p>As epidemias (D) ajudaram, mas não foram uma estratégia planejada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conquista do México",
+    "Cortez"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "História",
+   "assunto": "Ditadura militar",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p class=\"apoio\">São Paulo, 10 de janeiro de 1979. Exmo. Sr. Presidente Ernesto Geisel. Considerando as instruções dadas por V. S. de que sejam negados os passaportes aos senhores Francisco Julião, Miguel Arraes, Leonel Brizola, Luis Prestes, Paulo Schilling, Gregório Bezerra, Márcio Moreira Alves e Paulo Freire.</p><p class=\"apoio\">Considerando que, desde que nasci, me identifico plenamente com a pele, a cor dos cabelos, a cultura, o sorriso, as aspirações, a história e o sangue destes oito senhores.</p><p class=\"apoio\">Considerando tudo isto, por imperativo de minha consciência, venho por meio desta devolver o passaporte que, negado a eles, me foi concedido pelos órgãos competentes de seu governo.</p><p class=\"fonte\">Carta do cartunista Henrique de Souza Filho, conhecido como Henfil. In: HENFIL. <em>Cartas da mãe</em>. Rio de Janeiro: Codecri, 1981 (adaptado).</p><p>No referido contexto histórico, a manifestação do cartunista Henfil expressava uma crítica ao(à)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "censura moral das produções culturais.",
+    "B": "limite do processo de distensão política.",
+    "C": "interferência militar de países estrangeiros.",
+    "D": "representação social das agremiações partidárias.",
+    "E": "impedimento de eleição das assembleias estaduais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em 1979, durante a “abertura lenta, gradual e segura”, o governo ainda negava passaportes a exilados como Brizola, Arraes, Prestes e Paulo Freire. Henfil devolveu o seu em protesto: a carta critica o <strong>limite do processo de distensão política</strong>, poucos meses antes da Lei da Anistia. Alternativa <strong>B</strong>.</p><p>A carta trata dos exilados, não de censura cultural (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Henfil",
+    "abertura política"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "Sociologia",
+   "assunto": "Cultura e consumo",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p class=\"apoio\">A primeira fase da dominação da economia sobre a vida social acarretou, no modo de definir toda realização humana, uma evidente degradação do ser para o ter. A fase atual, em que a vida social está totalmente tomada pelos resultados da economia, leva a um deslizamento generalizado do ter para o parecer, do qual todo ter efetivo deve extrair seu prestígio imediato e sua função última. Ao mesmo tempo, toda realidade individual tornou-se social, diretamente dependente da força social, moldada por ela.</p><p class=\"fonte\">DEBORD, G. <em>A sociedade do espetáculo</em>. Rio de Janeiro: Contraponto, 2015.</p><p>Uma manifestação contemporânea do fenômeno descrito no texto é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "valorização dos conhecimentos acumulados.",
+    "B": "exposição nos meios de comunicação.",
+    "C": "aprofundamento da vivência espiritual.",
+    "D": "fortalecimento das relações interpessoais.",
+    "E": "reconhecimento na esfera artística."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Debord diz que a vida social passou do “ser” para o “ter” e agora do “ter” para o “parecer”: vale o que aparece. Uma manifestação atual disso é a <strong>exposição nos meios de comunicação</strong>, como nas redes sociais, onde a imagem vale mais que a vida real. Alternativa <strong>B</strong>.</p><p>Conhecimento, espiritualidade e relações profundas (A, C e D) são o contrário do espetáculo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sociedade do espetáculo",
+    "Debord"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p class=\"apoio\">Os seus líderes terminaram presos e assassinados. A “marujada” rebelde foi inteiramente expulsa da esquadra. Num sentido histórico, porém, eles foram vitoriosos. A “chibata” e outros castigos físicos infamantes nunca mais foram oficialmente utilizados; a partir de então, os marinheiros – agora respeitados – teriam suas condições de vida melhoradas significativamente. Sem dúvida fizeram avançar a História.</p><p class=\"fonte\">MAESTRI, M. 1910: a revolta dos marinheiros – uma saga negra. São Paulo: Global, 1982.</p><p>A eclosão desse conflito foi resultado da tensão acumulada na Marinha do Brasil pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "engajamento de civis analfabetos após a emergência de guerras externas.",
+    "B": "insatisfação de militares positivistas após a consolidação da política dos governadores.",
+    "C": "rebaixamento de comandantes veteranos após a repressão a insurreições milenaristas.",
+    "D": "sublevação das classes populares do campo após a instituição do alistamento obrigatório.",
+    "E": "manutenção da mentalidade escravocrata da oficialidade após a queda do regime imperial."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Revolta da Chibata (1910) foi feita por marinheiros, em grande parte negros e pobres, contra os castigos físicos da Marinha. Mesmo depois da abolição e da República, os oficiais continuavam a tratá-los como escravos: a tensão vinha da <strong>manutenção da mentalidade escravocrata da oficialidade após a queda do regime imperial</strong>. Alternativa <strong>E</strong>.</p><p>A revolta não envolveu guerras externas (A), positivistas (B) ou o campo (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Revolta da Chibata",
+    "João Cândido"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 27,
+   "materia": "Geografia",
+   "assunto": "Amazônia",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p class=\"apoio\">Uma pesquisa realizada por Carolina Levis, especialista em ecologia do Instituto Nacional de Pesquisas da Amazônia, e publicada na revista <em>Science</em>, demonstra que as espécies vegetais domesticadas pelas civilizações pré-colombianas são as mais dominantes. “A domesticação de plantas na floresta começou há mais de 8 000 anos. Primeiro eram selecionadas as plantas com características que poderiam ser úteis ao homem e em um segundo momento era feita a propagação dessas espécies. Começaram a cultivá-las em pátios e jardins, por meio de um processo quase intuitivo de seleção”.</p><p class=\"fonte\">OLIVEIRA, J. Indígenas foram os primeiros a alterar o ecossistema da Amazônia. Disponível em: https://brasil.elpais.com. Acesso em: 11 dez. 2017 (adaptado).</p><p>O texto apresenta um novo olhar sobre a configuração da Floresta Amazônica por romper com a ideia de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "primazia de saberes locais.",
+    "B": "ausência de ação antrópica.",
+    "C": "insuficiência de recursos naturais.",
+    "D": "necessidade de manejo ambiental.",
+    "E": "predominância de práticas agropecuárias."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A pesquisa mostra que as espécies domesticadas pelos povos pré-colombianos dominam a floresta: a Amazônia foi moldada pelo manejo indígena por milhares de anos. Isso rompe com a ideia de uma floresta intocada, de <strong>ausência de ação antrópica</strong>. Alternativa <strong>B</strong>.</p><p>O texto valoriza, e não nega, os saberes locais (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "floresta cultural",
+    "povos indígenas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 28,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Quando um exército atravessa montanhas, florestas, zonas de precipícios, ou marcha ao longo de desfiladeiros, alagadiços ou pântanos, ou qualquer outro terreno onde a deslocação é árdua, está em terreno difícil. O terreno onde é apertado e a sua saída é tortuosa e onde uma pequena força inimiga pode atacar a minha, embora maior, é cercado.</p><p class=\"fonte\">TZU, S. <em>A arte da guerra</em>. São Paulo: Martin Claret, 2001.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">O objetivo principal era encontrar e matar Osama Bin Laden. Onde ele se esconde? Não podemos esquecer a dificuldade de ocupação do país, que possui um relevo montanhoso, cheio de cavernas, onde fica fácil, para quem está acostumado com esse relevo, esconder-se.</p><p class=\"fonte\">OLIVEIRA, M. G.; SANTOS, M. S. Ásia: uma visão histórica, política e econômica do continente. Rio de Janeiro: E-Papers, 2009 (adaptado).</p><p>As situações apresentadas atestam a importância da relação entre a topografia e o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "construção de vias terrestres.",
+    "B": "preservação do meio ambiente.",
+    "C": "emprego de armamentos sofisticados.",
+    "D": "intimidação contínua da população local.",
+    "E": "domínio cognitivo da configuração espacial."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Sun Tzu mostra que o terreno difícil favorece quem o conhece; o texto II diz que o relevo montanhoso e cheio de cavernas do Afeganistão facilitou a fuga de Bin Laden, “para quem está acostumado com esse relevo”. As duas situações mostram a importância do <strong>domínio cognitivo da configuração espacial</strong>. Alternativa <strong>E</strong>.</p><p>Armas sofisticadas (C) não bastaram justamente por causa do terreno.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "relevo",
+    "estratégia militar"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: http://cpdoc.fgv.br. Acesso em: 6 dez. 2017.</p><p>Essa imagem foi impressa em cartilha escolar durante a vigência do Estado Novo com o intuito de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-humanas/q74.webp",
+     "alt": "Ilustração de cartilha escolar: Getúlio Vargas, sorridente, segura o rosto de uma menina, ao lado de um menino; num quadro, um texto manuscrito chamado “Crianças!” fala em aprender, cultuar a pátria e amar o Brasil."
+    }
+   ],
+   "alternativas": {
+    "A": "destacar a sabedoria inata do líder governamental.",
+    "B": "atender a necessidade familiar de obediência infantil.",
+    "C": "promover o desenvolvimento consistente das atitudes solidárias.",
+    "D": "conquistar a aprovação política por meio do apelo carismático.",
+    "E": "estimular o interesse acadêmico por meio de exercícios intelectuais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A imagem mostra Getúlio Vargas sorrindo e acariciando crianças, com um texto que as chama a amar a pátria e o Brasil. A propaganda do Estado Novo, feita pelo DIP, associava Vargas à figura de pai: o objetivo era <strong>conquistar a aprovação política por meio do apelo carismático</strong>. Alternativa <strong>D</strong>.</p><p>A cartilha não estimula o estudo (E) nem a obediência familiar (B), mas a devoção ao líder.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Estado Novo",
+    "propaganda"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 30,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p class=\"apoio\">Os países industriais adotaram uma concepção diferente das relações familiares e do lugar da fecundidade na vida familiar e social. A preocupação de garantir uma transmissão integral das vantagens econômicas e sociais adquiridas tem como resultado uma ação voluntária de limitação do número de nascimentos.</p><p class=\"fonte\">GEORGE, P. <em>Panorama do mundo atual</em>. São Paulo: Difusão Europeia do Livro, 1968 (adaptado).</p><p>Em meados do século XX, o fenômeno social descrito contribuiu para o processo europeu de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "estabilização da pirâmide etária.",
+    "B": "conclusão da transição demográfica.",
+    "C": "contenção da entrada de imigrantes.",
+    "D": "elevação do crescimento vegetativo.",
+    "E": "formação de espaços superpovoados."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Nos países industriais, as famílias passaram a limitar o número de filhos para garantir mais recursos a cada um. Com natalidade e mortalidade baixas, a Europa chegou ao fim da transição demográfica: <strong>conclusão da transição demográfica</strong>. Alternativa <strong>B</strong>.</p><p>A limitação de nascimentos reduz o crescimento vegetativo (contra D) e envelhece a pirâmide (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transição demográfica",
+    "natalidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Código Penal dos Estados Unidos do Brasil, 1890</strong><br><em>Dos crimes contra a saúde pública</em></p><p class=\"apoio\">Art. 156. Exercer a medicina em qualquer dos seus ramos, a arte dentária ou a farmácia; praticar a homeopatia, a dosimetria, o hipnotismo ou magnetismo animal, sem estar habilitado segundo as leis e regulamentos.</p><p class=\"apoio\">Art. 158. Ministrar, ou simplesmente prescrever, como meio curativo para uso interno ou externo, e sob qualquer forma preparada, substância de qualquer dos reinos da natureza, fazendo, ou exercendo assim, o ofício denominado curandeiro.</p><p class=\"fonte\">Disponível em: http://legis.senado.gov.br. Acesso em: 21 dez. 2014 (adaptado).</p><p>No início da Primeira República, a legislação penal vigente evidenciava o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "negligência das religiões cristãs sobre as moléstias.",
+    "B": "desconhecimento das origens das crenças tradicionais.",
+    "C": "preferência da população pelos tratamentos alopáticos.",
+    "D": "abandono pela comunidade das práticas terapêuticas de magia.",
+    "E": "condenação pela ciência dos conhecimentos populares de cura."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O Código Penal de 1890 tornava crime praticar a medicina sem habilitação e exercer o ofício de curandeiro. A lei refletia o prestígio da medicina científica, que desqualificava as práticas tradicionais: a <strong>condenação pela ciência dos conhecimentos populares de cura</strong>. Alternativa <strong>E</strong>.</p><p>A população continuava a recorrer aos curandeiros (contra C e D), e por isso a lei os perseguia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "curandeirismo",
+    "medicina científica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "Geografia",
+   "assunto": "Solos",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p class=\"apoio\">A presunção de que a superfície das chapadas e chapadões representa uma velha peneplanície é corroborada pelo fato de que ela é coberta por acumulações superficiais, tais como massas de areia, camadas de cascalhos e seixos e pela ocorrência generalizada de concreções ferruginosas que formam uma crosta laterítica, denominada “canga”.</p><p class=\"fonte\">WEIBEL, L. Disponível em: http://biblioteca.ibge.gov.br. Acesso em: 8 jul. 2015 (adaptado).</p><p>Qual tipo climático favorece o processo de alteração do solo descrito no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Árido, com déficit hídrico.",
+    "B": "Subtropical, com baixas temperaturas.",
+    "C": "Temperado, com invernos frios e secos.",
+    "D": "Tropical, com sazonalidade das chuvas.",
+    "E": "Equatorial, com pluviosidade abundante."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A crosta laterítica (canga) se forma pela lixiviação intensa: na estação chuvosa, a água leva os elementos solúveis; na seca, o ferro e o alumínio se concentram e endurecem. Isso é favorecido pelo clima <strong>tropical, com sazonalidade das chuvas</strong>. Alternativa <strong>D</strong>.</p><p>Clima árido ou frio (A, B e C) não produz essa alteração; no equatorial, sem estação seca, a crosta não endurece.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "laterização",
+    "clima tropical"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p class=\"apoio\">O marco inicial das discussões parlamentares em torno do direito do voto feminino são os debates que antecederam a Constituição de 1824, que não trazia qualquer impedimento ao exercício dos direitos políticos por mulheres, mas, por outro lado, também não era explícita quanto à possibilidade desse exercício. Foi somente em 1932, dois anos antes de estabelecido o voto aos 18 anos, que as mulheres obtiveram o direito de votar, o que veio a se concretizar no ano seguinte. Isso ocorreu a partir da aprovação do Código Eleitoral de 1932.</p><p class=\"fonte\">Disponível em: http://tse.jusbrasil.com.br. Acesso em: 14 maio 2018.</p><p>Um dos fatores que contribuíram para a efetivação da medida mencionada no texto foi a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "superação da cultura patriarcal.",
+    "B": "influência de igrejas protestantes.",
+    "C": "pressão do governo revolucionário.",
+    "D": "fragilidade das oligarquias regionais.",
+    "E": "campanha de extensão da cidadania."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O voto feminino veio no Código Eleitoral de 1932, depois de anos de luta de movimentos como a Federação Brasileira pelo Progresso Feminino. Um fator foi a <strong>campanha de extensão da cidadania</strong> às mulheres. Alternativa <strong>E</strong>.</p><p>A cultura patriarcal não foi superada (A), e o direito não veio por imposição do governo sem pressão social (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "voto feminino",
+    "Código Eleitoral de 1932"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 34,
+   "materia": "Filosofia",
+   "assunto": "Filosofia helenística",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p class=\"apoio\">A quem não basta pouco, nada basta.</p><p class=\"fonte\">EPICURO. Os pensadores. São Paulo: Abril Cultural, 1985.</p><p>Remanescente do período helenístico, a máxima apresentada valoriza a seguinte virtude:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Esperança, tida como confiança no porvir.",
+    "B": "Justiça, interpretada como retidão de caráter.",
+    "C": "Temperança, marcada pelo domínio da vontade.",
+    "D": "Coragem, definida como fortitude na dificuldade.",
+    "E": "Prudência, caracterizada pelo correto uso da razão."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para Epicuro, a felicidade vem de satisfazer só os desejos naturais e necessários; quem não se contenta com pouco nunca estará satisfeito. A máxima valoriza a <strong>temperança, marcada pelo domínio da vontade</strong>, a moderação dos desejos. Alternativa <strong>C</strong>.</p><p>A frase não fala de justiça, coragem ou esperança (A, B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Epicuro",
+    "moderação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "Sociologia",
+   "assunto": "Desigualdade",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p class=\"apoio\">Em algumas línguas de Moçambique não existe a palavra “pobre”. O indivíduo é pobre quando não tem parentes. A pobreza é a solidão, a ruptura das relações familiares que, na sociedade rural, servem de apoio à sobrevivência. Os consultores internacionais, especialistas em elaborar relatórios sobre a miséria, talvez não tenham em conta o impacto dramático da destruição dos laços familiares e das relações de entreajuda. Nações inteiras estão tornando-se “órfãs”, e a mendicidade parece ser a única via de uma agonizante sobrevivência.</p><p class=\"fonte\">COUTO, M. <em>E se Obama fosse africano? & outras intervenções</em>. Portugal: Caminho, 2009 (adaptado).</p><p>Em uma leitura que extrapola a esfera econômica, o autor associa o acirramento da pobreza à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "afirmação das origens ancestrais.",
+    "B": "fragilização das redes de sociabilidade.",
+    "C": "padronização das políticas educacionais.",
+    "D": "fragmentação das propriedades agrícolas.",
+    "E": "globalização das tecnologias de comunicação."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Mia Couto diz que em algumas línguas de Moçambique ser pobre é não ter parentes: a pobreza é a solidão, a ruptura dos laços de ajuda. O autor associa o aumento da pobreza à <strong>fragilização das redes de sociabilidade</strong>. Alternativa <strong>B</strong>.</p><p>O texto vai além da economia e não fala de terras, educação ou tecnologia (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Mia Couto",
+    "pobreza"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">As fronteiras, ao mesmo tempo que se separam, unem e articulam, por elas passando discursos de legitimação da ordem social tanto quanto do conflito.</p><p class=\"fonte\">CUNHA, L. Terras lusitanas e gentes dos brasis: a nação e o seu retrato literário. Revista Ciências Sociais, n. 2, 2009.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">As últimas barreiras ao livre movimento do dinheiro e das mercadorias e informação que rendem dinheiro andam de mãos dadas com a pressão para cavar novos fossos e erigir novas muralhas que barrem o movimento daqueles que em consequência perdem, física ou espiritualmente, suas raízes.</p><p class=\"fonte\">BAUMAN, Z. <em>Globalização: as consequências humanas</em>. Rio de Janeiro: Jorge Zahar, 1999.</p><p>A ressignificação contemporânea da ideia de fronteira compreende a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "liberação da circulação de pessoas.",
+    "B": "preponderância dos limites naturais.",
+    "C": "supressão dos obstáculos aduaneiros.",
+    "D": "desvalorização da noção de nacionalismo.",
+    "E": "seletividade dos mecanismos segregadores."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Bauman mostra que as barreiras caem para o dinheiro e as mercadorias, mas se erguem novos muros contra as pessoas que perdem suas raízes, como migrantes. A fronteira atual é seletiva: a ressignificação compreende a <strong>seletividade dos mecanismos segregadores</strong>. Alternativa <strong>E</strong>.</p><p>A circulação das pessoas é restringida, não liberada (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fronteiras",
+    "Bauman"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "Geografia",
+   "assunto": "Climatologia",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Há mais de duas décadas, os cientistas e ambientalistas têm alertado para o fato de a água doce ser um recurso escasso em nosso planeta. Desde o começo de 2014, o Sudeste do Brasil adquiriu uma clara percepção dessa realidade em função da seca.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\"><strong>Dinâmicas atmosféricas no Brasil</strong></p><p class=\"apoio\"><em>Elementos relevantes ao transporte de umidade na América do Sul a leste dos Andes pelos Jatos de Baixos Níveis (JBN), Frentes Frias (FF) e transporte de umidade do Atlântico Sul, assim como a presença da Zona de Convergência do Atlântico Sul (ZCAS), para um verão normal e para o verão seco de 2014. “A” representa o centro da anomalia de alta pressão atmosférica.</em></p>[[fig:1]]<p class=\"fonte\">MARENGO, J. A. et al. A seca e a crise hídrica de 2014-2015 em São Paulo. Revista USP, n. 106, 2015 (adaptado).</p><p>De acordo com as informações apresentadas, a seca de 2014, no Sudeste, teve como causa natural o(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-humanas/q82.webp",
+     "alt": "Dois mapas da América do Sul: no verão normal, o fluxo de umidade da Amazônia (JBN) desce até o Sudeste, formando a ZCAS e solo úmido, com frentes frias chegando; no verão de 2014, um centro de alta pressão “A” sobre o Sudeste, com solo seco, desvia a umidade e as frentes frias."
+    }
+   ],
+   "alternativas": {
+    "A": "constituição de frentes quentes barrando as chuvas convectivas.",
+    "B": "formação de anticiclone impedindo a entrada de umidade.",
+    "C": "presença de nebulosidade na região de cordilheira.",
+    "D": "avanço de massas polares para o continente.",
+    "E": "baixa pressão atmosférica no litoral."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No verão normal, a umidade da Amazônia desce para o Sudeste (ZCAS). No verão de 2014, o esquema mostra um centro de alta pressão (“A”) sobre o Sudeste, que desviou a umidade e bloqueou as frentes frias. A causa natural foi a <strong>formação de anticiclone impedindo a entrada de umidade</strong>. Alternativa <strong>B</strong>.</p><p>O problema foi alta, e não baixa, pressão (E); as frentes frias não chegaram (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anticiclone",
+    "crise hídrica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 38,
+   "materia": "Filosofia",
+   "assunto": "Filosofia medieval",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p class=\"apoio\">Não é verdade que estão ainda cheios de velhice espiritual aqueles que nos dizem: “Que fazia Deus antes de criar o céu e a terra? Se estava ocioso e nada realizava”, dizem eles, “por que não ficou sempre assim no decurso dos séculos, abstendo-se, como antes, de toda ação? Se existiu em Deus um novo movimento, uma vontade nova para dar o ser a criaturas que nunca antes criara, como pode haver verdadeira eternidade, se n’Ele aparece uma vontade que antes não existia?”</p><p class=\"fonte\">AGOSTINHO. <em>Confissões</em>. São Paulo: Abril Cultural, 1984.</p><p>A questão da eternidade, tal como abordada pelo autor, é um exemplo da reflexão filosófica sobre a(s)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "essência da ética cristã.",
+    "B": "natureza universal da tradição.",
+    "C": "certezas inabaláveis da experiência.",
+    "D": "abrangência da compreensão humana.",
+    "E": "interpretações da realidade circundante. Verão de 2014"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Agostinho rebate quem pergunta o que Deus fazia antes de criar o mundo: a eternidade de Deus está fora do tempo e não pode ser pensada com as categorias humanas de “antes” e “depois”. A reflexão trata da <strong>abrangência da compreensão humana</strong>, dos limites do que podemos entender. Alternativa <strong>D</strong>.</p><p>O tema não é ética (A) nem tradição (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Agostinho",
+    "eternidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p class=\"apoio\">Rodrigo havia sido indicado pela oposição para fiscal duma das mesas eleitorais. Pôs o revólver na cintura, uma caixa de balas no bolso e encaminhou-se para seu posto. A chamada dos eleitores começou às sete da manhã. Plantados junto da porta, os capangas do Trindade ofereciam cédulas com o nome dos candidatos oficiais a todos os eleitores que entravam. Estes, em sua quase totalidade, tomavam docilmente dos papeluchos e depositavam-nos na urna, depois de assinar a autêntica. Os que se recusavam a isso tinham seus nomes acintosamente anotados.</p><p class=\"fonte\">VERISSIMO, E. <em>O tempo e o vento</em>. São Paulo: Globo, 2003 (adaptado).</p><p>Erico Verissimo tematiza em obra ficcional o seguinte aspecto característico da vida política durante a Primeira República:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Identificação forçada de homens analfabetos.",
+    "B": "Monitoramento legal dos pleitos legislativos.",
+    "C": "Repressão explícita ao exercício de direito.",
+    "D": "Propaganda direcionada à população do campo.",
+    "E": "Cerceamento policial dos operários sindicalizados."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No trecho, os capangas do candidato oficial distribuem cédulas e os eleitores votam “docilmente”; os que se recusam são anotados. É o voto de cabresto da Primeira República, em que o voto não era secreto: há <strong>repressão explícita ao exercício de direito</strong>. Alternativa <strong>C</strong>.</p><p>O texto não fala de analfabetos, de fiscalização legal ou de operários (A, B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coronelismo",
+    "voto de cabresto"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "História",
+   "assunto": "Mundo islâmico",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "<p class=\"apoio\">Então disse: “Este é o local onde construirei. Tudo pode chegar aqui pelo Eufrates, o Tigre e uma rede de canais. Só um lugar como este sustentará o exército e a população geral”. Assim ele traçou e destinou as verbas para a sua construção, e deitou o primeiro tijolo com sua própria mão, dizendo: “Em nome de Deus, e em louvor a Ele. Construí, e que Deus vos abençoe”.</p><p class=\"fonte\">AL-TABARI, M. <em>Uma história dos povos árabes</em>. São Paulo: Cia. das Letras, 1995 (adaptado).</p><p>A decisão do califa Al-Mansur (754-775) de construir Bagdá nesse local orientou-se pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "disponibilidade de rotas e terras férteis como base da dominação política.",
+    "B": "proximidade de áreas populosas como afirmação da superioridade bélica.",
+    "C": "submissão à hierarquia e à lei islâmica como controle do poder real.",
+    "D": "fuga da península arábica como afastamento dos conflitos sucessórios.",
+    "E": "ocupação de região fronteiriça como contenção do avanço mongol."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Al-Mansur escolheu o local de Bagdá porque, pelo Eufrates, pelo Tigre e pelos canais, “tudo pode chegar aqui”, e porque o lugar sustentaria o exército e a população. A decisão se orientou pela <strong>disponibilidade de rotas e terras férteis como base da dominação política</strong>. Alternativa <strong>A</strong>.</p><p>Os mongóis só chegaram séculos depois (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "califado abássida",
+    "Bagdá"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p class=\"apoio\">A agricultura ecológica e a produção orgânica de alimentos estão ganhando relevância em diferentes partes do mundo. No campo brasileiro, também acontece o mesmo. Impulsionado especialmente pela expansão da demanda de alimentos saudáveis, o setor cresce a cada ano, embora permaneça relativamente marginalizado na agenda de prioridades da política agrícola praticada no país.</p><p class=\"fonte\">AQUINO, J. R.; GAZOLLA, M.; SCHNEIDER, S. In: SAMBUICHI, R. H. R. et al. (Org.). A política nacional de agroecologia e produção orgânica no Brasil: uma trajetória de luta pelo desenvolvimento rural sustentável. Brasília: Ipea, 2017 (adaptado).</p><p>Que tipo de intervenção do poder público no espaço rural é capaz de reduzir a marginalização produtiva apresentada no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Subsidiar os cultivos de base familiar.",
+    "B": "Favorecer as práticas de fertilização química.",
+    "C": "Restringir o emprego de maquinário moderno.",
+    "D": "Controlar a expansão de sistemas de irrigação.",
+    "E": "Regulamentar o uso de sementes selecionadas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A agricultura orgânica cresce, mas fica à margem da política agrícola, voltada ao agronegócio. Ela é praticada sobretudo por pequenos agricultores: a intervenção que reduz essa marginalização é <strong>subsidiar os cultivos de base familiar</strong>. Alternativa <strong>A</strong>.</p><p>Fertilização química (B) contraria o modelo orgânico.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "agroecologia",
+    "agricultura familiar"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 42,
+   "materia": "História",
+   "assunto": "Cultura e gênero",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Tônico para a saúde da mulher. Disponível em: www.propagandashistoricas.com.br. Acesso em: 28 nov. 2017.</p><p>O anúncio publicitário da década de 1940 reforça os seguintes estereótipos atribuídos historicamente a uma suposta natureza feminina:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-humanas/q87.webp",
+     "alt": "Anúncio antigo com o título “Ella seria adorável… si não fosse doentia”: uma mulher reclinada numa poltrona e um frasco do tônico “A Saúde da Mulher”, com texto prometendo beleza e encanto aos olhos masculinos."
+    }
+   ],
+   "alternativas": {
+    "A": "Pudor inato e instinto maternal.",
+    "B": "Fragilidade física e necessidade de aceitação.",
+    "C": "Isolamento social e procura de autoconhecimento.",
+    "D": "Dependência econômica e desejo de ostentação.",
+    "E": "Mentalidade fútil e conduta hedonista."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O anúncio diz que a mulher “seria adorável se não fosse doentia” e oferece um tônico para lhe dar beleza e encanto “aos olhos masculinos”. Reforça os estereótipos da <strong>fragilidade física e necessidade de aceitação</strong>: a mulher seria naturalmente fraca e precisaria agradar aos homens. Alternativa <strong>B</strong>.</p><p>O anúncio não fala de maternidade, dinheiro ou futilidade (A, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estereótipos de gênero",
+    "publicidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 43,
+   "materia": "Geografia",
+   "assunto": "Recursos naturais",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">IBGE. <em>Produção da extração vegetal e da silvicultura</em>. Rio de Janeiro: IBGE, 2014 (adaptado).</p><p>Considerando as diferenças entre extrativismo vegetal e silvicultura, a variação das curvas do gráfico foi influenciada pela tendência de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-humanas/q88.webp",
+     "alt": "Gráfico de linhas “Participação percentual do extrativismo vegetal e da silvicultura no valor da produção primária florestal — Brasil — 1996-2014”: a silvicultura sobe de cerca de 40% para quase 80%, e o extrativismo vegetal cai de cerca de 60% para pouco mais de 20%."
+    }
+   ],
+   "alternativas": {
+    "A": "conservação do bioma nativo.",
+    "B": "estagnação do setor primário.",
+    "C": "utilização de madeira de reflorestamento.",
+    "D": "redução da produção de móveis.",
+    "E": "retração da indústria alimentícia."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No gráfico, a participação da silvicultura (florestas plantadas) sobe de cerca de 40% para quase 80%, e a do extrativismo cai de cerca de 60% para 20%. A indústria passou a depender da madeira plantada, de eucalipto e pinus: a <strong>utilização de madeira de reflorestamento</strong>. Alternativa <strong>C</strong>.</p><p>A queda do extrativismo não indica conservação (A) nem estagnação do setor (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "silvicultura",
+    "reflorestamento"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "Filosofia",
+   "assunto": "Filosofia da ciência",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p class=\"apoio\">No início da década de 1990, dois biólogos importantes, Redford e Robinson, produziram um modelo largamente aceito de “produção sustentável” que previa quantos indivíduos de cada espécie poderiam ser caçados de forma sustentável baseado nas suas taxas de reprodução. Os seringueiros do Alto Juruá tinham um modelo diferente: a quem lhes afirmava que estavam caçando acima do sustentável (dentro do modelo), eles diziam que não, que o nível da caça dependia da existência de áreas de refúgio em que ninguém caçava. Ora, esse acabou sendo o modelo batizado de “fonte-ralo” proposto dez anos após o primeiro por Novaro, Bodmer e o próprio Redford e que suplantou o modelo anterior.</p><p class=\"fonte\">CUNHA, M. C. Revista USP, n. 75, set.-nov. 2007.</p><p>No contexto da produção científica, a necessidade de reconstrução desse modelo, conforme exposto no texto, foi determinada pelo confronto com um(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "conclusão operacional obtida por lógica dedutiva.",
+    "B": "visão de mundo marcada por preconceitos morais.",
+    "C": "hábito social condicionado pela religiosidade popular.",
+    "D": "conhecimento empírico apropriado pelo senso comum.",
+    "E": "padrão de preservação construído por experimentação dirigida."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O modelo dos biólogos foi refeito depois que os seringueiros mostraram, pela experiência, que a caça dependia de áreas de refúgio onde não se caçava. O confronto foi com um <strong>conhecimento empírico apropriado pelo senso comum</strong>, o saber tradicional dos seringueiros. Alternativa <strong>D</strong>.</p><p>O saber dos seringueiros não era dedutivo (A) nem experimental controlado (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "saber tradicional",
+    "conhecimento científico"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "Filosofia",
+   "assunto": "Filosofia política",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p class=\"apoio\">Um dos teóricos da democracia moderna, Hans Kelsen, considera elemento essencial da democracia real (não da democracia ideal, que não existe em lugar algum) o método da seleção dos líderes, ou seja, a eleição. Exemplar, neste sentido, é a afirmação de um juiz da Corte Suprema dos Estados Unidos, por ocasião de uma eleição de 1902: “A cabine eleitoral é o templo das instituições americanas, onde cada um de nós é um sacerdote, ao qual é confiada a guarda da arca da aliança e cada um oficia do seu próprio altar”.</p><p class=\"fonte\">BOBBIO, N. <em>Teoria geral da política</em>. Rio de Janeiro: Elsevier, 2000 (adaptado).</p><p>As metáforas utilizadas no texto referem-se a uma concepção de democracia fundamentada no(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "justificação teísta do direito.",
+    "B": "rigidez da hierarquia de classe.",
+    "C": "ênfase formalista na administração.",
+    "D": "protagonismo do Executivo no poder.",
+    "E": "centralidade do indivíduo na sociedade."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O juiz compara a cabine eleitoral a um templo em que cada cidadão é um sacerdote, guardião da “arca da aliança”. As metáforas valorizam o voto individual como fundamento da democracia: a <strong>centralidade do indivíduo na sociedade</strong>. Alternativa <strong>E</strong>.</p><p>As imagens religiosas são só metáforas, não justificação teísta (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "democracia liberal",
+    "voto"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

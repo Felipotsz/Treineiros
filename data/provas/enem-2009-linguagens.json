@@ -1,0 +1,1240 @@
+{
+ "id": "enem-2009-linguagens",
+ "banca": "Enem",
+ "ano": 2009,
+ "titulo": "Enem 2009: Linguagens",
+ "fonte": "Inep",
+ "dataExame": "2009-12-06",
+ "duracaoMinutos": 150,
+ "area": "Linguagens",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Artes",
+   "assunto": "Artes visuais",
+   "origem": {
+    "numeroOriginal": 91
+   },
+   "enunciado": "<p class=\"apoio\">Os melhores críticos da cultura brasileira trataram-na sempre no plural, isto é, enfatizando a coexistência no Brasil de diversas culturas. Arthur Ramos distingue as culturas não europeias (indígenas, negras) das europeias (portuguesa, italiana, alemã etc.), e Darcy Ribeiro fala de diversos Brasis: crioulo, caboclo, sertanejo, caipira e de Brasis sulinos, a cada um deles correspondendo uma cultura específica.</p><p class=\"fonte\">MORAIS, F. <em>O Brasil na visão do artista: o país e sua cultura</em>. São Paulo: Sudameris, 2003.</p><p>Considerando a hipótese de Darcy Ribeiro de que há vários Brasis, a opção em que a obra mostrada representa a arte brasileira de origem negro-africana é:</p><p class=\"fonte\">Obras: A) Rubem Valentim. Disponível em: http://www.ocaixote.com.br. Acesso: em 9 jul. 2009.; B) Athos Bulcão. Disponível em: http://www.irbr.mre.gov.br. Acesso: em 9 jul. 2009.; C) Rubens Gerchman. Disponível em: http://www.itaucultural.org.br. Acesso em: 6 jul. 2009.; D) Victor Vassarely. Disponível em: http://www.masterworksfineart.com. Acesso em: 5 jul. 2009.; E) Gougon. Disponível em: http://www.ocaixote.com.br. Acesso em: 5 set. 2009.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q91a.webp",
+     "alt": "Obra de Rubem Valentim: emblemas geométricos em preto e cinza, que lembram ferramentas e símbolos de orixás, dispostos em fileiras sobre fundo branco."
+    },
+    {
+     "src": "assets/img/enem-2009-linguagens/q91b.webp",
+     "alt": "Obra de Athos Bulcão: painel de azulejos com padrão repetido de curvas entrelaçadas, cobrindo uma parede longa."
+    },
+    {
+     "src": "assets/img/enem-2009-linguagens/q91c.webp",
+     "alt": "Obra de Rubens Gerchman: composição pop com multidão de rostos dentro de um carro e placas com letras."
+    },
+    {
+     "src": "assets/img/enem-2009-linguagens/q91d.webp",
+     "alt": "Obra de Victor Vasarely: grade de quadrados em preto e branco que se deformam, criando ilusão de volume (op art)."
+    },
+    {
+     "src": "assets/img/enem-2009-linguagens/q91e.webp",
+     "alt": "Mosaico de pastilhas coloridas formando um rosto feminino de olhos grandes, em estilo clássico."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]] Rubem Valentim.",
+    "B": "[[fig:2]] Athos Bulcão.",
+    "C": "[[fig:3]] Rubens Gerchman.",
+    "D": "[[fig:4]] Victor Vassarely.",
+    "E": "[[fig:5]] Gougon."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Rubem Valentim criou emblemas inspirados em símbolos das religiões afro-brasileiras, como os oxês de Xangô e as ferramentas dos orixás. A obra A é a que representa a arte de origem negro-africana. Alternativa <strong>A</strong>.</p><p>Athos Bulcão (azulejos), Gerchman (pop), Vasarely (op art) e o mosaico de inspiração clássica não têm essa matriz.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "arte afro-brasileira",
+    "Rubem Valentim"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 2,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 92
+   },
+   "enunciado": "<p class=\"apoio\">Gerente – Boa tarde. Em que eu posso ajudá-lo?</p><p class=\"apoio\">Cliente – Estou interessado em financiamento para compra de veículo.</p><p class=\"apoio\">Gerente – Nós dispomos de várias modalidades de crédito. O senhor é nosso cliente?</p><p class=\"apoio\">Cliente – Sou Júlio César Fontoura, também sou funcionário do banco.</p><p class=\"apoio\">Gerente – Julinho, é você, cara? Aqui é a Helena! Cê tá em Brasília? Pensei que você inda tivesse na agência de Uberlândia! Passa aqui pra gente conversar com calma.</p><p class=\"fonte\">BORTONI-RICARDO, S. M. <em>Educação em língua materna</em>. São Paulo: Parábola, 2004 (adaptado).</p><p>Na representação escrita da conversa telefônica entre a gerente do banco e o cliente, observa-se que a maneira de falar da gerente foi alterada de repente devido</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "à adequação de sua fala à conversa com um amigo, caracterizada pela informalidade.",
+    "B": "à iniciativa do cliente em se apresentar como funcionário do banco.",
+    "C": "ao fato de ambos terem nascido em Uberlândia (Minas Gerais).",
+    "D": "à intimidade forçada pelo cliente ao fornecer seu nome completo.",
+    "E": "ao seu interesse profissional em financiar o veículo de Júlio."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A conversa começa formal (“O senhor é nosso cliente?”). Quando o cliente diz o nome e que é funcionário, a gerente reconhece um conhecido e passa a falar de modo informal (“Julinho, é você, cara?”, “Cê tá”, “pra gente”). Ela adequa a fala à conversa com um amigo. Alternativa <strong>A</strong>.</p><p>O que provoca a mudança é o reconhecimento, não o fato de ele ser funcionário (B) ou a origem dos dois (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "registro formal e informal",
+    "adequação"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 3,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 93
+   },
+   "enunciado": "<p>Analise as seguintes avaliações de possíveis resultados de um teste na Internet.</p>[[fig:1]]<p class=\"fonte\"><em>Veja</em>. 8 jul. 2009. p. 102 (adaptado).</p><p>Depreende-se, a partir desse conjunto de informações, que o teste que deu origem a esses resultados, além de estabelecer um perfil para o usuário de sites de relacionamento, apresenta preocupação com hábitos e propõe mudanças de comportamento direcionadas</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q93.webp",
+     "alt": "Quadro de resultado de um teste. À esquerda, “Resultado”: campos para o total de respostas a, b e c; em caso de empate, a pergunta “Quando alguém, na vida real, pede os seus contatos, você: a) dá o número do telefone e o endereço de e-mail; b) dá a URL da sua rede social; c) O que é URL?”. À direita, “Avaliação”: mais respostas a, “O pragmático – você consegue usar as redes sociais on-line como um complemento às amizades e à vida profissional sem que isso afete sua intimidade”; mais respostas b, “O fanático – sua presença na internet está predominando sobre sua vida real. Procure sair mais de casa e encontrar seus amigos pessoalmente”; mais respostas c, “O aprendiz – você é um novato nos sites de relacionamentos ou ainda não descobriu como usá-los inteiramente”. Fonte: Rita Khater, psicóloga e professora da PUC-Campinas."
+    }
+   ],
+   "alternativas": {
+    "A": "ao adolescente que acessa sites de entretenimento.",
+    "B": "ao profissional interessado em aperfeiçoamento tecnológico.",
+    "C": "à pessoa que usa os sites de relacionamento para complementar seu círculo de amizades.",
+    "D": "ao usuário que reserva mais tempo aos sites de relacionamento do que ao convívio pessoal com os amigos.",
+    "E": "ao leitor que se interessa em aprender sobre o funcionamento de diversos tipos de sites de relacionamento."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O perfil “b” (o fanático) recebe a recomendação: “Procure sair mais de casa e encontrar seus amigos pessoalmente”. O teste se preocupa com quem dedica mais tempo aos sites de relacionamento do que ao convívio pessoal. Alternativa <strong>D</strong>.</p><p>Usar os sites como complemento às amizades (C) é o perfil “a”, que não recebe nenhuma recomendação de mudança.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de teste",
+    "redes sociais"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 4,
+   "materia": "Artes",
+   "assunto": "Música",
+   "origem": {
+    "numeroOriginal": 94
+   },
+   "enunciado": "<p>A música pode ser definida como a combinação de sons ao longo do tempo. Cada produto final oriundo da infinidade de combinações possíveis será diferente, dependendo da escolha das notas, de suas durações, dos instrumentos utilizados, do estilo de música, da nacionalidade do compositor e do período em que as obras foram compostas.</p>[[fig:1]]<p class=\"fonte\">Figura 1 - http://images.quebarato.com.br/photos/big/2/D/15A12D_2.jpg. Figura 2 - http://ourinhos.prefeituramunicipal.net/dados/fotos/2009/07/07/normal. Figura 3 - http://www.edmontonculturalcapital.com/gallery/edjazzfestival/JazzQuartet.jpg. Figura 4 - http://www.filmica.com/jacintaescudos/archivos/Led-Zeppelin.jpg.</p><p>Das figuras que apresentam grupos musicais em ação, pode-se concluir que o(os) grupo(s) mostrado(s) na(s) figura(s)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q94.webp",
+     "alt": "Quatro fotografias numeradas. Figura 1: grupo de homens vestidos de branco tocando violões, cavaquinho e pandeiro. Figura 2: conjunto de câmara com violinos, viola e violoncelo, músicos sentados com partituras. Figura 3: quarteto de jazz com saxofone, piano, contrabaixo e bateria. Figura 4: banda de rock no palco, com guitarras e bateria."
+    }
+   ],
+   "alternativas": {
+    "A": "1 executa um gênero característico da música brasileira, conhecido como chorinho.",
+    "B": "2 executa um gênero característico da música clássica, cujo compositor mais conhecido é Tom Jobim.",
+    "C": "3 executa um gênero característico da música europeia, que tem como representantes Beethoven e Mozart.",
+    "D": "4 executa um tipo de música caracterizada pelos instrumentos acústicos, cuja intensidade e nível de ruído permanecem na faixa dos 30 aos 40 decibéis.",
+    "E": "1 a 4 apresentam um produto final bastante semelhante, uma vez que as possibilidades de combinações sonoras ao longo do tempo são limitadas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A figura 1 mostra um grupo com violões, cavaquinho e pandeiro, a formação típica do chorinho, gênero característico da música brasileira. Alternativa <strong>A</strong>.</p><p>A figura 2 é um conjunto de câmara (música erudita, que não é a de Tom Jobim); a 3 é um grupo de jazz, gênero americano; a 4 é uma banda de rock, com instrumentos elétricos e som alto.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gêneros musicais",
+    "chorinho"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 5,
+   "materia": "Artes",
+   "assunto": "Dança e teatro",
+   "origem": {
+    "numeroOriginal": 95
+   },
+   "enunciado": "<p class=\"apoio\">No programa do balé <em>Parade</em>, apresentado em 18 de maio de 1917, foi empregada publicamente, pela primeira vez, a palavra <em>sur-realisme</em>. Pablo Picasso desenhou o cenário e a indumentária, cujo efeito foi tão surpreendente que se sobrepôs à coreografia. A música de Erik Satie era uma mistura de jazz, música popular e sons reais tais como tiros de pistola, combinados com as imagens do balé de Charlie Chaplin, caubóis e vilões, mágica chinesa e Ragtime. Os tempos não eram propícios para receber a nova mensagem cênica demasiado provocativa devido ao repicar da máquina de escrever, aos zumbidos de sirene e dínamo e aos rumores de aeroplano previstos por Cocteau para a partitura de Satie. Já a ação coreográfica confirmava a tendência marcadamente teatral da gestualidade cênica, dada pela justaposição, colagem de ações isoladas seguindo um estímulo musical.</p><p class=\"fonte\">SILVA, S. M. O surrealismo e a dança. GUINSBURG, J.; LEIRNER (Org.). <em>O surrealismo</em>. São Paulo: Perspectiva, 2008 (adaptado).</p><p>As manifestações corporais na história das artes da cena muitas vezes demonstram as condições cotidianas de um determinado grupo social, como se pode observar na descrição acima do balé <em>Parade</em>, o qual reflete</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a falta de diversidade cultural na sua proposta estética.",
+    "B": "a alienação dos artistas em relação às tensões da Segunda Guerra Mundial.",
+    "C": "uma disputa cênica entre as linguagens das artes visuais, do figurino e da música.",
+    "D": "as inovações tecnológicas nas partes cênicas, musicais, coreográficas e de figurino.",
+    "E": "uma narrativa com encadeamentos claramente lógicos e lineares."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto descreve um balé com cenário e figurinos de Picasso, música que mistura jazz, sons de tiros, máquina de escrever, sirene e aviões, e uma coreografia feita de colagens de ações. Tudo isso reflete as inovações tecnológicas do começo do século XX transpostas para o cenário, a música, a coreografia e o figurino. Alternativa <strong>D</strong>.</p><p>O balé é de 1917, antes da Segunda Guerra (B), e a colagem é o oposto de uma narrativa linear (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "balé Parade",
+    "vanguardas"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 6,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 96
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Influenza A (Gripe Suína):</strong></p><p class=\"apoio\">Se você esteve ou manteve contato com pessoas da área de risco e apresenta os seguintes sintomas:</p><ul><li>Febre alta repentina e superior a 38 graus.</li><li>Tosse.</li><li>Dor de cabeça.</li><li>Dores musculares e nas articulações.</li><li>Dificuldade respiratória.</li></ul><p class=\"apoio\">Entre em contato imediatamente com o Disque Epidemiologia: <strong>0800-283-2255.</strong></p><p class=\"apoio\"><strong>Evite a contaminação:</strong></p><ul><li>Quando tossir ou espirrar, cubra sua boca e nariz com lenço descartável. Caso não o tenha utilize o antebraço. Se utilizar as mãos lave-as rapidamente com água e sabão.</li><li>O uso de máscaras é indicado para prevenir contaminações.</li></ul><p class=\"fonte\">BRASIL. Ministério da Saúde, 2009 (adaptado).</p><p>Os principais recursos utilizados para envolvimento e adesão do leitor à campanha institucional incluem</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o emprego de enumeração de itens e apresentação de títulos expressivos.",
+    "B": "o uso de orações subordinadas condicionais e temporais.",
+    "C": "o emprego de pronomes como “você” e “sua” e o uso do imperativo.",
+    "D": "a construção de figuras metafóricas e o uso de repetição.",
+    "E": "o fornecimento de número de telefone gratuito para contato."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A campanha fala diretamente com o leitor: “Se você esteve...”, “cubra sua boca”, “Entre em contato”, “lave-as”. Os pronomes “você” e “sua” e os verbos no imperativo envolvem o leitor e pedem que ele aja. Alternativa <strong>C</strong>.</p><p>A enumeração (A) organiza as informações, mas não é o que cria a adesão; o telefone (E) não é um recurso linguístico.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função apelativa",
+    "imperativo"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 7,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 97
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Influenza A (Gripe Suína):</strong></p><p class=\"apoio\">Se você esteve ou manteve contato com pessoas da área de risco e apresenta os seguintes sintomas:</p><ul><li>Febre alta repentina e superior a 38 graus.</li><li>Tosse.</li><li>Dor de cabeça.</li><li>Dores musculares e nas articulações.</li><li>Dificuldade respiratória.</li></ul><p class=\"apoio\">Entre em contato imediatamente com o Disque Epidemiologia: <strong>0800-283-2255.</strong></p><p class=\"apoio\"><strong>Evite a contaminação:</strong></p><ul><li>Quando tossir ou espirrar, cubra sua boca e nariz com lenço descartável. Caso não o tenha utilize o antebraço. Se utilizar as mãos lave-as rapidamente com água e sabão.</li><li>O uso de máscaras é indicado para prevenir contaminações.</li></ul><p class=\"fonte\">BRASIL. Ministério da Saúde, 2009 (adaptado).</p><p>O texto tem o objetivo de solucionar um problema social,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "descrevendo a situação do país em relação à gripe suína.",
+    "B": "alertando a população para o risco de morte pela Influenza A.",
+    "C": "informando a população sobre a iminência de uma pandemia de Influenza A.",
+    "D": "orientando a população sobre os sintomas da gripe suína e procedimentos para evitar a contaminação.",
+    "E": "convocando toda a população para se submeter a exames de detecção da gripe suína."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto lista os sintomas que exigem contato com o Disque Epidemiologia e dá instruções para evitar a contaminação (cobrir a boca, lavar as mãos, usar máscara). Ele orienta a população sobre sintomas e procedimentos. Alternativa <strong>D</strong>.</p><p>Não fala em risco de morte (B) nem convoca todos a fazer exames (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "campanha de saúde",
+    "gripe suína"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 8,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 98
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">LOBÃO. Disponível em: http://vagalume.uol.com.br. Acesso em: 14 ago. 2009 (adaptado).</p><p>coloquiais na seguinte passagem:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q98.webp",
+     "alt": "Letra da canção “Para o Mano Caetano”, de Lobão, com os versos numerados de três em três (1 a 16) e trechos omitidos. O eu lírico se dirige a um “doce bardo” e critica, com ironia, rimas rebuscadas e uma imagem idealizada do Brasil tropical. A letra mistura palavras eruditas, gírias, trocadilhos sonoros e expressões em espanhol e em inglês; uma nota de rodapé traduz “tease me” como “caçoe de mim, importune-me”."
+    }
+   ],
+   "alternativas": {
+    "A": "“Quando um doce bardo brada a toda brida” (v. 2)",
+    "B": "“Em velas pandas, suas esquisitas rimas?” (v. 3)",
+    "C": "“Que devora a voz do morto” (v. 9)",
+    "D": "“lobo-bolo//Tipo pra rimar com ouro de tolo? (v. 11-12)",
+    "E": "“Tease me, tease me outra vez” (v. 14)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em “lobo-bolo / Tipo pra rimar com ouro de tolo?”, o compositor brinca com o som das palavras (a inversão sonora lobo/bolo e a rima com “tolo”) e usa uma expressão coloquial, “tipo pra”. Os dois recursos aparecem juntos. Alternativa <strong>D</strong>.</p><p>“Brada a toda brida” (A) tem aliteração, mas vocabulário erudito; “tease me” (E) é estrangeirismo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Linguagem poética",
+    "recursos sonoros",
+    "coloquialismo"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 9,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 99
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Cárcere das almas</strong></p><p class=\"apoio\">Ah! Toda a alma num cárcere anda presa,<br>Soluçando nas trevas, entre as grades<br>Do calabouço olhando imensidades,<br>Mares, estrelas, tardes, natureza.</p><p class=\"apoio\">Tudo se veste de uma igual grandeza<br>Quando a alma entre grilhões as liberdades<br>Sonha e, sonhando, as imortalidades<br>Rasga no etéreo o Espaço da Pureza.</p><p class=\"apoio\">Ó almas presas, mudas e fechadas<br>Nas prisões colossais e abandonadas,<br>Da Dor no calabouço, atroz, funéreo!</p><p class=\"apoio\">Nesses silêncios solitários, graves,<br>que chaveiro do Céu possui as chaves<br>para abrir-vos as portas do Mistério?!</p><p class=\"fonte\">CRUZ E SOUSA, J. <em>Poesia completa</em>. Florianópolis: Fundação Catarinense de Cultura / Fundação Banco do Brasil, 1993.</p><p>Os elementos formais e temáticos relacionados ao contexto cultural do Simbolismo encontrados no poema <em>Cárcere das almas</em>, de Cruz e Sousa, são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a opção pela abordagem, em linguagem simples e direta, de temas filosóficos.",
+    "B": "a prevalência do lirismo amoroso e intimista em relação à temática nacionalista.",
+    "C": "o refinamento estético da forma poética e o tratamento metafísico de temas universais.",
+    "D": "a evidente preocupação do eu lírico com a realidade social expressa em imagens poéticas inovadoras.",
+    "E": "a liberdade formal da estrutura poética que dispensa a rima e a métrica tradicionais em favor de temas do cotidiano."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O soneto tem forma rigorosa (rimas, métrica e vocabulário raro) e trata de temas universais e metafísicos: a alma presa, o Mistério, o etéreo, a Dor. Refinamento formal e tema metafísico são marcas do Simbolismo. Alternativa <strong>C</strong>.</p><p>A linguagem não é simples (A), não há tema social (D) e a forma é fixa (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Simbolismo",
+    "Cruz e Sousa",
+    "soneto"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 10,
+   "materia": "Português",
+   "assunto": "Funções da linguagem",
+   "origem": {
+    "numeroOriginal": 100
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">XAVIER, C. <em>Quadrinho quadrado</em>. Disponível em: http://www.releituras.com. Acesso em: 5 jul. 2009.</p><p>Tendo em vista a segunda fala do personagem entrevistado, constata-se que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q100.webp",
+     "alt": "Tira em três quadros com o título “Borges falou e disse:”. No primeiro, um entrevistador com microfone pergunta a um senhor de óculos: “Por que o senhor publicou esse livro? Qual foi sua maior motivação?”. No segundo, o senhor responde, exaltado: “Motivação? Meu filho, um escritor publica um livro para parar de escrevê-lo!”. No terceiro, entre pilhas de livros, ele desabafa: “Eu não aguentava mais escrever e reescrever e revisar e acrescentar e suprimir e reescrever e consertar palavrinhas e revisar e reescrever...”."
+    }
+   ],
+   "alternativas": {
+    "A": "o entrevistado deseja convencer o jornalista a não publicar um livro.",
+    "B": "o principal objetivo do entrevistado é explicar o significado da palavra motivação.",
+    "C": "são utilizados diversos recursos da linguagem literária, tais como a metáfora e a metonímia.",
+    "D": "o entrevistado deseja informar de modo objetivo o jornalista sobre as etapas de produção de um livro.",
+    "E": "o principal objetivo do entrevistado é evidenciar seu sentimento com relação ao processo de produção de um livro."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na segunda fala, o escritor responde com exaltação que publica para “parar de escrevê-lo” e, no último quadro, desabafa sobre o cansaço de reescrever sem fim. O foco está no sentimento dele em relação ao processo de produção do livro (função emotiva). Alternativa <strong>E</strong>.</p><p>Ele não explica o sentido de “motivação” (B) nem descreve objetivamente as etapas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função emotiva",
+    "quadrinhos"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 11,
+   "materia": "Português",
+   "assunto": "Norma-padrão",
+   "origem": {
+    "numeroOriginal": 101
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">XAVIER, C. <em>Quadrinho quadrado</em>. Disponível em: http://www.releituras.com. Acesso em: 5 jul. 2009.</p><p>Quanto às variantes linguísticas presentes no texto, a norma padrão da língua portuguesa é rigorosamente obedecida por meio</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q100.webp",
+     "alt": "Tira em três quadros com o título “Borges falou e disse:”. No primeiro, um entrevistador com microfone pergunta a um senhor de óculos: “Por que o senhor publicou esse livro? Qual foi sua maior motivação?”. No segundo, o senhor responde, exaltado: “Motivação? Meu filho, um escritor publica um livro para parar de escrevê-lo!”. No terceiro, entre pilhas de livros, ele desabafa: “Eu não aguentava mais escrever e reescrever e revisar e acrescentar e suprimir e reescrever e consertar palavrinhas e revisar e reescrever...”."
+    }
+   ],
+   "alternativas": {
+    "A": "do emprego do pronome demonstrativo “esse” em “Por que o senhor publicou esse livro?”.",
+    "B": "do emprego do pronome pessoal oblíquo em “Meu filho, um escritor publica um livro para parar de escrevê-lo!”.",
+    "C": "do emprego do pronome possessivo “sua” em “Qual foi sua maior motivação?”.",
+    "D": "do emprego do vocativo “Meu filho”, que confere à fala distanciamento do interlocutor.",
+    "E": "da necessária repetição do conectivo no último quadrinho."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>O Inep anulou esta questão. Pela norma-padrão, mais de uma alternativa está correta: a ênclise em “escrevê-lo” (B) segue a regra, e o possessivo “sua” em “Qual foi sua maior motivação?” (C) concorda com o tratamento “o senhor”, que é de terceira pessoa. O uso de “esse” (A) para o livro do interlocutor também é aceito.</p><p>D e E estão erradas: o vocativo “Meu filho” aproxima, em vez de distanciar, e a repetição do “e” no último quadro é um recurso expressivo, não uma exigência da norma.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "norma-padrão",
+    "pronomes",
+    "anulada"
+   ],
+   "area": "Linguagens",
+   "anulacao": {
+    "fonte": "analise",
+    "motivo": "O Inep anulou a questão no gabarito oficial sem divulgar o motivo. Pela análise, mais de uma alternativa obedece à norma-padrão: a ênclise em “escrevê-lo” (B) e o possessivo “sua” com o tratamento “o senhor” (C) estão corretos, e o demonstrativo “esse” (A) também é aceitável."
+   }
+  },
+  {
+   "numero": 12,
+   "materia": "Artes",
+   "assunto": "Teatro",
+   "origem": {
+    "numeroOriginal": 102
+   },
+   "enunciado": "<p class=\"apoio\">Gênero dramático é aquele em que o artista usa como intermediária entre si e o público a representação. A palavra vem do grego <em>drao</em> (fazer) e quer dizer ação. A peça teatral é, pois, uma composição literária destinada à apresentação por atores em um palco, atuando e dialogando entre si. O texto dramático é complementado pela atuação dos atores no espetáculo teatral e possui uma estrutura específica, caracterizada: 1) pela presença de personagens que devem estar ligados com lógica uns aos outros e à ação; 2) pela ação dramática (trama, enredo), que é o conjunto de atos dramáticos, maneiras de ser e de agir das personagens encadeadas à unidade do efeito e segundo uma ordem composta de exposição, conflito, complicação, clímax e desfecho; 3) pela situação ou ambiente, que é o conjunto de circunstâncias físicas, sociais, espirituais em que se situa a ação; 4) pelo tema, ou seja, a ideia que o autor (dramaturgo) deseja expor, ou sua interpretação real por meio da representação.</p><p class=\"fonte\">COUTINHO, A. <em>Notas de teoria literária</em>. Rio de Janeiro: Civilização Brasileira, 1973 (adaptado).</p><p>Considerando o texto e analisando os elementos que constituem um espetáculo teatral, conclui-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a criação do espetáculo teatral apresenta-se como um fenômeno de ordem individual, pois não é possível sua concepção de forma coletiva.",
+    "B": "o cenário onde se desenrola a ação cênica é concebido e construído pelo cenógrafo de modo autônomo e independente do tema da peça e do trabalho interpretativo dos atores.",
+    "C": "o texto cênico pode originar-se dos mais variados gêneros textuais, como contos, lendas, romances, poesias, crônicas, notícias, imagens e fragmentos textuais, entre outros.",
+    "D": "o corpo do ator na cena tem pouca importância na comunicação teatral, visto que o mais importante é a expressão verbal, base da comunicação cênica em toda a trajetória do teatro até os dias atuais.",
+    "E": "a iluminação e o som de um espetáculo cênico independem do processo de produção/recepção do espetáculo teatral, já que se trata de linguagens artísticas diferentes, agregadas posteriormente à cena teatral."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que o texto dramático é completado pela atuação e fala em personagens, ação, ambiente e tema. Hoje o espetáculo teatral pode nascer de contos, lendas, poemas, notícias, imagens e outros gêneros, adaptados para a cena. Alternativa <strong>C</strong>.</p><p>O teatro é uma arte coletiva (A), em que cenário, luz e som dialogam com a peça (B, E) e o corpo do ator é essencial (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gênero dramático",
+    "espetáculo teatral"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 13,
+   "materia": "Educação Física",
+   "assunto": "Saúde e qualidade de vida",
+   "origem": {
+    "numeroOriginal": 103
+   },
+   "enunciado": "<p>Saúde, no modelo atual de qualidade de vida, é o resultado das condições de alimentação, habitação, educação, renda, trabalho, transporte, lazer, serviços médicos e acesso à atividade física regular. Quanto ao acesso à atividade física, um dos elementos essenciais é a aptidão física, entendida como a capacidade de a pessoa utilizar seu corpo — incluindo músculos, esqueleto, coração, enfim, todas as partes —, de forma eficiente em suas atividades cotidianas; logo, quando se avalia a saúde de uma pessoa, a aptidão física deve ser levada em conta. A partir desse contexto, considera-se que uma pessoa tem boa aptidão física quando</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "apresenta uma postura regular.",
+    "B": "pode se exercitar por períodos curtos de tempo.",
+    "C": "pode desenvolver as atividades físicas do dia-a-dia, independentemente de sua idade.",
+    "D": "pode executar suas atividades do dia a dia com vigor, atenção e uma fadiga de moderada a intensa.",
+    "E": "pode exercer atividades físicas no final do dia, mas suas reservas de energia são insuficientes para atividades intelectuais."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto define aptidão física como a capacidade de usar o corpo de forma eficiente nas atividades cotidianas. Tem boa aptidão quem consegue fazer as atividades físicas do dia a dia, em qualquer idade. Alternativa <strong>C</strong>.</p><p>Fadiga de moderada a intensa (D) indica baixa aptidão, e conseguir se exercitar só por pouco tempo (B) também.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aptidão física",
+    "saúde"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 14,
+   "materia": "Português",
+   "assunto": "Gêneros digitais",
+   "origem": {
+    "numeroOriginal": 104
+   },
+   "enunciado": "<p class=\"apoio\">Diferentemente do texto escrito, que em geral compele os leitores a lerem numa onda linear – da esquerda para a direita e de cima para baixo, na página impressa – hipertextos encorajam os leitores a moverem-se de um bloco de texto a outro, rapidamente e não sequencialmente. Considerando que o hipertexto oferece uma multiplicidade de caminhos a seguir, podendo ainda o leitor incorporar seus caminhos e suas decisões como novos caminhos, inserindo informações novas, o leitor-navegador passa a ter um papel mais ativo e uma oportunidade diferente da de um leitor de texto impresso. Dificilmente dois leitores de hipertextos farão os mesmos caminhos e tomarão as mesmas decisões.</p><p class=\"fonte\">MARCUSCHI, L. A. <em>Cognição, linguagem e práticas interacionais</em>. Rio: Lucerna, 2007.</p><p>No que diz respeito à relação entre o hipertexto e o conhecimento por ele produzido, o texto apresentado deixa claro que o hipertexto muda a noção tradicional de autoria, porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "é o leitor que constrói a versão final do texto.",
+    "B": "o autor detém o controle absoluto do que escreve.",
+    "C": "aclara os limites entre o leitor e o autor.",
+    "D": "propicia um evento textual-interativo em que apenas o autor é ativo.",
+    "E": "só o autor conhece o que eletronicamente se dispõe para o leitor."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No hipertexto, cada leitor escolhe seus caminhos, pode inserir informações e “dificilmente dois leitores farão os mesmos caminhos”. Assim, é o leitor que constrói a versão final do texto que lê, o que muda a noção tradicional de autoria. Alternativa <strong>A</strong>.</p><p>O texto diz o contrário de B, C e D: o leitor fica mais ativo e a fronteira entre autor e leitor se torna menos nítida.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hipertexto",
+    "autoria"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 15,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 105
+   },
+   "enunciado": "<p class=\"apoio\"><strong>La Vie en Rose</strong></p>[[fig:1]]<p class=\"fonte\">ITURRUSGARAI, A. La Vie en Rose. <em>Folha de S.Paulo</em>, 11 ago. 2007.</p><p>Os quadrinhos exemplificam que as Histórias em Quadrinhos constituem um gênero textual</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q105.webp",
+     "alt": "Tira “La Vie en Rose” em três quadros. No primeiro, um personagem avisa: “Olha quem vem lá... o HTML!”. No segundo, outro o cumprimenta: “Fala, HTML! Como vão as coisas?”, e ele responde com uma sequência de códigos de HTML. No terceiro, o primeiro personagem também fala em códigos, misturando a pergunta “Numa boa, e vocês?”."
+    }
+   ],
+   "alternativas": {
+    "A": "em que a imagem pouco contribui para facilitar a interpretação da mensagem contida no texto, como pode ser constatado no primeiro quadrinho.",
+    "B": "cuja linguagem se caracteriza por ser rápida e clara, que facilita a compreensão, como se percebe na fala do segundo quadrinho: “&lt;/DIV&gt; &lt;/SPAN&gt; &lt;BR CLEAR = ALL&gt; &lt; BR&gt; &lt;BR&gt; &lt;SCRIPT&gt;”.",
+    "C": "em que o uso de letras com espessuras diversas está ligado a sentimentos expressos pelos personagens, como pode ser percebido no último quadrinho.",
+    "D": "que possui em seu texto escrito características próximas a uma conversação face a face, como pode ser percebido no segundo quadrinho.",
+    "E": "que a localização casual dos balões nos quadrinhos expressa com clareza a sucessão cronológica da história, como pode ser percebido no segundo quadrinho."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No segundo quadrinho, o personagem cumprimenta (“Fala, HTML! Como vão as coisas?”) e o outro responde com códigos, como numa conversa ao vivo, com saudação e réplica. A tirinha imita uma conversação face a face. Alternativa <strong>D</strong>.</p><p>A imagem é essencial para entender a piada (A), e a fala em código HTML não é clara para o leitor comum (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "quadrinhos",
+    "oralidade"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 16,
+   "materia": "Português",
+   "assunto": "Tecnologias da informação",
+   "origem": {
+    "numeroOriginal": 106
+   },
+   "enunciado": "<p class=\"apoio\">A partir da metade do século XX, ocorreu um conjunto de transformações econômicas e sociais cuja dimensão é difícil de ser mensurada: a chamada explosão da informação. Embora essa expressão tenha surgido no contexto da informação científica e tecnológica, seu significado, hoje, em um contexto mais geral, atinge proporções gigantescas.</p><p class=\"apoio\">Por estabelecerem novas formas de pensamento e mesmo de lógica, a informática e a Internet vêm gerando impactos sociais e culturais importantes. A disseminação do microcomputador e a expansão da Internet vêm acelerando o processo de globalização tanto no sentido do mercado quanto no sentido das trocas simbólicas possíveis entre sociedades e culturas diferentes, o que tem provocado e acelerado o fenômeno de hibridização amplamente caracterizado como próprio da pós-modernidade.</p><p class=\"fonte\">FERNANDES, M. F.; PARÁ, T. A contribuição das novas tecnologias da informação na geração de conhecimento. Disponível em: http://www.coep.ufrj.br. Acesso em: 11 ago. 2009 (adaptado).</p><p>Considerando-se o novo contexto social e econômico aludido no texto apresentado, as novas tecnologias de informação e comunicação</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "desempenham importante papel, porque sem elas não seria possível registrar os acontecimentos históricos.",
+    "B": "facilitam os processos educacionais para ensino de tecnologia, mas não exercem influência nas ciências humanas.",
+    "C": "limitam-se a dar suporte aos meios de comunicação, facilitando sobretudo os trabalhos jornalísticos.",
+    "D": "contribuem para o desenvolvimento social, pois permitem o registro e a disseminação do conhecimento de forma mais democrática e interativa.",
+    "E": "estão em estágio experimental, particularmente na educação, área em que ainda não demonstraram potencial produtivo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto diz que a informática e a internet geram novas formas de pensamento e aceleram as trocas entre sociedades e culturas. Essas tecnologias contribuem para o desenvolvimento social porque registram e espalham o conhecimento de forma mais democrática e interativa. Alternativa <strong>D</strong>.</p><p>A história sempre foi registrada sem elas (A), e o texto fala de influência nas trocas culturais, não só na tecnologia (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "explosão da informação",
+    "globalização"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 17,
+   "materia": "Português",
+   "assunto": "Argumentação",
+   "origem": {
+    "numeroOriginal": 107
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto I</strong></p><p class=\"apoio\">É praticamente impossível imaginarmos nossas vidas sem o plástico. Ele está presente em embalagens de alimentos, bebidas e remédios, além de eletrodomésticos, automóveis etc. Esse uso ocorre devido à sua atoxicidade e à inércia, isto é: quando em contato com outras substâncias, o plástico não as contamina; ao contrário, protege o produto embalado. Outras duas grandes vantagens garantem o uso dos plásticos em larga escala: são leves, quase não alteram o peso do material embalado, e são 100% recicláveis, fato que, infelizmente, não é aproveitado, visto que, em todo o mundo, a percentagem de plástico reciclado, quando comparado ao total produzido, ainda é irrelevante.</p><p class=\"fonte\"><em>Revista Mãe Terra</em>. Minuano, ano I, n. 6 (adaptado).</p><p class=\"apoio\"><strong>Texto II</strong></p><p class=\"apoio\">Sacolas plásticas são leves e voam ao vento. Por isso, elas entopem esgotos e bueiros, causando enchentes. São encontradas até no estômago de tartarugas marinhas, baleias, focas e golfinhos, mortos por sufocamento.</p><p class=\"apoio\">Sacolas plásticas descartáveis são gratuitas para os consumidores, mas têm um custo incalculável para o meio ambiente.</p><p class=\"fonte\"><em>Veja</em>, 8 jul. 2009. Fragmentos de texto publicitário do Instituto Akatu pelo Consumo Consciente.</p><p>Em contraste com o texto I, no texto II são empregadas, predominantemente, estratégias argumentativas que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "atraem o leitor por meio de previsões para o futuro.",
+    "B": "apelam à emoção do leitor, mencionando a morte de animais.",
+    "C": "orientam o leitor a respeito dos modos de usar conscientemente as sacolas plásticas.",
+    "D": "intimidam o leitor com as nocivas consequências do uso indiscriminado de sacolas plásticas.",
+    "E": "recorrem à informação, por meio de constatações, para convencer o leitor a evitar o uso de sacolas plásticas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto II não faz previsões nem dá instruções: constata fatos (as sacolas entopem bueiros, causam enchentes, matam animais marinhos, têm custo ambiental) para convencer o leitor a evitá-las. Alternativa <strong>E</strong>.</p><p>Os animais mortos aparecem como fato informado, não como apelo emotivo central (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estratégias argumentativas",
+    "texto publicitário"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 18,
+   "materia": "Português",
+   "assunto": "Argumentação",
+   "origem": {
+    "numeroOriginal": 108
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto I</strong></p><p class=\"apoio\">É praticamente impossível imaginarmos nossas vidas sem o plástico. Ele está presente em embalagens de alimentos, bebidas e remédios, além de eletrodomésticos, automóveis etc. Esse uso ocorre devido à sua atoxicidade e à inércia, isto é: quando em contato com outras substâncias, o plástico não as contamina; ao contrário, protege o produto embalado. Outras duas grandes vantagens garantem o uso dos plásticos em larga escala: são leves, quase não alteram o peso do material embalado, e são 100% recicláveis, fato que, infelizmente, não é aproveitado, visto que, em todo o mundo, a percentagem de plástico reciclado, quando comparado ao total produzido, ainda é irrelevante.</p><p class=\"fonte\"><em>Revista Mãe Terra</em>. Minuano, ano I, n. 6 (adaptado).</p><p class=\"apoio\"><strong>Texto II</strong></p><p class=\"apoio\">Sacolas plásticas são leves e voam ao vento. Por isso, elas entopem esgotos e bueiros, causando enchentes. São encontradas até no estômago de tartarugas marinhas, baleias, focas e golfinhos, mortos por sufocamento.</p><p class=\"apoio\">Sacolas plásticas descartáveis são gratuitas para os consumidores, mas têm um custo incalculável para o meio ambiente.</p><p class=\"fonte\"><em>Veja</em>, 8 jul. 2009. Fragmentos de texto publicitário do Instituto Akatu pelo Consumo Consciente.</p><p>Na comparação dos textos, observa-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o texto I apresenta um alerta a respeito do efeito da reciclagem de materiais plásticos; o texto II justifica o uso desse material reciclado.",
+    "B": "o texto I tem como objetivo precípuo apresentar a versatilidade e as vantagens do uso do plástico na contemporaneidade; o texto II objetiva alertar os consumidores sobre os problemas ambientais decorrentes de embalagens plásticas não recicladas.",
+    "C": "o texto I expõe vantagens, sem qualquer ressalva, do uso do plástico; o texto II busca convencer o leitor a evitar o uso de embalagens plásticas.",
+    "D": "o texto I ilustra o posicionamento de fabricantes de embalagens plásticas, mostrando por que elas devem ser usadas; o texto II ilustra o posicionamento de consumidores comuns, que buscam praticidade e conforto.",
+    "E": "o texto I apresenta um alerta a respeito da possibilidade de contaminação de produtos orgânicos e industrializados decorrente do uso de plástico em suas embalagens; o texto II apresenta vantagens do consumo de sacolas plásticas: leves, descartáveis e gratuitas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto I destaca a versatilidade e as vantagens do plástico (atóxico, inerte, leve, reciclável), lamentando só que pouco se recicla. O texto II alerta para os danos ambientais das sacolas descartáveis. Alternativa <strong>B</strong>.</p><p>O texto I tem uma ressalva sobre a reciclagem, então não é “sem qualquer ressalva” (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comparação de textos",
+    "plástico"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 19,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 109
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">BROWNE, C. Hagar, o horrível. <em>O Globo</em>, Segundo Caderno. 20 fev. 2009.</p><p>A linguagem da tirinha revela</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q109.webp",
+     "alt": "Tira de Hagar em dois quadros. No primeiro, Hagar pergunta a Eddie Sortudo: “Você consertou o vazamento do barco?”, e ele responde: “Não!”. No segundo, com o barco afundando e os vikings com água até o pescoço, Eddie diz: “Pensei que você tinha consertado!”."
+    }
+   ],
+   "alternativas": {
+    "A": "o uso de expressões linguísticas e vocabulário próprios de épocas antigas.",
+    "B": "o uso de expressões linguísticas inseridas no registro mais formal da língua.",
+    "C": "o caráter coloquial expresso pelo uso do tempo verbal no segundo quadrinho.",
+    "D": "o uso de um vocabulário específico para situações comunicativas de emergência.",
+    "E": "a intenção comunicativa dos personagens: a de estabelecer a hierarquia entre eles."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No segundo quadrinho, a fala “Pensei que você tinha consertado” usa o mais-que-perfeito composto (“tinha consertado”), forma típica da fala do dia a dia, no lugar do mais-que-perfeito simples (“consertara”), mais formal. É o caráter coloquial do tempo verbal. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coloquialidade",
+    "tempos verbais"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 20,
+   "materia": "Português",
+   "assunto": "Tecnologias da informação",
+   "origem": {
+    "numeroOriginal": 110
+   },
+   "enunciado": "<p class=\"apoio\">O \"Portal Domínio Público\", lançado em novembro de 2004, propõe o compartilhamento de conhecimentos de forma equânime e gratuita, colocando à disposição de todos os usuários da Internet, uma biblioteca virtual que deverá constituir referência para professores, alunos, pesquisadores e para a população em geral. Esse portal constitui um ambiente virtual que permite a coleta, a integração, a preservação e o compartilhamento de conhecimentos, sendo seu principal objetivo o de promover o amplo acesso às obras literárias, artísticas e científicas (na forma de textos, sons, imagens e vídeos), já em domínio público ou que tenham a sua divulgação devidamente autorizada.</p><p class=\"fonte\">BRASIL. Ministério da Educação. Disponível em: http://www.dominiopublico.gov.br. Acesso em: 29 jul. 2009 (adaptado).</p><p>Considerando a função social das informações geradas nos sistemas de comunicação e informação, o ambiente virtual descrito no texto exemplifica</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a dependência das escolas públicas quanto ao uso de sistemas de informação.",
+    "B": "a ampliação do grau de interação entre as pessoas, a partir de tecnologia convencional.",
+    "C": "a democratização da informação, por meio da disponibilização de conteúdo cultural e científico à sociedade.",
+    "D": "a comercialização do acesso a diversas produções culturais nacionais e estrangeiras via tecnologia da informação e da comunicação.",
+    "E": "a produção de repertório cultural direcionado a acadêmicos e educadores."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O portal oferece, de graça e a todos, obras literárias, artísticas e científicas em domínio público ou autorizadas. Isso é democratização da informação. Alternativa <strong>C</strong>.</p><p>O acesso é gratuito, não comercializado (D), e é aberto a toda a população, não só a acadêmicos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "domínio público",
+    "democratização da informação"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 21,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 111
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Cuitelinho</strong></p><p class=\"apoio\">Cheguei na bera do porto<br>Onde as onda se espaia.<br>As garça dá meia volta,<br>Senta na bera da praia.<br>E o cuitelinho não gosta<br>Que o botão da rosa caia.</p><p class=\"apoio\">Quando eu vim da minha terra,<br>Despedi da parentaia.<br>Eu entrei em Mato Grosso,<br>Dei em terras paraguaia.<br>Lá tinha revolução,<br>Enfrentei fortes bataia.</p><p class=\"apoio\">A tua saudade corta<br>Como o aço de navaia.<br>O coração fica aflito,<br>Bate uma e outra faia.<br>E os oio se enche d´água<br>Que até a vista se atrapaia.</p><p class=\"fonte\">Folclore recolhido por Paulo Vanzolini e Antônio Xandó. BORTONI-RICARDO, S. M. <em>Educação em língua materna</em>. São Paulo: Parábola, 2004.</p><p>produção cultural de uma nação consiste no fato de que</p><p>produções como a canção <em>Cuitelinho</em> evidenciam a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "recriação da realidade brasileira de forma ficcional.",
+    "B": "criação neológica na língua portuguesa.",
+    "C": "formação da identidade nacional por meio da tradição oral.",
+    "D": "incorreção da língua portuguesa que é falada por pessoas do interior do Brasil.",
+    "E": "padronização de palavras que variam regionalmente, mas possuem mesmo significado."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Cuitelinho é uma canção popular passada de geração em geração, que registra o falar do interior (“bera”, “espaia”, “bataia”) e um fato histórico (a Guerra do Paraguai). Preservá-la é preservar a formação da identidade nacional pela tradição oral. Alternativa <strong>C</strong>.</p><p>Essas formas são variantes, não “incorreções” (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tradição oral",
+    "identidade cultural"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 22,
+   "materia": "Artes",
+   "assunto": "Artes visuais",
+   "origem": {
+    "numeroOriginal": 112
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">ECKHOUT, A. “Índio Tapuia” (1610-1666). Disponível em: http://www.diaadia.pr.gov.br. Acesso em: 9 jul. 2009.</p><p class=\"apoio\">A feição deles é serem pardos, maneira d’avermelhados, de bons rostos e bons narizes, bem feitos.</p><p class=\"apoio\">Andam nus, sem nenhuma cobertura, nem estimam nenhuma cousa cobrir, nem mostrar suas vergonhas. E estão acerca disso com tanta inocência como têm em mostrar o rosto.</p><p class=\"fonte\">CAMINHA, P. V. <em>A carta</em>. Disponível em: www.dominiopublico.gov.br. Acesso em: 12 ago. 2009.</p><p>Ao se estabelecer uma relação entre a obra de Eckhout e o trecho do texto de Caminha, conclui-se que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q112.webp",
+     "alt": "Pintura de Albert Eckhout, “Índio Tapuia”: homem indígena nu, de corpo inteiro, com cocar de penas, carregando lanças e uma clava, numa paisagem com vegetação tropical."
+    }
+   ],
+   "alternativas": {
+    "A": "ambos se identificam pelas características estéticas marcantes, como tristeza e melancolia, do movimento romântico das artes plásticas.",
+    "B": "o artista, na pintura, foi fiel ao seu objeto, representando-o de maneira realista, ao passo que o texto é apenas fantasioso.",
+    "C": "a pintura e o texto têm uma característica em comum, que é representar o habitante das terras que sofreriam processo colonizador.",
+    "D": "o texto e a pintura são baseados no contraste entre a cultura europeia e a cultura indígena.",
+    "E": "há forte direcionamento religioso no texto e na pintura, uma vez que o índio representado é objeto da catequização jesuítica."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A pintura de Eckhout e a carta de Caminha retratam o indígena que vivia nas terras que seriam colonizadas: a carta descreve a aparência e a nudez dos nativos; a pintura mostra um índio tapuia com suas armas. Representar o habitante da terra é o ponto em comum. Alternativa <strong>C</strong>.</p><p>As obras são dos séculos XVI e XVII, bem antes do Romantismo (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Eckhout",
+    "carta de Caminha"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 23,
+   "materia": "Português",
+   "assunto": "Tecnologias da informação",
+   "origem": {
+    "numeroOriginal": 113
+   },
+   "enunciado": "<p class=\"apoio\">As tecnologias de informação e comunicação (TIC) vieram aprimorar ou substituir meios tradicionais de comunicação e armazenamento de informações, tais como o rádio e a TV analógicos, os livros, os telégrafos, o fax etc. As novas bases tecnológicas são mais poderosas e versáteis, introduziram fortemente a possibilidade de comunicação interativa e estão presentes em todos os meios produtivos da atualidade. As novas TIC vieram acompanhadas da chamada <em>Digital Divide</em>, <em>Digital Gap</em> ou <em>Digital Exclusion</em>, traduzidas para o português como Divisão Digital ou Exclusão Digital, sendo, às vezes, também usados os termos Brecha Digital ou Abismo Digital.</p><p>Nesse contexto, a expressão Divisão Digital refere-se a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "uma classificação que caracteriza cada uma das áreas nas quais as novas TIC podem ser aplicadas, relacionando os padrões de utilização e exemplificando o uso dessas TIC no mundo moderno.",
+    "B": "uma relação das áreas ou subáreas de conhecimento que ainda não foram contempladas com o uso das novas tecnologias digitais, o que caracteriza uma brecha tecnológica que precisa ser minimizada.",
+    "C": "uma enorme diferença de desempenho entre os empreendimentos que utilizam as tecnologias digitais e aqueles que permaneceram usando métodos e técnicas analógicas.",
+    "D": "um aprofundamento das diferenças sociais já existentes, uma vez que se torna difícil a aquisição de conhecimentos e habilidades fundamentais pelas populações menos favorecidas nos novos meios produtivos.",
+    "E": "uma proposta de educação para o uso de novas pedagogias com a finalidade de acompanhar a evolução das mídias e orientar a produção de material pedagógico com apoio de computadores e outras técnicas digitais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Divisão (ou exclusão) digital é a diferença entre quem tem e quem não tem acesso às novas tecnologias. Como elas estão em todos os meios produtivos, quem fica de fora tem mais dificuldade de adquirir conhecimentos e habilidades, o que aprofunda as diferenças sociais. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "exclusão digital"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 24,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 114
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\">Você sabia que as metrópoles são as grandes consumidoras dos produtos feitos com recursos naturais da Amazônia? Você pode diminuir os impactos à floresta adquirindo produtos com selos de certificação. Eles são encontrados em itens que vão desde lápis e embalagens de papelão até móveis, cosméticos e materiais de construção. Para receber os selos esses produtos devem ser fabricados sob 10 princípios éticos, entre eles o respeito à legislação ambiental e aos direitos de povos indígenas e populações que vivem em nossas matas nativas.</p><p class=\"fonte\"><em>Vida simples</em>. Ed. 74, dez. 2008.</p><p>O texto e a imagem têm por finalidade induzir o leitor a uma mudança de comportamento a partir do(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q114.webp",
+     "alt": "Ilustração com frutas, garrafas e embalagens desenhadas em branco sobre fundo escuro, rodeadas por vários selos de certificação ambiental e de produtos orgânicos."
+    }
+   ],
+   "alternativas": {
+    "A": "consumo de produtos naturais provindos da Amazônia.",
+    "B": "cuidado na hora de comprar produtos alimentícios.",
+    "C": "verificação da existência do selo de padronização de produtos industriais.",
+    "D": "certificação de que o produto foi fabricado de acordo com os princípios éticos.",
+    "E": "verificação da garantia de tratamento dos recursos naturais utilizados em cada produto."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto pede que o leitor compre produtos com selos de certificação, que garantem que foram feitos segundo 10 princípios éticos (legislação ambiental, direitos dos povos indígenas). A mudança de comportamento é verificar essa certificação. Alternativa <strong>D</strong>.</p><p>Não se trata de consumir mais produtos da Amazônia (A) nem de selos de padronização industrial (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "consumo consciente",
+    "certificação"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 25,
+   "materia": "Educação Física",
+   "assunto": "Dança",
+   "origem": {
+    "numeroOriginal": 115
+   },
+   "enunciado": "<p class=\"apoio\">A dança é importante para o índio preparar o corpo e a garganta e significa energia para o corpo, que fica robusto. Na aldeia, para preparo físico, dançamos desde cinco horas da manhã até seis horas da tarde, passa-se o dia inteiro dançando quando os padrinhos planejam a dança dos adolescentes. O padrinho é como um professor, um preparador físico dos adolescentes. Por exemplo, o padrinho sonha com um determinado canto e planeja para todos entoarem. Todos os tipos de dança vêm dos primeiros xavantes: Wamarĩdzadadzeiwawẽ, Butséwawẽ, Tseretomodzatsewawẽ, que foram descobrindo através da sabedoria como iria ser a cultura Xavante. Até hoje existe essa cultura, essa celebração.</p><p class=\"apoio\">Quando o adolescente fura a orelha é obrigatório ele dançar toda a noite, tem de acordar meia-noite para dançar e cantar, é obrigatório, eles vão chamando um ao outro com um grito especial.</p><p class=\"fonte\">WÉRÉ' É TSI'RÓBÓ, E. <em>A dança e o canto-celebração da existência xavante</em>. VIS-Revista do Programa de Pós-Graduação em Arte da UnB. V. 5, n. 2, dez. 2006.</p><p>A partir das informações sobre a dança Xavante, conclui-se que o valor da diversidade artística e da tradição cultural apresentados originam-se da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "iniciativa individual do indígena para a prática da dança e do canto.",
+    "B": "excelente forma física apresentada pelo povo Xavante.",
+    "C": "multiculturalidade presente na sua manifestação cênica.",
+    "D": "inexistência de um planejamento da estética da dança, caracterizada pelo ineditismo.",
+    "E": "preservação de uma identidade entre a gestualidade ancestral e a novidade dos cantos a serem entoados."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto mostra que as danças vêm “dos primeiros xavantes” e se mantêm até hoje, mas os cantos são renovados: o padrinho sonha com um canto novo e o ensina a todos. Há uma ligação entre os gestos ancestrais e a novidade dos cantos. Alternativa <strong>E</strong>.</p><p>A prática é coletiva e obrigatória, não iniciativa individual (A), e é planejada pelos padrinhos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dança indígena",
+    "tradição"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 26,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 116
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">BANDEIRA, M. <em>Poesia completa e prosa</em>. Rio de Janeiro: José Aguilar, 1967.</p><p>Predomina no texto a função da linguagem</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q116.webp",
+     "alt": "Poema “Canção do vento e da minha vida”, de Manuel Bandeira, em três estrofes com cortes indicados por reticências entre colchetes. Em versos paralelos, o poema repete que o vento varria coisas (primeiro elementos da natureza, depois sonhos, amizades e amores, por fim o tempo e tudo) e, logo em seguida, que a vida do eu lírico ficava cada vez mais cheia justamente daquilo que o vento levava."
+    }
+   ],
+   "alternativas": {
+    "A": "fática, porque o autor procura testar o canal de comunicação.",
+    "B": "metalinguística, porque há explicação do significado das expressões.",
+    "C": "conativa, uma vez que o leitor é provocado a participar de uma ação.",
+    "D": "referencial, já que são apresentadas informações sobre acontecimentos e fatos reais.",
+    "E": "poética, pois chama-se a atenção para a elaboração especial e artística da estrutura do texto."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O poema chama a atenção para a própria construção: versos repetidos e paralelos, enumerações e o contraste entre o que o vento leva e o que enche a vida. Predomina a função poética. Alternativa <strong>E</strong>.</p><p>Não há relato de fatos reais (D), explicação de termos (B) nem apelo ao leitor (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Funções da linguagem",
+    "função poética",
+    "Manuel Bandeira"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 27,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 117
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">BANDEIRA, M. <em>Poesia completa e prosa</em>. Rio de Janeiro: José Aguilar, 1967.</p><p>Na estruturação do texto, destaca-se</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q116.webp",
+     "alt": "Poema “Canção do vento e da minha vida”, de Manuel Bandeira, em três estrofes com cortes indicados por reticências entre colchetes. Em versos paralelos, o poema repete que o vento varria coisas (primeiro elementos da natureza, depois sonhos, amizades e amores, por fim o tempo e tudo) e, logo em seguida, que a vida do eu lírico ficava cada vez mais cheia justamente daquilo que o vento levava."
+    }
+   ],
+   "alternativas": {
+    "A": "a construção de oposições semânticas.",
+    "B": "a apresentação de ideias de forma objetiva.",
+    "C": "o emprego recorrente de figuras de linguagem, como o eufemismo.",
+    "D": "a repetição de sons e de construções sintáticas semelhantes.",
+    "E": "a inversão da ordem sintática das palavras."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O poema se estrutura pela repetição: “O vento varria...” abre vários versos, e o refrão sobre a vida que ficava cada vez mais cheia volta em cada estrofe. Há repetição de sons e de construções sintáticas semelhantes. Alternativa <strong>D</strong>.</p><p>Existe a oposição vento/vida cheia (A), mas o que estrutura o texto é o paralelismo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Linguagem poética",
+    "paralelismo",
+    "repetição"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 28,
+   "materia": "Artes",
+   "assunto": "Teatro",
+   "origem": {
+    "numeroOriginal": 118
+   },
+   "enunciado": "<p class=\"apoio\">Teatro do Oprimido é um método teatral que sistematiza exercícios, jogos e técnicas teatrais elaboradas pelo teatrólogo brasileiro Augusto Boal, recentemente falecido, que visa à desmecanização física e intelectual de seus praticantes. Partindo do princípio de que a linguagem teatral não deve ser diferenciada da que é usada cotidianamente pelo cidadão comum (oprimido), ele propõe condições práticas para que o oprimido se aproprie dos meios do fazer teatral e, assim, amplie suas possibilidades de expressão. Nesse sentido, todos podem desenvolver essa linguagem e, consequentemente, fazer teatro. Trata-se de um teatro em que o espectador é convidado a substituir o protagonista e mudar a condução ou mesmo o fim da história, conforme o olhar interpretativo e contextualizado do receptor.</p><p class=\"fonte\">Companhia Teatro do Oprimido. Disponível em: www.ctorio.org.br. Acesso em: 1 jul. 2009 (adaptado).</p><p>Considerando-se as características do Teatro do Oprimido apresentadas, conclui-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "esse modelo teatral é um método tradicional de fazer teatro que usa, nas suas ações cênicas, a linguagem rebuscada e hermética falada normalmente pelo cidadão comum.",
+    "B": "a forma de recepção desse modelo teatral se destaca pela separação entre atores e público, na qual os atores representam seus personagens e a plateia assiste passivamente ao espetáculo.",
+    "C": "sua linguagem teatral pode ser democratizada e apropriada pelo cidadão comum, no sentido de proporcionar-lhe autonomia crítica para compreensão e interpretação do mundo em que vive.",
+    "D": "o convite ao espectador para substituir o protagonista e mudar o fim da história evidencia que a proposta de Boal se aproxima das regras do teatro tradicional para a preparação de atores.",
+    "E": "a metodologia teatral do Teatro do Oprimido segue a concepção do teatro clássico aristotélico, que visa à desautomação física e intelectual de seus praticantes."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para Boal, a linguagem teatral não deve ser diferente da usada pelo cidadão comum, e todos podem fazer teatro; o espectador pode até substituir o protagonista. A linguagem é democratizada e dá ao cidadão autonomia crítica. Alternativa <strong>C</strong>.</p><p>O método rompe com a separação entre palco e plateia (B) e com o teatro tradicional e aristotélico (D, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Teatro do Oprimido",
+    "Augusto Boal"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 29,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 119
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto I</strong></p><p class=\"apoio\">O professor deve ser um guia seguro, muito senhor de sua língua; se outra for a orientação, vamos cair na “língua brasileira”, refúgio nefasto e confissão nojenta de ignorância do idioma pátrio, recurso vergonhoso de homens de cultura falsa e de falso patriotismo. Como havemos de querer que respeitem a nossa nacionalidade se somos os primeiros a descuidar daquilo que exprime e representa o idioma pátrio?</p><p class=\"fonte\">ALMEIDA, N. M. Gramática metódica da língua portuguesa. Prefácio. São Paulo: Saraiva, 1999 (adaptado).</p><p class=\"apoio\"><strong>Texto II</strong></p><p class=\"apoio\">Alguns leitores poderão achar que a linguagem desta Gramática se afasta do padrão estrito usual neste tipo de livro. Assim, o autor escreve tenho que reformular, e não tenho de reformular; pode-se colocar dois constituintes, e não podem-se colocar dois constituintes; e assim por diante. Isso foi feito de caso pensado, com a preocupação de aproximar a linguagem da gramática do padrão atual brasileiro presente nos textos técnicos e jornalísticos de nossa época.</p><p class=\"fonte\">REIS, N. Nota do editor. PERINI, M. A. Gramática descritiva do português. São Paulo: Ática, 1996.</p><p>Confrontando-se as opiniões defendidas nos dois textos, conclui-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ambos os textos tratam da questão do uso da língua com o objetivo de criticar a linguagem do brasileiro.",
+    "B": "os dois textos defendem a ideia de que o estudo da gramática deve ter o objetivo de ensinar as regras prescritivas da língua.",
+    "C": "a questão do português falado no Brasil é abordada nos dois textos, que procuram justificar como é correto e aceitável o uso coloquial do idioma.",
+    "D": "o primeiro texto enaltece o padrão estrito da língua, ao passo que o segundo defende que a linguagem jornalística deve criar suas próprias regras gramaticais.",
+    "E": "o primeiro texto prega a rigidez gramatical no uso da língua, enquanto o segundo defende uma adequação da língua escrita ao padrão atual brasileiro."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto I chama a “língua brasileira” de confissão de ignorância e defende o padrão rígido; o texto II explica que a gramática usa construções do padrão atual brasileiro, como as de textos técnicos e jornalísticos. Um prega a rigidez; o outro, a adequação ao uso atual. Alternativa <strong>E</strong>.</p><p>O texto II não diz que o jornalismo deve criar regras próprias (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "norma-padrão",
+    "português brasileiro"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 30,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 120
+   },
+   "enunciado": "<p class=\"apoio\">No decênio de 1870, Franklin Távora defendeu a tese de que no Brasil havia duas literaturas independentes dentro da mesma língua: uma do Norte e outra do Sul, regiões segundo ele muito diferentes por formação histórica, composição étnica, costumes, modismos linguísticos etc. Por isso, deu aos romances regionais que publicou o título geral de Literatura do Norte. Em nossos dias, um escritor gaúcho, Viana Moog, procurou mostrar com bastante engenho que no Brasil há, em verdade, literaturas setoriais diversas, refletindo as características locais.</p><p class=\"fonte\">CANDIDO, A. A nova narrativa. <em>A educação pela noite e outros ensaios</em>. São Paulo: Ática, 2003.</p><p>Com relação à valorização, no romance regionalista brasileiro, do homem e da paisagem de determinadas regiões nacionais, sabe-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o romance do Sul do Brasil se caracteriza pela temática essencialmente urbana, colocando em relevo a formação do homem por meio da mescla de características locais e dos aspectos culturais trazidos de fora pela imigração europeia.",
+    "B": "José de Alencar, representante, sobretudo, do romance urbano, retrata a temática da urbanização das cidades brasileiras e das relações conflituosas entre as raças.",
+    "C": "o romance do Nordeste caracteriza-se pelo acentuado realismo no uso do vocabulário, pelo temário local, expressando a vida do homem em face da natureza agreste, e assume frequentemente o ponto de vista dos menos favorecidos.",
+    "D": "a literatura urbana brasileira, da qual um dos expoentes é Machado de Assis, põe em relevo a formação do homem brasileiro, o sincretismo religioso, as raízes africanas e indígenas que caracterizam o nosso povo.",
+    "E": "Érico Veríssimo, Rachel de Queiroz, Simões Lopes Neto e Jorge Amado são romancistas das décadas de 30 e 40 do século XX, cuja obra retrata a problemática do homem urbano em confronto com a modernização do país promovida pelo Estado Novo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O romance regionalista do Nordeste (Graciliano Ramos, José Lins do Rego, Rachel de Queiroz) tem vocabulário realista, temas locais, mostra o homem diante da natureza dura do sertão e costuma adotar o ponto de vista dos mais pobres. Alternativa <strong>C</strong>.</p><p>O romance do Sul é muito rural (A), Alencar também escreveu romances regionalistas (B), e Simões Lopes Neto não é da geração de 30 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Regionalismo",
+    "romance de 30",
+    "regionalismo"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 31,
+   "materia": "Português",
+   "assunto": "Argumentação",
+   "origem": {
+    "numeroOriginal": 121
+   },
+   "enunciado": "<p class=\"apoio\">Quando eu falo com vocês, procuro usar o código de vocês. A figura do índio no Brasil de hoje não pode ser aquela de 500 anos atrás, do passado, que representa aquele primeiro contato. Da mesma forma que o Brasil de hoje não é o Brasil de ontem, tem 160 milhões de pessoas com diferentes sobrenomes. Vieram para cá asiáticos, europeus, africanos, e todo mundo quer ser brasileiro. A importante pergunta que nós fazemos é: qual é o pedaço de índio que vocês têm? O seu cabelo? São seus olhos? Ou é o nome da sua rua? O nome da sua praça? Enfim, vocês devem ter um pedaço de índio dentro de vocês. Para nós, o importante é que vocês olhem para a gente como seres humanos, como pessoas que nem precisam de paternalismos, nem precisam ser tratadas com privilégios. Nós não queremos tomar o Brasil de vocês, nós queremos compartilhar esse Brasil com vocês.</p><p class=\"fonte\">TERENA, M. Debate. MORIN, E. <em>Saberes globais e saberes locais</em>. Rio de Janeiro: Garamond, 2000 (adaptado).</p><p>Os procedimentos argumentativos utilizados no texto permitem inferir que o ouvinte/leitor, no qual o emissor foca o seu discurso, pertence</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ao mesmo grupo social do falante/autor.",
+    "B": "a um grupo de brasileiros considerados como não índios.",
+    "C": "a um grupo étnico que representa a maioria europeia que vive no país.",
+    "D": "a um grupo formado por estrangeiros que falam português.",
+    "E": "a um grupo sociocultural formado por brasileiros naturalizados e imigrantes."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Marcos Terena fala a “vocês” que têm “um pedaço de índio dentro”, que vieram de vários lugares e “querem ser brasileiros”, e diz: “nós não queremos tomar o Brasil de vocês”. O ouvinte é o brasileiro não índio. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "interlocução",
+    "identidade indígena"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 32,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 122
+   },
+   "enunciado": "<p class=\"apoio\">Quando eu falo com vocês, procuro usar o código de vocês. A figura do índio no Brasil de hoje não pode ser aquela de 500 anos atrás, do passado, que representa aquele primeiro contato. Da mesma forma que o Brasil de hoje não é o Brasil de ontem, tem 160 milhões de pessoas com diferentes sobrenomes. Vieram para cá asiáticos, europeus, africanos, e todo mundo quer ser brasileiro. A importante pergunta que nós fazemos é: qual é o pedaço de índio que vocês têm? O seu cabelo? São seus olhos? Ou é o nome da sua rua? O nome da sua praça? Enfim, vocês devem ter um pedaço de índio dentro de vocês. Para nós, o importante é que vocês olhem para a gente como seres humanos, como pessoas que nem precisam de paternalismos, nem precisam ser tratadas com privilégios. Nós não queremos tomar o Brasil de vocês, nós queremos compartilhar esse Brasil com vocês.</p><p class=\"fonte\">TERENA, M. Debate. MORIN, E. <em>Saberes globais e saberes locais</em>. Rio de Janeiro: Garamond, 2000 (adaptado).</p><p>Na situação de comunicação da qual o texto foi retirado, a norma padrão da língua portuguesa é empregada com a finalidade de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "demonstrar a clareza e a complexidade da nossa língua materna.",
+    "B": "situar os dois lados da interlocução em posições simétricas.",
+    "C": "comprovar a importância da correção gramatical nos diálogos cotidianos.",
+    "D": "mostrar como as línguas indígenas foram incorporadas à língua portuguesa.",
+    "E": "ressaltar a importância do código linguístico que adotamos como língua nacional."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Terena diz: “Quando eu falo com vocês, procuro usar o código de vocês”. Usar a norma-padrão do português é uma forma de se colocar em pé de igualdade com o interlocutor, numa posição simétrica, sem paternalismo nem privilégios. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "norma-padrão",
+    "interlocução"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 33,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 123
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Se os tubarões fossem homens</strong></p><p class=\"apoio\">Se os tubarões fossem homens, eles seriam mais gentis com os peixes pequenos? Certamente, se os tubarões fossem homens, fariam construir resistentes gaiolas no mar para os peixes pequenos, com todo o tipo de alimento, tanto animal como vegetal. Cuidariam para que as gaiolas tivessem sempre água fresca e adotariam todas as providências sanitárias. Naturalmente haveria também escolas nas gaiolas. Nas aulas, os peixinhos aprenderiam como nadar para a goela dos tubarões. Eles aprenderiam, por exemplo, a usar a geografia para localizar os grandes tubarões deitados preguiçosamente por aí. A aula principal seria, naturalmente, a formação moral dos peixinhos. A eles seria ensinado que o ato mais grandioso e mais sublime é o sacrifício alegre de um peixinho e que todos deveriam acreditar nos tubarões, sobretudo quando estes dissessem que cuidavam de sua felicidade futura. Os peixinhos saberiam que este futuro só estaria garantido se aprendessem a obediência. Cada peixinho que na guerra matasse alguns peixinhos inimigos seria condecorado com uma pequena Ordem das Algas e receberia o título de herói.</p><p class=\"fonte\">BRECHT, B. <em>Histórias do Sr. Keuner</em>. São Paulo: Ed. 34, 2006 (adaptado).</p><p>Como produção humana, a literatura veicula valores que nem sempre estão representados diretamente no texto, mas são transfigurados pela linguagem literária e podem até entrar em contradição com as convenções sociais e revelar o quanto a sociedade perverteu os valores humanos que ela própria criou. É o que ocorre na narrativa do dramaturgo alemão Bertolt Brecht mostrada. Por meio da hipótese apresentada, o autor</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "demonstra o quanto a literatura pode ser alienadora ao retratar, de modo positivo, as relações de opressão existentes na sociedade.",
+    "B": "revela a ação predatória do homem no mar, questionando a utilização dos recursos naturais pelo homem ocidental.",
+    "C": "defende que a força colonizadora e civilizatória do homem ocidental valorizou a organização das sociedades africanas e asiáticas, elevando-as ao modo de organização cultural e social da sociedade moderna.",
+    "D": "questiona o modo de organização das sociedades ocidentais capitalistas, que se desenvolveram fundamentadas nas relações de opressão em que os mais fortes exploram os mais fracos.",
+    "E": "evidencia a dinâmica social do trabalho coletivo em que os mais fortes colaboram com os mais fracos, de modo a guiá-los na realização de tarefas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A hipótese de tubarões “humanos” descreve uma sociedade em que os fortes educam os fracos para obedecer, se sacrificar e servir de alimento, com escolas, moral e condecorações. Brecht questiona a organização das sociedades capitalistas, baseada na exploração dos mais fracos pelos mais fortes. Alternativa <strong>D</strong>.</p><p>O texto é irônico: não retrata a opressão de modo positivo (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Literatura e sociedade",
+    "Brecht",
+    "crítica social"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 34,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 124
+   },
+   "enunciado": "<p class=\"apoio\">Oximoro, ou paradoxismo, é uma figura de retórica em que se combinam palavras de sentido oposto que parecem excluir-se mutuamente, mas que, no contexto, reforçam a expressão.</p><p class=\"fonte\"><em>Dicionário Eletrônico Houaiss da Língua Portuguesa</em>.</p><p>Considerando a definição apresentada, o fragmento poético da obra <em>Cantares</em>, de Hilda Hilst, publicada em 2004, em que pode ser encontrada a referida figura de retórica é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“Dos dois contemplo rigor e fixidez. Passado e sentimento me contemplam” (p. 91).",
+    "B": "“De sol e lua De fogo e vento Te enlaço” (p. 101).",
+    "C": "“Areia, vou sorvendo A água do teu rio” (p. 93).",
+    "D": "“Ritualiza a matança de quem só te deu vida. E me deixa viver nessa que morre” (p. 62).",
+    "E": "“O bisturi e o verso. Dois instrumentos entre as minhas mãos” (p. 95)."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O oxímoro junta ideias opostas que se reforçam. Em “E me deixa viver nessa que morre”, viver e morrer aparecem juntos, e “matança de quem só te deu vida” também opõe morte e vida. Alternativa <strong>D</strong>.</p><p>As outras trazem enumeração (B), metáfora (C) ou pares que não se excluem (A, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Figuras de linguagem",
+    "oxímoro",
+    "Hilda Hilst"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 35,
+   "materia": "Português",
+   "assunto": "Fala e escrita",
+   "origem": {
+    "numeroOriginal": 125
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\"><em>Veja</em>, 7 maio 1997.</p><p>Na parte superior do anúncio, há um comentário escrito à mão que aborda a questão das atividades linguísticas e sua relação com as modalidades oral e escrita da língua. Esse comentário deixa evidente uma posição crítica quanto a usos que se fazem da linguagem, enfatizando ser necessário</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q125.webp",
+     "alt": "Anúncio de uma revista de educação. No alto, escrito à mão: “Cara, se, tipo assim, o seu filho escrever como fala ele tá ferrado.” Abaixo, a capa da revista e as letras αβ."
+    }
+   ],
+   "alternativas": {
+    "A": "implementar a fala, tendo em vista maior desenvoltura, naturalidade e segurança no uso da língua .",
+    "B": "conhecer gêneros mais formais da modalidade oral para a obtenção de clareza na comunicação oral e escrita.",
+    "C": "dominar as diferentes variedades do registro oral da língua portuguesa para escrever com adequação, eficiência e correção.",
+    "D": "empregar vocabulário adequado e usar regras da norma padrão da língua em se tratando da modalidade escrita.",
+    "E": "utilizar recursos mais expressivos e menos desgastados da variedade padrão da língua para se expressar com alguma segurança e sucesso."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O comentário à mão diz, em linguagem bem informal, que o filho que escrever como fala “tá ferrado”. Ele defende que, na escrita, é preciso usar vocabulário adequado e a norma-padrão. Alternativa <strong>D</strong>.</p><p>O comentário trata da escrita, não de melhorar a fala (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "modalidade escrita",
+    "norma-padrão"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 36,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 126
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Sr. Prefeito, junte-se a nós na luta contra a dengue. A sua participação é fundamental.</strong></p><p class=\"apoio\">A dengue é um dos grandes desafios que enfrentamos na área de saúde no Brasil, mas, felizmente, é possível controlá-la. Para isso, é necessário que os governos estaduais e municipais e o governo federal trabalhem juntos. Nesse sentido, a sua atuação como prefeito é fundamental. Organize mutirões, envolvendo líderes comunitários da sua cidade, para lutar contra a dengue. No site <strong>www.combatadengue.com.br</strong> há todas as informações necessárias para auxiliá-lo, inclusive com materiais para <em>download</em> de uso livre. A mobilização social é a chave para o sucesso no cambate à dengue.</p><p class=\"apoio\">Secretarias Estaduais e Municipais de Saúde · SUS · Ministério da Saúde · Governo Federal</p><p class=\"fonte\">BRASIL. Ministério da Saúde. <em>Revista Nordeste</em>, João Pessoa, ano 3, n. 35, maio/jun. 2009.</p><p>O texto exemplifica um gênero textual híbrido entre carta e publicidade oficial. Em seu conteúdo, é possível perceber aspectos relacionados a gêneros digitais. Considerando-se a função social das informações geradas nos sistemas de comunicação e informação presentes no texto, infere-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a utilização do termo <em>download</em> indica restrição de leitura de informações a respeito de formas de combate à dengue.",
+    "B": "a diversidade dos sistemas de comunicação empregados e mencionados reduz a possibilidade de acesso às informações a respeito do combate à dengue.",
+    "C": "a utilização do material disponibilizado para <em>download</em> no site www.combatadengue.com.br restringe-se ao receptor da publicidade.",
+    "D": "a necessidade de atingir públicos distintos se revela por meio da estratégia de disponibilização de informações empregada pelo emissor.",
+    "E": "a utilização desse gênero textual compreende, no próprio texto, o detalhamento de informações a respeito de formas de combate à dengue."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A carta se dirige ao prefeito, mas o site com materiais para <em>download</em> e a mobilização de líderes comunitários mostram que o emissor quer alcançar públicos diferentes, usando vários meios para espalhar as informações. Alternativa <strong>D</strong>.</p><p>O <em>download</em> amplia o acesso, não o restringe (A, C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gêneros híbridos",
+    "campanha oficial"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 37,
+   "materia": "Português",
+   "assunto": "Argumentação",
+   "origem": {
+    "numeroOriginal": 127
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Sr. Prefeito, junte-se a nós na luta contra a dengue. A sua participação é fundamental.</strong></p><p class=\"apoio\">A dengue é um dos grandes desafios que enfrentamos na área de saúde no Brasil, mas, felizmente, é possível controlá-la. Para isso, é necessário que os governos estaduais e municipais e o governo federal trabalhem juntos. Nesse sentido, a sua atuação como prefeito é fundamental. Organize mutirões, envolvendo líderes comunitários da sua cidade, para lutar contra a dengue. No site <strong>www.combatadengue.com.br</strong> há todas as informações necessárias para auxiliá-lo, inclusive com materiais para <em>download</em> de uso livre. A mobilização social é a chave para o sucesso no cambate à dengue.</p><p class=\"apoio\">Secretarias Estaduais e Municipais de Saúde · SUS · Ministério da Saúde · Governo Federal</p><p class=\"fonte\">BRASIL. Ministério da Saúde. <em>Revista Nordeste</em>, João Pessoa, ano 3, n. 35, maio/jun. 2009.</p><p>Diante dos recursos argumentativos utilizados, depreende-se que o texto apresentado</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "se dirige aos líderes comunitários para tomarem a iniciativa de combater a dengue.",
+    "B": "conclama toda a população a participar das estratégias de combate ao mosquito da dengue.",
+    "C": "se dirige aos prefeitos, conclamando-os a organizarem iniciativas de combate à dengue.",
+    "D": "tem como objetivo ensinar os procedimentos técnicos necessários para o combate ao mosquito da dengue.",
+    "E": "apela ao governo federal, para que dê apoio aos governos estaduais e municipais no combate ao mosquito da dengue."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O título é “Sr. Prefeito, junte-se a nós” e o texto diz “a sua atuação como prefeito é fundamental”. A carta se dirige aos prefeitos, pedindo que organizem mutirões contra a dengue. Alternativa <strong>C</strong>.</p><p>Os líderes comunitários são parceiros que o prefeito deve envolver, não os destinatários (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "interlocutor",
+    "campanha oficial"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 38,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 128
+   },
+   "enunciado": "<p class=\"apoio\"><strong>A partida</strong></p><p class=\"apoio\"><small>(Os números entre colchetes marcam as linhas do texto original.)</small></p><p class=\"apoio\"><small>[1]</small> Acordei pela madrugada. A princípio com tranquilidade, e logo com obstinação, quis novamente dormir. Inútil, o sono esgotara-se. Com precaução, <small>[4]</small> acendi um fósforo: passava das três. Restava-me, portanto, menos de duas horas, pois o trem chegaria às cinco. Veio-me então o desejo de não passar mais <small>[7]</small> nem uma hora naquela casa. Partir, sem dizer nada, deixar quanto antes minhas cadeias de disciplina e de amor.</p><p class=\"apoio\"><small>[10]</small> Com receio de fazer barulho, dirigi-me à cozinha, lavei o rosto, os dentes, penteei-me e, voltando ao meu quarto, vesti-me. Calcei os sapatos, <small>[13]</small> sentei-me um instante à beira da cama. Minha avó continuava dormindo. Deveria fugir ou falar com ela? Ora, algumas palavras... Que me custava acordá-la, <small>[16]</small> dizer-lhe adeus?</p><p class=\"fonte\">LINS, O. A partida. <em>Melhores contos</em>. Seleção e prefácio de Sandra Nitrini. São Paulo: Global, 2003.</p><p>No texto, o personagem narrador, na iminência da partida, descreve a sua hesitação em separar-se da avó. Esse sentimento contraditório fica claramente expresso no trecho:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“A princípio com tranquilidade, e logo com obstinação, quis novamente dormir” (ℓ. 1-3).",
+    "B": "“Restava-me, portanto, menos de duas horas, pois o trem chegaria às cinco” (ℓ. 4-6).",
+    "C": "“Calcei os sapatos, sentei-me um instante à beira da cama” (ℓ. 12-13).",
+    "D": "“Partir, sem dizer nada, deixar quanto antes minhas cadeias de disciplina e amor” (ℓ. 7-9).",
+    "E": "“Deveria fugir ou falar com ela? Ora, algumas palavras...” (ℓ. 14-15)."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A pergunta “Deveria fugir ou falar com ela?” e a reflexão seguinte mostram o narrador dividido entre partir em silêncio e se despedir da avó: é a hesitação, o sentimento contraditório. Alternativa <strong>E</strong>.</p><p>Os outros trechos descrevem ações ou o desejo de partir, sem dúvida (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Narrativa",
+    "Osman Lins",
+    "conflito interior"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 39,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 129
+   },
+   "enunciado": "<p class=\"apoio\">Serafim da Silva Neto defendia a tese da unidade da língua portuguesa no Brasil, entrevendo que no Brasil as delimitações dialetais espaciais não eram tão marcadas como as isoglossas<sup>1</sup> da România Antiga. Mas Paul Teyssier, na sua <em>História da Língua Portuguesa</em>, reconhece que na diversidade socioletal essa pretensa unidade se desfaz. Diz Teyssier:</p><p class=\"apoio\">“A realidade, porém, é que as divisões ‘dialetais’ no Brasil são menos geográficas que socioculturais. As diferenças na maneira de falar são maiores, num determinado lugar, entre um homem culto e o vizinho analfabeto que entre dois brasileiros do mesmo nível cultural originários de duas regiões distantes uma da outra.”</p><p class=\"fonte\">SILVA, R. V. M. O português brasileiro e o português europeu contemporâneo: alguns aspectos da diferença. Disponível em: www.uniroma.it. Acesso em: 23 jun. 2008.</p><p class=\"fonte\"><sup>1</sup> isoglossa – linha imaginária que, em um mapa, une os pontos de ocorrência de traços e fenômenos linguísticos idênticos.</p><p class=\"fonte\">FERREIRA, A. B. H. Novo dicionário Aurélio da língua portuguesa. Rio de Janeiro: Nova Fronteira, 1986.</p><p>De acordo com as informações presentes no texto, os pontos de vista de Serafim da Silva Neto e de Paul Teyssier convergem em relação</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "à influência dos aspectos socioculturais nas diferenças dos falares entre indivíduos, pois ambos consideram que pessoas de mesmo nível sociocultural falam de forma semelhante.",
+    "B": "à delimitação dialetal no Brasil assemelhar-se ao que ocorria na România Antiga, pois ambos consideram a variação linguística no Brasil como decorrente de aspectos geográficos.",
+    "C": "à variação sociocultural entre brasileiros de diferentes regiões, pois ambos consideram o fator sociocultural de bastante peso na constituição das variedades linguísticas no Brasil.",
+    "D": "à diversidade da língua portuguesa na România Antiga, que até hoje continua a existir, manifestando-se nas variantes linguísticas do português atual no Brasil.",
+    "E": "à existência de delimitações dialetais geográficas pouco marcadas no Brasil, embora cada um enfatize aspectos diferentes da questão."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Serafim da Silva Neto defende que no Brasil as divisões dialetais geográficas não são marcadas; Teyssier diz que as diferenças são mais socioculturais que geográficas. Os dois concordam que as delimitações geográficas são pouco marcadas, embora enfatizem aspectos diferentes. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "variação diatópica e diastrática"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 40,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 130
+   },
+   "enunciado": "<p class=\"apoio\">Nestes últimos anos, a situação mudou bastante e o Brasil, normalizado, já não nos parece tão mítico, no bem e no mal. Houve um mútuo reconhecimento entre os dois países de expressão portuguesa de um lado e do outro do Atlântico: o Brasil descobriu Portugal e Portugal, em um retorno das caravelas, voltou a descobrir o Brasil e a ser, por seu lado, colonizado por expressões linguísticas, as telenovelas, os romances, a poesia, a comida e as formas de tratamento brasileiros. O mesmo, embora em nível superficial, dele excluído o plano da língua, aconteceu com a Europa, que, depois da diáspora dos anos 70, depois da inserção na cultura da bossa-nova e da música popular brasileira, da problemática ecológica centrada na Amazônia, ou da problemática social emergente do fenômeno dos meninos de rua, e até do álibi ocultista dos romances de Paulo Coelho, continua todos os dias a descobrir, no bem e no mal, o novo Brasil. Se, no fim do século XIX, Sílvio Romero definia a literatura brasileira como manifestação de um país mestiço, será fácil para nós defini-la como expressão de um país polifônico: em que já não é determinante o eixo Rio-São Paulo, mas que, em cada região, desenvolve originalmente a sua unitária e particular tradição cultural. É esse, para nós, no início do século XXI, o novo estilo brasileiro.</p><p class=\"fonte\">STEGAGNO-PICCHIO, L. <em>História da literatura brasileira</em>. Rio de Janeiro: Nova Aguilar, 2004 (adaptado).</p><p>No texto, a autora mostra como o Brasil, ao longo de sua história, foi, aos poucos, construindo uma identidade cultural e literária relativamente autônoma frente à identidade europeia, em geral, e à portuguesa em particular. Sua análise pressupõe, de modo especial, o papel do patrimônio literário e linguístico, que favoreceu o surgimento daquilo que ela chama de “estilo brasileiro”. Diante desse pressuposto, e levando em consideração o texto e as diferentes etapas de consolidação da cultura brasileira, constata-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o Brasil redescobriu a cultura portuguesa no século XIX, o que o fez assimilar novos gêneros artísticos e culturais, assim como usos originais do idioma, conforme ilustra o caso do escritor Machado de Assis.",
+    "B": "a Europa reconheceu a importância da língua portuguesa no mundo, a partir da projeção que poetas brasileiros ganharam naqueles países, a partir do século XX.",
+    "C": "ocorre, no início do século XXI, promovido pela solidificação da cultura nacional, maior reconhecimento do Brasil por ele mesmo, tanto nos aspectos positivos quanto nos negativos.",
+    "D": "o Brasil continua sendo, como no século XIX, uma nação culturalmente mestiça, embora a expressão dominante seja aquela produzida no eixo Rio-São Paulo, em especial aquela ligada às telenovelas.",
+    "E": "o novo estilo cultural brasileiro se caracteriza por uma união bastante significativa entre as diversas matrizes culturais advindas das várias regiões do país, como se pode comprovar na obra de Paulo Coelho."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A autora diz que o Brasil, “normalizado”, já não parece mítico “no bem e no mal” e se tornou um país polifônico, em que cada região desenvolve sua tradição. No início do século XXI há maior reconhecimento do Brasil por ele mesmo, com aspectos positivos e negativos. Alternativa <strong>C</strong>.</p><p>O texto diz que o eixo Rio-São Paulo já não é determinante (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Identidade cultural",
+    "literatura brasileira",
+    "identidade nacional"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 41,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 131
+   },
+   "enunciado": "<p>Compare os textos I e II a seguir, que tratam de aspectos ligados a variedades da língua portuguesa no mundo e no Brasil.</p><p class=\"apoio\"><strong>Texto I</strong></p><p class=\"apoio\">Acompanhando os navegadores, colonizadores e comerciantes portugueses em todas as suas incríveis viagens, a partir do século XV, o português se transformou na língua de um império. Nesse processo, entrou em contato — forçado, o mais das vezes; amigável, em alguns casos — com as mais diversas línguas, passando por processos de variação e de mudança linguística. Assim, contar a história do português do Brasil é mergulhar na sua história colonial e de país independente, já que as línguas não são mecanismos desgarrados dos povos que as utilizam. Nesse cenário, são muitos os aspectos da estrutura linguística que não só expressam a diferença entre Portugal e Brasil como também definem, no Brasil, diferenças regionais e sociais.</p><p class=\"fonte\">PAGOTTO, E. P. Línguas do Brasil. Disponível em: http://cienciaecultura.bvs.br. Acesso em: 5 jul. 2009 (adaptado).</p><p class=\"apoio\"><strong>Texto II</strong></p><p class=\"apoio\">Barbarismo é vício que se comete na escritura de cada uma das partes da construção ou na pronunciação. E em nenhuma parte da Terra se comete mais essa figura da pronunciação que nestes reinos, por causa das muitas nações que trouxemos ao jugo do nosso serviço. Porque bem como os Gregos e Romanos haviam por bárbaras todas as outras nações estranhas a eles, por não poderem formar sua linguagem, assim nós podemos dizer que as nações de África, Guiné, Ásia, Brasil barbarizam quando querem imitar a nossa.</p><p class=\"fonte\">BARROS, J. <em>Gramática da língua portuguesa</em>. Porto: Porto Editora, 1957 (adaptado).</p><p>Os textos abordam o contato da língua portuguesa com outras línguas e processos de variação e de mudança decorridos desse contato. Da comparação entre os textos, conclui-se que a posição de João de Barros (Texto II), em relação aos usos sociais da linguagem, revela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "atitude crítica do autor quanto à gramática que as nações a serviço de Portugal possuíam e, ao mesmo tempo, de benevolência quanto ao conhecimento que os povos tinham de suas línguas.",
+    "B": "atitude preconceituosa relativa a vícios culturais das nações sob domínio português, dado o interesse dos falantes dessa línguas em copiar a língua do império, o que implicou a falência do idioma falado em Portugal.",
+    "C": "o desejo de conservar, em Portugal, as estruturas da variante padrão da língua grega — em oposição às consideradas bárbaras —, em vista da necessidade de preservação do padrão de correção dessa língua à época.",
+    "D": "adesão à concepção de língua como entidade homogênea e invariável, e negação da ideia de que a língua portuguesa pertence a outros povos.",
+    "E": "atitude crítica, que se estende à própria língua portuguesa, por se tratar de sistema que não disporia de elementos necessários para a plena inserção sociocultural de falantes não nativos do português."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>João de Barros diz que os povos dominados “barbarizam” quando imitam o português, ou seja, vê a língua como algo fixo, que só os portugueses falariam corretamente. É uma concepção de língua homogênea e invariável, que nega que o português pertença também a outros povos. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "preconceito linguístico",
+    "João de Barros"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 42,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 132
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto I</strong></p><p class=\"apoio\">[...] já foi o tempo em que via a convivência como viável, só exigindo deste bem comum, piedosamente, o meu quinhão, já foi o tempo em que consentia num contrato, deixando muitas coisas de fora sem ceder contudo no que me era vital, já foi o tempo em que reconhecia a existência escandalosa de imaginados valores, coluna vertebral de toda ‘ordem’; mas não tive sequer o sopro necessário, e, negado o respiro, me foi imposto o sufoco; é esta consciência que me libera, é ela hoje que me empurra, são outras agora minhas preocupações, é hoje outro o meu universo de problemas; num mundo estapafúrdio — definitivamente fora de foco — cedo ou tarde tudo acaba se reduzindo a um ponto de vista, e você que vive paparicando as ciências humanas, nem suspeita que paparica uma piada: impossível ordenar o mundo dos valores, ninguém arruma a casa do capeta; me recuso pois a pensar naquilo em que não mais acredito, seja o amor, a amizade, a família, a igreja, a humanidade; me lixo com tudo isso! me apavora ainda a existência, mas não tenho medo de ficar sozinho, foi conscientemente que escolhi o exílio, me bastando hoje o cinismo dos grandes indiferentes [...].</p><p class=\"fonte\">NASSAR, R. <em>Um copo de cólera</em>. São Paulo: Companhia das Letras, 1992.</p><p class=\"apoio\"><strong>Texto II</strong></p><p class=\"apoio\">Raduan Nassar lançou a novela <em>Um Copo de Cólera</em> em 1978, fervilhante narrativa de um confronto verbal entre amantes, em que a fúria das palavras cortantes se estilhaçava no ar. O embate conjugal ecoava o autoritário discurso do poder e da submissão de um Brasil que vivia sob o jugo da ditadura militar.</p><p class=\"fonte\">COMODO, R. Um silêncio inquietante. <em>IstoÉ</em>. Disponível em: http://www.terra.com.br. Acesso em: 15 jul. 2009.</p><p>Na novela <em>Um Copo de Cólera</em>, o autor lança mão de recursos estilísticos e expressivos típicos da literatura produzida na década de 70 do século passado no Brasil, que, nas palavras do crítico Antonio Candido, aliam “vanguarda estética e amargura política”. Com relação à temática abordada e à concepção narrativa da novela, o texto I</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "é escrito em terceira pessoa, com narrador onisciente, apresentando a disputa entre um homem e uma mulher em linguagem sóbria, condizente com a seriedade da temática político-social do período da ditadura militar.",
+    "B": "articula o discurso dos interlocutores em torno de uma luta verbal, veiculada por meio de linguagem simples e objetiva, que busca traduzir a situação de exclusão social do narrador.",
+    "C": "representa a literatura dos anos 70 do século XX e aborda, por meio de expressão clara e objetiva e de ponto de vista distanciado, os problemas da urbanização das grandes metrópoles brasileiras.",
+    "D": "evidencia uma crítica à sociedade em que vivem os personagens, por meio de fluxo verbal contínuo de tom agressivo.",
+    "E": "traduz, em linguagem subjetiva e intimista, a partir do ponto de vista interno, os dramas psicológicos da mulher moderna, às voltas com a questão da priorização do trabalho em detrimento da vida familiar e amorosa."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto I é um fluxo verbal contínuo, em primeira pessoa, sem pausas, com tom agressivo (“me lixo com tudo isso!”), em que o narrador ataca valores como a família, a igreja e a humanidade. Há crítica à sociedade por meio de um discurso furioso. Alternativa <strong>D</strong>.</p><p>O narrador fala em primeira pessoa (A), e a linguagem não é simples nem objetiva (B, C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Prosa contemporânea",
+    "Raduan Nassar",
+    "fluxo de consciência"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 43,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 133
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto I</strong></p><p class=\"apoio\">[...] já foi o tempo em que via a convivência como viável, só exigindo deste bem comum, piedosamente, o meu quinhão, já foi o tempo em que consentia num contrato, deixando muitas coisas de fora sem ceder contudo no que me era vital, já foi o tempo em que reconhecia a existência escandalosa de imaginados valores, coluna vertebral de toda ‘ordem’; mas não tive sequer o sopro necessário, e, negado o respiro, me foi imposto o sufoco; é esta consciência que me libera, é ela hoje que me empurra, são outras agora minhas preocupações, é hoje outro o meu universo de problemas; num mundo estapafúrdio — definitivamente fora de foco — cedo ou tarde tudo acaba se reduzindo a um ponto de vista, e você que vive paparicando as ciências humanas, nem suspeita que paparica uma piada: impossível ordenar o mundo dos valores, ninguém arruma a casa do capeta; me recuso pois a pensar naquilo em que não mais acredito, seja o amor, a amizade, a família, a igreja, a humanidade; me lixo com tudo isso! me apavora ainda a existência, mas não tenho medo de ficar sozinho, foi conscientemente que escolhi o exílio, me bastando hoje o cinismo dos grandes indiferentes [...].</p><p class=\"fonte\">NASSAR, R. <em>Um copo de cólera</em>. São Paulo: Companhia das Letras, 1992.</p><p class=\"apoio\"><strong>Texto II</strong></p><p class=\"apoio\">Raduan Nassar lançou a novela <em>Um Copo de Cólera</em> em 1978, fervilhante narrativa de um confronto verbal entre amantes, em que a fúria das palavras cortantes se estilhaçava no ar. O embate conjugal ecoava o autoritário discurso do poder e da submissão de um Brasil que vivia sob o jugo da ditadura militar.</p><p class=\"fonte\">COMODO, R. Um silêncio inquietante. <em>IstoÉ</em>. Disponível em: http://www.terra.com.br. Acesso em: 15 jul. 2009.</p><p>Considerando-se os textos apresentados e o contexto político e social no qual foi produzida a obra <em>Um Copo de Cólera</em>, verifica-se que o narrador, ao dirigir-se à sua parceira, nessa novela, tece um discurso</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "conformista, que procura defender as instituições nas quais repousava a autoridade do regime militar no Brasil, a saber: a Igreja, a família e o Estado.",
+    "B": "pacifista, que procura defender os ideais libertários representativos da intelectualidade brasileira opositora à ditadura militar na década de 70 do século passado.",
+    "C": "desmistificador, escrito em um discurso ágil e contundente, que critica os grandes princípios humanitários supostamente defendidos por sua interlocutora.",
+    "D": "politizado, pois apela para o engajamento nas causas sociais e para a defesa dos direitos humanos como uma única forma de salvamento para a humanidade.",
+    "E": "contraditório, ao acusar a sua interlocutora de compactuar com o regime repressor da ditadura militar, por meio da defesa de instituições como a família e a Igreja."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O narrador desmonta, com ironia e agressividade, os valores que a parceira defende: diz que ela “paparica as ciências humanas” sem perceber que “paparica uma piada”. É um discurso desmistificador, ágil e contundente, contra princípios humanitários que ela supostamente defende. Alternativa <strong>C</strong>.</p><p>Ele recusa as instituições, não as defende (A), e não apela ao engajamento (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Prosa contemporânea",
+    "Raduan Nassar",
+    "ditadura militar"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 44,
+   "materia": "Educação Física",
+   "assunto": "Corpo e sociedade",
+   "origem": {
+    "numeroOriginal": 134
+   },
+   "enunciado": "<p class=\"apoio\">Nunca se falou e se preocupou tanto com o corpo como nos dias atuais. É comum ouvirmos anúncios de uma nova academia de ginástica, de uma nova forma de dieta, de uma nova técnica de autoconhecimento e outras práticas de saúde alternativa, em síntese, vivemos nos últimos anos a redescoberta do prazer, voltando nossas atenções ao nosso próprio corpo. Essa valorização do prazer individualizante se estrutura em um verdadeiro culto ao corpo, em analogia a uma religião, assistimos hoje ao surgimento de novo universo: a corpolatria.</p><p class=\"fonte\">CODO, W.; SENNE, W. <em>O que é corpo(latria)</em>. Coleção Primeiros Passos. Brasiliense, 1985 (adaptado).</p><p>Sobre esse fenômeno do homem contemporâneo presente nas classes sociais brasileiras, principalmente, na classe média, a corpolatria</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "é uma religião pelo avesso, por isso outra religião; inverteram-se os sinais, a busca da felicidade eterna antes carregava em si a destruição do prazer, hoje implica o seu culto.",
+    "B": "criou outro ópio do povo, levando as pessoas a buscarem cada vez mais grupos igualitários de integração social.",
+    "C": "é uma tradução dos valores das sociedades subdesenvolvidas, mas em países considerados do primeiro mundo ela não consegue se manifestar porque a população tem melhor educação e senso crítico.",
+    "D": "tem como um de seus dogmas o narcisismo, significando o “amar o próximo como se ama a si mesmo”.",
+    "E": "existe desde a Idade Média, entretanto esse acontecimento se intensificou a partir da Revolução Industrial no século XIX e se estendeu até os nossos dias."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto compara o culto ao corpo a uma religião. A ideia é que a corpolatria é uma religião “pelo avesso”: antes a felicidade eterna exigia renunciar ao prazer; agora a busca da felicidade passa pelo culto ao prazer e ao corpo. Alternativa <strong>A</strong>.</p><p>O fenômeno é recente (E) e aparece também nos países ricos (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "culto ao corpo",
+    "corpolatria"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 45,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 135
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">ANDRADE, C. D. <em>Poesia completa</em>. Rio de Janeiro: Nova Aguilar, 2003.</p><p>Carlos Drummond de Andrade é um dos expoentes do movimento modernista brasileiro. Com seus poemas, penetrou fundo na alma do Brasil e trabalhou poeticamente as inquietudes e os dilemas humanos. Sua poesia é feita de uma relação tensa entre o universal e o particular, como se percebe claramente na construção do poema <em>Confidência do Itabirano</em>. Tendo em vista os procedimentos de construção do texto literário e as concepções artísticas modernistas, conclui-se que o poema acima</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2009-linguagens/q135.webp",
+     "alt": "Poema “Confidência do Itabirano”, de Carlos Drummond de Andrade, em versos livres. O eu lírico conta que viveu e nasceu em Itabira, cidade de mineração de ferro, e atribui a ela traços do seu jeito de ser, como a tristeza, o orgulho, a dureza e o hábito de sofrer. Lista objetos trazidos de lá que oferece ao leitor, lembra que teve riquezas e hoje é funcionário público, e termina dizendo que Itabira é só uma fotografia na parede, mas que a lembrança dói."
+    }
+   ],
+   "alternativas": {
+    "A": "representa a fase heroica do modernismo, devido ao tom contestatório e à utilização de expressões e usos linguísticos típicos da oralidade.",
+    "B": "apresenta uma característica importante do gênero lírico, que é a apresentação objetiva de fatos e dados históricos.",
+    "C": "evidencia uma tensão histórica entre o “eu” e a sua comunidade, por intermédio de imagens que representam a forma como a sociedade e o mundo colaboram para a constituição do indivíduo.",
+    "D": "critica, por meio de um discurso irônico, a posição de inutilidade do poeta e da poesia em comparação com as prendas resgatadas de Itabira.",
+    "E": "apresenta influências românticas, uma vez que trata da individualidade, da saudade da infância e do amor pela terra natal, por meio de recursos retóricos pomposos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O poema liga o “eu” à cidade natal: o ferro de Itabira explica a tristeza, o orgulho e a dureza do poeta, e a lembrança da terra dói. Há tensão entre o indivíduo e sua comunidade, com imagens que mostram como o lugar e a sociedade ajudam a formar o sujeito. Alternativa <strong>C</strong>.</p><p>O poema não é da fase heroica de 1922 (A), não é objetivo (B) nem pomposo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Modernismo",
+    "Drummond",
+    "eu e mundo"
+   ],
+   "area": "Linguagens"
+  }
+ ]
+}

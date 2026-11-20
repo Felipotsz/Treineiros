@@ -1,0 +1,297 @@
+{
+ "_leia": "Todas as edições do Vestibulinho ETEC e do Vestibular FATEC desde 2017, inclusive as que não tiveram prova. Uma edição com arquivo em data/provas/<id>.json aparece como disponível; sem arquivo, vale o 'status' daqui ('sem-prova' ou 'em-breve'; sem status = em preparação). O semestre é o de ingresso, como no nome oficial (1SEM26 = prova no fim de 2025).",
+ "edicoes": [
+  {
+   "id": "etec-2017-1sem",
+   "banca": "ETEC",
+   "ano": 2017,
+   "semestre": 1,
+   "dataExame": "2016-12-18"
+  },
+  {
+   "id": "etec-2017-2sem",
+   "banca": "ETEC",
+   "ano": 2017,
+   "semestre": 2,
+   "dataExame": "2017-06-11"
+  },
+  {
+   "id": "etec-2018-1sem",
+   "banca": "ETEC",
+   "ano": 2018,
+   "semestre": 1,
+   "dataExame": "2018-01-21"
+  },
+  {
+   "id": "etec-2018-2sem",
+   "banca": "ETEC",
+   "ano": 2018,
+   "semestre": 2,
+   "dataExame": "2018-06-24"
+  },
+  {
+   "id": "etec-2019-1sem",
+   "banca": "ETEC",
+   "ano": 2019,
+   "semestre": 1,
+   "dataExame": "2018-12-16"
+  },
+  {
+   "id": "etec-2019-2sem",
+   "banca": "ETEC",
+   "ano": 2019,
+   "semestre": 2,
+   "dataExame": "2019-06-16"
+  },
+  {
+   "id": "etec-2020-1sem",
+   "banca": "ETEC",
+   "ano": 2020,
+   "semestre": 1,
+   "dataExame": "2019-12-15"
+  },
+  {
+   "id": "etec-2020-2sem",
+   "banca": "ETEC",
+   "ano": 2020,
+   "semestre": 2,
+   "status": "sem-prova",
+   "motivo": "Não houve prova: por causa da pandemia de covid-19, o Centro Paula Souza selecionou os candidatos pela análise do histórico escolar. As provas presenciais voltaram no 2º semestre de 2022."
+  },
+  {
+   "id": "etec-2021-1sem",
+   "banca": "ETEC",
+   "ano": 2021,
+   "semestre": 1,
+   "status": "sem-prova",
+   "motivo": "Não houve prova: por causa da pandemia de covid-19, o Centro Paula Souza selecionou os candidatos pela análise do histórico escolar. As provas presenciais voltaram no 2º semestre de 2022."
+  },
+  {
+   "id": "etec-2021-2sem",
+   "banca": "ETEC",
+   "ano": 2021,
+   "semestre": 2,
+   "status": "sem-prova",
+   "motivo": "Não houve prova: por causa da pandemia de covid-19, o Centro Paula Souza selecionou os candidatos pela análise do histórico escolar. As provas presenciais voltaram no 2º semestre de 2022."
+  },
+  {
+   "id": "etec-2022-1sem",
+   "banca": "ETEC",
+   "ano": 2022,
+   "semestre": 1,
+   "status": "sem-prova",
+   "motivo": "Não houve prova: por causa da pandemia de covid-19, o Centro Paula Souza selecionou os candidatos pela análise do histórico escolar. As provas presenciais voltaram no 2º semestre de 2022."
+  },
+  {
+   "id": "etec-2022-2sem",
+   "banca": "ETEC",
+   "ano": 2022,
+   "semestre": 2,
+   "dataExame": "2022-07-03"
+  },
+  {
+   "id": "etec-2023-1sem",
+   "banca": "ETEC",
+   "ano": 2023,
+   "semestre": 1,
+   "dataExame": "2022-12-18"
+  },
+  {
+   "id": "etec-2023-2sem",
+   "banca": "ETEC",
+   "ano": 2023,
+   "semestre": 2,
+   "dataExame": "2023-06-04"
+  },
+  {
+   "id": "etec-2024-1sem",
+   "banca": "ETEC",
+   "ano": 2024,
+   "semestre": 1,
+   "dataExame": "2023-12-10"
+  },
+  {
+   "id": "etec-2024-2sem",
+   "banca": "ETEC",
+   "ano": 2024,
+   "semestre": 2,
+   "dataExame": "2024-06-09"
+  },
+  {
+   "id": "etec-2025-1sem",
+   "banca": "ETEC",
+   "ano": 2025,
+   "semestre": 1,
+   "dataExame": "2024-12-15"
+  },
+  {
+   "id": "etec-2025-2sem",
+   "banca": "ETEC",
+   "ano": 2025,
+   "semestre": 2,
+   "dataExame": "2025-07-06",
+   "status": "em-breve",
+   "motivo": "A prova aconteceu, mas ainda não foi adicionada ao Treineiros. Em breve."
+  },
+  {
+   "id": "etec-2026-1sem",
+   "banca": "ETEC",
+   "ano": 2026,
+   "semestre": 1,
+   "dataExame": "2025-11-30"
+  },
+  {
+   "id": "etec-2026-2sem",
+   "banca": "ETEC",
+   "ano": 2026,
+   "semestre": 2,
+   "dataExame": "2026-06-21"
+  },
+  {
+   "id": "fatec-2017-1sem",
+   "banca": "FATEC",
+   "ano": 2017,
+   "semestre": 1,
+   "dataExame": "2017-01-08"
+  },
+  {
+   "id": "fatec-2017-2sem",
+   "banca": "FATEC",
+   "ano": 2017,
+   "semestre": 2,
+   "dataExame": "2017-07-02"
+  },
+  {
+   "id": "fatec-2018-1sem",
+   "banca": "FATEC",
+   "ano": 2018,
+   "semestre": 1,
+   "dataExame": "2018-01-14"
+  },
+  {
+   "id": "fatec-2018-2sem",
+   "banca": "FATEC",
+   "ano": 2018,
+   "semestre": 2,
+   "dataExame": "2018-07-01"
+  },
+  {
+   "id": "fatec-2019-1sem",
+   "banca": "FATEC",
+   "ano": 2019,
+   "semestre": 1,
+   "dataExame": "2018-12-09"
+  },
+  {
+   "id": "fatec-2019-2sem",
+   "banca": "FATEC",
+   "ano": 2019,
+   "semestre": 2,
+   "dataExame": "2019-06-30"
+  },
+  {
+   "id": "fatec-2020-1sem",
+   "banca": "FATEC",
+   "ano": 2020,
+   "semestre": 1,
+   "dataExame": "2019-12-08"
+  },
+  {
+   "id": "fatec-2020-2sem",
+   "banca": "FATEC",
+   "ano": 2020,
+   "semestre": 2,
+   "status": "sem-prova",
+   "motivo": "Não houve prova: por causa da pandemia de covid-19, o Centro Paula Souza selecionou os candidatos pela análise do histórico escolar. As provas presenciais voltaram no 2º semestre de 2022."
+  },
+  {
+   "id": "fatec-2021-1sem",
+   "banca": "FATEC",
+   "ano": 2021,
+   "semestre": 1,
+   "status": "sem-prova",
+   "motivo": "Não houve prova: por causa da pandemia de covid-19, o Centro Paula Souza selecionou os candidatos pela análise do histórico escolar. As provas presenciais voltaram no 2º semestre de 2022."
+  },
+  {
+   "id": "fatec-2021-2sem",
+   "banca": "FATEC",
+   "ano": 2021,
+   "semestre": 2,
+   "status": "sem-prova",
+   "motivo": "Não houve prova: por causa da pandemia de covid-19, o Centro Paula Souza selecionou os candidatos pela análise do histórico escolar. As provas presenciais voltaram no 2º semestre de 2022."
+  },
+  {
+   "id": "fatec-2022-1sem",
+   "banca": "FATEC",
+   "ano": 2022,
+   "semestre": 1,
+   "status": "sem-prova",
+   "motivo": "Não houve prova: por causa da pandemia de covid-19, o Centro Paula Souza selecionou os candidatos pela análise do histórico escolar. As provas presenciais voltaram no 2º semestre de 2022."
+  },
+  {
+   "id": "fatec-2022-2sem",
+   "banca": "FATEC",
+   "ano": 2022,
+   "semestre": 2,
+   "dataExame": "2022-07-17"
+  },
+  {
+   "id": "fatec-2023-1sem",
+   "banca": "FATEC",
+   "ano": 2023,
+   "semestre": 1,
+   "dataExame": "2023-01-08"
+  },
+  {
+   "id": "fatec-2023-2sem",
+   "banca": "FATEC",
+   "ano": 2023,
+   "semestre": 2,
+   "dataExame": "2023-06-25"
+  },
+  {
+   "id": "fatec-2024-1sem",
+   "banca": "FATEC",
+   "ano": 2024,
+   "semestre": 1,
+   "dataExame": "2024-01-07"
+  },
+  {
+   "id": "fatec-2024-2sem",
+   "banca": "FATEC",
+   "ano": 2024,
+   "semestre": 2,
+   "dataExame": "2024-06-30"
+  },
+  {
+   "id": "fatec-2025-1sem",
+   "banca": "FATEC",
+   "ano": 2025,
+   "semestre": 1,
+   "dataExame": "2025-01-12",
+   "status": "em-breve",
+   "motivo": "A prova aconteceu, mas ainda não foi adicionada ao Treineiros. Em breve."
+  },
+  {
+   "id": "fatec-2025-2sem",
+   "banca": "FATEC",
+   "ano": 2025,
+   "semestre": 2,
+   "dataExame": "2025-06-29"
+  },
+  {
+   "id": "fatec-2026-1sem",
+   "banca": "FATEC",
+   "ano": 2026,
+   "semestre": 1,
+   "dataExame": "2025-12-14"
+  },
+  {
+   "id": "fatec-2026-2sem",
+   "banca": "FATEC",
+   "ano": 2026,
+   "semestre": 2,
+   "dataExame": "2026-06-28"
+  }
+ ]
+}

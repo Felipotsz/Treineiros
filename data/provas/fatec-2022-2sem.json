@@ -1,0 +1,1330 @@
+{
+ "id": "fatec-2022-2sem",
+ "banca": "FATEC",
+ "ano": 2022,
+ "semestre": 2,
+ "titulo": "Vestibular FATEC, 2º semestre de 2022",
+ "fonte": "Centro Paula Souza",
+ "dataExame": "2022-07-17",
+ "duracaoMinutos": 300,
+ "tema": "Objetivos de Desenvolvimento Sustentável",
+ "apresentacao": "<p>Prezado(a) candidato(a), em setembro de 2015, representantes de mais de 150 países membros da Organização das Nações Unidas (ONU) decidiram adotar uma agenda comum de desenvolvimento: a Agenda 2030.</p><p>Essa agenda é composta por 17 Objetivos de Desenvolvimento Sustentável (ODS), e tem como metas a atingir até 2030, entre outras, a erradicação da fome e da pobreza, a promoção da saúde e da educação de qualidade, a promoção da igualdade de gênero e a garantia do acesso à água potável.</p><p>Boa prova!</p>",
+ "imagensProva": {
+  "apresentacao": {
+   "src": "assets/img/fatec-2022-2sem/apresentacao.webp",
+   "alt": "Quadro com os ícones dos 17 Objetivos de Desenvolvimento Sustentável da ONU, numerados de 1 a 17: erradicação da pobreza; fome zero e agricultura sustentável; saúde e bem-estar; educação de qualidade; igualdade de gênero; água potável e saneamento; energia limpa e acessível; trabalho decente e crescimento econômico; indústria, inovação e infraestrutura; redução das desigualdades; cidades e comunidades sustentáveis; consumo e produção responsáveis; ação contra a mudança global do clima; vida na água; vida terrestre; paz, justiça e instituições eficazes; parcerias e meios de implementação."
+  }
+ },
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente e sociedade",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p class=\"apoio\">De acordo com um relatório da Organização Mundial da Saúde (OMS), publicado em 2021, 3 em cada 10 pessoas em todo o mundo não podiam lavar as mãos com água e sabão em casa durante a pandemia de COVID–19.</p><p class=\"apoio\">O documento afirma ainda que, sem uma injeção urgente de dinheiro, bilhões de pessoas em todo o mundo podem continuar sem acesso à água potável, ao saneamento e a serviços de higiene até 2030.</p><p class=\"apoio\">Apesar dos dados alarmantes, o relatório apresentou algumas boas notícias sobre o acesso universal a serviços de água, saneamento e higiene. Entre os anos de 2016 a 2020, o acesso à água potável aumentou de 70 % para 74 %; os serviços de saneamento subiram de 47 % para 54 %; e instalações de lavagem das mãos com água e sabão passaram de 67 % para 71 %.</p><p class=\"fonte\">&lt;https://tinyurl.com/msv3sc5r&gt; Acesso em: 21.04.2022. Adaptado.</p><p>Analisando os dados trazidos pela reportagem, podemos concluir corretamente que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a universalização do acesso à água de maneira adequada acarretará o fim da mortalidade infantil.",
+    "B": "o acesso à água potável para a população da Terra não é pleno, mesmo com a melhoria verificada nesse acesso.",
+    "C": "é possível erradicar a COVID–19 e aumentar a qualidade de vida das pessoas mais pobres oferecendo a elas acesso adequado a banheiros e a água potável.",
+    "D": "mais da metade da população da Terra não tem acesso a saneamento básico, que causa a morte de bilhões de pessoas, principalmente no continente europeu.",
+    "E": "o problema do acesso à água potável aos habitantes da Terra cessaria se a água presente nos oceanos fosse distribuída para as pessoas que não utilizam esse bem, pois essa água é rica em sais minerais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O acesso à água potável subiu de 70% para 74%, mas ainda falta para 26% da população: melhorou, mas não é pleno. Alternativa <strong>B</strong>.</p><p>Água adequada reduz, mas não acaba com a mortalidade infantil (A), e não erradica a COVID-19 (C). Em 2020, 54% tinham saneamento, então menos da metade não tinha, e a Europa é a região mais bem atendida (D). E a água do mar, salgada, não é potável (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "saneamento",
+    "água potável"
+   ]
+  },
+  {
+   "numero": 2,
+   "materia": "Biologia",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p>Considerando que a vida na Terra é fortemente dependente de água, entre os ODS destaca-se a melhoria da qualidade da água, a fim de se obter a água potável para todos.</p><p>O processo convencional de tratamento de água é dividido em etapas que aparecem numeradas no esquema.</p>[[fig:1]]<p>As etapas numeradas 3, 4 e 5 do esquema são denominadas, correta e respectivamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q02.webp",
+     "alt": "Esquema de uma estação de tratamento de água. (1) Represa, de onde a água é bombeada. (2) Adição de sulfato de alumínio, cal e cloro. (3) Primeiro tanque, onde a água é agitada. (4) Segundo tanque, onde as partículas se depositam no fundo. (5) Tanque com camadas de carvão, areia e cascalho. (6) Adição de flúor, cloro e cal. (7) Reservatório de água final (ETA). (8) Reservatório dos bairros. (9) Distribuição para a cidade."
+    }
+   ],
+   "alternativas": {
+    "A": "3: coagulação; 4: desinfecção; 5: filtração.",
+    "B": "3: filtração; 4: coagulação; 5: decantação.",
+    "C": "3: floculação; 4: decantação; 5: filtração.",
+    "D": "3: decantação; 4: filtração; 5: floculação.",
+    "E": "3: floculação; 4: decantação; 5: desinfecção."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Depois de receber o sulfato de alumínio e a cal (coagulação, etapa 2), a água é agitada para formar flocos (<strong>floculação</strong>, 3). Os flocos se depositam no fundo do tanque (<strong>decantação</strong>, 4) e a água passa por carvão, areia e cascalho (<strong>filtração</strong>, 5). Alternativa <strong>C</strong>.</p><p>A desinfecção, com cloro, vem depois da filtração, na etapa 6 (A e E). E a ordem é floculação, decantação e filtração, não o contrário (B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tratamento de água"
+   ]
+  },
+  {
+   "numero": 3,
+   "materia": "História",
+   "assunto": "Antiguidade",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p>Em Roma, no período do Império, as riquezas geradas pelas conquistas permitiram a realização de inúmeras obras públicas, entre as quais os famosos aquedutos, conforme a figura.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/36kewcw6&gt; Acesso em: 23.04.2022. Original colorido.</p><p>Essas estruturas arquitetônicas</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q03.webp",
+     "alt": "Foto de um aqueduto romano de pedra com três andares de arcos sobrepostos sobre um rio, como a Pont du Gard, na França."
+    }
+   ],
+   "alternativas": {
+    "A": "eram cópias de projetos de engenharia desenvolvidos pelos povos nômades da pré-história.",
+    "B": "foram construídas para possibilitar a travessia de animais de carga, que levavam armamento pesado.",
+    "C": "transportavam água do Mar do Norte para as províncias dos territórios da Gália Romana, da Grécia continental e do norte da África.",
+    "D": "utilizavam a força da gravidade, por meio de canais de pedra ou tijolo ligeiramente inclinados, para levar água para cidades e vilas do Império Romano.",
+    "E": "eram barreiras militares instaladas em pontos estratégicos para proteção dos rios de fronteira do Império Romano, diante das ameaças de invasão germânica."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os aquedutos levavam água das nascentes até as cidades por canais com uma leve inclinação: a água corria pela força da gravidade, e os arcos mantinham o declive ao atravessar vales e rios. Alternativa <strong>D</strong>.</p><p>Povos nômades não tinham essas obras (A). Não eram pontes para animais (B) nem barreiras militares (E). E transportavam água doce de nascentes próximas, não água salgada do Mar do Norte (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Império Romano",
+    "aquedutos"
+   ]
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"apoio\">É comum que a camada de gelo da Groenlândia derreta durante o verão do Hemisfério Norte. As altas temperaturas registradas em 2019 fizeram o fenômeno começar mais cedo. Só no mês de julho, a Groenlândia perdeu cerca de 198 bilhões de toneladas de gelo, o equivalente a ____________ de piscinas olímpicas.</p><p class=\"fonte\">&lt;https://tinyurl.com/qlk43pb&gt; Acesso em: 22.04.2022. Adaptado.</p><p class=\"apoio\">Dados:<br>• Uma piscina olímpica tem a forma de um bloco retangular de dimensões 50 m de comprimento, 25 m de largura e 2 m de profundidade.<br>• Densidade do gelo: 0,9 kg/L<br>• 1 m<sup>3</sup> = 1 000 L<br>• 1 t = 1 000 kg</p><p>O valor que preenche corretamente a lacuna do texto é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "75 milhões.",
+    "B": "88 milhões.",
+    "C": "75 bilhões.",
+    "D": "80 bilhões.",
+    "E": "85 trilhões."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A massa é 198 × 10⁹ t = 198 × 10¹² kg. O volume é 198 × 10¹² ÷ 0,9 = 220 × 10¹² L = 220 × 10⁹ m³. Uma piscina tem 50 · 25 · 2 = 2 500 m³. São 220 × 10⁹ ÷ 2 500 = 88 × 10⁶, ou <strong>88 milhões</strong> de piscinas. Alternativa <strong>B</strong>.</p><p>Esquecer a densidade dá 79,2 milhões, perto de A. As outras alternativas erram a potência de dez.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "densidade"
+   ]
+  },
+  {
+   "numero": 5,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p class=\"apoio\">Existem soluções baratas e eficientes para resolver o problema da falta de água potável na região semiárida do país. Um exemplo de solução acessível é o Aqualuz, um dispositivo premiado pela ONU e desenvolvido por uma estudante da Bahia para a desinfecção de água armazenada em cisterna por meio da radiação solar.</p><p class=\"apoio\">A água armazenada na cisterna passa por um filtro que retém as partículas sólidas. Depois, ocorre a desinfecção da água com a exposição à radiação solar para eliminar microrganismos e impurezas, sem a utilização de compostos químicos nocivos à saúde. O Aqualuz consegue purificar, a cada quatro horas, dez litros de água.</p><p class=\"fonte\">&lt;https://tinyurl.com/2p8u5695&gt; Acesso em: 19.04.2022. Adaptado.</p><p>Acerca das informações relacionadas ao tema tratado no texto, complete a frase:</p><p class=\"apoio\">O Aqualuz gasta ____<strong>I</strong>____ horas para tratar a água de uma cisterna de 240 litros e não utiliza ____<strong>II</strong>____, que é uma substância simples nociva à saúde utilizada para desinfectar a água em uma etapa nas estações de tratamento.</p><p>Assinale a alternativa que preenche, correta e respectivamente, os espaços em branco.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I: 96; II: cloreto de ferro (III).",
+    "B": "I: 96; II: cloro.",
+    "C": "I: 96; II: sulfato de alumínio.",
+    "D": "I: 44; II: cloro.",
+    "E": "I: 44; II: cloreto de ferro (III)."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>São 240 ÷ 10 = 24 ciclos de 4 horas: 24 · 4 = <strong>96 horas</strong>. A substância simples usada na desinfecção da água é o <strong>cloro</strong> (Cℓ₂), formado por um só elemento. Alternativa <strong>B</strong>.</p><p>Cloreto de ferro (III) e sulfato de alumínio são substâncias compostas e são usados na coagulação, não na desinfecção (A, C e E). E 44 horas não sai da conta (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "tratamento de água",
+    "cloro"
+   ]
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p class=\"apoio\">Um dos ODS é assegurar uma vida saudável para todas as pessoas. Para tanto, uma das metas a ser atingida é a de acabar com várias doenças, entre as quais as Doenças Tropicais Negligenciadas (DTN).</p><p class=\"apoio\">Embora existam financiamentos para pesquisas relacionadas às DTN, os conhecimentos produzidos não se revertem em novos medicamentos, métodos diagnósticos e/ou vacinas. Uma das razões para explicar esse quadro é o reduzido potencial de lucro para as indústrias farmacêuticas, porque as DTN são consideradas doenças endêmicas em populações de baixa renda e, presentes, em sua maioria, nos países em desenvolvimento, principalmente, em locais onde há problemas de acesso à água tratada, falta de saneamento básico, ausência de controle dos transmissores e habitação precária.</p><p class=\"apoio\">No Brasil, por meio de dados epidemiológicos e demográficos sobre o impacto de doenças, foram definidas algumas das principais DTN, entre as quais se destacam: dengue, doença de Chagas, leishmaniose, hanseníase, malária, esquistossomose e tuberculose.</p><p class=\"fonte\">&lt;https://tinyurl.com/rmojmk8&gt; Acesso em: 22.04.2022. Adaptado.</p><p>Assinale a alternativa correta de acordo com o texto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "As DTN são consideradas endêmicas porque seus agentes causadores se alastram rapidamente, independentemente das condições de higiene, habitação e saneamento dos locais, atingindo grande parcela da população do país.",
+    "B": "As DTN representam a principal necessidade médica dos países desenvolvidos, devido à ausência de condições adequadas de saneamento básico, tratamento de água e habitação precária.",
+    "C": "As DTN associam-se a vários problemas, dentre as quais a falta de opções terapêuticas, o baixo investimento na produção de vacinas e de novos medicamentos para o tratamento.",
+    "D": "As DTN, típicas das regiões subdesenvolvidas do planeta, são exclusivamente associadas às tendências genéticas das populações dessas regiões.",
+    "E": "As DTN no Brasil estão diretamente associadas à falta de alimentação adequada, a hipovitaminoses, a traumas físicos externos e à ingestão de água contaminada."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que as pesquisas sobre as DTN “não se revertem em novos medicamentos, métodos diagnósticos e/ou vacinas”, porque o potencial de lucro é pequeno. Alternativa <strong>C</strong>.</p><p>Elas dependem justamente das condições de higiene e saneamento (A) e afetam sobretudo os países em desenvolvimento (B). Não são genéticas, mas infecciosas (D). E não estão ligadas a hipovitaminoses nem a traumas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "doenças negligenciadas"
+   ]
+  },
+  {
+   "numero": 7,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p>A dengue, uma doença negligenciada por anos, se alastra rapidamente pelo globo.</p><p>Considerando as características gerais dessa doença, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a contaminação ocorre por contato direto com a saliva ou o muco de uma pessoa infectada, por meio de gotículas respiratórias produzidas ao tossir ou espirrar.",
+    "B": "os agentes causadores são microscópicos e dotados de núcleo organizado capaz de orientar a produção de proteínas prejudiciais ao organismo humano.",
+    "C": "a transmissão poderia ser evitada com a eliminação de reservatórios de água parada onde se reproduzem os insetos vetores.",
+    "D": "o tratamento é feito por meio de antibióticos, que inibem a proliferação celular dos agentes causadores da doença.",
+    "E": "a melhor maneira de prevenção é uma vacina específica produzida a partir de bactérias atenuadas ou mortas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A dengue é transmitida pela picada do mosquito <em>Aedes aegypti</em>, que se reproduz em água parada. Eliminar esses criadouros evita a transmissão. Alternativa <strong>C</strong>.</p><p>A dengue não passa de pessoa para pessoa por gotículas (A). O agente é um vírus, que não tem núcleo (B). Antibióticos não agem contra vírus (D). E a vacina é feita com vírus, não com bactérias (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dengue"
+   ]
+  },
+  {
+   "numero": 8,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p>Devido ao consumo exagerado de bebidas alcoólicas, vários problemas sociais e de saúde são ocasionados.</p><p>O etilômetro (bafômetro) é um aparelho que mede a concentração de etanol no sangue de uma pessoa mediante análise do ar expirado.</p><p>A concentração em gramas por litro expressa a razão entre a massa do soluto dissolvido em um litro de solução.</p><p>Considere que uma pessoa adulta, após ingerir 100 mL de vinho, submeteu-se ao teste do etilômetro.</p><p>Supondo que todo etanol ingerido esteja diluído no sangue, é correto afirmar que a concentração de etanol no sangue dessa pessoa, apresentada pelo etilômetro é, em g/L, aproximadamente,</p><p class=\"apoio\">Dados:<br>• concentração de etanol no vinho = 80,2 g/L<br>• uma pessoa adulta apresenta, em média, 5 L de sangue</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,05.",
+    "B": "1,60.",
+    "C": "2,57.",
+    "D": "3,58.",
+    "E": "4,16."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em 100 mL (0,1 L) de vinho há 80,2 · 0,1 = 8,02 g de etanol. Diluídos em 5 L de sangue: 8,02 ÷ 5 ≈ <strong>1,60 g/L</strong>. Alternativa <strong>B</strong>.</p><p>Os outros valores vêm de erros na conversão de mililitros para litros ou na divisão pelo volume de sangue.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "concentração"
+   ]
+  },
+  {
+   "numero": 9,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p>Um dos medicamentos mais utilizados para o tratamento do alcoolismo é o acamprosato, cuja estrutura está representada na figura.</p>[[fig:1]]<p>Observando a fórmula estrutural do acamprosato, é correto afirmar que esse composto é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q09.webp",
+     "alt": "Fórmula estrutural do acamprosato: CH₃–C(=O)–NH–CH₂–CH₂–CH₂–SO₃H. Um grupo CH₃ ligado a um carbono com dupla ligação a oxigênio, ligado a NH, seguido de três grupos CH₂ e de um grupo SO₃H."
+    }
+   ],
+   "alternativas": {
+    "A": "inorgânico, formado por 3 elementos químicos.",
+    "B": "inorgânico, formado por 4 elementos químicos.",
+    "C": "inorgânico, formado por 5 elementos químicos.",
+    "D": "orgânico, formado por 4 elementos químicos.",
+    "E": "orgânico, formado por 5 elementos químicos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O composto tem uma cadeia de carbonos ligados a hidrogênios: é <strong>orgânico</strong>. Os elementos são C, H, O, N e S: <strong>5</strong>. Alternativa <strong>E</strong>.</p><p>Não é inorgânico (A, B e C). E esquecer o enxofre, do grupo SO₃H, ou o nitrogênio, do NH, dá 4 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fórmula estrutural"
+   ]
+  },
+  {
+   "numero": 10,
+   "materia": "Raciocínio lógico",
+   "assunto": "Analogias",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p>SIDA está para AIDS assim como 1246 está para</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1462.",
+    "B": "6421.",
+    "C": "6241.",
+    "D": "2461.",
+    "E": "4612."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Numerando as letras de SIDA (S = 1, I = 2, D = 3, A = 4), a palavra AIDS corresponde à ordem 4, 2, 3, 1. Aplicando essa ordem a 1246 (1º = 1, 2º = 2, 3º = 4, 4º = 6), temos 4º, 2º, 3º, 1º = 6, 2, 4, 1: <strong>6241</strong>. Alternativa <strong>C</strong>.</p><p>As outras alternativas usam outras permutações dos algarismos.</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 11,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>Em 1904, as autoridades propuseram uma política de saúde pública para a cidade do Rio de Janeiro. Esta política gerou uma grande revolta popular.</p><p>Tanto a atuação do diretor de saúde pública quanto sua política foram satirizadas pelos jornais da época, que publicaram charges como a da figura.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ulwjbys&gt; Acesso em: 23.04.2022.</p><p>Assinale a alternativa que apresenta, corretamente, o contexto histórico a que a charge faz referência.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q11.webp",
+     "alt": "Charge antiga: um homem com a inscrição “Oswaldo, o Esfolador” no casaco ergue um chicote e segura pelo colarinho um homem do povo, assustado, que tenta se afastar; ao fundo, silhuetas de guardas."
+    }
+   ],
+   "alternativas": {
+    "A": "O aumento no número de moradores de rua provocou epidemias de leptospirose, hanseníase e dengue, e levou o governo de Oswald de Andrade a deportar essas pessoas para os morros cariocas.",
+    "B": "A Lei do Esgoto, criada por Osvaldo Aranha, sob pressão dos administradores da Companhia City de Urbanização, deslocou famílias pobres para bairros sem acesso a sistemas de tratamento de resíduos.",
+    "C": "A população do Rio de Janeiro reagiu à política sanitarista de Oswaldo Cruz, que incluía a vacinação forçada, iniciando a Revolta da Vacina, que deixou 30 mortos e centenas de pessoas feridas, presas e deportadas.",
+    "D": "O presidente Getúlio Vargas alterou as leis sanitárias e permitiu o escoamento de grandes volumes de esgoto da capital federal, Rio de Janeiro, em direção ao interior de São Paulo, o que prejudicou a população rural.",
+    "E": "O envio forçado de pessoas doentes para colônias de leprosos na Amazônia brasileira provocou uma onda de protestos contra o presidente Arthur Bernardes, reprimidos com violência pela força policial do Rio de Janeiro."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Em 1904, o sanitarista Oswaldo Cruz, diretor de saúde pública, tornou obrigatória a vacina contra a varíola. A vacinação à força, somada às demolições de cortiços, provocou a <strong>Revolta da Vacina</strong>. A charge o mostra como um “esfolador” que agride o povo. Alternativa <strong>C</strong>.</p><p>Oswald de Andrade foi escritor (A), Osvaldo Aranha e Getúlio Vargas atuaram a partir de 1930 (B e D), e Arthur Bernardes governou de 1922 a 1926 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "Revolta da Vacina"
+   ]
+  },
+  {
+   "numero": 12,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 12 e 13.</p><p class=\"apoio\">No início da epidemia de COVID–19, o governo chinês tomou uma série de medidas na tentativa de inibir a disseminação desse vírus, entre as quais, a suspensão da circulação de trens em três cidades: Wuhan, Huanggang e Ezhou. Suponha que, na manhã anterior à suspensão de circulação dos trens, em uma estação, 36 passageiros foram selecionados e examinados.</p><p class=\"apoio\">Constatou-se que:</p><p class=\"apoio\">• somente 20 dos passageiros selecionados estiveram em Wuhan ou em Huanggang;<br>• exatamente 6 desses 20 passageiros estiveram em Wuhan e em Huanggang; e<br>• nenhum desses 20 passageiros esteve em Ezhou.</p><p>Admita que, dos 36 passageiros selecionados, 17 estiveram em Huanggang.</p><p>Logo, é correto afirmar que o número de passageiros que estiveram em Wuhan é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "3.",
+    "B": "6.",
+    "C": "9.",
+    "D": "12.",
+    "E": "15."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pela união de conjuntos, n(W ∪ H) = n(W) + n(H) − n(W ∩ H): 20 = n(W) + 17 − 6, então n(W) = <strong>9</strong>. Alternativa <strong>C</strong>.</p><p>3 é o número de quem esteve só em Wuhan (A). 6 é a interseção (B). E 15 viria de esquecer de descontar a interseção (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conjuntos"
+   ]
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 12 e 13.</p><p class=\"apoio\">No início da epidemia de COVID–19, o governo chinês tomou uma série de medidas na tentativa de inibir a disseminação desse vírus, entre as quais, a suspensão da circulação de trens em três cidades: Wuhan, Huanggang e Ezhou. Suponha que, na manhã anterior à suspensão de circulação dos trens, em uma estação, 36 passageiros foram selecionados e examinados.</p><p class=\"apoio\">Constatou-se que:</p><p class=\"apoio\">• somente 20 dos passageiros selecionados estiveram em Wuhan ou em Huanggang;<br>• exatamente 6 desses 20 passageiros estiveram em Wuhan e em Huanggang; e<br>• nenhum desses 20 passageiros esteve em Ezhou.</p><p>Escolhendo-se um passageiro ao acaso, dentre os selecionados e examinados, a probabilidade de ele ter estado em exatamente duas das três cidades citadas no texto é de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{6}\\).",
+    "B": "\\(\\dfrac{1}{3}\\).",
+    "C": "\\(\\dfrac{5}{9}\\).",
+    "D": "\\(\\dfrac{7}{9}\\).",
+    "E": "\\(\\dfrac{17}{36}\\)."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Quem esteve em Wuhan ou Huanggang não foi a Ezhou. Então, entre esses 20, só os 6 que foram a Wuhan e Huanggang estiveram em exatamente duas cidades. Os outros 16 não estiveram nem em Wuhan nem em Huanggang, então estiveram no máximo em Ezhou. A probabilidade é 6 ÷ 36 = <strong>1/6</strong>. Alternativa <strong>A</strong>.</p><p>1/3 viria de usar 12 casos (B), e 17/36 usa o total de Huanggang (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 14,
+   "materia": "Raciocínio lógico",
+   "assunto": "Interpretação de dados",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p>Considere os grupos A e B que não possuem acesso universal a serviços de água potável.</p><p>O plano cartesiano da figura apresenta os gráficos com as previsões de essas populações atingirem o acesso universal a serviços de água potável nos próximos 15 anos.</p><p>Suponha que essas previsões tenham crescimentos lineares.</p>[[fig:1]]<p>Analise o gráfico e assinale a alternativa correta.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q14.webp",
+     "alt": "Gráfico da previsão de acesso a serviços de água potável (%) por anos. Duas retas chegam juntas a 100% em 15 anos. A do grupo A (linha contínua) parte de cerca de 80% e sobe pouco. A do grupo B (linha tracejada) parte de cerca de 25% e sobe muito mais."
+    }
+   ],
+   "alternativas": {
+    "A": "A previsão é de que o grupo B atinja o acesso universal num intervalo de tempo menor do que o do grupo A.",
+    "B": "A previsão é de que o grupo A atinja o acesso universal num intervalo de tempo menor do que o do grupo B.",
+    "C": "ao final desses 15 anos, nenhum grupo atingirá o acesso universal.",
+    "D": "A taxa de crescimento da previsão de acesso do grupo A é maior do que a do grupo B.",
+    "E": "A taxa de crescimento da previsão de acesso do grupo B é maior do que a do grupo A."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As duas retas chegam a 100% no mesmo instante, aos 15 anos. Como o grupo B parte de um valor bem menor, sua reta é mais inclinada: a <strong>taxa de crescimento</strong> de B é maior. Alternativa <strong>E</strong>.</p><p>Os dois grupos atingem o acesso universal ao mesmo tempo, aos 15 anos (A, B e C). E a inclinação de A é menor (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "função do 1º grau"
+   ]
+  },
+  {
+   "numero": 15,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>Considere o excerto da música <em>Idiots are taking over</em>, da banda de punk rock NOFX.</p>[[fig:1]]<p class=\"fonte\">Glossário: <em>fittest</em>: mais apto · <em>worsen</em>: piorar · <em>mob</em>: multidão · <em>inbred</em>: inato</p><p>Segundo o texto, é correto afirmar que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q15.webp",
+     "alt": "Trecho da letra da canção “Idiots Are Taking Over”, da banda NOFX, em inglês, em três estrofes. A letra diz que os idiotas tomaram o poder e se espalham como um câncer social; que Darwin estaria se revirando no caixão, porque os mais aptos sobrevivem cada vez menos e a mentalidade de multidão raivosa virou regra; e que não há sentido na democracia quando a ignorância é celebrada, já que o voto de um cientista político vale o mesmo que o de qualquer pessoa. Fonte: &lt;https://tinyurl.com/twd3lby&gt; Acesso em: 20.04.2022. Adaptado."
+    }
+   ],
+   "alternativas": {
+    "A": "apenas cientistas políticos poderão controlar uma grande massa ignorante.",
+    "B": "a democracia atualmente pressupõe a ignorância celebrada pela sociedade.",
+    "C": "há a disseminação de uma doença social causada por vícios como o álcool.",
+    "D": "pessoas ignorantes e tolas estão assumindo postos de destaque.",
+    "E": "Darwin, cuja teoria criacionista foi banida, está se revirando no caixão."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O título e o refrão dizem que “os idiotas estão assumindo o controle” (<em>taking over</em>): pessoas tolas e ignorantes passam a ocupar posições de destaque. Alternativa <strong>D</strong>.</p><p>A letra diz que o voto do cientista político vale o mesmo que o de qualquer um, e não que ele controlará as massas (A). Ela critica a democracia em que a ignorância é celebrada, não diz que a democracia a pressupõe (B). O “câncer social” é a ignorância, não o álcool (C). E a teoria de Darwin é a da evolução, não o criacionismo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "letra de canção"
+   ]
+  },
+  {
+   "numero": 16,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p class=\"chamada\">Leia os quadrinhos para responder às questões 16 e 17.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/vqlsr54&gt; Acesso em: 20.04.2022. Original colorido.</p><p>O humor se constrói nos quadrinhos a partir da ideia que,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q16.webp",
+     "alt": "Quadrinhos de Sephko, em inglês, em quatro quadros. 1: “The effort of many scientists” (o esforço de muitos cientistas), com uma cientista fazendo cálculos no papel diante de um computador. 2: “One of the greatest technological challenges” (um dos maiores desafios tecnológicos), com um foguete decolando. 3: “All of this to deliver internet…” (tudo isso para levar internet…), com um satélite em órbita da Terra. 4: “To Billy” (para o Billy), com um homem gritando para o celular: “The Earth is flat!!!!” (a Terra é plana!!!!)."
+    }
+   ],
+   "alternativas": {
+    "A": "apesar de todo o empenho científico para o desenvolvimento da internet, a rede permite opiniões que contradizem a ciência.",
+    "B": "apesar de serem pessoas diferentes, a cientista e Billy compartilham das mesmas opiniões acerca da ciência.",
+    "C": "apesar dos esforços dos cientistas, os satélites lançados ainda não conseguiram entrar em órbita.",
+    "D": "apesar dos avanços tecnológicos, os cientistas ainda não conseguiram calcular o diâmetro da Terra.",
+    "E": "apesar de ter tantos computadores sofisticados, a cientista somente consegue fazer cálculos no papel."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os três primeiros quadros mostram o enorme esforço científico para levar a internet às pessoas; no último, Billy usa essa internet para dizer que a Terra é plana, negando a própria ciência que a criou. Alternativa <strong>A</strong>.</p><p>A cientista e Billy pensam o oposto (B). O satélite está em órbita (C). O quadrinho não fala do diâmetro da Terra (D) nem critica o uso do papel (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "quadrinhos"
+   ]
+  },
+  {
+   "numero": 17,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p class=\"chamada\">Leia os quadrinhos para responder às questões 16 e 17.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/vqlsr54&gt; Acesso em: 20.04.2022. Original colorido.</p><p>Para garantir o acesso igualitário e amplo à Educação, cada vez mais são disponibilizados recursos de tecnologia de comunicação via satélite. Para que esses satélites sejam colocados em órbita na Terra, usam-se conceitos básicos da Mecânica Clássica.</p><p>Podemos afirmar corretamente que um conceito representado no segundo quadrinho se refere ao princípio</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q16.webp",
+     "alt": "Quadrinhos de Sephko, em inglês, em quatro quadros. 1: “The effort of many scientists” (o esforço de muitos cientistas), com uma cientista fazendo cálculos no papel diante de um computador. 2: “One of the greatest technological challenges” (um dos maiores desafios tecnológicos), com um foguete decolando. 3: “All of this to deliver internet…” (tudo isso para levar internet…), com um satélite em órbita da Terra. 4: “To Billy” (para o Billy), com um homem gritando para o celular: “The Earth is flat!!!!” (a Terra é plana!!!!)."
+    }
+   ],
+   "alternativas": {
+    "A": "da incerteza.",
+    "B": "da ação e reação.",
+    "C": "de Arquimedes.",
+    "D": "de Heisenberg.",
+    "E": "de Pascal."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O foguete empurra os gases para baixo, e os gases empurram o foguete para cima com uma força de mesma intensidade e sentido oposto: é a 3ª lei de Newton, o princípio da <strong>ação e reação</strong>. Alternativa <strong>B</strong>.</p><p>O princípio da incerteza, de Heisenberg, é da Física Quântica, não da Mecânica Clássica (A e D). Os princípios de Arquimedes (empuxo) e de Pascal (pressão nos fluidos) não explicam a decolagem (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leis de Newton"
+   ]
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p>Embora uma das principais atividades econômicas da região de Minas Gerais, desde os tempos da colônia até a atualidade, seja a mineração, essa atividade sofreu alterações significativas ao longo da história.</p><p>Assinale a alternativa que apresenta, corretamente, as principais características da mineração nessa região, ao longo do tempo.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "No período colonial, o nióbio era o minério mais procurado no mercado internacional, movimentado pela nascente indústria têxtil; atualmente, o principal minério extraído na região das Minas Gerais é o ouro.",
+    "B": "No período colonial, a mineração era orientada pela busca de ouro e diamantes e realizada principalmente por mão de obra escravizada; atualmente, o minério de ferro é o principal minério de exportação de Minas Gerais.",
+    "C": "No século XV, a região de Minas Gerais respondia por cerca de 80 % do volume de bauxita exportado pelo Brasil; atualmente, os minérios brasileiros enfrentam boicotes internacionais devido aos rompimentos de barragem no estado.",
+    "D": "No século XVIII, a região de Minas Gerais era a segunda maior produtora de ouro da colônia, atrás de Goiás; atualmente, no estado de Minas Gerais, a mineração é a terceira maior atividade econômica, atrás do artesanato e do turismo.",
+    "E": "No século XIV, a descoberta de jazidas de metais preciosos provocou a colonização da região de Minas Gerais; atualmente, verifica-se a diminuição do número de escravizados nas regiões mineradoras, expulsos pelos sucessivos rompimentos de barragens."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No século XVIII, a mineração em Minas Gerais buscava ouro e diamantes e usava sobretudo mão de obra escravizada. Hoje, o principal minério exportado pelo estado é o <strong>minério de ferro</strong>. Alternativa <strong>B</strong>.</p><p>O nióbio não era explorado no período colonial (A). A região só foi explorada a partir do fim do século XVII, não nos séculos XIV ou XV (C e E). Minas era a maior produtora de ouro da colônia, e a mineração é uma das principais atividades do estado (D). E não há escravizados hoje (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mineração"
+   ]
+  },
+  {
+   "numero": 19,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p class=\"apoio\">A taxa de fecundidade de 1,48 filho por mulher foi um dos principais temas destacados pelo presidente russo, Vladimir Putin, em um discurso proferido no início de 2020: “Não é o suficiente para o nosso país”.</p><p class=\"apoio\">Embora a taxa de fecundidade entre as mulheres russas em idade reprodutiva tenha aumentado desde 1999, quando chegou a 1,16 filho por mulher, ainda está em patamares distantes dos desejados por Putin.</p><p class=\"apoio\">O governo anunciou propostas para aumentar a taxa a 1,7 filho por mulher dentro de quatro anos, tais como aumento em um programa de transferência de renda para famílias carentes com filhos e benefícios financeiros para famílias com três ou mais filhos.</p><p class=\"fonte\">&lt;https://tinyurl.com/rcm3vhu&gt; Acesso em: 10.04.2022. Adaptado.</p><p>As propostas do governo russo para aumentar a taxa de fecundidade naquele país decorrem da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "escassez da mão de obra na Rússia, haja vista que, nos dias de hoje, a população de imigrantes supera a de pessoas nascidas no país.",
+    "B": "urgência em diminuir a densidade demográfica do país, a qual está entre as maiores da Terra e contribui para a escassez de recursos naturais.",
+    "C": "necessidade de aumentar a população nativa, pois se a taxa de fecundidade continuar em 1,48 filho por mulher, a população absoluta nativa da Rússia tenderá a diminuir.",
+    "D": "exigência do Fundo das Nações Unidas para a Infância (UNICEF) de duplicar a população da Eurásia no prazo de 50 anos para suprir os vazios demográficos desse continente.",
+    "E": "assimetria na distribuição da população sobre o território russo, uma vez que a maior parte da população se concentra no leste e no norte do país, deixando o oeste e o sul praticamente desabitados."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para uma população se manter estável, cada mulher precisa ter, em média, cerca de 2,1 filhos (a taxa de reposição). Com 1,48, a população nativa russa tende a <strong>diminuir</strong>. Alternativa <strong>C</strong>.</p><p>Os imigrantes não superam os nascidos na Rússia (A). A densidade demográfica russa é baixa, não está entre as maiores (B). O UNICEF não faz esse tipo de exigência (D). E a população russa se concentra no oeste, na parte europeia, e o leste e o norte, na Sibéria, são pouco povoados (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "taxa de fecundidade"
+   ]
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p>João, preocupado com nosso planeta, irá instalar placas solares em sua residência. Para atender ao consumo de energia de sua casa, serão necessários 2 120 W de potência por dia. Após estudar o problema, adquiriu módulos solares fotovoltaicos com forma retangular e as seguintes características:</p><p>• potência diária gerada por módulo: 265 W; e<br>• dimensão de cada módulo: 1,65 m por 1,00 m, com espessura desprezível.</p><p>Os módulos serão instalados no telhado, um ao lado do outro, sem sobreposição.</p><p>Assinale a alternativa que apresenta a área total mínima, em m2, que será ocupada pelos módulos que João deverá instalar para atender suas necessidades.</p><p class=\"apoio\">Despreze quaisquer formas de perda de energia.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "12,5",
+    "B": "13,2",
+    "C": "14,6",
+    "D": "15,3",
+    "E": "16,4"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>São necessários 2 120 ÷ 265 = 8 módulos. Cada um ocupa 1,65 · 1,00 = 1,65 m². A área total é 8 · 1,65 = <strong>13,2 m²</strong>. Alternativa <strong>B</strong>.</p><p>As outras áreas correspondem a números de módulos que não são inteiros.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área",
+    "energia solar"
+   ]
+  },
+  {
+   "numero": 21,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"apoio\">De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), de forma simplificada, são consideradas desempregadas as pessoas com idade para trabalhar (acima de 14 anos) que não estão trabalhando, mas que estão disponíveis e tentam encontrar trabalho. Assim, para alguém ser considerado desempregado, é insuficiente não possuir um emprego.</p><p class=\"apoio\">Segundo dados do IBGE, a taxa de desemprego entre a população de 18 a 24 anos foi de 25,7 % no 3º trimestre de 2019.</p><p class=\"apoio\">Esse grupo tem a 2ª maior taxa de desemprego entre as faixas etárias pesquisadas pelo órgão, ficando apenas atrás da população ainda mais jovem, de 14 a 17 anos. Nesse caso, a taxa chegou a 40,6 %.</p><p class=\"apoio\">A taxa de desemprego no período foi de 10 % entre os homens e de 13,9 % entre as mulheres.</p><p class=\"apoio\">No período, o desemprego entre os que se declaram brancos foi de 9,2 %. Já entre os que se declaram pretos foi de 14,9 % e de pardos, 13,6 %.</p><p class=\"fonte\">&lt;https://tinyurl.com/rsspqcs&gt; Acesso em: 21.04.2022. Adaptado.</p><p>Sobre o desemprego no Brasil e de acordo com o texto, é correto afirmar que a taxa de desemprego é maior</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "entre a população de 18 a 24 anos, pois o mercado de trabalho está com baixa atividade econômica e essa faixa etária é composta majoritariamente por pessoas que possuem qualificação profissional.",
+    "B": "entre os homens, pois historicamente as pessoas que compõem esse gênero não aceitam serem chefiados por mulheres, uma vez que elas ocupam a maioria dos cargos de chefia nas empresas brasileiras.",
+    "C": "entre as mulheres, pois historicamente as pessoas que compõem esse gênero recebem salários maiores do que os dos homens, além de se enquadrarem em jornadas com menos horas de trabalho.",
+    "D": "entre os que se declaram pretos, pois, por serem mais escolarizados que os brancos, possuem estabilidade no emprego e maior rede de proteção no sistema de seguridade social.",
+    "E": "entre a população de 14 a 17 anos, pois um dos fatores é a exigência do mercado de trabalho por experiências e qualificações na área em que se está procurando emprego."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A maior taxa do texto é a dos jovens de 14 a 17 anos (40,6%). Um dos fatores é a exigência de experiência e qualificação, que os mais jovens ainda não têm. Alternativa <strong>E</strong>.</p><p>A faixa de 18 a 24 anos tem a 2ª maior taxa, e a falta de qualificação, não o excesso, é que dificulta (A). A taxa é maior entre as mulheres, mas porque historicamente elas ganham menos e enfrentam mais barreiras (B e C). E a taxa maior entre pretos se deve à desigualdade, não à maior escolaridade (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "desemprego"
+   ]
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p>Leia a reportagem publicada em 21.05.2019.</p><p class=\"apoio\">Segundo estudo do Instituto Brasileiro de Economia da Fundação Getúlio Vargas, o índice que mede a desigualdade de renda dos brasileiros vem subindo consecutivamente desde 2015, e atingiu em março de 2019 o maior patamar desde o começo da série histórica em 2012.</p><p class=\"apoio\">O estudo revela que a variação da renda média acumulada pelos 10 % mais pobres apresentou:</p><p class=\"apoio\">• aumento de 10 % da renda acumulada, no período de 2012 a 2015; e<br>• redução de 20 % da renda acumulada, no período de 2016 a março de 2019.</p><p class=\"fonte\">&lt;https://tinyurl.com/5bh2rp9v&gt; Acesso em: 22.04.2022. Adaptado.</p><p>A partir das informações do texto, assinale a alternativa que apresenta a queda acumulada na variação de renda da população mais pobre, de 2012 a março de 2019.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "10 %",
+    "B": "11 %",
+    "C": "12 %",
+    "D": "13 %",
+    "E": "14 %"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Variações sucessivas se multiplicam: 1,10 · 0,80 = 0,88. A renda final é 88% da inicial, uma queda acumulada de <strong>12%</strong>. Alternativa <strong>C</strong>.</p><p>Somar as porcentagens (+10% − 20%) daria uma queda de 10%, que é a armadilha da questão (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "variações sucessivas"
+   ]
+  },
+  {
+   "numero": 23,
+   "materia": "História",
+   "assunto": "História contemporânea",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"apoio\">A legislação estabeleceu acessos diferenciados para negros nas escolas, nas praias, nos clubes, nos ônibus, nas universidades e em outros espaços de convivência; classificou os sul-africanos em brancos, mestiços, indianos e negros; proibiu os casamentos inter-raciais. [...] As crianças e os jovens negros recebiam uma educação diferenciada da dos brancos.</p><p class=\"fonte\">Araribá plus: história. 9. 4ªed. São Paulo: Moderna, 2014, p.197.</p><p>O texto faz referência ao regime de segregação conhecido como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Apartheid.",
+    "B": "Secessão.",
+    "C": "Black Power.",
+    "D": "Antissemitismo.",
+    "E": "Black Lives Matter."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A classificação dos sul-africanos por raça, a separação dos espaços e a proibição dos casamentos inter-raciais definem o <strong>apartheid</strong>, regime de segregação racial da África do Sul (1948–1994). Alternativa <strong>A</strong>.</p><p>A Secessão foi a guerra civil dos Estados Unidos (B). Black Power e Black Lives Matter são movimentos contra o racismo (C e E). E o antissemitismo é a discriminação contra judeus (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "apartheid"
+   ]
+  },
+  {
+   "numero": 24,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente e sociedade",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p>Leia o texto extraído do site do Ministério da Cidadania.</p><p class=\"apoio\">O Bolsa Família era um programa da Secretaria Nacional de Renda de Cidadania (Senarc), que contribuiu para o combate à pobreza e à desigualdade no Brasil. Ele foi criado em outubro de 2003 e foi extinto em 2021, sendo substituído pelo Auxílio Brasil.</p><p class=\"apoio\">O Bolsa Família possuía três eixos principais: complemento da renda; acesso a direitos; e articulação com outras ações a fim de estimular o desenvolvimento das famílias. Sua gestão era descentralizada, ou seja, tanto a União, quanto os estados, o Distrito Federal e os municípios tinham atribuições em sua execução. Em nível federal, o Ministério da Cidadania era o responsável pelo Programa, e a Caixa Econômica Federal era o agente que executava os pagamentos.</p><p class=\"fonte\">&lt;https://tinyurl.com/2p9abjm6&gt; Acesso em: 10.04.2022. Adaptado.</p><p>Esse programa</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "viabilizou a concretização da reforma agrária no país, concedendo microcréditos às famílias que retornaram ao campo.",
+    "B": "possibilitou ao Estado ser agente fundamental de redistribuição de renda e estimular o desenvolvimento econômico.",
+    "C": "facilitou a criação de novos bancos, em virtude da expansão das agências bancárias autorizadas a pagar o benefício.",
+    "D": "motivou a demissão de milhões de trabalhadores urbanos celetistas que preferiam sair de seus empregos para se tornarem beneficiários do programa.",
+    "E": "determinou que Organizações Não Governamentais (ONGs) fossem contratadas pelo governo para cadastrar, escolher e remunerar as famílias beneficiadas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Ao complementar a renda das famílias mais pobres, o programa fazia do Estado um agente de <strong>redistribuição de renda</strong>, o que também movimenta a economia local. Alternativa <strong>B</strong>.</p><p>O programa não tratava de reforma agrária (A), não criou bancos: a Caixa fazia os pagamentos (C), não provocou demissões em massa (D) e era gerido pelos governos, não por ONGs (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Bolsa Família",
+    "transferência de renda"
+   ]
+  },
+  {
+   "numero": 25,
+   "materia": "Raciocínio lógico",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p>Todos os anos, milhares de pessoas tentam chegar a outros países movidas por diversos motivos, como a necessidade de escapar da miséria e fugir de diferentes tipos de violência.</p><p>Suponha que um país deseje implementar políticas de imigração planejadas e bem geridas. Após um estudo, esse país percebe que recebe imigrantes todos os dias. Contudo, apenas aos sábados e domingos, chega o maior número de pessoas, evento denominado Grande Fluxo.</p><p>Para receber esses imigrantes da melhor forma possível, esse país marcou o início da implementação dessas políticas para o primeiro dia de um certo mês, que tem 31 dias. Além disso, sabe-se que, nesse mesmo mês, seus 2 últimos dias coincidem com um Grande Fluxo.</p><p>Assinale a alternativa que apresenta, corretamente, o dia da semana em que aconteceu a implementação das políticas de imigração descritas.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Quinta-feira",
+    "B": "Sexta-feira",
+    "C": "Sábado",
+    "D": "Domingo",
+    "E": "Segunda-feira"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Num mês de 31 dias, os dias 30 e 31 caem num sábado e num domingo. Então o dia 29 é sexta-feira. Como 29 − 1 = 28 é múltiplo de 7, o dia 1 cai no mesmo dia da semana que o dia 29: <strong>sexta-feira</strong>. Alternativa <strong>B</strong>.</p><p>Os outros dias da semana resultam de errar a contagem por um ou mais dias.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calendário"
+   ]
+  },
+  {
+   "numero": 26,
+   "materia": "Português",
+   "assunto": "Texto literário",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 26 a 28.</p><p class=\"apoio\">Uma noite, há anos, acordei bruscamente e uma estranha pergunta explodiu de minha boca. De que cor eram os olhos de minha mãe? [...]</p><p class=\"apoio\">Sempre ao lado de minha mãe, aprendi a conhecê-la. Decifrava o seu silêncio nas horas de dificuldades, como também sabia reconhecer, em seus gestos, prenúncios de possíveis alegrias. Naquele momento, entretanto, me descobria cheia de culpa, por não recordar de que cor seriam os seus olhos. [...]</p><p class=\"apoio\">Eu me lembrava de algumas histórias da infância de minha mãe. [...] Às vezes, as histórias de minha mãe confundiam-se com as de minha própria infância. Lembro-me de que muitas vezes, quando a mãe cozinhava, da panela subia cheiro algum. Era como se cozinhasse, ali, apenas o nosso desesperado desejo de alimento. As labaredas, sob a água solitária que fervia na panela cheia de fome, pareciam debochar do vazio do nosso estômago, ignorando nossas bocas infantis em que as línguas brincavam a salivar sonho de comida. E era justamente nesses dias de parco ou nenhum alimento que ela mais brincava com as filhas. Nessas ocasiões a brincadeira preferida era aquela em que a mãe era a Senhora, a Rainha. Ela se assentava em seu trono, um pequeno banquinho de madeira. Felizes, colhíamos flores cultivadas em um pequeno pedaço de terra que circundava o nosso barraco.</p><p class=\"apoio\">E foi então que, tomada pelo desespero por não me lembrar de que cor seriam os olhos de minha mãe, naquele momento resolvi deixar tudo e, no dia seguinte, voltar à cidade em que nasci. [...]</p><p class=\"apoio\">E quando, após longos dias de viagem para chegar à minha terra, pude contemplar extasiada os olhos de minha mãe, sabem o que vi?</p><p class=\"apoio\">Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas eram tantas lágrimas, que eu me perguntei se minha mãe tinha olhos ou rios caudalosos sobre a face. E só então compreendi. Minha mãe trazia, serenamente em si, águas correntezas. Por isso, prantos e prantos a enfeitar o seu rosto. A cor dos olhos de minha mãe era cor de olhos d’água. [...]</p><p class=\"fonte\">Conceição Evaristo, <em>Olhos d’água</em>. Rio de Janeiro: Pallas – Fundação Biblioteca Nacional, 2016.</p><p>A trajetória de vida da narradora-personagem é marcada pela fome, diante da qual a mãe utilizava brincadeiras para distrair as filhas, gerando no texto uma oposição poética entre a <strong>ausência</strong> (de alimentos) e a <strong>abundância</strong> (de imaginação).</p><p>Assinale a alternativa em que as expressões representam, respectivamente, o contraste exposto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“silêncio nas horas” e “cheia de culpa” (2.º parágrafo)",
+    "B": "“sonho de comida” e “flores cultivadas” (3.º parágrafo)",
+    "C": "“assentava em seu trono” e “cheia de fome” (3.º parágrafo)",
+    "D": "“cheiro algum” e “mãe era a Senhora, a Rainha” (3.º parágrafo)",
+    "E": "“flores cultivadas” (3.º parágrafo) e “rios caudalosos” (6.º parágrafo)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>“Cheiro algum” mostra a falta de comida na panela (ausência), e “mãe era a Senhora, a Rainha” mostra a brincadeira inventada pela mãe nesses dias (abundância de imaginação). As duas estão no 3º parágrafo. Alternativa <strong>D</strong>.</p><p>“Silêncio nas horas” e “cheia de culpa” não falam de comida nem de imaginação (A). Em B e C, a ordem está invertida ou as duas expressões indicam a mesma ideia. E “rios caudalosos” se refere às lágrimas da mãe, não à imaginação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "antítese"
+   ]
+  },
+  {
+   "numero": 27,
+   "materia": "Português",
+   "assunto": "Figuras de linguagem",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 26 a 28.</p><p class=\"apoio\">Uma noite, há anos, acordei bruscamente e uma estranha pergunta explodiu de minha boca. De que cor eram os olhos de minha mãe? [...]</p><p class=\"apoio\">Sempre ao lado de minha mãe, aprendi a conhecê-la. Decifrava o seu silêncio nas horas de dificuldades, como também sabia reconhecer, em seus gestos, prenúncios de possíveis alegrias. Naquele momento, entretanto, me descobria cheia de culpa, por não recordar de que cor seriam os seus olhos. [...]</p><p class=\"apoio\">Eu me lembrava de algumas histórias da infância de minha mãe. [...] Às vezes, as histórias de minha mãe confundiam-se com as de minha própria infância. Lembro-me de que muitas vezes, quando a mãe cozinhava, da panela subia cheiro algum. Era como se cozinhasse, ali, apenas o nosso desesperado desejo de alimento. As labaredas, sob a água solitária que fervia na panela cheia de fome, pareciam debochar do vazio do nosso estômago, ignorando nossas bocas infantis em que as línguas brincavam a salivar sonho de comida. E era justamente nesses dias de parco ou nenhum alimento que ela mais brincava com as filhas. Nessas ocasiões a brincadeira preferida era aquela em que a mãe era a Senhora, a Rainha. Ela se assentava em seu trono, um pequeno banquinho de madeira. Felizes, colhíamos flores cultivadas em um pequeno pedaço de terra que circundava o nosso barraco.</p><p class=\"apoio\">E foi então que, tomada pelo desespero por não me lembrar de que cor seriam os olhos de minha mãe, naquele momento resolvi deixar tudo e, no dia seguinte, voltar à cidade em que nasci. [...]</p><p class=\"apoio\">E quando, após longos dias de viagem para chegar à minha terra, pude contemplar extasiada os olhos de minha mãe, sabem o que vi?</p><p class=\"apoio\">Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas eram tantas lágrimas, que eu me perguntei se minha mãe tinha olhos ou rios caudalosos sobre a face. E só então compreendi. Minha mãe trazia, serenamente em si, águas correntezas. Por isso, prantos e prantos a enfeitar o seu rosto. A cor dos olhos de minha mãe era cor de olhos d’água. [...]</p><p class=\"fonte\">Conceição Evaristo, <em>Olhos d’água</em>. Rio de Janeiro: Pallas – Fundação Biblioteca Nacional, 2016.</p><p>Para reforçar a metáfora “cor de olhos d’água”, a autora do texto utiliza duas expressões relacionadas às águas: “rios caudalosos” e “águas correntezas”.</p><p>Essas locuções, além de exprimirem os sentimentos vivenciados pela mãe da narradora, também representam, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "escassez e insignificância.",
+    "B": "instabilidade e fraqueza.",
+    "C": "desilusão e fartura.",
+    "D": "fortaleza e miséria.",
+    "E": "abundância e força."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Rios caudalosos são rios cheios, de muita água: sugerem <strong>abundância</strong>. Correntezas são águas que avançam com ímpeto: sugerem <strong>força</strong>, a força da mãe que resiste. Alternativa <strong>E</strong>.</p><p>Escassez, insignificância, fraqueza, desilusão e miséria têm sentido oposto ao das imagens de água abundante e em movimento (A, B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metáfora"
+   ]
+  },
+  {
+   "numero": 28,
+   "materia": "Português",
+   "assunto": "Figuras de linguagem",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 26 a 28.</p><p class=\"apoio\">Uma noite, há anos, acordei bruscamente e uma estranha pergunta explodiu de minha boca. De que cor eram os olhos de minha mãe? [...]</p><p class=\"apoio\">Sempre ao lado de minha mãe, aprendi a conhecê-la. Decifrava o seu silêncio nas horas de dificuldades, como também sabia reconhecer, em seus gestos, prenúncios de possíveis alegrias. Naquele momento, entretanto, me descobria cheia de culpa, por não recordar de que cor seriam os seus olhos. [...]</p><p class=\"apoio\">Eu me lembrava de algumas histórias da infância de minha mãe. [...] Às vezes, as histórias de minha mãe confundiam-se com as de minha própria infância. Lembro-me de que muitas vezes, quando a mãe cozinhava, da panela subia cheiro algum. Era como se cozinhasse, ali, apenas o nosso desesperado desejo de alimento. As labaredas, sob a água solitária que fervia na panela cheia de fome, pareciam debochar do vazio do nosso estômago, ignorando nossas bocas infantis em que as línguas brincavam a salivar sonho de comida. E era justamente nesses dias de parco ou nenhum alimento que ela mais brincava com as filhas. Nessas ocasiões a brincadeira preferida era aquela em que a mãe era a Senhora, a Rainha. Ela se assentava em seu trono, um pequeno banquinho de madeira. Felizes, colhíamos flores cultivadas em um pequeno pedaço de terra que circundava o nosso barraco.</p><p class=\"apoio\">E foi então que, tomada pelo desespero por não me lembrar de que cor seriam os olhos de minha mãe, naquele momento resolvi deixar tudo e, no dia seguinte, voltar à cidade em que nasci. [...]</p><p class=\"apoio\">E quando, após longos dias de viagem para chegar à minha terra, pude contemplar extasiada os olhos de minha mãe, sabem o que vi?</p><p class=\"apoio\">Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas eram tantas lágrimas, que eu me perguntei se minha mãe tinha olhos ou rios caudalosos sobre a face. E só então compreendi. Minha mãe trazia, serenamente em si, águas correntezas. Por isso, prantos e prantos a enfeitar o seu rosto. A cor dos olhos de minha mãe era cor de olhos d’água. [...]</p><p class=\"fonte\">Conceição Evaristo, <em>Olhos d’água</em>. Rio de Janeiro: Pallas – Fundação Biblioteca Nacional, 2016.</p><p>A personificação é uma figura de linguagem amplamente empregada pela autora, por meio da qual ela dá vida ou traços humanos a objetos inanimados.</p><p>Assinale a alternativa em que esse recurso é empregado</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Eu me lembrava de algumas histórias da infância de minha mãe.",
+    "B": "As labaredas [...] pareciam debochar do vazio de nosso estômago.",
+    "C": "...a brincadeira preferida era aquela em que a mãe era a Senhora, a Rainha.",
+    "D": "Felizes, colhíamos flores cultivadas...",
+    "E": "...pude contemplar extasiada os olhos de minha mãe."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>“Debochar” é uma ação humana, atribuída às labaredas, que são inanimadas: é personificação. Alternativa <strong>B</strong>.</p><p>Nas outras frases, quem age são pessoas (a narradora, a mãe, as filhas), sem atribuir traços humanos a objetos (A, C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "personificação"
+   ]
+  },
+  {
+   "numero": 29,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p>Uma das metas estabelecidas pelos ODS é acabar com o tráfico de espécies da fauna e da flora.</p><p>Suponha que, em uma determinada agência governamental,</p><p>• todas as investigações sobre tráfico de espécies ou são apenas casos que envolvem espécies da fauna ou são apenas casos que envolvem espécies da flora; e<br>• as investigações sobre casos que envolvem espécies da fauna não serão arquivadas.</p><p>É correto concluir que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "toda investigação de casos que envolvem espécies da flora será arquivada.",
+    "B": "toda investigação que será arquivada é um caso que envolve espécies da flora.",
+    "C": "um caso de uma investigação que não é arquivada com certeza envolve espécies da fauna.",
+    "D": "algumas investigações que serão arquivadas envolvem espécies da fauna.",
+    "E": "nenhuma investigação que envolve espécies da flora será arquivada."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Toda investigação é só de fauna ou só de flora, e as de fauna nunca são arquivadas. Logo, se uma investigação foi arquivada, ela não é de fauna, e portanto é de flora. Alternativa <strong>B</strong>.</p><p>Nada garante que todas as de flora serão arquivadas (A), nem que nenhuma será (E). Uma investigação não arquivada pode ser de flora (C). E nenhuma de fauna é arquivada (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dedução"
+   ]
+  },
+  {
+   "numero": 30,
+   "materia": "Geografia",
+   "assunto": "Biomas brasileiros",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p>Entre os objetivos propostos pela Agenda 2030, destaca-se o de proteger e restaurar ecossistemas relacionados com a água, incluindo montanhas, florestas, zonas úmidas, rios, aquíferos e lagos.</p><p>Como exemplos de áreas úmidas, destacam-se: charcos, várzeas, rios, estuários, toda a extensão de pântanos, manguezais, os recifes de coral e a maior planície alagável do planeta, partilhada por três países – Brasil, Paraguai e Bolívia – o Pantanal.</p><p>A fim de conservar melhor o Pantanal, devem-se compreender melhor as riquezas e potencialidades dessa área de planície alagável.</p><p>Sobre esse bioma, assinale a alternativa correta.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Apresenta vegetação constituída predominantemente por gramíneas e fauna de vertebrados formada principalmente por roedores, como hamsters e marmotas, além de carnívoros, como coiotes e alces.",
+    "B": "Apesar de estarem em solo encharcado, as plantas desse bioma não absorvem água com eficiência devido às constantes temperaturas do solo abaixo de 5 °C e sofrem com a desidratação, processo chamado de seca fisiológica.",
+    "C": "Ocupa cerca de 10 % do território brasileiro, estendendo-se principalmente pelos estados de Sergipe, Alagoas, Bahia e pelo norte de Minas Gerais. Entre as espécies vegetais, apresenta o pau-brasil, orquídeas e samambaias. A fauna se destaca pela presença do mico-leão-dourado, onças, guepardos e raposas.",
+    "D": "Localiza-se na faixa equatorial do planeta, com fauna rica e abundante. A vegetação apresenta árvores de grande porte, cujas copas mais altas formam um “teto” de vegetação, sob o qual existe um patamar interno, formado pelas copas de árvores mais baixas.",
+    "E": "Apresenta elevada biodiversidade, em que a fauna de vertebrados abunda, no meio aquático, em peixes, e no meio terrestre, em aves, capivaras, antas, onças, jacarés e serpentes. A flora é principalmente constituída por ervas, arbustos e árvores diversas, como palmeiras, ipês e aroeiras."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O Pantanal tem enorme biodiversidade: peixes nas águas e, em terra, aves, capivaras, antas, onças, jacarés e serpentes, com vegetação variada de campos, arbustos e árvores como palmeiras, ipês e aroeiras. Alternativa <strong>E</strong>.</p><p>A descreve pradarias da América do Norte (hamsters, marmotas e coiotes não são do Pantanal). B descreve a tundra, com solo gelado. C mistura Mata Atlântica e Caatinga, e guepardos são africanos. D descreve a floresta equatorial, e o Pantanal fica no Centro-Oeste.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Pantanal"
+   ]
+  },
+  {
+   "numero": 31,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente e sociedade",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p class=\"apoio\">A prática da Produção mais Limpa (P+L) contribui para o avanço no caminho da sustentabilidade.</p><p class=\"apoio\">Em relação aos processos de produção, a P+L orienta para a economia de matéria-prima e energia, para a eliminação do uso de materiais tóxicos e para a redução nas quantidades e toxicidade dos resíduos e emissões.</p><p class=\"apoio\">Hoje, no entanto, constata-se que uma mudança de patamar se faz necessária: a mudança para o patamar do Consumo mais Limpo.</p><p class=\"apoio\">A busca pela minimização dos impactos ambientais deve incluir, obrigatoriamente, o percurso dos produtos a partir de sua produção.</p><p class=\"apoio\">A trajetória dos produtos, desde a extração dos recursos naturais necessários à sua produção, passando por todos os elos da cadeia produtiva e seguindo pela distribuição, comercialização, uso e destinação final é denominada de Ciclo de Vida dos Produtos.</p><p class=\"fonte\">&lt;https://tinyurl.com/recsu5q&gt; Acesso em: 10.04.2022. Adaptado.</p><p>De acordo com o texto, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o fim dos impactos ambientais ocorrerá no momento em que o percurso dos produtos a partir de sua produção for monitorado pela sociedade.",
+    "B": "o rumo a ser seguido para atingirmos a sustentabilidade passa pela utilização dos combustíveis fósseis e sem a utilização de energia nuclear.",
+    "C": "o ciclo da vida dos produtos é a redução do uso de materiais tóxicos e a eliminação, pela queima, de todos os resíduos gerados pelos sistemas produtivos.",
+    "D": "a diretriz escolhida na busca pela sustentabilidade passa obrigatoriamente pela desassociação entre produção mais limpa e consumo mais limpo, pois são ações divergentes.",
+    "E": "a redução dos impactos ambientais implica buscar a diminuição e mesmo a eliminação de processos nocivos ao meio ambiente, da extração da matéria-prima ao uso e ao descarte final de objetos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que minimizar os impactos deve incluir todo o percurso dos produtos, “desde a extração dos recursos naturais” até a “destinação final”: é o ciclo de vida dos produtos. Alternativa <strong>E</strong>.</p><p>O texto fala em minimizar os impactos, não em acabar com eles (A), e não trata de combustíveis fósseis nem de energia nuclear (B). O ciclo de vida é a trajetória do produto, não a queima de resíduos (C). E produção e consumo mais limpos são complementares (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "produção mais limpa",
+    "ciclo de vida"
+   ]
+  },
+  {
+   "numero": 32,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 32 e 33.</p><p>O ODS 7 evoca a necessidade de se pensar em Energia Limpa e Acessível, assegurando o acesso confiável, sustentável e moderno.</p><p>Há pouco tempo circulou nas mídias sociais uma fake news de que um grande empresário havia encomendado uma embarcação de luxo movida a hidrogênio. O projeto de fato existia, mas não tinha relação com o empresário.</p><p class=\"apoio\">O conceito base do projeto chamou atenção por contar com tecnologias que combinam hidrogênio e oxigênio para produzir eletricidade e água, assim evitando a queima de carvão e madeira para alimentar a embarcação.</p><p class=\"apoio\">A embarcação conta com 112 m de comprimento, espaço para 14 convidados e 31 tripulantes. Possui dois tanques de 28 toneladas cada, selados a vácuo, com hidrogênio líquido resfriado a –253 ºC. Quando for entregue, a embarcação vai atingir 17 nós de velocidade e viajar por 3 750 milhas náuticas, cerca de 6 945 km.</p><p class=\"fonte\">&lt;https://tinyurl.com/trf8o7x&gt; Acesso em: 10.04.2022. Adaptado.</p><p>Sabendo que “1 nó” equivale a “1 milha náutica por hora”, podemos determinar que a embarcação citada no texto vai atingir, em km/h, a velocidade aproximada de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "408.",
+    "B": "220.",
+    "C": "31.",
+    "D": "17.",
+    "E": "2."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que 3 750 milhas náuticas equivalem a cerca de 6 945 km: 1 milha náutica ≈ 6 945 ÷ 3 750 ≈ 1,85 km. Então 17 nós = 17 milhas náuticas por hora ≈ 17 · 1,85 ≈ <strong>31 km/h</strong>. Alternativa <strong>C</strong>.</p><p>17 é o valor em nós, sem converter (D). E os outros valores vêm de dividir em vez de multiplicar ou de usar as distâncias de forma errada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conversão de unidades"
+   ]
+  },
+  {
+   "numero": 33,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 32 e 33.</p><p>O ODS 7 evoca a necessidade de se pensar em Energia Limpa e Acessível, assegurando o acesso confiável, sustentável e moderno.</p><p>Há pouco tempo circulou nas mídias sociais uma fake news de que um grande empresário havia encomendado uma embarcação de luxo movida a hidrogênio. O projeto de fato existia, mas não tinha relação com o empresário.</p><p class=\"apoio\">O conceito base do projeto chamou atenção por contar com tecnologias que combinam hidrogênio e oxigênio para produzir eletricidade e água, assim evitando a queima de carvão e madeira para alimentar a embarcação.</p><p class=\"apoio\">A embarcação conta com 112 m de comprimento, espaço para 14 convidados e 31 tripulantes. Possui dois tanques de 28 toneladas cada, selados a vácuo, com hidrogênio líquido resfriado a –253 ºC. Quando for entregue, a embarcação vai atingir 17 nós de velocidade e viajar por 3 750 milhas náuticas, cerca de 6 945 km.</p><p class=\"fonte\">&lt;https://tinyurl.com/trf8o7x&gt; Acesso em: 10.04.2022. Adaptado.</p><p>De acordo com o texto, o hidrogênio é resfriado à temperatura de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "zero absoluto.",
+    "B": "20 K acima do zero absoluto.",
+    "C": "20 K abaixo do zero absoluto.",
+    "D": "526 K acima do zero absoluto.",
+    "E": "526 K abaixo do zero absoluto."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>T(K) = T(°C) + 273 = −253 + 273 = 20 K. O zero absoluto é 0 K, então o hidrogênio fica <strong>20 K acima do zero absoluto</strong>. Alternativa <strong>B</strong>.</p><p>Não existe temperatura abaixo do zero absoluto (C e E). E 526 vem de somar 253 e 273 (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escalas termométricas"
+   ]
+  },
+  {
+   "numero": 34,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente e sociedade",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p class=\"apoio\">Na Austrália a temporada de incêndios florestais de 2019 começou em setembro. As florestas daquele país enfrentaram queimadas sem precedentes. Quase 8 milhões de hectares foram queimados e cerca de 500 milhões de animais morreram.</p><p class=\"apoio\">Um mês antes, em agosto, a Amazônia enfrentou um dos maiores índices de queimadas já registrados.</p><p class=\"apoio\">Mas os casos não são similares. Apesar da gravidade e dos riscos para a população e para os animais, a vegetação da Austrália é mais acostumada com o fogo e se adapta mais rápido. Além disso, os incêndios são naturais e se espalham pela floresta seca.</p><p class=\"apoio\">Na Amazônia, as plantas não têm adaptação ao fogo e a floresta úmida só queima se alguém colocar fogo. As mudanças climáticas facilitaram as condições para o fogo se expandir.</p><p class=\"fonte\">&lt;https://tinyurl.com/2p8dmtm8&gt; Acesso em: 19.04.2022. Adaptado.</p><p>De acordo com o texto, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as altas temperaturas verificadas tanto na Amazônia quanto na Austrália foram as causas dos incêndios em ambas as matas.",
+    "B": "tanto a floresta amazônica quanto as florestas australianas são acostumadas com o fogo e, portanto, poderão se regenerar rapidamente.",
+    "C": "as mudanças climáticas contribuíram para a propagação dos incêndios em áreas florestais da Amazônia e da Austrália, apesar de as causas das queimadas não serem semelhantes.",
+    "D": "a queimada na Amazônia ocorreu pelo aumento do processo de desertificação a que essa área está exposta, diferentemente da Austrália, país de clima frio, onde não existem desertos.",
+    "E": "as florestas australianas, por serem úmidas, não pegam fogo de maneira espontânea, diferentemente da floresta amazônica que, em função do tempo seco, fica exposta a queimadas naturais."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que os casos “não são similares”: na Austrália, os incêndios são naturais; na Amazônia, a floresta “só queima se alguém colocar fogo”. Mas as mudanças climáticas facilitaram a expansão do fogo. Alternativa <strong>C</strong>.</p><p>Na Amazônia a causa é humana, não o calor (A), e as plantas de lá não são adaptadas ao fogo (B). O texto não fala em desertificação, e a Austrália tem clima quente e muitos desertos (D). E a floresta úmida é a amazônica; a australiana é seca (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "queimadas"
+   ]
+  },
+  {
+   "numero": 35,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p>A reciclagem terciária é a aplicação de processos químicos para quebrar os polímeros constituintes dos plásticos de modo a obter moléculas menores, os monômeros. Esse processo permite que o material, que antes era inutilizável, possa ser polimerizado para ser utilizado na fabricação de novos materiais.</p><p>Um dos processos utilizados na reciclagem terciária de polímeros como o policloreto de vinila (PVC) é a pirólise (decomposição pelo calor).</p><p>A pirólise do PVC libera ácido clorídrico, HCℓ (reação 1).</p><p class=\"apoio\">Reação 1 &nbsp; PVC → HCℓ + C<sub>2</sub>H<sub>4</sub></p><p>Em seguida, o HCℓ gerado passa por um filtro onde é absorvido pelo hidróxido de cálcio, formando o cloreto de cálcio, X (reação 2).</p><p class=\"apoio\">Reação 2 &nbsp; 2 HCℓ + Ca(OH)<sub>2</sub> → 2 H<sub>2</sub>O + X</p><p>O nome do composto orgânico formado na reação 1 e a fórmula do composto X produzido na reação 2 são, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Reação 1: etino; Reação 2: CaCℓ<sub>2</sub>.",
+    "B": "Reação 1: etino; Reação 2: CℓCa.",
+    "C": "Reação 1: eteno; Reação 2: Cℓ<sub>2</sub>Ca.",
+    "D": "Reação 1: eteno; Reação 2: CaCℓ.",
+    "E": "Reação 1: eteno; Reação 2: CaCℓ<sub>2</sub>."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>C₂H₄ tem uma dupla ligação entre os carbonos (CH₂=CH₂): é o <strong>eteno</strong>. O cálcio forma Ca²⁺ e o cloro, Cℓ⁻; o sal neutro tem dois cloretos para cada cálcio, com o cátion escrito primeiro: <strong>CaCℓ₂</strong>. Alternativa <strong>E</strong>.</p><p>Etino é C₂H₂, com tripla ligação (A e B). Cℓ₂Ca e CℓCa invertem a ordem (B e C). E CaCℓ não neutraliza as cargas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reciclagem",
+    "nomenclatura"
+   ]
+  },
+  {
+   "numero": 36,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 36 e 37.</p><p class=\"apoio\">Os plásticos são insolúveis em água e apresentam baixo potencial de degradação.</p><p class=\"apoio\">Os ecossistemas marinhos correm o risco de sofrer danos irreparáveis em decorrência de milhões de toneladas de resíduos de plásticos que, descartados de forma incorreta, vão parar no mar todos os anos, A aglomeração dessa grande quantidade de resíduos plásticos forma as chamadas “ilhas de plástico” ou “grandes ilhas de lixo”.</p><p class=\"apoio\">Pesquisas demonstram que o plástico, no ambiente marinho, sofre ações do meio (sol, altas temperaturas, diferentes níveis de oxigênio, energia das ondas e presença de fatores abrasivos, como areia, cascalho ou rocha), fragmenta-se e passa a ter aparência de alimento para muitos dos animais marinhos e se inalados ou ingeridos bloqueiam as vias respiratórias e a passagem de alimento pelo estômago de várias espécies, podendo, em consequência, causar a morte e interferir na reprodução.</p><p class=\"fonte\">&lt;https://tinyurl.com/t9z9yby&gt; Acesso em: 22.04.2022. Adaptado.</p><p>Acerca das informações relacionadas ao tema tratado no texto, assinale a alternativa correta.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "As “grandes ilhas de lixo” constituem-se como a forma adequada para a coleta, reciclagem e tratamento do lixo plástico dos oceanos.",
+    "B": "A poluição causada pelo lançamento de resíduos plásticos nos oceanos pode causar o fenômeno conhecido como maré vermelha, devido ao aumento dos decompositores nas teias alimentares.",
+    "C": "As áreas oceânicas conhecidas como “ilhas de lixo” são regiões de intensa degradação dos resíduos plásticos, devido à grande quantidade de bactérias decompositoras anaeróbicas e à falta do gás oxigênio.",
+    "D": "As pesquisas demonstram que os resíduos plásticos lançados aos oceanos, ao sofrerem a ação das correntes marinhas, das variações de salinidade, de pressão, de temperatura e de atrito, em um intervalo de tempo médio, não prejudicam mais os ecossistemas.",
+    "E": "Em meio marinho, os plásticos apresentam inúmeras ameaças ecológicas, como a inibição da capacidade reprodutiva dos animais, o bloqueio do trato digestório daqueles que ingerem esses plásticos e a transferência de poluentes para a cadeia alimentar."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que os fragmentos de plástico, confundidos com alimento, bloqueiam as vias respiratórias e o estômago dos animais e podem interferir na reprodução; ao ser ingeridos, levam poluentes para a cadeia alimentar. Alternativa <strong>E</strong>.</p><p>As ilhas de lixo são um problema, não uma solução (A). A maré vermelha é causada pela proliferação de algas, não por plásticos (B). O plástico tem “baixo potencial de degradação” (C). E os fragmentos continuam prejudicando os ecossistemas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "poluição por plásticos"
+   ]
+  },
+  {
+   "numero": 37,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 36 e 37.</p><p class=\"apoio\">Os plásticos são insolúveis em água e apresentam baixo potencial de degradação.</p><p class=\"apoio\">Os ecossistemas marinhos correm o risco de sofrer danos irreparáveis em decorrência de milhões de toneladas de resíduos de plásticos que, descartados de forma incorreta, vão parar no mar todos os anos, A aglomeração dessa grande quantidade de resíduos plásticos forma as chamadas “ilhas de plástico” ou “grandes ilhas de lixo”.</p><p class=\"apoio\">Pesquisas demonstram que o plástico, no ambiente marinho, sofre ações do meio (sol, altas temperaturas, diferentes níveis de oxigênio, energia das ondas e presença de fatores abrasivos, como areia, cascalho ou rocha), fragmenta-se e passa a ter aparência de alimento para muitos dos animais marinhos e se inalados ou ingeridos bloqueiam as vias respiratórias e a passagem de alimento pelo estômago de várias espécies, podendo, em consequência, causar a morte e interferir na reprodução.</p><p class=\"fonte\">&lt;https://tinyurl.com/t9z9yby&gt; Acesso em: 22.04.2022. Adaptado.</p><p>Sobre a degradação do material descrito no texto, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ela independe de fatores ambientais, tais como: umidade, temperatura, disponibilidade de oxigênio e luminosidade.",
+    "B": "ela ocorre intensamente nas “grandes ilhas de lixo” encontradas nos oceanos, devido à falta de matéria orgânica desses locais.",
+    "C": "as bactérias e os fungos decompositores possuem enzimas específicas para transformar rapidamente a matéria mineral em orgânica.",
+    "D": "os materiais resistentes à biodegradação, quando descartados incorretamente, representam um grande desafio da gestão ambiental contemporânea.",
+    "E": "os resíduos de plásticos após se fragmentarem nos oceanos são benéficos nos processos respiratórios e reprodutivos de muitos animais marinhos, pois são facilmente digeridos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Plásticos resistem à biodegradação e permanecem no ambiente por muito tempo. Descartados de forma errada, acumulam-se nos mares: é um grande desafio da gestão ambiental atual. Alternativa <strong>D</strong>.</p><p>O próprio texto cita fatores do meio (sol, temperatura, oxigênio) que atuam no plástico (A). A degradação é lenta, não intensa (B). Os decompositores transformam matéria orgânica em mineral, não o contrário (C). E os fragmentos prejudicam os animais (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biodegradação"
+   ]
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p class=\"apoio\">Em 2020 no Brasil, 97 % das pessoas com idade entre 7 e 14 anos estavam matriculadas na escola. O restante, correspondente a 1,5 milhão de pessoas com essa idade escolar, estava fora da sala de aula.</p><p class=\"fonte\">&lt;https://tinyurl.com/tfs6qgm&gt; Acesso em: 22.04.2022. Adaptado.</p><p>Segundo os dados apresentados, em 2020, o número de pessoas com idade entre 7 e 14 anos que estavam matriculadas na escola, em milhões, era</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "48,5.",
+    "B": "45,3.",
+    "C": "43,5.",
+    "D": "42,7.",
+    "E": "40,5."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os 3% fora da escola correspondem a 1,5 milhão, então o total é 1,5 ÷ 0,03 = 50 milhões. Os matriculados são 50 − 1,5 = <strong>48,5 milhões</strong>. Alternativa <strong>A</strong>.</p><p>Os outros valores vêm de calcular o total de forma errada.</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Eletricidade",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p>Com o intuito de diminuir significativamente a geração de resíduos, têm-se estimulado a redução de consumo, a reciclagem e o reuso de dispositivos eletrônicos. Atualmente, um dos grandes vilões do meio ambiente é o descarte de baterias.</p><p>Apesar da criação das baterias recarregáveis, o problema ainda persiste. Esse é um dos motivos pelo qual a produção em larga escala de carros elétricos tem sofrido resistência. Devido a essa necessidade de diminuição de resíduos, as indústrias têm investido no sentido de ampliar a durabilidade e a capacidade de operação dessas baterias. Uma das grandezas físicas utilizada para aferir a capacidade dessas baterias tem como unidade de medida “<strong>A·h</strong>”.</p><p>É correto afirmar que essa unidade de medida se refere à grandeza física</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "carga elétrica.",
+    "B": "corrente elétrica.",
+    "C": "potencial elétrico.",
+    "D": "resistência elétrica.",
+    "E": "capacitância elétrica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Como i = Q ÷ ∆t, a carga é Q = i · ∆t: corrente (A) vezes tempo (h). O ampère-hora é uma unidade de <strong>carga elétrica</strong> (1 A·h = 3 600 C). Alternativa <strong>A</strong>.</p><p>A corrente se mede em A (B), o potencial em V (C), a resistência em Ω (D) e a capacitância em F (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "carga elétrica"
+   ]
+  },
+  {
+   "numero": 40,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p>Considere os quadrinhos.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/msnbaaea&gt; Acesso em: 23.04.2022. Original colorido.</p><p>Os principais personagens dos quadrinhos rejeitam o uso de canudinhos porque</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q40.webp",
+     "alt": "Tirinha “Cientirinhas #114”, de Merlin, em inglês, em quatro quadros. 1: um casal segura copos de bebida. 2: alguém pergunta ao homem: “Why didn't you get a straw?” (por que você não pegou um canudo?). 3: a mulher responde: “Why should I? Aren't you aware that plastic straws may end up in the oceans?” (por que deveria? Você não sabe que canudos de plástico podem acabar nos oceanos?). 4: o casal vai embora num grande carro esportivo a gasolina, que solta fumaça, e diz: “True. What would become of the planet if it weren't for concerned citizens like us?” (verdade. O que seria do planeta se não fossem cidadãos conscientes como nós?)."
+    }
+   ],
+   "alternativas": {
+    "A": "se preocupam com o alto consumo de combustíveis renováveis.",
+    "B": "se preocupam que seu descarte final possa gerar um impacto ambiental.",
+    "C": "se entediam com essa discussão sobre produtos descartáveis.",
+    "D": "são ambientalistas a favor do uso de produtos descartáveis.",
+    "E": "são consumistas que não se preocupam com a vida marinha."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A mulher diz que não usou canudo porque os canudos de plástico “podem acabar nos oceanos”: a preocupação é com o <strong>descarte</strong> e o impacto ambiental. Alternativa <strong>B</strong>.</p><p>Eles não falam de combustíveis renováveis (A). Não demonstram tédio (C). Rejeitam o descartável, não o defendem (D). E dizem se preocupar com a vida marinha, ainda que sejam incoerentes ao usar um carro poluidor (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "quadrinhos"
+   ]
+  },
+  {
+   "numero": 41,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 41 e 42.</p><p class=\"apoio\">Em todo o mundo, 1,3 bilhão de toneladas de alimentos, cerca de um terço do que é produzido, é desperdiçado ou perdido por ano. Esses alimentos que seriam descartados podem ser aproveitados nos biodigestores.</p><p class=\"apoio\">Biodigestor é um compartimento fechado onde ocorre decomposição de matéria orgânica, produzindo o biogás (metano) que pode ser utilizado para a produção de energia.</p><p>Nos biodigestores, ocorre a fermentação da Matéria Orgânica (MO) por microrganismos sem a presença de oxigênio com liberação de energia e de gases tais como CH<sub>4</sub>, H<sub>2</sub>, H<sub>2</sub>S, CO<sub>2</sub>, NH<sub>3</sub>, N<sub>2</sub> e H<sub>2</sub>O.</p><p>De acordo com o texto, a equação química simplificada que descreve a fermentação ocorrida nos biodigestores é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "MO + energia → CH<sub>4</sub> + H<sub>2</sub> + H<sub>2</sub>S + CO<sub>2</sub> + NH<sub>3</sub> + N<sub>2</sub> + H<sub>2</sub>O",
+    "B": "MO + O<sub>2</sub> + energia → CH<sub>4</sub> + H<sub>2</sub> + H<sub>2</sub>S + CO<sub>2</sub> + NH<sub>3</sub> + N<sub>2</sub> + H<sub>2</sub>O",
+    "C": "MO → CH<sub>4</sub> + H<sub>2</sub> + H<sub>2</sub>S + CO<sub>2</sub> + NH<sub>3</sub> + N<sub>2</sub> + H<sub>2</sub>O + energia",
+    "D": "MO + O<sub>2</sub> → CH<sub>4</sub> + H<sub>2</sub> + H<sub>2</sub>S + CO<sub>2</sub> + NH<sub>3</sub> + N<sub>2</sub> + H<sub>2</sub>O + energia",
+    "E": "MO + energia → CH<sub>4</sub> + H<sub>2</sub> + H<sub>2</sub>S + CO<sub>2</sub> + NH<sub>3</sub> + N<sub>2</sub> + H<sub>2</sub>O + O<sub>2</sub>"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A fermentação ocorre “sem a presença de oxigênio” (não há O₂ entre os reagentes) e “com liberação de energia” (a energia aparece entre os produtos). Alternativa <strong>C</strong>.</p><p>A e E põem a energia como reagente, ou seja, absorvida. B e D incluem O₂ nos reagentes. E E ainda libera O₂, que não está na lista de gases.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biodigestor",
+    "fermentação anaeróbica"
+   ]
+  },
+  {
+   "numero": 42,
+   "materia": "Química",
+   "assunto": "Cinética química",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 41 e 42.</p><p class=\"apoio\">Em todo o mundo, 1,3 bilhão de toneladas de alimentos, cerca de um terço do que é produzido, é desperdiçado ou perdido por ano. Esses alimentos que seriam descartados podem ser aproveitados nos biodigestores.</p><p class=\"apoio\">Biodigestor é um compartimento fechado onde ocorre decomposição de matéria orgânica, produzindo o biogás (metano) que pode ser utilizado para a produção de energia.</p><p>Um grupo de alunos construiu um biodigestor a partir de garrafas de polietileno tereftalato (PET) e galões de água para reaproveitar resíduos alimentares da escola.</p><p>No entanto, após uma semana, não observavam formação de biogás como era esperado. Para melhorar a eficiência do biodigestor, os alunos decidiram fazer uma adaptação no gerador de biogás. O biodigestor foi envolvido com saco plástico preto e exposto à radiação solar. Com essa configuração, após dois dias, foram observadas as primeiras bolhas.</p><p>Com base na adaptação feita pelos alunos, é correto afirmar que o fator cinético que contribuiu para aumentar a velocidade das reações que ocorreram no biodigestor foi a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "luz.",
+    "B": "umidade.",
+    "C": "temperatura.",
+    "D": "forma do recipiente.",
+    "E": "área da superfície do gerador."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O saco preto absorve a radiação solar e aquece o biodigestor. Com a <strong>temperatura</strong> maior, os microrganismos trabalham mais rápido e as reações se aceleram. Alternativa <strong>C</strong>.</p><p>O saco preto bloqueia a luz em vez de deixá-la entrar, e a luz não é o que acelera a fermentação (A). A umidade, a forma do recipiente e a área do gerador não mudaram (B, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fatores que alteram a velocidade"
+   ]
+  },
+  {
+   "numero": 43,
+   "materia": "História",
+   "assunto": "Revolução Industrial",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>Internet, telefone celular e computador pessoal impactaram profundamente diferentes sociedades a partir do último quartel do século XX. Essas inovações são produto de um processo de desenvolvimento tecnológico que se iniciou após a Segunda Guerra Mundial e se estende até os dias de hoje. Esse processo é chamado, pelos estudiosos, de Terceira Revolução Industrial.</p><p>Entretanto, a parceria entre ciência, técnica e indústria remonta ao século XIX, período em que ocorreu a chamada Segunda Revolução Industrial, que é marcada pela invenção</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "do satélite e da bússola.",
+    "B": "do gramofone e da luneta.",
+    "C": "do rádio e do sistema GPS.",
+    "D": "do automóvel e do telefone.",
+    "E": "do tear manual e da imprensa."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Segunda Revolução Industrial, na segunda metade do século XIX, trouxe a eletricidade, o petróleo, o aço, o motor a combustão, o <strong>automóvel</strong> e o <strong>telefone</strong>. Alternativa <strong>D</strong>.</p><p>Satélite e GPS são do século XX (A e C). A bússola, a luneta, o tear manual e a imprensa são muito anteriores (A, B e E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 44,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>Leia os quadrinhos.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/tbgmcf5&gt; Acesso em: 23.04.2022. Original colorido.</p><p>Os quadrinhos apresentados abordam uma temática relevante para a sociedade utilizando linguagem coloquial.</p><p>Analisando-se as informações verbais e não verbais utilizadas na construção da tirinha, afirma-se corretamente que o humor decorre</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q44.webp",
+     "alt": "A mesma tirinha “Cientirinhas #114”, de Merlin, em português. 1: um casal segura copos de bebida. 2: alguém pergunta: “Ué? Você não pegou canudinho?”. 3: a mulher responde: “De jeito nenhum! Você não sabia que canudos de plástico podem acabar nos oceanos?”. 4: o casal sai num grande carro esportivo, que solta fumaça, dizendo: “Verdade. O que seria do planeta se não fossem por cidadãos conscientes como nós?”."
+    }
+   ],
+   "alternativas": {
+    "A": "do contraste entre as ações politicamente corretas realizadas pelas personagens e suas falas preconceituosas.",
+    "B": "da coerência entre o posicionamento das personagens, que acreditam na inutilidade de ações ambientalmente corretas.",
+    "C": "da representação de ações consideradas fisicamente saudáveis realizadas no discurso das personagens, mas não postas em prática.",
+    "D": "da oposição existente entre as falas das personagens, que compreendem de formas diferentes o conceito de consumo sustentável.",
+    "E": "da incoerência existente entre o discurso de proteção ambiental das personagens e a concretização das ações representadas nos quadrinhos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O casal se diz consciente por recusar o canudo de plástico, mas sai num carro grande e poluente. O humor está na <strong>incoerência</strong> entre o discurso ambiental e a ação. Alternativa <strong>E</strong>.</p><p>As falas não são preconceituosas (A). Eles defendem ações ambientais, não as acham inúteis (B). O tema não é a saúde física (C). E as personagens concordam entre si (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "humor",
+    "quadrinhos"
+   ]
+  },
+  {
+   "numero": 45,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p>Leia as informações publicadas em 23.10.2019 no site da World Economic Forum.</p><p class=\"apoio\">In terms of wealth per adult, the biggest winners were in Switzerland in the period 2018–2019, with a growth of $17,790. Australia was at the other end of the scale, with losses of $ 28,670 per adult, largely down to exchange rate effects. Australia lost 124,000 millionaires following a fall in average wealth, and was the only country recording a drop of more than 2 % in house prices (–6 %).</p><p><strong>Change in wealth per adult 2018-19, biggest gains and losses</strong></p>[[fig:1]]<p class=\"fonte\">USD: American Dollar. Fonte dos dados: &lt;https://tinyurl.com/rloougx&gt; Acesso em: 20.04.2022.</p><p>Considerando as informações dadas sobre as riquezas de indivíduos entre 2018 e 2019, é correto afirmar que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q45.webp",
+     "alt": "Gráfico de barras horizontais “Figure 2: Change in wealth per adult 2018-19, biggest gains and losses”, em dólares. Ganhos, do maior para o menor: Switzerland (Suíça), cerca de 17 800; United States, cerca de 11 000; Japan e Netherlands, cerca de 8 000 cada; New Zealand, cerca de 8 000; Singapore, cerca de 6 000; Israel, Canada e Spain, cerca de 4 000 a 5 000. Perdas: Belgium, Turkey e Norway, entre 2 000 e 4 000; Australia, cerca de 28 700."
+    }
+   ],
+   "alternativas": {
+    "A": "124 000 australianos se tornaram milionários no período pré-pandemia.",
+    "B": "a Suíça foi o único país que apresentou queda nos preços das residências.",
+    "C": "Suécia e Estados Unidos da América são os países com melhores rendimentos <em>per capita</em>.",
+    "D": "nos dois países da Oceania mencionados no gráfico, os cidadãos perderam renda.",
+    "E": "Japão e Países Baixos apresentam dados de ganhos semelhantes."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No gráfico, as barras do Japão e dos Países Baixos (<em>Netherlands</em>) têm praticamente o mesmo tamanho. Alternativa <strong>E</strong>.</p><p>A Austrália perdeu 124 mil milionários (A), e foi ela, não a Suíça, que teve queda no preço das casas (B). O país do topo é a Suíça (<em>Switzerland</em>), não a Suécia (C). E a Nova Zelândia, o outro país da Oceania, teve ganho (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico"
+   ]
+  },
+  {
+   "numero": 46,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p>Aurora é uma garota de 10 anos que ama Lógica e Matemática. Certo dia, em sua sala de aula, foi proposto um desafio.</p><p>Dentro de uma caixa trancada por um cadeado com segredo, havia vários bombons, e o primeiro aluno a descobrir o segredo ganharia os bombons. Foram dadas as seguintes pistas:</p><p>• o segredo do cadeado é composto por 3 algarismos indo-arábicos distintos em ordem decrescente;<br>• algarismos divisores de 5 não fazem parte deste segredo;<br>• algarismos múltiplos de 3 não fazem parte deste segredo; e<br>• o maior algarismo do segredo é ímpar.</p><p>Com essas afirmações, Aurora foi a mais rápida e ganhou os bombons ao descobrir que o segredo é</p>[[fig:1]]",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2022-2sem/q46.webp",
+     "alt": "Ilustração de um cadeado com segredo de três rodas numeradas."
+    }
+   ],
+   "alternativas": {
+    "A": "1 2 4",
+    "B": "1 4 2",
+    "C": "5 4 2",
+    "D": "7 4 0",
+    "E": "7 4 2"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os divisores de 5 são 1 e 5; os múltiplos de 3 entre os algarismos são 0, 3, 6 e 9. Sobram 2, 4, 7 e 8. O maior algarismo é ímpar, então é 7, e os outros dois, menores que 7, são 4 e 2. Em ordem decrescente: <strong>742</strong>. Alternativa <strong>E</strong>.</p><p>A, B e C usam 1 ou 5, e A e B não estão em ordem decrescente. D usa o 0, múltiplo de 3.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisores e múltiplos"
+   ]
+  },
+  {
+   "numero": 47,
+   "materia": "Matemática",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p>Uma pessoa, com 95 kg de massa, preocupada com sua saúde, resolveu procurar um médico especialista que lhe receitou uma dieta para emagrecimento saudável.</p><p>No primeiro trimestre, ela conseguiu reduzir 14 kg. A partir daí, a cada trimestre ela percebe que só consegue reduzir metade da massa reduzida no trimestre anterior. Suponha que essa dieta seja a única maneira para ela reduzir sua massa e que seja mantida indefinidamente.</p><p>Assim sendo, mantendo os parâmetros de redução de massa apresentados, sua massa se aproximará cada vez mais de</p><p class=\"apoio\">Lembre-se de que:<br>Soma S dos infinitos termos de uma Progressão Geométrica:<br>\\(S = \\dfrac{a_1}{1 - q}\\), −1 &lt; q &lt; 1, em que <strong>a<sub>1</sub></strong> é o termo inicial e <strong>q</strong> é a razão da sequência</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "55 kg.",
+    "B": "60 kg.",
+    "C": "62 kg.",
+    "D": "67 kg.",
+    "E": "70 kg."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As reduções formam uma PG infinita: 14 + 7 + 3,5 + ..., com a₁ = 14 e q = 1/2. A soma é 14 ÷ (1 − 1/2) = 28 kg. A massa se aproxima de 95 − 28 = <strong>67 kg</strong>. Alternativa <strong>D</strong>.</p><p>70 kg seria tirar só 25 kg, e os outros valores não saem da soma da PG.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "progressão geométrica"
+   ]
+  },
+  {
+   "numero": 48,
+   "materia": "Física",
+   "assunto": "Física moderna",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>Apesar da 1ª pessoa a ganhar dois prêmios Nóbeis (e em áreas distintas) ter sido uma mulher, até hoje o ODS 5 nos mostra que a Igualdade de Gênero é algo ainda a se alcançar. Em 1903, o casal Marie e Pierre Curie foi laureado com o Prêmio Nobel de Física por suas pesquisas com <em>Radioatividade</em> (termo criado por eles) devido à descoberta dos elementos rádio e polônio. Além deles, outro casal, Frédéric e Iréne Joliot-Curie (filha do casal Curie), também foi laureado com o Nobel, mas de Química, em 1935.</p><p>De uma maneira sintética, podemos definir o fenômeno científico citado no texto como a ação de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "núcleos instáveis os quais emitem partículas e radiação eletromagnética.",
+    "B": "prótons instáveis os quais emitem subpartículas e radiação eletromagnética.",
+    "C": "elétrons instáveis os quais emitem subpartículas e radiação eletromagnética.",
+    "D": "pósitrons instáveis os quais emitem partículas e não radiação eletromagnética.",
+    "E": "nêutrons instáveis os quais emitem subpartículas e não radiação eletromagnética."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Radioatividade é a emissão espontânea feita por <strong>núcleos atômicos instáveis</strong>, que liberam partículas (alfa, beta) e radiação eletromagnética (gama) até se estabilizarem. Alternativa <strong>A</strong>.</p><p>O fenômeno é do núcleo como um todo, não de prótons, elétrons, pósitrons ou nêutrons isolados (B, C, D e E). E a radiação gama é eletromagnética (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "radioatividade"
+   ]
+  },
+  {
+   "numero": 49,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p class=\"chamada\">Leia a resenha sobre o filme <em>Radioactive</em> para responder às questões 49 e 50.</p><p class=\"apoio\"><em>Radioactive</em> Review</p><p class=\"apoio\">Director Marjane Satrapi has made a stuffy and patronising drama that does a great disservice to its undeniably fascinating subject</p><p class=\"apoio\">★☆☆☆☆ (uma estrela de cinco)</p><p class=\"apoio\">As of late, it appears that large sectors of the entertainment industry have joined in a nobly intended yet poorly executed project to promote an increased female presence in Stem fields. Call it the Hidden Figures effect if you like, but an increasing number of releases have featured girls and women exploring science and technology. While the real world would be undeniably bettered by gender parity in laboratories and other workplaces, this small movement has made for some frightfully bad art. The messaging errs without exception on the side of the heavy-handed, and characterization often suffers from an imperative to shape a human being into an exemplar of model behavior. When combined, entertainment and moral instruction can have disastrously unstable reactions.</p><p class=\"fonte\">&lt;https://tinyurl.com/rysbdux&gt; Acesso em: 20.04.2022. Adaptado.</p><p class=\"fonte\">Glossário: <em>stuffy</em>: chata · <em>patronizing</em>: paternalista · <em>Hidden Figures</em> (filme): Estrelas Além do Tempo</p><p>De acordo com a resenha, o filme <em>Radioactive</em> obteve crítica negativa, pois</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "sua diretora comete erros científicos e força uma temática feminista.",
+    "B": "apresenta uma produção enfadonha, apesar do tema fascinante.",
+    "C": "sua diretora apela para um drama moralista e ultrapassado.",
+    "D": "valoriza a participação das mulheres nas ciências.",
+    "E": "incentiva a paridade de gêneros nos laboratórios."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A resenha diz que a diretora fez um drama “<em>stuffy</em>” (chato) que presta um desserviço a um tema “<em>undeniably fascinating</em>” (inegavelmente fascinante). Alternativa <strong>B</strong>.</p><p>A crítica não aponta erros científicos (A) nem chama o drama de ultrapassado (C). E valorizar as mulheres na ciência e incentivar a paridade não são motivos da crítica negativa (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "resenha"
+   ]
+  },
+  {
+   "numero": 50,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"chamada\">Leia a resenha sobre o filme <em>Radioactive</em> para responder às questões 49 e 50.</p><p class=\"apoio\"><em>Radioactive</em> Review</p><p class=\"apoio\">Director Marjane Satrapi has made a stuffy and patronising drama that does a great disservice to its undeniably fascinating subject</p><p class=\"apoio\">★☆☆☆☆ (uma estrela de cinco)</p><p class=\"apoio\">As of late, it appears that large sectors of the entertainment industry have joined in a nobly intended yet poorly executed project to promote an increased female presence in Stem fields. Call it the Hidden Figures effect if you like, but an increasing number of releases have featured girls and women exploring science and technology. While the real world would be undeniably bettered by gender parity in laboratories and other workplaces, this small movement has made for some frightfully bad art. The messaging errs without exception on the side of the heavy-handed, and characterization often suffers from an imperative to shape a human being into an exemplar of model behavior. When combined, entertainment and moral instruction can have disastrously unstable reactions.</p><p class=\"fonte\">&lt;https://tinyurl.com/rysbdux&gt; Acesso em: 20.04.2022. Adaptado.</p><p class=\"fonte\">Glossário: <em>stuffy</em>: chata · <em>patronizing</em>: paternalista · <em>Hidden Figures</em> (filme): Estrelas Além do Tempo</p><p>A resenha aponta para o crescente número de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "filmes que são patrocinados por corporações comerciais.",
+    "B": "mulheres na direção de filmes na indústria cinematográfica.",
+    "C": "produções sobre mulheres que se destacam nas áreas científicas.",
+    "D": "erros nas representações de conceitos científicos.",
+    "E": "filmes com teor moralista e patronal."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A resenha fala de “<em>an increasing number of releases</em>” com “<em>girls and women exploring science and technology</em>”: um número crescente de filmes sobre mulheres nas ciências. Alternativa <strong>C</strong>.</p><p>O texto não fala de patrocínio (A), de diretoras (B) nem de erros científicos (D). E o tom moralista é uma crítica a esses filmes, não aquilo que cresce (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "resenha"
+   ]
+  },
+  {
+   "numero": 51,
+   "materia": "Física",
+   "assunto": "Eletricidade",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p>Leia as manchetes apresentadas, veiculadas em janeiro de 2020.</p><p class=\"apoio\">Aplicativo de relacionamento usa inteligência artificial como arma contra o abuso</p><p class=\"fonte\">&lt;https://tinyurl.com/qufhtur&gt; Acesso em: 05.04.2022. Adaptado.</p><p class=\"apoio\">Inteligência artificial emitiu aviso sobre coronavírus em dezembro</p><p class=\"fonte\">&lt;https://tinyurl.com/uoj2s7w&gt; Acesso em: 05.04.2022. Adaptado.</p><p class=\"apoio\">A inteligência artificial invade o mundo da arte</p><p class=\"fonte\">&lt;https://tinyurl.com/vqyk5qy&gt; Acesso em: 05.04.2022. Adaptado.</p><p>Metas propostas pela Agenda 2030 da ONU, tais como “Igualdade de Gênero” (ODS 5), “Saúde e Bem Estar” (ODS 3) e “Redução das Desigualdades” (ODS 10), recebem reforço com o uso de Inteligência Artificial (IA).</p><p>A IA tem sido uma aliada para estimular o consumo e a produção responsáveis de informações. Basicamente, se utiliza de algoritmos bem definidos para mapear, rastrear, coletar, analisar e armazenar rapidamente informações em forma de dados. Esses dados trafegam por toda a internet em forma de bits (<em>binary digits</em> ou dígitos binários) usando principalmente conceitos de Física.</p><p>Podemos afirmar que os campos da Física que apresentam correlação direta com essa transmissão de dados são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Termologia e Termodinâmica, pois o tráfego dos bits depende de quanto eles conseguem alterar as condições térmicas do meio.",
+    "B": "Cinemática e Dinâmica, devido à quantidade e à velocidade dos bits a serem processados durante o tráfego de informação.",
+    "C": "Eletricidade e Eletromagnetismo, já que os bits podem ser transmitidos usando correntes elétricas ou ondas eletromagnéticas.",
+    "D": "Gravitação Universal e Astrologia, porque as transmissões de bits estão diretamente ligadas ao alinhamento universal de estrelas e planetas.",
+    "E": "Quântica e Nuclear, uma vez que a coleta e o armazenamento de informações são possíveis mediante a alteração de partículas subatômicas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os bits trafegam como pulsos de corrente elétrica nos cabos ou como ondas eletromagnéticas (rádio, wi-fi, luz nas fibras ópticas): campos da <strong>Eletricidade e do Eletromagnetismo</strong>. Alternativa <strong>C</strong>.</p><p>A transmissão não depende de alterar a temperatura (A), nem da cinemática de corpos (B). Astrologia não é ciência (D). E a física nuclear não está na transmissão de dados (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "transmissão de dados"
+   ]
+  },
+  {
+   "numero": 52,
+   "materia": "História",
+   "assunto": "História contemporânea",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p>Durante a Revolução Francesa, muitas mulheres reivindicaram direitos civis e cidadania política, participaram de protestos e reuniões da Assembleia Nacional e criaram mais de 60 associações femininas, nas quais eram discutidas as principais questões políticas da época. Entretanto, o desenrolar da Revolução evidenciou uma contradição entre os princípios de Liberdade, Igualdade e Fraternidade, e a legislação que instituiu os direitos dos diferentes grupos sociais.</p><p>No caso das mulheres, essa contradição se expressa</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pela equiparação aos escravizados das colônias francesas, que fez com que esses dois grupos passassem a ter mais direitos que os demais.",
+    "B": "pela promulgação da Declaração dos Direitos da Mulher, que assegurou a superioridade feminina em relação aos homens.",
+    "C": "pela institucionalização do dia 8 de março e, ao mesmo tempo, pela equiparação salarial em relação aos homens.",
+    "D": "pela participação das meninas na vida pública e pela abolição do trabalho doméstico para as mulheres.",
+    "E": "pela conquista de direitos como o divórcio e, ao mesmo tempo, pela proibição da participação política."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Revolução Francesa aprovou o divórcio (1792) e outros direitos civis para as mulheres, mas não lhes deu cidadania política: elas não votavam e, em 1793, os clubes femininos foram proibidos. Alternativa <strong>E</strong>.</p><p>As mulheres não ganharam mais direitos que os demais grupos (A), a Declaração dos Direitos da Mulher, de Olympe de Gouges, não foi adotada e não pregava superioridade (B), o 8 de março é do século XX (C), e não houve abolição do trabalho doméstico (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Revolução Francesa",
+    "direitos das mulheres"
+   ]
+  },
+  {
+   "numero": 53,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 53 e 54.</p><p class=\"apoio\">Em 12 de julho de 2013, Malala Yousafzai discursou durante uma reunião dos jovens líderes na Assembleia Geral da ONU, em Nova Iorque.</p><p class=\"apoio\">“Queridos irmãos e irmãs, [...] aqui estou eu, uma menina, entre tantas. Eu falo não por mim, mas por aqueles cujas vozes não podem ser ouvidas. Por aqueles que têm lutado por seus direitos. O seu direito de viver em paz. O seu direito de ser tratado com dignidade. O seu direito à igualdade de oportunidades. O seu direito à educação.</p><p class=\"apoio\">Nós percebemos a importância da luz quando vemos a escuridão. Percebemos a importância da nossa voz quando somos silenciados. O sábio ditado que diz “A caneta é mais poderosa que a espada” é verdadeiro. Os extremistas têm medo dos livros e das canetas. O poder da educação os assusta e eles têm medo das mulheres. O poder da voz das mulheres os apavora. [...]</p><p class=\"apoio\">Hoje eu estou focando nos direitos das mulheres e na educação das meninas porque elas são as que mais sofrem. Houve um tempo em que as ativistas mulheres pediam aos homens para defender seus direitos. Mas desta vez, nós vamos fazer isto por conta própria. Eu não estou dizendo para os homens não falarem mais dos direitos das mulheres, mas estou focando na ideia das mulheres serem independentes e lutarem por si mesmas.</p><p class=\"apoio\">Queridos irmãos e irmãs, queremos escolas e educação para o futuro brilhante de todas as crianças. Vamos continuar a nossa jornada para o nosso destino de paz e educação. Nós acreditamos no poder e na força de nossas palavras. [...]</p><p class=\"apoio\">Queridos irmãos e irmãs, nós não podemos nos esquecer de que milhões de pessoas estão sofrendo com a pobreza, a injustiça e a ignorância. Nós não devemos nos esquecer de que milhões de crianças estão fora da escola.</p><p class=\"apoio\">Deixem-nos, portanto, travar uma luta gloriosa contra o analfabetismo, a pobreza e o terrorismo. Deixem-nos pegar nossos livros e canetas porque estas são as nossas armas mais poderosas. Uma criança, um professor, um livro e uma caneta podem mudar o mundo.”</p><p class=\"fonte\">&lt;https://tinyurl.com/s7n3xuj&gt; Acesso em: 21.04.2022. Adaptado.</p><p>Após a leitura atenta do discurso, percebe-se que o texto desenvolvido tem por objetivo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "relatar o cotidiano de jovens mulheres que lutam pela igualdade de gênero em Nova Iorque.",
+    "B": "convencer os homens a abdicarem do direito das mulheres à independência e à educação.",
+    "C": "denunciar a violência de professores contrários aos extremistas que lutam pela igualdade de gênero.",
+    "D": "mobilizar a sociedade, principalmente as mulheres, a lutar pelo direito à educação e ao conhecimento.",
+    "E": "enaltecer os esforços desempenhados por grandes lideranças mundiais a favor da universalização da saúde."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Malala convoca o público (“Deixem-nos travar uma luta gloriosa”, “Deixem-nos pegar nossos livros e canetas”) e pede às mulheres que lutem por si mesmas pelo direito à educação. É um texto de <strong>mobilização</strong>. Alternativa <strong>D</strong>.</p><p>O discurso não relata cotidianos (A), não pede que os homens abram mão de nada (B), não denuncia professores, e são os extremistas que temem a educação (C), e o tema é a educação, não a saúde (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "discurso"
+   ]
+  },
+  {
+   "numero": 54,
+   "materia": "Português",
+   "assunto": "Funções da linguagem",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 53 e 54.</p><p class=\"apoio\">Em 12 de julho de 2013, Malala Yousafzai discursou durante uma reunião dos jovens líderes na Assembleia Geral da ONU, em Nova Iorque.</p><p class=\"apoio\">“Queridos irmãos e irmãs, [...] aqui estou eu, uma menina, entre tantas. Eu falo não por mim, mas por aqueles cujas vozes não podem ser ouvidas. Por aqueles que têm lutado por seus direitos. O seu direito de viver em paz. O seu direito de ser tratado com dignidade. O seu direito à igualdade de oportunidades. O seu direito à educação.</p><p class=\"apoio\">Nós percebemos a importância da luz quando vemos a escuridão. Percebemos a importância da nossa voz quando somos silenciados. O sábio ditado que diz “A caneta é mais poderosa que a espada” é verdadeiro. Os extremistas têm medo dos livros e das canetas. O poder da educação os assusta e eles têm medo das mulheres. O poder da voz das mulheres os apavora. [...]</p><p class=\"apoio\">Hoje eu estou focando nos direitos das mulheres e na educação das meninas porque elas são as que mais sofrem. Houve um tempo em que as ativistas mulheres pediam aos homens para defender seus direitos. Mas desta vez, nós vamos fazer isto por conta própria. Eu não estou dizendo para os homens não falarem mais dos direitos das mulheres, mas estou focando na ideia das mulheres serem independentes e lutarem por si mesmas.</p><p class=\"apoio\">Queridos irmãos e irmãs, queremos escolas e educação para o futuro brilhante de todas as crianças. Vamos continuar a nossa jornada para o nosso destino de paz e educação. Nós acreditamos no poder e na força de nossas palavras. [...]</p><p class=\"apoio\">Queridos irmãos e irmãs, nós não podemos nos esquecer de que milhões de pessoas estão sofrendo com a pobreza, a injustiça e a ignorância. Nós não devemos nos esquecer de que milhões de crianças estão fora da escola.</p><p class=\"apoio\">Deixem-nos, portanto, travar uma luta gloriosa contra o analfabetismo, a pobreza e o terrorismo. Deixem-nos pegar nossos livros e canetas porque estas são as nossas armas mais poderosas. Uma criança, um professor, um livro e uma caneta podem mudar o mundo.”</p><p class=\"fonte\">&lt;https://tinyurl.com/s7n3xuj&gt; Acesso em: 21.04.2022. Adaptado.</p><p>Ocorre, no texto, a repetição da expressão “queridos irmãos e irmãs”.</p><p>O frequente uso dessa expressão, além de identificar os seus interlocutores, expressa</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "respeito, pois o contexto formal de comunicação impõe o uso do tratamento coloquial utilizado.",
+    "B": "afetividade, uma vez que qualquer contexto comunicativo impõe o uso formal de pronomes de tratamento.",
+    "C": "ironia da enunciadora, que, mesmo diante da formalidade do contexto, opta pelo tratamento informal e cômico.",
+    "D": "proximidade, pois, embora o contexto seja formal, ela utiliza um tratamento afetivo para sugerir familiaridade.",
+    "E": "desenvoltura da enunciadora, que, mesmo reconhecendo a formalidade do discurso, opta por se distanciar do público alvo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Numa assembleia da ONU, um contexto formal, Malala chama o público de “queridos irmãos e irmãs”: um tratamento afetivo, que cria <strong>proximidade</strong> e sugere uma família unida pela mesma causa. Alternativa <strong>D</strong>.</p><p>Um contexto formal não impõe tratamento coloquial (A), nem todo contexto exige pronomes formais (B), não há ironia nem comicidade (C), e a expressão aproxima, em vez de distanciar (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vocativo"
+   ]
+  }
+ ]
+}

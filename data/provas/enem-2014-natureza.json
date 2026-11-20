@@ -1,0 +1,1255 @@
+{
+ "id": "enem-2014-natureza",
+ "banca": "Enem",
+ "ano": 2014,
+ "titulo": "Enem 2014: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2014-11-08",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Física",
+   "assunto": "Oscilações",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\">Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas.</p><p class=\"fonte\">YODER, J. G. <em>Unrolling Time: Christiaan Huygens and the mathematization of nature</em>. Cambridge: Cambridge University Press, 2004 (adaptado).</p><p>Desprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "comprimento da haste seja mantido constante.",
+    "B": "massa do corpo suspenso pela haste seja pequena.",
+    "C": "material da haste possua alta condutividade térmica.",
+    "D": "amplitude da oscilação seja constante a qualquer temperatura.",
+    "E": "energia potencial gravitacional do corpo suspenso se mantenha constante."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O período de um pêndulo simples, para pequenas oscilações, é \\(T = 2\\pi\\sqrt{L/g}\\): depende só do comprimento e da gravidade, e não da massa nem da amplitude. Com <em>g</em> constante, o relógio só marca o tempo certo se o <strong>comprimento da haste for mantido constante</strong>; por isso se usou uma liga que quase não dilata com a temperatura. Alternativa <strong>A</strong>.</p><p>A massa (B) e a amplitude (D) não alteram o período nas pequenas oscilações.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pêndulo",
+    "dilatação térmica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Biologia",
+   "assunto": "Nutrição",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores.</p><p class=\"fonte\"><em>O Hoje</em>, 15 out. 2011 (adaptado).</p><p>Para suprir o déficit nutricional a que os produtores rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "vitaminas A e E.",
+    "B": "frutose e sacarose.",
+    "C": "aminoácidos naturais.",
+    "D": "aminoácidos essenciais.",
+    "E": "ácidos graxos saturados."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Sem carne, ovos e leite, a dieta perde a principal fonte de proteínas completas. Arroz e feijão juntos fornecem os <strong>aminoácidos essenciais</strong>, que o corpo não produz e precisa obter dos alimentos. Alternativa <strong>D</strong>.</p><p>Aminoácidos “naturais” (C) não é uma categoria nutricional; o que importa é se o organismo consegue ou não sintetizá-los.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aminoácidos essenciais",
+    "proteínas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p class=\"apoio\">A liberação dos gases clorofluorcarbonos (CFCs) na atmosfera pode provocar depleção de ozônio (O<sub>3</sub>) na estratosfera. O ozônio estratosférico é responsável por absorver parte da radiação ultravioleta emitida pelo Sol, a qual é nociva aos seres vivos. Esse processo, na camada de ozônio, é ilustrado simplificadamente na figura.</p>[[fig:1]]<p>Quimicamente, a destruição do ozônio na atmosfera por gases CFCs é decorrência da</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q48.webp",
+     "alt": "Esquema do ciclo de destruição do ozônio: a luz do Sol (hν) quebra uma molécula de CFC e libera um átomo de cloro, que reage com moléculas de ozônio formando monóxido de cloro e oxigênio; o monóxido de cloro reage com um átomo de oxigênio e devolve o cloro. Legenda: C, F, Cl e O."
+    }
+   ],
+   "alternativas": {
+    "A": "clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares.",
+    "B": "produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro.",
+    "C": "oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro.",
+    "D": "reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro.",
+    "E": "reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O esquema mostra a radiação ultravioleta quebrando o CFC e liberando um átomo de cloro. O cloro reage com o O<sub>3</sub> formando ClO e O<sub>2</sub>; o ClO reage com um átomo de O, forma O<sub>2</sub> e devolve o cloro, que volta a atacar outro ozônio. O cloro é um catalisador: há <strong>produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro</strong>. Alternativa <strong>B</strong>.</p><p>O CFC não reage diretamente com o ozônio (D): é a luz que o quebra antes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "camada de ozônio",
+    "catálise"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.</p><p>Essa fonte de energia subutilizada, citada no texto, é o</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "etanol, obtido a partir da decomposição da matéria orgânica por bactérias.",
+    "B": "gás natural, formado pela ação de fungos decompositores da matéria orgânica.",
+    "C": "óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.",
+    "D": "gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.",
+    "E": "gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Nos aterros sanitários, o lixo orgânico fica enterrado sem oxigênio e é decomposto por bactérias anaeróbias, que liberam biogás, rico em <strong>gás metano</strong>. Ele pode ser queimado para gerar energia, e evitar sua liberação rende créditos de carbono. Alternativa <strong>D</strong>.</p><p>O gás natural (B) é de origem fóssil, e o etanol (A) vem da fermentação de açúcares, não do lixo dos aterros.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biogás",
+    "decomposição anaeróbia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"apoio\">É comum aos fotógrafos tirar fotos coloridas em ambientes iluminados por lâmpadas fluorescentes, que contêm uma forte composição de luz verde.</p><p class=\"apoio\">A consequência desse fato na fotografia é que todos os objetos claros, principalmente os brancos, aparecerão esverdeados. Para equilibrar as cores, deve-se usar um filtro adequado para diminuir a intensidade da luz verde que chega aos sensores da câmera fotográfica.</p><p class=\"apoio\">Na escolha desse filtro, utiliza-se o conhecimento da composição das cores-luz primárias: vermelho, verde e azul; e das cores-luz secundárias: amarelo = vermelho + verde, ciano = verde + azul e magenta = vermelho + azul.</p><p class=\"fonte\">Disponível em: http://nautilus.fis.uc.pt. Acesso em: 20 maio 2014 (adaptado).</p><p>Na situação descrita, qual deve ser o filtro utilizado para que a fotografia apresente as cores naturais dos objetos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ciano.",
+    "B": "Verde.",
+    "C": "Amarelo.",
+    "D": "Magenta.",
+    "E": "Vermelho."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A luz tem verde em excesso, então o filtro deve barrar o verde e deixar passar o vermelho e o azul. O filtro que transmite vermelho + azul é o <strong>magenta</strong>. Alternativa <strong>D</strong>.</p><p>Ciano e amarelo (A e C) deixam passar o verde.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cores-luz",
+    "filtros"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\">Para impedir a contaminação microbiana do suprimento de água, deve-se eliminar as emissões de efluentes e, quando necessário, tratá-lo com desinfetante.</p><p class=\"apoio\">O ácido hipocloroso (HClO), produzido pela reação entre cloro e água, é um dos compostos mais empregados como desinfetante. Contudo, ele não atua somente como oxidante, mas também como um ativo agente de cloração.</p><p class=\"apoio\">A presença de matéria orgânica dissolvida no suprimento de água clorada pode levar à formação de clorofórmio (CHCl<sub>3</sub>) e outras espécies orgânicas cloradas tóxicas.</p><p class=\"fonte\">SPIRO, T. G.; STIGLIANI, W. M. <em>Química ambiental</em>. São Paulo: Pearson, 2009 (adaptado).</p><p>Visando eliminar da água o clorofórmio e outras moléculas orgânicas, o tratamento adequado é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "filtração, com o uso de filtros de carvão ativo.",
+    "B": "fluoretação, pela adição de fluoreto de sódio.",
+    "C": "coagulação, pela adição de sulfato de alumínio.",
+    "D": "correção do pH, pela adição de carbonato de sódio.",
+    "E": "floculação, em tanques de concreto com a água em movimento."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O carvão ativo é muito poroso e tem uma enorme superfície, onde as moléculas orgânicas ficam adsorvidas. A <strong>filtração com filtros de carvão ativo</strong> remove o clorofórmio e outros compostos orgânicos dissolvidos. Alternativa <strong>A</strong>.</p><p>Coagulação e floculação (C e E) removem partículas em suspensão, e não substâncias dissolvidas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tratamento de água",
+    "adsorção"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Química",
+   "assunto": "Isomeria",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"apoio\">A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.</p><p class=\"fonte\">COELHO, F. A. S. Fármacos e quiralidade. Cadernos Temáticos de Química Nova na Escola, São Paulo, n. 3, maio 2001 (adaptado).</p><p>Essa malformação congênita ocorre porque esses enantiômeros</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reagem entre si.",
+    "B": "não podem ser separados.",
+    "C": "não estão presentes em partes iguais.",
+    "D": "interagem de maneira distinta com o organismo.",
+    "E": "são estruturas com diferentes grupos funcionais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Enantiômeros têm as mesmas propriedades físicas e químicas comuns, mas são imagens especulares, e as moléculas do organismo (enzimas, receptores) também são quirais. Por isso cada enantiômero se encaixa de um jeito: os enantiômeros <strong>interagem de maneira distinta com o organismo</strong>. Alternativa <strong>D</strong>.</p><p>A mistura racêmica tem partes iguais dos dois (C), e os grupos funcionais são os mesmos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "quiralidade",
+    "talidomida"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p>Embora seja um conceito fundamental para a biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.</p><p>Para esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "modificação de características.",
+    "B": "incremento no tamanho corporal.",
+    "C": "complexificação de seus sistemas.",
+    "D": "melhoria de processos e estruturas.",
+    "E": "especialização para uma determinada finalidade."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Para a biologia, evolução não significa progresso nem melhoria: é a mudança das populações ao longo das gerações. Os seres vivos passam por <strong>modificação de características</strong>, e a espécie humana não é o “ápice” de nada. Alternativa <strong>A</strong>.</p><p>As demais opções supõem uma direção ou finalidade (melhoria, complexidade, especialização), ideia que o texto rejeita.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "evolução",
+    "senso comum"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"apoio\">O biodiesel não é classificado como uma substância pura, mas como uma mistura de ésteres derivados dos ácidos graxos presentes em sua matéria-prima. As propriedades do biodiesel variam com a composição do óleo vegetal ou gordura animal que lhe deu origem, por exemplo, o teor de ésteres saturados é responsável pela maior estabilidade do biodiesel frente à oxidação, o que resulta em aumento da vida útil do biocombustível. O quadro ilustra o teor médio de ácidos graxos de algumas fontes oleaginosas.</p><table class=\"tabela\"><thead><tr><th>Fonte oleaginosa</th><th>Mirístico (C14:0)</th><th>Palmítico (C16:0)</th><th>Esteárico (C18:0)</th><th>Oleico (C18:1)</th><th>Linoleico (C18:2)</th><th>Linolênico (C18:3)</th></tr></thead><tbody><tr><td>Milho</td><td>&lt; 0,1</td><td>11,7</td><td>1,9</td><td>25,2</td><td>60,6</td><td>0,5</td></tr><tr><td>Palma</td><td>1,0</td><td>42,8</td><td>4,5</td><td>40,5</td><td>10,1</td><td>0,2</td></tr><tr><td>Canola</td><td>&lt; 0,2</td><td>3,5</td><td>0,9</td><td>64,4</td><td>22,3</td><td>8,2</td></tr><tr><td>Algodão</td><td>0,7</td><td>20,1</td><td>2,6</td><td>19,2</td><td>55,2</td><td>0,6</td></tr><tr><td>Amendoim</td><td>&lt; 0,6</td><td>11,4</td><td>2,4</td><td>48,3</td><td>32,0</td><td>0,9</td></tr></tbody></table><p class=\"apoio\">Valores: teor médio do ácido graxo (% em massa).</p><p class=\"fonte\">MA, F.; HANNA, M. A. Biodiesel Production: a review. <em>Bioresource Technology</em>, Londres, v. 70, n. 1, jan. 1999 (adaptado).</p><p>Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Milho.",
+    "B": "Palma.",
+    "C": "Canola.",
+    "D": "Algodão.",
+    "E": "Amendoim."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que os ésteres saturados dão mais estabilidade frente à oxidação. Os ácidos saturados do quadro são o mirístico, o palmítico e o esteárico (o número depois dos dois-pontos é zero). Somando-os, a palma tem cerca de 1,0 + 42,8 + 4,5 = 48,3%, muito mais que as outras. A fonte é a <strong>palma</strong>. Alternativa <strong>B</strong>.</p><p>A canola (C) é rica em oleico e linolênico, insaturados, que se oxidam mais facilmente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biodiesel",
+    "ácidos graxos saturados"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p>Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observa o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca).</p>[[fig:1]]<p>Nessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com duração média de 8 minutos, permanecendo o registro aberto com vazão máxima durante esse tempo. A ducha é instalada em um ponto seis metros abaixo do nível da lâmina de água, que se mantém constante dentro do reservatório.</p><p>Ao final de 30 dias, esses banhos consumirão um volume de água, em litros, igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q55.webp",
+     "alt": "Gráfico da vazão (L/min) em função da pressão estática (mca), de 1 a 8 mca. A vazão cresce de cerca de 5 L/min a 1 mca para 9 L/min a 3 mca, 11 L/min a 5 mca, 12 L/min a 6 mca e 14 L/min a 8 mca."
+    }
+   ],
+   "alternativas": {
+    "A": "69 120.",
+    "B": "17 280.",
+    "C": "11 520.",
+    "D": "8 640.",
+    "E": "2 880."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A ducha fica 6 m abaixo do nível da água, então a pressão estática é de 6 mca. Pelo gráfico, a vazão nesse ponto é de 12 L/min. Cada banho gasta 8 × 12 = 96 L; por dia, 4 × 96 = 384 L; em 30 dias, 384 × 30 = <strong>11 520 L</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão hidrostática",
+    "vazão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p class=\"apoio\">Diesel é uma mistura de hidrocarbonetos que também apresenta enxofre em sua composição. Esse enxofre é um componente indesejável, pois o trióxido de enxofre gerado é um dos grandes causadores da chuva ácida.</p><p class=\"apoio\">Nos anos 1980, não havia regulamentação e era utilizado óleo diesel com 13 000 ppm de enxofre. Em 2009, o diesel passou a ter 1 800 ppm de enxofre (S1800) e, em seguida, foi inserido no mercado o diesel S500 (500 ppm).</p><p class=\"apoio\">Em 2012, foi difundido o diesel S50, com 50 ppm de enxofre em sua composição. Atualmente, é produzido um diesel com teores de enxofre ainda menores.</p><p class=\"fonte\"><em>Os impactos da má qualidade do óleo diesel brasileiro</em>. Disponível em: www.cnt.org.br. Acesso em: 20 dez. 2012 (adaptado).</p><p>A substituição do diesel usado nos anos 1980 por aquele difundido em 2012 permitiu uma redução percentual de emissão de SO<sub>3</sub> de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "86,2%.",
+    "B": "96,2%.",
+    "C": "97,2%.",
+    "D": "99,6%.",
+    "E": "99,9%."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A emissão de SO<sub>3</sub> é proporcional ao teor de enxofre. Passar de 13 000 ppm para 50 ppm significa reduzir 12 950 ppm: \\(\\dfrac{12\\,950}{13\\,000} \\approx 0{,}996\\), ou seja, <strong>99,6%</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "chuva ácida",
+    "porcentagem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p>Um sistema de iluminação foi construído com um circuito de três lâmpadas iguais conectadas a um gerador (G) de tensão constante. Esse gerador possui uma chave que pode ser ligada nas posições A ou B.</p>[[fig:1]]<p>Considerando o funcionamento do circuito dado, a lâmpada 1 brilhará mais quando a chave estiver na posição</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q57.webp",
+     "alt": "Circuito com três lâmpadas iguais, 1, 2 e 3, marcadas com X, ligadas a um gerador G com polos + e −. Uma chave no gerador pode ligar na posição A ou na posição B, que conectam o circuito a pontos diferentes."
+    }
+   ],
+   "alternativas": {
+    "A": "B, pois a corrente será maior nesse caso.",
+    "B": "B, pois a potência total será maior nesse caso.",
+    "C": "A, pois a resistência equivalente será menor nesse caso.",
+    "D": "B, pois o gerador fornecerá uma maior tensão nesse caso.",
+    "E": "A, pois a potência dissipada pelo gerador será menor nesse caso."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Seguindo os fios: as lâmpadas 1 e 3 estão sempre em paralelo entre si. Na posição A, a chave liga o gerador direto ao ponto depois delas, e a lâmpada 2 fica fora do circuito: a resistência equivalente é R/2, e a lâmpada 1 recebe a tensão inteira do gerador, U. Na posição B, a lâmpada 2 entra em série com o par 1–3: a resistência equivalente sobe para 3R/2, e a lâmpada 1 fica com só U/3. Com a <strong>resistência equivalente menor</strong> em A, a lâmpada 1 tem mais tensão e mais corrente e brilha mais. Alternativa <strong>C</strong>.</p><p>A tensão do gerador não muda com a chave (D), e a potência total é maior justamente em A, e não em B.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "associação de resistores",
+    "potência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p class=\"apoio\">A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.</p><p class=\"fonte\">SANTOS, W. L. P.; MÓL, G. S. (Coords.). <em>Química e sociedade</em>. São Paulo: Nova Geração, 2005 (adaptado).</p><p>A substância capaz de formar as estruturas mencionadas é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "C<sub>18</sub>H<sub>36</sub>.",
+    "B": "C<sub>17</sub>H<sub>33</sub>COONa.",
+    "C": "CH<sub>3</sub>CH<sub>2</sub>COONa.",
+    "D": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOH.",
+    "E": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O sabão é um sal de ácido graxo: tem uma longa cadeia de carbono, apolar, que interage com a gordura, e uma ponta iônica (COO<sup>−</sup>Na<sup>+</sup>), polar, que interage com a água. Entre as opções, só o <strong>C<sub>17</sub>H<sub>33</sub>COONa</strong> tem as duas partes. Alternativa <strong>B</strong>.</p><p>O CH<sub>3</sub>CH<sub>2</sub>COONa (C) tem cadeia curta demais para formar micelas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sabão",
+    "micelas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p>A revelação das chapas de raios X gera uma solução que contém íons prata na forma de Ag(S<sub>2</sub>O<sub>3</sub>)<sub>2</sub><sup>3−</sup>. Para evitar a descarga desse metal no ambiente, a recuperação de prata metálica pode ser feita tratando eletroquimicamente essa solução com uma espécie adequada. O quadro apresenta semirreações de redução de alguns íons metálicos.</p><table class=\"tabela\"><thead><tr><th>Semirreação de redução</th><th><em>E</em>⁰ (V)</th></tr></thead><tbody><tr><td>Ag(S<sub>2</sub>O<sub>3</sub>)<sub>2</sub><sup>3−</sup> (aq) + e<sup>−</sup> ⇌ Ag (s) + 2 S<sub>2</sub>O<sub>3</sub><sup>2−</sup> (aq)</td><td>+0,02</td></tr><tr><td>Cu<sup>2+</sup> (aq) + 2 e<sup>−</sup> ⇌ Cu (s)</td><td>+0,34</td></tr><tr><td>Pt<sup>2+</sup> (aq) + 2 e<sup>−</sup> ⇌ Pt (s)</td><td>+1,20</td></tr><tr><td>Al<sup>3+</sup> (aq) + 3 e<sup>−</sup> ⇌ Al (s)</td><td>−1,66</td></tr><tr><td>Sn<sup>2+</sup> (aq) + 2 e<sup>−</sup> ⇌ Sn (s)</td><td>−0,14</td></tr><tr><td>Zn<sup>2+</sup> (aq) + 2 e<sup>−</sup> ⇌ Zn (s)</td><td>−0,76</td></tr></tbody></table><p class=\"fonte\">BENDASSOLLI, J. A. et al. Procedimentos para a recuperação de Ag de resíduos líquidos e sólidos. <em>Química Nova</em>, v. 26, n. 4, 2003 (adaptado).</p><p>Das espécies apresentadas, a adequada para essa recuperação é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Cu (s).",
+    "B": "Pt (s).",
+    "C": "Al<sup>3+</sup> (aq).",
+    "D": "Sn (s).",
+    "E": "Zn<sup>2+</sup> (aq)."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Para reduzir a prata a Ag metálica, é preciso uma espécie que se oxide com facilidade, ou seja, um metal com potencial de redução menor que o da prata (+0,02 V). As opções que são metais sólidos e podem se oxidar são Cu, Pt e Sn; só o Sn tem potencial menor (−0,14 V). A espécie adequada é <strong>Sn (s)</strong>. Alternativa <strong>D</strong>.</p><p>Al<sup>3+</sup> e Zn<sup>2+</sup> (C e E) já estão oxidados e não podem doar elétrons.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potencial de redução",
+    "pilhas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p class=\"apoio\">Existem bactérias que inibem o crescimento de um fungo causador de doenças no tomateiro, por consumirem o ferro disponível no meio. As bactérias também fazem fixação de nitrogênio, disponibilizam cálcio e produzem auxinas, substâncias que estimulam diretamente o crescimento do tomateiro.</p><p class=\"fonte\">PELZER, G. Q. et al. Mecanismos de controle da murcha-de-esclerócio e promoção de crescimento em tomateiro mediados por rizobactérias. <em>Tropical Plant Pathology</em>, v. 36, n. 2, mar.-abr. 2011 (adaptado).</p><p>Qual dos processos biológicos mencionados indica uma relação ecológica de competição?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Fixação de nitrogênio para o tomateiro.",
+    "B": "Disponibilização de cálcio para o tomateiro.",
+    "C": "Diminuição da quantidade de ferro disponível para o fungo.",
+    "D": "Liberação de substâncias que inibem o crescimento do fungo.",
+    "E": "Liberação de auxinas que estimulam o crescimento do tomateiro."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Competição é a disputa entre organismos por um mesmo recurso limitado. As bactérias consomem o ferro do meio e deixam o fungo sem ele: há <strong>diminuição da quantidade de ferro disponível para o fungo</strong>. Alternativa <strong>C</strong>.</p><p>Liberar substâncias que inibem o outro (D) é amensalismo (antibiose), não competição.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "competição",
+    "relações ecológicas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Biologia",
+   "assunto": "Botânica",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p>Uma região de Cerrado possui lençol freático profundo, estação seca bem marcada, grande insolação e recorrência de incêndios naturais. Cinco espécies de árvores nativas, com as características apresentadas no quadro, foram avaliadas quanto ao seu potencial para uso em projetos de reflorestamento nessa região.</p><table class=\"tabela\"><thead><tr><th>Característica</th><th>Árvore 1</th><th>Árvore 2</th><th>Árvore 3</th><th>Árvore 4</th><th>Árvore 5</th></tr></thead><tbody><tr><td>Superfície foliar</td><td>Coberta por tricomas</td><td>Coberta por cera</td><td>Coberta por cera</td><td>Coberta por espinhos</td><td>Coberta por espinhos</td></tr><tr><td>Profundidade das raízes</td><td>Baixa</td><td>Alta</td><td>Baixa</td><td>Baixa</td><td>Alta</td></tr></tbody></table><p>Qual é a árvore adequada para o reflorestamento dessa região?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No Cerrado, o lençol freático é profundo e a seca é longa: a árvore precisa de <strong>raízes profundas</strong> para alcançar a água e de folhas que percam pouca água, como as cobertas de <strong>cera</strong>, que reduzem a transpiração e refletem a luz. A árvore 2 reúne as duas características. Alternativa <strong>B</strong>.</p><p>A árvore 5 também tem raízes profundas, mas espinhos não são o que protege do excesso de insolação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Cerrado",
+    "adaptações das plantas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p>Um sistema de pistão contendo um gás é mostrado na figura. Sobre a extremidade superior do êmbolo, que pode movimentar-se livremente sem atrito, encontra-se um objeto. Através de uma chapa de aquecimento é possível fornecer calor ao gás e, com auxílio de um manômetro, medir sua pressão. A partir de diferentes valores de calor fornecido, considerando o sistema como hermético, o objeto elevou-se em valores Δh, como mostrado no gráfico. Foram estudadas, separadamente, quantidades equimolares de dois diferentes gases, denominados M e V.</p>[[fig:1]]<p>A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q62.webp",
+     "alt": "À esquerda, um cilindro com um êmbolo que sustenta um objeto, um manômetro ligado ao cilindro e uma chapa de aquecimento embaixo; o êmbolo sobe uma altura Δh. À direita, um gráfico de Δh em função do calor fornecido com duas retas partindo da origem: a do gás M é mais inclinada que a do gás V."
+    }
+   ],
+   "alternativas": {
+    "A": "maior pressão de vapor.",
+    "B": "menor massa molecular.",
+    "C": "maior compressibilidade.",
+    "D": "menor energia de ativação.",
+    "E": "menor capacidade calorífica."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os gases recebem o mesmo calor, e o gás M eleva o objeto mais que o V. A pressão é a mesma (o peso do objeto não muda), então quem se expande mais é quem aquece mais. Para a mesma quantidade de calor, aquece mais o gás com <strong>menor capacidade calorífica</strong>. Alternativa <strong>E</strong>.</p><p>Como as quantidades são equimolares e a pressão é a mesma, a massa molecular (B) não muda o volume ocupado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "primeira lei da termodinâmica",
+    "capacidade térmica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Química",
+   "assunto": "Ciclos biogeoquímicos",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p>A aplicação excessiva de fertilizantes nitrogenados na agricultura pode acarretar alterações no solo e na água pelo acúmulo de compostos nitrogenados, principalmente a forma mais oxidada, favorecendo a proliferação de algas e plantas aquáticas e alterando o ciclo do nitrogênio, representado no esquema. A espécie nitrogenada mais oxidada tem sua quantidade controlada por ação de microrganismos que promovem a reação de redução dessa espécie, no processo denominado desnitrificação.</p>[[fig:1]]<p>O processo citado está representado na etapa</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q63.webp",
+     "alt": "Esquema do ciclo do nitrogênio: N2 passa a NH3 (etapa I), NH3 a NH4+ (etapa II), NH4+ a NO2− (etapa III), NO2− a NO3− (etapa IV) e NO3− volta a N2 (etapa V)."
+    }
+   ],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A forma mais oxidada do nitrogênio é o nitrato, NO<sub>3</sub><sup>−</sup> (número de oxidação +5). Na desnitrificação, bactérias o reduzem a N<sub>2</sub>, que volta para a atmosfera. No esquema, essa é a <strong>etapa V</strong>. Alternativa <strong>E</strong>.</p><p>A etapa I é a fixação (N<sub>2</sub> a NH<sub>3</sub>), e as etapas III e IV são a nitrificação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo do nitrogênio",
+    "desnitrificação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Física",
+   "assunto": "Quantidade de movimento",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p>O pêndulo de Newton pode ser constituído por cinco pêndulos idênticos suspensos em um mesmo suporte. Em um dado instante, as esferas de três pêndulos são deslocadas para a esquerda e liberadas, deslocando-se para a direita e colidindo elasticamente com as outras duas esferas, que inicialmente estavam paradas.</p>[[fig:1]]<p>O movimento dos pêndulos após a primeira colisão está representado em:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q64.webp",
+     "alt": "Pêndulo de Newton com cinco esferas: as três da esquerda afastadas para a esquerda e vindo para a direita; as duas da direita paradas."
+    },
+    {
+     "src": "assets/img/enem-2014-natureza/q64a.webp",
+     "alt": "Alternativa A: duas esferas sobem para a esquerda, uma fica parada no centro e duas sobem para a direita."
+    },
+    {
+     "src": "assets/img/enem-2014-natureza/q64b.webp",
+     "alt": "Alternativa B: duas esferas sobem para a esquerda e três sobem para a direita."
+    },
+    {
+     "src": "assets/img/enem-2014-natureza/q64c.webp",
+     "alt": "Alternativa C: duas esferas ficam paradas à esquerda e três sobem para a direita."
+    },
+    {
+     "src": "assets/img/enem-2014-natureza/q64d.webp",
+     "alt": "Alternativa D: três esferas ficam paradas e duas sobem para a direita."
+    },
+    {
+     "src": "assets/img/enem-2014-natureza/q64e.webp",
+     "alt": "Alternativa E: quatro esferas ficam paradas e uma sobe para a direita."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Numa colisão elástica entre esferas iguais, a quantidade de movimento e a energia se conservam: se três esferas batem, três esferas saem do outro lado com a mesma velocidade. As duas primeiras ficam paradas e as três últimas sobem para a direita, como mostra a <strong>figura C</strong>. Alternativa <strong>C</strong>.</p><p>Em D e E saem só duas ou uma esfera, o que não conserva ao mesmo tempo o momento e a energia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "colisão elástica",
+    "conservação do momento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "<p>A forma das moléculas, como representadas no papel, nem sempre é planar. Em um determinado fármaco, a molécula contendo um grupo não planar é biologicamente ativa, enquanto moléculas contendo substituintes planares são inativas.</p><p>O grupo responsável pela bioatividade desse fármaco é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q65a.webp",
+     "alt": "Alternativa A: anel de seis carbonos só com ligações simples (cicloexano) ligado à cadeia."
+    },
+    {
+     "src": "assets/img/enem-2014-natureza/q65b.webp",
+     "alt": "Alternativa B: anel de cinco átomos com enxofre e duas ligações duplas (tiofeno)."
+    },
+    {
+     "src": "assets/img/enem-2014-natureza/q65c.webp",
+     "alt": "Alternativa C: anel de quatro carbonos com duas ligações duplas."
+    },
+    {
+     "src": "assets/img/enem-2014-natureza/q65d.webp",
+     "alt": "Alternativa D: anel benzênico, representado com um círculo dentro do hexágono."
+    },
+    {
+     "src": "assets/img/enem-2014-natureza/q65e.webp",
+     "alt": "Alternativa E: grupo aldeído, um carbono com dupla ligação com oxigênio e ligado a um hidrogênio."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Anéis aromáticos e anéis com ligações duplas, como o benzeno, o tiofeno e o ciclobutadieno, são planos, porque os carbonos com dupla têm geometria trigonal plana; o grupo aldeído também é plano. Já o cicloexano só tem carbonos com ligações simples (tetraédricos) e se dobra em forma de cadeira: é o grupo não planar, o <strong>cicloexil</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "geometria molecular",
+    "hibridização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p>A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meios artificiais, dizemos que existe poluição térmica.</p><p>As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.</p><p>Que parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Fissão do material radioativo.",
+    "B": "Condensação do vapor-d’água no final do processo.",
+    "C": "Conversão de energia das turbinas pelos geradores.",
+    "D": "Aquecimento da água líquida para gerar vapor-d’água.",
+    "E": "Lançamento do vapor-d’água sobre as pás das turbinas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Numa usina nuclear, depois de passar pelas turbinas o vapor precisa ser condensado para voltar ao ciclo, e para isso usa-se água de rios ou do mar, que é devolvida aquecida. A poluição térmica vem da <strong>condensação do vapor-d’água no final do processo</strong>. Alternativa <strong>B</strong>.</p><p>A fissão (A) aquece a água de um circuito fechado, sem contato com o ambiente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "usina nuclear",
+    "poluição térmica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Física",
+   "assunto": "Leis de Newton",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "<p>Para entender os movimentos dos corpos, Galileu discutiu o movimento de uma esfera de metal em dois planos inclinados sem atritos e com a possibilidade de se alterarem os ângulos de inclinação, conforme mostra a figura. Na descrição do experimento, quando a esfera de metal é abandonada para descer um plano inclinado de um determinado nível, ela sempre atinge, no plano ascendente, no máximo, um nível igual àquele em que foi abandonada.</p>[[fig:1]]<p class=\"fonte\"><em>Galileu e o plano inclinado</em>. Disponível em: www.fisica.ufpb.br. Acesso em: 21 ago. 2012 (adaptado).</p><p>Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q67.webp",
+     "alt": "Dois planos inclinados unidos pela base: a esfera é abandonada no alto de um deles e sobe pelo outro até uma linha tracejada na mesma altura, chamada “nível de abandono da esfera”. Estão marcados o ângulo do plano de descida e o ângulo do plano de subida."
+    }
+   ],
+   "alternativas": {
+    "A": "manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo.",
+    "B": "manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la.",
+    "C": "diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la.",
+    "D": "diminuirá gradativamente a sua velocidade, pois o impulso resultante será contrário ao seu movimento.",
+    "E": "aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Sem atrito, a esfera sobe até a mesma altura de onde saiu. Se o plano de subida tiver ângulo zero, ela nunca alcança essa altura e continua indefinidamente: como nenhuma força horizontal atua, o impulso resultante é nulo e ela <strong>mantém sua velocidade constante</strong>. É o princípio da inércia. Alternativa <strong>A</strong>.</p><p>Não existe um “impulso da descida” que continue empurrando a esfera (B): o movimento se mantém sem força.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "inércia",
+    "Galileu"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p>Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um ângulo fixo e maior que zero, qualquer modificação no ângulo do feixe refratado indicará adulteração no combustível.</p><p>Em uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Mudou de sentido.",
+    "B": "Sofreu reflexão total.",
+    "C": "Atingiu o valor do ângulo limite.",
+    "D": "Direcionou-se para a superfície de separação.",
+    "E": "Aproximou-se da normal à superfície de separação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A razão entre os senos é \\(\\dfrac{\\operatorname{sen} i}{\\operatorname{sen} r} = n\\). Com o ângulo de incidência fixo, se a razão aumentou de 1,4 para 1,9, então sen <em>r</em> diminuiu: o ângulo de refração ficou menor, e o raio <strong>se aproximou da normal</strong>. Alternativa <strong>E</strong>.</p><p>A reflexão total (B) só ocorre quando a luz passa de um meio mais refringente para um menos refringente, e aqui ela vem do ar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "refração",
+    "lei de Snell"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p>Em um laboratório de genética experimental, observou-se que determinada bactéria continha um gene que conferia resistência a pragas específicas de plantas.</p><p>Em vista disso, os pesquisadores procederam de acordo com a figura.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).</p><p>Do ponto de vista biotecnológico, como a planta representada na figura é classificada?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q69.webp",
+     "alt": "Esquema em sete passos: 1, bactéria; 2, isolamento do DNA bacteriano; 3, clonagem do DNA; 4, extração do gene de interesse; 5, fabricação do gene; 6, inserção do gene nas células do tecido da planta; 7, planta."
+    }
+   ],
+   "alternativas": {
+    "A": "Clone.",
+    "B": "Híbrida.",
+    "C": "Mutante.",
+    "D": "Adaptada.",
+    "E": "Transgênica."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os pesquisadores isolaram um gene de uma bactéria e o inseriram nas células de uma planta, que passou a ter DNA de outra espécie. Um organismo que recebe gene de outra espécie é <strong>transgênico</strong>. Alternativa <strong>E</strong>.</p><p>Um clone (A) é uma cópia genética de um organismo, e um híbrido (B) vem do cruzamento entre variedades ou espécies.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transgênicos",
+    "DNA recombinante"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Química",
+   "assunto": "pH",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p>Visando minimizar impactos ambientais, a legislação brasileira determina que resíduos químicos lançados diretamente no corpo receptor tenham pH entre 5,0 e 9,0.</p><p>Um resíduo líquido aquoso gerado em um processo industrial tem concentração de íons hidroxila igual a 1,0 × 10<sup>−10</sup> mol/L. Para atender a legislação, um químico separou as seguintes substâncias, disponibilizadas no almoxarifado da empresa: CH<sub>3</sub>COOH, Na<sub>2</sub>SO<sub>4</sub>, CH<sub>3</sub>OH, K<sub>2</sub>CO<sub>3</sub> e NH<sub>4</sub>Cl.</p><p>Para que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "CH<sub>3</sub>COOH",
+    "B": "Na<sub>2</sub>SO<sub>4</sub>",
+    "C": "CH<sub>3</sub>OH",
+    "D": "K<sub>2</sub>CO<sub>3</sub>",
+    "E": "NH<sub>4</sub>Cl"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com [OH<sup>−</sup>] = 1,0 × 10<sup>−10</sup> mol/L, o pOH é 10 e o pH é 4: o resíduo é ácido demais e precisa ter o pH aumentado até pelo menos 5. É preciso uma substância de caráter básico. O K<sub>2</sub>CO<sub>3</sub> é um sal de base forte e ácido fraco, que, em água, deixa a solução básica. A resposta é o <strong>K<sub>2</sub>CO<sub>3</sub></strong>. Alternativa <strong>D</strong>.</p><p>O ácido acético e o NH<sub>4</sub>Cl (A e E) baixariam ainda mais o pH, e o Na<sub>2</sub>SO<sub>4</sub> e o metanol (B e C) são praticamente neutros.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hidrólise salina",
+    "pH e pOH"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p class=\"apoio\">Parte do gás carbônico da atmosfera é absorvida pela água do mar. O esquema representa reações que ocorrem naturalmente, em equilíbrio, no sistema ambiental marinho. O excesso de dióxido de carbono na atmosfera pode afetar os recifes de corais.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://news.bbc.co.uk. Acesso em: 20 maio 2014 (adaptado).</p><p>O resultado desse processo nos corais é o(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q71.webp",
+     "alt": "Esquema das reações no mar: o dióxido de carbono atmosférico (CO2) se dissolve na água, reage com ela formando ácido carbônico (H2CO3), que se separa em íons hidrogênio (H+) e íons bicarbonato (HCO3−); os íons hidrogênio reagem com os íons carbonato (CO3 2−). Uma barra de cores vai de “menos ácido” a “mais ácido”, e ao fundo aparecem conchas deformadas."
+    }
+   ],
+   "alternativas": {
+    "A": "seu branqueamento, levando à sua morte e extinção.",
+    "B": "excesso de fixação de cálcio, provocando calcificação indesejável.",
+    "C": "menor incorporação de carbono, afetando seu metabolismo energético.",
+    "D": "estímulo da atividade enzimática, evitando a descalcificação dos esqueletos.",
+    "E": "dano à estrutura dos esqueletos calcários, diminuindo o tamanho das populações."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O CO<sub>2</sub> dissolvido forma ácido carbônico, que libera H<sup>+</sup>. Esses íons reagem com o carbonato (CO<sub>3</sub><sup>2−</sup>), deslocando o equilíbrio para o bicarbonato, e falta carbonato para os corais formarem o esqueleto de CaCO<sub>3</sub>. O esquema fala em “conchas deformadas”: há <strong>dano à estrutura dos esqueletos calcários, diminuindo o tamanho das populações</strong>. Alternativa <strong>E</strong>.</p><p>O branqueamento (A) está ligado ao aquecimento da água, e não à acidificação mostrada no esquema.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "acidificação dos oceanos",
+    "corais"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p>O funcionamento dos geradores de usinas elétricas baseia-se no fenômeno da indução eletromagnética, descoberto por Michael Faraday no século XIX. Pode-se observar esse fenômeno ao se movimentar um ímã e uma espira em sentidos opostos com módulo da velocidade igual a v, induzindo uma corrente elétrica de intensidade i, como ilustrado na figura.</p>[[fig:1]]<p>A fim de se obter uma corrente com o mesmo sentido da apresentada na figura, utilizando os mesmos materiais, outra possibilidade é mover a espira para a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q72.webp",
+     "alt": "Um ímã com polos S e N à esquerda, com velocidade v para a esquerda, e uma bobina à direita, com velocidade v para a direita; as linhas de campo B saem do polo N e atravessam a bobina, ligada a um amperímetro A; a corrente i indicada vai para a direita."
+    }
+   ],
+   "alternativas": {
+    "A": "esquerda e o ímã para a direita com polaridade invertida.",
+    "B": "direita e o ímã para a esquerda com polaridade invertida.",
+    "C": "esquerda e o ímã para a esquerda com mesma polaridade.",
+    "D": "direita e manter o ímã em repouso com polaridade invertida.",
+    "E": "esquerda e manter o ímã em repouso com mesma polaridade."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na figura, ímã e espira se afastam. O sentido da corrente induzida se inverte quando se troca o tipo de movimento relativo (afastar ou aproximar) e também quando se inverte a polaridade do ímã. Trocando as duas coisas ao mesmo tempo, as inversões se cancelam e a corrente mantém o sentido: mover a <strong>espira para a esquerda e o ímã para a direita com polaridade invertida</strong>, aproximando-os. Alternativa <strong>A</strong>.</p><p>Em B, eles continuam se afastando, mas com a polaridade invertida, o que inverte a corrente. Em C, os dois andam juntos para a esquerda e o movimento relativo some.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "indução eletromagnética",
+    "lei de Lenz"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p>Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.</p><p>Uma característica da mitocôndria que sustenta essa teoria é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "capacidade de produzir moléculas de ATP.",
+    "B": "presença de parede celular semelhante à de procariontes.",
+    "C": "presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.",
+    "D": "capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.",
+    "E": "presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A teoria endossimbiótica diz que mitocôndrias e cloroplastos eram bactérias englobadas por outra célula. A evidência é que eles têm <strong>DNA circular próprio, semelhante ao bacteriano, e se autoduplicam</strong>, além de ribossomos parecidos com os das bactérias. Alternativa <strong>D</strong>.</p><p>Mitocôndrias não têm parede celular (B), e produzir ATP (A) não indica origem bacteriana.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "endossimbiose",
+    "mitocôndria"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "[[fig:1]]<p>No heredograma, os símbolos preenchidos representam pessoas portadoras de um tipo raro de doença genética. Os homens são representados pelos quadrados e as mulheres, pelos círculos.</p><p>Qual é o padrão de herança observado para essa doença?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q74.webp",
+     "alt": "Heredograma de três gerações com quadrados (homens) e círculos (mulheres); os símbolos preenchidos são afetados. Os homens afetados têm todas as filhas afetadas e todos os filhos homens normais; mulheres afetadas têm filhos e filhas afetados e normais."
+    }
+   ],
+   "alternativas": {
+    "A": "Dominante autossômico, pois a doença aparece em ambos os sexos.",
+    "B": "Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos.",
+    "C": "Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos.",
+    "D": "Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença.",
+    "E": "Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No heredograma, todos os homens afetados têm todas as filhas afetadas e nenhum filho afetado, e a doença aparece em todas as gerações. Isso indica herança <strong>dominante ligada ao X</strong>: o pai passa o X para todas as filhas e o Y para os filhos. Alternativa <strong>D</strong>.</p><p>Se fosse autossômica (A), homens afetados também teriam filhos homens afetados.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "heredograma",
+    "herança ligada ao X"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Biologia",
+   "assunto": "Fisiologia",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p>Um pesquisador percebe que o rótulo de um dos vidros em que guarda um concentrado de enzimas digestivas está ilegível. Ele não sabe qual enzima o vidro contém, mas desconfia de que seja uma protease gástrica, que age no estômago digerindo proteínas. Sabendo que a digestão no estômago é ácida e no intestino é básica, ele monta cinco tubos de ensaio com alimentos diferentes, adiciona o concentrado de enzimas em soluções com pH determinado e aguarda para ver se a enzima age em algum deles.</p><p>O tubo de ensaio em que a enzima deve agir para indicar que a hipótese do pesquisador está correta é aquele que contém</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "cubo de batata em solução com pH = 9.",
+    "B": "pedaço de carne em solução com pH = 5.",
+    "C": "clara de ovo cozida em solução com pH = 9.",
+    "D": "porção de macarrão em solução com pH = 5.",
+    "E": "bolinha de manteiga em solução com pH = 9."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Uma protease gástrica (a pepsina) digere proteínas em meio ácido. Para confirmar a hipótese, a enzima precisa agir num alimento proteico em pH ácido: o <strong>pedaço de carne em solução com pH = 5</strong>. Alternativa <strong>B</strong>.</p><p>A clara de ovo (C) é proteica, mas está em pH básico, onde a pepsina não age.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "enzimas digestivas",
+    "pepsina"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p class=\"apoio\">Alguns sistemas de segurança incluem detectores de movimento. Nesses sensores, existe uma substância que se polariza na presença de radiação eletromagnética de certa região de frequência, gerando uma tensão que pode ser amplificada e empregada para efeito de controle. Quando uma pessoa se aproxima do sistema, a radiação emitida por seu corpo é detectada por esse tipo de sensor.</p><p class=\"fonte\">WENDLING, M. Sensores. Disponível em: www2.feg.unesp.br. Acesso em: 7 maio 2014 (adaptado).</p><p>A radiação captada por esse detector encontra-se na região de frequência</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "da luz visível.",
+    "B": "do ultravioleta.",
+    "C": "do infravermelho.",
+    "D": "das micro-ondas.",
+    "E": "das ondas longas de rádio."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O corpo humano, a cerca de 37 °C, emite radiação térmica principalmente na faixa do <strong>infravermelho</strong>. É ela que os sensores de presença captam. Alternativa <strong>C</strong>.</p><p>O corpo não emite luz visível (A): só a reflete.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espectro eletromagnético",
+    "radiação térmica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p>O estudo de compostos orgânicos permite aos analistas definir propriedades físicas e químicas responsáveis pelas características de cada substância descoberta. Um laboratório investiga moléculas quirais cuja cadeia carbônica seja insaturada, heterogênea e ramificada.</p><p>A fórmula que se enquadra nas características da molécula investigada é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "CH<sub>3</sub>–(CH)<sub>2</sub>–CH(OH)–CO–NH–CH<sub>3</sub>.",
+    "B": "CH<sub>3</sub>–(CH)<sub>2</sub>–CH(CH<sub>3</sub>)–CO–NH–CH<sub>3</sub>.",
+    "C": "CH<sub>3</sub>–(CH)<sub>2</sub>–CH(CH<sub>3</sub>)–CO–NH<sub>2</sub>.",
+    "D": "CH<sub>3</sub>–CH<sub>2</sub>–CH(CH<sub>3</sub>)–CO–NH–CH<sub>3</sub>.",
+    "E": "C<sub>6</sub>H<sub>5</sub>–CH<sub>2</sub>–CO–NH–CH<sub>3</sub>."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A molécula precisa ser quiral (carbono com quatro ligantes diferentes), insaturada (com dupla), heterogênea (heteroátomo entre carbonos) e ramificada. A opção B tem dupla em CH=CH, o N entre carbonos em –CO–NH–CH<sub>3</sub>, a ramificação CH<sub>3</sub> e um carbono quiral, o CH(CH<sub>3</sub>), ligado a H, CH<sub>3</sub>, ao grupo vinil e à amida. Alternativa <strong>B</strong>.</p><p>A opção C não é heterogênea (o N fica na ponta, como NH<sub>2</sub>), e a D é saturada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "quiralidade",
+    "classificação de cadeias"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Química",
+   "assunto": "Polímeros",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p class=\"apoio\">Com o objetivo de substituir as sacolas de polietileno, alguns supermercados têm utilizado um novo tipo de plástico ecológico, que apresenta em sua composição amido de milho e uma resina polimérica termoplástica, obtida a partir de uma fonte petroquímica.</p><p class=\"fonte\">ERENO, D. Plásticos de vegetais. <em>Pesquisa Fapesp</em>, n. 179, jan. 2011 (adaptado).</p><p>Nesses plásticos, a fragmentação da resina polimérica é facilitada porque os carboidratos presentes</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dissolvem-se na água.",
+    "B": "absorvem água com facilidade.",
+    "C": "caramelizam por aquecimento e quebram.",
+    "D": "são digeridos por organismos decompositores.",
+    "E": "decompõem-se espontaneamente em contato com água e gás carbônico."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O amido é um carboidrato que fungos e bactérias conseguem digerir. Quando os decompositores consomem o amido, a resina fica cheia de buracos e se fragmenta em pedaços menores. Isso acontece porque os carboidratos <strong>são digeridos por organismos decompositores</strong>. Alternativa <strong>D</strong>.</p><p>O amido não se decompõe sozinho em contato com água e gás carbônico (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "plástico biodegradável",
+    "amido"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p>Em um hospital havia cinco lotes de bolsas de sangue, rotulados com os códigos I, II, III, IV e V. Cada lote continha apenas um tipo sanguíneo não identificado. Uma funcionária do hospital resolveu fazer a identificação utilizando dois tipos de soro, anti-A e anti-B. Os resultados obtidos estão descritos no quadro.</p><table class=\"tabela\"><thead><tr><th>Código dos lotes</th><th>Volume de sangue (L)</th><th>Soro anti-A</th><th>Soro anti-B</th></tr></thead><tbody><tr><td>I</td><td>22</td><td>Não aglutinou</td><td>Aglutinou</td></tr><tr><td>II</td><td>25</td><td>Aglutinou</td><td>Não aglutinou</td></tr><tr><td>III</td><td>30</td><td>Aglutinou</td><td>Aglutinou</td></tr><tr><td>IV</td><td>15</td><td>Não aglutinou</td><td>Não aglutinou</td></tr><tr><td>V</td><td>33</td><td>Não aglutinou</td><td>Aglutinou</td></tr></tbody></table><p>Quantos litros de sangue eram do grupo sanguíneo do tipo A?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "15",
+    "B": "25",
+    "C": "30",
+    "D": "33",
+    "E": "55"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Quem é do tipo A tem aglutinogênio A nas hemácias e aglutina só com o soro anti-A. No quadro, o único lote que aglutinou com anti-A e não com anti-B é o II, com <strong>25 litros</strong>. Alternativa <strong>B</strong>.</p><p>O lote III (30 L) aglutinou com os dois soros: é do tipo AB.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sistema ABO",
+    "tipagem sanguínea"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p class=\"apoio\">O principal processo industrial utilizado na produção de fenol é a oxidação do cumeno (isopropilbenzeno). A equação mostra que esse processo envolve a formação do hidroperóxido de cumila, que em seguida é decomposto em fenol e acetona, ambos usados na indústria química como precursores de moléculas mais complexas. Após o processo de síntese, esses dois insumos devem ser separados para comercialização individual.</p>[[fig:1]]<p>Considerando as características físico-químicas dos dois insumos formados, o método utilizado para a separação da mistura, em escala industrial, é a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q80.webp",
+     "alt": "Equação: cumeno + O2, com catalisador, forma hidroperóxido de cumila; este, com H2O/H2SO4, forma fenol + acetona. As moléculas aparecem em fórmula estrutural."
+    }
+   ],
+   "alternativas": {
+    "A": "filtração.",
+    "B": "ventilação.",
+    "C": "decantação.",
+    "D": "evaporação.",
+    "E": "destilação fracionada."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Fenol e acetona são líquidos miscíveis, com temperaturas de ebulição bem diferentes (a acetona ferve a cerca de 56 °C, e o fenol, a cerca de 182 °C). A mistura homogênea de líquidos é separada por <strong>destilação fracionada</strong>. Alternativa <strong>E</strong>.</p><p>Filtração e decantação (A e C) servem para misturas heterogêneas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "destilação",
+    "fenol e acetona"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p class=\"apoio\">Os parasitoides (misto de parasitas e predadores) são insetos diminutos que têm hábitos muito peculiares: suas larvas podem se desenvolver dentro do corpo de outros organismos, como mostra a figura. A forma adulta se alimenta de pólen e açúcares. Em geral, cada parasitoide ataca hospedeiros de determinada espécie e, por isso, esses organismos vêm sendo amplamente usados para o controle biológico de pragas agrícolas.</p>[[fig:1]]<p class=\"fonte\">SANTO, M. M. E.; FARIA, M. L. Parasitoides: insetos benéficos e cruéis. <em>Ciência Hoje</em>, v. 49, n. 291, abr. 2012 (adaptado).</p><p>A forma larval do parasitoide assume qual papel nessa cadeia alimentar?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q81.webp",
+     "alt": "Ciclo de vida de um inseto parasitoide de lagartas: (A) a fêmea adulta põe ovos dentro de uma lagarta; (B) o ovo eclode e a larva se desenvolve dentro dela; (C) a larva vira pupa e mata o hospedeiro; (D) o parasitoide, após a metamorfose, cava um túnel nos tecidos do hospedeiro e emerge adulto."
+    }
+   ],
+   "alternativas": {
+    "A": "Consumidor primário, pois ataca diretamente uma espécie herbívora.",
+    "B": "Consumidor secundário, pois se alimenta diretamente dos tecidos da lagarta.",
+    "C": "Organismo heterótrofo de primeira ordem, pois se alimenta de pólen na fase adulta.",
+    "D": "Organismo heterótrofo de segunda ordem, pois apresenta o maior nível energético na cadeia.",
+    "E": "Decompositor, pois se alimenta de tecidos do interior do corpo da lagarta e a leva à morte."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A larva do parasitoide vive dentro da lagarta e come seus tecidos. A lagarta é herbívora (consumidor primário), então quem se alimenta dela é <strong>consumidor secundário</strong>. Alternativa <strong>B</strong>.</p><p>A larva mata um animal vivo, então não é decompositora (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cadeia alimentar",
+    "controle biológico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Movimento circular",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p class=\"apoio\">Um professor utiliza essa história em quadrinhos para discutir com os estudantes o movimento de satélites. Nesse sentido, pede a eles que analisem o movimento do coelhinho, considerando o módulo da velocidade constante.</p>[[fig:1]]<p class=\"fonte\">SOUSA, M. <em>Cebolinha</em>, n. 240, jun. 2006.</p><p>Desprezando a existência de forças dissipativas, o vetor aceleração tangencial do coelhinho, no terceiro quadrinho, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q82.webp",
+     "alt": "História em quadrinhos do Cebolinha. Ele chuta o coelhinho de pelúcia, que sai voando; o coelhinho dá uma volta inteira ao redor da Terra, vista do espaço; volta pelo outro lado e atinge o Cebolinha pelas costas, derrubando-o."
+    }
+   ],
+   "alternativas": {
+    "A": "nulo.",
+    "B": "paralelo à sua velocidade linear e no mesmo sentido.",
+    "C": "paralelo à sua velocidade linear e no sentido oposto.",
+    "D": "perpendicular à sua velocidade linear e dirigido para o centro da Terra.",
+    "E": "perpendicular à sua velocidade linear e dirigido para fora da superfície da Terra."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O coelhinho dá a volta na Terra com velocidade de módulo constante, como um satélite. Em movimento circular uniforme, a aceleração tangencial (que muda o módulo da velocidade) é <strong>nula</strong>; só existe a aceleração centrípeta, apontada para o centro. Alternativa <strong>A</strong>.</p><p>A opção D descreve a aceleração centrípeta, e não a tangencial.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "movimento circular uniforme",
+    "aceleração tangencial"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p>A utilização de processos de biorremediação de resíduos gerados pela combustão incompleta de compostos orgânicos tem se tornado crescente, visando minimizar a poluição ambiental. Para a ocorrência de resíduos de naftaleno, algumas legislações limitam sua concentração em até 30 mg/kg para solo agrícola e 0,14 mg/L para água subterrânea. A quantificação desse resíduo foi realizada em diferentes ambientes, utilizando-se amostras de 500 g de solo e 100 mL de água, conforme apresentado no quadro.</p><table class=\"tabela\"><thead><tr><th>Ambiente</th><th>Resíduo de naftaleno (g)</th></tr></thead><tbody><tr><td>Solo I</td><td>1,0 × 10<sup>−2</sup></td></tr><tr><td>Solo II</td><td>2,0 × 10<sup>−2</sup></td></tr><tr><td>Água I</td><td>7,0 × 10<sup>−6</sup></td></tr><tr><td>Água II</td><td>8,0 × 10<sup>−6</sup></td></tr><tr><td>Água III</td><td>9,0 × 10<sup>−6</sup></td></tr></tbody></table><p>O ambiente que necessita de biorremediação é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "solo I.",
+    "B": "solo II.",
+    "C": "água I.",
+    "D": "água II.",
+    "E": "água III."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os limites são 30 mg/kg para o solo e 0,14 mg/L para a água. Em 500 g de solo, o limite é 15 mg = 1,5 × 10<sup>−2</sup> g; em 100 mL de água, 0,014 mg = 1,4 × 10<sup>−5</sup> g. O solo I (1,0 × 10<sup>−2</sup> g) está dentro do limite, o <strong>solo II</strong> (2,0 × 10<sup>−2</sup> g) está acima, e todas as águas estão abaixo. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "concentração",
+    "biorremediação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p>Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estamos alterando algumas características elétricas de seu circuito receptor. Das inúmeras ondas eletromagnéticas que chegam simultaneamente ao receptor, somente aquelas que oscilam com determinada frequência resultarão em máxima absorção de energia.</p><p>O fenômeno descrito é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "difração.",
+    "B": "refração.",
+    "C": "polarização.",
+    "D": "interferência.",
+    "E": "ressonância."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O circuito do receptor tem uma frequência natural. Quando a onda que chega oscila nessa mesma frequência, a absorção de energia é máxima: é a <strong>ressonância</strong>. Sintonizar é ajustar a frequência natural do circuito à da estação. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ressonância",
+    "rádio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "[[fig:1]]<p>Embora sejam produzidos e utilizados em situações distintas, os imunobiológicos I e II atuam de forma semelhante nos humanos e equinos, pois</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-natureza/q85.webp",
+     "alt": "Esquema “Imunobiológicos: diferentes formas de produção, diferentes aplicações”. Em A, uma profissional de saúde aplica numa mulher o imunobiológico I, feito com vírus ou bactérias. Em B, aplica-se o imunobiológico II, feito a partir do veneno de uma cobra, num cavalo; do sangue do cavalo se produz o imunobiológico III, que é aplicado numa pessoa picada por uma cobra."
+    }
+   ],
+   "alternativas": {
+    "A": "conferem imunidade passiva.",
+    "B": "transferem células de defesa.",
+    "C": "suprimem a resposta imunológica.",
+    "D": "estimulam a produção de anticorpos.",
+    "E": "desencadeiam a produção de antígenos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O imunobiológico I é aplicado numa pessoa e leva vírus ou bactérias (é uma vacina); o II é aplicado no cavalo, que depois produz o imunobiológico III, o soro. Tanto I quanto II levam antígenos ao organismo, que <strong>estimulam a produção de anticorpos</strong>. Alternativa <strong>D</strong>.</p><p>Quem confere imunidade passiva (A) é o soro, o imunobiológico III, que já traz os anticorpos prontos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vacina",
+    "soro"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Química",
+   "assunto": "Ácidos e bases",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p class=\"apoio\">Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina (C<sub>5</sub>H<sub>5</sub>N) é uma das substâncias responsáveis pelo odor característico de peixe podre.</p><p class=\"fonte\">SILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem... A química do mau cheiro. <em>Química Nova na Escola</em>, v. 33, n. 1, fev. 2011 (adaptado).</p><p>A eficiência do uso do vinagre nesse caso se explica pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "sobreposição de odor, propiciada pelo cheiro característico do vinagre.",
+    "B": "solubilidade da piridina, de caráter ácido, na solução ácida empregada.",
+    "C": "inibição da proliferação das bactérias presentes, devido à ação do ácido acético.",
+    "D": "degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.",
+    "E": "reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A piridina tem caráter básico, pelo par de elétrons livre do nitrogênio. O ácido acético do vinagre reage com ela formando um sal, que não é volátil e não tem cheiro. É uma <strong>reação de neutralização entre o ácido acético e a piridina</strong>. Alternativa <strong>E</strong>.</p><p>O texto diz que os maus odores vêm de compostos alcalinos, então a piridina não tem caráter ácido (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "neutralização",
+    "aminas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Física",
+   "assunto": "Acústica",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "<p class=\"apoio\">Quando adolescente, as nossas tardes, após as aulas, consistiam em tomar às mãos o violão e o dicionário de acordes de Almir Chediak e desafiar nosso amigo Hamilton a descobrir, apenas ouvindo o acorde, quais notas eram escolhidas. Sempre perdíamos a aposta, ele possui o ouvido absoluto.</p><p class=\"apoio\">O ouvido absoluto é uma característica perceptual de poucos indivíduos capazes de identificar notas isoladas sem outras referências, isto é, sem precisar relacioná-las com outras notas de uma melodia.</p><p class=\"fonte\">LENT, R. O cérebro do meu professor de acordeão. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 15 ago. 2012 (adaptado).</p><p>No contexto apresentado, a propriedade física das ondas que permite essa distinção entre as notas é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "frequência.",
+    "B": "intensidade.",
+    "C": "forma da onda.",
+    "D": "amplitude da onda.",
+    "E": "velocidade de propagação."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O que diferencia uma nota musical de outra (dó, ré, mi…) é a altura do som, que depende da <strong>frequência</strong> da onda. Quem tem ouvido absoluto reconhece a frequência de uma nota isolada. Alternativa <strong>A</strong>.</p><p>A intensidade (B) define se o som é forte ou fraco, e a forma da onda (C), o timbre.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "altura do som",
+    "frequência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p class=\"apoio\">Grandes fontes de emissão do gás dióxido de enxofre são as indústrias de extração de cobre e níquel, em decorrência da oxidação dos minérios sulfurados. Para evitar a liberação desses óxidos na atmosfera e a consequente formação da chuva ácida, o gás pode ser lavado, em um processo conhecido como dessulfurização, conforme mostrado na equação (1).</p><p class=\"apoio\">CaCO<sub>3</sub> (s) + SO<sub>2</sub> (g) → CaSO<sub>3</sub> (s) + CO<sub>2</sub> (g) &nbsp; (1)</p><p class=\"apoio\">Por sua vez, o sulfito de cálcio formado pode ser oxidado, com o auxílio do ar atmosférico, para a obtenção do sulfato de cálcio, como mostrado na equação (2). Essa etapa é de grande interesse porque o produto da reação, popularmente conhecido como gesso, é utilizado para fins agrícolas.</p><p class=\"apoio\">2 CaSO<sub>3</sub> (s) + O<sub>2</sub> (g) → 2 CaSO<sub>4</sub> (s) &nbsp; (2)</p><p class=\"apoio\">As massas molares dos elementos carbono, oxigênio, enxofre e cálcio são iguais a 12 g/mol, 16 g/mol, 32 g/mol e 40 g/mol, respectivamente.</p><p class=\"fonte\">BAIRD, C. <em>Química ambiental</em>. Porto Alegre: Bookman, 2002 (adaptado).</p><p>Considerando um rendimento de 90% no processo, a massa de gesso obtida, em gramas, por mol de gás retido é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "64.",
+    "B": "108.",
+    "C": "122.",
+    "D": "136.",
+    "E": "245."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pelas equações, 1 mol de SO<sub>2</sub> retido forma 1 mol de CaSO<sub>3</sub>, que forma 1 mol de CaSO<sub>4</sub>. A massa molar do gesso é 40 + 32 + 4 × 16 = 136 g/mol. Com rendimento de 90%: 0,9 × 136 ≈ <strong>122 g</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rendimento",
+    "dessulfurização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p>Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.</p><p>O poder terapêutico dessas células baseia-se em sua capacidade de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "multiplicação lenta.",
+    "B": "comunicação entre células.",
+    "C": "adesão a diferentes tecidos.",
+    "D": "diferenciação em células especializadas.",
+    "E": "reconhecimento de células semelhantes."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O cordão umbilical tem células-tronco, que ainda não são especializadas e podem originar vários tipos de células. O poder terapêutico vem da sua capacidade de <strong>diferenciação em células especializadas</strong>, que podem repor tecidos doentes. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "células-tronco",
+    "diferenciação celular"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Química",
+   "assunto": "Cinética química",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p>As lentes fotocromáticas escurecem quando expostas à luz solar por causa de reações químicas reversíveis entre uma espécie incolor e outra colorida. Diversas reações podem ser utilizadas, e a escolha do melhor reagente para esse fim se baseia em três principais aspectos: (i) o quanto escurece a lente; (ii) o tempo de escurecimento quando exposta à luz solar; e (iii) o tempo de esmaecimento em ambiente sem forte luz solar. A transmitância indica a razão entre a quantidade de luz que atravessa o meio e a quantidade de luz que incide sobre ele.</p><p>Durante um teste de controle para o desenvolvimento de novas lentes fotocromáticas, foram analisadas cinco amostras, que utilizam reagentes químicos diferentes. No quadro, são apresentados os resultados.</p><table class=\"tabela\"><thead><tr><th>Amostra</th><th>Tempo de escurecimento (segundo)</th><th>Tempo de esmaecimento (segundo)</th><th>Transmitância média da lente quando exposta à luz solar (%)</th></tr></thead><tbody><tr><td>1</td><td>20</td><td>50</td><td>80</td></tr><tr><td>2</td><td>40</td><td>30</td><td>90</td></tr><tr><td>3</td><td>20</td><td>30</td><td>50</td></tr><tr><td>4</td><td>50</td><td>50</td><td>50</td></tr><tr><td>5</td><td>40</td><td>20</td><td>95</td></tr></tbody></table><p>Considerando os três aspectos, qual é a melhor amostra de lente fotocromática para se utilizar em óculos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A melhor lente escurece bastante (transmitância baixa), escurece rápido e clareia rápido. A amostra 3 tem a transmitância mais baixa empatada (50%) com a 4, mas escurece em 20 s e esmaece em 30 s, mais rápido que a 4 (50 s e 50 s). A melhor é a <strong>amostra 3</strong>. Alternativa <strong>C</strong>.</p><p>A amostra 1 é rápida para escurecer, mas deixa passar 80% da luz, quase não escurece.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reações reversíveis",
+    "fotocromismo"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

@@ -1,0 +1,1357 @@
+{
+ "id": "fatec-2019-1sem",
+ "banca": "FATEC",
+ "ano": 2019,
+ "semestre": 1,
+ "titulo": "Vestibular FATEC, 1º semestre de 2019",
+ "fonte": "Centro Paula Souza",
+ "dataExame": "2018-12-09",
+ "duracaoMinutos": 300,
+ "tema": "Trabalho",
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p class=\"apoio\">O Instituto Brasileiro de Geografia e Estatística (IBGE) apresentou a Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua, referente a 2016, que, em um de seus tópicos, investigou pessoas de 14 anos ou mais que realizaram algum tipo de trabalho. Em seu módulo “Outras Formas de Trabalho”, a pesquisa apontou que 3,9% das pessoas entrevistadas nesse tópico praticou o trabalho voluntário. Essa porcentagem corresponde a 6,5 milhões de brasileiros na faixa etária citada.</p><p class=\"fonte\">&lt;https://tinyurl.com/yc9myhl9&gt; Acesso em: 04/10/2018. Adaptado.</p><p>Considere que, em 2016, havia N milhões de brasileiros com 14 anos ou mais que realizaram algum tipo de trabalho.</p><p>De acordo com o texto, é correto afirmar que o valor de N é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "3,9.",
+    "B": "10,4.",
+    "C": "16,7.",
+    "D": "25,4.",
+    "E": "166,7."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os 6,5 milhões de voluntários correspondem a 3,9% do total: N = 6,5 ÷ 0,039 ≈ <strong>166,7</strong> milhões. Alternativa <strong>E</strong>.</p><p>3,9 é a própria porcentagem (A). E 16,7 erra a casa decimal (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "trabalho voluntário"
+   ]
+  },
+  {
+   "numero": 2,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p>Analise a charge.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yd6axzjp&gt; Acesso em: 15.10.2018.</p><p>As expressões <em>I’m not lacking leadership</em> e <em>Everyone else is lacking</em>, para expressar o sarcasmo da charge, demonstram que o profissional em questão</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q02.webp",
+     "alt": "Cartum de Randy Glasbergen: um executivo de gravata, ao telefone, segurando um papel, diz: “I’m not lacking leadership skills. Everyone else is lacking followship skills!” (não me falta habilidade de liderança; é a todos os outros que falta habilidade de ser liderado!)."
+    }
+   ],
+   "alternativas": {
+    "A": "acredita ser um bom líder.",
+    "B": "sente falta de seus funcionários.",
+    "C": "se importa com seus funcionários.",
+    "D": "tem dificuldade de ser comandado.",
+    "E": "ignora a habilidade de liderança de seus funcionários."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O chefe diz que não lhe falta liderança; o problema seria dos outros, que não sabem ser liderados. Ele <strong>se considera um bom líder</strong> e culpa a equipe. Alternativa <strong>A</strong>.</p><p><em>Lacking</em> é “faltar”, não “sentir falta” (B). Ele não demonstra cuidado com os funcionários (C), não fala de ser comandado (D) nem da liderança deles (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "charge",
+    "liderança"
+   ]
+  },
+  {
+   "numero": 3,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"apoio\">Segundo a Lei de Benefícios da Previdência Social, sancionada em 1991, um trabalhador poderá ser assegurado caso padeça de doença profissional, cuja definição, dada no Art. 20, inclui os seguintes aspectos:</p><p class=\"apoio\">• Doença profissional é aquela produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade;<br>• Doenças profissionais não incluem as degenerativas, as inerentes a grupo etário, as que não produzam incapacidade laborativa, nem as endêmicas não resultantes de atividades profissionais.</p><p>Considerando apenas os termos dispostos no artigo 20 dessa lei, um programador de softwares em Goiás poderá receber amparo legal caso sofra de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pé-de-atleta.",
+    "B": "mal de Chagas.",
+    "C": "tendinite crônica.",
+    "D": "mal de Alzheimer.",
+    "E": "anemia falciforme."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O uso repetitivo do teclado e do mouse pode causar <strong>tendinite</strong>, uma lesão desencadeada pelo próprio trabalho do programador. Alternativa <strong>C</strong>.</p><p>Pé-de-atleta é uma micose que não tem relação com a atividade (A). O mal de Chagas é endêmico e não resulta do trabalho (B). O Alzheimer é degenerativo (D). E a anemia falciforme é genética (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "doença ocupacional"
+   ]
+  },
+  {
+   "numero": 4,
+   "materia": "Química",
+   "assunto": "Isomeria",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"apoio\">• O estresse está se tornando um problema cada vez maior no mundo do trabalho. Situações e estímulos do ambiente de trabalho que pressionam o trabalhador, em diferentes contextos, provocam a produção de diversos hormônios em seu organismo como, por exemplo, o cortisol. O cortisol é responsável pela regulação de diversos processos metabólicos humanos. Sua forma sintética, a hidrocortisona, é usada no combate a inflamações e alergias.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yd2f7wpt&gt; Acesso em: 11.10.18. Adaptado.</p><p class=\"apoio\">• Em química, isomeria é um fenômeno que ocorre quando duas ou mais moléculas apresentam a mesma fórmula molecular.</p><p>Observando as fórmulas estruturais do cortisol e da hidrocortisona, pode-se concluir corretamente que estes compostos</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q04.webp",
+     "alt": "Fórmulas estruturais em linhas de dois esteroides, cada um com quatro anéis fundidos e uma cadeia lateral –C(=O)–CH₂OH com um OH no mesmo carbono. Cortisol: uma carbonila (C=O) no primeiro anel, uma dupla ligação C=C no primeiro anel e um grupo OH no terceiro anel. Hidrocortisona, como desenhada na prova: uma carbonila no primeiro anel, sem a dupla ligação, e uma carbonila no lugar do OH do terceiro anel."
+    }
+   ],
+   "alternativas": {
+    "A": "são isômeros de fórmula molecular C<sub>21</sub>H<sub>30</sub>O<sub>5</sub>.",
+    "B": "são isômeros de fórmula molecular C<sub>21</sub>H<sub>29</sub>O<sub>5</sub>.",
+    "C": "são isômeros de fórmula molecular C<sub>21</sub>H<sub>6</sub>O<sub>5</sub>.",
+    "D": "não são isômeros pois suas fórmulas moleculares são diferentes.",
+    "E": "não são isômeros pois suas fórmulas estruturais são diferentes."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Contando os átomos, as duas estruturas têm 21 carbonos, 30 hidrogênios e 5 oxigênios: a dupla ligação e o OH do cortisol equivalem, em número de átomos, à carbonila extra e à ausência da dupla na outra estrutura. Mesma fórmula molecular, estruturas diferentes: são <strong>isômeros</strong>, C<sub>21</sub>H<sub>30</sub>O<sub>5</sub>. Alternativa <strong>A</strong>.</p><p>Uma molécula orgânica neutra com C, H e O tem sempre um número par de hidrogênios, o que já descarta C<sub>21</sub>H<sub>29</sub>O<sub>5</sub> (B), e 6 hidrogênios é pouquíssimo (C). As fórmulas moleculares são iguais (D), e estruturas diferentes são justamente o que define isômeros (E).</p><p>Observação do Treineiros: na química real, cortisol e hidrocortisona são o mesmo composto; a prova desenhou uma estrutura diferente para a hidrocortisona, e a questão deve ser respondida com base no desenho.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "fórmula molecular"
+   ]
+  },
+  {
+   "numero": 5,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p>Leia o texto.</p><p class=\"apoio\">Assistimos ontem à entrada de cerca de 60 menores às 19 horas, na sua fábrica da Mooca. Essas crianças, entrando àquela hora, saem às 6 horas. Trabalham, pois, 11 horas a fio, em serviço noturno, apenas com um descanso de 20 minutos, à meia-noite! O pior é que elas se queixam de que são espancadas pelo mestre de fiação. [...] Uma há com as orelhas feridas por continuados e violentos puxões. Trata-se de crianças de 12, 13 e 14 anos.</p><p class=\"fonte\">Jornal <em>O Combate</em>, São Paulo, 4/09/1917. Apud CENPEC; <em>Ensinar e aprender História</em>. V.3: ficha 10, 1998.</p><p>Considerando o contexto da industrialização de São Paulo, no início da Primeira República, assinale a alternativa correta.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A legislação republicana estabeleceu a obrigatoriedade do trabalho infantil como forma de disciplinar e educar as crianças das famílias de baixa renda envolvidas em pequenos delitos.",
+    "B": "A participação do Brasil na Guerra Franco-Prussiana e a convocação militar dos homens obrigaram mulheres e crianças a ocupar seus postos de trabalho e a participar dos esforços de guerra.",
+    "C": "A Consolidação das Leis Trabalhistas, conjunto de leis de inspiração fascista promulgadas após a abolição da escravidão, preconizava o trabalho infantil como parte do programa de qualificação profissional.",
+    "D": "Os baixos salários pagos aos homens tornavam necessário o trabalho de mulheres e crianças das famílias operárias que, embora tivessem as mesmas obrigações que os homens, recebiam salários menores.",
+    "E": "Os sindicatos anarquistas, fundados por operários italianos recém-chegados ao Brasil, incentivavam a participação de crianças no mercado de trabalho com o objetivo de garantir a adesão precoce aos seus ideais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No início da industrialização, sem leis trabalhistas, os salários dos operários eram tão baixos que mulheres e crianças também precisavam trabalhar, cumprindo jornadas longas e recebendo menos que os homens. Alternativa <strong>D</strong>.</p><p>Nenhuma lei obrigava o trabalho infantil (A). O Brasil não participou da Guerra Franco-Prussiana (B). A CLT é de 1943 e proibiu o trabalho infantil (C). E os anarquistas lutavam contra a exploração de crianças (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "trabalho infantil",
+    "industrialização"
+   ]
+  },
+  {
+   "numero": 6,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p>No curso de “Big Data no Agronegócio” da FATEC, o aluno estuda sobre eletrônica, circuitos eletrônicos e suas propriedades, tais como ondas que podem ser registradas em um osciloscópio.</p><p>A figura representa duas dessas ondas que se propagam em sentidos opostos e com mesma velocidade de módulo 2 × 10<sup>–6</sup> m/s</p>[[fig:1]]<p>Considerando a situação apresentada pela figura no instante t = 0, podemos afirmar que, após</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q06.webp",
+     "alt": "Gráfico de tensão (volt) por posição (×10⁻⁶ m), de 0 a 10. Onda 1 (linha contínua), entre 0 e cerca de 4,4, com amplitude 2 V, propaga-se para a direita (V₁). Onda 2 (tracejada), entre cerca de 5,6 e 10, com amplitude 1 V, propaga-se para a esquerda (V₂). Uma chave sob o gráfico indica que o trecho de 0 a 2 corresponde a 1 s."
+    }
+   ],
+   "alternativas": {
+    "A": "1 segundo, a superposição das ondas 1 e 2 apresenta uma nova onda com amplitude de 1 volt.",
+    "B": "1 segundo, ocorre uma interferência destrutiva total.",
+    "C": "o cruzamento das ondas, a onda 2 é completamente amortecida.",
+    "D": "o cruzamento das ondas, a amplitude da onda 2 fica maior que a da onda 1.",
+    "E": "o cruzamento das ondas, a frequência da onda 1 fica maior que a da onda 2."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Em 1 s, cada onda anda 2 × 10⁻⁶ m e elas passam a se sobrepor. Onde uma crista de 2 V da onda 1 encontra um vale de –1 V da onda 2, a superposição dá 2 – 1 = <strong>1 V</strong>. Alternativa <strong>A</strong>.</p><p>Como as amplitudes são diferentes (2 V e 1 V), a interferência destrutiva nunca é total (B). E, depois do cruzamento, cada onda segue com sua amplitude e sua frequência originais, sem se alterar (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "superposição"
+   ]
+  },
+  {
+   "numero": 7,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p>Analise o quadrinho</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ycovkfc9&gt; Acesso em: 20.10.2018. Original colorido.</p><p>O quadrinho de Laerte representa uma crítica à realidade atual, visto que nele a personagem</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q07.webp",
+     "alt": "Quadrinho de Laerte, em quatro cenas, sem falas, sobre a rotina de uma pessoa cuja cabeça é sempre substituída por um objeto: um rádio-relógio, ao acordar na cama; uma torneira, ao escovar os dentes; um bule de café, ao tomar café lendo o jornal; um semáforo de pedestres, ao andar na rua."
+    }
+   ],
+   "alternativas": {
+    "A": "perde sua função social, pois o desenvolvimento de novas ferramentas acarreta sua obsolescência.",
+    "B": "perde sua identidade devido às pressões de um cotidiano estressante diante de uma rotina maçante e repetitiva.",
+    "C": "é substituído pelas tecnologias que, de tão evoluídas, passam a assimilar hábitos corriqueiros da sociedade.",
+    "D": "perde sua identidade devido ao abandono da vida no campo, pois já não é capaz de realizar ações corriqueiras sem auxílio.",
+    "E": "apresenta pior qualidade de vida, pois, ao abrir mão de sua identidade, conecta-se à tecnologia para alcançar maior eficiência em suas atividades coletivas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A cada momento do dia, a cabeça da personagem vira o objeto que comanda aquela tarefa (despertador, torneira, bule, semáforo). Ela perde a identidade e vive no automático, presa a uma <strong>rotina maçante e repetitiva</strong>. Alternativa <strong>B</strong>.</p><p>A personagem não perde a função social nem fica obsoleta (A), não é substituída por máquinas (C), não há referência ao campo (D), e não há atividades coletivas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "quadrinhos",
+    "tecnologia"
+   ]
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Equações",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p>Entre as tarefas de um professor, está a elaboração de exercícios. Professores de Matemática ainda hoje se inspiram em Diofanto, matemático grego do século III, para criar desafios para seus alunos. Um exemplo de problema diofantino é: “Para o nascimento do primeiro filho, o pai esperou um sexto de sua vida; para o nascimento do segundo, a espera foi de um terço de sua vida. Quando o pai morreu, a soma das idades do pai e dos dois filhos era de 240 anos. Com quantos anos o pai morreu?”</p><p>Considerando que, quando o pai morreu, ele tinha x anos, assinale a equação matemática que permite resolver esse problema.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(x + \\dfrac{5x}{6} + \\dfrac{2x}{3} = 240\\)",
+    "B": "\\(x + \\dfrac{x}{6} + \\dfrac{x}{3} = 240\\)",
+    "C": "\\(x + \\dfrac{4x}{5} + \\dfrac{3x}{4} = 240\\)",
+    "D": "\\(x + \\dfrac{x}{6} + \\dfrac{3x}{2} = 240\\)",
+    "E": "\\(x + \\dfrac{6x}{5} + \\dfrac{3x}{4} = 240\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O primeiro filho nasceu quando o pai tinha x/6 anos; na morte do pai, tinha x − x/6 = 5x/6. O segundo nasceu com o pai aos x/3; tinha x − x/3 = 2x/3. A soma é \\(x + \\dfrac{5x}{6} + \\dfrac{2x}{3} = 240\\). Alternativa <strong>A</strong>.</p><p>B usa as idades do pai nos nascimentos, não as dos filhos. As demais frações não saem do enunciado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "problema de Diofanto"
+   ]
+  },
+  {
+   "numero": 9,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p>Leia os textos.</p><p class=\"apoio\">• Francisco tem pouca esperança no futuro. Depois de cinco anos em busca de trabalho e após três entrevistas de emprego, todas infrutíferas, decidiu parar de procurar. Passou assim a fazer parte de um contingente cada vez maior de brasileiros: os desalentados.</p><p class=\"apoio\">• Um indicador fundamental para observar o nível da confiança do trabalhador no mercado de trabalho é a taxa de desalento.</p><p class=\"apoio\">• O Brasil iniciou o terceiro trimestre com queda na taxa de desemprego pela quarta vez seguida, mas registrou número recorde de desalentados diante das incertezas atuais em torno da economia, segundo dados divulgados no dia 30 de agosto de 2018 pelo Instituto Brasileiro de Geografia e Estatística (IBGE). A taxa de desemprego atingiu 12,3% no terceiro trimestre de 2018, depois de ter ficado em 12,4% no trimestre anterior, na quarta queda seguida, de acordo com o IBGE. “O desemprego vem caindo no Brasil por conta do desalento, principalmente neste ano de 2018”, afirmou o coordenador do IBGE, Cimar Azeredo. O IBGE estimou em 4,8 milhões o número de pessoas desalentadas no trimestre maio – julho.</p><p class=\"fonte\">&lt;https://tinyurl.com/yactn5rh&gt; Acesso em: 03.10.2018. Adaptado.</p><p>De acordo com os textos, o cidadão desalentado é aquele que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "conquista um emprego formal, mas sofre com a desigualdade de gênero, em que mulheres ganham menos e ocupam a maioria dos empregos vulneráveis.",
+    "B": "precisa de trabalho e trabalharia se houvesse possibilidade, entretanto, desiste de procurar emprego porque sabe que não encontrará um posto de trabalho.",
+    "C": "troca voluntariamente o trabalho formal pelo trabalho terceirizado, abandona a carteira de trabalho e opta pela previdência social estatal.",
+    "D": "consegue emprego formal com rendimento equivalente a dois terços do salário mínimo vigente.",
+    "E": "possui um emprego com carteira assinada, mas está desprotegido das leis trabalhistas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Francisco “decidiu parar de procurar” emprego depois de várias tentativas: o desalentado quer e precisa trabalhar, mas <strong>desiste de procurar</strong> por achar que não vai encontrar vaga. Por isso não entra na taxa de desemprego. Alternativa <strong>B</strong>.</p><p>O desalentado não tem emprego, formal ou não (A, D e E), nem troca de trabalho por vontade própria (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "desalento",
+    "desemprego"
+   ]
+  },
+  {
+   "numero": 10,
+   "materia": "Raciocínio lógico",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p>Um grupo de alunos do curso de Jogos Digitais da FATEC inicia a produção de um jogo. Após 6 horas de trabalho, verificam que conseguiram finalizar apenas 24% do jogo. Para poder concluir o restante dele, esse grupo de estudantes pede ajuda a alguns amigos, conseguindo duplicar o tamanho da equipe.</p><p>Assinale a alternativa que apresenta o tempo total de produção do jogo.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "9 h 30 min",
+    "B": "9 h 50 min",
+    "C": "12 h 30 min",
+    "D": "15 h 30 min",
+    "E": "15 h 50 min"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O grupo faz 24% em 6 h, ou 4% por hora. Com a equipe dobrada, passa a 8% por hora. Faltam 76%: 76 ÷ 8 = 9,5 h. O total é 6 + 9,5 = 15,5 h = <strong>15 h 30 min</strong>. Alternativa <strong>D</strong>.</p><p>9 h 30 min é só o tempo da segunda etapa (A). E 0,5 h são 30 min, não 50 (B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "regra de três"
+   ]
+  },
+  {
+   "numero": 11,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>São proposições equivalentes para a negação da proposição “todo homem ama lógica”:</p><p>• “pelo menos um homem não ama lógica”;<br>• “algum homem não ama lógica”;<br>• “existe um homem que não ama lógica”.</p><p>Assim, a forma correta de negar a proposição “todas as vagas deste vestibular são de ensino superior” é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“algumas vagas deste vestibular são de ensino superior”.",
+    "B": "“existem vagas deste vestibular que não são de ensino superior”.",
+    "C": "“nenhuma das vagas deste vestibular é de ensino superior”.",
+    "D": "“pelo menos uma vaga deste vestibular é de ensino superior”.",
+    "E": "“todas as vagas deste vestibular não são de ensino superior”."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A negação de “todas são” é “pelo menos uma não é”: <strong>existem vagas que não são de ensino superior</strong>. Alternativa <strong>B</strong>.</p><p>A e D não negam nada; são até compatíveis com a frase original. C e E exageram: dizem que nenhuma vaga é de ensino superior, o que é mais forte que a negação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "negação"
+   ]
+  },
+  {
+   "numero": 12,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>Entre as pessoas que compareceram à festa de inauguração da FATEC Pompeia, estavam alguns dos amigos de Eduardo.</p><p>Além disso, sabe-se que nem todos os melhores amigos de Eduardo foram à festa de inauguração.</p><p>Considere:</p><p class=\"apoio\"><strong>F</strong>: conjunto das pessoas que foram à festa de inauguração.<br><strong>E</strong>: conjunto dos amigos de Eduardo.<br><strong>M</strong>: conjunto dos melhores amigos de Eduardo.</p><p>Com base nessas informações assinale a alternativa que contém o diagrama de Euler-Venn que descreve corretamente a relação entre os conjuntos.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q12a.webp",
+     "alt": "Diagrama A: E e F, separados, dentro de M."
+    },
+    {
+     "src": "assets/img/fatec-2019-1sem/q12b.webp",
+     "alt": "Diagrama B: E e M, separados, dentro de F."
+    },
+    {
+     "src": "assets/img/fatec-2019-1sem/q12c.webp",
+     "alt": "Diagrama C: E e F se cruzam, e M está dentro da interseção de E e F."
+    },
+    {
+     "src": "assets/img/fatec-2019-1sem/q12d.webp",
+     "alt": "Diagrama D: F dentro de E, e E cruza M."
+    },
+    {
+     "src": "assets/img/fatec-2019-1sem/q12e.webp",
+     "alt": "Diagrama E: F e E se cruzam, e M está dentro de E, com uma parte dentro de F e outra fora."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Todo melhor amigo é amigo, então M está dentro de E. Alguns amigos foram à festa: E e F se cruzam. E nem todos os melhores amigos foram: M tem uma parte fora de F. O diagrama E mostra exatamente isso. Alternativa <strong>E</strong>.</p><p>Em A, E e F não se cruzam, ou seja, nenhum amigo teria ido à festa. Em B, todos os melhores amigos foram à festa. Em C, M está inteiro em F. Em D, M não está dentro de E.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "diagramas de Venn"
+   ]
+  },
+  {
+   "numero": 13,
+   "materia": "Raciocínio lógico",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p>Um formato de papel usado para impressões e fotocópias, no Brasil, é o A4, que faz parte de uma série conhecida como série A, regulamentada internacionalmente pelo padrão ISO 216.</p><p>Essa série criou um padrão de folha retangular que, quando seu lado maior é dobrado ao meio, gera um retângulo semelhante ao original, conforme ilustrado.</p><p>Considerando uma folha da série A, com as dimensões indicadas na figura, pode-se afirmar que</p>[[fig:1]]",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q13.webp",
+     "alt": "Retângulo de lados x (horizontal, o maior) e y (vertical), com uma linha tracejada vertical no meio, marcada como “Dobra”."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(x = 2y\\)",
+    "B": "\\(x = y\\sqrt{2}\\)",
+    "C": "\\(x = y\\)",
+    "D": "\\(y = x\\sqrt{2}\\)",
+    "E": "\\(y = 2x\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Dobrado ao meio, o retângulo x × y vira y × x/2. Para os dois serem semelhantes, \\(\\dfrac{x}{y} = \\dfrac{y}{x/2}\\), ou seja, x² = 2y² e \\(x = y\\sqrt{2}\\). Alternativa <strong>B</strong>.</p><p>Com x = 2y, a metade seria um quadrado (A). x = y já é um quadrado (C). E D e E fariam y maior que x, contra a figura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "semelhança",
+    "papel A4"
+   ]
+  },
+  {
+   "numero": 14,
+   "materia": "Raciocínio lógico",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p>A criptografia pode ser descrita como um conjunto de técnicas desenvolvidas com o objetivo de proteger a informação de modo que apenas algumas pessoas, que possuem uma “chave”, possam obter acesso aos dados.</p><p>Considere que uma empresa decida codificar seus dados numéricos valendo-se de um sistema de criptografia baseado em um sistema de numeração posicional de base 26, similar ao posicional de base 10, no qual cada letra do alfabeto passa a corresponder a um número.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">A</th><th scope=\"col\">B</th><th scope=\"col\">C</th><th scope=\"col\">D</th><th scope=\"col\">E</th><th scope=\"col\">F</th><th scope=\"col\">G</th></tr></thead><tbody><tr><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr></tbody></table></div><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">H</th><th scope=\"col\">I</th><th scope=\"col\">J</th><th scope=\"col\">K</th><th scope=\"col\">L</th><th scope=\"col\">M</th><th scope=\"col\">N</th></tr></thead><tbody><tr><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td></tr></tbody></table></div><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">O</th><th scope=\"col\">P</th><th scope=\"col\">Q</th><th scope=\"col\">R</th><th scope=\"col\">S</th><th scope=\"col\">T</th><th scope=\"col\">U</th></tr></thead><tbody><tr><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td></tr></tbody></table></div><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">V</th><th scope=\"col\">W</th><th scope=\"col\">X</th><th scope=\"col\">Y</th><th scope=\"col\">Z</th></tr></thead><tbody><tr><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr></tbody></table></div><p>Assim, qualquer informação numérica é traduzida como “palavras”. Com elas é possível realizar operações de modo semelhante ao que se faz no sistema posicional de base 10. No exemplo DIA + SOL, temos:</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">1ª letra</th><th scope=\"col\">2ª letra</th><th scope=\"col\">3ª letra</th></tr></thead><tbody><tr><td>DIA</td><td>D = 3</td><td>I = 8</td><td>A = 0</td></tr><tr><td>+ SOL</td><td>S = 18</td><td>O = 14</td><td>L = 11</td></tr><tr><td>= VWL</td><td>V = 21</td><td>W = 22</td><td>L = 11</td></tr></tbody></table></div><p>Assinale a alternativa que apresenta, nesse sistema, o valor correto da soma QUERO + FATEC.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "VUXVQ",
+    "B": "VUVYQ",
+    "C": "VVXVR",
+    "D": "UVYZR",
+    "E": "UVYZQ"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>QUERO = 16, 20, 4, 17, 14 e FATEC = 5, 0, 19, 4, 2. Somando da direita para a esquerda: O + C = 16 (Q); R + E = 21 (V); E + T = 23 (X); U + A = 20 (U); Q + F = 21 (V). Nenhuma soma passa de 25, então não há “vai um”. Resultado: <strong>VUXVQ</strong>. Alternativa <strong>A</strong>.</p><p>As outras alternativas erram pelo menos uma das letras.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sistemas de numeração",
+    "criptografia"
+   ]
+  },
+  {
+   "numero": 15,
+   "materia": "História",
+   "assunto": "Pré-História",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>No dia 2 de setembro de 2018, um incêndio de grandes proporções destruiu o prédio Histórico e parte significativa do inestimável acervo do Museu Nacional, localizado na Quinta da Boa Vista, no Rio de Janeiro. Entre outras, a comunidade científica brasileira lamentou a perda de múmias egípcias, amostras de plantas nativas coletadas ainda no período do Império, o raro fóssil do dinossauro <em>Santanaraptor placidus</em> e o crânio que pertenceu à mais antiga habitante humana conhecida da América do Sul, batizada de Luzia.</p><p>Em 19 de outubro de 2018, contudo, uma notícia foi largamente comemorada: dado como perdido, o crânio de Luzia foi encontrado entre os escombros do prédio incendiado.</p><p>O crânio é considerado uma peça fundamental para o estudo da pré-história brasileira, pois</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "sua constituição indica que o povo de Luzia adotava uma dieta exclusivamente herbívora.",
+    "B": "é uma evidência utilizada nas pesquisas que buscam desvendar a origem dos primeiros povoadores da América.",
+    "C": "sua descoberta confirma a teoria segundo a qual os primeiros indivíduos do gênero <em>Homo</em> conviveram com dinossauros não avianos.",
+    "D": "o tamanho de seu crânio e a datação de sua ossada sugerem que o povoamento humano da América ocorreu há cerca de 3,5 milhões de anos.",
+    "E": "foi possível concluir, por meio de exames de seu DNA, que os povos pré-históricos tinham uma expectativa de vida superior à dos homens modernos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Luzia, com cerca de 11 mil anos, é um dos fósseis humanos mais antigos da América e é usada nas pesquisas sobre <strong>quem foram os primeiros povoadores do continente</strong> e de onde vieram. Alternativa <strong>B</strong>.</p><p>O crânio não indica dieta exclusivamente herbívora (A). Seres humanos nunca conviveram com dinossauros não avianos (C). A América foi povoada há dezenas de milhares de anos, não milhões (D). E não há conclusão sobre expectativa de vida maior (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Luzia",
+    "povoamento da América"
+   ]
+  },
+  {
+   "numero": 16,
+   "materia": "História",
+   "assunto": "Antiguidade",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p>A figura mostra uma tapeçaria funerária produzida no Egito, durante o chamado Período Helenístico, retratatando um homem vestido como grego, posicionado entre dois deuses egípcios, Osíris e Anúbis.</p>[[fig:1]]<p class=\"fonte\">Tapeçaria funerária, linho, 1,75m x 1,25m. Sacara, Egito, séc. I a.C. Aegyptisches Museum, Berlim. Apud DOMINGUES, Joelza Esther. <em>História em Documento. Imagem e texto</em>. 6. 2ªed. São Paulo: FTD, 2013. Original colorido.</p><p>Assinale a alternativa que explica, corretamente, a fusão das culturas grega e egípcia representada na tapeçaria.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q16.webp",
+     "alt": "Tapeçaria funerária egípcia: no centro, um homem jovem com túnica grega; à esquerda, o deus Osíris, com coroa alta; à direita, o deus Anúbis, com cabeça de chacal, pousa a mão no ombro do homem."
+    }
+   ],
+   "alternativas": {
+    "A": "As sucessivas incursões militares empreendidas pela rainha Cleópatra VI nos territórios gregos proporcionaram o contato dos egípcios com a arte e a filosofia helenística, cuja concepção estética influenciou a produção dos artesãos do Baixo Egito.",
+    "B": "Educado por Aristóteles, o faraó Menés, responsável pela unificação dos reinos do Baixo e do Alto Egito, tornou-se grande admirador da arte e da filosofia gregas, e foi o responsável pela difusão da cultura helenística em seu império.",
+    "C": "A política expansionista de Alexandre, o Grande, promoveu o contato dos gregos com outros povos da Europa, da Ásia e da África, e originou a cultura helenística, caracterizada pela miscigenação de diversos elementos culturais.",
+    "D": "Os egípcios tomaram contato com a cultura helenística por meio <strong>Tapeçaria funerária, linho, 1,75m x 1,25m. </strong> do comércio com os povos visigodo, ostrogodo, viking e alano que, <strong>Sacara, Egito, séc. I a.C. Aegyptisches </strong> partindo do norte da Europa, navegavam até o Nilo levando produtos de diferentes procedências. <strong>Museum, Berlim.</strong> <em>Apud</em> DOMINGUES, Joelza Esther. <em>História em Documento. </em> <em>Imagem e texto.</em> 6. 2ªed. São Paulo: FTD, 2013. Original colorido.",
+    "E": "Resultado da união política da Grécia e do Egito, por meio do casamento de Alexandre, o Grande, com Cleópatra VI, a cultura helenística foi imposta, muitas vezes à força, a todos os súditos do novo império."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As conquistas de <strong>Alexandre, o Grande</strong>, no século IV a.C., levaram a cultura grega ao Egito, à Ásia e a outras regiões, e a mistura com as culturas locais formou a cultura helenística. Alternativa <strong>C</strong>.</p><p>Cleópatra não invadiu a Grécia (A e E), e Alexandre não se casou com ela, que viveu três séculos depois (E). Menés unificou o Egito por volta de 3100 a.C., muito antes de Aristóteles (B). E visigodos, ostrogodos e vikings são muito posteriores e não levaram o helenismo ao Egito (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "helenismo"
+   ]
+  },
+  {
+   "numero": 17,
+   "materia": "História",
+   "assunto": "Grandes Navegações",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p>Em 1519, os navegadores Fernão de Magalhães e Sebastião del Cano partiram de Cádiz, na Espanha, para uma viagem que entraria para a história por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "estabelecer um caminho terrestre para as Índias ocidentais.",
+    "B": "descobrir uma rota segura para atravessar o Polo Norte.",
+    "C": "comprovar o formato esférico do planeta Terra.",
+    "D": "desbravar o canal do Panamá.",
+    "E": "explorar o istmo de Suez."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A expedição foi a primeira a dar a volta ao mundo (1519–1522): partindo para o oeste, voltou à Espanha pelo leste, o que comprovou na prática que a Terra é <strong>esférica</strong>. Alternativa <strong>C</strong>.</p><p>A viagem foi marítima e buscava as Índias orientais (A). Não passou pelo Polo Norte (B). E os canais do Panamá e de Suez só foram abertos nos séculos XIX e XX (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "circum-navegação"
+   ]
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Revolução Industrial",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p>Leia o texto.</p><p class=\"apoio\">Muitas invenções e descobertas dessa fase foram fruto de pesquisas científicas sistemáticas realizadas em laboratórios de universidades ou de indústrias. Os empresários passaram a investir no trabalho dos cientistas, buscando inventos que gerassem lucros.</p><p class=\"apoio\">A indústria química, por exemplo, beneficiou-se dessa aproximação, o que resultou na produção de fibras sintéticas, inseticidas, celuloide [...], borracha vulcanizada [...], corantes artificiais, adubos, explosivos [...], entre outros.</p><p class=\"fonte\">DOMINGUES, Joelza Esther. <em>História em Documento. Imagem e texto</em>. 8. 2ªed. São Paulo: FTD, 2013. p.192.</p><p>O texto descreve a relação entre ciência e indústria característica da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Revolução Agrícola Brasileira (séc. XVI).",
+    "B": "Revolução Agrícola Europeia (séc. XII–XIII).",
+    "C": "Primeira Revolução Industrial (séc. XVIII).",
+    "D": "Segunda Revolução Industrial (séc. XIX–XX).",
+    "E": "Terceira Revolução Industrial (séc. XXI)."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A união entre pesquisa científica em laboratórios e indústria, com a química produzindo fibras sintéticas, corantes, adubos e explosivos, marca a <strong>Segunda Revolução Industrial</strong>. Alternativa <strong>D</strong>.</p><p>As revoluções agrícolas não envolviam laboratórios (A e B). A Primeira Revolução Industrial foi baseada no vapor e em inventores práticos, mais que na ciência de laboratório (C). E a Terceira começou na segunda metade do século XX (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p>Observe a imagem.</p>[[fig:1]]<p class=\"fonte\">Johann Moritz Rugendas. Festa de Nossa Senhora do Rosário, Patrona dos Negros, c.1835. &lt;https://tinyurl.com/ybj66a52&gt; Acesso em: 20/10/2018. Original colorido.</p><p>A imagem retrata a festa em homenagem à santa padroeira da irmandade religiosa de Nossa Senhora do Rosário dos Homens Pretos, em Minas Gerais, no século XVIII. Segundo o historiador Caio Boch, “as irmandades foram a mais viva expressão social das Minas Gerais do século XVIII”. De modo geral, as irmandades são definidas como associações constituídas por religiosos leigos e fiéis de diferentes classes sociais que se dedicavam ao culto de um padroeiro.</p><p>Na região das Minas Gerais, no século XVIII, essas associações se caracterizavam pela</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q19.webp",
+     "alt": "Gravura de Rugendas: uma grande festa ao ar livre, com uma multidão de pessoas negras dançando, tocando instrumentos e carregando estandartes, em frente a casas e a uma igreja, entre palmeiras. Legenda: “Fête de Ste Rosalie, patrone des nègres”."
+    }
+   ],
+   "alternativas": {
+    "A": "organização da vida social, construção de igrejas e de cemitérios, organização de festas, cuidados com os necessitados e formação profissional com o ensino dos ofícios mecânicos e das artes.",
+    "B": "organização da vida econômica, construção e manutenção de estradas, criação dos órgãos de fiscalização e cobrança de impostos, e administração dos seminários coloniais, responsáveis pela formação de novos padres.",
+    "C": "organização da vida política, construção de hospitais e de escolas de educação básica, administração do patrimônio do Vaticano no Brasil e organização de bazares e feiras para arrecadação de donativos para os necessitados.",
+    "D": "criação e fiscalização do cumprimento das leis referentes à moral e aos costumes dos moradores de Minas Gerais, celebração semanal do rito da missa e administração de sacramentos, como o batismo, o casamento e a extrema unção.",
+    "E": "criação dos órgãos de controle metropolitano sobre a população de escravos e libertos, regulamentação das práticas do Candomblé, construção de casas para os irmãos de baixa renda e desenvolvimento de sistemas de ensino religioso ecumênico."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Nas Minas do século XVIII, as irmandades organizavam a vida social: construíam igrejas e cemitérios, promoviam festas, ajudavam os necessitados e formavam artífices, ensinando ofícios e artes. Alternativa <strong>A</strong>.</p><p>Estradas, impostos e fiscalização eram da Coroa (B e E). Elas não administravam patrimônio do Vaticano nem escolas de educação básica (C), não faziam leis nem ministravam sacramentos, que eram atribuição dos padres (D), e não regulamentavam o candomblé (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "irmandades religiosas",
+    "Minas Gerais"
+   ]
+  },
+  {
+   "numero": 20,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 20 e 21.</p><p class=\"apoio\">Um incêndio atingiu uma fábrica de resíduos industriais em Itapevi, na Grande São Paulo. O local armazenava três toneladas de fosfeto de alumínio (AℓP). De acordo com a Companhia Ambiental do Estado de São Paulo (Cetesb), o fosfeto de alumínio reagiu com a água usada para apagar as chamas, produzindo hidróxido de alumínio e fosfina (PH<sub>3</sub>). A fosfina é um gás tóxico, incolor, e não reage com a água, porém reage rapidamente com o oxigênio liberando calor e produzindo pentóxido de difosfóro (P<sub>2</sub>O<sub>5</sub>). Segundo os médicos, a inalação do P<sub>2</sub>O<sub>5</sub> pode causar queimadura tanto na pele quanto nas vias respiratórias devido à formação de ácido fosfórico.</p><p class=\"fonte\">&lt;https://tinyurl.com/yafzufbo&gt; Acesso em: 11.10.18. Adaptado.</p><p>A reação química da produção da fosfina pode ser representada pela equação</p><p class=\"apoio\">AℓP (s) + 3 H<sub>2</sub>O (ℓ) → Aℓ(OH)<sub>3</sub> (s) + PH<sub>3</sub> (g)</p><p>Considerando que toda a massa de fosfeto de alumínio reagiu com a água e que o rendimento da reação é 100%, o volume aproximado de fosfina produzido no local, em litros, é</p><p class=\"apoio\">Dados:<br>Volume molar dos gases nas condições descritas: 30 L/mol<br>Massas molares em g/mol: Aℓ = 27, P = 31</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "3,33 × 10<sup>2</sup>.",
+    "B": "3,33 × 10<sup>3</sup>.",
+    "C": "3,33 × 10<sup>6</sup>.",
+    "D": "1,55 × 10<sup>3</sup>.",
+    "E": "1,55 × 10<sup>6</sup>."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A massa molar do AℓP é 27 + 31 = 58 g/mol. Três toneladas = 3 × 10⁶ g, ou 3 × 10⁶ ÷ 58 ≈ 5,17 × 10⁴ mol. Pela equação, 1 mol de AℓP dá 1 mol de PH₃: o volume é 5,17 × 10⁴ · 30 ≈ <strong>1,55 × 10⁶ L</strong>. Alternativa <strong>E</strong>.</p><p>1,55 × 10³ esquece de converter toneladas em gramas (D). Os valores com 3,33 usam a massa molar errada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estequiometria"
+   ]
+  },
+  {
+   "numero": 21,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 20 e 21.</p><p class=\"apoio\">Um incêndio atingiu uma fábrica de resíduos industriais em Itapevi, na Grande São Paulo. O local armazenava três toneladas de fosfeto de alumínio (AℓP). De acordo com a Companhia Ambiental do Estado de São Paulo (Cetesb), o fosfeto de alumínio reagiu com a água usada para apagar as chamas, produzindo hidróxido de alumínio e fosfina (PH<sub>3</sub>). A fosfina é um gás tóxico, incolor, e não reage com a água, porém reage rapidamente com o oxigênio liberando calor e produzindo pentóxido de difosfóro (P<sub>2</sub>O<sub>5</sub>). Segundo os médicos, a inalação do P<sub>2</sub>O<sub>5</sub> pode causar queimadura tanto na pele quanto nas vias respiratórias devido à formação de ácido fosfórico.</p><p class=\"fonte\">&lt;https://tinyurl.com/yafzufbo&gt; Acesso em: 11.10.18. Adaptado.</p><p>Os gráficos 1, 2 e 3 representam a variação da energia em função do caminho da reação para três transformações químicas, sendo R o reagente e P o produto de cada reação.</p>[[fig:1]]<p>Entre os gráficos 1, 2 e 3, aquele que representa corretamente a reação da fosfina com o oxigênio, descrita no texto, é o</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q21.webp",
+     "alt": "Três gráficos de entalpia H (kJ) pelo caminho da reação. Gráfico 1: o reagente R está mais alto que o produto P. Gráfico 2: R está mais baixo que P. Gráfico 3: R e P estão na mesma altura, com um pico entre eles."
+    }
+   ],
+   "alternativas": {
+    "A": "gráfico 1, pois a reação é endotérmica e apresenta ΔrH<sup>0</sup> &lt; 0.",
+    "B": "gráfico 1, pois a reação é exotérmica e apresenta ΔrH<sup>0</sup> &lt; 0.",
+    "C": "gráfico 2, pois a reação é endotérmica e apresenta ΔrH<sup>0</sup> &gt; 0.",
+    "D": "gráfico 2, pois a reação é exotérmica e apresenta ΔrH<sup>0</sup> &lt; 0.",
+    "E": "gráfico 3, pois a reação é endotérmica e apresenta ΔrH<sup>0</sup> &gt; 0."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que a fosfina reage com o oxigênio “liberando calor”: a reação é <strong>exotérmica</strong>, com ΔH &lt; 0, e o produto fica com menos energia que o reagente, como no gráfico 1. Alternativa <strong>B</strong>.</p><p>Reação com ΔH &lt; 0 não é endotérmica (A). O gráfico 2 é de uma reação endotérmica, mas a da fosfina é exotérmica (C e D). E o gráfico 3 mostra ΔH = 0 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "entalpia"
+   ]
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Funções inorgânicas",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p>Uma das substâncias que pode neutralizar o ácido fosfórico é o hidróxido de magnésio, Mg(OH)<sub>2</sub>.</p><p>A equação química balanceada que representa a reação de neutralização total que ocorre entre essas substâncias é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "H<sub>3</sub>PO<sub>4</sub> (aq) + Mg(OH)<sub>2</sub> (s) → MgPO<sub>4</sub> (s) + H<sub>2</sub>O (ℓ).",
+    "B": "2 H<sub>3</sub>PO<sub>4</sub> (aq) + 3 Mg(OH)<sub>2</sub> (s) → Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> (s) + 6 H<sub>2</sub>O (ℓ).",
+    "C": "3 H<sub>3</sub>PO<sub>3</sub> (aq) + 2 Mg(OH)<sub>2</sub> (s) → Mg<sub>2</sub>(PO<sub>3</sub>)<sub>3</sub> (s) + 6 H<sub>2</sub>O (ℓ).",
+    "D": "2 H<sub>3</sub>PO<sub>3</sub> (aq) + 3 Mg(OH)<sub>2</sub> (s) → Mg<sub>3</sub>(PO<sub>3</sub>)<sub>2</sub> (s) + 6 H<sub>2</sub>O (ℓ).",
+    "E": "H<sub>3</sub>PO<sub>3</sub> (aq) + Mg(OH)<sub>2</sub> (s) → MgPO<sub>3</sub> (s) + H<sub>2</sub>O (ℓ)."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O ácido fosfórico é H₃PO₄ (3 H⁺) e o hidróxido de magnésio tem 2 OH⁻. Para neutralizar tudo, 2 H₃PO₄ (6 H⁺) reagem com 3 Mg(OH)₂ (6 OH⁻), formando Mg₃(PO₄)₂ (3 Mg²⁺ e 2 PO₄³⁻) e 6 H₂O. Alternativa <strong>B</strong>.</p><p>MgPO₄ não tem cargas equilibradas e a equação A não está balanceada. C, D e E usam H₃PO₃, que é o ácido fosforoso, não o fosfórico.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "neutralização",
+    "balanceamento"
+   ]
+  },
+  {
+   "numero": 23,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p>A reação que ocorre entre a fosfina e o oxigênio é representada pela equação química</p><p class=\"apoio\">2 PH<sub>3</sub> (g) + 4 O<sub>2</sub> (g) → P<sub>2</sub>O<sub>5</sub> (g) + 3 H<sub>2</sub>O (g)</p><p>As substâncias que atuam como agente oxidante e agente redutor desse processo são, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O<sub>2</sub> e PH<sub>3</sub>.",
+    "B": "O<sub>2</sub> e H<sub>2</sub>O.",
+    "C": "O<sub>2</sub> e P<sub>2</sub>O<sub>5</sub>.",
+    "D": "PH<sub>3</sub> e H<sub>2</sub>O.",
+    "E": "PH<sub>3</sub> e P<sub>2</sub>O<sub>5</sub>."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O oxigênio passa de 0 para −2: sofre redução e é o <strong>agente oxidante</strong>. O fósforo passa de −3, no PH₃, para +5, no P₂O₅: o PH₃ sofre oxidação e é o <strong>agente redutor</strong>. Alternativa <strong>A</strong>.</p><p>Agentes oxidante e redutor são sempre reagentes, nunca produtos como H₂O e P₂O₅ (B, C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "oxirredução"
+   ]
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Ácidos e bases",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p>A amônia (NH<sub>3</sub>), molécula de estrutura semelhante à da fosfina, reage com água produzindo uma solução de caráter básico. A reação que ocorre pode ser representada pela equação química</p><p class=\"apoio\">NH<sub>3</sub> (g) + H<sub>2</sub>O (ℓ) ⇌ NH<sub>4</sub><sup>+</sup> (aq) + OH<sup>–</sup> (aq)</p><p>Uma solução aquosa de NH<sub>3</sub> apresenta concentração inicial de 0,02 mol/L a 25 °C.</p><p>Nessas condições, o valor da concentração de íons OH<sup>–</sup>, em mol/L, é</p><p class=\"apoio\">Dado:<br>Constante de basicidade da amônia a 25 °C: K<sub>b</sub> = 1,8 × 10<sup>–5</sup></p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2 × 10<sup>–4</sup>",
+    "B": "3 × 10<sup>–4</sup>",
+    "C": "4 × 10<sup>–4</sup>",
+    "D": "5 × 10<sup>–4</sup>",
+    "E": "6 × 10<sup>–4</sup>"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Como a amônia é uma base fraca, \\(K_b \\approx \\dfrac{[\\text{OH}^-]^2}{[\\text{NH}_3]}\\): [OH⁻]² = 1,8 × 10⁻⁵ · 0,02 = 3,6 × 10⁻⁷, e [OH⁻] = <strong>6 × 10⁻⁴ mol/L</strong>. Alternativa <strong>E</strong>.</p><p>Os outros valores vêm de errar a raiz ou a multiplicação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "constante de basicidade"
+   ]
+  },
+  {
+   "numero": 25,
+   "materia": "Inglês",
+   "assunto": "Vocabulário",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>The Skills You Need To Succeed In 2020</strong></p><p class=\"apoio\">By Avil Beckford – Aug 6, 2018.</p><p class=\"apoio\">The World Economic Forum reports that you need ten skills to thrive in 2020: complex problem solving; critical thinking; creativity; people management; coordinating with others; emotional intelligence; judgement and decision making; service orientation; negotiation; cognitive flexibility.</p><p class=\"apoio\">The ten skills on this list make sense for the age that we are living in. Of these, you want to focus on creative work, because that is where you are likely to remain employable. Every professional can be creative in the work she does.</p><p class=\"apoio\">You might have started to realize that you will need more than the ten skills listed earlier. Alvin Toffler once said, “The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.”</p><p class=\"apoio\">In some instances, relearning could be adapting what you know to a new reality. Take cell phones as an example. When they first came out, they were used solely as communications devices. Convergence happened, and now our smartphones are minicomputers. People had to relearn how to use a phone.</p><p class=\"apoio\">In terms of work, you will have to adapt some of your skills to the jobs of the future, and you will also have to learn new skills. Here are some of the additional skills that you will need to succeed in 2020.</p><p class=\"apoio\"><strong>Learning how to learn.</strong> Since skills are constantly changing, you have to learn how to learn.</p><p class=\"apoio\"><strong>Analyzing information.</strong> When you take good and detailed notes, you can review them to pick out the big ideas, understand, and make sense of information.</p><p class=\"apoio\"><strong>Spotting patterns and trends.</strong> I recommend that you combine ideas from the different books that you read. By doing this, you may be able to spot ideas and trends.</p><p class=\"apoio\"><strong>Communicating – written and oral.</strong> You can combine ideas that once seemed unrelated to communicate them to influencers, who can help you to shape and implement them.</p><p class=\"apoio\"><strong>Understanding and leveraging technology.</strong> Technology is changing at an unprecedented pace, so you need to understand and keep on top of it.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7pahnqf&gt; Acesso em: 15.10.2018. Adaptado.</p><p>Na frase, <em>The World Economic Forum reports that you need ten skills to thrive in 2020…</em>, presente no primeiro parágrafo do texto, a palavra <em>thrive</em> pode ser substituída por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "<em>fail</em>",
+    "B": "<em>languish</em>",
+    "C": "<em>prosper</em>",
+    "D": "<em>retreat</em>",
+    "E": "<em>retrogress</em>"
+   },
+   "gabarito": "C",
+   "explicacao": "<p><em>Thrive</em> significa “prosperar”, “ter sucesso”: o sinônimo é <strong><em>prosper</em></strong>. Alternativa <strong>C</strong>.</p><p><em>Fail</em> (fracassar), <em>languish</em> (definhar), <em>retreat</em> (recuar) e <em>retrogress</em> (retroceder) têm sentidos opostos (A, B, D e E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 26,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>The Skills You Need To Succeed In 2020</strong></p><p class=\"apoio\">By Avil Beckford – Aug 6, 2018.</p><p class=\"apoio\">The World Economic Forum reports that you need ten skills to thrive in 2020: complex problem solving; critical thinking; creativity; people management; coordinating with others; emotional intelligence; judgement and decision making; service orientation; negotiation; cognitive flexibility.</p><p class=\"apoio\">The ten skills on this list make sense for the age that we are living in. Of these, you want to focus on creative work, because that is where you are likely to remain employable. Every professional can be creative in the work she does.</p><p class=\"apoio\">You might have started to realize that you will need more than the ten skills listed earlier. Alvin Toffler once said, “The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.”</p><p class=\"apoio\">In some instances, relearning could be adapting what you know to a new reality. Take cell phones as an example. When they first came out, they were used solely as communications devices. Convergence happened, and now our smartphones are minicomputers. People had to relearn how to use a phone.</p><p class=\"apoio\">In terms of work, you will have to adapt some of your skills to the jobs of the future, and you will also have to learn new skills. Here are some of the additional skills that you will need to succeed in 2020.</p><p class=\"apoio\"><strong>Learning how to learn.</strong> Since skills are constantly changing, you have to learn how to learn.</p><p class=\"apoio\"><strong>Analyzing information.</strong> When you take good and detailed notes, you can review them to pick out the big ideas, understand, and make sense of information.</p><p class=\"apoio\"><strong>Spotting patterns and trends.</strong> I recommend that you combine ideas from the different books that you read. By doing this, you may be able to spot ideas and trends.</p><p class=\"apoio\"><strong>Communicating – written and oral.</strong> You can combine ideas that once seemed unrelated to communicate them to influencers, who can help you to shape and implement them.</p><p class=\"apoio\"><strong>Understanding and leveraging technology.</strong> Technology is changing at an unprecedented pace, so you need to understand and keep on top of it.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7pahnqf&gt; Acesso em: 15.10.2018. Adaptado.</p><p>De acordo com o texto, dentre as dez habilidades apontadas como necessárias para os profissionais prosperarem em 2020, a habilidade que apresenta maior probabilidade para que uma pessoa se mantenha empregada é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o trabalho criativo.",
+    "B": "a gestão de pessoas.",
+    "C": "o pensamento crítico.",
+    "D": "a inteligência emocional.",
+    "E": "a resolução de problemas complexos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz: “<em>you want to focus on creative work, because that is where you are likely to remain employable</em>” (concentre-se no trabalho criativo, porque é nele que você provavelmente continuará empregável). Alternativa <strong>A</strong>.</p><p>As outras habilidades estão na lista, mas o texto não as destaca para manter o emprego (B, C, D e E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 27,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>The Skills You Need To Succeed In 2020</strong></p><p class=\"apoio\">By Avil Beckford – Aug 6, 2018.</p><p class=\"apoio\">The World Economic Forum reports that you need ten skills to thrive in 2020: complex problem solving; critical thinking; creativity; people management; coordinating with others; emotional intelligence; judgement and decision making; service orientation; negotiation; cognitive flexibility.</p><p class=\"apoio\">The ten skills on this list make sense for the age that we are living in. Of these, you want to focus on creative work, because that is where you are likely to remain employable. Every professional can be creative in the work she does.</p><p class=\"apoio\">You might have started to realize that you will need more than the ten skills listed earlier. Alvin Toffler once said, “The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.”</p><p class=\"apoio\">In some instances, relearning could be adapting what you know to a new reality. Take cell phones as an example. When they first came out, they were used solely as communications devices. Convergence happened, and now our smartphones are minicomputers. People had to relearn how to use a phone.</p><p class=\"apoio\">In terms of work, you will have to adapt some of your skills to the jobs of the future, and you will also have to learn new skills. Here are some of the additional skills that you will need to succeed in 2020.</p><p class=\"apoio\"><strong>Learning how to learn.</strong> Since skills are constantly changing, you have to learn how to learn.</p><p class=\"apoio\"><strong>Analyzing information.</strong> When you take good and detailed notes, you can review them to pick out the big ideas, understand, and make sense of information.</p><p class=\"apoio\"><strong>Spotting patterns and trends.</strong> I recommend that you combine ideas from the different books that you read. By doing this, you may be able to spot ideas and trends.</p><p class=\"apoio\"><strong>Communicating – written and oral.</strong> You can combine ideas that once seemed unrelated to communicate them to influencers, who can help you to shape and implement them.</p><p class=\"apoio\"><strong>Understanding and leveraging technology.</strong> Technology is changing at an unprecedented pace, so you need to understand and keep on top of it.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7pahnqf&gt; Acesso em: 15.10.2018. Adaptado.</p><p>Na oração <em>The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn</em>, presente no terceiro parágrafo do texto, Toffler afirma que, no século 21, serão consideradas letradas as pessoas que souberem</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ler, reescrever e aprender.",
+    "B": "ler, escrever e desaprender.",
+    "C": "reaprender, reler e reescrever.",
+    "D": "escrever, desaprender e reaprender.",
+    "E": "aprender, desaprender e reaprender."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para Toffler, os analfabetos do século XXI serão os que não sabem <em>learn, unlearn and relearn</em>: os letrados serão os que sabem <strong>aprender, desaprender e reaprender</strong>. Alternativa <strong>E</strong>.</p><p>Ler e escrever é justamente o critério que deixa de ser o principal (A, B, C e D).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 28,
+   "materia": "Inglês",
+   "assunto": "Verbos",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>The Skills You Need To Succeed In 2020</strong></p><p class=\"apoio\">By Avil Beckford – Aug 6, 2018.</p><p class=\"apoio\">The World Economic Forum reports that you need ten skills to thrive in 2020: complex problem solving; critical thinking; creativity; people management; coordinating with others; emotional intelligence; judgement and decision making; service orientation; negotiation; cognitive flexibility.</p><p class=\"apoio\">The ten skills on this list make sense for the age that we are living in. Of these, you want to focus on creative work, because that is where you are likely to remain employable. Every professional can be creative in the work she does.</p><p class=\"apoio\">You might have started to realize that you will need more than the ten skills listed earlier. Alvin Toffler once said, “The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.”</p><p class=\"apoio\">In some instances, relearning could be adapting what you know to a new reality. Take cell phones as an example. When they first came out, they were used solely as communications devices. Convergence happened, and now our smartphones are minicomputers. People had to relearn how to use a phone.</p><p class=\"apoio\">In terms of work, you will have to adapt some of your skills to the jobs of the future, and you will also have to learn new skills. Here are some of the additional skills that you will need to succeed in 2020.</p><p class=\"apoio\"><strong>Learning how to learn.</strong> Since skills are constantly changing, you have to learn how to learn.</p><p class=\"apoio\"><strong>Analyzing information.</strong> When you take good and detailed notes, you can review them to pick out the big ideas, understand, and make sense of information.</p><p class=\"apoio\"><strong>Spotting patterns and trends.</strong> I recommend that you combine ideas from the different books that you read. By doing this, you may be able to spot ideas and trends.</p><p class=\"apoio\"><strong>Communicating – written and oral.</strong> You can combine ideas that once seemed unrelated to communicate them to influencers, who can help you to shape and implement them.</p><p class=\"apoio\"><strong>Understanding and leveraging technology.</strong> Technology is changing at an unprecedented pace, so you need to understand and keep on top of it.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7pahnqf&gt; Acesso em: 15.10.2018. Adaptado.</p><p>Na oração <em>In terms of work, you will have to adapt some of your skills to the jobs of the future, and you will also have to learn new skills</em>, presente no quinto parágrafo do texto, a expressão <em>will have to</em> indica</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "opção.",
+    "B": "proibição.",
+    "C": "obrigação.",
+    "D": "permissão.",
+    "E": "possibilidade."
+   },
+   "gabarito": "C",
+   "explicacao": "<p><em>Have to</em> expressa necessidade, <strong>obrigação</strong>: “você <em>terá de</em> adaptar suas habilidades”. Alternativa <strong>C</strong>.</p><p>Opção e possibilidade seriam <em>may</em> ou <em>might</em> (A e E), proibição, <em>must not</em> (B), e permissão, <em>can</em> ou <em>may</em> (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "modais"
+   ]
+  },
+  {
+   "numero": 29,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 25 a 29.</p><p class=\"apoio\"><strong>The Skills You Need To Succeed In 2020</strong></p><p class=\"apoio\">By Avil Beckford – Aug 6, 2018.</p><p class=\"apoio\">The World Economic Forum reports that you need ten skills to thrive in 2020: complex problem solving; critical thinking; creativity; people management; coordinating with others; emotional intelligence; judgement and decision making; service orientation; negotiation; cognitive flexibility.</p><p class=\"apoio\">The ten skills on this list make sense for the age that we are living in. Of these, you want to focus on creative work, because that is where you are likely to remain employable. Every professional can be creative in the work she does.</p><p class=\"apoio\">You might have started to realize that you will need more than the ten skills listed earlier. Alvin Toffler once said, “The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.”</p><p class=\"apoio\">In some instances, relearning could be adapting what you know to a new reality. Take cell phones as an example. When they first came out, they were used solely as communications devices. Convergence happened, and now our smartphones are minicomputers. People had to relearn how to use a phone.</p><p class=\"apoio\">In terms of work, you will have to adapt some of your skills to the jobs of the future, and you will also have to learn new skills. Here are some of the additional skills that you will need to succeed in 2020.</p><p class=\"apoio\"><strong>Learning how to learn.</strong> Since skills are constantly changing, you have to learn how to learn.</p><p class=\"apoio\"><strong>Analyzing information.</strong> When you take good and detailed notes, you can review them to pick out the big ideas, understand, and make sense of information.</p><p class=\"apoio\"><strong>Spotting patterns and trends.</strong> I recommend that you combine ideas from the different books that you read. By doing this, you may be able to spot ideas and trends.</p><p class=\"apoio\"><strong>Communicating – written and oral.</strong> You can combine ideas that once seemed unrelated to communicate them to influencers, who can help you to shape and implement them.</p><p class=\"apoio\"><strong>Understanding and leveraging technology.</strong> Technology is changing at an unprecedented pace, so you need to understand and keep on top of it.</p><p class=\"fonte\">&lt;https://tinyurl.com/y7pahnqf&gt; Acesso em: 15.10.2018. Adaptado.</p><p>De acordo com o texto, algumas habilidades adicionais serão necessárias para os empregos do futuro.</p><p>A capacidade de fazer anotações detalhadas, selecionar ideias principais, entender e dar sentido às informações refere-se à habilidade de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aprender a aprender.",
+    "B": "analisar informação.",
+    "C": "identificar padrões e tendências.",
+    "D": "se comunicar oralmente e por escrito.",
+    "E": "entender e acompanhar avanços tecnológicos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O item <em>Analyzing information</em> diz: “<em>When you take good and detailed notes, you can review them to pick out the big ideas, understand, and make sense of information</em>”. Alternativa <strong>B</strong>.</p><p>As outras habilidades têm descrições diferentes no texto (A, C, D e E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Matrizes",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p>João, Sílvia e Pedro são funcionários de uma empresa.</p><p>Considere as matrizes:</p>\\[A = \\begin{pmatrix} 10 & 12 & 8 \\end{pmatrix} \\quad \\text{e} \\quad B = \\begin{pmatrix} 25 & 40 & 12 & 32 \\\\ 15 & 22 & 30 & 30 \\\\ 30 & 25 & 25 & 18 \\end{pmatrix}\\]<p>em que:</p><p>• a matriz A representa o valor, em reais, recebido por hora trabalhada de João, Sílvia e Pedro, respectivamente;<br>• a matriz B representa a quantidade de horas trabalhadas por semana dos mesmos funcionários, em cada uma das quatro primeiras semanas no mês de julho de 2018;<br>• na matriz B, as linhas 1 a 3 são para João, Sílvia e Pedro, respectivamente; e as colunas de 1 a 4 são, nessa ordem, para as quatro primeiras semanas do mês de julho, de modo que, por exemplo, o elemento b<sub>13</sub> é a quantidade de horas que João trabalhou na terceira semana desse mês.</p><p>O valor pago pela empresa pelas horas trabalhadas por esses três funcionários na segunda semana de julho de 2018 será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 670,00.",
+    "B": "R$ 680,00.",
+    "C": "R$ 824,00.",
+    "D": "R$ 980,00.",
+    "E": "R$ 984,00."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Questão anulada. A resolução esperada: multiplica-se a matriz A pela coluna da segunda semana de B. João: 10 · 40 = 400; Sílvia: 12 · 22 = 264; Pedro: 8 · 25 = 200. Total: R$ 864,00, valor que não aparece nas alternativas.</p><p>Um erro comum seria usar a segunda <em>linha</em> de B (as horas de Sílvia) em vez da segunda coluna.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multiplicação de matrizes"
+   ],
+   "anulacao": {
+    "fonte": "analise",
+    "motivo": "O Centro Paula Souza anulou a questão sem publicar o motivo. Pela análise do Treineiros, o valor correto não está entre as alternativas: na segunda semana (coluna 2 de B), João trabalhou 40 h, Sílvia 22 h e Pedro 25 h, e o total pago é 10 · 40 + 12 · 22 + 8 · 25 = 400 + 264 + 200 = R$ 864,00."
+   }
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p>Uma garrafa térmica tem formato de um cilindro circular reto, fundo plano e diâmetro da base medindo 8,0 cm. Ela está em pé sobre uma mesa e parte do suco em seu interior já foi consumido, sendo que o nível do suco está a 13 cm da base da garrafa, como mostra a figura.</p><p>O suco é despejado num copo vazio, também de formato cilíndrico e base plana, cujo diâmetro da base é 4 cm e com altura de 7 cm. O copo fica totalmente cheio de suco, sem desperdício.</p><p>Nessas condições, o volume de suco restante na garrafa é, em cm<sup>3</sup>, aproximadamente,</p>[[fig:1]]<p class=\"apoio\">Adote π = 3.<br>Despreze a espessura do material da garrafa e do copo.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q31.webp",
+     "alt": "Garrafa térmica cilíndrica de 8 cm de diâmetro, com o nível do suco marcado a 13 cm da base."
+    }
+   ],
+   "alternativas": {
+    "A": "250.",
+    "B": "380.",
+    "C": "540.",
+    "D": "620.",
+    "E": "800."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na garrafa (raio 4 cm, altura 13 cm): V = 3 · 4² · 13 = 624 cm³. No copo (raio 2 cm, altura 7 cm): V = 3 · 2² · 7 = 84 cm³. Restam 624 − 84 = <strong>540 cm³</strong>. Alternativa <strong>C</strong>.</p><p>Usar o diâmetro no lugar do raio leva a valores muito maiores (E). E 620 é quase o volume inicial (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cilindro",
+    "volume"
+   ]
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p>Considere que:</p><p class=\"apoio\">• a frequência cardíaca máxima de uma pessoa, em batimentos por minuto (bpm), é a diferença entre uma constante K e a idade da pessoa. O valor de K para um homem é 220 e, para uma mulher, K é 226.<br>• a frequência cardíaca ideal para queimar gordura e emagrecer durante um treino é de 60% a 75% da frequência cardíaca máxima.</p><p>Dessa forma, a frequência cardíaca ideal para queimar gordura e emagrecer durante um treino para um homem de 40 anos, em bpm, varia de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "114 a 143.",
+    "B": "111 a 139.",
+    "C": "108 a 135.",
+    "D": "105 a 132.",
+    "E": "102 a 128."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A frequência máxima é 220 − 40 = 180 bpm. A faixa ideal vai de 0,60 · 180 = 108 a 0,75 · 180 = 135 bpm. Alternativa <strong>C</strong>.</p><p>Usar K = 226, o valor das mulheres, daria de 111,6 a 139,5 (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "frequência cardíaca"
+   ]
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p>O artesão brasileiro é um agente de produção nas áreas cultural e econômica do país, gerando empregos e contribuindo para a identidade regional. Observe os gráficos e admita distribuição homogênea de dados.</p>[[fig:1]]<p class=\"fonte\">Fonte de dados: &lt;https://tinyurl.com/ycgl2ljx&gt; Acesso em: 09/10/2018. Adaptado.</p><p>Suponha que uma viagem será sorteada entre todos os artesãos brasileiros, a probabilidade de que o ganhador da viagem seja uma mulher de 65 anos ou mais é de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q33.webp",
+     "alt": "Dois gráficos sobre os artesãos brasileiros. Barras por faixa etária: 18 a 24 anos, 1%; 25 a 29, 2%; 30 a 34, 6%; 35 a 39, 10%; 40 a 49, 27%; 50 a 64, 41%; 65 anos ou mais, 12%. Setores por sexo: feminino, 77%; masculino, 23%."
+    }
+   ],
+   "alternativas": {
+    "A": "31,57%.",
+    "B": "20,79%.",
+    "C": "12,43%.",
+    "D": "9,24%.",
+    "E": "4,85%."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com distribuição homogênea, a probabilidade é o produto: 0,77 (mulher) · 0,12 (65 anos ou mais) = 0,0924 = <strong>9,24%</strong>. Alternativa <strong>D</strong>.</p><p>Os outros valores combinam faixas ou porcentagens erradas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráficos"
+   ]
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p>Uma artesã borda, com lã, tapetes com desenhos baseados em figuras geométricas. Ela desenvolve um padrão retangular de 20 cm por 40 cm. No padrão, serão bordados dois triângulos pretos e quatro triângulos na cor cinza e o restante será bordado com lã branca, conforme a figura.</p>[[fig:1]]<p>Cada triângulo preto é retângulo e isósceles com hipotenusa \\(12\\sqrt{2}\\) cm. Cada triângulo cinza é semelhante a um triângulo preto e possui dois lados de medida 10 cm.</p><p>Assim posto, a área no padrão bordada em branco é, em cm<sup>2</sup>,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q34.webp",
+     "alt": "Retângulo de 40 cm por 20 cm. Nos quatro cantos, triângulos cinza; no centro, dois triângulos pretos, um apontando para a esquerda e outro para a direita; o resto é branco."
+    }
+   ],
+   "alternativas": {
+    "A": "344.",
+    "B": "456.",
+    "C": "582.",
+    "D": "628.",
+    "E": "780."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Um triângulo retângulo isósceles com hipotenusa \\(12\\sqrt{2}\\) tem catetos de 12 cm: área 12 · 12 ÷ 2 = 72 cm²; os dois pretos somam 144 cm². Os cinza têm catetos de 10 cm: 50 cm² cada, 200 cm² os quatro. O retângulo tem 800 cm²: branco = 800 − 144 − 200 = <strong>456 cm²</strong>. Alternativa <strong>B</strong>.</p><p>344 é a soma das áreas coloridas, não a branca (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área",
+    "triângulos"
+   ]
+  },
+  {
+   "numero": 35,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p class=\"chamada\">Leia a notícia, divulgada em maio 2017, para responder às questões de números 35 a 36.</p><p class=\"apoio\">Para todos os exercícios, considere situações ideais e g = 10 m/s<sup>2</sup></p><p class=\"apoio\"><strong>Navio autônomo e elétrico</strong></p><p class=\"apoio\">O primeiro navio autônomo — e, além disso, totalmente elétrico — já tem data marcada para começar a navegar. O Yara Birkeland (homenagem ao cientista norueguês Kristian Birkeland) deverá começar a operar na segunda metade de 2018, levando produtos da fábrica de fertilizantes da Yara, em Porsgrunn, até as cidades de Brevik e Larvik — todas na Noruega.</p><p class=\"apoio\">O navio elétrico e autônomo deverá substituir 100 caminhões que fazem 40 000 viagens por ano. Ele operará exclusivamente nessa rota, um trajeto de 12 milhas náuticas, pouco mais de 22 km. Com 70 metros de calado<sup>1</sup> e 4 500 toneladas de porte bruto, o navio autônomo poderá atingir até 18,5 km/h (10 nós), mas deverá operar em velocidade de cruzeiro de 11 km/h (6 nós).</p><p class=\"apoio\">Ele será impulsionado por dois mecanismos azimutais, em que o motor inteiro se movimenta para fazer o navio virar. Seu conjunto de baterias pode prover até 4 MWh.</p><p class=\"apoio\">A navegação autônoma se baseará em um extenso conjunto de sensores redundantes, incluindo câmeras no visível e no infravermelho, RADAR (<em>Radio Detection And Ranging</em>), LIDAR (<em>Light Detection And Ranging</em>) e AIS (<em>Automatic Identification System</em>), um sistema de monitoramento de curto alcance já utilizado em navios e serviços de tráfego de embarcações.</p><p class=\"fonte\">&lt;https://tinyurl.com/yapk5b5f&gt; Acesso em: 10.10.2018. Adaptado.</p><p class=\"fonte\">¹Calado – distância vertical entre a superfície da água e a parte mais baixa do navio naquele ponto.</p><p>Desconsiderando as acelerações de saída e de chegada do navio nos portos de Brevik e Larvik, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 nó é igual a aproximadamente 1,85 km.",
+    "B": "milha náutica é também unidade de medida pertencente ao SI.",
+    "C": "a velocidade média do navio nessa rota seria, obrigatoriamente, 8 nós.",
+    "D": "o menor tempo possível da viagem nesse percurso seria exatamente 1 h.",
+    "E": "o navio, mantendo a velocidade de cruzeiro, levaria aproximadamente 2 h no percurso."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na velocidade de cruzeiro de 11 km/h, os 22 km da rota levam 22 ÷ 11 = <strong>2 h</strong>. Alternativa <strong>E</strong>.</p><p>Nó é unidade de velocidade: 1 nó ≈ 1,85 km/h, não km (A). A milha náutica não é do SI (B). Nada obriga a média a ser 8 nós (C). E na velocidade máxima, 18,5 km/h, a viagem levaria cerca de 1,2 h, não exatamente 1 h (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade média"
+   ]
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p class=\"chamada\">Leia a notícia, divulgada em maio 2017, para responder às questões de números 35 a 36.</p><p class=\"apoio\">Para todos os exercícios, considere situações ideais e g = 10 m/s<sup>2</sup></p><p class=\"apoio\"><strong>Navio autônomo e elétrico</strong></p><p class=\"apoio\">O primeiro navio autônomo — e, além disso, totalmente elétrico — já tem data marcada para começar a navegar. O Yara Birkeland (homenagem ao cientista norueguês Kristian Birkeland) deverá começar a operar na segunda metade de 2018, levando produtos da fábrica de fertilizantes da Yara, em Porsgrunn, até as cidades de Brevik e Larvik — todas na Noruega.</p><p class=\"apoio\">O navio elétrico e autônomo deverá substituir 100 caminhões que fazem 40 000 viagens por ano. Ele operará exclusivamente nessa rota, um trajeto de 12 milhas náuticas, pouco mais de 22 km. Com 70 metros de calado<sup>1</sup> e 4 500 toneladas de porte bruto, o navio autônomo poderá atingir até 18,5 km/h (10 nós), mas deverá operar em velocidade de cruzeiro de 11 km/h (6 nós).</p><p class=\"apoio\">Ele será impulsionado por dois mecanismos azimutais, em que o motor inteiro se movimenta para fazer o navio virar. Seu conjunto de baterias pode prover até 4 MWh.</p><p class=\"apoio\">A navegação autônoma se baseará em um extenso conjunto de sensores redundantes, incluindo câmeras no visível e no infravermelho, RADAR (<em>Radio Detection And Ranging</em>), LIDAR (<em>Light Detection And Ranging</em>) e AIS (<em>Automatic Identification System</em>), um sistema de monitoramento de curto alcance já utilizado em navios e serviços de tráfego de embarcações.</p><p class=\"fonte\">&lt;https://tinyurl.com/yapk5b5f&gt; Acesso em: 10.10.2018. Adaptado.</p><p class=\"fonte\">¹Calado – distância vertical entre a superfície da água e a parte mais baixa do navio naquele ponto.</p><p>Se o navio, considerado estável, percorre um trecho qualquer em velocidade de cruzeiro, podemos concluir que a quantidade de movimento, em <strong>kg·m/s</strong>, nesse trecho especificado é, aproximadamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,37 × 10<sup>4</sup>",
+    "B": "4,95 × 10<sup>4</sup>",
+    "C": "8,32 × 10<sup>4</sup>",
+    "D": "1,37 × 10<sup>7</sup>",
+    "E": "4,95 × 10<sup>7</sup>"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A massa é 4 500 t = 4,5 × 10⁶ kg, e a velocidade de cruzeiro, 11 km/h ≈ 3,06 m/s. Q = m · v ≈ 4,5 × 10⁶ · 3,06 ≈ <strong>1,37 × 10⁷ kg·m/s</strong>. Alternativa <strong>D</strong>.</p><p>4,95 × 10⁷ esquece de converter km/h em m/s (E). As alternativas com 10⁴ erram a conversão de toneladas em quilogramas (A, B e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "quantidade de movimento"
+   ]
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p class=\"chamada\">Leia a notícia, divulgada em maio 2017, para responder às questões de números 35 a 36.</p><p class=\"apoio\">Para todos os exercícios, considere situações ideais e g = 10 m/s<sup>2</sup></p><p class=\"apoio\"><strong>Navio autônomo e elétrico</strong></p><p class=\"apoio\">O primeiro navio autônomo — e, além disso, totalmente elétrico — já tem data marcada para começar a navegar. O Yara Birkeland (homenagem ao cientista norueguês Kristian Birkeland) deverá começar a operar na segunda metade de 2018, levando produtos da fábrica de fertilizantes da Yara, em Porsgrunn, até as cidades de Brevik e Larvik — todas na Noruega.</p><p class=\"apoio\">O navio elétrico e autônomo deverá substituir 100 caminhões que fazem 40 000 viagens por ano. Ele operará exclusivamente nessa rota, um trajeto de 12 milhas náuticas, pouco mais de 22 km. Com 70 metros de calado<sup>1</sup> e 4 500 toneladas de porte bruto, o navio autônomo poderá atingir até 18,5 km/h (10 nós), mas deverá operar em velocidade de cruzeiro de 11 km/h (6 nós).</p><p class=\"apoio\">Ele será impulsionado por dois mecanismos azimutais, em que o motor inteiro se movimenta para fazer o navio virar. Seu conjunto de baterias pode prover até 4 MWh.</p><p class=\"apoio\">A navegação autônoma se baseará em um extenso conjunto de sensores redundantes, incluindo câmeras no visível e no infravermelho, RADAR (<em>Radio Detection And Ranging</em>), LIDAR (<em>Light Detection And Ranging</em>) e AIS (<em>Automatic Identification System</em>), um sistema de monitoramento de curto alcance já utilizado em navios e serviços de tráfego de embarcações.</p><p class=\"fonte\">&lt;https://tinyurl.com/yapk5b5f&gt; Acesso em: 10.10.2018. Adaptado.</p><p class=\"fonte\">¹Calado – distância vertical entre a superfície da água e a parte mais baixa do navio naquele ponto.</p><p>Relacionando as informações do texto com os respectivos conceitos físicos, está correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4 MWh equivale à potência máxima da bateria em condições normais.",
+    "B": "podemos considerar que, em condições de estabilidade estática e repouso, o empuxo aplicado no navio equivale a 4,5 × 10<sup>7</sup> N.",
+    "C": "as “câmeras no visível e no infravermelho” referem-se a câmeras que operam com ondas eletromagnéticas nas frequências do visível e do infravermelho e, portanto, não funcionam à noite.",
+    "D": "o sistema de detecção RADAR funciona por emissão de ondas mecânicas de rádio na frequência da luz visível.",
+    "E": "o sistema de detecção LIDAR torna-se mais lento e menos preciso em comparação a outros métodos por operar com pulsos de luz laser."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em repouso, o navio flutua em equilíbrio: o empuxo é igual ao peso, E = m · g = 4,5 × 10⁶ kg · 10 m/s² = <strong>4,5 × 10⁷ N</strong>. Alternativa <strong>B</strong>.</p><p>MWh é unidade de energia, não de potência (A). Câmeras infravermelhas funcionam à noite, porque captam o calor (C). Ondas de rádio são eletromagnéticas e não têm a frequência da luz visível (D). E o LIDAR é rápido e muito preciso (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "empuxo",
+    "ondas eletromagnéticas"
+   ]
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p>A figura apresenta a obra de litogravura “Mão com esfera refletora” (1935), do artista gráfico holandês Maurits Cornelis Escher (1898–1972), que se representou por uma imagem refletida em uma esfera.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yardzola&gt; Acesso em: 15.10.2018.</p><p>Sendo o artista o objeto refletido na superfície dessa esfera, podemos afirmar corretamente, sobre essa imagem formada, que se</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q38.webp",
+     "alt": "Litogravura “Mão com esfera refletora”, de Escher: uma mão segura uma esfera espelhada na qual aparece, deformado, o próprio artista sentado em sua sala, com móveis e estantes ao redor."
+    }
+   ],
+   "alternativas": {
+    "A": "assemelha à classificação exata de uma imagem observada em uma lente delgada convergente.",
+    "B": "assemelha à classificação exata de uma imagem observada em um espelho côncavo.",
+    "C": "classifica em menor, direita e real.",
+    "D": "posiciona entre o foco e o vértice da face refletora.",
+    "E": "posiciona entre o raio de curvatura e o vértice da face refletora."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A face externa da esfera é um <strong>espelho convexo</strong>. Ele forma sempre imagem virtual, direita e menor, situada atrás do espelho, <strong>entre o foco e o vértice</strong>. Alternativa <strong>D</strong>.</p><p>Lentes convergentes e espelhos côncavos formam imagens de outros tipos, dependendo da posição do objeto (A e B). A imagem do espelho convexo é virtual, não real (C). E ela não chega à região do centro de curvatura (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espelho convexo"
+   ]
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Circuitos elétricos",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p>Um circuito eletrônico utilizado pelos alunos da FATEC possui resistores, medidos em ohm, e uma ddp de 12 V entre os pontos A–B, conforme a figura.</p>[[fig:1]]<p>O valor da corrente elétrica da associação de resistores no circuito apresentado na figura, em ampère, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q39.webp",
+     "alt": "Circuito formado por dois círculos sobrepostos, que se cruzam em dois nós, à esquerda e à direita. O ponto A liga-se ao nó da esquerda e o ponto B ao nó da direita. Entre os dois nós há quatro caminhos: o arco externo de cima, com três resistores de 8 Ω; o arco interno de cima, com dois resistores de 12 Ω; o arco interno de baixo, com dois resistores de 12 Ω; e o arco externo de baixo, com três resistores de 8 Ω."
+    }
+   ],
+   "alternativas": {
+    "A": "6",
+    "B": "5",
+    "C": "4",
+    "D": "3",
+    "E": "2"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Entre os nós ligados a A e a B há quatro caminhos em paralelo: dois externos, cada um com 8 + 8 + 8 = 24 Ω, e dois internos, cada um com 12 + 12 = 24 Ω. Quatro resistências iguais de 24 Ω em paralelo dão 24 ÷ 4 = 6 Ω. A corrente é i = U ÷ R = 12 ÷ 6 = <strong>2 A</strong>. Alternativa <strong>E</strong>.</p><p>Somar todos os resistores, ou considerar só parte dos caminhos, leva aos outros valores.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "associação de resistores"
+   ]
+  },
+  {
+   "numero": 40,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente e sociedade",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p>Leia o texto.</p><p class=\"apoio\">“Há 8 mil anos, o espaço geográfico onde se localiza o Brasil possuía 9,8% das florestas mundiais. Nesse mesmo período, a Europa, sem a Rússia, possuia cerca de 7%; a África quase 11%; e a Ásia, 23,6%.</p><p class=\"apoio\">No início do século XXI, o espaço geográfico onde se localiza o Brasil detinha 28,3% das florestas mundiais. A Europa, sem a Rússia, detinha apenas 0,1%; a África estava com 3,4%; e a Ásia, 5,5%.</p><p class=\"fonte\">Fonte dos dados: MIRANDA, Evaristo Eduardo de. <em>Quando o Amazonas corria para o Pacífico: uma história desconhecida da Amazônia</em>. Petrópolis, RJ. 2 ed.: VOZES, 2007.</p><p>Relacionando as informações dos dois períodos históricos citados no texto, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a Europa, sem a Rússia, foi o continente que possuia a maior quantidade de florestas do planeta e, no início do século XXI, possuia a menor área florestada.",
+    "B": "o ritmo do desmatamento, no território onde o Brasil está situado, foi menor se comparado aos continentes citados.",
+    "C": "a Ásia e a Europa, sem a Rússia, ao longo dos séculos, aumentaram o tamanho de suas áreas de florestas.",
+    "D": "a África e a Ásia apresentaram o mesmo ritmo de desmatamento ao longo dos séculos.",
+    "E": "ao contrário de outras localidades do planeta Terra, não ocorreu desmatamento no Brasil."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A participação do Brasil nas florestas do mundo subiu de 9,8% para 28,3%, enquanto a da Europa, da África e da Ásia caiu muito. Ou seja, proporcionalmente, o desmatamento no território brasileiro foi <strong>menor</strong> que nesses continentes. Alternativa <strong>B</strong>.</p><p>A Europa tinha 7%, menos que a África e a Ásia (A). A Ásia e a Europa perderam florestas (C). A África caiu de 11% para 3,4% e a Ásia, de 23,6% para 5,5%, ritmos diferentes (D). E houve desmatamento no Brasil, apenas proporcionalmente menor (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "florestas",
+    "desmatamento"
+   ]
+  },
+  {
+   "numero": 41,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p>Terras-raras é o nome dado ao conjunto dos dezessete elementos químicos da Tabela Periódica, formado pelos quinze lantanídeos mais o escândio e o ítrio.</p><p>Sobre esses elementos químicos e a localização das suas principais reservas mundiais, podemos afirmar corretamente que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "possuem distintas aplicações em diversos setores da economia, como na silvicultura, na pecuária e na construção civil. As maiores concentrações localizam-se na república da Guiné.",
+    "B": "são utilizados pelo agronegócio internacional para transformar terras outrora estéreis em terras aptas à utilização agrícola. As principais jazidas estão estabelecidas na Arábia Saudita.",
+    "C": "suas ocorrências se dão em pequenas concentrações, misturadas a outros minerais, tornando difícil o processo de separação. As maiores reservas mundiais encontram-se na China.",
+    "D": "ocorrem em áreas superficiais de fácil extração, sendo encontrados em mares rasos, estando associados às jazidas de minerais fósseis. As jazidas mais antigas situam-se no Japão.",
+    "E": "também são denominados metais raros e encontram-se nas minas de aluvião, sendo separados da rocha por um instrumento chamado bateia. Suas principais reservas estão no Chile."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As terras-raras aparecem em pequenas concentrações misturadas a outros minerais, o que torna a separação difícil e cara. A <strong>China</strong> tem as maiores reservas e domina a produção mundial. Alternativa <strong>C</strong>.</p><p>Elas são usadas sobretudo em eletrônicos, ímãs e baterias (A e B). Não são de fácil extração (D). E a bateia é usada para ouro, não para terras-raras (E). Os países citados nessas alternativas também não concentram as reservas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "terras-raras",
+    "recursos minerais"
+   ]
+  },
+  {
+   "numero": 42,
+   "materia": "Geografia",
+   "assunto": "Tectônica de placas",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p>Centenas de pessoas morreram e milhares tiveram suas casas e propriedades destruídas depois da ocorrência de um terremoto que ocorreu na ilha indonésia de Sulawesi em 28 de setembro de 2018.</p><p>O fenômeno relatado ocorre com certa frequência na Indonésia, pois esse país se localiza</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "em uma área formada por dobramentos modernos, originária de um processo colisional entre duas placas tectônicas, a Eurasiana e a Africana, no Oceano Pacífico.",
+    "B": "no Círculo de Fogo do Oceano Pacífico, área formada no fundo do oceano por uma grande série de arcos vulcânicos e fossas oceânicas.",
+    "C": "entre duas placas com bordas transformantes, responsáveis pelos constantes processos epirogenéticos existentes no Oceano Índico.",
+    "D": "na extensão de uma linha de falha tectônica localizada no oceano Índico, com formação de estruturas falhadas de Graben e Horst.",
+    "E": "sobre a Dorsal Meso-Oceânica, cadeia montanhosa formada por sucessivas erupções vulcânicas, no Oceano Atlântico."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A Indonésia fica no <strong>Círculo de Fogo do Pacífico</strong>, área de encontro de placas tectônicas, com fossas oceânicas e arcos vulcânicos, onde terremotos e erupções são frequentes. Alternativa <strong>B</strong>.</p><p>A placa Africana não está no Pacífico (A). Epirogênese é um movimento lento, que não causa terremotos súbitos (C). Grabens e horsts não explicam a sismicidade da Indonésia (D). E a Dorsal Meso-Atlântica fica no Atlântico (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Círculo de Fogo"
+   ]
+  },
+  {
+   "numero": 43,
+   "materia": "Geografia",
+   "assunto": "Transportes e logística",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>Alguns municípios do estado de São Paulo se desenvolveram em consequência da expansão da malha ferroviária entre o final do século XIX e a primeira metade do século XX, em decorrência da ampliação das áreas produtoras de café no estado.</p><p>A Estrada de Ferro Noroeste do Brasil, fundada no início do século XX, foi uma das responsáveis pelo desenvolvimento dos municípios de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Bauru, Lins e Penápolis.",
+    "B": "Sorocaba, Botucatu, e Avaré.",
+    "C": "Campinas, Limeira e Rio Claro.",
+    "D": "Araraquara, Catanduva e Votuporanga.",
+    "E": "Jaguariúna, Mogi Mirim e Ribeirão Preto."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A Estrada de Ferro Noroeste do Brasil partia de <strong>Bauru</strong> rumo ao Mato Grosso e impulsionou cidades do noroeste paulista, como <strong>Lins e Penápolis</strong>. Alternativa <strong>A</strong>.</p><p>As outras cidades foram servidas por outras ferrovias, como a Sorocabana (B), a Paulista (C), a Araraquarense (D) e a Mogiana (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ferrovias paulistas"
+   ]
+  },
+  {
+   "numero": 44,
+   "materia": "Geografia",
+   "assunto": "Industrialização brasileira",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>Leia o texto.</p><p class=\"apoio\">Klaus Schwab, fundador do Fórum Econômico Mundial (FEM), escreveu, em artigo publicado na “Foreign Affairs”, que:</p><p class=\"apoio\">A 1ª revolução industrial usou água e vapor para mecanizar a produção entre o meio do século XVIII e o meio do século XIX.</p><p class=\"apoio\">A 2ª revolução industrial usou a eletricidade para criar produção em massa a partir do meio do século XIX.</p><p class=\"apoio\">A 3ª revolução industrial usou os eletrônicos e a tecnologia da informação para automatizar a produção na segunda metade do século XX.</p><p class=\"apoio\">Agora, no século XXI, a 4ª revolução industrial é caracterizada pela fusão de tecnologias entre as esferas física, digital e biológica.</p><p class=\"fonte\">&lt;https://tinyurl.com/y72sm8v5&gt; Acesso em: 17.09.2018. Adaptado.</p><p>De acordo com a tendência expressa no texto, a última revolução industrial citada pelo autor caracteriza-se por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "redes aéreas de comunicação e pela intensificação do uso do fordismo.",
+    "B": "viagens interespaciais e pelo grande emprego de carvão mineral.",
+    "C": "cabeamento telegráfico submarino e pela adoção do taylorismo.",
+    "D": "computadores a válvula e pela utilização de linhas de produção.",
+    "E": "internet móvel e pela inteligência artificial."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A 4ª Revolução Industrial funde as esferas física, digital e biológica, com <strong>internet móvel, inteligência artificial</strong>, robótica e internet das coisas. Alternativa <strong>E</strong>.</p><p>Fordismo, taylorismo, carvão, telégrafo e computadores a válvula são marcas das revoluções anteriores (A, B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "4ª Revolução Industrial"
+   ]
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p>A fim de controlar os diversos problemas ambientais de cunho antrópico detectados na Terra a partir de meados do século XX, os governos dos países membros da ONU têm se reunido em grandes conferências em busca de soluções e metas comuns.</p><p>Assinale a alternativa correta a respeito dessas conferências.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Durante a Eco–92 foram levantados recursos para a recuperação de pelo menos 92% da camada de ozônio nas regiões de clima temperado.",
+    "B": "Um produto da Eco–92 foi a Agenda–21, documento em que constam programas para um desenvolvimento mais sustentável durante o século XXI.",
+    "C": "Na Rio+20, mais vinte bacias hidrográficas (incluindo a do Uruguai) entraram para o regime especial de proteção de águas continentais da ONU.",
+    "D": "A Rio+20 determinou maior fiscalização em usinas nucleares, a fim de evitar acidentes atômicos como os de Chernobyl, Goiânia e Fukushima.",
+    "E": "Após a Rio+20, Canadá, Rússia e China deixaram a ONU, alegando discordâncias com políticas que interfeririam na autonomia dos países desenvolvidos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A <strong>Agenda 21</strong>, aprovada na Eco-92, no Rio de Janeiro, reúne programas para o desenvolvimento sustentável no século XXI. Alternativa <strong>B</strong>.</p><p>O “92” é o ano da conferência, não uma porcentagem (A). O “+20” indica os 20 anos desde a Eco-92, não 20 bacias (C). A Rio+20 não tratou de usinas nucleares, e o acidente de Goiânia foi com césio-137 de um aparelho médico (D). E nenhum desses países deixou a ONU (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conferências ambientais"
+   ]
+  },
+  {
+   "numero": 46,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 46 e 47.</p><p class=\"apoio\">Entre os diferentes sistemas pecuários, a produção de carne de frango tem um impacto ambiental relativamente baixo. Isso se deve, em parte, à seleção artificial nas últimas décadas, que teve como um objetivo aumentar a eficiência do uso de energia e acelerar as taxas de crescimento desses animais. Como resultado do aumento da taxa de crescimento e outros fatores, as aves passaram a atingir o peso de abate mais cedo. Isso reduziu o uso de recursos para a criação dessas aves principalmente porque, com períodos de crescimento mais curtos, menos energia é necessária para a manutenção das funções corporais. Essa eficiência energética melhorada reduziu consideravelmente o consumo de ração e, pelo menos em relação a esse aspecto, melhorou a sustentabilidade ambiental da produção de frangos de corte.</p><p class=\"fonte\">TALLENTIRE, C. W.; LEINOREN, I; KYRIAZAKIS, I. Artificial selection for improved energy efficiency is reaching its limits in broiler chickens. <strong>Scientific Reports</strong>, v. 8, n. 1168, p. 1, 2018. Adaptado.</p><p>Assinale a alternativa em que a relação entre a consequência ambiental e a técnica descritas no texto é feita corretamente.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O melhoramento genético feito nas aves mais fracas permitiu a criação de indivíduos que passaram a ter envelhecimento acelerado, o que diminuiu os lucros dos pecuaristas.",
+    "B": "O desenvolvimento de aves transgênicas em laboratório foi importante para que elas se tornassem mais imunes a doenças, necessitando de menos comida e gerando mais lucro.",
+    "C": "A necessidade de obtenção de animais economicamente mais viáveis fez com que as aves crescessem mais rápido a cada geração, o que acabou aumentando a população aviária.",
+    "D": "A diminuição das populações de aves de corte devido ao consumo humano provocou uma pressão seletiva nas aves que, para não serem extintas, passaram a crescer mais rápido.",
+    "E": "O cruzamento entre as aves de maior eficiência metabólica e fisiológica na população, ao longo de algumas gerações, resultou em indivíduos que podem ser criados com menor custo."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto fala de <strong>seleção artificial</strong>: ao longo das gerações, cruzaram-se as aves mais eficientes no uso da energia e de crescimento mais rápido, o que reduziu o consumo de ração e o custo da criação. Alternativa <strong>E</strong>.</p><p>A seleção não foi feita nas aves mais fracas nem aumentou o envelhecimento (A), não envolveu transgênicos (B), não aumentou a população das aves (C), e não houve seleção natural por risco de extinção (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "seleção artificial"
+   ]
+  },
+  {
+   "numero": 47,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 46 e 47.</p><p class=\"apoio\">Entre os diferentes sistemas pecuários, a produção de carne de frango tem um impacto ambiental relativamente baixo. Isso se deve, em parte, à seleção artificial nas últimas décadas, que teve como um objetivo aumentar a eficiência do uso de energia e acelerar as taxas de crescimento desses animais. Como resultado do aumento da taxa de crescimento e outros fatores, as aves passaram a atingir o peso de abate mais cedo. Isso reduziu o uso de recursos para a criação dessas aves principalmente porque, com períodos de crescimento mais curtos, menos energia é necessária para a manutenção das funções corporais. Essa eficiência energética melhorada reduziu consideravelmente o consumo de ração e, pelo menos em relação a esse aspecto, melhorou a sustentabilidade ambiental da produção de frangos de corte.</p><p class=\"fonte\">TALLENTIRE, C. W.; LEINOREN, I; KYRIAZAKIS, I. Artificial selection for improved energy efficiency is reaching its limits in broiler chickens. <strong>Scientific Reports</strong>, v. 8, n. 1168, p. 1, 2018. Adaptado.</p><p>Estudos evolutivos sobre os padrões de desenvolvimento dos seres vivos fazem parte da Biologia Evolutiva do Desenvolvimento (“Evo–Devo”), um campo de pesquisa que passou a se estruturar principalmente a partir da década de 1980. Nesse campo, resultados como o divulgado no texto podem ter alcance e complexidade ainda maiores quando se fazem comparações com outros tipos de organismos.</p><p>Para a ampliação da eficiência na criação de aves de corte no contexto do Evo–Devo, devem ser mais bem aproveitadas as pesquisas realizadas sobre o desenvolvimento de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "jabutis e rãs, dado que compartilham com as aves o padrão de desenvolvimento deuterostômio, a neurulação e a produção de ovos com casca.",
+    "B": "jacarés e porcos, dado que compartilham com as aves o padrão de desenvolvimento deuterostômio, a neurulação e a produção de ovos amnióticos.",
+    "C": "ovelhas e cobras-cegas, dado que compartilham com as aves o padrão de desenvolvimento protostômio, a neurulação e a produção de ovos isolécitos.",
+    "D": "lagartos e sapos, dado que compartilham com as aves o padrão de desenvolvimento protostômio, a gastrulação e a produção de ovos telolécitos.",
+    "E": "cavalos e serpentes, dado que compartilham com as aves o padrão de desenvolvimento protostômio, a gastrulação e a produção de ovos centrolécitos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Aves, jacarés e porcos são vertebrados: são <strong>deuterostômios</strong>, passam pela neurulação (formação do tubo neural) e são <strong>amniotas</strong>, com âmnio no desenvolvimento embrionário. Alternativa <strong>B</strong>.</p><p>Rãs e sapos são anfíbios: não produzem ovos com casca nem amnióticos (A e D). E nenhum vertebrado é protostômio (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "embriologia",
+    "amniotas"
+   ]
+  },
+  {
+   "numero": 48,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>Atualmente existem exames pré-natais não invasivos capazes de detectar anomalias cromossômicas nos embriões humanos a partir da décima semana de gestação apenas com a análise de uma amostra de sangue materno, do qual é recolhido DNA fetal diluído.</p><p>Suponha que uma mulher tenha se submetido a um desses exames durante a gravidez, e que o resultado do laboratório tenha indicado que o feto tem exatamente um par de cromossomos 13, exatamente um par de cromossomos 18, exatamente um par de cromossomos 21, apenas um cromossomo X e nenhum cromossomo Y.</p><p>Contando apenas com esses dados, o laudo do exame deve ser o de que o bebê, quando nascer, apresentará sexo biológico</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "feminino e síndrome de Turner.",
+    "B": "feminino e síndrome de Klinefelter.",
+    "C": "masculino e síndrome de Edwards.",
+    "D": "masculino e síndrome de Down.",
+    "E": "masculino e síndrome de Patau."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os autossomos 13, 18 e 21 estão em pares normais, mas há só um X e nenhum Y (cariótipo 45,X0). Sem o cromossomo Y, o sexo biológico é <strong>feminino</strong>, com <strong>síndrome de Turner</strong>. Alternativa <strong>A</strong>.</p><p>Klinefelter é XXY, de sexo masculino (B). E as síndromes de Edwards, Down e Patau são trissomias dos cromossomos 18, 21 e 13, que aqui estão em pares (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aneuploidias"
+   ]
+  },
+  {
+   "numero": 49,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>Atualmente os ecólogos tendem a considerar a espécie humana como parte de vários ecossistemas, principalmente no caso dos ecossistemas mais explorados economicamente. Essa integração é apresentada de modo simplificado pelo esquema, em que as transferências de energia representadas podem estar associadas a transações comerciais.</p>[[fig:1]]<p>Nesse contexto, é correto afirmar que, de acordo com o esquema,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-1sem/q49.webp",
+     "alt": "Esquema de fluxo de energia: o Sol fornece energia à plantação, que produz alimentos, consumidos pelos trabalhadores da zona rural e da zona urbana. O Sol também origina os combustíveis fósseis, que fornecem energia aos dois grupos de trabalhadores. Há trocas entre os trabalhadores: os da zona urbana prestam serviços e os da zona rural fazem o manejo da fazenda, com pagamentos em dinheiro (linhas tracejadas) em troca de bens e serviços (linhas cheias)."
+    }
+   ],
+   "alternativas": {
+    "A": "serviços ecossistêmicos, tais como o comprado dos trabalhadores da zona urbana, dificultam o fluxo energético.",
+    "B": "o dinheiro recebido pelos trabalhadores da zona rural é convertido em energia que prejudica os meios de produção fótica.",
+    "C": "trabalhadores das zonas rural e urbana negociam a energia disponibilizadas por produtores presentes no primeiro nível trófico.",
+    "D": "os combustíveis fósseis resultam da ação dos decompositores sobre o excedente produzido pelos consumidores terciários.",
+    "E": "o trabalho vendido pelos trabalhadores da zona urbana tão barato quanto o trabalho vendido pelos trabalhadores da zona rural."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A plantação é o produtor, o primeiro nível trófico. A energia que ela fixa vira alimentos, que os trabalhadores rurais e urbanos negociam entre si. Alternativa <strong>C</strong>.</p><p>Os serviços urbanos alimentam o fluxo, não o dificultam (A). O dinheiro não prejudica a produção fotossintética (B). Os combustíveis fósseis vêm da matéria orgânica de seres antigos, não do excedente de consumidores terciários (D). E o esquema não compara preços de trabalho (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fluxo de energia"
+   ]
+  },
+  {
+   "numero": 50,
+   "materia": "Português",
+   "assunto": "Classes de palavras",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 53.</p><p class=\"apoio\">Temple Grandin empacou diante da porteira. Alguns parafusos cravados na madeira lhe saltaram aos olhos. “Tem que limar a cabeça desses parafusos, se não o gado pode se machucar”, aconselhou à dona da fazenda, Carmen Perez, que ao lembrar a cena comentou: “Sempre passo no curral antes do manejo, observo tudo, dizem que tenho olho biônico, e ela notou uma coisa que eu não tinha visto.”.</p><p class=\"apoio\">Grandin tem um parafuso a mais quando se trata do bem-estar dos bichos. Professora de ciência animal, ela é autista e dona de uma hipersensibilidade visual e auditiva. Tocada pelas angústias do gado desde a juventude, ela compreendia por que a rês recuava na hora da vacinação, por que atacava um vaqueiro, por que tropeçava, por que mugia. Grandin traduziu esse entendimento em projetos que propunham mudanças no manejo. Hoje, instalações criadas por ela são familiares a quase metade dos bovinos nos Estados Unidos. O Brasil, com seus quase 172 milhões de cabeças de gado, segundo o Censo Agropecuário de 2017, vem aos poucos fazendo ajustes alinhados com as propostas da americana.</p><p class=\"apoio\">Em julho passado, Grandin, hoje com 71 anos, veio ao Brasil pela sexta vez. Na fazenda Orvalho das Flores, localizada em Barra do Garças (MT), ela testemunhou como a equipe de Perez conduz suas 2 980 cabeças de Nelore, raça predominante no país. Os vaqueiros massageiam os bezerros, não gritam com os bois, tampouco deixam capas de chuva, correntes ou chapéus no caminho dos animais.</p><p class=\"apoio\">A engenheira agrônoma Maria Lucia Pereira Lima foi aluna de pós-doutorado de Grandin na Universidade do Estado do Colorado, em Fort Collins, em 2013. Viajara aos Estados Unidos para aprender como medir o bem-estar dos bovinos e se inteirar de inovações que pudessem ser implantadas em currais brasileiros. Uma delas, por exemplo, tranquiliza o animal conduzido à vacinação: o gado em geral se via obrigado a passar espremido por espaços afunilados. Grandin projetou um acesso em curva, sem cantos, que dá à rês a ilusão de que voltará ao ponto de partida. Outra: uma lâmpada acesa na entrada do tronco de contenção – o equipamento que permite o manejo individual do boi – a indicar o trajeto reduziu em até 90% o uso de choque elétrico durante o processo.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">No auditório da universidade, outros pesquisadores se revezavam no palco discutindo aspectos econômicos e sociais relacionados ao bem-estar animal. O tempo de manejo cai pela metade nos estabelecimentos agropecuários que seguem os manuais de Grandin. De ovos transportados com cuidado nascem pintinhos sadios. Sem falar na melhor qualidade de vida de quem lida com esses bichos. Vaqueiros bem treinados sofrem menos acidentes no trabalho e desenvolvem uma relação mais harmoniosa nos casamentos. “A melhoria do bem-estar animal melhora o bem-estar humano”, afirmou o zootecnista Mateus Paranhos da Costa, da Universidade Estadual Paulista.</p><p class=\"fonte\">Monica Manin &lt;https://tinyurl.com/y8xeoqul&gt; Acesso em: 12.10.2018. Adaptado.</p><p>Observe os elementos destacados na passagem: <em>“Sempre passo no curral antes do manejo, observo tudo, dizem <strong>que</strong> tenho olho biônico, e ela notou uma coisa <strong>que</strong> eu não tinha visto”</em>, presente no primeiro parágrafo.</p><p>As palavras destacadas exercem</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "funções diferentes, pois o primeiro “que” é conjunção integrante e introduz uma oração coordenada, enquanto o segundo “que” é pronome relativo e introduz uma oração explicativa.",
+    "B": "funções diferentes, pois o primeiro “que” é uma conjunção subordinativa, enquanto o segundo é um pronome relativo, tendo como antecedente o termo “coisa”.",
+    "C": "mesma função, pois ambos são conjunções subordinativas, sendo que o primeiro introduz uma oração substantiva, enquanto o segundo, uma oração adverbial restritiva.",
+    "D": "mesma função, pois ambos os pronomes “que” retomam vocábulos anteriores, sendo o verbo “dizem” e o substantivo “coisa” seus antecedentes respectivamente.",
+    "E": "mesma função, pois ambos são conjunções, porém o primeiro “que” é uma conjunção subordinativa, enquanto o segundo, uma conjunção coordenativa."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O primeiro “que” liga “dizem” à oração “tenho olho biônico”, que funciona como objeto direto: é <strong>conjunção subordinativa integrante</strong>. O segundo retoma “coisa” (“uma coisa que eu não tinha visto”): é <strong>pronome relativo</strong>. Alternativa <strong>B</strong>.</p><p>A oração do primeiro “que” é subordinada, não coordenada, e a do segundo é restritiva, não explicativa (A). As funções são diferentes (C, D e E), e o primeiro “que” não retoma o verbo (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "“que”"
+   ]
+  },
+  {
+   "numero": 51,
+   "materia": "Português",
+   "assunto": "Semântica",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 53.</p><p class=\"apoio\">Temple Grandin empacou diante da porteira. Alguns parafusos cravados na madeira lhe saltaram aos olhos. “Tem que limar a cabeça desses parafusos, se não o gado pode se machucar”, aconselhou à dona da fazenda, Carmen Perez, que ao lembrar a cena comentou: “Sempre passo no curral antes do manejo, observo tudo, dizem que tenho olho biônico, e ela notou uma coisa que eu não tinha visto.”.</p><p class=\"apoio\">Grandin tem um parafuso a mais quando se trata do bem-estar dos bichos. Professora de ciência animal, ela é autista e dona de uma hipersensibilidade visual e auditiva. Tocada pelas angústias do gado desde a juventude, ela compreendia por que a rês recuava na hora da vacinação, por que atacava um vaqueiro, por que tropeçava, por que mugia. Grandin traduziu esse entendimento em projetos que propunham mudanças no manejo. Hoje, instalações criadas por ela são familiares a quase metade dos bovinos nos Estados Unidos. O Brasil, com seus quase 172 milhões de cabeças de gado, segundo o Censo Agropecuário de 2017, vem aos poucos fazendo ajustes alinhados com as propostas da americana.</p><p class=\"apoio\">Em julho passado, Grandin, hoje com 71 anos, veio ao Brasil pela sexta vez. Na fazenda Orvalho das Flores, localizada em Barra do Garças (MT), ela testemunhou como a equipe de Perez conduz suas 2 980 cabeças de Nelore, raça predominante no país. Os vaqueiros massageiam os bezerros, não gritam com os bois, tampouco deixam capas de chuva, correntes ou chapéus no caminho dos animais.</p><p class=\"apoio\">A engenheira agrônoma Maria Lucia Pereira Lima foi aluna de pós-doutorado de Grandin na Universidade do Estado do Colorado, em Fort Collins, em 2013. Viajara aos Estados Unidos para aprender como medir o bem-estar dos bovinos e se inteirar de inovações que pudessem ser implantadas em currais brasileiros. Uma delas, por exemplo, tranquiliza o animal conduzido à vacinação: o gado em geral se via obrigado a passar espremido por espaços afunilados. Grandin projetou um acesso em curva, sem cantos, que dá à rês a ilusão de que voltará ao ponto de partida. Outra: uma lâmpada acesa na entrada do tronco de contenção – o equipamento que permite o manejo individual do boi – a indicar o trajeto reduziu em até 90% o uso de choque elétrico durante o processo.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">No auditório da universidade, outros pesquisadores se revezavam no palco discutindo aspectos econômicos e sociais relacionados ao bem-estar animal. O tempo de manejo cai pela metade nos estabelecimentos agropecuários que seguem os manuais de Grandin. De ovos transportados com cuidado nascem pintinhos sadios. Sem falar na melhor qualidade de vida de quem lida com esses bichos. Vaqueiros bem treinados sofrem menos acidentes no trabalho e desenvolvem uma relação mais harmoniosa nos casamentos. “A melhoria do bem-estar animal melhora o bem-estar humano”, afirmou o zootecnista Mateus Paranhos da Costa, da Universidade Estadual Paulista.</p><p class=\"fonte\">Monica Manin &lt;https://tinyurl.com/y8xeoqul&gt; Acesso em: 12.10.2018. Adaptado.</p><p>Assinale a alternativa em que a paráfrase corresponda ao sentido do período original apresentado, mantendo as mesmas relações sintático-semânticas.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Texto original: <em>“Grandin tem um parafuso a mais quando se trata do bem-estar dos bichos.”</em>; Paráfrase: Grandin não tem juízo ao tratar bem os animais.",
+    "B": "Texto original: <em>“Grandin traduziu esse entendimento em projetos que propunham mudanças no manejo.”</em>; Paráfrase: Tal entendimento era traduzido a Grandin por projetos propostos para mudar o manejo.",
+    "C": "Texto original: <em>“Hoje, instalações criadas por ela são familiares a quase metade dos bovinos nos Estados Unidos.”</em>; Paráfrase: Frequentemente, ela cria instalações que são íntimas de metade das criações da América do Norte.",
+    "D": "Texto original: <em>“Professora de ciência animal, ela é autista e dona de uma hipersensibilidade visual e auditiva.”</em>; Paráfrase: Ela é autista e, embora seja professora de ciência animal, apresenta pouca sensibilidade visual e auditiva.",
+    "E": "Texto original: <em>“Tocada pelas angústias do gado desde a juventude, ela compreendia por que a rês recuava na hora da vacinação...”</em>; Paráfrase: Por ter se sensibilizado pelo sofrimento animal na juventude, ela entendia quais motivos faziam o animal recuar durante a vacinação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Em E, a oração “Tocada pelas angústias do gado” tem valor de causa, mantido em “Por ter se sensibilizado”, e “compreendia por que a rês recuava” vira “entendia quais motivos faziam o animal recuar”. Alternativa <strong>E</strong>.</p><p>A transforma um elogio (ela tem uma habilidade especial) em crítica. B inverte o agente: era Grandin quem traduzia o entendimento. C troca “hoje” por “frequentemente” e “quase metade dos bovinos” por “metade das criações”. D diz o contrário: ela tem <em>hipersensibilidade</em>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "paráfrase"
+   ]
+  },
+  {
+   "numero": 52,
+   "materia": "Português",
+   "assunto": "Figuras de linguagem",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 53.</p><p class=\"apoio\">Temple Grandin empacou diante da porteira. Alguns parafusos cravados na madeira lhe saltaram aos olhos. “Tem que limar a cabeça desses parafusos, se não o gado pode se machucar”, aconselhou à dona da fazenda, Carmen Perez, que ao lembrar a cena comentou: “Sempre passo no curral antes do manejo, observo tudo, dizem que tenho olho biônico, e ela notou uma coisa que eu não tinha visto.”.</p><p class=\"apoio\">Grandin tem um parafuso a mais quando se trata do bem-estar dos bichos. Professora de ciência animal, ela é autista e dona de uma hipersensibilidade visual e auditiva. Tocada pelas angústias do gado desde a juventude, ela compreendia por que a rês recuava na hora da vacinação, por que atacava um vaqueiro, por que tropeçava, por que mugia. Grandin traduziu esse entendimento em projetos que propunham mudanças no manejo. Hoje, instalações criadas por ela são familiares a quase metade dos bovinos nos Estados Unidos. O Brasil, com seus quase 172 milhões de cabeças de gado, segundo o Censo Agropecuário de 2017, vem aos poucos fazendo ajustes alinhados com as propostas da americana.</p><p class=\"apoio\">Em julho passado, Grandin, hoje com 71 anos, veio ao Brasil pela sexta vez. Na fazenda Orvalho das Flores, localizada em Barra do Garças (MT), ela testemunhou como a equipe de Perez conduz suas 2 980 cabeças de Nelore, raça predominante no país. Os vaqueiros massageiam os bezerros, não gritam com os bois, tampouco deixam capas de chuva, correntes ou chapéus no caminho dos animais.</p><p class=\"apoio\">A engenheira agrônoma Maria Lucia Pereira Lima foi aluna de pós-doutorado de Grandin na Universidade do Estado do Colorado, em Fort Collins, em 2013. Viajara aos Estados Unidos para aprender como medir o bem-estar dos bovinos e se inteirar de inovações que pudessem ser implantadas em currais brasileiros. Uma delas, por exemplo, tranquiliza o animal conduzido à vacinação: o gado em geral se via obrigado a passar espremido por espaços afunilados. Grandin projetou um acesso em curva, sem cantos, que dá à rês a ilusão de que voltará ao ponto de partida. Outra: uma lâmpada acesa na entrada do tronco de contenção – o equipamento que permite o manejo individual do boi – a indicar o trajeto reduziu em até 90% o uso de choque elétrico durante o processo.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">No auditório da universidade, outros pesquisadores se revezavam no palco discutindo aspectos econômicos e sociais relacionados ao bem-estar animal. O tempo de manejo cai pela metade nos estabelecimentos agropecuários que seguem os manuais de Grandin. De ovos transportados com cuidado nascem pintinhos sadios. Sem falar na melhor qualidade de vida de quem lida com esses bichos. Vaqueiros bem treinados sofrem menos acidentes no trabalho e desenvolvem uma relação mais harmoniosa nos casamentos. “A melhoria do bem-estar animal melhora o bem-estar humano”, afirmou o zootecnista Mateus Paranhos da Costa, da Universidade Estadual Paulista.</p><p class=\"fonte\">Monica Manin &lt;https://tinyurl.com/y8xeoqul&gt; Acesso em: 12.10.2018. Adaptado.</p><p>Sobre a expressão <em>“parafuso a mais”</em> presente na passagem <em>“Grandin tem um parafuso a mais quando se trata do bem-estar dos bichos.”</em>, é correto afirmar que se trata de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "um trocadilho, pois o autor estabelece uma relação entre o nome da professora, “Grandin”, e a pronúncia informal do diminutivo “grandinho” (“grandim”).",
+    "B": "uma aliteração, pois o autor procura representar a dureza da lide com animais de grande porte por meio de repetição das consoantes “p”, “t” e “r”.",
+    "C": "uma assonância, pois o autor deseja representar sua visão otimista do trabalho da professora ao repetir as vogais abertas “a” e “o”.",
+    "D": "uma metáfora, pois o autor inverte a imagem utilizada para representar loucura a fim de expressar a habilidade da professora.",
+    "E": "uma silepse de número, pois o verbo “tratar-se” deveria estar no plural para concordar com o sujeito “bichos”."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A expressão popular é “ter um parafuso a menos” (ser louco). O autor a inverte, “um parafuso a mais”, numa <strong>metáfora</strong> para a habilidade especial de Grandin com os animais (e brinca com os parafusos da porteira do início do texto). Alternativa <strong>D</strong>.</p><p>Não há jogo com o nome dela (A), nem repetição de sons (B e C), e “trata-se” fica no singular porque tem sujeito indeterminado (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metáfora"
+   ]
+  },
+  {
+   "numero": 53,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de números 50 a 53.</p><p class=\"apoio\">Temple Grandin empacou diante da porteira. Alguns parafusos cravados na madeira lhe saltaram aos olhos. “Tem que limar a cabeça desses parafusos, se não o gado pode se machucar”, aconselhou à dona da fazenda, Carmen Perez, que ao lembrar a cena comentou: “Sempre passo no curral antes do manejo, observo tudo, dizem que tenho olho biônico, e ela notou uma coisa que eu não tinha visto.”.</p><p class=\"apoio\">Grandin tem um parafuso a mais quando se trata do bem-estar dos bichos. Professora de ciência animal, ela é autista e dona de uma hipersensibilidade visual e auditiva. Tocada pelas angústias do gado desde a juventude, ela compreendia por que a rês recuava na hora da vacinação, por que atacava um vaqueiro, por que tropeçava, por que mugia. Grandin traduziu esse entendimento em projetos que propunham mudanças no manejo. Hoje, instalações criadas por ela são familiares a quase metade dos bovinos nos Estados Unidos. O Brasil, com seus quase 172 milhões de cabeças de gado, segundo o Censo Agropecuário de 2017, vem aos poucos fazendo ajustes alinhados com as propostas da americana.</p><p class=\"apoio\">Em julho passado, Grandin, hoje com 71 anos, veio ao Brasil pela sexta vez. Na fazenda Orvalho das Flores, localizada em Barra do Garças (MT), ela testemunhou como a equipe de Perez conduz suas 2 980 cabeças de Nelore, raça predominante no país. Os vaqueiros massageiam os bezerros, não gritam com os bois, tampouco deixam capas de chuva, correntes ou chapéus no caminho dos animais.</p><p class=\"apoio\">A engenheira agrônoma Maria Lucia Pereira Lima foi aluna de pós-doutorado de Grandin na Universidade do Estado do Colorado, em Fort Collins, em 2013. Viajara aos Estados Unidos para aprender como medir o bem-estar dos bovinos e se inteirar de inovações que pudessem ser implantadas em currais brasileiros. Uma delas, por exemplo, tranquiliza o animal conduzido à vacinação: o gado em geral se via obrigado a passar espremido por espaços afunilados. Grandin projetou um acesso em curva, sem cantos, que dá à rês a ilusão de que voltará ao ponto de partida. Outra: uma lâmpada acesa na entrada do tronco de contenção – o equipamento que permite o manejo individual do boi – a indicar o trajeto reduziu em até 90% o uso de choque elétrico durante o processo.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">No auditório da universidade, outros pesquisadores se revezavam no palco discutindo aspectos econômicos e sociais relacionados ao bem-estar animal. O tempo de manejo cai pela metade nos estabelecimentos agropecuários que seguem os manuais de Grandin. De ovos transportados com cuidado nascem pintinhos sadios. Sem falar na melhor qualidade de vida de quem lida com esses bichos. Vaqueiros bem treinados sofrem menos acidentes no trabalho e desenvolvem uma relação mais harmoniosa nos casamentos. “A melhoria do bem-estar animal melhora o bem-estar humano”, afirmou o zootecnista Mateus Paranhos da Costa, da Universidade Estadual Paulista.</p><p class=\"fonte\">Monica Manin &lt;https://tinyurl.com/y8xeoqul&gt; Acesso em: 12.10.2018. Adaptado.</p><p>De acordo com as informações apresentadas no texto sobre os trabalhos da professora Temple Grandin, a mudança proposta por ela no tratamento dos animais acarreta</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "benefícios aos animais e aos tratadores, pois os tratadores se expõem menos a riscos e ganham maior qualidade de vida.",
+    "B": "benefícios aos animais em detrimento do encarecimento dos produtos derivados dos gastos excessivos no bem-estar da criação.",
+    "C": "prejuízos aos tratadores de gado em detrimento dos animais que, não só recebem tratamentos piores, mas ainda são antropomorfizados.",
+    "D": "benefícios aos criadores de animais de pequeno porte, pois não detêm poder aquisitivo suficiente para investir na infraestrutura e concorrer com os grandes proprietários.",
+    "E": "prejuízos aos animais de grande porte, pois os investidores gastam mais para manter a infraestrutura necessária, como currais sem cantos ou pregos fora do lugar e, consequentemente, menos em seu bem-estar."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz que o tempo de manejo cai pela metade e que os vaqueiros “sofrem menos acidentes no trabalho” e têm relações mais harmoniosas: “A melhoria do bem-estar animal melhora o bem-estar humano”. Alternativa <strong>A</strong>.</p><p>O texto não fala em encarecimento (B), em prejuízo aos tratadores (C), em criadores de pequeno porte (D) nem em prejuízo aos animais (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 54,
+   "materia": "Português",
+   "assunto": "Texto literário",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder à questão de número 54.</p><p class=\"apoio\">A denúncia de uma crise de sentido na educação não é algo novo e exclusivo do momento histórico em que vivemos. Podemos dizer que a crítica ao modelo educacional e à função social da escola se constitui à medida que a própria educação se institucionaliza, incorporando a responsabilidade de ser um processo sistemático e intencional de formação humana.</p><p class=\"apoio\">[...]</p><p class=\"apoio\">A reflexão sobre o sentido da educação adentra o século XX. A crítica se aprofunda e há insatisfação tanto das correntes mais liberais quanto das mais marxistas. [...] As mudanças sociais acentuaram os problemas estruturais da instituição escola. No Brasil, por exemplo, em meados dos anos 50, apenas 30% da população brasileira vivia nas cidades. A pressão das camadas médias pelo aumento do acesso e da permanência na escola ampliou-se consideravelmente neste período, dada a relação estabelecida entre a escolarização e o direito à cidadania.</p><p class=\"fonte\">(ROCHA, J. Design thinking na formação de professores: novos olhares para os desafios da educação. <em>In: Metodologias ativas para uma educação inovadora</em>. Porto Alegre: Penso, 2018, p.154.)</p><p>O excerto apresenta, brevemente, uma crítica ao modelo vigente da educação na sociedade brasileira nos anos 1950.</p><p>Assinale a alternativa em que o trecho literário retrata uma situação semelhante à abordada no texto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“E ele, Clarimundo, o homem do relógio, o escravo fiel das horas, que fez nos seus quarenta e oito anos de vida? Preparou espíritos, estudou e compreendeu Einstein, escreveu artigos para jornais, notas sobre filosofia, matemática, física e astronomia recreativa...”, Érico Veríssimo, <em>Caminhos Cruzados</em>.",
+    "B": "“As primas já estão se acostumando no Colégio, mas Luisinha está se queixando de dor no estômago e nós a achamos mais magra. Diante disso eu insisti com mamãe para trazê-la para casa para consultar com Dr. Teles. A Superiora quis fazer dúvida e disse que não era preciso trazer Luisinha porque o médico podia ir ao Colégio como vai sempre ver outras meninas.”, Helena Morley, <em>Minha Vida de Menina</em>.",
+    "C": "“Fabiano estava contente e acreditava nessa terra, porque não sabia como ela era nem onde era. Repetia docilmente as palavras de sinha Vitória, as palavras que sinha Vitória murmurava porque tinha confiança nele. E andavam para o sul, metidos naquele sonho. Uma cidade grande, cheia de pessoas fortes. Os meninos em escolas, aprendendo coisas difíceis e necessárias.”, Graciliano Ramos, <em>Vidas Secas</em>.",
+    "D": "“Dirigi-me a alguns amigos, e quase todos consentiram de boa vontade em contribuir para o desenvolvimento das letras nacionais. Padre Silvestre ficaria com a parte moral e as citações latinas; João Nogueira aceitou a pontuação, a ortografia e a sintaxe; prometi ao Arquimedes a composição tipográfica; para a composição literária convidei Lúcio Gomes de Azevedo Gondim, redator e diretor do Cruzeiro.”, Graciliano Ramos, <em>São Bernardo</em>.",
+    "E": "“Na segunda-feira, voltou o menino armado com a sua competente pasta a tiracolo, a sua lousa de escrever e o seu tinteiro de chifre; o padrinho o acompanhou até a porta. Logo nesse dia portou-se de tal maneira que o mestre não se pôde dispensar de lhe dar quatro bolos, o que lhe fez perder toda a folia com que entrara: declarou desde esse instante guerra viva à escola.”, Manuel Antônio de Almeida, <em>Memórias de um Sargento de Milícias</em>."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto fala da pressão pelo acesso à escola ligada ao direito à cidadania, num Brasil ainda pouco urbanizado. Em <em>Vidas Secas</em>, a família de retirantes sonha com a cidade grande e com “os meninos em escolas, aprendendo coisas difíceis e necessárias”: a escola como caminho para uma vida melhor. Alternativa <strong>C</strong>.</p><p>Os outros trechos tratam de um intelectual solitário (A), da saúde de uma aluna interna (B), da criação de um jornal (D) e de castigos na escola de outra época, sem ligação com o acesso à educação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "educação"
+   ]
+  }
+ ]
+}

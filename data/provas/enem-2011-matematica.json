@@ -1,0 +1,1255 @@
+{
+ "id": "enem-2011-matematica",
+ "banca": "Enem",
+ "ano": 2011,
+ "titulo": "Enem 2011: Matemática",
+ "fonte": "Inep",
+ "dataExame": "2011-10-23",
+ "duracaoMinutos": 150,
+ "area": "Matemática",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Números decimais",
+   "origem": {
+    "numeroOriginal": 136
+   },
+   "enunciado": "<p>O dono de uma oficina mecânica precisa de um pistão das partes de um motor, de 68 mm de diâmetro, para o conserto de um carro. Para conseguir um, esse dono vai até um ferro velho e lá encontra pistões com diâmetros iguais a 68,21 mm; 68,102 mm; 68,001 mm; 68,02 mm e 68,012 mm.</p><p>Para colocar o pistão no motor que está sendo consertado, o dono da oficina terá de adquirir aquele que tenha o diâmetro mais próximo do que precisa.</p><p>Nessa condição, o dono da oficina deverá comprar o pistão de diâmetro</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "68,21 mm.",
+    "B": "68,102 mm.",
+    "C": "68,02 mm.",
+    "D": "68,012 mm.",
+    "E": "68,001 mm."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Comparando a diferença de cada pistão para 68 mm: 68,21 (0,21), 68,102 (0,102), 68,02 (0,02), 68,012 (0,012) e 68,001 (0,001). O mais próximo é o de <strong>68,001 mm</strong>. Alternativa <strong>E</strong>.</p><p>Quem compara só o número de casas decimais pode achar que 68,012 é menor que 68,02 e errar a ordem; o importante é alinhar as casas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comparação de decimais"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Logaritmos",
+   "origem": {
+    "numeroOriginal": 137
+   },
+   "enunciado": "<p>A Escala de Magnitude de Momento (abreviada como MMS e denotada como M<sub>w</sub>), introduzida em 1979 por Thomas Haks e Hiroo Kanamori, substituiu a Escala de Richter para medir a magnitude dos terremotos em termos de energia liberada. Menos conhecida pelo público, a MMS é, no entanto, a escala usada para estimar as magnitudes de todos os grandes terremotos da atualidade. Assim como a escala Richter, a MMS é uma escala logarítmica. M<sub>W</sub> e M<sub>0</sub> se relacionam pela fórmula:</p><p>\\(M_W = -10{,}7 + \\dfrac{2}{3}\\log_{10}(M_0)\\)</p><p>Onde M<sub>0</sub> é o momento sísmico (usualmente estimado a partir dos registros de movimento da superfície, através dos sismogramas), cuja unidade é o dina∙cm.</p><p>O terremoto de Kobe, acontecido no dia 17 de janeiro de 1995, foi um dos terremotos que causaram maior impacto no Japão e na comunidade científica internacional. Teve magnitude M<sub>W</sub> = 7,3.</p><p class=\"fonte\">U.S. GEOLOGICAL SURVEY. Historic Earthquakes. Disponível em: http://earthquake.usgs.gov. Acesso em: 1 maio 2010 (adaptado). U.S. GEOLOGICAL SURVEY. USGS Earthquake Magnitude Policy. Disponível em: http://earthquake.usgs.gov. Acesso em: 1 maio 2010 (adaptado).</p><p>Mostrando que é possível determinar a medida por meio de conhecimentos matemáticos, qual foi o momento sísmico M<sub>0</sub> do terremoto de Kobe (em dina∙cm)?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "10<sup>−5,10</sup>",
+    "B": "10<sup>−0,73</sup>",
+    "C": "10<sup>12,00</sup>",
+    "D": "10<sup>21,65</sup>",
+    "E": "10<sup>27,00</sup>"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com M<sub>W</sub> = 7,3: 7,3 = −10,7 + \\(\\frac{2}{3}\\)log<sub>10</sub>(M<sub>0</sub>). Então \\(\\frac{2}{3}\\)log M<sub>0</sub> = 18 e log M<sub>0</sub> = 27. O momento sísmico é <strong>10<sup>27</sup> dina·cm</strong>. Alternativa <strong>E</strong>.</p><p>Quem esquece de multiplicar por 3/2 chega a 10<sup>18</sup>, que não está nas opções.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação logarítmica",
+    "escala de terremotos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 138
+   },
+   "enunciado": "<p>Um mecânico de uma equipe de corrida necessita que as seguintes medidas realizadas em um carro sejam obtidas em metros:</p><ol type=\"a\"><li>distância <strong>a</strong> entre os eixos dianteiro e traseiro;</li><li>altura <strong>b</strong> entre o solo e o encosto do piloto.</li></ol>[[fig:1]]<p>Ao optar pelas medidas a e b em metros, obtêm-se, respectivamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q138.webp",
+     "alt": "Desenho de um carro de corrida de perfil com a distância entre os eixos a = 2 300 mm e a altura do solo ao encosto do piloto b = 160 cm."
+    }
+   ],
+   "alternativas": {
+    "A": "0,23 e 0,16.",
+    "B": "2,3 e 1,6.",
+    "C": "23 e 16.",
+    "D": "230 e 160.",
+    "E": "2 300 e 1 600."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>a = 2 300 mm: como 1 m = 1 000 mm, a = 2,3 m. b = 160 cm: como 1 m = 100 cm, b = 1,6 m. Os valores são <strong>2,3 e 1,6</strong>. Alternativa <strong>B</strong>.</p><p>A opção A divide os dois por 10 000 e por 1 000, trocando as conversões.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Sistema de numeração",
+   "origem": {
+    "numeroOriginal": 139
+   },
+   "enunciado": "<p>O medidor de energia elétrica de uma residência, conhecido por “relógio de luz”, é constituído de quatro pequenos relógios, cujos sentidos de rotação estão indicados conforme a figura:</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://www.enersul.com.br. Acesso em: 26 abr. 2010.</p><p>A medida é expressa em kWh. O número obtido na leitura é composto por 4 algarismos. Cada posição do número é formada pelo último algarismo ultrapassado pelo ponteiro.</p><p>O número obtido pela leitura em kWh, na imagem, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q139.webp",
+     "alt": "Quatro relógios de ponteiro do medidor de luz, rotulados milhar, centena, dezena e unidade, com setas que indicam sentidos de rotação alternados; os ponteiros estão logo depois do 2, do 6, do 1 e do 4, respectivamente."
+    }
+   ],
+   "alternativas": {
+    "A": "2 614.",
+    "B": "3 624.",
+    "C": "2 715.",
+    "D": "3 725.",
+    "E": "4 162."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Cada relógio mostra o último algarismo ultrapassado pelo ponteiro, respeitando o sentido de rotação indicado. No milhar o ponteiro passou do 2; na centena, do 6; na dezena, do 1; na unidade, do 4. A leitura é <strong>2 614 kWh</strong>. Alternativa <strong>A</strong>.</p><p>Os relógios giram em sentidos alternados; quem lê todos no sentido horário erra a leitura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de instrumentos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Áreas e perímetros",
+   "origem": {
+    "numeroOriginal": 140
+   },
+   "enunciado": "<p>Em uma certa cidade, os moradores de um bairro carente de espaços de lazer reivindicam à prefeitura municipal a construção de uma praça. A prefeitura concorda com a solicitação e afirma que irá construí-la em formato retangular devido às características técnicas do terreno. Restrições de natureza orçamentária impõem que sejam gastos, no máximo, 180 m de tela para cercar a praça. A prefeitura apresenta aos moradores desse bairro as medidas dos terrenos disponíveis para a construção da praça:</p><ul><li>Terreno 1: 55 m por 45 m</li><li>Terreno 2: 55 m por 55 m</li><li>Terreno 3: 60 m por 30 m</li><li>Terreno 4: 70 m por 20 m</li><li>Terreno 5: 95 m por 85 m</li></ul><p>Para optar pelo terreno de maior área, que atenda às restrições impostas pela prefeitura, os moradores deverão escolher o terreno</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "5."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O perímetro não pode passar de 180 m. Terreno 1: 2(55 + 45) = 200; 2: 220; 3: 2(60 + 30) = 180; 4: 2(70 + 20) = 180; 5: 360. Só 3 e 4 servem. Áreas: 60 × 30 = 1 800 m² e 70 × 20 = 1 400 m². O de maior área é o <strong>terreno 3</strong>. Alternativa <strong>C</strong>.</p><p>O terreno 5 (E) tem a maior área, mas o perímetro estoura o limite.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "perímetro",
+    "área do retângulo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 141
+   },
+   "enunciado": "<p>Você pode adaptar as atividades do seu dia a dia de uma forma que possa queimar mais calorias do que as gastas normalmente, conforme a relação seguinte:</p><ul><li>Enquanto você fala ao telefone, faça agachamentos: 100 calorias gastas em 20 minutos.</li><li>Meia hora de supermercado: 100 calorias.</li><li>Cuidar do jardim por 30 minutos: 200 calorias.</li><li>Passear com o cachorro: 200 calorias em 30 minutos.</li><li>Tirar o pó dos móveis: 150 calorias em 30 minutos.</li><li>Lavar roupas por 30 minutos: 200 calorias.</li></ul><p class=\"fonte\">Disponível em: http://cyberdiet.terra.com.br. Acesso em: 27 abr. 2010 (adaptado).</p><p>Uma pessoa deseja executar essas atividades, porém, ajustando o tempo para que, em cada uma, gaste igualmente 200 calorias.</p><p>A partir dos ajustes, quanto tempo a mais será necessário para realizar todas as atividades?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "50 minutos.",
+    "B": "60 minutos.",
+    "C": "80 minutos.",
+    "D": "120 minutos.",
+    "E": "170 minutos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Para gastar 200 calorias: agachamentos, 40 min em vez de 20 (+20); supermercado, 60 min em vez de 30 (+30); tirar o pó, 40 min em vez de 30 (+10); jardim, cachorro e roupas já gastam 200 em 30 min (+0). O tempo a mais é 20 + 30 + 10 = <strong>60 minutos</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade direta"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 142
+   },
+   "enunciado": "<p>Uma equipe de especialistas do centro meteorológico de uma cidade mediu a temperatura do ambiente, sempre no mesmo horário, durante 15 dias intercalados, a partir do primeiro dia de um mês. Esse tipo de procedimento é frequente, uma vez que os dados coletados servem de referência para estudos e verificação de tendências climáticas ao longo dos meses e anos.</p><p>As medições ocorridas nesse período estão indicadas no quadro:</p><table class=\"tabela\"><thead><tr><th>Dia do mês</th><th>Temperatura (em °C)</th></tr></thead><tbody><tr><td>1</td><td>15,5</td></tr><tr><td>3</td><td>14</td></tr><tr><td>5</td><td>13,5</td></tr><tr><td>7</td><td>18</td></tr><tr><td>9</td><td>19,5</td></tr><tr><td>11</td><td>20</td></tr><tr><td>13</td><td>13,5</td></tr><tr><td>15</td><td>13,5</td></tr><tr><td>17</td><td>18</td></tr><tr><td>19</td><td>20</td></tr><tr><td>21</td><td>18,5</td></tr><tr><td>23</td><td>13,5</td></tr><tr><td>25</td><td>21,5</td></tr><tr><td>27</td><td>20</td></tr><tr><td>29</td><td>16</td></tr></tbody></table><p>Em relação à temperatura, os valores da média, mediana e moda são, respectivamente, iguais a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "17 °C, 17 °C e 13,5 °C.",
+    "B": "17 °C, 18 °C e 13,5 °C.",
+    "C": "17 °C, 13,5 °C e 18 °C.",
+    "D": "17 °C, 18 °C e 21,5 °C.",
+    "E": "17 °C, 13,5 °C e 21,5 °C."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As 15 temperaturas somam 255, e a média é 255 ÷ 15 = 17 °C. Em ordem: 13,5; 13,5; 13,5; 13,5; 14; 15,5; 16; <strong>18</strong>; 18; 18,5; 19,5; 20; 20; 20; 21,5 — a mediana é o 8º valor, 18 °C. A moda é 13,5 °C, que aparece 4 vezes. Resposta: 17 °C, 18 °C e 13,5 °C. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média",
+    "mediana",
+    "moda"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Escala",
+   "origem": {
+    "numeroOriginal": 143
+   },
+   "enunciado": "<p>Para uma atividade realizada no laboratório de Matemática, um aluno precisa construir uma maquete da quadra de esportes da escola que tem 28 m de comprimento por 12 m de largura. A maquete deverá ser construída na escala de 1 : 250.</p><p>Que medidas de comprimento e largura, em cm, o aluno utilizará na construção da maquete?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4,8 e 11,2",
+    "B": "7,0 e 3,0",
+    "C": "11,2 e 4,8",
+    "D": "28,0 e 12,0",
+    "E": "30,0 e 70,0"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na escala 1 : 250, cada medida real é dividida por 250. Em centímetros: 28 m = 2 800 cm → 2 800 ÷ 250 = 11,2 cm; 12 m = 1 200 cm → 1 200 ÷ 250 = 4,8 cm. As medidas são <strong>11,2 e 4,8</strong>. Alternativa <strong>C</strong>.</p><p>A opção A inverte comprimento e largura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "maquete"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 144
+   },
+   "enunciado": "<p>Uma indústria fabrica brindes promocionais em forma de pirâmide. A pirâmide é obtida a partir de quatro cortes em um sólido que tem a forma de um cubo. No esquema, estão indicados o sólido original (cubo) e a pirâmide obtida a partir dele.</p>[[fig:1]]<p>Os pontos A, B, C, D e O do cubo e da pirâmide são os mesmos. O ponto O é central na face superior do cubo. Os quatro cortes saem de O em direção às arestas \\(\\overline{AD}\\), \\(\\overline{BC}\\), \\(\\overline{AB}\\) e \\(\\overline{CD}\\), nessa ordem. Após os cortes, são descartados quatro sólidos.</p><p>Os formatos dos sólidos descartados são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q144.webp",
+     "alt": "À esquerda, um cubo com os vértices da base A, B, C, D e o ponto O no centro da face superior; à direita, a pirâmide de base ABCD e vértice O obtida dele."
+    }
+   ],
+   "alternativas": {
+    "A": "todos iguais.",
+    "B": "todos diferentes.",
+    "C": "três iguais e um diferente.",
+    "D": "apenas dois iguais.",
+    "E": "iguais dois a dois."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os cortes de O às arestas AD e BC (faces laterais opostas) retiram dois sólidos iguais entre si; os cortes de O a AB e CD retiram outros dois, também iguais entre si, mas diferentes dos primeiros, porque são feitos depois e já encontram o cubo cortado. Os sólidos descartados são <strong>iguais dois a dois</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cortes",
+    "pirâmide"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 145
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Café no Brasil</strong></p><p class=\"apoio\">O consumo atingiu o maior nível da história no ano passado: os brasileiros beberam o equivalente a 331 bilhões de xícaras.</p><p class=\"fonte\"><em>Veja</em>. Ed. 2158, 31 mar. 2010.</p><p>Considere que a xícara citada na notícia seja equivalente a, aproximadamente, 120 mL de café. Suponha que em 2010 os brasileiros bebam ainda mais café, aumentando o consumo em \\(\\frac{1}{5}\\) do que foi consumido no ano anterior.</p><p>De acordo com essas informações, qual a previsão mais aproximada para o consumo de café em 2010?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "8 bilhões de litros.",
+    "B": "16 bilhões de litros.",
+    "C": "32 bilhões de litros.",
+    "D": "40 bilhões de litros.",
+    "E": "48 bilhões de litros."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Em 2009 foram 331 bilhões de xícaras de 120 mL: 331 × 0,12 ≈ 39,7 bilhões de litros. Com aumento de 1/5 (20%): 39,7 × 1,2 ≈ 47,7 bilhões. A previsão mais próxima é <strong>48 bilhões de litros</strong>. Alternativa <strong>E</strong>.</p><p>A opção D (40) é o consumo de 2009, sem o aumento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fração",
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Escala",
+   "origem": {
+    "numeroOriginal": 146
+   },
+   "enunciado": "<p>Sabe-se que a distância real, em linha reta, de uma cidade A, localizada no estado de São Paulo, a uma cidade B, localizada no estado de Alagoas, é igual a 2 000 km. Um estudante, ao analisar um mapa, verificou com sua régua que a distância entre essas duas cidades, A e B, era 8 cm.</p><p>Os dados nos indicam que o mapa observado pelo estudante está na escala de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 : 250.",
+    "B": "1 : 2 500.",
+    "C": "1 : 25 000.",
+    "D": "1 : 250 000.",
+    "E": "1 : 25 000 000."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>2 000 km = 200 000 000 cm. Se 8 cm no mapa valem 200 000 000 cm, 1 cm vale 25 000 000 cm. A escala é <strong>1 : 25 000 000</strong>. Alternativa <strong>E</strong>.</p><p>Quem converte km para metros, e não para centímetros, encontra 1 : 250 000 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala de mapa"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 147
+   },
+   "enunciado": "<p>A figura seguinte mostra um modelo de sombrinha muito usado em países orientais.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://mdmat.psico.ufrgs.br. Acesso em: 1 maio 2010.</p><p>Esta figura é uma representação de uma superfície de revolução chamada de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q147.webp",
+     "alt": "Sombrinha oriental: varetas saem de um ponto no topo e se abrem formando uma superfície cônica com borda circular; o cabo sai do vértice."
+    }
+   ],
+   "alternativas": {
+    "A": "pirâmide.",
+    "B": "semiesfera.",
+    "C": "cilindro.",
+    "D": "tronco de cone.",
+    "E": "cone."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A sombrinha tem uma ponta no centro e se abre em uma superfície inclinada até a borda circular, como a lateral de um cone. Girando um segmento inclinado em torno do cabo, obtém-se a superfície de um <strong>cone</strong>. Alternativa <strong>E</strong>.</p><p>Não há corte no topo, por isso não é tronco de cone (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sólidos de revolução"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 148
+   },
+   "enunciado": "<p>Em 2010, um caos aéreo afetou o continente europeu, devido à quantidade de fumaça expelida por um vulcão na Islândia, o que levou ao cancelamento de inúmeros voos.</p><p>Cinco dias após o início desse caos, todo o espaço aéreo europeu acima de 6 000 metros estava liberado, com exceção do espaço aéreo da Finlândia. Lá, apenas voos internacionais acima de 31 mil pés estavam liberados.</p><p>Considere que 1 metro equivale a aproximadamente 3,3 pés.</p><p>Qual a diferença, em pés, entre as altitudes liberadas na Finlândia e no restante do continente europeu cinco dias após o início do caos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "3 390 pés.",
+    "B": "9 390 pés.",
+    "C": "11 200 pés.",
+    "D": "19 800 pés.",
+    "E": "50 800 pés."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>6 000 m × 3,3 = 19 800 pés. Na Finlândia, só acima de 31 000 pés. A diferença é 31 000 − 19 800 = <strong>11 200 pés</strong>. Alternativa <strong>C</strong>.</p><p>A opção D (19 800) é só a conversão dos 6 000 m.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 149
+   },
+   "enunciado": "<p>O Índice de Massa Corporal (IMC) é largamente utilizado há cerca de 200 anos, mas esse cálculo representa muito mais a corpulência que a adiposidade, uma vez que indivíduos musculosos e obesos podem apresentar o mesmo IMC. Uma nova pesquisa aponta o Índice de Adiposidade Corporal (IAC) como uma alternativa mais fidedigna para quantificar a gordura corporal, utilizando a medida do quadril e a altura. A figura mostra como calcular essas medidas, sabendose que, em mulheres, a adiposidade normal está entre 19% e 26%.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://www1.folha.uol.com.br. Acesso em: 24 abr. 2011(adaptado).</p><p>Uma jovem com IMC = 20 kg/m², 100 cm de circunferência dos quadris e 60 kg de massa corpórea resolveu averiguar seu IAC. Para se enquadrar aos níveis de normalidade de gordura corporal, a atitude adequada que essa jovem deve ter diante da nova medida é</p><p>(Use \\(\\sqrt{3} = 1{,}7\\) e \\(\\sqrt{1{,}7} = 1{,}3\\))</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q149.webp",
+     "alt": "Duas silhuetas. O velho IMC: Índice de Massa Corporal = massa (kg) ÷ (altura × altura, em m). O novo IAC: % de gordura corporal = circunferência do quadril (cm) ÷ (altura × √altura, em m) − 18."
+    }
+   ],
+   "alternativas": {
+    "A": "reduzir seu excesso de gordura em cerca de 1%.",
+    "B": "reduzir seu excesso de gordura em cerca de 27%.",
+    "C": "manter seus níveis atuais de gordura.",
+    "D": "aumentar seu nível de gordura em cerca de 1%.",
+    "E": "aumentar seu nível de gordura em cerca de 27%."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Com IMC = 20 e massa 60 kg: altura² = 60 ÷ 20 = 3, então altura = √3 ≈ 1,7 m. Altura × √altura ≈ 1,7 × 1,3 = 2,21. IAC = 100 ÷ 2,21 − 18 ≈ 45,2 − 18 ≈ 27%. A faixa normal vai de 19% a 26%, então ela deve <strong>reduzir seu excesso de gordura em cerca de 1%</strong>. Alternativa <strong>A</strong>.</p><p>A opção B confunde o próprio IAC (27%) com o excesso.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "índice de adiposidade",
+    "radicais"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Geometria analítica",
+   "origem": {
+    "numeroOriginal": 150
+   },
+   "enunciado": "<p>Um bairro de uma cidade foi planejado em uma região plana, com ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho. No plano de coordenadas cartesianas seguinte, esse bairro localiza-se no segundo quadrante, e as distâncias nos eixos são dadas em quilômetros.</p>[[fig:1]]<p>A reta de equação y = x + 4 representa o planejamento do percurso da linha do metrô subterrâneo que atravessará o bairro e outras regiões da cidade. No ponto P = (-5, 5), localiza-se um hospital público. A comunidade solicitou ao comitê de planejamento que fosse prevista uma estação do metrô de modo que sua distância ao hospital, medida em linha reta, não fosse maior que 5 km.</p><p>Atendendo ao pedido da comunidade, o comitê argumentou corretamente que isso seria automaticamente satisfeito, pois já estava prevista a construção de uma estação no ponto</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q150.webp",
+     "alt": "Plano cartesiano com eixos de −8 a 8 e a reta tracejada y = x + 4, que corta o eixo y em 4 e o eixo x em −4."
+    }
+   ],
+   "alternativas": {
+    "A": "(–5, 0).",
+    "B": "(–3, 1).",
+    "C": "(–2, 1).",
+    "D": "(0, 4).",
+    "E": "(2, 6)."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A estação tem de estar sobre a reta y = x + 4. (−5, 0): −5 + 4 = −1, não está; (−2, 1): −2 + 4 = 2, não está. Das que estão: (−3, 1) dista √(2² + 4²) = √20 ≈ 4,5 km de P(−5, 5); (0, 4) dista √(25 + 1) ≈ 5,1 km; (2, 6) dista √(49 + 1) ≈ 7,1 km. A única a até 5 km é <strong>(−3, 1)</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "distância entre pontos",
+    "equação da reta"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Simetria",
+   "origem": {
+    "numeroOriginal": 151
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: http://www.diaadia.pr.gov.br. Acesso em: 28 abr. 2010.</p><p>O polígono que dá forma a essa calçada é invariante por rotações, em torno de seu centro, de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q151.webp",
+     "alt": "Foto de uma calçada de blocos de concreto encaixados, com peças em forma de hexágono irregular."
+    }
+   ],
+   "alternativas": {
+    "A": "45°.",
+    "B": "60°.",
+    "C": "90°.",
+    "D": "120°.",
+    "E": "180°."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Cada peça da calçada tem três “braços” iguais, distribuídos em volta do centro a cada terço de volta. Girando a peça 120° em torno do centro, ela coincide consigo mesma. A resposta é <strong>120°</strong>. Alternativa <strong>D</strong>.</p><p>A peça não é um hexágono regular; por isso não se mantém com uma rotação de 60° (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rotação",
+    "polígonos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Função afim",
+   "origem": {
+    "numeroOriginal": 152
+   },
+   "enunciado": "<p>As frutas que antes se compravam por dúzias, hoje em dia, podem ser compradas por quilogramas, existindo também a variação dos preços de acordo com a época de produção. Considere que, independente da época ou variação de preço, certa fruta custa R$ 1,75 o quilograma.</p><p>Dos gráficos a seguir, o que representa o preço m pago em reais pela compra de n quilogramas desse produto é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q152a.webp",
+     "alt": "Gráfico A: curva que sobe rápido no início e depois mais devagar, passando por (1; 1,75)."
+    },
+    {
+     "src": "assets/img/enem-2011-matematica/q152b.webp",
+     "alt": "Gráfico B: reta que começa acima de zero no eixo m e passa por (1; 1,75)."
+    },
+    {
+     "src": "assets/img/enem-2011-matematica/q152c.webp",
+     "alt": "Gráfico C: curva que sobe cada vez mais rápido, quase vertical, passando por (1; 1,75)."
+    },
+    {
+     "src": "assets/img/enem-2011-matematica/q152d.webp",
+     "alt": "Gráfico D: reta que começa no ponto (1; 0) do eixo n e sobe."
+    },
+    {
+     "src": "assets/img/enem-2011-matematica/q152e.webp",
+     "alt": "Gráfico E: reta que sai da origem e passa por (1; 1,75)."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O preço é m = 1,75n: uma função linear, cujo gráfico é uma reta que passa pela origem (0 kg custa R$ 0) e pelo ponto (1; 1,75). Esse é o gráfico <strong>E</strong>. Alternativa <strong>E</strong>.</p><p>No gráfico D a reta começa em n = 1, e no B começa acima de zero; A e C são curvas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade",
+    "gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 153
+   },
+   "enunciado": "<p>Observe as dicas para calcular a quantidade certa de alimentos e bebidas para as festas de fim de ano:</p><ul><li>Para o prato principal, estime 250 gramas de carne para cada pessoa.</li><li>Um copo americano cheio de arroz rende o suficiente para quatro pessoas.</li><li>Para a farofa, calcule quatro colheres de sopa por convidado.</li><li>Uma garrafa de vinho serve seis pessoas.</li><li>Uma garrafa de cerveja serve duas.</li><li>Uma garrafa de espumante serve três convidados.</li></ul><p>Quem organiza festas faz esses cálculos em cima do total de convidados, independente do gosto de cada um.</p><p class=\"fonte\">Quantidade certa de alimentos e bebidas evita o desperdício da ceia. Jornal Hoje. 17 dez. 2010 (adaptado).</p><p>Um anfitrião decidiu seguir essas dicas ao se preparar para receber 30 convidados para a ceia de Natal. Para seguir essas orientações à risca, o anfitrião deverá dispor de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "120 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.",
+    "B": "120 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 de cerveja e 10 de espumante.",
+    "C": "75 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.",
+    "D": "7,5 kg de carne, 7 copos americanos, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 de cerveja e 10 de espumante.",
+    "E": "7,5 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para 30 convidados: carne, 30 × 250 g = 7,5 kg; arroz, 30 ÷ 4 = 7,5 copos; farofa, 30 × 4 = 120 colheres; vinho, 30 ÷ 6 = 5 garrafas; cerveja, 30 ÷ 2 = 15; espumante, 30 ÷ 3 = 10. A resposta é a <strong>alternativa E</strong>. Alternativa <strong>E</strong>.</p><p>A opção D erra o arroz (7 copos) e a cerveja (30).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade",
+    "unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 154
+   },
+   "enunciado": "<p>A participação dos estudantes na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) aumenta a cada ano. O quadro indica o percentual de medalhistas de ouro, por região, nas edições da OBMEP de 2005 a 2009:</p><table class=\"tabela\"><thead><tr><th>Região</th><th>2005</th><th>2006</th><th>2007</th><th>2008</th><th>2009</th></tr></thead><tbody><tr><td>Norte</td><td>2%</td><td>2%</td><td>1%</td><td>2%</td><td>1%</td></tr><tr><td>Nordeste</td><td>18%</td><td>19%</td><td>21%</td><td>15%</td><td>19%</td></tr><tr><td>Centro-Oeste</td><td>5%</td><td>6%</td><td>7%</td><td>8%</td><td>9%</td></tr><tr><td>Sudeste</td><td>55%</td><td>61%</td><td>58%</td><td>66%</td><td>60%</td></tr><tr><td>Sul</td><td>21%</td><td>12%</td><td>13%</td><td>9%</td><td>11%</td></tr></tbody></table><p class=\"fonte\">Disponível em: http://www.obmep.org.br. Acesso em: abr. 2010 (adaptado).</p><p>Em relação às edições de 2005 a 2009 da OBMEP, qual o percentual médio de medalhistas de ouro da região Nordeste?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "14,6%",
+    "B": "18,2%",
+    "C": "18,4%",
+    "D": "19,0%",
+    "E": "21,0%"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os percentuais do Nordeste são 18%, 19%, 21%, 15% e 19%. A soma é 92%, e a média é 92 ÷ 5 = <strong>18,4%</strong>. Alternativa <strong>C</strong>.</p><p>A opção D (19%) é a moda, e não a média.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média aritmética",
+    "tabela"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 155
+   },
+   "enunciado": "<p>Para determinar a distância de um barco até a praia, um navegante utilizou o seguinte procedimento: a partir de um ponto A, mediu o ângulo visual α fazendo mira em um ponto fixo P da praia. Mantendo o barco no mesmo sentido, ele seguiu até um ponto B de modo que fosse possível ver o mesmo ponto P da praia, no entanto sob um ângulo visual 2α. A figura ilustra essa situação:</p>[[fig:1]]<p>Suponha que o navegante tenha medido o ângulo α = 30° e, ao chegar ao ponto B, verificou que o barco havia percorrido a distância AB = 2 000 m. Com base nesses dados e mantendo a mesma trajetória, a menor distância do barco até o ponto fixo P será</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q155.webp",
+     "alt": "Triângulo com os pontos A e B sobre a trajetória do barco (seta horizontal) e P acima, na praia; em A o ângulo é α e em B, o ângulo externo, 2α."
+    }
+   ],
+   "alternativas": {
+    "A": "1 000 m.",
+    "B": "1 000\\(\\sqrt{3}\\) m.",
+    "C": "2 000\\(\\dfrac{\\sqrt{3}}{3}\\) m.",
+    "D": "2 000 m.",
+    "E": "2 000\\(\\sqrt{3}\\) m."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Com α = 30°, o ângulo externo em B é 60°, e o ângulo em P vale 60° − 30° = 30°. O triângulo ABP é isósceles: BP = AB = 2 000 m. A menor distância até P é a perpendicular à trajetória: BP · sen 60° = 2 000 × \\(\\frac{\\sqrt{3}}{2}\\) = <strong>1 000√3 m</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "triângulo isósceles",
+    "seno"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Função afim",
+   "origem": {
+    "numeroOriginal": 156
+   },
+   "enunciado": "<p>O saldo de contratações no mercado formal no setor varejista da região metropolitana de São Paulo registrou alta. Comparando as contratações deste setor no mês de fevereiro com as de janeiro deste ano, houve incremento de 4 300 vagas no setor, totalizando 880 605 trabalhadores com carteira assinada.</p><p>Suponha que o incremento de trabalhadores no setor varejista seja sempre o mesmo nos seis primeiros meses do ano. Considerando-se que y e x representam, respectivamente, as quantidades de trabalhadores no setor varejista e os meses, janeiro sendo o primeiro, fevereiro, o segundo, e assim por diante, a expressão algébrica que relaciona essas quantidades nesses meses é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "y = 4 300x",
+    "B": "y = 884 905x",
+    "C": "y = 872 005 + 4 300x",
+    "D": "y = 876 305 + 4 300x",
+    "E": "y = 880 605 + 4 300x"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Em fevereiro (x = 2) eram 880 605 trabalhadores, com aumento de 4 300 por mês. Em janeiro (x = 1): 876 305. Para valer y = a + 4 300x em x = 1, a = 876 305 − 4 300 = 872 005. A expressão é <strong>y = 872 005 + 4 300x</strong>. Alternativa <strong>C</strong>.</p><p>Confira: x = 2 dá 872 005 + 8 600 = 880 605.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função afim",
+    "modelagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Matemática financeira",
+   "origem": {
+    "numeroOriginal": 157
+   },
+   "enunciado": "<p>Um jovem investidor precisa escolher qual investimento lhe trará maior retorno financeiro em uma aplicação de R$ 500,00. Para isso, pesquisa o rendimento e o imposto a ser pago em dois investimentos: poupança e CDB (certificado de depósito bancário). As informações obtidas estão resumidas no quadro:</p><table class=\"tabela\"><thead><tr><th></th><th>Rendimento mensal (%)</th><th>IR (imposto de renda)</th></tr></thead><tbody><tr><td>POUPANÇA</td><td>0,560</td><td>ISENTO</td></tr><tr><td>CDB</td><td>0,876</td><td>4% (sobre o ganho)</td></tr></tbody></table><p>Para o jovem investidor, ao final de um mês, a aplicação mais vantajosa é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a poupança, pois totalizará um montante de R$ 502,80.",
+    "B": "a poupança, pois totalizará um montante de R$ 500,56.",
+    "C": "o CDB, pois totalizará um montante de R$ 504,38.",
+    "D": "o CDB, pois totalizará um montante de R$ 504,21.",
+    "E": "o CDB, pois totalizará um montante de R$ 500,87."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Poupança: 500 × 0,560% = R$ 2,80, montante R$ 502,80. CDB: 500 × 0,876% = R$ 4,38; descontando 4% de IR sobre o ganho, 4,38 × 0,96 ≈ R$ 4,20, montante R$ 504,20. O CDB é melhor, com cerca de <strong>R$ 504,21</strong>. Alternativa <strong>D</strong>.</p><p>A opção C esquece o imposto.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "juros",
+    "imposto"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 158
+   },
+   "enunciado": "<p>A tabela compara o consumo mensal, em kWh, dos consumidores residenciais e dos de baixa renda, antes e depois da redução da tarifa de energia no estado de Pernambuco.</p>[[fig:1]]<p class=\"fonte\"><em>Diário de Pernambuco</em>. 28 abr. 2010 (adaptado).</p><p>Considere dois consumidores: um que é de baixa renda e gastou 100 kWh e outro do tipo residencial que gastou 185 kWh. A diferença entre o gasto desses consumidores com 1 kWh, depois da redução da tarifa de energia, mais aproximada, é de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q158.webp",
+     "alt": "Tabela “Como fica a tarifa”. Residencial, consumo mensal em kWh (antes, depois, economia): 140 kWh, R$ 71,04, R$ 64,75, R$ 6,29; 185 kWh, R$ 93,87, R$ 85,56, R$ 8,32; 350 kWh, R$ 177,60, R$ 161,86, R$ 15,74; 500 kWh, R$ 253,72, R$ 231,24, R$ 22,48. Baixa renda: 30 kWh, R$ 3,80, R$ 3,35, R$ 0,45; 65 kWh, R$ 11,53, R$ 10,04, R$ 1,49; 80 kWh, R$ 14,84, R$ 12,90, R$ 1,94; 100 kWh, R$ 19,31, R$ 16,73, R$ 2,59; 140 kWh, R$ 32,72, R$ 28,20, R$ 4,53. Fonte: Celpe."
+    }
+   ],
+   "alternativas": {
+    "A": "R$ 0,27.",
+    "B": "R$ 0,29.",
+    "C": "R$ 0,32.",
+    "D": "R$ 0,34.",
+    "E": "R$ 0,61."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Depois da redução: o consumidor de baixa renda que gastou 100 kWh paga R$ 16,73, ou R$ 0,1673 por kWh; o residencial de 185 kWh paga R$ 85,56, ou R$ 0,4625 por kWh. A diferença é cerca de 0,4625 − 0,1673 ≈ <strong>R$ 0,29</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "preço unitário",
+    "tabela"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Função afim",
+   "origem": {
+    "numeroOriginal": 159
+   },
+   "enunciado": "<p>O prefeito de uma cidade deseja construir uma rodovia para dar acesso a outro município. Para isso, foi aberta uma licitação na qual concorreram duas empresas. A primeira cobrou R$ 100 000,00 por km construído (n), acrescidos de um valor fixo de R$ 350 000,00, enquanto a segunda cobrou R$ 120 000,00 por km construído (n), acrescidos de um valor fixo de R$ 150 000,00. As duas empresas apresentam o mesmo padrão de qualidade dos serviços prestados, mas apenas uma delas poderá ser contratada.</p><p>Do ponto de vista econômico, qual equação possibilitaria encontrar a extensão da rodovia que tornaria indiferente para a prefeitura escolher qualquer uma das propostas apresentadas?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "100n + 350 = 120n + 150",
+    "B": "100n + 150 = 120n + 350",
+    "C": "100(n + 350) = 120(n + 150)",
+    "D": "100(n + 350 000) = 120(n + 150 000)",
+    "E": "350(n + 100 000) = 150(n + 120 000)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Em milhares de reais, a primeira empresa cobra 100n + 350 e a segunda, 120n + 150. É indiferente quando os custos são iguais: <strong>100n + 350 = 120n + 150</strong>. Alternativa <strong>A</strong>.</p><p>Resolvendo, n = 10 km. A opção B troca os valores fixos das empresas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação do 1º grau",
+    "comparação de propostas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 160
+   },
+   "enunciado": "<p>Uma pessoa aplicou certa quantia em ações. No primeiro mês, ela perdeu 30% do total do investimento e, no segundo mês, recuperou 20% do que havia perdido. Depois desses dois meses, resolveu tirar o montante de R$ 3 800,00 gerado pela aplicação. A quantia inicial que essa pessoa aplicou em ações corresponde ao valor de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 4 222,22.",
+    "B": "R$ 4 523,80.",
+    "C": "R$ 5 000,00.",
+    "D": "R$ 13 300,00.",
+    "E": "R$ 17 100,00."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Seja x o valor aplicado. No primeiro mês sobrou 0,7x (perdeu 0,3x). No segundo, recuperou 20% do que perdeu: 0,2 × 0,3x = 0,06x. Ficou com 0,76x = 3 800, então x = <strong>R$ 5 000,00</strong>. Alternativa <strong>C</strong>.</p><p>Quem aplica os 20% sobre o que sobrou (0,7x × 1,2 = 0,84x) chega a R$ 4 523,80 (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "equação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 161
+   },
+   "enunciado": "<p>Cerca de 20 milhões de brasileiros vivem na região coberta pela caatinga, em quase 800 mil km<sup>2</sup> de área. Quando não chove, o homem do sertão e sua família precisam caminhar quilômetros em busca da água dos açudes. A irregularidade climática é um dos fatores que mais interferem na vida do sertanejo.</p><p class=\"fonte\">Disponível em: http://www.wwf.org.br. Acesso em: 23 abr. 2010.</p><p>Segundo este levantamento, a densidade demográfica da região coberta pela caatinga, em habitantes por km<sup>2</sup>, é de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "250.",
+    "B": "25.",
+    "C": "2,5.",
+    "D": "0,25.",
+    "E": "0,025."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Densidade demográfica = população ÷ área = 20 000 000 ÷ 800 000 = <strong>25 habitantes por km²</strong>. Alternativa <strong>B</strong>.</p><p>Cuidado com os zeros: 20 milhões têm 7 zeros e 800 mil têm 5, mais o 8.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "densidade demográfica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "assunto": "Progressão aritmética",
+   "origem": {
+    "numeroOriginal": 162
+   },
+   "enunciado": "<p>O número mensal de passagens de uma determinada empresa aérea aumentou no ano passado nas seguintes condições: em janeiro foram vendidas 33 000 passagens; em fevereiro, 34 500; em março, 36 000. Esse padrão de crescimento se mantém para os meses subsequentes.</p><p>Quantas passagens foram vendidas por essa empresa em julho do ano passado?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "38 000",
+    "B": "40 500",
+    "C": "41 000",
+    "D": "42 000",
+    "E": "48 000"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As vendas aumentam 1 500 por mês: 33 000, 34 500, 36 000... Julho é o 7º termo: 33 000 + 6 × 1 500 = <strong>42 000</strong>. Alternativa <strong>D</strong>.</p><p>A opção B (40 500) é junho. O termo geral é a<sub>n</sub> = 33 000 + (n − 1) × 1 500; com n = 7, a<sub>7</sub> = 42 000.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "termo geral da PA"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 163
+   },
+   "enunciado": "<p>Rafael mora no Centro de uma cidade e decidiu se mudar, por recomendações médicas, para uma das regiões: Rural, Comercial, Residencial Urbano ou Residencial Suburbano. A principal recomendação médica foi com as temperaturas das “ilhas de calor” da região, que deveriam ser inferiores a 31°C. Tais temperaturas são apresentadas no gráfico:</p>[[fig:1]]<p>Escolhendo, aleatoriamente, uma das outras regiões para morar, a probabilidade de ele escolher uma região que seja adequada às recomendações médicas é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q163.webp",
+     "alt": "Gráfico “Perfil da ilha de calor urbana”, com temperaturas em °F à esquerda (85 a 92) e em °C à direita (30 a 33) sobre um perfil de cidade: Rural, cerca de 30 °C; Comercial, cerca de 31,5 °C; Centro, o pico, cerca de 33 °C; Residencial Urbano, cerca de 30,5 °C; Residencial Suburbano, cerca de 29,5 °C."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{5}\\)",
+    "B": "\\(\\dfrac{1}{4}\\)",
+    "C": "\\(\\dfrac{2}{5}\\)",
+    "D": "\\(\\dfrac{3}{5}\\)",
+    "E": "\\(\\dfrac{3}{4}\\)"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pela escala em °C do gráfico, Rural, Residencial Urbano e Residencial Suburbano ficam abaixo de 31 °C; só a região Comercial passa disso. Das 4 regiões (sem contar o Centro), 3 são adequadas: probabilidade <strong>3/4</strong>. Alternativa <strong>E</strong>.</p><p>Quem conta o Centro entre as opções chega a 3/5 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade simples",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 164
+   },
+   "enunciado": "<p>Muitas medidas podem ser tomadas em nossas casas visando à utilização racional de energia elétrica. Isso deve ser uma atitude diária de cidadania. Uma delas pode ser a redução do tempo no banho. Um chuveiro com potência de 4 800 W consome 4,8 kW por hora.</p><p>Uma pessoa que toma dois banhos diariamente, de 10 minutos cada, consumirá, em sete dias, quantos kW?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,8",
+    "B": "1,6",
+    "C": "5,6",
+    "D": "11,2",
+    "E": "33,6"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Dois banhos de 10 min são 20 min = 1/3 h por dia. Em sete dias: 7/3 h. Energia = 4,8 × 7/3 = <strong>11,2</strong> (kWh, chamado de kW na questão). Alternativa <strong>D</strong>.</p><p>A opção B (1,6) é o consumo de um único dia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia elétrica",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 165
+   },
+   "enunciado": "<p>O atletismo é um dos esportes que mais se identificam com o espírito olímpico. A figura ilustra uma pista de atletismo. A pista é composta por oito raias e tem largura de 9,76 m. As raias são numeradas do centro da pista para a extremidade e são construídas de segmentos de retas paralelas e arcos de circunferência. Os dois semicírculos da pista são iguais.</p>[[fig:1]]<p class=\"fonte\">BIEMBENGUT, M. S. Modelação Matemática como método de ensino-aprendizagem de Matemática em cursos de 1º e 2º graus. 1990. Dissertação de Mestrado. IGCE/UNESP, Rio Claro,1990 (adaptado).</p><p>Se os atletas partissem do mesmo ponto, dando uma volta completa, em qual das raias o corredor estaria sendo beneficiado?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q165.webp",
+     "alt": "Pista de atletismo vista de cima: dois trechos retos de 84,39 m ligados por dois semicírculos de raio 36,5 m."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "4",
+    "C": "5",
+    "D": "7",
+    "E": "8"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Numa volta completa, cada raia percorre as duas retas (iguais para todos) e uma circunferência inteira. A raia 1, mais interna, tem o menor raio e, portanto, o menor percurso. Saindo do mesmo ponto, o corredor da <strong>raia 1</strong> seria beneficiado. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comprimento da circunferência"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 166
+   },
+   "enunciado": "<p>Nos últimos cinco anos, 32 mil mulheres de 20 a 24 anos foram internadas nos hospitais do SUS por causa de AVC. Entre os homens da mesma faixa etária, houve 28 mil internações pelo mesmo motivo.</p><p class=\"fonte\"><em>Época</em>. 26 abr. 2010 (adaptado).</p><p>Suponha que, nos próximos cinco anos, haja um acréscimo de 8 mil internações de mulheres e que o acréscimo de internações de homens por AVC ocorra na mesma proporção.</p><p>De acordo com as informações dadas, o número de homens que seriam internados por AVC, nos próximos cinco anos, corresponderia a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4 mil.",
+    "B": "9 mil.",
+    "C": "21 mil.",
+    "D": "35 mil.",
+    "E": "39 mil."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As mulheres passam de 32 mil para 40 mil, aumento de 8/32 = 25%. Aplicando 25% aos homens: 28 mil × 1,25 = <strong>35 mil</strong>. Alternativa <strong>D</strong>.</p><p>A opção B (9 mil) soma 8 mil e 1 mil sem proporção; a opção A (4 mil) não considera o total.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 167
+   },
+   "enunciado": "<p>É possível usar água ou comida para atrair as aves e observá-las. Muitas pessoas costumam usar água com açúcar, por exemplo, para atrair beija-flores. Mas é importante saber que, na hora de fazer a mistura, você deve sempre usar uma parte de açúcar para cinco partes de água. Além disso, em dias quentes, precisa trocar a água de duas a três vezes, pois com o calor ela pode fermentar e, se for ingerida pela ave, pode deixá-la doente. O excesso de açúcar, ao cristalizar, também pode manter o bico da ave fechado, impedindo-a de se alimentar. Isso pode até matá-la.</p><p>Pretende-se encher completamente um copo com a mistura para atrair beija-flores. O copo tem formato cilíndrico, e suas medidas são 10 cm de altura e 4 cm de diâmetro. A quantidade de água que deve ser utilizada na mistura é cerca de (utilize π = 3)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "20 mL.",
+    "B": "24 mL.",
+    "C": "100 mL.",
+    "D": "120 mL.",
+    "E": "600 mL."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O copo tem raio 2 cm e altura 10 cm: V = π r² h = 3 × 4 × 10 = 120 cm³ = 120 mL. A mistura é 1 parte de açúcar para 5 de água, então a água é 5/6 do volume: 120 × 5/6 = <strong>100 mL</strong>. Alternativa <strong>C</strong>.</p><p>A opção D (120) é o volume total do copo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cilindro",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 168
+   },
+   "enunciado": "<p>Em um jogo disputado em uma mesa de sinuca, há 16 bolas: 1 branca e 15 coloridas, as quais, de acordo com a coloração, valem de 1 a 15 pontos (um valor para cada bola colorida).</p><p>O jogador acerta o taco na bola branca de forma que esta acerte as outras, com o objetivo de acertar duas das quinze bolas em quaisquer caçapas. Os valores dessas duas bolas são somados e devem resultar em um valor escolhido pelo jogador antes do início da jogada.</p><p>Arthur, Bernardo e Caio escolhem os números 12, 17 e 22 como sendo resultados de suas respectivas somas.</p><p>Com essa escolha, quem tem a maior probabilidade de ganhar o jogo é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Arthur, pois a soma que escolheu é a menor.",
+    "B": "Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 4 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.",
+    "C": "Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.",
+    "D": "Caio, pois há 10 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 8 possibilidades para a escolha de Bernardo.",
+    "E": "Caio, pois a soma que escolheu é a maior."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Contando pares de bolas diferentes de 1 a 15: soma 12 tem 5 pares (1+11, 2+10, 3+9, 4+8, 5+7); soma 17 tem 7 (2+15 até 8+9); soma 22 tem 4 (7+15, 8+14, 9+13, 10+12). Quem tem mais chance é <strong>Bernardo, com 7 possibilidades, contra 5 de Arthur e 4 de Caio</strong>. Alternativa <strong>C</strong>.</p><p>Na opção B, a contagem de Arthur está errada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "contagem",
+    "probabilidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 169
+   },
+   "enunciado": "<p>A figura apresenta informações biométricas de um homem (Duílio) e de uma mulher (Sandra) que estão buscando alcançar seu peso ideal a partir das atividades físicas (corrida). Para se verificar a escala de obesidade, foi desenvolvida a fórmula que permite verificar o Índice de Massa Corporal (IMC). Esta fórmula é apresentada como \\(IMC = \\dfrac{m}{h^2}\\), onde m é a massa em quilogramas e h é altura em metros.</p>[[fig:1]]<p class=\"fonte\"><em>Veja</em>. Ed. 2055 (adaptado).</p><p>No quadro é apresentada a Escala de Índice de Massa Corporal com as respectivas categorias relacionadas aos pesos.</p><table class=\"tabela\"><thead><tr><th>Categorias</th><th>IMC (kg/m²)</th></tr></thead><tbody><tr><td>Desnutrição</td><td>Abaixo de 14,5</td></tr><tr><td>Peso abaixo do normal</td><td>14,5 a 20</td></tr><tr><td>Peso normal</td><td>20 a 24,9</td></tr><tr><td>Sobrepeso</td><td>25 a 29,9</td></tr><tr><td>Obesidade</td><td>30 a 39,9</td></tr><tr><td>Obesidade mórbida</td><td>Igual ou acima de 40</td></tr></tbody></table><p class=\"fonte\"><em>Nova Escola</em>. N° 172, maio 2004.</p><p>A partir dos dados biométricos de Duílio e Sandra e da Escala de IMC, o valor IMC e a categoria em que cada uma das pessoas se posiciona na Escala são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q169.webp",
+     "alt": "Fichas “O perfil dos novos corredores”: Duílio Saba, 50 anos, altura 1,88 metro, peso 96,4 quilos, peso ideal 94,5 quilos; Sandra Tescari, 42 anos, altura 1,70 metro, peso 84 quilos, peso ideal 77 quilos."
+    }
+   ],
+   "alternativas": {
+    "A": "Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+    "B": "Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1, estando ambos na categoria de sobrepeso.",
+    "C": "Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.",
+    "D": "Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.",
+    "E": "Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>IMC de Duílio: 96,4 ÷ 1,88² = 96,4 ÷ 3,5344 ≈ 27,3. IMC de Sandra: 84 ÷ 1,70² = 84 ÷ 2,89 ≈ 29,1. Os dois ficam entre 25 e 29,9: <strong>ambos na categoria de sobrepeso</strong>. Alternativa <strong>B</strong>.</p><p>Quem usa o peso ideal, e não o peso atual, chega a outros valores.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "IMC",
+    "potenciação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 170
+   },
+   "enunciado": "<p>Todo o país passa pela primeira fase de campanha de vacinação contra a gripe suína (H1N1). Segundo um médico infectologista do Instituto Emílio Ribas, de São Paulo, a imunização “deve mudar”, no país, a história da epidemia. Com a vacina, de acordo com ele, o Brasil tem a chance de barrar uma tendência do crescimento da doença, que já matou 17 mil no mundo. A tabela apresenta dados específicos de um único posto de vacinação.</p><p class=\"apoio\"><strong>Campanha de vacinação contra a gripe suína</strong></p><table class=\"tabela\"><thead><tr><th>Datas da vacinação</th><th>Público-alvo</th><th>Quantidade de pessoas vacinadas</th></tr></thead><tbody><tr><td>8 a 19 de março</td><td>Trabalhadores da saúde e indígenas</td><td>42</td></tr><tr><td>22 de março a 2 de abril</td><td>Portadores de doenças crônicas</td><td>22</td></tr><tr><td>5 a 23 de abril</td><td>Adultos saudáveis entre 20 e 29 anos</td><td>56</td></tr><tr><td>24 de abril a 7 de maio</td><td>População com mais de 60 anos</td><td>30</td></tr><tr><td>10 a 21 de maio</td><td>Adultos saudáveis entre 30 e 39 anos</td><td>50</td></tr></tbody></table><p class=\"fonte\">Disponível em: http://img.terra.com.br. Acesso em: 26 abr. 2010 (adaptado).</p><p>Escolhendo-se aleatoriamente uma pessoa atendida nesse posto de vacinação, a probabilidade de ela ser portadora de doença crônica é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "8%.",
+    "B": "9%.",
+    "C": "11%.",
+    "D": "12%.",
+    "E": "22%."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O posto vacinou 42 + 22 + 56 + 30 + 50 = 200 pessoas. Portadores de doenças crônicas foram 22. A probabilidade é 22/200 = <strong>11%</strong>. Alternativa <strong>C</strong>.</p><p>A opção E (22%) usa o número absoluto como se fosse porcentagem.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade simples",
+    "tabela"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 171
+   },
+   "enunciado": "<p>O gráfico mostra a velocidade de conexão à internet utilizada em domicílios no Brasil. Esses dados são resultado da mais recente pesquisa, de 2009, realizada pelo Comitê Gestor da Internet (CGI).</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://agencia.ipea.gov.br. Acesso em: 28 abr. 2010 (adaptado).</p><p>Escolhendo-se, aleatoriamente, um domicílio pesquisado, qual a chance de haver banda larga de conexão de pelo menos 1 Mbps neste domicílio?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q171.webp",
+     "alt": "Gráfico de colunas “% domicílios segundo a velocidade de conexão à internet”: até 256 kbps, 34; de 256 kbps a 1 Mbps, 20; de 1 a 2 Mbps, 15; de 2 a 4 Mbps, 5; de 4 a 8 Mbps, 1; acima de 8 Mbps, 1; não sabe ou não responde, 24."
+    }
+   ],
+   "alternativas": {
+    "A": "0,45",
+    "B": "0,42",
+    "C": "0,30",
+    "D": "0,22",
+    "E": "0,15"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo menos 1 Mbps: de 1 a 2 Mbps (15%), de 2 a 4 (5%), de 4 a 8 (1%) e acima de 8 (1%). Somando, 22%: chance de <strong>0,22</strong>. Alternativa <strong>D</strong>.</p><p>Os 24% que não sabem ou não responderam não entram.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade",
+    "gráfico de colunas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Grafos",
+   "origem": {
+    "numeroOriginal": 172
+   },
+   "enunciado": "<p>Um técnico em refrigeração precisa revisar todos os pontos de saída de ar de um escritório com várias salas.</p><p>Na imagem apresentada, cada ponto indicado por uma letra é a saída do ar, e os segmentos são as tubulações.</p>[[fig:1]]<p>Iniciando a revisão pelo ponto K e terminando em F, sem passar mais de uma vez por cada ponto, o caminho será passando pelos pontos</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q172.webp",
+     "alt": "Esquema de tubulações como um prisma em perspectiva: pontos L, G e F em cima, I e H no meio, K e J embaixo, ligados por segmentos."
+    }
+   ],
+   "alternativas": {
+    "A": "K, I e F.",
+    "B": "K, J, I, G, L e F.",
+    "C": "K, L, G, I, J, H e F.",
+    "D": "K, J, H, I, G, L e F.",
+    "E": "K, L, G, I, H, J e F."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>É preciso ir de K a F passando por todos os pontos uma única vez, seguindo as tubulações. O caminho K, L, G, I, J, H, F usa só ligações existentes e passa pelos sete pontos. Alternativa <strong>C</strong>.</p><p>A opção A pula pontos, e as opções B, D e E usam ligações que não existem na figura ou deixam pontos de fora.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "caminho",
+    "grafo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 173
+   },
+   "enunciado": "<p>O termo agronegócio não se refere apenas à agricultura e à pecuária, pois as atividades ligadas a essa produção incluem fornecedores de equipamentos, serviços para a zona rural, industrialização e comercialização dos produtos.</p><p>O gráfico seguinte mostra a participação percentual do agronegócio no PIB brasileiro:</p>[[fig:1]]<p class=\"fonte\">Centro de Estudos Avançados em Economia Aplicada (CEPEA). Almanaque abril 2010. São Paulo: Abril, ano 36 (adaptado).</p><p>Esse gráfico foi usado em uma palestra na qual o orador ressaltou uma queda da participação do agronegócio no PIB brasileiro e a posterior recuperação dessa participação, em termos percentuais. Segundo o gráfico, o período de queda ocorreu entre os anos de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q173.webp",
+     "alt": "Gráfico de linha da participação do agronegócio no PIB, em %: 1998, 21,33; 1999, 22,24; 2000, 22,87; 2001, 23,26; 2002, 25,31; 2003, 28,28; 2004, 27,79; 2005, 25,83; 2006, 23,92; 2007, 24,74; 2008, 26,46."
+    }
+   ],
+   "alternativas": {
+    "A": "1998 e 2001.",
+    "B": "2001 e 2003.",
+    "C": "2003 e 2006.",
+    "D": "2003 e 2007.",
+    "E": "2003 e 2008."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O gráfico tem o máximo em 2003 (28,28%), cai em 2004 (27,79%), 2005 (25,83%) e 2006 (23,92%), e volta a subir em 2007 (24,74%) e 2008 (26,46%). A queda foi entre <strong>2003 e 2006</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico de linha"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 174
+   },
+   "enunciado": "<p>O setor de recursos humanos de uma empresa vai realizar uma entrevista com 120 candidatos a uma vaga de contador. Por sorteio, eles pretendem atribuir a cada candidato um número, colocar a lista de números em ordem numérica crescente e usá-la para convocar os interessados. Acontece que, por um defeito do computador, foram gerados números com 5 algarismos distintos e, em nenhum deles, apareceram dígitos pares.</p><p>Em razão disso, a ordem de chamada do candidato que tiver recebido o número 75 913 é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "24.",
+    "B": "31.",
+    "C": "32.",
+    "D": "88.",
+    "E": "89."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os números usam os algarismos 1, 3, 5, 7, 9, todos diferentes. Começando por 1, 3 ou 5: 3 × 24 = 72. Começando por 71 ou 73: 2 × 6 = 12 (total 84). Começando por 751 e 753: 2 + 2 = 4 (total 88). O próximo é 75 913, o menor começado por 759. Ele é o <strong>89º</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "permutação",
+    "ordem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 175
+   },
+   "enunciado": "<p>Uma enquete, realizada em março de 2010, perguntava aos internautas se eles acreditavam que as atividades humanas provocam o aquecimento global. Eram três as alternativas possíveis e 279 internautas responderam à enquete, como mostra o gráfico.</p>[[fig:1]]<p class=\"fonte\"><em>Época</em>. Ed. 619, 29 mar. 2010 (adaptado).</p><p>Analisando os dados do gráfico, quantos internautas responderam “NÃO” à enquete?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q175.webp",
+     "alt": "Gráfico de colunas: Sim, 67%; Não, 25%; Não sei avaliar, 8%."
+    }
+   ],
+   "alternativas": {
+    "A": "Menos de 23.",
+    "B": "Mais de 23 e menos de 25.",
+    "C": "Mais de 50 e menos de 75.",
+    "D": "Mais de 100 e menos de 190.",
+    "E": "Mais de 200."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O gráfico mostra 25% de “NÃO”. Dos 279 internautas: 0,25 × 279 ≈ 69,75, ou cerca de 70 pessoas. O número fica <strong>entre 50 e 75</strong>. Alternativa <strong>C</strong>.</p><p>A opção B confunde 25% com 25 pessoas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 41,
+   "materia": "Matemática",
+   "assunto": "Notação científica",
+   "origem": {
+    "numeroOriginal": 176
+   },
+   "enunciado": "<p>A cor de uma estrela tem relação com a temperatura em sua superfície. Estrelas não muito quentes (cerca de 3 000 K) nos parecem avermelhadas. Já as estrelas amarelas, como o Sol, possuem temperatura em torno dos 6 000 K; as mais quentes são brancas ou azuis porque sua temperatura fica acima dos 10 000 K.</p><p>A tabela apresenta uma classificação espectral e outros dados para as estrelas dessas classes.</p><p class=\"apoio\"><strong>Estrelas da Sequência Principal</strong></p><table class=\"tabela\"><thead><tr><th>Classe Espectral</th><th>Temperatura</th><th>Luminosidade</th><th>Massa</th><th>Raio</th></tr></thead><tbody><tr><td>O5</td><td>40 000</td><td>5 × 10<sup>5</sup></td><td>40</td><td>18</td></tr><tr><td>B0</td><td>28 000</td><td>2 × 10<sup>4</sup></td><td>18</td><td>7</td></tr><tr><td>A0</td><td>9 900</td><td>80</td><td>3</td><td>2,5</td></tr><tr><td>G2</td><td>5 770</td><td>1</td><td>1</td><td>1</td></tr><tr><td>M0</td><td>3 480</td><td>0,06</td><td>0,5</td><td>0,6</td></tr></tbody></table><p class=\"fonte\">Temperatura em Kelvin. Luminosidade, massa e raio, tomando o Sol como unidade. Disponível em: http://www.zenite.nu. Acesso em: 1 maio 2010 (adaptado).</p><p>Se tomarmos uma estrela que tenha temperatura 5 vezes maior que a temperatura do Sol, qual será a ordem de grandeza de sua luminosidade?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "20 000 vezes a luminosidade do Sol.",
+    "B": "28 000 vezes a luminosidade do Sol.",
+    "C": "28 850 vezes a luminosidade do Sol.",
+    "D": "30 000 vezes a luminosidade do Sol.",
+    "E": "50 000 vezes a luminosidade do Sol."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O Sol (classe G2) tem 5 770 K. Cinco vezes isso é cerca de 28 850 K, temperatura próxima à da classe B0 (28 000 K), cuja luminosidade é 2 × 10<sup>4</sup> = <strong>20 000 vezes a do Sol</strong>. Alternativa <strong>A</strong>.</p><p>As opções B e C confundem temperatura com luminosidade.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de tabela",
+    "ordem de grandeza"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Matemática financeira",
+   "origem": {
+    "numeroOriginal": 177
+   },
+   "enunciado": "<p>Considere que uma pessoa decida investir uma determinada quantia e que lhe sejam apresentadas três possibilidades de investimento, com rentabilidades líquidas garantidas pelo período de um ano, conforme descritas:</p><ul><li>Investimento A: 3% ao mês</li><li>Investimento B: 36% ao ano</li><li>Investimento C: 18% ao semestre</li></ul><p>As rentabilidades, para esses investimentos, incidem sobre o valor do período anterior. O quadro fornece algumas aproximações para a análise das rentabilidades:</p><table class=\"tabela\"><thead><tr><th>n</th><th>1,03<sup>n</sup></th></tr></thead><tbody><tr><td>3</td><td>1,093</td></tr><tr><td>6</td><td>1,194</td></tr><tr><td>9</td><td>1,305</td></tr><tr><td>12</td><td>1,426</td></tr></tbody></table><p>Para escolher o investimento com a maior rentabilidade anual, essa pessoa deverá</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "escolher qualquer um dos investimentos A, B ou C, pois as suas rentabilidades anuais são iguais a 36%.",
+    "B": "escolher os investimentos A ou C, pois suas rentabilidades anuais são iguais a 39%.",
+    "C": "escolher o investimento A, pois a sua rentabilidade anual é maior que as rentabilidades anuais dos investimentos B e C.",
+    "D": "escolher o investimento B, pois sua rentabilidade de 36% é maior que as rentabilidades de 3% do investimento A e de 18% do investimento C.",
+    "E": "escolher o investimento C, pois sua rentabilidade de 39% ao ano é maior que a rentabilidade de 36% ao ano dos investimentos A e B."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Juros compostos em um ano: A, 1,03<sup>12</sup> ≈ 1,426, ou 42,6%; B, 36%; C, 1,18² = 1,3924, ou cerca de 39,2%. O maior rendimento é o do <strong>investimento A</strong>. Alternativa <strong>C</strong>.</p><p>Somar as taxas (3% × 12 = 36%) ignora os juros sobre juros (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "juros compostos",
+    "comparação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Matemática",
+   "assunto": "Grandezas proporcionais",
+   "origem": {
+    "numeroOriginal": 178
+   },
+   "enunciado": "<p>A resistência das vigas de dado comprimento é diretamente proporcional à largura (b) e ao quadrado da altura (d), conforme a figura. A constante de proporcionalidade k varia de acordo com o material utilizado na sua construção.</p>[[fig:1]]<p>Considerando-se S como a resistência, a representação algébrica que exprime essa relação é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q178.webp",
+     "alt": "Viga em perspectiva com a altura d e a largura b indicadas."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(S = k \\cdot b \\cdot d\\)",
+    "B": "\\(S = b \\cdot d^2\\)",
+    "C": "\\(S = k \\cdot b \\cdot d^2\\)",
+    "D": "\\(S = \\dfrac{k \\cdot b}{d^2}\\)",
+    "E": "\\(S = \\dfrac{k \\cdot d^2}{b}\\)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>S é diretamente proporcional a b e a d², com constante k: \\(S = k \\cdot b \\cdot d^2\\). Alternativa <strong>C</strong>.</p><p>A opção A esquece o quadrado; a B esquece a constante; D e E colocam grandezas no denominador, como se fossem inversamente proporcionais.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade direta"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 179
+   },
+   "enunciado": "<p>Uma empresa de telefonia fixa oferece dois planos aos seus clientes: no plano K, o cliente paga R$ 29,90 por 200 minutos mensais e R$ 0,20 por cada minuto excedente; no plano Z, paga R$ 49,90 por 300 minutos mensais e R$ 0,10 por cada minuto excedente.</p><p>O gráfico que representa o valor pago, em reais, nos dois planos em função dos minutos utilizados é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-matematica/q179a.webp",
+     "alt": "Gráfico A: K constante em 29,90 até 200 min e depois subindo; Z constante em 49,90 até 300 min e depois subindo, sempre acima de K."
+    },
+    {
+     "src": "assets/img/enem-2011-matematica/q179b.webp",
+     "alt": "Gráfico B: K em 29,90 até 200 min, Z em 49,90 até 200 min; as duas sobem e se cruzam perto de 400 min."
+    },
+    {
+     "src": "assets/img/enem-2011-matematica/q179c.webp",
+     "alt": "Gráfico C: K em 29,90 até 200 min e Z em 49,90 até 300 min; as duas sobem juntas pela mesma reta depois de 300 min."
+    },
+    {
+     "src": "assets/img/enem-2011-matematica/q179d.webp",
+     "alt": "Gráfico D: K em 29,90 até 200 min e depois sobe até 89,90 em 500 min; Z em 49,90 até 300 min e depois sobe até 69,90 em 500 min; cruzam-se em 300 min."
+    },
+    {
+     "src": "assets/img/enem-2011-matematica/q179e.webp",
+     "alt": "Gráfico E: K em 29,90 até 300 min, Z em 49,90 até 300 min; as duas sobem e se cruzam perto de 500 min."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Plano K: R$ 29,90 fixo até 200 min e depois sobe R$ 0,20 por minuto, chegando a R$ 89,90 em 500 min. Plano Z: R$ 49,90 fixo até 300 min e depois sobe R$ 0,10 por minuto, chegando a R$ 69,90 em 500 min. O gráfico com esses pontos é o <strong>D</strong>. Alternativa <strong>D</strong>.</p><p>Os dois planos custam o mesmo em 300 min (R$ 49,90), onde as linhas se cruzam.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função definida por partes",
+    "gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Matemática",
+   "assunto": "Função afim",
+   "origem": {
+    "numeroOriginal": 180
+   },
+   "enunciado": "<p>Uma indústria fabrica um único tipo de produto e sempre vende tudo o que produz. O custo total para fabricar uma quantidade q de produtos é dado por uma função, simbolizada por CT, enquanto o faturamento que a empresa obtém com a venda da quantidade q também é uma função, simbolizada por FT. O lucro total (LT) obtido pela venda da quantidade q de produtos é dado pela expressão LT(q) = FT(q) – CT(q).</p><p>Considerando-se as funções FT(q) = 5q e CT(q) = 2q + 12 como faturamento e custo, qual a quantidade mínima de produtos que a indústria terá de fabricar para não ter prejuízo?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0",
+    "B": "1",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Lucro: LT(q) = 5q − (2q + 12) = 3q − 12. Para não ter prejuízo, LT ≥ 0: 3q ≥ 12, ou seja, q ≥ 4. A quantidade mínima é <strong>4</strong>. Alternativa <strong>D</strong>.</p><p>Com 3 produtos (C), o lucro seria −3, prejuízo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "inequação",
+    "lucro"
+   ],
+   "area": "Matemática"
+  }
+ ]
+}

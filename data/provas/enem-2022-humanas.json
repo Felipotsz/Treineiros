@@ -1,0 +1,1183 @@
+{
+ "id": "enem-2022-humanas",
+ "banca": "Enem",
+ "ano": 2022,
+ "titulo": "Enem 2022: Ciências Humanas",
+ "fonte": "Inep",
+ "dataExame": "2022-11-13",
+ "duracaoMinutos": 135,
+ "area": "Ciências Humanas",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Geografia",
+   "assunto": "Clima e sociedade",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\">Espera, resignado, o dia 13 daquele mês porque, em tal data, usança avoenga lhe faculta sondar o futuro, interrogando a providência. É a experiência tradicional de Santa Luzia. No dia 12 ao anoitecer expõe ao relento, em linha, seis pedrinhas de sal, que representam, em ordem sucessiva da esquerda para a direita, os seis meses vindouros, de janeiro a junho. Ao alvorecer de 13 observa-as: se estão intactas, pressagiam a seca; se a primeira apenas se deliu, transmudada em aljôfar límpido, é certa a chuva em janeiro; se a segunda, em fevereiro; se a maioria ou todas, é inevitável o inverno benfazejo. Esta experiência é belíssima.</p><p class=\"fonte\">CUNHA, E. Os sertões. São Paulo: Editora Três, 1984.</p><p>No experimento descrito, a relação com a paisagem e com a religiosidade permite que o sertanejo seja</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "afeito à devoção ao aceitar destinos sacralizados.",
+    "B": "acostumado à pobreza ao admitir acasos naturais.",
+    "C": "habituado ao solo ao conhecer terrenos cultiváveis.",
+    "D": "íntimo à Caatinga ao interpretar condições ambientais.",
+    "E": "próximo à vegetação ao identificar espécies arbustivas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O sertanejo põe seis pedrinhas de sal ao relento e observa quais se dissolvem com a umidade da madrugada para prever em que meses vai chover. É uma leitura do ambiente (umidade do ar, orvalho) misturada à tradição religiosa de Santa Luzia. Ele se mostra <strong>íntimo à Caatinga ao interpretar condições ambientais</strong>. Alternativa <strong>D</strong>.</p><p>O texto não fala de aceitar destinos (A), de pobreza (B), de solos (C) ou de vegetação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Euclides da Cunha",
+    "saberes tradicionais"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "Filosofia",
+   "assunto": "Filosofia política",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">Sempre que a relevância do discurso entra em jogo, a questão torna-se política por definição, pois é o discurso que faz do homem um ser político. E tudo que os homens fazem, sabem ou experimentam só tem sentido na medida em que pode ser discutido. Haverá, talvez, verdades que ficam além da linguagem e que podem ser de grande relevância para o homem no singular, isto é, para o homem que, seja o que for, não é um ser político. Mas homens no plural, isto é, os homens que vivem e se movem e agem neste mundo, só podem experimentar o significado das coisas por poderem falar e ser inteligíveis entre si e consigo mesmos.</p><p class=\"fonte\">ARENDT, H. A condição humana. Rio de Janeiro: Forense Universitária, 2004.</p><p>No trecho, a filósofa Hannah Arendt mostra a importância da linguagem no processo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "entendimento da cultura.",
+    "B": "aumento da criatividade.",
+    "C": "percepção da individualidade.",
+    "D": "melhoria da técnica.",
+    "E": "construção da sociabilidade."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para Arendt, é o discurso que faz do homem um ser político: os homens no plural só dão sentido às coisas porque podem falar e ser entendidos uns pelos outros. A linguagem é base da <strong>construção da sociabilidade</strong>. Alternativa <strong>E</strong>.</p><p>O trecho opõe o homem no singular ao homem no plural; não trata de cultura em geral (A), criatividade (B), individualidade (C) ou técnica (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Hannah Arendt",
+    "linguagem"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "Sociologia",
+   "assunto": "Desigualdade racial",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p class=\"apoio\">Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos no regime da chibata?</p><p class=\"fonte\">JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.</p><p>O texto, que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o(a):</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Racismo estrutural.",
+    "B": "Desemprego latente.",
+    "C": "Concentração de renda.",
+    "D": "Exclusão informacional.",
+    "E": "Precariedade da educação."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Carolina Maria de Jesus conta que um guarda branco espancou um homem negro e o amarrou numa árvore, e pergunta se o guarda “ignora que já foi extinta a escravidão”. A violência contra pessoas negras, herdada da escravidão e repetida pelas instituições, é o <strong>racismo estrutural</strong>. Alternativa <strong>A</strong>.</p><p>Desemprego, renda, informação e educação (B a E) não são o tema do relato.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Carolina Maria de Jesus",
+    "racismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "Geografia",
+   "assunto": "Hidrografia",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021 (adaptado).</p><p>A intensificação da ocupação urbana demonstrada afeta de forma imediata o(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2022-humanas/q49.webp",
+     "alt": "Quatro esquemas do destino da água da chuva conforme a superfície impermeável: cobertura natural do solo (evapotranspiração 40%, escoamento superficial 10%, infiltração subsuperficial 25%, percolação profunda 25%); 10–20% impermeável (38%, 20%, 21%, 21%); 35–50% impermeável (35%, 30%, 20%, 15%); 75–100% impermeável, numa cidade com prédios (30%, 55%, 10%, 5%)."
+    }
+   ],
+   "alternativas": {
+    "A": "nível altimétrico.",
+    "B": "ciclo hidrológico.",
+    "C": "padrão climático.",
+    "D": "tectônica de placas.",
+    "E": "estrutura das rochas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O esquema mostra que, quanto mais o solo é impermeabilizado (de 0% a 100%), mais a água escoa pela superfície (de 10% para 55%) e menos infiltra e evapora. A urbanização muda os caminhos da água da chuva, isto é, o <strong>ciclo hidrológico</strong>, com efeitos imediatos como enchentes. Alternativa <strong>B</strong>.</p><p>Altitude, tectônica e rochas (A, D e E) não mudam com a ocupação; o clima (C) pode mudar, mas não de forma imediata.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "impermeabilização",
+    "urbanização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"apoio\">Na construção da ferrovia Madeira-Mamoré, o que dizer dos doentes, eternos moribundos a vagar entre delírios febris, doses de quinino e corredores da morte? O Hospital da Candelária era santuário e túmulo, monumento ao progresso científico e preâmbulo da escuridão. Foi ali, com suas instalações moderníssimas, que médicos e sanitaristas dirigiram seu combate aos males tropicais. As maiores vítimas, contudo, permaneceriam na sombra à margem do palco, cobaias sem consolo, credores sem nome de uma sociedade que não lhes concedera tempo algum para ser decifrada.</p><p class=\"fonte\">FOOT HARDMAN, F. Trem fantasma: modernidade na selva. São Paulo: Cia. das Letras, 1988 (adaptado).</p><p>No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "discrepância entre engenharia ambiental e equilíbrio da fauna.",
+    "B": "incoerência entre maquinaria estrangeira e controle da floresta.",
+    "C": "incompatibilidade entre investimento estatal e proteção aos nativos.",
+    "D": "competição entre farmacologia internacional e produtos da fitoterapia.",
+    "E": "contradição entre desenvolvimento nacional e respeito aos trabalhadores."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto descreve o hospital moderníssimo da Madeira-Mamoré, “monumento ao progresso científico”, enquanto os trabalhadores doentes ficavam “na sombra”, “cobaias sem consolo, credores sem nome”. A crítica é a <strong>contradição entre desenvolvimento nacional e respeito aos trabalhadores</strong>. Alternativa <strong>E</strong>.</p><p>O texto não opõe engenharia e fauna (A), máquinas e floresta (B), investimento estatal e nativos (C) nem farmacologia e fitoterapia (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Madeira-Mamoré",
+    "trabalhadores"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\">Uma nova economia surgiu em escala global no último quartel do século XX. Chamo-a de informacional, global e em rede para identificar suas características fundamentais e diferenciadas e enfatizar sua interligação. É informacional porque depende basicamente de sua capacidade de gerar, processar e aplicar de forma eficiente a informação baseada em conhecimentos. É global porque seus componentes estão organizados em escala global, diretamente ou mediante uma rede de conexões entre agentes econômicos. É rede porque é feita em uma rede global de interação entre redes empresariais.</p><p class=\"fonte\">CASTELLS, M. A sociedade em rede — a era da informação: economia, sociedade e cultura. São Paulo: Paz e Terra, 1999 (adaptado).</p><p>Qual mudança estrutural é resultado da forma de organização econômica descrita no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Fabricação em série.",
+    "B": "Ampliação de estoques.",
+    "C": "Fragilização dos cartéis.",
+    "D": "Padronização de mercadorias.",
+    "E": "Desterritorialização da produção."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Castells descreve uma economia informacional, global e em rede: os componentes da produção ficam organizados em escala mundial, ligados por redes de empresas. Uma mesma mercadoria pode ser projetada num país, fabricada em outro e montada num terceiro: é a <strong>desterritorialização da produção</strong>. Alternativa <strong>E</strong>.</p><p>Produção em série, estoques grandes e padronização (A, B e D) são marcas do fordismo, anterior a essa economia; o texto não fala de cartéis (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Castells",
+    "economia em rede"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "Geografia",
+   "assunto": "Espaço rural",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">VANDER LEE. Do Brasil. In: Pensei que fosse o céu: ao vivo. Rio de Janeiro: Indie Records, 2006 (fragmento).</p><p>A letra da canção valoriza uma dimensão do espaço rural brasileiro em sua relação com a cidade ao ressaltar sua função de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2022-humanas/q52.webp",
+     "alt": "Trecho da letra “Do Brasil”, de Vander Lee, como aparece na prova: os versos dizem que olhar o Brasil sem ver o sertão é negar sua base, que o país que cresce com tijolo e cimento precisa de comida na mesa, e agradecem a trabalhadores rurais que plantam, colhem cacau e trabalham no milharal."
+    }
+   ],
+   "alternativas": {
+    "A": "fornecer a mão de obra qualificada.",
+    "B": "incorporar a inovação tecnológica.",
+    "C": "preservar a diversidade biológica.",
+    "D": "promover a produção alimentar.",
+    "E": "garantir a moradia básica."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A canção diz que o “gigante” urbano, “movido a tijolo e cimento”, precisa de “arroz com feijão”, e agradece a quem planta, colhe cacau e trabalha no milharal. Valoriza o campo por sua função de <strong>promover a produção alimentar</strong> para a cidade. Alternativa <strong>D</strong>.</p><p>A letra não fala de mão de obra qualificada (A), tecnologia (B), biodiversidade (C) ou moradia (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "campo e cidade",
+    "canção"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\">O número cada vez maior de mulheres letradas e interessadas pela literatura e pelas novelas, muitas divulgadas em capítulos, seções, classificadas comumente como folhetim, alçou a um gênero de ficção corrente já em 1840, fazendo parte do florescimento da literatura nacional brasileira, instigando a formação e a ampliação de um público leitor feminino, ávido por novidades, pelo apelo dos folhetins e “narrativas modernas” que encenavam “os dramas e os conflitos de uma mulher em processo de transformação patriarcal e provinciana que, progressivamente, começava a se abrir para modernizar seus costumes”. No Segundo Reinado, as mulheres foram se tornando público determinante na construção da literatura e da imprensa nacional. E não apenas público, porquanto crescerá o número de escritoras que colaboram para isso e emergirá uma imprensa feminina, editada, escrita e dirigida por e para mulheres.</p><p class=\"fonte\">ABRANTES, A. Do álbum de família à vitrine impressa: trajetos de retratos (PB, 1920), Revista Temas em Educação, n. 24, 2015 (adaptado).</p><p>O registro das atividades descritas associa a inserção da figura feminina nos espaços de leitura e escrita do Segundo Reinado ao(à)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "surgimento de novas práticas culturais.",
+    "B": "contestação de antigos hábitos masculinos.",
+    "C": "valorização de recentes publicações juvenis.",
+    "D": "circulação de variados manuais pedagógicos.",
+    "E": "aparecimento de diversas editoras comerciais."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto mostra mulheres lendo folhetins, formando um público leitor e, depois, escrevendo e dirigindo uma imprensa feminina no Segundo Reinado. A inserção da mulher na leitura e na escrita se liga ao <strong>surgimento de novas práticas culturais</strong>. Alternativa <strong>A</strong>.</p><p>O texto não fala de contestar hábitos masculinos (B), de publicações juvenis (C), de manuais pedagógicos (D) ou de editoras comerciais (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mulheres",
+    "imprensa"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"apoio\">Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas.</p><p class=\"fonte\">POPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016 (adaptado).</p><p>A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "manutenção das regras patronais.",
+    "B": "desprendimento das ideias liberais.",
+    "C": "fortalecimento dos contratos laborais.",
+    "D": "consolidação das estruturas sindicais.",
+    "E": "contestação dos princípios monárquicos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na década de 1880, os caixeiros se organizaram, exigiram direitos e foram às ruas ao lado de republicanos e abolicionistas. Na capital do Império, essa atuação foi um momento de <strong>contestação dos princípios monárquicos</strong>, num período de crise da monarquia. Alternativa <strong>E</strong>.</p><p>Eles questionavam as regras patronais (A); sindicatos e contratos de trabalho estáveis (C e D) ainda não existiam; e não se afastaram das ideias liberais (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "movimentos sociais",
+    "crise do Império"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 10,
+   "materia": "Geografia",
+   "assunto": "Solos",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p class=\"apoio\">Solos salinos ou alomórficos apresentam como característica comum uma concentração muito alta de sais solúveis e/ou de sódio trocável. Eles ocorrem nos locais mais baixos do relevo, em regiões áridas e semiáridas e próximas do mar. Em regiões semiáridas, por exemplo, o polígono das secas do Nordeste brasileiro, os locais menos elevados recebem água que se escoa dos declives adjacentes, durante as chuvas que caem em alguns meses do ano. Essa água traz soluções de sais minerais e evapora-se rapidamente antes de infiltrar-se totalmente, havendo então, cada vez que esse processo é repetido, um pequeno acúmulo de sais no horizonte superficial que, com o passar dos anos, provoca a salinização do solo. Nas últimas décadas, a expansão das atividades agrícolas na região tem ampliado esse processo.</p><p class=\"fonte\">LEPSCH, I. F. Solos: formação e conservação. São Paulo: Melhoramentos, 1993 (adaptado).</p><p>As atividades agrícolas, desenvolvidas na região mencionada, intensificam o problema ambiental exposto ao</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "realizar florestamentos de pinus, desrespeitando a prática do pousio.",
+    "B": "utilizar sistemas de irrigação, desprezando uma drenagem adequada.",
+    "C": "instalar açudes nos grotões, retardando a velocidade da vazão fluvial.",
+    "D": "desmatar áreas de preservação permanente, causando assoreamento.",
+    "E": "aplicar fertilizantes de origem orgânica, modificando a química da terra."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A salinização acontece quando a água evapora antes de infiltrar e deixa os sais na superfície. A irrigação no Semiárido, sem drenagem que leve o excesso de água e sais embora, repete esse processo a cada rega. As atividades agrícolas agravam o problema ao <strong>utilizar sistemas de irrigação, desprezando uma drenagem adequada</strong>. Alternativa <strong>B</strong>.</p><p>Pinus, açudes, desmatamento e adubo orgânico (A, C, D e E) não explicam o acúmulo de sais descrito.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "salinização",
+    "irrigação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "Sociologia",
+   "assunto": "Desigualdade social",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p>[[fig:1]]<p class=\"fonte\">CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">É como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?</p><p class=\"fonte\">ASSIS, A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).</p><p>A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporânea:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2022-humanas/q56.webp",
+     "alt": "Charge: numa favela de casas de madeira amontoadas, uma voz pergunta “Tá estudando, Júnior?” e o menino, em cima do telhado segurando o celular preso a uma vara, responde: “Calma, tô tentando achar um sinal de wi-fi!”."
+    }
+   ],
+   "alternativas": {
+    "A": "Exclusão social.",
+    "B": "Expansão digital.",
+    "C": "Manifestação cultural.",
+    "D": "Organização espacial.",
+    "E": "Valorização intelectual."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na charge, o menino sobe no telhado de uma casa precária tentando “achar um sinal de wi-fi” para estudar; o texto diz que muitos estudantes não têm internet, computador ou pacote de dados para as aulas remotas da pandemia. Os dois mostram a <strong>exclusão social</strong>, que a pandemia só deixou visível. Alternativa <strong>A</strong>.</p><p>A falta de acesso é o oposto de expansão digital (B); não há manifestação cultural, organização espacial ou valorização intelectual (C, D e E) em jogo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "exclusão digital",
+    "pandemia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 12,
+   "materia": "Filosofia",
+   "assunto": "Poder",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p class=\"apoio\">O leproso é visto dentro de uma prática da rejeição, do exílio-cerca; deixa-se que se perca lá dentro como numa massa que não tem muita importância diferenciar; os pestilentos são considerados num policiamento tático meticuloso onde as diferenciações individuais são os efeitos limitantes de um poder que se multiplica, se articula e se subdivide. O grande fechamento por um lado; o bom treinamento por outro. A lepra e sua divisão; a peste e seus recortes. Uma é marcada; a outra, analisada e repartida. O exílio do leproso e a prisão da peste não trazem consigo o mesmo sonho político.</p><p class=\"fonte\">FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987.</p><p>Os modelos autoritários descritos no texto apontam para um sistema de controle que se baseia no(a):</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Formação de sociedade disciplinar.",
+    "B": "Flexibilização do regramento social.",
+    "C": "Banimento da autoridade repressora.",
+    "D": "Condenação da degradação humana.",
+    "E": "Hierarquização da burocracia estatal."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Foucault compara dois modelos: a lepra, tratada pela exclusão em massa, e a peste, tratada por um controle minucioso, que observa, separa e treina cada indivíduo. Esse “bom treinamento”, o poder que se multiplica e se subdivide, é a base da <strong>sociedade disciplinar</strong>. Alternativa <strong>A</strong>.</p><p>O texto mostra regras mais rígidas, não flexíveis (B), não fala de abolir a autoridade (C), de condenar a degradação (D) ou de burocracia (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Foucault",
+    "disciplina"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 13,
+   "materia": "História",
+   "assunto": "Religiosidade",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Em março de 1889, quando apareceram as primeiras romarias atraídas pelos milagres da beata Maria de Araújo, Juazeiro inseriu-se no rol da fundação do espaço religioso. Construía-se mais um centro, como Aparecida do Norte, Canindé ou Lourdes.</p><p class=\"fonte\">RAMOS, F. R. L. O meio do mundo: território sagrado em Juazeiro do Padre Cícero. Fortaleza: Imprensa Universitária, 2014.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Não sabemos ao certo quantas pessoas estavam presentes na capela no momento em que a hóstia sangrou na boca de Maria de Araújo. O Padre Cícero nos conta que o fato surpreendeu não só aos presentes, mas a própria beata parecia atordoada com o ocorrido. O fenômeno continuou acontecendo todas as quartas e sextas na Capela de Nossa Senhora das Dores a partir daquele dia. Os paninhos manchados do sangue que escorria da hóstia e da boca da beata, a princípio, ficaram sob a guarda do Padre Cícero, mas logo foram expostos à visitação pública e, além disso, o sangramento foi proclamado como milagre sem o conhecimento e sem a autorização do bispo diocesano.</p><p class=\"fonte\">NOBRE, E. Incêndios da alma. Rio de Janeiro: Multifoco, 2016 (adaptado).</p><p>As práticas religiosas mencionadas nos textos estão associadas, respectivamente, à:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Delimitação de paisagens urbanas e abandono de componentes espiritualistas.",
+    "B": "Demarcação de patrimônios afetivos e apropriação de elementos judaizantes.",
+    "C": "Expansão de fronteiras regionais e subjetivação do cristianismo medieval.",
+    "D": "Circunscrição de bens simbólicos e admissão de cerimônias ecumênicas.",
+    "E": "Criação de lugares místicos e experiências do catolicismo popular."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto I mostra Juazeiro se tornando centro de romarias, como Aparecida: a <strong>criação de um lugar místico</strong>. O texto II narra o milagre da hóstia que sangrou na boca da beata Maria de Araújo, proclamado sem autorização do bispo: uma <strong>experiência do catolicismo popular</strong>. Alternativa <strong>E</strong>.</p><p>Não há abandono do espiritual (A), elementos judaicos (B), cristianismo medieval (C) ou cerimônias ecumênicas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Padre Cícero",
+    "catolicismo popular"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "Geografia",
+   "assunto": "Agricultura familiar",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p class=\"apoio\">Em 2003, teve início o Programa de Aquisição de Alimentos e, com ele, várias mudanças na perspectiva dos mercados institucionais. Trata-se do primeiro programa de compras públicas com uma orientação exclusiva para a agricultura familiar, articulando-a explicitamente com a segurança alimentar e nutricional. O Programa é destinado à aquisição de produtos agropecuários produzidos por agricultores enquadrados no Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), incluídas aqui as categorias: assentados da reforma agrária, trabalhadores rurais sem terra, acampados, quilombolas, agroextrativistas, famílias atingidas por barragens e comunidades indígenas.</p><p class=\"fonte\">GRISA, C.; ISOPO, S. P. Dez anos de PAA: As contribuições e os desafios para o desenvolvimento rural. In: GRISA, C.; SCHNEIDER, S. (Org.). Políticas públicas de desenvolvimento rural no Brasil. Porto Alegre: UFRGS, 2015.</p><p>A ação governamental descrita constitui-se uma importante conquista para os pequenos produtores em virtude da:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Inovação tecnológica.",
+    "B": "Reestruturação fundiária.",
+    "C": "Comercialização garantida.",
+    "D": "Eliminação no custo do frete.",
+    "E": "Negociação na bolsa de valores."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O Programa de Aquisição de Alimentos é uma compra pública destinada só à agricultura familiar: o governo compra o que esses pequenos produtores plantam. A conquista é a <strong>comercialização garantida</strong>. Alternativa <strong>C</strong>.</p><p>O programa não trata de tecnologia (A), reforma agrária (B), frete (D) ou bolsa de valores (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "PAA",
+    "políticas públicas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "Sociologia",
+   "assunto": "Tecnologia e sociedade",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p class=\"apoio\">Um experimento denominado FunFit foi desenvolvido com o objetivo de fazer com que os membros de uma comunidade local se tornassem mais ativos fisicamente. Todos os participantes do estudo foram vinculados a dois outros membros da comunidade que receberiam pequenos incentivos em dinheiro para serem estimulados a aumentar a sua atividade física, que era medida por acelerômetros nos celulares fornecidos pelo estado. Assim, se a pessoa andasse mais do que o habitual, seus conhecidos receberiam o dinheiro. Os resultados foram assombrosos: o esquema mostrou-se de quatro a oito vezes mais eficaz do que o método de oferecer incentivos individuais.</p><p class=\"fonte\">MOROZOV, E. Big Tech: a ascensão dos dados e a morte da política. São Paulo: Ubu, 2018 (adaptado).</p><p>Contrariando a visão prevalente sobre o impacto tecnológico nas relações humanas, o texto revela que os celulares podem desempenhar uma função</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "recreativa, promovendo o lazer em redes integradas.",
+    "B": "social, estimulando a reciprocidade por meios digitais.",
+    "C": "laboral, convertendo o desenvolvedor em usuário final.",
+    "D": "comercial, direcionando a escolha por produtos industrializados.",
+    "E": "cognitiva, favorecendo a aprendizagem pelas ferramentas virtuais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No FunFit, se a pessoa andava mais, eram seus conhecidos que ganhavam dinheiro, e o esquema foi muito mais eficaz que o incentivo individual. Ao contrário da ideia de que o celular isola, ele teve uma função <strong>social, estimulando a reciprocidade por meios digitais</strong>. Alternativa <strong>B</strong>.</p><p>O texto não fala de lazer (A), trabalho (C), consumo (D) ou aprendizagem (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "redes",
+    "reciprocidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "Sociologia",
+   "assunto": "Trabalho",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p class=\"apoio\">A dublagem é o novo campo a ser explorado pela inteligência artificial, e há empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. A novidade reforça a tendência da automação de postos de trabalho nas mais diversas áreas. Tem potencial para facilitar a vida de estúdios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso.</p><p class=\"fonte\">GAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.</p><p>A consequência da mudança tecnológica apresentada no texto é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "proteção da economia nacional.",
+    "B": "valorização da cultura tradicional.",
+    "C": "diminuição da formação acadêmica.",
+    "D": "estagnação da manifestação artística.",
+    "E": "ampliação do desemprego estrutural."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A inteligência artificial passa a fazer a dublagem, automatizando um trabalho antes humano e tornando “mais escassas as oportunidades” para dubladores e atores. É a <strong>ampliação do desemprego estrutural</strong>, causado por mudanças na forma de produzir. Alternativa <strong>E</strong>.</p><p>O texto não fala de economia nacional (A), cultura tradicional (B), formação acadêmica (C) ou estagnação artística (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "automação",
+    "desemprego estrutural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Geografia",
+   "assunto": "Blocos econômicos",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p class=\"apoio\">Brasil e Argentina chegaram a um acordo para a redução em 10% da Tarifa Externa Comum (TEC) do Mercosul. O consenso foi alcançado durante negociação entre o ministro das Relações Exteriores do Brasil e o seu equivalente argentino, no Palácio do Itamaraty, em Brasília, no início do mês de outubro de 2021. A redução da TEC é um antigo desejo do Brasil, que pretende abrir mais sua economia e, com isso, ajudar a controlar a inflação. Já a Argentina temia que a medida pudesse afetar sua produção industrial. O acordo vai abranger uma ampla gama de produtos e ainda será apresentado ao Paraguai e Uruguai, para que seja formalizado.</p><p class=\"fonte\">Brasil e Argentina fecham acordo para corte de 10% na tarifa do Mercosul. Disponível em: https://oglobo.globo.com. Acesso em: 8 out. 2021 (adaptado).</p><p>A necessidade de negociação diplomática para viabilizar o acordo tarifário mencionado é explicada pela seguinte característica do Mercosul:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Limitação da circulação financeira.",
+    "B": "Padronização da política monetária.",
+    "C": "Funcionamento da união aduaneira.",
+    "D": "Dependência da exportação agrícola.",
+    "E": "Equivalência da legislação trabalhista."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A Tarifa Externa Comum é o imposto de importação igual que os membros do Mercosul cobram de países de fora do bloco. Por ser comum, um país não pode mudá-la sozinho: Brasil e Argentina tiveram de negociar e levar o acordo a Paraguai e Uruguai. Isso decorre do <strong>funcionamento da união aduaneira</strong>. Alternativa <strong>C</strong>.</p><p>O Mercosul não tem moeda ou política monetária comum (B) nem legislação trabalhista igual (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Mercosul",
+    "TEC"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p class=\"apoio\">Ainda que a fome ocorrida na Itália em 536 tenha origem nos eventos climáticos, suas implicações são tanto políticas quanto econômicas. Nos primeiros séculos da Idade Média, o auxílio aos famintos se inscreve no domínio da gestão pública, mesmo quando a ação de seus agentes é apresentada sob o ângulo da piedade e da caridade individuais, como é o caso da Gália merovíngia. Assim, o fato de que as respostas à fome são mostradas, na Gália, como o fruto de iniciativas pessoais fundadas no imperativo da caridade deriva da natureza das fontes do século VI.</p><p class=\"fonte\">SILVA, M. C. Os agentes públicos e a fome nos primeiros séculos da Idade Média. Varia Historia, n. 60, set.-dez. 2016 (adaptado).</p><p>Na conjuntura histórica destacada no texto, o dever de agir em face da situação de crise apresentada pertencia à jurisdição</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "da nobreza, proveniente da obrigação de proteção ao campesinato livre.",
+    "B": "da realeza, decorrente do conceito de governo subjacente à monarquia cristã.",
+    "C": "dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.",
+    "D": "dos bispados, consequente da participação dos clérigos nos assuntos comunitários.",
+    "E": "das corporações, procedente do padrão assistencialista previsto nas normas estatutárias."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que, no início da Idade Média, o socorro aos famintos era parte da gestão pública, mesmo quando apresentado como caridade. Na monarquia cristã merovíngia, governar incluía proteger os súditos: o dever cabia à <strong>realeza, decorrente do conceito de governo subjacente à monarquia cristã</strong>. Alternativa <strong>B</strong>.</p><p>Nobreza, mosteiros, bispados e corporações (A, C, D e E) agiam por caridade individual, que o texto diz ser só a forma como as fontes apresentam a ação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "merovíngios",
+    "monarquia cristã"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "Geografia",
+   "assunto": "Geologia",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p class=\"apoio\">As forças tectônicas dentro da litosfera, controladas pelo calor interno das profundezas, geram terremotos, erupções e soerguimento de montanhas. As forças meteorológicas dentro da atmosfera e da hidrosfera, controladas pelo calor do Sol, produzem tempestades, inundações, geleiras e outros agentes de erosão.</p><p class=\"fonte\">PRESS, F. et al. Para entender a Terra. Porto Alegre: Bookman, 2006 (adaptado).</p><p>A interação dinâmica entre as forças naturais citadas favorece a ocupação do espaço geográfico, na medida em que provoca a formação de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "solos vulcânicos.",
+    "B": "dorsais oceânicas.",
+    "C": "relevos escarpados.",
+    "D": "superfícies lateríticas.",
+    "E": "dobramentos modernos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As forças internas trazem material novo à superfície (vulcanismo) e as externas (chuva, erosão) o decompõem. Os <strong>solos vulcânicos</strong>, formados pelo intemperismo de rochas como o basalto, são muito férteis e atraem ocupação humana, como a terra roxa no Brasil ou as encostas vulcânicas da Itália e da Indonésia. Alternativa <strong>A</strong>.</p><p>Dorsais oceânicas ficam no fundo do mar (B); relevos escarpados e dobramentos (C e E) dificultam a ocupação; solos lateríticos (D) são pobres.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vulcanismo",
+    "intemperismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "Sociologia",
+   "assunto": "Violência de gênero",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: https://ndmais.com.br. Acesso em: 8 out. 2021.</p><p>O ápice da ilustração se traduz por uma conduta social caracterizada pela</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2022-humanas/q65.webp",
+     "alt": "Espiral subindo, com três momentos que se repetem em ciclos cada vez maiores: Tensão (insulto, humilhação, intimidação, gritos, ameaça, controle, isolamento, medo, conflitos), Agressão (empurrão, beliscão, puxão de cabelo, sufocamento, arremesso de objetos, tapa, chute, espancamento) e Lua de mel (carinho, paixão, presentes, promessas, reconciliação, liberdade). No topo da espiral, uma cruz e a palavra “Morte”."
+    }
+   ],
+   "alternativas": {
+    "A": "cultura do cancelamento.",
+    "B": "prática do feminicídio.",
+    "C": "postura negacionista.",
+    "D": "ação involuntária.",
+    "E": "defesa da honra."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A ilustração mostra o ciclo da violência doméstica: tensão, agressão e “lua de mel” (promessas e reconciliação) se repetem numa espiral cada vez mais grave, até chegar à cruz e à palavra “morte” no topo. O ápice é a <strong>prática do feminicídio</strong>. Alternativa <strong>B</strong>.</p><p>Cancelamento, negacionismo e “defesa da honra” (A, C e E) não correspondem ao topo da espiral; a violência não é involuntária (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo da violência",
+    "feminicídio"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">A primeira grande lei educacional do Brasil, de 1827, determinava que, nas “escolas de primeiras letras” do Império, meninos e meninas estudassem separados e tivessem currículos diferentes. No Senado, o Visconde de Cayru foi um dos defensores de que o currículo de matemática das garotas fosse o mais enxuto possível. Nas palavras dele, o “belo sexo” não tinha capacidade intelectual para ir muito longe: — Sobre as contas, são bastantes [para as meninas] as quatro espécies, que não estão fora do seu alcance e lhes podem ser de constante uso na vida.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">No Senado, o único a defender publicamente que as meninas tivessem, em matemática, um currículo idêntico ao dos meninos foi o Marquês de Santo Amaro (RJ). Ele argumentou: — Não me parece conforme, às luzes do tempo em que vivemos, deixarmos de facilitar às brasileiras a aquisição desses conhecimentos [mais aprofundados de matemática]. A oposição que se manifesta não pode nascer senão do arraigado e péssimo costume em que estavam os antigos, os quais nem queriam que suas filhas aprendessem a ler.</p><p class=\"fonte\">WESTIN, R. Senado Notícias. Disponível em: www12.senado.leg.br. Acesso em: 20 out. 2021 (adaptado).</p><p>Os discursos expressam pontos de vista divergentes respectivamente pela oposição entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "liberdade de gênero e controle social.",
+    "B": "equidade de escolha e imposição cultural.",
+    "C": "dominação de corpos e igualdade humana.",
+    "D": "geração de oportunidade e restrição profissional.",
+    "E": "exclusão de competências e participação política."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O Visconde de Cayru defende um currículo mínimo de matemática para as meninas, por julgar que não tinham capacidade (exclusão de competências). O Marquês de Santo Amaro defende o mesmo currículo para meninos e meninas, conforme “as luzes do tempo” (igualdade). A oposição é entre <strong>dominação de corpos e igualdade humana</strong>. Alternativa <strong>C</strong>.</p><p>O debate não é de liberdade de gênero (A), escolha (B), carreira (D) ou participação política (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "educação feminina",
+    "lei de 1827"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "Sociologia",
+   "assunto": "Movimentos sociais",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "<p class=\"apoio\">Após sete anos da ocupação de um terreno abandonado em Santo André, no ABC paulista, os condomínios Novo Pinheirinho e Santos Dias foram inaugurados, com a presença de representantes dos governos federal, estadual e municipal. A ocupação começou em 2012 e, desde então, o movimento vinha reivindicando o direito de usufruir do espaço para a construção de casas. A Carta Magna, em seu art. 6º, garante a todos os brasileiros o direito à moradia.</p><p class=\"fonte\">PUTTI, A. Disponível em: www.cartacapital.com.br. Acesso em: 13 nov. 2021 (adaptado).</p><p>O texto apresenta uma estratégia usada pelo movimento social para</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fragilizar o poder público.",
+    "B": "fomentar a economia solidária.",
+    "C": "controlar a propriedade estatal.",
+    "D": "garantir o preceito constitucional.",
+    "E": "incentivar a especulação imobiliária."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O movimento ocupou um terreno abandonado e reivindicou seu uso para moradia, citando a Constituição, que no art. 6º garante o direito à moradia. Depois de sete anos, os condomínios foram inaugurados. A estratégia serviu para <strong>garantir o preceito constitucional</strong>. Alternativa <strong>D</strong>.</p><p>A conquista contou com o poder público (A); não houve economia solidária (B), controle de propriedade estatal (C) ou especulação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "direito à moradia",
+    "ocupação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">A Marinha identifica, na voz de Thomas Barnett, uma ampla região potencialmente insubmissa ou simplesmente irredutível às normas gerais de funcionamento promovidas pelos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente por sua consciência rebelde, mas sim, em muitos casos, pela insubstancialidade de suas instituições estatais.</p><p class=\"apoio\"><strong>TEXTO II</strong></p>[[fig:1]]<p class=\"fonte\">CECEÑA, A. E. Hegemonias e emancipações no século XXI. Buenos Aires: Clacso, 2005.</p><p>As preocupações do governo estadunidense expressas no texto e no mapa evidenciam uma estratégia para</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2022-humanas/q68.webp",
+     "alt": "Mapa-múndi com manchas de “alta densidade e variedade germoplásmica” e de “petróleo e gás”, e uma linha tracejada contornando a “brecha” crítica do “Novo Mapa do Pentágono”: parte da América Latina, a África, o Oriente Médio e partes da Ásia."
+    }
+   ],
+   "alternativas": {
+    "A": "compartilhamento de inovações tecnológicas.",
+    "B": "promoção de independência financeira.",
+    "C": "incremento de intercâmbios culturais.",
+    "D": "ampliação de influência econômica.",
+    "E": "preservação de recursos naturais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto e o mapa mostram a preocupação dos EUA com regiões “insubmissas” às regras do FMI, da OMC e do Banco Mundial, muitas delas ricas em petróleo, gás e biodiversidade. A estratégia é garantir acesso a esses recursos e às regras do mercado: <strong>ampliação de influência econômica</strong>. Alternativa <strong>D</strong>.</p><p>Não se trata de compartilhar tecnologia (A), promover independência (B), intercâmbio cultural (C) ou preservação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Estados Unidos",
+    "hegemonia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p class=\"apoio\">Colegas, na mente e no coração do povo, a Crimeia sempre foi uma porção inseparável da Rússia. Essa firme convicção se baseia na verdade e na justiça e foi passada de geração em geração, ao longo do tempo, sob quaisquer circunstâncias, apesar de todas as drásticas mudanças que nosso país atravessou durante todo o século XX.</p><p class=\"fonte\">Disponível em: http://g1.globo.com. Acesso em: 28 jul. 2014.</p><p>Considerando a dinâmica geopolítica subjacente ao texto, a justificativa utilizada por Vladimir Putin, em 2014, para anexação dessa península apela para o argumento de que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as populações com idioma comum devem estar submetidas à mesma autoridade estatal.",
+    "B": "o imperialismo soviético havia se acomodado às pretensões das potências vizinhas.",
+    "C": "os organismos transnacionais são incapazes de solucionar disputas territoriais.",
+    "D": "a integração regional supõe a livre circulação de pessoas e mercadorias.",
+    "E": "a expulsão das forças navais ocidentais garantiria a soberania nacional."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Putin diz que a Crimeia sempre foi “parte inseparável da Rússia” no coração do povo, convicção passada de geração em geração. A maioria da população da península fala russo e se identifica com a Rússia: o argumento é que <strong>populações com idioma comum devem estar submetidas à mesma autoridade estatal</strong>. Alternativa <strong>A</strong>.</p><p>O discurso não fala de imperialismo soviético (B), organismos internacionais (C), integração regional (D) ou forças navais ocidentais (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Crimeia",
+    "Rússia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "Sociologia",
+   "assunto": "Desigualdade social",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Interseccionalidade: intercruzamento de desigualdades que gera padrões complexos de discriminação.</p><p class=\"apoio\"><strong>TEXTO II</strong></p>[[fig:1]]<p class=\"fonte\">Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.</p><p>Considerando o conceito apresentado no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2022-humanas/q70.webp",
+     "alt": "Gráfico de barras “Proporção de pessoas abaixo da linha de pobreza, por arranjo domiciliar no Brasil — 2017”: mulher sem cônjuge e com filho(s) até 14 anos, 56,9%; mulher preta ou parda nessa situação, 64,4%; mulher branca nessa situação, 41,5%; casal com filho(s), 30,4%; outros, 21,0%; unipessoal, 11,6%; casal sem filho, 10,0%."
+    }
+   ],
+   "alternativas": {
+    "A": "Raça e gênero.",
+    "B": "Etnia e habitação.",
+    "C": "Idade e nupcialidade.",
+    "D": "Profissão e sexualidade.",
+    "E": "Escolaridade e fecundidade."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A interseccionalidade é o cruzamento de desigualdades. O gráfico mostra que mulheres sem cônjuge e com filhos têm 56,9% de pobreza; entre as pretas ou pardas, 64,4%; entre as brancas, 41,5%. O cruzamento de <strong>raça e gênero</strong> intensifica a discriminação. Alternativa <strong>A</strong>.</p><p>Os dados não tratam de etnia e habitação (B), idade e nupcialidade (C), profissão e sexualidade (D) ou escolaridade e fecundidade (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "interseccionalidade",
+    "pobreza"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "Sociologia",
+   "assunto": "Estado e democracia",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p class=\"apoio\">O princípio básico do Estado de direito é o da eliminação do arbítrio no exercício dos poderes públicos, com a consequente garantia de direitos dos indivíduos perante esses poderes. Estado de direito significa que nenhum indivíduo, presidente ou cidadão comum está acima da lei. Os governos democráticos exercem a autoridade por meio da lei e estão eles próprios sujeitos aos constrangimentos impostos pela lei.</p><p class=\"fonte\">CANOTILHO, J. J. G. Estado de direito. Lisboa: Gradiva, 1999 (adaptado).</p><p>Nas sociedades contemporâneas, consiste em violação do princípio básico enunciado no texto:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Supressão de eleições de representantes políticos.",
+    "B": "Intervenção em áreas de vulnerabilidade pela Igreja.",
+    "C": "Disseminação de projetos sociais em universidades.",
+    "D": "Ampliação dos processos de concentração de renda.",
+    "E": "Regulamentação das relações de trabalho pelo Legislativo."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No Estado de direito, ninguém, nem o governo, está acima da lei, e os poderes são exercidos de acordo com ela. Suprimir eleições é o governo se colocar acima das regras e dos direitos dos cidadãos: a <strong>supressão de eleições de representantes políticos</strong> viola o princípio. Alternativa <strong>A</strong>.</p><p>Ação da Igreja, projetos sociais e leis trabalhistas (B, C e E) não violam a lei; a concentração de renda (D) é um problema social, não uma violação do Estado de direito.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Estado de direito",
+    "democracia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 27,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Brasileiros levam mais tempo de casa para o trabalho</strong></p><p class=\"apoio\">Pesquisa do IBGE aponta que a situação é mais grave no Sudeste: 13% das pessoas levam mais de uma hora para chegar ao trabalho. Nas regiões metropolitanas de São Paulo e do Rio, o IBGE registrou os maiores percentuais de trabalhadores que levam mais de uma hora no trajeto até o emprego. Quem vê o Marcelo chegar ao trabalho nem imagina a maratona que ele enfrenta todos os dias antes das 5 h. “Acordo 4 h 30, saio de casa 5 h, pego trem 5 h 20, chego na Central umas 6 h 50, pego ônibus e chego no trabalho mais ou menos 7 h 10”, conta. Segundo especialista, são os mais pobres os que moram mais longe do emprego.</p><p class=\"fonte\">Disponível em: www.portaldotransito.com.br. Acesso em: 23 nov. 2021 (adaptado).</p><p>A pesquisa desenvolvida retrata a seguinte dinâmica populacional:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Fluxo de retorno.",
+    "B": "Migração interna.",
+    "C": "Mudança sazonal.",
+    "D": "Movimento pendular.",
+    "E": "Deslocamento forçado."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Marcelo sai de casa às 5 h, pega trem e ônibus e chega ao trabalho às 7 h 10; no fim do dia, volta. Esse deslocamento diário de ida e volta entre a casa e o trabalho, típico de regiões metropolitanas, é o <strong>movimento pendular</strong>. Alternativa <strong>D</strong>.</p><p>Não há mudança de residência (A e B), deslocamento por estação do ano (C) ou forçado (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "movimento pendular",
+    "metrópoles"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 28,
+   "materia": "História",
+   "assunto": "Movimento operário",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p class=\"apoio\">A história do Primeiro de Maio de 1890 — na França e na Europa, o primeiro de todos os Primeiros de Maio — é, sob vários aspectos, exemplar. Resultante de um ato político deliberado, essa manifestação ilustra o lado voluntário da construção de uma classe — a classe operária — à qual os socialistas tentam dar uma unidade política e cultural através daquela pedagogia da festa cujo princípio, eficácia e limites há muito tempo tinham sido experimentados pela Revolução Francesa.</p><p class=\"fonte\">PERROT, M. Os excluídos da história: operários, mulheres e prisioneiros. Rio de Janeiro: Paz e Terra, 1988.</p><p>Com base no texto, a fixação dessa data comemorativa tinha por objetivo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "valorizar um sentimento burguês.",
+    "B": "afirmar uma identidade coletiva.",
+    "C": "edificar uma memória nacional.",
+    "D": "criar uma comunidade cívica.",
+    "E": "definir uma tradição popular."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Perrot diz que o Primeiro de Maio foi criado por um ato político deliberado dos socialistas, para dar “unidade política e cultural” à classe operária por meio da festa. O objetivo era <strong>afirmar uma identidade coletiva</strong>, a de classe. Alternativa <strong>B</strong>.</p><p>A data não é burguesa (A), nacional (C) ou cívica (D), e foi criada, não herdada de uma tradição popular (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Primeiro de Maio",
+    "classe operária"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "Geografia",
+   "assunto": "Clima",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">PEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006.</p><p>Uma característica regional que justifica o maior potencial anual médio para o aproveitamento da energia solar é a reduzida</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2022-humanas/q74.webp",
+     "alt": "Mapa do Brasil “Radiação solar global horizontal média anual”, em tons de cinza de 3,15 a 6,65 kWh/m²: os valores mais altos aparecem no interior do Nordeste e no Centro-Oeste; os mais baixos, no litoral Sul e em partes da Amazônia."
+    }
+   ],
+   "alternativas": {
+    "A": "declividade do relevo.",
+    "B": "extensão longitudinal.",
+    "C": "nebulosidade atmosférica.",
+    "D": "irregularidade pluviométrica.",
+    "E": "influência da continentalidade."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O mapa mostra a maior radiação solar média no interior do Nordeste, especialmente no Semiárido. Essa região tem chuvas escassas e, por isso, céu limpo na maior parte do ano: a reduzida <strong>nebulosidade atmosférica</strong> deixa passar mais radiação. Alternativa <strong>C</strong>.</p><p>Relevo, longitude e continentalidade (A, B e E) não explicam o padrão; a irregularidade das chuvas (D) é alta, não reduzida, no Semiárido.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia solar",
+    "nebulosidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 30,
+   "materia": "Geografia",
+   "assunto": "Povos indígenas",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p class=\"apoio\">O povo Kambeba é o povo das águas. Os mais velhos costumam contar que o povo nasceu de uma gota-d’água que caiu do céu em uma grande chuva. Nessa gota estavam duas gotículas: o homem e a mulher. “Por essa narrativa e cosmologia indígena de que nós somos o povo das águas é que o rio nos tem fundamental importância”, diz Márcia Wayna Kambeba, mestre em Geografia e escritora. Todos os dias, ela ia com o pai observar o rio. Ia em silêncio e, antes que tomasse para si a palavra, era interrompida. “Ouça o rio”, o pai dizia. Depois de cerca de duas horas a ouvir as águas do Solimões, ela mergulhava. “Confie no rio e aprenda com ele”. “Fui entender mais tarde, com meus estudos e vivências, que meu pai estava me apresentando à sabedoria milenar do rio”.</p><p class=\"fonte\">Rios amazônicos influenciam no agro e em reservatórios do Sudeste. Disponível em: www.uol.com.br. Acesso em: 14 out. 2021.</p><p>Pelo descrito no texto, o povo Kambeba tem o rio como um(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "objeto tombado e museográfico.",
+    "B": "herança religiosa e sacralizada.",
+    "C": "cenário bucólico e paisagístico.",
+    "D": "riqueza individual e efêmera.",
+    "E": "patrimônio cultural e afetivo."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para os Kambeba, o povo nasceu de uma gota-d’água; a escritora aprendeu com o pai a “ouvir o rio” e a reconhecer sua “sabedoria milenar”. O rio é parte da cosmologia, da memória e dos laços familiares: um <strong>patrimônio cultural e afetivo</strong>. Alternativa <strong>E</strong>.</p><p>O rio não é tombado (A), não é objeto de religião institucional (B), não é só paisagem (C) e não é riqueza individual (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Kambeba",
+    "cosmologia indígena"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "História",
+   "assunto": "Nordeste e seca",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p class=\"apoio\">Lá embaixo está o Açude Itans, com seu formigueiro a cavar a terra. É mesmo impressionante o esforço daquele formigar de homens ao sol, lavados em suor, que não param, em longas filas pacientes acompanhando centenas de burricos que sobem e descem, numa ciranda comovente e silenciosa, cada burrico com duas caixas de terra no lombo. É o labor organizado para a salvação da terra e do homem. Depois do semideserto que tanto nos acabrunhou o espírito por falta de chuvas, o esforço destes milhares de sertanejos, todos vestidos de brim mescla e calçando alpercatas, no combate consciente à esterilidade da natureza, com as famílias alojadas em pequeninas casas de taipa e telha — embrião de futura cidade — impressionava-nos profundamente.</p><p class=\"fonte\">VALLE, F. M. História do Açude Itans, município de Caicó (RN). Brasília, 1994 (adaptado).</p><p>Na construção do empreendimento descrito, destaca-se a presença de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "engenheiros na execução de canais fluviais.",
+    "B": "coronéis na ampliação de antigas fazendas.",
+    "C": "operários na distribuição dos recursos hídricos.",
+    "D": "trabalhadores na formação de novos espaços.",
+    "E": "negociantes na organização de redes comerciais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto descreve milhares de sertanejos cavando o açude, com as famílias morando em casas de taipa ao redor: “embrião de futura cidade”. A obra mostra <strong>trabalhadores na formação de novos espaços</strong>. Alternativa <strong>D</strong>.</p><p>Não há canais fluviais (A), coronéis (B), distribuição de água (C) nem comércio (E) no trecho.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "açudes",
+    "trabalhadores"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p class=\"apoio\">Para os Impérios Coloniais, o problema das doenças que atingiam os escravos era algo com que cotidianamente deparavam os senhores. Em vista disso, uma série de obras dedicadas à administração de escravos foi publicada com vista a implementar uma moderna gestão da mão de obra escravista em convergência com o Iluminismo. Nesse contexto, o saber médico adquiria um papel extremamente relevante. Este era encarado como um instrumento fundamental ao desenvolvimento colonial, dada a percepção do impacto que as doenças tropicais causavam na população branca e nos povos escravizados.</p><p class=\"fonte\">ABREU, J. L. N. A Colônia enferma e a saúde dos povos: a medicina das “luzes” e as informações sobre as enfermidades da América portuguesa. História, Ciências, Saúde – Manguinhos, n. 3, jul.-set. 2007 (adaptado).</p><p>De acordo com o texto, a importância da medicina se justifica no âmbito dos objetivos</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "econômicos das elites.",
+    "B": "naturalistas dos viajantes.",
+    "C": "abolicionistas dos letrados.",
+    "D": "tradicionalistas dos nativos.",
+    "E": "emancipadores das metrópoles."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto diz que os manuais de administração de escravos e o saber médico serviam a uma “moderna gestão da mão de obra escravista” e ao desenvolvimento colonial. A medicina atendia aos <strong>objetivos econômicos das elites</strong>: manter os escravizados vivos e produtivos. Alternativa <strong>A</strong>.</p><p>O texto não fala de viajantes (B), abolicionistas (C), nativos (D) ou emancipação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escravidão",
+    "medicina colonial"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "Geografia",
+   "assunto": "Cartografia",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado).</p><p>Considerando-se que a distância entre o local onde os destroços do avião foram avistados e a cidade de Perth é de 2 cm, a escala aproximada dessa representação cartográfica é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2022-humanas/q78.webp",
+     "alt": "Mapa “Possível trajeto do voo MH370 da Malaysia Airlines antes da queda, em 2014”: do último contato, perto da Malásia, uma linha tracejada desce pelo Oceano Índico até o local onde os destroços foram avistados; desse ponto até a cidade de Perth, na Austrália, uma linha indica 2 500 km."
+    }
+   ],
+   "alternativas": {
+    "A": "1 : 12 500.",
+    "B": "1 : 125 000.",
+    "C": "1 : 1 250 000.",
+    "D": "1 : 12 500 000.",
+    "E": "1 : 125 000 000."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No mapa, a distância entre o local dos destroços e Perth é de 2 500 km e, na representação, mede 2 cm. Então 1 cm representa 1 250 km = 125 000 000 cm. A escala é <strong>1 : 125 000 000</strong>. Alternativa <strong>E</strong>.</p><p>1 : 12 500 000 (D) erra a conversão de km para cm por um fator 10.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 34,
+   "materia": "História",
+   "assunto": "Patrimônio",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p class=\"apoio\">Hoje sou um ser inanimado, mas já tive vida pulsante em seivas vegetais, fui um ser vivo; é bem verdade que do reino vegetal, mas isso não me tirou a percepção de vida vivida como tamborete. Guardo apreço pelos meus criadores, as mãos que me fizeram, me venderam, e pelas mulheres que me usaram para suas vendas e de tantas outras maneiras. Essas pessoas, sim, tiveram suas subjetividades, singularidades e pluralidades, que estão incorporadas a mim. É preciso considerar que a nossa história, de móveis de museus, está para além da mera vinculação aos estilos e à patrimonialização que recebemos como bem material vinculado ao patrimônio imaterial. A nossa história está ligada aos dons individuais das pessoas e suas práticas sociais. Alguns indivíduos consagravam-se por terem determinados requisitos, tais como o conhecimento de modelos clássicos ou destreza nos desenhos.</p><p class=\"fonte\">FREITAS, J. M.; OLIVEIRA, L. R. Memórias de um tamborete de baiana: as muitas vozes em um objeto de museu. Revista Brasileira de Pesquisa (Auto)Biográfica, n. 14, maio-ago. 2020 (adaptado).</p><p>Ao descrever-se como patrimônio museológico, o objeto abordado no texto associa a sua história às</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "habilidades artísticas e culturais dos sujeitos.",
+    "B": "vocações religiosas e pedagógicas dos mestres.",
+    "C": "naturezas antropológica e etnográfica dos expositores.",
+    "D": "preservações arquitetônica e visual dos conservatórios.",
+    "E": "competências econômica e financeira dos comerciantes."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O tamborete de baiana diz que sua história está ligada às mãos que o fizeram e às mulheres que o usaram, “aos dons individuais das pessoas e suas práticas sociais”, como o conhecimento de modelos e a destreza nos desenhos. Associa-se às <strong>habilidades artísticas e culturais dos sujeitos</strong>. Alternativa <strong>A</strong>.</p><p>O texto não fala de religião (B), expositores (C), arquitetura (D) ou finanças (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "museu",
+    "patrimônio imaterial"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p class=\"apoio\">Advento da Polis, nascimento da filosofia: entre as duas ordens de fenômenos, os vínculos são demasiado estreitos para que o pensamento racional não apareça, em suas origens, solidário das estruturas sociais e mentais próprias da cidade grega. Assim recolocada na história, a filosofia despoja-se desse caráter de revelação absoluta que às vezes lhe foi atribuído, saudando, na jovem ciência dos jônios, a razão intemporal que veio encarnar-se no Tempo. A escola de Mileto não viu nascer a Razão; ela construiu uma Razão, uma primeira forma de racionalidade. Essa razão grega não é a razão experimental da ciência contemporânea.</p><p class=\"fonte\">VERNANT, J. P. Origens do pensamento grego. Rio de Janeiro: Difel, 2002.</p><p>Os vínculos entre os fenômenos indicados no trecho foram fortalecidos pelo surgimento de uma categoria de pensadores, a saber:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Os epicuristas, envolvidos com o ideal de vida feliz.",
+    "B": "Os estoicos, dedicados à superação dos infortúnios.",
+    "C": "Os sofistas, comprometidos com o ensino da retórica.",
+    "D": "Os peripatéticos, empenhados na dinâmica do ensino.",
+    "E": "Os poetas rapsodos, responsáveis pela narrativa do mito."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Vernant liga o nascimento da filosofia à <em>polis</em>: a razão grega nasce do debate público da cidade. Os <strong>sofistas</strong>, que ensinavam retórica a quem queria falar nas assembleias, fortaleceram esse laço entre pensamento e vida política. Alternativa <strong>C</strong>.</p><p>Epicuristas e estoicos (A e B) vêm depois, num mundo helenístico sem a <em>polis</em> autônoma; os peripatéticos (D) são a escola de Aristóteles; os rapsodos (E) representam o mito, não a razão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pólis",
+    "sofistas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Decreto-Lei n. 1 949, de 27/12/1937</strong></p><p class=\"apoio\">Art. 1º Fica criado o Departamento de Imprensa e Propaganda (DIP), diretamente subordinado ao presidente da República.</p><p class=\"apoio\">Art. 2º O DIP tem por fim: h) coordenar e incentivar as relações da imprensa com os poderes públicos no sentido de maior aproximação da mesma com os fatos que se ligam aos interesses nacionais; n) autorizar mensalmente a devolução dos depósitos efetuados pelas empresas jornalísticas para a importação de papel para imprensa, uma vez demonstrada, a seu juízo, a eficiência e a utilidade pública dos jornais ou periódicos por elas administrados ou dirigidos.</p><p class=\"fonte\">BRASIL apud CARONE, E. A Terceira República (1937-1945). São Paulo: Difel, 1982 (adaptado).</p><p>Com base nos trechos do decreto, as finalidades do órgão criado permitiram ao governo promover o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "diversificação da opinião pública.",
+    "B": "mercantilização da cultura popular.",
+    "C": "controle das organizações sindicais.",
+    "D": "cerceamento da liberdade de expressão.",
+    "E": "privatização dos meios de comunicação."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O DIP, criado no Estado Novo, coordenava a relação da imprensa com o governo e decidia, “a seu juízo”, quais jornais recebiam a devolução do depósito para importar papel. Com isso o governo controlava a imprensa e premiava os jornais alinhados: <strong>cerceamento da liberdade de expressão</strong>. Alternativa <strong>D</strong>.</p><p>O DIP não diversificava a opinião (A), não privatizava (E) e não cuidava de sindicatos (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Estado Novo",
+    "DIP"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "Geografia",
+   "assunto": "Geologia",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).</p><p>O mapa espacializa um recurso natural com alto potencial para ocorrência de:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2022-humanas/q82.webp",
+     "alt": "Mapa “Rochas ígneas da Amazônia Legal”, entre 5°N e 15°S e 70°W e 50°W: manchas escuras de rochas ígneas espalhadas, principalmente no Pará, em Rondônia, em Mato Grosso, em Roraima e no Amapá."
+    }
+   ],
+   "alternativas": {
+    "A": "Abalos sísmicos periódicos.",
+    "B": "Jazidas de minerais metálicos.",
+    "C": "Reservas de combustíveis fósseis.",
+    "D": "Aquíferos sedimentares profundos.",
+    "E": "Estruturas geológicas metamórficas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Rochas ígneas (magmáticas) são associadas a escudos cristalinos antigos, onde se formam <strong>jazidas de minerais metálicos</strong>, como ferro, ouro e manganês, por exemplo em Carajás (Pará). Alternativa <strong>B</strong>.</p><p>Combustíveis fósseis e aquíferos profundos (C e D) se ligam a bacias sedimentares; o Brasil não tem abalos sísmicos frequentes (A); rochas metamórficas (E) são outro tipo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escudos cristalinos",
+    "recursos minerais"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 38,
+   "materia": "Sociologia",
+   "assunto": "Cidadania",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p class=\"apoio\">Nascidas no Líbano, as duas irmãs não puderam ser registradas no país, porque lá é exigido que os nascidos sejam filhos de pais e mães libaneses. Seus pais, de nacionalidade síria, também não puderam registrá-las no país de origem. Na Síria, crianças só são registradas por pais oficialmente casados, o que não era o caso deles.</p><p class=\"fonte\">Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 7 nov. 2021.</p><p>Em situações como a apresentada no texto, as pessoas ao nascerem já se encontram na condição sociopolítica de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "exiladas.",
+    "B": "apátridas.",
+    "C": "foragidas.",
+    "D": "refugiadas.",
+    "E": "clandestinas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As irmãs não puderam ser registradas nem no Líbano, onde nasceram, nem na Síria, país dos pais. Sem nacionalidade reconhecida por nenhum Estado, são <strong>apátridas</strong>. Alternativa <strong>B</strong>.</p><p>Exilado, refugiado e foragido (A, C e D) são pessoas que deixaram seu país; clandestino (E) é quem está irregular num país.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "apatridia",
+    "nacionalidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "Filosofia",
+   "assunto": "Estética",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Uma filosofia da percepção que queira reaprender a ver o mundo restituirá à pintura e às artes em geral seu lugar verdadeiro.</p><p class=\"fonte\">MERLEAU-PONTY, M. Conversas: 1948. São Paulo: Martins Fontes, 2004.</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Os grandes autores de cinema nos pareceram confrontáveis não apenas com pintores, arquitetos, músicos, mas também com pensadores. Eles pensam com imagens, em vez de conceitos.</p><p class=\"fonte\">DELEUZE, G. Cinema 1: a imagem-movimento. São Paulo: Brasiliense, 1983 (adaptado).</p><p>De que modo os textos sustentam a existência de um saber ancorado na sensibilidade?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Admitindo o belo como fenômeno transcendental.",
+    "B": "Reafirmando a vivência estética como juízo de gosto.",
+    "C": "Considerando o olhar como experiência de conhecimento.",
+    "D": "Apontando as formas de expressão como auxiliares da razão.",
+    "E": "Estabelecendo a inteligência como implicação das representações."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Merleau-Ponty diz que uma filosofia da percepção devolve à pintura seu lugar, e Deleuze diz que os cineastas “pensam com imagens, em vez de conceitos”. Os dois tratam a arte e o ver como formas de pensar: <strong>o olhar como experiência de conhecimento</strong>. Alternativa <strong>C</strong>.</p><p>Os textos não falam do belo transcendental (A), de juízo de gosto (B), de arte como auxiliar da razão (D) ou de inteligência derivada de representações (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Merleau-Ponty",
+    "Deleuze"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "História",
+   "assunto": "Inquisição",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Manda o Santo Ofício da Inquisição que ninguém, seja qual for seu estado, idade ou condição, pare com carroça, caleça ou montaria nem atrapalhe com mesas ou cadeiras o centro das ruas, que vão da Inquisição a São Domingos, nem atravesse a procissão em ponto algum da ida ou da volta, amanhã, 19 do corrente, em que se celebrará auto de fé. E também que nem nesse dia nem nos dos açoites ouse alguém atirar nos réus maçãs, pedras, laranjas nem outra coisa qualquer.</p><p class=\"fonte\">PALMA, R. Anais da Inquisição de Lima. São Paulo: Edusp; Giordano, 1992 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Como acontece em todos os ritos, o sentido do auto da fé é conferido pela sequência dos atos que o compõem. Os lugares, as posturas, os gestos, as palavras são fixados previamente em toda a sua complexidade. Por isso, o auto da fé apresenta momentos fortes — durante a preparação, a encenação, o ato e a recepção — que convém seguir em seus pormenores.</p><p class=\"fonte\">BETHENCOURT, F. História das Inquisições: Portugal, Espanha e Itália – séculos XV-XIX. São Paulo: Cia. das Letras, 2000.</p><p>O rito mencionado nos textos demonstra a capacidade da Igreja em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "abrandar cerimônias de punição.",
+    "B": "favorecer anseios de violência.",
+    "C": "criticar políticas de disciplina.",
+    "D": "produzir padrões de conduta.",
+    "E": "ordenar cultos de heresia."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O edital fixa regras para o público durante o auto de fé, e Bethencourt explica que lugares, posturas, gestos e palavras eram previamente definidos. O rito ensinava como cada um devia se comportar diante do poder da Igreja: ela mostrava capacidade de <strong>produzir padrões de conduta</strong>. Alternativa <strong>D</strong>.</p><p>O edital proíbe atirar objetos nos réus, então não favorece a violência (B); o rito é de punição, não a abranda (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "auto de fé",
+    "Inquisição"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "Filosofia",
+   "assunto": "Pré-socráticos",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p class=\"apoio\">Empédocles estabelece quatro elementos corporais — fogo, ar, água e terra —, que são eternos e que mudam aumentando e diminuindo mediante mistura e separação; mas os princípios propriamente ditos, pelos quais aqueles são movidos, são o Amor e o Ódio. Pois é preciso que os elementos permaneçam alternadamente em movimento, sendo ora misturados pelo Amor, ora separados pelo Ódio.</p><p class=\"fonte\">SIMPLÍCIO. Física, 25, 21. In: <em>Os pré-socráticos</em>. São Paulo: Nova Cultural, 1996.</p><p>O texto propõe uma reflexão sobre o entendimento de Empédocles acerca da <em>arché</em>, uma preocupação típica do pensamento pré-socrático, porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "exalta a investigação filosófica.",
+    "B": "transcende ao mundo sensível.",
+    "C": "evoca a discussão cosmogônica.",
+    "D": "fundamenta as paixões humanas.",
+    "E": "corresponde à explicação mitológica."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Empédocles explica a origem e a transformação do mundo por quatro elementos eternos movidos por Amor e Ódio. Buscar o princípio (<em>arché</em>) de todas as coisas é discutir a origem e a ordem do cosmos: o texto <strong>evoca a discussão cosmogônica</strong>. Alternativa <strong>C</strong>.</p><p>Amor e Ódio são forças cósmicas, não paixões humanas (D), e a explicação é racional, não mitológica (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Empédocles",
+    "arché"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 42,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "<p class=\"apoio\">Macrocefalia urbana pode ser entendida como a massiva concentração das atividades econômicas em algumas metrópoles que propicia o desencadeamento de processos descompassados: redirecionamento e convergência de fluxos migratórios, déficit no número de empregos, ocupação desordenada de determinadas regiões da cidade e estigmatização de estratos sociais, que comprometem substancialmente a segurança pública urbana.</p><p class=\"fonte\">SANTOS, M. O espaço dividido: os dois circuitos da economia urbana dos países subdesenvolvidos. São Paulo: Edusp, 2004.</p><p>O processo de concentração espacial apresentado foi estimulado por qual fator geográfico?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Limitação da área ocupada.",
+    "B": "Êxodo da população do campo.",
+    "C": "Ampliação do risco habitacional.",
+    "D": "Deficiência do transporte alternativo.",
+    "E": "Crescimento da taxa de fecundidade."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A macrocefalia urbana é a concentração excessiva de pessoas e atividades em poucas metrópoles. No Brasil, ela foi estimulada pelo <strong>êxodo da população do campo</strong>, que, com a mecanização e a concentração de terras, migrou em massa para as grandes cidades. Alternativa <strong>B</strong>.</p><p>Os outros fatores são consequência (C) ou não explicam a concentração (A, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "êxodo rural",
+    "metropolização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 43,
+   "materia": "Filosofia",
+   "assunto": "Filosofia helenística",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p class=\"apoio\">Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça.</p><p class=\"fonte\">SÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990.</p><p>O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "valorização de disputas dialógicas.",
+    "B": "rejeição das convenções sociais.",
+    "C": "inspiração de natureza religiosa.",
+    "D": "exaltação do sofrimento.",
+    "E": "moderação das paixões."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Sêneca, estoico, elogia Basso por estar alegre diante da morte e firme qualquer que seja o estado do corpo. Para os estoicos, a filosofia ensina a dominar as emoções e aceitar o que não depende de nós: a <strong>moderação das paixões</strong>. Alternativa <strong>E</strong>.</p><p>O trecho não fala de debate (A), de rejeição social (B), de religião (C) e não exalta o sofrimento (D), mas a serenidade diante dele.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Sêneca",
+    "estoicismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "História",
+   "assunto": "América pré-colombiana",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p class=\"apoio\">Quando os espanhóis chegaram à América, estava em seu apogeu o império teocrático dos Incas, que estendia seu poder sobre o que hoje chamamos Peru, Bolívia e Equador, abarcava parte da Colômbia e do Chile e alcançava até o norte argentino e a selva brasileira; a confederação dos Astecas tinha conquistado um alto nível de eficiência no vale do México, e no Yucatán, na América Central, a esplêndida civilização dos Maias persistia nos povos herdeiros, organizados para o trabalho e para a guerra. Os Maias tinham sido grandes astrônomos, mediram o tempo e o espaço com assombrosa precisão, e tinham descoberto o valor do número zero antes de qualquer povo da história. No museu de Lima, podem ser vistos centenas de crânios que receberam placas de ouro e prata por parte dos cirurgiões Incas.</p><p class=\"fonte\">GALEANO, E. As veias abertas da América Latina. Porto Alegre: L&PM, 2012.</p><p>As sociedades mencionadas deixaram como legado uma diversidade de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "bens religiosos inspirados na matriz cristã.",
+    "B": "materiais bélicos pilhados em batalhas coloniais.",
+    "C": "heranças culturais constituídas em saberes próprios.",
+    "D": "costumes laborais moldados em estilos estrangeiros.",
+    "E": "práticas medicinais alicerçadas no conhecimento científico."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Galeano cita a organização política dos incas e astecas, a astronomia e o zero dos maias e as cirurgias incas. São conhecimentos desenvolvidos pelos próprios povos: <strong>heranças culturais constituídas em saberes próprios</strong>. Alternativa <strong>C</strong>.</p><p>O texto é anterior à influência cristã e europeia (A e D); não fala de armas pilhadas (B); e a medicina inca não era ciência no sentido moderno (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "incas, astecas e maias",
+    "Galeano"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "Geografia",
+   "assunto": "Comunidades tradicionais",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p class=\"apoio\">Em Vitória (ES), no bairro Goiabeiras, encontramos as paneleiras, mulheres que são conhecidas pelos saberes/fazeres das tradicionais panelas de barro, ícones da culinária capixaba. A tradição passada de mãe para filha é de origem indígena e sofreu influência de outras etnias, como a afro e a luso. Dessa mistura, acredita-se que a fabricação das panelas de barro já tenha 400 anos. A fabricação das panelas de barro se dá em várias etapas, desde a obtenção de matéria-prima à confecção das panelas. As matérias-primas tradicionalmente utilizadas são provenientes do meio natural, como: argila, retirada do barreiro no Vale do Mulembá; madeira, atualmente proveniente das sobras da construção civil; e tinta, extraída da casca do manguezal, o popular mangue-vermelho.</p><p class=\"fonte\">TRISTÃO, M. A educação ambiental e o pós-colonialismo. Revista de Educação, n. 53, ago. 2014.</p><p>Uma característica de práticas tradicionais como a exemplificada no texto é a vinculação entre os recursos do mundo natural e a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "manutenção dos modos de vida.",
+    "B": "conservação dos plantios da roça.",
+    "C": "atualização do modelo de gestão.",
+    "D": "participação na sociedade de consumo.",
+    "E": "especialização nas etapas de produção."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As paneleiras de Goiabeiras usam argila do barreiro, madeira e tinta do mangue, num saber passado de mãe para filha há cerca de 400 anos. A ligação entre recursos naturais e saber tradicional garante a <strong>manutenção dos modos de vida</strong> da comunidade. Alternativa <strong>A</strong>.</p><p>O texto não fala de roça (B), gestão (C), consumo (D) ou especialização (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "paneleiras de Goiabeiras",
+    "patrimônio imaterial"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

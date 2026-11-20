@@ -1,0 +1,1233 @@
+{
+ "id": "enem-2015-natureza",
+ "banca": "Enem",
+ "ano": 2015,
+ "titulo": "Enem 2015: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2015-10-24",
+ "duracaoMinutos": 135,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p>Hipoxia ou mal das alturas consiste na diminuição de oxigênio (O<sub>2</sub>) no sangue arterial do organismo. Por essa razão, muitos atletas apresentam mal-estar (dores de cabeça, tontura, falta de ar etc.) ao praticarem atividade física em altitudes elevadas. Nessas condições, ocorrerá uma diminuição na concentração de hemoglobina oxigenada (HbO<sub>2</sub>) em equilíbrio no sangue, conforme a relação:</p><p class=\"apoio\">\\(\\text{Hb (aq)} + \\text{O}_2\\text{ (aq)} \\rightleftharpoons \\text{HbO}_2\\text{ (aq)}\\)</p><p class=\"fonte\">Mal da montanha. Disponível em: www.feng.pucrs.br. Acesso em: 11 fev. 2015 (adaptado).</p><p>A alteração da concentração de hemoglobina oxigenada no sangue ocorre por causa do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "elevação da pressão arterial.",
+    "B": "aumento da temperatura corporal.",
+    "C": "redução da temperatura do ambiente.",
+    "D": "queda da pressão parcial de oxigênio.",
+    "E": "diminuição da quantidade de hemácias."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em grandes altitudes a pressão atmosférica é menor e, com ela, a <strong>pressão parcial do O₂</strong>. Com menos O₂ dissolvido, o equilíbrio Hb + O₂ ⇌ HbO₂ se desloca para a esquerda (princípio de Le Chatelier), e cai a concentração de HbO₂. Alternativa <strong>D</strong>.</p><p>A causa não é pressão arterial, temperatura corporal, frio do ambiente nem número de hemácias (A, B, C e E); com o tempo, aliás, o corpo até produz mais hemácias.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Le Chatelier",
+    "hipóxia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p>A indústria têxtil utiliza grande quantidade de corantes no processo de tingimento dos tecidos. O escurecimento das águas dos rios causado pelo despejo desses corantes pode desencadear uma série de problemas no ecossistema aquático.</p><p>Considerando esse escurecimento das águas, o impacto negativo inicial que ocorre é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "eutrofização.",
+    "B": "proliferação de algas.",
+    "C": "inibição da fotossíntese.",
+    "D": "fotodegradação da matéria orgânica.",
+    "E": "aumento da quantidade de gases dissolvidos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A água escura deixa passar menos luz, e algas e plantas aquáticas fazem menos fotossíntese. O <strong>primeiro</strong> impacto é a <strong>inibição da fotossíntese</strong>, que depois reduz o oxigênio e afeta toda a cadeia. Alternativa <strong>C</strong>.</p><p>Eutrofização e proliferação de algas vêm do excesso de nutrientes, não de corantes (A e B). Menos luz diminui a fotodegradação (D), e não há aumento de gases dissolvidos; o O₂, ao contrário, cai (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "poluição da água"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>Muitos estudos de síntese e endereçamento de proteínas utilizam aminoácidos marcados radioativamente para acompanhar as proteínas, desde fases iniciais de sua produção até seu destino final. Esses ensaios foram muito empregados para estudo e caracterização de células secretoras.</p><p>Após esses ensaios de radioatividade, qual gráfico representa a evolução temporal da produção de proteínas e sua localização em uma célula secretora?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q48a.webp",
+     "alt": "Alternativa A: aos 5 min, a maior parte da radioatividade está nas vesículas de secreção; aos 10 min, no complexo golgiense; aos 15 min, no retículo endoplasmático."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q48b.webp",
+     "alt": "Alternativa B: aos 5 min, maior no complexo golgiense; aos 10 e aos 15 min, maior no retículo endoplasmático."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q48c.webp",
+     "alt": "Alternativa C: aos 5 min, cerca de 80% no retículo endoplasmático; aos 10 min, cerca de 80% no complexo golgiense; aos 15 min, cerca de 70% nas vesículas de secreção."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q48d.webp",
+     "alt": "Alternativa D: aos 5 min, maior no complexo golgiense; aos 10 min, nas vesículas de secreção; aos 15 min, no retículo endoplasmático."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q48e.webp",
+     "alt": "Alternativa E: aos 5 min, maior no retículo endoplasmático; aos 10 min, nas vesículas de secreção; aos 15 min, de novo no retículo endoplasmático."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Proteínas de secreção são feitas no <strong>retículo endoplasmático</strong> rugoso, seguem para o <strong>complexo golgiense</strong> e saem em <strong>vesículas de secreção</strong>. A radioatividade deve aparecer nessa ordem: no início, alta no retículo; depois, no Golgi; por fim, nas vesículas. É o gráfico C. Alternativa <strong>C</strong>.</p><p>Os outros gráficos trocam essa ordem.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "síntese de proteínas",
+    "gráficos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p class=\"apoio\">Um carro solar é um veículo que utiliza apenas a energia solar para a sua locomoção. Tipicamente, o carro contém um painel fotovoltaico que converte a energia do Sol em energia elétrica que, por sua vez, alimenta um motor elétrico. A imagem mostra o carro solar Tokai Challenger, desenvolvido na Universidade de Tokai, no Japão, e que venceu o World Solar Challenge de 2009, uma corrida internacional de carros solares, tendo atingido uma velocidade média acima de 100 km/h.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.physics.hku.hk. Acesso em: 3 jun. 2015.</p><p>Considere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1 000 W/m<sup>2</sup>, que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m<sup>2</sup> e rendimento de 30%.</p><p>Desprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 km/h é um valor mais próximo de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q49.webp",
+     "alt": "Fotografia do carro solar Tokai Challenger, baixo e achatado, coberto de painéis solares, correndo numa estrada."
+    }
+   ],
+   "alternativas": {
+    "A": "1,0 s.",
+    "B": "4,0 s.",
+    "C": "10 s.",
+    "D": "33 s.",
+    "E": "300 s."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Potência útil do painel: 1 000 W/m² × 9,0 m² × 0,30 = 2 700 W. Energia para chegar a 108 km/h = 30 m/s: E = ½ · 200 · 30² = 90 000 J. Tempo: 90 000 ÷ 2 700 ≈ <strong>33 s</strong>. Alternativa <strong>D</strong>.</p><p>Esquecer o rendimento de 30% dá 10 s (C), e usar a velocidade em km/h dá valores sem sentido.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência",
+    "energia cinética",
+    "rendimento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p>A radiação ultravioleta (UV) é dividida, de acordo com três faixas de frequência, em UV-A, UV-B e UV-C, conforme a figura.</p>[[fig:1]]<p>Para selecionar um filtro solar que apresente absorção máxima na faixa UV-B, uma pessoa analisou os espectros de absorção da radiação UV de cinco filtros solares:</p>[[fig:2]]<p>Considere: velocidade da luz = 3,0 × 10<sup>8</sup> m/s e 1 nm = 1,0 × 10<sup>–9</sup> m.</p><p>O filtro solar que a pessoa deve selecionar é o</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q50a.webp",
+     "alt": "Seta de frequência (s⁻¹) com as faixas: UV-A de 7,47 × 10¹⁴ a 9,34 × 10¹⁴; UV-B de 9,34 × 10¹⁴ a 1,03 × 10¹⁵; UV-C de 1,03 × 10¹⁵ a 2,99 × 10¹⁵."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q50b.webp",
+     "alt": "Gráfico de absorbância × comprimento de onda (240 a 440 nm) de cinco filtros solares, cada um com um pico: filtro III perto de 265 nm, filtro V perto de 275 nm, filtro IV perto de 310 nm, filtro II perto de 350 nm e filtro I perto de 420 nm."
+    }
+   ],
+   "alternativas": {
+    "A": "V.",
+    "B": "IV.",
+    "C": "III.",
+    "D": "II.",
+    "E": "I."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A faixa UV-B vai de 9,34 × 10¹⁴ a 1,03 × 10¹⁵ Hz. Com λ = c/f: λ = 3,0 × 10⁸ ÷ 9,34 × 10¹⁴ ≈ 321 nm e λ = 3,0 × 10⁸ ÷ 1,03 × 10¹⁵ ≈ 291 nm. O filtro com pico de absorção entre 291 e 321 nm é o <strong>IV</strong>. Alternativa <strong>B</strong>.</p><p>Os filtros I e II têm pico em comprimentos maiores (UV-A), e os filtros III e V, em comprimentos menores (UV-C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "frequência e comprimento de onda",
+    "radiação ultravioleta"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Química",
+   "assunto": "Substâncias e misturas",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\">Um grupo de pesquisadores desenvolveu um método simples, barato e eficaz de remoção de petróleo contaminante na água, que utiliza um plástico produzido a partir do líquido da castanha-de-caju (LCC). A composição química do LCC é muito parecida com a do petróleo e suas moléculas, por suas características, interagem formando agregados com o petróleo. Para retirar os agregados da água, os pesquisadores misturam ao LCC nanopartículas magnéticas.</p><p class=\"fonte\">KIFFER, D. Novo método para remoção de petróleo usa óleo de mamona e castanha-de-caju. Disponível em: www.faperj.br. Acesso em: 31 jul. 2012 (adaptado).</p><p>Essa técnica considera dois processos de separação de misturas, sendo eles, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "flotação e decantação.",
+    "B": "decomposição e centrifugação.",
+    "C": "floculação e separação magnética.",
+    "D": "destilação fracionada e peneiração.",
+    "E": "dissolução fracionada e magnetização."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O LCC forma agregados com o petróleo (como uma <strong>floculação</strong>), e as nanopartículas magnéticas permitem retirá-los com um ímã (<strong>separação magnética</strong>). Alternativa <strong>C</strong>.</p><p>Não há decantação, centrifugação, destilação, peneiração ou dissolução fracionada descritas no texto.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "separação de misturas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Química",
+   "assunto": "Funções inorgânicas",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p>A soda cáustica pode ser usada no desentupimento de encanamentos domésticos e tem, em sua composição, o hidróxido de sódio como principal componente, além de algumas impurezas. A soda normalmente é comercializada na forma sólida, mas que apresenta aspecto “derretido” quando exposta ao ar por certo período.</p><p>O fenômeno de “derretimento” decorre da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "absorção da umidade presente no ar atmosférico.",
+    "B": "fusão do hidróxido pela troca de calor com o ambiente.",
+    "C": "reação das impurezas do produto com o oxigênio do ar.",
+    "D": "adsorção de gases atmosféricos na superfície do sólido.",
+    "E": "reação do hidróxido de sódio com o gás nitrogênio presente no ar."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O hidróxido de sódio é <strong>higroscópico</strong>: absorve a umidade do ar e chega a se dissolver nela, parecendo “derretido”. Alternativa <strong>A</strong>.</p><p>A temperatura ambiente não funde o NaOH (B). O fenômeno não é reação com O₂ ou N₂ (C e E), nem adsorção de gases (D); com o tempo, o NaOH também reage com o CO₂, mas isso não explica o aspecto molhado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "higroscopia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p>Certos tipos de superfícies na natureza podem refletir luz de forma a gerar um efeito de arco-íris. Essa característica é conhecida como iridescência e ocorre por causa do fenômeno da interferência de película fina. A figura ilustra o esquema de uma fina camada iridescente de óleo sobre uma poça d’água. Parte do feixe de luz branca incidente 1 reflete na interface ar/óleo e sofre inversão de fase 2 , o que equivale a uma mudança de meio comprimento de onda. A parte refratada do feixe 3 incide na interface óleo/água e sofre reflexão sem inversão de fase 4 . O observador indicado enxergará aquela região do filme com coloração equivalente à do comprimento de onda que sofre interferência completamente construtiva entre os raios 2 e 5 , mas essa condição só é possível para uma espessura mínima da película. Considere que o caminho percorrido em 3 e 4 corresponde ao dobro da espessura E da película de óleo.</p>[[fig:1]]<p>Expressa em termos do comprimento de onda (λ), a espessura mínima é igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q53.webp",
+     "alt": "Esquema de uma fina camada de óleo (espessura E) sobre água: o feixe 1 incide; parte reflete na interface ar/óleo (raio 2) e parte refrata (raio 3), reflete na interface óleo/água (raio 4) e sai (raio 5). Os raios 2 e 5 chegam ao olho e produzem a interferência observada."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\dfrac{\\lambda}{4}\\).",
+    "B": "\\(\\dfrac{\\lambda}{2}\\).",
+    "C": "\\(\\dfrac{3\\lambda}{4}\\).",
+    "D": "λ.",
+    "E": "2λ."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O raio 2 sofre inversão de fase (equivale a meio comprimento de onda) e o raio 5 não. Para interferência construtiva, o caminho extra do raio 5 dentro do óleo (2E) precisa compensar essa meia onda: 2E = λ/2, logo <strong>E = λ/4</strong>. Alternativa <strong>A</strong>.</p><p>Sem a inversão de fase, a condição seria 2E = λ, e E = λ/2 (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "interferência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Biologia",
+   "assunto": "Embriologia",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"apoio\">Um importante princípio da biologia, relacionado à transmissão de caracteres e à embriogênese humana, foi quebrado com a descoberta do microquimerismo fetal. Microquimerismo é o nome dado ao fenômeno biológico referente a uma pequena população de células ou DNA presente em um indivíduo, mas derivada de um organismo geneticamente distinto. Investigando-se a presença do cromossomo Y, foi revelado que diversos tecidos de mulheres continham células masculinas. A análise do histórico médico revelou uma correlação extremamente curiosa: apenas as mulheres que antes tiveram filhos homens apresentaram microquimerismo masculino. Essa correlação levou à interpretação de que existe uma troca natural entre células do feto e maternas durante a gravidez.</p><p class=\"fonte\">MUOTRI, A. Você não é só você: carregamos células maternas na maioria de nossos órgãos. Disponível em: http://g1.globo.com. Acesso em: 4 dez. 2012 (adaptado).</p><p>O princípio contestado com essa descoberta, relacionado ao desenvolvimento do corpo humano, é o de que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o fenótipo das nossas células pode mudar por influência do meio ambiente.",
+    "B": "a dominância genética determina a expressão de alguns genes.",
+    "C": "as mutações genéticas introduzem variabilidade no genoma.",
+    "D": "as mitocôndrias e o seu DNA provêm do gameta materno.",
+    "E": "as nossas células corporais provêm de um único zigoto."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pela biologia clássica, todas as células do nosso corpo descendem de <strong>um único zigoto</strong> e têm o mesmo genoma. O microquimerismo mostra mulheres com células vindas dos filhos, geneticamente diferentes. Alternativa <strong>E</strong>.</p><p>As outras afirmações continuam válidas e não são contrariadas pela descoberta (A a D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "microquimerismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p>A hidroponia pode ser definida como uma técnica de produção de vegetais sem necessariamente a presença de solo. Uma das formas de implementação é manter as plantas com suas raízes suspensas em meio líquido, de onde retiram os nutrientes essenciais. Suponha que um produtor de rúcula hidropônica precise ajustar a concentração do íon nitrato (NO<sub>3</sub><sup>–</sup>) para 0,009 mol/L em um tanque de 5 000 litros e, para tanto, tem em mãos uma solução comercial nutritiva de nitrato de cálcio 90 g/L. As massas molares dos elementos N, O e Ca são iguais a 14 g/mol, 16 g/mol e 40 g/mol, respectivamente.</p><p>Qual o valor mais próximo do volume da solução nutritiva, em litros, que o produtor deve adicionar ao tanque?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "26",
+    "B": "41",
+    "C": "45",
+    "D": "51",
+    "E": "82"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Nitrato necessário: 0,009 mol/L × 5 000 L = 45 mol. Cada Ca(NO₃)₂ fornece 2 NO₃⁻, então são 22,5 mol do sal. Massa molar do Ca(NO₃)₂: 40 + 2 · (14 + 48) = 164 g/mol; massa: 22,5 × 164 = 3 690 g. Volume da solução de 90 g/L: 3 690 ÷ 90 = <strong>41 L</strong>. Alternativa <strong>B</strong>.</p><p>Esquecer que cada fórmula tem dois nitratos dá 82 L (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "concentração",
+    "estequiometria"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p>Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação).</p><p>Essa especiação não ocorre devido ao(à)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "oscilação genética das raças.",
+    "B": "convergência adaptativa das raças.",
+    "C": "isolamento geográfico entre as raças.",
+    "D": "seleção natural que ocorre entre as raças.",
+    "E": "manutenção do fluxo gênico entre as raças."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Mesmo que raças muito diferentes não cruzem diretamente, os genes continuam circulando entre elas por meio de raças intermediárias: há <strong>fluxo gênico</strong>, e todas seguem sendo a mesma espécie. Alternativa <strong>E</strong>.</p><p>Isolamento geográfico favoreceria a especiação (C). Convergência adaptativa e seleção natural não explicam a manutenção da espécie (B e D), e deriva genética não é o caso (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "especiação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p class=\"apoio\">O ar atmosférico pode ser utilizado para armazenar o excedente de energia gerada no sistema elétrico, diminuindo seu desperdício, por meio do seguinte processo: água e gás carbônico são inicialmente removidos do ar atmosférico e a massa de ar restante é resfriada até −198 °C. Presente na proporção de 78% dessa massa de ar, o nitrogênio gasoso é liquefeito, ocupando um volume 700 vezes menor. A energia excedente do sistema elétrico é utilizada nesse processo, sendo parcialmente recuperada quando o nitrogênio líquido, exposto à temperatura ambiente, entra em ebulição e se expande, fazendo girar turbinas que convertem energia mecânica em energia elétrica.</p><p class=\"fonte\">MACHADO, R. Disponível em: www.correiobraziliense.com.br. Acesso em: 9 set. 2013 (adaptado).</p><p>No processo descrito, o excedente de energia elétrica é armazenado pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "expansão do nitrogênio durante a ebulição.",
+    "B": "absorção de calor pelo nitrogênio durante a ebulição.",
+    "C": "realização de trabalho sobre o nitrogênio durante a liquefação.",
+    "D": "retirada de água e gás carbônico da atmosfera antes do resfriamento.",
+    "E": "liberação de calor do nitrogênio para a vizinhança durante a liquefação."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A energia excedente é usada para resfriar e comprimir o ar até liquefazer o nitrogênio: é <strong>trabalho realizado sobre o nitrogênio</strong>, que fica “guardado” no líquido e é recuperado quando ele ferve e se expande nas turbinas. Alternativa <strong>C</strong>.</p><p>A expansão e a absorção de calor na ebulição são a etapa de recuperação, não de armazenamento (A e B). Liberar calor para a vizinhança é perda, não armazenamento (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p class=\"apoio\">Alimentos em conserva são frequentemente armazenados em latas metálicas seladas, fabricadas com um material chamado folha de flandres, que consiste de uma chapa de aço revestida com uma fina camada de estanho, metal brilhante e de difícil oxidação. É comum que a superfície interna seja ainda revestida por uma camada de verniz à base de epóxi, embora também existam latas sem esse revestimento, apresentando uma camada de estanho mais espessa.</p><p class=\"fonte\">SANTANA, V. M. S. A leitura e a química das substâncias. Cadernos PDE. Ivaiporã: Secretaria de Estado da Educação do Paraná (SEED); Universidade Estadual de Londrina, 2010 (adaptado).</p><p>Comprar uma lata de conserva amassada no supermercado é desaconselhável porque o amassado pode</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "alterar a pressão no interior da lata, promovendo a degradação acelerada do alimento.",
+    "B": "romper a camada de estanho, permitindo a corrosão do ferro e alterações do alimento.",
+    "C": "prejudicar o apelo visual da embalagem, apesar de não afetar as propriedades do alimento.",
+    "D": "romper a camada de verniz, fazendo com que o metal tóxico estanho contamine o alimento.",
+    "E": "desprender camadas de verniz, que se dissolverão no meio aquoso, contaminando o alimento."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O estanho protege o aço porque cobre o ferro. Se a lata amassa, a camada de estanho pode <strong>romper</strong>, e o ferro exposto sofre <strong>corrosão</strong>; como o ferro é mais reativo que o estanho, a corrosão até se acelera, e o alimento pode ser alterado. Alternativa <strong>B</strong>.</p><p>O amassado não muda a pressão de forma relevante (A), afeta sim o alimento (C), e o estanho não é o metal tóxico em questão (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "corrosão",
+    "folha de flandres"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p>Uma forma de organização de um sistema biológico é a presença de sinais diversos utilizados pelos indivíduos para se comunicarem. No caso das abelhas da espécie <em>Apis mellifera</em>, os sinais utilizados podem ser feromônios. Para saírem e voltarem de suas colmeias, usam um feromônio que indica a trilha percorrida por elas (Composto A). Quando pressentem o perigo, expelem um feromônio de alarme (Composto B), que serve de sinal para um combate coletivo. O que diferencia cada um desses sinais utilizados pelas abelhas são as estruturas e funções orgânicas dos feromônios.</p>[[fig:1]]<p class=\"fonte\">QUADROS, A. L. Os feromônios e o ensino de química. Química Nova na Escola, n. 7, maio 1998 (adaptado).</p><p>As funções orgânicas que caracterizam os feromônios de trilha e de alarme são, respectivamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q59.webp",
+     "alt": "Composto A: cadeia com duas ligações duplas e um grupo CH₂OH na ponta (geraniol). Composto B: CH₃COO(CH₂)CH(CH₃)₂, um acetato de cadeia ramificada."
+    }
+   ],
+   "alternativas": {
+    "A": "álcool e éster.",
+    "B": "aldeído e cetona.",
+    "C": "éter e hidrocarboneto.",
+    "D": "enol e ácido carboxílico.",
+    "E": "ácido carboxílico e amida."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O composto A tem o grupo CH₂OH ligado a carbono saturado: <strong>álcool</strong>. O composto B tem o grupo –COO– entre duas cadeias (CH₃COO–): <strong>éster</strong>. Alternativa <strong>A</strong>.</p><p>Não há C=O de aldeído ou cetona isolado (B), éter (C), enol (D), ácido carboxílico livre ou amida (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "feromônios"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Química",
+   "assunto": "Reações orgânicas",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p>O permanganato de potássio (KMnO<sub>4</sub>) é um agente oxidante forte muito empregado tanto em nível laboratorial quanto industrial. Na oxidação de alcenos de cadeia normal, como o 1-fenil-1-propeno, ilustrado na figura, o KMnO<sub>4</sub> é utilizado para a produção de ácidos carboxílicos.</p>[[fig:1]]<p>Os produtos obtidos na oxidação do alceno representado, em solução aquosa de KMnO<sub>4</sub>, são:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q60.webp",
+     "alt": "Fórmula estrutural do 1-fenil-1-propeno: um anel benzênico ligado a uma cadeia de três carbonos com ligação dupla entre o primeiro e o segundo carbono."
+    }
+   ],
+   "alternativas": {
+    "A": "Ácido benzoico e ácido etanoico.",
+    "B": "Ácido benzoico e ácido propanoico.",
+    "C": "Ácido etanoico e ácido 2-feniletanoico.",
+    "D": "Ácido 2-feniletanoico e ácido metanoico.",
+    "E": "Ácido 2-feniletanoico e ácido propanoico."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O KMnO₄ em meio aquoso quebra a ligação dupla C=C e oxida cada lado a ácido carboxílico. No 1-fenil-1-propeno (C₆H₅–CH=CH–CH₃), o lado do anel vira C₆H₅–COOH (<strong>ácido benzoico</strong>) e o outro, CH₃–COOH (<strong>ácido etanoico</strong>). Alternativa <strong>A</strong>.</p><p>A quebra é na dupla, entre os carbonos 1 e 2 da cadeia: o lado do anel fica com um carbono e o outro com dois (B a E erram essa contagem).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "oxidação de alcenos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p class=\"apoio\">O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N<sub>2</sub>, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N<sub>2</sub>, que ocorrem de forma livre ou simbiontes com plantas.</p><p class=\"fonte\">ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado).</p><p>Animais garantem suas necessidades metabólicas desse elemento pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "absorção do gás nitrogênio pela respiração.",
+    "B": "ingestão de moléculas de carboidratos vegetais.",
+    "C": "incorporação de nitritos dissolvidos na água consumida.",
+    "D": "transferência da matéria orgânica pelas cadeias tróficas.",
+    "E": "protocooperação com microrganismos fixadores de nitrogênio."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Animais não fixam N₂ do ar. Eles obtêm nitrogênio comendo proteínas e outras moléculas orgânicas nitrogenadas, ou seja, pela <strong>transferência da matéria orgânica nas cadeias tróficas</strong>. Alternativa <strong>D</strong>.</p><p>O N₂ respirado não é aproveitado (A). Carboidratos não têm nitrogênio (B). Nitritos na água não são a fonte (C). E animais não têm fixadores simbiontes de N₂ (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo do nitrogênio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Química",
+   "assunto": "Funções inorgânicas",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p class=\"apoio\">Em um experimento, colocou-se água até a metade da capacidade de um frasco de vidro e, em seguida, adicionaram-se três gotas de solução alcoólica de fenolftaleína. Adicionou-se bicarbonato de sódio comercial, em pequenas quantidades, até que a solução se tornasse rosa. Dentro do frasco, acendeu-se um palito de fósforo, o qual foi apagado assim que a cabeça terminou de queimar. Imediatamente, o frasco foi tampado. Em seguida, agitou-se o frasco tampado e observou-se o desaparecimento da cor rosa.</p><p class=\"fonte\">MATEUS, A. L. Química na cabeça. Belo Horizonte: UFMG, 2001 (adaptado).</p><p>A explicação para o desaparecimento da cor rosa é que, com a combustão do palito de fósforo, ocorreu o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "formação de óxidos de caráter ácido.",
+    "B": "evaporação do indicador fenolftaleína.",
+    "C": "vaporização de parte da água do frasco.",
+    "D": "vaporização dos gases de caráter alcalino.",
+    "E": "aumento do pH da solução no interior do frasco."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A queima da cabeça do fósforo libera óxidos como o SO₂, que na água formam ácido. O meio, antes básico (rosa com fenolftaleína), fica ácido, e a cor some. Alternativa <strong>A</strong>.</p><p>A fenolftaleína não evapora (B), a água não muda o pH ao vaporizar (C), não há gases alcalinos (D), e o pH diminui, não aumenta (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "óxidos ácidos",
+    "indicadores"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p>Uma pessoa abre sua geladeira, verifica o que há dentro e depois fecha a porta dessa geladeira. Em seguida, ela tenta abrir a geladeira novamente, mas só consegue fazer isso depois de exercer uma força mais intensa do que a habitual.</p><p>A dificuldade extra para reabrir a geladeira ocorre porque o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "volume de ar dentro da geladeira diminuiu.",
+    "B": "motor da geladeira está funcionando com potência máxima.",
+    "C": "força exercida pelo ímã fixado na porta da geladeira aumenta.",
+    "D": "pressão no interior da geladeira está abaixo da pressão externa.",
+    "E": "temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Ao abrir a porta, entra ar quente; fechada, a geladeira resfria esse ar, e a pressão interna cai. A diferença entre a pressão de fora e a de dentro empurra a porta contra a geladeira. Alternativa <strong>D</strong>.</p><p>O volume interno não muda (A), o motor e o ímã não explicam o efeito (B e C), e a temperatura menor só importa porque reduz a pressão (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão",
+    "gases"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p class=\"apoio\">Uma análise criteriosa do desempenho de Usain Bolt na quebra do recorde mundial dos 100 metros rasos mostrou que, apesar de ser o último dos corredores a reagir ao tiro e iniciar a corrida, seus primeiros 30 metros foram os mais velozes já feitos em um recorde mundial, cruzando essa marca em 3,78 segundos. Até se colocar com o corpo reto, foram 13 passadas, mostrando sua potência durante a aceleração, o momento mais importante da corrida. Ao final desse percurso, Bolt havia atingido a velocidade máxima de 12 m/s.</p><p class=\"fonte\">Disponível em: http://esporte.uol.com.br. Acesso em: 5 ago. 2012 (adaptado).</p><p>Supondo que a massa desse corredor seja igual a 90 kg, o trabalho total realizado nas 13 primeiras passadas é mais próximo de:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "5,4×102 J.",
+    "B": "6,5×103 J.",
+    "C": "8,6×103 J.",
+    "D": "1,3×104 J.",
+    "E": "3,2×104 J."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Pelo teorema da energia cinética, o trabalho total é a variação da energia cinética: W = ½ · 90 · 12² = 6 480 J ≈ <strong>6,5 × 10³ J</strong>. Alternativa <strong>B</strong>.</p><p>O número de passadas e o tempo não entram na conta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "teorema da energia cinética"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "<p>Uma garrafa térmica tem como função evitar a troca de calor entre o líquido nela contido e o ambiente, mantendo a temperatura de seu conteúdo constante. Uma forma de orientar os consumidores na compra de uma garrafa térmica seria criar um selo de qualidade, como se faz atualmente para informar o consumo de energia de eletrodomésticos. O selo identificaria cinco categorias e informaria a variação de temperatura do conteúdo da garrafa, depois de decorridas seis horas de seu fechamento, por meio de uma porcentagem do valor inicial da temperatura de equilíbrio do líquido na garrafa. O quadro apresenta as categorias e os intervalos de variação percentual da temperatura.</p><table><thead><tr><th>Tipo de selo</th><th>Variação de temperatura</th></tr></thead><tbody><tr><td>A</td><td>menor que 10%</td></tr><tr><td>B</td><td>entre 10% e 25%</td></tr><tr><td>C</td><td>entre 25% e 40%</td></tr><tr><td>D</td><td>entre 40% e 55%</td></tr><tr><td>E</td><td>maior que 55%</td></tr></tbody></table><p>Para atribuir uma categoria a um modelo de garrafa térmica, são preparadas e misturadas, em uma garrafa, duas amostras de água, uma a 10 °C e outra a 40 °C, na proporção de um terço de água fria para dois terços de água quente. A garrafa é fechada. Seis horas depois, abre-se a garrafa e mede-se a temperatura da água, obtendo-se 16 °C.</p><p>Qual selo deveria ser posto na garrafa térmica testada?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "D",
+    "E": "E"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Temperatura de equilíbrio inicial: (1 · 10 + 2 · 40) ÷ 3 = 30 °C. Depois de seis horas, 16 °C: variação de 14 °C, ou 14 ÷ 30 ≈ 47% do valor inicial. Isso fica entre 40% e 55%: selo <strong>D</strong>. Alternativa <strong>D</strong>.</p><p>Usar 40 °C como referência daria 60% (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calorimetria"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p>A cariotipagem é um método que analisa células de um indivíduo para determinar seu padrão cromossômico. Essa técnica consiste na montagem fotográfica, em sequência, dos pares de cromossomos e permite identificar um indivíduo normal (46, XX ou 46, XY) ou com alguma alteração cromossômica. A investigação do cariótipo de uma criança do sexo masculino com alterações morfológicas e comprometimento cognitivo verificou que ela apresentava fórmula cariotípica 47, XY, +18.</p><p>A alteração cromossômica da criança pode ser classificada como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "estrutural, do tipo deleção.",
+    "B": "numérica, do tipo euploidia.",
+    "C": "numérica, do tipo poliploidia.",
+    "D": "estrutural, do tipo duplicação.",
+    "E": "numérica, do tipo aneuploidia."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A fórmula 47, XY, +18 indica um cromossomo 18 a mais (trissomia do 18, síndrome de Edwards): alteração <strong>numérica</strong>, do tipo <strong>aneuploidia</strong> (ganho ou perda de cromossomos isolados). Alternativa <strong>E</strong>.</p><p>Não é estrutural (A e D). Euploidia e poliploidia envolvem conjuntos inteiros de cromossomos (B e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cariótipo",
+    "trissomia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "<p>Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo do dia em que esse grupo estava perdido, sem água e debaixo de sol, os estudantes passaram a sentir cada vez mais sede. Consequentemente, o sistema excretor desses indivíduos teve um acréscimo em um dos seus processos funcionais.</p><p>Nessa situação o sistema excretor dos estudantes</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aumentou a filtração glomerular.",
+    "B": "produziu maior volume de urina.",
+    "C": "produziu urina com menos ureia.",
+    "D": "produziu urina com maior concentração de sais.",
+    "E": "reduziu a reabsorção de glicose e aminoácidos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com desidratação, aumenta o hormônio antidiurético (ADH), os rins reabsorvem mais água e produzem pouca urina, <strong>mais concentrada em sais</strong>. Alternativa <strong>D</strong>.</p><p>O volume de urina diminui, não aumenta (B). A filtração não sobe (A), a ureia fica mais concentrada (C), e glicose e aminoácidos continuam sendo reabsorvidos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sistema excretor",
+    "ADH"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p>Um estudante, precisando instalar um computador, um monitor e uma lâmpada em seu quarto, verificou que precisaria fazer a instalação de duas tomadas e um interruptor na rede elétrica. Decidiu esboçar com antecedência o esquema elétrico.</p><p>“O circuito deve ser tal que as tomadas e a lâmpada devem estar submetidas à tensão nominal da rede elétrica e a lâmpada deve poder ser ligada ou desligada por um interruptor sem afetar os outros dispositivos” — pensou.</p><p>Símbolos adotados:</p>[[fig:1]]<p>Qual dos circuitos esboçados atende às exigências?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q68s.webp",
+     "alt": "Símbolos adotados: lâmpada (círculo com um X), tomada (hexágono com três furos) e interruptor (traço com uma chave aberta)."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q68a.webp",
+     "alt": "Circuito A: lâmpada e duas tomadas em paralelo, com o interruptor no fio principal, comandando todos."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q68b.webp",
+     "alt": "Circuito B: uma tomada de um lado e, do outro, lâmpada e tomada em paralelo, todas depois do interruptor, no fio principal."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q68c.webp",
+     "alt": "Circuito C: interruptor no fio principal; uma tomada em série no fio de cima, e lâmpada e outra tomada em ramos abaixo."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q68d.webp",
+     "alt": "Circuito D: uma tomada em série no fio de cima, outra em série no fio de baixo, interruptor e a lâmpada à direita."
+    },
+    {
+     "src": "assets/img/enem-2015-natureza/q68e.webp",
+     "alt": "Circuito E: as duas tomadas em paralelo, ligadas direto aos fios da rede; a lâmpada em outro ramo paralelo, com o interruptor em série só com ela."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As tomadas e a lâmpada precisam ficar em <strong>paralelo</strong>, cada uma com a tensão da rede, e o interruptor deve ficar em série <strong>só com a lâmpada</strong>, para ligá-la e desligá-la sem afetar as tomadas. É o circuito E. Alternativa <strong>E</strong>.</p><p>Em A e B o interruptor corta também as tomadas; em C e D alguns aparelhos ficam em série e não recebem a tensão nominal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "circuitos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p>Normalmente, as células do organismo humano realizam a respiração aeróbica, na qual o consumo de uma molécula de glicose gera 38 moléculas de ATP. Contudo, em condições anaeróbicas, o consumo de uma molécula de glicose pelas células é capaz de gerar apenas duas moléculas de ATP.</p>[[fig:1]]<p>Qual curva representa o perfil de consumo de glicose, para manutenção da homeostase de uma célula que inicialmente está em uma condição anaeróbica e é submetida a um aumento gradual da concentração de oxigênio?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q69.webp",
+     "alt": "Gráfico do consumo de glicose × concentração de oxigênio (de 7 a 42, unidades arbitrárias) com cinco curvas: 1 é constante e alta; 2 oscila com grande amplitude; 3 cresce; 4 oscila com pequena amplitude; 5 decresce de cerca de 40 para perto de 5."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Sem oxigênio, a célula faz fermentação e precisa consumir muita glicose (só 2 ATP por molécula). À medida que o oxigênio aumenta, a respiração aeróbica (38 ATP por glicose) assume, e o consumo de glicose cai. É a curva decrescente <strong>5</strong>. Alternativa <strong>E</strong>.</p><p>As curvas 1 a 4 são constantes, crescentes ou oscilantes, o contrário do esperado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fermentação",
+    "respiração celular"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p>Um garoto foi à loja comprar um estilingue e encontrou dois modelos: um com borracha mais “dura” e outro com borracha mais “mole”. O garoto concluiu que o mais adequado seria o que proporcionasse maior alcance horizontal, D, para as mesmas condições de arremesso, quando submetidos à mesma força aplicada. Sabe-se que a constante elástica k<sub>d</sub> (do estilingue mais “duro”) é o dobro da constante elástica k<sub>m</sub> (do estilingue mais “mole”).</p><p>A razão entre os alcances \\(\\dfrac{D_d}{D_m}\\), referentes aos estilingues com borrachas “dura” e “mole”, respectivamente, é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{4}\\).",
+    "B": "\\(\\dfrac{1}{2}\\).",
+    "C": "1.",
+    "D": "2.",
+    "E": "4."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Com a mesma força F, a borracha se deforma x = F/k, e a energia elástica é F²/(2k): quanto maior k, <strong>menor</strong> a energia. Essa energia vira cinética, e o alcance horizontal é proporcional a v², isto é, à energia. Como k<sub>d</sub> = 2k<sub>m</sub>, D<sub>d</sub>/D<sub>m</sub> = <strong>1/2</strong>. Alternativa <strong>B</strong>.</p><p>Quem pensa em “mesma deformação” chega a 2 (D), mas o enunciado fixa a força.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia elástica",
+    "lançamento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p>Vários ácidos são utilizados em indústrias que descartam seus efluentes nos corpos d’água, como rios e lagos, podendo afetar o equilíbrio ambiental. Para neutralizar a acidez, o sal carbonato de cálcio pode ser adicionado ao efluente, em quantidades apropriadas, pois produz bicarbonato, que neutraliza a água. As equações envolvidas no processo são apresentadas:</p><p class=\"apoio\">(I) \\(\\text{CaCO}_3\\text{(s)} + \\text{CO}_2\\text{(g)} + \\text{H}_2\\text{O}(\\ell) \\rightleftharpoons \\text{Ca}^{2+}\\text{(aq)} + 2\\,\\text{HCO}_3^-\\text{(aq)}\\)</p><p class=\"apoio\">(II) \\(\\text{HCO}_3^-\\text{(aq)} \\rightleftharpoons \\text{H}^+\\text{(aq)} + \\text{CO}_3^{2-}\\text{(aq)}\\) &nbsp; K<sub>1</sub> = 3,0 × 10<sup>–11</sup></p><p class=\"apoio\">(III) \\(\\text{CaCO}_3\\text{(s)} \\rightleftharpoons \\text{Ca}^{2+}\\text{(aq)} + \\text{CO}_3^{2-}\\text{(aq)}\\) &nbsp; K<sub>2</sub> = 6,0 × 10<sup>–9</sup></p><p class=\"apoio\">(IV) \\(\\text{CO}_2\\text{(g)} + \\text{H}_2\\text{O}(\\ell) \\rightleftharpoons \\text{H}^+\\text{(aq)} + \\text{HCO}_3^-\\text{(aq)}\\) &nbsp; K<sub>3</sub> = 2,5 × 10<sup>–7</sup></p><p>Com base nos valores das constantes de equilíbrio das reações II, III e IV a 25 °C, qual é o valor numérico da constante de equilíbrio da reação I?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4,5 × 10<sup>–26</sup>",
+    "B": "5,0 × 10<sup>–5</sup>",
+    "C": "0,8 × 10<sup>–9</sup>",
+    "D": "0,2 × 10<sup>5</sup>",
+    "E": "2,2 × 10<sup>26</sup>"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A reação I é a soma de III (CaCO₃ ⇌ Ca²⁺ + CO₃²⁻) com IV (CO₂ + H₂O ⇌ H⁺ + HCO₃⁻) e com o inverso de II (H⁺ + CO₃²⁻ ⇌ HCO₃⁻). Logo K = K₂ · K₃ ÷ K₁ = 6,0 × 10⁻⁹ · 2,5 × 10⁻⁷ ÷ 3,0 × 10⁻¹¹ = <strong>5,0 × 10⁻⁵</strong>. Alternativa <strong>B</strong>.</p><p>Multiplicar as três constantes, sem inverter a de II, dá 4,5 × 10⁻²⁶ (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "constante de equilíbrio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p class=\"apoio\">Tanto a febre amarela quanto a dengue são doenças causadas por vírus do grupo dos arbovírus, pertencentes ao gênero <em>Flavivirus</em>, existindo quatro sorotipos para o vírus causador da dengue. A transmissão de ambas acontece por meio da picada de mosquitos, como o <em>Aedes aegypti</em>. Entretanto, embora compartilhem essas características, hoje somente existe vacina, no Brasil, para a febre amarela e nenhuma vacina efetiva para a dengue.</p><p class=\"fonte\">MINISTÉRIO DA SAÚDE. Fundação Nacional de Saúde. Dengue: Instruções para pessoal de combate ao vetor. Manual de Normas Técnicas. Disponível em: http://portal.saude.gov.br. Acesso em: 7 ago. 2012 (adaptado).</p><p>Esse fato pode ser atribuído à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "maior taxa de mutação do vírus da febre amarela do que do vírus da dengue.",
+    "B": "alta variabilidade antigênica do vírus da dengue em relação ao vírus da febre amarela.",
+    "C": "menor adaptação do vírus da dengue à população humana do que do vírus da febre amarela.",
+    "D": "presença de dois tipos de ácidos nucleicos no vírus da dengue e somente um tipo no vírus da febre amarela.",
+    "E": "baixa capacidade de indução da resposta imunológica pelo vírus da dengue em relação ao da febre amarela."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O vírus da dengue tem quatro sorotipos com antígenos diferentes; uma vacina precisa proteger contra todos ao mesmo tempo. Essa <strong>alta variabilidade antigênica</strong> é o que dificultava a vacina, ao contrário da febre amarela. Alternativa <strong>B</strong>.</p><p>O texto não indica mutação maior na febre amarela (A), adaptação diferente (C), dois tipos de ácido nucleico (D) ou baixa resposta imune (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vacinas",
+    "dengue"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Física",
+   "assunto": "Física moderna",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">ANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento).</p><p>Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q73.webp",
+     "alt": "Trecho do poema “A bomba”, de Carlos Drummond de Andrade, reproduzido da prova: diz que a bomba reduz neutros e neutrinos e se abana com o leque da reação em cadeia."
+    }
+   ],
+   "alternativas": {
+    "A": "fissão do <sup>235</sup>U ocorre liberação de grande quantidade de calor, que dá continuidade à reação.",
+    "B": "fissão de <sup>235</sup>U ocorre liberação de energia, que vai desintegrando o isótopo <sup>238</sup>U, enriquecendo-o em mais <sup>235</sup>U.",
+    "C": "fissão do <sup>235</sup>U ocorre uma liberação de nêutrons, que bombardearão outros núcleos.",
+    "D": "fusão do <sup>235</sup>U com <sup>238</sup>U ocorre formação de neutrino, que bombardeará outros núcleos radioativos.",
+    "E": "fusão do <sup>235</sup>U com <sup>238</sup>U ocorre formação de outros elementos radioativos mais pesados, que desencadeiam novos processos de fusão."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na fissão do urânio-235, cada núcleo atingido por um nêutron se divide e <strong>libera novos nêutrons</strong>, que atingem outros núcleos, e assim por diante: é a reação em cadeia. Alternativa <strong>C</strong>.</p><p>O calor não mantém a reação (A). O U-238 não é “enriquecido” assim (B). E a bomba de urânio usa fissão, não fusão (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fissão nuclear"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "<p class=\"apoio\">A palavra “biotecnologia” surgiu no século XX, quando o cientista Herbert Boyer introduziu a informação responsável pela fabricação da insulina humana em uma bactéria, para que ela passasse a produzir a substância.</p><p class=\"fonte\">Disponível em: www.brasil.gov.br. Acesso em: 28 jul. 2012 (adaptado).</p><p>As bactérias modificadas por Herbert Boyer passaram a produzir insulina humana porque receberam</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a sequência de DNA codificante de insulina humana.",
+    "B": "a proteína sintetizada por células humanas.",
+    "C": "um RNA recombinante de insulina humana.",
+    "D": "o RNA mensageiro de insulina humana.",
+    "E": "um cromossomo da espécie humana."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na técnica do DNA recombinante, o gene humano da insulina (a <strong>sequência de DNA</strong>) é inserido na bactéria, que passa a transcrevê-lo e traduzi-lo. Alternativa <strong>A</strong>.</p><p>A bactéria não recebe a proteína pronta (B), nem RNA (C e D), nem um cromossomo humano inteiro (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "engenharia genética"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p class=\"apoio\">Será que uma miragem ajudou a afundar o Titanic? O fenômeno ótico conhecido como Fata Morgana pode fazer com que uma falsa parede de água apareça sobre o horizonte molhado. Quando as condições são favoráveis, a luz refletida pela água fria pode ser desviada por uma camada incomum de ar quente acima, chegando até o observador, vinda de muitos ângulos diferentes. De acordo com estudos de pesquisadores da Universidade de San Diego, uma Fata Morgana pode ter obscurecido os <em>icebergs</em> da visão da tripulação que estava a bordo do Titanic. Dessa forma, a certa distância, o horizonte verdadeiro fica encoberto por uma névoa escurecida, que se parece muito com águas calmas no escuro.</p><p class=\"fonte\">Disponível em: http://apod.nasa.gov. Acesso em: 6 set. 2012 (adaptado).</p><p>O fenômeno ótico que, segundo os pesquisadores, provoca a Fata Morgana é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ressonância.",
+    "B": "refração.",
+    "C": "difração.",
+    "D": "reflexão.",
+    "E": "difusão."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A camada de ar quente perto da água e o ar frio acima têm índices de refração diferentes; a luz se curva ao atravessá-los (<strong>refração</strong>) e forma a falsa imagem do horizonte, a miragem. Alternativa <strong>B</strong>.</p><p>Ressonância, difração, reflexão e difusão não explicam a miragem (A, C, D e E); a reflexão total, às vezes citada, é consequência da refração gradual.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "miragem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Química",
+   "assunto": "Cálculos químicos",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p>Para proteger estruturas de aço da corrosão, a indústria utiliza uma técnica chamada galvanização. Um metal bastante utilizado nesse processo é o zinco, que pode ser obtido a partir de um minério denominado esfalerita (ZnS), de pureza 75%. Considere que a conversão do minério em zinco metálico tem rendimento de 80% nesta sequência de equações químicas:</p><p class=\"apoio\">2 ZnS + 3 O<sub>2</sub> → 2 ZnO + 2 SO<sub>2</sub></p><p class=\"apoio\">ZnO + CO → Zn + CO<sub>2</sub></p><p>Considere as massas molares: ZnS (97 g/mol); O<sub>2</sub> (32 g/mol); ZnO (81 g/mol); SO<sub>2</sub> (64 g/mol); CO (28 g/mol); CO<sub>2</sub> (44 g/mol); e Zn (65 g/mol).</p><p>Que valor mais próximo de massa de zinco metálico, em quilogramas, será produzido a partir de 100 kg de esfalerita?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "25",
+    "B": "33",
+    "C": "40",
+    "D": "50",
+    "E": "54"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>ZnS puro: 75% de 100 kg = 75 kg. Pela estequiometria, 1 ZnS dá 1 Zn: 75 kg × 65/97 ≈ 50,3 kg de Zn; com rendimento de 80%: 50,3 × 0,8 ≈ <strong>40 kg</strong>. Alternativa <strong>C</strong>.</p><p>Esquecer o rendimento dá 50 kg (D); esquecer a pureza, 54 kg (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estequiometria",
+    "rendimento",
+    "pureza"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Química",
+   "assunto": "Reações orgânicas",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p>Hidrocarbonetos podem ser obtidos em laboratório por descarboxilação oxidativa anódica, processo conhecido como eletrossíntese de Kolbe. Essa reação é utilizada na síntese de hidrocarbonetos diversos, a partir de óleos vegetais, os quais podem ser empregados como fontes alternativas de energia, em substituição aos hidrocarbonetos fósseis. O esquema ilustra simplificadamente esse processo.</p>[[fig:1]]<p class=\"fonte\">AZEVEDO, D. C.; GOULART, M. O. F. Estereosseletividade em reações eletródicas. Química Nova, n. 2, 1997 (adaptado).</p><p>Com base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q77.webp",
+     "alt": "Esquema: 2 moléculas de ácido propanoico (CH₃CH₂COOH), por eletrólise com KOH e metanol, formam butano (CH₃CH₂CH₂CH₃) e 2 CO₂."
+    }
+   ],
+   "alternativas": {
+    "A": "2,2,7,7-tetrametil-octano.",
+    "B": "3,3,4,4-tetrametil-hexano.",
+    "C": "2,2,5,5-tetrametil-hexano.",
+    "D": "3,3,6,6-tetrametil-octano.",
+    "E": "2,2,4,4-tetrametil-hexano."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na eletrólise de Kolbe, o ácido perde o CO₂ e os dois radicais restantes se unem. O ácido 3,3-dimetil-butanoico, (CH₃)₃C–CH₂–COOH, dá o radical (CH₃)₃C–CH₂•; dois deles formam (CH₃)₃C–CH₂–CH₂–C(CH₃)₃, o <strong>2,2,5,5-tetrametil-hexano</strong>. Alternativa <strong>C</strong>.</p><p>As outras alternativas trocam a posição das ramificações ou o tamanho da cadeia principal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eletrólise de Kolbe"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p class=\"apoio\">A definição de queimadura é bem ampla, porém, basicamente, é a lesão causada pela ação direta ou indireta produzida pela transferência de calor para o corpo. A sua manifestação varia desde bolhas (flictenas) até formas mais graves, capazes de desencadear respostas sistêmicas proporcionais à gravidade da lesão e sua respectiva extensão. Muitas vezes, os primeiros socorros prestados à vítima, ao invés de ajudar, acabam agravando ainda mais a situação do paciente.</p><p class=\"fonte\">Disponível em: www.bombeiros-bm.rs.gov.br. Acesso em: 28 fev. 2012 (adaptado).</p><p>Ao se deparar com um indivíduo que sofreu queimadura com formação de flictena, o procedimento de primeiros socorros que deve ser realizado antes de encaminhar o paciente ao hospital é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "colocar gelo sobre a flictena para amenizar o ardor.",
+    "B": "utilizar manteiga para evitar o rompimento da flictena.",
+    "C": "passar creme dental para diminuir a ardência da flictena.",
+    "D": "perfurar a flictena para que a água acumulada seja liberada.",
+    "E": "cobrir a flictena com gazes molhadas para evitar a desidratação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A bolha (flictena) protege a pele lesada contra infecções. O certo é <strong>cobri-la com gaze úmida</strong> e procurar atendimento, sem estourá-la. Alternativa <strong>E</strong>.</p><p>Gelo agrava a lesão (A). Manteiga e pasta de dente contaminam (B e C). Furar a bolha abre caminho para infecção (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "primeiros socorros",
+    "queimaduras"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p>As altas temperaturas de combustão e o atrito entre suas peças móveis são alguns dos fatores que provocam o aquecimento dos motores à combustão interna. Para evitar o superaquecimento e consequentes danos a esses motores, foram desenvolvidos os atuais sistemas de refrigeração, em que um fluido arrefecedor com propriedades especiais circula pelo interior do motor, absorvendo o calor que, ao passar pelo radiador, é transferido para a atmosfera.</p><p>Qual propriedade o fluido arrefecedor deve possuir para cumprir seu objetivo com maior eficiência?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Alto calor específico.",
+    "B": "Alto calor latente de fusão.",
+    "C": "Baixa condutividade térmica.",
+    "D": "Baixa temperatura de ebulição.",
+    "E": "Alto coeficiente de dilatação térmica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O fluido precisa absorver muito calor sem esquentar demais: deve ter <strong>alto calor específico</strong>. Alternativa <strong>A</strong>.</p><p>O fluido não muda de estado (B). Baixa condutividade atrapalharia a troca de calor (C). Baixa temperatura de ebulição faria o líquido ferver (D). E dilatação alta não ajuda (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calor específico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p>Pesticidas são substâncias utilizadas para promover o controle de pragas. No entanto, após sua aplicação em ambientes abertos, alguns pesticidas organoclorados são arrastados pela água até lagos e rios e, ao passar pelas guelras dos peixes, podem difundir-se para seus tecidos lipídicos e lá se acumularem.</p><p>A característica desses compostos, responsável pelo processo descrito no texto, é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "baixa polaridade.",
+    "B": "baixa massa molecular.",
+    "C": "ocorrência de halogênios.",
+    "D": "tamanho pequeno das moléculas.",
+    "E": "presença de hidroxilas nas cadeias."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Organoclorados são pouco polares: dissolvem-se pouco na água e muito nas gorduras, por isso se acumulam nos tecidos lipídicos. Alternativa <strong>A</strong>.</p><p>Massa molecular, tamanho e condutividade não explicam a afinidade por gordura (B, C e D), e hidroxilas aumentariam a polaridade (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "polaridade",
+    "bioacumulação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p>A calda bordalesa é uma alternativa empregada no combate a doenças que afetam folhas de plantas. Sua produção consiste na mistura de uma solução aquosa de sulfato de cobre(II), CuSO<sub>4</sub>, com óxido de cálcio, CaO, e sua aplicação só deve ser realizada se estiver levemente básica. A avaliação rudimentar da basicidade dessa solução é realizada pela adição de três gotas sobre uma faca de ferro limpa. Após três minutos, caso surja uma mancha avermelhada no local da aplicação, afirma-se que a calda bordalesa ainda não está com a basicidade necessária. O quadro apresenta os valores de potenciais padrão de redução (<em>E</em>°) para algumas semirreações de redução.</p><table><thead><tr><th>Semirreação de redução</th><th><em>E</em>° (V)</th></tr></thead><tbody><tr><td>Ca<sup>2+</sup> + 2 e<sup>–</sup> → Ca</td><td>−2,87</td></tr><tr><td>Fe<sup>3+</sup> + 3 e<sup>–</sup> → Fe</td><td>−0,04</td></tr><tr><td>Cu<sup>2+</sup> + 2 e<sup>–</sup> → Cu</td><td>+0,34</td></tr><tr><td>Cu<sup>+</sup> + e<sup>–</sup> → Cu</td><td>+0,52</td></tr><tr><td>Fe<sup>3+</sup> + e<sup>–</sup> → Fe<sup>2+</sup></td><td>+0,77</td></tr></tbody></table><p class=\"fonte\">MOTTA, I. S. Calda bordalesa: utilidades e preparo. Dourados: Embrapa, 2008 (adaptado).</p><p>A equação química que representa a reação de formação da mancha avermelhada é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Ca<sup>2+</sup> (aq) + 2 Cu<sup>+</sup> (aq) → Ca (s) + 2 Cu<sup>2+</sup> (aq).",
+    "B": "Ca<sup>2+</sup> (aq) + 2 Fe<sup>2+</sup> (aq) → Ca (s) + 2 Fe<sup>3+</sup> (aq).",
+    "C": "Cu<sup>2+</sup> (aq) + 2 Fe<sup>2+</sup> (aq) → Cu (s) + 2 Fe<sup>3+</sup> (aq).",
+    "D": "3 Ca<sup>2+</sup> (aq) + 2 Fe (s) → 3 Ca (s) + 2 Fe<sup>3+</sup> (aq).",
+    "E": "3 Cu<sup>2+</sup> (aq) + 2 Fe (s) → 3 Cu (s) + 2 Fe<sup>3+</sup> (aq)."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A mancha avermelhada é cobre metálico depositado sobre a faca: o Cu²⁺ da solução recebe elétrons do ferro. Como E°(Cu²⁺/Cu) = +0,34 V é maior que E°(Fe³⁺/Fe) = −0,04 V, o ferro se oxida e o cobre se reduz: 3 Cu²⁺ + 2 Fe → 3 Cu + 2 Fe³⁺. Alternativa <strong>E</strong>.</p><p>O cálcio, com E° = −2,87 V, não se reduz nessas condições (A, B e D). C não envolve o ferro metálico da faca.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potencial de redução",
+    "calda bordalesa"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Estática",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p>Em um experimento, um professor levou para a sala de aula um saco de arroz, um pedaço de madeira triangular e uma barra de ferro cilíndrica e homogênea. Ele propôs que fizessem a medição da massa da barra utilizando esses objetos. Para isso, os alunos fizeram marcações na barra, dividindo-a em oito partes iguais, e em seguida apoiaram-na sobre a base triangular, com o saco de arroz pendurado em uma de suas extremidades, até atingir a situação de equilíbrio.</p>[[fig:1]]<p>Nessa situação, qual foi a massa da barra obtida pelos alunos?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q82.webp",
+     "alt": "Barra horizontal dividida em oito partes iguais, apoiada sobre uma base triangular a três partes de uma das extremidades; dessa extremidade pende um saco de arroz de 5,00 kg, e o sistema está em equilíbrio."
+    }
+   ],
+   "alternativas": {
+    "A": "3,00 kg",
+    "B": "3,75 kg",
+    "C": "5,00 kg",
+    "D": "6,00 kg",
+    "E": "15,00 kg"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A barra é homogênea, então seu peso atua no centro (marca 4 das 8 partes). O apoio está na marca 3 e o saco de 5,00 kg pende da ponta (marca 0). Momentos em relação ao apoio: 5,00 × 3 = M × 1, logo M = <strong>15,00 kg</strong>. Alternativa <strong>E</strong>.</p><p>Desprezar o peso da barra ou pôr o centro de massa no lugar errado leva às outras respostas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "alavanca",
+    "momento de força"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p>Os anfíbios representam o primeiro grupo de vertebrados que, evolutivamente, conquistou o ambiente terrestre. Apesar disso, a sobrevivência do grupo ainda permanece restrita a ambientes úmidos ou aquáticos, devido à manutenção de algumas características fisiológicas relacionadas à água.</p><p>Uma das características a que o texto se refere é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reprodução por viviparidade.",
+    "B": "respiração pulmonar nos adultos.",
+    "C": "regulação térmica por endotermia.",
+    "D": "cobertura corporal delgada e altamente permeável.",
+    "E": "locomoção por membros anteriores e posteriores desenvolvidos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A pele dos anfíbios é <strong>fina e permeável</strong>, usada também na respiração: perde água com facilidade, o que os prende a ambientes úmidos. Alternativa <strong>D</strong>.</p><p>A maioria dos anfíbios é ovípara, com ovos sem casca que também dependem da água, mas viviparidade não é a regra (A). Eles são ectotérmicos (C), e respiração pulmonar e membros desenvolvidos favorecem a vida em terra (B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anfíbios"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p>O aproveitamento de resíduos florestais vem se tornando cada dia mais atrativo, pois eles são uma fonte renovável de energia. A figura representa a queima de um bio-óleo extraído do resíduo de madeira, sendo ΔH<sub>1</sub> a variação de entalpia devido à queima de 1 g desse bio-óleo, resultando em gás carbônico e água líquida, e ΔH<sub>2</sub> a variação de entalpia envolvida na conversão de 1 g de água no estado gasoso para o estado líquido.</p>[[fig:1]]<p>A variação de entalpia, em kJ, para a queima de 5 g desse bio-óleo resultando em CO<sub>2</sub> (gasoso) e H<sub>2</sub>O (gasoso) é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q84.webp",
+     "alt": "Diagrama de energia: bio-óleo + O₂(g) no alto; uma seta desce ΔH₁ = −18,8 kJ/g até CO₂(g) + H₂O(ℓ), embaixo; num nível intermediário, CO₂(g) + H₂O(g), com uma seta ΔH₂ = −2,4 kJ/g até CO₂(g) + H₂O(ℓ)."
+    }
+   ],
+   "alternativas": {
+    "A": "−106.",
+    "B": "−94,0.",
+    "C": "−82,0.",
+    "D": "−21,2.",
+    "E": "−16,4."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para chegar a CO₂ e H₂O gasosos, desconta-se a condensação: −18,8 − (−2,4) = −16,4 kJ por grama. Para 5 g: 5 × (−16,4) = <strong>−82,0 kJ</strong>. Alternativa <strong>C</strong>.</p><p>−16,4 kJ é o valor por grama (E), e −106 kJ corresponde a somar as duas variações (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lei de Hess",
+    "entalpia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "<p class=\"apoio\">Entre os anos de 1028 e 1038, Alhazen (Ibn al-Haytham; 965-1040 d.C.) escreveu sua principal obra, o <em>Livro da Óptica</em>, que, com base em experimentos, explicava o funcionamento da visão e outros aspectos da ótica, por exemplo, o funcionamento da câmara escura. O livro foi traduzido e incorporado aos conhecimentos científicos ocidentais pelos europeus. Na figura, retirada dessa obra, é representada a imagem invertida de edificações em um tecido utilizado como anteparo.</p>[[fig:1]]<p class=\"fonte\">ZEWAIL, A. H. Micrographia of the twenty-first century: from camera obscura to 4D microscopy. Philosophical Transactions of the Royal Society A, v. 368, 2010 (adaptado).</p><p>Se fizermos uma analogia entre a ilustração e o olho humano, o tecido corresponde ao(à)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q85.webp",
+     "alt": "Gravura de uma câmara escura: dentro de uma sala fechada, pessoas observam na parede a imagem invertida das edificações de fora, projetada pela luz que entra por um pequeno orifício."
+    }
+   ],
+   "alternativas": {
+    "A": "íris.",
+    "B": "retina.",
+    "C": "pupila.",
+    "D": "córnea.",
+    "E": "cristalino."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na câmara escura, a imagem invertida se forma no anteparo do fundo; no olho, a imagem invertida se forma na <strong>retina</strong>. Alternativa <strong>B</strong>.</p><p>Íris e pupila controlam a entrada de luz (A e C), e córnea e cristalino desviam a luz (D e E): nenhuma delas é o anteparo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "câmara escura",
+    "olho humano"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p>Ao ouvir uma flauta e um piano emitindo a mesma nota musical, consegue-se diferenciar esses instrumentos um do outro.</p><p>Essa diferenciação se deve principalmente ao(à)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "intensidade sonora do som de cada instrumento musical.",
+    "B": "potência sonora do som emitido pelos diferentes instrumentos musicais.",
+    "C": "diferente velocidade de propagação do som emitido por cada instrumento musical.",
+    "D": "timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.",
+    "E": "altura do som, que possui diferentes frequências para diferentes instrumentos musicais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Mesma nota significa mesma frequência fundamental (mesma altura). O que distingue a flauta do piano é a forma da onda, resultado dos harmônicos de cada instrumento: o <strong>timbre</strong>. Alternativa <strong>D</strong>.</p><p>Intensidade e potência mudam o volume, não o tipo de som (A e B). A velocidade do som no ar é a mesma (C). E altura igual é o que define a mesma nota (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "timbre",
+    "acústica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "<p>O formato das células de organismos pluricelulares é extremamente variado. Existem células discoides, como é o caso das hemácias, as que lembram uma estrela, como os neurônios, e ainda algumas alongadas, como as musculares.</p><p>Em um mesmo organismo, a diferenciação dessas células ocorre por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "produzirem mutações específicas.",
+    "B": "possuírem DNA mitocondrial diferentes.",
+    "C": "apresentarem conjunto de genes distintos.",
+    "D": "expressarem porções distintas do genoma.",
+    "E": "terem um número distinto de cromossomos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Todas as células de um organismo têm o mesmo genoma; elas se diferenciam porque <strong>expressam genes diferentes</strong>. Alternativa <strong>D</strong>.</p><p>Não há mutações específicas (A), DNA mitocondrial diferente (B), conjuntos de genes distintos (C) nem número diferente de cromossomos (E) entre células normais do corpo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "diferenciação celular"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p>Para obter a posição de um telefone celular, a polícia baseia-se em informações do tempo de resposta do aparelho em relação às torres de celular da região de onde se originou a ligação. Em uma região, um aparelho está na área de cobertura de cinco torres, conforme o esquema.</p>[[fig:1]]<p>Considerando que as torres e o celular são puntiformes e que estão sobre um mesmo plano, qual o número mínimo de torres necessárias para se localizar a posição do telefone celular que originou a ligação?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q88.webp",
+     "alt": "Esquema com cinco torres de celular espalhadas num plano e um telefone celular no meio delas."
+    }
+   ],
+   "alternativas": {
+    "A": "Uma.",
+    "B": "Duas.",
+    "C": "Três.",
+    "D": "Quatro.",
+    "E": "Cinco."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O tempo de resposta dá a distância do celular a cada torre: cada torre define uma circunferência. Duas circunferências se cruzam em até dois pontos; a terceira escolhe um deles. São necessárias <strong>três</strong> torres. Alternativa <strong>C</strong>.</p><p>É o mesmo princípio da triangulação do GPS (que, no espaço, usa quatro satélites).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "triangulação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p class=\"apoio\"><em>Euphorbia milii</em> é uma planta ornamental amplamente disseminada no Brasil e conhecida como coroa-de-cristo. O estudo químico do látex dessa espécie forneceu o mais potente produto natural moluscicida, a miliamina L.</p><p class=\"fonte\">MOREIRA, C. P. S.; ZANI, C. L.; ALVES, T. M. A. Atividade moluscicida do látex de Synadenium carinatum boiss. (Euphorbiaceae) sobre Biomphalaria glabrata</p><p>e isolamento do constituinte majoritário. Revista Eletrônica de Farmácia, n. 3, 2010 (adaptado). O uso desse látex em água infestada por hospedeiros intermediários tem potencial para atuar no controle da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dengue.",
+    "B": "malária.",
+    "C": "elefantíase.",
+    "D": "ascaridíase.",
+    "E": "esquistossomose."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O látex mata moluscos. O caramujo <em>Biomphalaria</em> é o hospedeiro intermediário do <em>Schistosoma mansoni</em>: controlar o caramujo controla a <strong>esquistossomose</strong>. Alternativa <strong>E</strong>.</p><p>Dengue, malária e elefantíase são transmitidas por mosquitos (A, B e C), e a ascaridíase, por ingestão de ovos, sem hospedeiro intermediário (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "moluscicida",
+    "esquistossomose"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p>A química verde permite o desenvolvimento tecnológico com danos reduzidos ao meio ambiente, e encontrar rotas limpas tem sido um grande desafio. Considere duas rotas diferentes utilizadas para a obtenção de ácido adípico, um insumo muito importante para a indústria têxtil e de plastificantes.</p>[[fig:1]]<p class=\"fonte\">LENARDÃO, E. J. et al. Green chemistry – os 12 princípios da química verde e sua inserção nas atividades de ensino e pesquisa. <strong>Química Nova</strong>, n. 1, 2003 (adaptado).</p><p>Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação à primeira?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2015-natureza/q90.webp",
+     "alt": "Duas rotas de síntese do ácido adípico. Rota tradicional (marrom): ciclo-hexano, com cobalto a 180 °C, vira um hidroperóxido; com Cr(III) e lavagem cáustica, vira ciclo-hexanona e ciclo-hexanol; com HNO₃ 60%, V⁵⁺ e Cu a 120 °C, vira ácido adípico, CO₂ e N₂O. Rota verde: ciclo-hexeno, com Na₂WO₄ e 4 H₂O₂ a 75–90 °C, vira ácido adípico e 4 H₂O."
+    }
+   ],
+   "alternativas": {
+    "A": "Etapa única na síntese.",
+    "B": "Obtenção do produto puro.",
+    "C": "Ausência de reagentes oxidantes.",
+    "D": "Ausência de elementos metálicos no processo.",
+    "E": "Gasto de energia nulo na separação do produto."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Pelo esquema, a rota tradicional tem três etapas (ciclo-hexano → hidroperóxido → ciclo-hexanona e ciclo-hexanol → ácido adípico), cada uma com reagentes, aquecimento e separações. A rota verde chega ao ácido adípico numa <strong>etapa única</strong>, o que reduz energia, reagentes e resíduos. Alternativa <strong>A</strong>.</p><p>A rota verde também usa um oxidante, o H₂O₂ (C), e um catalisador metálico, o tungstato de sódio (D). O esquema não informa pureza do produto (B), e nenhuma separação tem gasto de energia nulo (E). Um ganho extra da rota verde, que não está nas alternativas, é não gerar N₂O, gás de efeito estufa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "química verde"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

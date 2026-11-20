@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#06191F">
+<meta name="description" content="A origem do Treineiros, o propósito do projeto e quem faz: Felipe Gustavo Bieco, desenvolvedor web do estado de São Paulo.">
+<link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/info.css"><link rel="stylesheet" href="css/acessibilidade.css">
+<script src="js/theme.js"></script>
+<title>Sobre | Treineiros</title>
+</head>
+<body>
+<!--
+  Página Sobre (versão mesclada do quadro de páginas): ficha do projeto, propósito, a origem como "Questão 01",
+  as regras do projeto, de estudante a quem faz, outros projetos e a chamada final.
+  Dados do autor tirados do currículo; os outros projetos são sites feitos por ele (ordem pedida pelo autor) (sem telefone, endereço nem e-mail pessoal; localização só pelo estado).
+  A "Questão 01" funciona sem script (gabarito visível); com js/sobre.js, a pessoa escolhe uma alternativa antes de ver o gabarito.
+-->
+<main id="conteudo" class="pag sobre-pag">
+  <div class="pag__corpo sobre-corpo">
+    <article class="ficha-proj" aria-labelledby="titulo">
+      <div class="ficha-proj__topo"><p class="ficha-proj__rot">Ficha do projeto</p><p>Inscrição gratuita · nenhuma taxa · nenhum cadastro</p></div>
+      <div class="ficha-proj__in">
+        <figure class="ficha-proj__foto">
+          <img src="assets/fotos/autor-3x4-320.webp" srcset="assets/fotos/autor-3x4-320.webp 320w, assets/fotos/autor-3x4-640.webp 640w" sizes="13rem" width="320" height="427" alt="Retrato de Felipe Gustavo Bieco, de óculos e blusa preta, diante de uma estante de livros.">
+        </figure>
+        <div class="ficha-proj__dados">
+          <h1 id="titulo">Treineiros, <em>simulados e provas</em></h1>
+          <dl class="ficha-proj__campos">
+            <div><dt>Criador</dt><dd>Felipe Gustavo Bieco</dd></div><div><dt>Localização</dt><dd>Estado de São Paulo</dd></div><div><dt>Profissão</dt><dd>Desenvolvedor web</dd></div><div><dt>Provas</dt><dd>ETEC, FATEC e Enem</dd></div><div><dt>Acervo</dt><dd>130 provas, 6.270 questões</dd></div><div><dt>Custo para estudar</dt><dd>R$ 0,00</dd></div>
+          </dl>
+          <ul class="autor__links">
+            <li><a class="rede rede--linkedin" href="https://www.linkedin.com/in/felipe-bieco-879893324/" rel="noopener" target="_blank"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect width="24" height="24" rx="4" fill="#fff"/><text x="12" y="18" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="15" fill="#0A66C2">in</text></svg>LinkedIn<span class="sr"> (abre em nova aba)</span></a></li>
+            <li><a class="rede rede--github" href="https://github.com/Felipotsz" rel="noopener" target="_blank"><svg viewBox="0 0 16 16" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>GitHub<span class="sr"> (abre em nova aba)</span></a></li>
+            <li><a href="mailto:educacao.treineiros@gmail.com">educacao.treineiros@gmail.com</a></li>
+          </ul>
+        </div>
+      </div>
+    </article>
+
+    <section class="manifesto" aria-labelledby="proposito">
+      <h2 id="proposito">O propósito</h2>
+      <p>Que estudar com as provas de verdade não dependa de quanto alguém pode pagar.</p>
+      <ul class="manifesto__itens"><li><span class="manifesto__n" aria-hidden="true">01</span><span><strong>Gratuito e sem limite</strong> Todas as provas liberadas, sem cota diária.</span></li><li><span class="manifesto__n" aria-hidden="true">02</span><span><strong>Tudo num lugar só</strong> Prova, gabarito oficial e explicação juntos.</span></li><li><span class="manifesto__n" aria-hidden="true">03</span><span><strong>Correção na hora</strong> Ou só no fim, como no dia da prova.</span></li><li><span class="manifesto__n" aria-hidden="true">04</span><span><strong>Feito para se concentrar</strong> Uma questão por vez, com o tempo oficial.</span></li><li><span class="manifesto__n" aria-hidden="true">05</span><span><strong>Para todo mundo</strong> No celular, sem internet e com acessibilidade.</span></li></ul>
+    </section>
+
+    <section class="q-origem" aria-labelledby="origem">
+      <p class="q-origem__num"><span>Questão 01</span> A origem do projeto</p>
+      <h2 id="origem">Um estudante procura onde treinar para a ETEC, a FATEC e o Enem. Encontra PDFs espalhados, o gabarito em outro arquivo e simulados que são pagos ou liberam só algumas questões. <strong>O que faltava a ele?</strong></h2>
+      <ol class="q-origem__alts" id="origem-alts">
+        <li data-letra="A"><span class="q-origem__bolha" aria-hidden="true">A</span><span>Provas oficiais, mas espalhadas em PDFs</span></li><li data-letra="B"><span class="q-origem__bolha" aria-hidden="true">B</span><span>Gabarito, mas em outro arquivo</span></li><li data-letra="C"><span class="q-origem__bolha" aria-hidden="true">C</span><span>Simulado pronto, mas pago</span></li><li data-letra="D"><span class="q-origem__bolha" aria-hidden="true">D</span><span>Simulado grátis, mas com poucas questões</span></li><li data-letra="E" data-certa><span class="q-origem__bolha" aria-hidden="true">E</span><span>Tudo isso junto, com correção na hora e de graça</span></li>
+      </ol>
+      <div class="q-origem__gab" id="origem-gab">
+        <p class="q-origem__gab-t">Gabarito comentado: E</p>
+        <p>As outras alternativas existiam, cada uma num canto. Faltava tudo junto: as provas oficiais completas, a correção na hora e nada para pagar. Foi daí que nasceu o Treineiros.</p>
+      </div>
+    </section>
+
+    <section class="carta-sec" aria-labelledby="regras">
+      <div class="titulo-linha"><h2 id="regras">As regras <em>deste projeto</em></h2></div>
+      <ol class="regras">
+        <li><span class="regras__n" aria-hidden="true">01</span><span><strong>Gratuito e sem limite</strong>Todas as provas e questões liberadas, sem anúncios e sem cota diária.</span></li><li><span class="regras__n" aria-hidden="true">02</span><span><strong>Tudo num lugar só</strong>Prova, gabarito oficial e explicação de cada questão, juntos.</span></li><li><span class="regras__n" aria-hidden="true">03</span><span><strong>Correção na hora</strong>Você responde e já vê se acertou e por quê, ou deixa para o fim, como no dia da prova.</span></li><li><span class="regras__n" aria-hidden="true">04</span><span><strong>Feito para se concentrar</strong>Uma questão por vez, com o tempo oficial e nada além da prova na tela.</span></li><li><span class="regras__n" aria-hidden="true">05</span><span><strong>Para todo mundo</strong>Funciona no celular, até sem internet depois de aberto, com teclado, leitor de tela e menu de acessibilidade.</span></li>
+      </ol>
+    </section>
+
+    <section class="carta-sec" aria-labelledby="quem">
+      <div class="titulo-linha"><h2 id="quem">De estudante <em>a quem faz</em></h2></div>
+      <ol class="trajeto">
+        <li><p class="trajeto__k">Técnico na ETEC</p><h3>Desenvolvimento de Sistemas, Farmácia e Química</h3><p>Na ETEC Sales Gomes, em Tatuí.</p></li><li><p class="trajeto__k">Ensino superior</p><h3>Gestão da Tecnologia da Informação</h3><p>Na FATEC Tatuí.</p></li><li><p class="trajeto__k">Ensino superior</p><h3>Investigação Forense e Perícia Criminal</h3><p>Na Unicesumar, em Tatuí.</p></li><li><p class="trajeto__k">O trabalho</p><h3>Desenvolvedor web</h3><p>Sites institucionais com foco em acessibilidade e experiência de uso: o do Grupo Planeta Ferramentas e o do Lions Clube de Tatuí.</p></li><li class="trajeto--hoje"><p class="trajeto__k">Hoje</p><h3>O Treineiros</h3><p>Todas as provas da ETEC, da FATEC e do Enem, de graça, sem cadastro e com explicação em cada questão.</p></li>
+      </ol>
+    </section>
+
+    <section class="carta-sec" aria-labelledby="outros">
+      <div class="titulo-linha"><h2 id="outros">Outros projetos <em>do Felipe</em></h2></div>
+      <ul class="projetos">
+        <li><a class="projeto" href="https://lionsclubedetatui.org.br/" rel="noopener" target="_blank"><strong>Lions Clube de Tatuí</strong><span>Site do clube de serviço voluntário: causas, como participar, doar e ir aos eventos, com recursos de acessibilidade.</span><span class="projeto__ver">Acessar site<span class="sr"> de Lions Clube de Tatuí (abre em nova aba)</span></span></a></li>
+        <li><a class="projeto" href="http://gpplaneta.com.br/" rel="noopener" target="_blank"><strong>Grupo Planeta Ferramentas</strong><span>Site institucional da empresa, do levantamento dos requisitos à entrega final.</span><span class="projeto__ver">Acessar site<span class="sr"> de Grupo Planeta Ferramentas (abre em nova aba)</span></span></a></li>
+        <li><a class="projeto" href="https://felipotsz.github.io/Lunna-Presentes/" rel="noopener" target="_blank"><strong>Lunna Presentes</strong><span>Loja de presentes personalizados, como canecas, quadros e moletons, e de brindes corporativos.</span><span class="projeto__ver">Acessar site<span class="sr"> de Lunna Presentes (abre em nova aba)</span></span></a></li>
+      </ul>
+    </section>
+
+    <section class="pronto" aria-labelledby="pronto">
+      <h2 id="pronto">Pronto para treinar?</h2>
+      <p class="botoes"><a class="btn btn--primary" href="provas.html">Escolher uma prova</a><a class="btn" href="apoie.html">Como apoiar</a></p>
+    </section>
+  </div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/acessibilidade.js"></script><script src="js/sobre.js"></script>
+</body>
+</html>

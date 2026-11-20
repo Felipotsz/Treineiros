@@ -1,0 +1,1317 @@
+{
+ "id": "enem-2020-matematica",
+ "banca": "Enem",
+ "ano": 2020,
+ "titulo": "Enem 2020: Matemática",
+ "fonte": "Inep",
+ "dataExame": "2021-01-24",
+ "duracaoMinutos": 150,
+ "area": "Matemática",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 136
+   },
+   "enunciado": "<p>A fabricação da Bandeira Nacional deve obedecer ao descrito na Lei n. 5.700, de 1º de setembro de 1971, que trata dos Símbolos Nacionais. No artigo que se refere às dimensões da Bandeira, observa-se:</p><p class=\"apoio\">“Para cálculos das dimensões, será tomada por base a largura, dividindo-a em 14 (quatorze) partes iguais, sendo que cada uma das partes será considerada uma medida ou módulo (M). Os demais requisitos dimensionais seguem o critério abaixo:</p><ol type=\"I\"><li>Comprimento será de vinte módulos (20 M);</li><li>A distância dos vértices do losango amarelo ao quadro externo será de um módulo e sete décimos (1,7 M);</li><li>O raio do círculo azul no meio do losango amarelo será de três módulos e meio (3,5 M).”</li></ol><p class=\"fonte\">BRASIL. Lei n. 5.700, de 1º de setembro de 1971.Disponível em: www.planalto.gov.br. Acesso em: 15 set. 2015.</p><p>A figura indica as cores da bandeira do Brasil e localiza o quadro externo a que se refere a Lei n. 5.700.</p>[[fig:1]]<p>Um torcedor, preparando-se para a Copa do Mundo e dispondo de cortes de tecidos verde (180 cm x 150 cm) e amarelo (o quanto baste), deseja confeccionar a maior Bandeira Nacional possível a partir das medidas do tecido verde. Qual a medida, em centímetro, do lado do menor quadrado de tecido azul que deverá ser comprado para confecção do círculo da bandeira desejada?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q136.webp",
+     "alt": "Desenho da bandeira dentro do quadro externo: retângulo verde, losango amarelo e círculo azul no centro, com o comprimento e a largura do quadro externo indicados."
+    }
+   ],
+   "alternativas": {
+    "A": "27",
+    "B": "32",
+    "C": "53",
+    "D": "63",
+    "E": "90"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A bandeira mede 20M × 14M. Com o tecido verde de 180 cm × 150 cm, o maior módulo possível é o menor entre 180/20 = 9 e 150/14 ≈ 10,7: M = 9 cm. O raio do círculo azul é 3,5M = 31,5 cm, então o diâmetro é 63 cm, e o menor quadrado de tecido azul que contém o círculo tem lado <strong>63 cm</strong>. Alternativa <strong>D</strong>.</p><p>31,5 ≈ 32 (B) é só o raio.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "módulo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 137
+   },
+   "enunciado": "<p>Uma empresa de ônibus utiliza um sistema de vendas de passagens que fornece a imagem de todos os assentos do ônibus, diferenciando os assentos já vendidos, por uma cor mais escura, dos assentos ainda disponíveis. A empresa monitora, permanentemente, o número de assentos já vendidos e compara-o com o número total de assentos do ônibus para avaliar a necessidade de alocação de veículos extras.</p><p>Na imagem tem-se a informação dos assentos já vendidos e dos ainda disponíveis em um determinado instante.</p>[[fig:1]]<p>A razão entre o número de assentos já vendidos e o total de assentos desse ônibus, no instante considerado na imagem, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q137.webp",
+     "alt": "Mapa dos assentos do ônibus, numerados de 01 a 42 em quatro fileiras; 16 assentos estão em cor escura (vendidos) e os demais em cor clara."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\frac{16}{42}\\)",
+    "B": "\\(\\frac{16}{26}\\)",
+    "C": "\\(\\frac{26}{42}\\)",
+    "D": "\\(\\frac{42}{26}\\)",
+    "E": "\\(\\frac{42}{16}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na imagem, os assentos vão de 01 a 42, e os vendidos (mais escuros) são 16. A razão entre vendidos e total é <strong>16/42</strong>. Alternativa <strong>A</strong>.</p><p>16/26 (B) compara vendidos com disponíveis, e 26/42 (C) é a fração dos assentos ainda livres.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "razão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Escala",
+   "origem": {
+    "numeroOriginal": 138
+   },
+   "enunciado": "<p>A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa-d’água tem dimensões 2 cm × 3,51 cm × 4 cm. Dado: 1 dm³ = 1 L.</p><p>A escala usada pelo arquiteto foi</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 : 10",
+    "B": "1 : 100",
+    "C": "1 : 1 000",
+    "D": "1 : 10 000",
+    "E": "1 : 100 000"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>28 080 L = 28 080 dm<sup>3</sup> = 28,08 m<sup>3</sup>. A maquete tem 2 × 3,51 × 4 = 28,08 cm<sup>3</sup>. A razão entre os volumes é 28,08 cm<sup>3</sup> : 28,08 m<sup>3</sup> = 1 : 10<sup>6</sup>, e a escala linear é a raiz cúbica disso: <strong>1 : 100</strong>. Alternativa <strong>B</strong>.</p><p>1 : 1 000 000 seria a escala dos volumes, não das medidas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "volume"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 139
+   },
+   "enunciado": "<p>Os gráficos representam a produção de peças em uma indústria e as horas trabalhadas dos funcionários no período de cinco dias. Em cada dia, o gerente de produção aplica uma metodologia diferente de trabalho. Seu objetivo é avaliar a metodologia mais eficiente para utilizá-la como modelo nos próximos períodos. Sabe-se que, neste caso, quanto maior for a razão entre o número de peças produzidas e o número de horas trabalhadas, maior será a eficiência da metodologia.</p>[[fig:1]]<p>Em qual dia foi aplicada a metodologia mais eficiente?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q139.webp",
+     "alt": "Dois gráficos de barras por dia: peças produzidas (dia 1: 800; dia 2: 1 000; dia 3: 1 100; dia 4: 1 800; dia 5: 1 400) e horas trabalhadas (dia 1: 4; dia 2: 8; dia 3: 5; dia 4: 9; dia 5: 10)."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Eficiência = peças/horas. Dia 1: 800/4 = 200; dia 2: 1 000/8 = 125; dia 3: 1 100/5 = <strong>220</strong>; dia 4: 1 800/9 = 200; dia 5: 1 400/10 = 140. A maior razão é a do <strong>dia 3</strong>. Alternativa <strong>C</strong>.</p><p>O dia 4 (D) produziu mais peças, mas com mais horas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "razão",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 140
+   },
+   "enunciado": "<p>O proprietário de um apartamento decidiu instalar porcelanato no piso da sala. Essa sala tem formato retangular com 3,2 m de largura e 3,6 m de comprimento. As peças do porcelanato têm formato de um quadrado com lado medindo 80 cm. Esse porcelanato é vendido em dois tipos de caixas, com os preços indicados a seguir.</p><ul><li>Caixas do tipo A: 4 unidades de piso, R$ 35,00;</li><li>Caixas do tipo B: 3 unidades de piso, R$ 27,00.</li></ul><p>Na instalação do porcelanato, as peças podem ser recortadas e devem ser assentadas sem espaçamento entre elas, aproveitando-se ao máximo os recortes feitos. A compra que atende às necessidades do proprietário, proporciona a menor sobra de pisos e resulta no menor preço é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "5 caixas do tipo A.",
+    "B": "1 caixa do tipo A e 4 caixas do tipo B.",
+    "C": "3 caixas do tipo A e 2 caixas do tipo B.",
+    "D": "5 caixas do tipo A e 1 caixa do tipo B.",
+    "E": "6 caixas do tipo B."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A sala tem 3,2 × 3,6 = 11,52 m<sup>2</sup>, e cada peça 0,8 × 0,8 = 0,64 m<sup>2</sup>: são 11,52/0,64 = 18 peças (aproveitando os recortes). As opções com 18 peças, sem sobra, são C (12 + 6 = 18, por 3 · 35 + 2 · 27 = R$ 159) e E (18, por 6 · 27 = R$ 162). A mais barata é <strong>3 caixas do tipo A e 2 do tipo B</strong>. Alternativa <strong>C</strong>.</p><p>B tem só 16 peças; A e D sobram peças.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área",
+    "otimização"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Contagem",
+   "origem": {
+    "numeroOriginal": 141
+   },
+   "enunciado": "<p>Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo.</p><p>Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "160",
+    "B": "157",
+    "C": "130",
+    "D": "120",
+    "E": "60"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Algarismo 2 na centena: os quartos de 200 a 299, 100 peças. Na dezena: em cada centena, 120 a 129 etc., 10 por centena, 30 no total. Na unidade: um a cada dez números, 10 por centena, 30. Total: 100 + 30 + 30 = <strong>160</strong>. Alternativa <strong>A</strong>.</p><p>Contar só os números que têm algum 2, sem repetir o algarismo, daria menos peças (como 120 ou 130).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "contagem de algarismos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 142
+   },
+   "enunciado": "<p>O Estatuto do Idoso, no Brasil, prevê certos direitos às pessoas com idade avançada, concedendo a estas, entre outros benefícios, a restituição de imposto de renda antes dos demais contribuintes. A tabela informa os nomes e as idades de 12 idosos que aguardam suas restituições de imposto de renda. Considere que, entre os idosos, a restituição seja concedida em ordem decrescente de idade e que, em subgrupos de pessoas com a mesma idade, a ordem seja decidida por sorteio.</p><table class=\"tabela\"><thead><tr><th>Nome</th><th>Idade (em ano)</th></tr></thead><tbody><tr><td>Orlando</td><td>89</td></tr><tr><td>Gustavo</td><td>86</td></tr><tr><td>Luana</td><td>86</td></tr><tr><td>Teresa</td><td>85</td></tr><tr><td>Márcia</td><td>84</td></tr><tr><td>Roberto</td><td>82</td></tr><tr><td>Heloisa</td><td>75</td></tr><tr><td>Marisa</td><td>75</td></tr><tr><td>Pedro</td><td>75</td></tr><tr><td>João</td><td>75</td></tr><tr><td>Antônio</td><td>72</td></tr><tr><td>Fernanda</td><td>70</td></tr></tbody></table><p>Nessas condições, a probabilidade de João ser a sétima pessoa do grupo a receber sua restituição é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\frac{1}{12}\\)",
+    "B": "\\(\\frac{7}{12}\\)",
+    "C": "\\(\\frac{1}{8}\\)",
+    "D": "\\(\\frac{5}{6}\\)",
+    "E": "\\(\\frac{1}{4}\\)"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pela ordem de idade: Orlando (89), Gustavo e Luana (86), Teresa (85), Márcia (84) e Roberto (82) ocupam as seis primeiras posições. Os quatro de 75 anos (Heloísa, Marisa, Pedro e João) disputam por sorteio as posições 7 a 10. A chance de João ser o sétimo é <strong>1/4</strong>. Alternativa <strong>E</strong>.</p><p>1/12 (A) trataria todos os 12 idosos como empatados.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade",
+    "ordenação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Progressões",
+   "origem": {
+    "numeroOriginal": 143
+   },
+   "enunciado": "<p>No Brasil, o tempo necessário para um estudante realizar sua formação até a diplomação em um curso superior, considerando os 9 anos de ensino fundamental, os 3 anos do ensino médio e os 4 anos de graduação (tempo médio), é de 16 anos. No entanto, a realidade dos brasileiros mostra que o tempo médio de estudo de pessoas acima de 14 anos é ainda muito pequeno, conforme apresentado na tabela.</p><p class=\"apoio\"><strong>Tempo médio de estudo de pessoas acima de 14 anos</strong></p><table class=\"tabela\"><thead><tr><th>Ano da Pesquisa</th><th>1995</th><th>1999</th><th>2003</th><th>2007</th></tr></thead><tbody><tr><td>Tempo de estudo (em ano)</td><td>5,2</td><td>5,8</td><td>6,4</td><td>7,0</td></tr></tbody></table><p class=\"fonte\">Disponível em: www.ibge.gov.br. Acesso em: 19 dez. 2012 (adaptado).</p><p>Considere que o incremento no tempo de estudo, a cada período, para essas pessoas, se mantenha constante até o ano 2050, e que se pretenda chegar ao patamar de 70% do tempo necessário à obtenção do curso superior dado anteriormente.</p><p>O ano em que o tempo médio de estudo de pessoas acima de 14 anos atingirá o percentual pretendido será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2018.",
+    "B": "2023.",
+    "C": "2031.",
+    "D": "2035.",
+    "E": "2043."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O tempo de estudo cresce 0,6 ano a cada 4 anos (5,2; 5,8; 6,4; 7,0). A meta é 70% de 16 = 11,2 anos. A partir de 7,0 (2007), faltam 4,2 anos de estudo, ou seja, 4,2/0,6 = 7 períodos de 4 anos = 28 anos: <strong>2035</strong>. Alternativa <strong>D</strong>.</p><p>2031 (C) contaria um período a menos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "progressão aritmética"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 144
+   },
+   "enunciado": "<p>Uma torneira está gotejando água em um balde com capacidade de 18 litros. No instante atual, o balde se encontra com ocupação de 50% de sua capacidade. A cada segundo caem 5 gotas de água da torneira, e uma gota é formada, em média, por 5 × 10<sup>−2</sup> mL de água.</p><p>Quanto tempo, em hora, será necessário para encher completamente o balde, partindo do instante atual?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(2 \\times 10^{1}\\)",
+    "B": "\\(1 \\times 10^{1}\\)",
+    "C": "\\(2 \\times 10^{-2}\\)",
+    "D": "\\(1 \\times 10^{-2}\\)",
+    "E": "\\(1 \\times 10^{-3}\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Falta encher metade do balde: 9 L = 9 000 mL. Por segundo caem 5 · 0,05 = 0,25 mL. Tempo: 9 000/0,25 = 36 000 s = 10 h = <strong>1 × 10<sup>1</sup> h</strong>. Alternativa <strong>B</strong>.</p><p>2 × 10<sup>1</sup> (A) seria o tempo para encher o balde inteiro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conversão de unidades",
+    "notação científica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Escala",
+   "origem": {
+    "numeroOriginal": 145
+   },
+   "enunciado": "<p>Um clube deseja produzir miniaturas em escala do troféu que ganhou no último campeonato. O troféu está representado na Figura 1 e é composto por uma base em formato de um paralelepípedo reto-retângulo de madeira, sobre a qual estão fixadas três hastes verticais que sustentam uma esfera de 30 cm de diâmetro, que fica centralizada sobre a base de madeira. O troféu tem 100 cm de altura, incluída sua base.</p>[[fig:1]]<p>A miniatura desse troféu deverá ser instalada no interior de uma caixa de vidro, em formato de paralelepípedo reto-retângulo, cujas dimensões internas de sua base estão indicadas na Figura 2, de modo que a base do troféu seja colada na base da caixa e distante das paredes laterais da caixa de vidro em pelo menos 1 cm. Deve ainda haver uma distância de exatos 2 cm entre o topo da esfera e a tampa dessa caixa de vidro. Nessas condições deseja-se fazer a maior miniatura possível. A medida da altura, em centímetro, dessa caixa de vidro deverá ser igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q145.webp",
+     "alt": "Figura 1: troféu com uma esfera escura sobre três hastes, presas a uma base de madeira quadrada de 50 cm × 50 cm. Figura 2: caixa de vidro com base de 8 cm × 10 cm e altura desconhecida, marcada com “?”."
+    }
+   ],
+   "alternativas": {
+    "A": "12.",
+    "B": "14.",
+    "C": "16.",
+    "D": "18.",
+    "E": "20."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A base do troféu é um quadrado de 50 cm, e a caixa tem base de 8 cm × 10 cm, com 1 cm de folga de cada lado. O lado da base da miniatura é no máximo 8 − 2 = 6 cm, o que dá a escala 6/50 = 0,12. A altura da miniatura é 0,12 · 100 = 12 cm, e com os 2 cm até a tampa a caixa deve ter <strong>14 cm</strong>. Alternativa <strong>B</strong>.</p><p>12 (A) esquece a folga até a tampa; usar o lado de 10 cm não respeitaria a folga no lado de 8 cm.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "semelhança"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Inequações",
+   "origem": {
+    "numeroOriginal": 146
+   },
+   "enunciado": "<p>Uma casa de dois andares está sendo projetada. É necessário incluir no projeto a construção de uma escada para o acesso ao segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras:</p><p>\\(|2h + b - 63{,}5| \\le 1{,}5\\) e \\(16 \\le h \\le 19\\), nas quais <em>h</em> é a altura do degrau (denominada espelho) e <em>b</em> é a profundidade da pisada, como mostra a figura. Por conveniência, escolheu-se a altura do degrau como sendo <em>h</em> = 16. As unidades de <em>h</em> e <em>b</em> estão em centímetro.</p>[[fig:1]]<p>Nesse caso, o mais amplo intervalo numérico ao qual a profundidade da pisada (b) deve pertencer, para que as regras sejam satisfeitas é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q146.webp",
+     "alt": "Perfil de uma escada com a altura do degrau h e a profundidade da pisada b indicadas."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(30 \\le b\\)",
+    "B": "\\(30 \\le b \\le 31{,}5\\)",
+    "C": "\\(30 \\le b \\le 33\\)",
+    "D": "\\(31{,}5 \\le b \\le 33\\)",
+    "E": "\\(b \\le 33\\)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Com h = 16: |32 + b − 63,5| ≤ 1,5, ou |b − 31,5| ≤ 1,5. Isso equivale a −1,5 ≤ b − 31,5 ≤ 1,5, isto é, <strong>30 ≤ b ≤ 33</strong>. Alternativa <strong>C</strong>.</p><p>B e D pegam só metade do intervalo; A e E ignoram um dos limites do módulo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "inequação modular"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 147
+   },
+   "enunciado": "<p>Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo:</p><ul><li>Tipo A: informa a quantidade <em>X</em> de litro de combustível gasto para percorrer 100 quilômetros;</li><li>Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível.</li></ul><p>Um veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação “<em>X</em>/100”. Caso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(X \\cdot 100\\)",
+    "B": "\\(\\frac{X}{100}\\)",
+    "C": "\\(\\frac{100}{X}\\)",
+    "D": "\\(\\frac{1}{X}\\)",
+    "E": "\\(1 \\cdot X\\)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O tipo A mostra X litros por 100 km. Então 1 litro rende 100/X quilômetros, que é o que o tipo B mostraria: <strong>100/X</strong>. Alternativa <strong>C</strong>.</p><p>X/100 (B) é o consumo em litros por quilômetro, o inverso do pedido.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "razão inversa"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 148
+   },
+   "enunciado": "<p>A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico.</p>[[fig:1]]<p>De acordo com as informações dadas, o número de jovens entrevistados que trabalha é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q148.webp",
+     "alt": "Gráfico de barras “Jovens em atividade entre 15 e 29 anos (%)”: somente estuda 21,6; trabalha e estuda 13,6; somente trabalha 45,2; não trabalha nem estuda 19,6."
+    }
+   ],
+   "alternativas": {
+    "A": "114 708.",
+    "B": "164 076.",
+    "C": "213 444.",
+    "D": "284 592.",
+    "E": "291 582."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Trabalham os jovens que “somente trabalham” (45,2%) e os que “trabalham e estudam” (13,6%): 58,8%. Então 0,588 · 363 000 = <strong>213 444</strong>. Alternativa <strong>C</strong>.</p><p>164 076 (B) usa só os 45,2% que somente trabalham.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Logaritmos",
+   "origem": {
+    "numeroOriginal": 149
+   },
+   "enunciado": "<p>A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência (<em>f</em>) de uma palavra em um dado texto com o seu <em>ranking</em> (<em>r</em>). Ela é dada por \\(f = \\dfrac{A}{r^B}\\).</p><p>O <em>ranking</em> da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, r = 1 para a palavra mais frequente, r = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.</p><p class=\"fonte\">Disponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adaptado).</p><p>Com base nos valores de \\(X = \\log(r)\\) e \\(Y = \\log(f)\\), é possível estimar valores para <em>A</em> e <em>B</em>. No caso hipotético em que a lei é verificada exatamente, a relação entre <em>Y</em> e <em>X</em> é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(Y = \\log(A) - B \\cdot X\\)",
+    "B": "\\(Y = \\dfrac{\\log(A)}{X + \\log(B)}\\)",
+    "C": "\\(Y = \\dfrac{\\log(A)}{B} - X\\)",
+    "D": "\\(Y = \\dfrac{\\log(A)}{B \\cdot X}\\)",
+    "E": "\\(Y = \\dfrac{\\log(A)}{X^B}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Aplicando logaritmo a f = A/r<sup>B</sup>: log f = log A − log(r<sup>B</sup>) = log A − B · log r. Com Y = log f e X = log r: <strong>Y = log(A) − B · X</strong>, uma reta. Alternativa <strong>A</strong>.</p><p>As outras alternativas não aplicam corretamente as propriedades do logaritmo do quociente e da potência.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "propriedades dos logaritmos",
+    "Lei de Zipf"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Função exponencial",
+   "origem": {
+    "numeroOriginal": 150
+   },
+   "enunciado": "<p>Enquanto um ser está vivo, a quantidade de carbono 14 nele existente não se altera. Quando ele morre, essa quantidade vai diminuindo. Sabe-se que a meia-vida do carbono 14 é de 5 730 anos, ou seja, num fóssil de um organismo que morreu há 5 730 anos haverá metade do carbono 14 que existia quando ele estava vivo. Assim, cientistas e arqueólogos usam a seguinte fórmula para saber a idade de um fóssil encontrado: \\(Q(t) = Q_0 \\cdot 2^{-\\frac{t}{5730}}\\), em que <em>t</em> é o tempo, medido em ano, <em>Q</em>(<em>t</em>) é a quantidade de carbono 14 medida no instante <em>t</em> e <em>Q</em><sub>0</sub> é a quantidade de carbono 14 no ser vivo correspondente.</p><p>Um grupo de arqueólogos, numa de suas expedições, encontrou 5 fósseis de espécies conhecidas e mediram a quantidade de carbono 14 neles existente. Na tabela temos esses valores juntamente com a quantidade de carbono 14 nas referidas espécies vivas.</p><table class=\"tabela\"><thead><tr><th>Fóssil</th><th><em>Q</em><sub>0</sub></th><th><em>Q</em>(<em>t</em>)</th></tr></thead><tbody><tr><td>1</td><td>128</td><td>32</td></tr><tr><td>2</td><td>256</td><td>8</td></tr><tr><td>3</td><td>512</td><td>64</td></tr><tr><td>4</td><td>1 024</td><td>512</td></tr><tr><td>5</td><td>2 048</td><td>128</td></tr></tbody></table><p>O fóssil mais antigo encontrado nessa expedição foi</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "5."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A razão Q(t)/Q<sub>0</sub> = 2<sup>−t/5 730</sup> mostra quantas meias-vidas se passaram. Fóssil 1: 32/128 = 1/4 (2 meias-vidas); 2: 8/256 = 1/32 (5); 3: 64/512 = 1/8 (3); 4: 512/1 024 = 1/2 (1); 5: 128/2 048 = 1/16 (4). O mais antigo é o <strong>fóssil 2</strong>. Alternativa <strong>B</strong>.</p><p>O fóssil 3 (C) tem o maior Q<sub>0</sub>, mas isso não indica idade.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "meia-vida",
+    "datação por carbono 14"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 151
+   },
+   "enunciado": "<p>Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada. As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2 quadrados e 4 retângulos.",
+    "B": "1 retângulo e 4 triângulos isósceles.",
+    "C": "2 quadrados e 4 trapézios isósceles.",
+    "D": "1 quadrado, 3 retângulos e 2 trapézios retângulos.",
+    "E": "2 retângulos, 2 quadrados e 2 trapézios retângulos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Um tronco de pirâmide de base quadrada tem duas bases quadradas (a maior embaixo, a menor em cima) e quatro faces laterais. Como é reto, as faces laterais são congruentes: trapézios isósceles. O tronco é formado por <strong>2 quadrados e 4 trapézios isósceles</strong>. Alternativa <strong>C</strong>.</p><p>Com 4 retângulos (A) seria um prisma; com triângulos (B), uma pirâmide inteira.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tronco de pirâmide"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 152
+   },
+   "enunciado": "<p>Um processo de aeração, que consiste na introdução de ar num líquido, acontece do seguinte modo: uma bomba B retira o líquido de um tanque T1 e o faz passar pelo aerador A1, que aumenta o volume do líquido em 15%, e em seguida pelo aerador A2, ganhando novo aumento de volume de 10%. Ao final, ele fica armazenado num tanque T2, de acordo com a figura.</p>[[fig:1]]<p>Os tanques T1 e T2 são prismas retos de bases retangulares, sendo que a base de T1 tem comprimento <em>c</em> e largura <em>L</em>, e a base de T2 tem comprimento \\(\\frac{c}{2}\\) e largura 2<em>L</em>.</p><p>Para finalizar o processo de aeração sem derramamento do líquido em T2, o responsável deve saber a relação entre a altura da coluna de líquido que já saiu de T1, denotada por <em>x</em>, e a altura da coluna de líquido que chegou a T2, denotada por <em>y</em>.</p><p class=\"fonte\">Disponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015.</p><p>A equação que relaciona as medidas das alturas y e x é dada por</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q152.webp",
+     "alt": "Esquema: um tanque T1, uma bomba B, dois aeradores A1 e A2 ligados por canos e um tanque T2, mais baixo e mais largo."
+    }
+   ],
+   "alternativas": {
+    "A": "y = 1,265x",
+    "B": "y = 1,250x",
+    "C": "y = 1,150x",
+    "D": "y = 1,125x",
+    "E": "y = x"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Sai de T1 o volume c · L · x. Os aeradores multiplicam o volume por 1,15 · 1,10 = 1,265. Em T2, a base tem área (c/2) · 2L = c · L, a mesma de T1. Então c · L · y = 1,265 · c · L · x, ou seja, <strong>y = 1,265x</strong>. Alternativa <strong>A</strong>.</p><p>1,250 (B) somaria os percentuais (15% + 10%) em vez de compô-los.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aumentos sucessivos",
+    "volume do prisma"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 153
+   },
+   "enunciado": "<p>Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:</p><ul><li>seguir num ônibus, percorrendo 2,0 km;</li><li>alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.</li></ul><p>O quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô−universidade.</p><table class=\"tabela\"><thead><tr><th>Dia da semana</th><th>Ônibus (km/h)</th><th>Bicicleta (km/h)</th></tr></thead><tbody><tr><td>Segunda-feira</td><td>9</td><td>15</td></tr><tr><td>Terça-feira</td><td>20</td><td>22</td></tr><tr><td>Quarta-feira</td><td>15</td><td>24</td></tr><tr><td>Quinta-feira</td><td>12</td><td>15</td></tr><tr><td>Sexta-feira</td><td>10</td><td>18</td></tr><tr><td>Sábado</td><td>30</td><td>16</td></tr></tbody></table><p>A fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Às segundas, quintas e sextas-feiras.",
+    "B": "Às terças e quintas-feiras e aos sábados.",
+    "C": "Às segundas, quartas e sextas-feiras.",
+    "D": "Às terças, quartas e sextas-feiras.",
+    "E": "Às terças e quartas-feiras e aos sábados."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Tempo = distância/velocidade. Segunda: ônibus 2/9 ≈ 0,22 h, bicicleta 3/15 = 0,20 h. Terça: 2/20 = 0,10 contra 3/22 ≈ 0,14. Quarta: 2/15 ≈ 0,133 contra 3/24 = 0,125. Quinta: 2/12 ≈ 0,17 contra 3/15 = 0,20. Sexta: 2/10 = 0,20 contra 3/18 ≈ 0,17. Sábado: 2/30 ≈ 0,07 contra 3/16 ≈ 0,19. A bicicleta é mais rápida às <strong>segundas, quartas e sextas-feiras</strong>. Alternativa <strong>C</strong>.</p><p>Comparar só as velocidades, sem as distâncias diferentes, daria outros dias.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade média",
+    "comparação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Notação científica",
+   "origem": {
+    "numeroOriginal": 154
+   },
+   "enunciado": "<p>Pesquisadores da Universidade de Tecnologia de Viena, na Áustria, produziram miniaturas de objetos em impressoras 3D de alta precisão. Ao serem ativadas, tais impressoras lançam feixes de laser sobre um tipo de resina, esculpindo o objeto desejado. O produto final da impressão é uma escultura microscópica de três dimensões, como visto na imagem ampliada.</p>[[fig:1]]<p>A escultura apresentada é uma miniatura de um carro de Fórmula 1, com 100 micrômetros de comprimento. Um micrômetro é a milionésima parte de um metro. Usando notação científica, qual é a representação do comprimento dessa miniatura, em metro?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q154.webp",
+     "alt": "Imagem ampliada de microscópio de uma miniatura de carro de Fórmula 1 feita em impressora 3D."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(1{,}0 \\times 10^{-1}\\)",
+    "B": "\\(1{,}0 \\times 10^{-3}\\)",
+    "C": "\\(1{,}0 \\times 10^{-4}\\)",
+    "D": "\\(1{,}0 \\times 10^{-6}\\)",
+    "E": "\\(1{,}0 \\times 10^{-7}\\)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>1 micrômetro = 10<sup>−6</sup> m. Então 100 micrômetros = 10<sup>2</sup> · 10<sup>−6</sup> = <strong>1,0 × 10<sup>−4</sup> m</strong>. Alternativa <strong>C</strong>.</p><p>1,0 × 10<sup>−6</sup> (D) é o valor de um único micrômetro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potências de 10"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Progressões",
+   "origem": {
+    "numeroOriginal": 155
+   },
+   "enunciado": "<p>O artista gráfico holandês Maurits Cornelius Escher criou belíssimas obras nas quais as imagens se repetiam, com diferentes tamanhos, induzindo ao raciocínio de repetição infinita das imagens. Inspirado por ele, um artista fez um rascunho de uma obra na qual propunha a ideia de construção de uma sequência de infinitos quadrados, cada vez menores, uns sob os outros, conforme indicado na figura.</p>[[fig:1]]<p>O quadrado <em>PRST</em>, com lado de medida 1, é o ponto de partida. O segundo quadrado é construído sob ele tomando-se o ponto médio da base do quadrado anterior e criando-se um novo quadrado, cujo lado corresponde à metade dessa base. Essa sequência de construção se repete recursivamente. Qual é a medida do lado do centésimo quadrado construído de acordo com esse padrão?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q155.webp",
+     "alt": "Quadrado PRST de lado 1 e, abaixo dele, uma sequência de quadrados cada vez menores, de lados 1/2, 1/4 e assim por diante, com reticências indicando a continuação."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\left(\\frac{1}{2}\\right)^{100}\\)",
+    "B": "\\(\\left(\\frac{1}{2}\\right)^{99}\\)",
+    "C": "\\(\\left(\\frac{1}{2}\\right)^{97}\\)",
+    "D": "\\(\\left(\\frac{1}{2}\\right)^{-98}\\)",
+    "E": "\\(\\left(\\frac{1}{2}\\right)^{-99}\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os lados formam uma progressão geométrica: 1, 1/2, 1/4, … O n-ésimo quadrado tem lado (1/2)<sup>n−1</sup>. O centésimo tem lado <strong>(1/2)<sup>99</sup></strong>. Alternativa <strong>B</strong>.</p><p>(1/2)<sup>100</sup> (A) esquece que o primeiro termo é 1 = (1/2)<sup>0</sup>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "progressão geométrica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 156
+   },
+   "enunciado": "<p>O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. O setor de controle de estoque encaminhou ao gerente registros gráficos descrevendo os preços unitários de cada perfume, em real, e a quantidade vendida de cada um deles, em percentual, ocorrida no mês de novembro.</p>[[fig:1]]<p>Dados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro. Nessas condições, qual o tipo de perfume que deverá ter maior reposição no estoque?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q156.webp",
+     "alt": "Gráfico de barras do preço por unidade: perfume I R$ 200, II R$ 170, III R$ 150, IV R$ 100, V R$ 80. Gráfico de setores da porcentagem vendida: I 13%, II 10%, III 16%, IV 29%, V 32%."
+    }
+   ],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Como o estoque inicial era igual para todos, a arrecadação é proporcional a preço × percentual vendido. I: 200 · 13 = 2 600; II: 170 · 10 = 1 700; III: 150 · 16 = 2 400; IV: 100 · 29 = <strong>2 900</strong>; V: 80 · 32 = 2 560. O perfume IV arrecadou mais. Alternativa <strong>D</strong>.</p><p>O V (E) foi o mais vendido, mas é o mais barato; o I (A) é o mais caro, mas vendeu pouco.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 157
+   },
+   "enunciado": "<p>Amigo secreto é uma brincadeira tradicional nas festas de fim de ano. Um grupo de amigos se reúne e cada um deles sorteia o nome da pessoa que irá presentear. No dia da troca de presentes, uma primeira pessoa presenteia seu amigo secreto. Em seguida, o presenteado revela seu amigo secreto e o presenteia. A brincadeira continua até que todos sejam presenteados, mesmo no caso em que o ciclo se fecha. Dez funcionários de uma empresa, entre eles um casal, participarão de um amigo secreto. A primeira pessoa a revelar será definida por sorteio.</p><p>Qual é a probabilidade de que a primeira pessoa a revelar o seu amigo secreto e a última presenteada sejam as duas pessoas do casal?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\frac{1}{5}\\)",
+    "B": "\\(\\frac{1}{45}\\)",
+    "C": "\\(\\frac{1}{50}\\)",
+    "D": "\\(\\frac{1}{90}\\)",
+    "E": "\\(\\frac{1}{100}\\)"
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Pela análise do Treineiros: se a primeira pessoa a revelar e a última presenteada forem tratadas como duas pessoas distintas escolhidas ao acaso entre as dez, a chance de serem o casal (em qualquer ordem) é 2/(10 · 9) = 1/45. Mas, quando os presentes fecham um único ciclo, a última presenteada é a própria pessoa que começou, e o enunciado não diz como a brincadeira recomeça se o ciclo se fecha antes. Essas leituras levam a respostas diferentes. A resposta esperada seria provavelmente a B. Alternativa <strong>B</strong>, se a questão não tivesse sido anulada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade"
+   ],
+   "area": "Matemática",
+   "anulacao": {
+    "fonte": "analise",
+    "motivo": "O Inep anulou a questão sem divulgar o motivo. Pela análise, o enunciado permite mais de uma interpretação: se o ciclo de presentes se fecha, a última presenteada é a própria pessoa que começou, e não fica claro como a brincadeira continua; cada leitura leva a uma probabilidade diferente."
+   }
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 158
+   },
+   "enunciado": "<p>Três amigos, André, Bernardo e Carlos, moram em um condomínio fechado de uma cidade. O quadriculado representa a localização das ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho nesse condomínio, em que nos pontos A, B e C estão localizadas as casas de André, Bernardo e Carlos, respectivamente.</p>[[fig:1]]<p>André deseja deslocar-se da sua casa até a casa de Bernardo, sem passar pela casa de Carlos, seguindo ao longo das ruas do condomínio, fazendo sempre deslocamentos para a direita ( → ) ou para cima ( ↑ ), segundo o esquema da figura. O número de diferentes caminhos que André poderá utilizar para realizar o deslocamento nas condições propostas é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q158.webp",
+     "alt": "Quadriculado de ruas com o ponto A embaixo à esquerda, C mais acima e à direita, e B no alto à direita: B fica 4 quadras à direita e 3 acima de A; C, 2 à direita e 2 acima de A."
+    }
+   ],
+   "alternativas": {
+    "A": "4.",
+    "B": "14.",
+    "C": "17.",
+    "D": "35.",
+    "E": "48."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pelo quadriculado, B está 4 quadras à direita e 3 acima de A, e C está 2 à direita e 2 acima de A. Caminhos de A a B: C(7, 3) = 35. Caminhos que passam por C: C(4, 2) · C(3, 1) = 6 · 3 = 18. Sem passar por C: 35 − 18 = <strong>17</strong>. Alternativa <strong>C</strong>.</p><p>35 (D) é o total, sem excluir os caminhos por C; 18 é o número dos que passam por C.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "permutação com repetição",
+    "caminhos em grade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 159
+   },
+   "enunciado": "<p>Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e cobram frete para entrega do material, conforme a distância do depósito à sua casa. As informações sobre preço do cimento, valor do frete e distância do depósito até a casa dessa pessoa estão apresentadas no quadro.</p><table class=\"tabela\"><thead><tr><th>Depósito</th><th>Valor do saco de cimento (R$)</th><th>Valor do frete para cada quilômetro (R$)</th><th>Distância entre a casa e o depósito (km)</th></tr></thead><tbody><tr><td>A</td><td>23,00</td><td>1,00</td><td>10</td></tr><tr><td>B</td><td>21,50</td><td>3,00</td><td>12</td></tr><tr><td>C</td><td>22,00</td><td>1,50</td><td>14</td></tr><tr><td>D</td><td>21,00</td><td>3,50</td><td>18</td></tr><tr><td>E</td><td>24,00</td><td>2,50</td><td>2</td></tr></tbody></table><p>A pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção. Se a pessoa decidir pela opção mais econômica, o depósito escolhido para a realização dessa compra será o</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A.",
+    "B": "B.",
+    "C": "C.",
+    "D": "D.",
+    "E": "E."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Custo = 15 · preço do saco + frete por km · distância. A: 345 + 10 = 355; B: 322,50 + 36 = 358,50; C: 330 + 21 = <strong>351</strong>; D: 315 + 63 = 378; E: 360 + 5 = 365. O mais econômico é o <strong>C</strong>. Alternativa <strong>C</strong>.</p><p>O D (D) tem o saco mais barato, mas o frete mais caro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "custo total"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 160
+   },
+   "enunciado": "<p>Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino. A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "13.",
+    "B": "14.",
+    "C": "17.",
+    "D": "18.",
+    "E": "21."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A moto gasta 0,05 L/km. Até o posto Estrela são 420 km: gasta 21 L dos 22 e chega com 1 L. Depois precisa ir 80 km ao destino, rodar 200 km lá e voltar 80 km até o Estrela: 360 km = 18 L. Como já tem 1 L, deve abastecer <strong>17 L</strong>. Alternativa <strong>C</strong>.</p><p>18 (D) esquece o litro que sobrou no tanque.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "consumo",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 161
+   },
+   "enunciado": "<p>Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A. Se <em>R</em> denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\frac{R}{2}\\)",
+    "B": "\\(2R\\)",
+    "C": "\\(4R\\)",
+    "D": "\\(5R\\)",
+    "E": "\\(16R\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os volumes são iguais: πR<sup>2</sup>h = πr<sup>2</sup>(h/4). Então r<sup>2</sup> = 4R<sup>2</sup> e <strong>r = 2R</strong>. Alternativa <strong>B</strong>.</p><p>4R (C) esquece a raiz quadrada; R/2 (A) inverte a relação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cilindro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 162
+   },
+   "enunciado": "<p>A lei municipal para a edificação de casas em lotes de uma cidade determina que sejam obedecidos os seguintes critérios:</p><ul><li>afastamento mínimo de 4 m da rua;</li><li>afastamento mínimo de 1 m da divisa com outro lote;</li><li>área total construída da casa entre 40% e 50% da área total do lote.</li></ul><p>Um construtor submeteu para aprovação na prefeitura dessa cidade uma planta com propostas para a construção de casas em seus 5 lotes. Cada lote tem área medindo 200 m².</p><p>A imagem apresenta um esquema, sem escala, no qual estão representados os lotes, as ruas e os afastamentos considerados nos projetos entre as casas e as divisas dos lotes. As medidas indicadas no esquema estão expressas em metro.</p>[[fig:1]]<p>A prefeitura aprovará apenas a planta da casa</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q162.webp",
+     "alt": "Esquema de lotes de 10 m × 20 m junto a duas ruas, com as casas 1 a 5 e os afastamentos em metro: casa 1 (4 da rua lateral, 1 das divisas laterais, 1 do fundo, 4 da rua de baixo); casa 2 (1, 1, 1 e 4); casa 3 (4, 1, 4 e 4); casa 4 (2, 2, 2 da rua e 2); casa 5 (4 da rua, 1, 1 e 1)."
+    }
+   ],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "5."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Cada lote tem 10 m × 20 m = 200 m², e a casa deve ter entre 80 e 100 m². Casa 1: 5 × 15 = 75 m² (pequena). Casa 2: 8 × 15 = 120 m² (grande). Casa 3: 5 × 12 = 60 m². Casa 4: fica a só 2 m da rua. Casa 5: 4 m da rua, 1 m das divisas e 5 × 18 = 90 m² (45%). Só a <strong>casa 5</strong> é aprovada. Alternativa <strong>E</strong>.</p><p>A casa 4 tem área adequada (96 m²), mas não respeita o afastamento da rua.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 163
+   },
+   "enunciado": "<p>Nos livros <em>Harry Potter</em>, um anagrama do nome do personagem “TOM MARVOLO RIDDLE” gerou a frase “I AM LORD VOLDEMORT”.</p><p>Suponha que Harry quisesse formar todos os anagramas da frase “I AM POTTER”, de tal forma que as vogais e consoantes aparecessem sempre intercaladas, e sem considerar o espaçamento entre as letras. Nessas condições, o número de anagramas formados é dado por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(9!\\)",
+    "B": "\\(4!\\,5!\\)",
+    "C": "\\(2 \\times 4!\\,5!\\)",
+    "D": "\\(\\frac{9!}{2}\\)",
+    "E": "\\(\\frac{4!\\,5!}{2}\\)"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>“I AM POTTER” tem 4 vogais (I, A, O, E) e 5 consoantes (M, P, T, T, R). Com 9 letras intercaladas, a única forma é C V C V C V C V C. As vogais se permutam de 4! modos; as consoantes, com o T repetido, de 5!/2! modos. Total: <strong>4! · 5!/2</strong>. Alternativa <strong>E</strong>.</p><p>4! 5! (B) esquece a repetição do T; 2 × 4! 5! (C) supõe que a palavra possa começar por vogal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anagramas",
+    "permutação com repetição"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 164
+   },
+   "enunciado": "<p>A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.revistaencontro.com.br. Acesso em: 12 ago. 2020 (adaptado).</p><p>Nesse dia, durante quantas horas o ruído esteve acima de 55 decibéis?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q164.webp",
+     "alt": "Gráfico do ruído (decibel) ao longo das 24 horas, com uma linha horizontal em 55: a curva fica acima dela aproximadamente de 2 h a 5 h, de 5,5 h a 9 h, de 11 h a 14 h, de 16 h a 17 h e de 19 h a 22 h."
+    }
+   ],
+   "alternativas": {
+    "A": "5",
+    "B": "8",
+    "C": "10",
+    "D": "11",
+    "E": "13"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Somando os intervalos em que a curva fica acima da linha de 55 dB: a curva cruza os 55 dB sempre em cima de linhas da grade. Fica acima de 2 h a 5 h, de 6 h a 9 h, de 11 h a 14 h, de 16 h a 17 h e de 19 h a 22 h: 3 + 3 + 3 + 1 + 3 = <strong>13 horas</strong>. Alternativa <strong>E</strong>.</p><p>Contar só os picos (5) ou alguns trechos leva às outras alternativas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 165
+   },
+   "enunciado": "<p>O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fixará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido.</p><p>Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fixar para o grupo de três novos jogadores que ainda irá contratar?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,96",
+    "B": "1,98",
+    "C": "2,05",
+    "D": "2,06",
+    "E": "2,08"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A soma atual é 15 · 1,93 = 28,95 m; a desejada, 15 · 1,99 = 29,85 m. Sem os quatro mais baixos (7,30 m), sobram 21,65 m; com o novo de 2,02 m, 23,67 m. Os outros três devem somar pelo menos 29,85 − 23,67 = 6,18 m: média de <strong>2,06 m</strong>. Alternativa <strong>D</strong>.</p><p>1,99 (próximo de B) é a média pretendida para o time, não para os três novos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média aritmética"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 166
+   },
+   "enunciado": "<p>O consumo de espumantes no Brasil tem aumentado nos últimos anos. Uma das etapas do seu processo de produção consiste no envasamento da bebida em garrafas semelhantes às da imagem. Nesse processo, a vazão do líquido no interior da garrafa é constante e cessa quando atinge o nível de envasamento.</p>[[fig:1]]<p>Qual esboço de gráfico melhor representa a variação da altura do líquido em função do tempo, na garrafa indicada na imagem?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q166.webp",
+     "alt": "Silhueta de uma garrafa de espumante com corpo cilíndrico e gargalo estreito; uma linha marca o nível de envasamento, no início do gargalo."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q166a.webp",
+     "alt": "Gráfico da altura em função do tempo: uma reta."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q166b.webp",
+     "alt": "Gráfico da altura em função do tempo: uma reta que, no final, vira uma curva cada vez mais inclinada."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q166c.webp",
+     "alt": "Gráfico da altura em função do tempo: reta no início e depois uma curva que vai ficando menos inclinada."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q166d.webp",
+     "alt": "Gráfico da altura em função do tempo: curva que começa quase horizontal e vai ficando cada vez mais inclinada."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q166e.webp",
+     "alt": "Gráfico da altura em função do tempo: curva que começa muito inclinada e vai ficando menos inclinada."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A vazão é constante. No corpo da garrafa, de seção larga e constante, a altura sobe devagar e de forma linear. No gargalo, que vai se estreitando, o mesmo volume ocupa uma altura cada vez maior, e a curva fica mais inclinada. O gráfico é uma reta seguida de uma curva que sobe cada vez mais rápido. Alternativa <strong>B</strong>.</p><p>A seria uma garrafa cilíndrica; C e E, recipientes que se alargam para cima.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "taxa de variação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 167
+   },
+   "enunciado": "<p>O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do filho.</p><table class=\"tabela\"><thead><tr><th>Internet</th><th>Mensalidade escolar</th><th>Mesada do filho</th></tr></thead><tbody><tr><td>120</td><td>700</td><td>400</td></tr></tbody></table><p>No início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do filho. Qual será a porcentagem da redução da mesada?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "15,0",
+    "B": "23,5",
+    "C": "30,0",
+    "D": "70,0",
+    "E": "76,5"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os aumentos são 20% de 120 = 24 e 10% de 700 = 70: R$ 94 a mais. Para manter o total, a mesada de R$ 400 deve cair R$ 94: 94/400 = <strong>23,5%</strong>. Alternativa <strong>B</strong>.</p><p>30% (C) somaria os percentuais dos dois aumentos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 168
+   },
+   "enunciado": "<p>Num recipiente com a forma de paralelepípedo reto-retângulo, colocou-se água até a altura de 8 cm e um objeto, que ficou flutuando na superfície da água.</p><p>Para retirar o objeto de dentro do recipiente, a altura da coluna de água deve ser de, pelo menos, 15 cm. Para a coluna de água chegar até essa altura, é necessário colocar dentro do recipiente bolinhas de volume igual a 6 cm<sup>3</sup> cada, que ficarão totalmente submersas.</p>[[fig:1]]<p>O número mínimo de bolinhas necessárias para que se possa retirar o objeto que flutua na água, seguindo as instruções dadas, é de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q168.webp",
+     "alt": "Recipiente em forma de paralelepípedo de base 4 cm × 3 cm e altura 17 cm, com água até 8 cm e um objeto flutuando na superfície."
+    }
+   ],
+   "alternativas": {
+    "A": "14.",
+    "B": "16.",
+    "C": "18.",
+    "D": "30.",
+    "E": "34."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A água deve subir de 8 cm para 15 cm, num recipiente de base 3 cm × 4 cm. O volume a ocupar é 7 · 3 · 4 = 84 cm<sup>3</sup>. Com bolinhas de 6 cm<sup>3</sup>: 84/6 = <strong>14 bolinhas</strong>. Alternativa <strong>A</strong>.</p><p>O objeto flutuando já está considerado no nível de 8 cm; a altura total de 17 cm (E: 34 bolinhas, até 17) não é o que se pede.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "deslocamento"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Conjuntos",
+   "origem": {
+    "numeroOriginal": 169
+   },
+   "enunciado": "<p>Um grupo sanguíneo, ou tipo sanguíneo, baseia-se na presença ou ausência de dois antígenos, A e B, na superfície das células vermelhas do sangue. Como dois antígenos estão envolvidos, os quatro tipos sanguíneos distintos são:</p><ul><li>Tipo A: apenas o antígeno A está presente;</li><li>Tipo B: apenas o antígeno B está presente;</li><li>Tipo AB: ambos os antígenos estão presentes;</li><li>Tipo O: nenhum dos antígenos está presente.</li></ul><p class=\"fonte\">Disponível em: http://saude.hsw.uol.com.br. Acesso em: 15 abr. 2012 (adaptado).</p><p>Foram coletadas amostras de sangue de 200 pessoas e, após análise laboratorial, foi identificado que em 100 amostras está presente o antígeno A, em 110 amostras há presença do antígeno B e em 20 amostras nenhum dos antígenos está presente. Dessas pessoas que foram submetidas à coleta de sangue, o número das que possuem o tipo sanguíneo A é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "30.",
+    "B": "60.",
+    "C": "70.",
+    "D": "90.",
+    "E": "100."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Das 200 pessoas, 20 não têm antígeno: 180 têm A ou B. Pela união de conjuntos, 100 + 110 − n(A ∩ B) = 180, então 30 têm os dois (tipo AB). As do tipo A (só o antígeno A) são 100 − 30 = <strong>70</strong>. Alternativa <strong>C</strong>.</p><p>100 (E) inclui as 30 pessoas do tipo AB.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "união de conjuntos",
+    "diagrama de Venn"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 170
+   },
+   "enunciado": "<p>Antônio, Joaquim e José são sócios de uma empresa cujo capital é dividido, entre os três, em partes proporcionais a: 4, 6 e 6, respectivamente. Com a intenção de igualar a participação dos três sócios no capital da empresa, Antônio pretende adquirir uma fração do capital de cada um dos outros dois sócios. A fração do capital de cada sócio que Antônio deverá adquirir é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\frac{1}{2}\\)",
+    "B": "\\(\\frac{1}{3}\\)",
+    "C": "\\(\\frac{1}{9}\\)",
+    "D": "\\(\\frac{2}{3}\\)",
+    "E": "\\(\\frac{4}{3}\\)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O capital tem 4 + 6 + 6 = 16 partes; para igualar, cada um deve ficar com 16/3. Antônio precisa de 16/3 − 4 = 4/3, comprando 2/3 de cada sócio. Em relação às 6 partes de cada um, isso é (2/3)/6 = <strong>1/9</strong>. Alternativa <strong>C</strong>.</p><p>1/3 (B) seria a fração do capital total que cada um deve ter no fim.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão proporcional",
+    "frações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 171
+   },
+   "enunciado": "<p>Azulejo designa peça de cerâmica vitrificada e/ou esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos.</p><p class=\"fonte\">Disponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012.</p><p>Azulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura.</p>[[fig:1]]<p>Entre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos: 1 – Triângulo retângulo isósceles; 2 – Triângulo equilátero; 3 – Quadrado. Os azulejos necessários para o devido preenchimento das áreas em branco desse painel são os de formato</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q171.webp",
+     "alt": "Painel retangular coberto por oito octógonos cinza em duas fileiras, com pequenos espaços brancos entre eles: quadrados no meio e triângulos nas bordas."
+    }
+   ],
+   "alternativas": {
+    "A": "1.",
+    "B": "3.",
+    "C": "1 e 2.",
+    "D": "1 e 3.",
+    "E": "2 e 3."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O ângulo interno do octógono regular é 135°. Onde quatro octógonos se encontram, sobra 360° − 2 · 135° = 90° em cada canto: os espaços internos são <strong>quadrados</strong>. Na borda, entre dois octógonos, o espaço tem um ângulo de 90° e lados iguais: <strong>triângulos retângulos isósceles</strong>. São necessários os formatos 1 e 3. Alternativa <strong>D</strong>.</p><p>Triângulos equiláteros (2) têm ângulos de 60°, que não encaixam.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "polígonos regulares",
+    "ladrilhamento"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 172
+   },
+   "enunciado": "<p>No período de fim de ano, o síndico de um condomínio resolveu colocar, em um poste, uma iluminação natalina em formato de cone, lembrando uma árvore de Natal, conforme as figuras 1 e 2.</p>[[fig:1]]<p>A árvore deverá ser feita colocando-se mangueiras de iluminação, consideradas segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de altura no poste até um ponto de uma circunferência de fixação, no chão, de tal forma que esta fique dividida em 20 arcos iguais. O poste está fixado no ponto <em>C</em> (centro da circunferência) perpendicularmente ao plano do chão.</p><p>Para economizar, ele utilizará mangueiras de iluminação aproveitadas de anos anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais ele decide usar exatamente 100 m e deixar o restante como reserva.</p><p>Para que ele atinja seu objetivo, o raio, em metro, da circunferência deverá ser de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q172.webp",
+     "alt": "Figura 1: foto noturna de uma árvore de Natal em forma de cone feita de luzes presas a um poste. Figura 2: esquema do cone, com o poste no centro C da circunferência no chão, segmentos de um ponto do poste a 3 m de altura até a circunferência."
+    }
+   ],
+   "alternativas": {
+    "A": "4,00.",
+    "B": "4,87.",
+    "C": "5,00.",
+    "D": "5,83.",
+    "E": "6,26."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As 20 mangueiras ligam o ponto do poste a 3 m de altura a 20 pontos da circunferência, e todas têm o mesmo comprimento. Usando exatamente 100 m, cada uma mede 5 m. Ela é a hipotenusa de um triângulo retângulo com altura 3 m e raio r: r<sup>2</sup> + 3<sup>2</sup> = 5<sup>2</sup>, <strong>r = 4,00 m</strong>. Alternativa <strong>A</strong>.</p><p>5,00 (C) seria o comprimento de cada mangueira, não o raio.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "teorema de Pitágoras",
+    "cone"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 173
+   },
+   "enunciado": "<p>Pergolado é o nome que se dá a um tipo de cobertura projetada por arquitetos, comumente em praças e jardins, para criar um ambiente para pessoas ou plantas, no qual há uma quebra da quantidade de luz, dependendo da posição do sol. É feito como um estrado de vigas iguais, postas paralelas e perfeitamente em fila, como ilustra a figura.</p>[[fig:1]]<p>Um arquiteto projeta um pergolado com vãos de 30 cm de distância entre suas vigas, de modo que, no solstício de verão, a trajetória do sol durante o dia seja realizada num plano perpendicular à direção das vigas, e que o sol da tarde, no momento em que seus raios fizerem 30° com a posição a pino, gere a metade da luz que passa no pergolado ao meio-dia.</p><p>Para atender à proposta do projeto elaborado pelo arquiteto, as vigas do pergolado devem ser construídas de maneira que a altura, em centímetro, seja a mais próxima possível de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q173.webp",
+     "alt": "Ilustração de um pergolado: vigas iguais, paralelas e alinhadas, com um detalhe ampliado mostrando o vão de 30 cm entre duas vigas."
+    }
+   ],
+   "alternativas": {
+    "A": "9.",
+    "B": "15.",
+    "C": "26.",
+    "D": "52.",
+    "E": "60."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Ao meio-dia a luz passa pelos 30 cm do vão. Com os raios a 30° da vertical, cada viga de altura h faz uma sombra de h · tg 30° sobre o vão. Para passar metade da luz, a sombra deve ser 15 cm: h = 15/tg 30° = 15√3 ≈ <strong>26 cm</strong>. Alternativa <strong>C</strong>.</p><p>Usar o seno ou o cosseno no lugar da tangente leva a 15 cm, 30 cm ou 52 cm.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tangente",
+    "triângulo retângulo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 174
+   },
+   "enunciado": "<p>O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas presentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea da via pública principal na área ocupada, bem como das vias afluentes que apresentem aglomerações de pessoas que acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se um esboço geométrico da situação. Em seguida, subdivide-se o espaço total em trechos, quantificando a densidade, da seguinte forma:</p><ul><li>4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção;</li><li>5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local;</li><li>6 pessoas por metro quadrado, se elas estiverem paradas.</li></ul><p>É feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1 000 pessoas para cada carro de som fotografado.</p><p>Com essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo esboço geométrico é dado na figura. Há três trechos na via principal: <em>MN</em>, <em>NO</em> e <em>OP</em>, e um trecho numa via afluente da principal: <em>QR</em>.</p>[[fig:1]]<p>Obs.: a figura não está em escala (considere as medidas dadas).</p><p>Segundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q174.webp",
+     "alt": "Esboço da manifestação: via principal de 30 m de largura com os trechos MN (100 m, pessoas andando na mesma direção), NO (300 m, pessoas paradas) e OP (200 m, pessoas se movimentando sem deixar o local), e a via afluente QR (100 m de comprimento, 30 m de largura, pessoas andando); quatro carros de som aparecem como retângulos cinza."
+    }
+   ],
+   "alternativas": {
+    "A": "110 000.",
+    "B": "104 000.",
+    "C": "93 000.",
+    "D": "92 000.",
+    "E": "87 000."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Todas as vias têm 30 m de largura. MN (100 m, andando): 3 000 m<sup>2</sup> · 4 = 12 000. NO (300 m, parados): 9 000 m<sup>2</sup> · 6 = 54 000. OP (200 m, movimentando sem sair): 6 000 m<sup>2</sup> · 5 = 30 000. QR (100 m, andando): 3 000 · 4 = 12 000. Total: 108 000; descontando 4 carros de som (4 000): <strong>104 000</strong>. Alternativa <strong>B</strong>.</p><p>110 000 (A) não desconta os carros e inclui outro erro de densidade.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área",
+    "densidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 175
+   },
+   "enunciado": "<p>Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de produção de seus itens, em real, em função da quantidade de itens produzidos.</p>[[fig:1]]<p>O lucro é determinado pela diferença: Receita – Custo. O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q175.webp",
+     "alt": "Gráfico de receita e custo (R$) em função da quantidade de itens produzidos (0 a 30): o custo sobe rápido até cerca de 45 perto de 10 itens, cai até cerca de 10 perto de 25 itens e volta a subir; a receita cresce de forma suave até cerca de 50 perto de 28 itens; as curvas se cruzam perto de 13 itens."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q175a.webp",
+     "alt": "Gráfico de lucro: começa perto de zero, desce até cerca de −20 perto de 10 itens, sobe cruzando o zero perto de 14 itens, chega a cerca de 40 perto de 24 itens e cai para cerca de 10 em 30 itens."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q175b.webp",
+     "alt": "Gráfico de lucro: sobe até cerca de 20 perto de 8 itens, desce até cerca de −40 perto de 25 itens e volta a subir."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q175c.webp",
+     "alt": "Gráfico de lucro sempre positivo: um arco até cerca de 20, volta a zero perto de 15 itens e outro arco até cerca de 40 perto de 24 itens."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q175d.webp",
+     "alt": "Gráfico igual à curva do custo: sobe até cerca de 45 perto de 10 itens, cai até cerca de 10 perto de 25 e volta a subir."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q175e.webp",
+     "alt": "Gráfico igual à curva da receita: sobe de forma suave até cerca de 50 perto de 27 itens."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Pelo gráfico, até cerca de 13 itens o custo é maior que a receita (lucro negativo), com o maior prejuízo perto de 10 itens; depois a receita supera o custo, e o lucro chega perto de 40 reais por volta de 25 itens, caindo no fim. O gráfico de Receita − Custo começa negativo, desce, cruza o zero e forma um pico positivo: é o da alternativa <strong>A</strong>. Alternativa <strong>A</strong>.</p><p>B inverte o sinal (seria Custo − Receita); D e E repetem a curva do custo ou da receita.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico de funções",
+    "lucro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 41,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 176
+   },
+   "enunciado": "<p>Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura.</p>[[fig:1]]<p>Para facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida.</p><p>A figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três planos citados, durante sua descida é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q176.webp",
+     "alt": "Sólido formado por quatro cubos iguais: três em forma de L e um quarto sobre um deles."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q176a.webp",
+     "alt": "Alternativa A: o sólido num canto entre duas paredes e um piso quadriculados, com as projeções em cinza em cada plano."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q176b.webp",
+     "alt": "Alternativa B: o sólido em outra posição, com projeções em cinza nas paredes e no piso."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q176c.webp",
+     "alt": "Alternativa C: o sólido em outra posição, com projeções em cinza nas paredes e no piso."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q176d.webp",
+     "alt": "Alternativa D: o sólido em outra posição, com projeções em cinza nas paredes e no piso."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q176e.webp",
+     "alt": "Alternativa E: o sólido em pé, com projeções em cinza nas duas paredes e no piso coerentes com sua posição."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O sólido tem quatro cubos: dois empilhados à esquerda, ao lado de um em baixo, e um em cima recuado. As projeções certas devem mostrar, no chão e em cada parede, as formas coerentes com a mesma posição do sólido. Só na alternativa <strong>E</strong> as três sombras (as duas paredes e o piso) correspondem à posição desenhada. Alternativa <strong>E</strong>.</p><p>Nas outras, pelo menos uma projeção tem um quadrado a mais, a menos ou deslocado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "projeção ortogonal",
+    "vistas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 177
+   },
+   "enunciado": "<p>A Figura 1 apresenta uma casa e a planta do seu telhado, em que as setas indicam o sentido do escoamento da água de chuva. Um pedreiro precisa fazer a planta do escoamento da água de chuva de um telhado que tem três caídas de água, como apresentado na Figura 2.</p>[[fig:1]]<p>A figura que representa a planta do telhado da Figura 2 com o escoamento da água de chuva que o pedreiro precisa fazer é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-matematica/q177.webp",
+     "alt": "Figura 1: (a) casa com telhado de duas águas e (b) a planta do telhado, um retângulo com a cumeeira no meio e setas apontando para os dois lados maiores. Figura 2: casa com telhado de três águas, com uma caída a mais numa das extremidades."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q177a.webp",
+     "alt": "Planta A: retângulo com a cumeeira e duas linhas inclinadas formando um triângulo numa ponta; setas para cima e para baixo, sem seta no triângulo."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q177b.webp",
+     "alt": "Planta B: retângulo com a cumeeira e duas linhas inclinadas formando um triângulo numa ponta; setas para cima, para baixo e, no triângulo, para fora."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q177c.webp",
+     "alt": "Planta C: retângulo com um triângulo saindo para fora da casa numa ponta, com seta para fora, e setas para cima e para baixo."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q177d.webp",
+     "alt": "Planta D: retângulo com cumeeira e triângulos nas duas pontas (quatro águas), com setas para cima e para baixo."
+    },
+    {
+     "src": "assets/img/enem-2020-matematica/q177e.webp",
+     "alt": "Planta E: losango alongado com triângulos para fora dos dois lados e setas cruzadas no centro."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O telhado da Figura 2 tem duas águas principais e uma terceira caída numa das extremidades (um lado em forma de triângulo). Na planta, isso aparece como o retângulo dividido pela cumeeira, com duas setas para os lados maiores, e um triângulo numa ponta com a seta para fora, sem ultrapassar o contorno da casa. É a planta da alternativa <strong>B</strong>. Alternativa <strong>B</strong>.</p><p>A tem a terceira água sem seta; D e E representam quatro caídas; C desenha a terceira água para fora da casa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vistas",
+    "planta"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 178
+   },
+   "enunciado": "<p>Suponha que uma equipe de corrida de automóveis disponha de cinco tipos de pneu (I, II, III, IV, V), em que o fator de eficiência climática EC (índice que fornece o comportamento do pneu em uso, dependendo do clima) é apresentado:</p><ul><li>EC do pneu I: com chuva 6, sem chuva 3;</li><li>EC do pneu II: com chuva 7, sem chuva −4;</li><li>EC do pneu III: com chuva −2, sem chuva 10;</li><li>EC do pneu IV: com chuva 2, sem chuva 8;</li><li>EC do pneu V: com chuva −6, sem chuva 7.</li></ul><p>O coeficiente de rendimento climático (CRC) de um pneu é calculado como a soma dos produtos dos fatores de EC, com ou sem chuva, pelas correspondentes probabilidades de se ter tais condições climáticas: ele é utilizado para determinar qual pneu deve ser selecionado para uma dada corrida, escolhendo-se o pneu que apresentar o maior CRC naquele dia. No dia de certa corrida, a probabilidade de chover era de 70% e o chefe da equipe calculou o CRC de cada um dos cinco tipos de pneu.</p><p>O pneu escolhido foi</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>CRC = 0,7 · EC com chuva + 0,3 · EC sem chuva. I: 4,2 + 0,9 = <strong>5,1</strong>; II: 4,9 − 1,2 = 3,7; III: −1,4 + 3,0 = 1,6; IV: 1,4 + 2,4 = 3,8; V: −4,2 + 2,1 = −2,1. O maior CRC é o do pneu <strong>I</strong>. Alternativa <strong>A</strong>.</p><p>O II (B) é o melhor só na chuva; o III (C), só no seco.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada",
+    "probabilidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 179
+   },
+   "enunciado": "<p>Um pé de eucalipto em idade adequada para o corte rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4, medida pela razão da massa de uma folha desse papel por sua área, é de 75 gramas por metro quadrado, e a área de uma folha de A4 é 0,062 metro quadrado.</p><p>Nessas condições, quantos quilogramas de papel rende, em média, um pé de eucalipto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4 301",
+    "B": "1 500",
+    "C": "930",
+    "D": "267",
+    "E": "93"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Massa de uma folha: 75 g/m<sup>2</sup> · 0,062 m<sup>2</sup> = 4,65 g. Em 20 mil folhas: 20 000 · 4,65 = 93 000 g = <strong>93 kg</strong>. Alternativa <strong>E</strong>.</p><p>930 (C) erra a conversão de grama para quilograma.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "densidade superficial",
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 180
+   },
+   "enunciado": "<p>Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro.</p><table class=\"tabela\"><thead><tr><th>Procedimento</th><th>Peso</th><th>X</th><th>Y</th><th>Z</th><th>W</th><th>T</th></tr></thead><tbody><tr><td>Rapidez no atendimento</td><td>3</td><td>5</td><td>1</td><td>4</td><td>3</td><td>4</td></tr><tr><td>Clareza nas informações passadas aos clientes</td><td>5</td><td>1</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr><td>Cortesia no atendimento</td><td>2</td><td>2</td><td>2</td><td>2</td><td>3</td><td>4</td></tr></tbody></table><p>A agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados. Após a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "X.",
+    "B": "Y.",
+    "C": "Z.",
+    "D": "W.",
+    "E": "T."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pesos 3, 5 e 2 (soma 10). X: (15 + 5 + 4)/10 = 2,4; Y: (3 + 20 + 4)/10 = 2,7; Z: (12 + 15 + 4)/10 = <strong>3,1</strong>; W: (9 + 15 + 6)/10 = 3,0; T: (12 + 10 + 8)/10 = 3,0. A maior média é a da empresa <strong>Z</strong>. Alternativa <strong>C</strong>.</p><p>Pela média simples, W e T empatariam com Z ou ficariam na frente; o peso da clareza (5) decide.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada"
+   ],
+   "area": "Matemática"
+  }
+ ]
+}

@@ -1,0 +1,1221 @@
+{
+ "id": "enem-2014-humanas",
+ "banca": "Enem",
+ "ano": 2014,
+ "titulo": "Enem 2014: Ciências Humanas",
+ "fonte": "Inep",
+ "dataExame": "2014-11-08",
+ "duracaoMinutos": 135,
+ "area": "Ciências Humanas",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\"><em>Fon-Fon!</em>, ano IV, n. 36, 3 set. 1910. Disponível em: objdigital.bn.br. Acesso em: 4 abr. 2014.</p><p>A charge, datada de 1910, ao retratar a implantação da rede telefônica no Brasil, indica que esta</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q01.webp",
+     "alt": "Charge “A rede telephonica”: um índio de cocar deitado, com o corpo sobre os nomes Rio Grande, Prata, Pará e Amazonas, fala ao telefone com fios que vão da cabeça aos pés. Legenda: “Em breve, já poderá o Brazil esticar as canellas sem receio de não ser ouvido dos pés á cabeça”."
+    }
+   ],
+   "alternativas": {
+    "A": "permitiria aos índios se apropriarem da telefonia móvel.",
+    "B": "ampliaria o contato entre a diversidade de povos indígenas.",
+    "C": "faria a comunicação sem ruídos entre grupos sociais distintos.",
+    "D": "restringiria a sua área de atendimento aos estados do norte do país.",
+    "E": "possibilitaria a integração das diferentes regiões do território nacional."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na charge, o índio estendido sobre o mapa tem a cabeça no Rio Grande e os pés no Amazonas, ligados por fios de telefone; a legenda diz que o Brasil “poderá esticar as canelas sem receio de não ser ouvido dos pés à cabeça”. A rede telefônica <strong>possibilitaria a integração das diferentes regiões do território nacional</strong>. Alternativa <strong>E</strong>.</p><p>O índio é uma alegoria do Brasil, e não um usuário real da telefonia (A e B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "integração nacional",
+    "charge"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "História",
+   "assunto": "Idade Média",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p class=\"apoio\">Sou uma pobre e velha mulher,<br>Muito ignorante, que nem sabe ler.<br>Mostraram-me na igreja da minha terra<br>Um Paraíso com harpas pintado<br>E o Inferno onde fervem almas danadas,<br>Um enche-me de júbilo, o outro me aterra.</p><p class=\"fonte\">VILLON, F. In: GOMBRICH, E. <em>História da arte</em>. Lisboa: LTC, 1999.</p><p>Os versos do poeta francês François Villon fazem referência às imagens presentes nos templos católicos medievais. Nesse contexto, as imagens eram usadas com o objetivo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "refinar o gosto dos cristãos.",
+    "B": "incorporar ideais heréticos.",
+    "C": "educar os fiéis através do olhar.",
+    "D": "divulgar a genialidade dos artistas católicos.",
+    "E": "valorizar esteticamente os templos religiosos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A mulher dos versos não sabe ler, mas conhece o Paraíso e o Inferno pelas pinturas da igreja. Numa sociedade em que quase ninguém era alfabetizado, as imagens dos templos serviam para <strong>educar os fiéis através do olhar</strong>, transmitindo a doutrina. Alternativa <strong>C</strong>.</p><p>O objetivo era religioso e pedagógico, e não estético (A e E) ou de exaltar os artistas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "arte medieval",
+    "Igreja"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "Geografia",
+   "assunto": "Questões ambientais",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"apoio\">Os dois principais rios que alimentavam o Mar de Aral, Amurdarya e Sydarya, mantiveram o nível e o volume do mar por muitos séculos. Entretanto, o projeto de estabelecer e expandir a produção de algodão irrigado aumentou a dependência de várias repúblicas da Ásia Central da irrigação e monocultura. O aumento da demanda resultou no desvio crescente de água para a irrigação, acarretando redução drástica do volume de tributários do Mar de Aral. Foi criado na Ásia Central um novo deserto, com mais de 5 milhões de hectares, como resultado da redução em volume.</p><p class=\"fonte\">TUNDISI, J. G. <em>Água no século XXI</em>: enfrentando a escassez. São Carlos: Rima, 2003.</p><p>A intensa interferência humana na região descrita provocou o surgimento de uma área desértica em decorrência da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "erosão.",
+    "B": "salinização.",
+    "C": "laterização.",
+    "D": "compactação.",
+    "E": "sedimentação."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A água dos rios foi desviada para irrigar algodão, e o Mar de Aral perdeu volume. Com a evaporação, os sais se concentraram no solo exposto e nas áreas irrigadas, que ficaram estéreis: é a <strong>salinização</strong>. Alternativa <strong>B</strong>.</p><p>Laterização (C) é o endurecimento do solo por óxidos de ferro e alumínio em climas úmidos, o que não tem relação com a irrigação excessiva.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Mar de Aral",
+    "irrigação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "Filosofia",
+   "assunto": "Filosofia moderna",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"apoio\">É o caráter radical do que se procura que exige a radicalização do próprio processo de busca. Se todo o espaço for ocupado pela dúvida, qualquer certeza que aparecer a partir daí terá sido de alguma forma gerada pela própria dúvida, e não será seguramente nenhuma daquelas que foram anteriormente varridas por essa mesma dúvida.</p><p class=\"fonte\">SILVA, F. L. <em>Descartes: a metafísica da modernidade</em>. São Paulo: Moderna, 2001 (adaptado).</p><p>Apesar de questionar os conceitos da tradição, a dúvida radical da filosofia cartesiana tem caráter positivo por contribuir para o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dissolução do saber científico.",
+    "B": "recuperação dos antigos juízos.",
+    "C": "exaltação do pensamento clássico.",
+    "D": "surgimento do conhecimento inabalável.",
+    "E": "fortalecimento dos preconceitos religiosos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Descartes duvida de tudo para encontrar algo que resista à dúvida. A certeza que sobra (“penso, logo existo”) nasce da própria dúvida e serve de base para o resto do saber. O caráter positivo é o <strong>surgimento do conhecimento inabalável</strong>. Alternativa <strong>D</strong>.</p><p>A dúvida é um método para fundar a ciência, e não para dissolvê-la (A) ou voltar aos juízos antigos (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Descartes",
+    "dúvida metódica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 5,
+   "materia": "Sociologia",
+   "assunto": "Trabalho e tecnologia",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">NEVES, E. Engraxate. Disponível em: www.grafar.blogspot.com. Acesso em: 15 fev. 2013.</p><p>Considerando-se a dinâmica entre tecnologia e organização do trabalho, a representação contida no cartum é caracterizada pelo pessimismo em relação à</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q05.webp",
+     "alt": "Cartum: numa fábrica cheia de máquinas, robôs trabalham; na porta, uma placa diz “Não há vagas”, e um homem agachado engraxa o pé de um robô."
+    }
+   ],
+   "alternativas": {
+    "A": "ideia de progresso.",
+    "B": "concentração do capital.",
+    "C": "noção de sustentabilidade.",
+    "D": "organização dos sindicatos.",
+    "E": "obsolescência dos equipamentos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No cartum, robôs fazem todo o trabalho numa fábrica com uma placa de “Não há vagas”, enquanto um homem engraxa os sapatos de um robô. A tecnologia, em vez de libertar o homem, o deixa sem emprego e em posição servil: o pessimismo é com a <strong>ideia de progresso</strong>. Alternativa <strong>A</strong>.</p><p>Os equipamentos aparecem modernos, e não obsoletos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "automação",
+    "desemprego estrutural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p class=\"apoio\">Ao deflagrar-se a crise mundial de 1929, a situação da economia cafeeira se apresentava como se segue. A produção, que se encontrava em altos níveis, teria que seguir crescendo, pois os produtores haviam continuado a expandir as plantações até aquele momento. Com efeito, a produção máxima seria alcançada em 1933, ou seja, no ponto mais baixo da depressão, como reflexo das grandes plantações de 1927-1928. Entretanto, era totalmente impossível obter crédito no exterior para financiar a retenção de novos estoques, pois o mercado internacional de capitais se encontrava em profunda depressão, e o crédito do governo desaparecera com a evaporação das reservas.</p><p class=\"fonte\">FURTADO, C. <em>Formação econômica do Brasil</em>. São Paulo: Cia. Editora Nacional, 1997 (adaptado).</p><p>Uma resposta do Estado brasileiro à conjuntura econômica mencionada foi o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "atração de empresas estrangeiras.",
+    "B": "reformulação do sistema fundiário.",
+    "C": "incremento da mão de obra imigrante.",
+    "D": "desenvolvimento de política industrial.",
+    "E": "financiamento de pequenos agricultores."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com a crise de 1929, o café não tinha mercado nem crédito externo para financiar os estoques. O governo Vargas comprou e queimou café, e a crise da economia agroexportadora estimulou a produção interna de bens antes importados. A resposta do Estado foi o <strong>desenvolvimento de política industrial</strong>. Alternativa <strong>D</strong>.</p><p>A estrutura fundiária (B) não foi reformada; o latifúndio continuou.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "crise de 1929",
+    "industrialização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "Geografia",
+   "assunto": "Espaço rural",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">VALE, J.; AQUINO, J. B. <em>Sina de caboclo</em>. São Paulo: Polygram, 1994 (fragmento).</p><p>No trecho da canção, composta na década de 1960, retrata-se a insatisfação do trabalhador rural com</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q07.webp",
+     "alt": "Trecho da letra da canção “Sina de caboclo”, em que um trabalhador rural diz que não vai mais plantar para dividir a colheita com quem não planta e que pensa em ir para o Rio trabalhar na construção."
+    }
+   ],
+   "alternativas": {
+    "A": "a distribuição desigual da produção.",
+    "B": "os financiamentos feitos ao produtor rural.",
+    "C": "a ausência de escolas técnicas no campo.",
+    "D": "os empecilhos advindos das secas prolongadas.",
+    "E": "a precariedade de insumos no trabalho do campo."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O caboclo diz que trabalha na enxada, mas o que colhe “é dividido com quem não planta nada”, o dono da terra. Por isso pensa em migrar para o Rio. A queixa é contra a <strong>distribuição desigual da produção</strong>, típica da parceria e da meação. Alternativa <strong>A</strong>.</p><p>A canção diz que está chovendo no sertão: o problema não é a seca (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "meação",
+    "concentração fundiária",
+    "êxodo rural"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "Sociologia",
+   "assunto": "Cultura",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p class=\"apoio\">O cidadão norte-americano desperta num leito construído segundo padrão originário do Oriente Próximo, mas modificado na Europa Setentrional antes de ser transmitido à América. Sai debaixo de cobertas feitas de algodão cuja planta se tornou doméstica na Índia. No restaurante, toda uma série de elementos tomada de empréstimo o espera. O prato é feito de uma espécie de cerâmica inventada na China. A faca é de aço, liga feita pela primeira vez na Índia do Sul; o garfo é inventado na Itália medieval; a colher vem de um original romano. Lê notícias do dia impressas em caracteres inventados pelos antigos semitas, em material inventado na China e por um processo inventado na Alemanha.</p><p class=\"fonte\">LINTON, R. <em>O homem: uma introdução à antropologia</em>. São Paulo: Martins, 1959 (adaptado).</p><p>A situação descrita é um exemplo de como os costumes resultam da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "assimilação de valores de povos exóticos.",
+    "B": "experimentação de hábitos sociais variados.",
+    "C": "recuperação de heranças da Antiguidade Clássica.",
+    "D": "fusão de elementos de tradições culturais diferentes.",
+    "E": "valorização de comportamento de grupos privilegiados."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A cama do Oriente Próximo, o algodão da Índia, a cerâmica da China, o garfo da Itália: o dia comum do norte-americano é feito de elementos vindos de muitos povos. Os costumes resultam da <strong>fusão de elementos de tradições culturais diferentes</strong>. Alternativa <strong>D</strong>.</p><p>Chamar esses povos de “exóticos” (A) seria etnocêntrico, e o texto não fala de grupos privilegiados (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "difusão cultural",
+    "Linton"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 9,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p>[[fig:1]]<p class=\"fonte\">Disponível em: http://twistedsifter.com. Acesso em: 5 nov. 2013 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">A Índia deu um passo alto no setor de teleatendimento para países mais desenvolvidos, como os Estados Unidos e as nações europeias. Atualmente mais de 245 mil indianos realizam ligações para todas as partes do mundo a fim de oferecer cartões de créditos ou telefones celulares ou cobrar contas em atraso.</p><p class=\"fonte\">Disponível em: www.conectacallcenter.com.br. Acesso em: 12 nov. 2013 (adaptado).</p><p>Ao relacionar os textos, a explicação para o processo de territorialização descrito está no(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q09.webp",
+     "alt": "Mapa-múndi com um círculo sobre o Sul e o Leste da Ásia (Índia, China e vizinhos) e a frase “Há mais gente vivendo dentro desse círculo do que fora dele”."
+    }
+   ],
+   "alternativas": {
+    "A": "aceitação das diferenças culturais.",
+    "B": "adequação da posição geográfica.",
+    "C": "incremento do ensino superior.",
+    "D": "qualidade da rede logística.",
+    "E": "custo da mão de obra local."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O mapa mostra que há mais gente vivendo dentro do círculo sobre a Ásia do que fora dele, e o texto diz que a Índia atende ligações do mundo todo. Muita população significa muita oferta de trabalhadores e salários baixos: as empresas vão para lá pelo <strong>custo da mão de obra local</strong>. Alternativa <strong>E</strong>.</p><p>O teleatendimento não depende de posição geográfica (B), já que é feito por telefone.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "teleatendimento",
+    "mão de obra barata"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 10,
+   "materia": "Geografia",
+   "assunto": "Migrações",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p class=\"apoio\">O jovem espanhol Daniel se sente perdido. Seu diploma de desenhista industrial e seu alto conhecimento de inglês devem ajudá-lo a tomar um rumo. Mas a taxa de desemprego, que supera 52% entre os que têm menos de 25 anos, o desnorteia. Ele está convencido de que seu futuro profissional não está na Espanha, como o de, pelo menos, 120 mil conterrâneos que emigraram nos últimos dois anos. O irmão dele, que é engenheiro-agrônomo, conseguiu emprego no Chile. Atualmente, Daniel participa de uma “oficina de procura de emprego” em países como Brasil, Alemanha e China. A oficina é oferecida por uma universidade espanhola.</p><p class=\"fonte\">GUILAYN, P. Na Espanha, universidade ensina a emigrar. <em>O Globo</em>, 17 fev. 2013 (adaptado).</p><p>A situação ilustra uma crise econômica que implica</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "valorização do trabalho fabril.",
+    "B": "expansão dos recursos tecnológicos.",
+    "C": "exportação de mão de obra qualificada.",
+    "D": "diversificação dos mercados produtivos.",
+    "E": "intensificação dos intercâmbios estudantis."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Daniel é desenhista industrial, fala inglês, e seu irmão é engenheiro-agrônomo; o desemprego entre jovens na Espanha passa de 52%, e a universidade chega a oferecer oficina para emigrar. A crise leva à <strong>exportação de mão de obra qualificada</strong>, a chamada fuga de cérebros. Alternativa <strong>C</strong>.</p><p>Os jovens saem para trabalhar, e não para estudar (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "crise europeia",
+    "fuga de cérebros"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "História",
+   "assunto": "Grécia Antiga",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p class=\"apoio\">Compreende-se assim o alcance de uma reivindicação que surge desde o nascimento da cidade na Grécia antiga: a redação das leis. Ao escrevê-las, não se faz mais que assegurar-lhes permanência e fixidez. As leis tornam-se bem comum, regra geral, suscetível de ser aplicada a todos da mesma maneira.</p><p class=\"fonte\">VERNANT, J. P. <em>As origens do pensamento grego</em>. Rio de Janeiro: Bertrand Brasil, 1992 (adaptado).</p><p>Para o autor, a reivindicação atendida na Grécia antiga, ainda vigente no mundo contemporâneo, buscava garantir o seguinte princípio:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Isonomia — igualdade de tratamento aos cidadãos.",
+    "B": "Transparência — acesso às informações governamentais.",
+    "C": "Tripartição — separação entre os poderes políticos estatais.",
+    "D": "Equiparação — igualdade de gênero na participação política.",
+    "E": "Elegibilidade — permissão para candidatura aos cargos públicos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Escrever as leis torna-as conhecidas e fixas, “suscetíveis de serem aplicadas a todos da mesma maneira”. Isso é a <strong>isonomia, igualdade de tratamento aos cidadãos</strong> perante a lei. Alternativa <strong>A</strong>.</p><p>A igualdade de gênero (D) não existia na pólis, onde as mulheres não eram cidadãs.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pólis",
+    "isonomia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 12,
+   "materia": "Filosofia",
+   "assunto": "Bioética",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p class=\"apoio\">Panayiotis Zavos “quebrou” o último tabu da clonagem humana — transferiu embriões para o útero de mulheres, que os gerariam. Esse procedimento é crime em inúmeros países. Aparentemente, o médico possuía um laboratório secreto, no qual fazia seus experimentos. “Não tenho nenhuma dúvida de que uma criança clonada irá aparecer em breve. Posso não ser eu o médico que irá criá-la, mas vai acontecer”, declarou Zavos. “Se nos esforçarmos, podemos ter um bebê clonado daqui a um ano, ou dois, mas não sei se é o caso. Não sofremos pressão para entregar um bebê clonado ao mundo. Sofremos pressão para entregar um bebê clonado saudável ao mundo.”</p><p class=\"fonte\">CONNOR, S. Disponível em: www.independent.co.uk. Acesso em: 14 ago. 2012 (adaptado).</p><p>A clonagem humana é um importante assunto de reflexão no campo da bioética que, entre outras questões, dedica-se a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "refletir sobre as relações entre o conhecimento da vida e os valores éticos do homem.",
+    "B": "legitimar o predomínio da espécie humana sobre as demais espécies animais no planeta.",
+    "C": "relativizar, no caso da clonagem humana, o uso dos valores de certo e errado, de bem e mal.",
+    "D": "legalizar, pelo uso das técnicas de clonagem, os processos de reprodução humana e animal.",
+    "E": "fundamentar técnica e economicamente as pesquisas sobre células-tronco para uso em seres humanos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A bioética discute os limites morais da pesquisa e da intervenção sobre a vida, como a clonagem humana: o que é possível fazer não é necessariamente o que se deve fazer. Ela se dedica a <strong>refletir sobre as relações entre o conhecimento da vida e os valores éticos do homem</strong>. Alternativa <strong>A</strong>.</p><p>A bioética não serve para legalizar (D) nem para justificar economicamente (E) as técnicas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "clonagem",
+    "ética"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 13,
+   "materia": "Geografia",
+   "assunto": "Cartografia",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p class=\"apoio\">Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastaria ir à França num minuto para assistir ao pôr do sol.</p><p class=\"fonte\">SAINT-EXUPÉRY, A. <em>O Pequeno Príncipe</em>. Rio de Janeiro: Agir, 1996.</p><p>A diferença espacial citada é causada por qual característica física da Terra?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Achatamento de suas regiões polares.",
+    "B": "Movimento em torno de seu próprio eixo.",
+    "C": "Arredondamento de sua forma geométrica.",
+    "D": "Variação periódica de sua distância do Sol.",
+    "E": "Inclinação em relação ao seu plano de órbita."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A Terra gira em torno de si mesma de oeste para leste, então o Sol “nasce” antes nos lugares mais a leste. A França está a leste dos Estados Unidos e por isso vê o pôr do sol quando é meio-dia lá. A causa é o <strong>movimento em torno de seu próprio eixo</strong>, a rotação. Alternativa <strong>B</strong>.</p><p>A inclinação do eixo (E) explica as estações do ano, e não a diferença de horário.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rotação",
+    "fusos horários"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 14,
+   "materia": "Filosofia",
+   "assunto": "Filosofia contemporânea",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p class=\"apoio\">Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma.</p><p class=\"fonte\">HABERMAS, J. <em>Consciência moral e agir comunicativo</em>. Rio de Janeiro: Tempo Brasileiro, 1989.</p><p>Segundo Habermas, a validez de uma norma deve ser estabelecida pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "liberdade humana, que consagra a vontade.",
+    "B": "razão comunicativa, que requer um consenso.",
+    "C": "conhecimento filosófico, que expressa a verdade.",
+    "D": "técnica científica, que aumenta o poder do homem.",
+    "E": "poder político, que se concentra no sistema partidário."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Para Habermas, uma norma é válida quando todos os afetados por ela chegam a um acordo num discurso prático, isto é, num diálogo racional. A validade vem da <strong>razão comunicativa, que requer um consenso</strong>. Alternativa <strong>B</strong>.</p><p>A norma não vale pela vontade de um indivíduo (A) nem pela força do poder político (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Habermas",
+    "ética do discurso"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 15,
+   "materia": "História",
+   "assunto": "Brasil Colônia",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p class=\"apoio\">O índio era o único elemento então disponível para ajudar o colonizador como agricultor, pescador, guia, conhecedor da natureza tropical e, para tudo isso, deveria ser tratado como gente, ter reconhecidas sua inocência e alma na medida do possível. A discussão religiosa e jurídica em torno dos limites da liberdade dos índios se confundiu com uma disputa entre jesuítas e colonos. Os padres se apresentavam como defensores da liberdade, enfrentando a cobiça desenfreada dos colonos.</p><p class=\"fonte\">CALDEIRA, J. <em>A nação mercantilista</em>. São Paulo: Editora 34, 1999 (adaptado).</p><p>Entre os séculos XVI e XVIII, os jesuítas buscaram a conversão dos indígenas ao catolicismo. Essa aproximação dos jesuítas em relação ao mundo indígena foi mediada pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "demarcação do território indígena.",
+    "B": "manutenção da organização familiar.",
+    "C": "valorização dos líderes religiosos indígenas.",
+    "D": "preservação do costume das moradias coletivas.",
+    "E": "comunicação pela língua geral baseada no tupi."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para catequizar povos de muitas línguas diferentes, os jesuítas aprenderam o tupi, escreveram gramáticas e difundiram uma língua franca, a língua geral (nheengatu), usada na catequese e no contato com os colonos. A aproximação foi mediada pela <strong>comunicação pela língua geral baseada no tupi</strong>. Alternativa <strong>E</strong>.</p><p>Os jesuítas combatiam os pajés (C) e reuniam os índios em aldeamentos, o que alterava a organização familiar e a moradia (B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "jesuítas",
+    "catequese"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 16,
+   "materia": "Sociologia",
+   "assunto": "Cultura",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Queijo de Minas vira patrimônio cultural brasileiro</strong></p><p class=\"apoio\">O modo artesanal da fabricação do queijo em Minas Gerais foi registrado nesta quinta-feira (15) como patrimônio cultural imaterial brasileiro pelo Conselho Consultivo do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan). O veredicto foi dado em reunião do conselho realizada no Museu de Artes e Ofícios, em Belo Horizonte. O presidente do Iphan e do conselho ressaltou que a técnica de fabricação artesanal do queijo está “inserida na cultura do que é ser mineiro”.</p><p class=\"fonte\"><em>Folha de S. Paulo</em>, 15 maio 2008.</p><p>Entre os bens que compõem o patrimônio nacional, o que pertence à mesma categoria citada no texto está representado em:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q16a.webp",
+     "alt": "Alternativa A: fachada de igreja branca com torre, árvores ao redor."
+    },
+    {
+     "src": "assets/img/enem-2014-humanas/q16b.webp",
+     "alt": "Alternativa B: pintura de corpo esquartejado sobre um cadafalso de madeira."
+    },
+    {
+     "src": "assets/img/enem-2014-humanas/q16c.webp",
+     "alt": "Alternativa C: mãos moldando uma panela de barro."
+    },
+    {
+     "src": "assets/img/enem-2014-humanas/q16d.webp",
+     "alt": "Alternativa D: praça com calçamento de pedra, monumento ao centro e casarões coloniais."
+    },
+    {
+     "src": "assets/img/enem-2014-humanas/q16e.webp",
+     "alt": "Alternativa E: praia de areia clara com pedras e morros ao fundo."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]Mosteiro de São Bento (RJ)",
+    "B": "[[fig:2]]<em>Tiradentes esquartejado</em> (1893), de Pedro Américo",
+    "C": "[[fig:3]]Ofício das paneleiras de Goiabeiras (ES)",
+    "D": "[[fig:4]]Conjunto arquitetônico e urbanístico da cidade de Ouro Preto (MG)",
+    "E": "[[fig:5]]Sítio arqueológico e paisagístico da Ilha do Campeche (SC)"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O modo artesanal de fazer o queijo foi registrado como patrimônio <strong>imaterial</strong>: o que se protege é um saber, uma técnica. Entre as opções, o único bem dessa categoria é o <strong>ofício das paneleiras de Goiabeiras</strong>, técnica de fazer panelas de barro. Alternativa <strong>C</strong>.</p><p>Mosteiro, pintura, conjunto urbano e sítio arqueológico (A, B, D e E) são bens materiais.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "patrimônio imaterial",
+    "Iphan"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "Sociologia",
+   "assunto": "Cidadania",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">PAIVA, M. Disponível em: www.redes.unb.br. Acesso em: 25 maio 2014.</p><p>A discussão levantada na charge, publicada logo após a promulgação da Constituição de 1988, faz referência ao seguinte conjunto de direitos:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q17.webp",
+     "alt": "Charge: um homem e uma mulher com um bebê, sentados na calçada, ao lado de um cachorro. Ele lê um livro escrito “Constituição” e diz: “Todo brasileiro tem direito à moradia...”. Ela responde: “Agora lê aquele pedaço bonito que fala de comida, saúde...”."
+    }
+   ],
+   "alternativas": {
+    "A": "Civis, como o direito à vida, à liberdade de expressão e à propriedade.",
+    "B": "Sociais, como direito à educação, ao trabalho e à proteção à maternidade e à infância.",
+    "C": "Difusos, como direito à paz, ao desenvolvimento sustentável e ao meio ambiente saudável.",
+    "D": "Coletivos, como direito à organização sindical, à participação partidária e à expressão religiosa.",
+    "E": "Políticos, como o direito de votar e ser votado, à soberania popular e à participação democrática."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na charge, o rapaz lê a Constituição e diz que todo brasileiro tem direito à moradia, e a moça responde para ele ler a parte “de comida, saúde”. Os dois estão sentados na rua, sem casa. Moradia, alimentação e saúde são <strong>direitos sociais</strong>, previstos no papel e não garantidos na prática. Alternativa <strong>B</strong>.</p><p>Direitos civis (A) e políticos (E) são outros grupos de direitos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Constituição de 1988",
+    "direitos sociais"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Grandes Navegações",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"apoio\">Todo homem de bom juízo, depois que tiver realizado sua viagem, reconhecerá que é um milagre manifesto ter podido escapar de todos os perigos que se apresentam em sua peregrinação; tanto mais que há tantos outros acidentes que diariamente podem aí ocorrer que seria coisa pavorosa àqueles que aí navegam querer pô-los todos diante dos olhos quando querem empreender suas viagens.</p><p class=\"fonte\">J. P. T. Histoire de plusieurs voyages aventureux. 1600. In: DELUMEAU, J. <em>História do medo no Ocidente</em>: 1300-1800. São Paulo: Cia. das Letras, 2009 (adaptado).</p><p>Esse relato, associado ao imaginário das viagens marítimas da época moderna, expressa um sentimento de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "gosto pela aventura.",
+    "B": "fascínio pelo fantástico.",
+    "C": "temor do desconhecido.",
+    "D": "interesse pela natureza.",
+    "E": "purgação dos pecados."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O relato diz que é “um milagre manifesto” escapar de todos os perigos das viagens e que seria “coisa pavorosa” enumerar os acidentes possíveis. No imaginário das navegações, o mar era cheio de perigos e monstros: o sentimento é de <strong>temor do desconhecido</strong>. Alternativa <strong>C</strong>.</p><p>O texto fala de medo, e não de gosto pela aventura (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "navegações",
+    "medo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">Olhamos o homem alheio às atividades públicas não como alguém que cuida apenas de seus próprios interesses, mas como um inútil; nós, cidadãos atenienses, decidimos as questões públicas por nós mesmos na crença de que não é o debate que é empecilho à ação, e sim o fato de não se estar esclarecido pelo debate antes de chegar a hora da ação.</p><p class=\"fonte\">TUCÍDIDES. <em>História da Guerra do Peloponeso</em>. Brasília: UnB, 1987 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Um cidadão integral pode ser definido por nada mais nada menos que pelo direito de administrar justiça e exercer funções públicas; algumas destas, todavia, são limitadas quanto ao tempo de exercício, de tal modo que não podem de forma alguma ser exercidas duas vezes pela mesma pessoa, ou somente podem sê-lo depois de certos intervalos de tempo prefixados.</p><p class=\"fonte\">ARISTÓTELES. <em>Política</em>. Brasília: UnB, 1985.</p><p>Comparando os textos I e II, tanto para Tucídides (no século V a.C.) quanto para Aristóteles (no século IV a.C.), a cidadania era definida pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "prestígio social.",
+    "B": "acúmulo de riqueza.",
+    "C": "participação política.",
+    "D": "local de nascimento.",
+    "E": "grupo de parentesco."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Tucídides diz que quem não cuida das questões públicas é um inútil, e Aristóteles define o cidadão pelo direito de administrar a justiça e exercer funções públicas. Para os dois, a cidadania era definida pela <strong>participação política</strong>. Alternativa <strong>C</strong>.</p><p>Embora em Atenas fosse preciso ser filho de atenienses (D), os textos destacam o exercício das funções públicas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cidadania grega",
+    "Aristóteles"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 20,
+   "materia": "Geografia",
+   "assunto": "Questões ambientais",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\">Antes de o sol começar a esquentar as terras da faixa ao sul do Saara conhecida como Sahel, duas dezenas de mulheres da aldeia de Widou, no norte do Senegal, regam a horta cujas frutas e verduras alimentam a população local. É um pequeno terreno que, visto do céu, forma uma mancha verde — um dos primeiros pedaços da “Grande Muralha Verde”, barreira vegetal que se estenderá por 7 000 km do Senegal ao Djibuti, e é parte de um plano conjunto de vinte países africanos.</p><p class=\"fonte\">GIORGI, J. Muralha verde. <em>Folha de S. Paulo</em>, 20 maio 2013 (adaptado).</p><p>O projeto ambiental descrito proporciona a seguinte consequência regional imediata:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Facilita as trocas comerciais.",
+    "B": "Soluciona os conflitos fundiários.",
+    "C": "Restringe a diversidade biológica.",
+    "D": "Fomenta a atividade de pastoreio.",
+    "E": "Evita a expansão da desertificação."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Grande Muralha Verde é uma barreira de vegetação na borda sul do Saara, plantada para segurar o avanço do deserto sobre o Sahel. A consequência imediata é que ela <strong>evita a expansão da desertificação</strong>. Alternativa <strong>E</strong>.</p><p>Plantar vegetação aumenta, e não restringe, a diversidade biológica (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Sahel",
+    "desertificação"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "História",
+   "assunto": "Era Vargas",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Estatuto da Frente Negra Brasileira (FNB)</strong></p><p class=\"apoio\">Art. 1º - Fica fundada nesta cidade de São Paulo, para se irradiar por todo o Brasil, a Frente Negra Brasileira, união política e social da Gente Negra Nacional, para a afirmação dos direitos históricos da mesma, em virtude da sua atividade material e moral no passado e para reivindicação de seus direitos sociais e políticos, atuais, na Comunhão Brasileira.</p><p class=\"fonte\">Diário Oficial do Estado de São Paulo, 4 nov. 1931.</p><p>Quando foi fechada pela ditadura do Estado Novo, em 1937, a FNB caracterizava-se como uma organização</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "política, engajada na luta por direitos sociais para a população negra no Brasil.",
+    "B": "beneficente, dedicada ao auxílio dos negros pobres brasileiros depois da abolição.",
+    "C": "paramilitar, voltada para o alistamento de negros na luta contra as oligarquias regionais.",
+    "D": "democrático-liberal, envolvida na Revolução Constitucionalista conduzida a partir de São Paulo.",
+    "E": "internacionalista, ligada à exaltação da identidade das populações africanas em situação de diáspora."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O estatuto define a FNB como “união política e social da Gente Negra Nacional”, para afirmar e reivindicar direitos sociais e políticos. Ela chegou a se registrar como partido e foi fechada com os demais partidos no Estado Novo. Era uma organização <strong>política, engajada na luta por direitos sociais para a população negra</strong>. Alternativa <strong>A</strong>.</p><p>O estatuto fala da “comunhão brasileira”, e não de um movimento internacionalista (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Frente Negra Brasileira",
+    "movimento negro"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"apoio\">No século XIX, o preço mais alto dos terrenos situados no centro das cidades é causa da especialização dos bairros e de sua diferenciação social. Muitas pessoas, que não têm meios de pagar os altos aluguéis dos bairros elegantes, são progressivamente rejeitadas para a periferia, como os subúrbios e os bairros mais afastados.</p><p class=\"fonte\">RÉMOND, R. <em>O século XIX</em>. São Paulo: Cultrix, 1989 (adaptado).</p><p>Uma consequência geográfica do processo socioespacial descrito no texto é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "criação de condomínios fechados de moradia.",
+    "B": "decadência das áreas centrais de comércio popular.",
+    "C": "aceleração do processo conhecido como cercamento.",
+    "D": "ampliação do tempo de deslocamento diário da população.",
+    "E": "contenção da ocupação de espaços sem infraestrutura satisfatória."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O preço alto dos terrenos centrais empurra os mais pobres para a periferia, longe de onde estão os empregos e os serviços. A consequência é a <strong>ampliação do tempo de deslocamento diário da população</strong>. Alternativa <strong>D</strong>.</p><p>A expulsão para a periferia favorece, e não contém, a ocupação de áreas sem infraestrutura (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "segregação socioespacial",
+    "periferização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "História",
+   "assunto": "Imperialismo",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"apoio\">Três décadas — de 1884 a 1914 — separam o século XIX — que terminou com a corrida dos países europeus para a África e com o surgimento dos movimentos de unificação nacional na Europa — do século XX, que começou com a Primeira Guerra Mundial. É o período do Imperialismo, da quietude estagnante na Europa e dos acontecimentos empolgantes na Ásia e na África.</p><p class=\"fonte\">ARENDT, H. <em>As origens do totalitarismo</em>. São Paulo: Cia. das Letras, 2012.</p><p>O processo histórico citado contribuiu para a eclosão da Primeira Grande Guerra na medida em que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "difundiu as teorias socialistas.",
+    "B": "acirrou as disputas territoriais.",
+    "C": "superou as crises econômicas.",
+    "D": "multiplicou os conflitos religiosos.",
+    "E": "conteve os sentimentos xenófobos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Entre 1884 e 1914, as potências europeias dividiram a África e disputaram a Ásia. A corrida por colônias criou rivalidades, como as crises do Marrocos, que alimentaram as alianças e a guerra: o imperialismo <strong>acirrou as disputas territoriais</strong>. Alternativa <strong>B</strong>.</p><p>O nacionalismo e a xenofobia cresceram, e não foram contidos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "neocolonialismo",
+    "Primeira Guerra"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 24,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"apoio\">Alguns dos desejos são naturais e necessários; outros, naturais e não necessários; outros, nem naturais nem necessários, mas nascidos de vã opinião. Os desejos que não nos trazem dor se não satisfeitos não são necessários, mas o seu impulso pode ser facilmente desfeito, quando é difícil obter sua satisfação ou parecem geradores de dano.</p><p class=\"fonte\">EPICURO DE SAMOS. <em>Doutrinas principais</em>. In: SANSON, V. F. <em>Textos de filosofia</em>. Rio de Janeiro: Eduff, 1974.</p><p>No fragmento da obra filosófica de Epicuro, o homem tem como fim</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "alcançar o prazer moderado e a felicidade.",
+    "B": "valorizar os deveres e as obrigações sociais.",
+    "C": "aceitar o sofrimento e o rigorismo da vida com resignação.",
+    "D": "refletir sobre os valores e as normas dadas pela divindade.",
+    "E": "defender a indiferença e a impossibilidade de se atingir o saber."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Epicuro separa os desejos naturais e necessários dos que nascem de “vã opinião” e recomenda abandonar estes quando trazem dor. A felicidade está no prazer moderado, na ausência de dor e de perturbação. O fim do homem é <strong>alcançar o prazer moderado e a felicidade</strong>. Alternativa <strong>A</strong>.</p><p>Aceitar o sofrimento com resignação (C) se parece mais com o estoicismo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Epicuro",
+    "hedonismo"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 25,
+   "materia": "Filosofia",
+   "assunto": "Filosofia antiga",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">SANZIO, R. Detalhe do afresco <em>A Escola de Atenas</em>. Disponível em: http://fil.cfh.ufsc.br. Acesso em: 20 mar. 2013.</p><p>No centro da imagem, o filósofo Platão é retratado apontando para o alto. Esse gesto significa que o conhecimento se encontra em uma instância na qual o homem descobre a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q25.webp",
+     "alt": "Detalhe do afresco “A Escola de Atenas”, de Rafael: no centro, Platão, de barba branca, aponta para cima, ao lado de Aristóteles, que estende a mão para a frente; outros filósofos ao redor."
+    }
+   ],
+   "alternativas": {
+    "A": "suspensão do juízo como reveladora da verdade.",
+    "B": "realidade inteligível por meio do método dialético.",
+    "C": "salvação da condição mortal pelo poder de Deus.",
+    "D": "essência das coisas sensíveis no intelecto divino.",
+    "E": "ordem intrínseca ao mundo por meio da sensibilidade."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Platão aponta para o alto porque, para ele, o conhecimento verdadeiro está no mundo das ideias, acima do mundo sensível. Chega-se a ele pela razão, por meio do diálogo: o homem descobre a <strong>realidade inteligível por meio do método dialético</strong>. Alternativa <strong>B</strong>.</p><p>Os sentidos (E) só dão acesso às aparências, segundo Platão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Platão",
+    "mundo das ideias"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 26,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Nota: O saldo considera apenas as pessoas que se deslocavam para o trabalho e retornavam aos seus municípios diariamente. BRASIL. IBGE. <em>Atlas do censo demográfico 2010</em> (adaptado).</p><p>O fluxo migratório representado está associado ao processo de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q26.webp",
+     "alt": "Mapa da Região Metropolitana de Belo Horizonte com o saldo de deslocamento diário para o trabalho. Setas grossas levam pessoas de Ribeirão das Neves, Santa Luzia, Contagem, Vespasiano, Ibirité e Sabará para Belo Horizonte. Os municípios do entorno têm saldo negativo, e Belo Horizonte, saldo positivo (19 169 a 293 119)."
+    }
+   ],
+   "alternativas": {
+    "A": "fuga de áreas degradadas.",
+    "B": "inversão da hierarquia urbana.",
+    "C": "busca por amenidades ambientais.",
+    "D": "conurbação entre municípios contíguos.",
+    "E": "desconcentração dos investimentos produtivos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O mapa mostra que muita gente de Ribeirão das Neves, Santa Luzia, Contagem e outros municípios vizinhos vai trabalhar todo dia em Belo Horizonte e volta. São cidades cujas manchas urbanas se juntaram: o fluxo está associado à <strong>conurbação entre municípios contíguos</strong>. Alternativa <strong>D</strong>.</p><p>O fluxo vai para a capital, o que confirma, e não inverte, a hierarquia urbana (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "movimento pendular",
+    "região metropolitana"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 27,
+   "materia": "Geografia",
+   "assunto": "Urbanização",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"apoio\">A urbanização brasileira, no início da segunda metade do século XX, promoveu uma radical alteração nas cidades. Ruas foram alargadas, túneis e viadutos foram construídos. O bonde foi a primeira vítima fatal. O destino do sistema ferroviário não foi muito diferente. O transporte coletivo saiu definitivamente dos trilhos.</p><p class=\"fonte\">JANOT, L. F. <em>A caminho de Guaratiba</em>. Disponível em: www.iab.org.br. Acesso em: 9 jan. 2014 (adaptado).</p><p>A relação entre transportes e urbanização é explicada, no texto, pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "retirada dos investimentos estatais aplicados em transporte de massa.",
+    "B": "demanda por transporte individual ocasionada pela expansão da mancha urbana.",
+    "C": "presença hegemônica do transporte alternativo localizado nas periferias das cidades.",
+    "D": "aglomeração do espaço urbano metropolitano impedindo a construção do transporte metroviário.",
+    "E": "predominância do transporte rodoviário associado à penetração das multinacionais automobilísticas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que, com a urbanização, ruas foram alargadas e viadutos construídos, enquanto o bonde e o trem foram abandonados: “o transporte coletivo saiu dos trilhos”. Isso coincide com a chegada das montadoras ao Brasil nos anos 1950: há <strong>predominância do transporte rodoviário associado à penetração das multinacionais automobilísticas</strong>. Alternativa <strong>E</strong>.</p><p>O texto não fala do transporte alternativo das periferias (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rodoviarismo",
+    "indústria automobilística"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 28,
+   "materia": "História",
+   "assunto": "Ditadura militar",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"apoio\">A Comissão Nacional da Verdade (CNV) reuniu representantes de comissões estaduais e de várias instituições para apresentar um balanço dos trabalhos feitos e assinar termos de cooperação com quatro organizações. O coordenador da CNV estima que, até o momento, a comissão examinou, “por baixo”, cerca de 30 milhões de páginas de documentos e fez centenas de entrevistas.</p><p class=\"fonte\">Disponível em: www.jb.com.br. Acesso em: 2 mar. 2013 (adaptado).</p><p>A notícia descreve uma iniciativa do Estado que resultou da ação de diversos movimentos sociais no Brasil diante de eventos ocorridos entre 1964 e 1988. O objetivo dessa iniciativa é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "anular a anistia concedida aos chefes militares.",
+    "B": "rever as condenações judiciais aos presos políticos.",
+    "C": "perdoar os crimes atribuídos aos militantes esquerdistas.",
+    "D": "comprovar o apoio da sociedade aos golpistas anticomunistas.",
+    "E": "esclarecer as circunstâncias de violações aos direitos humanos."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Comissão Nacional da Verdade, criada em 2011, examinou documentos e ouviu testemunhas sobre mortes, torturas e desaparecimentos cometidos por agentes do Estado. Seu objetivo foi <strong>esclarecer as circunstâncias de violações aos direitos humanos</strong>. Alternativa <strong>E</strong>.</p><p>A comissão não tinha poder de punir nem de anular a Lei da Anistia (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Comissão da Verdade",
+    "direitos humanos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "Filosofia",
+   "assunto": "Revolução Científica",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"apoio\">A filosofia encontra-se escrita neste grande livro que continuamente se abre perante nossos olhos (isto é, o universo), que não se pode compreender antes de entender a língua e conhecer os caracteres com os quais está escrito. Ele está escrito em língua matemática, os caracteres são triângulos, circunferências e outras figuras geométricas, sem cujos meios é impossível entender humanamente as palavras; sem eles, vagamos perdidos dentro de um obscuro labirinto.</p><p class=\"fonte\">GALILEI, G. <em>O ensaiador</em>. Os pensadores. São Paulo: Abril Cultural, 1978.</p><p>No contexto da Revolução Científica do século XVII, assumir a posição de Galileu significava defender a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "continuidade do vínculo entre ciência e fé dominante na Idade Média.",
+    "B": "necessidade de o estudo linguístico ser acompanhado do exame matemático.",
+    "C": "oposição da nova física quantitativa aos pressupostos da filosofia escolástica.",
+    "D": "importância da independência da investigação científica pretendida pela Igreja.",
+    "E": "inadequação da matemática para elaborar uma explicação racional da natureza."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para Galileu, a natureza está escrita em linguagem matemática, e só se entende quem conhece triângulos e círculos. Isso se opunha à física escolástica, de base aristotélica, que explicava a natureza por qualidades e finalidades. Era a <strong>oposição da nova física quantitativa aos pressupostos da filosofia escolástica</strong>. Alternativa <strong>C</strong>.</p><p>Galileu defendia a matemática, e não sua inadequação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Galileu",
+    "método científico"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 30,
+   "materia": "Sociologia",
+   "assunto": "Desigualdade racial",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p class=\"apoio\">Parecer CNE/CP nº 3/2004, que instituiu as Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana.</p><p class=\"apoio\">Procura-se oferecer uma resposta, entre outras, na área da educação, à demanda da população afrodescendente, no sentido de políticas de ações afirmativas. Propõe a divulgação e a produção de conhecimentos, a formação de atitudes, posturas que eduquem cidadãos orgulhosos de seu pertencimento étnico-racial — descendentes de africanos, povos indígenas, descendentes de europeus, de asiáticos — para interagirem na construção de uma nação democrática, em que todos igualmente tenham seus direitos garantidos.</p><p class=\"fonte\">BRASIL. Conselho Nacional de Educação. Disponível em: www.semesp.org.br. Acesso em: 21 nov. 2013 (adaptado).</p><p>A orientação adotada por esse parecer fundamenta uma política pública e associa o princípio da inclusão social a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "práticas de valorização identitária.",
+    "B": "medidas de compensação econômica.",
+    "C": "dispositivos de liberdade de expressão.",
+    "D": "estratégias de qualificação profissional.",
+    "E": "instrumentos de modernização jurídica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O parecer quer formar cidadãos “orgulhosos de seu pertencimento étnico-racial” e responder às demandas da população afrodescendente com ações afirmativas. A inclusão social é associada a <strong>práticas de valorização identitária</strong>. Alternativa <strong>A</strong>.</p><p>O texto trata de educação e conhecimento, e não de compensação econômica (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ações afirmativas",
+    "identidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "História",
+   "assunto": "Memória e patrimônio",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p class=\"apoio\">A Praça da Concórdia, antiga Praça Luís XV, é a maior praça pública de Paris. Inaugurada em 1763, tinha em seu centro uma estátua do rei. Situada ao longo do Sena, ela é a intersecção de dois eixos monumentais. Bem nesse cruzamento está o Obelisco de Luxor, decorado com hieróglifos que contam os reinados dos faraós Ramsés II e Ramsés III. Em 1829, foi oferecido pelo vice-rei do Egito ao povo francês e, em 1836, instalado na praça diante de mais de 200 mil espectadores e da família real.</p><p class=\"fonte\">NOBLAT, R. Disponível em: www.oglobo.com. Acesso em: 12 dez. 2012.</p><p>A constituição do espaço público da Praça da Concórdia ao longo dos anos manifesta o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "lugar da memória na história nacional.",
+    "B": "caráter espontâneo das festas populares.",
+    "C": "lembrança da antiguidade da cultura local.",
+    "D": "triunfo da nação sobre os países africanos.",
+    "E": "declínio do regime de monarquia absolutista."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A praça já teve a estátua de Luís XV, foi palco das execuções da Revolução e recebeu o obelisco egípcio no século XIX. Cada época deixou ali suas marcas, e o espaço guarda essas camadas: manifesta o <strong>lugar da memória na história nacional</strong>. Alternativa <strong>A</strong>.</p><p>O obelisco foi um presente do Egito, e não um troféu de vitória sobre a África (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lugares de memória",
+    "Paris"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 32,
+   "materia": "História",
+   "assunto": "Segundo Reinado",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p class=\"apoio\">Em 1879, cerca de cinco mil pessoas reuniram-se para solicitar a D. Pedro II a revogação de uma taxa de 20 réis, um vintém, sobre o transporte urbano. O vintém era a moeda de menor valor da época. A polícia não permitiu que a multidão se aproximasse do palácio. Ao grito de “Fora o vintém!”, os manifestantes espancaram condutores, esfaquearam mulas, viraram bondes e arrancaram trilhos. Um oficial ordenou fogo contra a multidão. As estatísticas de mortos e feridos são imprecisas. Muitos interesses se fundiram nessa revolta, de grandes e de políticos, de gente miúda e de simples cidadãos. Desmoralizado, o ministério caiu. Uma grande explosão social, detonada por um pobre vintém.</p><p class=\"fonte\">Disponível em: www.revistadehistoria.com.br. Acesso em: 4 abr. 2014 (adaptado).</p><p>A leitura do trecho indica que a coibição violenta das manifestações representou uma tentativa de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "capturar os ativistas radicais.",
+    "B": "proteger o patrimônio privado.",
+    "C": "salvaguardar o espaço público.",
+    "D": "conservar o exercício do poder.",
+    "E": "sustentar o regime democrático."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Revolta do Vintém foi reprimida a tiros porque desafiava o governo; o ministério acabou caindo. A violência contra a multidão foi uma tentativa de <strong>conservar o exercício do poder</strong>. Alternativa <strong>D</strong>.</p><p>O Brasil era uma monarquia com voto restrito, não um regime democrático (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Revolta do Vintém",
+    "repressão"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "Sociologia",
+   "assunto": "Política",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p class=\"apoio\">Existe uma cultura política que domina o sistema e é fundamental para entender o conservadorismo brasileiro. Há um argumento, partilhado pela direita e pela esquerda, de que a sociedade brasileira é conservadora. Isso legitimou o conservadorismo do sistema político: existiriam limites para transformar o país, porque a sociedade é conservadora, não aceita mudanças bruscas. Isso justifica o caráter vagaroso da redemocratização e da redistribuição da renda. Mas não é assim. A sociedade é muito mais avançada que o sistema político. Ele se mantém porque consegue convencer a sociedade de que é a expressão dela, de seu conservadorismo.</p><p class=\"fonte\">NOBRE, M. Dois ismos que não rimam. Disponível em: www.unicamp.br. Acesso em: 28 mar. 2014 (adaptado).</p><p>A característica do sistema político brasileiro, ressaltada no texto, obtém sua legitimidade da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dispersão regional do poder econômico.",
+    "B": "polarização acentuada da disputa partidária.",
+    "C": "orientação radical dos movimentos populares.",
+    "D": "condução eficiente das ações administrativas.",
+    "E": "sustentação ideológica das desigualdades existentes."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O autor diz que o sistema político se mantém conservador porque convence a sociedade de que ela é conservadora, o que justifica a lentidão na redistribuição da renda. A legitimidade vem da <strong>sustentação ideológica das desigualdades existentes</strong>. Alternativa <strong>E</strong>.</p><p>O texto não fala de polarização partidária (B): diz que direita e esquerda partilham o mesmo argumento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conservadorismo",
+    "ideologia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 34,
+   "materia": "Geografia",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: www.banktrack.org. Acesso em: 7 maio 2013 (adaptado).</p><p>A imagem indica pontos com ativo uso de tecnologia, correspondentes a que processo de intervenção no espaço?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q34.webp",
+     "alt": "Mapa do Brasil com a divisão dos estados e três pontos pretos: um no Pará, um em Rondônia, perto da divisa com o Acre, e um no litoral do Rio de Janeiro."
+    }
+   ],
+   "alternativas": {
+    "A": "Expansão das áreas agricultáveis, com uso intensivo de maquinário e insumos agrícolas.",
+    "B": "Recuperação de águas eutrofizadas em decorrência da contaminação por esgoto doméstico.",
+    "C": "Ampliação da capacidade de geração de energia, com alteração do ecossistema local.",
+    "D": "Impermeabilização do solo pela construção civil nas áreas de expansão urbana.",
+    "E": "Criação recente de grandes parques industriais de mediano potencial poluidor."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O mapa marca pontos no Pará, em Rondônia e no Rio de Janeiro, onde estão Belo Monte, as usinas do Rio Madeira (Jirau e Santo Antônio) e Angra. São grandes obras de energia financiadas por bancos, com impacto sobre rios e florestas: <strong>ampliação da capacidade de geração de energia, com alteração do ecossistema local</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hidrelétricas",
+    "impacto ambiental"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 35,
+   "materia": "Geografia",
+   "assunto": "Clima",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p class=\"apoio\">A convecção na Região Amazônica é um importante mecanismo da atmosfera tropical e sua variação, em termos de intensidade e posição, tem um papel importante na determinação do tempo e do clima dessa região. A nebulosidade e o regime de precipitação determinam o clima amazônico.</p><p class=\"fonte\">FISCH, G.; MARENGO, J. A.; NOBRE, C. A. Uma revisão geral sobre o clima da Amazônia. <em>Acta Amazônica</em>, v. 28, n. 2, 1998 (adaptado).</p><p>O mecanismo climático regional descrito está associado à característica do espaço físico de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "resfriamento da umidade da superfície.",
+    "B": "variação da amplitude de temperatura.",
+    "C": "dispersão dos ventos contra-alísios.",
+    "D": "existência de barreiras de relevo.",
+    "E": "convergência de fluxos de ar."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Convecção é a subida do ar quente e úmido, que forma nuvens e chuvas. Na Amazônia, ela é reforçada pelo encontro dos ventos alísios dos dois hemisférios na Zona de Convergência Intertropical. O mecanismo está associado à <strong>convergência de fluxos de ar</strong>. Alternativa <strong>E</strong>.</p><p>A Amazônia tem pequena amplitude térmica (B) e relevo baixo (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Zona de Convergência Intertropical",
+    "chuvas convectivas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "Geografia",
+   "assunto": "Geologia",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: www.telescopionaescola.pro.br. Acesso em: 3 abr. 2014 (adaptado).</p><p>A partir da análise da imagem, o aparecimento da Dorsal Mesoatlântica está associada ao(à)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q36.webp",
+     "alt": "Cinco mapas-múndi da deriva continental: Permiano (225 milhões de anos, a Pangeia unida), Triássico (200 milhões, Laurásia e Gondwana), Jurássico (135 milhões, Gondwana começando a se fragmentar), Cretáceo (65 milhões, América do Sul e África separadas por uma fratura) e Quaternário (presente), com a legenda “Fraturas”."
+    }
+   ],
+   "alternativas": {
+    "A": "separação da Pangeia a partir do período Permiano.",
+    "B": "deslocamento de fraturas no período Triássico.",
+    "C": "afastamento da Europa no período Jurássico.",
+    "D": "formação do Atlântico Sul no período Cretáceo.",
+    "E": "constituição de orogêneses no período Quaternário."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Dorsal Mesoatlântica é a cordilheira submarina no meio do Atlântico, onde as placas sul-americana e africana se afastam. Nos mapas, a América do Sul e a África ainda estão juntas no Jurássico e aparecem separadas no Cretáceo: a dorsal está associada à <strong>formação do Atlântico Sul no período Cretáceo</strong>. Alternativa <strong>D</strong>.</p><p>A Europa (C) se afastou da América do Norte, no Atlântico Norte.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tectônica de placas",
+    "dorsal oceânica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "Geografia",
+   "assunto": "Geopolítica",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: www.ipea.gov.br. Acesso em: 2 ago. 2013.</p><p>Na imagem, é ressaltado, em tom mais escuro, um grupo de países que na atualidade possuem características político-econômicas comuns, no sentido de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q37.webp",
+     "alt": "Mapa-múndi em tons de cinza com Brasil, Rússia, Índia, China e África do Sul destacados em cinza-escuro."
+    }
+   ],
+   "alternativas": {
+    "A": "adotarem o liberalismo político na dinâmica dos seus setores públicos.",
+    "B": "constituírem modelos de ações decisórias vinculadas à social-democracia.",
+    "C": "instituírem fóruns de discussão sobre intercâmbio multilateral de economias emergentes.",
+    "D": "promoverem a integração representativa dos diversos povos integrantes de seus territórios.",
+    "E": "apresentarem uma frente de desalinhamento político aos polos dominantes do sistema-mundo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os países em destaque são Brasil, Rússia, Índia, China e África do Sul: o grupo dos BRICS. São economias emergentes que fazem reuniões de cúpula para discutir comércio e finanças, como a criação de um banco próprio. Eles têm em comum <strong>instituírem fóruns de discussão sobre intercâmbio multilateral de economias emergentes</strong>. Alternativa <strong>C</strong>.</p><p>Os regimes políticos dos cinco são muito diferentes (A e B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "BRICS",
+    "emergentes"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 38,
+   "materia": "Geografia",
+   "assunto": "Recursos hídricos",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: http://sys2.sbgf.org.br. Acesso em: 13 maio 2013 (adaptado).</p><p>A preservação da sustentabilidade do recurso natural exposto pressupõe</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q38.webp",
+     "alt": "Mapa do Norte do Brasil com a área do Aquífero Alter do Chão no Pará e no Amazonas e um quadro: a extensão do Alter do Chão é menor que a do Guarani, mas teria maior volume de água, superior a 86 mil km³; o Guarani tem cerca de 45 mil km³."
+    }
+   ],
+   "alternativas": {
+    "A": "impedir a perfuração de poços.",
+    "B": "coibir o uso pelo setor residencial.",
+    "C": "substituir as leis ambientais vigentes.",
+    "D": "reduzir o contingente populacional na área.",
+    "E": "introduzir a gestão participativa entre os municípios."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O Aquífero Alter do Chão fica sob vários municípios do Pará e do Amazonas e teria mais água que o Guarani. Um aquífero compartilhado só é preservado se quem o usa combina regras de uso: é preciso <strong>introduzir a gestão participativa entre os municípios</strong>. Alternativa <strong>E</strong>.</p><p>Proibir poços (A) ou o uso residencial (B) seria impedir o uso, e não geri-lo de forma sustentável.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aquíferos",
+    "gestão de recursos hídricos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p class=\"apoio\">O problema central a ser resolvido pelo Novo Regime era a organização de outro pacto de poder que pudesse substituir o arranjo imperial com grau suficiente de estabilidade. O próprio presidente Campos Sales resumiu claramente seu objetivo: “É de lá, dos estados, que se governa a República, por cima das multidões que tumultuam agitadas nas ruas da capital da União. A política dos estados é a política nacional”.</p><p class=\"fonte\">CARVALHO, J. M. <em>Os Bestializados</em>: o Rio de Janeiro e a República que não foi. São Paulo: Companhia das Letras, 1987 (adaptado).</p><p>Nessa citação, o presidente do Brasil no período expressa uma estratégia política no sentido de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "governar com a adesão popular.",
+    "B": "atrair o apoio das oligarquias regionais.",
+    "C": "conferir maior autonomia às prefeituras.",
+    "D": "democratizar o poder do governo central.",
+    "E": "ampliar a influência da capital no cenário nacional."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Campos Sales diz que “é dos estados que se governa a República” e que a política dos estados é a política nacional. É a política dos governadores: o presidente apoiava as oligarquias estaduais, que elegiam bancadas fiéis a ele. A estratégia era <strong>atrair o apoio das oligarquias regionais</strong>. Alternativa <strong>B</strong>.</p><p>Ele quer governar “por cima das multidões”, e não com adesão popular (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "política dos governadores",
+    "Campos Sales"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "História",
+   "assunto": "Primeira República",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"apoio\">A Estrada de Ferro Noroeste do Brasil, que começa a ser construída apenas em 1905, foi criada, ao contrário das outras grandes ferrovias paulistas, para ser uma ferrovia de penetração, buscando novas áreas para a agricultura e povoamento. Até 1890, o café era quem ditava o traçado das ferrovias, que eram vistas apenas como auxiliadoras da produção cafeeira.</p><p class=\"fonte\">CARVALHO, D. F. Café, ferrovias e crescimento populacional: o florescimento da região noroeste paulista. Disponível em: www.historica.arquivoestado.sp.gov.br. Acesso em: 2 ago. 2012.</p><p>Essa nova orientação dada à expansão ferroviária, durante a Primeira República, tinha como objetivo a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "articulação de polos produtores para exportação.",
+    "B": "criação de infraestrutura para atividade industrial.",
+    "C": "integração de pequenas propriedades policultoras.",
+    "D": "valorização de regiões de baixa densidade demográfica.",
+    "E": "promoção de fluxos migratórios do campo para a cidade."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A Noroeste foi uma ferrovia de penetração, feita para abrir novas áreas para a agricultura e o povoamento, e não para servir a zonas de café já produtoras. O objetivo era a <strong>valorização de regiões de baixa densidade demográfica</strong>. Alternativa <strong>D</strong>.</p><p>Articular polos produtores para exportação (A) era o padrão anterior, ditado pelo café.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ferrovias",
+    "ocupação do território"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 41,
+   "materia": "História",
+   "assunto": "Meios de comunicação",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p class=\"apoio\">Em 1961, o presidente De Gaulle apelou com êxito aos recrutas franceses contra o golpe militar dos seus comandados, porque os soldados podiam ouvi-lo em rádios portáteis. Na década de 1970, os discursos do aiatolá Khomeini, líder exilado da futura Revolução Iraniana, eram gravados em fita magnética e prontamente levados para o Irã, copiados e difundidos.</p><p class=\"fonte\">HOBSBAWM, E. <em>Era dos extremos</em>: o breve século XX (1914-1991). São Paulo: Cia. das Letras, 1995.</p><p>Os exemplos mencionados no texto evidenciam um uso dos meios de comunicação identificado na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "manipulação da vontade popular.",
+    "B": "promoção da mobilização política.",
+    "C": "insubordinação das tropas militares.",
+    "D": "implantação de governos autoritários.",
+    "E": "valorização dos socialmente desfavorecidos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>De Gaulle falou pelo rádio aos soldados contra o golpe, e as fitas de Khomeini espalharam a revolução no Irã. Nos dois casos, os meios de comunicação levaram a mensagem de um líder às pessoas e as fizeram agir: <strong>promoção da mobilização política</strong>. Alternativa <strong>B</strong>.</p><p>Os soldados franceses obedeceram ao presidente, e não se insubordinaram contra ele (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rádio",
+    "Revolução Iraniana"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 42,
+   "materia": "História",
+   "assunto": "Ditadura militar",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p class=\"apoio\"><strong>TEXTO I</strong></p><p class=\"apoio\">O presidente do jornal de maior circulação do país destacava também os avanços econômicos obtidos naqueles vinte anos, mas, ao justificar sua adesão aos militares em 1964, deixava clara sua crença de que a intervenção fora imprescindível para a manutenção da democracia.</p><p class=\"fonte\">Disponível em: http://oglobo.globo.com. Acesso em: 1 set. 2013 (adaptado).</p><p class=\"apoio\"><strong>TEXTO II</strong></p><p class=\"apoio\">Nada pode ser colocado em compensação à perda das liberdades individuais. Não existe nada de bom quando se aceita uma solução autoritária.</p><p class=\"fonte\">FICO, C. A educação e o golpe de 1964. Disponível em: www.brasilrecente.com. Acesso em: 4 abr. 2014 (adaptado).</p><p>Embora enfatizem a defesa da democracia, as visões do movimento político-militar de 1964 divergem ao focarem, respectivamente:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Razões de Estado — Soberania popular.",
+    "B": "Ordenação da Nação — Prerrogativas religiosas.",
+    "C": "Imposição das Forças Armadas — Deveres sociais.",
+    "D": "Normatização do Poder Judiciário — Regras morais.",
+    "E": "Contestação do sistema de governo — Tradições culturais."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto I justifica o golpe pela necessidade de “manutenção da democracia”, em nome da ordem e da segurança: são <strong>razões de Estado</strong>. O texto II diz que nada compensa a perda das liberdades, ou seja, defende a <strong>soberania popular</strong>. Alternativa <strong>A</strong>.</p><p>Nenhum dos textos menciona religião ou moral (B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "golpe de 1964",
+    "imprensa"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 43,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p class=\"apoio\">A transferência da corte trouxe para a América portuguesa a família real e o governo da Metrópole. Trouxe também, e sobretudo, boa parte do aparato administrativo português. Personalidades diversas e funcionários régios continuaram embarcando para o Brasil atrás da corte, dos seus empregos e dos seus parentes após o ano de 1808.</p><p class=\"fonte\">NOVAIS, F. A.; ALENCASTRO, L. F. (Org.). <em>História da vida privada no Brasil</em>. São Paulo: Cia. das Letras, 1997.</p><p>Os fatos apresentados se relacionam ao processo de independência da América portuguesa por terem</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "incentivado o clamor popular por liberdade.",
+    "B": "enfraquecido o pacto de dominação metropolitana.",
+    "C": "motivado as revoltas escravas contra a elite colonial.",
+    "D": "obtido o apoio do grupo constitucionalista português.",
+    "E": "provocado os movimentos separatistas das províncias."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Com a vinda da corte, o Rio virou sede do governo português, com ministérios, tribunais e a abertura dos portos. O Brasil deixou de ser uma colônia comum: os fatos <strong>enfraqueceram o pacto de dominação metropolitana</strong>. Alternativa <strong>B</strong>.</p><p>Os constitucionalistas do Porto (D) queriam a volta do rei e a recolonização, e se opuseram à autonomia do Brasil.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vinda da família real",
+    "independência"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 44,
+   "materia": "História",
+   "assunto": "Segundo Reinado",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p class=\"apoio\">Respeitar a diversidade de circunstâncias entre as pequenas sociedades locais que constituem uma mesma nacionalidade, tal deve ser a regra suprema das leis internas de cada Estado. As leis municipais seriam as cartas de cada povoação doadas pela assembleia provincial, alargadas conforme o seu desenvolvimento, alteradas segundo os conselhos da experiência. Então, administrar-se-ia de perto, governar-se-ia de longe, alvo a que jamais se atingirá de outra sorte.</p><p class=\"fonte\">BASTOS, T. <em>A província</em> (1870). São Paulo: Cia. Editora Nacional, 1937 (adaptado).</p><p>O discurso do autor, no período do Segundo Reinado no Brasil, tinha como meta a implantação do</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "regime monárquico representativo.",
+    "B": "sistema educacional democrático.",
+    "C": "modelo territorial federalista.",
+    "D": "padrão político autoritário.",
+    "E": "poder oligárquico regional."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Tavares Bastos defende que cada povoação e cada província tenham suas leis, respeitando suas diferenças: “administrar-se-ia de perto, governar-se-ia de longe”. É a defesa da autonomia provincial contra a centralização do Império, ou seja, de um <strong>modelo territorial federalista</strong>. Alternativa <strong>C</strong>.</p><p>O texto trata da organização do território, e não da educação (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "federalismo",
+    "centralização"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 45,
+   "materia": "História",
+   "assunto": "Segundo Reinado",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\"><strong>De volta do Paraguai</strong></p><p class=\"apoio\">Cheio de glória, coberto de louros, depois de ter derramado seu sangue em defesa da pátria e libertado um povo da escravidão, o voluntário volta ao seu país natal para ver sua mãe amarrada a um tronco horrível de realidade!...</p><p class=\"fonte\">AGOSTINI. <em>A vida fluminense</em>, ano 3, n. 128, 11 jun. 1870. In: LEMOS, R. (Org.). <em>Uma história do Brasil através da caricatura (1840-2001)</em>. Rio de Janeiro: Letras & Expressões, 2001 (adaptado).</p><p>Na charge, identifica-se uma contradição no retorno de parte dos “Voluntários da Pátria” que lutaram na Guerra do Paraguai (1864-1870), evidenciada na</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2014-humanas/q45.webp",
+     "alt": "Charge: um soldado com uniforme da Guerra do Paraguai, condecorado, leva a mão à testa espantado; ao fundo, uma mulher negra amarrada a um tronco é açoitada."
+    }
+   ],
+   "alternativas": {
+    "A": "negação da cidadania aos familiares cativos.",
+    "B": "concessão de alforrias aos militares escravos.",
+    "C": "perseguição dos escravistas aos soldados negros.",
+    "D": "punição dos feitores aos recrutados compulsoriamente.",
+    "E": "suspensão das indenizações aos proprietários prejudicados."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O soldado negro volta da Guerra do Paraguai, onde lutou pela pátria e “libertou um povo da escravidão”, e encontra a mãe amarrada a um tronco. Ele ganhou a liberdade pelo serviço militar, mas sua família continuava escravizada. A contradição está na <strong>negação da cidadania aos familiares cativos</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Guerra do Paraguai",
+    "escravidão"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

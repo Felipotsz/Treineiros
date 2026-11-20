@@ -1,0 +1,1842 @@
+{
+ "id": "enem-2007",
+ "banca": "Enem",
+ "ano": 2007,
+ "titulo": "Enem 2007: Prova objetiva",
+ "fonte": "Inep",
+ "dataExame": "2007-08-26",
+ "duracaoMinutos": 300,
+ "area": "Prova objetiva (63 questões)",
+ "caderno": "amarelo",
+ "dia": 1,
+ "fonteGabarito": {
+  "oficial": true,
+  "nome": "gabarito oficial do Inep, em cópia guardada pelo Instituto de Física da USP",
+  "url": "https://fep.if.usp.br/~profis/arquivo/avaliacao/enem/provas_gabaritos/2007/GABARITO_ENEM_2007_AMARELA.pdf"
+ },
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "História",
+   "assunto": "Patrimônio cultural",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p class=\"apoio\">Não só de aspectos físicos se constitui a cultura de um povo. Há muito mais, contido nas tradições, no folclore, nos saberes, nas línguas, nas festas e em diversos outros aspectos e manifestações transmitidos oral ou gestualmente, recriados coletivamente e modificados ao longo do tempo. A essa porção intangível da herança cultural dos povos dá-se o nome de patrimônio cultural imaterial.</p><p class=\"fonte\">Internet: &lt;www.unesco.org.br&gt;.</p><p>Qual das figuras abaixo retrata patrimônio imaterial da cultura de um povo?</p><p class=\"fonte\">Figuras extraídas da Internet.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q01a.webp",
+     "alt": "Fotografia da estátua do Cristo Redentor, de braços abertos, sobre o Rio de Janeiro."
+    },
+    {
+     "src": "assets/img/enem-2007/q01b.webp",
+     "alt": "Fotografia de casarões coloniais do Pelourinho, em Salvador."
+    },
+    {
+     "src": "assets/img/enem-2007/q01c.webp",
+     "alt": "Fotografia de uma apresentação de bumba-meu-boi, com brincantes fantasiados em volta do boi."
+    },
+    {
+     "src": "assets/img/enem-2007/q01d.webp",
+     "alt": "Fotografia das Cataratas do Iguaçu."
+    },
+    {
+     "src": "assets/img/enem-2007/q01e.webp",
+     "alt": "Fotografia da Esfinge de Gizé, com uma pirâmide ao fundo."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]] Cristo Redentor",
+    "B": "[[fig:2]] Pelourinho",
+    "C": "[[fig:3]] Bumba-meu-boi",
+    "D": "[[fig:4]] Cataratas do Iguaçu",
+    "E": "[[fig:5]] Esfinge de Gizé"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Patrimônio imaterial é o que se transmite pelas práticas: festas, danças, saberes, tradições. O bumba-meu-boi é uma festa popular, com música, dança e teatro, recriada a cada geração. Alternativa <strong>C</strong>.</p><p>Cristo Redentor e Pelourinho são patrimônio material (construções), e as Cataratas do Iguaçu e a Esfinge são patrimônio natural e arqueológico, respectivamente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "patrimônio imaterial",
+    "cultura popular"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 2,
+   "materia": "Artes",
+   "assunto": "Artes visuais",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p>Sobre a exposição de Anita Malfatti, em 1917, que muito influenciaria a Semana de Arte Moderna, Monteiro Lobato escreveu, em artigo intitulado <em>Paranóia ou Mistificação</em>:</p><p class=\"apoio\">Há duas espécies de artistas. Uma composta dos que vêem as coisas e em conseqüência fazem arte pura, guardados os eternos ritmos da vida, e adotados, para a concretização das emoções estéticas, os processos clássicos dos grandes mestres. (...) A outra espécie é formada dos que vêem anormalmente a natureza e a interpretam à luz das teorias efêmeras, sob a sugestão estrábica das escolas rebeldes, surgidas cá e lá como furúnculos da cultura excessiva. (...). Estas considerações são provocadas pela exposição da sra. Malfatti, onde se notam acentuadíssimas tendências para uma atitude estética forçada no sentido das extravagâncias de Picasso & cia.</p><p class=\"fonte\"><em>O Diário de São Paulo</em>, dez./1917.</p><p>Em qual das obras abaixo identifica-se o estilo de Anita Malfatti criticado por Monteiro Lobato no artigo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q02a.webp",
+     "alt": "Pintura “Nossa Senhora Auxiliadora e Dom Bosco”, de estilo religioso tradicional."
+    },
+    {
+     "src": "assets/img/enem-2007/q02b.webp",
+     "alt": "Pintura “Vaso de Flores”, natureza-morta realista com rosas num vaso."
+    },
+    {
+     "src": "assets/img/enem-2007/q02c.webp",
+     "alt": "Pintura “A Santa Ceia”, com Cristo e os apóstolos à mesa, em estilo clássico."
+    },
+    {
+     "src": "assets/img/enem-2007/q02d.webp",
+     "alt": "Pintura “Acesso a Monte Serrat – Santos”, paisagem com escadaria e casa, em estilo realista."
+    },
+    {
+     "src": "assets/img/enem-2007/q02e.webp",
+     "alt": "Pintura “A Boba”, de Anita Malfatti: mulher sentada com rosto e corpo deformados, traços angulosos e olhar de lado, em estilo expressionista."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]] Nossa Senhora Auxiliadora e Dom Bosco",
+    "B": "[[fig:2]] Vaso de Flores",
+    "C": "[[fig:3]] A Santa Ceia",
+    "D": "[[fig:4]] Acesso a Monte Serrat – Santos",
+    "E": "[[fig:5]] A Boba"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Lobato condena quem vê “anormalmente” a natureza, sob a influência das “escolas rebeldes” e de Picasso: as deformações expressionistas e cubistas que Anita Malfatti trouxe da Europa. A obra com rosto e corpo deformados e cores fortes é <em>A Boba</em>, da própria Anita. Alternativa <strong>E</strong>.</p><p>As outras obras seguem padrões acadêmicos ou realistas, como os “processos clássicos” que Lobato elogia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Anita Malfatti",
+    "Modernismo"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 3,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto I</strong></p><p class=\"apoio\">Agora Fabiano conseguia arranjar as idéias. O que o segurava era a família. Vivia preso como um novilho amarrado ao mourão, suportando ferro quente. Se não fosse isso, um soldado amarelo não lhe pisava o pé não. (...) Tinha aqueles cambões pendurados ao pescoço. Deveria continuar a arrastá-los? Sinha Vitória dormia mal na cama de varas. Os meninos eram uns brutos, como o pai. Quando crescessem, guardariam as reses de um patrão invisível, seriam pisados, maltratados, machucados por um soldado amarelo.</p><p class=\"fonte\">Graciliano Ramos. <em>Vidas Secas</em>. São Paulo: Martins, 23.ª ed., 1969, p. 75.</p><p class=\"apoio\"><strong>Texto II</strong></p><p class=\"apoio\">Para Graciliano, o roceiro pobre é um outro, enigmático, impermeável. Não há solução fácil para uma tentativa de incorporação dessa figura no campo da ficção. É lidando com o impasse, ao invés de fáceis soluções, que Graciliano vai criar <em>Vidas Secas</em>, elaborando uma linguagem, uma estrutura romanesca, uma constituição de narrador em que narrador e criaturas se tocam, mas não se identificam. Em grande medida, o debate acontece porque, para a intelectualidade brasileira naquele momento, o pobre, a despeito de aparecer idealizado em certos aspectos, ainda é visto como um ser humano de segunda categoria, simples demais, incapaz de ter pensamentos demasiadamente complexos. O que <em>Vidas Secas</em> faz é, com pretenso não envolvimento da voz que controla a narrativa, dar conta de uma riqueza humana de que essas pessoas seriam plenamente capazes.</p><p class=\"fonte\">Luís Bueno. Guimarães, Clarice e antes. In: <em>Teresa</em>. São Paulo: USP, n.° 2, 2001, p. 254.</p><p>A partir do trecho de <em>Vidas Secas</em> (texto I) e das informações do texto II, relativas às concepções artísticas do romance social de 1930, avalie as seguintes afirmativas.</p><ol type=\"I\"><li>O pobre, antes tratado de forma exótica e folclórica pelo regionalismo pitoresco, transforma-se em protagonista privilegiado do romance social de 30.</li><li>A incorporação do pobre e de outros marginalizados indica a tendência da ficção brasileira da década de 30 de tentar superar a grande distância entre o intelectual e as camadas populares.</li><li>Graciliano Ramos e os demais autores da década de 30 conseguiram, com suas obras, modificar a posição social do sertanejo na realidade nacional.</li></ol><p>É correto apenas o que se afirma em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "I e II.",
+    "E": "II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>I está correta: o romance de 30 fez do pobre, antes pitoresco, o protagonista. II também: o texto II fala da tentativa de superar a distância entre o intelectual e o roceiro. III está errada: os romances denunciaram a situação do sertanejo, mas não mudaram sua posição social real. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Romance de 30",
+    "Vidas Secas",
+    "romance social"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 4,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto I</strong></p><p class=\"apoio\">Agora Fabiano conseguia arranjar as idéias. O que o segurava era a família. Vivia preso como um novilho amarrado ao mourão, suportando ferro quente. Se não fosse isso, um soldado amarelo não lhe pisava o pé não. (...) Tinha aqueles cambões pendurados ao pescoço. Deveria continuar a arrastá-los? Sinha Vitória dormia mal na cama de varas. Os meninos eram uns brutos, como o pai. Quando crescessem, guardariam as reses de um patrão invisível, seriam pisados, maltratados, machucados por um soldado amarelo.</p><p class=\"fonte\">Graciliano Ramos. <em>Vidas Secas</em>. São Paulo: Martins, 23.ª ed., 1969, p. 75.</p><p class=\"apoio\"><strong>Texto II</strong></p><p class=\"apoio\">Para Graciliano, o roceiro pobre é um outro, enigmático, impermeável. Não há solução fácil para uma tentativa de incorporação dessa figura no campo da ficção. É lidando com o impasse, ao invés de fáceis soluções, que Graciliano vai criar <em>Vidas Secas</em>, elaborando uma linguagem, uma estrutura romanesca, uma constituição de narrador em que narrador e criaturas se tocam, mas não se identificam. Em grande medida, o debate acontece porque, para a intelectualidade brasileira naquele momento, o pobre, a despeito de aparecer idealizado em certos aspectos, ainda é visto como um ser humano de segunda categoria, simples demais, incapaz de ter pensamentos demasiadamente complexos. O que <em>Vidas Secas</em> faz é, com pretenso não envolvimento da voz que controla a narrativa, dar conta de uma riqueza humana de que essas pessoas seriam plenamente capazes.</p><p class=\"fonte\">Luís Bueno. Guimarães, Clarice e antes. In: <em>Teresa</em>. São Paulo: USP, n.° 2, 2001, p. 254.</p><p>No texto II, verifica-se que o autor utiliza</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "linguagem predominantemente formal, para problematizar, na composição de Vidas Secas, a relação entre o escritor e o personagem popular.",
+    "B": "linguagem inovadora, visto que, sem abandonar a linguagem formal, dirige-se diretamente ao leitor.",
+    "C": "linguagem coloquial, para narrar coerentemente uma história que apresenta o roceiro pobre de forma pitoresca.",
+    "D": "linguagem formal com recursos retóricos próprios do texto literário em prosa, para analisar determinado momento da literatura brasileira.",
+    "E": "linguagem regionalista, para transmitir informações sobre literatura, valendo-se de coloquialismo, para facilitar o entendimento do texto."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto II é crítica literária: usa linguagem predominantemente formal para discutir, na composição de <em>Vidas Secas</em>, a relação difícil entre o escritor (intelectual) e o personagem popular. Alternativa <strong>A</strong>.</p><p>Não há linguagem coloquial nem regionalista (C, E), e o autor não se dirige ao leitor (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "linguagem formal",
+    "crítica literária"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p>Representar objetos tridimensionais em uma folha de papel nem sempre é tarefa fácil. O artista holandês Escher (1898-1972) explorou essa dificuldade criando várias figuras planas impossíveis de serem construídas como objetos tridimensionais, a exemplo da litografia <em>Belvedere</em>, reproduzida ao lado.</p>[[fig:1]]<p>Considere que um marceneiro tenha encontrado algumas figuras supostamente desenhadas por Escher e deseje construir uma delas com ripas rígidas de madeira que tenham o mesmo tamanho. Qual dos desenhos a seguir ele poderia reproduzir em um modelo tridimensional real?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q05.webp",
+     "alt": "Litografia “Belvedere”, de Escher: edifício de vários andares com colunas que ligam a frente de um andar ao fundo do outro, criando uma construção impossível."
+    },
+    {
+     "src": "assets/img/enem-2007/q05a.webp",
+     "alt": "Desenho A: cubo de ripas em que uma aresta da frente parece passar por trás de outra, figura impossível."
+    },
+    {
+     "src": "assets/img/enem-2007/q05b.webp",
+     "alt": "Desenho B: triângulo de Penrose, de lados largos que se torcem de modo impossível."
+    },
+    {
+     "src": "assets/img/enem-2007/q05c.webp",
+     "alt": "Desenho C: prisma hexagonal de ripas com encaixes contraditórios entre frente e fundo."
+    },
+    {
+     "src": "assets/img/enem-2007/q05d.webp",
+     "alt": "Desenho D: figura de blocos largos em forma de triângulo com ripas internas que se cruzam de modo impossível."
+    },
+    {
+     "src": "assets/img/enem-2007/q05e.webp",
+     "alt": "Desenho E: octaedro formado por ripas iguais, com dois vértices opostos e quatro no meio."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com ripas rígidas de mesmo tamanho, só é possível montar um sólido real cujas arestas sejam todas iguais e se encontrem de modo coerente. O octaedro do desenho E tem 12 arestas iguais e pode ser construído. Alternativa <strong>E</strong>.</p><p>O cubo (A), o triângulo (B), o prisma hexagonal (C) e a figura D, como desenhados, têm ripas que passam ao mesmo tempo na frente e atrás umas das outras: são figuras impossíveis, como as de Escher.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "figuras impossíveis",
+    "poliedros"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p>A figura abaixo é parte de uma campanha publicitária.</p>[[fig:1]]<p class=\"fonte\"><em>Com Ciência Ambiental</em>, n.o 10, abr./2007.</p><p>Essa campanha publicitária relaciona-se diretamente com a seguinte afirmativa:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q06.webp",
+     "alt": "Cartaz com um mico-leão-dourado atrás de uma grade e a frase “Nem sempre é o criminoso quem vai parar atrás das grades”."
+    }
+   ],
+   "alternativas": {
+    "A": "O comércio ilícito da fauna silvestre, atividade de grande impacto, é uma ameaça para a biodiversidade nacional.",
+    "B": "A manutenção do mico-leão-dourado em jaula é a medida que garante a preservação dessa espécie animal.",
+    "C": "O Brasil, primeiro país a eliminar o tráfico do mico-leão-dourado, garantiu a preservação dessa espécie.",
+    "D": "O aumento da biodiversidade em outros países depende do comércio ilegal da fauna silvestre brasileira.",
+    "E": "O tráfico de animais silvestres é benéfico para a preservação das espécies, pois garante-lhes a sobrevivência."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A campanha mostra um mico-leão-dourado atrás das grades com a frase “Nem sempre é o criminoso quem vai parar atrás das grades”: o animal é vítima do tráfico, e o crime é capturá-lo. Ela trata do comércio ilícito da fauna silvestre como ameaça à biodiversidade. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tráfico de animais",
+    "biodiversidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Função afim",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p>O gráfico abaixo, obtido a partir de dados do Ministério do Meio Ambiente, mostra o crescimento do número de espécies da fauna brasileira ameaçadas de extinção.</p>[[fig:1]]<p>Se mantida, pelos próximos anos, a tendência de crescimento mostrada no gráfico, o número de espécies ameaçadas de extinção em 2011 será igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q07.webp",
+     "alt": "Gráfico de barras do número de espécies ameaçadas de extinção de 1983 a 2007, a cada 4 anos, crescendo linearmente de 239 (1983) a 461 (2007)."
+    }
+   ],
+   "alternativas": {
+    "A": "465.",
+    "B": "493.",
+    "C": "498.",
+    "D": "538.",
+    "E": "699."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O gráfico cresce em linha reta de 239 (1983) a 461 (2007): aumento de 222 em 6 intervalos de 4 anos, ou 37 espécies a cada 4 anos. Em 2011: 461 + 37 = <strong>498</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "progressão aritmética",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p>Estima-se que haja, no Acre, 209 espécies de mamíferos, distribuídas conforme a tabela abaixo.</p><table class=\"tabela\"><thead><tr><th>grupos taxonômicos</th><th>número de espécies</th></tr></thead><tbody><tr><td>Artiodáctilos</td><td>4</td></tr><tr><td>Carnívoros</td><td>18</td></tr><tr><td>Cetáceos</td><td>2</td></tr><tr><td>Quirópteros</td><td>103</td></tr><tr><td>Lagomorfos</td><td>1</td></tr><tr><td>Marsupiais</td><td>16</td></tr><tr><td>Perissodáctilos</td><td>1</td></tr><tr><td>Primatas</td><td>20</td></tr><tr><td>Roedores</td><td>33</td></tr><tr><td>Sirênios</td><td>1</td></tr><tr><td>Edentados</td><td>10</td></tr><tr><td>Total</td><td>209</td></tr></tbody></table><p class=\"fonte\"><em>T&amp;C Amazônia</em>, ano 1, n.o 3, dez./2003.</p><p>Deseja-se realizar um estudo comparativo entre três dessas espécies de mamíferos — uma do grupo Cetáceos, outra do grupo Primatas e a terceira do grupo Roedores. O número de conjuntos distintos que podem ser formados com essas espécies para esse estudo é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.320.",
+    "B": "2.090.",
+    "C": "5.845.",
+    "D": "6.600.",
+    "E": "7.245."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Escolhe-se 1 entre os 2 cetáceos, 1 entre os 20 primatas e 1 entre os 33 roedores. Pelo princípio multiplicativo: 2 × 20 × 33 = <strong>1.320</strong>. Alternativa <strong>A</strong>.</p><p>Os outros grupos da tabela não entram na conta, porque o estudo exige exatamente uma espécie de cada um dos três grupos escolhidos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Biologia",
+   "assunto": "Genética de populações",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p class=\"apoio\">Se a exploração descontrolada e predatória verificada atualmente continuar por mais alguns anos, pode-se antecipar a extinção do mogno. Essa madeira já desapareceu de extensas áreas do Pará, de Mato Grosso, de Rondônia, e há indícios de que a diversidade e o número de indivíduos existentes podem não ser suficientes para garantir a sobrevivência da espécie a longo prazo. A diversidade é um elemento fundamental na sobrevivência de qualquer ser vivo. Sem ela, perde-se a capacidade de adaptação ao ambiente, que muda tanto por interferência humana como por causas naturais.</p><p class=\"fonte\">Internet: &lt;www.greenpeace.org.br&gt; (com adaptações).</p><p>Com relação ao problema descrito no texto, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a baixa adaptação do mogno ao ambiente amazônico é causa da extinção dessa madeira.",
+    "B": "a extração predatória do mogno pode reduzir o número de indivíduos dessa espécie e prejudicar sua diversidade genética.",
+    "C": "as causas naturais decorrentes das mudanças climáticas globais contribuem mais para a extinção do mogno que a interferência humana.",
+    "D": "a redução do número de árvores de mogno ocorre na mesma medida em que aumenta a diversidade biológica dessa madeira na região amazônica.",
+    "E": "o desinteresse do mercado madeireiro internacional pelo mogno contribuiu para a redução da exploração predatória dessa espécie."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que a exploração predatória reduz o número de indivíduos e que a diversidade é essencial à adaptação. Menos árvores significa menos variabilidade genética, o que ameaça a espécie. Alternativa <strong>B</strong>.</p><p>O texto culpa a ação humana, não as causas naturais (C), e menos indivíduos reduzem a diversidade, não a aumentam (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "diversidade genética",
+    "extinção"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Álcool, crescimento e pobreza</strong></p><p class=\"apoio\">O lavrador de Ribeirão Preto recebe em média R$ 2,50 por tonelada de cana cortada. Nos anos 80, esse trabalhador cortava cinco toneladas de cana por dia. A mecanização da colheita o obrigou a ser mais produtivo. O corta-cana derruba agora oito toneladas por dia.</p><p class=\"apoio\">O trabalhador deve cortar a cana rente ao chão, encurvado. Usa roupas mal-ajambradas, quentes, que lhe cobrem o corpo, para que não seja lanhado pelas folhas da planta. O excesso de trabalho causa a <em>birola</em>: tontura, desmaio, cãibra, convulsão. A fim de agüentar dores e cansaço, esse trabalhador toma drogas e soluções de glicose, quando não farinha mesmo. Tem aumentado o número de mortes por exaustão nos canaviais.</p><p class=\"apoio\">O setor da cana produz hoje uns 3,5% do PIB. Exporta US$ 8 bilhões. Gera toda a energia elétrica que consome e ainda vende excedentes. A indústria de São Paulo contrata cientistas e engenheiros para desenvolver máquinas e equipamentos mais eficientes para as usinas de álcool. As pesquisas, privada e pública, na área agrícola (cana, laranja, eucalipto etc.) desenvolvem a bioquímica e a genética no país.</p><p class=\"fonte\"><em>Folha de S. Paulo</em>, 11/3/2007 (com adaptações).</p>[[fig:1]]<p class=\"fonte\"><em>Folha de S. Paulo</em>, 25/3/2007.</p><p>Confrontando-se as informações do texto com as da charge acima, conclui-se que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q10.webp",
+     "alt": "Charge de Angeli com o título “Álcool: o mundo de olho em nossa tecnologia”: cortadores de cana comem sentados no canavial, observados por uma multidão de estrangeiros; um deles diz: “Ah, fico meio encabulado em ter de comer com a mão diante de tanta gente!”."
+    }
+   ],
+   "alternativas": {
+    "A": "a charge contradiz o texto ao mostrar que o Brasil possui tecnologia avançada no setor agrícola.",
+    "B": "a charge e o texto abordam, a respeito da cana-de-açúcar brasileira, duas realidades distintas e sem relação entre si.",
+    "C": "o texto e a charge consideram a agricultura brasileira avançada, do ponto de vista tecnológico.",
+    "D": "a charge mostra o cotidiano do trabalhador, e o texto defende o fim da mecanização da produção da cana-de-açúcar no setor sucroalcooleiro.",
+    "E": "o texto mostra disparidades na agricultura brasileira, na qual convivem alta tecnologia e condições precárias de trabalho, que a charge ironiza."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto mostra os dois lados do setor: tecnologia, pesquisa e exportação, de um lado; trabalho exaustivo e mortes nos canaviais, do outro. A charge ironiza isso: com o título “o mundo de olho em nossa tecnologia”, mostra cortadores comendo com a mão. Alternativa <strong>E</strong>.</p><p>A charge não contradiz o texto (A): ela critica a mesma disparidade.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "trabalho no corte de cana",
+    "charge"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Álcool, crescimento e pobreza</strong></p><p class=\"apoio\">O lavrador de Ribeirão Preto recebe em média R$ 2,50 por tonelada de cana cortada. Nos anos 80, esse trabalhador cortava cinco toneladas de cana por dia. A mecanização da colheita o obrigou a ser mais produtivo. O corta-cana derruba agora oito toneladas por dia.</p><p class=\"apoio\">O trabalhador deve cortar a cana rente ao chão, encurvado. Usa roupas mal-ajambradas, quentes, que lhe cobrem o corpo, para que não seja lanhado pelas folhas da planta. O excesso de trabalho causa a <em>birola</em>: tontura, desmaio, cãibra, convulsão. A fim de agüentar dores e cansaço, esse trabalhador toma drogas e soluções de glicose, quando não farinha mesmo. Tem aumentado o número de mortes por exaustão nos canaviais.</p><p class=\"apoio\">O setor da cana produz hoje uns 3,5% do PIB. Exporta US$ 8 bilhões. Gera toda a energia elétrica que consome e ainda vende excedentes. A indústria de São Paulo contrata cientistas e engenheiros para desenvolver máquinas e equipamentos mais eficientes para as usinas de álcool. As pesquisas, privada e pública, na área agrícola (cana, laranja, eucalipto etc.) desenvolvem a bioquímica e a genética no país.</p><p class=\"fonte\"><em>Folha de S. Paulo</em>, 11/3/2007 (com adaptações).</p><p>Considere-se que cada tonelada de cana-de-açúcar permita a produção de 100 litros de álcool combustível, vendido nos postos de abastecimento a R$ 1,20 o litro. Para que um corta-cana pudesse, com o que ganha nessa atividade, comprar o álcool produzido a partir das oito toneladas de cana resultantes de um dia de trabalho, ele teria de trabalhar durante</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "3 dias.",
+    "B": "18 dias.",
+    "C": "30 dias.",
+    "D": "48 dias.",
+    "E": "60 dias."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Oito toneladas dão 800 litros de álcool, que custam 800 × 1,20 = R$ 960. O corta-cana ganha 8 × R$ 2,50 = R$ 20 por dia. Precisaria trabalhar 960 ÷ 20 = <strong>48 dias</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporção",
+    "operações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>A queima de cana aumenta a concentração de dióxido de carbono e de material particulado na atmosfera, causa alteração do clima e contribui para o aumento de doenças respiratórias. A tabela abaixo apresenta números relativos a pacientes internados em um hospital no período da queima da cana.</p><table class=\"tabela\"><thead><tr><th>pacientes</th><th>problemas respiratórios causados pelas queimadas</th><th>problemas respiratórios resultantes de outras causas</th><th>outras doenças</th><th>total</th></tr></thead><tbody><tr><td>idosos</td><td>50</td><td>150</td><td>60</td><td>260</td></tr><tr><td>crianças</td><td>150</td><td>210</td><td>90</td><td>450</td></tr></tbody></table><p>Escolhendo-se aleatoriamente um paciente internado nesse hospital por problemas respiratórios causados pelas queimadas, a probabilidade de que ele seja uma criança é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,26, o que sugere a necessidade de implementação de medidas que reforcem a atenção ao idoso internado com problemas respiratórios.",
+    "B": "0,50, o que comprova ser de grau médio a gravidade dos problemas respiratórios que atingem a população nas regiões das queimadas.",
+    "C": "0,63, o que mostra que nenhum aspecto relativo à saúde infantil pode ser negligenciado.",
+    "D": "0,67, o que indica a necessidade de campanhas de conscientização que objetivem a eliminação das queimadas.",
+    "E": "0,75, o que sugere a necessidade de que, em áreas atingidas pelos efeitos das queimadas, o atendimento hospitalar no setor de pediatria seja reforçado."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pacientes com problemas respiratórios causados pelas queimadas: 50 idosos + 150 crianças = 200. Desses, 150 são crianças: 150 ÷ 200 = 0,75. Isso sugere reforçar a pediatria nas áreas afetadas. Alternativa <strong>E</strong>.</p><p>O espaço amostral são só os internados por causa das queimadas, não todos os pacientes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade condicional",
+    "tabela"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Biologia",
+   "assunto": "Metabolismo energético",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Álcool, crescimento e pobreza</strong></p><p class=\"apoio\">O lavrador de Ribeirão Preto recebe em média R$ 2,50 por tonelada de cana cortada. Nos anos 80, esse trabalhador cortava cinco toneladas de cana por dia. A mecanização da colheita o obrigou a ser mais produtivo. O corta-cana derruba agora oito toneladas por dia.</p><p class=\"apoio\">O trabalhador deve cortar a cana rente ao chão, encurvado. Usa roupas mal-ajambradas, quentes, que lhe cobrem o corpo, para que não seja lanhado pelas folhas da planta. O excesso de trabalho causa a <em>birola</em>: tontura, desmaio, cãibra, convulsão. A fim de agüentar dores e cansaço, esse trabalhador toma drogas e soluções de glicose, quando não farinha mesmo. Tem aumentado o número de mortes por exaustão nos canaviais.</p><p class=\"apoio\">O setor da cana produz hoje uns 3,5% do PIB. Exporta US$ 8 bilhões. Gera toda a energia elétrica que consome e ainda vende excedentes. A indústria de São Paulo contrata cientistas e engenheiros para desenvolver máquinas e equipamentos mais eficientes para as usinas de álcool. As pesquisas, privada e pública, na área agrícola (cana, laranja, eucalipto etc.) desenvolvem a bioquímica e a genética no país.</p><p class=\"fonte\"><em>Folha de S. Paulo</em>, 11/3/2007 (com adaptações).</p><p>Ao beber uma solução de glicose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>), um corta-cana ingere uma substância</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "que, ao ser degradada pelo organismo, produz energia que pode ser usada para movimentar o corpo.",
+    "B": "inflamável que, queimada pelo organismo, produz água para manter a hidratação das células.",
+    "C": "que eleva a taxa de açúcar no sangue e é armazenada na célula, o que restabelece o teor de oxigênio no organismo.",
+    "D": "insolúvel em água, o que aumenta a retenção de líquidos pelo organismo.",
+    "E": "de sabor adocicado que, utilizada na respiração celular, fornece CO<sub>2</sub> para manter estável a taxa de carbono na atmosfera."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A glicose é a principal fonte de energia das células: na respiração celular ela é degradada e a energia liberada (ATP) é usada, por exemplo, na contração dos músculos. Alternativa <strong>A</strong>.</p><p>A glicose é solúvel em água (D), e o CO<sub>2</sub> da respiração não “estabiliza” o carbono atmosférico (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "glicose",
+    "respiração celular"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Ferreira Gullar. <em>Toda Poesia</em>. Rio de Janeiro: Civilização Brasileira, 1980, p. 227-8.</p><p>A antítese que configura uma imagem da divisão social do trabalho na sociedade brasileira é expressa poeticamente na oposição entre a doçura do branco açúcar e</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q14.webp",
+     "alt": "Poema “O açúcar”, de Ferreira Gullar, em versos livres. O eu lírico observa o açúcar branco do café da manhã em Ipanema e refaz o caminho dele: não foi feito por ele, nem pelo dono da mercearia, nem pelo dono da usina, mas veio dos canaviais e foi produzido em usinas escuras por homens de vida amarga e dura."
+    }
+   ],
+   "alternativas": {
+    "A": "o trabalho do dono da mercearia de onde veio o açúcar.",
+    "B": "o beijo de moça, a água na pele e a flor que se dissolve na boca.",
+    "C": "o trabalho do dono do engenho em Pernambuco, onde se produz o açúcar.",
+    "D": "a beleza dos extensos canaviais que nascem no regaço do vale.",
+    "E": "o trabalho dos homens de vida amarga em usinas escuras."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O poema contrapõe o açúcar “branco e puro” do café em Ipanema ao trabalho de “homens de vida amarga e dura” em “usinas escuras”. Doçura e brancura de um lado; amargura e escuridão do outro: é a antítese da divisão social do trabalho. Alternativa <strong>E</strong>.</p><p>O dono da mercearia e o da usina (A, C) aparecem justamente como quem não fez o açúcar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Poesia",
+    "antítese",
+    "Ferreira Gullar"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 15,
+   "materia": "Biologia",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>Há diversas maneiras de o ser humano obter energia para seu próprio metabolismo utilizando energia armazenada na cana-de-açúcar. O esquema abaixo apresenta quatro alternativas dessa utilização.</p>[[fig:1]]<p>A partir dessas informações, conclui-se que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q15.webp",
+     "alt": "Esquema com quatro caminhos a partir da cana-de-açúcar até o ser humano: 1, caldo-de-cana; 2, rapadura; 3, açúcar refinado; 4, etanol, usado no transporte e na indústria para produzir alimentos industrializados."
+    }
+   ],
+   "alternativas": {
+    "A": "a alternativa 1 é a que envolve maior diversidade de atividades econômicas.",
+    "B": "a alternativa 2 é a que provoca maior emissão de gás carbônico para a atmosfera.",
+    "C": "as alternativas 3 e 4 são as que requerem menor conhecimento tecnológico.",
+    "D": "todas as alternativas requerem trabalho humano para a obtenção de energia.",
+    "E": "todas as alternativas ilustram o consumo direto, pelo ser humano, da energia armazenada na cana."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em todos os caminhos do esquema há trabalho humano: cortar a cana, extrair o caldo, fabricar rapadura e açúcar, produzir etanol e alimentos industrializados. Nenhuma alternativa dispensa o trabalho para obter a energia. Alternativa <strong>D</strong>.</p><p>Só o caldo (1) é consumo quase direto; as demais exigem processamento (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cadeia produtiva",
+    "energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "História",
+   "assunto": "Expansão marítima",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p class=\"apoio\">A identidade negra não surge da tomada de consciência de uma diferença de pigmentação ou de uma diferença biológica entre populações negras e brancas e(ou) negras e amarelas. Ela resulta de um longo processo histórico que começa com o descobrimento, no século XV, do continente africano e de seus habitantes pelos navegadores portugueses, descobrimento esse que abriu o caminho às relações mercantilistas com a África, ao tráfico negreiro, à escravidão e, enfim, à colonização do continente africano e de seus povos.</p><p class=\"fonte\">K. Munanga. Algumas considerações sobre a diversidade e a identidade negra no Brasil. In: <em>Diversidade na educação: reflexões e experiências</em>. Brasília: SEMTEC/MEC, 2003, p. 37.</p><p>Com relação ao assunto tratado no texto acima, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a colonização da África pelos europeus foi simultânea ao descobrimento desse continente.",
+    "B": "a existência de lucrativo comércio na África levou os portugueses a desenvolverem esse continente.",
+    "C": "o surgimento do tráfico negreiro foi posterior ao início da escravidão no Brasil.",
+    "D": "a exploração da África decorreu do movimento de expansão européia do início da Idade Moderna.",
+    "E": "a colonização da África antecedeu as relações comerciais entre esse continente e a Europa."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto liga a identidade negra ao processo histórico iniciado pela chegada dos navegadores portugueses à África no século XV: comércio, tráfico, escravidão e colonização. Isso faz parte da expansão europeia do início da Idade Moderna. Alternativa <strong>D</strong>.</p><p>O texto mostra a ordem: descobrimento, comércio, tráfico, escravidão e só depois colonização (A, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "identidade negra",
+    "expansão marítima"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 17,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p class=\"apoio\">Após a Independência, integramo-nos como exportadores de produtos primários à divisão internacional do trabalho, estruturada ao redor da Grã-Bretanha. O Brasil especializou-se na produção, com braço escravo importado da África, de plantas tropicais para a Europa e a América do Norte. Isso atrasou o desenvolvimento de nossa economia por pelo menos uns oitenta anos. Éramos um país essencialmente agrícola e tecnicamente atrasado por depender de produtores cativos. Não se poderia confiar a trabalhadores forçados outros instrumentos de produção que os mais toscos e baratos.</p><p class=\"apoio\">O atraso econômico forçou o Brasil a se voltar para fora. Era do exterior que vinham os bens de consumo que fundamentavam um padrão de vida “civilizado”, marca que distinguia as classes cultas e “naturalmente” dominantes do povaréu primitivo e miserável. (...) E de fora vinham também os capitais que permitiam iniciar a construção de uma infraestrutura de serviços urbanos, de energia, transportes e comunicações.</p><p class=\"fonte\">Paul Singer. Evolução da economia e vinculação internacional. In: I. Sachs; J. Willheim; P. S. Pinheiro (Orgs.). <em>Brasil: um século de transformações</em>. São Paulo: Cia. das Letras, 2001, p. 80.</p><p>Levando-se em consideração as afirmações acima, relativas à estrutura econômica do Brasil por ocasião da independência política (1822), é correto afirmar que o país</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "se industrializou rapidamente devido ao desenvolvimento alcançado no período colonial.",
+    "B": "extinguiu a produção colonial baseada na escravidão e fundamentou a produção no trabalho livre.",
+    "C": "se tornou dependente da economia européia por realizar tardiamente sua industrialização em relação a outros países.",
+    "D": "se tornou dependente do capital estrangeiro, que foi introduzido no país sem trazer ganhos para a infra-estrutura de serviços urbanos.",
+    "E": "teve sua industrialização estimulada pela Grã-Bretanha, que investiu capitais em vários setores produtivos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Singer diz que o Brasil independente seguiu exportando produtos primários com mão de obra escrava, ficou tecnicamente atrasado e dependente do exterior para bens de consumo e capitais. Ou seja, tornou-se dependente da economia europeia por industrializar-se tardiamente. Alternativa <strong>C</strong>.</p><p>O texto diz que os capitais externos permitiram iniciar a infraestrutura urbana (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "economia agroexportadora",
+    "dependência"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Abolição da escravatura</strong></p><table class=\"tabela\"><thead><tr><th>Ano</th><th>Lei</th></tr></thead><tbody><tr><td>1850</td><td>Lei Eusébio de Queirós (fim do tráfico negreiro)</td></tr><tr><td>1871</td><td>Lei do Ventre Livre (liberdade para os filhos de escravos nascidos a partir dessa data)</td></tr><tr><td>1885</td><td>Lei dos Sexagenários (liberdade para os escravos maiores de 60 anos)</td></tr><tr><td>1888</td><td>Lei Áurea (abolição da escravatura)</td></tr></tbody></table><p>Considerando a linha do tempo acima e o processo de abolição da escravatura no Brasil, assinale a opção correta.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O processo abolicionista foi rápido porque recebeu a adesão de todas as correntes políticas do país.",
+    "B": "O primeiro passo para a abolição da escravatura foi a proibição do uso dos serviços das crianças nascidas em cativeiro.",
+    "C": "Antes que a compra de escravos no exterior fosse proibida, decidiu-se pela libertação dos cativos mais velhos.",
+    "D": "Assinada pela princesa Isabel, a Lei Áurea concluiu o processo abolicionista, tornando ilegal a escravidão no Brasil.",
+    "E": "Ao abolir o tráfico negreiro, a Lei Eusébio de Queirós bloqueou a formulação de novas leis antiescravidão no Brasil."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A linha do tempo termina em 1888 com a Lei Áurea, assinada pela princesa Isabel, que aboliu a escravidão no Brasil. Alternativa <strong>D</strong>.</p><p>O primeiro passo foi o fim do tráfico (1850), antes do Ventre Livre (B); o processo levou quase 40 anos e teve forte oposição (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "abolição",
+    "leis abolicionistas"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 19,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Antonio Rocco. <em>Os imigrantes</em>, 1910, Pinacoteca do Estado de São Paulo.</p><p class=\"apoio\">Um dia, os imigrantes aglomerados na amurada da proa chegavam à fedentina quente de um porto, num silêncio de mato e de febre amarela. Santos. — É aqui! Buenos Aires é aqui! — Tinham trocado o rótulo das bagagens, desciam em fila. Faziam suas necessidades nos trens dos animais onde iam. Jogavam-nos num pavilhão comum em São Paulo. — Buenos Aires é aqui! — Amontoados com trouxas, sanfonas e baús, num carro de bois, que pretos guiavam através do mato por estradas esburacadas, chegavam uma tarde nas senzalas donde acabava de sair o braço escravo. Formavam militarmente nas madrugadas do terreiro homens e mulheres, ante feitores de espingarda ao ombro.</p><p class=\"fonte\">Oswald de Andrade. <em>Marco Zero II – Chão</em>. Rio de Janeiro: Globo, 1991.</p><p>Levando-se em consideração o texto de Oswald de Andrade e a pintura de Antonio Rocco reproduzida acima, relativos à imigração européia para o Brasil, é correto afirmar que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q19.webp",
+     "alt": "Pintura “Os imigrantes”, de Antonio Rocco (1910): famílias de imigrantes, com trouxas e crianças no colo, caminham cansadas em fila."
+    }
+   ],
+   "alternativas": {
+    "A": "a visão da imigração presente na pintura é trágica e, no texto, otimista.",
+    "B": "a pintura confirma a visão do texto quanto à imigração de argentinos para o Brasil.",
+    "C": "os dois autores retratam dificuldades dos imigrantes na chegada ao Brasil.",
+    "D": "Antonio Rocco retrata de forma otimista a imigração, destacando o pioneirismo do imigrante.",
+    "E": "Oswald de Andrade mostra que a condição de vida do imigrante era melhor que a dos ex-escravos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto de Oswald mostra a chegada desoladora (fedentina, febre amarela, gente amontoada, senzalas recém-desocupadas, feitores armados), e a pintura de Rocco mostra imigrantes cansados e carregados. Os dois retratam as dificuldades dos imigrantes ao chegar. Alternativa <strong>C</strong>.</p><p>A frase “Buenos Aires é aqui!” mostra imigrantes enganados sobre o destino, não argentinos (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Modernismo",
+    "imigração",
+    "Oswald de Andrade"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 20,
+   "materia": "História",
+   "assunto": "República Velha",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\">São Paulo, 18 de agosto de 1929.</p><p class=\"apoio\">Carlos [Drummond de Andrade],</p><p class=\"apoio\">Achei graça e gozei com o seu entusiasmo pela candidatura Getúlio Vargas – João Pessoa. É. Mas veja como estamos... trocados. Esse entusiasmo devia ser meu e sou eu que conservo o ceticismo que deveria ser de você. (...).</p><p class=\"apoio\">Eu... eu contemplo numa torcida apenas simpática a candidatura Getúlio Vargas, que antes desejara tanto. Mas pra mim, presentemente, essa candidatura (única aceitável, está claro) fica manchada por essas pazes fragílimas de governistas mineiros, gaúchos, paraibanos (...), com democráticos paulistas (que pararam de atacar o Bernardes) e oposicionistas cariocas e gaúchos. Tudo isso não me entristece. Continuo reconhecendo a existência de males necessários, porém me afasta do meu país e da candidatura Getúlio Vargas. Repito: única aceitável.</p><p class=\"apoio\">Mário [de Andrade]</p><p class=\"fonte\">Renato Lemos. <em>Bem traçadas linhas: a história do Brasil em cartas pessoais</em>. Rio de Janeiro: Bom Texto, 2004, p. 305.</p><p>Acerca da crise política ocorrida em fins da Primeira República, a carta do paulista Mário de Andrade ao mineiro Carlos Drummond de Andrade revela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a simpatia de Drummond pela candidatura Vargas e o desencanto de Mário de Andrade com as composições políticas sustentadas por Vargas.",
+    "B": "a veneração de Drummond e Mário de Andrade ao gaúcho Getúlio Vargas, que se aliou à oligarquia cafeeira de São Paulo.",
+    "C": "a concordância entre Mário de Andrade e Drummond quanto ao caráter inovador de Vargas, que fez uma ampla aliança para derrotar a oligarquia mineira.",
+    "D": "a discordância entre Mário de Andrade e Drummond sobre a importância da aliança entre Vargas e o paulista Júlio Prestes nas eleições presidenciais.",
+    "E": "o otimismo de Mário de Andrade em relação a Getúlio Vargas, que se recusara a fazer alianças políticas para vencer as eleições."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Mário diz que Drummond estava entusiasmado com a candidatura Vargas–João Pessoa, enquanto ele, que antes a desejava, agora a via “manchada” pelas alianças frágeis com oligarquias de vários estados. Simpatia de Drummond, desencanto de Mário com as composições políticas. Alternativa <strong>A</strong>.</p><p>Júlio Prestes era o candidato adversário (D), e Vargas fez muitas alianças (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Aliança Liberal",
+    "eleição de 1930"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 21,
+   "materia": "História",
+   "assunto": "Revoluções liberais",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"apoio\">Em 4 de julho de 1776, as treze colônias que vieram inicialmente a constituir os Estados Unidos da América (EUA) declaravam sua independência e justificavam a ruptura do Pacto Colonial. Em palavras profundamente subversivas para a época, afirmavam a igualdade dos homens e apregoavam como seus direitos inalienáveis: o direito à vida, à liberdade e à busca da felicidade. Afirmavam que o poder dos governantes, aos quais cabia a defesa daqueles direitos, derivava dos governados.</p><p class=\"apoio\">Esses conceitos revolucionários que ecoavam o Iluminismo foram retomados com maior vigor e amplitude treze anos mais tarde, em 1789, na França.</p><p class=\"fonte\">Emília Viotti da Costa. Apresentação da coleção. In: Wladimir Pomar. <em>Revolução Chinesa</em>. São Paulo: UNESP, 2003 (com adaptações).</p><p>Considerando o texto acima, acerca da independência dos EUA e da Revolução Francesa, assinale a opção correta.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A independência dos EUA e a Revolução Francesa integravam o mesmo contexto histórico, mas se baseavam em princípios e ideais opostos.",
+    "B": "O processo revolucionário francês identificou-se com o movimento de independência norte-americana no apoio ao absolutismo esclarecido.",
+    "C": "Tanto nos EUA quanto na França, as teses iluministas sustentavam a luta pelo reconhecimento dos direitos considerados essenciais à dignidade humana.",
+    "D": "Por ter sido pioneira, a Revolução Francesa exerceu forte influência no desencadeamento da independência norte-americana.",
+    "E": "Ao romper o Pacto Colonial, a Revolução Francesa abriu o caminho para as independências das colônias ibéricas situadas na América."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A independência dos EUA (1776) e a Revolução Francesa (1789) se apoiaram nas ideias iluministas: igualdade, direito à vida, à liberdade e à busca da felicidade, e governo derivado dos governados. Ambas defendiam direitos essenciais à dignidade humana. Alternativa <strong>C</strong>.</p><p>A independência americana veio antes e inspirou a França, não o contrário (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Iluminismo",
+    "independência dos EUA"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 22,
+   "materia": "História",
+   "assunto": "Oriente Médio",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"apoio\">Em 1947, a Organização das Nações Unidas (ONU) aprovou um plano de partilha da Palestina que previa a criação de dois Estados: um judeu e outro palestino. A recusa árabe em aceitar a decisão conduziu ao primeiro conflito entre Israel e países árabes.</p><p class=\"apoio\">A segunda guerra (Suez, 1956) decorreu da decisão egípcia de nacionalizar o canal, ato que atingia interesses anglo-franceses e israelenses. Vitorioso, Israel passou a controlar a Península do Sinai. O terceiro conflito árabe-israelense (1967) ficou conhecido como Guerra dos Seis Dias, tal a rapidez da vitória de Israel.</p><p class=\"apoio\">Em 6 de outubro de 1973, quando os judeus comemoravam o Yom Kippur (Dia do Perdão), forças egípcias e sírias atacaram de surpresa Israel, que revidou de forma arrasadora. A intervenção americano-soviética impôs o cessar-fogo, concluído em 22 de outubro.</p><p>A partir do texto acima, assinale a opção correta.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A primeira guerra árabe-israelense foi determinada pela ação bélica de tradicionais potências européias no Oriente Médio.",
+    "B": "Na segunda metade dos anos 1960, quando explodiu a terceira guerra árabe-israelense, Israel obteve rápida vitória.",
+    "C": "A guerra do Yom Kippur ocorreu no momento em que, a partir de decisão da ONU, foi oficialmente instalado o Estado de Israel.",
+    "D": "A ação dos governos de Washington e de Moscou foi decisiva para o cessar-fogo que pôs fim ao primeiro conflito árabe-israelense.",
+    "E": "Apesar das sucessivas vitórias militares, Israel mantém suas dimensões territoriais tal como estabelecido pela resolução de 1947 aprovada pela ONU."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que a terceira guerra árabe-israelense, de 1967, ficou conhecida como Guerra dos Seis Dias “tal a rapidez da vitória de Israel”. Alternativa <strong>B</strong>.</p><p>A primeira guerra veio da recusa árabe ao plano da ONU (A); o Yom Kippur foi em 1973, e Israel existe desde 1948 (C); o cessar-fogo americano-soviético foi no Yom Kippur (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conflito árabe-israelense"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 23,
+   "materia": "Biologia",
+   "assunto": "Saúde e doenças",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"apoio\">O <em>Aedes aegypti</em> é vetor transmissor da dengue. Uma pesquisa feita em São Luís – MA, de 2000 a 2002, mapeou os tipos de reservatório onde esse mosquito era encontrado. A tabela abaixo mostra parte dos dados coletados nessa pesquisa.</p><table class=\"tabela\"><thead><tr><th>tipos de reservatórios</th><th>2000</th><th>2001</th><th>2002</th></tr></thead><tbody><tr><td>pneu</td><td>895</td><td>1.658</td><td>974</td></tr><tr><td>tambor/tanque/depósito de barro</td><td>6.855</td><td>46.444</td><td>32.787</td></tr><tr><td>vaso de planta</td><td>456</td><td>3.191</td><td>1.399</td></tr><tr><td>material de construção/peça de carro</td><td>271</td><td>436</td><td>276</td></tr><tr><td>garrafa/lata/plástico</td><td>675</td><td>2.100</td><td>1.059</td></tr><tr><td>poço/cisterna</td><td>44</td><td>428</td><td>275</td></tr><tr><td>caixa d’água</td><td>248</td><td>1.689</td><td>1.014</td></tr><tr><td>recipiente natural, armadilha, piscina e outros</td><td>615</td><td>2.658</td><td>1.178</td></tr><tr><td>total</td><td>10.059</td><td>58.604</td><td>38.962</td></tr></tbody></table><p class=\"fonte\"><em>Caderno Saúde Pública</em>, vol. 20, n.º 5, Rio de Janeiro, out./2004 (com adaptações). Valores: população de <em>A. aegypti</em>.</p><p>De acordo com essa pesquisa, o alvo inicial para a redução mais rápida dos focos do mosquito vetor da dengue nesse município deveria ser constituído por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pneus e caixas d’água.",
+    "B": "tambores, tanques e depósitos de barro.",
+    "C": "vasos de plantas, poços e cisternas.",
+    "D": "materiais de construção e peças de carro.",
+    "E": "garrafas, latas e plásticos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A maior parte dos mosquitos estava em tambores, tanques e depósitos de barro: 32.787 de 38.962 em 2002 (cerca de 84%). Atacar esses reservatórios primeiro reduz os focos mais rapidamente. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dengue",
+    "leitura de tabela"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"apoio\">O <em>Aedes aegypti</em> é vetor transmissor da dengue. Uma pesquisa feita em São Luís – MA, de 2000 a 2002, mapeou os tipos de reservatório onde esse mosquito era encontrado. A tabela abaixo mostra parte dos dados coletados nessa pesquisa.</p><table class=\"tabela\"><thead><tr><th>tipos de reservatórios</th><th>2000</th><th>2001</th><th>2002</th></tr></thead><tbody><tr><td>pneu</td><td>895</td><td>1.658</td><td>974</td></tr><tr><td>tambor/tanque/depósito de barro</td><td>6.855</td><td>46.444</td><td>32.787</td></tr><tr><td>vaso de planta</td><td>456</td><td>3.191</td><td>1.399</td></tr><tr><td>material de construção/peça de carro</td><td>271</td><td>436</td><td>276</td></tr><tr><td>garrafa/lata/plástico</td><td>675</td><td>2.100</td><td>1.059</td></tr><tr><td>poço/cisterna</td><td>44</td><td>428</td><td>275</td></tr><tr><td>caixa d’água</td><td>248</td><td>1.689</td><td>1.014</td></tr><tr><td>recipiente natural, armadilha, piscina e outros</td><td>615</td><td>2.658</td><td>1.178</td></tr><tr><td>total</td><td>10.059</td><td>58.604</td><td>38.962</td></tr></tbody></table><p class=\"fonte\"><em>Caderno Saúde Pública</em>, vol. 20, n.º 5, Rio de Janeiro, out./2004 (com adaptações). Valores: população de <em>A. aegypti</em>.</p><p>Se mantido o percentual de redução da população total de <em>A. aegypti</em> observada de 2001 para 2002, teria sido encontrado, em 2003, um número total de mosquitos</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "menor que 5.000.",
+    "B": "maior que 5.000 e menor que 10.000.",
+    "C": "maior que 10.000 e menor que 15.000.",
+    "D": "maior que 15.000 e menor que 20.000.",
+    "E": "maior que 20.000."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>De 2001 para 2002, a população caiu de 58.604 para 38.962: fator 38.962 ÷ 58.604 ≈ 0,665 (redução de cerca de 33,5%). Mantido o percentual, em 2003: 38.962 × 0,665 ≈ 25.900, maior que 20.000. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "variação percentual"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Função exponencial",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"apoio\">A duração do efeito de alguns fármacos está relacionada à sua meia-vida, tempo necessário para que a quantidade original do fármaco no organismo se reduza à metade. A cada intervalo de tempo correspondente a uma meia-vida, a quantidade de fármaco existente no organismo no final do intervalo é igual a 50% da quantidade no início desse intervalo.</p>[[fig:1]]<p class=\"apoio\">O gráfico acima representa, de forma genérica, o que acontece com a quantidade de fármaco no organismo humano ao longo do tempo.</p><p class=\"fonte\">F. D. Fuchs e Cher l. Wannma. <em>Farmacologia Clínica</em>. Rio de Janeiro: Guanabara Koogan, 1992, p. 40.</p><p>A meia-vida do antibiótico amoxicilina é de 1 hora. Assim, se uma dose desse antibiótico for injetada às 12 h em um paciente, o percentual dessa dose que restará em seu organismo às 13 h 30 min será aproximadamente de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q25.webp",
+     "alt": "Gráfico da porcentagem de fármaco no organismo em função do número de meias-vidas (0 a 7): curva decrescente que começa em 100%, passa por 50% em 1, 25% em 2, 12,5% em 3 e se aproxima de zero."
+    }
+   ],
+   "alternativas": {
+    "A": "10%.",
+    "B": "15%.",
+    "C": "25%.",
+    "D": "35%.",
+    "E": "50%."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Uma hora e meia equivale a 1,5 meia-vida. A fração restante é (1/2)<sup>1,5</sup> = 1/(2√2) ≈ 0,35, ou seja, cerca de 35%. No gráfico, entre 1 meia-vida (50%) e 2 meias-vidas (25%), o ponto do meio fica perto de 35%. Alternativa <strong>D</strong>.</p><p>A queda não é linear: por isso não dá 37,5%, a média entre 50% e 25%.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "meia-vida",
+    "decaimento exponencial"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Português",
+   "assunto": "Variação linguística",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Antigamente</strong></p><p class=\"apoio\">Acontecia o indivíduo apanhar constipação; ficando perrengue, mandava o próprio chamar o doutor e, depois, ir à botica para aviar a receita, de cápsulas ou pílulas fedorentas. Doença nefasta era a phtísica, feia era o gálico. Antigamente, os sobrados tinham assombrações, os meninos, lombrigas (...)</p><p class=\"fonte\">Carlos Drummond de Andrade. <em>Poesia completa e prosa</em>. Rio de Janeiro: Companhia José Aguilar, p. 1.184.</p><p>O texto acima está escrito em linguagem de uma época passada. Observe uma outra versão, em linguagem atual.</p><p class=\"apoio\"><strong>Antigamente</strong></p><p class=\"apoio\">Acontecia o indivíduo apanhar um resfriado; ficando mal, mandava o próprio chamar o doutor e, depois, ir à farmácia para aviar a receita, de cápsulas ou pílulas fedorentas. Doença nefasta era a tuberculose, feia era a sífilis. Antigamente, os sobrados tinham assombrações, os meninos, vermes (...)</p><p>Comparando-se esses dois textos, verifica-se que, na segunda versão, houve mudanças relativas a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "vocabulário.",
+    "B": "construções sintáticas.",
+    "C": "pontuação.",
+    "D": "fonética.",
+    "E": "regência verbal."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na segunda versão, as palavras antigas foram trocadas por equivalentes atuais: constipação por resfriado, perrengue por mal, botica por farmácia, phtísica por tuberculose, gálico por sífilis, lombrigas por vermes. A estrutura das frases é a mesma: mudou o vocabulário. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "variação histórica",
+    "vocabulário"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 27,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"apoio\"><strong>O canto do guerreiro</strong></p><p class=\"apoio\">Aqui na floresta<br>Dos ventos batida,<br>Façanhas de bravos<br>Não geram escravos,<br>Que estimem a vida<br>Sem guerra e lidar.<br>— Ouvi-me, Guerreiros,<br>— Ouvi meu cantar.</p><p class=\"apoio\">Valente na guerra,<br>Quem há, como eu sou?<br>Quem vibra o tacape<br>Com mais valentia?<br>Quem golpes daria<br>Fatais, como eu dou?<br>— Guerreiros, ouvi-me;<br>— Quem há, como eu sou?</p><p class=\"fonte\">Gonçalves Dias.</p><p class=\"apoio\"><strong>Macunaíma (Epílogo)</strong></p><p class=\"apoio\">Acabou-se a história e morreu a vitória.</p><p class=\"apoio\">Não havia mais ninguém lá. Dera tangolomângolo na tribo Tapanhumas e os filhos dela se acabaram de um em um. Não havia mais ninguém lá. Aqueles lugares, aqueles campos, furos puxadouros arrastadouros meios-barrancos, aqueles matos misteriosos, tudo era solidão do deserto... Um silêncio imenso dormia à beira do rio Uraricoera. Nenhum conhecido sobre a terra não sabia nem falar da tribo nem contar aqueles casos tão pançudos. Quem podia saber do Herói?</p><p class=\"fonte\">Mário de Andrade.</p><p>A leitura comparativa dos dois textos acima indica que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ambos têm como tema a figura do indígena brasileiro apresentada de forma realista e heróica, como símbolo máximo do nacionalismo romântico.",
+    "B": "a abordagem da temática adotada no texto escrito em versos é discriminatória em relação aos povos indígenas do Brasil.",
+    "C": "as perguntas “— Quem há, como eu sou?” (1.o texto) e “Quem podia saber do Herói?” (2.o texto) expressam diferentes visões da realidade indígena brasileira.",
+    "D": "o texto romântico, assim como o modernista, aborda o extermínio dos povos indígenas como resultado do processo de colonização no Brasil.",
+    "E": "os versos em primeira pessoa revelam que os indígenas podiam expressar-se poeticamente, mas foram silenciados pela colonização, como demonstra a presença do narrador, no segundo texto."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No poema romântico, o guerreiro pergunta “Quem há, como eu sou?” com orgulho: o índio é herói idealizado. No epílogo de <em>Macunaíma</em>, “Quem podia saber do Herói?” fala de uma tribo extinta, de quem ninguém lembra. As perguntas expressam visões diferentes do indígena. Alternativa <strong>C</strong>.</p><p>O poema de Gonçalves Dias idealiza o índio (não é realista nem discriminatório, A e B) e não trata de extermínio (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Romantismo e Modernismo",
+    "indianismo",
+    "Macunaíma"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 28,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"apoio\"><strong>O canto do guerreiro</strong></p><p class=\"apoio\">Aqui na floresta<br>Dos ventos batida,<br>Façanhas de bravos<br>Não geram escravos,<br>Que estimem a vida<br>Sem guerra e lidar.<br>— Ouvi-me, Guerreiros,<br>— Ouvi meu cantar.</p><p class=\"apoio\">Valente na guerra,<br>Quem há, como eu sou?<br>Quem vibra o tacape<br>Com mais valentia?<br>Quem golpes daria<br>Fatais, como eu dou?<br>— Guerreiros, ouvi-me;<br>— Quem há, como eu sou?</p><p class=\"fonte\">Gonçalves Dias.</p><p class=\"apoio\"><strong>Macunaíma (Epílogo)</strong></p><p class=\"apoio\">Acabou-se a história e morreu a vitória.</p><p class=\"apoio\">Não havia mais ninguém lá. Dera tangolomângolo na tribo Tapanhumas e os filhos dela se acabaram de um em um. Não havia mais ninguém lá. Aqueles lugares, aqueles campos, furos puxadouros arrastadouros meios-barrancos, aqueles matos misteriosos, tudo era solidão do deserto... Um silêncio imenso dormia à beira do rio Uraricoera. Nenhum conhecido sobre a terra não sabia nem falar da tribo nem contar aqueles casos tão pançudos. Quem podia saber do Herói?</p><p class=\"fonte\">Mário de Andrade.</p><p>Considerando-se a linguagem desses dois textos, verifica-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a função da linguagem centrada no receptor está ausente tanto no primeiro quanto no segundo texto.",
+    "B": "a linguagem utilizada no primeiro texto é coloquial, enquanto, no segundo, predomina a linguagem formal.",
+    "C": "há, em cada um dos textos, a utilização de pelo menos uma palavra de origem indígena.",
+    "D": "a função da linguagem, no primeiro texto, centra-se na forma de organização da linguagem e, no segundo, no relato de informações reais.",
+    "E": "a função da linguagem centrada na primeira pessoa, predominante no segundo texto, está ausente no primeiro."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O poema traz “tacape”, palavra de origem tupi, e o texto de Mário traz “Tapanhumas” e “Uraricoera”, também de origem indígena. Os dois usam pelo menos uma palavra indígena. Alternativa <strong>C</strong>.</p><p>O poema se dirige aos guerreiros (“Ouvi-me”), então a função apelativa está presente (A); ele é em primeira pessoa, e o texto de Mário, em terceira (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Funções da linguagem",
+    "palavras de origem indígena",
+    "funções da linguagem"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 29,
+   "materia": "Biologia",
+   "assunto": "Saúde",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"apoio\">Há cerca de dez anos, estimava-se que 11,2% da população brasileira poderiam ser considerados dependentes de álcool. Esse índice, dividido por gênero, apontava que 17,1% da população masculina e 5,7% da população feminina eram consumidores da bebida. Quando analisada a distribuição etária desse consumo, outro choque: a pesquisa evidenciou que 41,2% de estudantes da educação básica da rede pública brasileira já haviam feito uso de álcool.</p><p class=\"apoio\">Dados atuais apontam que a porcentagem de dependentes de álcool subiu para 15%. Estima-se que o país gaste 7,3% do PIB por ano para tratar de problemas relacionados ao alcoolismo, desde o tratamento de pacientes até a perda da produtividade no trabalho. A indústria do álcool no Brasil, que produz do açúcar ao álcool combustível, movimenta 3,5% do PIB.</p><p class=\"fonte\"><em>Revista Brasileira de Psiquiatria</em>, v. 28, n.º 4, dez./2006 e Internet: &lt;www.alcoolismo.com.br&gt; (com adaptações).</p><p>A partir dos dados acima, conclui-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o país, para tratar pessoas com problemas provocados pelo alcoolismo, gasta o dobro do que movimenta para produzir bebida alcoólica.",
+    "B": "o aumento do número de brasileiros dependentes de álcool acarreta decréscimo no percentual do PIB gasto no tratamento dessas pessoas.",
+    "C": "o elevado percentual de estudantes que já consumiram bebida alcoólica é indicativo de que o consumo do álcool é problema que deve ser enfrentado pela sociedade.",
+    "D": "as mulheres representam metade da população brasileira dependente de álcool.",
+    "E": "o aumento na porcentagem de brasileiros dependentes de álcool deveu-se, basicamente, ao crescimento da indústria do álcool."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto destaca que 41,2% dos estudantes da educação básica pública já tinham consumido álcool: um dado alarmante sobre o consumo precoce, que mostra que o alcoolismo é um problema a ser enfrentado pela sociedade. Alternativa <strong>C</strong>.</p><p>A parece certa porque 7,3% é cerca do dobro de 3,5%, mas os 3,5% são de toda a indústria do álcool (do açúcar ao combustível), não só da bebida. As mulheres eram 5,7%, contra 17,1% dos homens (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "alcoolismo",
+    "leitura de dados"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Biologia",
+   "assunto": "Saúde",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p>A tabela abaixo representa, nas diversas regiões do Brasil, a porcentagem de mães que, em 2005, amamentavam seus filhos nos primeiros meses de vida.</p><table class=\"tabela\"><thead><tr><th>região</th><th>até o 4.º mês (em %)</th><th>de 9 meses a 1 ano (em %)</th></tr></thead><tbody><tr><td>Norte</td><td>85,7</td><td>54,8</td></tr><tr><td>Nordeste</td><td>77,7</td><td>38,8</td></tr><tr><td>Sudeste</td><td>75,1</td><td>38,6</td></tr><tr><td>Sul</td><td>73,2</td><td>37,2</td></tr><tr><td>Centro-Oeste</td><td>83,9</td><td>47,8</td></tr></tbody></table><p class=\"fonte\">Ministério da Saúde, 2005.</p><p>Ao ingerir leite materno, a criança adquire anticorpos importantes que a defendem de doenças típicas da primeira infância. Nesse sentido, a tabela mostra que, em 2005, percentualmente, as crianças brasileiras que estavam mais protegidas dessas doenças eram as da região</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Norte.",
+    "B": "Nordeste.",
+    "C": "Sudeste.",
+    "D": "Sul.",
+    "E": "Centro-Oeste."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A proteção vem do leite materno, e a região com maior porcentagem de aleitamento nos dois períodos (85,7% até o 4.º mês e 54,8% de 9 meses a 1 ano) é o Norte. Alternativa <strong>A</strong>.</p><p>O Centro-Oeste vem logo depois (83,9% e 47,8%); Sudeste e Sul têm as menores taxas de aleitamento prolongado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aleitamento materno",
+    "anticorpos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Biologia",
+   "assunto": "Saúde e doenças",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p>Os mapas abaixo apresentam informações acerca dos índices de infecção por leishmaniose tegumentar americana (LTA) em 1985 e 1999.</p>[[fig:1]]<p class=\"fonte\">Ministério da Saúde.</p><p>A partir da leitura dos mapas acima, conclui-se que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q31.webp",
+     "alt": "Dois mapas do Brasil com o índice de infecção por leishmaniose tegumentar americana por estado, em 1985 e 1999 (caso não registrado, baixo, médio, alto, muito alto). Em 1999, vários estados aparecem com índices mais altos que em 1985, entre eles Minas Gerais, que passa de baixo para alto."
+    }
+   ],
+   "alternativas": {
+    "A": "o índice de infecção por LTA em Minas Gerais elevou-se muito nesse período.",
+    "B": "o estado de Mato Grosso apresentou diminuição do índice de infecção por LTA devido às intensas campanhas de saúde.",
+    "C": "a expansão geográfica da LTA ocorreu no sentido norte-sul como resultado do processo predatório de colonização.",
+    "D": "o índice de infecção por LTA no Maranhão diminuiu em virtude das fortes secas que assolaram o estado nesse período.",
+    "E": "o aumento da infecção por LTA no Rio Grande do Sul resultou da proliferação do roedor que transmite essa enfermidade."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Comparando os mapas, Minas Gerais passa de índice baixo, em 1985, para alto, em 1999: a infecção por LTA cresceu muito no estado. Alternativa <strong>A</strong>.</p><p>Os mapas não informam causas (campanhas, secas), e a leishmaniose é transmitida por mosquito-palha, não por roedor (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leishmaniose",
+    "leitura de mapas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p>No mapa a seguir, descreve-se a disseminação do vírus da gripe no Brasil, em 2007.</p>[[fig:1]]<p class=\"fonte\"><em>Folha de S. Paulo</em>, Caderno Ciência, 9/6/2007 (com adaptações).</p><p>No mapa, a unidade da escala de tempo que descreve o movimento do vírus da gripe da região Norte para a região Sul do Brasil é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q32.webp",
+     "alt": "Mapa “O caminho do vírus – como o patógeno da gripe se espalha no Brasil”, com círculos cujo tamanho indica a intensidade da epidemia e setas do Norte para o Sul. Legenda: região Norte, pico em abril; Nordeste, entre abril e maio; Centro-Oeste, dados escassos; Sudeste, entre junho e julho; Sul, pico em julho."
+    }
+   ],
+   "alternativas": {
+    "A": "ano.",
+    "B": "mês.",
+    "C": "hora.",
+    "D": "minuto.",
+    "E": "segundo."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A legenda indica os picos por região em meses: Norte em abril, Nordeste entre abril e maio, Sudeste entre junho e julho, Sul em julho. O vírus leva meses para ir do Norte ao Sul: a unidade adequada é o mês. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "unidades de tempo",
+    "leitura de mapa"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Biologia",
+   "assunto": "Reprodução",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Fernando Gonsales. <em>Vá Pentear Macacos!</em> São Paulo: Devir, 2004.</p><p>São características do tipo de reprodução representado na tirinha:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q33.webp",
+     "alt": "Tirinha de Fernando Gonsales em que uma bactéria sozinha reclama da solidão e, ao se dividir, passa a conversar com cópias de si mesma, até ficar cercada de bactérias iguais."
+    }
+   ],
+   "alternativas": {
+    "A": "simplicidade, permuta de material gênico e variabilidade genética.",
+    "B": "rapidez, simplicidade e semelhança genética.",
+    "C": "variabilidade genética, mutação e evolução lenta.",
+    "D": "gametogênese, troca de material gênico e complexidade.",
+    "E": "clonagem, gemulação e partenogênese."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A tirinha mostra bactérias se dividindo ao meio, ou seja, reprodução assexuada por divisão binária. Ela é rápida, simples e gera descendentes geneticamente iguais ao organismo original. Alternativa <strong>B</strong>.</p><p>Permuta de material genético e variabilidade (A, D) são próprias da reprodução sexuada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reprodução assexuada",
+    "bactérias"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Temperatura do pescado nas peixarias</strong></p>[[fig:1]]<p class=\"fonte\">Associação Brasileira de Defesa do Consumidor (com adaptações).</p><p>Uma das principais causas da degradação de peixes frescos é a contaminação por bactérias. O gráfico apresenta resultados de um estudo acerca da temperatura de peixes frescos vendidos em cinco peixarias. O ideal é que esses peixes sejam vendidos com temperaturas entre 2 ºC e 4 ºC. Selecionando-se aleatoriamente uma das cinco peixarias pesquisadas, a probabilidade de ela vender peixes frescos na condição ideal é igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q34.webp",
+     "alt": "Gráfico de barras “Temperatura do pescado nas peixarias” (°C): I, 14,0; II, 13,2; III, 10,5; IV, 8,9; V, 2,3."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{2}\\)",
+    "B": "\\(\\dfrac{1}{3}\\)",
+    "C": "\\(\\dfrac{1}{4}\\)",
+    "D": "\\(\\dfrac{1}{5}\\)",
+    "E": "\\(\\dfrac{1}{6}\\)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No gráfico, só a peixaria V vende peixe entre 2 °C e 4 °C (2,3 °C); as outras estão entre 8,9 °C e 14 °C. Uma em cinco: \\(\\tfrac{1}{5}\\). Alternativa <strong>D</strong>.</p><p>As temperaturas das outras peixarias estão muito acima do ideal, o que favorece a proliferação de bactérias.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Aumento de produtividade</strong></p><p class=\"apoio\">Nos últimos 60 anos, verificou-se grande aumento da produtividade agrícola nos Estados Unidos da América (EUA). Isso se deveu a diversos fatores, tais como expansão do uso de fertilizantes e pesticidas, biotecnologia e maquinário especializado. O gráfico abaixo apresenta dados referentes à agricultura desse país, no período compreendido entre 1948 e 2004.</p>[[fig:1]]<p class=\"fonte\"><em>Scientific American Brasil</em>, jun./2007, p. 19 (com adaptações).</p><p>Com base nas informações acima, pode-se considerar fator relevante para o aumento da produtividade na agricultura estadunidense, no período de 1948 a 2004,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q35.webp",
+     "alt": "Gráfico das mudanças desde 1948 (%), de 1950 a 2004: a produtividade total da agricultura dos EUA cresce até cerca de 160%; os custos de material sobem até perto de 100% nos anos 1970, com oscilações; as despesas de capital sobem até cerca de 25% e depois caem; o uso da terra cai um pouco, abaixo de zero; os custos de mão de obra caem continuamente, até cerca de −75%."
+    }
+   ],
+   "alternativas": {
+    "A": "o aumento do uso da terra.",
+    "B": "a redução dos custos de material.",
+    "C": "a redução do uso de agrotóxicos.",
+    "D": "o aumento da oferta de empregos.",
+    "E": "o aumento do uso de tecnologias."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto atribui o aumento da produtividade a fertilizantes, pesticidas, biotecnologia e maquinário: tecnologia. No gráfico, a produtividade sobe enquanto o uso da terra e a mão de obra caem. Alternativa <strong>E</strong>.</p><p>O uso da terra diminuiu (A), os custos de material subiram (B) e o uso de agrotóxicos aumentou (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "modernização agrícola",
+    "produtividade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "Geografia",
+   "assunto": "Agropecuária",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Aumento de produtividade</strong></p><p class=\"apoio\">Nos últimos 60 anos, verificou-se grande aumento da produtividade agrícola nos Estados Unidos da América (EUA). Isso se deveu a diversos fatores, tais como expansão do uso de fertilizantes e pesticidas, biotecnologia e maquinário especializado. O gráfico abaixo apresenta dados referentes à agricultura desse país, no período compreendido entre 1948 e 2004.</p>[[fig:1]]<p class=\"fonte\"><em>Scientific American Brasil</em>, jun./2007, p. 19 (com adaptações).</p><p>A respeito da agricultura estadunidense no período de 1948 a 2004, observa-se que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q35.webp",
+     "alt": "Gráfico das mudanças desde 1948 (%), de 1950 a 2004: a produtividade total da agricultura dos EUA cresce até cerca de 160%; os custos de material sobem até perto de 100% nos anos 1970, com oscilações; as despesas de capital sobem até cerca de 25% e depois caem; o uso da terra cai um pouco, abaixo de zero; os custos de mão de obra caem continuamente, até cerca de −75%."
+    }
+   ],
+   "alternativas": {
+    "A": "o aumento da produtividade foi acompanhado da redução de mais de 70% dos custos de mão-de-obra.",
+    "B": "o valor mínimo dos custos de material ocorreu entre as décadas de 70 e 80.",
+    "C": "a produtividade total da agricultura dos EUA apresentou crescimento superior a 200%.",
+    "D": "a taxa de crescimento das despesas de capital manteve-se constante entre as décadas de 70 e 90.",
+    "E": "o aumento da produtividade foi diretamente proporcional à redução das despesas de capital."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No gráfico, os custos de mão de obra caem para cerca de −75% em 2004, enquanto a produtividade sobe: a produtividade cresceu com redução de mais de 70% dos custos de mão de obra. Alternativa <strong>A</strong>.</p><p>A produtividade cresceu cerca de 160%, não mais de 200% (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mecanização",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Raciocínio lógico",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p>A diversidade de formas geométricas espaciais criadas pelo homem, ao mesmo tempo em que traz benefícios, causa dificuldades em algumas situações. Suponha, por exemplo, que um cozinheiro precise utilizar exatamente 100 mL de azeite de uma lata que contenha 1.200 mL e queira guardar o restante do azeite em duas garrafas, com capacidade para 500 mL e 800 mL cada, deixando cheia a garrafa maior. Considere que ele não disponha de instrumento de medida e decida resolver o problema utilizando apenas a lata e as duas garrafas. As etapas do procedimento utilizado por ele estão ilustradas nas figuras a seguir, tendo sido omitida a 5.ª etapa.</p>[[fig:1]]<p>Qual das situações ilustradas a seguir corresponde à 5.ª etapa do procedimento?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q37.webp",
+     "alt": "Seis etapas, a 5.ª omitida. 1.ª: lata com 1.200 mL e as duas garrafas vazias. 2.ª: lata com 400 mL e a garrafa maior cheia. 3.ª: lata com 400 mL, garrafa maior com 300 mL e a menor cheia. 4.ª: lata com 900 mL, garrafa maior com 300 mL e a menor vazia. 5.ª: interrogações. 6.ª: lata com 100 mL, garrafa maior cheia e a menor com 300 mL."
+    },
+    {
+     "src": "assets/img/enem-2007/q37a.webp",
+     "alt": "Situação A: lata com 100 mL, garrafa maior com 700 mL e garrafa menor com 400 mL."
+    },
+    {
+     "src": "assets/img/enem-2007/q37b.webp",
+     "alt": "Situação B: lata com 200 mL, garrafa maior cheia e garrafa menor com 200 mL."
+    },
+    {
+     "src": "assets/img/enem-2007/q37c.webp",
+     "alt": "Situação C: lata com 400 mL e as duas garrafas vazias."
+    },
+    {
+     "src": "assets/img/enem-2007/q37d.webp",
+     "alt": "Situação D: lata com 900 mL, garrafa maior vazia e garrafa menor com 300 mL."
+    },
+    {
+     "src": "assets/img/enem-2007/q37e.webp",
+     "alt": "Situação E: lata com 900 mL, garrafa maior com 200 mL e garrafa menor com 100 mL."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na 4.ª etapa, a lata tem 900 mL e a garrafa de 800 mL tem 300 mL. Para chegar à 6.ª (lata com 100 mL, garrafa de 800 cheia e a de 500 com 300 mL), a 5.ª etapa passa os 300 mL para a garrafa de 500 mL, deixando a de 800 vazia: lata 900, garrafa de 500 com 300. Depois, enche-se a garrafa de 800 com a lata, que fica com 100 mL. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "raciocínio lógico",
+    "medidas de capacidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Geografia",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\"><em>Globo Rural</em>, jun./2007.</p><p>É título adequado para a matéria jornalística em que o gráfico acima seja apresentado:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q38.webp",
+     "alt": "Gráfico de barras da produção de mel em 2005 (em milhares de toneladas) e a posição no ranking: China 1.ª, 276; EUA 2.ª, 82; Argentina 3.ª, 80; Turquia 4.ª, 75; México 5.ª, 55; ...; Brasil 15.ª, 33."
+    }
+   ],
+   "alternativas": {
+    "A": "Apicultura: Brasil ocupa a 33.a posição no <em>ranking</em> mundial de produção de mel — as abelhas estão desaparecendo no país",
+    "B": "O milagre do mel: a apicultura se expande e coloca o país entre os seis primeiros no <em>ranking</em> mundial de produção",
+    "C": "Pescadores do mel: Brasil explora regiões de mangue para produção do mel e ultrapassa a Argentina no <em>ranking</em> mundial",
+    "D": "Sabor bem brasileiro: Brasil inunda o mercado mundial com a produção de 15 mil toneladas de mel em 2005",
+    "E": "Sabor de mel: China é o gigante na produção de mel no mundo e o Brasil está em 15.o lugar no <em>ranking</em>"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O gráfico mostra a China em 1.º lugar, com 276 mil toneladas, e o Brasil em 15.º, com 33 mil toneladas. O título que corresponde ao gráfico é “China é o gigante na produção de mel no mundo e o Brasil está em 15.º lugar”. Alternativa <strong>E</strong>.</p><p>33 é a produção do Brasil, não sua posição (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "título jornalístico"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 39,
+   "materia": "Geografia",
+   "assunto": "Mudanças climáticas",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Lucro na adversidade</strong></p><p class=\"apoio\">Os fazendeiros da região sudoeste de Bangladesh, um dos países mais pobres da Ásia, estão tentando adaptar-se às mudanças acarretadas pelo aquecimento global. Antes acostumados a produzir arroz e vegetais, responsáveis por boa parte da produção nacional, eles estão migrando para o cultivo do camarão. Com a subida do nível do mar, a água salgada penetrou nos rios e mangues da região, o que inviabilizou a agricultura, mas, de outro lado, possibilitou a criação de crustáceos, uma atividade até mais lucrativa.</p><p class=\"apoio\">O lado positivo da situação termina por aí. A maior parte da população local foi prejudicada, já que os fazendeiros não precisam contratar mais mão-de-obra, o que aumentou o desemprego. A flora e a fauna do mangue vêm sendo afetadas pela nova composição da água. Os lençóis freáticos da região foram atingidos pela água salgada.</p><p class=\"fonte\"><em>Globo Rural</em>, jun./2007, p. 18 (com adaptações).</p><p>A situação descrita acima retrata</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o fortalecimento de atividades produtivas tradicionais em Bangladesh em decorrência dos efeitos do aquecimento global.",
+    "B": "a introdução de uma nova atividade produtiva que amplia a oferta de emprego.",
+    "C": "a reestruturação de atividades produtivas como forma de enfrentar mudanças nas condições ambientais da região.",
+    "D": "o dano ambiental provocado pela exploração mais intensa dos recursos naturais da região a partir do cultivo do camarão.",
+    "E": "a busca de investimentos mais rentáveis para Bangladesh crescer economicamente e competir no mercado internacional de grãos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Com a subida do mar e a salinização dos rios, os fazendeiros trocaram o arroz pela criação de camarão: reestruturaram a produção para enfrentar a mudança ambiental. Alternativa <strong>C</strong>.</p><p>A nova atividade aumentou o desemprego (B) e substituiu as tradicionais (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aquecimento global",
+    "adaptação econômica"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 40,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"apoio\">Nos últimos 50 anos, as temperaturas de inverno na península antártica subiram quase 6 °C. Ao contrário do esperado, o aquecimento tem aumentado a precipitação de neve. Isso ocorre porque o gelo marinho, que forma um manto impermeável sobre o oceano, está derretendo devido à elevação de temperatura, o que permite que mais umidade escape para a atmosfera. Essa umidade cai na forma de neve.</p><p class=\"apoio\">Logo depois de chegar a essa região, certa espécie de pingüins precisa de solos nus para construir seus ninhos de pedregulhos. Se a neve não derrete a tempo, eles põem seus ovos sobre ela. Quando a neve finalmente derrete, os ovos se encharcam de água e goram.</p><p class=\"fonte\"><em>Scientific American Brasil</em>, ano 2, n.º 21, 2004, p. 80 (com adaptações).</p><p>A partir do texto acima, analise as seguintes afirmativas.</p><ol type=\"I\"><li>O aumento da temperatura global interfere no ciclo da água na península antártica.</li><li>O aquecimento global pode interferir no ciclo de vida de espécies típicas de região de clima polar.</li><li>A existência de água em estado sólido constitui fator crucial para a manutenção da vida em alguns biomas.</li></ol><p>É correto o que se afirma</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "apenas em I.",
+    "B": "apenas em II.",
+    "C": "apenas em I e II.",
+    "D": "apenas em II e III.",
+    "E": "em I, II e III."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>I: o aquecimento derrete o gelo marinho e aumenta a neve, alterando o ciclo da água. II: os pinguins põem ovos na neve e eles goram, afetando seu ciclo de vida. III: o gelo, a água sólida, é essencial para a vida nesses biomas polares. As três estão corretas. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aquecimento global",
+    "ciclo da água"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p class=\"apoio\">Devido ao aquecimento global e à conseqüente diminuição da cobertura de gelo no Ártico, aumenta a distância que os ursos polares precisam nadar para encontrar alimentos. Apesar de exímios nadadores, eles acabam morrendo afogados devido ao cansaço.</p><p>A situação descrita acima</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "enfoca o problema da interrupção da cadeia alimentar, o qual decorre das variações climáticas.",
+    "B": "alerta para prejuízos que o aquecimento global pode acarretar à biodiversidade no Ártico.",
+    "C": "ressalta que o aumento da temperatura decorrente de mudanças climáticas permite o surgimento de novas espécies.",
+    "D": "mostra a importância das características das zonas frias para a manutenção de outros biomas na Terra.",
+    "E": "evidencia a autonomia dos seres vivos em relação ao habitat, visto que eles se adaptam rapidamente às mudanças nas condições climáticas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os ursos polares morrem afogados porque o gelo diminuiu: o aquecimento global ameaça espécies do Ártico e, com elas, a biodiversidade da região. Alternativa <strong>B</strong>.</p><p>O texto não fala em novas espécies (C) e mostra justamente que os animais não se adaptam rápido (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biodiversidade",
+    "aquecimento global"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Física",
+   "assunto": "Clima",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p>O gráfico abaixo ilustra o resultado de um estudo sobre o aquecimento global. A curva mais escura e contínua representa o resultado de um cálculo em que se considerou a soma de cinco fatores que influenciaram a temperatura média global de 1900 a 1990, conforme mostrado na legenda do gráfico. A contribuição efetiva de cada um desses cinco fatores isoladamente é mostrada na parte inferior do gráfico.</p>[[fig:1]]<p class=\"fonte\">Internet: &lt;solar-center.stanford.edu&gt;.</p><p>Os dados apresentados revelam que, de 1960 a 1990, contribuíram de forma efetiva e positiva para aumentar a temperatura atmosférica:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q42.webp",
+     "alt": "Gráfico de 1900 a 1990: em cima, a variação total da temperatura calculada, que sobe sobretudo depois de 1970; embaixo, a contribuição de cinco fatores — gases estufa, atividade solar e ozônio com contribuição positiva crescente no fim do período; aerossóis e atividade vulcânica com contribuição negativa."
+    }
+   ],
+   "alternativas": {
+    "A": "aerossóis, atividade solar e atividade vulcânica.",
+    "B": "atividade vulcânica, ozônio e gases estufa.",
+    "C": "aerossóis, atividade solar e gases estufa.",
+    "D": "aerossóis, atividade vulcânica e ozônio.",
+    "E": "atividade solar, gases estufa e ozônio."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No gráfico, de 1960 a 1990, as curvas que sobem acima de zero (contribuição positiva para o aquecimento) são as dos gases estufa, do ozônio e da atividade solar. Aerossóis e atividade vulcânica contribuem para o resfriamento. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "efeito estufa",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\">O uso mais popular de energia solar está associado ao fornecimento de água quente para fins domésticos. Na figura ao lado, é ilustrado um aquecedor de água constituído de dois tanques pretos dentro de uma caixa termicamente isolada e com cobertura de vidro, os quais absorvem energia solar.</p><p class=\"fonte\">A. Hinrichs e M. Kleinbach. <em>Energia e meio ambiente</em>. São Paulo: Thompson, 3.ª ed., 2004, p. 529 (com adaptações).</p><p>Nesse sistema de aquecimento,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q43.webp",
+     "alt": "Aquecedor solar: caixa inclinada com vidraças duplas, dois tanques pintados de preto e camada refletiva no fundo; a água fria entra embaixo, pelo ponto X, e a água quente sai em cima, pelo ponto Y."
+    }
+   ],
+   "alternativas": {
+    "A": "os tanques, por serem de cor preta, são maus absorvedores de calor e reduzem as perdas de energia.",
+    "B": "a cobertura de vidro deixa passar a energia luminosa e reduz a perda de energia térmica utilizada para o aquecimento.",
+    "C": "a água circula devido à variação de energia luminosa existente entre os pontos X e Y.",
+    "D": "a camada refletiva tem como função armazenar energia luminosa.",
+    "E": "o vidro, por ser bom condutor de calor, permite que se mantenha constante a temperatura no interior da caixa."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O vidro é transparente à luz visível, que entra e aquece os tanques pretos; o calor emitido por eles (infravermelho) atravessa mal o vidro e fica preso, como numa estufa. Alternativa <strong>B</strong>.</p><p>Superfícies pretas são ótimas absorvedoras (A), e a água circula por diferença de temperatura e densidade, não de energia luminosa (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "efeito estufa",
+    "aquecedor solar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Física",
+   "assunto": "Ondas eletromagnéticas",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>Explosões solares emitem radiações eletromagnéticas muito intensas e ejetam, para o espaço, partículas carregadas de alta energia, o que provoca efeitos danosos na Terra. O gráfico abaixo mostra o tempo transcorrido desde a primeira detecção de uma explosão solar até a chegada dos diferentes tipos de perturbação e seus respectivos efeitos na Terra.</p>[[fig:1]]<p class=\"fonte\">Internet: &lt;www.sec.noaa.gov&gt; (com adaptações).</p><p>Considerando-se o gráfico, é correto afirmar que a perturbação por ondas de rádio geradas em uma explosão solar</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q44.webp",
+     "alt": "Gráfico “Escala de tempo das perturbações solares e seus efeitos”, em escala de 1 minuto a 10 dias: raios X (primeiras alterações na ionosfera) e ondas de rádio (interferência de rádio) chegam em minutos, com a de rádio durando mais; partículas de alta energia (alteração na ionosfera polar) chegam em cerca de 1 hora e duram dias; o plasma solar (tempestade magnética) chega em 1 a 2 dias."
+    }
+   ],
+   "alternativas": {
+    "A": "dura mais que uma tempestade magnética.",
+    "B": "chega à Terra dez dias antes do plasma solar.",
+    "C": "chega à Terra depois da perturbação por raios X.",
+    "D": "tem duração maior que a da perturbação por raios X.",
+    "E": "tem duração semelhante à da chegada à Terra de partículas de alta energia."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No gráfico, a perturbação por ondas de rádio começa logo após a explosão e dura mais que a de raios X, cuja barra é mais curta. Alternativa <strong>D</strong>.</p><p>Raios X e ondas de rádio viajam à velocidade da luz e chegam juntos (C); a tempestade magnética dura mais que a perturbação de rádio (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ondas eletromagnéticas",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Saúde",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p class=\"apoio\">A pele humana é sensível à radiação solar, e essa sensibilidade depende das características da pele. Os filtros solares são produtos que podem ser aplicados sobre a pele para protegê-la da radiação solar. A eficácia dos filtros solares é definida pelo fator de proteção solar (FPS), que indica quantas vezes o tempo de exposição ao sol, sem o risco de vermelhidão, pode ser aumentado com o uso do protetor solar. A tabela seguinte reúne informações encontradas em rótulos de filtros solares.</p><table class=\"tabela\"><thead><tr><th>sensibilidade</th><th>tipo de pele e outras características</th><th>proteção recomendada</th><th>FPS recomendado</th><th>proteção a queimaduras</th></tr></thead><tbody><tr><td>extremamente sensível</td><td>branca, olhos e cabelos claros</td><td>muito alta</td><td>FPS ≥ 20</td><td>muito alta</td></tr><tr><td>muito sensível</td><td>branca, olhos e cabelos próximos do claro</td><td>alta</td><td>12 ≤ FPS &lt; 20</td><td>alta</td></tr><tr><td>sensível</td><td>morena ou amarela</td><td>moderada</td><td>6 ≤ FPS &lt; 12</td><td>moderada</td></tr><tr><td>pouco sensível</td><td>negra</td><td>baixa</td><td>2 ≤ FPS &lt; 6</td><td>baixa</td></tr></tbody></table><p class=\"fonte\"><em>ProTeste</em>, ano V, n.o 55, fev./2007 (com adaptações).</p><p>As informações acima permitem afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as pessoas de pele muito sensível, ao usarem filtro solar, estarão isentas do risco de queimaduras.",
+    "B": "o uso de filtro solar é recomendado para todos os tipos de pele exposta à radiação solar.",
+    "C": "as pessoas de pele sensível devem expor-se 6 minutos ao sol antes de aplicarem o filtro solar.",
+    "D": "pessoas de pele amarela, usando ou não filtro solar, devem expor-se ao sol por menos tempo que pessoas de pele morena.",
+    "E": "o período recomendado para que pessoas de pele negra se exponham ao sol é de 2 a 6 horas diárias."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A tabela recomenda filtro para todos os tipos de pele, até para a pele negra (FPS de 2 a 6). Alternativa <strong>B</strong>.</p><p>O filtro reduz, mas não elimina o risco (A); os números da tabela são fatores de proteção, não minutos ou horas de exposição (C, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "filtro solar",
+    "leitura de tabela"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 46,
+   "materia": "Biologia",
+   "assunto": "Saúde",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\">A pele humana é sensível à radiação solar, e essa sensibilidade depende das características da pele. Os filtros solares são produtos que podem ser aplicados sobre a pele para protegê-la da radiação solar. A eficácia dos filtros solares é definida pelo fator de proteção solar (FPS), que indica quantas vezes o tempo de exposição ao sol, sem o risco de vermelhidão, pode ser aumentado com o uso do protetor solar. A tabela seguinte reúne informações encontradas em rótulos de filtros solares.</p><table class=\"tabela\"><thead><tr><th>sensibilidade</th><th>tipo de pele e outras características</th><th>proteção recomendada</th><th>FPS recomendado</th><th>proteção a queimaduras</th></tr></thead><tbody><tr><td>extremamente sensível</td><td>branca, olhos e cabelos claros</td><td>muito alta</td><td>FPS ≥ 20</td><td>muito alta</td></tr><tr><td>muito sensível</td><td>branca, olhos e cabelos próximos do claro</td><td>alta</td><td>12 ≤ FPS &lt; 20</td><td>alta</td></tr><tr><td>sensível</td><td>morena ou amarela</td><td>moderada</td><td>6 ≤ FPS &lt; 12</td><td>moderada</td></tr><tr><td>pouco sensível</td><td>negra</td><td>baixa</td><td>2 ≤ FPS &lt; 6</td><td>baixa</td></tr></tbody></table><p class=\"fonte\"><em>ProTeste</em>, ano V, n.o 55, fev./2007 (com adaptações).</p><p>Uma família de europeus escolheu as praias do Nordeste para uma temporada de férias. Fazem parte da família um garoto de 4 anos de idade, que se recupera de icterícia, e um bebê de 1 ano de idade, ambos loiros de olhos azuis. Os pais concordam que os meninos devem usar chapéu durante os passeios na praia. Entretanto, divergem quanto ao uso do filtro solar. Na opinião do pai, o bebê deve usar filtro solar com FPS ≥ 20 e o seu irmão não deve usar filtro algum porque precisa tomar sol para se fortalecer. A mãe opina que os dois meninos devem usar filtro solar com FPS ≥ 20.</p><p>Na situação apresentada, comparada à opinião da mãe, a opinião do pai é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "correta, porque ele sugere que a família use chapéu durante todo o passeio na praia.",
+    "B": "correta, porque o bebê loiro de olhos azuis tem a pele mais sensível que a de seu irmão.",
+    "C": "correta, porque o filtro solar com FPS ≥ 20 bloqueia o efeito benéfico do sol na recuperação da icterícia.",
+    "D": "incorreta, porque o uso do filtro solar com FPS ≥ 20, com eficiência moderada, evita queimaduras na pele.",
+    "E": "incorreta, porque é recomendado que pessoas com olhos e cabelos claros usem filtro solar com FPS ≥ 20."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os dois meninos são loiros de olhos azuis, ou seja, de pele extremamente sensível; a tabela recomenda FPS ≥ 20 para pessoas de olhos e cabelos claros, sem exceção para quem se recupera de icterícia. A mãe está certa e o pai, errado. Alternativa <strong>E</strong>.</p><p>FPS ≥ 20 dá proteção muito alta, não moderada (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "filtro solar",
+    "interpretação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 47,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">Quanto mais desenvolvida é uma nação, mais lixo cada um de seus habitantes produz. Além de o progresso elevar o volume de lixo, ele também modifica a qualidade do material despejado. Quando a sociedade progride, ela troca a televisão, o computador, compra mais brinquedos e aparelhos eletrônicos. Calcula-se que 700 milhões de aparelhos celulares já foram jogados fora em todo o mundo. O novo lixo contém mais mercúrio, chumbo, alumínio e bário. Abandonado nos lixões, esse material se deteriora e vaza. As substâncias liberadas infiltram-se no solo e podem chegar aos lençóis freáticos ou a rios próximos, espalhando-se pela água.</p><p class=\"fonte\"><em>Anuário Gestão Ambiental 2007</em>, p. 47-8 (com adaptações).</p><p>A respeito da produção de lixo e de sua relação com o ambiente, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as substâncias químicas encontradas no lixo levam, freqüentemente, ao aumento da diversidade de espécies e, portanto, ao aumento da produtividade agrícola do solo.",
+    "B": "o tipo e a quantidade de lixo produzido pela sociedade independem de políticas de educação que proponham mudanças no padrão de consumo.",
+    "C": "a produção de lixo é inversamente proporcional ao nível de desenvolvimento econômico das sociedades.",
+    "D": "o desenvolvimento sustentável requer controle e monitoramento dos efeitos do lixo sobre espécies existentes em cursos d’água, solo e vegetação.",
+    "E": "o desenvolvimento tecnológico tem elevado a criação de produtos descartáveis, o que evita a geração de lixo e resíduos químicos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto mostra que o lixo eletrônico libera metais que contaminam solo e água. Um desenvolvimento sustentável exige controlar e monitorar esses efeitos sobre espécies de rios, solo e vegetação. Alternativa <strong>D</strong>.</p><p>O texto diz que a produção de lixo cresce com o desenvolvimento (C), e descartáveis aumentam o lixo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lixo eletrônico",
+    "desenvolvimento sustentável"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 48,
+   "materia": "Geografia",
+   "assunto": "Meio ambiente",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>Um poeta habitante da cidade de Poços de Caldas – MG assim externou o que estava acontecendo em sua cidade:</p>[[fig:1]]<p class=\"fonte\">Hugo Pontes. In: M.E.M. Helene. <em>A radioatividade e o lixo nuclear</em>. São Paulo: Scipione, 2002, p. 4.</p><p class=\"fonte\"><sup>1</sup>Torta II – lixo radioativo de aspecto pastoso.</p><p>A indignação que o poeta expressa no verso “Sentimentos mil: do povo, do poeta e do Brasil” está relacionada com</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q48.webp",
+     "alt": "Poema de Hugo Pontes sobre Poços de Caldas: diz que o planalto não serve mais porque o minério acabou e só restou a mancha, e que estão tapando os buracos com lixo radioativo trazido de fora, que ninguém gostaria de ver jogado no próprio quintal; termina falando dos sentimentos do povo, do poeta e do Brasil."
+    }
+   ],
+   "alternativas": {
+    "A": "a extinção do minério decorrente das medidas adotadas pela metrópole portuguesa para explorar as riquezas minerais, especialmente em Minas Gerais.",
+    "B": "a decisão tomada pelo governo brasileiro de receber o lixo tóxico oriundo de países do Cone Sul, o que caracteriza o chamado comércio internacional do lixo.",
+    "C": "a atitude de moradores que residem em casas próximas umas das outras, quando um deles joga lixo no quintal do vizinho.",
+    "D": "as chamadas operações tapa-buracos, desencadeadas com o objetivo de resolver problemas de manutenção das estradas que ligam as cidades mineiras.",
+    "E": "os problemas ambientais que podem ser causados quando se escolhe um local para enterrar ou depositar lixo tóxico."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O poema fala do minério esgotado e do lixo radioativo (“Torta II”) trazido para Poços de Caldas para “tapar os buracos”, um lixo que ninguém quer perto de casa. A indignação é com os problemas ambientais de escolher um local para depositar lixo tóxico. Alternativa <strong>E</strong>.</p><p>“Lixo do vizinho” é metáfora, não briga entre moradores (C), e “tapando os buracos” se refere às minas, não às estradas (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lixo radioativo",
+    "poesia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 49,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p class=\"apoio\">Os gráficos abaixo, extraídos do sítio eletrônico do IBGE, apresentam a distribuição da população brasileira por sexo e faixa etária no ano de 1990 e projeções dessa população para 2010 e 2030.</p><p class=\"apoio\"><strong>Pirâmide etária absoluta – 1990</strong></p>[[fig:1]]<p class=\"apoio\"><strong>Pirâmide etária absoluta – 2010</strong></p>[[fig:2]]<p class=\"apoio\"><strong>Pirâmide etária absoluta – 2030</strong></p>[[fig:3]]<p>A partir da comparação da pirâmide etária relativa a 1990 com as projeções para 2030 e considerando-se os processos de formação socioeconômica da população brasileira, é correto afirmar que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q49a.webp",
+     "alt": "Pirâmide etária do Brasil em 1990, por faixas de idade de 0 a 80 anos, homens à esquerda e mulheres à direita (escala até 2.000.000 de pessoas por idade): base larga e topo estreito, formato triangular de população jovem."
+    },
+    {
+     "src": "assets/img/enem-2007/q49b.webp",
+     "alt": "Pirâmide etária projetada para 2010: base mais estreita que em 1990 e meio mais largo, com mais adultos."
+    },
+    {
+     "src": "assets/img/enem-2007/q49c.webp",
+     "alt": "Pirâmide etária projetada para 2030: base estreita, corpo largo até cerca de 60 anos e topo mais cheio, indicando envelhecimento da população."
+    }
+   ],
+   "alternativas": {
+    "A": "a expectativa de vida do brasileiro tende a aumentar na medida em que melhoram as condições de vida da população.",
+    "B": "a população do país tende a diminuir na medida em que a taxa de mortalidade diminui.",
+    "C": "a taxa de mortalidade infantil tende a aumentar na medida em que aumenta o índice de desenvolvimento humano.",
+    "D": "a necessidade de investimentos no setor de saúde tende a diminuir na medida em que aumenta a população idosa.",
+    "E": "o nível de instrução da população tende a diminuir na medida em que diminui a população."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As pirâmides mostram base cada vez mais estreita (menos nascimentos) e topo mais largo (mais idosos). Isso acompanha a melhoria das condições de vida, que aumenta a expectativa de vida. Alternativa <strong>A</strong>.</p><p>Mais idosos exigem mais investimento em saúde, não menos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pirâmide etária",
+    "envelhecimento"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 50,
+   "materia": "Geografia",
+   "assunto": "População",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"apoio\">Os gráficos abaixo, extraídos do sítio eletrônico do IBGE, apresentam a distribuição da população brasileira por sexo e faixa etária no ano de 1990 e projeções dessa população para 2010 e 2030.</p><p class=\"apoio\"><strong>Pirâmide etária absoluta – 1990</strong></p>[[fig:1]]<p class=\"apoio\"><strong>Pirâmide etária absoluta – 2010</strong></p>[[fig:2]]<p class=\"apoio\"><strong>Pirâmide etária absoluta – 2030</strong></p>[[fig:3]]<p>Se for confirmada a tendência apresentada nos gráficos relativos à pirâmide etária, em 2050,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q49a.webp",
+     "alt": "Pirâmide etária do Brasil em 1990, por faixas de idade de 0 a 80 anos, homens à esquerda e mulheres à direita (escala até 2.000.000 de pessoas por idade): base larga e topo estreito, formato triangular de população jovem."
+    },
+    {
+     "src": "assets/img/enem-2007/q49b.webp",
+     "alt": "Pirâmide etária projetada para 2010: base mais estreita que em 1990 e meio mais largo, com mais adultos."
+    },
+    {
+     "src": "assets/img/enem-2007/q49c.webp",
+     "alt": "Pirâmide etária projetada para 2030: base estreita, corpo largo até cerca de 60 anos e topo mais cheio, indicando envelhecimento da população."
+    }
+   ],
+   "alternativas": {
+    "A": "a população brasileira com 80 anos de idade será composta por mais homens que mulheres.",
+    "B": "a maioria da população brasileira terá menos de 25 anos de idade.",
+    "C": "a população brasileira do sexo feminino será inferior a 2 milhões.",
+    "D": "a população brasileira com mais de 40 anos de idade será maior que em 2030.",
+    "E": "a população brasileira será inferior à população de 2010."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>De 1990 para 2030, as faixas de idade mais altas se alargam a cada projeção. Mantida a tendência, em 2050 haverá ainda mais gente acima de 40 anos do que em 2030. Alternativa <strong>D</strong>.</p><p>As mulheres vivem mais que os homens (A), e a base jovem encolhe (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pirâmide etária",
+    "projeção"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 51,
+   "materia": "Matemática",
+   "assunto": "Estimativa",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\">Os gráficos abaixo, extraídos do sítio eletrônico do IBGE, apresentam a distribuição da população brasileira por sexo e faixa etária no ano de 1990 e projeções dessa população para 2010 e 2030.</p><p class=\"apoio\"><strong>Pirâmide etária absoluta – 1990</strong></p>[[fig:1]]<p class=\"apoio\"><strong>Pirâmide etária absoluta – 2010</strong></p>[[fig:2]]<p class=\"apoio\"><strong>Pirâmide etária absoluta – 2030</strong></p>[[fig:3]]<p>Se forem confirmadas as projeções apresentadas, a população brasileira com até 80 anos de idade será, em 2030,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q49a.webp",
+     "alt": "Pirâmide etária do Brasil em 1990, por faixas de idade de 0 a 80 anos, homens à esquerda e mulheres à direita (escala até 2.000.000 de pessoas por idade): base larga e topo estreito, formato triangular de população jovem."
+    },
+    {
+     "src": "assets/img/enem-2007/q49b.webp",
+     "alt": "Pirâmide etária projetada para 2010: base mais estreita que em 1990 e meio mais largo, com mais adultos."
+    },
+    {
+     "src": "assets/img/enem-2007/q49c.webp",
+     "alt": "Pirâmide etária projetada para 2030: base estreita, corpo largo até cerca de 60 anos e topo mais cheio, indicando envelhecimento da população."
+    }
+   ],
+   "alternativas": {
+    "A": "menor que 170 milhões de habitantes.",
+    "B": "maior que 170 milhões e menor que 210 milhões de habitantes.",
+    "C": "maior que 210 milhões e menor que 290 milhões de habitantes.",
+    "D": "maior que 290 milhões e menor que 370 milhões de habitantes.",
+    "E": "maior que 370 milhões de habitantes."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na pirâmide de 2030, cada faixa de idade tem em torno de 1,5 a 1,8 milhão de homens e o mesmo de mulheres, cerca de 3 milhões de pessoas por idade. Somando 81 idades (0 a 80) e considerando o topo mais estreito, o total fica perto de 230 a 240 milhões, entre 210 e 290 milhões. Alternativa <strong>C</strong>.</p><p>A leitura das barras é aproximada, mas as faixas das alternativas são largas: qualquer leitura razoável da pirâmide fica entre 210 e 290 milhões.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estimativa",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 52,
+   "materia": "Biologia",
+   "assunto": "Paleontologia",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\">Uma equipe de paleontólogos descobriu um rastro de dinossauro carnívoro e nadador, no norte da Espanha.</p><p class=\"apoio\">O rastro completo tem comprimento igual a 15 metros e consiste de vários pares simétricos de duas marcas de três arranhões cada uma, conservadas em arenito.</p><p class=\"apoio\">O espaço entre duas marcas consecutivas mostra uma pernada de 2,5 metros. O rastro difere do de um dinossauro não-nadador: “são as unhas que penetram no barro — e não a pisada —, o que demonstra que o animal estava nadando sobre a água: só tocava o solo com as unhas, não pisava”, afirmam os paleontólogos.</p><p class=\"fonte\">Internet: &lt;www.noticias.uol.com.br&gt; (com adaptações).</p><p>Qual dos seguintes fragmentos do texto, considerado isoladamente, é variável relevante para se estimar o tamanho do dinossauro nadador mencionado?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q52.webp",
+     "alt": "Fotografia de marcas de arranhões de dinossauro conservadas em rocha."
+    }
+   ],
+   "alternativas": {
+    "A": "“O rastro completo tem 15 metros de comprimento”",
+    "B": "“O espaço entre duas marcas consecutivas mostra uma pernada de 2,5 metros”",
+    "C": "“O rastro difere do de um dinossauro não-nadador”",
+    "D": "“são as unhas que penetram no barro — e não a pisada”",
+    "E": "“o animal estava nadando sobre a água: só tocava o solo com as unhas”"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A distância entre duas marcas consecutivas (a pernada de 2,5 m) depende do comprimento das pernas e, portanto, do tamanho do animal. O comprimento total do rastro (A) depende só de quanto ele andou. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporção",
+    "fósseis"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 53,
+   "materia": "História",
+   "assunto": "Pré-história",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Pintura rupestre da Toca do Pajaú – PI. Internet: &lt;www.betocelli.com&gt;.</p><p>A pintura rupestre acima, que é um patrimônio cultural brasileiro, expressa</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q53.webp",
+     "alt": "Pintura rupestre em rocha, com figuras de pessoas e de animais."
+    }
+   ],
+   "alternativas": {
+    "A": "o conflito entre os povos indígenas e os europeus durante o processo de colonização do Brasil.",
+    "B": "a organização social e política de um povo indígena e a hierarquia entre seus membros.",
+    "C": "aspectos da vida cotidiana de grupos que viveram durante a chamada pré-história do Brasil.",
+    "D": "os rituais que envolvem sacrifícios de grandes dinossauros atualmente extintos.",
+    "E": "a constante guerra entre diferentes grupos paleoíndios da América durante o período colonial."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pinturas rupestres, como as da Toca do Pajaú (PI), foram feitas por grupos que viveram antes da chegada dos europeus e retratam cenas do cotidiano, como caça e danças. Alternativa <strong>C</strong>.</p><p>Elas são anteriores à colonização (A, E), e os dinossauros se extinguiram milhões de anos antes dos humanos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "arte rupestre",
+    "pré-história brasileira"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 54,
+   "materia": "Biologia",
+   "assunto": "Biologia geral",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p>Fenômenos biológicos podem ocorrer em diferentes escalas de tempo. Assinale a opção que ordena exemplos de fenômenos biológicos, do mais lento para o mais rápido.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "germinação de uma semente, crescimento de uma árvore, fossilização de uma samambaia",
+    "B": "fossilização de uma samambaia, crescimento de uma árvore, germinação de uma semente",
+    "C": "crescimento de uma árvore, germinação de uma semente, fossilização de uma samambaia",
+    "D": "fossilização de uma samambaia, germinação de uma semente, crescimento de uma árvore",
+    "E": "germinação de uma semente, fossilização de uma samambaia, crescimento de uma árvore"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A fossilização leva milhares a milhões de anos; o crescimento de uma árvore, anos ou décadas; a germinação de uma semente, dias. Do mais lento ao mais rápido: fossilização, crescimento, germinação. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escalas de tempo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 55,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p>As mudanças evolutivas dos organismos resultam de alguns processos comuns à maioria dos seres vivos. É um processo evolutivo comum a plantas e animais vertebrados:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "movimento de indivíduos ou de material genético entre populações, o que reduz a diversidade de genes e cromossomos.",
+    "B": "sobrevivência de indivíduos portadores de determinadas características genéticas em ambientes específicos.",
+    "C": "aparecimento, por geração espontânea, de novos indivíduos adaptados ao ambiente.",
+    "D": "aquisição de características genéticas transmitidas aos descendentes em resposta a mudanças ambientais.",
+    "E": "recombinação de genes presentes em cromossomos do mesmo tipo durante a fase da esporulação."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A seleção natural, a sobrevivência de indivíduos com características genéticas favoráveis num ambiente, age sobre plantas e animais. Alternativa <strong>B</strong>.</p><p>O fluxo gênico aumenta a diversidade, não reduz (A); geração espontânea e herança de caracteres adquiridos foram descartadas (C, D); esporulação não ocorre em vertebrados (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "seleção natural"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 56,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p class=\"apoio\">Todas as reações químicas de um ser vivo seguem um programa operado por uma central de informações. A meta desse programa é a auto-replicação de todos os componentes do sistema, incluindo-se a duplicação do próprio programa ou mais precisamente do material no qual o programa está inscrito. Cada reprodução pode estar associada a pequenas modificações do programa.</p><p class=\"fonte\">M. O. Murphy e l. O’neill (Orgs.). <em>O que é vida? 50 anos depois — especulações sobre o futuro da biologia</em>. São Paulo: UNESP. 1997 (com adaptações).</p><p>São indispensáveis à execução do “programa” mencionado acima processos relacionados a metabolismo, auto-replicação e mutação, que podem ser exemplificados, respectivamente, por:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fotossíntese, respiração e alterações na seqüência de bases nitrogenadas do código genético.",
+    "B": "duplicação do RNA, pareamento de bases nitrogenadas e digestão de constituintes dos alimentos.",
+    "C": "excreção de compostos nitrogenados, respiração celular e digestão de constituintes dos alimentos.",
+    "D": "respiração celular, duplicação do DNA e alterações na seqüência de bases nitrogenadas do código genético.",
+    "E": "fotossíntese, duplicação do DNA e excreção de compostos nitrogenados."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Metabolismo: respiração celular (reações que liberam energia). Autorreplicação: duplicação do DNA, o “material onde o programa está inscrito”. Mutação: alterações na sequência de bases do DNA. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "DNA",
+    "metabolismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 57,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\"><em>Istoé</em>, n.o 1.864, set./2005, p. 69 (com adaptações).</p><p>Com o projeto de mochila ilustrado acima, pretende-se aproveitar, na geração de energia elétrica para acionar dispositivos eletrônicos portáteis, parte da energia desperdiçada no ato de caminhar. As transformações de energia envolvidas na produção de eletricidade enquanto uma pessoa caminha com essa mochila podem ser assim esquematizadas:</p>[[fig:2]]<p>As energias I e II, representadas no esquema acima, podem ser identificadas, respectivamente, como</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q57a.webp",
+     "alt": "Infográfico “Mochila geradora de energia”: a mochila tem estrutura rígida e compartimento de carga suspenso por molas; ao caminhar, os quadris sobem e descem cerca de cinco centímetros, e o vai-e-vem do compartimento faz girar um motor conectado ao gerador de eletricidade."
+    },
+    {
+     "src": "assets/img/enem-2007/q57b.webp",
+     "alt": "Esquema “Movimento da mochila”: energia potencial ⇄ energia I → energia II."
+    }
+   ],
+   "alternativas": {
+    "A": "cinética e elétrica.",
+    "B": "térmica e cinética.",
+    "C": "térmica e elétrica.",
+    "D": "sonora e térmica.",
+    "E": "radiante e elétrica."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O sobe-e-desce do compartimento de carga (movimento, energia cinética) faz girar o motor ligado ao gerador, que produz energia elétrica. No esquema: energia potencial → I (cinética) → II (elétrica). Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transformação de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 58,
+   "materia": "Química",
+   "assunto": "Combustíveis",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p class=\"apoio\">As pressões ambientais pela redução na emissão de gás estufa, somadas ao anseio pela diminuição da dependência do petróleo, fizeram os olhos do mundo se voltarem para os combustíveis renováveis, principalmente para o etanol. Líderes na produção e no consumo de etanol, Brasil e Estados Unidos da América (EUA) produziram, juntos, cerca de 35 bilhões de litros do produto em 2006. Os EUA utilizam o milho como matéria-prima para a produção desse álcool, ao passo que o Brasil utiliza a cana-de-açúcar. O quadro abaixo apresenta alguns índices relativos ao processo de obtenção de álcool nesses dois países.</p><table class=\"tabela\"><thead><tr><th></th><th>cana</th><th>milho</th></tr></thead><tbody><tr><td>produção de etanol</td><td>8 mil litros/ha</td><td>3 mil litros/ha</td></tr><tr><td>gasto de energia fóssil para produzir 1 litro de álcool</td><td>1.600 kcal</td><td>6.600 kcal</td></tr><tr><td>balanço energético</td><td>positivo: gasta-se 1 caloria de combustível fóssil para a produção de 3,24 calorias de etanol</td><td>negativo: gasta-se 1 caloria de combustível fóssil para a produção de 0,77 caloria de etanol</td></tr><tr><td>custo de produção/litro</td><td>US$ 0,28</td><td>US$ 0,45</td></tr><tr><td>preço de venda/litro</td><td>US$ 0,42</td><td>US$ 0,92</td></tr></tbody></table><p class=\"fonte\"><em>Globo Rural</em>, jun./2007 (com adaptações).</p><p>Se comparado com o uso do milho como matéria-prima na obtenção do etanol, o uso da cana-de-açúcar é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "mais eficiente, pois a produtividade do canavial é maior que a do milharal, superando-a em mais do dobro de litros de álcool produzido por hectare.",
+    "B": "mais eficiente, pois gasta-se menos energia fóssil para se produzir 1 litro de álcool a partir do milho do que para produzi-lo a partir da cana.",
+    "C": "igualmente eficiente, pois, nas duas situações, as diferenças entre o preço de venda do litro do álcool e o custo de sua produção se equiparam.",
+    "D": "menos eficiente, pois o balanço energético para se produzir o etanol a partir da cana é menor que o balanço energético para produzi-lo a partir do milho.",
+    "E": "menos eficiente, pois o custo de produção do litro de álcool a partir da cana é menor que o custo de produção a partir do milho."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A cana produz 8 mil litros de etanol por hectare, contra 3 mil do milho: mais do dobro. Por isso é mais eficiente. Alternativa <strong>A</strong>.</p><p>A justificativa de B inverte os dados: o milho gasta mais energia fóssil (6.600 kcal contra 1.600).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "etanol",
+    "eficiência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 59,
+   "materia": "Química",
+   "assunto": "Combustíveis",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p class=\"apoio\">As pressões ambientais pela redução na emissão de gás estufa, somadas ao anseio pela diminuição da dependência do petróleo, fizeram os olhos do mundo se voltarem para os combustíveis renováveis, principalmente para o etanol. Líderes na produção e no consumo de etanol, Brasil e Estados Unidos da América (EUA) produziram, juntos, cerca de 35 bilhões de litros do produto em 2006. Os EUA utilizam o milho como matéria-prima para a produção desse álcool, ao passo que o Brasil utiliza a cana-de-açúcar. O quadro abaixo apresenta alguns índices relativos ao processo de obtenção de álcool nesses dois países.</p><table class=\"tabela\"><thead><tr><th></th><th>cana</th><th>milho</th></tr></thead><tbody><tr><td>produção de etanol</td><td>8 mil litros/ha</td><td>3 mil litros/ha</td></tr><tr><td>gasto de energia fóssil para produzir 1 litro de álcool</td><td>1.600 kcal</td><td>6.600 kcal</td></tr><tr><td>balanço energético</td><td>positivo: gasta-se 1 caloria de combustível fóssil para a produção de 3,24 calorias de etanol</td><td>negativo: gasta-se 1 caloria de combustível fóssil para a produção de 0,77 caloria de etanol</td></tr><tr><td>custo de produção/litro</td><td>US$ 0,28</td><td>US$ 0,45</td></tr><tr><td>preço de venda/litro</td><td>US$ 0,42</td><td>US$ 0,92</td></tr></tbody></table><p class=\"fonte\"><em>Globo Rural</em>, jun./2007 (com adaptações).</p><p>Considerando-se as informações do texto, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o cultivo de milho ou de cana-de-açúcar favorece o aumento da biodiversidade.",
+    "B": "o impacto ambiental da produção estadunidense de etanol é o mesmo da produção brasileira.",
+    "C": "a substituição da gasolina pelo etanol em veículos automotores pode atenuar a tendência atual de aumento do efeito estufa.",
+    "D": "a economia obtida com o uso de etanol como combustível, especialmente nos EUA, vem sendo utilizada para a conservação do meio ambiente.",
+    "E": "a utilização de milho e de cana-de-açúcar para a produção de combustíveis renováveis favorece a preservação das características originais do solo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O etanol vem de plantas que absorvem CO<sub>2</sub> ao crescer; trocar gasolina por etanol reduz o saldo de emissões e pode atenuar o aumento do efeito estufa, como diz o texto. Alternativa <strong>C</strong>.</p><p>Monoculturas reduzem a biodiversidade e alteram o solo (A, E), e os balanços energéticos mostram impactos diferentes (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "etanol",
+    "efeito estufa"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 60,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p>Qual das seguintes fontes de produção de energia é a mais recomendável para a diminuição dos gases causadores do aquecimento global?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Óleo diesel.",
+    "B": "Gasolina.",
+    "C": "Carvão mineral.",
+    "D": "Gás natural.",
+    "E": "Vento."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O vento (energia eólica) gera eletricidade sem queimar combustível e, portanto, sem emitir gases de efeito estufa. Óleo diesel, gasolina, carvão e gás natural são combustíveis fósseis que liberam CO<sub>2</sub>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia eólica",
+    "aquecimento global"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 61,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Figura I</p>[[fig:2]]<p class=\"fonte\">Figura II. Associação Brasileira de Defesa do Consumidor (com adaptações).</p><p>As figuras acima apresentam dados referentes aos consumos de energia elétrica e de água relativos a cinco máquinas industriais de lavar roupa comercializadas no Brasil. A máquina ideal, quanto a rendimento econômico e ambiental, é aquela que gasta, simultaneamente, menos energia e água. Com base nessas informações, conclui-se que, no conjunto pesquisado,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2007/q61a.webp",
+     "alt": "Figura I, consumo de energia (em kWh) das máquinas: I, 1,24; II, 0,94; III, 0,93; IV, 1,53; V, 1,83."
+    },
+    {
+     "src": "assets/img/enem-2007/q61b.webp",
+     "alt": "Figura II, consumo de água (em L): I, 76,38; II, 99,35; III, 109,31; IV, 215,80; V, 325,80."
+    }
+   ],
+   "alternativas": {
+    "A": "quanto mais uma máquina de lavar roupa economiza água, mais ela consome energia elétrica.",
+    "B": "a quantidade de energia elétrica consumida por uma máquina de lavar roupa é inversamente proporcional à quantidade de água consumida por ela.",
+    "C": "a máquina I é ideal, de acordo com a definição apresentada.",
+    "D": "a máquina que menos consome energia elétrica não é a que consome menos água.",
+    "E": "a máquina que mais consome energia elétrica não é a que consome mais água."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A máquina que menos gasta energia é a II (0,93 kWh), mas a que menos gasta água é a I (76,38 L). Logo, a máquina que menos consome energia não é a que consome menos água. Alternativa <strong>D</strong>.</p><p>A máquina V é a que mais gasta energia e também a que mais gasta água (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "consumo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 62,
+   "materia": "Química",
+   "assunto": "Água",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p>De acordo com a legislação brasileira, são tipos de água engarrafada que podem ser vendidos no comércio para o consumo humano:</p><ul><li>água mineral: água que, proveniente de fontes naturais ou captada artificialmente, possui composição química ou propriedades físicas ou físico-químicas específicas, com características que lhe conferem ação medicamentosa;</li><li>água potável de mesa: água que, proveniente de fontes naturais ou captada artificialmente, possui características que a tornam adequada ao consumo humano;</li><li>água purificada adicionada de sais: água produzida artificialmente por meio da adição à água potável de sais de uso permitido, podendo ser gaseificada.</li></ul><p>Com base nessas informações, conclui-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "os três tipos de água descritos na legislação são potáveis.",
+    "B": "toda água engarrafada vendida no comércio é água mineral.",
+    "C": "água purificada adicionada de sais é um produto natural encontrado em algumas fontes específicas.",
+    "D": "a água potável de mesa é adequada para o consumo humano porque apresenta extensa flora bacteriana.",
+    "E": "a legislação brasileira reconhece que todos os tipos de água têm ação medicamentosa."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os três tipos são adequados ao consumo humano, ou seja, potáveis: a água mineral e a potável de mesa por definição, e a purificada é feita a partir de água potável. Alternativa <strong>A</strong>.</p><p>Só a água mineral tem ação medicamentosa (E), e a purificada é produzida artificialmente (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "água potável",
+    "interpretação de texto"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 63,
+   "materia": "Geografia",
+   "assunto": "Recursos hídricos",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p>O artigo 1.º da Lei Federal n.º 9.433/1997 (Lei das Águas) estabelece, entre outros, os seguintes fundamentos:</p><ol type=\"I\"><li>a água é um bem de domínio público;</li><li>a água é um recurso natural limitado, dotado de valor econômico;</li><li>em situações de escassez, os usos prioritários dos recursos hídricos são o consumo humano e a dessedentação de animais;</li><li>a gestão dos recursos hídricos deve sempre proporcionar o uso múltiplo das águas.</li></ol><p>Considere que um rio nasça em uma fazenda cuja única atividade produtiva seja a lavoura irrigada de milho e que a companhia de águas do município em que se encontra a fazenda colete água desse rio para abastecer a cidade. Considere, ainda, que, durante uma estiagem, o volume de água do rio tenha chegado ao nível crítico, tornando-se insuficiente para garantir o consumo humano e a atividade agrícola mencionada. Nessa situação, qual das medidas abaixo estaria de acordo com o artigo 1.º da Lei das Águas?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Manter a irrigação da lavoura, pois a água do rio pertence ao dono da fazenda.",
+    "B": "Interromper a irrigação da lavoura, para se garantir o abastecimento de água para consumo humano.",
+    "C": "Manter o fornecimento de água apenas para aqueles que pagam mais, já que a água é bem dotado de valor econômico.",
+    "D": "Manter o fornecimento de água tanto para a lavoura quanto para o consumo humano, até o esgotamento do rio.",
+    "E": "Interromper o fornecimento de água para a lavoura e para o consumo humano, a fim de que a água seja transferida para outros rios."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O fundamento III diz que, em situações de escassez, os usos prioritários são o consumo humano e a dessedentação de animais. Durante a estiagem, a irrigação deve ser interrompida para garantir o abastecimento da cidade. Alternativa <strong>B</strong>.</p><p>A água é bem público, não do dono da fazenda (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Lei das Águas",
+    "uso da água"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

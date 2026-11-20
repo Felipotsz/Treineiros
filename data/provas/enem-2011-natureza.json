@@ -1,0 +1,1227 @@
+{
+ "id": "enem-2011-natureza",
+ "banca": "Enem",
+ "ano": 2011,
+ "titulo": "Enem 2011: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2011-10-22",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\">Partículas suspensas em um fluido apresentam contínua movimentação aleatória, chamado movimento browniano, causado pelos choques das partículas que compõem o fluido. A ideia de um inventor era construir uma série de palhetas, montadas sobre um eixo, que seriam postas em movimento pela agitação das partículas ao seu redor. Como o movimento ocorreria igualmente em ambos os sentidos de rotação, o cientista concebeu um segundo elemento, um dente de engrenagem assimétrico. Assim, em escala muito pequena, este tipo de motor poderia executar trabalho, por exemplo, puxando um pequeno peso para cima. O esquema, que já foi testado, é mostrado a seguir.</p>[[fig:1]]<p class=\"fonte\">Peso Inovação Tecnológica. Disponível em: http://www.inovacaotecnologica.com.br. Acesso em: 22 jul. 2010 (adaptado).</p><p>A explicação para a necessidade do uso da engrenagem com trava é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q46.webp",
+     "alt": "Esquema de um eixo com palhetas numa ponta, uma engrenagem com dentes assimétricos na outra e uma polia no meio, da qual pende um peso."
+    }
+   ],
+   "alternativas": {
+    "A": "O travamento do motor, para que ele não se solte aleatoriamente.",
+    "B": "A seleção da velocidade, controlada pela pressão nos dentes da engrenagem.",
+    "C": "O controle do sentido da velocidade tangencial, permitindo, inclusive, uma fácil leitura do seu valor.",
+    "D": "A determinação do movimento, devido ao caráter aleatório, cuja tendência é o equilíbrio.",
+    "E": "A escolha do ângulo a ser girado, sendo possível, inclusive, medi-lo pelo número de dentes da engrenagem."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O movimento browniano é aleatório: as partículas empurram as palhetas tanto num sentido quanto no outro, e em média o eixo não giraria. A engrenagem com trava só deixa o eixo girar num sentido. Ela serve para <strong>a determinação do movimento, devido ao caráter aleatório, cuja tendência é o equilíbrio</strong>. Alternativa <strong>D</strong>.</p><p>A trava não controla a velocidade (B) nem mede ângulos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "movimento browniano",
+    "catraca"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">Os personagens da figura estão representando uma situação hipotética de cadeia alimentar.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://www.cienciasgaspar.blogspot.com.</p><p>Suponha que, em cena anterior à apresentada, o homem tenha se alimentado de frutas e grãos que conseguiu coletar. Na hipótese de, nas próximas cenas, o tigre ser bem-sucedido e, posteriormente, servir de alimento aos abutres, tigre e abutres ocuparão, respectivamente, os níveis tróficos de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q47.webp",
+     "alt": "Desenho em que um tigre-dentes-de-sabre pensa em comer um homem das cavernas, o homem pensa em caçar o tigre, e abutres empoleirados numa rocha pensam em comer os dois."
+    }
+   ],
+   "alternativas": {
+    "A": "produtor e consumidor primário.",
+    "B": "consumidor primário e consumidor secundário.",
+    "C": "consumidor secundário e consumidor terciário.",
+    "D": "consumidor terciário e produtor.",
+    "E": "consumidor secundário e consumidor primário."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O homem comeu frutas e grãos, então é consumidor primário. O tigre que comer o homem será consumidor secundário, e os abutres que comerem o tigre, consumidores terciários. A resposta é <strong>consumidor secundário e consumidor terciário</strong>. Alternativa <strong>C</strong>.</p><p>Os abutres comem carniça, mas aqui se alimentam do tigre, que já é consumidor secundário.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "níveis tróficos",
+    "cadeia alimentar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p class=\"apoio\">A produção de soro antiofídico é feita por meio da extração da peçonha de serpentes que, após tratamento, é introduzida em um cavalo. Em seguida são feitas sangrias para avaliar a concentração de anticorpos produzidos pelo cavalo. Quando essa concentração atinge o valor desejado, é realizada a sangria final para obtenção do soro. As hemácias são devolvidas ao animal, por meio de uma técnica denominada plasmaferese, a fim de reduzir os efeitos colaterais provocados pela sangria.</p><p class=\"fonte\">Disponível em: http://www.infobibos.com. Acesso em: 28 abr. 2010 (adaptado).</p><p>A plasmaferese é importante, pois, se o animal ficar com uma baixa quantidade de hemácias, poderá apresentar</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "febre alta e constante.",
+    "B": "redução de imunidade.",
+    "C": "aumento da pressão arterial.",
+    "D": "quadro de leucemia profunda.",
+    "E": "problemas no transporte de oxigênio."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As hemácias têm hemoglobina, que leva o oxigênio dos pulmões aos tecidos. Se o cavalo perdesse muitas hemácias nas sangrias, ficaria anêmico e teria <strong>problemas no transporte de oxigênio</strong>. Por isso elas são devolvidas pela plasmaferese. Alternativa <strong>E</strong>.</p><p>A imunidade (B) depende dos glóbulos brancos e dos anticorpos, e não das hemácias.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hemácias",
+    "soro antiofídico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>Um paciente deu entrada em um pronto-socorro apresentando os seguintes sintomas: cansaço, dificuldade em respirar e sangramento nasal. O médico solicitou um hemograma ao paciente para definir um diagnóstico. Os resultados estão dispostos na tabela:</p><table class=\"tabela\"><thead><tr><th>Constituinte</th><th>Número normal</th><th>Paciente</th></tr></thead><tbody><tr><td>Glóbulos vermelhos</td><td>4,8 milhões/mm<sup>3</sup></td><td>4 milhões/mm<sup>3</sup></td></tr><tr><td>Glóbulos brancos</td><td>(5 000 – 10 000)/mm<sup>3</sup></td><td>9 000/mm<sup>3</sup></td></tr><tr><td>Plaquetas</td><td>(250 000 – 400 000)/mm<sup>3</sup></td><td>200 000/mm<sup>3</sup></td></tr></tbody></table><p class=\"fonte\">TORTORA, G. J. <em>Corpo Humano: fundamentos de anatomia e fisiologia</em>. Porto Alegre: Artmed, 2000 (adaptado).</p><p>Relacionando os sintomas apresentados pelo paciente com os resultados de seu hemograma, constata-se que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o sangramento nasal é devido à baixa quantidade de plaquetas, que são responsáveis pela coagulação sanguínea.",
+    "B": "o cansaço ocorreu em função da quantidade de glóbulos brancos, que são responsáveis pela coagulação sanguínea.",
+    "C": "a dificuldade respiratória decorreu da baixa quantidade de glóbulos vermelhos, que são responsáveis pela defesa imunológica.",
+    "D": "o sangramento nasal é decorrente da baixa quantidade de glóbulos brancos, que são responsáveis pelo transporte de gases no sangue.",
+    "E": "a dificuldade respiratória ocorreu pela quantidade de plaquetas, que são responsáveis pelo transporte de oxigênio no sangue."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O paciente tem plaquetas abaixo do normal (200 000, contra 250 000 a 400 000). As plaquetas atuam na coagulação, por isso há sangramento nasal. Também tem menos glóbulos vermelhos, o que explica o cansaço. A afirmação correta é que <strong>o sangramento nasal é devido à baixa quantidade de plaquetas, que são responsáveis pela coagulação sanguínea</strong>. Alternativa <strong>A</strong>.</p><p>Os glóbulos brancos estão normais e cuidam da defesa (B e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hemograma",
+    "plaquetas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p>Um dos problemas dos combustíveis que contêm carbono é que sua queima produz dióxido de carbono. Portanto, uma característica importante, ao se escolher um combustível, é analisar seu calor de combustão (∆H<sub>c</sub>º), definido como a energia liberada na queima completa de um mol de combustível no estado padrão. O quadro seguinte relaciona algumas substâncias que contêm carbono e seu ∆H<sub>c</sub>º.</p><table class=\"tabela\"><thead><tr><th>Substância</th><th>Fórmula</th><th>∆H<sub>c</sub>º (kJ/mol)</th></tr></thead><tbody><tr><td>benzeno</td><td>C<sub>6</sub>H<sub>6</sub> (l)</td><td>−3 268</td></tr><tr><td>etanol</td><td>C<sub>2</sub>H<sub>5</sub>OH (l)</td><td>−1 368</td></tr><tr><td>glicose</td><td>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (s)</td><td>−2 808</td></tr><tr><td>metano</td><td>CH<sub>4</sub> (g)</td><td>−890</td></tr><tr><td>octano</td><td>C<sub>8</sub>H<sub>18</sub> (l)</td><td>−5 471</td></tr></tbody></table><p class=\"fonte\">ATKINS, P. <em>Princípios de Química</em>. Bookman, 2007 (adaptado).</p><p>Neste contexto, qual dos combustíveis, quando queimado completamente, libera mais dióxido de carbono no ambiente pela mesma quantidade de energia produzida?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Benzeno.",
+    "B": "Metano.",
+    "C": "Glicose.",
+    "D": "Octano.",
+    "E": "Etanol."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Divide-se o CO<sub>2</sub> liberado (número de carbonos) pela energia: benzeno 6/3 268 ≈ 1,84 × 10<sup>−3</sup>; etanol 2/1 368 ≈ 1,46 × 10<sup>−3</sup>; glicose 6/2 808 ≈ 2,14 × 10<sup>−3</sup>; metano 1/890 ≈ 1,12 × 10<sup>−3</sup>; octano 8/5 471 ≈ 1,46 × 10<sup>−3</sup> mol de CO<sub>2</sub> por kJ. A que mais libera é a <strong>glicose</strong>. Alternativa <strong>C</strong>.</p><p>O metano (B) é o que menos emite por energia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calor de combustão",
+    "CO2"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Questão ambiental",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p>Para evitar o desmatamento da Mata Atlântica nos arredores da cidade de Amargosa, no Recôncavo da Bahia, o Ibama tem atuado no sentido de fiscalizar, entre outras, as pequenas propriedades rurais que dependem da lenha proveniente das matas para a produção da farinha de mandioca, produto típico da região. Com isso, pequenos produtores procuram alternativas como o gás de cozinha, o que encarece a farinha.</p><p>Uma alternativa viável, em curto prazo, para os produtores de farinha em Amargosa, que não cause danos à Mata Atlântica nem encareça o produto é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "construção, nas pequenas propriedades, de grandes fornos elétricos para torrar a mandioca.",
+    "B": "plantação, em suas propriedades, de árvores para serem utilizadas na produção de lenha.",
+    "C": "permissão, por parte do Ibama, da exploração da Mata Atlântica apenas pelos pequenos produtores.",
+    "D": "construção de biodigestores, para a produção de gás combustível a partir de resíduos orgânicos da região.",
+    "E": "coleta de carvão de regiões mais distantes, onde existe menor intensidade de fiscalização do Ibama."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O biodigestor transforma restos orgânicos (cascas de mandioca, esterco) em biogás, um combustível barato produzido na própria região. É uma solução rápida que não usa lenha da mata nem encarece a farinha: <strong>construção de biodigestores, para a produção de gás combustível a partir de resíduos orgânicos da região</strong>. Alternativa <strong>D</strong>.</p><p>Plantar árvores (B) demora anos para dar lenha, e fornos elétricos grandes (A) são caros.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biogás",
+    "Mata Atlântica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Biologia",
+   "assunto": "Saúde e saneamento",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"apoio\">Belém é cercada por 39 ilhas, e suas populações convivem com ameaças de doenças. O motivo, apontado por especialistas, é a poluição da água do rio, principal fonte de sobrevivência dos ribeirinhos. A diarreia é frequente nas crianças e ocorre como consequência da falta de saneamento básico, já que a população não tem acesso à água de boa qualidade. Como não há água potável, a alternativa é consumir a do rio.</p><p class=\"fonte\"><em>O Liberal</em>. 8 jul. 2008. Disponível em: http://www.oliberal.com.br.</p><p>O procedimento adequado para tratar a água dos rios, a fim de atenuar os problemas de saúde causados por microrganismos a essas populações ribeirinhas é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "filtração.",
+    "B": "cloração.",
+    "C": "coagulação.",
+    "D": "fluoretação.",
+    "E": "decantação."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A diarreia vem de microrganismos na água do rio. Para eliminá-los, é preciso desinfetar a água, e o procedimento adequado é a <strong>cloração</strong>: o cloro mata bactérias e outros patógenos. Alternativa <strong>B</strong>.</p><p>Filtração, coagulação e decantação (A, C e E) retiram partículas, mas não garantem a morte dos microrganismos. A fluoretação (D) previne cáries.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tratamento de água",
+    "cloro"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"apoio\">O vírus do papiloma humano (HPV, na sigla em inglês) causa o aparecimento de verrugas e infecção persistente, sendo o principal fator ambiental do câncer de colo de útero nas mulheres. O vírus pode entrar pela pele ou por mucosas do corpo, o qual desenvolve anticorpos contra a ameaça, embora em alguns casos a defesa natural do organismo não seja suficiente. Foi desenvolvida uma vacina contra o HPV, que reduz em até 90% as verrugas e 85,6% dos casos de infecção persistente em comparação com pessoas não vacinadas.</p><p class=\"fonte\">Disponível em: http://g1.globo.com. Acesso em: 12 jun. 2011.</p><p>O benefício da utilização dessa vacina é que pessoas vacinadas, em comparação com as não vacinadas, apresentam diferentes respostas ao vírus HPV em decorrência da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "alta concentração de macrófagos.",
+    "B": "elevada taxa de anticorpos específicos anti-HPV circulantes.",
+    "C": "aumento na produção de hemácias após a infecção por vírus HPV.",
+    "D": "rapidez na produção de altas concentrações de linfócitos matadores.",
+    "E": "presença de células de memória que atuam na resposta secundária."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A vacina estimula o organismo a produzir anticorpos e células de memória contra o HPV, sem causar a doença. Quando o vírus de verdade aparece, a resposta é rápida e forte. O benefício vem da <strong>presença de células de memória que atuam na resposta secundária</strong>. Alternativa <strong>E</strong>.</p><p>Os anticorpos (B) caem com o tempo; o que garante a proteção duradoura é a memória imunológica.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vacina",
+    "HPV"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Química",
+   "assunto": "Misturas",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p>Certas ligas estanho-chumbo com composição específica formam um eutético simples, o que significa que uma liga com essas características se comporta como uma substância pura, com um ponto de fusão definido, no caso 183 ºC. Essa é uma temperatura inferior mesmo ao ponto de fusão dos metais que compõem esta liga (o estanho puro funde a 232 ºC e o chumbo puro a 320 ºC), o que justifica sua ampla utilização na soldagem de componentes eletrônicos, em que o excesso de aquecimento deve sempre ser evitado. De acordo com as normas internacionais, os valores mínimo e máximo das densidades para essas ligas são de 8,74 g/mL e 8,82 g/mL, respectivamente. As densidades do estanho e do chumbo são 7,3 g/mL e 11,3 g/mL, respectivamente. Um lote contendo 5 amostras de solda estanho-chumbo foi analisado por um técnico, por meio da determinação de sua composição percentual em massa, cujos resultados estão mostrados no quadro a seguir.</p><table class=\"tabela\"><thead><tr><th>Amostra</th><th>Porcentagem de Sn (%)</th><th>Porcentagem de Pb (%)</th></tr></thead><tbody><tr><td>I</td><td>60</td><td>40</td></tr><tr><td>II</td><td>62</td><td>38</td></tr><tr><td>III</td><td>65</td><td>35</td></tr><tr><td>IV</td><td>63</td><td>37</td></tr><tr><td>V</td><td>59</td><td>41</td></tr></tbody></table><p class=\"fonte\">Disponível em: http://www.eletrica.ufpr.br.</p><p>Com base no texto e na análise realizada pelo técnico, as amostras que atendem às normas internacionais são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I e II.",
+    "B": "I e III.",
+    "C": "II e IV.",
+    "D": "III e V.",
+    "E": "IV e V."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Fazendo a média das densidades pela porcentagem em massa: I, 0,60 × 7,3 + 0,40 × 11,3 = 8,90; II, 0,62 × 7,3 + 0,38 × 11,3 = 8,82; III, 8,70; IV, 0,63 × 7,3 + 0,37 × 11,3 = 8,78; V, 8,94. Só <strong>II e IV</strong> ficam entre 8,74 e 8,82 g/mL. Alternativa <strong>C</strong>.</p><p>A questão supõe que a densidade da liga é a média ponderada pelas massas; é uma simplificação, mas é o cálculo esperado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "densidade",
+    "ligas metálicas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Química",
+   "assunto": "Polaridade",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p class=\"apoio\">No processo de industrialização da mamona, além do óleo que contém vários ácidos graxos, é obtida uma massa orgânica, conhecida como torta de mamona. Esta massa tem potencial para ser utilizada como fertilizante para o solo e como complemento em rações animais devido a seu elevado valor proteico. No entanto, a torta apresenta compostos tóxicos e alergênicos diferentemente do óleo da mamona. Para que a torta possa ser utilizada na alimentação animal, é necessário um processo de descontaminação.</p><p class=\"fonte\"><em>Revista Química Nova na Escola</em>. V. 32, n<sup>o</sup> 1, 2010 (adaptado).</p><p>A característica presente nas substâncias tóxicas e alergênicas, que inviabiliza sua solubilização no óleo de mamona, é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "lipofilia.",
+    "B": "hidrofilia.",
+    "C": "hipocromia.",
+    "D": "cromatofilia.",
+    "E": "hiperpolarização."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O óleo de mamona é apolar (lipofílico). Se as substâncias tóxicas não se dissolvem nele, é porque são polares: têm afinidade pela água. A característica é a <strong>hidrofilia</strong>. Alternativa <strong>B</strong>.</p><p>“Semelhante dissolve semelhante”: substâncias lipofílicas (A) se dissolveriam no óleo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "solubilidade",
+    "mamona"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p>O manual de funcionamento de um captador de guitarra elétrica apresenta o seguinte texto:</p><p>Esse captador comum consiste de uma bobina, fios condutores enrolados em torno de um ímã permanente. O campo magnético do ímã induz o ordenamento dos polos magnéticos na corda da guitarra, que está próxima a ele. Assim, quando a corda é tocada, as oscilações produzem variações, com o mesmo padrão, no fluxo magnético que atravessa a bobina. Isso induz uma corrente elétrica na bobina, que é transmitida até o amplificador e, daí, para o alto-falante.</p><p>Um guitarrista trocou as cordas originais de sua guitarra, que eram feitas de aço, por outras feitas de náilon. Com o uso dessas cordas, o amplificador ligado ao instrumento não emitia mais som, porque a corda de náilon</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "isola a passagem de corrente elétrica da bobina para o alto-falante.",
+    "B": "varia seu comprimento mais intensamente do que ocorre com o aço.",
+    "C": "apresenta uma magnetização desprezível sob a ação do ímã permanente.",
+    "D": "induz correntes elétricas na bobina mais intensas que a capacidade do captador.",
+    "E": "oscila com uma frequência menor do que a que pode ser percebida pelo captador."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O captador funciona porque o ímã magnetiza a corda de aço, e a vibração da corda muda o fluxo magnético na bobina, induzindo corrente. O náilon não é ferromagnético: ele <strong>apresenta uma magnetização desprezível sob a ação do ímã permanente</strong>, e sua vibração não muda o fluxo. Alternativa <strong>C</strong>.</p><p>A corrente não passa pela corda (A): ela é induzida na bobina.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "indução eletromagnética",
+    "guitarra"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p>O controle biológico, técnica empregada no combate a espécies que causam danos e prejuízos aos seres humanos, é utilizado no combate à lagarta que se alimenta de folhas de algodoeiro. Algumas espécies de borboleta depositam seus ovos nessa cultura. A microvespa <em>Trichogramma</em> sp. introduz seus ovos nos ovos de outros insetos, incluindo os das borboletas em questão. Os embriões da vespa se alimentam do conteúdo desses ovos e impedem que as larvas de borboleta se desenvolvam. Assim, é possível reduzir a densidade populacional das borboletas até níveis que não prejudiquem a cultura.</p><p>A técnica de controle biológico realizado pela microvespa <em>Trichogramma</em> sp. consiste na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "introdução de um parasita no ambiente da espécie que se deseja combater.",
+    "B": "introdução de um gene letal nas borboletas, a fim de diminuir o número de indivíduos.",
+    "C": "competição entre a borboleta e a microvespa para a obtenção de recursos.",
+    "D": "modificação do ambiente para selecionar indivíduos melhor adaptados.",
+    "E": "aplicação de inseticidas a fim de diminuir o número de indivíduos que se deseja combater."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A microvespa põe seus ovos dentro dos ovos da borboleta, e as larvas dela consomem o conteúdo, impedindo o nascimento da lagarta. É uma relação de parasitismo usada no controle: a <strong>introdução de um parasita no ambiente da espécie que se deseja combater</strong>. Alternativa <strong>A</strong>.</p><p>Não há genes letais (B) nem inseticidas (E), e a vespa não compete com a borboleta (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "controle biológico",
+    "parasitismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Química",
+   "assunto": "Interações intermoleculares",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p class=\"apoio\">A pele humana, quando está bem hidratada, adquire boa elasticidade e aspecto macio e suave. Em contrapartida, quando está ressecada, perde sua elasticidade e se apresenta opaca e áspera. Para evitar o ressecamento da pele é necessário, sempre que possível, utilizar hidratantes umectantes, feitos geralmente à base de glicerina e polietilenoglicol:</p>[[fig:1]][[fig:2]]<p class=\"fonte\">Disponível em: http://www.brasilescola.com. Acesso em: 23 abr. 2010 (adaptado).</p><p>A retenção de água na superfície da pele promovida pelos hidratantes é consequência da interação dos grupos hidroxila dos agentes umectantes com a umidade contida no ambiente por meio de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q58a.webp",
+     "alt": "Fórmula estrutural da glicerina: cadeia de três carbonos, H2C–CH–CH2, cada um com um grupo OH."
+    },
+    {
+     "src": "assets/img/enem-2011-natureza/q58b.webp",
+     "alt": "Fórmula do polietilenoglicol: HO–CH2–CH2–[O–CH2–CH2]n–O–CH2–CH2–OH."
+    }
+   ],
+   "alternativas": {
+    "A": "ligações iônicas.",
+    "B": "forças de London.",
+    "C": "ligações covalentes.",
+    "D": "forças dipolo-dipolo.",
+    "E": "ligações de hidrogênio."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A glicerina e o polietilenoglicol têm grupos OH. O hidrogênio ligado ao oxigênio forma ligações de hidrogênio com as moléculas de água do ar, que ficam retidas na pele. A interação é por <strong>ligações de hidrogênio</strong>. Alternativa <strong>E</strong>.</p><p>Forças de London (B) são as interações fracas entre moléculas apolares.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ligação de hidrogênio",
+    "umectantes"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Biologia",
+   "assunto": "Fisiologia celular",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p class=\"apoio\">A cal (óxido de cálcio, CaO), cuja suspensão em água é muito usada como uma tinta de baixo custo, dá uma tonalidade branca aos troncos de árvores. Essa é uma prática muito comum em praças públicas e locais privados, geralmente usada para combater a proliferação de parasitas. Essa aplicação, também chamada de caiação, gera um problema: elimina microrganismos benéficos para a árvore.</p><p class=\"fonte\">Disponível em: http://super.abril.com.br. Acesso em: 1 abr. 2010 (adaptado).</p><p>A destruição do microambiente, no tronco de árvores pintadas com cal, é devida ao processo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "difusão, pois a cal se difunde nos corpos dos seres do microambiente e os intoxica.",
+    "B": "osmose, pois a cal retira água do microambiente, tornando-o inviável ao desenvolvimento de microrganismos.",
+    "C": "oxidação, pois a luz solar que incide sobre o tronco ativa fotoquimicamente a cal, que elimina os seres vivos do microambiente.",
+    "D": "aquecimento, pois a luz do Sol incide sobre o tronco e aquece a cal, que mata os seres vivos do microambiente.",
+    "E": "vaporização, pois a cal facilita a volatilização da água para a atmosfera, eliminando os seres vivos do microambiente."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A cal em suspensão deixa o meio muito concentrado. Os microrganismos do tronco perdem água para esse meio por osmose e morrem desidratados. O processo é a <strong>osmose, pois a cal retira água do microambiente</strong>. Alternativa <strong>B</strong>.</p><p>A cal não precisa de luz (C e D) para agir.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "osmose",
+    "caiação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p>Em um manual de um chuveiro elétrico são encontradas informações sobre algumas características técnicas, ilustradas no quadro, como a tensão de alimentação, a potência dissipada, o dimensionamento do disjuntor ou fusível, e a área da seção transversal dos condutores utilizados.</p>[[fig:1]]<p>Uma pessoa adquiriu um chuveiro do modelo A e, ao ler o manual, verificou que precisava ligá-lo a um disjuntor de 50 amperes. No entanto, intrigou-se com o fato de que o disjuntor a ser utilizado para uma correta instalação de um chuveiro do modelo B devia possuir amperagem 40% menor.</p><p>Considerando-se os chuveiros de modelos A e B, funcionando à mesma potência de 4 400 W, a razão entre as suas respectivas resistências elétricas, R<sub>A</sub> e R<sub>B</sub>, que justifica a diferença de dimensionamento dos disjuntores, é mais próxima de:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q60.webp",
+     "alt": "Quadro “Características técnicas”: modelo A, 127 V; modelo B, 220 V. Potências pelo seletor de temperatura: desligado, 0 e 0 W; uma bolinha, 2 440 e 2 540 W; duas, 4 400 e 4 400 W; três, 5 500 e 6 000 W. Disjuntor ou fusível: 50 A e 30 A. Seção dos condutores: 10 mm² e 4 mm²."
+    }
+   ],
+   "alternativas": {
+    "A": "0,3.",
+    "B": "0,6.",
+    "C": "0,8.",
+    "D": "1,7.",
+    "E": "3,0."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Com a mesma potência, P = U²/R, então R = U²/P. A razão é R<sub>A</sub>/R<sub>B</sub> = (127/220)² ≈ 0,33, ou seja, <strong>0,3</strong>. Alternativa <strong>A</strong>.</p><p>O modelo de 127 V precisa de mais corrente para a mesma potência, por isso o disjuntor de 50 A, enquanto o de 220 V usa 30 A, 40% a menos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência elétrica",
+    "resistência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Biologia",
+   "assunto": "Genética molecular",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p class=\"apoio\">Nos dias de hoje, podemos dizer que praticamente todos os seres humanos já ouviram em algum momento falar sobre o DNA e seu papel na hereditariedade da maioria dos organismos. Porém, foi apenas em 1952, um ano antes da descrição do modelo do DNA em dupla hélice por Watson e Crick, que foi confirmado sem sombra de dúvidas que o DNA é material genético. No artigo em que Watson e Crick descreveram a molécula de DNA, eles sugeriram um modelo de como essa molécula deveria se replicar. Em 1958, Meselson e Stahl realizaram experimentos utilizando isótopos pesados de nitrogênio que foram incorporados às bases nitrogenadas para avaliar como se daria a replicação da molécula. A partir dos resultados, confirmaram o modelo sugerido por Watson e Crick, que tinha como premissa básica o rompimento das pontes de hidrogênio entre as bases nitrogenadas.</p><p class=\"fonte\">GRIFFITHS, A. J. F. et al. <em>Introdução à Genética</em>. Rio de Janeiro: Guanabara Koogan, 2002.</p><p>Considerando a estrutura da molécula de DNA e a posição das pontes de hidrogênio na mesma, os experimentos realizados por Meselson e Stahl a respeito da replicação dessa molécula levaram à conclusão de que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a replicação do DNA é conservativa, isto é, a fita dupla filha é recém-sintetizada e o filamento parental é conservado.",
+    "B": "a replicação de DNA é dispersiva, isto é, as fitas filhas contêm DNA recém-sintetizado e parentais em cada uma das fitas.",
+    "C": "a replicação é semiconservativa, isto é, as fitas filhas consistem de uma fita parental e uma recém-sintetizada.",
+    "D": "a replicação do DNA é conservativa, isto é, as fitas filhas consistem de moléculas de DNA parental.",
+    "E": "a replicação é semiconservativa, isto é, as fitas filhas consistem de uma fita molde e uma fita codificadora."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Meselson e Stahl cultivaram bactérias em nitrogênio pesado e depois em nitrogênio leve. Após uma geração, todo o DNA tinha densidade intermediária: cada molécula nova tinha uma fita antiga e uma nova. A replicação é <strong>semiconservativa, isto é, as fitas filhas consistem de uma fita parental e uma recém-sintetizada</strong>. Alternativa <strong>C</strong>.</p><p>A opção E usa termos errados: nenhuma das fitas é “codificadora” nesse sentido.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "replicação",
+    "Meselson e Stahl"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p class=\"apoio\">A eutrofização é um processo em que rios, lagos e mares adquirem níveis altos de nutrientes, especialmente fosfatos e nitratos, provocando posterior acúmulo de matéria orgânica em decomposição. Os nutrientes são assimilados pelos produtores primários e o crescimento desses é controlado pelo nutriente limítrofe, que é o elemento menos disponível em relação à abundância necessária à sobrevivência dos organismos vivos. O ciclo representado na figura seguinte reflete a dinâmica dos nutrientes em um lago.</p>[[fig:1]]<p class=\"fonte\">SPIRO, T. G.; STIGLIANI, W. M. Química Ambiental. São Paulo: Pearson Education do Brasil, 2008 (adaptado).</p><p>A análise da água de um lago que recebe a descarga de águas residuais provenientes de lavouras adubadas revelou as concentrações dos elementos carbono (21,2 mol/L), nitrogênio (1,2 mol/L) e fósforo (0,2 mol/L). Nessas condições, o nutriente limítrofe é o</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q62.webp",
+     "alt": "Esquema do ciclo de nutrientes num lago: fósforo de fosfatos (solo, detergentes, esgoto), nitrogênio da atmosfera e de nitratos e carbono do CO2 entram nos produtores primários, que os assimilam nas razões 106 : 16 : 1 de C, N e P. Os produtores alimentam peixes; restos vegetais e animais sofrem decomposição bacteriana, que devolve CO2, nitrato e fosfato, ou se sedimentam."
+    }
+   ],
+   "alternativas": {
+    "A": "C.",
+    "B": "N.",
+    "C": "P.",
+    "D": "CO<sub>2</sub>.",
+    "E": "PO<sub>4</sub><sup>3−</sup>."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os produtores assimilam C, N e P na razão 106 : 16 : 1. Dividindo as concentrações por esses números: C, 21,2/106 = 0,2; N, 1,2/16 = 0,075; P, 0,2/1 = 0,2. O menor valor é o do nitrogênio, que acaba primeiro: o nutriente limítrofe é o <strong>N</strong>. Alternativa <strong>B</strong>.</p><p>Olhar só as concentrações absolutas levaria a escolher o fósforo (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eutrofização",
+    "razão de Redfield"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Química",
+   "assunto": "Espectroscopia",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p class=\"apoio\">Para que uma substância seja colorida ela deve absorver luz na região do visível. Quando uma amostra absorve luz visível, a cor que percebemos é a soma das cores restantes que são refletidas ou transmitidas pelo objeto. A Figura 1 mostra o espectro de absorção para uma substância e é possível observar que há um comprimento de onda em que a intensidade de absorção é máxima. Um observador pode prever a cor dessa substância pelo uso da roda de cores (Figura 2): o comprimento de onda correspondente à cor do objeto é encontrado no lado oposto ao comprimento de onda da absorção máxima.</p><p class=\"apoio\"><strong>Figura 1</strong></p>[[fig:1]]<p class=\"apoio\"><strong>Figura 2</strong></p>[[fig:2]]<p class=\"fonte\">Brown, T. Química a Ciência Central. 2005 (adaptado).</p><p>Qual a cor da substância que deu origem ao espectro da Figura 1?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q63a.webp",
+     "alt": "Figura 1: espectro de absorção, com intensidade de luz absorvida no eixo vertical e comprimento de onda de 400 a 700 nm no horizontal; a curva tem um máximo perto de 500 nm."
+    },
+    {
+     "src": "assets/img/enem-2011-natureza/q63b.webp",
+     "alt": "Figura 2: roda de cores dividida em seis setores: vermelho (650 a 750 nm), laranja (580 a 650), amarelo (560 a 580), verde (490 a 560), azul (430 a 490) e violeta (400 a 430). Uma seta indica que, se a substância absorve numa região, apresenta a cor do setor oposto."
+    }
+   ],
+   "alternativas": {
+    "A": "Azul.",
+    "B": "Verde.",
+    "C": "Violeta.",
+    "D": "Laranja.",
+    "E": "Vermelho."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No gráfico, a absorção máxima é perto de 500 nm. Na roda de cores, a faixa de 490 a 560 nm é o verde. A cor percebida é a oposta na roda, o <strong>vermelho</strong>. Alternativa <strong>E</strong>.</p><p>Verde (B) é a cor absorvida, e não a vista.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cor",
+    "absorção de luz"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Biologia",
+   "assunto": "Saúde e doenças",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">Disponível em: www.anvisa.gov.br.</p><p>O mapa mostra a área de ocorrência da malária no mundo. Considerando-se sua distribuição na América do Sul, a malária pode ser classificada como</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q64.webp",
+     "alt": "Mapa-múndi da malária (OMS, 2004): áreas de transmissão em grande parte da África, no sul da Ásia e, na América do Sul, sobretudo na região amazônica; áreas de risco limitado em volta; o resto do mundo sem malária."
+    }
+   ],
+   "alternativas": {
+    "A": "endemia, pois se concentra em uma área geográfica restrita desse continente.",
+    "B": "peste, já que ocorre nas regiões mais quentes do continente.",
+    "C": "epidemia, já que ocorre na maior parte do continente.",
+    "D": "surto, pois apresenta ocorrência em áreas pequenas.",
+    "E": "pandemia, pois ocorre em todo o continente."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na América do Sul, o mapa mostra a malária concentrada na região amazônica, onde ela ocorre de forma constante. Uma doença que se mantém numa área restrita, ano após ano, é uma <strong>endemia</strong>. Alternativa <strong>A</strong>.</p><p>Epidemia (C) é um aumento repentino de casos, e pandemia (E) é a difusão por vários continentes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "malária",
+    "endemia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "<p class=\"apoio\">Em 1999, a geneticista Emma Whitelaw desenvolveu um experimento no qual ratas prenhes foram submetidas a uma dieta rica em vitamina B12, ácido fólico e soja. Os filhotes dessas ratas, apesar de possuírem o gene para obesidade, não expressaram essa doença na fase adulta. A autora concluiu que a alimentação da mãe, durante a gestação, silenciou o gene da obesidade. Dez anos depois, as geneticistas Eva Jablonka e Gal Raz listaram 100 casos comprovados de traços adquiridos e transmitidos entre gerações de organismos, sustentando, assim, a epigenética, que estuda as mudanças na atividade dos genes que não envolvem alterações na sequência do DNA.</p><p class=\"fonte\"><em>A reabilitação do herege</em>. <em>Época</em>, nº 610, 2010 (adaptado).</p><p>Alguns cânceres esporádicos representam exemplos de alteração epigenética, pois são ocasionados por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aneuploidia do cromossomo sexual X.",
+    "B": "polipoidia dos cromossomos autossômicos.",
+    "C": "mutação em genes autossômicos com expressão dominante.",
+    "D": "substituição no gene da cadeia beta da hemoglobina.",
+    "E": "inativação de genes por meio de modificações nas bases nitrogenadas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A epigenética estuda mudanças na expressão dos genes sem alterar a sequência de DNA, como a metilação de bases, que silencia genes. Os cânceres epigenéticos acontecem pela <strong>inativação de genes por meio de modificações nas bases nitrogenadas</strong>. Alternativa <strong>E</strong>.</p><p>Aneuploidias e mutações (A, B, C e D) mudam o material genético, e não só sua expressão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "epigenética",
+    "metilação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p class=\"apoio\">Um motor só poderá realizar trabalho se receber uma quantidade de energia de outro sistema. No caso, a energia armazenada no combustível é, em parte, liberada durante a combustão para que o aparelho possa funcionar. Quando o motor funciona, parte da energia convertida ou transformada na combustão não pode ser utilizada para a realização de trabalho. Isso significa dizer que há vazamento da energia em outra forma.</p><p class=\"fonte\">CARVALHO, A. X. Z. <em>Física Térmica</em>. Belo Horizonte: Pax, 2009 (adaptado).</p><p>De acordo com o texto, as transformações de energia que ocorrem durante o funcionamento do motor são decorrentes de a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "liberação de calor dentro do motor ser impossível.",
+    "B": "realização de trabalho pelo motor ser incontrolável.",
+    "C": "conversão integral de calor em trabalho ser impossível.",
+    "D": "transformação de energia térmica em cinética ser impossível.",
+    "E": "utilização de energia potencial do combustível ser incontrolável."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que parte da energia da combustão não pode ser usada para trabalho: “há vazamento da energia em outra forma”, como calor. É a segunda lei da termodinâmica: a <strong>conversão integral de calor em trabalho é impossível</strong>. Alternativa <strong>C</strong>.</p><p>A liberação de calor (A) é justamente o que acontece.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "segunda lei",
+    "rendimento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "<p class=\"apoio\">O processo de interpretação de imagens capturadas por sensores instalados a bordo de satélites que imageiam determinadas faixas ou bandas do espectro de radiação eletromagnética (REM) baseia-se na interação dessa radiação com os objetos presentes sobre a superfície terrestre. Uma das formas de avaliar essa interação é por meio da quantidade de energia refletida pelos objetos. A relação entre a refletância de um dado objeto e o comprimento de onda da REM é conhecida como curva de comportamento espectral ou assinatura espectral do objeto, como mostrado na figura, para objetos comuns na superfície terrestre.</p>[[fig:1]]<p class=\"fonte\">D’ARCO, E. Radiometria e Comportamento Espectral de Alvos. INPE. Disponível em: http://www.agro.unitau.br. Acesso em: 3 maio 2009.</p><p>De acordo com as curvas de assinatura espectral apresentadas na figura, para que se obtenha a melhor discriminação dos alvos mostrados, convém selecionar a banda correspondente a que comprimento de onda em micrômetros (µm)?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q67.webp",
+     "alt": "Gráfico de refletância (%) por comprimento de onda de 0,4 a 0,9 µm para grama, concreto, solo arenoso, asfalto e água. A grama tem um pico pequeno perto de 0,55 e sobe muito depois de 0,7, chegando a 50%; o concreto fica por volta de 35%; o solo arenoso sobe aos poucos até cerca de 30%; o asfalto fica perto de 8%; a água cai a quase zero."
+    }
+   ],
+   "alternativas": {
+    "A": "0,4 a 0,5.",
+    "B": "0,5 a 0,6.",
+    "C": "0,6 a 0,7.",
+    "D": "0,7 a 0,8.",
+    "E": "0,8 a 0,9."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Para distinguir os alvos, a banda deve ser aquela em que as curvas ficam mais separadas. Entre 0,8 e 0,9 µm, a grama reflete cerca de 50%, o concreto 35%, o solo arenoso de 20% a 25%, o asfalto 8% e a água quase nada. A melhor banda é <strong>0,8 a 0,9</strong>. Alternativa <strong>E</strong>.</p><p>Na faixa de 0,6 a 0,7 (C), várias curvas se cruzam.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sensoriamento remoto",
+    "refletância"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p class=\"apoio\">Um instituto de pesquisa norte-americano divulgou recentemente ter criado uma “célula sintética”, uma bactéria chamada de <em>Mycoplasma mycoides</em>. Os pesquisadores montaram uma sequência de nucleotídeos, que formam o único cromossomo dessa bactéria, o qual foi introduzido em outra espécie de bactéria, a <em>Mycoplasma capricolum</em>. Após a introdução, o cromossomo da <em>M. capricolum</em> foi neutralizado e o cromossomo artificial da <em>M. mycoides</em> começou a gerenciar a célula, produzindo suas proteínas.</p><p class=\"fonte\">GILBSON et al. Creation of a Bacterial Cell Controlled by a Chemically synthesized Genome. Science v. 329, 2010 (adaptado).</p><p>A importância dessa inovação tecnológica para a comunidade científica se deve à</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "possibilidade de sequenciar os genomas de bactérias para serem usados como receptoras de cromossomos artificiais.",
+    "B": "capacidade de criação, pela ciência, de novas formas de vida, utilizando substâncias como carboidratos e lipídios.",
+    "C": "possibilidade de produção em massa da bactéria Mycoplasma capricolum para sua distribuição em ambientes naturais.",
+    "D": "possibilidade de programar geneticamente microrganismos ou seres mais complexos para produzir medicamentos, vacinas e combustíveis.",
+    "E": "capacidade da bactéria Mycoplasma capricolum de expressar suas proteínas na bactéria sintética e estas serem usadas na indústria."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os cientistas sintetizaram um cromossomo inteiro e o puseram para comandar outra célula. Se é possível montar genomas no laboratório, abre-se a <strong>possibilidade de programar geneticamente microrganismos ou seres mais complexos para produzir medicamentos, vacinas e combustíveis</strong>. Alternativa <strong>D</strong>.</p><p>Não se criou vida a partir de carboidratos e lipídios (B): usou-se uma célula existente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "célula sintética",
+    "genoma"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p>Os sintomas mais sérios da Gripe A, causada pelo vírus H1N1, foram apresentados por pessoas mais idosas e por gestantes. O motivo aparente é a menor imunidade desses grupos contra o vírus. Para aumentar a imunidade populacional relativa ao vírus da gripe A, o governo brasileiro distribuiu vacinas para os grupos mais suscetíveis.</p><p>A vacina contra o H1N1, assim como qualquer outra vacina contra agentes causadores de doenças infectocontagiosas, aumenta a imunidade das pessoas porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "possui anticorpos contra o agente causador da doença.",
+    "B": "possui proteínas que eliminam o agente causador da doença.",
+    "C": "estimula a produção de glóbulos vermelhos pela medula óssea.",
+    "D": "possui linfócitos B e T que neutralizam o agente causador da doença.",
+    "E": "estimula a produção de anticorpos contra o agente causador da doença."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A vacina contém o agente atenuado, inativado ou partes dele. O corpo reconhece esses antígenos e produz anticorpos e células de memória. Ela <strong>estimula a produção de anticorpos contra o agente causador da doença</strong>. Alternativa <strong>E</strong>.</p><p>Quem já contém anticorpos prontos é o soro (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vacina",
+    "H1N1"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p class=\"apoio\">Um curioso estudante, empolgado com a aula de circuito elétrico que assistiu na escola, resolve desmontar sua lanterna. Utilizando-se da lâmpada e da pilha, retiradas do equipamento, e de um fio com as extremidades descascadas, faz as seguintes ligações com a intenção de acender a lâmpada:</p>[[fig:1]]<p class=\"fonte\">GONÇALVES FILHO, A.; BAROLLI, E. <em>Instalação Elétrica: investigando e aprendendo</em>. São Paulo: Scipione, 1997 (adaptado).</p><p>Tendo por base os esquemas mostrados, em quais casos a lâmpada acendeu?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q70.webp",
+     "alt": "Sete esquemas numerados de uma pilha, uma lâmpada e um fio, em posições diferentes: em alguns, a ponta da lâmpada toca um polo e o fio liga a rosca ao outro polo; em outros, o fio liga os dois polos da pilha ou a lâmpada toca a pilha só por um contato."
+    }
+   ],
+   "alternativas": {
+    "A": "(1), (3), (6)",
+    "B": "(3), (4), (5)",
+    "C": "(1), (3), (5)",
+    "D": "(1), (3), (7)",
+    "E": "(1), (2), (5)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A lâmpada só acende se a corrente passar por ela: um polo da pilha precisa tocar a ponta de baixo da lâmpada e o outro, a rosca lateral, fechando o circuito. Isso acontece nos esquemas <strong>(1), (3) e (7)</strong>. Alternativa <strong>D</strong>.</p><p>Nos demais, os dois contatos vão para o mesmo ponto da lâmpada, ou a pilha fica em curto, sem passar corrente pelo filamento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "circuito elétrico",
+    "lâmpada"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Química",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p class=\"apoio\">Os biocombustíveis de primeira geração são derivados da soja, milho e cana-de-açúcar e sua produção ocorre através da fermentação. Biocombustíveis derivados de material celulósico ou biocombustíveis de segunda geração — coloquialmente chamados de “gasolina de capim” — são aqueles produzidos a partir de resíduos de madeira (serragem, por exemplo), talos de milho, palha de trigo ou capim de crescimento rápido e se apresentam como uma alternativa para os problemas enfrentados pelos de primeira geração, já que as matérias-primas são baratas e abundantes.</p><p class=\"fonte\">DALE, B. E.; HUBER, G. W. Gasolina de capim e outros vegetais. <em>Scientific American Brasil</em>. Ago. 2009, nº 87 (adaptado).</p><p>O texto mostra um dos pontos de vista a respeito do uso dos biocombustíveis na atualidade, os quais</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "são matrizes energéticas com menor carga de poluição para o ambiente e podem propiciar a geração de novos empregos, entretanto, para serem oferecidos com baixo custo, a tecnologia da degradação da celulose nos biocombustíveis de segunda geração deve ser extremamente eficiente.",
+    "B": "oferecem múltiplas dificuldades, pois a produção é de alto custo, sua implantação não gera empregos, e deve-se ter cuidado com o risco ambiental, pois eles oferecerem os mesmos riscos que o uso de combustíveis fósseis.",
+    "C": "sendo de segunda geração, são produzidos por uma tecnologia que acarreta problemas sociais, sobretudo decorrente do fato de a matéria-prima ser abundante e facilmente encontrada, o que impede a geração de novos empregos.",
+    "D": "sendo de primeira e segunda geração, são produzidos por tecnologias que devem passar por uma avaliação criteriosa quanto ao uso, pois uma enfrenta o problema da falta de espaço para plantio da matéria-prima e a outra impede a geração de novas fontes de emprego.",
+    "E": "podem acarretar sérios problemas econômicos e sociais, pois a substituição do uso de petróleo afeta negativamente toda uma cadeia produtiva na medida em que exclui diversas fontes de emprego nas refinarias, postos de gasolina e no transporte de petróleo e gasolina."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto apresenta os biocombustíveis de segunda geração como alternativa aos de primeira, por usarem matérias-primas baratas e abundantes. Eles poluem menos e geram empregos, mas a tecnologia de quebra da celulose precisa ser eficiente para baixar o custo. Alternativa <strong>A</strong>.</p><p>As alternativas B, C e E dizem que eles não geram empregos ou destroem empregos, o que o texto não afirma.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biocombustíveis",
+    "celulose"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p class=\"apoio\">A bile é produzida pelo fígado, armazenada na vesícula biliar e tem papel fundamental na digestão de lipídeos. Os sais biliares são esteroides sintetizados no fígado a partir do colesterol, e sua rota de síntese envolve várias etapas. Partindo do ácido cólico representado na figura, ocorre a formação dos ácidos glicocólico e taurocólico; o prefixo <em>glico-</em> significa a presença de um resíduo do aminoácido glicina e o prefixo <em>tauro-</em>, do aminoácido taurina.</p>[[fig:1]]<p class=\"fonte\">UCKO, D. A. Química para as Ciências da Saúde: uma Introdução à Química Geral, Orgânica e Biológica. São Paulo: Manole,1992 (adaptado).</p><p>A combinação entre o ácido cólico e a glicina ou taurina origina a função amida, formada pela reação entre o grupo amina desses aminoácidos e o grupo</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q72.webp",
+     "alt": "Fórmula estrutural do ácido cólico: quatro anéis fundidos (núcleo esteroide), com três grupos OH e uma cadeia lateral terminada em carboxila (–COOH)."
+    }
+   ],
+   "alternativas": {
+    "A": "carboxila do ácido cólico.",
+    "B": "aldeído do ácido cólico.",
+    "C": "hidroxila do ácido cólico.",
+    "D": "cetona do ácido cólico.",
+    "E": "éster do ácido cólico."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A amida se forma quando o grupo amina (–NH<sub>2</sub>) reage com uma carboxila (–COOH), liberando água. No ácido cólico, o único grupo carboxila está na ponta da cadeia lateral. A reação é com o grupo <strong>carboxila do ácido cólico</strong>. Alternativa <strong>A</strong>.</p><p>As hidroxilas (C) do ácido cólico formariam ésteres, e não amidas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "amida",
+    "sais biliares"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p>Em um experimento realizado para determinar a densidade da água de um lago, foram utilizados alguns materiais conforme ilustrado: um dinamômetro D com graduação de 0 N a 50 N e um cubo maciço e homogêneo de 10 cm de aresta e 3 kg de massa. Inicialmente, foi conferida a calibração do dinamômetro, constatando-se a leitura de 30 N quando o cubo era preso ao dinamômetro e suspenso no ar. Ao mergulhar o cubo na água do lago, até que metade do seu volume ficasse submersa, foi registrada a leitura de 24 N no dinamômetro.</p>[[fig:1]]<p>Considerando que a aceleração da gravidade local é de 10 m/s<sup>2</sup>, a densidade da água do lago, em g/cm<sup>3</sup>, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q73.webp",
+     "alt": "Dinamômetro D segurando um cubo mergulhado até a metade na água de um lago."
+    }
+   ],
+   "alternativas": {
+    "A": "0,6.",
+    "B": "1,2.",
+    "C": "1,5.",
+    "D": "2,4.",
+    "E": "4,8."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No ar, o dinamômetro marca 30 N; com meio cubo na água, 24 N. O empuxo é 30 − 24 = 6 N. O volume submerso é metade de 1 000 cm³, ou 5 × 10<sup>−4</sup> m³. Empuxo = d · V · g: 6 = d × 5 × 10<sup>−4</sup> × 10, então d = 1 200 kg/m³ = <strong>1,2 g/cm³</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "empuxo",
+    "densidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "<p class=\"apoio\">Uma equipe de cientistas lançará uma expedição ao Titanic para criar um detalhado mapa 3D que “vai tirar, virtualmente, o Titanic do fundo do mar para o público”. A expedição ao local, a 4 quilômetros de profundidade no Oceano Atlântico, está sendo apresentada como a mais sofisticada expedição científica ao Titanic. Ela utilizará tecnologias de imagem e sonar que nunca tinham sido aplicadas ao navio, para obter o mais completo inventário de seu conteúdo. Esta complementação é necessária em razão das condições do navio, naufragado há um século.</p><p class=\"fonte\"><em>O Estado de São Paulo</em>. Disponível em: http://www.estadao.com.br. Acesso em: 27 jul. 2010 (adaptado).</p><p>No problema apresentado para gerar imagens através de camadas de sedimentos depositados no navio, o sonar é mais adequado, pois a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "propagação da luz na água ocorre a uma velocidade maior que a do som neste meio.",
+    "B": "absorção da luz ao longo de uma camada de água é facilitada enquanto a absorção do som não.",
+    "C": "refração da luz a uma grande profundidade acontece com uma intensidade menor que a do som.",
+    "D": "atenuação da luz nos materiais analisados é distinta da atenuação de som nestes mesmos materiais.",
+    "E": "reflexão da luz nas camadas de sedimentos é menos intensa do que a reflexão do som neste material."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A luz é muito atenuada pelos sedimentos: não os atravessa. O som, por sua vez, penetra nessas camadas e é refletido, formando imagens. O sonar é melhor porque a <strong>atenuação da luz nos materiais analisados é distinta da atenuação de som nestes mesmos materiais</strong>. Alternativa <strong>D</strong>.</p><p>A velocidade da luz (A) não importa aqui: o que importa é o quanto cada onda atravessa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sonar",
+    "atenuação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p class=\"apoio\">Os refrigerantes têm-se tornado cada vez mais o alvo de políticas públicas de saúde. Os de cola apresentam ácido fosfórico, substância prejudicial à fixação de cálcio, o mineral que é o principal componente da matriz dos dentes. A cárie é um processo dinâmico de desequilíbrio do processo de desmineralização dentária, perda de minerais em razão da acidez. Sabe-se que o principal componente do esmalte do dente é um sal denominado hidroxiapatita. O refrigerante, pela presença da sacarose, faz decrescer o pH do biofilme (placa bacteriana), provocando a desmineralização do esmalte dentário. Os mecanismos de defesa salivar levam de 20 a 30 minutos para normalizar o nível do pH, remineralizando o dente. A equação química seguinte representa esse processo:</p><p class=\"apoio\">Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>OH (s) ⇄ 5 Ca<sup>2+</sup> (aq) + 3 PO<sub>4</sub><sup>3−</sup> (aq) + OH<sup>−</sup> (aq)<br>(Hidroxiapatita; sentido direto: desmineralização; sentido inverso: mineralização)</p><p class=\"fonte\">GROISMAN, S. Impacto do refrigerante nos dentes é avaliado sem tirá-lo da dieta. Disponível em: http://www.isaude.net. Acesso em: 1 maio 2010 (adaptado).</p><p>Considerando que uma pessoa consuma refrigerantes diariamente, poderá ocorrer um processo de desmineralização dentária, devido ao aumento da concentração de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "OH<sup>−</sup>, que reage com os íons Ca<sup>2+</sup>, deslocando o equilíbrio para a direita.",
+    "B": "H<sup>+</sup>, que reage com as hidroxilas OH<sup>−</sup>, deslocando o equilíbrio para a direita.",
+    "C": "OH<sup>−</sup>, que reage com os íons Ca<sup>2+</sup>, deslocando o equilíbrio para a esquerda.",
+    "D": "H<sup>+</sup>, que reage com as hidroxilas OH<sup>−</sup>, deslocando o equilíbrio para a esquerda.",
+    "E": "Ca<sup>2+</sup>, que reage com as hidroxilas OH<sup>−</sup>, deslocando o equilíbrio para a esquerda."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O açúcar do refrigerante é fermentado pelas bactérias da placa, que produzem ácido. O aumento de H<sup>+</sup> consome os íons OH<sup>−</sup> (formando água), e o equilíbrio se desloca para a direita, dissolvendo a hidroxiapatita. É o aumento de <strong>H<sup>+</sup>, que reage com as hidroxilas OH<sup>−</sup>, deslocando o equilíbrio para a direita</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Le Chatelier",
+    "cárie"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p class=\"apoio\">Diferente do que o senso comum acredita, as lagartas de borboletas não possuem voracidade generalizada. Um estudo mostrou que as borboletas de asas transparentes da família Ithomiinae, comuns na Floresta Amazônica e na Mata Atlântica, consomem, sobretudo, plantas da família Solanaceae, a mesma do tomate. Contudo, os ancestrais dessas borboletas consumiam espécies vegetais da família Apocinaceae, mas a quantidade dessas plantas parece não ter sido suficiente para garantir o suprimento alimentar dessas borboletas. Dessa forma, as solanáceas tornaram-se uma opção de alimento, pois são abundantes na Mata Atlântica e na Floresta Amazônica.</p><p class=\"fonte\">Cores ao vento. Genes e fósseis revelam origem e diversidade de borboletas sul-americanas. <em>Revista Pesquisa FAPESP</em>. N° 170, 2010 (adaptado).</p><p>Nesse texto, a ideia do senso comum é confrontada com os conhecimentos científicos, ao se entender que as larvas das borboletas Ithomiinae encontradas atualmente na Mata Atlântica e na Floresta Amazônica, apresentam</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "facilidade em digerir todas as plantas desses locais.",
+    "B": "interação com as plantas hospedeiras da família Apocinaceae.",
+    "C": "adaptação para se alimentar de todas as plantas desses locais.",
+    "D": "voracidade indiscriminada por todas as plantas existentes nesses locais.",
+    "E": "especificidade pelas plantas da família Solanaceae existentes nesses locais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O senso comum diz que lagartas comem de tudo. O texto mostra que as larvas das Ithomiinae comem sobretudo plantas da família Solanaceae, a do tomate, depois de seus ancestrais terem comido Apocinaceae. Elas apresentam <strong>especificidade pelas plantas da família Solanaceae existentes nesses locais</strong>. Alternativa <strong>E</strong>.</p><p>A relação com as Apocinaceae (B) era dos ancestrais.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "herbivoria",
+    "especificidade alimentar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p>Para medir o tempo de reação de uma pessoa, pode-se realizar a seguinte experiência:</p><ol type=\"I\"><li>Mantenha uma régua (com cerca de 30 cm) suspensa verticalmente, segurando-a pela extremidade superior, de modo que o zero da régua esteja situado na extremidade inferior.</li><li>A pessoa deve colocar os dedos de sua mão, em forma de pinça, próximos do zero da régua, sem tocá-la.</li><li>Sem aviso prévio, a pessoa que estiver segurando a régua deve soltá-la. A outra pessoa deve procurar segurá-la o mais rapidamente possível e observar a posição onde conseguiu segurar a régua, isto é, a distância que ela percorre durante a queda.</li></ol><p>O quadro seguinte mostra a posição em que três pessoas conseguiram segurar a régua e os respectivos tempos de reação.</p><table class=\"tabela\"><thead><tr><th>Distância percorrida pela régua durante a queda (metro)</th><th>Tempo de reação (segundo)</th></tr></thead><tbody><tr><td>0,30</td><td>0,24</td></tr><tr><td>0,15</td><td>0,17</td></tr><tr><td>0,10</td><td>0,14</td></tr></tbody></table><p class=\"fonte\">Disponível em: http://br.geocities.com. Acesso em: 1 fev. 2009.</p><p>A distância percorrida pela régua aumenta mais rapidamente que o tempo de reação porque a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "energia mecânica da régua aumenta, o que a faz cair mais rápido.",
+    "B": "resistência do ar aumenta, o que faz a régua cair com menor velocidade.",
+    "C": "aceleração de queda da régua varia, o que provoca um movimento acelerado.",
+    "D": "força peso da régua tem valor constante, o que gera um movimento acelerado.",
+    "E": "velocidade da régua é constante, o que provoca uma passagem linear de tempo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A régua cai em queda livre: sua velocidade aumenta, porque o peso é constante e produz aceleração constante (g). A distância cresce com o quadrado do tempo (d = gt²/2): dobrar o tempo quadruplica a distância. A razão é que a <strong>força peso da régua tem valor constante, o que gera um movimento acelerado</strong>. Alternativa <strong>D</strong>.</p><p>A aceleração não varia (C), e a velocidade não é constante (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "queda livre",
+    "tempo de reação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p class=\"apoio\">Um tipo de vaso sanitário que vem substituindo as válvulas de descarga está esquematizado na figura. Ao acionar a alavanca, toda a água do tanque é escoada e aumenta o nível no vaso, até cobrir o sifão. De acordo com o Teorema de Stevin, quanto maior a profundidade, maior a pressão. Assim, a água desce levando os rejeitos até o sistema de esgoto. A válvula da caixa de descarga se fecha e ocorre o seu enchimento. Em relação às válvulas de descarga, esse tipo de sistema proporciona maior economia de água.</p>[[fig:1]]<p class=\"fonte\">Faça você mesmo. Disponível em: http://www.facavocemesmo.net. Acesso em: 22 jul. 2010.</p><p>A característica de funcionamento que garante essa economia é devida</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q78.webp",
+     "alt": "Esquema de um vaso sanitário com caixa acoplada: válvula de enchimento, boia, tubo de transbordo, alavanca, tanque, válvula de descarga, assento, distribuidor de água, vaso e sifão."
+    }
+   ],
+   "alternativas": {
+    "A": "à altura do sifão de água.",
+    "B": "ao volume do tanque de água.",
+    "C": "à altura do nível de água no vaso.",
+    "D": "ao diâmetro do distribuidor de água.",
+    "E": "à eficiência da válvula de enchimento do tanque."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na válvula de descarga, a água sai enquanto o botão está apertado, e muita gente segura por mais tempo do que o necessário. Na caixa acoplada, cada acionamento libera só a água do tanque, um volume fixo. A economia se deve <strong>ao volume do tanque de água</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "caixa acoplada",
+    "economia de água"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p class=\"apoio\">Moradores sobreviventes da tragédia que destruiu aproximadamente 60 casas no Morro do Bumba, na Zona Norte de Niterói (RJ), ainda defendem a hipótese de o deslizamento ter sido causado por uma explosão provocada por gás metano, visto que esse local foi um lixão entre os anos 1960 e 1980.</p><p class=\"fonte\">Jornal Web. Disponível em: http://www.ojornalweb.com. Acesso em: 12 abr. 2010 (adaptado).</p><p>O gás mencionado no texto é produzido</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "como subproduto da respiração aeróbia bacteriana.",
+    "B": "pela degradação anaeróbia de matéria orgânica por bactérias.",
+    "C": "como produto da fotossíntese de organismos pluricelulares autotróficos.",
+    "D": "pela transformação química do gás carbônico em condições anaeróbias.",
+    "E": "pela conversão, por oxidação química, do gás carbônico sob condições aeróbias."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No lixão enterrado, a matéria orgânica fica sem oxigênio. Bactérias anaeróbias a decompõem e produzem metano (biogás), que pode se acumular e explodir. O metano é produzido <strong>pela degradação anaeróbia de matéria orgânica por bactérias</strong>. Alternativa <strong>B</strong>.</p><p>A respiração aeróbia (A) produz CO<sub>2</sub>, e não metano.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metano",
+    "decomposição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p class=\"apoio\">Segundo dados do Balanço Energético Nacional de 2008, do Ministério das Minas e Energia, a matriz energética brasileira é composta por hidrelétrica (80%), termelétrica (19,9%) e eólica (0,1%). Nas termelétricas, esse percentual é dividido conforme o combustível usado, sendo: gás natural (6,6%), biomassa (5,3%), derivados de petróleo (3,3%), energia nuclear (3,1%) e carvão mineral (1,6%). Com a geração de eletricidade da biomassa, pode-se considerar que ocorre uma compensação do carbono liberado na queima do material vegetal pela absorção desse elemento no crescimento das plantas. Entretanto, estudos indicam que as emissões de metano (CH4) das hidrelétricas podem ser comparáveis às emissões de CO2 das termelétricas.</p><p class=\"fonte\">MORET, A. S.; FERREIRA, I. A. As hidrelétricas do Rio Madeira e os impactos socioambientais da eletrificação no Brasil. <em>Revista Ciência Hoje</em>. V. 45, n° 265, 2009 (adaptado).</p><p>No Brasil, em termos do impacto das fontes de energia no crescimento do efeito estufa, quanto à emissão de gases, as hidrelétricas seriam consideradas como uma fonte</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "limpa de energia, contribuindo para minimizar os efeitos deste fenômeno.",
+    "B": "eficaz de energia, tomando-se o percentual de oferta e os benefícios verificados.",
+    "C": "limpa de energia, não afetando ou alterando os níveis dos gases do efeito estufa.",
+    "D": "poluidora, colaborando com níveis altos de gases de efeito estufa em função de seu potencial de oferta.",
+    "E": "alternativa, tomando-se por referência a grande emissão de gases de efeito estufa das demais fontes geradoras."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto lembra que estudos indicam que as hidrelétricas emitem metano (da decomposição da vegetação alagada) em quantidades comparáveis às emissões de CO<sub>2</sub> das termelétricas. Como elas respondem por 80% da matriz, seriam uma fonte <strong>poluidora, colaborando com níveis altos de gases de efeito estufa em função de seu potencial de oferta</strong>. Alternativa <strong>D</strong>.</p><p>O texto contradiz a ideia de energia “limpa” (A e C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hidrelétricas",
+    "metano"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p>O peróxido de hidrogênio é comumente utilizado como antisséptico e alvejante. Também pode ser empregado em trabalhos de restauração de quadros enegrecidos e no clareamento de dentes. Na presença de soluções ácidas de oxidantes, como o permanganato de potássio, este óxido decompõe-se, conforme a equação a seguir:</p><p class=\"apoio\">5 H<sub>2</sub>O<sub>2</sub> (aq) + 2 KMnO<sub>4</sub> (aq) + 3 H<sub>2</sub>SO<sub>4</sub> (aq) → 5 O<sub>2</sub> (g) + 2 MnSO<sub>4</sub> (aq) + K<sub>2</sub>SO<sub>4</sub> (aq) + 8 H<sub>2</sub>O (l)</p><p class=\"fonte\">ROCHA-FILHO, R. C. R.; SILVA, R. R. <em>Introdução aos Cálculos da Química</em>. São Paulo: McGraw-Hill, 1992.</p><p>De acordo com a estequiometria da reação descrita, a quantidade de permanganato de potássio necessária para reagir completamente com 20,0 mL de uma solução 0,1 mol/L de peróxido de hidrogênio é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2,0×10<sup>0</sup> mol.",
+    "B": "2,0×10<sup>−3</sup> mol.",
+    "C": "8,0×10<sup>−1</sup> mol.",
+    "D": "8,0×10<sup>−4</sup> mol.",
+    "E": "5,0×10<sup>−3</sup> mol."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A solução tem 0,020 L × 0,1 mol/L = 2,0 × 10<sup>−3</sup> mol de H<sub>2</sub>O<sub>2</sub>. Pela equação, 5 mol de H<sub>2</sub>O<sub>2</sub> reagem com 2 mol de KMnO<sub>4</sub>: 2,0 × 10<sup>−3</sup> × 2/5 = <strong>8,0 × 10<sup>−4</sup> mol</strong>. Alternativa <strong>D</strong>.</p><p>A opção B (2,0 × 10<sup>−3</sup>) é a quantidade de peróxido, e não de permanganato.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporção estequiométrica",
+    "concentração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p class=\"apoio\">Os vaga-lumes machos e fêmeas emitem sinais luminosos para se atraírem para o acasalamento. O macho reconhece a fêmea de sua espécie e, atraído por ela, vai ao seu encontro. Porém, existe um tipo de vaga-lume, o <em>Photuris</em>, cuja fêmea engana e atrai os machos de outro tipo, o <em>Photinus</em>, fingindo ser desse gênero. Quando o macho <em>Photinus</em> se aproxima da fêmea <em>Photuris</em>, muito maior que ele, é atacado e devorado por ela.</p><p class=\"fonte\">BERTOLDI, O. G.; VASCONCELLOS, J. R. Ciência & sociedade: a aventura da vida, a aventura da tecnologia. São Paulo: Scipione, 2000 (adaptado).</p><p>A relação descrita no texto, entre a fêmea do gênero <em>Photuris</em> e o macho do gênero <em>Photinus</em>, é um exemplo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "comensalismo.",
+    "B": "inquilinismo.",
+    "C": "cooperação.",
+    "D": "predatismo.",
+    "E": "mutualismo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A fêmea de <em>Photuris</em> imita o sinal das fêmeas de <em>Photinus</em> para atrair os machos e devorá-los. Um organismo mata e come outro de espécie diferente: é <strong>predatismo</strong>. Alternativa <strong>D</strong>.</p><p>No comensalismo e no mutualismo (A e E), nenhuma das espécies é prejudicada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "relações ecológicas",
+    "mimetismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p class=\"apoio\">O etanol é considerado um biocombustível promissor, pois, sob o ponto de vista do balanço de carbono, possui uma taxa de emissão praticamente igual a zero. Entretanto, esse não é o único ciclo biogeoquímico associado à produção de etanol. O plantio da cana-de-açúcar, matéria-prima para a produção de etanol, envolve a adição de macronutrientes como enxofre, nitrogênio, fósforo e potássio, principais elementos envolvidos no crescimento de um vegetal.</p><p class=\"fonte\"><em>Revista Química Nova na Escola</em>. no 28, 2008.</p><p>O nitrogênio incorporado ao solo, como consequência da atividade descrita anteriormente, é transformado em nitrogênio ativo e afetará o meio ambiente, causando</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o acúmulo de sais insolúveis, desencadeando um processo de salinificação do solo.",
+    "B": "a eliminação de microrganismos existentes no solo responsáveis pelo processo de desnitrificação.",
+    "C": "a contaminação de rios e lagos devido à alta solubilidade de íons como NO<sub>3</sub><sup>−</sup> e NH<sub>4</sub><sup>+</sup> em água.",
+    "D": "a diminuição do pH do solo pela presença de NH<sub>3</sub>, que reage com a água, formando o NH<sub>4</sub>OH (aq).",
+    "E": "a diminuição da oxigenação do solo, uma vez que o nitrogênio ativo forma espécies químicas do tipo NO<sub>2</sub>, NO<sub>3</sub><sup>−</sup>, N<sub>2</sub>O."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O nitrogênio dos adubos vira íons como nitrato (NO<sub>3</sub><sup>−</sup>) e amônio (NH<sub>4</sub><sup>+</sup>), muito solúveis em água. A chuva os leva para rios e lagos, causando eutrofização. A consequência é <strong>a contaminação de rios e lagos devido à alta solubilidade de íons como NO<sub>3</sub><sup>−</sup> e NH<sub>4</sub><sup>+</sup> em água</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "adubação",
+    "ciclo do nitrogênio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p>Ao diminuir o tamanho de um orifício atravessado por um feixe de luz, passa menos luz por intervalo de tempo, e próximo da situação de completo fechamento do orifício, verifica-se que a luz apresenta um comportamento como o ilustrado nas figuras. Sabe-se que o som, dentro de suas particularidades, também pode se comportar dessa forma.</p>[[fig:1]]<p class=\"fonte\">FIOLHAIS, C. <em>Física divertida</em>. Brasília: UnB, 2000 (adaptado).</p><p>Em qual das situações a seguir está representado o fenômeno descrito no texto?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q84.webp",
+     "alt": "Três desenhos de uma lâmpada diante de uma parede com um buraco e um anteparo: com o buraco grande, os raios passam em linha reta; menor, passam num feixe estreito; muito pequeno, as ondas se espalham em arcos depois do buraco."
+    }
+   ],
+   "alternativas": {
+    "A": "Ao se esconder atrás de um muro, um menino ouve a conversa de seus colegas.",
+    "B": "Ao gritar diante de um desfiladeiro, uma pessoa ouve a repetição do seu próprio grito.",
+    "C": "Ao encostar o ouvido no chão, um homem percebe o som de uma locomotiva antes de ouvi-lo pelo ar.",
+    "D": "Ao ouvir uma ambulância se aproximando, uma pessoa percebe o som mais agudo do que quando aquela se afasta.",
+    "E": "Ao emitir uma nota musical muito aguda, uma cantora de ópera faz com que uma taça de cristal se despedace."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As figuras mostram a difração: quando o orifício é pequeno, a luz se espalha ao passar por ele, contornando as bordas. Com o som, isso acontece com facilidade, porque seu comprimento de onda é grande: por isso <strong>um menino escondido atrás de um muro ouve a conversa dos colegas</strong>. Alternativa <strong>A</strong>.</p><p>O eco (B) é reflexão, e a ambulância (D) é efeito Doppler.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "difração",
+    "som"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "<p>Um dos processos usados no tratamento do lixo é a incineração, que apresenta vantagens e desvantagens.</p><p>Em São Paulo, por exemplo, o lixo é queimado a altas temperaturas e parte da energia liberada é transformada em energia elétrica. No entanto, a incineração provoca a emissão de poluentes na atmosfera.</p><p>Uma forma de minimizar a desvantagem da incineração, destacada no texto, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aumentar o volume do lixo incinerado para aumentar a produção de energia elétrica.",
+    "B": "fomentar o uso de filtros nas chaminés dos incineradores para diminuir a poluição do ar.",
+    "C": "aumentar o volume do lixo para baratear os custos operacionais relacionados ao processo.",
+    "D": "fomentar a coleta seletiva de lixo nas cidades para aumentar o volume de lixo incinerado.",
+    "E": "diminuir a temperatura de incineração do lixo para produzir maior quantidade de energia elétrica."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A desvantagem destacada é a emissão de poluentes na atmosfera. Filtros nas chaminés retêm partículas e gases antes da saída. A forma de minimizar é <strong>fomentar o uso de filtros nas chaminés dos incineradores para diminuir a poluição do ar</strong>. Alternativa <strong>B</strong>.</p><p>Aumentar o volume de lixo queimado (A, C e D) aumentaria a poluição.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "incineração",
+    "poluição do ar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p>Uma das modalidades presentes nas olimpíadas é o salto com vara. As etapas de um dos saltos de um atleta estão representadas na figura:</p>[[fig:1]]<p>Desprezando-se as forças dissipativas (resistência do ar e atrito), para que o salto atinja a maior altura possível, ou seja, o máximo de energia seja conservada, é necessário que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q86.webp",
+     "alt": "Quatro quadros do salto com vara: etapa I, atleta corre com a vara; etapa II, apoia a vara no chão; etapa III, atinge certa altura sobre o sarrafo; etapa IV, cai num colchão."
+    }
+   ],
+   "alternativas": {
+    "A": "a energia cinética, representada na etapa I, seja totalmente convertida em energia potencial elástica representada na etapa IV.",
+    "B": "a energia cinética, representada na etapa II, seja totalmente convertida em energia potencial gravitacional, representada na etapa IV.",
+    "C": "a energia cinética, representada na etapa I, seja totalmente convertida em energia potencial gravitacional, representada na etapa III.",
+    "D": "a energia potencial gravitacional, representada na etapa II, seja totalmente convertida em energia potencial elástica, representada na etapa IV.",
+    "E": "a energia potencial gravitacional, representada na etapa I, seja totalmente convertida em energia potencial elástica, representada na etapa III."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Sem atrito, o atleta corre (energia cinética, etapa I), e essa energia passa pela vara (elástica) até virar energia potencial gravitacional no ponto mais alto (etapa III). Para a altura máxima, <strong>a energia cinética da etapa I deve ser totalmente convertida em energia potencial gravitacional na etapa III</strong>. Alternativa <strong>C</strong>.</p><p>Na etapa IV o atleta já está caindo no colchão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conservação de energia",
+    "salto com vara"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Biologia",
+   "assunto": "Classificação dos seres vivos",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "[[fig:1]]<p>O poema acima sugere a existência de relações de afinidade entre os animais citados e nós, seres humanos. Respeitando a liberdade poética dos autores, a unidade taxonômica que expressa a afinidade existente entre nós e estes animais é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q87.webp",
+     "alt": "Poema “Os bichinhos e o homem”, da Arca de Noé, de Toquinho e Vinicius de Moraes: o eu lírico chama de irmãos a mosca, o mosquito, o besouro, a barata, a borboleta e o grilo, com comentários bem-humorados sobre cada um."
+    }
+   ],
+   "alternativas": {
+    "A": "o filo.",
+    "B": "o reino.",
+    "C": "a classe.",
+    "D": "a família.",
+    "E": "a espécie."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O poema chama de irmãos a mosca, o besouro, a barata, a borboleta e o grilo, que são insetos. Entre humanos e insetos, a categoria comum mais próxima é o <strong>reino</strong> animal: são de filos diferentes (cordados e artrópodes). Alternativa <strong>B</strong>.</p><p>Filo, classe, família e espécie (A, C, D e E) já separam humanos de insetos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "taxonomia",
+    "reino Animalia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p class=\"apoio\">Certas espécies de algas são capazes de absorver rapidamente compostos inorgânicos presentes na água, acumulando-os durante seu crescimento. Essa capacidade fez com que se pensasse em usá-las como biofiltros para a limpeza de ambientes aquáticos contaminados, removendo, por exemplo, nitrogênio e fósforo de resíduos orgânicos e metais pesados provenientes de rejeitos industriais lançados nas águas. Na técnica do cultivo integrado, animais e algas crescem de forma associada, promovendo um maior equilíbrio ecológico.</p><p class=\"fonte\">SORIANO, E. M. Filtros vivos para limpar a água. <em>Revista Ciência Hoje</em>. V. 37, n° 219, 2005 (adaptado).</p><p>A utilização da técnica do cultivo integrado de animais e algas representa uma proposta favorável a um ecossistema mais equilibrado porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "os animais eliminam metais pesados, que são usados pelas algas para a síntese de biomassa.",
+    "B": "os animais fornecem excretas orgânicos nitrogenados, que são transformados em gás carbônico pelas algas.",
+    "C": "as algas usam os resíduos nitrogenados liberados pelos animais e eliminam gás carbônico na fotossíntese, usado na respiração aeróbica.",
+    "D": "as algas usam os resíduos nitrogenados provenientes do metabolismo dos animais e, durante a síntese de compostos orgânicos, liberam oxigênio para o ambiente.",
+    "E": "as algas aproveitam os resíduos do metabolismo dos animais e, durante a quimiossíntese de compostos orgânicos, liberam oxigênio para o ambiente."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os animais liberam resíduos nitrogenados, que poluem a água. As algas os absorvem como nutrientes e, na fotossíntese, produzem matéria orgânica e liberam oxigênio, usado pelos animais. A proposta é boa porque <strong>as algas usam os resíduos nitrogenados provenientes do metabolismo dos animais e, durante a síntese de compostos orgânicos, liberam oxigênio para o ambiente</strong>. Alternativa <strong>D</strong>.</p><p>As algas fazem fotossíntese, e não quimiossíntese (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biofiltros",
+    "fotossíntese"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Biologia",
+   "assunto": "Saúde e doenças",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p>Durante as estações chuvosas, aumentam no Brasil as campanhas de prevenção à dengue, que têm como objetivo a redução da proliferação do mosquito <em>Aedes aegypti</em>, transmissor do vírus da dengue.</p><p>Que proposta preventiva poderia ser efetivada para diminuir a reprodução desse mosquito?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Colocação de telas nas portas e janelas, pois o mosquito necessita de ambientes cobertos e fechados para a sua reprodução.",
+    "B": "Substituição das casas de barro por casas de alvenaria, haja vista que o mosquito se reproduz na parede das casas de barro.",
+    "C": "Remoção dos recipientes que possam acumular água, porque as larvas do mosquito se desenvolvem nesse meio.",
+    "D": "Higienização adequada de alimentos, visto que as larvas do mosquito se desenvolvem nesse tipo de substrato.",
+    "E": "Colocação de filtros de água nas casas, visto que a reprodução do mosquito acontece em águas contaminadas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O <em>Aedes aegypti</em> põe ovos em água parada e limpa, e as larvas se desenvolvem nela. A medida eficaz é a <strong>remoção dos recipientes que possam acumular água</strong>, como pneus, vasos e garrafas. Alternativa <strong>C</strong>.</p><p>O barbeiro, transmissor da doença de Chagas, é que vive nas paredes de barro (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dengue",
+    "Aedes aegypti"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Questão ambiental",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\">De acordo com o relatório “A grande sombra da pecuária” (Livestock’s Long Shadow), feito pela Organização das Nações Unidas para a Agricultura e a Alimentação, o gado é responsável por cerca de 18% do aquecimento global, uma contribuição maior que a do setor de transportes.</p><p class=\"fonte\">Disponível em: www.conpet.gov.br. Acesso em: 22 jun. 2010.</p><p>A criação de gado em larga escala contribui para o aquecimento global por meio da emissão de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2011-natureza/q90.webp",
+     "alt": "Tirinha de quatro quadros com vacas: “Colocaram a culpa do aquecimento global nas vacas.” “E o que faremos?” “Culparemos as galinhas.”"
+    }
+   ],
+   "alternativas": {
+    "A": "metano durante o processo de digestão.",
+    "B": "óxido nitroso durante o processo de ruminação.",
+    "C": "clorofluorcarbono durante o transporte de carne.",
+    "D": "óxido nitroso durante o processo respiratório.",
+    "E": "dióxido de enxofre durante o consumo de pastagens."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os bovinos são ruminantes: no estômago, microrganismos fermentam o capim e produzem metano, que o animal libera ao arrotar. O metano é um gás de efeito estufa muito mais potente que o CO<sub>2</sub>. A contribuição é pela emissão de <strong>metano durante o processo de digestão</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metano",
+    "pecuária"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

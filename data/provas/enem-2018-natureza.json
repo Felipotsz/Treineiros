@@ -1,0 +1,1307 @@
+{
+ "id": "enem-2018-natureza",
+ "banca": "Enem",
+ "ano": 2018,
+ "titulo": "Enem 2018: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2018-11-11",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Química",
+   "assunto": "Isomeria",
+   "origem": {
+    "numeroOriginal": 91
+   },
+   "enunciado": "<p>Pesquisas demonstram que nanodispositivos baseados em movimentos de dimensões atômicas, induzidos por luz, poderão ter aplicações em tecnologias futuras, substituindo micromotores, sem a necessidade de componentes mecânicos. Exemplo de movimento molecular induzido pela luz pode ser observado pela flexão de uma lâmina delgada de silício, ligado a um polímero de azobenzeno e a um material suporte, em dois comprimentos de onda, conforme ilustrado na figura. Com a aplicação de luz ocorrem reações reversíveis da cadeia do polímero, que promovem o movimento observado.</p>[[fig:1]]<p class=\"fonte\">TOMA, H. E. A nanotecnologia das moléculas. Química Nova na Escola, n. 21, maio 2005 (adaptado).</p><p>O fenômeno de movimento molecular, promovido pela incidência de luz, decorre do(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q91.webp",
+     "alt": "Lâmina de silício presa a um suporte, com uma cadeia de polímero de azobenzeno. Sob luz de 365 nm, as unidades N=N passam de uma forma esticada para uma forma dobrada e a lâmina se curva; sob luz de 420 nm, voltam à forma esticada e a lâmina se endireita. Legenda dos átomos: hidrogênio, carbono e nitrogênio."
+    }
+   ],
+   "alternativas": {
+    "A": "movimento vibracional dos átomos, que leva ao encurtamento e à relaxação das ligações.",
+    "B": "isomerização das ligações N=N, sendo a forma cis do polímero mais compacta que a trans.",
+    "C": "tautomerização das unidades monoméricas do polímero, que leva a um composto mais compacto.",
+    "D": "ressonância entre os elétrons π do grupo azo e os do anel aromático que encurta as ligações duplas.",
+    "E": "variação conformacional das ligações N=N, que resulta em estruturas com diferentes áreas de superfície."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na figura, a luz de 365 nm transforma as ligações N=N do azobenzeno da forma trans (cadeia esticada) para a forma cis (cadeia dobrada), e a luz de 420 nm faz o caminho inverso. Como a forma cis é mais compacta, a cadeia encolhe e a lâmina se curva. O movimento decorre da <strong>isomerização das ligações N=N, sendo a forma cis do polímero mais compacta que a trans</strong>. Alternativa <strong>B</strong>.</p><p>Não há tautomeria (C), que envolveria migração de hidrogênio, nem simples vibração das ligações (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "azobenzeno",
+    "isomeria cis-trans"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 92
+   },
+   "enunciado": "<p>O carro <em>flex</em> é uma realidade no Brasil. Estes veículos estão equipados com motor que tem a capacidade de funcionar com mais de um tipo de combustível. No entanto, as pessoas que têm esse tipo de veículo, na hora do abastecimento, têm sempre a dúvida: álcool ou gasolina? Para avaliar o consumo desses combustíveis, realizou-se um percurso com um veículo <em>flex</em>, consumindo 40 litros de gasolina e no percurso de volta utilizou-se etanol. Foi considerado o mesmo consumo de energia tanto no percurso de ida quanto no de volta.</p><p>O quadro resume alguns dados aproximados sobre esses combustíveis.</p><table class=\"tabela\"><thead><tr><th>Combustível</th><th>Densidade (g mL<sup>−1</sup>)</th><th>Calor de combustão (kcal g<sup>−1</sup>)</th></tr></thead><tbody><tr><td>Etanol</td><td>0,8</td><td>−6</td></tr><tr><td>Gasolina</td><td>0,7</td><td>−10</td></tr></tbody></table><p>O volume de etanol combustível, em litro, consumido no percurso de volta é mais próximo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "27.",
+    "B": "32.",
+    "C": "37.",
+    "D": "58.",
+    "E": "67."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A energia liberada pela gasolina na ida é a mesma que o etanol deve liberar na volta.</p><p>Gasolina: 40 L × 0,7 kg/L = 28 kg = 28 000 g; energia = 28 000 g × 10 kcal/g = 280 000 kcal.</p><p>Etanol: massa = 280 000 kcal ÷ 6 kcal/g ≈ 46 700 g; volume = 46 700 g ÷ 0,8 g/mL ≈ 58 000 mL ≈ <strong>58 L</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combustíveis",
+    "calor de combustão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 93
+   },
+   "enunciado": "<p>Em 1938 o arqueólogo alemão Wilhelm König, diretor do Museu Nacional do Iraque, encontrou um objeto estranho na coleção da instituição, que poderia ter sido usado como uma pilha, similar às utilizadas em nossos dias. A suposta pilha, datada de cerca de 200 a.C., é constituída de um pequeno vaso de barro (argila) no qual foram instalados um tubo de cobre, uma barra de ferro (aparentemente corroída por ácido) e uma tampa de betume (asfalto), conforme ilustrado. Considere os potenciais-padrão de redução: <em>E</em>° (Fe<sup>2+</sup>|Fe) = −0,44 V; <em>E</em>° (H<sup>+</sup>|H<sub>2</sub>) = 0,00 V; e <em>E</em>° (Cu<sup>2+</sup>|Cu) = +0,34 V.</p>[[fig:1]]<p class=\"fonte\">As pilhas de Bagdá e a acupuntura. Disponível em: http://jornalggn.com.br. Acesso em: 14 dez. 2014 (adaptado).</p><p>Nessa suposta pilha, qual dos componentes atuaria como cátodo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q93.webp",
+     "alt": "Corte da suposta pilha de Bagdá: um vaso de barro, com vestígio de ácido no fundo, contém um tubo de cobre e, dentro dele, uma barra de ferro; uma tampa de betume fecha a boca do vaso."
+    }
+   ],
+   "alternativas": {
+    "A": "A tampa de betume.",
+    "B": "O vestígio de ácido.",
+    "C": "A barra de ferro.",
+    "D": "O tubo de cobre.",
+    "E": "O vaso de barro."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na pilha, o cátodo é onde ocorre a redução, isto é, o eletrodo de maior potencial de redução. Entre ferro (−0,44 V) e cobre (+0,34 V), o cobre tem o maior potencial: o ferro se oxida (por isso aparece corroído) e o <strong>tubo de cobre</strong> é o cátodo. Alternativa <strong>D</strong>.</p><p>O ácido é o eletrólito, e o betume e o barro são isolantes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pilha",
+    "potencial de redução"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 94
+   },
+   "enunciado": "<p>Anabolismo e catabolismo são processos celulares antagônicos, que são controlados principalmente pela ação hormonal. Por exemplo, no fígado a insulina atua como um hormônio com ação anabólica, enquanto o glucagon tem ação catabólica e ambos são secretados em resposta ao nível de glicose sanguínea. Em caso de um indivíduo com hipoglicemia, o hormônio citado que atua no catabolismo induzirá o organismo a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "realizar a fermentação lática.",
+    "B": "metabolizar aerobicamente a glicose.",
+    "C": "produzir aminoácidos a partir de ácidos graxos.",
+    "D": "transformar ácidos graxos em glicogênio.",
+    "E": "estimular a utilização do glicogênio."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na hipoglicemia, o pâncreas libera glucagon, que age no fígado quebrando o glicogênio armazenado (glicogenólise) e liberando glicose no sangue. O glucagon vai <strong>estimular a utilização do glicogênio</strong>. Alternativa <strong>E</strong>.</p><p>Transformar substâncias em glicogênio (D) é anabolismo, papel da insulina.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "glucagon",
+    "glicemia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 95
+   },
+   "enunciado": "<p>Usando um densímetro cuja menor divisão da escala, isto é, a diferença entre duas marcações consecutivas, é de 5,0 × 10<sup>−2</sup> g cm<sup>−3</sup>, um estudante realizou um teste de densidade: colocou este instrumento na água pura e observou que ele atingiu o repouso na posição mostrada.</p>[[fig:1]]<p>Em dois outros recipientes A e B contendo 2 litros de água pura, em cada um, ele adicionou 100 g e 200 g de NaCl, respectivamente.</p><p>Quando o cloreto de sódio é adicionado à água pura ocorre sua dissociação formando os íons Na<sup>+</sup> e Cl<sup>−</sup>. Considere que esses íons ocupam os espaços intermoleculares na solução. Nestes recipientes, a posição de equilíbrio do densímetro está representada em:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q95.webp",
+     "alt": "Densímetro em repouso na água pura: um tubo graduado com bulbo, flutuando num recipiente, com parte da escala acima da superfície."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q95a.webp",
+     "alt": "Alternativa A: o densímetro fica na mesma altura nos recipientes A e B, mais alto do que na água pura."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q95b.webp",
+     "alt": "Alternativa B: o densímetro afunda mais do que na água pura nos dois recipientes, e mais ainda em B."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q95c.webp",
+     "alt": "Alternativa C: o densímetro afunda um pouco mais do que na água pura, quase na mesma altura em A e B."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q95d.webp",
+     "alt": "Alternativa D: o densímetro sobe uma divisão em A e duas divisões em B em relação à água pura, ficando B menos imerso que A."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q95e.webp",
+     "alt": "Alternativa E: o densímetro sobe nos dois recipientes, com pouca diferença entre A e B."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Considerando que os íons ocupam os espaços entre as moléculas de água, o volume continua 2 L = 2 000 cm³.</p><p>A: (2 000 g + 100 g) ÷ 2 000 cm³ = 1,05 g/cm³. B: (2 000 g + 200 g) ÷ 2 000 cm³ = 1,10 g/cm³.</p><p>Cada divisão vale 0,05 g/cm³; em relação à água pura (1,00 g/cm³), o densímetro deve subir uma divisão em A e duas em B, ficando menos imerso quanto mais densa for a solução. Esse é o desenho da opção D. Alternativa <strong>D</strong>.</p><p>Nas outras figuras, o densímetro afunda com o sal ou sobe a mesma altura nos dois recipientes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "densidade",
+    "densímetro"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 96
+   },
+   "enunciado": "<p>Para serem absorvidos pelas células do intestino humano, os lipídios ingeridos precisam ser primeiramente emulsificados. Nessa etapa da digestão, torna-se necessária a ação dos ácidos biliares, visto que os lipídios apresentam uma natureza apolar e são insolúveis em água. Esses ácidos atuam no processo de modo a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "hidrolisar os lipídios.",
+    "B": "agir como detergentes.",
+    "C": "tornar os lipídios anfifílicos.",
+    "D": "promover a secreção de lipases.",
+    "E": "estimular o trânsito intestinal dos lipídios."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os ácidos biliares têm uma parte polar e outra apolar. A parte apolar se liga às gotas de gordura e a polar fica voltada para a água, quebrando as gotas grandes em gotículas (emulsificação). Eles atuam como os sabões: <strong>agem como detergentes</strong>. Alternativa <strong>B</strong>.</p><p>Quem hidrolisa os lipídios são as lipases (A); a bile não é enzima.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "bile",
+    "digestão de lipídios"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 97
+   },
+   "enunciado": "<p class=\"apoio\">A tecnologia de comunicação da etiqueta RFID (chamada de etiqueta inteligente) é usada há anos para rastrear gado, vagões de trem, bagagem aérea e carros nos pedágios. Um modelo mais barato dessas etiquetas pode funcionar sem baterias e é constituído por três componentes: um microprocessador de silício; uma bobina de metal, feita de cobre ou de alumínio, que é enrolada em um padrão circular; e um encapsulador, que é um material de vidro ou polímero envolvendo o microprocessador e a bobina. Na presença de um campo de radiofrequência gerado pelo leitor, a etiqueta transmite sinais. A distância de leitura é determinada pelo tamanho da bobina e pela potência da onda de rádio emitida pelo leitor.</p><p class=\"fonte\">Disponível em: http://eletronicos.hsw.uol.com.br. Acesso em: 27 fev. 2012 (adaptado).</p><p>A etiqueta funciona sem pilhas porque o campo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "elétrico da onda de rádio agita elétrons da bobina.",
+    "B": "elétrico da onda de rádio cria uma tensão na bobina.",
+    "C": "magnético da onda de rádio induz corrente na bobina.",
+    "D": "magnético da onda de rádio aquece os fios da bobina.",
+    "E": "magnético da onda de rádio diminui a ressonância no interior da bobina."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A bobina da etiqueta funciona como antena: o campo magnético variável da onda de rádio emitida pelo leitor atravessa a bobina e, pela lei de Faraday, induz nela uma corrente elétrica, que alimenta o microprocessador. O campo <strong>magnético da onda de rádio induz corrente na bobina</strong>. Alternativa <strong>C</strong>.</p><p>Aquecer os fios (D) não geraria energia útil para o circuito.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "indução eletromagnética",
+    "RFID"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 98
+   },
+   "enunciado": "<p class=\"apoio\">Corredores ecológicos visam mitigar os efeitos da fragmentação dos ecossistemas promovendo a ligação entre diferentes áreas, com o objetivo de proporcionar o deslocamento de animais, a dispersão de sementes e o aumento da cobertura vegetal. São instituídos com base em informações como estudos sobre o deslocamento de espécies, sua área de vida (área necessária para o suprimento de suas necessidades vitais e reprodutivas) e a distribuição de suas populações.</p><p class=\"fonte\">Disponível em: www.mma.gov.br. Acesso em: 30 nov. 2017 (adaptado).</p><p>Nessa estratégia, a recuperação da biodiversidade é efetiva porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "propicia o fluxo gênico.",
+    "B": "intensifica o manejo de espécies.",
+    "C": "amplia o processo de ocupação humana.",
+    "D": "aumenta o número de indivíduos nas populações.",
+    "E": "favorece a formação de ilhas de proteção integral."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Ligando fragmentos de mata, os corredores permitem que animais se desloquem e sementes se dispersem entre populações antes isoladas. Os indivíduos de áreas diferentes passam a se cruzar, e a variabilidade genética aumenta: os corredores <strong>propiciam o fluxo gênico</strong>. Alternativa <strong>A</strong>.</p><p>Ilhas de proteção isoladas (E) são justamente o problema que os corredores tentam resolver.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "corredores ecológicos",
+    "fragmentação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Química",
+   "assunto": "Funções inorgânicas",
+   "origem": {
+    "numeroOriginal": 99
+   },
+   "enunciado": "<p class=\"apoio\">A identificação de riscos de produtos perigosos para o transporte rodoviário é obrigatória e realizada por meio da sinalização composta por um painel de segurança, de cor alaranjada, e um rótulo de risco. As informações inseridas no painel de segurança e no rótulo de risco, conforme determina a legislação, permitem que se identifique o produto transportado e os perigos a ele associados.</p><p class=\"apoio\">A sinalização mostrada identifica uma substância que está sendo transportada em um caminhão.</p>[[fig:1]]<p class=\"apoio\">Os três algarismos da parte superior do painel indicam o “Número de risco”. O número 268 indica tratar-se de um gás (2), tóxico (6) e corrosivo (8). Os quatro dígitos da parte inferior correspondem ao “Número ONU”, que identifica o produto transportado.</p><p class=\"fonte\">BRASIL. Resolução n. 420, de 12/02/2004, da Agência Nacional de Transportes Terrestres (ANTT)/Ministério dos Transportes (adaptado). ABNT. NBR 7500: identificação para o transporte terrestre, manuseio, movimentação e armazenamento de produtos. Rio de Janeiro, 2004 (adaptado).</p><p>Considerando a identificação apresentada no caminhão, o código 1005 corresponde à substância</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q99.webp",
+     "alt": "Sinalização do caminhão: painel de segurança laranja com o número 268 em cima e 1005 embaixo, ao lado de um rótulo de risco em losango com uma caveira e os dizeres “gás tóxico” e o número 2."
+    }
+   ],
+   "alternativas": {
+    "A": "eteno (C<sub>2</sub>H<sub>4</sub>).",
+    "B": "nitrogênio (N<sub>2</sub>).",
+    "C": "amônia (NH<sub>3</sub>).",
+    "D": "propano (C<sub>3</sub>H<sub>8</sub>).",
+    "E": "dióxido de carbono (CO<sub>2</sub>)."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O número de risco 268 indica um gás tóxico e corrosivo. Entre as opções, só a <strong>amônia (NH<sub>3</sub>)</strong> é ao mesmo tempo gás, tóxica e corrosiva (forma solução básica em contato com a umidade). Alternativa <strong>C</strong>.</p><p>Eteno e propano são inflamáveis (A e D); nitrogênio e gás carbônico não são corrosivos (B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transporte de produtos perigosos",
+    "amônia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 100
+   },
+   "enunciado": "<p class=\"apoio\">No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição.</p><p class=\"fonte\">ALBERTS, B. et al. Fundamentos da biologia celular. Porto Alegre: Artmed, 2011 (adaptado).</p><p>A ausência dessa proteína poderá favorecer a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "redução da síntese de DNA, acelerando o ciclo celular.",
+    "B": "saída imediata do ciclo celular, antecipando a proteção do DNA.",
+    "C": "ativação de outras proteínas reguladoras, induzindo a apoptose.",
+    "D": "manutenção da estabilidade genética, favorecendo a longevidade.",
+    "E": "proliferação celular exagerada, resultando na formação de um tumor."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A p53 detém o ciclo quando o DNA está danificado e, se o dano não é reparado, leva a célula à apoptose. Sem ela, células com mutações continuam se dividindo sem controle, o que pode levar a <strong>proliferação celular exagerada, resultando na formação de um tumor</strong>. Alternativa <strong>E</strong>.</p><p>A falta da p53 reduz a estabilidade genética, não a mantém (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo celular",
+    "câncer"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Biologia",
+   "assunto": "Fisiologia comparada",
+   "origem": {
+    "numeroOriginal": 101
+   },
+   "enunciado": "<p>O deserto é um bioma que se localiza em regiões de pouca umidade. A fauna é, predominantemente, composta por animais roedores, aves, répteis e artrópodes. Uma adaptação, associada a esse bioma, presente nos seres vivos dos grupos citados é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "existência de numerosas glândulas sudoríparas na epiderme.",
+    "B": "eliminação de excretas nitrogenadas de forma concentrada.",
+    "C": "desenvolvimento do embrião no interior de ovo com casca.",
+    "D": "capacidade de controlar a temperatura corporal.",
+    "E": "respiração realizada por pulmões foliáceos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Roedores, aves, répteis e artrópodes do deserto precisam economizar água. Uma adaptação comum a esses grupos é <strong>eliminar excretas nitrogenadas de forma concentrada</strong>: aves, répteis e insetos excretam ácido úrico, quase seco, e os roedores do deserto produzem urina muito concentrada. Alternativa <strong>B</strong>.</p><p>Répteis e artrópodes não têm glândulas sudoríparas (A) nem controlam a temperatura corporal (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "deserto",
+    "excreção"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Química",
+   "assunto": "Cinética química",
+   "origem": {
+    "numeroOriginal": 102
+   },
+   "enunciado": "<p class=\"apoio\">O sulfeto de mercúrio(II) foi usado como pigmento vermelho para pinturas de quadros e murais. Esse pigmento, conhecido como <em>vermilion</em>, escurece com o passar dos anos, fenômeno cuja origem é alvo de pesquisas. Aventou-se a hipótese de que o <em>vermilion</em> seja decomposto sob a ação da luz, produzindo uma fina camada de mercúrio metálico na superfície. Essa reação seria catalisada por íon cloreto presente na umidade do ar.</p><p class=\"fonte\">WOGAN, T. Mercury's Dark Influence on Art. Disponível em: www.chemistryworld.com. Acesso em: 26 abr. 2018 (adaptado).</p><p>Segundo a hipótese proposta, o íon cloreto atua na decomposição fotoquímica do <em>vermilion</em></p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reagindo como agente oxidante.",
+    "B": "deslocando o equilíbrio químico.",
+    "C": "diminuindo a energia de ativação.",
+    "D": "precipitando cloreto de mercúrio.",
+    "E": "absorvendo a energia da luz visível."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A hipótese diz que a decomposição “seria catalisada por íon cloreto”. Um catalisador acelera a reação sem ser consumido, <strong>diminuindo a energia de ativação</strong>. Alternativa <strong>C</strong>.</p><p>Catalisadores não deslocam equilíbrios (B), e o cloreto não é consumido como oxidante (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "catalisador",
+    "energia de ativação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 103
+   },
+   "enunciado": "<p class=\"apoio\">O sonorizador é um dispositivo físico implantado sobre a superfície de uma rodovia de modo que provoque uma trepidação e ruído quando da passagem de um veículo sobre ele, alertando para uma situação atípica à frente, como obras, pedágios ou travessia de pedestres. Ao passar sobre os sonorizadores, a suspensão do veículo sofre vibrações que produzem ondas sonoras, resultando em um barulho peculiar. Considere um veículo que passe com velocidade constante igual a 108 km/h sobre um sonorizador cujas faixas são separadas por uma distância de 8 cm.</p><p class=\"fonte\">Disponível em: www.denatran.gov.br. Acesso em: 2 set. 2015 (adaptado).</p><p>A frequência da vibração do automóvel percebida pelo condutor durante a passagem nesse sonorizador é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "8,6 hertz.",
+    "B": "13,5 hertz.",
+    "C": "375 hertz.",
+    "D": "1 350 hertz.",
+    "E": "4 860 hertz."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>108 km/h ÷ 3,6 = 30 m/s. As faixas estão a 8 cm = 0,08 m. A frequência é o número de faixas por segundo:</p><p>f = v ÷ d = 30 ÷ 0,08 = <strong>375 Hz</strong>. Alternativa <strong>C</strong>.</p><p>Usar a velocidade em km/h, sem converter, dá 1 350 Hz (D), que é o erro mais comum.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "frequência",
+    "velocidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Física",
+   "assunto": "Estática",
+   "origem": {
+    "numeroOriginal": 104
+   },
+   "enunciado": "<p>As pessoas que utilizam objetos cujo princípio de funcionamento é o mesmo do das alavancas aplicam uma força, chamada de força potente, em um dado ponto da barra, para superar ou equilibrar uma segunda força, chamada de resistente, em outro ponto da barra. Por causa das diferentes distâncias entre os pontos de aplicação das forças, potente e resistente, os seus efeitos também são diferentes. A figura mostra alguns exemplos desses objetos.</p>[[fig:1]]<p>Em qual dos objetos a força potente é maior que a força resistente?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q104.webp",
+     "alt": "Fotos de cinco objetos: alicate, pinça, quebra-nozes, carrinho de mão e abridor de garrafa."
+    }
+   ],
+   "alternativas": {
+    "A": "Pinça.",
+    "B": "Alicate.",
+    "C": "Quebra-nozes.",
+    "D": "Carrinho de mão.",
+    "E": "Abridor de garrafa."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A força potente é maior que a resistente quando ela é aplicada mais perto do apoio do que a resistente (alavanca interpotente). Na <strong>pinça</strong>, os dedos apertam no meio, a ponta segura o objeto e o apoio fica na outra extremidade: o braço da potente é menor. Alternativa <strong>A</strong>.</p><p>No alicate, no quebra-nozes, no carrinho de mão e no abridor, a força é aplicada longe do apoio e é ampliada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "alavancas",
+    "torque"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Química",
+   "assunto": "Tabela periódica",
+   "origem": {
+    "numeroOriginal": 105
+   },
+   "enunciado": "<p class=\"apoio\">Na mitologia grega, Nióbia era a filha de Tântalo, dois personagens conhecidos pelo sofrimento. O elemento químico de número atômico (Z) igual a 41 tem propriedades químicas e físicas tão parecidas com as do elemento de número atômico 73 que chegaram a ser confundidos. Por isso, em homenagem a esses dois personagens da mitologia grega, foi conferido a esses elementos os nomes de nióbio (Z = 41) e tântalo (Z = 73). Esses dois elementos químicos adquiriram grande importância econômica na metalurgia, na produção de supercondutores e em outras aplicações na indústria de ponta, exatamente pelas propriedades químicas e físicas comuns aos dois.</p><p class=\"fonte\">KEAN, S. A colher que desaparece: e outras histórias reais de loucura, amor e morte a partir dos elementos químicos. Rio de Janeiro: Zahar, 2011 (adaptado).</p><p>A importância econômica e tecnológica desses elementos, pela similaridade de suas propriedades químicas e físicas, deve-se a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "terem elétrons no subnível f.",
+    "B": "serem elementos de transição interna.",
+    "C": "pertencerem ao mesmo grupo na tabela periódica.",
+    "D": "terem seus elétrons mais externos nos níveis 4 e 5, respectivamente.",
+    "E": "estarem localizados na família dos alcalinos terrosos e alcalinos, respectivamente."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Nióbio (Z = 41) e tântalo (Z = 73) estão no mesmo grupo, o 5, da tabela periódica: têm a mesma configuração eletrônica na camada de valência (d³s²), e por isso propriedades químicas tão parecidas. A semelhança vem de <strong>pertencerem ao mesmo grupo na tabela periódica</strong>. Alternativa <strong>C</strong>.</p><p>São metais de transição externa, não interna (A e B), e seus elétrons mais externos estão nos níveis 5 e 6 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nióbio",
+    "grupos da tabela"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 106
+   },
+   "enunciado": "<p>O processo de formação de novas espécies é lento e repleto de nuances e estágios intermediários, havendo uma diminuição da viabilidade entre cruzamentos. Assim, plantas originalmente de uma mesma espécie que não cruzam mais entre si podem ser consideradas como uma espécie se diferenciando. Um pesquisador realizou cruzamentos entre nove populações — denominadas de acordo com a localização onde são encontradas — de uma espécie de orquídea (<em>Epidendrum denticulatum</em>). No diagrama estão os resultados dos cruzamentos entre as populações. Considere que o doador fornece o pólen para o receptor.</p>[[fig:1]]<p class=\"fonte\">FIORAVANTI, C. Os primeiros passos de novas espécies: plantas e animais se diferenciam por meio de mecanismos surpreendentes. <strong>Pesquisa Fapesp</strong>, out. 2013 (adaptado).</p><p>Em populações de quais localidades se observa um processo de especiação evidente?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q106.webp",
+     "alt": "Diagrama de cruzamentos entre nove populações de orquídea: Pão de Açúcar, Peti, Itirapina, Alcobaça, Itapeva, Bertioga, Olivença, Marambaia e Massambaba, ligadas por setas do doador para o receptor. Setas contínuas indicam polinização bem-sucedida, e pontilhadas, polinização inviável ou nula. Folhas pretas marcam populações da Mata Atlântica, e cinza, do Cerrado."
+    }
+   ],
+   "alternativas": {
+    "A": "Bertioga e Marambaia; Alcobaça e Olivença.",
+    "B": "Itirapina e Itapeva; Marambaia e Massambaba.",
+    "C": "Itirapina e Marambaia; Alcobaça e Itirapina.",
+    "D": "Itirapina e Peti; Alcobaça e Marambaia.",
+    "E": "Itirapina e Olivença; Marambaia e Peti."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Especiação evidente é quando populações não conseguem mais cruzar entre si, em nenhum sentido. No diagrama, as setas pontilhadas (polinização inviável) aparecem nos dois sentidos entre Itirapina e Peti e entre Alcobaça e Marambaia. Alternativa <strong>D</strong>.</p><p>Nos outros pares há pelo menos um sentido de cruzamento bem-sucedido.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "especiação",
+    "isolamento reprodutivo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Biologia",
+   "assunto": "Botânica",
+   "origem": {
+    "numeroOriginal": 107
+   },
+   "enunciado": "<p>O cruzamento de duas espécies da família das Anonáceas, a cherimoia (<em>Annona cherimola</em>) com a fruta-pinha (<em>Annona squamosa</em>), resultou em uma planta híbrida denominada de atemoia. Recomenda-se que o seu plantio seja por meio de enxertia. Um dos benefícios dessa forma de plantio é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ampliação da variabilidade genética.",
+    "B": "produção de frutos das duas espécies.",
+    "C": "manutenção do genótipo da planta híbrida.",
+    "D": "reprodução de clones das plantas parentais.",
+    "E": "modificação do genoma decorrente da transgenia."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A enxertia é reprodução assexuada: o galho enxertado continua com o mesmo DNA da planta de onde veio. Para a atemoia, um híbrido, isso garante que todas as mudas tenham as mesmas características: a <strong>manutenção do genótipo da planta híbrida</strong>. Alternativa <strong>C</strong>.</p><p>Plantar por sementes, ao contrário, misturaria os genes e aumentaria a variabilidade (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "enxertia",
+    "reprodução assexuada"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 108
+   },
+   "enunciado": "<p>Ao pesquisar um resistor feito de um novo tipo de material, um cientista observou o comportamento mostrado no gráfico tensão <em>versus</em> corrente.</p>[[fig:1]]<p>Após a análise do gráfico, ele concluiu que a tensão em função da corrente é dada pela equação <em>V</em> = 10 <em>i</em> + <em>i</em><sup>2</sup>.</p><p>O gráfico da resistência elétrica (<em>R</em>) do resistor em função da corrente (<em>i</em>) é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q108.webp",
+     "alt": "Gráfico de tensão (V) em função da corrente (A): uma curva que começa na origem e sobe cada vez mais inclinada, até 7 A e cerca de 120 V."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q108a.webp",
+     "alt": "Alternativa A: reta horizontal em R = 10 Ω, de 0 a 7 A."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q108b.webp",
+     "alt": "Alternativa B: reta horizontal em R ≈ 17 Ω, de 0 a 7 A."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q108c.webp",
+     "alt": "Alternativa C: reta que sai da origem e chega a R = 7 Ω em i = 7 A."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q108d.webp",
+     "alt": "Alternativa D: reta que começa em R = 10 Ω para i = 0 e chega a cerca de 17 Ω em i = 7 A."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q108e.webp",
+     "alt": "Alternativa E: curva que começa em R = 10 Ω e sobe cada vez mais rápido, chegando a cerca de 60 Ω em i = 7 A."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A resistência é R = V ÷ i. Com V = 10i + i²:</p><p>R = (10i + i²) ÷ i = 10 + i.</p><p>É uma reta que começa em 10 Ω (i = 0) e chega a 17 Ω para i = 7 A. Alternativa <strong>D</strong>.</p><p>O resistor não é ôhmico: R muda com a corrente, então as retas horizontais (A e B) estão erradas, e a reta da C esquece o termo constante 10.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "resistência elétrica",
+    "resistor não ôhmico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Química",
+   "assunto": "Reações orgânicas",
+   "origem": {
+    "numeroOriginal": 109
+   },
+   "enunciado": "<p>A hidroxilamina (NH<sub>2</sub>OH) é extremamente reativa em reações de substituição nucleofílica, justificando sua utilização em diversos processos. A reação de substituição nucleofílica entre o anidrido acético e a hidroxilamina está representada.</p>[[fig:1]]<p>O produto A é favorecido em relação ao B, por um fator de 10<sup>5</sup>. Em um estudo de possível substituição do uso de hidroxilamina, foram testadas as moléculas numeradas de 1 a 5.</p>[[fig:2]]<p>Dentre as moléculas testadas, qual delas apresentou menor reatividade?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q109.webp",
+     "alt": "Reação do anidrido acético com NH₂OH, que forma dois conjuntos de produtos: produto A, ácido acético mais o composto em que o grupo acetil está ligado ao oxigênio, O–NH₂; e produto B, ácido acético mais o composto em que o acetil está ligado ao nitrogênio, NH–OH."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q109b.webp",
+     "alt": "Moléculas testadas: 1, HO–NH–CH₃; 2, CH₃–O–NH₂; 3, HO–NH–CH₂CH₃; 4, CH₃–O–N(CH₃)₂; 5, HO–N(CH₃)₂."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O produto A, muito favorecido, mostra que a hidroxilamina ataca o anidrido pelo oxigênio do grupo OH, que depois perde o hidrogênio; o ataque pelo nitrogênio (produto B) é bem menos importante. Para reagir, a molécula precisa ter um OH livre ou, na falta dele, um nitrogênio com hidrogênio. A molécula <strong>4</strong> não tem nenhum dos dois: o oxigênio está ligado a um metil e o nitrogênio a dois metis. Alternativa <strong>D</strong>.</p><p>As moléculas 1, 3 e 5 têm OH livre; a 2 tem o grupo NH<sub>2</sub>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "substituição nucleofílica",
+    "hidroxilamina"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 110
+   },
+   "enunciado": "<p>Um estudante relatou que o mapeamento do DNA da cevada foi quase todo concluído e seu código genético desvendado. Chamou atenção para o número de genes que compõem esse código genético e que a semente da cevada, apesar de pequena, possui um genoma mais complexo que o humano, sendo boa parte desse código constituída de sequências repetidas. Nesse contexto, o conceito de código genético está abordado de forma equivocada. Cientificamente esse conceito é definido como</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "trincas de nucleotídeos que codificam os aminoácidos.",
+    "B": "localização de todos os genes encontrados em um genoma.",
+    "C": "codificação de sequências repetidas presentes em um genoma.",
+    "D": "conjunto de todos os RNAs mensageiros transcritos em um organismo.",
+    "E": "todas as sequências de pares de bases presentes em um organismo."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O estudante confundiu código genético com genoma. Cientificamente, o código genético é a correspondência entre as <strong>trincas de nucleotídeos (códons) e os aminoácidos</strong> que elas codificam, praticamente igual em todos os seres vivos. Alternativa <strong>A</strong>.</p><p>Localização de genes e conjunto das sequências (B e E) descrevem o genoma ou seu mapeamento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "código genético",
+    "genoma"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Biologia",
+   "assunto": "Botânica",
+   "origem": {
+    "numeroOriginal": 111
+   },
+   "enunciado": "<p>A polinização, que viabiliza o transporte do grão de pólen de uma planta até o estigma de outra, pode ser realizada biótica ou abioticamente. Nos processos abióticos, as plantas dependem de fatores como o vento e a água. A estratégia evolutiva que resulta em polinização mais eficiente quando esta depende do vento é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "diminuição do cálice.",
+    "B": "alongamento do ovário.",
+    "C": "disponibilização do néctar.",
+    "D": "intensificação da cor das pétalas.",
+    "E": "aumento do número de estames."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O vento espalha o pólen ao acaso, e a maior parte se perde. As plantas polinizadas pelo vento compensam produzindo muito pólen, o que se consegue com o <strong>aumento do número de estames</strong>. Alternativa <strong>E</strong>.</p><p>Néctar e pétalas coloridas (C e D) atraem animais, inúteis para quem depende do vento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anemofilia",
+    "polinização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 112
+   },
+   "enunciado": "<p>Muitos <em>smartphones</em> e <em>tablets</em> não precisam mais de teclas, uma vez que todos os comandos podem ser dados ao se pressionar a própria tela. Inicialmente essa tecnologia foi proporcionada por meio das telas resistivas, formadas basicamente por duas camadas de material condutor transparente que não se encostam até que alguém as pressione, modificando a resistência total do circuito de acordo com o ponto onde ocorre o toque. A imagem é uma simplificação do circuito formado pelas placas, em que <strong>A</strong> e <strong>B</strong> representam pontos onde o circuito pode ser fechado por meio do toque.</p>[[fig:1]]<p>Qual é a resistência equivalente no circuito provocada por um toque que fecha o circuito no ponto <strong>A</strong>?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q112.webp",
+     "alt": "Esquema de uma tela resistiva tocada por um dedo e do circuito equivalente: uma fonte ε ligada a quatro resistores de 4 kΩ, dois em cima e dois embaixo; à direita, os pontos A e B, onde o circuito pode ser fechado pelo toque."
+    }
+   ],
+   "alternativas": {
+    "A": "1,3 kΩ",
+    "B": "4,0 kΩ",
+    "C": "6,0 kΩ",
+    "D": "6,7 kΩ",
+    "E": "12,0 kΩ"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No circuito, os dois resistores de cima (4 kΩ cada) estão ligados à fonte. O toque em A fecha o contato no ramo da direita: os dois resistores de cima ficam em paralelo, e o conjunto fica em série com o resistor de 4 kΩ de baixo à esquerda, que leva de volta à fonte. O ramo que passa por B continua aberto.</p><p>R = (4 × 4) ÷ (4 + 4) + 4 = 2 + 4 = <strong>6,0 kΩ</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "associação de resistores",
+    "tela resistiva"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 113
+   },
+   "enunciado": "<p class=\"apoio\">Companhias que fabricam <em>jeans</em> usam cloro para o clareamento, seguido de lavagem. Algumas estão substituindo o cloro por substâncias ambientalmente mais seguras como peróxidos, que podem ser degradados por enzimas chamadas peroxidases. Pensando nisso, pesquisadores inseriram genes codificadores de peroxidases em leveduras cultivadas nas condições de clareamento e lavagem dos <em>jeans</em> e selecionaram as sobreviventes para produção dessas enzimas.</p><p class=\"fonte\">TORTORA, G. J.; FUNKE, B. R.; CASE, C. L. Microbiologia. Rio de Janeiro: Artmed, 2016 (adaptado).</p><p>Nesse caso, o uso dessas leveduras modificadas objetiva</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reduzir a quantidade de resíduos tóxicos nos efluentes da lavagem.",
+    "B": "eliminar a necessidade de tratamento da água consumida.",
+    "C": "elevar a capacidade de clareamento dos <em>jeans</em>.",
+    "D": "aumentar a resistência do <em>jeans</em> a peróxidos.",
+    "E": "associar ação bactericida ao clareamento."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>As leveduras modificadas produzem peroxidases, que degradam os peróxidos usados no clareamento. Assim, a água que sai da lavagem leva menos substâncias nocivas: o objetivo é <strong>reduzir a quantidade de resíduos tóxicos nos efluentes da lavagem</strong>. Alternativa <strong>A</strong>.</p><p>As enzimas destroem os peróxidos, por isso não aumentam o clareamento (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "peroxidase",
+    "organismos geneticamente modificados"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 114
+   },
+   "enunciado": "<p>Por meio de reações químicas que envolvem carboidratos, lipídeos e proteínas, nossas células obtêm energia e produzem gás carbônico e água. A oxidação da glicose no organismo humano libera energia, conforme ilustra a equação química, sendo que aproximadamente 40% dela é disponibilizada para atividade muscular.</p><p class=\"apoio\">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (s) + 6 O<sub>2</sub> (g) → 6 CO<sub>2</sub> (g) + 6 H<sub>2</sub>O (l) &nbsp; Δ<sub>c</sub><em>H</em> = −2 800 kJ</p><p class=\"apoio\">Considere as massas molares (em g mol<sup>−1</sup>): H = 1; C = 12; O = 16.</p><p class=\"fonte\">LIMA, L. M.; FRAGA, C. A. M.; BARREIRO, E. J. Química na saúde. São Paulo: Sociedade Brasileira de Química, 2010 (adaptado).</p><p>Na oxidação de 1,0 grama de glicose, a energia obtida para atividade muscular, em quilojoule, é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "6,2.",
+    "B": "15,6.",
+    "C": "70,0.",
+    "D": "622,2.",
+    "E": "1 120,0."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Massa molar da glicose: 6 × 12 + 12 × 1 + 6 × 16 = 180 g/mol.</p><p>1 mol (180 g) libera 2 800 kJ; 1 g libera 2 800 ÷ 180 ≈ 15,6 kJ. Para a atividade muscular vão 40%: 0,4 × 15,6 ≈ <strong>6,2 kJ</strong>. Alternativa <strong>A</strong>.</p><p>15,6 kJ (B) é a energia total, sem descontar os 60% que não vão para os músculos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "entalpia",
+    "glicose"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 115
+   },
+   "enunciado": "<p>Alguns peixes, como o poraquê, a enguia-elétrica da Amazônia, podem produzir uma corrente elétrica quando se encontram em perigo. Um poraquê de 1 metro de comprimento, em perigo, produz uma corrente em torno de 2 ampères e uma voltagem de 600 volts.</p><p>O quadro apresenta a potência aproximada de equipamentos elétricos.</p><table class=\"tabela\"><thead><tr><th>Equipamento elétrico</th><th>Potência aproximada (watt)</th></tr></thead><tbody><tr><td>Exaustor</td><td>150</td></tr><tr><td>Computador</td><td>300</td></tr><tr><td>Aspirador de pó</td><td>600</td></tr><tr><td>Churrasqueira elétrica</td><td>1 200</td></tr><tr><td>Secadora de roupas</td><td>3 600</td></tr></tbody></table><p>O equipamento elétrico que tem potência similar àquela produzida por esse peixe em perigo é o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "exaustor.",
+    "B": "computador.",
+    "C": "aspirador de pó.",
+    "D": "churrasqueira elétrica.",
+    "E": "secadora de roupas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>P = U × i = 600 V × 2 A = 1 200 W. O equipamento com essa potência é a <strong>churrasqueira elétrica</strong>. Alternativa <strong>D</strong>.</p><p>O exaustor (150 W), o computador (300 W) e o aspirador (600 W) ficam abaixo, e a secadora (3 600 W), três vezes acima.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência elétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 116
+   },
+   "enunciado": "<p>Células solares à base de TiO<sub>2</sub> sensibilizadas por corantes (S) são promissoras e poderão vir a substituir as células de silício. Nessas células, o corante adsorvido sobre o TiO<sub>2</sub> é responsável por absorver a energia luminosa (<em>hν</em>), e o corante excitado (S*) é capaz de transferir elétrons para o TiO<sub>2</sub>. Um esquema dessa célula e os processos envolvidos estão ilustrados na figura. A conversão de energia solar em elétrica ocorre por meio da sequência de reações apresentadas.</p>[[fig:1]]<p class=\"fonte\">LONGO, C.; DE PAOLI, M.-A. Dye-Sensitized Solar Cells: A Successful Combination of Materials. Journal of the Brazilian Chemical Society, n. 6, 2003 (adaptado).</p><p>A reação 3 é fundamental para o contínuo funcionamento da célula solar, pois</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q116.webp",
+     "alt": "Esquema da célula solar: a luz (hν) atinge o eletrodo de TiO₂ com corante; elétrons saem do corante excitado para o TiO₂, percorrem o circuito externo até o eletrodo de platina e voltam pelo mediador de carga (I₃⁻/I⁻). Ao lado, as reações: (1) TiO₂|S + hν → TiO₂|S*; (2) TiO₂|S* → TiO₂|S⁺ + e⁻; (3) TiO₂|S⁺ + 3/2 I⁻ → TiO₂|S + 1/2 I₃⁻; (4) 1/2 I₃⁻ + e⁻ → 3/2 I⁻."
+    }
+   ],
+   "alternativas": {
+    "A": "reduz íons I<sup>−</sup> a I<sub>3</sub><sup>−</sup>.",
+    "B": "regenera o corante.",
+    "C": "garante que a reação 4 ocorra.",
+    "D": "promove a oxidação do corante.",
+    "E": "transfere elétrons para o eletrodo de TiO<sub>2</sub>."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na reação 2, o corante excitado perde um elétron e fica oxidado (S<sup>+</sup>). Na reação 3, o íon iodeto (I<sup>−</sup>) doa elétrons ao corante, que volta à forma S e pode absorver luz de novo. Sem essa etapa, o corante se esgotaria. A reação 3 <strong>regenera o corante</strong>. Alternativa <strong>B</strong>.</p><p>Na reação 3, o I<sup>−</sup> é oxidado a I<sub>3</sub><sup>−</sup>, não reduzido (A), e o corante é reduzido, não oxidado (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "célula solar",
+    "oxirredução"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 117
+   },
+   "enunciado": "<p>O nível metabólico de uma célula pode ser determinado pela taxa de síntese de RNAs e proteínas, processos dependentes de energia. Essa diferença na taxa de síntese de biomoléculas é refletida na abundância e características morfológicas dos componentes celulares. Em uma empresa de produção de hormônios proteicos a partir do cultivo de células animais, um pesquisador deseja selecionar uma linhagem com o metabolismo de síntese mais elevado, dentre as cinco esquematizadas na figura.</p>[[fig:1]]<p>Qual linhagem deve ser escolhida pelo pesquisador?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q117.webp",
+     "alt": "Legenda com uma célula mostrando mitocôndria, retículo endoplasmático rugoso, heterocromatina, eucromatina e nucléolo. Abaixo, cinco linhagens, de I a V, desenhadas com quantidades diferentes de mitocôndrias e de retículo endoplasmático rugoso, e com núcleos de aspecto diferente (mais ou menos heterocromatina, nucléolo maior ou menor). A linhagem IV é a que tem mais organelas, nucléolo grande e núcleo claro, de eucromatina."
+    }
+   ],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Células que produzem muita proteína têm muitas mitocôndrias (energia), retículo endoplasmático rugoso desenvolvido (síntese das proteínas), nucléolo grande (produção de ribossomos) e cromatina descondensada, a eucromatina (genes sendo transcritos). A linhagem <strong>IV</strong> reúne essas características. Alternativa <strong>D</strong>.</p><p>Linhagens com pouca organela e muita heterocromatina (I e V) têm metabolismo baixo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "organelas",
+    "síntese de proteínas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 118
+   },
+   "enunciado": "<p>Alguns materiais sólidos são compostos por átomos que interagem entre si formando ligações que podem ser covalentes, iônicas ou metálicas. A figura apresenta a energia potencial de ligação em função da distância interatômica em um sólido cristalino. Analisando essa figura, observa-se que, na temperatura de zero kelvin, a distância de equilíbrio da ligação entre os átomos (<em>R</em><sub>0</sub>) corresponde ao valor mínimo de energia potencial. Acima dessa temperatura, a energia térmica fornecida aos átomos aumenta sua energia cinética e faz com que eles oscilem em torno de uma posição de equilíbrio média (círculos cheios), que é diferente para cada temperatura. A distância de ligação pode variar sobre toda a extensão das linhas horizontais, identificadas com o valor da temperatura, de <em>T</em><sub>1</sub> a <em>T</em><sub>4</sub> (temperaturas crescentes).</p>[[fig:1]]<p>O deslocamento observado na distância média revela o fenômeno da</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q118.webp",
+     "alt": "Gráfico da energia de ligação em função da distância interatômica: uma curva em forma de poço, com mínimo em R₀ para T = 0 K. Segmentos horizontais em T₁, T₂, T₃ e T₄, cada vez mais altos, têm seus pontos médios marcados por círculos que se deslocam para a direita."
+    }
+   ],
+   "alternativas": {
+    "A": "ionização.",
+    "B": "dilatação.",
+    "C": "dissociação.",
+    "D": "quebra de ligações covalentes.",
+    "E": "formação de ligações metálicas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No gráfico, a curva de energia é assimétrica: com o aumento da temperatura (de T<sub>1</sub> a T<sub>4</sub>), os átomos oscilam com mais energia, e o ponto médio de cada oscilação (círculos) se desloca para distâncias maiores. Os átomos ficam, em média, mais afastados: é a <strong>dilatação</strong> térmica. Alternativa <strong>B</strong>.</p><p>As ligações continuam existindo (C, D e E); só aumenta a distância média.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dilatação térmica",
+    "energia potencial"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Biologia",
+   "assunto": "Parasitologia",
+   "origem": {
+    "numeroOriginal": 119
+   },
+   "enunciado": "<p>A utilização de extratos de origem natural tem recebido a atenção de pesquisadores em todo o mundo, principalmente nos países em desenvolvimento que são altamente acometidos por doenças infecciosas e parasitárias. Um bom exemplo dessa utilização são os produtos de origem botânica que combatem insetos. O uso desses produtos pode auxiliar no controle da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "esquistossomose.",
+    "B": "leptospirose.",
+    "C": "leishmaniose.",
+    "D": "hanseníase.",
+    "E": "aids."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Produtos que combatem insetos ajudam a controlar doenças transmitidas por insetos vetores. Das opções, só a <strong>leishmaniose</strong> tem vetor inseto: o mosquito-palha (flebotomíneo). Alternativa <strong>C</strong>.</p><p>A esquistossomose é transmitida por caramujo (A), a leptospirose pela urina de ratos (B), e a hanseníase e a aids, de pessoa para pessoa (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vetores",
+    "leishmaniose"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 120
+   },
+   "enunciado": "<p>Nos manuais de instalação de equipamentos de som há o alerta aos usuários para que observem a correta polaridade dos fios ao realizarem as conexões das caixas de som. As figuras ilustram o esquema de conexão das caixas de som de um equipamento de som mono, no qual os alto-falantes emitem as mesmas ondas. No primeiro caso, a ligação obedece às especificações do fabricante e no segundo mostra uma ligação na qual a polaridade está invertida.</p>[[fig:1]][[fig:2]]<p>O que ocorre com os alto-falantes <strong>E</strong> e <strong>D</strong> se forem conectados de acordo com o segundo esquema?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q120a.webp",
+     "alt": "Polaridade correta: as saídas E e D do equipamento, cada uma com terminais + e −, ligadas às caixas de som E e D com + no + e − no −."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q120b.webp",
+     "alt": "Polaridade invertida: a caixa E ligada corretamente; na caixa D, os fios estão cruzados, com o + da saída no − da caixa e vice-versa."
+    }
+   ],
+   "alternativas": {
+    "A": "O alto-falante <strong>E</strong> funciona normalmente e o <strong>D</strong> entra em curto-circuito e não emite som.",
+    "B": "O alto-falante <strong>E</strong> emite ondas sonoras com frequências ligeiramente diferentes do alto-falante <strong>D</strong> provocando o fenômeno de batimento.",
+    "C": "O alto-falante <strong>E</strong> emite ondas sonoras com frequências e fases diferentes do alto-falante <strong>D</strong> provocando o fenômeno conhecido como ruído.",
+    "D": "O alto-falante <strong>E</strong> emite ondas sonoras que apresentam um lapso de tempo em relação às emitidas pelo alto-falante <strong>D</strong> provocando o fenômeno de reverberação.",
+    "E": "O alto-falante <strong>E</strong> emite ondas sonoras em oposição de fase às emitidas pelo alto-falante <strong>D</strong> provocando o fenômeno de interferência destrutiva nos pontos equidistantes aos alto-falantes."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com a polaridade invertida, o cone do alto-falante D se move para trás quando o de E se move para frente: as duas caixas emitem ondas iguais, mas em oposição de fase. Nos pontos à mesma distância das duas caixas, as ondas se anulam. O alto-falante E <strong>emite ondas sonoras em oposição de fase às emitidas pelo alto-falante D provocando o fenômeno de interferência destrutiva nos pontos equidistantes aos alto-falantes</strong>. Alternativa <strong>E</strong>.</p><p>A frequência não muda (B e C), e não há curto-circuito (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "interferência",
+    "fase"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 121
+   },
+   "enunciado": "<p class=\"apoio\">O manejo adequado do solo possibilita a manutenção de sua fertilidade à medida que as trocas de nutrientes entre matéria orgânica, água, solo e o ar são mantidas para garantir a produção. Algumas espécies iônicas de alumínio são tóxicas, não só para a planta, mas para muitos organismos como as bactérias responsáveis pelas transformações no ciclo do nitrogênio. O alumínio danifica as membranas das células das raízes e restringe a expansão de suas paredes, com isso, a planta não cresce adequadamente. Para promover benefícios para a produção agrícola, é recomendada a remediação do solo utilizando calcário (CaCO<sub>3</sub>).</p><p class=\"fonte\">BRADY, N. C.; WEIL, R. R. Elementos da natureza e propriedades dos solos. Porto Alegre: Bookman, 2013 (adaptado).</p><p>Essa remediação promove no solo o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "diminuição do pH, deixando-o fértil.",
+    "B": "solubilização do alumínio, ocorrendo sua lixiviação pela chuva.",
+    "C": "interação do íon cálcio com o íon alumínio, produzindo uma liga metálica.",
+    "D": "reação do carbonato de cálcio com os íons alumínio, formando alumínio metálico.",
+    "E": "aumento da sua alcalinidade, tornando os íons alumínio menos disponíveis."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O calcário (CaCO<sub>3</sub>) é um sal básico: o carbonato reage com H<sup>+</sup> e o pH do solo sobe. Em meio menos ácido, o alumínio forma Al(OH)<sub>3</sub>, insolúvel, e deixa de ficar disponível para as plantas. A calagem promove o <strong>aumento da sua alcalinidade, tornando os íons alumínio menos disponíveis</strong>. Alternativa <strong>E</strong>.</p><p>O pH aumenta, não diminui (A), e não se forma alumínio metálico nem liga (C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calagem",
+    "pH do solo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 122
+   },
+   "enunciado": "<p>Visando a melhoria estética de um veículo, o vendedor de uma loja sugere ao consumidor que ele troque as rodas de seu automóvel de aro 15 polegadas para aro 17 polegadas, o que corresponde a um diâmetro maior do conjunto roda e pneu.</p><p>Duas consequências provocadas por essa troca de aro são:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Elevar a posição do centro de massa do veículo tornando-o mais instável e aumentar a velocidade do automóvel em relação à indicada no velocímetro.",
+    "B": "Abaixar a posição do centro de massa do veículo tornando-o mais instável e diminuir a velocidade do automóvel em relação à indicada no velocímetro.",
+    "C": "Elevar a posição do centro de massa do veículo tornando-o mais estável e aumentar a velocidade do automóvel em relação à indicada no velocímetro.",
+    "D": "Abaixar a posição do centro de massa do veículo tornando-o mais estável e diminuir a velocidade do automóvel em relação à indicada no velocímetro.",
+    "E": "Elevar a posição do centro de massa do veículo tornando-o mais estável e diminuir a velocidade do automóvel em relação à indicada no velocímetro."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A roda maior levanta o carro: o centro de massa sobe e o veículo fica mais instável. Além disso, o velocímetro mede a velocidade pelo número de voltas da roda: a cada volta, a roda maior percorre uma distância maior, então o carro anda mais rápido do que o velocímetro indica. Alternativa <strong>A</strong>.</p><p>A roda maior nunca abaixa o centro de massa (B e D), e um centro de massa mais alto não deixa o carro mais estável (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "centro de massa",
+    "velocidade angular"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Biologia",
+   "assunto": "Metabolismo energético",
+   "origem": {
+    "numeroOriginal": 123
+   },
+   "enunciado": "<p class=\"apoio\">As células e os organismos precisam realizar trabalho para permanecerem vivos e se reproduzirem. A energia metabólica necessária para a realização desse trabalho é oriunda da oxidação de combustíveis, gerados no ciclo do carbono, por meio de processos capazes de interconverter diferentes formas da energia.</p>[[fig:1]]<p class=\"fonte\">NELSON, D. L.; COX, M. M. Lehninger: princípios de bioquímica. São Paulo: Sarvier, 2002 (adaptado).</p><p>Nesse ciclo, a formação de combustíveis está vinculada à conversão de energia</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q123.webp",
+     "alt": "Ciclo com quatro caixas ligadas por setas: “CO₂ e H₂O” leva ao “Processo 1”, que leva a “Combustíveis reduzidos e O₂”, que leva ao “Processo 2”, que volta a “CO₂ e H₂O”."
+    }
+   ],
+   "alternativas": {
+    "A": "térmica em cinética.",
+    "B": "química em térmica.",
+    "C": "eletroquímica em calor.",
+    "D": "cinética em eletromagnética.",
+    "E": "eletromagnética em química."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No ciclo, o processo 1 transforma CO<sub>2</sub> e H<sub>2</sub>O em combustíveis reduzidos e O<sub>2</sub>: é a fotossíntese, que usa a luz do Sol para produzir glicose. A formação de combustíveis converte energia <strong>eletromagnética em química</strong>. Alternativa <strong>E</strong>.</p><p>O processo 2, a respiração, faz o caminho inverso, de energia química em outras formas (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fotossíntese",
+    "transformação de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Química",
+   "assunto": "Petróleo",
+   "origem": {
+    "numeroOriginal": 124
+   },
+   "enunciado": "<p>O petróleo é uma fonte de energia de baixo custo e de larga utilização como matéria-prima para uma grande variedade de produtos. É um óleo formado de várias substâncias de origem orgânica, em sua maioria hidrocarbonetos de diferentes massas molares. São utilizadas técnicas de separação para obtenção dos componentes comercializáveis do petróleo. Além disso, para aumentar a quantidade de frações comercializáveis, otimizando o produto de origem fóssil, utiliza-se o processo de craqueamento. O que ocorre nesse processo?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Transformação das frações do petróleo em outras moléculas menores.",
+    "B": "Reação de óxido-redução com transferência de elétrons entre as moléculas.",
+    "C": "Solubilização das frações do petróleo com a utilização de diferentes solventes.",
+    "D": "Decantação das moléculas com diferentes massas molares pelo uso de centrífugas.",
+    "E": "Separação dos diferentes componentes do petróleo em função de suas temperaturas de ebulição."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O craqueamento quebra moléculas grandes do petróleo, de pouco valor comercial, em moléculas menores, como as da gasolina e do GLP. Ocorre a <strong>transformação das frações do petróleo em outras moléculas menores</strong>. Alternativa <strong>A</strong>.</p><p>Separar por temperatura de ebulição (E) é a destilação fracionada, outro processo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "craqueamento",
+    "petróleo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 125
+   },
+   "enunciado": "<p>A figura representa um prisma óptico, constituído de um material transparente, cujo índice de refração é crescente com a frequência da luz que sobre ele incide. Um feixe luminoso, composto por luzes vermelha, azul e verde, incide na face A, emerge na face B e, após ser refletido por um espelho, incide num filme para fotografia colorida, revelando três pontos.</p>[[fig:1]]<p>Observando os pontos luminosos revelados no filme, de baixo para cima, constatam-se as seguintes cores:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q125.webp",
+     "alt": "No alto, uma faixa do espectro de 400 a 750 nm, com violeta, azul, verde, amarelo, laranja e vermelho. Embaixo, um feixe incidente atinge a face A de um prisma, sai pela face B separado em três raios, que se refletem num espelho horizontal e chegam a um filme vertical."
+    }
+   ],
+   "alternativas": {
+    "A": "Vermelha, verde, azul.",
+    "B": "Verde, vermelha, azul.",
+    "C": "Azul, verde, vermelha.",
+    "D": "Verde, azul, vermelha.",
+    "E": "Azul, vermelha, verde."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O índice de refração cresce com a frequência: o azul (maior frequência) é o mais desviado pelo prisma, e o vermelho, o menos. Depois da reflexão no espelho, os raios se cruzam e a ordem se inverte no filme. Seguindo os raios da figura, de baixo para cima, as cores são <strong>vermelha, verde, azul</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dispersão da luz",
+    "refração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 126
+   },
+   "enunciado": "<p>Tensoativos são compostos orgânicos que possuem comportamento anfifílico, isto é, possuem duas regiões, uma hidrofóbica e outra hidrofílica. O principal tensoativo aniônico sintético surgiu na década de 1940 e teve grande aceitação no mercado de detergentes em razão do melhor desempenho comparado ao do sabão. No entanto, o uso desse produto provocou grandes problemas ambientais, dentre eles a resistência à degradação biológica, por causa dos diversos carbonos terciários na cadeia que compõe a porção hidrofóbica desse tensoativo aniônico. As ramificações na cadeia dificultam sua degradação, levando à persistência no meio ambiente por longos períodos. Isso levou a sua substituição na maioria dos países por tensoativos biodegradáveis, ou seja, com cadeias alquílicas lineares.</p><p class=\"fonte\">PENTEADO, J. C. P.; EL SEOUD, O. A.; CARVALHO, L. R. F. [...]: uma abordagem ambiental e analítica. Química Nova, n. 5, 2006 (adaptado).</p><p>Qual a fórmula estrutural do tensoativo persistente no ambiente mencionado no texto?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q126a.webp",
+     "alt": "Alternativa A: cadeia de 15 grupos CH₂ ligada a 20 unidades de óxido de etileno, terminando em OH."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q126b.webp",
+     "alt": "Alternativa B: anel benzênico com SO₃⁻ Na⁺ ligado a uma cadeia carbônica ramificada, com vários grupos metila."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q126c.webp",
+     "alt": "Alternativa C: anel benzênico com SO₃⁻ Na⁺ ligado a uma cadeia carbônica linear e longa."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q126d.webp",
+     "alt": "Alternativa D: cadeia carbônica linear e longa ligada a um nitrogênio com três metilas e carga positiva, com o contraíon Cl⁻."
+    },
+    {
+     "src": "assets/img/enem-2018-natureza/q126e.webp",
+     "alt": "Alternativa E: cadeia carbônica ramificada ligada ao nitrogênio positivo de um anel piridínico, com o contraíon Cl⁻."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto descreve um tensoativo aniônico com vários carbonos terciários na cadeia hidrofóbica, isto é, uma cadeia ramificada. A alternativa B é o alquilbenzenossulfonato ramificado: tem o grupo SO<sub>3</sub><sup>−</sup> Na<sup>+</sup> (aniônico) e uma cadeia cheia de ramificações. Alternativa <strong>B</strong>.</p><p>A C também é aniônica, mas tem cadeia linear, a versão biodegradável. A é não iônica, e D e E são catiônicas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tensoativos",
+    "biodegradabilidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 127
+   },
+   "enunciado": "<p>Considere, em um fragmento ambiental, uma árvore matriz com frutos (M) e outras cinco que produziram flores e são apenas doadoras de pólen (DP1, DP2, DP3, DP4 e DP5). Foi excluída a capacidade de autopolinização das árvores. Os genótipos da matriz, da semente (S1) e das prováveis fontes de pólen foram obtidos pela análise de dois locos (loco A e loco B) de marcadores de DNA, conforme a figura.</p>[[fig:1]]<p class=\"fonte\">COLLEVATTI, R. G.; TELLES, M. P.; SOARES, T. N. Dispersão do pólen entre pequizeiros: uma atividade para a genética do ensino superior. <strong>Genética na Escola</strong>, n. 1, 2013 (adaptado).</p><p>A progênie S1 recebeu o pólen de qual doadora?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q127.webp",
+     "alt": "Esquema de dois géis com as bandas de DNA da matriz (M), da semente (S1) e das doadoras DP1 a DP5. Gel 1, loco A: M tem alelos 1 e 3; S1, 1 e 2; DP1, 3; DP2, 2 e 3; DP3, 1; DP4, 3 e 4; DP5, 2. Gel 2, loco B: M tem alelos 3 e 4; S1, 3; DP1, 2 e 4; DP2, 2 e 5; DP3, 1 e 5; DP4, 5; DP5, 3."
+    }
+   ],
+   "alternativas": {
+    "A": "DP1",
+    "B": "DP2",
+    "C": "DP3",
+    "D": "DP4",
+    "E": "DP5"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Em cada loco, a semente recebe um alelo da matriz e outro do pai. No loco A, a matriz tem os alelos 1 e 3, e S1 tem 1 e 2: o alelo 2 veio do pai. No loco B, a matriz tem 3 e 4, e S1 só tem o 3: o pai também passou o alelo 3. A única doadora com o alelo 2 no loco A e o alelo 3 no loco B é a <strong>DP5</strong>. Alternativa <strong>E</strong>.</p><p>DP2 também tem o alelo 2 no loco A, mas não tem o 3 no loco B.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "marcadores moleculares",
+    "paternidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 128
+   },
+   "enunciado": "<p>Em desenhos animados é comum vermos a personagem tentando impulsionar um barco soprando ar contra a vela para compensar a falta de vento. Algumas vezes usam o próprio fôlego, foles ou ventiladores. Estudantes de um laboratório didático resolveram investigar essa possibilidade. Para isso, usaram dois pequenos carros de plástico, <strong>A</strong> e <strong>B</strong>, instalaram sobre estes pequenas ventoinhas e fixaram verticalmente uma cartolina de curvatura parabólica para desempenhar uma função análoga à vela de um barco. No carro <strong>B</strong> inverteu-se o sentido da ventoinha e manteve-se a vela, a fim de manter as características físicas do barco, massa e formato da cartolina. As figuras representam os carros produzidos. A montagem do carro <strong>A</strong> busca simular a situação dos desenhos animados, pois a ventoinha está direcionada para a vela.</p>[[fig:1]]<p>Com os carros orientados de acordo com as figuras, os estudantes ligaram as ventoinhas, aguardaram o fluxo de ar ficar permanente e determinaram os módulos das velocidades médias dos carros A (<em>V</em><sub>A</sub>) e B (<em>V</em><sub>B</sub>) para o mesmo intervalo de tempo. A respeito das intensidades das velocidades médias e do sentido de movimento do carro A, os estudantes observaram que:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q128.webp",
+     "alt": "Carro A: uma ventoinha à esquerda sopra para a direita, contra uma vela curva de cartolina presa ao carro. Carro B: a ventoinha está virada ao contrário, soprando para a esquerda, para fora do carro, com a vela à direita."
+    }
+   ],
+   "alternativas": {
+    "A": "<em>V</em><sub>A</sub> = 0; <em>V</em><sub>B</sub> &gt; 0; o carro <strong>A</strong> não se move.",
+    "B": "0 &lt; <em>V</em><sub>A</sub> &lt; <em>V</em><sub>B</sub>; o carro <strong>A</strong> se move para a direita.",
+    "C": "0 &lt; <em>V</em><sub>A</sub> &lt; <em>V</em><sub>B</sub>; o carro <strong>A</strong> se move para a esquerda.",
+    "D": "0 &lt; <em>V</em><sub>B</sub> &lt; <em>V</em><sub>A</sub>; o carro <strong>A</strong> se move para a direita.",
+    "E": "0 &lt; <em>V</em><sub>B</sub> &lt; <em>V</em><sub>A</sub>; o carro <strong>A</strong> se move para a esquerda."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No carro B, a ventoinha empurra o ar para trás, e o carro vai para frente, como um ventilador-foguete. No carro A, o ar soprado contra a vela é a força interna; o que conta é para onde o ar sai. A vela parabólica devolve o ar para trás (para a esquerda), então o carro A também se move, para a direita, mas com perdas no choque do ar com a vela. Assim, 0 &lt; V<sub>A</sub> &lt; V<sub>B</sub>, e o carro A vai para a direita. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conservação da quantidade de movimento",
+    "ação e reação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 129
+   },
+   "enunciado": "<p>Muitos primatas, incluindo nós humanos, possuem visão tricromática: têm três pigmentos visuais na retina sensíveis à luz de uma determinada faixa de comprimentos de onda. Informalmente, embora os pigmentos em si não possuam cor, estes são conhecidos como pigmentos “azul”, “verde” e “vermelho” e estão associados à cor que causa grande excitação (ativação). A sensação que temos ao observar um objeto colorido decorre da ativação relativa dos três pigmentos. Ou seja, se estimulássemos a retina com uma luz na faixa de 530 nm (retângulo I no gráfico), não excitaríamos o pigmento “azul”, o pigmento “verde” seria ativado ao máximo e o “vermelho” seria ativado em aproximadamente 75%, e isso nos daria a sensação de ver uma cor amarelada. Já uma luz na faixa de comprimento de onda de 600 nm (retângulo II) estimularia o pigmento “verde” um pouco e o “vermelho” em cerca de 75%, e isso nos daria a sensação de ver laranja-avermelhado. No entanto, há características genéticas presentes em alguns indivíduos, conhecidas coletivamente como Daltonismo, em que um ou mais pigmentos não funcionam perfeitamente.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.comprehensivephysiology.com. Acesso em: 3 ago. 2012 (adaptado).</p><p>Caso estimulássemos a retina de um indivíduo com essa característica, que não possuísse o pigmento conhecido como “verde”, com as luzes de 530 nm e 600 nm na mesma intensidade luminosa, esse indivíduo seria incapaz de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q129.webp",
+     "alt": "Gráfico da ativação (%) dos pigmentos “azul”, “verde” e “vermelho” em função do comprimento de onda, de 400 a 650 nm. O “azul” tem pico perto de 420 nm; o “verde”, perto de 530 nm; o “vermelho”, perto de 560 nm. O retângulo I marca 530 nm e o retângulo II, 600 nm; nas duas faixas, a curva do “vermelho” está em cerca de 75%."
+    }
+   ],
+   "alternativas": {
+    "A": "identificar o comprimento de onda do amarelo, uma vez que não possui o pigmento “verde”.",
+    "B": "ver o estímulo de comprimento de onda laranja, pois não haveria estimulação de um pigmento visual.",
+    "C": "detectar ambos os comprimentos de onda, uma vez que a estimulação dos pigmentos estaria prejudicada.",
+    "D": "visualizar o estímulo do comprimento de onda roxo, já que este se encontra na outra ponta do espectro.",
+    "E": "distinguir os dois comprimentos de onda, pois ambos estimulam o pigmento “vermelho” na mesma intensidade."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pelo gráfico, o pigmento “vermelho” é ativado cerca de 75% tanto em 530 nm quanto em 600 nm, e o “azul” não responde a nenhuma das duas. O que diferencia as cores, para uma pessoa normal, é o “verde”: máximo em 530 nm e baixo em 600 nm. Sem ele, as duas luzes produzem o mesmo estímulo, e a pessoa não consegue <strong>distinguir os dois comprimentos de onda, pois ambos estimulam o pigmento “vermelho” na mesma intensidade</strong>. Alternativa <strong>E</strong>.</p><p>Ela enxerga as duas luzes (B e C), só não as diferencia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "visão",
+    "daltonismo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Química",
+   "assunto": "Hibridação",
+   "origem": {
+    "numeroOriginal": 130
+   },
+   "enunciado": "<p>O grafeno é uma forma alotrópica do carbono constituído por uma folha planar (arranjo bidimensional) de átomos de carbono compactados e com a espessura de apenas um átomo. Sua estrutura é hexagonal, conforme a figura.</p>[[fig:1]]<p>Nesse arranjo, os átomos de carbono possuem hibridação</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q130.webp",
+     "alt": "Estrutura do grafeno: átomos de carbono, representados por esferas, ligados em hexágonos lado a lado, formando uma folha plana como uma colmeia."
+    }
+   ],
+   "alternativas": {
+    "A": "<em>sp</em> de geometria linear.",
+    "B": "<em>sp</em><sup>2</sup> de geometria trigonal planar.",
+    "C": "<em>sp</em><sup>3</sup> alternados com carbonos com hibridação <em>sp</em> de geometria linear.",
+    "D": "<em>sp</em><sup>3</sup><em>d</em> de geometria planar.",
+    "E": "<em>sp</em><sup>3</sup><em>d</em><sup>2</sup> com geometria hexagonal planar."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No grafeno, cada carbono está ligado a outros três, no mesmo plano, formando hexágonos, com ângulos de 120°. Três ligações σ e uma ligação π: hibridação <strong>sp<sup>2</sup> de geometria trigonal planar</strong>, como no grafite. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "grafeno",
+    "alotropia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 131
+   },
+   "enunciado": "<p>Um projetista deseja construir um brinquedo que lance um pequeno cubo ao longo de um trilho horizontal, e o dispositivo precisa oferecer a opção de mudar a velocidade de lançamento. Para isso, ele utiliza uma mola e um trilho onde o atrito pode ser desprezado, conforme a figura.</p>[[fig:1]]<p>Para que a velocidade de lançamento do cubo seja aumentada quatro vezes, o projetista deve</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2018-natureza/q131.webp",
+     "alt": "Um trilho horizontal com uma mola comprimida em uma das pontas, empurrando um pequeno cubo."
+    }
+   ],
+   "alternativas": {
+    "A": "manter a mesma mola e aumentar duas vezes a sua deformação.",
+    "B": "manter a mesma mola e aumentar quatro vezes a sua deformação.",
+    "C": "manter a mesma mola e aumentar dezesseis vezes a sua deformação.",
+    "D": "trocar a mola por outra de constante elástica duas vezes maior e manter a deformação.",
+    "E": "trocar a mola por outra de constante elástica quatro vezes maior e manter a deformação."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Sem atrito, a energia elástica vira cinética: kx²/2 = mv²/2, então v = x√(k/m). A velocidade é proporcional à deformação. Para quadruplicar v, mantendo a mola, basta <strong>aumentar quatro vezes a deformação</strong>. Alternativa <strong>B</strong>.</p><p>Trocando a mola, seria preciso uma constante 16 vezes maior, porque v depende da raiz de k (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia potencial elástica",
+    "conservação de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Química",
+   "assunto": "Isomeria",
+   "origem": {
+    "numeroOriginal": 132
+   },
+   "enunciado": "<p class=\"apoio\">As abelhas utilizam a sinalização química para distinguir a abelha-rainha de uma operária, sendo capazes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas-operárias produzem ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainhas por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química.</p><p class=\"fonte\">LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado).</p><p>As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fórmula estrutural.",
+    "B": "fórmula molecular.",
+    "C": "identificação dos tipos de ligação.",
+    "D": "contagem do número de carbonos.",
+    "E": "identificação dos grupos funcionais."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os dois ácidos têm 10 carbonos, uma dupla na posição 2, um grupo carboxila e uma hidroxila. A diferença é só a posição da hidroxila: carbono 9 na rainha e carbono 10 na operária. São isômeros de posição, com a mesma fórmula molecular e <strong>fórmula estrutural</strong> diferente. Alternativa <strong>A</strong>.</p><p>O número de carbonos, os tipos de ligação e os grupos funcionais são os mesmos (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "isomeria de posição",
+    "feromônios"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 133
+   },
+   "enunciado": "<p>Insetos podem apresentar três tipos de desenvolvimento. Um deles, a holometabolia (desenvolvimento completo), é constituído pelas fases de ovo, larva, pupa e adulto sexualmente maduro, que ocupam diversos hábitats. Os insetos com holometabolia pertencem às ordens mais numerosas em termos de espécies conhecidas. Esse tipo de desenvolvimento está relacionado a um maior número de espécies em razão da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "proteção na fase de pupa, favorecendo a sobrevivência de adultos férteis.",
+    "B": "produção de muitos ovos, larvas e pupas, aumentando o número de adultos.",
+    "C": "exploração de diferentes nichos, evitando a competição entre as fases da vida.",
+    "D": "ingestão de alimentos em todas as fases de vida, garantindo o surgimento do adulto.",
+    "E": "utilização do mesmo alimento em todas as fases, otimizando a nutrição do organismo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Na holometabolia, larva e adulto são muito diferentes e vivem e se alimentam em ambientes distintos (a lagarta come folhas, a borboleta bebe néctar). Sem competir com os adultos da própria espécie, as larvas exploram outros recursos. A vantagem é a <strong>exploração de diferentes nichos, evitando a competição entre as fases da vida</strong>. Alternativa <strong>C</strong>.</p><p>Na pupa, o inseto não se alimenta (D), e o alimento muda entre as fases (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metamorfose",
+    "nicho ecológico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 134
+   },
+   "enunciado": "<p>Talvez você já tenha bebido suco usando dois canudinhos iguais. Entretanto, pode-se verificar que, se colocar um canudo imerso no suco e outro do lado de fora do líquido, fazendo a sucção simultaneamente em ambos, você terá dificuldade em bebê-lo. Essa dificuldade ocorre porque o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "força necessária para a sucção do ar e do suco simultaneamente dobra de valor.",
+    "B": "densidade do ar é menor que a do suco, portanto, o volume de ar aspirado é muito maior que o volume de suco.",
+    "C": "velocidade com que o suco sobe deve ser constante nos dois canudos, o que é impossível com um dos canudos de fora.",
+    "D": "peso da coluna de suco é consideravelmente maior que o peso da coluna de ar, o que dificulta a sucção do líquido.",
+    "E": "pressão no interior da boca assume praticamente o mesmo valor daquela que atua sobre o suco."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Ao sugar, a pessoa reduz a pressão na boca, e a pressão atmosférica sobre o suco o empurra canudo acima. Com um canudo fora do líquido, o ar entra por ele e a pressão na boca não cai: <strong>a pressão no interior da boca assume praticamente o mesmo valor daquela que atua sobre o suco</strong>. Sem diferença de pressão, o suco não sobe. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão atmosférica",
+    "canudo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Química",
+   "assunto": "Ciclo do nitrogênio",
+   "origem": {
+    "numeroOriginal": 135
+   },
+   "enunciado": "<p class=\"apoio\">O alemão Fritz Haber recebeu o Prêmio Nobel de química de 1918 pelo desenvolvimento de um processo viável para a síntese da amônia (NH<sub>3</sub>). Em seu discurso de premiação, Haber justificou a importância do feito dizendo que:</p><p class=\"apoio\">“Desde a metade do século passado, tornou-se conhecido que um suprimento de nitrogênio é uma necessidade básica para o aumento das safras de alimentos; entretanto, também se sabia que as plantas não podem absorver o nitrogênio em sua forma simples, que é o principal constituinte da atmosfera. Elas precisam que o nitrogênio seja combinado [...] para poderem assimilá-lo.</p><p class=\"apoio\">Economias agrícolas basicamente mantêm o balanço do nitrogênio ligado. No entanto, com o advento da era industrial, os produtos do solo são levados de onde cresce a colheita para lugares distantes, onde são consumidos, fazendo com que o nitrogênio ligado não retorne à terra da qual foi retirado.</p><p class=\"apoio\">Isso tem gerado a necessidade econômica mundial de abastecer o solo com nitrogênio ligado. [...] A demanda por nitrogênio, tal como a do carvão, indica quão diferente nosso modo de vida se tornou com relação ao das pessoas que, com seus próprios corpos, fertilizam o solo que cultivam.</p><p class=\"apoio\">Desde a metade do último século, nós vínhamos aproveitando o suprimento de nitrogênio do salitre que a natureza tinha depositado nos desertos montanhosos do Chile. Comparando o rápido crescimento da demanda com a extensão calculada desses depósitos, ficou claro que em meados do século atual uma emergência seríssima seria inevitável, a menos que a química encontrasse uma saída.”</p><p class=\"fonte\">HABER, F. The Synthesis of Ammonia from its Elements. Disponível em: www.nobelprize.org. Acesso em: 13 jul. 2013 (adaptado).</p><p>De acordo com os argumentos de Haber, qual fenômeno teria provocado o desequilíbrio no “balanço do nitrogênio ligado”?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O esgotamento das reservas de salitre no Chile.",
+    "B": "O aumento da exploração de carvão vegetal e carvão mineral.",
+    "C": "A redução da fertilidade do solo nas economias agrícolas.",
+    "D": "A intensificação no fluxo de pessoas do campo para as cidades.",
+    "E": "A necessidade das plantas de absorverem sais de nitrogênio disponíveis no solo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Haber diz que, na economia agrícola, o nitrogênio voltava ao solo; com a era industrial, os produtos da colheita são levados “para lugares distantes, onde são consumidos”, e o nitrogênio não retorna à terra. Isso acompanha a urbanização: <strong>a intensificação no fluxo de pessoas do campo para as cidades</strong>. Alternativa <strong>D</strong>.</p><p>O esgotamento do salitre (A) é uma consequência futura, não a causa do desequilíbrio.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Fritz Haber",
+    "fertilizantes"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

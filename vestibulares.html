@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#06191F">
+<meta name="description" content="ETEC, FATEC e Enem: para quem é cada prova, como ela funciona e onde treinar com as provas oficiais.">
+<link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/info.css"><link rel="stylesheet" href="css/acessibilidade.css">
+<script src="js/theme.js"></script>
+<title>Vestibulares: ETEC, FATEC e Enem | Treineiros</title>
+</head>
+<body>
+<main id="conteudo" class="pag">
+  <section class="faixa" aria-labelledby="titulo">
+    <div class="faixa__in">
+      <div class="faixa__texto">
+        <p class="sobretitulo">Vestibulinho ETEC · Vestibular FATEC · Enem</p>
+        <h1 id="titulo">Qual prova <em>é a sua?</em></h1>
+        <p class="faixa__lead">Responda uma pergunta e a página mostra primeiro as provas que fazem sentido para você agora.</p>
+      </div>
+      <fieldset class="faixa__painel etapa">
+        <legend class="rotulo">Onde você está nos estudos?</legend>
+        <label class="etapa__op"><input type="radio" name="etapa" value="9ano"><span><b>No 9º ano</b> do fundamental</span></label>
+        <label class="etapa__op"><input type="radio" name="etapa" value="medio" checked><span><b>No ensino médio</b>, do 1º ao 3º ano</span></label>
+        <label class="etapa__op"><input type="radio" name="etapa" value="terminei"><span><b>Já terminei</b> o ensino médio</span></label>
+      </fieldset>
+    </div>
+  </section>
+
+  <div class="pag__corpo vest-corpo">
+    <section aria-labelledby="vest-t">
+      <div class="titulo-linha"><h2 id="vest-t">Para quem está <em id="vest-quem">no ensino médio</em></h2></div>
+      <ul class="vest" id="vest">
+        <li data-banca="Enem">
+          <div class="vest__topo"><div><p class="vest__org">Inep</p><h3>Enem</h3></div><span class="vest__chip"></span></div>
+          <p class="vest__desc">Exame nacional. A nota abre vagas em faculdades de todo o país pelo Sisu, bolsas pelo ProUni e financiamento pelo Fies.</p>
+          <dl class="vest__fatos"><div><dt>Questões</dt><dd>180</dd></div><div><dt>Redação</dt><dd>Tem</dd></div><div><dt>Duração</dt><dd>2 domingos</dd></div><div><dt>Quando</dt><dd>1 vez por ano</dd></div></dl>
+          <p class="botoes"><a class="btn btn--primary" href="provas.html?banca=enem">Ver as provas</a><a class="btn" href="enem.html">Como funciona</a></p>
+        </li>
+        <li data-banca="FATEC">
+          <div class="vest__topo"><div><p class="vest__org">Centro Paula Souza</p><h3>FATEC</h3></div><span class="vest__chip"></span></div>
+          <p class="vest__desc">Faculdades estaduais de tecnologia de São Paulo: cursos superiores gratuitos que formam tecnólogos.</p>
+          <dl class="vest__fatos"><div><dt>Questões</dt><dd>60</dd></div><div><dt>Redação</dt><dd>Tem</dd></div><div><dt>Duração</dt><dd>5 horas</dd></div><div><dt>Quando</dt><dd>2 vezes por ano</dd></div></dl>
+          <p class="botoes"><a class="btn btn--primary" href="provas.html?banca=fatec">Ver as provas</a><a class="btn" href="fatec.html">Como funciona</a></p>
+        </li>
+        <li data-banca="ETEC">
+          <div class="vest__topo"><div><p class="vest__org">Centro Paula Souza</p><h3>ETEC</h3></div><span class="vest__chip"></span></div>
+          <p class="vest__desc">Escolas técnicas estaduais de São Paulo: ensino médio, ensino médio com técnico e cursos técnicos. A entrada é pelo Vestibulinho.</p>
+          <dl class="vest__fatos"><div><dt>Questões</dt><dd>50</dd></div><div><dt>Redação</dt><dd>Não tem</dd></div><div><dt>Duração</dt><dd>4 horas</dd></div><div><dt>Quando</dt><dd>2 vezes por ano</dd></div></dl>
+          <p class="botoes"><a class="btn btn--primary" href="provas.html?banca=etec">Ver as provas</a><a class="btn" href="etec.html">Como funciona</a></p>
+        </li>
+      </ul>
+      <p class="legenda" id="vest-nota"></p>
+    </section>
+
+    <section class="comparar" aria-labelledby="comparar-t">
+      <div class="titulo-linha"><h2 id="comparar-t">Lado <em>a lado</em></h2></div>
+      <div class="comparar__rola" role="region" aria-label="Tabela comparativa (role para os lados)" tabindex="0">
+        <table>
+          <caption>Valores das edições recentes. Cada edição pode mudar: confira sempre o manual oficial.</caption>
+          <thead><tr><td></td><th scope="col">ETEC</th><th scope="col">FATEC</th><th scope="col">Enem</th></tr></thead>
+          <tbody>
+            <tr><th scope="row">Quem organiza</th><td>Centro Paula Souza</td><td>Centro Paula Souza</td><td>Inep (MEC)</td></tr>
+            <tr><th scope="row">Para entrar em</th><td>Ensino médio e cursos técnicos</td><td>Faculdade de tecnologia</td><td>Faculdades de todo o país</td></tr>
+            <tr><th scope="row">Prova objetiva</th><td>50 questões</td><td>60 questões em 2026 (54 até 2024; 64 em 2025)</td><td>180 questões</td></tr>
+            <tr><th scope="row">Redação</th><td>Não tem</td><td>Tem</td><td>Tem</td></tr>
+            <tr><th scope="row">Duração</th><td>4 horas</td><td>5 horas</td><td>Dois domingos</td></tr>
+            <tr><th scope="row">Quando</th><td>Duas vezes por ano</td><td>Duas vezes por ano</td><td>Uma vez por ano</td></tr>
+            <tr><th scope="row">No Treineiros</th><td>Provas desde 2017</td><td>Provas desde 2017</td><td>Todas as edições desde 1998 e os temas de redação</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/acessibilidade.js"></script><script src="js/vestibulares.js"></script>
+</body>
+</html>

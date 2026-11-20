@@ -1,0 +1,1787 @@
+{
+ "id": "enem-2004",
+ "banca": "Enem",
+ "ano": 2004,
+ "titulo": "Enem 2004: Prova objetiva",
+ "fonte": "Inep",
+ "dataExame": "2004-08-29",
+ "duracaoMinutos": 300,
+ "area": "Prova objetiva (63 questões)",
+ "caderno": "amarelo",
+ "dia": 1,
+ "fonteGabarito": {
+  "oficial": false,
+  "nome": "cópia do gabarito do caderno amarelo publicada no SlideShare, conferida com uma segunda cópia"
+ },
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p>As Olimpíadas são uma oportunidade para o congraçamento de um grande número de países, sem discriminação política ou racial, ainda que seus resultados possam refletir características culturais, socioeconômicas e étnicas. Em 2000, nos Jogos Olímpicos de Sydney, o total de 300 medalhas de ouro conquistadas apresentou a seguinte distribuição entre os 196 países participantes como mostra o gráfico.</p>[[fig:1]]<p>Esses resultados mostram que, na distribuição das medalhas de ouro em 2000,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q01.webp",
+     "alt": "Gráfico de barras “Distribuição das Medalhas de Ouro, Olimpíadas de Sydney - 2000”: EUA, 40; Rússia, 32; China, 28; Austrália, 16; Alemanha, 13; Outros, 171."
+    }
+   ],
+   "alternativas": {
+    "A": "cada país participante conquistou pelo menos uma.",
+    "B": "cerca de um terço foi conquistado por apenas três países.",
+    "C": "os cinco países mais populosos obtiveram os melhores resultados.",
+    "D": "os cinco países mais desenvolvidos obtiveram os melhores resultados.",
+    "E": "cerca de um quarto foi conquistado pelos Estados Unidos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>EUA, Rússia e China somam 40 + 32 + 28 = 100 medalhas de ouro, um terço das 300. Alternativa <strong>B</strong>.</p><p>Os 40 ouros dos EUA são 13%, e não cerca de um quarto (E); 171 medalhas ficaram com “outros” países, mas com 196 participantes nem todos ganharam ouro (A); e a Índia, muito populosa, não está entre os primeiros (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Olimpíadas",
+    "frações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Geografia",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p>O número de atletas nas Olimpíadas vem aumentando nos últimos anos, como mostra o gráfico. Mais de 10.000 atletas participaram dos Jogos Olímpicos de Sydney, em 2000.</p>[[fig:1]]<p>Nas <u>últimas cinco Olimpíadas</u>, esse aumento ocorreu devido ao crescimento da participação de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q02.webp",
+     "alt": "Gráfico de linhas do número de atletas nas Olimpíadas de 1960 a 2000, com três curvas. Total: 5.348, 5.140, 5.531, 7.247, 6.085, 5.353, 7.932, 9.421, 9.364, 10.624 e 10.321. Homens: 4.738, 4.457, 4.750, 5.848, 4.834, 4.265, 6.434, 6.983, 6.659, 7.075 e 6.416. Mulheres: 610, 683, 781, 1.299, 1.251, 1.088, 1.498, 2.438, 2.705, 3.549 e 3.905."
+    }
+   ],
+   "alternativas": {
+    "A": "homens e mulheres, na mesma proporção.",
+    "B": "homens, pois a de mulheres vem diminuindo a cada Olimpíada.",
+    "C": "homens, pois a de mulheres praticamente não se alterou.",
+    "D": "mulheres, pois a de homens vem diminuindo a cada Olimpíada.",
+    "E": "mulheres, pois a de homens praticamente não se alterou."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Nas últimas cinco Olimpíadas (1984 a 2000), o número de homens oscilou pouco (6.434, 6.983, 6.659, 7.075, 6.416), enquanto o de mulheres subiu de 1.498 para 3.905. O aumento do total veio das mulheres. Alternativa <strong>E</strong>.</p><p>A participação masculina não “vem diminuindo a cada Olimpíada” (D): ela sobe e desce em torno do mesmo valor.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Olimpíadas",
+    "participação feminina"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 3,
+   "materia": "História",
+   "assunto": "Século XX",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p>Os Jogos Olímpicos tiveram início na Grécia, em 776 a.C., para celebrar uma declaração de paz. Na sociedade contemporânea, embora mantenham como ideal o congraçamento entre os povos, os Jogos Olímpicos têm sido palco de manifestações de conflitos políticos. Dentre os acontecimentos apresentados abaixo, o único que evoca um conflito armado e <u>sugere sua superação</u>, reafirmando o ideal olímpico, ocorreu</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "em 1980, em Moscou, quando os norte-americanos deixaram de comparecer aos Jogos Olímpicos.",
+    "B": "em 1964, em Tóquio, quando um atleta nascido em Hiroshima foi escolhido para carregar a tocha olímpica.",
+    "C": "em 1956, em Melbourne, quando a China abandonou os Jogos porque a representação de Formosa também havia sido convidada para participar.",
+    "D": "em 1948, em Londres, quando os alemães e os japoneses não foram convidados a participar.",
+    "E": "em 1936, em Berlim, quando Hitler abandonou o estádio ao serem anunciadas as vitórias do universitário negro, Jesse Owens, que recebeu quatro medalhas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em 1964, em Tóquio, a tocha foi acesa por Yoshinori Sakai, nascido em Hiroshima no dia da bomba atômica: o gesto lembrava a Segunda Guerra (conflito armado) e afirmava a reconstrução e a paz. Alternativa <strong>B</strong>.</p><p>Os boicotes de 1980 e 1956 e a exclusão de 1948 são manifestações de conflito, sem superação; e o episódio de 1936 se refere ao racismo nazista, não a uma guerra.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Olimpíadas",
+    "Hiroshima"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Ângulos",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "<p>Nos <em>X-Games Brasil</em>, em maio de 2004, o skatista brasileiro Sandro Dias, apelidado “Mineirinho”, conseguiu realizar a manobra denominada “900”, na modalidade <em>skate</em> vertical, tornando-se o segundo atleta no mundo a conseguir esse feito. A denominação “900” refere-se ao número de graus que o atleta gira no ar em torno de seu próprio corpo, que, no caso, corresponde a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "uma volta completa.",
+    "B": "uma volta e meia.",
+    "C": "duas voltas completas.",
+    "D": "duas voltas e meia.",
+    "E": "cinco voltas completas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Uma volta completa tem 360°. Então 900° = 2 × 360° + 180°, isto é, duas voltas e meia. Alternativa <strong>D</strong>.</p><p>Uma volta e meia seria 540° (B), duas voltas, 720° (C), e cinco voltas, 1.800° (E). O nome da manobra vem justamente da soma dos ângulos girados no ar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "graus",
+    "skate"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Geografia",
+   "assunto": "Amazônia",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p>Em 2003, deu-se início às discussões do Plano Amazônia Sustentável, que rebatiza o Arco do Desmatamento, uma extensa faixa que vai de Rondônia ao Maranhão, como Arco do Povoamento Adensado, a fim de reconhecer as demandas da população que vive na região. A Amazônia Ocidental, em contraste, é considerada nesse plano como uma área ainda amplamente preservada, na qual se pretende encontrar alternativas para tirar mais renda da floresta em pé do que por meio do desmatamento. O quadro apresenta as três macrorregiões e três estratégias que constam do Plano.</p>[[fig:1]]<p><strong>Estratégias:</strong></p><ol type=\"I\"><li>Pavimentação de rodovias para levar a soja até o rio Amazonas, por onde será escoada.</li><li>Apoio à produção de fármacos, extratos e couros vegetais.</li><li>Orientação para a expansão do plantio de soja, atraindo os produtores para áreas já desmatadas e atualmente abandonadas.</li></ol><p>Considerando as características geográficas da Amazônia, aplicam-se às macrorregiões Amazônia Ocidental, Amazônia Central e Arco do Povoamento Adensado, <u>respectivamente</u>, as estratégias</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q05.webp",
+     "alt": "Mapa do Brasil com a Amazônia dividida em três macrorregiões: a Amazônia Ocidental, a oeste; a Amazônia Central, no meio, ao longo do rio Amazonas; e o Arco do Povoamento Adensado, uma grande faixa curva no sul e no leste da região, de Rondônia ao Maranhão."
+    }
+   ],
+   "alternativas": {
+    "A": "I, II e III.",
+    "B": "I, III e II.",
+    "C": "III, I e II.",
+    "D": "II, I e III.",
+    "E": "III, II e I."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na Amazônia Ocidental, ainda preservada, a estratégia é tirar renda da floresta em pé (II: fármacos, extratos, couros vegetais). A Amazônia Central, cortada pelo rio Amazonas, serve ao escoamento da soja (I: pavimentar rodovias até o rio). E no Arco do Povoamento Adensado, já desmatado, a soja deve ocupar as áreas abandonadas (III). Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Plano Amazônia Sustentável"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 6,
+   "materia": "Geografia",
+   "assunto": "Espaço agrário",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "<p>A produção agrícola brasileira evoluiu, na última década, de forma diferenciada. No caso da cultura de grãos, por exemplo, verifica-se nos últimos anos um crescimento significativo da produção da soja e do milho, como mostra o gráfico.</p>[[fig:1]]<p>Pelos dados do gráfico é possível verificar que, no período considerado,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q06.webp",
+     "alt": "Gráfico de linhas da produção, em milhões de toneladas, de 1992 a 2004. Soja: de 20 em 1992 para cerca de 31 em 1998, 38 em 2001 e 58 em 2004. Milho: oscila entre 30 e 37 até 2000 e chega a 46 em 2004. Arroz: quase constante, perto de 10. Feijão: quase constante, perto de 3. Fonte: Ministério da Agricultura e Produção Agropecuária."
+    }
+   ],
+   "alternativas": {
+    "A": "a produção de alimentos básicos dos brasileiros cresceu muito pouco.",
+    "B": "a produção de feijão foi a maior entre as diversas culturas de grãos.",
+    "C": "a cultura do milho teve taxa de crescimento superior à da soja.",
+    "D": "as culturas voltadas para o mercado mundial decresceram.",
+    "E": "as culturas voltadas para a produção de ração animal não se alteraram."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No gráfico, arroz e feijão, alimentos básicos dos brasileiros, ficam quase constantes (cerca de 10 e 3 milhões de toneladas) de 1992 a 2004, enquanto soja e milho crescem. Alternativa <strong>A</strong>.</p><p>A soja passou de 20 para 58 milhões de toneladas (quase o triplo), crescendo mais que o milho, de 30 para 46 (C); e a soja, voltada à exportação e à ração, cresceu (D, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "soja",
+    "produção de grãos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 7,
+   "materia": "Geografia",
+   "assunto": "Cerrado",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p>A grande produção brasileira de soja, com expressiva participação na economia do país, vem avançando nas regiões do Cerrado brasileiro. Esse tipo de produção demanda grandes extensões de terra, o que gera preocupação, sobretudo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "econômica, porque desestimula a mecanização.",
+    "B": "social, pois provoca o fluxo migratório para o campo.",
+    "C": "climática, porque diminui a insolação na região.",
+    "D": "política, pois deixa de atender ao mercado externo.",
+    "E": "ambiental, porque reduz a biodiversidade regional."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A soja ocupa grandes extensões de terra em monocultura, substituindo a vegetação nativa do Cerrado, um dos biomas mais ricos em espécies do país. A preocupação é ambiental: perda de biodiversidade. Alternativa <strong>E</strong>.</p><p>A soja é altamente mecanizada (A), expulsa e não atrai população para o campo (B) e é voltada justamente ao mercado externo (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "soja",
+    "biodiversidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Áreas",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p class=\"apoio\"><strong>VENDEDORES JOVENS</strong><br>Fábrica de LONAS – Vendas no Atacado<br>10 vagas para estudantes, 18 a 20 anos, sem experiência.<br>Salário: R$ 300,00 fixo + comissão de R$ 0,50 por m<sup>2</sup> vendido.<br>Contato: 0xx97-43421167 ou atacadista@lonaboa.com.br</p><p>Na seleção para as vagas deste anúncio, feita por telefone ou correio eletrônico, propunha-se aos candidatos uma questão a ser resolvida na hora. Deveriam calcular seu salário no primeiro mês, se vendessem 500 m de tecido com largura de 1,40 m, e no segundo mês, se vendessem o dobro. Foram bem sucedidos os jovens que responderam, respectivamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 300,00 e R$ 500,00.",
+    "B": "R$ 550,00 e R$ 850,00.",
+    "C": "R$ 650,00 e R$ 1000,00.",
+    "D": "R$ 650,00 e R$ 1300,00.",
+    "E": "R$ 950,00 e R$ 1900,00."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>500 m de tecido com 1,40 m de largura são 700 m². A comissão é 700 × 0,50 = R$ 350, e o salário, 300 + 350 = R$ 650. No segundo mês, com o dobro (1.400 m²), a comissão é R$ 700, e o salário, R$ 1.000 (o fixo não dobra). Alternativa <strong>C</strong>.</p><p>D dobra também o salário fixo, e B usa os 500 m como se fossem metros quadrados.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "área"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Raciocínio lógico",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p>Em uma fábrica de equipamentos eletrônicos, cada componente, ao final da linha de montagem, é submetido a um rigoroso controle de qualidade, que mede o desvio percentual (D) de seu desempenho em relação a um padrão ideal. O fluxograma a seguir descreve, passo a passo, os procedimentos executados por um computador para imprimir um selo em cada componente testado, classificando-o de acordo com o resultado do teste:</p>[[fig:1]]<p>Os símbolos usados no fluxograma têm os seguintes significados:</p>[[fig:2]]<p>Segundo essa rotina, se D = 1,2%, o componente receberá um selo com a classificação</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q09a.webp",
+     "alt": "Fluxograma: Início; entrar D; “D > 5,0%?”: se sim, escolher a cor vermelha e escrever “Rejeitado”; se não, “D > 3,0%?”: se sim, escolher a cor amarela e escrever “3ª Classe”; se não, escolher a cor azul e testar “D > 1,0%?”: se sim, escrever “2ª Classe”; se não, escrever “1ª Classe”. Todos os caminhos terminam em imprimir selo e Fim."
+    },
+    {
+     "src": "assets/img/enem-2004/q09b.webp",
+     "alt": "Legenda dos símbolos: trapézio, entrada e saída de dados; losango, decisão (testa uma condição, executando operações diferentes caso essa condição seja verdadeira ou falsa); retângulo, operação."
+    }
+   ],
+   "alternativas": {
+    "A": "“Rejeitado”, impresso na cor vermelha.",
+    "B": "“3ª Classe”, impresso na cor amarela.",
+    "C": "“3ª Classe”, impresso na cor azul.",
+    "D": "“2ª Classe”, impresso na cor azul.",
+    "E": "“1ª Classe”, impresso na cor azul."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com D = 1,2%: D &gt; 5,0%? Não. D &gt; 3,0%? Não. Então escolhe a cor azul. D &gt; 1,0%? Sim: escreve “2ª Classe”. O selo sai “2ª Classe”, em azul. Alternativa <strong>D</strong>.</p><p>“1ª Classe” (E) só sairia para D ≤ 1,0%.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fluxograma"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p>Em quase todo o Brasil existem restaurantes em que o cliente, após se servir, pesa o prato de comida e paga o valor correspondente, registrado na nota pela balança. Em um restaurante desse tipo, o preço do quilo era R$ 12,80. Certa vez a funcionária digitou por engano na balança eletrônica o valor R$ 18,20 e só percebeu o erro algum tempo depois, quando vários clientes já estavam almoçando. Ela fez alguns cálculos e verificou que o erro seria corrigido se o valor incorreto indicado na nota dos clientes fosse multiplicado por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,54.",
+    "B": "0,65.",
+    "C": "0,70.",
+    "D": "1,28.",
+    "E": "1,42."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O valor cobrado é proporcional ao preço do quilo. Para corrigir, multiplica-se pela razão entre o preço certo e o errado: 12,80/18,20 ≈ 0,703, ou seja, cerca de 0,70. Alternativa <strong>C</strong>.</p><p>1,42 (E) é a razão inversa, que aumentaria ainda mais a conta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Química",
+   "assunto": "Lipídios",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>As “margarinas” e os chamados “cremes vegetais” são produtos diferentes, comercializados em embalagens quase idênticas. O consumidor, para diferenciar um produto do outro, deve ler com atenção os dizeres do rótulo, geralmente em letras muito pequenas. As figuras que seguem representam rótulos desses dois produtos.</p>[[fig:1]]<p>Uma função dos lipídios no preparo das massas alimentícias é torná-las mais macias. Uma pessoa que, por desatenção, use 200 g de creme vegetal para preparar uma massa cuja receita pede 200 g de margarina, não obterá a consistência desejada, pois estará utilizando uma quantidade de lipídios que é, em relação à recomendada, aproximadamente</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q11.webp",
+     "alt": "Dois rótulos lado a lado. Margarina: peso líquido 500 g, 65% de lipídios, valor energético por porção de 10 g: 59 kcal. Creme vegetal: peso líquido 500 g, 35% de lipídios, valor energético por porção de 10 g: 32 kcal, não recomendado para uso culinário."
+    }
+   ],
+   "alternativas": {
+    "A": "o triplo.",
+    "B": "o dobro.",
+    "C": "a metade.",
+    "D": "um terço.",
+    "E": "um quarto."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A margarina tem 65% de lipídios, e o creme vegetal, 35%. Em 200 g, são 130 g contra 70 g: 70/130 ≈ 0,54, aproximadamente a metade. Alternativa <strong>C</strong>.</p><p>Um terço (D) e um quarto (E) subestimam o teor de gordura do creme vegetal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rótulos",
+    "porcentagem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Escala e orientação",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>Um leitor encontra o seguinte anúncio entre os classificados de um jornal:</p><p class=\"apoio\"><strong>VILA DAS FLORES</strong><br>Vende-se terreno plano medindo 200 m<sup>2</sup>. Frente voltada para o sol no período da manhã. Fácil acesso.<br>(443)0677-0032</p><p>Interessado no terreno, o leitor vai ao endereço indicado e, lá chegando, observa um painel com a planta a seguir, onde estavam destacados os terrenos ainda não vendidos, numerados de I a V:</p>[[fig:1]]<p>Considerando as informações do jornal, é possível afirmar que o terreno anunciado é o</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q12.webp",
+     "alt": "Planta de duas quadras com o norte para cima e escala de 0, 10 e 20 m. Ruas: dos Cravos (norte), das Hortênsias (sul), dos Jasmins (oeste), das Rosas (entre as quadras) e das Margaridas (leste). Na quadra da esquerda: terreno I, quadrado, junto à Rua dos Jasmins; terreno II, junto à Rua das Rosas, mais alto que largo; terreno IV, junto à Rua das Rosas, perto da Rua das Hortênsias, mais largo que alto (cerca de 20 m por 10 m). Na quadra da direita: terreno III, estreito, junto à Rua das Rosas no alto; terreno V, junto à Rua das Margaridas."
+    }
+   ],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O anúncio pede 200 m² e frente voltada para o sol da manhã, isto é, para o leste. Pela escala, o terreno IV mede 20 m × 10 m = 200 m² e sua frente dá para a Rua das Rosas, a leste dele. Alternativa <strong>D</strong>.</p><p>O terreno II também fica junto à Rua das Rosas, mas tem outra área; I, III e V não têm frente para o leste ou não somam 200 m².</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "pontos cardeais"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p>No Nordeste brasileiro, é comum encontrarmos peças de artesanato constituídas por garrafas preenchidas com areia de diferentes cores, formando desenhos. Um artesão deseja fazer peças com areia de cores cinza, azul, verde e amarela, mantendo o mesmo desenho, mas variando as cores da paisagem (casa, palmeira e fundo), conforme a figura.</p>[[fig:1]]<p>O fundo pode ser representado nas cores azul ou cinza; a casa, nas cores azul, verde ou amarela; e a palmeira, nas cores cinza ou verde. Se o fundo não pode ter a mesma cor nem da casa nem da palmeira, por uma questão de contraste, então o número de variações que podem ser obtidas para a paisagem é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q13.webp",
+     "alt": "Desenho de uma garrafa com areia formando uma paisagem: uma palmeira, uma casinha e o fundo, indicado com a palavra “fundo”."
+    }
+   ],
+   "alternativas": {
+    "A": "6.",
+    "B": "7.",
+    "C": "8.",
+    "D": "9.",
+    "E": "10."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Fundo azul: a casa pode ser verde ou amarela (2) e a palmeira, cinza ou verde (2): 4 variações. Fundo cinza: a casa pode ser azul, verde ou amarela (3) e a palmeira só verde (1): 3 variações. Total: 4 + 3 = 7. Alternativa <strong>B</strong>.</p><p>Sem a restrição de contraste, seriam 2 × 3 × 2 = 12.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Vasos comunicantes",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p>Para medir o perfil de um terreno, um mestre-de-obras utilizou duas varas (V<sub>I</sub> e V<sub>II</sub>), iguais e igualmente graduadas em centímetros, às quais foi acoplada uma mangueira plástica transparente, parcialmente preenchida por água (figura abaixo). Ele fez 3 medições que permitiram levantar o perfil da linha que contém, em seqüência, os pontos P<sub>1</sub>, P<sub>2</sub>, P<sub>3</sub> e P<sub>4</sub>. Em cada medição, colocou as varas em dois diferentes pontos e anotou suas leituras na tabela a seguir. A figura representa a primeira medição entre P<sub>1</sub> e P<sub>2</sub>.</p>[[fig:1]]<table class=\"tabela\"><thead><tr><th>Medição</th><th>Vara I</th><th>L<sub>I</sub></th><th>Vara II</th><th>L<sub>II</sub></th><th>L<sub>I</sub> − L<sub>II</sub></th></tr></thead><tbody><tr><td>1ª</td><td>P<sub>1</sub></td><td>239</td><td>P<sub>2</sub></td><td>164</td><td>75</td></tr><tr><td>2ª</td><td>P<sub>2</sub></td><td>189</td><td>P<sub>3</sub></td><td>214</td><td>−25</td></tr><tr><td>3ª</td><td>P<sub>3</sub></td><td>229</td><td>P<sub>4</sub></td><td>174</td><td>55</td></tr></tbody></table><p class=\"fonte\">Leituras e diferença em centímetros.</p><p>Ao preencher completamente a tabela, o mestre-de-obras determinou o seguinte perfil para o terreno:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q14.webp",
+     "alt": "Figura da primeira medição: duas varas verticais, V1 em P1 e V2 em P2, ligadas por uma mangueira com água; o nível de água na mangueira marca 239 cm na vara de P1 e 164 cm na de P2, que está num ponto mais alto do terreno. Mais adiante, P3 e P4, com a indicação “terreno fora de escala”."
+    },
+    {
+     "src": "assets/img/enem-2004/q14a.webp",
+     "alt": "Perfil de P1 a P4: sobe até um pico em P2, desce um pouco até P3 e sobe até P4, acima do primeiro pico."
+    },
+    {
+     "src": "assets/img/enem-2004/q14b.webp",
+     "alt": "Perfil de P1 a P4: sobe até o ponto mais alto perto de P3 e desce até P4."
+    },
+    {
+     "src": "assets/img/enem-2004/q14c.webp",
+     "alt": "Perfil de P1 a P4: quase plano até P2, sobe até um pico em P3 e desce um pouco até P4."
+    },
+    {
+     "src": "assets/img/enem-2004/q14d.webp",
+     "alt": "Perfil de P1 a P4: sobe até P2, desce muito até P3 e sobe bastante até P4."
+    },
+    {
+     "src": "assets/img/enem-2004/q14e.webp",
+     "alt": "Perfil de P1 a P4: sobe até P2, fica quase plano até P3 e sobe até P4."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Pelo princípio dos vasos comunicantes, a água fica no mesmo nível nas duas varas, e a diferença das leituras (L<sub>I</sub> − L<sub>II</sub>) é quanto o segundo ponto está acima do primeiro. P2 está 75 cm acima de P1; P3, 25 cm abaixo de P2; P4, 55 cm acima de P3. Tomando P1 = 0: P2 = 75, P3 = 50, P4 = 105. O perfil sobe, desce um pouco e sobe acima do primeiro pico. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vasos comunicantes",
+    "perfil topográfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Áreas",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>Uma empresa produz tampas circulares de alumínio para tanques cilíndricos a partir de chapas quadradas de 2 metros de lado, conforme a figura. Para 1 tampa grande, a empresa produz 4 tampas médias e 16 tampas pequenas.</p>[[fig:1]]<p>As sobras de material da produção diária das tampas grandes, médias e pequenas dessa empresa são doadas, respectivamente, a três entidades: I, II e III, para efetuarem reciclagem do material. A partir dessas informações, pode-se concluir que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q15.webp",
+     "alt": "Três chapas quadradas de 2 m de lado: a “grande” com um círculo que toca os quatro lados; a “média” com 4 círculos iguais (2 por 2); a “pequena” com 16 círculos iguais (4 por 4). Ao lado, “Área do círculo: πr²”."
+    }
+   ],
+   "alternativas": {
+    "A": "a entidade I recebe mais material do que a entidade II.",
+    "B": "a entidade I recebe metade de material do que a entidade III.",
+    "C": "a entidade II recebe o dobro de material do que a entidade III.",
+    "D": "as entidade I e II recebem, juntas, menos material do que a entidade III.",
+    "E": "as três entidades recebem iguais quantidades de material."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na chapa de 2 m, a tampa grande tem raio 1 m (área π); as 4 médias têm raio 0,5 m (área 4 × π/4 = π); as 16 pequenas, raio 0,25 m (área 16 × π/16 = π). Em todos os casos a chapa de 4 m² perde 4 − π ≈ 0,86 m². Como se produz 1 grande para 4 médias e 16 pequenas (uma chapa de cada), as sobras são iguais. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área do círculo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Conjuntos",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p>Um fabricante de cosméticos decide produzir três diferentes catálogos de seus produtos, visando a públicos distintos. Como alguns produtos estarão presentes em mais de um catálogo e ocupam uma página inteira, ele resolve fazer uma contagem para diminuir os gastos com originais de impressão. Os catálogos C<sub>1</sub>, C<sub>2</sub> e C<sub>3</sub> terão, respectivamente, 50, 45 e 40 páginas. Comparando os projetos de cada catálogo, ele verifica que C<sub>1</sub> e C<sub>2</sub> terão 10 páginas em comum; C<sub>1</sub> e C<sub>3</sub> terão 6 páginas em comum; C<sub>2</sub> e C<sub>3</sub> terão 5 páginas em comum, das quais 4 também estarão em C<sub>1</sub>.</p><p>Efetuando os cálculos correspondentes, o fabricante concluiu que, para a montagem dos três catálogos, necessitará de um total de originais de impressão igual a:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "135.",
+    "B": "126.",
+    "C": "118.",
+    "D": "114.",
+    "E": "110."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pelo princípio da inclusão e exclusão: 50 + 45 + 40 − 10 − 6 − 5 + 4 = 118 originais. As páginas comuns aos pares foram subtraídas, e as 4 comuns aos três, que tinham sido descontadas três vezes, voltam uma vez. Alternativa <strong>C</strong>.</p><p>Somando tudo dá 135 (A); subtraindo as interseções sem devolver as 4, 114 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "inclusão e exclusão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p>Antes de uma eleição para prefeito, certo instituto realizou uma pesquisa em que foi consultado um número significativo de eleitores, dos quais 36% responderam que iriam votar no candidato X; 33%, no candidato Y e 31%, no candidato Z. A margem de erro estimada para cada um desses valores é de 3% para mais ou para menos. Os técnicos do instituto concluíram que, se confirmado o resultado da pesquisa,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "apenas o candidato X poderia vencer e, nesse caso, teria 39% do total de votos.",
+    "B": "apenas os candidatos X e Y teriam chances de vencer.",
+    "C": "o candidato Y poderia vencer com uma diferença de até 5% sobre X.",
+    "D": "o candidato Z poderia vencer com uma diferença de, no máximo, 1% sobre X.",
+    "E": "o candidato Z poderia vencer com uma diferença de até 5% sobre o candidato Y."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com margem de 3 pontos, X pode ter de 33% a 39%; Y, de 30% a 36%; Z, de 28% a 34%. Z vence no máximo com 34% contra 33% de X, uma diferença de 1 ponto. Alternativa <strong>D</strong>.</p><p>Os três têm chance, porque os intervalos se sobrepõem (A, B); Y vence X por no máximo 3 pontos (C), e Z vence Y por no máximo 4 pontos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "margem de erro",
+    "pesquisa eleitoral"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p>O poema abaixo pertence à poesia concreta brasileira. O termo latino de seu título significa “epitalâmio”, poema ou canto em homenagem aos que se casam.</p>[[fig:1]]<p>Considerando que símbolos e sinais são utilizados geralmente para demonstrações objetivas, ao serem incorporados no poema “Epithalamium - II”,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q18.webp",
+     "alt": "Poema concreto “Epithalamium – II”, de Pedro Xisto: um grande sinal “&amp;” desenhado de modo que contém um “h” na curva de cima e um “e” na de baixo, formando também um “S”. Abaixo, as chaves de leitura: “he = ele”, “&amp; = e”, “She = ela”, “S = serpens”, “h = homo”, “e = eva”."
+    }
+   ],
+   "alternativas": {
+    "A": "adquirem novo potencial de significação.",
+    "B": "eliminam a subjetividade do poema.",
+    "C": "opõem-se ao tema principal do poema.",
+    "D": "invertem seu sentido original.",
+    "E": "tornam-se confusos e equivocados."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O poema usa letras e o “&amp;” como símbolos: “he” (ele), “&amp;” (e) e “She” (ela) formam o casal, e a forma do S lembra a serpente, com o “h” do homem e o “e” de Eva, retomando o mito do Gênesis. Os sinais deixam de ser só objetivos e ganham novos sentidos. Alternativa <strong>A</strong>.</p><p>Eles não eliminam a subjetividade (B) nem contrariam o tema do casamento (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Poesia concreta",
+    "Pedro Xisto",
+    "poesia concreta"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 19,
+   "materia": "Português",
+   "assunto": "Interpretação de tirinha",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "[[fig:1]]<p>A conversa entre Mafalda e seus amigos</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q19.webp",
+     "alt": "Tira de Mafalda, de Quino, em quatro quadros. Mafalda pergunta: “Para onde vocês acham que a humanidade está indo?”. Um menino responde: “Para a frente, é cla...”; outro o interrompe, apontando para outro lado: “A frente é pra lá!”. No último quadro, os dois discutem (“Lá não é frente!”, “Mas é a minha frente!”, “A tua frente não é a minha frente!”, “Não!”), e Mafalda, à parte, pensa: “Estou começando a entender por que é tão difícil a humanidade ir para a frente”."
+    }
+   ],
+   "alternativas": {
+    "A": "revela a real dificuldade de entendimento entre posições que pareciam convergir.",
+    "B": "desvaloriza a diversidade social e cultural e a capacidade de entendimento e respeito entre as pessoas.",
+    "C": "expressa o predomínio de uma forma de pensar e a possibilidade de entendimento entre posições divergentes.",
+    "D": "ilustra a possibilidade de entendimento e de respeito entre as pessoas a partir do debate político de idéias.",
+    "E": "mostra a preponderância do ponto de vista masculino nas discussões políticas para superar divergências."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os amigos concordam que a humanidade deve ir “para a frente”, mas, ao apontar a direção, cada um indica um lado diferente e começam a brigar. A concordância era só aparente: a tira revela a dificuldade de entendimento entre posições que pareciam convergir. Alternativa <strong>A</strong>.</p><p>Não há entendimento ao final (C, D), e o conflito não é entre visões masculina e feminina (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Mafalda"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 20,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 20 e 21.</strong></p><p class=\"apoio\"><strong>Brasil</strong></p><p class=\"apoio\">O Zé Pereira chegou de caravela<br>E preguntou pro guarani da mata virgem<br>― Sois cristão?<br>― Não. Sou bravo, sou forte, sou filho da Morte<br>Teterê tetê Quizá Quizá Quecê!<br>Lá longe a onça resmungava Uu! ua! uu!<br>O negro zonzo saído da fornalha<br>Tomou a palavra e respondeu<br>― Sim pela graça de Deus<br>Canhem Babá Canhem Babá Cum Cum!<br>E fizeram o Carnaval</p><p class=\"fonte\">Oswald de Andrade.</p><p>Este texto apresenta uma versão humorística da formação do Brasil, mostrando-a como uma junção de elementos diferentes. Considerando-se esse aspecto, é correto afirmar que a visão apresentada pelo texto é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ambígua, pois tanto aponta o caráter desconjuntado da formação nacional, quanto parece sugerir que esse processo, apesar de tudo, acaba bem.",
+    "B": "inovadora, pois mostra que as três raças formadoras – portugueses, negros e índios – pouco contribuíram para a formação da identidade brasileira.",
+    "C": "moralizante, na medida em que aponta a precariedade da formação cristã do Brasil como causa da predominância de elementos primitivos e pagãos.",
+    "D": "preconceituosa, pois critica tanto índios quanto negros, representando de modo positivo apenas o elemento europeu, vindo com as caravelas.",
+    "E": "negativa, pois retrata a formação do Brasil como incoerente e defeituosa, resultando em anarquia e falta de seriedade."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O poema mostra a formação do Brasil como uma mistura desencontrada (o português pergunta, o índio recusa, o negro responde “zonzo”), mas termina em festa: “E fizeram o Carnaval”. A visão é ambígua: aponta o caráter desconjuntado e sugere que, apesar de tudo, o processo acaba bem. Alternativa <strong>A</strong>.</p><p>O texto não diz que as três raças pouco contribuíram (B), não é moralizante (C) nem trata a mistura como anarquia (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Modernismo",
+    "Oswald de Andrade",
+    "identidade nacional"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 21,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 20 e 21.</strong></p><p class=\"apoio\"><strong>Brasil</strong></p><p class=\"apoio\">O Zé Pereira chegou de caravela<br>E preguntou pro guarani da mata virgem<br>― Sois cristão?<br>― Não. Sou bravo, sou forte, sou filho da Morte<br>Teterê tetê Quizá Quizá Quecê!<br>Lá longe a onça resmungava Uu! ua! uu!<br>O negro zonzo saído da fornalha<br>Tomou a palavra e respondeu<br>― Sim pela graça de Deus<br>Canhem Babá Canhem Babá Cum Cum!<br>E fizeram o Carnaval</p><p class=\"fonte\">Oswald de Andrade.</p><p>A polifonia, variedade de vozes, presente no poema resulta da manifestação do</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "poeta e do colonizador apenas.",
+    "B": "colonizador e do negro apenas.",
+    "C": "negro e do índio apenas.",
+    "D": "colonizador, do poeta e do negro apenas.",
+    "E": "poeta, do colonizador, do índio e do negro."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Falam no poema o narrador (o poeta, que conta a cena e conclui “E fizeram o Carnaval”), o colonizador (Zé Pereira: “Sois cristão?”), o índio (“Não. Sou bravo...”) e o negro (“Sim pela graça de Deus”). São quatro vozes. Alternativa <strong>E</strong>.</p><p>A onça também “resmunga”, mas não é uma das vozes humanas da polifonia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Modernismo",
+    "polifonia",
+    "Oswald de Andrade"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 22,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p class=\"apoio\"><strong>O jivaro</strong></p><p class=\"apoio\">Um Sr. Matter, que fez uma viagem de exploração à América do Sul, conta a um jornal sua conversa com um índio jivaro, desses que sabem reduzir a cabeça de um morto até ela ficar bem pequenina. Queria assistir a uma dessas operações, e o índio lhe disse que exatamente ele tinha contas a acertar com um inimigo.</p><p class=\"apoio\">O Sr. Matter:<br>― Não, não! Um homem, não. Faça isso com a cabeça de um macaco.<br>E o índio:<br>― Por que um macaco? Ele não me fez nenhum mal!</p><p class=\"fonte\">Rubem Braga.</p><p>O assunto de uma crônica pode ser uma experiência pessoal do cronista, uma informação obtida por ele ou um caso imaginário. O modo de apresentar o assunto também varia: pode ser uma descrição objetiva, uma exposição argumentativa ou uma narrativa sugestiva. Quanto à finalidade pretendida, pode-se promover uma reflexão, definir um sentimento ou tão-somente provocar o riso. Na crônica <em>O jivaro</em>, escrita a partir da reportagem de um jornal, Rubem Braga se vale dos seguintes elementos:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Assunto: caso imaginário; modo de apresentar: descrição objetiva; finalidade: provocar o riso.",
+    "B": "Assunto: informação colhida; modo de apresentar: narrativa sugestiva; finalidade: promover reflexão.",
+    "C": "Assunto: informação colhida; modo de apresentar: descrição objetiva; finalidade: definir um sentimento.",
+    "D": "Assunto: experiência pessoal; modo de apresentar: narrativa sugestiva; finalidade: provocar o riso.",
+    "E": "Assunto: experiência pessoal; modo de apresentar: exposição argumentativa; finalidade: promover reflexão."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O assunto é uma informação colhida (a conversa contada pelo Sr. Matter a um jornal); o modo é a narrativa sugestiva, que mostra a cena e deixa o leitor tirar a conclusão; e a finalidade é a reflexão, pois a resposta do índio inverte quem parece “selvagem” e questiona a moral do explorador. Alternativa <strong>B</strong>.</p><p>O texto tem humor, mas o riso leva a pensar sobre a violência e a hipocrisia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Crônica",
+    "Rubem Braga",
+    "crônica"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 23,
+   "materia": "Artes",
+   "assunto": "Artes visuais",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p>Cândido Portinari (1903-1962), em seu livro <em>Retalhos de Minha Vida de Infância</em>, descreve os pés dos trabalhadores.</p><p class=\"apoio\">Pés disformes. Pés que podem contar uma história. Confundiam-se com as pedras e os espinhos. Pés semelhantes aos mapas: com montes e vales, vincos como rios. (...) Pés sofridos com muitos e muitos quilômetros de marcha. Pés que só os santos têm. Sobre a terra, difícil era distingui-los. Agarrados ao solo, eram como alicerces, muitas vezes suportavam apenas um corpo franzino e doente.</p><p class=\"fonte\">Cândido Portinari, <em>Retrospectiva</em>, Catálogo MASP.</p><p>As fantasias sobre o Novo Mundo, a diversidade da natureza e do homem americano e a crítica social foram temas que inspiraram muitos artistas ao longo de nossa História. Dentre estas imagens, a que melhor caracteriza a crítica social contida no texto de Portinari é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q23a.webp",
+     "alt": "Gravura antiga: uma figura nua deitada, retorcida, numa paisagem de mata."
+    },
+    {
+     "src": "assets/img/enem-2004/q23b.webp",
+     "alt": "Gravura de viajante: um indígena deitado de costas atira com um grande arco preso pelos pés, numa paisagem com cactos."
+    },
+    {
+     "src": "assets/img/enem-2004/q23c.webp",
+     "alt": "Pintura estilizada em tons de cinza: dois trabalhadores, um homem e uma mulher, carregam baldes junto a uma máquina."
+    },
+    {
+     "src": "assets/img/enem-2004/q23d.webp",
+     "alt": "Fotografia de pernas e pés de pessoas sentadas em banquinhos, de roupas simples."
+    },
+    {
+     "src": "assets/img/enem-2004/q23e.webp",
+     "alt": "Fotografia em close de pés descalços em chinelos, grossos, calejados e deformados, sobre o chão de terra e pedras."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto de Portinari descreve pés de trabalhadores, deformados, sofridos, “como alicerces”. A imagem E, uma fotografia de pés calejados e deformados em chinelos, mostra exatamente isso. Alternativa <strong>E</strong>.</p><p>A e B remetem às fantasias e ao homem americano dos cronistas e viajantes; C mostra trabalhadores numa composição estilizada, sem o foco no corpo sofrido; e D mostra pernas e pés de pessoas sentadas, sem as marcas do trabalho.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Portinari",
+    "crítica social"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 24,
+   "materia": "Artes",
+   "assunto": "Cultura popular",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"apoio\">O movimento hip-hop é tão urbano quanto as grandes construções de concreto e as estações de metrô, e cada dia se torna mais presente nas grandes metrópoles mundiais. Nasceu na periferia dos bairros pobres de Nova Iorque. É formado por três elementos: a música (o <em>rap</em>), as artes plásticas (o grafite) e a dança (o <em>break</em>). No hip-hop os jovens usam as expressões artísticas como uma forma de resistência política.</p><p class=\"apoio\">Enraizado nas camadas populares urbanas, o hip-hop afirmou-se no Brasil e no mundo com um discurso político a favor dos excluídos, sobretudo dos negros. Apesar de ser um movimento originário das periferias norte-americanas, não encontrou barreiras no Brasil, onde se instalou com certa naturalidade – o que, no entanto, não significa que o hip-hop brasileiro não tenha sofrido influências locais. O movimento no Brasil é híbrido: <em>rap</em> com um pouco de samba, <em>break</em> parecido com capoeira e grafite de cores muito vivas.</p><p class=\"fonte\">Adaptado de <em>Ciência e Cultura</em>, 2004.</p><p>De acordo com o texto, o hip-hop é uma manifestação artística tipicamente urbana, que tem como principais características</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a ênfase nas artes visuais e a defesa do caráter nacionalista.",
+    "B": "a alienação política e a preocupação com o conflito de gerações.",
+    "C": "a afirmação dos socialmente excluídos e a combinação de linguagens.",
+    "D": "a integração de diferentes classes sociais e a exaltação do progresso.",
+    "E": "a valorização da natureza e o compromisso com os ideais norte-americanos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto apresenta o hip-hop como discurso “a favor dos excluídos, sobretudo dos negros” e como movimento formado por três linguagens (música, artes plásticas e dança), que no Brasil se mistura a samba e capoeira. Alternativa <strong>C</strong>.</p><p>O movimento é político e de resistência, não alienado (B); não integra classes nem exalta o progresso (D); e não se baseia em nacionalismo ou em ideais norte-americanos (A, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hip-hop"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 25,
+   "materia": "Português",
+   "assunto": "Figuras de linguagem",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "[[fig:1]]<p>Nesta tirinha, a personagem faz referência a uma das mais conhecidas figuras de linguagem para</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q25.webp",
+     "alt": "Tira “Frank e Ernest”, de Bob Thaves: ao lado de uma bicicleta ergométrica, um menino comenta com outro: “Meu pai fica pedalando essa bicicleta, mas nunca vai a lugar nenhum. Deve ser uma metáfora da existência dele.”"
+    }
+   ],
+   "alternativas": {
+    "A": "condenar a prática de exercícios físicos.",
+    "B": "valorizar aspectos da vida moderna.",
+    "C": "desestimular o uso das bicicletas.",
+    "D": "caracterizar o diálogo entre gerações.",
+    "E": "criticar a falta de perspectiva do pai."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O menino diz que o pai pedala a bicicleta ergométrica “mas nunca vai a lugar nenhum” e conclui: “Deve ser uma metáfora da existência dele”. A metáfora critica a vida sem rumo, sem perspectiva, do pai. Alternativa <strong>E</strong>.</p><p>A tira não condena o exercício (A) nem desestimula a bicicleta (C); o humor está na crítica ao pai.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metáfora",
+    "tirinha"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 26,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 26 e 27.</strong></p>[[fig:1]]<p>Entre os recursos expressivos empregados no texto, destaca-se a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q26.webp",
+     "alt": "Poema “Cidade grande”, de Carlos Drummond de Andrade, em oito versos: o eu lírico exalta a beleza, o crescimento e a indústria de Montes Claros e diz que a cidade cresceu tanto, ficou tão notória, prima-rica do Rio de Janeiro, que já tem cinco favelas, “por enquanto, e mais promete”."
+    }
+   ],
+   "alternativas": {
+    "A": "metalinguagem, que consiste em fazer a linguagem referir-se à própria linguagem.",
+    "B": "intertextualidade, na qual o texto retoma e reelabora outros textos.",
+    "C": "ironia, que consiste em se dizer o contrário do que se pensa, com intenção crítica.",
+    "D": "denotação, caracterizada pelo uso das palavras em seu sentido próprio e objetivo.",
+    "E": "prosopopéia, que consiste em personificar coisas inanimadas, atribuindo-lhes vida."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O poema elogia o crescimento de Montes Claros para concluir que a cidade “já tem cinco favelas / por enquanto, e mais promete”: o elogio esconde uma crítica ao crescimento desigual. É ironia. Alternativa <strong>C</strong>.</p><p>O texto não fala da própria linguagem (A), não retoma outro texto (B), não é só denotativo (D) e não personifica a cidade (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Figuras de linguagem",
+    "ironia",
+    "Drummond"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 27,
+   "materia": "Português",
+   "assunto": "Orações consecutivas",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"apoio\"><strong>Texto para as questões 26 e 27.</strong></p>[[fig:1]]<p>No trecho “Montes Claros cresceu tanto,/ (...),/ que já tem cinco favelas”, a palavra <u>que</u> contribui para estabelecer uma relação de conseqüência. Dos seguintes versos, todos de Carlos Drummond de Andrade, apresentam esse mesmo tipo de relação:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q26.webp",
+     "alt": "Poema “Cidade grande”, de Carlos Drummond de Andrade, em oito versos: o eu lírico exalta a beleza, o crescimento e a indústria de Montes Claros e diz que a cidade cresceu tanto, ficou tão notória, prima-rica do Rio de Janeiro, que já tem cinco favelas, “por enquanto, e mais promete”."
+    },
+    {
+     "src": "assets/img/enem-2004/q27a.webp",
+     "alt": "“Meu Deus, por que me abandonaste / se sabias que eu não era Deus / se sabias que eu era fraco.”, com o primeiro “que” sublinhado."
+    },
+    {
+     "src": "assets/img/enem-2004/q27b.webp",
+     "alt": "“No meio-dia branco de luz uma voz que aprendeu / a ninar nos longes da senzala – e nunca se esqueceu / chamava para o café.”, com o “que” sublinhado."
+    },
+    {
+     "src": "assets/img/enem-2004/q27c.webp",
+     "alt": "“Teus ombros suportam o mundo / e ele não pesa mais que a mão de uma criança.”, com o “que” sublinhado."
+    },
+    {
+     "src": "assets/img/enem-2004/q27d.webp",
+     "alt": "“A ausência é um estar em mim. / E sinto-a, branca, tão pegada, aconchegada nos meus braços, / que rio e danço e invento exclamações alegres.”, com o “que” sublinhado."
+    },
+    {
+     "src": "assets/img/enem-2004/q27e.webp",
+     "alt": "“Penetra surdamente no reino das palavras. / Lá estão os poemas que esperam ser escritos.”, com o “que” sublinhado."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em D, “tão pegada, aconchegada nos meus braços, / que rio e danço” tem a mesma estrutura de “cresceu tanto... que já tem”: intensidade (tão/tanto) seguida de oração introduzida por “que” com a consequência. Alternativa <strong>D</strong>.</p><p>Nas outras, “que” é integrante (A), relativo (B, E) ou comparativo (C, “mais que”).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conjunção consecutiva",
+    "Drummond"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 28,
+   "materia": "Geografia",
+   "assunto": "Demografia",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p>Ao longo do século XX, as características da população brasileira mudaram muito. Os gráficos mostram as alterações na distribuição da população da cidade e do campo e na taxa de fecundidade (número de filhos por mulher) no período entre 1940 e 2000.</p>[[fig:1]]<p class=\"fonte\">IBGE</p><p>Comparando-se os dados dos gráficos, pode-se concluir que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q28.webp",
+     "alt": "Dois gráficos de barras. “População urbana e rural no Brasil (%)”: 1940, 30% urbana e 70% rural; 1950, 40% e 62%; 1960, 47% e 55%; 1970, 60% e 41%; 1980, 70% e 32%; 1991, 72% e 30%; 2000, 82% e 18%. “Taxa de fecundidade no Brasil”: 6,2 filhos por mulher em 1940 e 1950, 6,3 em 1960, 5,8 em 1970, 4,5 em 1980, 3,0 em 1990 e 2,1 em 2000."
+    }
+   ],
+   "alternativas": {
+    "A": "o aumento relativo da população rural é acompanhado pela redução da taxa de fecundidade.",
+    "B": "quando predominava a população rural, as mulheres tinham em média três vezes menos filhos do que hoje.",
+    "C": "a diminuição relativa da população rural coincide com o aumento do número de filhos por mulher.",
+    "D": "quanto mais aumenta o número de pessoas morando em cidades, maior passa a ser a taxa de fecundidade.",
+    "E": "com a intensificação do processo de urbanização, o número de filhos por mulher tende a ser menor."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os gráficos mostram a população urbana passando a superar a rural e chegando a cerca de 80% em 2000, enquanto a fecundidade cai de cerca de 6 para cerca de 2 filhos por mulher. Urbanização e queda da fecundidade andam juntas. Alternativa <strong>E</strong>.</p><p>As demais invertem a relação: quando predominava a população rural, as mulheres tinham cerca de três vezes mais filhos, e não menos (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "urbanização",
+    "fecundidade"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 29,
+   "materia": "Biologia",
+   "assunto": "Saúde pública",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p>Algumas doenças que, durante várias décadas do século XX, foram responsáveis pelas maiores percentagens das mortes no Brasil, não são mais significativas neste início do século XXI. No entanto, aumentou o percentual de mortalidade devida a outras doenças, conforme se pode observar no diagrama:</p>[[fig:1]]<p>No período considerado no diagrama, deixaram de ser predominantes, como causas de morte, as doenças</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q29.webp",
+     "alt": "Diagrama em faixas da porcentagem das causas de morte no Brasil de 1930 a 2002: infecto-parasitárias, de 45,6% para 4,6%; outras causas, de 21,3% para 27,8%; circulatórias, de 11,8% para 27,2%; respiratórias, de 11,5% para 9,6%; digestivas, de 4,5% para 4,7%; câncer, de 2,7% para 13,2%; causas externas, de 2,6% para 12,9%. Fonte: MS/SVS/DASIS."
+    }
+   ],
+   "alternativas": {
+    "A": "infecto-parasitárias, eliminadas pelo êxodo rural que ocorreu entre 1930 e 1940.",
+    "B": "infecto-parasitárias, reduzidas por maior saneamento básico, vacinas e antibióticos.",
+    "C": "digestivas, combatidas pelas vacinas, vermífugos, novos tratamentos e cirurgias.",
+    "D": "digestivas, evitadas graças à melhoria do padrão alimentar do brasileiro.",
+    "E": "respiratórias, contidas pelo melhor controle da qualidade do ar nas grandes cidades."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No diagrama, as doenças infecto-parasitárias caem de 45,6% das mortes em 1930 para 4,6% em 2002, graças ao saneamento, às vacinas e aos antibióticos. Alternativa <strong>B</strong>.</p><p>O êxodo rural não as eliminou (A); as digestivas sempre foram pequena parcela (C, D); e as respiratórias caíram pouco, de 11,5% para 9,6%, sem nunca terem sido predominantes (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mortalidade",
+    "doenças infecciosas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Geografia",
+   "assunto": "População economicamente ativa",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "[[fig:1]]<p>A distribuição da População Economicamente Ativa (PEA) no Brasil variou muito ao longo do século XX. O gráfico representa a distribuição por setores de atividades (em %) da PEA brasileira em diferentes décadas.</p><p>As transformações socioeconômicas ocorridas ao longo do século XX, no Brasil, mudaram a distribuição dos postos de trabalho do setor</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q30.webp",
+     "alt": "Gráfico de barras do percentual da PEA por setor em 1940, 1960, 1980 e 2000. Agropecuária: cerca de 70%, 54%, 30% e 24%. Indústria: cerca de 10%, 13%, 25% e 20%. Comércio e serviços: cerca de 20%, 33%, 45% e 58%. Fonte: IBGE."
+    }
+   ],
+   "alternativas": {
+    "A": "agropecuário para o industrial, em virtude da queda acentuada na produção agrícola.",
+    "B": "industrial para o agropecuário, como conseqüência do aumento do subemprego nos centros urbanos.",
+    "C": "comercial e de serviços para o industrial, como conseqüência do desemprego estrutural.",
+    "D": "agropecuário para o industrial e para o de comércio e serviços, por conta da urbanização e do avanço tecnológico.",
+    "E": "comercial e de serviços para o agropecuário, em virtude do crescimento da produção destinada à exportação."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O gráfico mostra a PEA agropecuária caindo de cerca de 70% em 1940 para pouco mais de 20% em 2000, enquanto crescem a indústria e, sobretudo, o comércio e serviços. A urbanização e a mecanização do campo deslocaram os postos de trabalho. Alternativa <strong>D</strong>.</p><p>A produção agrícola não caiu (A), e o setor terciário cresceu em vez de perder postos (C, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "setores da economia"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 31,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p>O que têm em comum Noel Rosa, Castro Alves, Franz Kafka, Álvares de Azevedo, José de Alencar e Frédéric Chopin?</p><p>Todos eles morreram de tuberculose, doença que ao longo dos séculos fez mais de 100 milhões de vítimas. Aparentemente controlada durante algumas décadas, a tuberculose voltou a matar. O principal obstáculo para seu controle é o aumento do número de linhagens de bactérias resistentes aos antibióticos usados para combatê-la. Esse aumento do número de linhagens resistentes se deve a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "modificações no metabolismo das bactérias, para neutralizar o efeito dos antibióticos e incorporá-los à sua nutrição.",
+    "B": "mutações selecionadas pelos antibióticos, que eliminam as bactérias sensíveis a eles, mas permitem que as resistentes se multipliquem.",
+    "C": "mutações causadas pelos antibióticos, para que as bactérias se adaptem e transmitam essa adaptação a seus descendentes.",
+    "D": "modificações fisiológicas nas bactérias, para torná-las cada vez mais fortes e mais agressivas no desenvolvimento da doença.",
+    "E": "modificações na sensibilidade das bactérias, ocorridas depois de passarem um longo tempo sem contato com antibióticos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As mutações que dão resistência surgem ao acaso. O antibiótico mata as bactérias sensíveis e deixa as resistentes se multiplicarem: é seleção natural. O uso incorreto do remédio acelera esse processo. Alternativa <strong>B</strong>.</p><p>O antibiótico não causa a mutação “para” a bactéria se adaptar (C), e as bactérias não transformam o antibiótico em alimento (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "resistência bacteriana",
+    "tuberculose"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Geografia",
+   "assunto": "IDH",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p>O Índice de Desenvolvimento Humano (IDH) permite avaliar as condições de qualidade de vida e de desenvolvimento de um país, de uma região ou de uma cidade, a partir de seus indicadores de renda, longevidade e educação. Cada indicador varia de 0 (nenhum desenvolvimento) a 1 (desenvolvimento máximo). A tabela apresenta os valores de IDH de três municípios brasileiros, X, Y e Z, medidos nos anos de 1991 e 2000.</p><table class=\"tabela\"><thead><tr><th>Indicador</th><th>Município</th><th>1991</th><th>2000</th></tr></thead><tbody><tr><td>IDH – Renda</td><td>X</td><td>0,431</td><td>0,402</td></tr><tr><td>IDH – Renda</td><td>Y</td><td>0,374</td><td>0,379</td></tr><tr><td>IDH – Renda</td><td>Z</td><td>0,501</td><td>0,420</td></tr><tr><td>IDH – Longevidade</td><td>X</td><td>0,456</td><td>0,551</td></tr><tr><td>IDH – Longevidade</td><td>Y</td><td>0,459</td><td>0,548</td></tr><tr><td>IDH – Longevidade</td><td>Z</td><td>0,611</td><td>0,648</td></tr><tr><td>IDH – Educação</td><td>X</td><td>0,328</td><td>0,568</td></tr><tr><td>IDH – Educação</td><td>Y</td><td>0,422</td><td>0,634</td></tr><tr><td>IDH – Educação</td><td>Z</td><td>0,188</td><td>0,448</td></tr></tbody></table><p class=\"fonte\">Atlas do Desenvolvimento Humano no Brasil.</p><p>Mudanças desses indicadores de IDH podem ser obtidas com a implantação de políticas públicas tais como:</p><ol type=\"I\"><li>Expansão dos empregos com melhoria de renda média.</li><li>Ações de promoção de saúde e de prevenção de doenças.</li><li>Ampliação de escolas de ensino básico e de educação de jovens e adultos.</li></ol><p>Os resultados apresentados em 2000 são compatíveis com a implementação bem sucedida em todos esses três municípios, ao longo da década de noventa, das políticas</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I, II e III.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "II, apenas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>De 1991 para 2000, o IDH-Longevidade e o IDH-Educação subiram nos três municípios, mas o IDH-Renda caiu em X (0,431 → 0,402) e em Z (0,501 → 0,420). Só as políticas de saúde (II) e educação (III) são compatíveis com os resultados nos três. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "IDH",
+    "leitura de tabela"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p>Uma pesquisa sobre orçamentos familiares, realizada recentemente pelo IBGE, mostra alguns itens de despesa na distribuição de gastos de dois grupos de famílias com rendas mensais bem diferentes.</p><table class=\"tabela\"><thead><tr><th>Tipo de despesa</th><th>Renda até R$ 400,00</th><th>Renda maior ou igual a R$ 6.000,00</th></tr></thead><tbody><tr><td>Habitação</td><td>37%</td><td>23%</td></tr><tr><td>Alimentação</td><td>33%</td><td>9%</td></tr><tr><td>Transporte</td><td>8%</td><td>17%</td></tr><tr><td>Saúde</td><td>4%</td><td>6%</td></tr><tr><td>Educação</td><td>0,3%</td><td>5%</td></tr><tr><td>Outros</td><td>17,7%</td><td>40%</td></tr></tbody></table><p>Considere duas famílias com rendas de R$ 400,00 e R$ 6.000,00, respectivamente, cujas despesas variam de acordo com os valores das faixas apresentadas. Nesse caso, os valores, em R$, gastos com alimentação pela família de maior renda, em relação aos da família de menor renda, são, aproximadamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dez vezes maiores.",
+    "B": "quatro vezes maiores.",
+    "C": "equivalentes.",
+    "D": "três vezes menores.",
+    "E": "nove vezes menores."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A família de menor renda gasta 33% de R$ 400 com alimentação: R$ 132. A de maior renda gasta 9% de R$ 6.000: R$ 540. Como 540/132 ≈ 4,1, o gasto é cerca de quatro vezes maior. Alternativa <strong>B</strong>.</p><p>Comparar só as porcentagens (9% contra 33%) leva a crer, erradamente, que a família rica gasta menos (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "orçamento familiar"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Química",
+   "assunto": "Água",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p>A necessidade de água tem tornado cada vez mais importante a reutilização planejada desse recurso. Entretanto, os processos de tratamento de águas para seu reaproveitamento nem sempre as tornam potáveis, o que leva a restrições em sua utilização. Assim, dentre os possíveis empregos para a denominada “água de reuso”, recomenda-se</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o uso doméstico, para preparo de alimentos.",
+    "B": "o uso em laboratórios, para a produção de fármacos.",
+    "C": "o abastecimento de reservatórios e mananciais.",
+    "D": "o uso individual, para banho e higiene pessoal.",
+    "E": "o uso urbano, para lavagem de ruas e áreas públicas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A água de reuso não é potável, então não deve ser ingerida nem ter contato direto com o corpo ou com alimentos e remédios. O uso adequado é o urbano, em lavagem de ruas e áreas públicas. Alternativa <strong>E</strong>.</p><p>Lançá-la em mananciais (C) contaminaria fontes de água potável.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "água de reuso"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Geografia",
+   "assunto": "Recursos hídricos",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "[[fig:1]]<p>O Aqüífero Guarani se estende por 1,2 milhão de km<sup>2</sup> e é um dos maiores reservatórios de águas subterrâneas do mundo. O aqüífero é como uma “esponja gigante” de arenito, uma rocha porosa e absorvente, quase totalmente confinada sob centenas de metros de rochas impermeáveis. Ele é recarregado nas áreas em que o arenito aflora à superfície, absorvendo água da chuva. Uma pesquisa realizada em 2002 pela Embrapa apontou cinco pontos de contaminação do aqüífero por agrotóxico, conforme a figura.</p><p>Considerando as conseqüências socioambientais e respeitando as necessidades econômicas, pode-se afirmar que, diante do problema apresentado, políticas públicas adequadas deveriam</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q35.webp",
+     "alt": "Mapa do Aquífero Guarani, que se estende pelo centro-sul do Brasil e por partes do Paraguai, da Argentina e do Uruguai. Faixas escuras, nas bordas do aquífero em território brasileiro, marcam as áreas de recarga, e cinco círculos com X marcam as áreas com risco de contaminação, todas sobre ou junto a essas faixas."
+    }
+   ],
+   "alternativas": {
+    "A": "proibir o uso das águas do aqüífero para irrigação.",
+    "B": "impedir a atividade agrícola em toda a região do aqüífero.",
+    "C": "impermeabilizar as áreas onde o arenito aflora.",
+    "D": "construir novos reservatórios para a captação da água na região.",
+    "E": "controlar a atividade agrícola e agroindustrial nas áreas de recarga."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O aquífero é contaminado nas áreas de recarga, onde o arenito aflora e absorve a água da chuva com os agrotóxicos. Controlar a atividade agrícola nessas áreas protege o aquífero sem paralisar a economia. Alternativa <strong>E</strong>.</p><p>Proibir a agricultura em toda a região (B) ou impermeabilizar as áreas de afloramento (C) desconsideraria as necessidades econômicas e impediria a recarga.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Aquífero Guarani",
+    "agrotóxicos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Ciclo da água",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p>Por que o nível dos mares não sobe, mesmo recebendo continuamente as águas dos rios?</p><p>Essa questão já foi formulada por sábios da Grécia antiga. Hoje responderíamos que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a evaporação da água dos oceanos e o deslocamento do vapor e das nuvens compensam as águas dos rios que deságuam no mar.",
+    "B": "a formação de geleiras com água dos oceanos, nos pólos, contrabalança as águas dos rios que deságuam no mar.",
+    "C": "as águas dos rios provocam as marés, que as transferem para outras regiões mais rasas, durante a vazante.",
+    "D": "o volume de água dos rios é insignificante para os oceanos e a água doce diminui de volume ao receber sal marinho.",
+    "E": "as águas dos rios afundam no mar devido a sua maior densidade, onde são comprimidas pela enorme pressão resultante da coluna de água."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A água que os rios despejam é compensada pela evaporação nos oceanos; o vapor forma nuvens que se deslocam e chovem sobre os continentes, alimentando os rios: é o ciclo da água. Alternativa <strong>A</strong>.</p><p>A água doce não “diminui de volume” com sal (D) nem afunda e é comprimida (E); e as geleiras não crescem continuamente (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ciclo hidrológico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Progressão aritmética",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p>O jornal de uma pequena cidade publicou a seguinte notícia:</p><p class=\"apoio\"><strong>CORREIO DA CIDADE</strong><br><strong>ABASTECIMENTO COMPROMETIDO</strong></p><p class=\"apoio\">O novo pólo agroindustrial em nossa cidade tem atraído um enorme e constante fluxo migratório, resultando em um aumento da população em torno de 2000 habitantes por ano, conforme dados do nosso censo:</p><table class=\"tabela\"><thead><tr><th>Ano</th><th>População</th></tr></thead><tbody><tr><td>1995</td><td>11.965</td></tr><tr><td>1997</td><td>15.970</td></tr><tr><td>1999</td><td>19.985</td></tr><tr><td>2001</td><td>23.980</td></tr><tr><td>2003</td><td>27.990</td></tr></tbody></table><p class=\"apoio\">Esse crescimento tem ameaçado nosso fornecimento de água, pois os mananciais que abastecem a cidade têm capacidade para fornecer até 6 milhões de litros de água por dia. A prefeitura, preocupada com essa situação, vai iniciar uma campanha visando estabelecer um consumo médio de 150 litros por dia, por habitante.</p><p>A análise da notícia permite concluir que a medida é oportuna. Mantido esse fluxo migratório e bem sucedida a campanha, os mananciais serão suficientes para abastecer a cidade até o final de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2005.",
+    "B": "2006.",
+    "C": "2007.",
+    "D": "2008.",
+    "E": "2009."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com 150 litros por pessoa por dia, os 6 milhões de litros atendem até 6.000.000/150 = 40.000 habitantes. A população cresce cerca de 2.000 por ano a partir de 27.990 em 2003: 29.990 (2004), ..., 37.990 (2008), 39.990 (2009) e 41.990 (2010). Os mananciais bastam até o final de 2009. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "crescimento linear",
+    "abastecimento de água"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Fontes de energia",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p>O crescimento da demanda por energia elétrica no Brasil tem provocado discussões sobre o uso de diferentes processos para sua geração e sobre benefícios e problemas a eles associados. Estão apresentados no quadro alguns argumentos favoráveis (ou positivos, P1, P2 e P3) e outros desfavoráveis (ou negativos, N1, N2 e N3) relacionados a diferentes opções energéticas.</p><table class=\"tabela\"><thead><tr><th></th><th>Argumentos favoráveis</th><th></th><th>Argumentos desfavoráveis</th></tr></thead><tbody><tr><td>P1</td><td>Elevado potencial no país do recurso utilizado para a geração de energia.</td><td>N1</td><td>Destruição de áreas de lavoura e deslocamento de populações.</td></tr><tr><td>P2</td><td>Diversidade dos recursos naturais que pode utilizar para a geração de energia.</td><td>N2</td><td>Emissão de poluentes.</td></tr><tr><td>P3</td><td>Fonte renovável de energia.</td><td>N3</td><td>Necessidade de condições climáticas adequadas para sua instalação.</td></tr></tbody></table><p>Ao se discutir a opção pela instalação, em uma dada região, de uma usina termoelétrica, os argumentos que se aplicam são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "P1 e N2.",
+    "B": "P1 e N3.",
+    "C": "P2 e N1.",
+    "D": "P2 e N2.",
+    "E": "P3 e N3."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Usinas termoelétricas podem queimar recursos muito diversos (carvão, gás natural, óleo, biomassa), o que é o argumento P2, e emitem poluentes na queima, o argumento N2. Alternativa <strong>D</strong>.</p><p>N1 (alagar lavouras e deslocar populações) é típico das hidrelétricas, e N3 (condições climáticas), das usinas eólicas e solares; e a maioria das termoelétricas não usa fonte renovável (P3).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "termoelétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "[[fig:1]]<p>Os sistemas de cogeração representam uma prática de utilização racional de combustíveis e de produção de energia. Isto já se pratica em algumas indústrias de açúcar e de álcool, nas quais se aproveita o bagaço da cana, um de seus subprodutos, para produção de energia. Esse processo está ilustrado no esquema acima.</p><p>Entre os argumentos favoráveis a esse sistema de cogeração pode-se destacar que ele</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q39.webp",
+     "alt": "Esquema “Indústria sucro-alcooleira”: a cana-de-açúcar entra no processo industrial, que produz açúcar, álcool e bagaço. O bagaço é queimado como combustível e gera calor, que volta ao processo industrial, e eletricidade, que alimenta a indústria e sai também para fora da usina."
+    }
+   ],
+   "alternativas": {
+    "A": "otimiza o aproveitamento energético, ao usar queima do bagaço nos processos térmicos da usina e na geração de eletricidade.",
+    "B": "aumenta a produção de álcool e de açúcar, ao usar o bagaço como insumo suplementar.",
+    "C": "economiza na compra da cana-de-açúcar, já que o bagaço também pode ser transformado em álcool.",
+    "D": "aumenta a produtividade, ao fazer uso do álcool para a geração de calor na própria usina.",
+    "E": "reduz o uso de máquinas e equipamentos na produção de açúcar e álcool, por não manipular o bagaço da cana."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No esquema, o bagaço queimado gera calor para os processos da indústria e eletricidade, que abastece a própria usina e ainda é exportada. É o aproveitamento máximo da energia contida no combustível. Alternativa <strong>A</strong>.</p><p>O bagaço não aumenta a produção de açúcar e álcool como insumo (B), não vira álcool no processo (C), e a usina não queima álcool para gerar calor (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cogeração",
+    "bagaço de cana"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Física",
+   "assunto": "Energia nuclear",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p>O debate em torno do uso da energia nuclear para produção de eletricidade permanece atual. Em um encontro internacional para a discussão desse tema, foram colocados os seguintes argumentos:</p><ol type=\"I\"><li>Uma grande vantagem das usinas nucleares é o fato de não contribuírem para o aumento do efeito estufa, uma vez que o urânio, utilizado como “combustível”, não é queimado mas sofre fissão.</li><li>Ainda que sejam raros os acidentes com usinas nucleares, seus efeitos podem ser tão graves que essa alternativa de geração de eletricidade não nos permite ficar tranqüilos.</li></ol><p>A respeito desses argumentos, pode-se afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o primeiro é válido e o segundo não é, já que nunca ocorreram acidentes com usinas nucleares.",
+    "B": "o segundo é válido e o primeiro não é, pois de fato há queima de combustível na geração nuclear de eletricidade.",
+    "C": "o segundo é valido e o primeiro é irrelevante, pois nenhuma forma de gerar eletricidade produz gases do efeito estufa.",
+    "D": "ambos são válidos para se compararem vantagens e riscos na opção por essa forma de geração de energia.",
+    "E": "ambos são irrelevantes, pois a opção pela energia nuclear está-se tornando uma necessidade inquestionável."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os dois argumentos são válidos: a fissão do urânio não queima combustível nem emite CO2, e os acidentes, embora raros, podem ser gravíssimos (como Chernobyl, em 1986). Juntos, servem para pesar vantagens e riscos. Alternativa <strong>D</strong>.</p><p>Já ocorreram acidentes nucleares (A); não há queima na geração nuclear (B); e há formas de gerar eletricidade que emitem gases do efeito estufa, como as termoelétricas (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fissão nuclear",
+    "efeito estufa"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Física",
+   "assunto": "Energia elétrica",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p>Entre outubro e fevereiro, a cada ano, em alguns estados das regiões Sul, Sudeste e Centro-Oeste, os relógios permanecem adiantados em uma hora, passando a vigorar o chamado horário de verão. Essa medida, que se repete todos os anos, visa</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "promover a economia de energia, permitindo um melhor aproveitamento do período de iluminação natural do dia, que é maior nessa época do ano.",
+    "B": "diminuir o consumo de energia em todas as horas do dia, propiciando uma melhor distribuição da demanda entre o período da manhã e da tarde.",
+    "C": "adequar o sistema de abastecimento das barragens hidrelétricas ao regime de chuvas, abundantes nessa época do ano nas regiões que adotam esse horário.",
+    "D": "incentivar o turismo, permitindo um melhor aproveitamento do período da tarde, horário em que os bares e restaurantes são mais freqüentados.",
+    "E": "responder a uma exigência das indústrias, possibilitando que elas realizem um melhor escalonamento das férias de seus funcionários."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No verão os dias são mais longos. Adiantar os relógios faz o fim da tarde, quando o consumo é maior (pessoas chegam em casa e acendem as luzes), coincidir com luz natural, reduzindo o pico de consumo. Alternativa <strong>A</strong>.</p><p>A medida não reduz o consumo em todas as horas (B) e não tem relação com o regime de chuvas (C), o turismo (D) ou as férias nas indústrias (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "horário de verão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Química",
+   "assunto": "Combustíveis",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p>Há estudos que apontam razões econômicas e ambientais para que o gás natural possa vir a tornar-se, ao longo deste século, a principal fonte de energia em lugar do petróleo. Justifica-se essa previsão, entre outros motivos, porque o gás natural</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "além de muito abundante na natureza é um combustível renovável.",
+    "B": "tem novas jazidas sendo exploradas e é menos poluente que o petróleo.",
+    "C": "vem sendo produzido com sucesso a partir do carvão mineral.",
+    "D": "pode ser renovado em escala de tempo muito inferior à do petróleo.",
+    "E": "não produz CO<sub>2</sub> em sua queima, impedindo o efeito estufa."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O gás natural tem grandes jazidas novas em exploração e, na queima, emite menos poluentes (menos CO2, quase nenhum enxofre e particulado) que o petróleo. Alternativa <strong>B</strong>.</p><p>O gás natural é combustível fóssil, não renovável (A, D), não vem do carvão (C) e produz CO2 na queima (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gás natural"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Química",
+   "assunto": "Combustíveis",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>As previsões de que, em poucas décadas, a produção mundial de petróleo possa vir a cair têm gerado preocupação, dado seu caráter estratégico. Por essa razão, em especial no setor de transportes, intensificou-se a busca por alternativas para a substituição do petróleo por combustíveis renováveis. Nesse sentido, além da utilização de álcool, vem se propondo, no Brasil, ainda que de forma experimental,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a mistura de percentuais de gasolina cada vez maiores no álcool.",
+    "B": "a extração de óleos de madeira para sua conversão em gás natural.",
+    "C": "o desenvolvimento de tecnologias para a produção de biodiesel.",
+    "D": "a utilização de veículos com motores movidos a gás do carvão mineral.",
+    "E": "a substituição da gasolina e do diesel pelo gás natural."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O biodiesel, feito de óleos vegetais (como mamona e soja) ou gorduras, é renovável e pode substituir o diesel de petróleo; em 2004 o Brasil testava sua produção. Alternativa <strong>C</strong>.</p><p>Gasolina e gás natural são fósseis (A, E), e o carvão mineral também (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biodiesel"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>Já são comercializados no Brasil veículos com motores que podem funcionar com o chamado combustível flexível, ou seja, com gasolina ou álcool em qualquer proporção. Uma orientação prática para o abastecimento mais econômico é que o motorista multiplique o preço do litro da gasolina por 0,7 e compare o resultado com o preço do litro de álcool. Se for maior, deve optar pelo álcool. A razão dessa orientação deve-se ao fato de que, em média, se com um certo volume de álcool o veículo roda dez quilômetros, com igual volume de gasolina rodaria cerca de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "7 km.",
+    "B": "10 km.",
+    "C": "14 km.",
+    "D": "17 km.",
+    "E": "20 km."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A regra diz que o álcool compensa se custar menos de 0,7 do preço da gasolina, ou seja, o álcool rende 70% da gasolina. Se com um volume de álcool o carro roda 10 km, com igual volume de gasolina roda 10/0,7 ≈ 14 km. Alternativa <strong>C</strong>.</p><p>7 km (A) inverte a relação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "carro flex",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p>O excesso de veículos e os congestionamentos em grandes cidades são temas de freqüentes reportagens. Os meios de transportes utilizados e a forma como são ocupados têm reflexos nesses congestionamentos, além de problemas ambientais e econômicos. No gráfico a seguir, podem-se observar valores médios do consumo de energia por passageiro e por quilômetro rodado, em diferentes meios de transporte, para veículos em duas condições de ocupação (número de passageiros): ocupação típica e ocupação máxima.</p>[[fig:1]]<p>Esses dados indicam que políticas de transporte urbano devem também levar em conta que a maior eficiência no uso de energia ocorre para os</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q45.webp",
+     "alt": "Gráfico de barras da energia consumida por passageiro por km (MJ/km), em ocupação típica e máxima: automóvel, cerca de 3.100 e 1.250; metrô, cerca de 450 e 300; trem, cerca de 550 e 400; ônibus, cerca de 600 e 250."
+    }
+   ],
+   "alternativas": {
+    "A": "ônibus, com ocupação típica.",
+    "B": "automóveis, com poucos passageiros.",
+    "C": "transportes coletivos, com ocupação máxima.",
+    "D": "automóveis, com ocupação máxima.",
+    "E": "trens, com poucos passageiros."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os menores consumos de energia por passageiro por quilômetro estão nos transportes coletivos com ocupação máxima: ônibus (cerca de 250), metrô (cerca de 300) e trem (cerca de 400). O automóvel, mesmo cheio, gasta cerca de 1.250. Alternativa <strong>C</strong>.</p><p>Automóvel com poucos passageiros é o pior caso (B), cerca de 3.100.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eficiência energética",
+    "transporte coletivo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 46,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p>Programas de reintrodução de animais consistem em soltar indivíduos, criados em cativeiro, em ambientes onde sua espécie se encontra ameaçada ou extinta.</p><p>O mico-leão-dourado da Mata Atlântica faz parte de um desses programas. Como faltam aos micos criados em cativeiro habilidades para sobreviver em seu habitat, são formados grupos sociais desses micos com outros capturados na natureza, antes de soltá-los coletivamente. O gráfico mostra o número total de animais, em uma certa região, a cada ano, ao longo de um programa de reintrodução desse tipo.</p>[[fig:1]]<p>A análise do gráfico permite concluir que o sucesso do programa deveu-se</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q46.webp",
+     "alt": "Gráfico de barras empilhadas do número total de animais por ano, de 1984 a 1996. A parte dos nascidos em cativeiro varia entre cerca de 5 e 40 animais, sem tendência de alta, e fica perto de 20 nos últimos anos; a parte dos nascidos na natureza cresce de quase zero para cerca de 180, e o total passa de cerca de 10 para 200. Fonte: Primack e Rodrigues, Biologia da Conservação."
+    }
+   ],
+   "alternativas": {
+    "A": "à adaptação dos animais nascidos em cativeiro ao ambiente natural, mostrada pelo aumento do número de nascidos na natureza.",
+    "B": "ao aumento da população total, resultante da reintrodução de um número cada vez maior de animais.",
+    "C": "à eliminação dos animais nascidos em cativeiro pelos nascidos na natureza, que são mais fortes e selvagens.",
+    "D": "ao pequeno número de animais reintroduzidos, que se mantiveram isolados da população de nascidos na natureza.",
+    "E": "à grande sobrevivência dos animais reintroduzidos, que compensou a mortalidade dos nascidos na natureza."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No gráfico, os animais nascidos em cativeiro ficam em número pequeno e quase estável, enquanto os nascidos na natureza aumentam ano a ano e passam a ser a maioria. Isso mostra que os reintroduzidos se adaptaram e se reproduziram no ambiente natural. Alternativa <strong>A</strong>.</p><p>O aumento não vem de reintroduzir cada vez mais animais (B), e as duas populações convivem, sem eliminação (C, D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mico-leão-dourado",
+    "reintrodução"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 47,
+   "materia": "Biologia",
+   "assunto": "Controle de pragas",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p>O bicho-furão-dos-citros causa prejuízos anuais de US$ 50 milhões à citricultura brasileira, mas pode ser combatido eficazmente se um certo agrotóxico for aplicado à plantação no momento adequado. É possível determinar esse momento utilizando-se uma armadilha constituída de uma caixinha de papelão, contendo uma pastilha com o feromônio da fêmea e um adesivo para prender o macho. Verificando periodicamente a armadilha, percebe-se a época da chegada do inseto. Uma vantagem do uso dessas armadilhas, tanto do ponto de vista ambiental como econômico, seria</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "otimizar o uso de produtos agrotóxicos.",
+    "B": "diminuir a população de predadores do bicho-furão.",
+    "C": "capturar todos os machos do bicho-furão.",
+    "D": "reduzir a área destinada à plantação de laranjas.",
+    "E": "espantar o bicho-furão das proximidades do pomar."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A armadilha com feromônio mostra quando o inseto chega, e o agrotóxico pode ser aplicado só no momento certo, em menor quantidade. Isso reduz custo e contaminação ambiental. Alternativa <strong>A</strong>.</p><p>A armadilha não captura todos os machos (C) nem espanta o inseto (E); seu papel é de monitoramento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "feromônio",
+    "agrotóxicos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 48,
+   "materia": "Química",
+   "assunto": "Resíduos sólidos",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>No verão de 2000 foram realizadas, para análise, duas coletas do lixo deixado pelos freqüentadores em uma praia no litoral brasileiro. O lixo foi pesado, separado e classificado. Os resultados das coletas feitas estão na tabela a seguir.</p><p class=\"apoio\"><strong>Dados obtidos (em área de cerca de 1900 m<sup>2</sup>)</strong></p><table class=\"tabela\"><thead><tr><th>Coleta de lixo</th><th>1ª coleta</th><th>2ª coleta</th></tr></thead><tbody><tr><td>Peso total</td><td>8,3 kg</td><td>3,2 kg</td></tr><tr><td>Itens de plástico</td><td>399 (86,4%)</td><td>174 (88,8%)</td></tr><tr><td>Itens de vidro</td><td>10 (2,1%)</td><td>03 (1,6%)</td></tr><tr><td>Itens de metal</td><td>14 (3,0%)</td><td>07 (3,6%)</td></tr><tr><td>Itens de papel</td><td>17 (3,7%)</td><td>06 (3,0%)</td></tr><tr><td>Número de pessoas na praia</td><td>270</td><td>80</td></tr></tbody></table><p class=\"fonte\">Adaptado de <em>Ciência Hoje</em>.</p><p>Embora fosse grande a venda de bebidas em latas nessa praia, não se encontrou a quantidade esperada dessas embalagens no lixo coletado, o que foi atribuído à existência de um bom mercado para a reciclagem de alumínio. Considerada essa hipótese, para reduzir o lixo nessa praia, a iniciativa que mais diretamente atende à variedade de interesses envolvidos, respeitando a preservação ambiental, seria</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "proibir o consumo de bebidas e de outros alimentos nas praias.",
+    "B": "realizar a coleta de lixo somente no período noturno.",
+    "C": "proibir a comercialização apenas de produtos com embalagem.",
+    "D": "substituir embalagens plásticas por embalagens de vidro.",
+    "E": "incentivar a reciclagem de plásticos, estimulando seu recolhimento."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A tabela mostra que quase 90% dos itens são plásticos, e o texto explica que as latas sumiram do lixo porque há mercado para reciclar alumínio. A mesma lógica aplicada ao plástico (incentivar sua reciclagem e recolhimento) atende aos comerciantes, aos frequentadores e ao ambiente. Alternativa <strong>E</strong>.</p><p>Proibir o consumo ou as embalagens (A, C) prejudica comerciantes e banhistas, e trocar plástico por vidro (D) traz risco de cortes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reciclagem",
+    "lixo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 49,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>Um rio que é localmente degradado por dejetos orgânicos nele lançados pode passar por um processo de autodepuração. No entanto, a recuperação depende, entre outros fatores, da carga de dejetos recebida, da extensão e do volume do rio. Nesse processo, a distribuição das populações de organismos consumidores e decompositores varia, conforme mostra o esquema:</p>[[fig:1]]<p class=\"fonte\">B. Braga et al. <em>Introdução à Engenharia Ambiental</em>.</p><p>Com base nas informações fornecidas pelo esquema, são feitas as seguintes considerações sobre o processo de depuração do rio:</p><ol type=\"I\"><li>a vida aquática superior pode voltar a existir a partir de uma certa distância do ponto de lançamento dos dejetos;</li><li>os organismos decompositores são os que sobrevivem onde a oferta de oxigênio é baixa ou inexistente e a matéria orgânica é abundante;</li><li>as comunidades biológicas, apesar da poluição, não se alteram ao longo do processo de recuperação.</li></ol><p>Está correto o que se afirma em</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q49.webp",
+     "alt": "Esquema de um rio, no sentido da correnteza, a partir do ponto de lançamento de dejetos, dividido em zonas: águas limpas, degradação, decomposição ativa, recuperação e águas limpas. Abaixo, os tipos de organismos em cada zona: vida aquática superior (peixes) nas águas limpas; organismos mais resistentes na degradação; bactérias e fungos (anaeróbicos) na decomposição ativa; organismos mais resistentes na recuperação; e novamente vida aquática superior nas águas limpas. Uma seta indica “tempo ou distância”."
+    }
+   ],
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>I está correta: no esquema, a vida aquática superior (peixes) reaparece na zona de águas limpas, longe do lançamento. II também: na zona de degradação e de decomposição ativa, com muita matéria orgânica e pouco oxigênio, sobrevivem bactérias e fungos decompositores, inclusive anaeróbicos. III é falsa: as comunidades mudam em cada zona. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "autodepuração",
+    "poluição orgânica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 50,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p>Em setembro de 1998, cerca de 10.000 toneladas de ácido sulfúrico (H2SO4) foram derramadas pelo navio Bahamas no litoral do Rio Grande do Sul. Para minimizar o impacto ambiental de um desastre desse tipo, é preciso neutralizar a acidez resultante. Para isso pode-se, por exemplo, lançar calcário, minério rico em carbonato de cálcio (CaCO3), na região atingida.</p><p>A equação química que representa a neutralização do H2SO4 por CaCO3, com a proporção aproximada entre as massas dessas substâncias é:</p>[[fig:1]]<p>Pode-se avaliar o esforço de mobilização que deveria ser empreendido para enfrentar tal situação, estimando a quantidade de caminhões necessária para carregar o material neutralizante. Para transportar certo calcário que tem 80% de CaCO3, esse número de caminhões, cada um com carga de 30 toneladas, seria próximo de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q50.webp",
+     "alt": "Equação: H₂SO₄ (1 tonelada) + CaCO₃ (reage com 1 tonelada) → CaSO₄ (sólido sedimentado) + H₂O + CO₂ (gás)."
+    }
+   ],
+   "alternativas": {
+    "A": "100.",
+    "B": "200.",
+    "C": "300.",
+    "D": "400.",
+    "E": "500."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pela equação, 1 tonelada de H2SO4 reage com cerca de 1 tonelada de CaCO3. Para 10.000 t de ácido, são 10.000 t de CaCO3. Como o calcário tem 80% de CaCO3, são necessárias 10.000/0,8 = 12.500 t de calcário, e 12.500/30 ≈ 417 caminhões, perto de 400. Alternativa <strong>D</strong>.</p><p>Ignorando a pureza de 80% chega-se a cerca de 333 caminhões (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "neutralização",
+    "pureza"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 51,
+   "materia": "Sociologia",
+   "assunto": "Direitos humanos",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p>Em conflitos regionais e na guerra entre nações tem sido observada a ocorrência de seqüestros, execuções sumárias, torturas e outras violações de direitos. Em 10 de dezembro de 1948, a Assembléia Geral das Nações Unidas adotou a Declaração Universal dos Direitos do Homem, que, em seu artigo 5º, afirma:</p><p class=\"apoio\">Ninguém será submetido a tortura nem a penas ou tratamentos cruéis, desumanos ou degradantes.</p><p>Assim, entre nações que assinaram essa Declaração, é coerente esperar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a Constituição de cada país deva se sobrepor aos Direitos Universais do Homem, apenas enquanto houver conflito.",
+    "B": "a soberania dos Estados esteja em conformidade com os Direitos Universais do Homem, até mesmo em situações de conflito.",
+    "C": "a violação dos direitos humanos por uma nação autorize a mesma violação pela nação adversária.",
+    "D": "sejam estabelecidos limites de tolerância, para além dos quais a violação aos direitos humanos seria permitida.",
+    "E": "a autodefesa nacional legitime a supressão dos Direitos Universais do Homem."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Ao assinar a Declaração, os Estados se comprometem a respeitá-la sempre: a soberania deve estar em conformidade com os direitos humanos, inclusive em guerras. Alternativa <strong>B</strong>.</p><p>As demais admitem exceções (conflito, retaliação, limites de tolerância, autodefesa) que a proibição absoluta da tortura no artigo 5º não permite.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Declaração Universal dos Direitos Humanos"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 52,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"apoio\">Um certo carro esporte é desenhado na Califórnia, financiado por Tóquio, o protótipo criado em Worthing (Inglaterra) e a montagem é feita nos EUA e México, com componentes eletrônicos inventados em Nova Jérsei (EUA), fabricados no Japão. (…). Já a indústria de confecção norte-americana, quando inscreve em seus produtos ‘made in USA’, esquece de mencionar que eles foram produzidos no México, Caribe ou Filipinas.</p><p class=\"fonte\">Renato Ortiz, <em>Mundialização e Cultura</em>.</p><p>O texto ilustra como em certos países produz-se tanto um carro esporte caro e sofisticado, quanto roupas que nem sequer levam uma etiqueta identificando o país produtor. De fato, tais roupas costumam ser feitas em fábricas – chamadas “maquiladoras” – situadas em zonas-francas, onde os trabalhadores nem sempre têm direitos trabalhistas garantidos. A produção nessas condições indicaria um processo de globalização que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "fortalece os Estados Nacionais e diminui as disparidades econômicas entre eles pela aproximação entre um centro rico e uma periferia pobre.",
+    "B": "garante a soberania dos Estados Nacionais por meio da identificação da origem de produção dos bens e mercadorias.",
+    "C": "fortalece igualmente os Estados Nacionais por meio da circulação de bens e capitais e do intercâmbio de tecnologia.",
+    "D": "compensa as disparidades econômicas pela socialização de novas tecnologias e pela circulação globalizada da mão-de-obra.",
+    "E": "reafirma as diferenças entre um centro rico e uma periferia pobre, tanto dentro como fora das fronteiras dos Estados Nacionais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O carro sofisticado é projetado e financiado nos países ricos, enquanto as roupas são feitas em maquiladoras de países pobres, sem direitos trabalhistas garantidos. Essa divisão reafirma as diferenças entre centro rico e periferia pobre, e também dentro dos próprios países. Alternativa <strong>E</strong>.</p><p>Esse tipo de globalização não diminui disparidades (A, D) nem fortalece igualmente os Estados (C); as roupas nem trazem a origem real (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "maquiladoras",
+    "divisão internacional do trabalho"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 53,
+   "materia": "História",
+   "assunto": "Primeiro Reinado",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p><strong>Constituição de 1824:</strong></p><p class=\"apoio\">“Art. 98. O Poder Moderador é a chave de toda a organização política, e é delegado privativamente ao Imperador (…) para que incessantemente vele sobre a manutenção da Independência, equilíbrio, e harmonia dos demais poderes políticos (...) dissolvendo a Câmara dos Deputados nos casos em que o exigir a salvação do Estado.”</p><p><strong>Frei Caneca:</strong></p><p class=\"apoio\">“O Poder Moderador da nova invenção maquiavélica é a chave mestra da opressão da nação brasileira e o garrote mais forte da liberdade dos povos. Por ele, o imperador pode dissolver a Câmara dos Deputados, que é a representante do povo, ficando sempre no gozo de seus direitos o Senado, que é o representante dos apaniguados do imperador.”</p><p class=\"fonte\">Voto sobre o juramento do projeto de Constituição.</p><p>Para Frei Caneca, o Poder Moderador definido pela Constituição outorgada pelo Imperador em 1824 era</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "adequado ao funcionamento de uma monarquia constitucional, pois os senadores eram escolhidos pelo Imperador.",
+    "B": "eficaz e responsável pela liberdade dos povos, porque garantia a representação da sociedade nas duas esferas do poder legislativo.",
+    "C": "arbitrário, porque permitia ao Imperador dissolver a Câmara dos Deputados, o poder representativo da sociedade.",
+    "D": "neutro e fraco, especialmente nos momentos de crise, pois era incapaz de controlar os deputados representantes da Nação.",
+    "E": "capaz de responder às exigências políticas da nação, pois supria as deficiências da representação política."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Frei Caneca chama o Poder Moderador de “chave mestra da opressão” e “garrote mais forte da liberdade”, porque permitia ao imperador dissolver a Câmara dos Deputados, a representação do povo, preservando o Senado de seus “apaniguados”. Para ele, era um poder arbitrário. Alternativa <strong>C</strong>.</p><p>Frei Caneca o via como forte e opressor, não neutro (D) nem garantidor da liberdade (B, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Poder Moderador",
+    "Frei Caneca"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 54,
+   "materia": "Sociologia",
+   "assunto": "Questão racial",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p>A questão étnica no Brasil tem provocado diferentes atitudes:</p><ol type=\"I\"><li>Instituiu-se o “Dia Nacional da Consciência Negra” em 20 de novembro, ao invés da tradicional celebração do 13 de maio. Essa nova data é o aniversário da morte de Zumbi, que hoje simboliza a crítica à segregação e à exclusão social.</li><li>Um turista estrangeiro que veio ao Brasil, no carnaval, afirmou que nunca viu tanta convivência harmoniosa entre as diversas etnias.</li></ol><p>Também sobre essa questão, estudiosos fazem diferentes reflexões:</p><p class=\"apoio\">Entre nós [brasileiros], (...) a separação imposta pelo sistema de produção foi a mais fluida possível. Permitiu constante mobilidade de classe para classe e até de uma raça para outra. Esse amor, acima de preconceitos de raça e de convenções de classe, do branco pela cabocla, pela cunhã, pela índia (...) agiu poderosamente na formação do Brasil, adoçando-o.</p><p class=\"fonte\">Gilberto Freire. <em>O mundo que o português criou</em>.</p><p class=\"apoio\">[Porém] o fato é que ainda hoje a miscigenação não faz parte de um processo de integração das “raças” em condições de igualdade social. O resultado foi que (...) ainda são pouco numerosos os segmentos da “população de cor” que conseguiram se integrar, efetivamente, na sociedade competitiva.</p><p class=\"fonte\">Florestan Fernandes. <em>O negro no mundo dos brancos</em>.</p><p>Considerando as atitudes expostas acima e os pontos de vista dos estudiosos, é correto aproximar</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a posição de Gilberto Freire e a de Florestan Fernandes igualmente às duas atitudes.",
+    "B": "a posição de Gilberto Freire à atitude I e a de Florestan Fernandes à atitude II.",
+    "C": "a posição de Florestan Fernandes à atitude I e a de Gilberto Freire à atitude II.",
+    "D": "somente a posição de Gilberto Freire a ambas as atitudes.",
+    "E": "somente a posição de Florestan Fernandes a ambas as atitudes."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A atitude I (o Dia da Consciência Negra como crítica à segregação e à exclusão) se aproxima de Florestan Fernandes, para quem a miscigenação não trouxe integração em igualdade. A atitude II (a impressão de convivência harmoniosa entre as etnias) se aproxima de Gilberto Freyre, que via a mistura como algo que “adoçou” o Brasil. Alternativa <strong>C</strong>.</p><p>B inverte as aproximações.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Gilberto Freyre",
+    "Florestan Fernandes"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 55,
+   "materia": "História",
+   "assunto": "Revolução Francesa",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p>Algumas transformações que antecederam a Revolução Francesa podem ser exemplificadas pela mudança de significado da palavra “restaurante”. Desde o final da Idade Média, a palavra <em>restaurant</em> designava caldos ricos, com carne de aves e de boi, legumes, raízes e ervas. Em 1765 surgiu, em Paris, um local onde se vendiam esses caldos, usados para restaurar as forças dos trabalhadores. Nos anos que precederam a Revolução, em 1789, multiplicaram-se diversos <em>restaurateurs</em>, que serviam pratos requintados, descritos em páginas emolduradas e servidos não mais em mesas coletivas e mal cuidadas, mas individuais e com toalhas limpas. Com a Revolução, cozinheiros da corte e da nobreza perderam seus patrões, refugiados no exterior ou guilhotinados, e abriram seus restaurantes por conta própria. Apenas em 1835, o Dicionário da Academia Francesa oficializou a utilização da palavra restaurante com o sentido atual.</p><p>A mudança do significado da palavra restaurante ilustra</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a ascensão das classes populares aos mesmos padrões de vida da burguesia e da nobreza.",
+    "B": "a apropriação e a transformação, pela burguesia, de hábitos populares e dos valores da nobreza.",
+    "C": "a incorporação e a transformação, pela nobreza, dos ideais e da visão de mundo da burguesia.",
+    "D": "a consolidação das práticas coletivas e dos ideais revolucionários, cujas origens remontam à Idade Média.",
+    "E": "a institucionalização, pela nobreza, de práticas coletivas e de uma visão de mundo igualitária."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O caldo popular “restaurant” virou estabelecimento com pratos requintados, cardápios e mesas individuais, frequentado pela burguesia, e depois da Revolução os cozinheiros da nobreza passaram a servir esse público. A burguesia se apropriou de hábitos populares e de valores da nobreza, transformando-os. Alternativa <strong>B</strong>.</p><p>As classes populares não ascenderam ao padrão da nobreza (A), e a nobreza perdeu espaço, sem institucionalizar práticas igualitárias (C, E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "burguesia",
+    "Revolução Francesa"
+   ],
+   "area": "Ciências Humanas"
+  },
+  {
+   "numero": 56,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p class=\"apoio\">As empresas querem a metade das pessoas trabalhando o dobro para produzir o triplo.</p><p class=\"fonte\">Revista <em>Você S/A</em>, 2004.</p><p>Preocupado em otimizar seus ganhos, um empresário encomendou um estudo sobre a produtividade de seus funcionários nos últimos quatro anos, entendida por ele, de forma simplificada, como a relação direta entre seu lucro anual (L) e o número de operários envolvidos na produção (n). Do estudo, resultou o gráfico abaixo.</p>[[fig:1]]<p>Ao procurar, no gráfico, uma relação entre seu lucro, produtividade e número de operários, o empresário concluiu que a maior produtividade ocorreu em 2002, e o maior lucro</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q56.webp",
+     "alt": "Gráfico de barras de 2000 a 2003 com dois eixos. Produtividade L/n (em R$ 100,00): 20 em 2000, 40 em 2001, 45 em 2002 e 40 em 2003. Número de operários n: 20 em 2000, 16 em 2001, 12 em 2002 e 10 em 2003."
+    }
+   ],
+   "alternativas": {
+    "A": "em 2000, indicando que, quanto maior o número de operários trabalhando, maior é o seu lucro.",
+    "B": "em 2001, indicando que a redução do número de operários não significa necessariamente o aumento dos lucros.",
+    "C": "também em 2002, indicando que lucro e produtividade mantêm uma relação direta que independe do número de operários.",
+    "D": "em 2003, devido à significativa redução de despesas com salários e encargos trabalhistas de seus operários.",
+    "E": "tanto em 2001, como em 2003, o que indica não haver relação significativa entre lucro, produtividade e número de operários."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O lucro é L = (L/n) × n. Em 2000: 20 × 20 = 400; em 2001: 40 × 16 = 640; em 2002: 45 × 12 = 540; em 2003: 40 × 10 = 400 (em centenas de reais). O maior lucro foi em 2001, e não em 2002, quando a produtividade foi máxima com menos operários. Alternativa <strong>B</strong>.</p><p>Reduzir operários aumentou a produtividade, mas não necessariamente o lucro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "produtividade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 57,
+   "materia": "Biologia",
+   "assunto": "DNA",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p>A identificação da estrutura do DNA foi fundamental para compreender seu papel na continuidade da vida. Na década de 1950, um estudo pioneiro determinou a proporção das bases nitrogenadas que compõem moléculas de DNA de várias espécies.</p><table class=\"tabela\"><thead><tr><th>Material analisado</th><th>A</th><th>G</th><th>C</th><th>T</th></tr></thead><tbody><tr><td>Espermatozóide humano</td><td>30,7%</td><td>19,3%</td><td>18,8%</td><td>31,2%</td></tr><tr><td>Fígado humano</td><td>30,4%</td><td>19,5%</td><td>19,9%</td><td>30,2%</td></tr><tr><td>Medula óssea de rato</td><td>28,6%</td><td>21,4%</td><td>21,5%</td><td>28,5%</td></tr><tr><td>Espermatozóide de ouriço-do-mar</td><td>32,8%</td><td>17,7%</td><td>18,4%</td><td>32,1%</td></tr><tr><td>Plântulas de trigo</td><td>27,9%</td><td>21,8%</td><td>22,7%</td><td>27,6%</td></tr><tr><td>Bactéria <em>E. coli</em></td><td>26,1%</td><td>24,8%</td><td>23,9%</td><td>25,1%</td></tr></tbody></table><p class=\"fonte\">Bases nitrogenadas: A, adenina; G, guanina; C, citosina; T, timina.</p><p>A comparação das proporções permitiu concluir que ocorre emparelhamento entre as bases nitrogenadas e que elas formam</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pares de mesmo tipo em todas as espécies, evidenciando a universalidade da estrutura do DNA.",
+    "B": "pares diferentes de acordo com a espécie considerada, o que garante a diversidade da vida.",
+    "C": "pares diferentes em diferentes células de uma espécie, como resultado da diferenciação celular.",
+    "D": "pares específicos apenas nos gametas, pois essas células são responsáveis pela perpetuação das espécies.",
+    "E": "pares específicos somente nas bactérias, pois esses organismos são formados por uma única célula."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Em todos os materiais, a porcentagem de adenina é quase igual à de timina, e a de guanina, quase igual à de citosina: A pareia com T e G com C. Isso vale para humanos, rato, ouriço, trigo e bactéria, mostrando a universalidade da estrutura do DNA. Alternativa <strong>A</strong>.</p><p>As proporções entre as espécies mudam, mas os pares são os mesmos (B, C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "bases nitrogenadas",
+    "Chargaff"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 58,
+   "materia": "Biologia",
+   "assunto": "Origem da vida",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p>Nas recentes expedições espaciais que chegaram ao solo de Marte, e através dos sinais fornecidos por diferentes sondas e formas de análise, vem sendo investigada a possibilidade da existência de água naquele planeta. A motivação principal dessas investigações, que ocupam freqüentemente o noticiário sobre Marte, deve-se ao fato de que a presença de água indicaria, naquele planeta,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a existência de um solo rico em nutrientes e com potencial para a agricultura.",
+    "B": "a existência de ventos, com possibilidade de erosão e formação de canais.",
+    "C": "a possibilidade de existir ou ter existido alguma forma de vida semelhante à da Terra.",
+    "D": "a possibilidade de extração de água visando ao seu aproveitamento futuro na Terra.",
+    "E": "a viabilidade, em futuro próximo, do estabelecimento de colônias humanas em Marte."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A água líquida é indispensável a todas as formas de vida conhecidas. Encontrar água em Marte indicaria a possibilidade de existir, ou ter existido, alguma forma de vida semelhante à da Terra. Alternativa <strong>C</strong>.</p><p>Agricultura, extração de água para a Terra ou colônias humanas (A, D, E) estão muito distantes da realidade das missões.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Marte",
+    "água"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 59,
+   "materia": "Português",
+   "assunto": "Literatura",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "[[fig:1]]<p class=\"apoio\">Da minha aldeia vejo quanto da terra se pode ver no Universo...<br>Por isso minha aldeia é grande como outra qualquer<br>Porque sou do tamanho do que vejo<br>E não do tamanho da minha altura...</p><p class=\"fonte\">Alberto Caeiro.</p><p>A tira “Hagar” e o poema de Alberto Caeiro (um dos heterônimos de Fernando Pessoa) expressam, com linguagens diferentes, uma mesma idéia: a de que a compreensão que temos do mundo é condicionada, essencialmente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q59.webp",
+     "alt": "Tira “Hagar”, de Dik Browne, em três quadros. O filho de Hagar, lendo um livro, diz: “Acho que o mundo é redondo.”, e Hagar pergunta: “É mesmo?”. No segundo quadro, Hagar olha em volta numa planície plana e vazia, com um ponto de interrogação. No terceiro, de volta ao filho, diz: “Vou levar você a um oculista.”"
+    }
+   ],
+   "alternativas": {
+    "A": "pelo alcance de cada cultura.",
+    "B": "pela capacidade visual do observador.",
+    "C": "pelo senso de humor de cada um.",
+    "D": "pela idade do observador.",
+    "E": "pela altura do ponto de observação."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Hagar não aceita que o mundo seja redondo porque, olhando em volta, só vê uma planície: sua compreensão do mundo se limita ao que a experiência e o conhecimento do seu meio lhe mostram, enquanto o filho aprendeu nos livros. Caeiro afirma algo parecido: a aldeia é grande como qualquer outra porque “sou do tamanho do que vejo”. A compreensão do mundo depende do alcance da cultura de cada um. Alternativa <strong>A</strong>.</p><p>O poema descarta a altura física (“E não do tamanho da minha altura”, E), e o problema de Hagar não é de visão, apesar da piada do oculista (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Intertextualidade",
+    "Alberto Caeiro",
+    "Fernando Pessoa"
+   ],
+   "area": "Linguagens"
+  },
+  {
+   "numero": 60,
+   "materia": "Química",
+   "assunto": "Metalurgia",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p>Na fabricação de qualquer objeto metálico, seja um parafuso, uma panela, uma jóia, um carro ou um foguete, a metalurgia está presente na extração de metais a partir dos minérios correspondentes, na sua transformação e sua moldagem. Muitos dos processos metalúrgicos atuais têm em sua base conhecimentos desenvolvidos há milhares de anos, como mostra o quadro:</p><table class=\"tabela\"><thead><tr><th>Milênio antes de Cristo</th><th>Métodos de extração e operação</th></tr></thead><tbody><tr><td>quinto milênio a.C.</td><td>Conhecimento do ouro e do cobre nativos<br>Conhecimento da prata e das ligas de ouro e prata</td></tr><tr><td>quarto milênio a.C.</td><td>Obtenção do cobre e chumbo a partir de seus minérios<br>Técnicas de fundição<br>Obtenção do estanho a partir do minério</td></tr><tr><td>terceiro milênio a.C.</td><td>Uso do bronze<br>Introdução do fole e aumento da temperatura de queima</td></tr><tr><td>segundo milênio a.C.</td><td>Início do uso do ferro<br>Obtenção do mercúrio e dos amálgamas</td></tr><tr><td>primeiro milênio a.C.</td><td>Cunhagem de moedas</td></tr></tbody></table><p class=\"fonte\">J. A. Vanin, <em>Alquimistas e Químicos</em>.</p><p>Podemos observar que a extração e o uso de diferentes metais ocorreram a partir de diferentes épocas. Uma das razões para que a extração e o uso do ferro tenham ocorrido após a do cobre ou estanho é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a inexistência do uso de fogo que permitisse sua moldagem.",
+    "B": "a necessidade de temperaturas mais elevadas para sua extração e moldagem.",
+    "C": "o desconhecimento de técnicas para a extração de metais a partir de minérios.",
+    "D": "a necessidade do uso do cobre na fabricação do ferro.",
+    "E": "seu emprego na cunhagem de moedas, em substituição ao ouro."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O quadro mostra que o ferro só passou a ser usado depois do fole e do aumento da temperatura de queima: o ferro exige temperaturas mais altas para ser extraído do minério e moldado do que o cobre e o estanho. Alternativa <strong>B</strong>.</p><p>O fogo já era usado (A), a extração de metais de minérios já era conhecida desde o quarto milênio (C), e o ferro não depende do cobre (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "metalurgia",
+    "ferro"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 61,
+   "materia": "Química",
+   "assunto": "Corrosão",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p>Ferramentas de aço podem sofrer corrosão e enferrujar. As etapas químicas que correspondem a esses processos podem ser representadas pelas equações:</p>[[fig:1]]<p>Uma forma de tornar mais lento esse processo de corrosão e formação de ferrugem é engraxar as ferramentas. Isso se justifica porque a graxa proporciona</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q61.webp",
+     "alt": "Três equações: Fe + H₂O + ½ O₂ → Fe(OH)₂; Fe(OH)₂ + ½ H₂O + ¼ O₂ → Fe(OH)₃; Fe(OH)₃ + n H₂O → Fe(OH)₃ · nH₂O (ferrugem)."
+    }
+   ],
+   "alternativas": {
+    "A": "lubrificação, evitando o contato entre as ferramentas.",
+    "B": "impermeabilização, diminuindo seu contato com o ar úmido.",
+    "C": "isolamento térmico, protegendo-as do calor ambiente.",
+    "D": "galvanização, criando superfícies metálicas imunes.",
+    "E": "polimento, evitando ranhuras nas superfícies."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As equações mostram que a ferrugem exige ferro, água e oxigênio. A graxa forma uma camada que impermeabiliza a superfície e reduz o contato com o ar úmido. Alternativa <strong>B</strong>.</p><p>A graxa não galvaniza o metal (D), que exige revestimento de zinco, nem atua como isolante térmico (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ferrugem",
+    "oxidação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 62,
+   "materia": "Biologia",
+   "assunto": "Tempo geológico",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p class=\"apoio\">Comprimam-se todos os 4,5 bilhões de anos de tempo geológico em um só ano. Nesta escala, as rochas mais antigas reconhecidas datam de março. Os seres vivos apareceram inicialmente nos mares, em maio. As plantas e animais terrestres surgiram no final de novembro.</p><p class=\"fonte\">Don L. Eicher, <em>Tempo Geológico</em>.</p><table class=\"tabela\"><thead><tr><th>Mês</th><th>Milhões de anos atrás</th></tr></thead><tbody><tr><td>JAN</td><td>4500</td></tr><tr><td>FEV</td><td>4125</td></tr><tr><td>MAR</td><td>3750</td></tr><tr><td>ABR</td><td>3375</td></tr><tr><td>MAI</td><td>3000</td></tr><tr><td>JUN</td><td>2625</td></tr><tr><td>JUL</td><td>2250</td></tr><tr><td>AGO</td><td>1875</td></tr><tr><td>SET</td><td>1500</td></tr><tr><td>OUT</td><td>1125</td></tr><tr><td>NOV</td><td>750</td></tr><tr><td>DEZ</td><td>375</td></tr></tbody></table><p>Na escala de tempo acima, o sistema solar surgiu no início de janeiro e vivemos hoje à meia-noite de 31 de dezembro. Nessa mesma escala, Pedro Álvares Cabral chegou ao Brasil também no mês de dezembro, mais precisamente na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "manhã do dia 01.",
+    "B": "tarde do dia 10.",
+    "C": "noite do dia 15.",
+    "D": "tarde do dia 20.",
+    "E": "noite do dia 31."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na escala, 4,5 bilhões de anos valem 365 dias: cada dia equivale a cerca de 12,3 milhões de anos, e cada segundo a cerca de 143 anos. A chegada de Cabral, há cerca de 500 anos, cai uns 3,5 segundos antes da meia-noite de 31 de dezembro. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala de tempo",
+    "proporção"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 63,
+   "materia": "História",
+   "assunto": "Energia e sociedade",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p>O consumo diário de energia pelo ser humano vem crescendo e se diversificando ao longo da História, de acordo com as formas de organização da vida social. O esquema apresenta o consumo típico de energia de um habitante de diferentes lugares e em diferentes épocas.</p>[[fig:1]]<p class=\"fonte\">E. Cooks, <em>Man, Energy and Society</em>.</p><p>Segundo esse esquema, do estágio primitivo ao tecnológico, o consumo de energia <em>per capita</em> no mundo cresceu mais de 100 vezes, variando muito as taxas de crescimento, ou seja, a razão entre o aumento do consumo e o intervalo de tempo em que esse aumento ocorreu. O período em que essa taxa de crescimento foi mais acentuada está associado à passagem</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2004/q63.webp",
+     "alt": "Gráfico de barras horizontais “Consumo de energia em diferentes lugares e épocas” (escala não linear de tempo), em mil kcal per capita por dia, dividido em alimentação, indústria e agricultura, moradia e comércio, e transporte. Habitante do leste da África há 500 mil anos: cerca de 0,2. Nômade europeu há 100 mil anos: cerca de 0,5. Habitante da Mesopotâmia em 5000 a.C.: cerca de 1,2. Europeu em 1400 d.C.: cerca de 2,7. Inglês no final do século XIX: cerca de 8. Norte-americano no século XX: cerca de 23."
+    }
+   ],
+   "alternativas": {
+    "A": "do habitante das cavernas ao homem caçador.",
+    "B": "do homem caçador à utilização do transporte por tração animal.",
+    "C": "da introdução da agricultura ao crescimento das cidades.",
+    "D": "da Idade Média à máquina a vapor.",
+    "E": "da Segunda Revolução Industrial aos dias atuais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Do fim do século XIX (inglês, cerca de 8 mil kcal por dia) ao século XX (norte-americano, cerca de 23 mil kcal), o consumo quase triplicou em cerca de um século. Nas outras passagens, aumentos menores levaram milhares de anos. A taxa mais acentuada é a da Segunda Revolução Industrial aos dias atuais. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "consumo de energia",
+    "Revolução Industrial"
+   ],
+   "area": "Ciências Humanas"
+  }
+ ]
+}

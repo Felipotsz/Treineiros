@@ -1,0 +1,1359 @@
+{
+ "id": "fatec-2019-2sem",
+ "banca": "FATEC",
+ "ano": 2019,
+ "semestre": 2,
+ "titulo": "Vestibular FATEC, 2º semestre de 2019",
+ "fonte": "Centro Paula Souza",
+ "dataExame": "2019-06-30",
+ "duracaoMinutos": 300,
+ "tema": "Tecnologia",
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "História",
+   "assunto": "América colonial",
+   "origem": {
+    "numeroOriginal": 1
+   },
+   "enunciado": "<p>Potosi e Vila Rica foram duas cidades economicamente importantes das Américas espanhola e portuguesa, respectivamente, uma vez que, do entorno delas, foram extraídos metais preciosos. A acumulação desses e de outros metais, o controle da balança comercial e o monopólio do comércio colonial foram parte de uma política econômica que fortaleceu Estados europeus e garantiu o seu desenvolvimento econômico posterior.</p><p>Assinale a alternativa que apresenta, corretamente, os metais extraídos do entorno dessas duas cidades coloniais e a política econômica à qual o texto se refere.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Metais extraídos: Diamante e cobre; Política econômica: Monetarismo.",
+    "B": "Metais extraídos: Ouro e diamante; Política econômica: Monetarismo.",
+    "C": "Metais extraídos: Cobre e níquel; Política econômica: Metalismo.",
+    "D": "Metais extraídos: Prata e ouro; Política econômica: Mercantilismo.",
+    "E": "Metais extraídos: Níquel e prata; Política econômica: Mercantilismo."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Em Potosí (atual Bolívia) explorava-se <strong>prata</strong>; em Vila Rica (atual Ouro Preto), <strong>ouro</strong>. Acumular metais (metalismo), manter a balança comercial favorável e o monopólio colonial são as práticas do <strong>mercantilismo</strong>. Alternativa <strong>D</strong>.</p><p>Monetarismo é uma teoria econômica do século XX (A e B). Metalismo é só uma das práticas mercantilistas, e cobre e níquel não eram o foco (C). Níquel não era explorado nessas cidades (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "mercantilismo",
+    "mineração"
+   ]
+  },
+  {
+   "numero": 2,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 2
+   },
+   "enunciado": "<p>Durante o século XX, a temperatura global da superfície terrestre aumentou mais de 0,6 °C e, de acordo com estudos da ONU, o planeta poderá estar 2 °C mais quente até o ano de 2100. Os cientistas não têm mais dúvidas de que, a longo prazo, a intensificação do efeito estufa transformará a vida no planeta e consideram como principal fator causador dessas mudanças climáticas</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a diminuição da taxa de oxigênio atmosférico.",
+    "B": "a diminuição da taxa do gás metano na atmosfera.",
+    "C": "o aumento da taxa de dióxido de carbono na atmosfera.",
+    "D": "o aumento da quantidade de petróleo derramado no mar.",
+    "E": "a diminuição da taxa de clorofluorcarbono (CFC) na atmosfera."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O principal responsável pela intensificação do efeito estufa é o <strong>aumento do CO₂</strong> na atmosfera, emitido sobretudo pela queima de combustíveis fósseis e pelo desmatamento. Alternativa <strong>C</strong>.</p><p>O oxigênio não é gás estufa (A). O metano é gás estufa, e o problema é seu aumento, não a diminuição (B). O petróleo no mar polui os oceanos, mas não é a causa principal (D). E a redução dos CFCs ajuda a recuperar a camada de ozônio (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "efeito estufa"
+   ]
+  },
+  {
+   "numero": 3,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 3
+   },
+   "enunciado": "<p>As duas maiores esperanças para as fontes de energia do futuro são as células a combustível por hidrogênio e as células por energia solar. O uso combinado das duas células, no qual usa-se a energia solar para quebrar moléculas de água na produção de gás hidrogênio e, posteriormente, abastecer células a combustível por hidrogênio, seria ideal, por ser particularmente limpo.</p><p>Esta é a chamada fotossíntese artificial, que vem sendo alvo de pesquisa de vários grupos de cientistas, ao redor do mundo.</p><p>Sobre o processo descrito, assinale a alternativa correta.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A fotossíntese artificial é igual à fotossíntese natural, produzindo glicose e oxigênio.",
+    "B": "O processo apresenta, como desvantagem, a produção de metais pesados tóxicos.",
+    "C": "A quebra da molécula de água não necessita de energia, pois é um processo exotérmico.",
+    "D": "Uma das finalidades do processo é produzir hidrogênio para ser utilizado em células a combustível.",
+    "E": "Os cientistas conseguiram reproduzir, em laboratório, glicose e oxigênio a partir de gás carbônico e água."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto descreve o uso da energia solar para quebrar moléculas de água e produzir hidrogênio, que depois abastece células a combustível. Alternativa <strong>D</strong>.</p><p>A fotossíntese natural produz glicose; a artificial descrita produz hidrogênio (A e E). O processo é considerado limpo, sem metais pesados (B). E quebrar a água exige energia: o processo é endotérmico (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "hidrogênio",
+    "eletrólise"
+   ]
+  },
+  {
+   "numero": 4,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 4
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y6fbtptu&gt; Acesso em: 15.03.2019. Original colorido.</p><p>Nos quadrinhos, pode-se observar que Alice se sente um tanto quanto decepcionada com a formação do novo líder porque ele</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q04.webp",
+     "alt": "Tirinha de Dilbert, em inglês, em oito quadros. O chefe apresenta a Alice o novo gerente, Keith, “altamente qualificado”, com mestrado em Administração. Alice pergunta se ele aprendeu a motivar funcionários (“No, not really”), a identificar e contratar boas pessoas (“That might have been optional reading”), negociação, pensamento estratégico, escrita de negócios (“No”, “No”, “No”). Ele diz que o curso foi mais de finanças, contabilidade e economia. Alice conclui: “So, you're a highly qualified leader because… you're good at math?”. No último quadro, Keith pergunta “What should I do here?” e o chefe responde: “In these situations I like to use swearing” (nessas situações eu gosto de xingar)."
+    }
+   ],
+   "alternativas": {
+    "A": "é bom em matemática, mas não tem competência linguística.",
+    "B": "tem domínio na motivação de parceiros, mas tem problemas em finanças.",
+    "C": "sabe avaliar e contratar profissionais competentes, mas não tem graduação na área.",
+    "D": "tem mestrado em Administração de Empresas, mas não tem competência comunicativa.",
+    "E": "tem qualificação econômica e administrativa, mas não tem habilidades socio-emocionais."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Keith tem mestrado em Administração e estudou finanças, contabilidade e economia, mas não sabe motivar pessoas, contratar, negociar nem pensar estrategicamente. Ele tem formação técnica, mas não as <strong>habilidades socioemocionais</strong> de um líder. Alternativa <strong>E</strong>.</p><p>Não é só competência linguística (A) nem só comunicativa (D). Ele não domina a motivação (B) e não sabe contratar (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "quadrinhos"
+   ]
+  },
+  {
+   "numero": 5,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 5
+   },
+   "enunciado": "<p>Em uma aula do curso de Logística Aeroportuária, o professor propõe aos alunos que determinem a quantidade de movimento da aeronave tipo 737–800 em voo de cruzeiro, considerando condições ideais. Para isso ele apresenta valores aproximados, fornecidos pelo fabricante da aeronave.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">INFORMAÇÃO</th><th scope=\"col\">DADO</th></tr></thead><tbody><tr><td>Massa Máxima de Decolagem</td><td>79 000 kg</td></tr><tr><td>Velocidade média de cruzeiro</td><td>720 km/h</td></tr></tbody></table></div><p>Com base nos dados apresentados no quadro, o resultado aproximado esperado é, em kg·m/s,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,6 × 10<sup>7</sup>",
+    "B": "2,0 × 10<sup>7</sup>",
+    "C": "2,6 × 10<sup>7</sup>",
+    "D": "3,0 × 10<sup>7</sup>",
+    "E": "3,6 × 10<sup>7</sup>"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>v = 720 ÷ 3,6 = 200 m/s. Q = m · v = 79 000 · 200 = 15 800 000 ≈ <strong>1,6 × 10⁷ kg·m/s</strong>. Alternativa <strong>A</strong>.</p><p>Os outros valores vêm de erros na conversão de km/h para m/s.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "quantidade de movimento"
+   ]
+  },
+  {
+   "numero": 6,
+   "materia": "Português",
+   "assunto": "Figuras de linguagem",
+   "origem": {
+    "numeroOriginal": 6
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/yynj49zv&gt; Acesso em: 20.06.2019. Original colorido.</p><p>O humor dos quadrinhos apresentados constrói-se por meio de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q06.webp",
+     "alt": "Quadrinhos de Guilherme Bandeira, em quatro quadros: um cérebro de óculos, com braços e pernas, corre suando numa esteira, com uma toalha pendurada. No segundo quadro, ele grita para o leitor: “Vai ficar aí só olhando? Exercite essa mente também!”. Depois, ofega (“Uf! Uf!”) e, no último quadro, grita “Vai!”."
+    }
+   ],
+   "alternativas": {
+    "A": "antítese, constituída pela oposição entre “corpo” e “mente”.",
+    "B": "catacrese, presente na caracterização do cérebro como “mente saudável”.",
+    "C": "aliteração, decorrente da incoerência entre o conceito de “movimento” e “observação”.",
+    "D": "prosopopeia, decorrente da representação da mente como um ser animado.",
+    "E": "silepse, composta pela repetição do termo “vai” na mesma posição."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O cérebro (a mente) aparece com braços, pernas, óculos e fala, correndo numa esteira e cobrando o leitor: é a <strong>prosopopeia</strong> (personificação), que dá vida e traços humanos a algo que não os tem. Alternativa <strong>D</strong>.</p><p>Não há oposição entre corpo e mente (A), nem catacrese (B). Aliteração é repetição de sons consonantais (C). E a repetição de “vai” não é silepse (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "prosopopeia"
+   ]
+  },
+  {
+   "numero": 7,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 7
+   },
+   "enunciado": "<p class=\"apoio\">Mais de três mil gerentes de operações de companhias de diversos países, inclusive do Brasil, indicaram funções na área de administração e negócios, que ganham destaque no mercado de trabalho e demanda devido aos avanços tecnológicos. Entre essas funções, destacam-se as de Especialista em <em>e-commerce</em>, Gerente de compras on-line, Gerente de <em>e-learning</em>, Consultor de transformação digital e Assistente virtual.</p><p class=\"apoio\">Além do impacto de inovações e ferramentas, em comum entre as funções mais citadas, há a dificuldade de recrutamento, sobretudo no Brasil. “Por serem novas funções, a oferta de pessoas qualificadas e bem preparadas é baixa”, diz uma diretora de recrutamento.</p><p class=\"apoio\">Multinacionais e empresas de tecnologia ditam a tendência por aqui, mas a demanda deve se espalhar, nos próximos anos, para companhias das mais diversas áreas.</p><p class=\"apoio\">No Brasil, funções ligadas ao <em>e-commerce</em> e à área de <em>e-learning</em> se destacam pelo volume de vagas.</p><p class=\"fonte\">&lt;https://tinyurl.com/y5co327k&gt; Acesso em: 17.06.2019. Adaptado.</p><p>De acordo com o texto, é correto afirmar que no Brasil</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "os empregos vinculados às atividades que utilizam a internet estão em queda face ao excesso de mão de obra disponível.",
+    "B": "os avanços tecnológicos contribuem para o aumento do desemprego, por não promoverem a criação de novas oportunidades de trabalho.",
+    "C": "o desemprego se concentra entre os trabalhadores qualificados, uma vez que os salários destes tendem a ser maiores do que os de trabalhadores de menor qualificação.",
+    "D": "as vagas de trabalho, em áreas de administração e negócios em ambientes digitais, são difíceis de serem preenchidas, pois existem poucos profissionais preparados para assumi-las.",
+    "E": "a área tecnológica, apesar de utilizar muita mão de obra sem qualificação, está entre os ramos empresariais que menos remuneram seus profissionais, daí a falta de mão de obra para esse setor."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O texto diz que há “dificuldade de recrutamento, sobretudo no Brasil”, porque “a oferta de pessoas qualificadas e bem preparadas é baixa”. Alternativa <strong>D</strong>.</p><p>As vagas ligadas à internet estão crescendo, e falta mão de obra (A e E). Os avanços tecnológicos criam novas funções (B). E o texto não diz que o desemprego atinge os qualificados (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "mercado de trabalho"
+   ]
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 8
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto e os gráficos para responder às questões 08 e 09.</p><p class=\"apoio\">A Pesquisa de Inovação (Pintec), realizada pelo Instituto Brasileiro de Geografia e Estatística (IBGE), tem como objetivo levantar informações que visem à construção de indicadores nacionais e regionais das atividades de inovação nas empresas brasileiras com 10 ou mais pessoas ocupadas, tendo como universo de investigação as atividades das Indústrias, dos setores de Eletricidade e gás e dos Serviços selecionados.</p><p class=\"apoio\">A Pintec, do triênio 2012–2014, cobriu uma amostra de cerca de 17 mil empresas representativa de um universo de cerca de 130 mil empresas no Brasil.</p><p class=\"apoio\">A Pintec 2014 apresentou a incidência de pesquisadores mulheres nas atividades de Pesquisa e Desenvolvimento (P&D) das empresas que implementaram inovações no Brasil em 2014 nas atividades da Indústria, de Eletricidade e gás e de Serviços selecionados, conforme o gráfico.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y5mjvjho&gt; Acesso em: 17.06.2019. Adaptado.</p><p>De acordo com o texto, a amostra correspondeu a cerca de N% da população estudada.</p><p>Nessas condições, o valor de N é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q08.webp",
+     "alt": "Três gráficos de setores com o número de pesquisadores em P&D por sexo, em 2014. Indústria: 51 573 homens e 14 543 mulheres (78,0% e 22,0%). Eletricidade e gás: 831 homens e 159 mulheres (83,9% e 16,1%). Serviços selecionados: 22 213 homens e 4 958 mulheres (81,8% e 18,2%). Fonte: IBGE, Pesquisa de Inovação 2014."
+    }
+   ],
+   "alternativas": {
+    "A": "11.",
+    "B": "13.",
+    "C": "15.",
+    "D": "17.",
+    "E": "19."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A amostra de 17 mil empresas sobre um universo de 130 mil: 17 ÷ 130 ≈ 0,13, ou <strong>13%</strong>. Alternativa <strong>B</strong>.</p><p>Os outros valores não saem dessa razão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "amostragem"
+   ]
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Interpretação de dados",
+   "origem": {
+    "numeroOriginal": 9
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto e os gráficos para responder às questões 08 e 09.</p><p class=\"apoio\">A Pesquisa de Inovação (Pintec), realizada pelo Instituto Brasileiro de Geografia e Estatística (IBGE), tem como objetivo levantar informações que visem à construção de indicadores nacionais e regionais das atividades de inovação nas empresas brasileiras com 10 ou mais pessoas ocupadas, tendo como universo de investigação as atividades das Indústrias, dos setores de Eletricidade e gás e dos Serviços selecionados.</p><p class=\"apoio\">A Pintec, do triênio 2012–2014, cobriu uma amostra de cerca de 17 mil empresas representativa de um universo de cerca de 130 mil empresas no Brasil.</p><p class=\"apoio\">A Pintec 2014 apresentou a incidência de pesquisadores mulheres nas atividades de Pesquisa e Desenvolvimento (P&D) das empresas que implementaram inovações no Brasil em 2014 nas atividades da Indústria, de Eletricidade e gás e de Serviços selecionados, conforme o gráfico.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y5mjvjho&gt; Acesso em: 17.06.2019. Adaptado.</p><p>Analisando os gráficos, é correto afirmar que,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q08.webp",
+     "alt": "Três gráficos de setores com o número de pesquisadores em P&D por sexo, em 2014. Indústria: 51 573 homens e 14 543 mulheres (78,0% e 22,0%). Eletricidade e gás: 831 homens e 159 mulheres (83,9% e 16,1%). Serviços selecionados: 22 213 homens e 4 958 mulheres (81,8% e 18,2%). Fonte: IBGE, Pesquisa de Inovação 2014."
+    }
+   ],
+   "alternativas": {
+    "A": "nas empresas da Indústria, a participação de pesquisadores homens, percentualmente, foi maior do que a participação masculina nos demais segmentos estudados.",
+    "B": "nos Serviços selecionados, a participação de pesquisadores mulheres foi de 16,1%, portanto, menor do que na Indústria.",
+    "C": "nas empresas de Eletricidade e gás, a participação de pesquisadores mulheres foi de 159%.",
+    "D": "nos três setores estudados, o número de mulheres pesquisadas foi maior do que 20000.",
+    "E": "nas empresas de Eletricidade e gás, havia cerca de cinco homens para cada mulher."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Em Eletricidade e gás há 831 homens e 159 mulheres: 831 ÷ 159 ≈ 5,2, cerca de <strong>cinco homens para cada mulher</strong>. Alternativa <strong>E</strong>.</p><p>A participação masculina na Indústria (78,0%) é a menor dos três setores (A). Nos Serviços, as mulheres são 18,2%, e 16,1% é o valor de Eletricidade e gás (B). 159 é um número de pessoas, não uma porcentagem (C). E as mulheres somam 14 543 + 159 + 4 958 = 19 660, menos de 20 000 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multidisciplinar",
+    "gráfico de setores"
+   ]
+  },
+  {
+   "numero": 10,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 10
+   },
+   "enunciado": "<p>Em Lógica Clássica, uma determinada frase é uma proposição quando é uma oração declarativa que pode ser classificada como ou verdadeira ou falsa, mas não as duas. Neste sentido, as proposições transmitem pensamentos ao afirmarem fatos ou revelarem juízos que se formam a respeito de determinados acontecimentos, pessoas e objetos.</p><p>Dentre as frases apresentadas, assinale aquela que pode ser classificada como uma proposição lógica.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Que bela prova de raciocínio lógico!",
+    "B": "Uma primorosa prova de raciocínio lógico.",
+    "C": "Toda prova de raciocínio lógico é fabulosa.",
+    "D": "Quem não gosta de uma prova de raciocínio lógico?",
+    "E": "Leia atenciosamente as questões da prova de raciocínio lógico."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Uma proposição é uma oração declarativa que pode ser verdadeira ou falsa. “Toda prova de raciocínio lógico é fabulosa” afirma algo que pode ser julgado: é uma proposição. Alternativa <strong>C</strong>.</p><p>Exclamações (A), frases sem verbo (B), perguntas (D) e ordens (E) não podem ser classificadas como verdadeiras ou falsas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proposição"
+   ]
+  },
+  {
+   "numero": 11,
+   "materia": "Raciocínio lógico",
+   "assunto": "Operações e problemas",
+   "origem": {
+    "numeroOriginal": 11
+   },
+   "enunciado": "<p>A divisão é uma das quatro operações fundamentais da Aritmética e pode ser representada utilizando o algoritmo:</p><p class=\"apoio\">Dividendo | Divisor<br>Resto &nbsp; &nbsp; Quociente</p><p>Considere que, no conjunto dos números naturais, a divisão de 43 por 5 tem quociente q. Seja N o número natural tal que (N + 43) dividido por 5 tem como quociente (q + 500).</p><p>Nessas condições, o menor valor de N é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2 497.",
+    "B": "2 498.",
+    "C": "2 499.",
+    "D": "2 500.",
+    "E": "2 501."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>43 ÷ 5 tem quociente q = 8. Então (N + 43) ÷ 5 tem quociente 508, ou seja, N + 43 fica entre 5 · 508 = 2 540 e 2 544. O menor valor é N + 43 = 2 540, então N = <strong>2 497</strong>. Alternativa <strong>A</strong>.</p><p>2 500 viria de somar 500 · 5 sem considerar o resto da divisão de 43 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão euclidiana"
+   ]
+  },
+  {
+   "numero": 12,
+   "materia": "Raciocínio lógico",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 12
+   },
+   "enunciado": "<p>Uma fábrica deve produzir diariamente 523 canetas. Contudo, o encarregado da linha de produção, após analisar os resultados de 5 dias consecutivos, notou as seguintes quantidades produzidas por dia, apresentadas no quadro.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Dia 1</th><th scope=\"col\">Dia 2</th><th scope=\"col\">Dia 3</th><th scope=\"col\">Dia 4</th><th scope=\"col\">Dia 5</th></tr></thead><tbody><tr><td>523</td><td>520</td><td>517</td><td>514</td><td>511</td></tr></tbody></table></div><p>A partir da análise desses dados, o encarregado concluiu que as máquinas apresentam problemas técnicos.</p><p>Se nenhuma providência for tomada, mantendo-se o mesmo padrão da sequência e supondo que as máquinas produzam todos os dias, inclusive aos finais de semana, o menor número de canetas que a fábrica irá conseguir produzir, antes das máquinas paralisarem suas atividades, será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0.",
+    "B": "1.",
+    "C": "2.",
+    "D": "3.",
+    "E": "4."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A produção cai 3 canetas por dia: 523, 520, 517, ... Como 523 = 3 · 174 + 1, os termos deixam resto 1 na divisão por 3: ..., 7, 4, <strong>1</strong>. O próximo seria −2, impossível, e as máquinas param. Alternativa <strong>B</strong>.</p><p>0 só apareceria se 523 fosse múltiplo de 3 (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "progressão aritmética"
+   ]
+  },
+  {
+   "numero": 13,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 13
+   },
+   "enunciado": "<p>Ariel, estudante do Ensino Médio, achava que o seu relógio estava 3 minutos atrasado, mas, devido à sua rotina de estudos para a prova de vestibular da Fatec, não viu que, na realidade, seu relógio estava 12 minutos adiantado.</p><p>No dia do vestibular, Ariel achou que tinha perdido a prova, pois julgava que estava 8 minutos atrasada, mas, ao chegar no local do vestibular, o portão ainda estava aberto.</p><p>Isso se deve ao fato de que Ariel estava adiantada</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 minutos.",
+    "B": "3 minutos.",
+    "C": "5 minutos.",
+    "D": "7 minutos.",
+    "E": "9 minutos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Ariel achava que o relógio estava 3 min atrasado, então somava 3 ao que via. Ela julgou estar 8 min atrasada: o relógio marcava 8 − 3 = 5 min depois do horário da prova. Mas o relógio estava 12 min adiantado, então a hora real era 12 − 5 = 7 min antes do horário: ela estava <strong>7 minutos adiantada</strong>. Alternativa <strong>D</strong>.</p><p>Os outros valores vêm de somar ou subtrair os atrasos de forma errada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "relógio"
+   ]
+  },
+  {
+   "numero": 14,
+   "materia": "Raciocínio lógico",
+   "assunto": "Lógica",
+   "origem": {
+    "numeroOriginal": 14
+   },
+   "enunciado": "<p>Silogismo é uma estrutura lógica que designa uma forma de raciocínio dedutivo, que é exemplificado no cartum.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/y47qc39c&gt; Acesso em: 17.06.2019.</p><p>Assinale a alternativa que apresenta a estrutura tradicional pela qual o silogismo é formado.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q14.webp",
+     "alt": "Cartum de Glasbergen: um pinguim pensa “O pinguim é branco e preto. Alguns filmes antigos são branco e preto. Portanto, alguns pinguins são filmes antigos.” Legenda: “Lógica: Outro ponto fraco dos pinguins.”"
+    }
+   ],
+   "alternativas": {
+    "A": "uma premissa e uma conclusão que se segue da premissa.",
+    "B": "uma premissa e duas conclusões que decorrem da premissa.",
+    "C": "duas premissas e uma conclusão que se segue delas.",
+    "D": "duas premissas e nenhuma conclusão.",
+    "E": "três premissas e nenhuma conclusão."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O silogismo clássico tem <strong>duas premissas</strong> (uma maior e uma menor) e <strong>uma conclusão</strong> que decorre delas, como no pensamento do pinguim (ainda que o raciocínio dele seja inválido). Alternativa <strong>C</strong>.</p><p>Uma premissa só não forma silogismo (A e B), e sem conclusão não há dedução (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "silogismo"
+   ]
+  },
+  {
+   "numero": 15,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 15
+   },
+   "enunciado": "<p>O Brasil foi o principal destino dos africanos escravizados especialmente no século XIX. Ainda que pressões internacionais pusessem cada vez mais restrições ao tráfico transatlântico, os portos do sudeste do país, vários deles clandestinos, foram o destino de cerca de três quartos das pessoas escravizadas no Brasil entre 1822 e 1866. A escravidão mantinha, dessa forma, o seu papel fundamental na economia brasileira e na formação das relações sociais do país.</p><p>Assinale a alternativa que corresponde corretamente ao contexto apresentado no texto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O Brasil proibiu oficialmente a entrada de africanos escravizados e a sua comercialização em 1866, o que levou à abolição da escravidão na década seguinte.",
+    "B": "O sudeste brasileiro, cuja economia se baseava principalmente na cafeicultura, recebeu a maior parte dos africanos escravizados no Brasil do século XIX.",
+    "C": "A Inglaterra teve êxito em coibir o tráfico transatlântico em 1888, ano em que ocorreu a abolição da escravidão no Brasil, nos Estados Unidos e no Caribe.",
+    "D": "A escravidão indígena, em detrimento da escravidão africana, foi predominante nos chamados ciclos do ouro e do café nos séculos XIX e XX.",
+    "E": "Os escravizados aportados no Brasil após 1822 vinham, em maior número, do chamado Chifre da África, região menos vigiada pela marinha britânica."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No século XIX, a cafeicultura do Sudeste (Rio de Janeiro, Minas Gerais e São Paulo) foi o principal destino dos africanos escravizados, chegando por portos muitas vezes clandestinos. Alternativa <strong>B</strong>.</p><p>O tráfico foi proibido em 1850 (Lei Eusébio de Queirós), e a abolição veio em 1888 (A). Os EUA aboliram a escravidão em 1865 (C). A mão de obra predominante era africana (D). E a maioria vinha da África centro-ocidental, como Angola e Congo, não do Chifre da África (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tráfico de escravizados",
+    "café"
+   ]
+  },
+  {
+   "numero": 16,
+   "materia": "História",
+   "assunto": "América colonial",
+   "origem": {
+    "numeroOriginal": 16
+   },
+   "enunciado": "<p class=\"apoio\">O nome com que foi batizado o maior torneio entre clubes de futebol sul-americano homenageia o conjunto de líderes dos processos de independência dos países da América do Sul. Os principais “libertadores” foram Simón Bolívar e José de San Martín, que atuaram nos processos de independência de diversos países.</p><p class=\"fonte\">&lt;https://tinyurl.com/y72ma2xo&gt; Acesso em: 31.05.2018. Adaptado.</p><p>Sobre esses processos de independência, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Bolívar foi o responsável pela opção monarquista, adotada nas novas nações independentes.",
+    "B": "Venezuela, Bolívia e Panamá se tornaram, a partir do ideal dos libertadores, uma nação única.",
+    "C": "Bolívar fracassou em seu projeto de formação de uma grande nação pan-americana.",
+    "D": "Argentina, Paraguai e Uruguai se uniram ao Brasil para a criação de uma grande nação monarquista.",
+    "E": "San Martín ficou conhecido como “libertador” por seu papel na abolição da escravidão na Guatemala."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Bolívar sonhava unir as ex-colônias espanholas numa grande nação. Chegou a criar a Grã-Colômbia (Venezuela, Colômbia, Equador e Panamá), que se desfez em 1831, e o Congresso do Panamá (1826) não levou à união. Alternativa <strong>C</strong>.</p><p>Bolívar era republicano (A). Venezuela, Bolívia e Panamá são países distintos (B). Os países do Prata não se uniram ao Brasil (D). E San Martín atuou na Argentina, no Chile e no Peru, não na Guatemala (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "independências",
+    "Bolívar"
+   ]
+  },
+  {
+   "numero": 17,
+   "materia": "História",
+   "assunto": "Ditadura militar",
+   "origem": {
+    "numeroOriginal": 17
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto e considere a charge do cartunista Henfil para responder às questões 17 e 18.</p><p class=\"apoio\">Em outubro de 2018, a Constituição brasileira completou trinta anos.</p><p class=\"apoio\">Promulgado após quase dois anos de trabalho, o texto que lançava as bases para a nova legislação máxima do país foi resultado do grande envolvimento da sociedade – que enviou cartas, organizou-se em movimentos sociais e realizou eventos – e dos parlamentares eleitos após o término do regime militar.</p><p class=\"apoio\">As demandas da população foram consideradas para a construção de uma Constituição que ampliou direitos e liberdades, o que contribuiu para que ela fosse chamada de “Cidadã”.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ya42xtrr&gt; Acesso em: 30.05.2018.</p><p>A Constituição Federal de 1988 revogou a de 1967 que, ao lado dos Atos Institucionais, serviu de base legal para as ações do regime militar.</p><p>O primeiro Ato, assinado dias após o início do regime, em 1964</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q17.webp",
+     "alt": "Charge de Henfil: a bandeira do Brasil, desenhada no chão, cercada de tocos de árvores cortadas. Muitos homenzinhos trabalham sobre ela: uns sobem uma escada até o círculo central, onde está escrito “Constituinte” na faixa, outros repintam e reconstroem as bordas, empurram carrinhos e plantam árvores."
+    }
+   ],
+   "alternativas": {
+    "A": "anistiou presos e exilados políticos e instituiu eleições indiretas para governador.",
+    "B": "impediu a concessão de <em>habeas corpus</em> a presos políticos e fechou o Congresso Nacional.",
+    "C": "permitiu a suspensão de direitos políticos e instituiu eleições indiretas para presidente da República.",
+    "D": "instituiu o bipartidarismo e a eleição direta para prefeitos das capitais estaduais.",
+    "E": "decretou estado de sítio e legalizou a tortura de presos políticos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O AI-1 (abril de 1964) permitiu cassar mandatos e suspender direitos políticos e estabeleceu a eleição indireta do presidente pelo Congresso. Alternativa <strong>C</strong>.</p><p>A anistia veio em 1979 (A). O fim do <em>habeas corpus</em> para crimes políticos e o fechamento do Congresso vieram com o AI-5, de 1968 (B). O bipartidarismo veio com o AI-2, de 1965, e as eleições para prefeitos das capitais ficaram indiretas (D). E a tortura nunca foi legalizada (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Atos Institucionais"
+   ]
+  },
+  {
+   "numero": 18,
+   "materia": "História",
+   "assunto": "Brasil República",
+   "origem": {
+    "numeroOriginal": 18
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto e considere a charge do cartunista Henfil para responder às questões 17 e 18.</p><p class=\"apoio\">Em outubro de 2018, a Constituição brasileira completou trinta anos.</p><p class=\"apoio\">Promulgado após quase dois anos de trabalho, o texto que lançava as bases para a nova legislação máxima do país foi resultado do grande envolvimento da sociedade – que enviou cartas, organizou-se em movimentos sociais e realizou eventos – e dos parlamentares eleitos após o término do regime militar.</p><p class=\"apoio\">As demandas da população foram consideradas para a construção de uma Constituição que ampliou direitos e liberdades, o que contribuiu para que ela fosse chamada de “Cidadã”.</p>[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ya42xtrr&gt; Acesso em: 30.05.2018.</p><p>A Assembleia Nacional Constituinte de 1987–1988, que elaborou as novas leis do Brasil, foi representada por Henfil, na charge, como</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q17.webp",
+     "alt": "Charge de Henfil: a bandeira do Brasil, desenhada no chão, cercada de tocos de árvores cortadas. Muitos homenzinhos trabalham sobre ela: uns sobem uma escada até o círculo central, onde está escrito “Constituinte” na faixa, outros repintam e reconstroem as bordas, empurram carrinhos e plantam árvores."
+    }
+   ],
+   "alternativas": {
+    "A": "a retomada da consciência de proteção ambiental, que existia nas Constituições anteriores e que foi deixada de lado durante o regime militar.",
+    "B": "a reelaboração dos símbolos nacionais, como a bandeira, cujas cores foram alteradas para remeter às riquezas naturais.",
+    "C": "o ressurgimento dos estados, que voltaram a ter governadores e não interventores federais escolhidos pelo presidente.",
+    "D": "a reconstrução do país por sua população, após um período autoritário que deixou marcas negativas.",
+    "E": "o resultado do trabalho científico e racional, representado pelos intelectuais que elaboraram o novo texto."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na charge, o povo trabalha para reconstruir a bandeira, cercada de tocos de árvores, enquanto outros sobem até a faixa “Constituinte”. É a <strong>reconstrução do país pela população</strong> depois do regime militar. Alternativa <strong>D</strong>.</p><p>A charge não trata de proteção ambiental nas constituições anteriores (A), nem da mudança da bandeira (B) ou dos governadores (C). E quem trabalha é o povo, não intelectuais (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Constituição de 1988",
+    "charge"
+   ]
+  },
+  {
+   "numero": 19,
+   "materia": "História",
+   "assunto": "História contemporânea",
+   "origem": {
+    "numeroOriginal": 19
+   },
+   "enunciado": "<p class=\"apoio\">As condições ideais para o triunfo do nazifascismo foram um Estado com os seus mecanismos dirigentes não mais funcionando; uma massa de cidadãos desencantados, desorientados e descontentes, não mais sabendo a quem ser leais; a possibilidade de uma revolução social e movimentos socialistas fortes, mas que não estavam de fato em posição de realizá-la; e uma inclinação do ressentimento nacionalista contra os tratados de paz de 1918–1920. Sob essas condições, as velhas elites governantes sentiram-se tentadas a aliar-se aos ultrarradicais: os liberais italianos se aliaram aos fascistas de Mussolini e os alemães aos nazistas de Hitler.</p><p class=\"fonte\">HOBSBAWN, Eric. <em>Era dos Extremos: o breve século XX (1914-1991)</em>. 2ª ed. São Paulo: Companhia das Letras, 1995, p.130. Adaptado.</p><p>De acordo com o texto e com o contexto ao qual o autor se refere, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as economias europeias viveram um período de prosperidade após os tratados de paz que puseram fim à Primeira Guerra Mundial.",
+    "B": "os grupos ultranacionalistas nazistas e fascistas aliaram-se a socialistas e comunistas para governar Alemanha e Itália.",
+    "C": "a chamada “grande depressão” foi causada pelo descontentamento da sociedade com os grupos de ultradireita.",
+    "D": "o pleno funcionamento das instituições fortaleceu o nacionalismo alemão e contribuiu para a queda do nazismo.",
+    "E": "a Segunda Guerra Mundial e o holocausto estão entre as principais consequências do processo descrito."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A ascensão do nazismo e do fascismo levou à <strong>Segunda Guerra Mundial</strong> e ao <strong>Holocausto</strong>. Alternativa <strong>E</strong>.</p><p>Depois da Primeira Guerra houve crise, não prosperidade (A). Os nazifascistas se aliaram às elites liberais e perseguiram socialistas e comunistas (B). A Grande Depressão foi causada pela crise de 1929, e não pelo descontentamento com a ultradireita (C). E o texto fala de instituições que “não mais funcionavam” (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nazifascismo"
+   ]
+  },
+  {
+   "numero": 20,
+   "materia": "Química",
+   "assunto": "Substâncias e misturas",
+   "origem": {
+    "numeroOriginal": 20
+   },
+   "enunciado": "<p class=\"apoio\">A produção do aço ocorre nas usinas siderúrgicas em ____<strong>I</strong>____, e tem como principais matérias-primas minérios de ____<strong>II</strong>____ e ____<strong>III</strong>____.</p><p>Assinale a alternativa que completa, corretamente, o texto.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I: altos-fornos; II: ferro; III: carvão.",
+    "B": "I: altos-fornos; II: ferro; III: cobre.",
+    "C": "I: altos-fornos; II: cobre; III: zinco.",
+    "D": "I: cubas eletrolíticas; II: ferro; III: carvão.",
+    "E": "I: cubas eletrolíticas; II: cobre; III: zinco."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O aço é uma liga de ferro com pouco carbono, produzida em <strong>altos-fornos</strong> a partir do minério de <strong>ferro</strong> e do <strong>carvão</strong> (coque), que fornece calor e retira o oxigênio do minério. Alternativa <strong>A</strong>.</p><p>Cobre e zinco formam o latão, não o aço (B, C e E). E cubas eletrolíticas são usadas na produção do alumínio, por exemplo (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "siderurgia"
+   ]
+  },
+  {
+   "numero": 21,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 21
+   },
+   "enunciado": "<p>Hidrocarbonetos podem ser usados como combustível, por exemplo o gás but-1-eno.</p><p>Assinale a alternativa que apresenta a fórmula molecular e a quantidade mínima, em kg, de gás oxigênio necessária para a combustão completa de 5,6 kg desse combustível.</p><p class=\"apoio\">Massas Molares:<br>H = 1 g/mol<br>O = 16 g/mol<br>C = 12 g/mol</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Fórmula: C<sub>3</sub>H<sub>6</sub>; Massa (kg): 19,2.",
+    "B": "Fórmula: C<sub>4</sub>H<sub>8</sub>; Massa (kg): 19,2.",
+    "C": "Fórmula: C<sub>4</sub>H<sub>8</sub>; Massa (kg): 3,2.",
+    "D": "Fórmula: C<sub>3</sub>H<sub>6</sub>; Massa (kg): 3,2.",
+    "E": "Fórmula: C<sub>4</sub>H<sub>10</sub>; Massa (kg): 19,2."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O but-1-eno tem 4 carbonos (“but”) e uma dupla ligação (“eno”): <strong>C₄H₈</strong> (56 g/mol). A combustão é C₄H₈ + 6 O₂ → 4 CO₂ + 4 H₂O. 5,6 kg são 100 mol, que precisam de 600 mol de O₂ = 600 · 32 g = <strong>19,2 kg</strong>. Alternativa <strong>B</strong>.</p><p>C₃H₆ é o propeno, e C₄H₁₀, o butano (A, D e E). 3,2 kg corresponderia a apenas 1 mol de O₂ por mol de combustível (C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combustão"
+   ]
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Ácidos e bases",
+   "origem": {
+    "numeroOriginal": 22
+   },
+   "enunciado": "<p>A escala de pH que varia de 0 a 14 é válida apenas para sistemas aquosos a 25 °C. Variando-se a temperatura, a escala de pH também varia.</p><p>O quadro fornece valores de Kw e de pH da água pura em diferentes temperaturas.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Temperatura (°C)</th><th scope=\"col\">Kw</th><th scope=\"col\">pH</th></tr></thead><tbody><tr><td>0</td><td>1,14 × 10<sup>–15</sup></td><td>7,47</td></tr><tr><td>10</td><td>2,95 × 10<sup>–15</sup></td><td>7,27</td></tr><tr><td>20</td><td>1,00 × 10<sup>–14</sup></td><td>7,00</td></tr><tr><td>30</td><td>1,47 × 10<sup>–14</sup></td><td>6,83</td></tr><tr><td>50</td><td>5,30 × 10<sup>–14</sup></td><td>6,27</td></tr></tbody></table></div><p>Analisando-se os dados, pode-se afirmar, corretamente, que a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "concentração de íons OH<sup>–</sup>(aq) na água pura diminui com o aumento de temperatura.",
+    "B": "concentração de íons H<sup>+</sup>(aq) na água pura diminui com o aumento de temperatura.",
+    "C": "água pura é ácida em temperaturas superiores a 25 °C.",
+    "D": "água pura é ácida em temperaturas inferiores a 25 °C.",
+    "E": "água pura é neutra em qualquer temperatura."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na água pura, [H⁺] = [OH⁻] em qualquer temperatura, porque cada molécula que se ioniza forma um H⁺ e um OH⁻. Por isso ela é sempre <strong>neutra</strong>, ainda que o pH de neutralidade mude com a temperatura. Alternativa <strong>E</strong>.</p><p>Kw aumenta com a temperatura, então [H⁺] e [OH⁻] aumentam (A e B). Um pH abaixo de 7 acima de 25 °C não significa acidez, porque [H⁺] continua igual a [OH⁻] (C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pH",
+    "Kw"
+   ]
+  },
+  {
+   "numero": 23,
+   "materia": "Química",
+   "assunto": "Substâncias e misturas",
+   "origem": {
+    "numeroOriginal": 23
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 23 e 24.</p><p class=\"apoio\">Em seu livro <em>Tratado Elementar de Química</em>, publicado em 1789, Antonie Lavoisier estabeleceu uma nova nomenclatura para diversas substâncias químicas. Alguns exemplos, extraídos desse livro, são dados no quadro.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Nome antigo</th><th scope=\"col\">Nome proposto por Lavoisier</th><th scope=\"col\">Nome atual</th></tr></thead><tbody><tr><td>ar vital</td><td>oxigênio</td><td>oxigênio</td></tr><tr><td>ar inflamável</td><td>hidrogênio</td><td>hidrogênio</td></tr><tr><td>ar fixo</td><td>ácido carbônico</td><td>dióxido de carbono</td></tr><tr><td>ácido vitriólico</td><td>ácido sulfúrico</td><td>ácido sulfúrico</td></tr><tr><td>vitríolo azul; vitríolo de cobre</td><td>sulfato de cobre</td><td>sulfato de cobre(II)</td></tr><tr><td>ácido marinho</td><td>ácido muriático</td><td>ácido clorídrico</td></tr><tr><td>sal marinho</td><td>muriato de soda</td><td>cloreto de sódio</td></tr><tr><td>soda aerada; soda efervescente</td><td>carbonato de soda</td><td>carbonato de sódio</td></tr></tbody></table></div><p>Examinando o quadro, identifique as duas substâncias simples nele presentes pelos seus nomes antigos.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ar vital e ar fixo",
+    "B": "ar vital e ar inflamável",
+    "C": "sal marinho e soda aerada",
+    "D": "ácido vitriólico e ácido muriático",
+    "E": "vitríolo azul e soda efervescente"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Substâncias simples são formadas por um só elemento. No quadro, só o oxigênio (O₂, “ar vital”) e o hidrogênio (H₂, “ar inflamável”). Alternativa <strong>B</strong>.</p><p>O “ar fixo” é o CO₂ (A). Sal marinho, soda aerada, os ácidos e o vitríolo azul são substâncias compostas (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "substâncias simples",
+    "nomenclatura"
+   ]
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Reações químicas",
+   "origem": {
+    "numeroOriginal": 24
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões 23 e 24.</p><p class=\"apoio\">Em seu livro <em>Tratado Elementar de Química</em>, publicado em 1789, Antonie Lavoisier estabeleceu uma nova nomenclatura para diversas substâncias químicas. Alguns exemplos, extraídos desse livro, são dados no quadro.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Nome antigo</th><th scope=\"col\">Nome proposto por Lavoisier</th><th scope=\"col\">Nome atual</th></tr></thead><tbody><tr><td>ar vital</td><td>oxigênio</td><td>oxigênio</td></tr><tr><td>ar inflamável</td><td>hidrogênio</td><td>hidrogênio</td></tr><tr><td>ar fixo</td><td>ácido carbônico</td><td>dióxido de carbono</td></tr><tr><td>ácido vitriólico</td><td>ácido sulfúrico</td><td>ácido sulfúrico</td></tr><tr><td>vitríolo azul; vitríolo de cobre</td><td>sulfato de cobre</td><td>sulfato de cobre(II)</td></tr><tr><td>ácido marinho</td><td>ácido muriático</td><td>ácido clorídrico</td></tr><tr><td>sal marinho</td><td>muriato de soda</td><td>cloreto de sódio</td></tr><tr><td>soda aerada; soda efervescente</td><td>carbonato de soda</td><td>carbonato de sódio</td></tr></tbody></table></div><p>A reação química que ocorre entre as substâncias denominadas por Lavoisier como carbonato de soda e ácido muriático é evidenciada pela formação rápida de um gás que é muito conhecido por ser um dos responsáveis pela intensificação do efeito estufa e por ser indispensável à realização da fotossíntese vegetal.</p><p>Esse gás é o que, antigamente, era chamado de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ácido vitriólico.",
+    "B": "vitríolo azul.",
+    "C": "sal marinho.",
+    "D": "ar inflamável.",
+    "E": "ar fixo."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Carbonato de sódio + ácido clorídrico → cloreto de sódio + água + <strong>CO₂</strong>. O gás estufa usado na fotossíntese é o dióxido de carbono, antigamente chamado de “ar fixo”. Alternativa <strong>E</strong>.</p><p>Ácido vitriólico é o ácido sulfúrico (A), vitríolo azul é o sulfato de cobre (B), sal marinho é o cloreto de sódio (C) e ar inflamável é o hidrogênio (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dióxido de carbono"
+   ]
+  },
+  {
+   "numero": 25,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 25
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>The Most Important Skill For 21st–Century Success</strong></p><p class=\"apoio\">By <u>Kevin H. Johnson</u></p>[[fig:1]]<p class=\"apoio\">The world of work is changing so rapidly, as emerging technologies like artificial intelligence, machine learning, and automation change job requirements. As technologies continue to evolve and business conditions shift, employees must stay in learning mode so their skills don’t lose currency.</p><p class=\"apoio\">It’s one thing to keep up with skills as they’re changing in the here and now. It’s a whole different challenge to prepare yourself for tools and technologies that may exist only in the minds of engineers, if at all.</p><p class=\"apoio\">There’s so much uncertainty and ambiguity around the future of work, it doesn’t matter your industry or job function. That’s why, when anyone asks what the next “hot” skill will be, I say it’s the same skill that will serve people today, tomorrow, and far into the future — the ability to learn.</p><p class=\"apoio\">When people embrace lifelong learning, assimilating new skills isn’t a source of fear and stress — it’s just another part of their career journey. Separating process from outcome will make you a better learner too, as you get less fixated on immediate mastery of a skill and more appreciative of how moving outside your comfort zone helps you grow as a person.</p><p class=\"apoio\">A learning mindset also makes it less likely you’ll be thrown off or immobilized when a project changes scope or a job function undergoes transformation. While others scramble to figure out where to go from here, lifelong learners maintain momentum and productivity.</p><p class=\"fonte\">&lt;https://tinyurl.com/ya42xtrr&gt; Acesso em: 15.03.2019. Adaptado. Original colorido.</p><p>Para o autor, devido à contínua evolução da tecnologia e às mudanças constantes no mundo do trabalho, os profissionais do século XXI precisam permanecer em modo de aprendizagem para</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q25.webp",
+     "alt": "Foto de uma jovem sorrindo, sentada diante de um notebook e de uma xícara de café. Na parede, desenhos em giz ligados por setas a um círculo central “your career” (sua carreira): “learn and research” (aprenda e pesquise), “think different” (pense diferente), “define career goals” (defina metas de carreira), “build professional relationships” (construa relações profissionais) e “be positive” (seja positivo)."
+    }
+   ],
+   "alternativas": {
+    "A": "automatizar suas habilidades.",
+    "B": "evitar o trabalho em <em>home office</em>.",
+    "C": "estratificar suas habilidades correntes.",
+    "D": "continuar imprescindíveis no mercado.",
+    "E": "compreender melhor o pensamento dos engenheiros."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O autor diz que os profissionais precisam continuar aprendendo “so their skills don’t lose currency” (para que suas habilidades não percam valor): para <strong>continuarem necessários</strong> no mercado. Alternativa <strong>D</strong>.</p><p>O texto não fala em automatizar habilidades (A), evitar o <em>home office</em> (B) nem estratificar habilidades (C). Os engenheiros são citados por imaginarem tecnologias futuras (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 26,
+   "materia": "Inglês",
+   "assunto": "Verbos",
+   "origem": {
+    "numeroOriginal": 26
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>The Most Important Skill For 21st–Century Success</strong></p><p class=\"apoio\">By <u>Kevin H. Johnson</u></p>[[fig:1]]<p class=\"apoio\">The world of work is changing so rapidly, as emerging technologies like artificial intelligence, machine learning, and automation change job requirements. As technologies continue to evolve and business conditions shift, employees must stay in learning mode so their skills don’t lose currency.</p><p class=\"apoio\">It’s one thing to keep up with skills as they’re changing in the here and now. It’s a whole different challenge to prepare yourself for tools and technologies that may exist only in the minds of engineers, if at all.</p><p class=\"apoio\">There’s so much uncertainty and ambiguity around the future of work, it doesn’t matter your industry or job function. That’s why, when anyone asks what the next “hot” skill will be, I say it’s the same skill that will serve people today, tomorrow, and far into the future — the ability to learn.</p><p class=\"apoio\">When people embrace lifelong learning, assimilating new skills isn’t a source of fear and stress — it’s just another part of their career journey. Separating process from outcome will make you a better learner too, as you get less fixated on immediate mastery of a skill and more appreciative of how moving outside your comfort zone helps you grow as a person.</p><p class=\"apoio\">A learning mindset also makes it less likely you’ll be thrown off or immobilized when a project changes scope or a job function undergoes transformation. While others scramble to figure out where to go from here, lifelong learners maintain momentum and productivity.</p><p class=\"fonte\">&lt;https://tinyurl.com/ya42xtrr&gt; Acesso em: 15.03.2019. Adaptado. Original colorido.</p><p>O verbo <em>may</em>, na oração do segundo parágrafo “<em>It’s a whole different challenge to prepare yourself for tools and technologies that may exist only in the minds of engineers, if at all</em>”, indica</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q25.webp",
+     "alt": "Foto de uma jovem sorrindo, sentada diante de um notebook e de uma xícara de café. Na parede, desenhos em giz ligados por setas a um círculo central “your career” (sua carreira): “learn and research” (aprenda e pesquise), “think different” (pense diferente), “define career goals” (defina metas de carreira), “build professional relationships” (construa relações profissionais) e “be positive” (seja positivo)."
+    }
+   ],
+   "alternativas": {
+    "A": "recomendação.",
+    "B": "probabilidade.",
+    "C": "habilidade.",
+    "D": "obrigação.",
+    "E": "conclusão."
+   },
+   "gabarito": "B",
+   "explicacao": "<p><em>May</em> indica possibilidade ou <strong>probabilidade</strong>: tecnologias que “talvez existam” só na cabeça dos engenheiros. Alternativa <strong>B</strong>.</p><p>Recomendação seria <em>should</em> (A), habilidade, <em>can</em> (C), obrigação, <em>must</em> (D), e conclusão, <em>therefore</em> (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "verbos modais"
+   ]
+  },
+  {
+   "numero": 27,
+   "materia": "Inglês",
+   "assunto": "Vocabulário",
+   "origem": {
+    "numeroOriginal": 27
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>The Most Important Skill For 21st–Century Success</strong></p><p class=\"apoio\">By <u>Kevin H. Johnson</u></p>[[fig:1]]<p class=\"apoio\">The world of work is changing so rapidly, as emerging technologies like artificial intelligence, machine learning, and automation change job requirements. As technologies continue to evolve and business conditions shift, employees must stay in learning mode so their skills don’t lose currency.</p><p class=\"apoio\">It’s one thing to keep up with skills as they’re changing in the here and now. It’s a whole different challenge to prepare yourself for tools and technologies that may exist only in the minds of engineers, if at all.</p><p class=\"apoio\">There’s so much uncertainty and ambiguity around the future of work, it doesn’t matter your industry or job function. That’s why, when anyone asks what the next “hot” skill will be, I say it’s the same skill that will serve people today, tomorrow, and far into the future — the ability to learn.</p><p class=\"apoio\">When people embrace lifelong learning, assimilating new skills isn’t a source of fear and stress — it’s just another part of their career journey. Separating process from outcome will make you a better learner too, as you get less fixated on immediate mastery of a skill and more appreciative of how moving outside your comfort zone helps you grow as a person.</p><p class=\"apoio\">A learning mindset also makes it less likely you’ll be thrown off or immobilized when a project changes scope or a job function undergoes transformation. While others scramble to figure out where to go from here, lifelong learners maintain momentum and productivity.</p><p class=\"fonte\">&lt;https://tinyurl.com/ya42xtrr&gt; Acesso em: 15.03.2019. Adaptado. Original colorido.</p><p>Na oração do terceiro parágrafo “<em>... when anyone asks what the next <u>‘hot’ skill</u> will be</em>”, entende-se a expressão grifada como</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q25.webp",
+     "alt": "Foto de uma jovem sorrindo, sentada diante de um notebook e de uma xícara de café. Na parede, desenhos em giz ligados por setas a um círculo central “your career” (sua carreira): “learn and research” (aprenda e pesquise), “think different” (pense diferente), “define career goals” (defina metas de carreira), “build professional relationships” (construa relações profissionais) e “be positive” (seja positivo)."
+    }
+   ],
+   "alternativas": {
+    "A": "experiência resultante de muito investimento em formação acadêmica.",
+    "B": "certificação capaz de abrir portas para a pesquisa.",
+    "C": "conhecimento das novas tecnologias.",
+    "D": "tendência de forte apelo emocional.",
+    "E": "habilidade inovadora e desejada."
+   },
+   "gabarito": "E",
+   "explicacao": "<p><em>Hot</em>, em sentido figurado, significa “em alta”, “muito procurado”. A <em>hot skill</em> é uma <strong>habilidade nova e desejada</strong> pelo mercado. Alternativa <strong>E</strong>.</p><p>A expressão não trata de formação acadêmica (A), certificação (B) ou apelo emocional (D). E o autor diz que a habilidade em alta é aprender, não conhecer tecnologias específicas (C).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 28,
+   "materia": "Inglês",
+   "assunto": "Vocabulário",
+   "origem": {
+    "numeroOriginal": 28
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>The Most Important Skill For 21st–Century Success</strong></p><p class=\"apoio\">By <u>Kevin H. Johnson</u></p>[[fig:1]]<p class=\"apoio\">The world of work is changing so rapidly, as emerging technologies like artificial intelligence, machine learning, and automation change job requirements. As technologies continue to evolve and business conditions shift, employees must stay in learning mode so their skills don’t lose currency.</p><p class=\"apoio\">It’s one thing to keep up with skills as they’re changing in the here and now. It’s a whole different challenge to prepare yourself for tools and technologies that may exist only in the minds of engineers, if at all.</p><p class=\"apoio\">There’s so much uncertainty and ambiguity around the future of work, it doesn’t matter your industry or job function. That’s why, when anyone asks what the next “hot” skill will be, I say it’s the same skill that will serve people today, tomorrow, and far into the future — the ability to learn.</p><p class=\"apoio\">When people embrace lifelong learning, assimilating new skills isn’t a source of fear and stress — it’s just another part of their career journey. Separating process from outcome will make you a better learner too, as you get less fixated on immediate mastery of a skill and more appreciative of how moving outside your comfort zone helps you grow as a person.</p><p class=\"apoio\">A learning mindset also makes it less likely you’ll be thrown off or immobilized when a project changes scope or a job function undergoes transformation. While others scramble to figure out where to go from here, lifelong learners maintain momentum and productivity.</p><p class=\"fonte\">&lt;https://tinyurl.com/ya42xtrr&gt; Acesso em: 15.03.2019. Adaptado. Original colorido.</p><p>No texto, a expressão <em>lifelong learning</em>, presente no quarto parágrafo do texto, significa a habilidade de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q25.webp",
+     "alt": "Foto de uma jovem sorrindo, sentada diante de um notebook e de uma xícara de café. Na parede, desenhos em giz ligados por setas a um círculo central “your career” (sua carreira): “learn and research” (aprenda e pesquise), “think different” (pense diferente), “define career goals” (defina metas de carreira), “build professional relationships” (construa relações profissionais) e “be positive” (seja positivo)."
+    }
+   ],
+   "alternativas": {
+    "A": "separar o processo do resultado.",
+    "B": "adaptar-se ao medo e ao estresse.",
+    "C": "aprender continuamente ao longo da vida.",
+    "D": "ter longevidade devido às novas tecnologias.",
+    "E": "fixar-se no domínio imediato de conhecimento."
+   },
+   "gabarito": "C",
+   "explicacao": "<p><em>Lifelong</em> significa “que dura a vida toda”, e <em>learning</em>, “aprendizagem”: <strong>aprender continuamente ao longo da vida</strong>. Alternativa <strong>C</strong>.</p><p>Separar processo e resultado é uma consequência citada (A). O texto diz que, para quem aprende sempre, aprender não é fonte de medo e estresse (B). Não fala de longevidade (D). E diz que é bom ficar menos fixado no domínio imediato (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 29,
+   "materia": "Inglês",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 29
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 25 a 29.</p><p class=\"apoio\"><strong>The Most Important Skill For 21st–Century Success</strong></p><p class=\"apoio\">By <u>Kevin H. Johnson</u></p>[[fig:1]]<p class=\"apoio\">The world of work is changing so rapidly, as emerging technologies like artificial intelligence, machine learning, and automation change job requirements. As technologies continue to evolve and business conditions shift, employees must stay in learning mode so their skills don’t lose currency.</p><p class=\"apoio\">It’s one thing to keep up with skills as they’re changing in the here and now. It’s a whole different challenge to prepare yourself for tools and technologies that may exist only in the minds of engineers, if at all.</p><p class=\"apoio\">There’s so much uncertainty and ambiguity around the future of work, it doesn’t matter your industry or job function. That’s why, when anyone asks what the next “hot” skill will be, I say it’s the same skill that will serve people today, tomorrow, and far into the future — the ability to learn.</p><p class=\"apoio\">When people embrace lifelong learning, assimilating new skills isn’t a source of fear and stress — it’s just another part of their career journey. Separating process from outcome will make you a better learner too, as you get less fixated on immediate mastery of a skill and more appreciative of how moving outside your comfort zone helps you grow as a person.</p><p class=\"apoio\">A learning mindset also makes it less likely you’ll be thrown off or immobilized when a project changes scope or a job function undergoes transformation. While others scramble to figure out where to go from here, lifelong learners maintain momentum and productivity.</p><p class=\"fonte\">&lt;https://tinyurl.com/ya42xtrr&gt; Acesso em: 15.03.2019. Adaptado. Original colorido.</p><p>Na oração “<em>A learning mindset also makes it less likely you’ll be thrown off or immobilized when a project changes scope or a job function undergoes transformation</em>”, presente no quinto parágrafo do texto, o autor afirma que as pessoas que têm disposição para aprender têm menor chance de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q25.webp",
+     "alt": "Foto de uma jovem sorrindo, sentada diante de um notebook e de uma xícara de café. Na parede, desenhos em giz ligados por setas a um círculo central “your career” (sua carreira): “learn and research” (aprenda e pesquise), “think different” (pense diferente), “define career goals” (defina metas de carreira), “build professional relationships” (construa relações profissionais) e “be positive” (seja positivo)."
+    }
+   ],
+   "alternativas": {
+    "A": "gostar de mudanças em suas funções.",
+    "B": "ter novos projetos e funções atribuídas.",
+    "C": "projetar mudanças no escopo de um projeto.",
+    "D": "aceitar transformações no escopo de um projeto.",
+    "E": "sair da equipe no caso de mudanças no escopo de um projeto."
+   },
+   "gabarito": "E",
+   "explicacao": "<p><em>Thrown off</em> é “ser tirado do rumo”, “ficar desnorteado”, e <em>immobilized</em>, “paralisado”. Quem tem disposição para aprender tem menos chance de ser afastado ou travado quando o projeto muda: de <strong>sair da equipe</strong>. Alternativa <strong>E</strong>.</p><p>A frase fala do que fica menos provável; gostar de mudanças, receber novas funções, projetar e aceitar transformações seriam mais prováveis, não menos (A, B, C e D).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Operações e problemas",
+   "origem": {
+    "numeroOriginal": 30
+   },
+   "enunciado": "<p>Um grupo de cinco amigos resolveu passar o final de semana em um hotel fazenda no interior do estado de São Paulo. Todos foram juntos no mesmo carro e decidiram dividir, igualmente, a despesa total da viagem entre os cinco participantes.</p><p class=\"apoio\">Dados da viagem de carro:<br>• a distância percorrida ida e volta foi de 432 km;<br>• o consumo de gasolina do veículo foi de 9 km/L;<br>• o preço da gasolina foi de R$ 4,50/L;<br>• o valor de cada pedágio foi de<br>&nbsp; &nbsp; P1: R$ 10,00<br>&nbsp; &nbsp; P2: R$ 2,50<br>&nbsp; &nbsp; P3: R$ 4,40<br>&nbsp; &nbsp; P4: R$ 2,70</p><p>Sabendo que todos os pedágios foram pagos na ida e na volta, cada amigo gastou em transporte, considerando apenas a gasolina e os pedágios, a quantia de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 43,20.",
+    "B": "R$ 45,24.",
+    "C": "R$ 47,12.",
+    "D": "R$ 51,04.",
+    "E": "R$ 53,08."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Gasolina: 432 ÷ 9 = 48 L · 4,50 = R$ 216,00. Pedágios: (10 + 2,50 + 4,40 + 2,70) · 2 = 19,60 · 2 = R$ 39,20. Total: R$ 255,20, dividido por 5: <strong>R$ 51,04</strong>. Alternativa <strong>D</strong>.</p><p>Só a gasolina daria R$ 43,20 (A). E contar os pedágios só na ida daria R$ 47,12 (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "despesas de viagem"
+   ]
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 31
+   },
+   "enunciado": "<p>De um paralelepípedo retorretângulo de 30 cm, 4 cm e 15 cm, é removido um semicilindro circular reto de altura 4 cm e base de diâmetro 20 cm, obtendo-se uma peça como mostra a figura.</p>[[fig:1]]<p class=\"apoio\">Adote π = 3.</p><p>Assim sendo, o volume da peça é, em centímetros cúbicos,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q31.webp",
+     "alt": "Bloco em forma de paralelepípedo de 30 cm de comprimento, 15 cm de altura e 4 cm de espessura, com um arco semicircular de 20 cm de diâmetro recortado na base, como um túnel."
+    }
+   ],
+   "alternativas": {
+    "A": "1 100.",
+    "B": "1 200.",
+    "C": "1 300.",
+    "D": "1 400.",
+    "E": "1 500."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Paralelepípedo: 30 · 15 · 4 = 1 800 cm³. Semicilindro de raio 10 cm e altura 4 cm: (π · 10² ÷ 2) · 4 = (3 · 100 ÷ 2) · 4 = 600 cm³. Peça: 1 800 − 600 = <strong>1 200 cm³</strong>. Alternativa <strong>B</strong>.</p><p>Tirar o cilindro inteiro daria 600 cm³, e esquecer de dividir por 2 o semicilindro leva a valores errados.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "cilindro"
+   ]
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 32
+   },
+   "enunciado": "<p>De uma caixa com 50 cartões numerados de 1 a 50, sorteia-se aleatoriamente um cartão. A probabilidade de que o número sorteado seja divisor de 30 é um valor</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "entre \\(\\tfrac{1}{7}\\) e \\(\\tfrac{1}{5}\\).",
+    "B": "igual a \\(\\tfrac{1}{5}\\).",
+    "C": "entre \\(\\tfrac{1}{5}\\) e \\(\\tfrac{1}{2}\\).",
+    "D": "igual a \\(\\tfrac{1}{2}\\).",
+    "E": "maior que \\(\\tfrac{1}{2}\\)."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os divisores de 30 são 1, 2, 3, 5, 6, 10, 15 e 30: 8 números. A probabilidade é 8 ÷ 50 = 0,16. Como 1/7 ≈ 0,143 e 1/5 = 0,2, ela fica <strong>entre 1/7 e 1/5</strong>. Alternativa <strong>A</strong>.</p><p>Os demais intervalos não contêm 0,16.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisores"
+   ]
+  },
+  {
+   "numero": 33,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 33
+   },
+   "enunciado": "<p>O Teorema de Stevin relaciona a pressão atmosférica e a pressão nos líquidos. Para um líquido homogêneo, em equilíbrio, cuja superfície está sob ação da pressão atmosférica, a pressão (P) exercida em um ponto submerso qualquer do líquido em relação à altura da coluna de líquido (h) é dada por uma função polinomial do 1º grau.</p><p>O gráfico apresenta a variação da pressão (P) em função da altura da coluna de líquido (h) em um tanque de combustível.</p>[[fig:1]]<p>Nessas condições, a pressão (P) exercida em um ponto desse líquido que se encontra a 4 m de profundidade é, em Pa,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q33.webp",
+     "alt": "Gráfico de P (× 10⁵ Pa) por h (m): uma reta que parte de 1,00 em h = 0 e chega a 1,75 em h = 10."
+    }
+   ],
+   "alternativas": {
+    "A": "1,3 × 10<sup>0</sup>",
+    "B": "1,6 × 10<sup>0</sup>",
+    "C": "1,3 × 10<sup>3</sup>",
+    "D": "1,3 × 10<sup>5</sup>",
+    "E": "1,6 × 10<sup>5</sup>"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A reta sobe 0,75 × 10⁵ Pa em 10 m, ou 0,075 × 10⁵ Pa por metro. A 4 m: P = 1,00 × 10⁵ + 4 · 0,075 × 10⁵ = 1,30 × 10⁵ Pa. Alternativa <strong>D</strong>.</p><p>Esquecer o fator 10⁵ do eixo dá A e C. E 1,6 × 10⁵ viria de calcular com 8 m (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Teorema de Stevin",
+    "função do 1º grau"
+   ]
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 34
+   },
+   "enunciado": "<p>Considere que será construída uma escada para vencer uma distância vertical de 126 cm. No projeto, todos os degraus têm as mesmas dimensões, conforme a figura 1. A figura 2 apresenta um esquema da escada.</p>[[fig:1]][[fig:2]]<p>Assim sendo, o comprimento horizontal da escada (x) é, em metros,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q34a.webp",
+     "alt": "Figura 1: perfil de degraus, cada um com 18 cm de altura (espelho) e 28 cm de profundidade (piso)."
+    },
+    {
+     "src": "assets/img/fatec-2019-2sem/q34b.webp",
+     "alt": "Figura 2: esquema da escada, de um patamar superior a um piso inferior, com desnível total de 126 cm; o comprimento horizontal x vai do primeiro degrau ao último."
+    }
+   ],
+   "alternativas": {
+    "A": "140.",
+    "B": "156.",
+    "C": "168.",
+    "D": "184.",
+    "E": "192."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Questão anulada. Se a unidade fosse centímetros: são 126 ÷ 18 = 7 espelhos. Pela figura 2, x vai do início do primeiro degrau até o último espelho, o que corresponde a 6 pisos: 6 · 28 = 168 cm, a alternativa C.</p><p>Contar 7 pisos daria 196 cm, que não está nas alternativas. E as demais opções não saem da conta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escada"
+   ],
+   "anulacao": {
+    "fonte": "analise",
+    "motivo": "O Centro Paula Souza anulou a questão no gabarito retificado sem publicar o motivo. Pela análise do Treineiros, o problema está na unidade: o enunciado pede o comprimento “em metros”, mas os valores das alternativas (140, 156, 168...) só fazem sentido em centímetros. Uma escada de 168 metros para subir 1,26 m é absurda, então nenhuma alternativa está correta como foi escrita."
+   }
+  },
+  {
+   "numero": 35,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 35
+   },
+   "enunciado": "<p>A linha 1 (Azul) do metrô de São Paulo foi inaugurada em setembro de 1974 e opera hoje com uma extensão aproximada de 21000 metros distribuídos por 23 estações, da estação Jabaquara à estação Tucuruvi. O tempo médio, para percorrer o trajeto entre as duas estações terminais citadas, é de, aproximadamente, 45 minutos.</p><p>Se um passageiro entra no vagão de um trem (metrô) na estação Jabaquara e desce apenas na estação Tucuruvi, podemos afirmar corretamente que a sua velocidade escalar média, em km/h, é, mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "20.",
+    "B": "30.",
+    "C": "40.",
+    "D": "50.",
+    "E": "60."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>21 000 m = 21 km em 45 min = 0,75 h: v = 21 ÷ 0,75 = 28 km/h, mais próximo de <strong>30</strong>. Alternativa <strong>B</strong>.</p><p>Usar 45 min como se fosse 1 h dá 21 km/h, perto de A. E as demais vêm de erros de conversão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "velocidade média"
+   ]
+  },
+  {
+   "numero": 36,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 36
+   },
+   "enunciado": "<p>Em uma aula de laboratório de calorimetria, um aluno da Fatec precisa determinar o calor específico de um material desconhecido de massa 1,0 kg. Para isso, ele usa, por 1 min, um forno elétrico que opera em 220 V e 10 A. Após decorrido esse tempo, ele observa uma variação de temperatura de 220 °C.</p><p>Considerando que o forno funciona de acordo com as características apresentadas, podemos afirmar que o calor específico determinado, em J/kg·K, foi de</p><p class=\"apoio\">Lembre que:<br>Q = m · c · ∆θ</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4,2 × 10<sup>3</sup>",
+    "B": "8,4 × 10<sup>2</sup>",
+    "C": "6,0 × 10<sup>2</sup>",
+    "D": "4,9 × 10<sup>2</sup>",
+    "E": "1,5 × 10<sup>2</sup>"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A potência do forno é P = U · i = 220 · 10 = 2 200 W. Em 60 s: Q = 2 200 · 60 = 132 000 J. Então c = Q ÷ (m · ∆θ) = 132 000 ÷ (1 · 220) = <strong>600 J/kg·K</strong> (uma variação de 220 °C equivale a 220 K). Alternativa <strong>C</strong>.</p><p>4,2 × 10³ é o calor específico da água (A). E os outros valores vêm de usar o tempo em minutos ou de errar a potência.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "calor específico",
+    "potência elétrica"
+   ]
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Óptica",
+   "origem": {
+    "numeroOriginal": 37
+   },
+   "enunciado": "<p>Um professor do curso de Materiais da Fatec apresentou aos alunos a seguinte citação:</p><p class=\"apoio\">“As fibras ópticas podem ser usadas para guiar a luz ao longo de um determinado caminho. A ideia é fazer um raio de luz percorrer uma fibra transparente, ricocheteando entre as suas paredes. Desde que o ângulo de incidência do raio na parede da fibra seja sempre maior que o ângulo crítico, o raio permanecerá sempre dentro dela mesmo que ela esteja curva”.</p><p class=\"fonte\">KIRK, Tim. <em>Physics for the IB Diploma</em>. Oxford University Press, 2003. Livre tradução.</p><p>Em seguida, pediu para que os alunos respondessem, de maneira assertiva, à qual conceito físico a citação se refere.</p><p>A resposta correta esperada pelo professor é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "difração.",
+    "B": "polarização.",
+    "C": "ângulo limite.",
+    "D": "espalhamento.",
+    "E": "dispersão luminosa."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A fibra óptica funciona por reflexão total: quando o ângulo de incidência é maior que o <strong>ângulo limite</strong> (ou crítico), a luz não sai da fibra e é totalmente refletida. Alternativa <strong>C</strong>.</p><p>Difração é a luz contornando obstáculos (A), polarização é a orientação da vibração da onda (B), espalhamento é o desvio por partículas (D), e dispersão é a separação das cores (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "reflexão total",
+    "fibra óptica"
+   ]
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 38
+   },
+   "enunciado": "<p>Para explicar o efeito Doppler, um professor do curso de Mecânica brinca com o uso de personagens de um desenho animado. Ele projeta uma figura do carro de Fred Flintstone no episódio em que ele e Barney Rubble eram policiais. A figura mostra a representação do carro visto de cima se deslocando para a direita com velocidade constante em módulo.</p><p>Na figura ainda, ele representa, em outra perspectiva, as personagens Betty Rubble e Wilma Flintstone. Os círculos representam as frentes de ondas sonoras de “YABBA DABBA DOO” emitidas pela sirene.</p>[[fig:1]]<p>Considere que as observadoras Betty Rubble e Wilma Flintstone estejam em repouso na posição apresentada na figura.</p><p>Em relação ao som emitido do carro de Fred e Barney, é correto afirmar que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q38.webp",
+     "alt": "Vista de cima do carro com uma sirene, rodeado por círculos de frentes de onda que não são concêntricos: estão mais juntos à direita, para onde o carro se move, e mais espaçados à esquerda. Betty Rubble está à esquerda, atrás do carro, e Wilma Flintstone à direita, à frente dele."
+    }
+   ],
+   "alternativas": {
+    "A": "Wilma o escutará com uma frequência menor que a de Betty.",
+    "B": "Wilma o escutará com uma frequência maior que a de Betty.",
+    "C": "Betty o escutará mais intenso que Wilma.",
+    "D": "Betty o escutará mais agudo que Wilma.",
+    "E": "Betty o escutará mais alto que Wilma."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O carro vai para a direita, aproximando-se de Wilma: as frentes de onda chegam mais juntas a ela, e Wilma ouve uma <strong>frequência maior</strong> (som mais agudo) que Betty, de quem o carro se afasta. Alternativa <strong>B</strong>.</p><p>Wilma ouve frequência maior, não menor (A), e Betty ouve o som mais grave (D). O efeito Doppler muda a frequência, não a intensidade (C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "efeito Doppler"
+   ]
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Magnetismo",
+   "origem": {
+    "numeroOriginal": 39
+   },
+   "enunciado": "<p>Dois fios condutores idênticos, paralelos entre si, e de comprimento infinito são percorridos simultaneamente por correntes elétricas de mesmo sentido e de mesma intensidade. Considere que eles estejam dispostos perpendiculares ao plano do papel desta prova.</p><p>Nessas condições, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "geram campos magnéticos perpendiculares ao plano do papel.",
+    "B": "geram campos magnéticos circulares ao plano do papel.",
+    "C": "geram campos magnéticos repulsivos entre si.",
+    "D": "sofrem entre si uma força de repulsão.",
+    "E": "sofrem entre si uma força de atração."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Fios paralelos com correntes de <strong>mesmo sentido se atraem</strong>; com sentidos opostos, se repelem. Alternativa <strong>E</strong>.</p><p>Com os fios perpendiculares ao papel, os campos são circulares e ficam no plano do papel, não perpendiculares a ele (A e B). Campos não são “repulsivos” (C). E a força é de atração, não de repulsão (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "força entre fios paralelos"
+   ]
+  },
+  {
+   "numero": 40,
+   "materia": "Geografia",
+   "assunto": "Biomas brasileiros",
+   "origem": {
+    "numeroOriginal": 40
+   },
+   "enunciado": "<p class=\"apoio\">Com uma área de cerca de 250 mil km², tem-se um bioma que se estende pela Bolívia, Paraguai e Brasil, sendo aproximadamente 62% no Brasil. Inserido na parte central da bacia hidrográfica do Alto Paraguai, é influenciado pelo rio Paraguai e por seus vários afluentes que alagam a região, formando extensas áreas alagadiças.</p><p class=\"apoio\">É caracterizado pela alternância entre períodos de muita chuva, que acontecem de outubro a março, e períodos de seca entre os meses de abril e setembro. Seu relevo é plano, levemente ondulado, com alguns raros morros isolados e com muitas depressões rasas. As altitudes não ultrapassam 200 metros acima do nível do mar e a declividade é quase nula.</p><p class=\"fonte\">&lt;https://tinyurl.com/y23jnyg9&gt; Acesso em: 16.06.2019. Adaptado.</p><p>Essa descrição caracteriza corretamente o bioma</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Amazônia.",
+    "B": "Cerrado.",
+    "C": "Caatinga.",
+    "D": "Pampa.",
+    "E": "Pantanal."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Planície alagável na bacia do Alto Paraguai, dividida entre Brasil, Bolívia e Paraguai, com cheias e secas alternadas e altitudes abaixo de 200 m: é o <strong>Pantanal</strong>. Alternativa <strong>E</strong>.</p><p>A Amazônia, o Cerrado, a Caatinga e o Pampa não ficam na bacia do Alto Paraguai nem têm esse regime de cheias (A, B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Pantanal"
+   ]
+  },
+  {
+   "numero": 41,
+   "materia": "Geografia",
+   "assunto": "Globalização",
+   "origem": {
+    "numeroOriginal": 41
+   },
+   "enunciado": "<p>O Brasil é um dos maiores exportadores de <em>commodities</em> do mundo.</p><p>Chamamos de <em>commodities</em> produtos de base</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "primária, principalmente pesqueira e do setor têxtil.",
+    "B": "primária, principalmente agrícola e de extração mineral.",
+    "C": "secundária, principalmente industrial e eletroeletrônica.",
+    "D": "secundária, principalmente siderúrgica e metalúrgica.",
+    "E": "terciária, principalmente bancária e de produtos hospitalares."
+   },
+   "gabarito": "B",
+   "explicacao": "<p><em>Commodities</em> são produtos primários, padronizados e negociados em grande escala no mercado mundial, como soja, café, minério de ferro e petróleo: produtos de base <strong>agrícola e de extração mineral</strong>. Alternativa <strong>B</strong>.</p><p>Pesca e têxteis não são as principais (A). Produtos industriais e serviços não são <em>commodities</em> nesse sentido (C, D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "commodities"
+   ]
+  },
+  {
+   "numero": 42,
+   "materia": "Geografia",
+   "assunto": "Fontes de energia",
+   "origem": {
+    "numeroOriginal": 42
+   },
+   "enunciado": "<p>O carvão mineral é a segunda fonte de energia mais usada no planeta, representando mais de 30% do consumo energético mundial.</p><p>Sobre essa fonte de energia, podemos afirmar corretamente que é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "conseguida a partir da destilação do petróleo e do gás liquefeito.",
+    "B": "considerada limpa, pois é transformada por meio de fissão nuclear.",
+    "C": "obtida pela queima de troncos e de galhos de árvores extraídas de áreas tropicais.",
+    "D": "de origem metamórfica, cuja formação se iniciou há milhões de anos a partir do soterramento de materiais inorgânicos.",
+    "E": "de origem sedimentar, pois é uma rocha resultante de um processo de milhões de anos, quando formações florestais foram soterradas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O carvão mineral é uma rocha <strong>sedimentar</strong> formada ao longo de milhões de anos a partir de restos de florestas soterradas, sob pressão e calor. Alternativa <strong>E</strong>.</p><p>Não vem do petróleo (A), não é obtido por fissão nuclear nem é limpo (B), e a queima de madeira produz carvão vegetal (C). A origem é orgânica, não inorgânica (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "carvão mineral"
+   ]
+  },
+  {
+   "numero": 43,
+   "materia": "História",
+   "assunto": "Brasil Império",
+   "origem": {
+    "numeroOriginal": 43
+   },
+   "enunciado": "<p>Poucos anos após a Independência do Brasil, o Império brasileiro estimulou a vinda de famílias europeias para o sul do país, principalmente para áreas onde hoje se situam os estados do Rio Grande do Sul e de Santa Catarina.</p><p>As famílias de imigrantes, que foram enviadas para o sul do país, no contexto citado, foram assentadas em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "colônias adquiridas por cooperativas agrícolas estrangeiras, para introduzir a cultura do algodão, em sistema de colonato.",
+    "B": "pequenas propriedades doadas pelo governo, para garantir a soberania nacional em um território pouco povoado.",
+    "C": "grandes latifúndios controlados pela elite estrangeira, para trabalhar nas lavouras de café destinadas à exportação.",
+    "D": "minifúndios monocultores de cana-de-açúcar, para substituir a mão de obra de pessoas escravizadas.",
+    "E": "sesmarias controladas pelo governo imperial, para atuar na implantação da cultura da soja no Brasil."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No Primeiro Reinado e na Regência, o governo trouxe colonos alemães e depois italianos para o Sul e lhes deu <strong>pequenas propriedades</strong>, para povoar uma região de fronteira e garantir o território. Alternativa <strong>B</strong>.</p><p>O sistema de colonato e os latifúndios de café são de São Paulo, no fim do século XIX (A e C). O Sul não era região de cana (D). E a soja só se expandiu no século XX (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "imigração europeia"
+   ]
+  },
+  {
+   "numero": 44,
+   "materia": "História",
+   "assunto": "História contemporânea",
+   "origem": {
+    "numeroOriginal": 44
+   },
+   "enunciado": "<p>No final da década de 1940, a Alemanha foi dividida em duas: a República Federal Alemã (RFA), ou Alemanha Ocidental, capitalista; e a República Democrática Alemã (RDA), ou Alemanha Oriental, socialista. No início dos anos 1960, a cidade de Berlim, na Alemanha, foi dividida por um muro.</p><p>A construção desse muro</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aumentou as disputas geopolíticas, econômicas e militares entre a França e o Reino Unido, principais adversários durante a Guerra Fria.",
+    "B": "dividiu a Europa em dois blocos distintos: a Europa do Leste, aliada dos Estados Unidos; e a Europa do Oeste, aliada da União Soviética.",
+    "C": "separou fisicamente as Alemanhas e foi construído para impedir o contrabando de livros e de armamentos entre os lados Ocidental e Oriental.",
+    "D": "reforçou a divisão da cidade de Berlim em dois lados distintos e tinha a intenção de coibir a fuga de alemães orientais para a Alemanha Ocidental.",
+    "E": "inviabilizou o governo nazista, até então presente na Alemanha Oriental, obrigando seus líderes a pedirem asilo político na Alemanha Ocidental."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O Muro de Berlim (1961) separou Berlim Oriental da Ocidental e foi erguido pela Alemanha Oriental para impedir a fuga de sua população para o lado ocidental. Alternativa <strong>D</strong>.</p><p>Os adversários da Guerra Fria eram EUA e URSS (A). A Europa do Leste era aliada da URSS, e a do Oeste, dos EUA (B). O objetivo não era o contrabando (C). E o nazismo já tinha acabado em 1945 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Muro de Berlim",
+    "Guerra Fria"
+   ]
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 45
+   },
+   "enunciado": "<p>No heredograma, os símbolos preenchidos representam pessoas afetadas por uma doença hereditária. Os homens são representados pelos quadrados e as mulheres, pelos círculos.</p>[[fig:1]]<p>O padrão de herança observado por essa doença é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q45.webp",
+     "alt": "Heredograma em três gerações. Geração I: homem afetado (1) e mulher afetada (2). Geração II, filhos do casal: mulher normal (2), casada com homem normal (1); homem afetado (3); mulher afetada (4), casada com homem normal (5). Geração III: filho normal (1) do casal II-1 e II-2; duas filhas normais (2 e 3) do casal II-4 e II-5."
+    }
+   ],
+   "alternativas": {
+    "A": "recessivo autossômico, porque pais (II–4 e II–5) tiveram filhas normais.",
+    "B": "recessivo ligado ao cromossomo X, porque a filha (II–2) do homem afetado (I–1) não é afetada.",
+    "C": "recessivo ligado ao cromossomo Y, pois a doença se manifesta apenas nos indivíduos do sexo masculino.",
+    "D": "dominante autossômica, porque os pais afetados (I–1 e I–2) tiveram uma filha normal (II–2).",
+    "E": "dominante ligado ao cromossomo X, pois todas as filhas de homens afetados também apresentam a doença."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os pais I-1 e I-2 são afetados e têm uma filha normal (II-2). Se a doença fosse recessiva, pais afetados (aa) só teriam filhos afetados. Logo, ela é dominante e os pais são heterozigotos (Aa). Como a filha de um homem afetado é normal, ela não está no cromossomo X: é <strong>dominante autossômica</strong>. Alternativa <strong>D</strong>.</p><p>Pais afetados com filha normal descartam a herança recessiva (A e B). Há mulheres afetadas, o que descarta o cromossomo Y (C). E, se fosse dominante ligada ao X, a filha II-2 do homem afetado I-1 seria afetada (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "heredograma"
+   ]
+  },
+  {
+   "numero": 46,
+   "materia": "Biologia",
+   "assunto": "Doenças e saúde",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p class=\"apoio\">A leishmaniose é uma doença não contagiosa, causada por parasitas, que são transmitidos por vetores hematófagos, conhecidos por mosquito-palha ou birigui. O vetor se contamina com o sangue de pessoas e de animais doentes, principalmente cães, e transmite o parasita às pessoas e animais sadios.</p><p class=\"apoio\">Existem dois tipos de leishmaniose, a tegumentar (conhecida como úlcera de bauru) e a visceral (conhecida como calazar), capazes de causar sérios danos às pessoas afetadas.</p><p class=\"apoio\">A leishmaniose tegumentar caracteriza-se por feridas na pele e nas mucosas das vias aéreas superiores.</p><p class=\"apoio\">A leishmaniose visceral é uma doença sistêmica, pois acomete vários órgãos internos, principalmente o fígado, o baço e a medula óssea.</p><p class=\"apoio\">Atualmente, existem cerca de 12 milhões de pessoas infectadas por leishmaniose em 88 países. Um deles é o Brasil, o mais afetado ao lado da Índia, Etiópia e Sudão. A doença está entre as mais negligenciadas no mundo, de acordo com a Organização Mundial de Saúde (OMS), atingindo em sua maioria, as populações mais pobres.</p><p class=\"fonte\">&lt;https://tinyurl.com/y3elt26u&gt; Acesso em: 17.06.2019. Adaptado.</p><p>Em relação a essa doença, é correto que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pode apresentar, em alguns casos, picos de febre alta, entre 39 <sup>o</sup>C e 40 <sup>o</sup>C, que coincidem com a ruptura de órgãos afetados e a consequente liberação de novos vírus no sangue.",
+    "B": "pode ser prevenida evitando a proliferação dos transmissores, usando mosquiteiros ao redor das camas e telas nas portas e janelas.",
+    "C": "é causada por bactérias que atacam células do sangue (hemácias) e órgãos, como o fígado, o baço e a medula vermelha dos ossos.",
+    "D": "é transmitida pela ingestão de água e alimentos contaminados com cistos dos agentes etiológicos.",
+    "E": "caracteriza-se por ser uma doença infecciosa causada por protozoários do gênero <em>Trypanosoma.</em>"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A leishmaniose é transmitida pela picada do mosquito-palha. Evitar a proliferação do vetor e usar mosquiteiros e telas impedem a picada e previnem a doença. Alternativa <strong>B</strong>.</p><p>O agente é um protozoário (<em>Leishmania</em>), não vírus nem bactéria (A e C), e a ruptura de células com febre periódica é típica da malária (A). Não se transmite por água ou alimentos (D). E o <em>Trypanosoma</em> causa a doença de Chagas (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leishmaniose"
+   ]
+  },
+  {
+   "numero": 47,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p>O “leite” do mamão verde contém uma enzima, a papaína, que catalisa a hidrólise de proteínas.</p><p>Por essa razão, esse “leite” pode ser utilizado para</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "acentuar a cor de vegetais.",
+    "B": "cozinhar macarrão.",
+    "C": "temperar saladas.",
+    "D": "preparar bolos.",
+    "E": "amaciar carne."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A papaína quebra proteínas. Como a carne é rica em proteínas, o “leite” do mamão é usado para <strong>amaciar a carne</strong>. Alternativa <strong>E</strong>.</p><p>Acentuar cores, cozinhar macarrão, temperar saladas e fazer bolos não dependem da quebra de proteínas (A, B, C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "enzimas"
+   ]
+  },
+  {
+   "numero": 48,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>Quando analisamos as paredes abertas de um coração humano, observamos que a cavidade cardíaca apresenta septos. São esses septos que dividem o coração em quatro câmaras. Um desses septos, o interventricular, representa um septo sagital que divide a porção inferior do coração em duas câmaras, ou seja, dois ventrículos (direito e esquerdo). No entanto, em alguns casos, crianças podem nascer com um defeito no coração denominado comunicação interventricular, ou seja, uma abertura no septo interventricular, que permite a comunicação entre os dois ventrículos.</p><p>A consequência imediata que esse defeito trará para a circulação sanguínea da criança será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o bloqueio das vias respiratórias superiores, impedindo a passagem do ar para a traqueia.",
+    "B": "a mistura dos sangues arterial e venoso, prejudicando a oxigenação dos tecidos.",
+    "C": "a ausência total da oxigenação do sangue nos alvéolos pulmonares.",
+    "D": "o coração não receber mais sangue arterial dos pulmões.",
+    "E": "a produção excessiva de muco nas vias respiratórias."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O ventrículo esquerdo recebe sangue arterial (rico em O₂), e o direito, sangue venoso. Uma abertura entre eles <strong>mistura os dois sangues</strong>, e o corpo recebe sangue menos oxigenado. Alternativa <strong>B</strong>.</p><p>O defeito é no coração, não nas vias respiratórias (A e E). O sangue ainda é oxigenado nos pulmões (C). E o coração continua recebendo sangue dos pulmões (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coração",
+    "circulação"
+   ]
+  },
+  {
+   "numero": 49,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>Em uma região de mata, foi observada uma cadeia alimentar formada por gafanhotos que se alimentam de plantas e servem de alimento para passarinhos, que, por sua vez, são predados por gaviões.</p><p>Sobre essa cadeia alimentar, assinale a alternativa correta.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Os passarinhos pertencem ao nível trófico dos consumidores primários, pois se alimentam dos gafanhotos.",
+    "B": "O aumento da população de gaviões, nessa região, acarretará a consequente redução populacional das plantas.",
+    "C": "Os gafanhotos atuam na fixação do gás nitrogênio da atmosfera, transformando-o em nitratos aproveitados pelos vegetais.",
+    "D": "A diminuição da população de passarinhos, nessa região, acarretará a consequente redução populacional dos gafanhotos.",
+    "E": "As bactérias atuam como decompositores dos gafanhotos, transformando a matéria orgânica morta em carboidratos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Mais gaviões comem mais passarinhos. Com menos passarinhos, os gafanhotos aumentam e comem mais plantas, que diminuem. Alternativa <strong>B</strong>.</p><p>Os passarinhos comem gafanhotos, consumidores primários, então são consumidores secundários (A). Quem fixa nitrogênio são bactérias, não gafanhotos (C). Menos passarinhos significa <em>mais</em> gafanhotos (D). E os decompositores transformam a matéria orgânica em substâncias minerais, não em carboidratos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cadeia alimentar"
+   ]
+  },
+  {
+   "numero": 50,
+   "materia": "Português",
+   "assunto": "Gêneros textuais",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">&lt;https://tinyurl.com/ya42xtrr&gt; Acesso em: 20.06.2019. Original colorido.</p><p>Ao analisar o cartum, conclui-se corretamente que</p>",
+   "imagens": [
+    {
+     "src": "assets/img/fatec-2019-2sem/q50.webp",
+     "alt": "Cartum com o título “Como era o meu país em 2019” e o subtítulo “Nessa época, a tecnologia aproximava as pessoas.” No primeiro quadro, uma jovem sorridente diz: “Graças ao WhatsApp, eu troco mensagens com a minha mãe o dia inteiro.” No segundo, de braços abertos, completa: “De forma que ela nem reclama que eu estou há sete meses sem visitá-la.”"
+    }
+   ],
+   "alternativas": {
+    "A": "as falas da personagem são incoerentes com a contextualização temporal exposta no título, pois o uso das tecnologias apontadas se desenvolveu posteriormente.",
+    "B": "a ironia presente no texto decorre da oposição entre a afirmação “a tecnologia aproximava as pessoas” e a oração “...estou há sete meses sem visitá-la”.",
+    "C": "a personagem se dirige ao seu próprio eu no futuro, sugerindo-lhe que usasse mais as redes sociais para se aproximar de sua família.",
+    "D": "o humor é construído a partir da constatação de proximidade real e exagerada entre mãe e filha, iniciada pelo uso das redes sociais.",
+    "E": "a crítica social existente no texto aborda a busca da felicidade por meio do consumo de bens pouco valorizados socialmente."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O título diz que “a tecnologia aproximava as pessoas”, mas a moça conta que, por conversar com a mãe pelo WhatsApp, está há sete meses sem visitá-la. A ironia está nessa <strong>oposição</strong>: a tecnologia afasta em vez de aproximar. Alternativa <strong>B</strong>.</p><p>O WhatsApp já existia em 2019 (A). A moça não fala com o seu eu do futuro (C). A proximidade é virtual, não real (D). E o cartum não trata de consumo (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cartum",
+    "ironia"
+   ]
+  },
+  {
+   "numero": 51,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 51 a 54.</p><p class=\"apoio\"><strong>Empresa transforma seu laptop escolar em ‘e-book’</strong></p><p class=\"apoio\">Os fabricantes de produtos eletrônicos deram mais um passo na evolução do mercado dos laptops escolares. Uma empresa americana apresentou um protótipo da nova versão de seu <em>Classmate</em>, um computador portátil criado especialmente para uso em sala de aula. O jornal <em>Valor Econômico</em> teve acesso com exclusividade ao equipamento, que começará a chegar ao mercado no segundo trimestre de 2010.</p><p class=\"apoio\">A bateria do equipamento, que na versão atual dura no máximo seis horas, foi estendida para até oito horas e meia. A principal novidade, no entanto, é a capacidade de converter o equipamento em um suporte diferenciado de livros digitais. O aluno pode girar a tela e, com a ponta do dedo, “folhear” as páginas do livro; pode também fazer anotações usando uma caneta acoplada ao computador. Um software de colaboração permite que os estudantes compartilhem, instantaneamente, os arquivos e o conteúdo mostrados na tela.</p><p class=\"apoio\">Enquanto olha para licitações públicas, a empresa também corre para fechar acordo com fabricantes e redes varejistas, que deverão colocar os novos laptops da empresa nas prateleiras nos próximos meses.</p><p class=\"fonte\">BORGES, André. <em>Valor Econômico</em>, 07.03.2010. Adaptado.</p><p>De acordo com as informações do texto, é correto afirmar que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "a empresa criadora do <em>Classmate</em> é pioneira na comercialização de apostilas escolares.",
+    "B": "o <em>Classmate</em> é um computador exclusivo do jornal <em>Valor Econômico</em>.",
+    "C": "o novo laptop foi projetado para ser também um bloco de anotações.",
+    "D": "a principal diferença entre as duas versões do laptop é a duração da bateria.",
+    "E": "o diferencial do <em>Classmate</em> é que o aluno poderá converter livros impressos em digitais."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto diz que o aluno “pode também fazer anotações usando uma caneta acoplada ao computador”: o laptop funciona também como bloco de anotações. Alternativa <strong>C</strong>.</p><p>A empresa fabrica computadores, não apostilas (A). O jornal só teve acesso exclusivo ao protótipo (B). A principal novidade é a conversão em suporte de livros digitais, não a bateria (D). E o equipamento vira suporte de livros digitais, não converte livros impressos (E).</p>",
+   "explicacaoRevisada": true
+  },
+  {
+   "numero": 52,
+   "materia": "Português",
+   "assunto": "Coesão e referência",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 51 a 54.</p><p class=\"apoio\"><strong>Empresa transforma seu laptop escolar em ‘e-book’</strong></p><p class=\"apoio\">Os fabricantes de produtos eletrônicos deram mais um passo na evolução do mercado dos laptops escolares. Uma empresa americana apresentou um protótipo da nova versão de seu <em>Classmate</em>, um computador portátil criado especialmente para uso em sala de aula. O jornal <em>Valor Econômico</em> teve acesso com exclusividade ao equipamento, que começará a chegar ao mercado no segundo trimestre de 2010.</p><p class=\"apoio\">A bateria do equipamento, que na versão atual dura no máximo seis horas, foi estendida para até oito horas e meia. A principal novidade, no entanto, é a capacidade de converter o equipamento em um suporte diferenciado de livros digitais. O aluno pode girar a tela e, com a ponta do dedo, “folhear” as páginas do livro; pode também fazer anotações usando uma caneta acoplada ao computador. Um software de colaboração permite que os estudantes compartilhem, instantaneamente, os arquivos e o conteúdo mostrados na tela.</p><p class=\"apoio\">Enquanto olha para licitações públicas, a empresa também corre para fechar acordo com fabricantes e redes varejistas, que deverão colocar os novos laptops da empresa nas prateleiras nos próximos meses.</p><p class=\"fonte\">BORGES, André. <em>Valor Econômico</em>, 07.03.2010. Adaptado.</p><p>No trecho “O jornal <em>Valor Econômico</em> teve acesso com exclusividade ao equipamento, <u>que</u> começará a chegar ao mercado no segundo trimestre de 2010”, a palavra grifada refere-se à seguinte informação:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "mercado",
+    "B": "equipamento",
+    "C": "segundo trimestre",
+    "D": "jornal <em>Valor Econômico</em>",
+    "E": "acesso com exclusividade"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O pronome relativo “que” retoma o termo que vem logo antes, “equipamento”: é o equipamento que começará a chegar ao mercado. Alternativa <strong>B</strong>.</p><p>“Mercado” e “segundo trimestre” vêm depois do pronome (A e C). Nem o jornal nem o acesso chegarão ao mercado (D e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pronome relativo"
+   ]
+  },
+  {
+   "numero": 53,
+   "materia": "Português",
+   "assunto": "Semântica",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 51 a 54.</p><p class=\"apoio\"><strong>Empresa transforma seu laptop escolar em ‘e-book’</strong></p><p class=\"apoio\">Os fabricantes de produtos eletrônicos deram mais um passo na evolução do mercado dos laptops escolares. Uma empresa americana apresentou um protótipo da nova versão de seu <em>Classmate</em>, um computador portátil criado especialmente para uso em sala de aula. O jornal <em>Valor Econômico</em> teve acesso com exclusividade ao equipamento, que começará a chegar ao mercado no segundo trimestre de 2010.</p><p class=\"apoio\">A bateria do equipamento, que na versão atual dura no máximo seis horas, foi estendida para até oito horas e meia. A principal novidade, no entanto, é a capacidade de converter o equipamento em um suporte diferenciado de livros digitais. O aluno pode girar a tela e, com a ponta do dedo, “folhear” as páginas do livro; pode também fazer anotações usando uma caneta acoplada ao computador. Um software de colaboração permite que os estudantes compartilhem, instantaneamente, os arquivos e o conteúdo mostrados na tela.</p><p class=\"apoio\">Enquanto olha para licitações públicas, a empresa também corre para fechar acordo com fabricantes e redes varejistas, que deverão colocar os novos laptops da empresa nas prateleiras nos próximos meses.</p><p class=\"fonte\">BORGES, André. <em>Valor Econômico</em>, 07.03.2010. Adaptado.</p><p>Observe o trecho:</p><p class=\"apoio\">O aluno pode girar a tela e, com a ponta do dedo, “folhear” as páginas do livro...</p><p>A intenção do autor, ao destacar a palavra “folhear” com aspas, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "gerar o sentido de ação repetitiva.",
+    "B": "impor um sentido pejorativo.",
+    "C": "indicar o erro gráfico.",
+    "D": "sinalizar o sentido conotativo.",
+    "E": "assinalar seu valor onomatopaico."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Numa tela não há folhas de papel: o aluno “folheia” em sentido figurado, deslizando o dedo. As aspas marcam esse <strong>sentido conotativo</strong>. Alternativa <strong>D</strong>.</p><p>As aspas não indicam repetição (A), crítica (B), erro (C) nem imitação de som (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "aspas",
+    "conotação"
+   ]
+  },
+  {
+   "numero": 54,
+   "materia": "Português",
+   "assunto": "Interpretação de texto",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p class=\"chamada\">Leia o texto para responder às questões de 51 a 54.</p><p class=\"apoio\"><strong>Empresa transforma seu laptop escolar em ‘e-book’</strong></p><p class=\"apoio\">Os fabricantes de produtos eletrônicos deram mais um passo na evolução do mercado dos laptops escolares. Uma empresa americana apresentou um protótipo da nova versão de seu <em>Classmate</em>, um computador portátil criado especialmente para uso em sala de aula. O jornal <em>Valor Econômico</em> teve acesso com exclusividade ao equipamento, que começará a chegar ao mercado no segundo trimestre de 2010.</p><p class=\"apoio\">A bateria do equipamento, que na versão atual dura no máximo seis horas, foi estendida para até oito horas e meia. A principal novidade, no entanto, é a capacidade de converter o equipamento em um suporte diferenciado de livros digitais. O aluno pode girar a tela e, com a ponta do dedo, “folhear” as páginas do livro; pode também fazer anotações usando uma caneta acoplada ao computador. Um software de colaboração permite que os estudantes compartilhem, instantaneamente, os arquivos e o conteúdo mostrados na tela.</p><p class=\"apoio\">Enquanto olha para licitações públicas, a empresa também corre para fechar acordo com fabricantes e redes varejistas, que deverão colocar os novos laptops da empresa nas prateleiras nos próximos meses.</p><p class=\"fonte\">BORGES, André. <em>Valor Econômico</em>, 07.03.2010. Adaptado.</p><p>Assinale a alternativa em que o trecho do último parágrafo do texto esteja corretamente interpretado.</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "“Enquanto olha para licitações públicas...” equivale a: ao mesmo tempo em que a empresa americana faz suas compras no setor público.",
+    "B": "“Enquanto olha para licitações públicas, a empresa também corre para fechar acordo com fabricantes...” equivale a: a empresa americana tem vendido o <em>Classmate</em> ao governo e “por isso” quer buscar novas fábricas para aumentar a produção.",
+    "C": "“...a empresa também corre para fechar acordo...” equivale a: a empresa americana planeja encerrar alguns contratos, por não mais possuir produtos disponíveis para venda.",
+    "D": "“...que deverão colocar os novos laptops da empresa...” equivale a: o governo deverá adquirir os computadores portáteis da empresa.",
+    "E": "“...colocar os novos laptops da empresa nas prateleiras...” equivale a: colocar à venda os computadores portáteis fabricados pela referida empresa."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>“Colocar nas prateleiras” significa pôr os laptops <strong>à venda</strong> nas lojas. Alternativa <strong>E</strong>.</p><p>Nas licitações, a empresa quer vender ao setor público, não comprar dele (A), e o texto não diz que ela já vende ao governo (B). “Fechar acordo” é firmar contrato, não encerrar (C). E quem colocará os laptops à venda são os fabricantes e as redes varejistas, não o governo (D).</p>",
+   "explicacaoRevisada": true
+  }
+ ]
+}

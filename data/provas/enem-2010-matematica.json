@@ -1,0 +1,1316 @@
+{
+ "id": "enem-2010-matematica",
+ "banca": "Enem",
+ "ano": 2010,
+ "titulo": "Enem 2010: Matemática",
+ "fonte": "Inep",
+ "dataExame": "2010-11-07",
+ "duracaoMinutos": 150,
+ "area": "Matemática",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Frações e porcentagem",
+   "origem": {
+    "numeroOriginal": 136
+   },
+   "enunciado": "<p>Um professor dividiu a lousa da sala de aula em quatro partes iguais. Em seguida, preencheu 75% dela com conceitos e explicações, conforme a figura seguinte.</p>[[fig:1]]<p>Algum tempo depois, o professor apagou a lousa por completo e, adotando um procedimento semelhante ao anterior, voltou a preenchê-la, mas, dessa vez, utilizando 40% do espaço dela.</p><p>Uma representação possível para essa segunda situação é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q136.webp",
+     "alt": "Lousa dividida em quatro partes iguais, com as três primeiras preenchidas de texto e a última em branco."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q136a.webp",
+     "alt": "Alternativa A: lousa com só a primeira das quatro partes preenchida."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q136b.webp",
+     "alt": "Alternativa B: lousa com as duas primeiras partes preenchidas."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q136c.webp",
+     "alt": "Alternativa C: lousa com a primeira parte inteira preenchida e cerca de metade da segunda."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q136d.webp",
+     "alt": "Alternativa D: lousa com as três primeiras partes preenchidas."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q136e.webp",
+     "alt": "Alternativa E: lousa com as quatro partes preenchidas."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A lousa tem quatro partes iguais, cada uma com 25% da área. 40% equivale a uma parte inteira (25%) mais 15%, ou seja, uma parte e pouco mais da metade da segunda (15/25 = 0,6 de uma parte). A representação certa é a da <strong>alternativa C</strong>. Alternativa <strong>C</strong>.</p><p>Duas partes inteiras seriam 50%, e uma parte só seria 25%.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "representação de frações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 137
+   },
+   "enunciado": "<p>No monte de Cerro Armazones, no deserto de Atacama, no Chile, ficará o maior telescópio da superfície terrestre, o Telescópio Europeu Extremamente Grande (E-ELT). O E-ELT terá um espelho primário de 42 m de diâmetro, “o maior olho do mundo voltado para o céu”.</p><p class=\"fonte\">Disponível em: http://www.estadao.com.br. Acesso em: 27 abr. 2010 (adaptado).</p><p>Ao ler esse texto em uma sala de aula, uma professora fez uma suposição de que o diâmetro do olho humano mede aproximadamente 2,1 cm. Qual a razão entre o diâmetro aproximado do olho humano, suposto pela professora, e o diâmetro do espelho primário do telescópio citado?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1 : 20",
+    "B": "1 : 100",
+    "C": "1 : 200",
+    "D": "1 : 1 000",
+    "E": "1 : 2 000"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O espelho tem 42 m = 4 200 cm. A razão entre o olho (2,1 cm) e o espelho é 2,1 : 4 200 = 1 : 2 000. Alternativa <strong>E</strong>.</p><p>Quem esquece de converter metros em centímetros chega a 1 : 20 (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "razão",
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 138
+   },
+   "enunciado": "<p>Alguns testes de preferência por bebedouros de água foram realizados com bovinos, envolvendo três tipos de bebedouros, de formatos e tamanhos diferentes. Os bebedouros 1 e 2 têm a forma de um tronco de cone circular reto, de altura igual a 60 cm, e diâmetro da base superior igual a 120 cm e 60 cm, respectivamente. O bebedouro 3 é um semicilindro, com 30 cm de altura, 100 cm de comprimento e 60 cm de largura. Os três estão ilustrados na figura.</p>[[fig:1]]<p class=\"fonte\">A escolha do bebedouro. In: <em>Biotemas</em>. V. 22, n°. 4, 2009 (adaptado).</p><p>Considerando que nenhum dos recipientes tenha tampa, qual das figuras a seguir representa uma planificação para o bebedouro 3?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q138.webp",
+     "alt": "Bebedouros 1 e 2: troncos de cone de 60 cm de altura, com diâmetro superior de 120 cm e de 60 cm. Bebedouro 3: semicilindro de 100 cm de comprimento, 60 cm de largura e 30 cm de altura."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q138a.webp",
+     "alt": "Alternativa A: setor de coroa circular de 100 cm de lado curvo e 60 cm de altura, com um círculo de 60 cm de diâmetro embaixo."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q138b.webp",
+     "alt": "Alternativa B: trapézio com base maior de 100 cm e altura 60 cm, com um círculo embaixo."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q138c.webp",
+     "alt": "Alternativa C: retângulo de 100 cm por 60 cm com um círculo embaixo."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q138d.webp",
+     "alt": "Alternativa D: retângulo alto, de 100 cm por 60 cm, com um semicírculo de 60 cm de diâmetro embaixo."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q138e.webp",
+     "alt": "Alternativa E: retângulo de 100 cm de altura, com um semicírculo de 60 cm em cima e outro embaixo."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O bebedouro 3 é meio cilindro deitado, sem tampa: a superfície curva aberta é um retângulo de 100 cm (comprimento) por meia circunferência, e as duas pontas são semicírculos de 60 cm de diâmetro. A planificação é um retângulo com um semicírculo em cada uma das pontas, como na <strong>figura D</strong>. Alternativa <strong>D</strong>.</p><p>As figuras com trapézio ou setor (A e B) planificam troncos de cone; as com círculo (C) planificam um cilindro inteiro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "planificação",
+    "semicilindro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 139
+   },
+   "enunciado": "<p>Uma fábrica produz barras de chocolates no formato de paralelepípedos e de cubos, com o mesmo volume. As arestas da barra de chocolate no formato de paralelepípedo medem 3 cm de largura, 18 cm de comprimento e 4 cm de espessura. Analisando as características das figuras geométricas descritas, a medida das arestas dos chocolates que têm o formato de cubo é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "5 cm.",
+    "B": "6 cm.",
+    "C": "12 cm.",
+    "D": "24 cm.",
+    "E": "25 cm."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O paralelepípedo tem volume 3 × 18 × 4 = 216 cm³. O cubo de mesmo volume tem aresta \\(\\sqrt[3]{216} = 6\\) cm. Alternativa <strong>B</strong>.</p><p>Somar as arestas e dividir por três dá cerca de 8 cm, que não está nas opções: o certo é igualar os volumes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "raiz cúbica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Raciocínio lógico",
+   "origem": {
+    "numeroOriginal": 140
+   },
+   "enunciado": "<p>A classificação de um país no quadro de medalhas nos Jogos Olímpicos depende do número de medalhas de ouro que obteve na competição, tendo como critérios de desempate o número de medalhas de prata seguido do número de medalhas de bronze conquistados. Nas Olimpíadas de 2004, o Brasil foi o décimo sexto colocado no quadro de medalhas, tendo obtido 5 medalhas de ouro, 2 de prata e 3 de bronze. Parte desse quadro de medalhas é reproduzida a seguir.</p><table class=\"tabela\"><thead><tr><th>Classificação</th><th>País</th><th>Medalhas de ouro</th><th>Medalhas de prata</th><th>Medalhas de bronze</th><th>Total de medalhas</th></tr></thead><tbody><tr><td>8º</td><td>Itália</td><td>10</td><td>11</td><td>11</td><td>32</td></tr><tr><td>9º</td><td>Coreia do Sul</td><td>9</td><td>12</td><td>9</td><td>30</td></tr><tr><td>10º</td><td>Grã-Bretanha</td><td>9</td><td>9</td><td>12</td><td>30</td></tr><tr><td>11º</td><td>Cuba</td><td>9</td><td>7</td><td>11</td><td>27</td></tr><tr><td>12º</td><td>Ucrânia</td><td>9</td><td>5</td><td>9</td><td>23</td></tr><tr><td>13º</td><td>Hungria</td><td>8</td><td>6</td><td>3</td><td>17</td></tr></tbody></table><p class=\"fonte\">Disponível em: http://www.quadroademedalhas.com.br. Acesso em: 05 abr. 2010 (adaptado).</p><p>Se o Brasil tivesse obtido mais 4 medalhas de ouro, 4 de prata e 10 de bronze, sem alteração no número de medalhas dos demais países mostrados no quadro, qual teria sido a classificação brasileira no quadro de medalhas das Olimpíadas de 2004?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "13º",
+    "B": "12º",
+    "C": "11º",
+    "D": "10º",
+    "E": "9º"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Com 4 ouros, 4 pratas e 10 bronzes a mais, o Brasil teria 9 ouros, 6 pratas e 13 bronzes. Entre os países com 9 ouros, a prata desempata: Coreia (12), Grã-Bretanha (9) e Cuba (7) ficam à frente; Ucrânia (5) fica atrás. O Brasil passaria para o <strong>12º lugar</strong>. Alternativa <strong>B</strong>.</p><p>O total de medalhas (C) não é critério de classificação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ordenação",
+    "critérios de desempate"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 141
+   },
+   "enunciado": "<p>Os dados do gráfico foram coletados por meio da Pesquisa Nacional por Amostra de Domicílios.</p>[[fig:1]]<p class=\"fonte\">Fonte: IBGE. Disponível em: http://www.ibge.gov.br. Acesso em: 28 abr. 2010 (adaptado).</p><p>Supondo-se que, no Sudeste, 14 900 estudantes foram entrevistados nessa pesquisa, quantos deles possuíam telefone móvel celular?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q141.webp",
+     "alt": "Gráfico de colunas “Estudantes que possuem telefone móvel celular com idade de 10 anos ou mais”, por região, possuíam e não possuíam (%): Norte, 37 e 63; Nordeste, 36 e 64; Sudeste, 56 e 44; Sul, 62 e 38; Centro-Oeste, 58 e 42."
+    }
+   ],
+   "alternativas": {
+    "A": "5 513",
+    "B": "6 556",
+    "C": "7 450",
+    "D": "8 344",
+    "E": "9 536"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No gráfico, 56% dos estudantes do Sudeste possuíam celular. De 14 900 entrevistados: 0,56 × 14 900 = <strong>8 344</strong>. Alternativa <strong>D</strong>.</p><p>A opção B (6 556) usa os 44% que não possuíam.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "gráfico de colunas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 142
+   },
+   "enunciado": "<p>Acompanhando o crescimento do filho, um casal constatou que, de 0 a 10 anos, a variação da sua altura se dava de forma mais rápida do que dos 10 aos 17 anos e, a partir de 17 anos, essa variação passava a ser cada vez menor, até se tornar imperceptível. Para ilustrar essa situação, esse casal fez um gráfico relacionando as alturas do filho nas idades consideradas.</p><p>Que gráfico melhor representa a altura do filho desse casal em função da idade?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q142a.webp",
+     "alt": "Gráfico A: altura sobe de 51 cm aos 0 anos até 148 aos 10, com inclinação forte; depois sobe menos até 171 aos 17; depois quase nada até 180."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q142b.webp",
+     "alt": "Gráfico B: sobe em reta até 148 aos 10, fica parado até perto dos 17, sobe em degrau até 171 e depois em degrau até 180."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q142c.webp",
+     "alt": "Gráfico C: segmentos verticais aos 10, 17 e mais adiante, sem crescimento contínuo."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q142d.webp",
+     "alt": "Gráfico D: sobe em reta até perto de 100 aos 10, salta para 148, sobe devagar até os 17, salta e depois fica quase constante."
+    },
+    {
+     "src": "assets/img/enem-2010-matematica/q142e.webp",
+     "alt": "Gráfico E: em degraus: 51 até os 10, 148 até os 17, 171 depois e 180 no fim."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A altura cresce sempre (é uma função crescente e contínua): rápido de 0 a 10 anos, mais devagar de 10 a 17 e quase nada depois, até ficar constante. O gráfico que mostra isso, com inclinação cada vez menor, é o <strong>A</strong>. Alternativa <strong>A</strong>.</p><p>Os gráficos com degraus ou saltos (B, C, D e E) indicariam crescimento instantâneo ou paradas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico de função",
+    "taxa de variação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 143
+   },
+   "enunciado": "<p>Em sete de abril de 2004, um jornal publicou o <em>ranking</em> de desmatamento, conforme gráfico, da chamada Amazônia Legal, integrada por nove estados.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.folhaonline.com.br. Acesso em: 30 abr. 2010 (adaptado).</p><p>Considerando-se que até 2009 o desmatamento cresceu 10,5% em relação aos dados de 2004, o desmatamento médio por estado em 2009 está entre</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q143.webp",
+     "alt": "Gráfico de barras “Ranking do Desmatamento em km²”: 1º Mato Grosso, 10 416; 2º Pará, 7 293; 3º Rondônia, 3 463; 4º Amazonas, 797; 5º Maranhão, 766; 6º Acre, 549; 7º Roraima, 326; 8º Tocantins, 136; 9º Amapá, 4."
+    }
+   ],
+   "alternativas": {
+    "A": "100 km<sup>2</sup> e 900 km<sup>2</sup>.",
+    "B": "1 000 km<sup>2</sup> e 2 700 km<sup>2</sup>.",
+    "C": "2 800 km<sup>2</sup> e 3 200 km<sup>2</sup>.",
+    "D": "3 300 km<sup>2</sup> e 4 000 km<sup>2</sup>.",
+    "E": "4 100 km<sup>2</sup> e 5 800 km<sup>2</sup>."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Somando o desmatamento dos nove estados em 2004: 4 + 136 + 326 + 549 + 766 + 797 + 3 463 + 7 293 + 10 416 = 23 750 km². A média é 23 750 ÷ 9 ≈ 2 639 km². Com 10,5% a mais: 2 639 × 1,105 ≈ 2 916 km², entre <strong>2 800 km² e 3 200 km²</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média aritmética",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Grandezas proporcionais",
+   "origem": {
+    "numeroOriginal": 144
+   },
+   "enunciado": "<p class=\"apoio\"><strong>A resistência elétrica e as dimensões do condutor</strong></p><p>A relação da resistência elétrica com as dimensões do condutor foi estudada por um grupo de cientistas por meio de vários experimentos de eletricidade. Eles verificaram que existe proporcionalidade entre:</p><ul><li>resistência (R) e comprimento (ℓ), dada a mesma secção transversal (A);</li><li>resistência (R) e área da secção transversal (A), dado o mesmo comprimento (ℓ) e</li><li>comprimento (ℓ) e área da secção transversal (A), dada a mesma resistência (R).</li></ul><p>Considerando os resistores como fios, pode-se exemplificar o estudo das grandezas que influem na resistência elétrica utilizando as figuras seguintes.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://www.efeitojoule.com. Acesso em: abr. 2010 (adaptado).</p><p>As figuras mostram que as proporcionalidades existentes entre resistência (R) e comprimento (ℓ), resistência (R) e área da secção transversal (A), e entre comprimento (ℓ) e área da secção transversal (A) são, respectivamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q144.webp",
+     "alt": "Esquema com um fio condutor de área A, comprimento ℓ e resistência R. Abaixo, três casos de fios do mesmo material: comprimento 2ℓ e área A, resistência 2R; área 2A e comprimento ℓ, resistência R/2; área 2A e comprimento 2ℓ, resistência R."
+    }
+   ],
+   "alternativas": {
+    "A": "direta, direta e direta.",
+    "B": "direta, direta e inversa.",
+    "C": "direta, inversa e direta.",
+    "D": "inversa, direta e direta.",
+    "E": "inversa, direta e inversa."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pelas figuras: dobrando o comprimento (2ℓ), a resistência dobra (2R), proporção direta. Dobrando a área (2A), com o mesmo comprimento, a resistência cai à metade (R/2), proporção inversa. Para manter a mesma resistência R, dobrar o comprimento exige dobrar a área: direta. A resposta é <strong>direta, inversa e direta</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade direta e inversa",
+    "resistência elétrica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 145
+   },
+   "enunciado": "<p>Os dados do gráfico seguinte foram gerados a partir de dados colhidos no conjunto de seis regiões metropolitanas pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese).</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://g1.globo.com. Acesso em: 28 abr. 2010 (adaptado).</p><p>Supondo que o total de pessoas pesquisadas na região metropolitana de Porto Alegre equivale a 250 000, o número de desempregados em março de 2010, nessa região, foi de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q145.webp",
+     "alt": "Gráfico de barras “Taxas de desemprego nas regiões metropolitanas março/2010”: São Paulo 13,1; Salvador 19,9; Recife 19,3; Porto Alegre 9,8; Belo Horizonte 10,2; Distrito Federal 14,7."
+    }
+   ],
+   "alternativas": {
+    "A": "24 500.",
+    "B": "25 000.",
+    "C": "220 500.",
+    "D": "223 000.",
+    "E": "227 500."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Pelo gráfico, a taxa de desemprego de Porto Alegre era 9,8%. De 250 000 pessoas: 0,098 × 250 000 = <strong>24 500</strong>. Alternativa <strong>A</strong>.</p><p>As opções C, D e E se aproximam do número de empregados, e não de desempregados.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "gráfico de barras"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 146
+   },
+   "enunciado": "<p>A siderúrgica “Metal Nobre” produz diversos objetos maciços utilizando o ferro. Um tipo especial de peça feita nessa companhia tem o formato de um paralelepípedo retangular, de acordo com as dimensões indicadas na figura que segue.</p>[[fig:1]]<p>O produto das três dimensões indicadas na peça resultaria na medida da grandeza</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q146.webp",
+     "alt": "Paralelepípedo com a inscrição “Metal Nobre”, de 2,5 m de comprimento, 0,5 m de largura e 1,3 m de altura."
+    }
+   ],
+   "alternativas": {
+    "A": "massa.",
+    "B": "volume.",
+    "C": "superfície.",
+    "D": "capacidade.",
+    "E": "comprimento."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Multiplicar comprimento, largura e altura (2,5 m × 0,5 m × 1,3 m) dá uma medida em m³: o espaço que a peça ocupa, ou seja, o <strong>volume</strong>. Alternativa <strong>B</strong>.</p><p>Capacidade (D) é o que cabe dentro de um recipiente; a peça é maciça. A massa (A) dependeria também da densidade do ferro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "grandezas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 147
+   },
+   "enunciado": "<p>A figura I abaixo mostra um esquema das principais vias que interligam a cidade A com a cidade B. Cada número indicado na figura II representa a probabilidade de pegar um engarrafamento quando se passa na via indicada. Assim, há uma probabilidade de 30% de se pegar engarrafamento no deslocamento do ponto C ao o ponto B, passando pela estrada E4, e de 50%, quando se passa por E3. Essas probabilidades são independentes umas das outras.</p>[[fig:1]]<p>Paula deseja se deslocar da cidade A para a cidade B usando exatamente duas das vias indicadas, percorrendo um trajeto com a menor probabilidade de engarrafamento possível.</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q147.webp",
+     "alt": "Figura I: cidades A e B ligadas por dois caminhos, A–C–B e A–D–B; de A a C, via E1; de A a D, via E2; de C a B, vias E3 e E4; de D a B, vias E5 e E6. Figura II: as probabilidades de engarrafamento: E1 0,8; E2 0,7; E3 0,5; E4 0,3; E5 0,4; E6 0,6."
+    }
+   ],
+   "alternativas": {
+    "A": "E1E3.",
+    "B": "E1E4.",
+    "C": "E2E4.",
+    "D": "E2E5.",
+    "E": "E2E6."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pela figura II: E1 = 0,8, E2 = 0,7, E3 = 0,5, E4 = 0,3, E5 = 0,4 e E6 = 0,6. A chance de não pegar engarrafamento em duas vias é o produto das chances de cada uma: E1E3, 0,2 × 0,5 = 0,10; E1E4, 0,2 × 0,7 = 0,14; E2E5, 0,3 × 0,6 = 0,18; E2E6, 0,3 × 0,4 = 0,12. O maior é <strong>E2E5</strong>, o trajeto com menor probabilidade de engarrafamento. Alternativa <strong>D</strong>.</p><p>E2E4 (C) não é possível: E2 vai de A a D e E4 liga C a B.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eventos independentes",
+    "complementar"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 148
+   },
+   "enunciado": "<p>O gráfico a seguir apresenta o gasto militar dos Estados Unidos, no período de 1988 a 2006.</p>[[fig:1]]<p class=\"fonte\"><em>Almanaque Abril 2008</em>. Editora Abril.</p><p>Com base no gráfico, o gasto militar no início da guerra no Iraque foi de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q148.webp",
+     "alt": "Gráfico de linha “O gasto militar dos Estados Unidos supera o do fim da Guerra Fria”, em bilhões de dólares, de 1988 a 2006: começa em 426,8, cai após a queda do Muro de Berlim até cerca de 290 no fim dos anos 1990 e sobe depois do atentado de 11 de setembro; no início da guerra no Iraque, em 2003, marca 417,4, chegando a 528,7 em 2006."
+    }
+   ],
+   "alternativas": {
+    "A": "U$ 4.174.000,00.",
+    "B": "U$ 41.740.000,00.",
+    "C": "U$ 417.400.000,00.",
+    "D": "U$ 41.740.000.000,00.",
+    "E": "U$ 417.400.000.000,00."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A guerra no Iraque começou em 2003, marcado no gráfico como “Início da guerra no Iraque”, com 417,4 bilhões de dólares. 417,4 bilhões = 417 400 000 000: <strong>US$ 417.400.000.000,00</strong>. Alternativa <strong>E</strong>.</p><p>As outras opções erram a quantidade de zeros de “bilhões”.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "notação numérica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 149
+   },
+   "enunciado": "<p>Uma professora realizou uma atividade com seus alunos utilizando canudos de refrigerante para montar figuras, onde cada lado foi representado por um canudo. A quantidade de canudos (C) de cada figura depende da quantidade de quadrados (Q) que formam cada figura. A estrutura de formação das figuras está representada a seguir.</p>[[fig:1]]<p>Que expressão fornece a quantidade de canudos em função da quantidade de quadrados de cada figura?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q149.webp",
+     "alt": "Três figuras feitas com canudos: um quadrado; dois quadrados lado a lado; três quadrados lado a lado."
+    }
+   ],
+   "alternativas": {
+    "A": "C = 4Q",
+    "B": "C = 3Q + 1",
+    "C": "C = 4Q - 1",
+    "D": "C = Q + 3",
+    "E": "C = 4Q - 2"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Figura I: 1 quadrado, 4 canudos. Figura II: 2 quadrados, 7 canudos. Figura III: 3 quadrados, 10 canudos. Cada quadrado novo acrescenta 3 canudos, pois aproveita um lado do anterior: C = 4 + 3(Q − 1) = <strong>3Q + 1</strong>. Alternativa <strong>B</strong>.</p><p>C = 4Q (A) contaria os lados comuns duas vezes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "padrões",
+    "função afim"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Áreas e perímetros",
+   "origem": {
+    "numeroOriginal": 150
+   },
+   "enunciado": "<p>A loja Telas & Molduras cobra 20 reais por metro quadrado de tela, 15 reais por metro linear de moldura, mais uma taxa fixa de entrega de 10 reais. Uma artista plástica precisa encomendar telas e molduras a essa loja, suficientes para 8 quadros retangulares (25 cm × 50 cm). Em seguida, fez uma segunda encomenda, mas agora para 8 quadros retangulares (50 cm × 100 cm). O valor da segunda encomenda será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o dobro do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.",
+    "B": "maior do que o valor da primeira encomenda, mas não o dobro.",
+    "C": "a metade do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.",
+    "D": "menor do que o valor da primeira encomenda, mas não a metade.",
+    "E": "igual ao valor da primeira encomenda, porque o custo de entrega será o mesmo."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Ao dobrar largura e altura, a área de tela fica 4 vezes maior e o perímetro de moldura 2 vezes maior. Primeira: tela 8 × 0,125 m² = 1 m² (R$ 20), moldura 8 × 1,5 m = 12 m (R$ 180), entrega R$ 10: total R$ 210. Segunda: tela 4 m² (R$ 80), moldura 24 m (R$ 360), entrega R$ 10: R$ 450. O valor é <strong>maior do que o da primeira encomenda, mas não o dobro</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área e perímetro",
+    "custo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 151
+   },
+   "enunciado": "<p>Dona Maria, diarista na casa da família Teixeira, precisa fazer café para servir as vinte pessoas que se encontram numa reunião na sala. Para fazer o café, Dona Maria dispõe de uma leiteira cilíndrica e copinhos plásticos, também cilíndricos.</p>[[fig:1]]<p>Com o objetivo de não desperdiçar café, a diarista deseja colocar a quantidade mínima de água na leiteira para encher os vinte copinhos pela metade. Para que isso ocorra, Dona Maria deverá</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q151.webp",
+     "alt": "Leiteira cilíndrica de 8 cm de diâmetro e 20 cm de altura, ao lado de um copinho cilíndrico de 4 cm de diâmetro e 4 cm de altura."
+    }
+   ],
+   "alternativas": {
+    "A": "encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o volume do copo.",
+    "B": "encher a leiteira toda de água, pois ela tem um volume 20 vezes maior que o volume do copo.",
+    "C": "encher a leiteira toda de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+    "D": "encher duas leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo.",
+    "E": "encher cinco leiteiras de água, pois ela tem um volume 10 vezes maior que o volume do copo."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Leiteira: π · 4² · 20 = 320π cm³. Copinho: π · 2² · 4 = 16π cm³; vinte copinhos pela metade: 20 × 8π = 160π cm³, a metade da leiteira. Dona Maria deve <strong>encher a leiteira até a metade, pois ela tem um volume 20 vezes maior que o volume do copo</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cilindro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 152
+   },
+   "enunciado": "<p>Um satélite de telecomunicações, t minutos após ter atingido sua órbita, está a r quilômetros de distância do centro da Terra. Quando r assume seus valores máximo e mínimo, diz-se que o satélite atingiu o <em>apogeu</em> e o <em>perigeu</em>, respectivamente. Suponha que, para esse satélite, o valor de r em função de t seja dado por</p><p>\\(r(t) = \\dfrac{5\\,865}{1 + 0{,}15 \\cdot \\cos(0{,}06t)}\\)</p><p>Um cientista monitora o movimento desse satélite para controlar o seu afastamento do centro da Terra. Para isso, ele precisa calcular a soma dos valores de r, no <em>apogeu</em> e no <em>perigeu</em>, representada por S.</p><p>O cientista deveria concluir que, periodicamente, S atinge o valor de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "12 765 km.",
+    "B": "12 000 km.",
+    "C": "11 730 km.",
+    "D": "10 965 km.",
+    "E": "5 865 km."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O cosseno varia de −1 a 1. O maior r (apogeu) ocorre com o menor denominador, cos = −1: 5 865 ÷ 0,85 = 6 900 km. O menor r (perigeu), com cos = 1: 5 865 ÷ 1,15 = 5 100 km. A soma é S = 6 900 + 5 100 = <strong>12 000 km</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função cosseno",
+    "máximo e mínimo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 153
+   },
+   "enunciado": "<p>Uma empresa vende tanques de combustíveis de formato cilíndrico, em três tamanhos, com medidas indicadas nas figuras. O preço do tanque é diretamente proporcional à medida da área da superfície lateral do tanque. O dono de um posto de combustível deseja encomendar um tanque com menor custo por metro cúbico de capacidade de armazenamento.</p>[[fig:1]]<p>Qual dos tanques deverá ser escolhido pelo dono do posto? (Considere π ≅ 3)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q153.webp",
+     "alt": "Três tanques cilíndricos deitados: I, 4 m de diâmetro e 6 m de comprimento; II, 4 m de diâmetro e 8 m de comprimento; III, 6 m de diâmetro e 8 m de comprimento."
+    }
+   ],
+   "alternativas": {
+    "A": "I, pela relação área/capacidade de armazenamento de \\(\\frac{1}{3}\\).",
+    "B": "I, pela relação área/capacidade de armazenamento de \\(\\frac{4}{3}\\).",
+    "C": "II, pela relação área/capacidade de armazenamento de \\(\\frac{3}{4}\\).",
+    "D": "III, pela relação área/capacidade de armazenamento de \\(\\frac{2}{3}\\).",
+    "E": "III, pela relação área/capacidade de armazenamento de \\(\\frac{7}{12}\\)."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Para um cilindro, área lateral ÷ volume = 2πrh ÷ (πr²h) = 2/r: quanto maior o raio, menor o custo por m³. Os tanques I e II têm 4 m de diâmetro (r = 2, razão 1); o III tem 6 m de diâmetro (r = 3, razão 2/3). O escolhido é o <strong>III, com relação 2/3</strong>. Alternativa <strong>D</strong>.</p><p>O comprimento do tanque não altera essa razão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área lateral",
+    "volume do cilindro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 154
+   },
+   "enunciado": "<p>Uma empresa possui um sistema de controle de qualidade que classifica o seu desempenho financeiro anual, tendo como base o do ano anterior. Os conceitos são: <strong>insuficiente</strong>, quando o crescimento é menor que 1%; <strong>regular</strong>, quando o crescimento é maior ou igual a 1% e menor que 5%; <strong>bom</strong>, quando o crescimento é maior ou igual a 5% e menor que 10%; <strong>ótimo</strong>, quando é maior ou igual a 10% e menor que 20%; e <strong>excelente</strong>, quando é maior ou igual a 20%. Essa empresa apresentou lucro de R$ 132 000,00 em 2008 e de R$ 145 000,00 em 2009.</p><p>De acordo com esse sistema de controle de qualidade, o desempenho financeiro dessa empresa no ano de 2009 deve ser considerado</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "insuficiente.",
+    "B": "regular.",
+    "C": "bom.",
+    "D": "ótimo.",
+    "E": "excelente."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O lucro passou de R$ 132 000 para R$ 145 000: aumento de 13 000. 13 000 ÷ 132 000 ≈ 0,0985, ou cerca de 9,85%. Como fica entre 5% e 10%, o desempenho é <strong>bom</strong>. Alternativa <strong>C</strong>.</p><p>Calcular sobre 145 000 daria cerca de 9%, a mesma classificação, mas o certo é usar o ano anterior como base.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "variação percentual"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Equações",
+   "origem": {
+    "numeroOriginal": 155
+   },
+   "enunciado": "<p>Uma escola recebeu do governo uma verba de R$ 1000,00 para enviar dois tipos de folhetos pelo correio. O diretor da escola pesquisou que tipos de selos deveriam ser utilizados. Concluiu que, para o primeiro tipo de folheto, bastava um selo de R$ 0,65 enquanto para folhetos do segundo tipo seriam necessários três selos, um de R$ 0,65, um de R$ 0,60 e um de R$ 0,20. O diretor solicitou que se comprassem selos de modo que fossem postados exatamente 500 folhetos do segundo tipo e uma quantidade restante de selos que permitisse o envio do máximo possível de folhetos do primeiro tipo.</p><p>Quantos selos de R$ 0,65 foram comprados?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "476",
+    "B": "675",
+    "C": "923",
+    "D": "965",
+    "E": "1 538"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>500 folhetos do segundo tipo custam 500 × (0,65 + 0,60 + 0,20) = R$ 725 e usam 500 selos de R$ 0,65. Sobram R$ 275, que compram 275 ÷ 0,65 ≈ 423 selos de R$ 0,65 para o primeiro tipo. Total de selos de R$ 0,65: 500 + 423 = <strong>923</strong>. Alternativa <strong>C</strong>.</p><p>A opção A (476) esquece os selos de 0,65 dos folhetos do segundo tipo e erra a sobra.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "problema com dinheiro",
+    "divisão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Geometria analítica",
+   "origem": {
+    "numeroOriginal": 156
+   },
+   "enunciado": "<p>A figura a seguir é a representação de uma região por meio de curvas de nível, que são curvas fechadas representando a altitude da região, com relação ao nível do mar. As coordenadas estão expressas em graus de acordo com a longitude, no eixo horizontal, e a latitude, no eixo vertical. A escala em tons de cinza desenhada à direita está associada à altitude da região.</p>[[fig:1]]<p>Um pequeno helicóptero usado para reconhecimento sobrevoa a região a partir do ponto X = (20; 60). O helicóptero segue o percurso:</p><p>0,8° L → 0,5° N → 0,2° O → 0,1° S → 0,4° N → 0,3° L.</p><p>Ao final, desce verticalmente até pousar no solo.</p><p>De acordo com as orientações, o helicóptero pousou em um local cuja altitude é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q156.webp",
+     "alt": "Mapa de curvas de nível em tons de cinza, com longitude de 20,0 a 21,2 no eixo horizontal e latitude de 60,0 a 70,0 no vertical, legenda de altitudes de 100 m a 800 m e rosa dos ventos; o ponto X fica em (20; 60), no canto inferior esquerdo."
+    }
+   ],
+   "alternativas": {
+    "A": "menor ou igual a 200 m.",
+    "B": "maior que 200 m e menor ou igual a 400 m.",
+    "C": "maior que 400 m e menor ou igual a 600 m.",
+    "D": "maior que 600 m e menor ou igual a 800 m.",
+    "E": "maior que 800 m."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Partindo de (20; 60): 0,8° L → (20,8; 60); 0,5° N → (20,8; 60,5); 0,2° O → (20,6; 60,5); 0,1° S → (20,6; 60,4); 0,4° N → (20,6; 60,8); 0,3° L → (20,9; 60,8). Nesse ponto fica a pequena mancha preta perto do canto superior direito do mapa. Na legenda, preto é 100 m (quanto mais escuro, mais baixo): altitude <strong>menor ou igual a 200 m</strong>. Alternativa <strong>A</strong>.</p><p>Leste e oeste mudam a longitude (horizontal); norte e sul, a latitude (vertical).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coordenadas",
+    "curvas de nível"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 157
+   },
+   "enunciado": "<p>Para construir uma manilha de esgoto, um cilindro com 2 m de diâmetro e 4 m de altura (de espessura desprezível), foi envolvido homogeneamente por uma camada de concreto, contendo 20 cm de espessura.</p><p>Supondo que cada metro cúbico de concreto custe R$ 10,00 e tomando 3,1 como valor aproximado de π, então o preço dessa manilha é igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "R$ 230,40.",
+    "B": "R$ 124,00.",
+    "C": "R$ 104,16.",
+    "D": "R$ 54,56.",
+    "E": "R$ 49,60."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O concreto forma um tubo entre o raio 1 m e o raio 1,2 m, com 4 m de altura: V = π(1,2² − 1²) · 4 = 3,1 × 0,44 × 4 = 5,456 m³. A R$ 10 o m³: <strong>R$ 54,56</strong>. Alternativa <strong>D</strong>.</p><p>Quem usa os diâmetros no lugar dos raios chega a valores muito maiores.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cilindro",
+    "coroa circular"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 158
+   },
+   "enunciado": "<p>No manejo sustentável de florestas, é preciso muitas vezes obter o volume da tora que pode ser obtida a partir de uma árvore. Para isso, existe um método prático, em que se mede a circunferência da árvore à altura do peito de um homem (1,30 m), conforme indicado na figura. A essa medida denomina-se “rodo” da árvore. O quadro a seguir indica a fórmula para se <em>cubar</em>, ou seja, obter o volume da tora em m<sup>3</sup> a partir da medida do rodo e da altura da árvore.</p>[[fig:1]]<p>Um técnico em manejo florestal recebeu a missão de cubar, abater e transportar cinco toras de madeira, de duas espécies diferentes, sendo</p><ul><li>3 toras da espécie I, com 3 m de rodo, 12 m de comprimento e densidade 0,77 toneladas/m<sup>3</sup>;</li><li>2 toras da espécie II, com 4 m de rodo, 10 m de comprimento e densidade 0,78 toneladas/m<sup>3</sup>.</li></ul><p>Após realizar seus cálculos, o técnico solicitou que enviassem caminhões para transportar uma carga de, aproximadamente,</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q158.webp",
+     "alt": "Desenho de um homem medindo a circunferência de uma árvore na altura do peito, dizendo “Tem 2 metros de rodo”; ao lado, o quadro: o volume da tora em m³ é dado por V = rodo² × altura × 0,06; o rodo e a altura devem ser medidos em metros; o coeficiente 0,06 foi obtido experimentalmente."
+    }
+   ],
+   "alternativas": {
+    "A": "29,9 toneladas.",
+    "B": "31,1 toneladas.",
+    "C": "32,4 toneladas.",
+    "D": "35,3 toneladas.",
+    "E": "41,8 toneladas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Espécie I: V = 3² × 12 × 0,06 = 6,48 m³ por tora; 3 toras = 19,44 m³ × 0,77 ≈ 14,97 t. Espécie II: V = 4² × 10 × 0,06 = 9,6 m³ por tora; 2 toras = 19,2 m³ × 0,78 ≈ 14,98 t. Total ≈ <strong>29,9 toneladas</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fórmula",
+    "densidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 159
+   },
+   "enunciado": "<p>Embora o Índice de Massa Corporal (IMC) seja amplamente utilizado, existem ainda inúmeras restrições teóricas ao uso e às faixas de normalidade preconizadas. O Recíproco do Índice Ponderal (RIP), de acordo com o modelo alométrico, possui uma melhor fundamentação matemática, já que a massa é uma variável de dimensões cúbicas e a altura, uma variável de dimensões lineares. As fórmulas que determinam esses índices são:</p><p>\\(IMC = \\dfrac{\\text{massa (kg)}}{[\\text{altura (m)}]^2}\\) e \\(RIP = \\dfrac{\\text{altura (cm)}}{\\sqrt[3]{\\text{massa (kg)}}}\\)</p><p class=\"fonte\">ARAUJO, C. G. S.; RICARDO, D. R. Índice de Massa Corporal: Um Questionamento Científico Baseado em Evidências. <em>Arq. Bras. Cardiologia</em>, volume 79, nº 1, 2002 (adaptado).</p><p>Se uma menina, com 64 kg de massa, apresenta IMC igual a 25 kg/m<sup>2</sup>, então ela possui RIP igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,4 cm/kg<sup>1/3</sup>.",
+    "B": "2,5 cm/kg<sup>1/3</sup>.",
+    "C": "8 cm/kg<sup>1/3</sup>.",
+    "D": "20 cm/kg<sup>1/3</sup>.",
+    "E": "40 cm/kg<sup>1/3</sup>."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com IMC = 25 e massa 64 kg: altura² = 64 ÷ 25 = 2,56, altura = 1,6 m = 160 cm. RIP = 160 ÷ \\(\\sqrt[3]{64}\\) = 160 ÷ 4 = <strong>40 cm/kg<sup>1/3</sup></strong>. Alternativa <strong>E</strong>.</p><p>Usar a altura em metros (1,6) daria 0,4 (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fórmulas",
+    "raiz cúbica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 160
+   },
+   "enunciado": "<p>Um balão atmosférico, lançado em Bauru (343 quilômetros a Noroeste de São Paulo), na noite do último domingo, caiu nesta segunda-feira em Cuiabá Paulista, na região de Presidente Prudente, assustando agricultores da região. O artefato faz parte do programa Projeto Hibiscus, desenvolvido por Brasil, França, Argentina, Inglaterra e Itália, para a medição do comportamento da camada de ozônio, e sua descida se deu após o cumprimento do tempo previsto de medição.</p><p class=\"fonte\">Disponível em: http://www.correiodobrasil.com.br. Acesso em: 02 maio 2010.</p>[[fig:1]]<p>Na data do acontecido, duas pessoas avistaram o balão. Uma estava a 1,8 km da posição vertical do balão e o avistou sob um ângulo de 60°; a outra estava a 5,5 km da posição vertical do balão, alinhada com a primeira, e no mesmo sentido, conforme se vê na figura, e o avistou sob um ângulo de 30°. Qual a altura aproximada em que se encontrava o balão?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q160.webp",
+     "alt": "Triângulo retângulo com o balão no vértice de cima; na base, o ponto A a 1,8 km da vertical, com ângulo de 60°, e o ponto B, 3,7 km depois de A, com ângulo de 30°."
+    }
+   ],
+   "alternativas": {
+    "A": "1,8 km",
+    "B": "1,9 km",
+    "C": "3,1 km",
+    "D": "3,7 km",
+    "E": "5,5 km"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A primeira pessoa está a 1,8 km da vertical do balão e o vê a 60°: h = 1,8 · tg 60° = 1,8 × 1,73 ≈ <strong>3,1 km</strong>. Alternativa <strong>C</strong>.</p><p>A segunda pessoa confirma: tg 30° × 5,5 ≈ 0,577 × 5,5 ≈ 3,2 km, valor próximo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tangente",
+    "triângulo retângulo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 161
+   },
+   "enunciado": "<p>Em canteiros de obras de construção civil é comum perceber trabalhadores realizando medidas de comprimento e de ângulos e fazendo demarcações por onde a obra deve começar ou se erguer. Em um desses canteiros foram feitas algumas marcas no chão plano. Foi possível perceber que, das seis estacas colocadas, três eram vértices de um triângulo retângulo e as outras três eram os pontos médios dos lados desse triângulo, conforme pode ser visto na figura, em que as estacas foram indicadas por letras.</p>[[fig:1]]<p>A região demarcada pelas estacas A, B, M e N deveria ser calçada com concreto. Nessas condições, a área a ser calçada corresponde</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q161.webp",
+     "alt": "Triângulo retângulo ABC, com ângulo reto em A, B em cima e C à direita; P é o ponto médio de AB, M o de BC e N o de AC; a região ABMN está sombreada."
+    }
+   ],
+   "alternativas": {
+    "A": "à mesma área do triângulo AMC.",
+    "B": "à mesma área do triângulo BNC.",
+    "C": "à metade da área formada pelo triângulo ABC.",
+    "D": "ao dobro da área do triângulo MNC.",
+    "E": "ao triplo da área do triângulo MNC."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>M e N são pontos médios de BC e AC, então MN é base média: o triângulo MNC é semelhante a ABC com razão 1/2 e tem 1/4 da área. A região ABMN é o resto: 3/4 da área de ABC, ou seja, o <strong>triplo da área do triângulo MNC</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "base média",
+    "semelhança"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "assunto": "Áreas",
+   "origem": {
+    "numeroOriginal": 162
+   },
+   "enunciado": "<p>O jornal de certa cidade publicou em uma página inteira a seguinte divulgação de seu caderno de classificados.</p>[[fig:1]]<p>Para que a propaganda seja fidedigna à porcentagem da área que aparece na divulgação, a medida do lado do retângulo que representa os 4%, deve ser de aproximadamente</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q162.webp",
+     "alt": "Página de jornal de 260 mm por 400 mm, quase toda escura com “96% Pessoas que consultam nossos classificados”; no canto superior esquerdo, um retângulo branco de 26 mm de largura e altura x mm com “4% outros jornais”."
+    }
+   ],
+   "alternativas": {
+    "A": "1 mm.",
+    "B": "10 mm.",
+    "C": "17 mm.",
+    "D": "160 mm.",
+    "E": "167 mm."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A página tem 260 mm × 400 mm = 104 000 mm². Os 4% correspondem a 0,04 × 104 000 = 4 160 mm². Com largura de 26 mm: x = 4 160 ÷ 26 = <strong>160 mm</strong>. Alternativa <strong>D</strong>.</p><p>A figura desenha esse retângulo bem menor do que deveria; por isso a pergunta sobre fidedignidade.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "área do retângulo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 163
+   },
+   "enunciado": "<p>A ideia de usar rolos circulares para deslocar objetos pesados provavelmente surgiu com os antigos egípcios ao construírem as pirâmides.</p>[[fig:1]]<p class=\"fonte\">BOLT, Brian. <em>Atividades matemáticas</em>. Ed. Gradiva.</p><p>Representando por R o raio da base dos rolos cilíndricos, em metros, a expressão do deslocamento horizontal y do bloco de pedra em função de R, após o rolo ter dado uma volta completa sem deslizar, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q163.webp",
+     "alt": "Desenho de trabalhadores empurrando um grande bloco de pedra apoiado sobre rolos cilíndricos de raio R."
+    }
+   ],
+   "alternativas": {
+    "A": "y = R.",
+    "B": "y = 2R.",
+    "C": "y = πR.",
+    "D": "y = 2πR.",
+    "E": "y = 4πR."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Numa volta completa sem deslizar, o rolo avança 2πR em relação ao chão. O bloco, apoiado no topo do rolo, avança 2πR em relação ao rolo, que já se moveu 2πR: no total, y = <strong>4πR</strong>. Alternativa <strong>E</strong>.</p><p>2πR (D) seria o avanço do centro do rolo, e não do bloco.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comprimento da circunferência",
+    "rolamento"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 164
+   },
+   "enunciado": "<p>Uma metalúrgica recebeu uma encomenda para fabricar, em grande quantidade, uma peça com o formato de um prisma reto com base triangular, cujas dimensões da base são 6 cm, 8 cm e 10 cm e cuja altura é 10 cm. Tal peça deve ser vazada de tal maneira que a perfuração na forma de um cilindro circular reto seja tangente às suas faces laterais, conforme mostra a figura.</p>[[fig:1]]<p>O raio da perfuração da peça é igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q164.webp",
+     "alt": "Prisma reto de base triangular, com lados da base de 6 cm, 8 cm e 10 cm, atravessado por um cilindro vertical tangente às três faces laterais."
+    }
+   ],
+   "alternativas": {
+    "A": "1 cm.",
+    "B": "2 cm.",
+    "C": "3 cm.",
+    "D": "4 cm.",
+    "E": "5 cm."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O cilindro tangente às faces laterais tem base inscrita no triângulo 6-8-10, que é retângulo (6² + 8² = 10²). O raio do círculo inscrito num triângulo retângulo é r = (6 + 8 − 10) ÷ 2 = <strong>2 cm</strong>. Alternativa <strong>B</strong>.</p><p>Outra conta: área ÷ semiperímetro = 24 ÷ 12 = 2.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "círculo inscrito",
+    "triângulo retângulo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 165
+   },
+   "enunciado": "<p>Nos processos industriais, como na indústria de cerâmica, é necessário o uso de fornos capazes de produzir elevadas temperaturas e, em muitas situações, o tempo de elevação dessa temperatura deve ser controlado, para garantir a qualidade do produto final e a economia no processo. Em uma indústria de cerâmica, o forno é programado para elevar a temperatura ao longo do tempo de acordo com a função</p><p>\\(T(t) = \\begin{cases} \\dfrac{7}{5}t + 20, & \\text{para } 0 \\le t < 100 \\\\ \\dfrac{2}{125}t^2 - \\dfrac{16}{5}t + 320, & \\text{para } t \\ge 100 \\end{cases}\\)</p><p>em que T é o valor da temperatura atingida pelo forno, em graus Celsius, e t é o tempo, em minutos, decorrido desde o instante em que o forno é ligado. Uma peça deve ser colocada nesse forno quando a temperatura for 48 °C e retirada quando a temperatura for 200 °C. O tempo de permanência dessa peça no forno é, em minutos, igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "100.",
+    "B": "108.",
+    "C": "128.",
+    "D": "130.",
+    "E": "150."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A temperatura chega a 48 °C no primeiro trecho: \\(\\frac{7}{5}t + 20 = 48\\), então t = 20 min. Chega a 200 °C no segundo trecho: \\(\\frac{2}{125}t^2 - \\frac{16}{5}t + 320 = 200\\), que dá t² − 200t + 7 500 = 0, com raízes 50 e 150; como t ≥ 100, t = 150. A peça fica 150 − 20 = <strong>130 minutos</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função definida por partes",
+    "equação do 2º grau"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Função afim",
+   "origem": {
+    "numeroOriginal": 166
+   },
+   "enunciado": "<p>O gráfico mostra o número de favelas no município do Rio de Janeiro entre 1980 e 2004, considerando que a variação nesse número entre os anos considerados é linear.</p>[[fig:1]]<p class=\"fonte\">Favela Tem Memória. <em>Época</em>. Nº 621, 12 abr. 2010 (adaptado).</p><p>Se o padrão na variação do período 2004/2010 se mantiver nos próximos 6 anos, e sabendo que o número de favelas em 2010 é 968, então o número de favelas em 2016 será</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q166.webp",
+     "alt": "Gráfico de segmentos do número de favelas no Rio de Janeiro: 372 em 1980, 573 em 1992 e 750 em 2004."
+    }
+   ],
+   "alternativas": {
+    "A": "menor que 1 150.",
+    "B": "218 unidades maior que em 2004.",
+    "C": "maior que 1 150 e menor que 1 200.",
+    "D": "177 unidades maior que em 2010.",
+    "E": "maior que 1 200."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>De 2004 (750) a 2010 (968) o número de favelas cresceu 218 em 6 anos. Mantendo o padrão, de 2010 a 2016 cresce mais 218: 968 + 218 = 1 186, que está entre 1 150 e 1 200. Alternativa <strong>C</strong>.</p><p>A opção B confunde: 218 a mais que 2010, e não que 2004.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "variação linear"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 167
+   },
+   "enunciado": "<p>O gráfico apresenta a quantidade de gols marcados pelos artilheiros das Copas do Mundo desde a Copa de 1930 até a de 2006.</p><p class=\"apoio\"><strong>Quantidades de Gols dos Artilheiros das Copas do Mundo</strong></p>[[fig:1]]<p class=\"fonte\">Disponível em: http://www.suapesquisa.com. Acesso em: 23 abr. 2010 (adaptado).</p><p>A partir dos dados apresentados, qual a mediana das quantidades de gols marcados pelos artilheiros das Copas do Mundo?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q167.webp",
+     "alt": "Gráfico de pontos “Quantidades de Gols dos Artilheiros das Copas do Mundo”, de 1930 a 2006: 8, 5, 7, 9, 11, 13, 4, 9, 10, 7, 6, 6, 6, 6, 6, 6, 8 e 5 gols."
+    }
+   ],
+   "alternativas": {
+    "A": "6 gols",
+    "B": "6,5 gols",
+    "C": "7 gols",
+    "D": "7,3 gols",
+    "E": "8,5 gols"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>São 18 Copas no gráfico. Em ordem, os gols dos artilheiros: 4, 5, 5, 6, 6, 6, 6, 6, 6, 7, 7, 8, 8, 9, 9, 10, 11, 13. A mediana é a média do 9º e do 10º valores: (6 + 7) ÷ 2 = <strong>6,5 gols</strong>. Alternativa <strong>B</strong>.</p><p>A moda é 6 (A), e a média, cerca de 7,3 (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mediana"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 168
+   },
+   "enunciado": "<p>Em um casamento, os donos da festa serviam champanhe aos seus convidados em taças com formato de um hemisfério (Figura 1), porém um acidente na cozinha culminou na quebra de grande parte desses recipientes. Para substituir as taças quebradas, utilizou-se um outro tipo com formato de cone (Figura 2). No entanto, os noivos solicitaram que o volume de champanhe nos dois tipos de taças fosse igual.</p>[[fig:1]]<p>Considere: \\(V_{esfera} = \\dfrac{4}{3}\\pi R^3\\) e \\(V_{cone} = \\dfrac{1}{3}\\pi R^2 h\\)</p><p>Sabendo que a taça com o formato de hemisfério é servida completamente cheia, a altura do volume de champanhe que deve ser colocado na outra taça, em centímetros, é de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q168.webp",
+     "alt": "Figura 1: taça em forma de hemisfério de raio 3 cm. Figura 2: taça em forma de cone de raio 3 cm e altura h."
+    }
+   ],
+   "alternativas": {
+    "A": "1,33.",
+    "B": "6,00.",
+    "C": "12,00.",
+    "D": "56,52.",
+    "E": "113,04."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A taça hemisférica de raio 3 cm tem volume \\(\\frac{1}{2} \\cdot \\frac{4}{3}\\pi \\cdot 3^3 = 18\\pi\\) cm³. A cônica, com raio 3: \\(\\frac{1}{3}\\pi \\cdot 9 \\cdot h = 3\\pi h\\). Igualando, 3πh = 18π e h = <strong>6 cm</strong>. Alternativa <strong>B</strong>.</p><p>Quem esquece que a taça é meia esfera chega a 12 (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cone",
+    "volume da esfera"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Equações",
+   "origem": {
+    "numeroOriginal": 169
+   },
+   "enunciado": "<p class=\"apoio\">O Salto Triplo é uma modalidade do atletismo em que o atleta dá um salto em um só pé, uma passada e um salto, nessa ordem. Sendo que o salto com impulsão em um só pé será feito de modo que o atleta caia primeiro sobre o mesmo pé que deu a impulsão; na passada ele cairá com o outro pé, do qual o salto é realizado.</p><p class=\"fonte\">Disponível em: www.cbat.org.br (adaptado).</p><p>Um atleta da modalidade Salto Triplo, depois de estudar seus movimentos, percebeu que, do segundo para o primeiro salto, o alcance diminuía em 1,2 m, e, do terceiro para o segundo salto, o alcance diminuía 1,5 m. Querendo atingir a meta de 17,4 m nessa prova e considerando os seus estudos, a distância alcançada no primeiro salto teria de estar entre</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4,0 m e 5,0 m.",
+    "B": "5,0 m e 6,0 m.",
+    "C": "6,0 m e 7,0 m.",
+    "D": "7,0 m e 8,0 m.",
+    "E": "8,0 m e 9,0 m."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Se o primeiro salto é x, o segundo é x − 1,2 e o terceiro, x − 1,2 − 1,5 = x − 2,7. Somando: 3x − 3,9 = 17,4, então x = 7,1 m, entre <strong>7,0 m e 8,0 m</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação do 1º grau"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 170
+   },
+   "enunciado": "<p>Marco e Paulo foram classificados em um concurso. Para classificação no concurso o candidato deveria obter média aritmética na pontuação igual ou superior a 14. Em caso de empate na média, o desempate seria em favor da pontuação mais regular. No quadro a seguir são apresentados os pontos obtidos nas provas de Matemática, Português e Conhecimentos Gerais, a média, a mediana e o desvio padrão dos dois candidatos.</p><p class=\"apoio\"><strong>Dados dos candidatos no concurso</strong></p><table class=\"tabela\"><thead><tr><th></th><th>Matemática</th><th>Português</th><th>Conhecimentos Gerais</th><th>Média</th><th>Mediana</th><th>Desvio Padrão</th></tr></thead><tbody><tr><td>Marco</td><td>14</td><td>15</td><td>16</td><td>15</td><td>15</td><td>0,32</td></tr><tr><td>Paulo</td><td>8</td><td>19</td><td>18</td><td>15</td><td>18</td><td>4,97</td></tr></tbody></table><p>O candidato com pontuação mais regular, portanto mais bem classificado no concurso, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Marco, pois a média e a mediana são iguais.",
+    "B": "Marco, pois obteve menor desvio padrão.",
+    "C": "Paulo, pois obteve a maior pontuação da tabela, 19 em Português.",
+    "D": "Paulo, pois obteve maior mediana.",
+    "E": "Paulo, pois obteve maior desvio padrão."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os dois têm média 15. O desempate vai para a pontuação mais regular, isto é, a de menor dispersão: o desvio padrão de Marco (0,32) é muito menor que o de Paulo (4,97). O mais bem classificado é <strong>Marco, pois obteve menor desvio padrão</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "desvio padrão",
+    "regularidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 171
+   },
+   "enunciado": "<p>Um grupo de pacientes com Hepatite C foi submetido a um tratamento tradicional em que 40% desses pacientes foram completamente curados. Os pacientes que não obtiveram cura foram distribuídos em dois grupos de mesma quantidade e submetidos a dois tratamentos inovadores. No primeiro tratamento inovador, 35% dos pacientes foram curados e, no segundo, 45%. Em relação aos pacientes submetidos inicialmente, os tratamentos inovadores proporcionaram cura de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "16%.",
+    "B": "24%.",
+    "C": "32%.",
+    "D": "48%.",
+    "E": "64%."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>De 100 pacientes, 60 não foram curados e foram divididos em dois grupos de 30. No primeiro, 35% de 30 = 10,5; no segundo, 45% de 30 = 13,5. Os tratamentos inovadores curaram 24 dos 100 iniciais: <strong>24%</strong>. Alternativa <strong>B</strong>.</p><p>Somar 35% e 45% e dividir por 2 dá 40%, mas isso vale só para os 60%.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem de porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 172
+   },
+   "enunciado": "<p>Em 2006, a produção mundial de etanol foi de 40 bilhões de litros e a de biodiesel, de 6,5 bilhões. Neste mesmo ano, a produção brasileira de etanol correspondeu a 43 % da produção mundial, ao passo que a produção dos Estados Unidos da América, usando milho, foi de 45%.</p><p>Considerando que, em 2009, a produção mundial de etanol seja a mesma de 2006 e que os Estados Unidos produzirão somente a metade de sua produção de 2006, para que o total produzido pelo Brasil e pelos Estados Unidos continue correspondendo a 88% da produção mundial, o Brasil deve aumentar sua produção em, aproximadamente,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "22,5%.",
+    "B": "50,0%.",
+    "C": "52,3%.",
+    "D": "65,5%.",
+    "E": "77,5%."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Em 2006 o Brasil produziu 43% de 40 bilhões = 17,2 bilhões, e os EUA 45% = 18 bilhões. Em 2009 os EUA produzem 9 bilhões. Para manter 88% (35,2 bilhões), o Brasil deve produzir 26,2 bilhões: aumento de 9 ÷ 17,2 ≈ <strong>52,3%</strong>. Alternativa <strong>C</strong>.</p><p>Os 9 bilhões perdidos pelos EUA representam 22,5% da produção mundial (A), e não o aumento brasileiro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "variação percentual"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 173
+   },
+   "enunciado": "<p>João mora na cidade A e precisa visitar cinco clientes, localizados em cidades diferentes da sua. Cada trajeto possível pode ser representado por uma sequência de 7 letras. Por exemplo, o trajeto ABCDEFA, informa que ele sairá da cidade A, visitando as cidades B, C, D, E e F nesta ordem, voltando para a cidade A. Além disso, o número indicado entre as letras informa o custo do deslocamento entre as cidades. A figura mostra o custo de deslocamento entre cada uma das cidades.</p>[[fig:1]]<p>Como João quer economizar, ele precisa determinar qual o trajeto de menor custo para visitar os cinco clientes. Examinando a figura, percebe que precisa considerar somente parte das sequências, pois os trajetos ABCDEFA e AFEDCBA têm o mesmo custo. Ele gasta 1min30s para examinar uma sequência e descartar sua simétrica, conforme apresentado.</p><p>O tempo mínimo necessário para João verificar todas as sequências possíveis no problema é de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q173.webp",
+     "alt": "Grafo com seis cidades, A, B, C, D, E e F, todas ligadas entre si, com o custo de cada deslocamento indicado nas arestas."
+    }
+   ],
+   "alternativas": {
+    "A": "60 min.",
+    "B": "90 min.",
+    "C": "120 min.",
+    "D": "180 min.",
+    "E": "360 min."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A partida e a chegada são em A; as outras cinco cidades podem ser visitadas em 5! = 120 ordens. Como cada trajeto e seu inverso têm o mesmo custo, basta examinar 60. A 1min30s cada: 60 × 1,5 = <strong>90 min</strong>. Alternativa <strong>B</strong>.</p><p>Examinar todas as 120 daria 180 min (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "permutação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 174
+   },
+   "enunciado": "<p>O diretor de um colégio leu numa revista que os pés das mulheres estavam aumentando. Há alguns anos, a média do tamanho dos calçados das mulheres era de 35,5 e, hoje, é de 37,0. Embora não fosse uma informação científica, ele ficou curioso e fez uma pesquisa com as funcionárias do seu colégio, obtendo o quadro a seguir:</p><table class=\"tabela\"><thead><tr><th>Tamanho dos calçados</th><th>Número de funcionárias</th></tr></thead><tbody><tr><td>39,0</td><td>1</td></tr><tr><td>38,0</td><td>10</td></tr><tr><td>37,0</td><td>3</td></tr><tr><td>36,0</td><td>5</td></tr><tr><td>35,0</td><td>6</td></tr></tbody></table><p>Escolhendo uma funcionária ao acaso e sabendo que ela tem calçado maior que 36,0, a probabilidade de ela calçar 38,0 é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{3}\\)",
+    "B": "\\(\\dfrac{1}{5}\\)",
+    "C": "\\(\\dfrac{2}{5}\\)",
+    "D": "\\(\\dfrac{5}{7}\\)",
+    "E": "\\(\\dfrac{5}{14}\\)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Calçam mais que 36,0: 39,0 (1), 38,0 (10) e 37,0 (3), total de 14 funcionárias. Das 14, 10 calçam 38: probabilidade \\(\\frac{10}{14} = \\frac{5}{7}\\). Alternativa <strong>D</strong>.</p><p>Usar as 25 funcionárias como total daria 2/5 (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade condicional"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 175
+   },
+   "enunciado": "<p>O quadro seguinte mostra o desempenho de um time de futebol no último campeonato. A coluna da esquerda mostra o número de gols marcados e a coluna da direita informa em quantos jogos o time marcou aquele número de gols.</p><table class=\"tabela\"><thead><tr><th>Gols marcados</th><th>Quantidade de partidas</th></tr></thead><tbody><tr><td>0</td><td>5</td></tr><tr><td>1</td><td>3</td></tr><tr><td>2</td><td>4</td></tr><tr><td>3</td><td>3</td></tr><tr><td>4</td><td>2</td></tr><tr><td>5</td><td>2</td></tr><tr><td>7</td><td>1</td></tr></tbody></table><p>Se X, Y e Z são, respectivamente, a média, a mediana e a moda desta distribuição, então</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "X = Y &lt; Z.",
+    "B": "Z &lt; X = Y.",
+    "C": "Y &lt; Z &lt; X.",
+    "D": "Z &lt; X &lt; Y.",
+    "E": "Z &lt; Y &lt; X."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>São 20 jogos e 45 gols: média X = 2,25. Em ordem, os 10º e 11º valores são 2 e 2: mediana Y = 2. O valor mais frequente é 0 (5 jogos): moda Z = 0. Logo <strong>Z &lt; Y &lt; X</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média",
+    "mediana",
+    "moda"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 41,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 176
+   },
+   "enunciado": "<p class=\"apoio\">A disparidade de volume entre os planetas é tão grande que seria possível colocá-los uns dentro dos outros. O planeta Mercúrio é o menor de todos. Marte é o segundo menor: dentro dele cabem três Mercúrios. Terra é o único com vida: dentro dela cabem sete Martes. Netuno é o quarto maior: dentro dele cabem 58 Terras. Júpiter é o maior dos planetas: dentro dele cabem 23 Netunos.</p><p class=\"fonte\"><em>Revista Veja</em>. Ano 41, nº 25, 25 jun. 2008 (adaptado).</p><p>Seguindo o raciocínio proposto, quantas Terras cabem dentro de Júpiter?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "406",
+    "B": "1 334",
+    "C": "4 002",
+    "D": "9 338",
+    "E": "28 014"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em Júpiter cabem 23 Netunos, e em cada Netuno cabem 58 Terras: 23 × 58 = <strong>1 334 Terras</strong>. Alternativa <strong>B</strong>.</p><p>Mercúrio e Marte não entram na conta, porque a pergunta compara Júpiter com a Terra.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "multiplicação",
+    "proporção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Potenciação",
+   "origem": {
+    "numeroOriginal": 177
+   },
+   "enunciado": "<p class=\"apoio\">Um dos grandes problemas da poluição dos mananciais (rios, córregos e outros) ocorre pelo hábito de jogar óleo utilizado em frituras nos encanamentos que estão interligados com o sistema de esgoto. Se isso ocorrer, cada 10 litros de óleo poderão contaminar 10 milhões (10<sup>7</sup>) de litros de água potável.</p><p class=\"fonte\">Manual de etiqueta. Parte integrante das revistas <em>Veja</em> (ed. 2055), <em>Cláudia</em> (ed. 555), <em>National Geographic</em> (ed. 93) e <em>Nova Escola</em> (ed. 208) (adaptado).</p><p>Suponha que todas as famílias de uma cidade descartem os óleos de frituras através dos encanamentos e consomem 1 000 litros de óleo em frituras por semana.</p><p>Qual seria, em litros, a quantidade de água potável contaminada por semana nessa cidade?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "10<sup>−2</sup>",
+    "B": "10<sup>3</sup>",
+    "C": "10<sup>4</sup>",
+    "D": "10<sup>6</sup>",
+    "E": "10<sup>9</sup>"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>10 L de óleo contaminam 10<sup>7</sup> L de água, ou seja, 1 L contamina 10<sup>6</sup> L. Com 1 000 = 10<sup>3</sup> L de óleo por semana: 10<sup>3</sup> × 10<sup>6</sup> = <strong>10<sup>9</sup> litros</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potências de 10"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 178
+   },
+   "enunciado": "<p>Um porta-lápis de madeira foi construído no formato cúbico, seguindo o modelo ilustrado a seguir. O cubo de dentro é vazio. A aresta do cubo maior mede 12 cm e a do cubo menor, que é interno, mede 8 cm.</p>[[fig:1]]<p>O volume de madeira utilizado na confecção desse objeto foi de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q178.webp",
+     "alt": "Desenho em perspectiva de um cubo grande com um cubo menor dentro."
+    }
+   ],
+   "alternativas": {
+    "A": "12 cm<sup>3</sup>.",
+    "B": "64 cm<sup>3</sup>.",
+    "C": "96 cm<sup>3</sup>.",
+    "D": "1 216 cm<sup>3</sup>.",
+    "E": "1 728 cm<sup>3</sup>."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Volume de madeira = cubo maior − cubo interno vazio = 12³ − 8³ = 1 728 − 512 = <strong>1 216 cm³</strong>. Alternativa <strong>D</strong>.</p><p>A opção E (1 728) é o volume do cubo maior inteiro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cubo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 179
+   },
+   "enunciado": "<p>Ronaldo é um garoto que adora brincar com números. Numa dessas brincadeiras, empilhou caixas numeradas de acordo com a sequência conforme mostrada no esquema a seguir.</p><p class=\"apoio\" style=\"text-align:center\">1<br>1 2 1<br>1 2 3 2 1<br>1 2 3 4 3 2 1<br>...</p><p>Ele percebeu que a soma dos números em cada linha tinha uma propriedade e que, por meio dessa propriedade, era possível prever a soma de qualquer linha posterior às já construídas.</p><p>A partir dessa propriedade, qual será a soma da 9ª linha da sequência de caixas empilhadas por Ronaldo?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "9",
+    "B": "45",
+    "C": "64",
+    "D": "81",
+    "E": "285"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>As somas das linhas são 1, 1 + 2 + 1 = 4, 1 + 2 + 3 + 2 + 1 = 9, 1 + 2 + 3 + 4 + 3 + 2 + 1 = 16: quadrados perfeitos. A linha n soma n². A 9ª linha soma 9² = <strong>81</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "padrões",
+    "quadrados perfeitos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 180
+   },
+   "enunciado": "<p>Para conseguir chegar a um número recorde de produção de ovos de Páscoa, as empresas brasileiras começam a se planejar para esse período com um ano de antecedência. O gráfico a seguir mostra o número de ovos de Páscoa produzidos no Brasil no período de 2005 a 2009.</p>[[fig:1]]<p class=\"fonte\"><em>Revista Veja</em>. São Paulo: Abril, ed. 2107, nº 14, ano 42.</p><p>De acordo com o gráfico, o biênio que apresentou maior produção acumulada foi</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2010-matematica/q180.webp",
+     "alt": "Gráfico de linha “Produção recorde”, do número de ovos de Páscoa produzidos no Brasil: 90 milhões em 2005, 94 em 2006, 99 em 2007, 107 em 2008 e 113 em 2009."
+    }
+   ],
+   "alternativas": {
+    "A": "2004-2005.",
+    "B": "2005-2006.",
+    "C": "2006-2007.",
+    "D": "2007-2008.",
+    "E": "2008-2009."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pelo gráfico: 2005, 90 milhões; 2006, 94; 2007, 99; 2008, 107; 2009, 113. Biênios: 2005-2006, 184; 2006-2007, 193; 2007-2008, 206; 2008-2009, 220 milhões. O maior é <strong>2008-2009</strong>. Alternativa <strong>E</strong>.</p><p>2004-2005 (A) nem tem os dois anos no gráfico.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "soma"
+   ],
+   "area": "Matemática"
+  }
+ ]
+}

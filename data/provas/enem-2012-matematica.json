@@ -1,0 +1,1317 @@
+{
+ "id": "enem-2012-matematica",
+ "banca": "Enem",
+ "ano": 2012,
+ "titulo": "Enem 2012: Matemática",
+ "fonte": "Inep",
+ "dataExame": "2012-11-04",
+ "duracaoMinutos": 150,
+ "area": "Matemática",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Escala",
+   "origem": {
+    "numeroOriginal": 136
+   },
+   "enunciado": "<p>O esporte de alta competição da atualidade produziu uma questão ainda sem resposta: Qual é o limite do corpo humano? O maratonista original, o grego da lenda, morreu de fadiga por ter corrido 42 quilômetros. O americano Dean Karnazes, cruzando sozinho as planícies da Califórnia, conseguiu correr dez vezes mais em 75 horas.</p><p>Um professor de Educação Física, ao discutir com a turma o texto sobre a capacidade do maratonista americano, desenhou na lousa uma pista reta de 60 centímetros, que representaria o percurso referido.</p><p class=\"fonte\">Disponível em: http://veja.abril.com.br. Acesso em: 25 jun. 2011 (adaptado).</p><p>Se o percurso de Dean Karnazes fosse também em uma pista reta, qual seria a escala entre a pista feita pelo professor e a percorrida pelo atleta?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1:700",
+    "B": "1:7 000",
+    "C": "1:70 000",
+    "D": "1:700 000",
+    "E": "1:7 000 000"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Karnazes correu dez vezes 42 km, ou seja, 420 km = 42 000 000 cm. A pista do professor tem 60 cm. A escala é 60 : 42 000 000, que, dividindo por 60, dá <strong>1 : 700 000</strong>. Alternativa <strong>D</strong>.</p><p>Quem usa 42 km, e não 420 km, chega a 1 : 70 000 (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 137
+   },
+   "enunciado": "<p>O losango representado na Figura 1 foi formado pela união dos centros das quatro circunferências tangentes, de raios de mesma medida.</p>[[fig:1]]<p class=\"apoio\" style=\"text-align:center\">Figura 1</p><p>Dobrando-se o raio de duas das circunferências centradas em vértices opostos do losango e ainda mantendo-se a configuração das tangências, obtém-se uma situação conforme ilustrada pela Figura 2.</p>[[fig:2]]<p class=\"apoio\" style=\"text-align:center\">Figura 2</p><p>O perímetro do losango da Figura 2, quando comparado ao perímetro do losango da Figura 1, teve um aumento de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q137a.webp",
+     "alt": "Figura 1: quatro circunferências iguais, tangentes duas a duas, dispostas em cruz; seus centros são os vértices de um losango."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q137b.webp",
+     "alt": "Figura 2: as duas circunferências da esquerda e da direita ficaram maiores (raio dobrado), e as de cima e de baixo continuam pequenas; o losango dos centros ficou maior."
+    }
+   ],
+   "alternativas": {
+    "A": "300%.",
+    "B": "200%.",
+    "C": "150%.",
+    "D": "100%.",
+    "E": "50%."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Na Figura 1, as quatro circunferências têm raio r, e cada lado do losango liga dois centros tangentes: lado 2r, perímetro 8r. Na Figura 2, duas circunferências opostas passam a ter raio 2r, e cada lado liga uma de raio r a uma de raio 2r: lado 3r, perímetro 12r. O aumento é de 4r sobre 8r, ou seja, <strong>50%</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "perímetro",
+    "circunferências tangentes"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 138
+   },
+   "enunciado": "<p>José, Carlos e Paulo devem transportar em suas bicicletas uma certa quantidade de laranjas. Decidiram dividir o trajeto a ser percorrido em duas partes, sendo que ao final da primeira parte eles redistribuiriam a quantidade de laranjas que cada um carregava dependendo do cansaço de cada um. Na primeira parte do trajeto José, Carlos e Paulo dividiram as laranjas na proporção 6 : 5 : 4, respectivamente. Na segunda parte do trajeto José, Carlos e Paulo dividiram as laranjas na proporção 4 : 4 : 2, respectivamente.</p><p>Sabendo-se que um deles levou 50 laranjas a mais no segundo trajeto, qual a quantidade de laranjas que José, Carlos e Paulo, nessa ordem, transportaram na segunda parte do trajeto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "600, 550, 350",
+    "B": "300, 300, 150",
+    "C": "300, 250, 200",
+    "D": "200, 200, 100",
+    "E": "100, 100, 50"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na primeira parte, a divisão 6 : 5 : 4 tem 15 partes. Na segunda, 4 : 4 : 2 tem 10 partes, o que equivale a 6 : 6 : 3 em 15 partes. José fica com 6 partes, Carlos passa de 5 para 6 e Paulo cai de 4 para 3. Quem levou 50 a mais foi Carlos, com uma parte a mais: cada parte vale 50 e o total é 750 laranjas. Na segunda parte: 300, 300 e 150. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisão proporcional"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 139
+   },
+   "enunciado": "<p>Em um <em>blog</em> de variedades, músicas, mantras e informações diversas, foram postados “Contos de Halloween”. Após a leitura, os visitantes poderiam opinar, assinalando suas reações em: “Divertido”, “Assustador” ou “Chato”. Ao final de uma semana, o <em>blog</em> registrou que 500 visitantes distintos acessaram esta postagem.</p><p>O gráfico a seguir apresenta o resultado da enquete.</p>[[fig:1]]<p>O administrador do <em>blog</em> irá sortear um livro entre os visitantes que opinaram na postagem “Contos de Halloween”.</p><p>Sabendo que nenhum visitante votou mais de uma vez, a probabilidade de uma pessoa escolhida ao acaso entre as que opinaram ter assinalado que o conto “Contos de Halloween” é “Chato” é mais aproximada por</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q139.webp",
+     "alt": "Gráfico de barras horizontais “Contos de Halloween: opinião dos visitantes”: Divertido 52%, Assustador 15%, Chato 12%, Não opinaram 21%."
+    }
+   ],
+   "alternativas": {
+    "A": "0,09.",
+    "B": "0,12.",
+    "C": "0,14.",
+    "D": "0,15.",
+    "E": "0,18."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo gráfico, 21% não opinaram, então 79% dos 500 visitantes opinaram, e 12% acharam o conto “Chato”. A probabilidade, entre os que opinaram, é \\(\\dfrac{12}{79} \\approx 0{,}15\\). Alternativa <strong>D</strong>.</p><p>A opção 0,12 (B) usa todos os visitantes, inclusive os que não opinaram.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade condicional",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Matemática financeira",
+   "origem": {
+    "numeroOriginal": 140
+   },
+   "enunciado": "<p>Arthur deseja comprar um terreno de Cléber, que lhe oferece as seguintes possibilidades de pagamento:</p><ul><li>Opção 1: Pagar à vista, por R$ 55 000,00;</li><li>Opção 2: Pagar a prazo, dando uma entrada de R$ 30 000,00, e mais uma prestação de R$ 26 000,00 para dali a 6 meses.</li><li>Opção 3: Pagar a prazo, dando uma entrada de R$ 20 000,00, mais uma prestação de R$ 20 000,00, para dali a 6 meses e outra de R$ 18 000,00 para dali a 12 meses da data da compra.</li><li>Opção 4: Pagar a prazo dando uma entrada de R$ 15 000,00 e o restante em 1 ano da data da compra, pagando R$ 39 000,00.</li><li>Opção 5: pagar a prazo, dali a um ano, o valor de R$ 60 000,00.</li></ul><p>Arthur tem o dinheiro para pagar à vista, mas avalia se não seria melhor aplicar o dinheiro do valor à vista (ou até um valor menor) em um investimento, com rentabilidade de 10% ao semestre, resgatando os valores à medida que as prestações da opção escolhida fossem vencendo.</p><p>Após avaliar a situação do ponto de vista financeiro e das condições apresentadas, Arthur concluiu que era mais vantajoso financeiramente escolher a opção</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "5."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com o dinheiro aplicado a 10% ao semestre, cada pagamento futuro vale hoje o valor dividido por 1,1 (6 meses) ou 1,21 (12 meses). Opção 2: 30 000 + 26 000 ÷ 1,1 ≈ 53 636. Opção 3: 20 000 + 18 182 + 14 876 ≈ 53 058. Opção 4: 15 000 + 39 000 ÷ 1,21 ≈ 47 231. Opção 5: 60 000 ÷ 1,21 ≈ 49 587. À vista: 55 000. A mais vantajosa é a <strong>opção 4</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "valor presente",
+    "juros compostos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Expressões algébricas",
+   "origem": {
+    "numeroOriginal": 141
+   },
+   "enunciado": "<p>Um forro retangular de tecido traz em sua etiqueta a informação de que encolherá após a primeira lavagem mantendo, entretanto, seu formato. A figura a seguir mostra as medidas originais do forro e o tamanho do encolhimento (x) no comprimento e (y) na largura. A expressão algébrica que representa a área do forro após ser lavado é (5 – x) (3 – y).</p>[[fig:1]]<p>Nestas condições, a área perdida do forro, após a primeira lavagem, será expressa por</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q141.webp",
+     "alt": "Retângulo de comprimento 5 e largura 3; uma faixa de largura x na direita e uma faixa de altura y embaixo indicam o encolhimento."
+    }
+   ],
+   "alternativas": {
+    "A": "2xy",
+    "B": "15 − 3x",
+    "C": "15 − 5y",
+    "D": "−5y − 3x",
+    "E": "5y + 3x − xy"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A área original é 5 · 3 = 15, e depois da lavagem é (5 − x)(3 − y) = 15 − 5y − 3x + xy. A área perdida é a diferença: 15 − (15 − 5y − 3x + xy) = <strong>5y + 3x − xy</strong>. Alternativa <strong>E</strong>.</p><p>O termo xy é subtraído porque o cantinho x por y foi contado duas vezes nas faixas 5y e 3x.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "produto notável",
+    "área"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 142
+   },
+   "enunciado": "<p>A capacidade mínima, em BTU/h, de um aparelho de ar-condicionado, para ambientes sem exposição ao sol, pode ser determinada da seguinte forma:</p><ul><li>600 BTU/h por m², considerando-se até duas pessoas no ambiente;</li><li>para cada pessoa adicional nesse ambiente, acrescentar 600 BTU/h;</li><li>acrescentar mais 600 BTU/h para cada equipamento eletroeletrônico em funcionamento no ambiente.</li></ul><p>Será instalado um aparelho de ar-condicionado em uma sala, sem exposição ao sol, de dimensões 4 m x 5 m, em que permaneçam quatro pessoas e possua um aparelho de televisão em funcionamento.</p><p>A capacidade mínima, em BTU/h, desse aparelho de ar-condicionado deve ser</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "12 000.",
+    "B": "12 600.",
+    "C": "13 200.",
+    "D": "13 800.",
+    "E": "15 000."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A sala tem 4 × 5 = 20 m², então 20 × 600 = 12 000 BTU/h, valendo para até duas pessoas. Há duas pessoas a mais: + 1 200. A televisão: + 600. Total: <strong>13 800 BTU/h</strong>. Alternativa <strong>D</strong>.</p><p>Quem soma 600 para cada uma das quatro pessoas chega a 15 000 (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área",
+    "interpretação de regras"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Grandezas proporcionais",
+   "origem": {
+    "numeroOriginal": 143
+   },
+   "enunciado": "<p>A resistência mecânica S de uma viga de madeira, em forma de um paralelepípedo retângulo, é diretamente proporcional à sua largura (b) e ao quadrado de sua altura (d) e inversamente proporcional ao quadrado da distância entre os suportes da viga, que coincide com o seu comprimento (x), conforme ilustra a figura. A constante de proporcionalidade k é chamada de resistência da viga.</p>[[fig:1]]<p class=\"fonte\">BUSHAW, D. et al. <em>Aplicações da matemática escolar</em>. São Paulo: Atual, 1997.</p><p>A expressão que traduz a resistência S dessa viga de madeira é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q143.webp",
+     "alt": "Viga em forma de paralelepípedo retângulo, com largura b, altura d e comprimento x indicados."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(S = \\dfrac{k \\cdot b \\cdot d^2}{x^2}\\)",
+    "B": "\\(S = \\dfrac{k \\cdot b \\cdot d}{x^2}\\)",
+    "C": "\\(S = \\dfrac{k \\cdot b \\cdot d^2}{x}\\)",
+    "D": "\\(S = \\dfrac{k \\cdot b^2 \\cdot d}{x}\\)",
+    "E": "\\(S = \\dfrac{k \\cdot b \\cdot 2d}{2x}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>S é diretamente proporcional a b e a d² (vão para o numerador) e inversamente proporcional a x² (vai para o denominador), com constante k: \\(S = \\dfrac{k \\cdot b \\cdot d^2}{x^2}\\). Alternativa <strong>A</strong>.</p><p>As outras opções esquecem algum quadrado ou o colocam na grandeza errada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade direta e inversa"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 144
+   },
+   "enunciado": "<p>O diretor de uma escola convidou os 280 alunos de terceiro ano a participarem de uma brincadeira. Suponha que existem 5 objetos e 6 personagens numa casa de 9 cômodos; um dos personagens esconde um dos objetos em um dos cômodos da casa. O objetivo da brincadeira é adivinhar qual objeto foi escondido por qual personagem e em qual cômodo da casa o objeto foi escondido.</p><p>Todos os alunos decidiram participar. A cada vez um aluno é sorteado e dá a sua resposta. As respostas devem ser sempre distintas das anteriores, e um mesmo aluno não pode ser sorteado mais de uma vez. Se a resposta do aluno estiver correta, ele é declarado vencedor e a brincadeira é encerrada. O diretor sabe que algum aluno acertará a resposta porque há</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "10 alunos a mais do que possíveis respostas distintas.",
+    "B": "20 alunos a mais do que possíveis respostas distintas.",
+    "C": "119 alunos a mais do que possíveis respostas distintas.",
+    "D": "260 alunos a mais do que possíveis respostas distintas.",
+    "E": "270 alunos a mais do que possíveis respostas distintas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Uma resposta combina um objeto, um personagem e um cômodo: 5 × 6 × 9 = 270 respostas possíveis. Como as respostas não se repetem e há 280 alunos, em algum momento a resposta certa será dada. Há <strong>10 alunos a mais do que possíveis respostas distintas</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio multiplicativo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Escala",
+   "origem": {
+    "numeroOriginal": 145
+   },
+   "enunciado": "<p>Um biólogo mediu a altura de cinco árvores distintas e representou-as em uma mesma malha quadriculada, utilizando escalas diferentes, conforme indicações na figura a seguir.</p>[[fig:1]]<p>Qual é a árvore que apresenta a maior altura real?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q145.webp",
+     "alt": "Malha quadriculada com cinco árvores desenhadas: I e II altas (cerca de 10 quadradinhos), III média (cerca de 6), IV e V baixas (cerca de 4). Escalas: I, 1:100; II, 2:100; III, 2:300; IV, 1:300; V, 2:300."
+    }
+   ],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na escala a : b, cada unidade do desenho vale b ÷ a na realidade. Contando os quadradinhos, as alturas no desenho são cerca de 9 (I), 9 (II), 6 (III), 4,5 (IV) e 4,5 (V). Reais: I, 9 × 100 = 900; II, 9 × 50 = 450; III, 6 × 150 = 900; IV, 4,5 × 300 = 1 350; V, 4,5 × 150 = 675. A maior é a <strong>árvore IV</strong>. Alternativa <strong>D</strong>.</p><p>IV e V têm o mesmo tamanho no desenho, mas a escala de IV (1 : 300) reduz o dobro da de V (2 : 300). A conclusão não depende da contagem exata: IV é a única com mais de 1 000 em qualquer leitura razoável.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala",
+    "comparação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 146
+   },
+   "enunciado": "<p>Em um jogo há duas urnas com 10 bolas de mesmo tamanho em cada urna. A tabela a seguir indica as quantidades de bolas de cada cor em cada urna.</p><table class=\"tabela\"><thead><tr><th>Cor</th><th>Urna 1</th><th>Urna 2</th></tr></thead><tbody><tr><td>Amarela</td><td>4</td><td>0</td></tr><tr><td>Azul</td><td>3</td><td>1</td></tr><tr><td>Branca</td><td>2</td><td>2</td></tr><tr><td>Verde</td><td>1</td><td>3</td></tr><tr><td>Vermelha</td><td>0</td><td>4</td></tr></tbody></table><p>Uma jogada consiste em:</p><ol><li>o jogador apresenta um palpite sobre a cor da bola que será retirada por ele da urna 2;</li><li>ele retira, aleatoriamente, uma bola da urna 1 e a coloca na urna 2, misturando-a com as que lá estão;</li><li>em seguida ele retira, também aleatoriamente, uma bola da urna 2;</li><li>se a cor da última bola retirada for a mesma do palpite inicial, ele ganha o jogo.</li></ol><p>Qual cor deve ser escolhida pelo jogador para que ele tenha a maior probabilidade de ganhar?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Azul.",
+    "B": "Amarela.",
+    "C": "Branca.",
+    "D": "Verde.",
+    "E": "Vermelha."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Depois de passar uma bola da urna 1 para a 2, a urna 2 tem 11 bolas. Para cada cor, a chance é (bolas dessa cor na urna 2 + chance de ter vindo uma dessa cor da urna 1) ÷ 11: amarela (0 + 0,4) ÷ 11; azul (1 + 0,3) ÷ 11; branca (2 + 0,2) ÷ 11; verde (3 + 0,1) ÷ 11; vermelha (4 + 0) ÷ 11. A maior é a <strong>vermelha</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "probabilidade total",
+    "urnas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Sistema de numeração",
+   "origem": {
+    "numeroOriginal": 147
+   },
+   "enunciado": "<p>Os hidrômetros são marcadores de consumo de água em residências e estabelecimentos comerciais. Existem vários modelos de mostradores de hidrômetros, sendo que alguns deles possuem uma combinação de um mostrador e dois relógios de ponteiro. O número formado pelos quatro primeiros algarismos do mostrador fornece o consumo em m<sup>3</sup>, e os dois últimos algarismos representam, respectivamente, as centenas e dezenas de litros de água consumidos. Um dos relógios de ponteiros indica a quantidade em litros, e o outro em décimos de litros, conforme ilustrados na figura a seguir.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.aguasdearacoiaba.com.br (adaptado).</p><p>Considerando as informações indicadas na figura, o consumo total de água registrado nesse hidrômetro, em litros, é igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q147.webp",
+     "alt": "Hidrômetro com mostrador 3 5 3 4 8 5 (quatro primeiros algarismos em m³, depois centenas e dezenas de litros; 1 m³ = 1 000 litros) e dois relógios de ponteiro: o de litros aponta para 9, e o de décimos de litro, entre 3 e 4."
+    }
+   ],
+   "alternativas": {
+    "A": "3 534,85.",
+    "B": "3 544,20.",
+    "C": "3 534 850,00.",
+    "D": "3 534 859,35.",
+    "E": "3 534 850,39."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O mostrador indica 3534 m³ = 3 534 000 litros, mais 8 centenas e 5 dezenas de litros: 3 534 850 L. O relógio dos litros marca 9 e o dos décimos marca 3,5, somando 9,35 L. Total: <strong>3 534 859,35 litros</strong>. Alternativa <strong>D</strong>.</p><p>A opção C ignora os dois relógios de ponteiro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de instrumentos",
+    "conversão de unidades"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 148
+   },
+   "enunciado": "<p>O dono de uma farmácia resolveu colocar à vista do público o gráfico mostrado a seguir, que apresenta a evolução do total de vendas (em Reais) de certo medicamento ao longo do ano de 2011.</p>[[fig:1]]<p>De acordo com o gráfico, os meses em que ocorreram, respectivamente, a maior e a menor venda absolutas em 2011 foram</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q148.webp",
+     "alt": "Gráfico de linha das vendas em reais, de janeiro a dezembro de 2011, sem valores no eixo: a linha sobe até março, cai em abril, sobe até o ponto mais alto em junho, cai em julho até o ponto mais baixo em agosto, sobe muito em setembro, cai em outubro, sobe em novembro e cai um pouco em dezembro."
+    }
+   ],
+   "alternativas": {
+    "A": "março e abril.",
+    "B": "março e agosto.",
+    "C": "agosto e setembro.",
+    "D": "junho e setembro.",
+    "E": "junho e agosto."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>No gráfico de linha das vendas de 2011, o ponto mais alto é o de junho e o mais baixo é o de agosto. Setembro tem um pico alto, mas abaixo de junho. A maior e a menor venda foram em <strong>junho e agosto</strong>. Alternativa <strong>E</strong>.</p><p>Os meses em que há quedas ou subidas bruscas (março, abril) não são os extremos absolutos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico de linha",
+    "máximo e mínimo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 149
+   },
+   "enunciado": "<p>Maria quer inovar em sua loja de embalagens e decidiu vender caixas com diferentes formatos. Nas imagens apresentadas estão as planificações dessas caixas.</p>[[fig:1]][[fig:2]][[fig:3]]<p>Quais serão os sólidos geométricos que Maria obterá a partir dessas planificações?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q149a.webp",
+     "alt": "Planificação 1: um retângulo com um círculo encostado em cima e outro embaixo."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q149b.webp",
+     "alt": "Planificação 2: cinco retângulos lado a lado, com um pentágono em cima e outro embaixo do retângulo central."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q149c.webp",
+     "alt": "Planificação 3: um grande triângulo dividido em quatro triângulos, o central mais claro."
+    }
+   ],
+   "alternativas": {
+    "A": "Cilindro, prisma de base pentagonal e pirâmide.",
+    "B": "Cone, prisma de base pentagonal e pirâmide.",
+    "C": "Cone, tronco de pirâmide e pirâmide.",
+    "D": "Cilindro, tronco de pirâmide e prisma.",
+    "E": "Cilindro, prisma e tronco de cone."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A primeira planificação tem um retângulo e dois círculos: cilindro. A segunda tem cinco retângulos em fila e dois pentágonos: prisma de base pentagonal. A terceira é um triângulo com três triângulos em volta: pirâmide de base triangular. São <strong>cilindro, prisma de base pentagonal e pirâmide</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "planificação",
+    "sólidos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Progressão aritmética",
+   "origem": {
+    "numeroOriginal": 150
+   },
+   "enunciado": "<p>Jogar baralho é uma atividade que estimula o raciocínio. Um jogo tradicional é a Paciência, que utiliza 52 cartas. Inicialmente são formadas sete colunas com as cartas. A primeira coluna tem uma carta, a segunda tem duas cartas, a terceira tem três cartas, a quarta tem quatro cartas, e assim sucessivamente até a sétima coluna, a qual tem sete cartas, e o que sobra forma o monte, que são as cartas não utilizadas nas colunas.</p><p>A quantidade de cartas que forma o monte é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "21.",
+    "B": "24.",
+    "C": "26.",
+    "D": "28.",
+    "E": "31."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As colunas têm 1, 2, 3, ..., 7 cartas: 1 + 2 + ... + 7 = \\(\\dfrac{7 \\cdot 8}{2} = 28\\) cartas. Sobram 52 − 28 = <strong>24 cartas</strong> no monte. Alternativa <strong>B</strong>.</p><p>A opção D (28) é o total das colunas, e não o monte.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "soma de PA"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 151
+   },
+   "enunciado": "<p>O gráfico mostra a variação da extensão média de gelo marítimo, em milhões de quilômetros quadrados, comparando dados dos anos 1995, 1998, 2000, 2005 e 2007. Os dados correspondem aos meses de junho a setembro. O Ártico começa a recobrar o gelo quando termina o verão, em meados de setembro. O gelo do mar atua como o sistema de resfriamento da Terra, refletindo quase toda a luz solar de volta ao espaço. Águas de oceanos escuros, por sua vez, absorvem a luz solar e reforçam o aquecimento do Ártico, ocasionando derretimento crescente do gelo.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://sustentabilidade.allianz.com.br. Acesso em: fev. 2012 (adaptado).</p><p>Com base no gráfico e nas informações do texto, é possível inferir que houve maior aquecimento global em</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q151.webp",
+     "alt": "Gráfico de linhas da extensão de gelo marítimo, em milhões de km², de junho a setembro, para 1995, 1998, 2000, 2005 e 2007: todas as curvas caem ao longo dos meses; 1995 fica no alto, e 2007 é a mais baixa de todas, chegando perto de 4 em setembro."
+    }
+   ],
+   "alternativas": {
+    "A": "1995.",
+    "B": "1998.",
+    "C": "2000.",
+    "D": "2005.",
+    "E": "2007."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O texto diz que, com menos gelo, o oceano escuro absorve mais luz e o aquecimento aumenta. No gráfico, a curva de 2007 é a que fica mais baixa em todos os meses, com a menor extensão de gelo. O maior aquecimento foi em <strong>2007</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gráfico de linhas",
+    "aquecimento global"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 152
+   },
+   "enunciado": "<p>Em exposições de artes plásticas, é usual que estátuas sejam expostas sobre plataformas giratórias. Uma medida de segurança é que a base da escultura esteja integralmente apoiada sobre a plataforma. Para que se providencie o equipamento adequado, no caso de uma base quadrada que será fixada sobre uma plataforma circular, o auxiliar técnico do evento deve estimar a medida <em>R</em> do raio adequado para a plataforma em termos da medida <em>L</em> do lado da base da estátua.</p><p>Qual relação entre <em>R</em> e <em>L</em> o auxiliar técnico deverá apresentar de modo que a exigência de segurança seja cumprida?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(R \\geq \\dfrac{L}{\\sqrt{2}}\\)",
+    "B": "\\(R \\geq \\dfrac{2L}{\\pi}\\)",
+    "C": "\\(R \\geq \\dfrac{L}{\\sqrt{\\pi}}\\)",
+    "D": "\\(R \\geq \\dfrac{L}{2}\\)",
+    "E": "\\(R \\geq \\dfrac{L}{2\\sqrt{2}}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Para o quadrado caber inteiro no círculo, a diagonal L√2 não pode passar do diâmetro 2R: 2R ≥ L√2, ou seja, \\(R \\geq \\dfrac{L}{\\sqrt{2}}\\). Alternativa <strong>A</strong>.</p><p>R ≥ L/2 (D) só garante que o círculo alcança o meio dos lados; os cantos ficariam para fora.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "quadrado inscrito",
+    "diagonal"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 153
+   },
+   "enunciado": "<p>O globo da morte é uma atração muito usada em circos. Ele consiste em uma espécie de jaula em forma de uma superfície esférica feita de aço, onde motoqueiros andam com suas motos por dentro. A seguir, tem-se, na Figura 1, uma foto de um globo da morte e, na Figura 2, uma esfera que ilustra um globo da morte.</p>[[fig:1]]<p>Na Figura 2, o ponto A está no plano do chão onde está colocado o globo da morte e o segmento AB passa pelo centro da esfera e é perpendicular ao plano do chão.</p><p>Suponha que há um foco de luz direcionado para o chão colocado no ponto B e que um motoqueiro faça um trajeto dentro da esfera, percorrendo uma circunferência que passa pelos pontos A e B.</p><p class=\"fonte\">Disponível em: www.baixaki.com.br. Acesso em: 29 fev. 2012.</p><p>A imagem do trajeto feito pelo motoqueiro no plano do chão é melhor representada por</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q153.webp",
+     "alt": "Figura 1: foto de um globo da morte, uma esfera de grade de aço. Figura 2: esfera com o ponto B no topo e o ponto A embaixo, ligados por um diâmetro vertical, e um círculo horizontal no meio."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q153a.webp",
+     "alt": "Alternativa A: uma circunferência."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q153b.webp",
+     "alt": "Alternativa B: um arco de circunferência aberto à direita."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q153c.webp",
+     "alt": "Alternativa C: dois arcos formando uma figura de lente."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q153d.webp",
+     "alt": "Alternativa D: um círculo preto pequeno, cheio."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q153e.webp",
+     "alt": "Alternativa E: um segmento de reta vertical."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A circunferência do motoqueiro passa por A e B, então está num plano vertical que contém AB. A luz sai de B: os raios que passam pelos pontos desse plano continuam no mesmo plano e atingem o chão na reta em que ele corta o chão. A sombra do trajeto é um <strong>segmento de reta</strong>. Alternativa <strong>E</strong>.</p><p>O círculo (A) seria a sombra de uma trajetória horizontal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "projeção",
+    "esfera"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 154
+   },
+   "enunciado": "<p>Num projeto da parte elétrica de um edifício residencial a ser construído, consta que as tomadas deverão ser colocadas a 0,20 m acima do piso, enquanto os interruptores de luz deverão ser colocados a 1,47 m acima do piso. Um cadeirante, potencial comprador de um apartamento desse edifício, ao ver tais medidas, alerta para o fato de que elas não contemplarão suas necessidades. Os referenciais de alturas (em metros) para atividades que não exigem o uso de força são mostrados na figura seguinte.</p>[[fig:1]]<p>Uma proposta substitutiva, relativa às alturas de tomadas e interruptores, respectivamente, que atenderá àquele potencial comprador é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q154.webp",
+     "alt": "Pessoa em cadeira de rodas estendendo o braço, com uma régua de alturas ao lado: 0,40 m mínimo, faixa confortável de 0,80 m a 1,00 m, 1,20 m e 1,35 m máximo."
+    }
+   ],
+   "alternativas": {
+    "A": "0,20 m e 1,45 m.",
+    "B": "0,20 m e 1,40 m.",
+    "C": "0,25 m e 1,35 m.",
+    "D": "0,25 m e 1,30 m.",
+    "E": "0,45 m e 1,20 m."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pela figura, o cadeirante alcança alturas de 0,40 m (mínimo) a 1,35 m (máximo). A tomada a 0,20 m está baixa demais, e o interruptor a 1,47 m, alto demais. A única proposta com as duas alturas dentro da faixa é <strong>0,45 m e 1,20 m</strong>. Alternativa <strong>E</strong>.</p><p>As opções A a D mantêm a tomada abaixo de 0,40 m.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "intervalos",
+    "acessibilidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Leitura de tabelas",
+   "origem": {
+    "numeroOriginal": 155
+   },
+   "enunciado": "<p>Uma pesquisa realizada por estudantes da Faculdade de Estatística mostra, em horas por dia, como os jovens entre 12 e 18 anos gastam seu tempo, tanto durante a semana (de segunda-feira a sexta-feira), como no fim de semana (sábado e domingo). A seguinte tabela ilustra os resultados da pesquisa.</p><table class=\"tabela\"><thead><tr><th>Rotina Juvenil</th><th>Durante a semana</th><th>No fim de semana</th></tr></thead><tbody><tr><td>Assistir à televisão</td><td>3</td><td>3</td></tr><tr><td>Atividades domésticas</td><td>1</td><td>1</td></tr><tr><td>Atividades escolares</td><td>5</td><td>1</td></tr><tr><td>Atividades de lazer</td><td>2</td><td>4</td></tr><tr><td>Descanso, higiene e alimentação</td><td>10</td><td>12</td></tr><tr><td>Outras atividades</td><td>3</td><td>3</td></tr></tbody></table><p>De acordo com esta pesquisa, quantas horas de seu tempo gasta um jovem entre 12 e 18 anos, na semana inteira (de segunda-feira a domingo), nas atividades escolares?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "20",
+    "B": "21",
+    "C": "24",
+    "D": "25",
+    "E": "27"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As atividades escolares tomam 5 horas por dia útil e 1 hora por dia de fim de semana: 5 × 5 + 2 × 1 = <strong>27 horas</strong>. Alternativa <strong>E</strong>.</p><p>Quem multiplica por 7 só um dos valores, ou soma 5 + 1 sem considerar a quantidade de dias, chega a outra opção.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tabela",
+    "operações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 156
+   },
+   "enunciado": "<p>Certo vendedor tem seu salário mensal calculado da seguinte maneira: ele ganha um valor fixo de R$ 750,00, mais uma comissão de R$ 3,00 para cada produto vendido. Caso ele venda mais de 100 produtos, sua comissão passa a ser de R$ 9,00 para cada produto vendido, a partir do 101º produto vendido.</p><p>Com essas informações, o gráfico que melhor representa a relação entre salário e o número de produtos vendidos é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q156a.webp",
+     "alt": "Alternativa A: uma única reta subindo devagar, de 750 em 0 produto até cerca de 1 400 em 200."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q156b.webp",
+     "alt": "Alternativa B: reta subindo de 750 até cerca de 1 600 em 100 produtos e depois subindo mais devagar até 2 000 em 200."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q156c.webp",
+     "alt": "Alternativa C: segmento horizontal em 750 de 0 a 100 produtos e depois subindo até cerca de 1 650 em 200."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q156d.webp",
+     "alt": "Alternativa D: segmento horizontal em 750 de 0 a 200 produtos."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q156e.webp",
+     "alt": "Alternativa E: reta subindo devagar de 750 até cerca de 1 050 em 100 produtos e depois mais inclinada até cerca de 1 950 em 200."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O salário é 750 + 3n até 100 produtos (750 a 1 050) e, a partir daí, aumenta 9 por produto: com 200 produtos, 1 050 + 100 × 9 = 1 950. O gráfico tem dois trechos de reta, o segundo mais inclinado, começando em 750: é o da <strong>alternativa E</strong>. Alternativa <strong>E</strong>.</p><p>No gráfico B a inclinação diminui depois de 100, e no C o salário fica parado no início.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função definida por partes",
+    "gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 157
+   },
+   "enunciado": "<p>Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de 1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia primeiro de janeiro. Considere que o ano tem 365 dias.</p><p>Se o maquinista quiser ganhar o máximo possível, quantas viagens precisará fazer?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "37",
+    "B": "51",
+    "C": "88",
+    "D": "89",
+    "E": "91"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O raciocínio do gabarito: viajando a cada 4 dias, ele faria cerca de 365 ÷ 4 ≈ 91 viagens no ano. As férias, de 1º a 10 de junho, coincidem com 3 viagens (nos dias 153, 157 e 161 do ano), que ele perde: 91 − 3 = <strong>88 viagens</strong>. Alternativa <strong>C</strong>.</p><p>Uma contagem estrita dá outro número: as viagens nos dias 1, 5, ..., 149 somam 38, e, voltando no dia 162, as dos dias 162, 166, ..., 362 somam 51, num total de 89 (D). O gabarito oficial do Inep é 88.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "progressão aritmética",
+    "calendário"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 158
+   },
+   "enunciado": "<p>Alguns objetos, durante a sua fabricação, necessitam passar por um processo de resfriamento. Para que isso ocorra, uma fábrica utiliza um tanque de resfriamento, como mostrado na figura.</p>[[fig:1]]<p>O que aconteceria com o nível da água se colocássemos no tanque um objeto cujo volume fosse de 2 400 cm<sup>3</sup>?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q158.webp",
+     "alt": "Tanque em forma de paralelepípedo de 40 cm por 30 cm de base e 25 cm de altura, com água até 5 cm abaixo da borda."
+    }
+   ],
+   "alternativas": {
+    "A": "O nível subiria 0,2 cm, fazendo a água ficar com 20,2 cm de altura.",
+    "B": "O nível subiria 1 cm, fazendo a água ficar com 21 cm de altura.",
+    "C": "O nível subiria 2 cm, fazendo a água ficar com 22 cm de altura.",
+    "D": "O nível subiria 8 cm, fazendo a água transbordar.",
+    "E": "O nível subiria 20 cm, fazendo a água transbordar."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A base do tanque mede 40 × 30 = 1 200 cm². Um objeto de 2 400 cm³ faz o nível subir 2 400 ÷ 1 200 = 2 cm. A água tinha 25 − 5 = 20 cm e passa a 22 cm, abaixo dos 25 cm do tanque. Alternativa <strong>C</strong>.</p><p>Quem usa a base 40 × 25 ou outra face chega a valores diferentes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume",
+    "deslocamento de líquido"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Áreas",
+   "origem": {
+    "numeroOriginal": 159
+   },
+   "enunciado": "<p>Jorge quer instalar aquecedores no seu salão de beleza para melhorar o conforto dos seus clientes no inverno. Ele estuda a compra de unidades de dois tipos de aquecedores: modelo A, que consome 600 g/h (gramas por hora) de gás propano e cobre 35 m<sup>2</sup> de área, ou modelo B, que consome 750 g/h de gás propano e cobre 45 m<sup>2</sup> de área. O fabricante indica que o aquecedor deve ser instalado em um ambiente com área menor do que a da sua cobertura. Jorge vai instalar uma unidade por ambiente e quer gastar o mínimo possível com gás. A área do salão que deve ser climatizada encontra-se na planta seguinte (ambientes representados por três retângulos e um trapézio).</p>[[fig:1]]<p>Avaliando-se todas as informações, serão necessários</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q159.webp",
+     "alt": "Planta em forma de L: ambiente I embaixo à esquerda, 5 m por 8 m; acima dele, ambientes II e III, com 9 m juntos e altura total da planta de 14 m; à direita, o ambiente IV, um trapézio de 7 m de largura com lados de 6 m e 4 m."
+    }
+   ],
+   "alternativas": {
+    "A": "quatro unidades do tipo A e nenhuma unidade do tipo B.",
+    "B": "três unidades do tipo A e uma unidade do tipo B.",
+    "C": "duas unidades do tipo A e duas unidades do tipo B.",
+    "D": "uma unidade do tipo A e três unidades do tipo B.",
+    "E": "nenhuma unidade do tipo A e quatro unidades do tipo B."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pela planta: I = 5 × 8 = 40 m²; II = 5 × 6 = 30 m²; III = 4 × 6 = 24 m²; IV é um trapézio de bases 6 e 4 e altura 7: (6 + 4) × 7 ÷ 2 = 35 m². O modelo A só serve para áreas menores que 35 m² (II e III); I e IV (35 não é menor que 35) precisam do modelo B. São <strong>duas unidades do tipo A e duas do tipo B</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área de trapézio",
+    "otimização"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Áreas",
+   "origem": {
+    "numeroOriginal": 160
+   },
+   "enunciado": "<p>Para decorar a fachada de um edifício, um arquiteto projetou a colocação de vitrais compostos de quadrados de lado medindo 1 m, conforme a figura a seguir.</p>[[fig:1]]<p>Nesta figura, os pontos A, B, C e D são pontos médios dos lados do quadrado e os segmentos AP e QC medem \\(\\frac{1}{4}\\) da medida do lado do quadrado. Para confeccionar um vitral, são usados dois tipos de materiais: um para a parte sombreada da figura, que custa R$ 30,00 o m², e outro para a parte mais clara (regiões ABPDA e BCDQB), que custa R$ 50,00 o m².</p><p>De acordo com esses dados, qual é o custo dos materiais usados na fabricação de um vitral?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q160.webp",
+     "alt": "Quadrado com A, B, C e D nos pontos médios dos lados (esquerda, cima, direita, baixo). O losango ABCD é dividido: perto de A e de C há regiões claras em forma de seta, com P e Q sobre a diagonal AC; o restante do quadrado e o losango central PBQD são sombreados."
+    }
+   ],
+   "alternativas": {
+    "A": "R$ 22,50",
+    "B": "R$ 35,00",
+    "C": "R$ 40,00",
+    "D": "R$ 42,50",
+    "E": "R$ 45,00"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O losango ABCD tem diagonais 1 e 1: área 1/2. As regiões claras ABPD e BCDQ são, cada uma, dois triângulos de base 1/4 (AP ou QC) e altura 1/2: área 2 × (1/2 × 1/4 × 1/2) = 1/8. A parte clara tem 1/4 m² e a sombreada, 3/4 m². Custo: 1/4 × 50 + 3/4 × 30 = 12,50 + 22,50 = <strong>R$ 35,00</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área de triângulo",
+    "custo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "assunto": "Sistema de numeração",
+   "origem": {
+    "numeroOriginal": 161
+   },
+   "enunciado": "<p>João decidiu contratar os serviços de uma empresa por telefone através do SAC (Serviço de Atendimento ao Consumidor). O atendente ditou para João o número de protocolo de atendimento da ligação e pediu que ele anotasse. Entretanto, João não entendeu um dos algarismos ditados pelo atendente e anotou o número 1 3 __ 9 8 2 0 7, sendo que o espaço vazio é o do algarismo que João não entendeu.</p><p>De acordo com essas informações, a posição ocupada pelo algarismo que falta no número de protocolo é a de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "centena.",
+    "B": "dezena de milhar.",
+    "C": "centena de milhar.",
+    "D": "milhão.",
+    "E": "centena de milhão."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O número tem 8 algarismos: 1 3 _ 9 8 2 0 7. Da direita para a esquerda: 7 unidades, 0 dezenas, 2 centenas, 8 unidades de milhar, 9 dezenas de milhar e o espaço vazio na <strong>centena de milhar</strong>. Alternativa <strong>C</strong>.</p><p>O 3 ocupa o milhão e o 1, a dezena de milhão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "valor posicional"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 162
+   },
+   "enunciado": "<p>O gráfico fornece os valores das ações da empresa <em>XPN</em>, no período das 10 às 17 horas, num dia em que elas oscilaram acentuadamente em curtos intervalos de tempo.</p>[[fig:1]]<p>Neste dia, cinco investidores compraram e venderam o mesmo volume de ações, porém em horários diferentes, de acordo com a seguinte tabela.</p><table class=\"tabela\"><thead><tr><th>Investidor</th><th>Hora da Compra</th><th>Hora da Venda</th></tr></thead><tbody><tr><td>1</td><td>10:00</td><td>15:00</td></tr><tr><td>2</td><td>10:00</td><td>17:00</td></tr><tr><td>3</td><td>13:00</td><td>15:00</td></tr><tr><td>4</td><td>15:00</td><td>16:00</td></tr><tr><td>5</td><td>16:00</td><td>17:00</td></tr></tbody></table><p>Com relação ao capital adquirido na compra e venda das ações, qual investidor fez o melhor negócio?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q162.webp",
+     "alt": "Gráfico do valor da ação, em reais, das 10h às 17h: 150 às 10h, sobe a 280 às 11h, cai a 200 às 12h, sobe a 380 às 13h, cai a 330 às 14h, chega ao máximo de 460 às 15h, despenca para 100 às 16h e volta a 200 às 17h."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Pelo gráfico, a ação valia 150 às 10h, 380 às 13h, 460 às 15h, 100 às 16h e 200 às 17h. Ganho por ação: investidor 1, 460 − 150 = 310; 2, 200 − 150 = 50; 3, 460 − 380 = 80; 4, 100 − 460 = −360; 5, 200 − 100 = 100. O melhor negócio foi do <strong>investidor 1</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico",
+    "lucro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "assunto": "Leitura de gráficos",
+   "origem": {
+    "numeroOriginal": 163
+   },
+   "enunciado": "<p>A figura a seguir apresenta dois gráficos com informações sobre as reclamações diárias recebidas e resolvidas pelo Setor de Atendimento ao Cliente (SAC) de uma empresa, em uma dada semana. O gráfico de linha tracejada informa o número de reclamações recebidas no dia, o de linha contínua é o número de reclamações resolvidas no dia. As reclamações podem ser resolvidas no mesmo dia ou demorarem mais de um dia para serem resolvidas.</p>[[fig:1]]<p>O gerente de atendimento deseja identificar os dias da semana em que o nível de eficiência pode ser considerado muito bom, ou seja, os dias em que o número de reclamações resolvidas excede o número de reclamações recebidas.</p><p class=\"fonte\">Disponível em: http://blog.bibliotecaunix.org. Acesso em: 21 jan. 2012 (adaptado).</p><p>O gerente de atendimento pôde concluir, baseado no conceito de eficiência utilizado na empresa e nas informações do gráfico, que o nível de eficiência foi muito bom na</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q163.webp",
+     "alt": "Gráfico de linhas de quinta a quarta. Recebidas (tracejada): Qui 17, Sex 15, Sáb 0, Dom 0, Seg 14, Ter 20, Qua 5. Resolvidas (contínua): Qui 16, Sex 11, Sáb 0, Dom 0, Seg 2, Ter 27, Qua 9."
+    }
+   ],
+   "alternativas": {
+    "A": "segunda e na terça-feira.",
+    "B": "terça e na quarta-feira.",
+    "C": "terça e na quinta-feira.",
+    "D": "quinta-feira, no sábado e no domingo.",
+    "E": "segunda, na quinta e na sexta-feira."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A eficiência é muito boa quando a linha contínua (resolvidas) fica acima da tracejada (recebidas). Isso acontece na terça (cerca de 27 contra 20) e na quarta (cerca de 9 contra 5). Na quinta, na sexta e na segunda, a tracejada está acima, e no sábado e no domingo as duas estão em zero. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "comparação de gráficos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 164
+   },
+   "enunciado": "<p>Uma mãe recorreu à bula para verificar a dosagem de um remédio que precisava dar a seu filho. Na bula, recomendava-se a seguinte dosagem: 5 gotas para cada 2 kg de massa corporal a cada 8 horas.</p><p>Se a mãe ministrou corretamente 30 gotas do remédio a seu filho a cada 8 horas, então a massa corporal dele é de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "12 kg.",
+    "B": "16 kg.",
+    "C": "24 kg.",
+    "D": "36 kg.",
+    "E": "75 kg."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>São 5 gotas para cada 2 kg. Com 30 gotas, são 30 ÷ 5 = 6 grupos de 2 kg: 6 × 2 = <strong>12 kg</strong>. Alternativa <strong>A</strong>.</p><p>O intervalo de 8 horas é o mesmo da bula e não muda a conta. A opção E (75) multiplica em vez de dividir.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "regra de três",
+    "dosagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 165
+   },
+   "enunciado": "<p>João propôs um desafio a Bruno, seu colega de classe: ele iria descrever um deslocamento pela pirâmide a seguir e Bruno deveria desenhar a projeção desse deslocamento no plano da base da pirâmide.</p>[[fig:1]]<p>O deslocamento descrito por João foi: mova-se pela pirâmide, sempre em linha reta, do ponto A ao ponto E, a seguir do ponto E ao ponto M, e depois de M a C.</p><p>O desenho que Bruno deve fazer é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q165.webp",
+     "alt": "Pirâmide de base quadrada ABCD e vértice E no alto; o ponto M fica no meio da aresta BC."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q165a.webp",
+     "alt": "Alternativa A: no quadrado ABCD, linha de A para a direita pela base, sobe até a metade, segue para a direita até o lado BC e sobe até C."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q165b.webp",
+     "alt": "Alternativa B: linha de A até um ponto do lado BC, um pouco abaixo da metade, e depois subindo pelo lado até C."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q165c.webp",
+     "alt": "Alternativa C: linha de A subindo na diagonal até o centro do quadrado, depois horizontal até o meio do lado BC e depois subindo até C."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q165d.webp",
+     "alt": "Alternativa D: uma única linha diagonal de A até C."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q165e.webp",
+     "alt": "Alternativa E: linha de A subindo na diagonal até perto do meio, depois vertical até o lado DC e horizontal até C."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Projetando na base: A fica em A; E, o vértice da pirâmide, vai para o centro do quadrado; M, ponto médio de BC, fica no meio do lado BC; C fica em C. O desenho é um segmento de A ao centro, outro do centro ao meio de BC e outro até C, como no <strong>desenho C</strong>. Alternativa <strong>C</strong>.</p><p>No desenho D a projeção vai direto de A a C, ignorando o desvio até M.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "projeção ortogonal",
+    "pirâmide"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Função afim",
+   "origem": {
+    "numeroOriginal": 166
+   },
+   "enunciado": "<p>As curvas de oferta e de demanda de um produto representam, respectivamente, as quantidades que vendedores e consumidores estão dispostos a comercializar em função do preço do produto. Em alguns casos, essas curvas podem ser representadas por retas. Suponha que as quantidades de oferta e de demanda de um produto sejam, respectivamente, representadas pelas equações:</p><p>\\(Q_O = -20 + 4P\\)</p><p>\\(Q_D = 46 - 2P\\)</p><p>em que Q<sub>O</sub> é quantidade de oferta, Q<sub>D</sub> é a quantidade de demanda e P é o preço do produto.</p><p>A partir dessas equações, de oferta e de demanda, os economistas encontram o preço de equilíbrio de mercado, ou seja, quando Q<sub>O</sub> e Q<sub>D</sub> se igualam.</p><p>Para a situação descrita, qual o valor do preço de equilíbrio?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "5",
+    "B": "11",
+    "C": "13",
+    "D": "23",
+    "E": "33"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No equilíbrio, Q<sub>O</sub> = Q<sub>D</sub>: −20 + 4P = 46 − 2P, então 6P = 66 e <strong>P = 11</strong>. Alternativa <strong>B</strong>.</p><p>Com P = 11, Q<sub>O</sub> = −20 + 44 = 24 e Q<sub>D</sub> = 46 − 22 = 24: as quantidades se igualam.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação do 1º grau",
+    "oferta e demanda"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 167
+   },
+   "enunciado": "<p>Nos <em>shopping centers</em> costumam existir parques com vários brinquedos e jogos. Os usuários colocam créditos em um cartão, que são descontados por cada período de tempo de uso dos jogos. Dependendo da pontuação da criança no jogo, ela recebe um certo número de tíquetes para trocar por produtos nas lojas dos parques. Suponha que o período de uso de um brinquedo em certo <em>shopping</em> custa R$ 3,00 e que uma bicicleta custa 9 200 tíquetes.</p><p>Para uma criança que recebe 20 tíquetes por período de tempo que joga, o valor, em reais, gasto com créditos para obter a quantidade de tíquetes para trocar pela bicicleta é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "153.",
+    "B": "460.",
+    "C": "1 218.",
+    "D": "1 380.",
+    "E": "3 066."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A bicicleta custa 9 200 tíquetes, e a criança ganha 20 por período: 9 200 ÷ 20 = 460 períodos. Cada período custa R$ 3,00: 460 × 3 = <strong>R$ 1 380</strong>. Alternativa <strong>D</strong>.</p><p>A opção B (460) é o número de períodos, e não o valor em reais.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "regra de três",
+    "custo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Potenciação",
+   "origem": {
+    "numeroOriginal": 168
+   },
+   "enunciado": "<p>Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área <em>A</em> da superfície corporal de uma pessoa relaciona-se com a sua massa <em>m</em> pela fórmula \\(A = k \\cdot m^{\\frac{2}{3}}\\), em que <em>k</em> é uma constante positiva.</p><p>Se no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\sqrt[3]{16}\\)",
+    "B": "\\(4\\)",
+    "C": "\\(\\sqrt{24}\\)",
+    "D": "\\(8\\)",
+    "E": "\\(64\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Se a massa vira 8m, a área vira \\(k (8m)^{2/3} = 8^{2/3} \\cdot k m^{2/3}\\). Como \\(8^{2/3} = (\\sqrt[3]{8})^2 = 2^2 = 4\\), a área é multiplicada por <strong>4</strong>. Alternativa <strong>B</strong>.</p><p>A opção D (8) supõe que a área cresce na mesma proporção que a massa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "expoente fracionário"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Matrizes",
+   "origem": {
+    "numeroOriginal": 169
+   },
+   "enunciado": "<p>Um aluno registrou as notas bimestrais de algumas de suas disciplinas numa tabela. Ele observou que as entradas numéricas da tabela formavam uma matriz 4x4, e que poderia calcular as médias anuais dessas disciplinas usando produto de matrizes. Todas as provas possuíam o mesmo peso, e a tabela que ele conseguiu é mostrada a seguir.</p><table class=\"tabela\"><thead><tr><th></th><th>1º bimestre</th><th>2º bimestre</th><th>3º bimestre</th><th>4º bimestre</th></tr></thead><tbody><tr><td>Matemática</td><td>5,9</td><td>6,2</td><td>4,5</td><td>5,5</td></tr><tr><td>Português</td><td>6,6</td><td>7,1</td><td>6,5</td><td>8,4</td></tr><tr><td>Geografia</td><td>8,6</td><td>6,8</td><td>7,8</td><td>9,0</td></tr><tr><td>História</td><td>6,2</td><td>5,6</td><td>5,9</td><td>7,7</td></tr></tbody></table><p>Para obter essas médias, ele multiplicou a matriz obtida a partir da tabela por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\begin{bmatrix}\\frac{1}{2}&\\frac{1}{2}&\\frac{1}{2}&\\frac{1}{2}\\end{bmatrix}\\)",
+    "B": "\\(\\begin{bmatrix}\\frac{1}{4}&\\frac{1}{4}&\\frac{1}{4}&\\frac{1}{4}\\end{bmatrix}\\)",
+    "C": "\\(\\def\\arraystretch{1.6}\\begin{bmatrix}1\\\\1\\\\1\\\\1\\end{bmatrix}\\)",
+    "D": "\\(\\def\\arraystretch{1.6}\\begin{bmatrix}\\frac{1}{2}\\\\\\frac{1}{2}\\\\\\frac{1}{2}\\\\\\frac{1}{2}\\end{bmatrix}\\)",
+    "E": "\\(\\def\\arraystretch{1.6}\\begin{bmatrix}\\frac{1}{4}\\\\\\frac{1}{4}\\\\\\frac{1}{4}\\\\\\frac{1}{4}\\end{bmatrix}\\)"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A tabela é uma matriz 4 × 4 (disciplinas nas linhas, bimestres nas colunas). A média de cada linha é a soma das quatro notas dividida por 4, que é o produto da linha por uma matriz coluna 4 × 1 com todos os elementos iguais a \\(\\frac{1}{4}\\). Alternativa <strong>E</strong>.</p><p>Matrizes linha (A e B) não podem multiplicar uma 4 × 4 pela direita, e a coluna de 1/2 (D) daria o dobro da média.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "produto de matrizes",
+    "média"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 170
+   },
+   "enunciado": "<p>Existem no mercado chuveiros elétricos de diferentes potências, que representam consumos e custos diversos. A potência (P) de um chuveiro elétrico é dada pelo produto entre sua resistência elétrica (R) e o quadrado da corrente elétrica (i) que por ele circula. O consumo de energia elétrica (E), por sua vez, é diretamente proporcional à potência do aparelho.</p><p>Considerando as características apresentadas, qual dos gráficos a seguir representa a relação entre a energia consumida (E) por um chuveiro elétrico e a corrente elétrica (i) que circula por ele?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q170a.webp",
+     "alt": "Alternativa A: reta saindo da origem e subindo."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q170b.webp",
+     "alt": "Alternativa B: curva começando alta no eixo E e descendo cada vez mais devagar até tocar o eixo i."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q170c.webp",
+     "alt": "Alternativa C: segmento horizontal, E constante."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q170d.webp",
+     "alt": "Alternativa D: curva saindo da origem e subindo cada vez mais rápido, como meia parábola."
+    },
+    {
+     "src": "assets/img/enem-2012-matematica/q170e.webp",
+     "alt": "Alternativa E: reta descendo do eixo E até o eixo i."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>P = R · i², e E é proporcional a P, então E = c · i², com c constante positiva. É uma função quadrática que passa pela origem e cresce cada vez mais rápido: um ramo de <strong>parábola com concavidade para cima</strong>, como no gráfico D. Alternativa <strong>D</strong>.</p><p>O gráfico A (reta) valeria se E fosse proporcional a i, e não a i².</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função quadrática",
+    "proporcionalidade"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 171
+   },
+   "enunciado": "<p>Em 20 de fevereiro de 2011 ocorreu a grande erupção do vulcão Bulusan nas Filipinas. A sua localização geográfica no globo terrestre é dada pelo GPS (sigla em inglês para Sistema de Posicionamento Global) com longitude de 124° 3’ 0” a leste do Meridiano de Greenwich.</p><p>Dado: 1° equivale a 60’ e 1’ equivale a 60”.</p><p class=\"fonte\">PAVARIN, G. <em>Galileu</em>, fev. 2012 (adaptado).</p><p>A representação angular da localização do vulcão com relação a sua longitude na forma decimal é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "124,02°.",
+    "B": "124,05°.",
+    "C": "124,20°.",
+    "D": "124,30°.",
+    "E": "124,50°."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A longitude é 124° 3′ 0″. Como 1° = 60′, 3′ = 3 ÷ 60 = 0,05°. Na forma decimal: <strong>124,05°</strong>. Alternativa <strong>B</strong>.</p><p>A opção D (124,30°) confunde 3′ com 0,3°, como se o sistema fosse decimal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conversão de ângulos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Notação científica",
+   "origem": {
+    "numeroOriginal": 172
+   },
+   "enunciado": "<p>A Agência Espacial Norte Americana (NASA) informou que o asteroide YU 55 cruzou o espaço entre a Terra e a Lua no mês de novembro de 2011. A ilustração a seguir sugere que o asteroide percorreu sua trajetória no mesmo plano que contém a órbita descrita pela Lua em torno da Terra. Na figura, está indicada a proximidade do asteroide em relação à Terra, ou seja, a menor distância que ele passou da superfície terrestre.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://noticias.terra.com.br (adaptado).</p><p>Com base nessas informações, a menor distância que o asteroide YU 55 passou da superfície da Terra é igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q172.webp",
+     "alt": "Ilustração da NASA: a Terra, a Lua e a trajetória do asteroide YU 55. Textos: “O asteroide se aproximará o suficiente para que cientistas possam observar detalhes de sua superfície”; “Proximidade da Terra: 325 mil km”; “Asteroide YU 55. Tamanho: 400 m de diâmetro, equivalente ao tamanho de um porta-aviões”; “Passagem: 8 de novembro às 21h28min (horário de Brasília)”."
+    }
+   ],
+   "alternativas": {
+    "A": "3,25 × 10<sup>2</sup> km.",
+    "B": "3,25 × 10<sup>3</sup> km.",
+    "C": "3,25 × 10<sup>4</sup> km.",
+    "D": "3,25 × 10<sup>5</sup> km.",
+    "E": "3,25 × 10<sup>6</sup> km."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A figura indica “Proximidade da Terra: 325 mil km”, ou seja, 325 000 km = 3,25 × 10<sup>5</sup> km. Alternativa <strong>D</strong>.</p><p>Para escrever em notação científica, desloca-se a vírgula cinco casas: 325 000 = 3,25 × 100 000. O tamanho do asteroide (400 m) não entra na conta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "notação científica"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 173
+   },
+   "enunciado": "<p>Há, em virtude da demanda crescente de economia de água, equipamentos e utensílios como, por exemplo, as bacias sanitárias ecológicas, que utilizam 6 litros de água por descarga em vez dos 15 litros utilizados por bacias sanitárias não ecológicas, conforme dados da Associação Brasileira de Normas Técnicas (ABNT).</p><p>Qual será a economia diária de água obtida por meio da substituição de uma bacia sanitária não ecológica, que gasta cerca de 60 litros por dia com a descarga, por uma bacia sanitária ecológica?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "24 litros",
+    "B": "36 litros",
+    "C": "40 litros",
+    "D": "42 litros",
+    "E": "50 litros"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A bacia comum gasta 15 L por descarga; 60 L por dia são 60 ÷ 15 = 4 descargas. A ecológica gastaria 4 × 6 = 24 L. A economia é 60 − 24 = <strong>36 litros</strong>. Alternativa <strong>B</strong>.</p><p>A opção A (24) é o consumo da bacia ecológica, e não a economia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporcionalidade",
+    "economia de água"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 174
+   },
+   "enunciado": "<p>A tabela a seguir mostra a evolução da receita bruta anual nos três últimos anos de cinco microempresas (ME) que se encontram à venda.</p><table class=\"tabela\"><thead><tr><th>ME</th><th>2009 (em milhares de reais)</th><th>2010 (em milhares de reais)</th><th>2011 (em milhares de reais)</th></tr></thead><tbody><tr><td>Alfinetes V</td><td>200</td><td>220</td><td>240</td></tr><tr><td>Balas W</td><td>200</td><td>230</td><td>200</td></tr><tr><td>Chocolates X</td><td>250</td><td>210</td><td>215</td></tr><tr><td>Pizzaria Y</td><td>230</td><td>230</td><td>230</td></tr><tr><td>Tecelagem Z</td><td>160</td><td>210</td><td>245</td></tr></tbody></table><p>Um investidor deseja comprar duas das empresas listadas na tabela. Para tal, ele calcula a média da receita bruta anual dos últimos três anos (de 2009 até 2011) e escolhe as duas empresas de maior média anual.</p><p>As empresas que este investidor escolhe comprar são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Balas W e Pizzaria Y.",
+    "B": "Chocolates X e Tecelagem Z.",
+    "C": "Pizzaria Y e Alfinetes V.",
+    "D": "Pizzaria Y e Chocolates X.",
+    "E": "Tecelagem Z e Alfinetes V."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Médias de 2009 a 2011, em milhares de reais: Alfinetes V, 660 ÷ 3 = 220; Balas W, 630 ÷ 3 = 210; Chocolates X, 675 ÷ 3 = 225; Pizzaria Y, 230; Tecelagem Z, 615 ÷ 3 = 205. As duas maiores são <strong>Pizzaria Y e Chocolates X</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média aritmética",
+    "tabela"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 175
+   },
+   "enunciado": "<p>Um laboratório realiza exames em que é possível observar a taxa de glicose de uma pessoa. Os resultados são analisados de acordo com o quadro a seguir.</p><table class=\"tabela\"><thead><tr><th>Classificação</th><th>Taxa de glicose</th></tr></thead><tbody><tr><td>Hipoglicemia</td><td>menor ou igual a 70 mg/dL</td></tr><tr><td>Normal</td><td>maior que 70 mg/dL e menor ou igual a 100 mg/dL</td></tr><tr><td>Pré-diabetes</td><td>maior que 100 mg/dL e menor ou igual a 125 mg/dL</td></tr><tr><td>Diabetes Melito</td><td>maior que 125 mg/dL e menor ou igual a 250 mg/dL</td></tr><tr><td>Hiperglicemia</td><td>maior que 250 mg/dL</td></tr></tbody></table><p>Um paciente fez um exame de glicose nesse laboratório e comprovou que estava com hiperglicemia. Sua taxa de glicose era de 300 mg/dL. Seu médico prescreveu um tratamento em duas etapas. Na primeira etapa ele conseguiu reduzir sua taxa em 30% e na segunda etapa em 10%.</p><p>Ao calcular sua taxa de glicose após as duas reduções, o paciente verificou que estava na categoria de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "hipoglicemia.",
+    "B": "normal.",
+    "C": "pré-diabetes.",
+    "D": "diabetes melito.",
+    "E": "hiperglicemia."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A taxa era 300 mg/dL. Após reduzir 30%: 300 × 0,7 = 210. Após reduzir mais 10%: 210 × 0,9 = 189 mg/dL. Como 189 está entre 125 e 250, o paciente ficou na categoria de <strong>diabetes melito</strong>. Alternativa <strong>D</strong>.</p><p>Somar as reduções (40%) daria 180, que também é diabetes, mas o certo é aplicá-las em sequência.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "descontos sucessivos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 41,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 176
+   },
+   "enunciado": "<p>Um produtor de café irrigado em Minas Gerais recebeu um relatório de consultoria estatística, constando, entre outras informações, o desvio padrão das produções de uma safra dos talhões de sua propriedade. Os talhões têm a mesma área de 30 000 m<sup>2</sup> e o valor obtido para o desvio padrão foi de 90 kg/talhão. O produtor deve apresentar as informações sobre a produção e a variância dessas produções em sacas de 60 kg por hectare (10 000 m<sup>2</sup>).</p><p>A variância das produções dos talhões expressa em (sacas/hectare)<sup>2</sup> é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "20,25.",
+    "B": "4,50.",
+    "C": "0,71.",
+    "D": "0,50.",
+    "E": "0,25."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Cada talhão tem 30 000 m² = 3 hectares. O desvio padrão de 90 kg/talhão equivale a 90 ÷ 60 = 1,5 saca por talhão, ou 1,5 ÷ 3 = 0,5 saca por hectare. A variância é o quadrado do desvio padrão: 0,5² = <strong>0,25</strong> (sacas/hectare)². Alternativa <strong>E</strong>.</p><p>A opção D (0,50) é o desvio padrão, e não a variância.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "variância",
+    "desvio padrão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 177
+   },
+   "enunciado": "<p>O <em>designer</em> português Miguel Neiva criou um sistema de símbolos que permite que pessoas daltônicas identifiquem cores. O sistema consiste na utilização de símbolos que identificam as cores primárias (azul, amarelo e vermelho). Além disso, a justaposição de dois desses símbolos permite identificar cores secundárias (como o verde, que é o amarelo combinado com o azul). O preto e o branco são identificados por pequenos quadrados: o que simboliza o preto é cheio, enquanto o que simboliza o branco é vazio. Os símbolos que representam preto e branco também podem estar associados aos símbolos que identificam cores, significando se estas são claras ou escuras.</p><p class=\"fonte\"><em>Folha de São Paulo</em>. Disponível em: www1.folha.uol.com.br. Acesso em: 18 fev. 2012 (adaptado).</p><p>De acordo com o texto, quantas cores podem ser representadas pelo sistema proposto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "14",
+    "B": "18",
+    "C": "20",
+    "D": "21",
+    "E": "23"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Há 3 cores primárias e 3 secundárias (combinações de duas primárias): 6 cores. Cada uma pode aparecer sozinha, com o símbolo do branco (clara) ou com o do preto (escura): 6 × 3 = 18. Somando o preto e o branco: 18 + 2 = <strong>20 cores</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "contagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 178
+   },
+   "enunciado": "<p>José, Paulo e Antônio estão jogando dados não viciados, nos quais, em cada uma das seis faces, há um número de 1 a 6. Cada um deles jogará dois dados simultaneamente. José acredita que, após jogar seus dados, os números das faces voltadas para cima lhe darão uma soma igual a 7. Já Paulo acredita que sua soma será igual a 4 e Antônio acredita que sua soma será igual a 8.</p><p>Com essa escolha, quem tem a maior probabilidade de acertar sua respectiva soma é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Antônio, já que sua soma é a maior de todas as escolhidas.",
+    "B": "José e Antônio, já que há 6 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 4 possibilidades para a escolha de Paulo.",
+    "C": "José e Antônio, já que há 3 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 2 possibilidades para a escolha de Paulo.",
+    "D": "José, já que há 6 possibilidades para formar sua soma, 5 possibilidades para formar a soma de Antônio e apenas 3 possibilidades para formar a soma de Paulo.",
+    "E": "Paulo, já que sua soma é a menor de todas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com dois dados há 36 resultados. Soma 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1), ou seja, 6 casos. Soma 8: (2,6), (3,5), (4,4), (5,3), (6,2), 5 casos. Soma 4: (1,3), (2,2), (3,1), 3 casos. Quem tem mais chance é <strong>José</strong>. Alternativa <strong>D</strong>.</p><p>A opção C conta só os pares sem ordem, mas (1,6) e (6,1) são resultados diferentes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "dois dados",
+    "espaço amostral"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 179
+   },
+   "enunciado": "<p>O gráfico apresenta o comportamento de emprego formal surgido, segundo o Caged, no período de janeiro de 2010 a outubro de 2010.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.mte.gov.br. Acesso em: 28 fev. 2012 (adaptado).</p><p>Com base no gráfico, o valor da parte inteira da mediana dos empregos formais surgidos no período é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2012-matematica/q179.webp",
+     "alt": "Gráfico de linha “Brasil: comportamento do emprego formal no período de janeiro a outubro de 2010 (Caged)”, com os valores: jan 181.419; fev 209.425; mar 266.415; abr 305.068; maio 298.041; jun 212.952; jul 181.796; ago 299.415; set 246.875; out 204.804."
+    }
+   ],
+   "alternativas": {
+    "A": "212 952.",
+    "B": "229 913.",
+    "C": "240 621.",
+    "D": "255 496.",
+    "E": "298 041."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os dez valores em ordem: 181 419; 181 796; 204 804; 209 425; 212 952; 246 875; 266 415; 298 041; 299 415; 305 068. A mediana é a média do 5º e do 6º: (212 952 + 246 875) ÷ 2 = 229 913,5. A parte inteira é <strong>229 913</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mediana",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 180
+   },
+   "enunciado": "<p>A cerâmica possui a propriedade da contração, que consiste na evaporação da água existente em um conjunto ou bloco cerâmico submetido a uma determinada temperatura elevada: em seu lugar aparecendo “espaços vazios” que tendem a se aproximar. No lugar antes ocupado pela água vão ficando lacunas e, consequentemente, o conjunto tende a retrair-se. Considere que no processo de cozimento a cerâmica de argila sofra uma contração, em dimensões lineares, de 20%.</p><p class=\"fonte\">Disponível em: www.arq.ufsc.br. Acesso em: 30 mar. 2012 (adaptado).</p><p>Levando em consideração o processo de cozimento e a contração sofrida, o volume V de uma travessa de argila, de forma cúbica de aresta a, diminui para um valor que é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "20% menor que V, uma vez que o volume do cubo é diretamente proporcional ao comprimento de seu lado.",
+    "B": "36% menor que V, porque a área da base diminui de <em>a</em><sup>2</sup> para ((1 − 0,2)<em>a</em>)<sup>2</sup>.",
+    "C": "48,8% menor que V, porque o volume diminui de <em>a</em><sup>3</sup> para (0,8<em>a</em>)<sup>3</sup>.",
+    "D": "51,2% menor que V, porque cada lado diminui para 80% do comprimento original.",
+    "E": "60% menor que V, porque cada lado diminui 20%."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Cada aresta encolhe 20% e vira 0,8a. O volume passa de a³ para (0,8a)³ = 0,512a³, ou seja, 51,2% do original. A redução é de 100% − 51,2% = <strong>48,8%</strong>, porque o volume diminui de a³ para (0,8a)³. Alternativa <strong>C</strong>.</p><p>A opção D confunde o volume final (51,2%) com a redução.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cubo",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  }
+ ]
+}

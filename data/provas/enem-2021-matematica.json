@@ -1,0 +1,1253 @@
+{
+ "id": "enem-2021-matematica",
+ "banca": "Enem",
+ "ano": 2021,
+ "titulo": "Enem 2021: Matemática",
+ "fonte": "Inep",
+ "dataExame": "2021-11-28",
+ "duracaoMinutos": 150,
+ "area": "Matemática",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Matemática",
+   "assunto": "Sequências",
+   "origem": {
+    "numeroOriginal": 136
+   },
+   "enunciado": "<p>Um segmento de reta está dividido em duas partes na proporção áurea quando o todo está para uma das partes na mesma razão em que essa parte está para a outra. Essa constante de proporcionalidade é comumente representada pela letra grega φ, e seu valor é dado pela solução positiva da equação φ<sup>2</sup> = φ + 1.</p><p>Assim como a potência φ<sup>2</sup>, as potências superiores de φ podem ser expressas da forma <em>a</em>φ + <em>b</em>, em que <em>a</em> e <em>b</em> são inteiros positivos, como apresentado no quadro.</p><table class=\"tabela\"><thead><tr><th>φ<sup>2</sup></th><th>φ<sup>3</sup></th><th>φ<sup>4</sup></th><th>φ<sup>5</sup></th><th>φ<sup>6</sup></th><th>φ<sup>7</sup></th></tr></thead><tbody><tr><td>φ + 1</td><td>2φ + 1</td><td>3φ + 2</td><td>5φ + 3</td><td>8φ + 5</td><td>…</td></tr></tbody></table><p>A potência φ<sup>7</sup>, escrita na forma <em>a</em>φ + <em>b</em> (<em>a</em> e <em>b</em> são inteiros positivos), é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "5φ + 3",
+    "B": "7φ + 2",
+    "C": "9φ + 6",
+    "D": "11φ + 7",
+    "E": "13φ + 8"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Multiplicando por φ e usando φ<sup>2</sup> = φ + 1: φ<sup>7</sup> = φ · φ<sup>6</sup> = φ(8φ + 5) = 8φ<sup>2</sup> + 5φ = 8(φ + 1) + 5φ = <strong>13φ + 8</strong>. Repare no padrão: os coeficientes seguem a sequência de Fibonacci (1, 1, 2, 3, 5, 8, 13…). Alternativa <strong>E</strong>.</p><p>11φ + 7 (D) somaria os coeficientes de forma errada; 9φ + 6 (C) não segue a regra.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "proporção áurea",
+    "Fibonacci"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 2,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 137
+   },
+   "enunciado": "<p>O Atomium, representado na imagem, é um dos principais pontos turísticos de Bruxelas. Ele foi construído em 1958 para a primeira grande exposição mundial depois da Segunda Guerra Mundial, a Feira Mundial de Bruxelas.</p><p>Trata-se de uma estrutura metálica construída no formato de um cubo. Essa estrutura está apoiada por um dos vértices sobre uma base paralela ao plano do solo, e a diagonal do cubo, contendo esse vértice, é ortogonal ao plano da base. Centradas nos vértices desse cubo, foram construídas oito esferas metálicas, e uma outra esfera foi construída centrada no ponto de interseção das diagonais do cubo. As oito esferas sobre os vértices são interligadas segundo suas arestas, e a esfera central se conecta a elas pelas diagonais do cubo.</p><p>Todas essas interligações são feitas por tubos cilíndricos que possuem escadas em seu interior, permitindo o deslocamento de pessoas pela parte interna da estrutura. Na diagonal ortogonal à base, o deslocamento é feito por um elevador, que permite o deslocamento entre as esferas da base e a esfera do ponto mais alto, passando pela esfera central.</p><p>Considere um visitante que se deslocou pelo interior do Atomium sempre em linha reta e seguindo o menor trajeto entre dois vértices, passando por todas as arestas e todas as diagonais do cubo.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://trupedatrip.com. Acesso em: 25 out. 2019.</p><p>A projeção ortogonal sobre o plano do solo do trajeto percorrido por esse visitante é representada por</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q137.webp",
+     "alt": "Foto do Atomium, em Bruxelas: esferas metálicas nos vértices de um cubo apoiado em um vértice, ligadas por tubos, com uma esfera no centro."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q137a.webp",
+     "alt": "Hexágono com um losango interno e várias diagonais cruzadas formando um padrão estrelado."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q137b.webp",
+     "alt": "Losango com as duas diagonais."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q137c.webp",
+     "alt": "Retângulo com as duas diagonais e um segmento vertical no meio."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q137d.webp",
+     "alt": "Retângulo dividido ao meio por um segmento vertical."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q137e.webp",
+     "alt": "Hexágono regular com segmentos ligando o centro a cada um dos seis vértices."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O cubo está apoiado num vértice, com a diagonal que passa por ele perpendicular ao solo. Olhando de cima, essa diagonal vira um ponto (o centro), os seis vértices restantes formam um <strong>hexágono regular</strong>, e as arestas que saem do vértice de cima e do de baixo viram segmentos do centro até os vértices do hexágono. As outras três diagonais também passam pelo centro e ligam vértices opostos do hexágono. O desenho é um hexágono com os seis “raios” ligando o centro aos vértices. Alternativa <strong>E</strong>.</p><p>A e B mostram projeções com o cubo em outras posições; C e D, apoiado numa face.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "projeção ortogonal",
+    "cubo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 3,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 138
+   },
+   "enunciado": "<p>A Copa do Brasil teve, até a edição de 2018, 15 times diferentes como campeões da competição, conforme apresentado no quadro. Suponha que, como homenagem aos times campeões, a Confederação Brasileira de Futebol (CBF) pretenda colocar um painel na sua sede. Esse painel teria 6 linhas e, em cada uma delas, 5 placas, referentes a cada edição da competição, com o nome do time vencedor, o brasão e o ano do título. O painel deve ser fabricado de modo que a primeira linha só tenha clubes gaúchos (Internacional, Grêmio e Juventude); a segunda, apenas times cariocas (Flamengo, Vasco e Fluminense); a terceira, somente times mineiros (Cruzeiro e Atlético Mineiro); a quarta, exclusivamente clubes paulistas (Corinthians, Palmeiras, Santos, Paulista FC, Santo André), e as duas últimas sem nenhuma restrição.</p><table class=\"tabela\"><thead><tr><th>Clube</th><th>Estado</th><th>Títulos</th></tr></thead><tbody><tr><td>Cruzeiro</td><td>Minas Gerais</td><td>06</td></tr><tr><td>Grêmio</td><td>Rio Grande do Sul</td><td>05</td></tr><tr><td>Corinthians</td><td>São Paulo</td><td>03</td></tr><tr><td>Flamengo</td><td>Rio de Janeiro</td><td>03</td></tr><tr><td>Palmeiras</td><td>São Paulo</td><td>03</td></tr><tr><td>Internacional</td><td>Rio Grande do Sul</td><td>01</td></tr><tr><td>Criciúma</td><td>Santa Catarina</td><td>01</td></tr><tr><td>Vasco da Gama</td><td>Rio de Janeiro</td><td>01</td></tr><tr><td>Atlético Mineiro</td><td>Minas Gerais</td><td>01</td></tr><tr><td>Santos</td><td>São Paulo</td><td>01</td></tr><tr><td>Fluminense</td><td>Rio de Janeiro</td><td>01</td></tr><tr><td>Sport</td><td>Pernambuco</td><td>01</td></tr><tr><td>Paulista FC</td><td>São Paulo</td><td>01</td></tr><tr><td>Santo André</td><td>São Paulo</td><td>01</td></tr><tr><td>Juventude</td><td>Rio Grande do Sul</td><td>01</td></tr></tbody></table><p class=\"fonte\">Disponível em: http://campeoesdofutebol.com.br. Acesso em: 1 nov. 2018 (adaptado). No original, cada clube aparece com seu brasão.</p><p>Qual expressão determina a quantidade de painéis diferentes que a CBF poderá montar?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\frac{7!}{5!} \\cdot \\frac{5!}{3!} \\cdot \\frac{7!}{6!} \\cdot \\frac{9!}{3!\\,3!} \\cdot 10!\\)",
+    "B": "\\(7! \\cdot 5! \\cdot 7! \\cdot 9! \\cdot 10!\\)",
+    "C": "\\(30!\\)",
+    "D": "\\(\\frac{7!}{5!\\,5!} \\cdot \\frac{7!}{5!\\,2!} \\cdot \\frac{9!}{5!\\,4!}\\)",
+    "E": "\\(\\frac{9!}{3!} \\cdot 5! \\cdot \\frac{7!}{2!} \\cdot \\frac{9!}{4!} \\cdot 10!\\)"
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>As placas são todas diferentes (cada uma tem o ano do título), então em cada linha a ordem importa. Linha 1, gaúchos: Grêmio 5 + Internacional 1 + Juventude 1 = 7 placas para 5 posições: 7!/2!. Linha 2, cariocas: Flamengo 3 + Vasco 1 + Fluminense 1 = 5 placas: 5!. Linha 3, mineiros: Cruzeiro 6 + Atlético 1 = 7 placas: 7!/2!. Linha 4, paulistas: 3 + 3 + 1 + 1 + 1 = 9 placas: 9!/4!. As 10 placas que sobram ocupam as duas últimas linhas: 10!. Total: \\(\\frac{7!}{2!} \\cdot 5! \\cdot \\frac{7!}{2!} \\cdot \\frac{9!}{4!} \\cdot 10!\\).</p><p>A alternativa E traz todos esses fatores, menos o primeiro: escreve 9!/3! no lugar de 7!/2!. Nenhuma alternativa está certa. A resposta esperada seria a E, com 7!/2! no primeiro fator. Alternativa <strong>E</strong>, se a questão não tivesse sido anulada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "arranjo",
+    "princípio multiplicativo"
+   ],
+   "area": "Matemática",
+   "anulacao": {
+    "fonte": "analise",
+    "motivo": "O Inep anulou a questão no gabarito oficial sem divulgar o motivo. Pela análise, nenhuma alternativa traz a expressão correta: a mais próxima (E) usa 9!/3! para a linha dos clubes gaúchos, que têm 7 títulos (o certo seria 7!/2!)."
+   }
+  },
+  {
+   "numero": 4,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 139
+   },
+   "enunciado": "<p>Uma rede de hamburgueria tem três franquias em cidades distintas. Visando incluir um novo tipo de lanche no cardápio, o gerente de marketing da rede sugeriu que fossem colocados à venda cinco novos tipos de lanche, em edições especiais. Os lanches foram oferecidos pelo mesmo período de tempo em todos os franqueados. O tipo que apresentasse a maior média por franquia seria incluído definitivamente no cardápio. Terminado o período de experiência, a gerência recebeu um relatório descrevendo as quantidades vendidas, em unidade, de cada um dos cinco tipos de lanche nas três franquias.</p><table class=\"tabela\"><thead><tr><th></th><th>Lanche I</th><th>Lanche II</th><th>Lanche III</th><th>Lanche IV</th><th>Lanche V</th></tr></thead><tbody><tr><td><strong>Franquia I</strong></td><td>415</td><td>395</td><td>425</td><td>430</td><td>435</td></tr><tr><td><strong>Franquia II</strong></td><td>415</td><td>445</td><td>370</td><td>370</td><td>425</td></tr><tr><td><strong>Franquia III</strong></td><td>415</td><td>390</td><td>425</td><td>433</td><td>420</td></tr></tbody></table><p>Com base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Como são as mesmas três franquias para todos os lanches, a maior média é a da maior soma. I: 415 + 415 + 415 = 1 245; II: 395 + 445 + 390 = 1 230; III: 425 + 370 + 425 = 1 220; IV: 430 + 370 + 433 = 1 233; V: 435 + 425 + 420 = <strong>1 280</strong> (média ≈ 426,7). O escolhido é o lanche <strong>V</strong>. Alternativa <strong>E</strong>.</p><p>O lanche II (B) tem a maior venda isolada (445), mas não a maior média.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média aritmética"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 5,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 140
+   },
+   "enunciado": "<p>Uma grande rede de supermercados adota um sistema de avaliação dos faturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A matriz da rede paga uma comissão para os representantes dos supermercados que atingirem uma média de faturamento mensal (<em>M</em>), conforme apresentado no quadro.</p><table class=\"tabela\"><thead><tr><th>Comissão</th><th>Média de faturamento mensal (<em>M</em>)</th></tr></thead><tbody><tr><td>I</td><td>1 ≤ <em>M</em> &lt; 2</td></tr><tr><td>II</td><td>2 ≤ <em>M</em> &lt; 4</td></tr><tr><td>III</td><td>4 ≤ <em>M</em> &lt; 5</td></tr><tr><td>IV</td><td>5 ≤ <em>M</em> &lt; 6</td></tr><tr><td>V</td><td><em>M</em> ≥ 6</td></tr></tbody></table><p>Um supermercado da rede obteve os faturamentos num dado ano, conforme apresentado no quadro.</p><table class=\"tabela\"><thead><tr><th>Faturamento mensal (em milhão de real)</th><th>Quantidade de meses</th></tr></thead><tbody><tr><td>3,5</td><td>3</td></tr><tr><td>2,5</td><td>2</td></tr><tr><td>5</td><td>2</td></tr><tr><td>3</td><td>4</td></tr><tr><td>7,5</td><td>1</td></tr></tbody></table><p>Nas condições apresentadas, os representantes desse supermercado avaliam que receberão, no ano seguinte, a comissão de tipo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A média mensal é a média ponderada pelos meses: (3,5 · 3 + 2,5 · 2 + 5 · 2 + 3 · 4 + 7,5 · 1) ÷ 12 = (10,5 + 5 + 10 + 12 + 7,5) ÷ 12 = 45 ÷ 12 = <strong>3,75 milhões</strong>. Como 2 ≤ 3,75 &lt; 4, a comissão é do tipo <strong>II</strong>. Alternativa <strong>B</strong>.</p><p>A média simples dos cinco valores (4,3) daria tipo III (C), mas ignora quantos meses cada faturamento ocorreu.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 6,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 141
+   },
+   "enunciado": "<p>Aplicativos que gerenciam serviços de hospedagem têm ganhado espaço no Brasil e no mundo por oferecer opções diferenciadas em termos de localização e valores de hospedagem. Em um desses aplicativos, o preço <em>P</em> a ser pago pela hospedagem é calculado considerando um preço por diária <em>d</em>, acrescido de uma taxa fixa de limpeza <em>L</em> e de uma taxa de serviço. Essa taxa de serviço é um valor percentual <em>s</em> calculado sobre o valor pago pelo total das diárias.</p><p>Nessa situação, o preço a ser pago ao aplicativo para uma hospedagem de <em>n</em> diárias pode ser obtido pela expressão</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(P = d \\cdot n + L + d \\cdot n \\cdot s\\)",
+    "B": "\\(P = d \\cdot n + L + d \\cdot s\\)",
+    "C": "\\(P = d + L + s\\)",
+    "D": "\\(P = d \\cdot n \\cdot s + L\\)",
+    "E": "\\(P = d \\cdot n + L + s\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O total das diárias é <em>d</em> · <em>n</em>. A taxa de serviço é o percentual <em>s</em> sobre esse total: <em>d</em> · <em>n</em> · <em>s</em>. Somando a taxa fixa de limpeza: <strong><em>P</em> = <em>d</em> · <em>n</em> + <em>L</em> + <em>d</em> · <em>n</em> · <em>s</em></strong>. Alternativa <strong>A</strong>.</p><p>B aplica a taxa sobre uma diária só; E soma o percentual como se fosse um valor em reais; D esquece o valor das diárias.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "expressão algébrica",
+    "porcentagem"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 7,
+   "materia": "Matemática",
+   "assunto": "Probabilidade",
+   "origem": {
+    "numeroOriginal": 142
+   },
+   "enunciado": "<p>O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, \\(\\frac{1}{2}\\) de probabilidade de acertar um dardo no alvo.</p><p>A fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a \\(\\frac{9}{10}\\). Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada.</p><p>Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2.",
+    "B": "4.",
+    "C": "6.",
+    "D": "9.",
+    "E": "10."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O jogador não pontua só se errar todos os dardos. Com <em>n</em> dardos, P(pontuar) = 1 − (1/2)<sup><em>n</em></sup>. Queremos 1 − (1/2)<sup><em>n</em></sup> ≥ 9/10, isto é, (1/2)<sup><em>n</em></sup> ≤ 1/10, ou 2<sup><em>n</em></sup> ≥ 10. Como 2<sup>3</sup> = 8 e 2<sup>4</sup> = 16, o mínimo é <strong>4 dardos</strong>. Alternativa <strong>B</strong>.</p><p>Com 3 dardos, a chance é 7/8 = 0,875, ainda abaixo de 0,9.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "evento complementar"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 8,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 143
+   },
+   "enunciado": "<p>O gráfico apresenta o nível de ocupação dos cinco reservatórios de água que abasteciam uma cidade em 2 de fevereiro de 2015.</p>[[fig:1]]<p>Nessa data, o reservatório com o maior volume de água era o</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q143.webp",
+     "alt": "Gráfico de barras “Nível dos reservatórios em 2 fev. 2015”, com a capacidade de cada um no topo: I, 105 bilhões de litros, nível 20%; II, 100, nível 30%; III, 20, nível 50%; IV, 80, nível 40%; V, 40, nível 60%."
+    }
+   ],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O volume de água é a capacidade vezes o nível de ocupação. I: 105 × 20% = 21; II: 100 × 30% = 30; III: 20 × 50% = 10; IV: 80 × 40% = <strong>32</strong>; V: 40 × 60% = 24 (em bilhão de litros). O maior volume está no reservatório <strong>IV</strong>. Alternativa <strong>D</strong>.</p><p>O V (E) tem o maior percentual, mas é pequeno; o I (A) é o maior, mas está quase vazio.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 9,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 144
+   },
+   "enunciado": "<p>Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando suas idades, e organizou esses dados no gráfico.</p>[[fig:1]]<p>Qual é a média das idades, em ano, desses alunos?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q144.webp",
+     "alt": "Gráfico de barras da frequência de ocorrência por idade (ano): 9 anos, frequência 6; 18 anos, frequência 12; 27 anos, frequência 9."
+    }
+   ],
+   "alternativas": {
+    "A": "9",
+    "B": "12",
+    "C": "18",
+    "D": "19",
+    "E": "27"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo gráfico, 6 alunos têm 9 anos, 12 têm 18 e 9 têm 27. Média ponderada: (6 · 9 + 12 · 18 + 9 · 27) ÷ (6 + 12 + 9) = (54 + 216 + 243) ÷ 27 = 513 ÷ 27 = <strong>19 anos</strong>. Alternativa <strong>D</strong>.</p><p>A média simples das idades (9 + 18 + 27)/3 = 18 (C) ignora as frequências; 9 e 12 (A e B) são frequências.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 10,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 145
+   },
+   "enunciado": "<p>Em um estudo realizado pelo IBGE em quatro estados e no Distrito Federal, com mais de 5 mil pessoas com 10 anos ou mais, observou-se que a leitura ocupa, em média, apenas seis minutos do dia de cada pessoa. Na faixa de idade de 10 a 24 anos, a média diária é de três minutos. No entanto, no grupo de idades entre 24 e 60 anos, o tempo médio diário dedicado à leitura é de 5 minutos. Entre os mais velhos, com 60 anos ou mais, a média é de 12 minutos. A quantidade de pessoas entrevistadas de cada faixa de idade seguiu a distribuição percentual descrita no quadro.</p><table class=\"tabela\"><thead><tr><th>Faixa etária</th><th>Percentual de entrevistados</th></tr></thead><tbody><tr><td>De 10 a 24 anos</td><td><em>x</em></td></tr><tr><td>Entre 24 e 60 anos</td><td><em>y</em></td></tr><tr><td>A partir de 60 anos</td><td><em>x</em></td></tr></tbody></table><p class=\"fonte\">Disponível em: www.oglobo.globo.com. Acesso em: 16 ago. 2013 (adaptado).</p><p>Os valores de <em>x</em> e <em>y</em> do quadro são, respectivamente, iguais a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "10 e 80.",
+    "B": "10 e 90.",
+    "C": "20 e 60.",
+    "D": "20 e 80.",
+    "E": "25 e 50."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A média geral (6 min) é a média ponderada das faixas: 3<em>x</em> + 5<em>y</em> + 12<em>x</em> = 6 · 100, ou seja, 15<em>x</em> + 5<em>y</em> = 600. Os percentuais somam 100: 2<em>x</em> + <em>y</em> = 100, então <em>y</em> = 100 − 2<em>x</em>. Substituindo: 15<em>x</em> + 500 − 10<em>x</em> = 600, <em>x</em> = <strong>20</strong> e <em>y</em> = <strong>60</strong>. Alternativa <strong>C</strong>.</p><p>Os pares 10 e 80 e 25 e 50 (A e E) somam 100%, mas dão médias diferentes de 6 minutos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "média ponderada",
+    "sistema linear"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 11,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 146
+   },
+   "enunciado": "<p>Um zootecnista pretende testar se uma nova ração para coelhos é mais eficiente do que a que ele vem utilizando atualmente. A ração atual proporciona uma massa média de 10 kg por coelho, com um desvio padrão de 1 kg, alimentado com essa ração durante um período de três meses.</p><p>O zootecnista selecionou uma amostra de coelhos e os alimentou com a nova ração pelo mesmo período de tempo. Ao final, anotou a massa de cada coelho, obtendo um desvio padrão de 1,5 kg para a distribuição das massas dos coelhos dessa amostra.</p><p>Para avaliar a eficiência dessa ração, ele utilizará o coeficiente de variação (<em>CV</em>) que é uma medida de dispersão definida por \\(CV = \\frac{s}{\\bar{x}}\\), em que <em>s</em> representa o desvio padrão e \\(\\bar{x}\\), a média das massas dos coelhos que foram alimentados com uma determinada ração.</p><p>O zootecnista substituirá a ração que vinha utilizando pela nova, caso o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a nova ração for menor do que o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a ração atual. A substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da amostra, em quilograma, for superior a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "5,0.",
+    "B": "9,5.",
+    "C": "10,0.",
+    "D": "10,5.",
+    "E": "15,0."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>CV da ração atual: 1/10 = 0,1. Com a nova, CV = 1,5/<em>x̄</em>. A troca acontece se 1,5/<em>x̄</em> &lt; 0,1, ou seja, <em>x̄</em> &gt; 1,5/0,1 = <strong>15 kg</strong>. Alternativa <strong>E</strong>.</p><p>10,0 (C) é a média atual; com média 10 e desvio 1,5, o CV seria 0,15, maior que 0,1.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coeficiente de variação",
+    "desvio padrão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 12,
+   "materia": "Matemática",
+   "assunto": "Raciocínio lógico",
+   "origem": {
+    "numeroOriginal": 147
+   },
+   "enunciado": "<p>A Cifra de César é um exemplo de um método de codificação de mensagens usado por Júlio César para se comunicar com seus generais.</p><p>No método, cada letra era trocada por uma letra que aparecia no alfabeto um número fixo de casas adiante (ou atrás) de forma cíclica. A seguir temos um exemplo em que cada letra é substituída pela que vem três posições à frente.</p><table class=\"tabela\"><thead><tr><th>Original</th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>H</th><th>I</th><th>J</th><th>K</th><th>L</th><th>M</th><th>N</th><th>O</th><th>P</th><th>Q</th><th>R</th><th>S</th><th>T</th><th>U</th><th>V</th><th>W</th><th>X</th><th>Y</th><th>Z</th></tr></thead><tbody><tr><td>Codificado</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>J</td><td>K</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Q</td><td>R</td><td>S</td><td>T</td><td>U</td><td>V</td><td>W</td><td>X</td><td>Y</td><td>Z</td><td>A</td><td>B</td><td>C</td></tr></tbody></table><p>Para quebrar um código como esse, a análise de frequências das letras de um texto é uma ferramenta importante. Uma análise do texto do romance <em>O guarani</em>, de José de Alencar, que é composto por 491 631 letras, gerou o seguinte gráfico de frequências:</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.dominiopublico.gov.br. Acesso em: 7 fev. 2015.</p><p>Após codificar esse texto com a regra do exemplo fornecido, faz-se nova análise de frequência no texto codificado.</p><p>As quatro letras mais frequentes, em ordem decrescente de frequência, do texto codificado são</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q147.webp",
+     "alt": "Gráfico de barras da frequência de cada letra de A a Z em O guarani: as mais altas são A (cerca de 70 000), E (cerca de 64 000), O (cerca de 52 000), S (cerca de 39 000), R (cerca de 33 000) e I (cerca de 32 000); K, W e Y quase não aparecem."
+    }
+   ],
+   "alternativas": {
+    "A": "A, E, O e S.",
+    "B": "D, E, F e G.",
+    "C": "D, H, R e V.",
+    "D": "R, L, B e X.",
+    "E": "X, B, L e P."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>No gráfico, as quatro letras mais frequentes do texto original são A (cerca de 70 mil), E (cerca de 64 mil), O (cerca de 52 mil) e S (cerca de 39 mil). A codificação troca cada letra pela que está três posições à frente: A → D, E → H, O → R e S → V. No texto codificado, as mais frequentes são <strong>D, H, R e V</strong>. Alternativa <strong>C</strong>.</p><p>A, E, O e S (A) são as letras do original, antes da codificação.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cifra de César",
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 13,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 148
+   },
+   "enunciado": "<p>O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na escala Richter, ocorridos em nosso planeta nos anos de 2000 a 2011.</p><table class=\"tabela\"><thead><tr><th>Ano</th><th>2000</th><th>2001</th><th>2002</th><th>2003</th><th>2004</th><th>2005</th><th>2006</th><th>2007</th><th>2008</th><th>2009</th><th>2010</th><th>2011</th></tr></thead><tbody><tr><td>Terremotos</td><td>15</td><td>16</td><td>13</td><td>15</td><td>16</td><td>11</td><td>11</td><td>18</td><td>12</td><td>17</td><td>24</td><td>20</td></tr></tbody></table><p class=\"fonte\">Disponível em: https://earthquake.usgs.gov/earthquakes/browse/m7-world.php. Acesso em: 13 ago. 2012 (adaptado).</p><p>Um pesquisador acredita que a mediana representa bem o número anual típico de terremotos em um período.</p><p>Segundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou igual a 7 é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "11.",
+    "B": "15.",
+    "C": "15,5.",
+    "D": "15,7.",
+    "E": "17,5."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Ordenando os 12 valores: 11, 11, 12, 13, 15, 15, 16, 16, 17, 18, 20, 24. Com quantidade par, a mediana é a média dos dois centrais (6º e 7º): (15 + 16) ÷ 2 = <strong>15,5</strong>. Alternativa <strong>C</strong>.</p><p>15,7 (D) é a média aritmética (188 ÷ 12); 15 e 11 (B e A) são modas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mediana"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 14,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 149
+   },
+   "enunciado": "<p>A receita <em>R</em> de uma empresa ao final de um mês é o dinheiro captado com a venda de mercadorias ou com a prestação de serviços nesse mês, e a despesa <em>D</em> é todo o dinheiro utilizado para pagamento de salários, contas de água e luz, impostos, entre outros. O lucro mensal obtido ao final do mês é a diferença entre a receita e a despesa registradas no mês. O gráfico apresenta as receitas e despesas, em milhão de real, de uma empresa ao final dos cinco primeiros meses de um dado ano.</p>[[fig:1]]<p>A previsão para os próximos meses é que o lucro mensal não seja inferior ao maior lucro obtido até o mês de maio. Nessas condições, o lucro mensal para os próximos meses deve ser maior ou igual ao do mês de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q149.webp",
+     "alt": "Gráfico “Receitas e despesas”, em milhão de real: receita (linha cheia) de 10 em janeiro, 20 em fevereiro, 15 em março, 20 em abril e 28 em maio; despesa (linha tracejada) de 5 em janeiro, 10 em fevereiro, 10 em março, 15 em abril e 25 em maio."
+    }
+   ],
+   "alternativas": {
+    "A": "janeiro.",
+    "B": "fevereiro.",
+    "C": "março.",
+    "D": "abril.",
+    "E": "maio."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Lucro = receita − despesa. Pelo gráfico: janeiro 10 − 5 = 5; fevereiro 20 − 10 = <strong>10</strong>; março 15 − 10 = 5; abril 20 − 15 = 5; maio 28 − 25 = 3 (em milhão). O maior lucro foi o de <strong>fevereiro</strong>. Alternativa <strong>B</strong>.</p><p>Maio (E) tem a maior receita, mas também a maior despesa, e o menor lucro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leitura de gráfico"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 15,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 150
+   },
+   "enunciado": "<p>A depressão caracteriza-se por um desequilíbrio na química cerebral. Os neurônios de um deprimido não respondem bem aos estímulos dos neurotransmissores. Os remédios que combatem a depressão têm o objetivo de restabelecer a química cerebral. Com o aumento gradativo de casos de depressão, a venda desses medicamentos está em crescente evolução, conforme ilustra o gráfico.</p>[[fig:1]]<p class=\"fonte\">Veja, 10 fev. 2010 (adaptado).</p><p>No período de 2005 a 2009, o aumento percentual no volume de vendas foi de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q150.webp",
+     "alt": "Gráfico de linha do volume de vendas (em milhão) por ano: 236 em 2005, 294 em 2006, 370 em 2007, 465 em 2008 e 519,2 em 2009."
+    }
+   ],
+   "alternativas": {
+    "A": "45,4.",
+    "B": "54,5.",
+    "C": "120.",
+    "D": "220.",
+    "E": "283,2."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As vendas foram de 236 (2005) para 519,2 milhões (2009). Aumento: 519,2 − 236 = 283,2. Em relação ao valor inicial: 283,2 ÷ 236 = 1,2, ou seja, <strong>120%</strong>. Alternativa <strong>C</strong>.</p><p>283,2 (E) é o aumento absoluto; 220 (D) seria o valor final em relação ao inicial (220%), não o aumento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "variação percentual"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 16,
+   "materia": "Matemática",
+   "assunto": "Estatística",
+   "origem": {
+    "numeroOriginal": 151
+   },
+   "enunciado": "<p>Um casal está planejando comprar um apartamento de dois quartos num bairro de uma cidade e consultou a página de uma corretora de imóveis, encontrando 105 apartamentos de dois quartos à venda no bairro desejado. Eles usaram um aplicativo da corretora para gerar a distribuição dos preços do conjunto de imóveis selecionados.</p><p>O gráfico ilustra a distribuição de frequências dos preços de venda dos apartamentos dessa lista (em mil reais), no qual as faixas de preço são dadas por ]300, 400], ]400, 500], ]500, 600], ]600, 700], ]700, 800], ]800, 900], ]900, 1 000], ]1 000, 1 100], ]1 100, 1 200] e ]1 200, 1 300].</p><p>A mesma corretora anuncia que cerca de 50% dos apartamentos de dois quartos nesse bairro, publicados em sua página, têm preço de venda inferior a 550 mil reais. No entanto, o casal achou que essa última informação não era compatível com o gráfico obtido.</p>[[fig:1]]<p>Com base no gráfico obtido, o menor preço, <em>p</em> (em mil reais), para o qual pelo menos 50% dos apartamentos apresenta preço inferior a <em>p</em> é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q151.webp",
+     "alt": "Histograma “Distribuição dos preços”: número de imóveis por faixa de preço (em mil reais): 300–400: 5; 400–500: 10; 500–600: 5; 600–700: 15; 700–800: 20; 800–900: 15; 900–1 000: 15; 1 000–1 100: 10; 1 100–1 200: 5; 1 200–1 300: 5."
+    }
+   ],
+   "alternativas": {
+    "A": "600.",
+    "B": "700.",
+    "C": "800.",
+    "D": "900.",
+    "E": "1 000."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pelo histograma, as faixas têm 5, 10, 5, 15, 20, 15, 15, 10, 5 e 5 imóveis (total 105). Metade é 52,5. Acumulando: até 400 → 5; até 500 → 15; até 600 → 20; até 700 → 35; até 800 → <strong>55</strong>. Só a partir de 800 mil reais pelo menos 50% dos imóveis custam menos. Alternativa <strong>C</strong>.</p><p>Até 600 mil (A) há só 20 imóveis, 19% do total, o que mostra que o anúncio de 50% abaixo de 550 mil não era compatível.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "histograma",
+    "frequência acumulada"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 17,
+   "materia": "Matemática",
+   "assunto": "Equações",
+   "origem": {
+    "numeroOriginal": 152
+   },
+   "enunciado": "<p>Para a comunicação entre dois navios é utilizado um sistema de codificação com base em valores numéricos. Para isso, são consideradas as operações triângulo Δ e estrela ∗, definidas sobre o conjunto dos números reais por \\(x \\Delta y = x^2 + xy - y^2\\) e \\(x * y = xy + x\\).</p><p>O navio que deseja enviar uma mensagem deve fornecer um valor de entrada <em>b</em>, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma das duas maiores soluções da equação \\((a \\Delta b) * (b \\Delta a) = 0\\). Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios.</p><p>Um navio deseja enviar ao outro a mensagem “ATENÇÃO!”. Para isso, deve utilizar o valor de entrada <em>b</em> = 1.</p><p>Dessa forma, o valor recebido pelo navio receptor será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\sqrt{5}\\)",
+    "B": "\\(\\sqrt{3}\\)",
+    "C": "\\(\\sqrt{1}\\)",
+    "D": "\\(\\frac{-1 + \\sqrt{5}}{2}\\)",
+    "E": "\\(\\frac{3 + \\sqrt{5}}{2}\\)"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com <em>b</em> = 1: <em>a</em>Δ1 = <em>a</em><sup>2</sup> + <em>a</em> − 1 e 1Δ<em>a</em> = 1 + <em>a</em> − <em>a</em><sup>2</sup>. Como <em>x</em> * <em>y</em> = <em>x</em>(<em>y</em> + 1), a equação vira (<em>a</em><sup>2</sup> + <em>a</em> − 1)(2 + <em>a</em> − <em>a</em><sup>2</sup>) = 0. Primeiro fator: <em>a</em> = (−1 ± √5)/2. Segundo: <em>a</em><sup>2</sup> − <em>a</em> − 2 = 0, <em>a</em> = 2 ou <em>a</em> = −1. As duas maiores soluções são 2 e (−1 + √5)/2, que somam <strong>(3 + √5)/2</strong>. Alternativa <strong>E</strong>.</p><p>(−1 + √5)/2 (D) é só uma das soluções.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "operações definidas",
+    "equação do 2º grau"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 18,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 153
+   },
+   "enunciado": "<p>Um parque temático brasileiro construiu uma réplica em miniatura do castelo de Liechtenstein. O castelo original, representado na imagem, está situado na Alemanha e foi reconstruído entre os anos de 1840 e 1842, após duas destruições causadas por guerras.</p>[[fig:1]]<p>O castelo possui uma ponte de 38,4 m de comprimento e 1,68 m de largura. O artesão que trabalhou para o parque produziu a réplica do castelo, em escala. Nessa obra, as medidas do comprimento e da largura da ponte eram, respectivamente, 160 cm e 7 cm.</p><p>A escala utilizada para fazer a réplica é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q153.webp",
+     "alt": "Foto do castelo de Liechtenstein, com torres brancas sobre um rochedo cercado de árvores e uma ponte de acesso."
+    }
+   ],
+   "alternativas": {
+    "A": "1 : 576",
+    "B": "1 : 240",
+    "C": "1 : 24",
+    "D": "1 : 4,2",
+    "E": "1 : 2,4"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Escala = medida da réplica ÷ medida real, nas mesmas unidades. Comprimento: 160 cm ÷ 3 840 cm = 1/24. Largura: 7 cm ÷ 168 cm = 1/24. A escala é <strong>1 : 24</strong>. Alternativa <strong>C</strong>.</p><p>1 : 240 (B) e 1 : 2,4 (E) vêm de erro na conversão de metro para centímetro; 1 : 576 (A) é a razão entre áreas (24<sup>2</sup>).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "escala"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 19,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 154
+   },
+   "enunciado": "<p>A demografia médica é o estudo da população de médicos no Brasil nos aspectos quantitativo e qualitativo, sendo um dos seus objetivos fazer projeções sobre a necessidade da formação de novos médicos. Um desses estudos gerou um conjunto de dados que aborda a evolução do número de médicos e da população brasileira por várias décadas. O quadro apresenta parte desses dados.</p><table class=\"tabela\"><thead><tr><th>Ano</th><th>Médicos</th><th>População brasileira (em milhar)</th></tr></thead><tbody><tr><td>1990</td><td>219 000</td><td>147 000</td></tr><tr><td>2000</td><td>292 000</td><td>170 000</td></tr><tr><td>2010</td><td>365 000</td><td>191 000</td></tr></tbody></table><p>Segundo uma projeção estatística, a variação do número de médicos e o da população brasileira de 2010 para 2020 será a média entre a variação de 1990 para 2000 e a de 2000 para 2010. Com o resultado dessa projeção, determina-se o número de médicos por mil habitantes no ano de 2020.</p><p class=\"fonte\">Disponível em: www.cremesp.org.br. Acesso em: 24 jun. 2015 (adaptado).</p><p>O número, com duas casas na parte decimal, mais próximo do número de médicos por mil habitantes no ano de 2020 seria de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,17.",
+    "B": "0,49.",
+    "C": "1,71.",
+    "D": "2,06.",
+    "E": "3,32."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Médicos: de 1990 a 2000 e de 2000 a 2010 a variação foi de 73 000; a média é 73 000, e em 2020 seriam 365 000 + 73 000 = 438 000. População (em milhar): variações de 23 000 e 21 000, média 22 000; em 2020, 191 000 + 22 000 = 213 000 mil = 213 milhões. Médicos por mil habitantes: 438 000 ÷ 213 000 ≈ <strong>2,06</strong>. Alternativa <strong>D</strong>.</p><p>1,71 (C) é o valor de 2010 (365 000 ÷ 191 000), sem a projeção.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "taxa",
+    "projeção"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 20,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 155
+   },
+   "enunciado": "<p>Um atleta produz sua própria refeição com custo fixo de R$ 10,00. Ela é composta por 400 g de frango, 600 g de batata-doce e uma hortaliça. Atualmente, os preços dos produtos para essa refeição são:</p><table class=\"tabela\"><thead><tr><th>Refeição</th><th>Frango (kg)</th><th>Batata-doce (kg)</th><th>Hortaliças (unidade)</th></tr></thead><tbody><tr><td></td><td>R$ 12,50</td><td>R$ 5,00</td><td>R$ 2,00</td></tr></tbody></table><p>Em relação a esses preços, haverá um aumento de 50% no preço do quilograma de batata-doce, e os outros preços não serão alterados. O atleta deseja manter o custo da refeição, a quantidade de batata-doce e a hortaliça. Portanto, terá que reduzir a quantidade de frango.</p><p>Qual deve ser a redução percentual da quantidade de frango para que o atleta alcance seu objetivo?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "12,5",
+    "B": "28,0",
+    "C": "30,0",
+    "D": "50,0",
+    "E": "70,0"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Custo atual: frango 0,4 × 12,50 = 5,00; batata-doce 0,6 × 5,00 = 3,00; hortaliça 2,00; total R$ 10,00. Com o aumento de 50%, a batata custa 7,50/kg e os 600 g passam a 4,50. Sobram 10 − 4,50 − 2,00 = R$ 3,50 para o frango: 3,50 ÷ 12,50 = 0,28 kg = 280 g. A redução é de 120 g sobre 400 g: <strong>30%</strong>. Alternativa <strong>C</strong>.</p><p>28,0 (B) é a nova quantidade em centenas de gramas, não a redução.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "custo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 21,
+   "materia": "Matemática",
+   "assunto": "Trigonometria",
+   "origem": {
+    "numeroOriginal": 156
+   },
+   "enunciado": "<p>Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição <em>P</em> (em cm) da massa <em>m</em> em função do tempo <em>t</em> (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo \\(P(t) = \\pm A \\cos(\\omega t)\\) ou \\(P(t) = \\pm A \\,\\text{sen}(\\omega t)\\), em que <em>A</em> &gt; 0 é a amplitude de deslocamento máximo e ω é a frequência, que se relaciona com o período <em>T</em> pela fórmula \\(\\omega = \\frac{2\\pi}{T}\\).</p><p>Considere a ausência de quaisquer forças dissipativas.</p>[[fig:1]]<p>A expressão algébrica que representa as posições <em>P</em>(<em>t</em>) da massa <em>m</em>, ao longo do tempo, no gráfico, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q156.webp",
+     "alt": "À esquerda, uma mola com uma massa m na posição de equilíbrio e a mesma mola distendida, com a massa mais abaixo. À direita, o gráfico de P em função de t: a curva começa em −3 em t = 0, sobe a 3 em π/2, desce a −3 em π, e repete esse ciclo em 3π/2, 2π, 5π/2 e 3π."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(-3\\cos(2t)\\)",
+    "B": "\\(-3\\,\\text{sen}(2t)\\)",
+    "C": "\\(3\\cos(2t)\\)",
+    "D": "\\(-6\\cos(2t)\\)",
+    "E": "\\(6\\,\\text{sen}(2t)\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No gráfico, a curva começa em <em>P</em> = −3 (a mola solta na posição distendida, abaixo do equilíbrio), então a amplitude é 3 e a função é do tipo −3 cos(ω<em>t</em>), que vale −3 em <em>t</em> = 0. O primeiro máximo aparece em π/2 e a curva volta a −3 em π: o período é <em>T</em> = π, então ω = 2π/π = 2. A expressão é <strong>−3 cos(2<em>t</em>)</strong>. Alternativa <strong>A</strong>.</p><p>−3 sen(2<em>t</em>) (B) começaria em zero; −6 cos (D) teria amplitude 6.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função cosseno",
+    "período"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 22,
+   "materia": "Matemática",
+   "assunto": "Matrizes",
+   "origem": {
+    "numeroOriginal": 157
+   },
+   "enunciado": "<p>Uma construtora, pretendendo investir na construção de imóveis em uma metrópole com cinco grandes regiões, fez uma pesquisa sobre a quantidade de famílias que mudaram de uma região para outra, de modo a determinar qual região foi o destino do maior fluxo de famílias, sem levar em consideração o número de famílias que deixaram a região. Os valores da pesquisa estão dispostos em uma matriz \\(A = [a_{ij}],\\ i, j \\in \\{1, 2, 3, 4, 5\\}\\), em que o elemento \\(a_{ij}\\) corresponde ao total de famílias (em dezena) que se mudaram da região <em>i</em> para a região <em>j</em> durante um certo período, e o elemento \\(a_{ii}\\) é considerado nulo, uma vez que somente são consideradas mudanças entre regiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.</p><p class=\"centro\">\\(A = \\begin{pmatrix} 0 & 4 & 2 & 2 & 5 \\\\ 0 & 0 & 6 & 2 & 3 \\\\ 2 & 2 & 0 & 3 & 0 \\\\ 1 & 0 & 2 & 0 & 4 \\\\ 1 & 2 & 0 & 4 & 0 \\end{pmatrix}\\)</p><p>Qual região foi selecionada para o investimento da construtora?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O elemento <em>a<sub>ij</sub></em> conta famílias que foram de <em>i</em> para <em>j</em>. O fluxo que chega a uma região é a soma da sua <strong>coluna</strong>. Coluna 1: 0 + 0 + 2 + 1 + 1 = 4; coluna 2: 4 + 0 + 2 + 0 + 2 = 8; coluna 3: 2 + 6 + 0 + 2 + 0 = 10; coluna 4: 2 + 2 + 3 + 0 + 4 = 11; coluna 5: 5 + 3 + 0 + 4 + 0 = <strong>12</strong>. A região escolhida é a <strong>5</strong>. Alternativa <strong>E</strong>.</p><p>Somar as linhas (famílias que saíram) daria a região 1 ou 2 (A e B), justamente o que o texto manda não considerar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "matriz",
+    "interpretação de elementos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 23,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 158
+   },
+   "enunciado": "<p>Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro. A quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "10% menor.",
+    "B": "1% menor.",
+    "C": "igual.",
+    "D": "1% maior.",
+    "E": "11% maior."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Consumo do avião lotado = consumo por km e por passageiro × passageiros × distância. No modelo B, o número de passageiros é multiplicado por 1,1 e o consumo por passageiro por 0,9: 1,1 × 0,9 = 0,99. O consumo total de B é 99% do de A, ou seja, <strong>1% menor</strong>. Alternativa <strong>B</strong>.</p><p>Achar que +10% e −10% se anulam leva a “igual” (C), mas as porcentagens incidem sobre bases diferentes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagens sucessivas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 24,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 159
+   },
+   "enunciado": "<p>Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocas de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido. Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "6,0",
+    "B": "5,7",
+    "C": "5,0",
+    "D": "4,5",
+    "E": "4,4"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O tempo é inversamente proporcional ao número de pessoas: com 3 pessoas, 4 s; com 2 pessoas, <em>t</em> = 4 × 3/2 = 6 s. Os grupos trabalham ao mesmo tempo, então a troca dos quatro pneus termina quando o grupo mais lento acaba: <strong>6,0 s</strong>. Alternativa <strong>A</strong>.</p><p>Fazer uma média entre os grupos (4,5 s, D) não faz sentido, porque o carro só sai quando todos os pneus estão trocados.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "grandezas inversamente proporcionais"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 25,
+   "materia": "Matemática",
+   "assunto": "Raciocínio lógico",
+   "origem": {
+    "numeroOriginal": 160
+   },
+   "enunciado": "<p>Um nutricionista verificou, na dieta diária do seu cliente, a falta de 800 mg do mineral A, de 1 000 mg do mineral B e de 1 200 mg do mineral C. Por isso, recomendou a compra de suplementos alimentares que forneçam os minerais faltantes e informou que não haveria problema se consumisse mais desses minerais do que o recomendado.</p><p>O cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e as quantidades dos minerais estão apresentados a seguir:</p><ul><li>Suplemento I: contém 50 mg do mineral A, 100 mg do mineral B e 200 mg do mineral C e custa R$ 2,00;</li><li>Suplemento II: contém 800 mg do mineral A, 250 mg do mineral B e 200 mg do mineral C e custa R$ 3,00;</li><li>Suplemento III: contém 250 mg do mineral A, 1 000 mg do mineral B e 300 mg do mineral C e custa R$ 5,00;</li><li>Suplemento IV: contém 600 mg do mineral A, 500 mg do mineral B e 1 000 mg do mineral C e custa R$ 6,00;</li><li>Suplemento V: contém 400 mg do mineral A, 800 mg do mineral B e 1 200 mg do mineral C e custa R$ 8,00.</li></ul><p>O cliente decidiu comprar sachês de um único suplemento no qual gastasse menos dinheiro e ainda suprisse a falta de minerais indicada pelo nutricionista, mesmo que consumisse alguns deles além de sua necessidade.</p><p>Nessas condições, o cliente deverá comprar sachês do suplemento</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I.",
+    "B": "II.",
+    "C": "III.",
+    "D": "IV.",
+    "E": "V."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Para cada suplemento, o número de sachês é o maior entre as necessidades de A (800), B (1 000) e C (1 200). I: 16 sachês (por causa do A) × R$ 2 = R$ 32; II: 6 (C) × R$ 3 = R$ 18; III: 4 (A e C) × R$ 5 = R$ 20; IV: 2 (os três) × R$ 6 = <strong>R$ 12</strong>; V: 2 (A) × R$ 8 = R$ 16. O mais barato é o <strong>IV</strong>. Alternativa <strong>D</strong>.</p><p>O suplemento I é o de menor preço por sachê, mas exige muitos sachês.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "otimização",
+    "arredondamento para cima"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 26,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 161
+   },
+   "enunciado": "<p>O administrador de um teatro percebeu que, com o ingresso do evento a R$ 20,00, um show conseguia atrair 200 pessoas e que, a cada R$ 1,00 de redução no preço do ingresso, o número de pessoas aumentava em 40. Ele sabe que os donos do teatro só admitem trabalhar com valores inteiros para os ingressos, pela dificuldade de disponibilizar troco, e pretende convencê-los a diminuir o preço do ingresso. Assim, apresentará um gráfico da arrecadação em função do valor do desconto no preço atual do ingresso.</p><p>O gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q161a.webp",
+     "alt": "Gráfico de arrecadação em função do desconto (0 a 23): uma reta crescente de 4 000 até cerca de 5 600 em 20."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q161b.webp",
+     "alt": "Gráfico de arrecadação em função do desconto: pontos isolados em linha crescente, de 4 000 em 0 até cerca de 5 600 em 20."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q161c.webp",
+     "alt": "Gráfico de arrecadação em função do desconto: uma reta levemente decrescente, de 4 000 até cerca de 3 700 em 20."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q161d.webp",
+     "alt": "Gráfico de arrecadação em função do desconto: uma curva contínua em forma de parábola, começando em 4 000, com máximo de cerca de 6 250 perto de 7,5 e chegando a zero em 20."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q161e.webp",
+     "alt": "Gráfico de arrecadação em função do desconto: pontos isolados formando uma parábola, começando em 4 000, com máximo de cerca de 6 250 entre 7 e 8 e chegando a zero em 20."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com desconto <em>x</em> (inteiro), o ingresso custa 20 − <em>x</em> e vão 200 + 40<em>x</em> pessoas. Arrecadação: (20 − <em>x</em>)(200 + 40<em>x</em>), uma função do 2º grau com concavidade para baixo: vale 4 000 em <em>x</em> = 0, chega ao máximo de 6 250 em <em>x</em> = 7,5 e zera em <em>x</em> = 20. Como só valem descontos inteiros, o gráfico é formado por <strong>pontos isolados sobre uma parábola</strong>. Alternativa <strong>E</strong>.</p><p>D tem a forma certa, mas é uma curva contínua, que admitiria descontos não inteiros.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função quadrática",
+    "domínio discreto"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 27,
+   "materia": "Matemática",
+   "assunto": "Funções",
+   "origem": {
+    "numeroOriginal": 162
+   },
+   "enunciado": "<p>O quadro representa a relação entre o preço de um produto (<em>R</em>) e seu respectivo imposto devido (<em>I</em>).</p><table class=\"tabela\"><thead><tr><th>Preço do produto (<em>R</em>)</th><th>Imposto devido (<em>I</em>)</th></tr></thead><tbody><tr><td><em>R</em> ≤ 5 000</td><td>isento</td></tr><tr><td>5 000 &lt; <em>R</em> ≤ 10 000</td><td>10% de (<em>R</em> − 5 000)</td></tr><tr><td>10 000 &lt; <em>R</em> ≤ 15 000</td><td>500 + 30% de (<em>R</em> − 10 000)</td></tr></tbody></table><p>O gráfico que melhor representa essa relação é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q162a.webp",
+     "alt": "Gráfico de I em função de R: zero até 5 000, segmento até 500 em 10 000 e segmento mais inclinado até 2 000 em 15 000."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q162b.webp",
+     "alt": "Gráfico de I em função de R: zero até 5 000, depois uma única reta até 500 em 10 000 e 1 000 em 15 000."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q162c.webp",
+     "alt": "Gráfico de I em função de R: reta desde a origem até 500 em 10 000, depois segmento até 1 000 em 15 000."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q162d.webp",
+     "alt": "Gráfico de I em função de R em degraus: zero até 5 000, constante igual a 500 entre 5 000 e 10 000, constante igual a 2 000 entre 10 000 e 15 000."
+    },
+    {
+     "src": "assets/img/enem-2021-matematica/q162e.webp",
+     "alt": "Gráfico de I em função de R: reta começando em 5 000 no zero, passando por 500 em 10 000 e chegando a 1 000 em 15 000."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Até 5 000 o imposto é zero. Em <em>R</em> = 10 000: 10% de 5 000 = 500. Em <em>R</em> = 15 000: 500 + 30% de 5 000 = 500 + 1 500 = <strong>2 000</strong>. O gráfico é nulo até 5 000, sobe em linha reta até 500 em 10 000 e depois sobe mais inclinado até 2 000 em 15 000. Alternativa <strong>A</strong>.</p><p>B e E param em 1 000, como se a alíquota fosse 10% também na última faixa; D desenha degraus, mas o imposto cresce continuamente.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "função definida por partes"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 28,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 163
+   },
+   "enunciado": "<p>A relação de Newton-Laplace estabelece que o módulo volumétrico de um fluido é diretamente proporcional ao quadrado da velocidade do som (em metro por segundo) no fluido e à sua densidade (em quilograma por metro cúbico), com uma constante de proporcionalidade adimensional.</p><p>Nessa relação, a unidade de medida adequada para o módulo volumétrico é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(kg \\cdot m^{-2} \\cdot s^{-1}\\)",
+    "B": "\\(kg \\cdot m^{-1} \\cdot s^{-2}\\)",
+    "C": "\\(kg \\cdot m^{-5} \\cdot s^{2}\\)",
+    "D": "\\(kg^{-1} \\cdot m^{1} \\cdot s^{2}\\)",
+    "E": "\\(kg^{-1} \\cdot m^{5} \\cdot s^{-2}\\)"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A relação é <em>K</em> = <em>c</em> · <em>v</em><sup>2</sup> · ρ, com <em>c</em> adimensional. Unidades: (m/s)<sup>2</sup> · kg/m<sup>3</sup> = m<sup>2</sup> · s<sup>−2</sup> · kg · m<sup>−3</sup> = <strong>kg · m<sup>−1</sup> · s<sup>−2</sup></strong>, que é a unidade de pressão (pascal). Alternativa <strong>B</strong>.</p><p>Usar a velocidade sem elevar ao quadrado daria kg · m<sup>−2</sup> · s<sup>−1</sup> (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "análise dimensional"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 29,
+   "materia": "Matemática",
+   "assunto": "Sistemas lineares",
+   "origem": {
+    "numeroOriginal": 164
+   },
+   "enunciado": "<p>Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente uma mala com até 10 kg. Em duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 10 kg com as seguintes combinações de itens:</p><table class=\"tabela\"><thead><tr><th>Viagem</th><th>Camisetas</th><th>Calças</th><th>Sapatos</th></tr></thead><tbody><tr><td>I</td><td>12</td><td>4</td><td>3</td></tr><tr><td>II</td><td>18</td><td>3</td><td>2</td></tr></tbody></table><p>Para ter certeza de que sua bagagem terá massa de 10 kg, ela decide levar essa mala com duas calças, um sapato e o máximo de camisetas, admitindo que itens do mesmo tipo têm a mesma massa.</p><p>Qual a quantidade máxima de camisetas que essa pessoa poderá levar?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "22",
+    "B": "24",
+    "C": "26",
+    "D": "33",
+    "E": "39"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Sejam <em>c</em>, <em>p</em> e <em>s</em> as massas de camiseta, calça e sapato: 12<em>c</em> + 4<em>p</em> + 3<em>s</em> = 10 e 18<em>c</em> + 3<em>p</em> + 2<em>s</em> = 10. Fazendo 2 × (2ª) − (1ª): 24<em>c</em> + 2<em>p</em> + <em>s</em> = 10. Ou seja, duas calças e um sapato deixam espaço para exatamente <strong>24 camisetas</strong>. Alternativa <strong>B</strong>.</p><p>Não é preciso achar cada massa: a combinação das equações já dá a resposta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sistema linear",
+    "combinação de equações"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 30,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 165
+   },
+   "enunciado": "<p>Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km percorridos.</p><p>O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "15,9.",
+    "B": "16,1.",
+    "C": "16,4.",
+    "D": "17,4.",
+    "E": "18,0."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Com 16 km/L, em 20 km o carro gasta 20/16 = 1,25 L. O novo motor economiza 0,1 L nesse trecho: 1,15 L. Desempenho: 20 ÷ 1,15 ≈ <strong>17,4 km/L</strong>. Alternativa <strong>D</strong>.</p><p>16,1 (B) somaria 0,1 ao desempenho, confundindo litros economizados com km/L.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "consumo",
+    "razão"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 31,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 166
+   },
+   "enunciado": "<p>O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso interno com tinta epóxi. O construtor havia pedido, a cinco fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.</p><p>Em relação ao previsto para o projeto original, as novas quantidades de tinta necessárias informadas pelos fornecedores foram as seguintes:</p><ul><li>Fornecedor I: “O dobro, tanto para as paredes quanto para o piso.”</li><li>Fornecedor II: “O dobro para as paredes e quatro vezes para o piso.”</li><li>Fornecedor III: “Quatro vezes, tanto para as paredes quanto para o piso.”</li><li>Fornecedor IV: “Quatro vezes para as paredes e o dobro para o piso.”</li><li>Fornecedor V: “Oito vezes para as paredes e quatro vezes para o piso.”</li></ul><p>Analisando as informações dos fornecedores, o construtor providenciará a quantidade adequada de material. Considere a porta de acesso do contêiner como parte de uma das paredes.</p><p>Qual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo construtor para a aquisição do material?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Dobrar comprimento e largura com a mesma altura: a área de cada parede é (lado) × altura, e cada lado dobrou, então a área das paredes <strong>dobra</strong>. O piso é comprimento × largura: 2 × 2 = <strong>4 vezes</strong>. Só o fornecedor II acertou. Alternativa <strong>B</strong>.</p><p>Quatro vezes para as paredes (C e D) aplicaria o fator de área a figuras que só mudaram em uma dimensão.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "área",
+    "semelhança"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 32,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 167
+   },
+   "enunciado": "<p>Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa.</p><p>Considere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para π. Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,12.",
+    "B": "3,10.",
+    "C": "4,35.",
+    "D": "4,48.",
+    "E": "5,60."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Consumo em 7 dias: 100 × 120 × 7 = 84 000 L = 84 m<sup>3</sup>. Área da base (raio 2,5 m): 3 × 2,5<sup>2</sup> = 18,75 m<sup>2</sup>. Altura: 84 ÷ 18,75 = <strong>4,48 m</strong>. Alternativa <strong>D</strong>.</p><p>1,12 m (A) usaria o diâmetro como raio.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volume do cilindro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 33,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 168
+   },
+   "enunciado": "<p>Num octaedro regular, duas faces são consideradas opostas quando não têm nem arestas, nem vértices em comum. Na figura, observa-se um octaedro regular e uma de suas planificações, na qual há uma face colorida na cor cinza escuro e outras quatro faces numeradas.</p>[[fig:1]]<p>Qual(is) face(s) ficará(ão) oposta(s) à face de cor cinza escuro, quando o octaedro for reconstruído a partir da planificação dada?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q168.webp",
+     "alt": "À esquerda, um octaedro regular. À direita, a planificação: uma tira de oito triângulos; na linha de cima, as faces 1, 2 e 3; abaixo da 2, a face 4; mais abaixo, outros triângulos, um deles cinza escuro, no canto inferior direito."
+    }
+   ],
+   "alternativas": {
+    "A": "1, 2, 3 e 4",
+    "B": "1 e 3",
+    "C": "1",
+    "D": "2",
+    "E": "4"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Ao montar o octaedro, as faces 1, 2 e 3 se fecham com a face cinza em torno de um mesmo vértice, e as faces vizinhas da cinza na planificação também se encostam nela. Seguindo as colagens, a face cinza fica com uma aresta em comum com 1, com 3 e com a face branca ao seu lado, e um vértice em comum com 2 e com as outras duas faces brancas. A única que não toca a face cinza é a <strong>4</strong>. Alternativa <strong>E</strong>.</p><p>No octaedro, cada face tem exatamente uma oposta, por isso as alternativas com mais de uma face (A e B) estão erradas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "octaedro",
+    "planificação"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 34,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 169
+   },
+   "enunciado": "<p>O instrumento de percussão conhecido como triângulo é composto por uma barra fina de aço, dobrada em um formato que se assemelha a um triângulo, com uma abertura e uma haste, conforme ilustra a Figura 1.</p>[[fig:1]]<p>Uma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de um triângulo equilátero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perímetro do triângulo equilátero representado na Figura 2.</p><p>Considere 1,7 como valor aproximado para \\(\\sqrt{3}\\).</p><p>Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q169.webp",
+     "alt": "Figura 1: um triângulo de percussão de metal, com uma abertura num canto e uma haste. Figura 2: um triângulo equilátero com a altura h = 8 cm indicada."
+    }
+   ],
+   "alternativas": {
+    "A": "9,07.",
+    "B": "13,60.",
+    "C": "20,40.",
+    "D": "27,18.",
+    "E": "36,24."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>No triângulo equilátero, <em>h</em> = <em>L</em>√3/2, então <em>L</em> = 2<em>h</em>/√3 = 16/√3 = 16√3/3 ≈ 16 × 1,7/3 ≈ 9,06 cm. A barra tem o comprimento do perímetro: 3<em>L</em> = 16√3 ≈ 16 × 1,7 = 27,2 cm. Entre as alternativas, o valor mais próximo é <strong>27,18 cm</strong>, que é 3 × 9,06. Alternativa <strong>D</strong>.</p><p>9,07 (A) é só um lado, e 36,24 (E) soma quatro lados. 13,60 (B) é a metade do perímetro, e 20,40 (C) usa 12 no lugar de 16.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "triângulo equilátero",
+    "perímetro"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 35,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 170
+   },
+   "enunciado": "<p>Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.</p>[[fig:1]]<p>Sabe-se que 1 cm<sup>3</sup> = 1 mL e que o topo da caneca é uma circunferência de diâmetro (<em>D</em>) medindo 10 cm, e a base é um círculo de diâmetro (<em>d</em>) medindo 8 cm. Além disso, sabe-se que a altura (<em>h</em>) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).</p><p>Utilize 3 como aproximação para π.</p><p>Qual é a capacidade volumétrica, em mililitro, dessa caneca?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q170.webp",
+     "alt": "Caneca em forma de tronco de cone, com o diâmetro D do topo, o diâmetro d da base e a altura h indicados."
+    }
+   ],
+   "alternativas": {
+    "A": "216",
+    "B": "408",
+    "C": "732",
+    "D": "2 196",
+    "E": "2 928"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A caneca é um tronco de cone com raios <em>R</em> = 5 cm e <em>r</em> = 4 cm e altura 12 cm. V = (π<em>h</em>/3)(<em>R</em><sup>2</sup> + <em>Rr</em> + <em>r</em><sup>2</sup>) = (3 × 12/3)(25 + 20 + 16) = 12 × 61 = <strong>732 cm<sup>3</sup> = 732 mL</strong>. Alternativa <strong>C</strong>.</p><p>2 196 e 2 928 (D e E) usam os diâmetros no lugar dos raios.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tronco de cone",
+    "volume"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 36,
+   "materia": "Matemática",
+   "assunto": "Geometria plana",
+   "origem": {
+    "numeroOriginal": 171
+   },
+   "enunciado": "<p>O dono de uma loja pretende usar cartões imantados para a divulgação de sua loja. A empresa que fornecerá o serviço lhe informa que o custo de fabricação do cartão é de R$ 0,01 por centímetro quadrado e que disponibiliza modelos tendo como faces úteis para impressão:</p><ul><li>um triângulo equilátero de lado 12 cm;</li><li>um quadrado de lado 8 cm;</li><li>um retângulo de lados 11 cm e 8 cm;</li><li>um hexágono regular de lado 6 cm;</li><li>um círculo de diâmetro 10 cm.</li></ul><p>O dono da loja está disposto a pagar, no máximo, R$ 0,80 por cartão. Ele escolherá, dentro desse limite de preço, o modelo que tiver maior área de impressão.</p><p>Use 3 como aproximação para π e use 1,7 como aproximação para \\(\\sqrt{3}\\).</p><p>Nessas condições, o modelo que deverá ser escolhido tem como face útil para impressão um</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "triângulo.",
+    "B": "quadrado.",
+    "C": "retângulo.",
+    "D": "hexágono.",
+    "E": "círculo."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Com R$ 0,80 e R$ 0,01 por cm<sup>2</sup>, a área máxima é 80 cm<sup>2</sup>. Triângulo: 12<sup>2</sup> × 1,7/4 = 61,2; quadrado: 64; retângulo: 88 (passa do limite); hexágono: 6 × 6<sup>2</sup> × 1,7/4 = 91,8 (passa); círculo: 3 × 5<sup>2</sup> = <strong>75</strong>. Dentro do limite, a maior área é a do <strong>círculo</strong>. Alternativa <strong>E</strong>.</p><p>O hexágono e o retângulo (D e C) têm áreas maiores, mas custariam mais de R$ 0,80.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "áreas de figuras planas"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 37,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 172
+   },
+   "enunciado": "<p>Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:</p><table class=\"tabela\"><thead><tr><th>Trechos do percurso</th><th>Frequências cardíacas máximas (bpm)</th></tr></thead><tbody><tr><td>Leve no plano</td><td>90</td></tr><tr><td>Forte no plano</td><td>120</td></tr><tr><td>Subida moderada</td><td>130</td></tr><tr><td>Subida forte</td><td>140</td></tr></tbody></table><p>Sabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre 65% e 85% da frequência cardíaca máxima (Fc máx.), que, por sua vez, é determinada pela fórmula:</p><p class=\"centro\">Fc máx. = 220 – idade,</p><p>em que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).</p><p>Os trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento físico, são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "leve no plano, forte no plano, subida moderada e subida forte.",
+    "B": "leve no plano, forte no plano e subida moderada.",
+    "C": "forte no plano, subida moderada e subida forte.",
+    "D": "forte no plano e subida moderada.",
+    "E": "leve no plano e subida forte."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Fc máx. = 220 − 61 = 159 bpm. Faixa ideal: 65% de 159 ≈ 103,4 e 85% de 159 ≈ 135,2 bpm. Entre os trechos, ficam na faixa o <strong>forte no plano (120)</strong> e a <strong>subida moderada (130)</strong>; o leve no plano (90) fica abaixo e a subida forte (140), acima. Alternativa <strong>D</strong>.</p><p>Calcular a Fc máx. com 220 bpm sem descontar a idade faria a subida forte entrar na faixa (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "porcentagem",
+    "intervalo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 38,
+   "materia": "Matemática",
+   "assunto": "Inequações",
+   "origem": {
+    "numeroOriginal": 173
+   },
+   "enunciado": "<p>Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$ 35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$ 300,00.</p><p>Para não ter prejuízo, o menor número de lavagens diárias que o lava-rápido deve efetuar é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "6.",
+    "B": "8.",
+    "C": "9.",
+    "D": "15.",
+    "E": "20."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para fazer o menor número de lavagens, todas devem ser completas (R$ 35). 8 × 35 = 280, abaixo de 300; 9 × 35 = 315 ≥ 300. O mínimo é de <strong>9 lavagens</strong>. Alternativa <strong>C</strong>.</p><p>15 (D) é o mínimo só com lavagens simples (15 × 20 = 300).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "inequação",
+    "valor mínimo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 39,
+   "materia": "Matemática",
+   "assunto": "Porcentagem",
+   "origem": {
+    "numeroOriginal": 174
+   },
+   "enunciado": "<p>Após consulta médica, um paciente deve seguir um tratamento composto por três medicamentos: X, Y e Z. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes, conforme o quadro.</p><table class=\"tabela\"><thead><tr><th></th><th>X</th><th>Y</th><th>Z</th></tr></thead><tbody><tr><td><strong>Farmácia 1</strong></td><td>R$ 45,00</td><td>R$ 40,00</td><td>R$ 50,00</td></tr><tr><td><strong>Farmácia 2</strong></td><td>R$ 50,00</td><td>R$ 50,00</td><td>R$ 40,00</td></tr><tr><td><strong>Farmácia 3</strong></td><td>R$ 65,00</td><td>R$ 45,00</td><td>R$ 35,00</td></tr></tbody></table><p>Dessas farmácias, algumas oferecem descontos:</p><ul><li>na compra dos medicamentos X e Y na Farmácia 2, recebe-se um desconto de 20% em ambos os produtos, independentemente da compra do medicamento Z, e não há desconto para o medicamento Z;</li><li>na compra dos 3 medicamentos na Farmácia 3, recebe-se 20% de desconto no valor total da compra.</li></ul><p>O paciente deseja efetuar a compra de modo a minimizar sua despesa com os medicamentos.</p><p>De acordo com as informações fornecidas, o paciente deve comprar os medicamentos da seguinte forma:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "X, Y e Z na Farmácia 1.",
+    "B": "X e Y na Farmácia 1, e Z na Farmácia 3.",
+    "C": "X e Y na Farmácia 2, e Z na Farmácia 3.",
+    "D": "X na Farmácia 2, e Y e Z na Farmácia 3.",
+    "E": "X, Y e Z na Farmácia 3."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Opções: Farmácia 1 inteira, 45 + 40 + 50 = 135; Farmácia 3 inteira com 20%: 0,8 × 145 = 116; X e Y na Farmácia 2 com 20% (0,8 × 100 = 80) e Z onde é mais barato, na Farmácia 3 (35), sem o desconto de compra completa: 80 + 35 = <strong>115</strong>. É o menor valor. Alternativa <strong>C</strong>.</p><p>B daria 85 + 35 = 120 e D, 50 + 80 = 130 (sem desconto para X sozinho na Farmácia 2 e sem os três itens na Farmácia 3).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "desconto",
+    "comparação de preços"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 40,
+   "materia": "Matemática",
+   "assunto": "Geometria espacial",
+   "origem": {
+    "numeroOriginal": 175
+   },
+   "enunciado": "<p>Muitos brinquedos que frequentemente são encontrados em praças e parques públicos apresentam formatos de figuras geométricas bidimensionais e tridimensionais. Uma empresa foi contratada para desenvolver uma nova forma de brinquedo. A proposta apresentada pela empresa foi de uma estrutura formada apenas por hastes metálicas, conectadas umas às outras, como apresentado na figura. As hastes de mesma tonalidade e espessura são congruentes.</p>[[fig:1]]<p>Com base na proposta apresentada, quantas figuras geométricas planas de cada tipo são formadas pela união das hastes?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2021-matematica/q175.webp",
+     "alt": "Estrutura de hastes: um cubo grande de hastes cinza claro com um cubo menor de hastes pretas no centro; hastes cinza escuro ligam cada vértice do cubo menor ao vértice correspondente do cubo maior."
+    }
+   ],
+   "alternativas": {
+    "A": "12 trapézios isósceles e 12 quadrados.",
+    "B": "24 trapézios isósceles e 12 quadrados.",
+    "C": "12 paralelogramos e 12 quadrados.",
+    "D": "8 trapézios isósceles e 12 quadrados.",
+    "E": "12 trapézios escalenos e 12 retângulos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A estrutura tem um cubo pequeno (hastes pretas) dentro de um cubo grande (hastes cinza claro), com cada vértice interno ligado ao vértice externo correspondente. Os dois cubos têm 6 faces cada: <strong>12 quadrados</strong>. Entre cada aresta do cubo interno e a aresta paralela do externo forma-se um trapézio com as bases paralelas e os lados (hastes de ligação) congruentes: um <strong>trapézio isósceles</strong> para cada uma das 12 arestas. Alternativa <strong>A</strong>.</p><p>24 trapézios (B) contariam cada um duas vezes; as faces não são retângulos nem paralelogramos (C e E), porque as bases têm tamanhos diferentes.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "poliedros",
+    "trapézio isósceles"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 41,
+   "materia": "Matemática",
+   "assunto": "Sistemas de numeração",
+   "origem": {
+    "numeroOriginal": 176
+   },
+   "enunciado": "<p>O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:</p><p>Quatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000).</p><p>Três secundárias: V (vale 5); L (vale 50) e D (vale 500).</p><p>As regras para escrever números romanos são:</p><ol><li>Não existe símbolo correspondente ao zero;</li><li>Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30;</li><li>Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 − 1 = 9;</li><li>Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: XI = 10 + 1 = 11.</li></ol><p>Em uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX. Quantos anos de fundação essa cidade comemorará em 2050?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "379",
+    "B": "381",
+    "C": "579",
+    "D": "581",
+    "E": "601"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>MCDLXIX = M (1 000) + CD (500 − 100 = 400) + L (50) + X (10) + IX (10 − 1 = 9) = 1 469. Em 2050, a cidade fará 2 050 − 1 469 = <strong>581 anos</strong>. Alternativa <strong>D</strong>.</p><p>Ler CD como 600 (somando em vez de subtrair) daria 1 669 e 381 anos (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "números romanos"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 42,
+   "materia": "Matemática",
+   "assunto": "Sistemas de numeração",
+   "origem": {
+    "numeroOriginal": 177
+   },
+   "enunciado": "<p>Uma das bases mais utilizadas para representar um número é a base decimal. Entretanto, os computadores trabalham com números na base binária. Nessa base, qualquer número natural é representado usando apenas os algarismos 0 e 1. Por exemplo, as representações dos números 9 e 12, na base binária, são 1001 e 1100, respectivamente. A operação de adição, na base binária, segue um algoritmo similar ao utilizado na base decimal, como detalhado no quadro:</p><table class=\"tabela\"><thead><tr><th><em>a</em></th><th><em>b</em></th><th><em>a</em> + <em>b</em></th></tr></thead><tbody><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>10</td></tr></tbody></table><p>Por exemplo, na base binária, a soma dos números 10 e 10 é 100, como apresentado:</p><p class=\"centro\">\\(\\begin{array}{r} 10 \\\\ +\\,10 \\\\ \\hline 100 \\end{array}\\)</p><p>Considerando as informações do texto, o resultado da adição 9 + 12 será representado, na base binária, por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "101.",
+    "B": "1101.",
+    "C": "1111.",
+    "D": "10101.",
+    "E": "11001."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>9 + 12 = 21 na base decimal. Em binário: 21 = 16 + 4 + 1 = 1 · 2<sup>4</sup> + 0 · 2<sup>3</sup> + 1 · 2<sup>2</sup> + 0 · 2<sup>1</sup> + 1 · 2<sup>0</sup> = <strong>10101</strong>. Somando direto: 1001 + 1100 = 10101. Alternativa <strong>D</strong>.</p><p>1101 (B) é 13 e 11001 (E) é 25.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "base binária"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 43,
+   "materia": "Matemática",
+   "assunto": "Grandezas e medidas",
+   "origem": {
+    "numeroOriginal": 178
+   },
+   "enunciado": "<p>Uma unidade de medida comum usada para expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m<sup>2</sup>. Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m<sup>2</sup> cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada. Nas condições estabelecidas, o valor total, em real, obtido pelo fazendeiro com a venda de todos os terrenos será igual a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "700 000.",
+    "B": "1 600 000.",
+    "C": "1 900 000.",
+    "D": "2 200 000.",
+    "E": "2 800 000."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Área dos terrenos: 3 − 0,9 = 2,1 hectares = 21 000 m<sup>2</sup>, ou seja, 21 000 ÷ 300 = 70 terrenos. Os 20 primeiros rendem 20 × 20 000 = 400 000, e os outros 50 rendem 50 × 30 000 = 1 500 000. Total: <strong>R$ 1 900 000</strong>. Alternativa <strong>C</strong>.</p><p>2 200 000 (D) usaria os 3 hectares inteiros, sem descontar ruas e calçadas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "hectare",
+    "área"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 44,
+   "materia": "Matemática",
+   "assunto": "Análise combinatória",
+   "origem": {
+    "numeroOriginal": 179
+   },
+   "enunciado": "<p>Uma pessoa produzirá uma fantasia utilizando como materiais: 2 tipos de tecidos diferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição 6 tecidos diferentes e 15 pedras ornamentais distintas. A quantidade de fantasias com materiais diferentes que podem ser produzidas é representada pela expressão</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "\\(\\frac{6!}{4!\\,2!} \\cdot \\frac{15!}{10!\\,5!}\\)",
+    "B": "\\(\\frac{6!}{4!\\,2!} + \\frac{15!}{10!\\,5!}\\)",
+    "C": "\\(\\frac{6!}{2!} + \\frac{15!}{5!}\\)",
+    "D": "\\(\\frac{6!}{2!} \\cdot \\frac{15!}{5!}\\)",
+    "E": "\\(\\frac{21!}{7!\\,14!}\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A ordem não importa: escolher 2 de 6 tecidos é C(6, 2) = 6!/(4! 2!) e escolher 5 de 15 pedras é C(15, 5) = 15!/(10! 5!). As escolhas são independentes, então se multiplicam: \\(\\frac{6!}{4!\\,2!} \\cdot \\frac{15!}{10!\\,5!}\\). Alternativa <strong>A</strong>.</p><p>Somar (B) trataria as escolhas como alternativas excludentes; C e D omitem os fatoriais do denominador; E mistura tecidos e pedras num único grupo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "combinação",
+    "princípio multiplicativo"
+   ],
+   "area": "Matemática"
+  },
+  {
+   "numero": 45,
+   "materia": "Matemática",
+   "assunto": "Razão e proporção",
+   "origem": {
+    "numeroOriginal": 180
+   },
+   "enunciado": "<p>Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades:</p><p>(i) um laboratório do tipo A, com capacidade para 100 usuários, a um custo de 180 mil reais e gastos de 60 mil reais por ano para manutenção;</p><p>(ii) um laboratório do tipo B, com capacidade para 80 usuários, a um custo de 120 mil reais e gastos com manutenção de 16 mil reais por ano.</p><p>Considera-se que, em qualquer caso, o laboratório implantado será utilizado na totalidade de sua capacidade. A economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório tipo A, num período de 4 anos, por usuário, será de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,31 mil reais.",
+    "B": "1,90 mil reais.",
+    "C": "2,30 mil reais.",
+    "D": "2,36 mil reais.",
+    "E": "2,95 mil reais."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Em 4 anos, o laboratório A custa 180 + 4 × 60 = 420 mil reais para 100 usuários: 4,20 mil por usuário. O B custa 120 + 4 × 16 = 184 mil para 80 usuários: 2,30 mil por usuário. Economia por usuário: 4,20 − 2,30 = <strong>1,90 mil reais</strong>. Alternativa <strong>B</strong>.</p><p>2,30 (C) é o custo por usuário do B, não a economia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "custo por usuário"
+   ],
+   "area": "Matemática"
+  }
+ ]
+}

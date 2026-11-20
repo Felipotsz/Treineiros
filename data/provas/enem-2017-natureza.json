@@ -1,0 +1,1295 @@
+{
+ "id": "enem-2017-natureza",
+ "banca": "Enem",
+ "ano": 2017,
+ "titulo": "Enem 2017: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2017-11-12",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Biologia",
+   "assunto": "Toxicologia",
+   "origem": {
+    "numeroOriginal": 91
+   },
+   "enunciado": "<p>A toxicidade de algumas substâncias é normalmente representada por um índice conhecido como DL<sub>50</sub> (dose letal mediana). Ele representa a dosagem aplicada a uma população de seres vivos que mata 50% desses indivíduos e é normalmente medido utilizando-se ratos como cobaias. Esse índice é muito importante para os seres humanos, pois ao se extrapolar os dados obtidos com o uso de cobaias, pode-se determinar o nível tolerável de contaminação de alimentos, para que possam ser consumidos de forma segura pelas pessoas. O quadro apresenta três pesticidas e suas toxicidades. A unidade mg/kg indica a massa da substância ingerida pela massa da cobaia.</p><table class=\"tabela\"><thead><tr><th>Pesticidas</th><th>DL<sub>50</sub> (mg/kg)</th></tr></thead><tbody><tr><td>Diazinon</td><td>70</td></tr><tr><td>Malation</td><td>1 000</td></tr><tr><td>Atrazina</td><td>3 100</td></tr></tbody></table><p>Sessenta ratos, com massa de 200 g cada, foram divididos em três grupos de vinte. Três amostras de ração, contaminadas, cada uma delas com um dos pesticidas indicados no quadro, na concentração de 3 mg por grama de ração, foram administradas para cada grupo de cobaias. Cada rato consumiu 100 g de ração.</p><p>Qual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O grupo que se contaminou somente com atrazina.",
+    "B": "O grupo que se contaminou somente com diazinon.",
+    "C": "Os grupos que se contaminaram com atrazina e malation.",
+    "D": "Os grupos que se contaminaram com diazinon e malation.",
+    "E": "Nenhum dos grupos contaminados com atrazina, diazinon e malation."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Cada rato (0,2 kg) comeu 100 g de ração com 3 mg de pesticida por grama: 300 mg. A dose foi 300 mg ÷ 0,2 kg = 1 500 mg/kg.</p><p>Uma mortalidade mínima de 10 ratos (50% dos 20) exige dose igual ou maior que a DL<sub>50</sub>. Isso vale para o diazinon (70 mg/kg) e o malation (1 000 mg/kg), mas não para a atrazina (3 100 mg/kg). Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "DL50",
+    "dose por massa corporal"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Biologia",
+   "assunto": "Microbiologia",
+   "origem": {
+    "numeroOriginal": 92
+   },
+   "enunciado": "<p>Os medicamentos são rotineiramente utilizados pelo ser humano com o intuito de diminuir ou, por muitas vezes, curar possíveis transtornos de saúde. Os antibióticos são grupos de fármacos inseridos no tratamento de doenças causadas por bactérias.</p><p>Na terapêutica das doenças mencionadas, alguns desses fármacos atuam</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ativando o sistema imunológico do hospedeiro.",
+    "B": "interferindo na cascata bioquímica da inflamação.",
+    "C": "removendo as toxinas sintetizadas pelas bactérias.",
+    "D": "combatendo as células hospedeiras das bactérias.",
+    "E": "danificando estruturas específicas da célula bacteriana."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Os antibióticos agem sobre estruturas que só as bactérias têm, ou que nelas são diferentes das nossas: a parede celular (como a penicilina), os ribossomos bacterianos ou enzimas próprias. Eles atuam <strong>danificando estruturas específicas da célula bacteriana</strong>. Alternativa <strong>E</strong>.</p><p>Antibióticos não ativam o sistema imune (A) nem atacam as células do hospedeiro (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "antibióticos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 93
+   },
+   "enunciado": "<p>Dispositivos eletrônicos que utilizam materiais de baixo custo, como polímeros semicondutores, têm sido desenvolvidos para monitorar a concentração de amônia (gás tóxico e incolor) em granjas avícolas. A polianilina é um polímero semicondutor que tem o valor de sua resistência elétrica nominal quadruplicado quando exposta a altas concentrações de amônia. Na ausência de amônia, a polianilina se comporta como um resistor ôhmico e a sua resposta elétrica é mostrada no gráfico.</p>[[fig:1]]<p>O valor da resistência elétrica da polianilina na presença de altas concentrações de amônia, em ohm, é igual a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q93.webp",
+     "alt": "Gráfico da corrente (10⁻⁶ A) em função da diferença de potencial (V): pontos alinhados numa reta que passa pela origem, de (0,5 V; 1,0) a (3,0 V; 6,0)."
+    }
+   ],
+   "alternativas": {
+    "A": "0,5 × 10<sup>0</sup>.",
+    "B": "2,0 × 10<sup>0</sup>.",
+    "C": "2,5 × 10<sup>5</sup>.",
+    "D": "5,0 × 10<sup>5</sup>.",
+    "E": "2,0 × 10<sup>6</sup>."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Pelo gráfico, sem amônia, com 1,0 V passam 2,0 × 10<sup>−6</sup> A: R = U ÷ i = 1,0 ÷ (2,0 × 10<sup>−6</sup>) = 5,0 × 10<sup>5</sup> Ω.</p><p>Com muita amônia, a resistência quadruplica: 4 × 5,0 × 10<sup>5</sup> = <strong>2,0 × 10<sup>6</sup> Ω</strong>. Alternativa <strong>E</strong>.</p><p>5,0 × 10<sup>5</sup> Ω (D) é a resistência sem amônia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lei de Ohm",
+    "sensores"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Biologia",
+   "assunto": "Fotossíntese",
+   "origem": {
+    "numeroOriginal": 94
+   },
+   "enunciado": "<p class=\"apoio\">Pesquisadores conseguiram estimular a absorção de energia luminosa em plantas graças ao uso de nanotubos de carbono. Para isso, nanotubos de carbono “se inseriram” no interior dos cloroplastos por uma montagem espontânea, através das membranas dos cloroplastos. Pigmentos da planta absorvem as radiações luminosas, os elétrons são “excitados” e se deslocam no interior de membranas dos cloroplastos, e a planta utiliza em seguida essa energia elétrica para a fabricação de açúcares. Os nanotubos de carbono podem absorver comprimentos de onda habitualmente não utilizados pelos cloroplastos, e os pesquisadores tiveram a ideia de utilizá-los como “antenas”, estimulando a conversão de energia solar pelos cloroplastos, com o aumento do transporte de elétrons.</p><p class=\"fonte\">Nanotubos de carbono incrementam a fotossíntese de plantas. Disponível em: http://lqes.iqm.unicamp.br. Acesso em: 14 nov. 2014 (adaptado).</p><p>O aumento da eficiência fotossintética ocorreu pelo fato de os nanotubos de carbono promoverem diretamente a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "utilização de água.",
+    "B": "absorção de fótons.",
+    "C": "formação de gás oxigênio.",
+    "D": "proliferação dos cloroplastos.",
+    "E": "captação de dióxido de carbono."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O texto diz que os nanotubos absorvem comprimentos de onda que os pigmentos dos cloroplastos não captam, funcionando como “antenas”. Eles promovem diretamente a <strong>absorção de fótons</strong>. Alternativa <strong>B</strong>.</p><p>Mais oxigênio e mais uso de CO<sub>2</sub> (C e E) são consequências, não o efeito direto.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nanotecnologia",
+    "fase luminosa"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 95
+   },
+   "enunciado": "<p>A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.</p>[[fig:1]]<p class=\"fonte\">SHREVE, R. N.; BRINK Jr., J. A. Indústrias de processos químicos. Rio de Janeiro: Guanabara Koogan, 1997 (adaptado).</p><p>No processo eletrolítico ilustrado, o produto secundário obtido é o</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q95.webp",
+     "alt": "Célula eletroquímica ligada a uma bateria: solução aquosa de NaCl entra por cima; no ânodo de carbono (+) sai Cl₂ gasoso; um diafragma de amianto separa os compartimentos; no cátodo de carbono (−) sai o “produto secundário”, e embaixo há um dreno para a solução aquosa alcalina."
+    }
+   ],
+   "alternativas": {
+    "A": "vapor de água.",
+    "B": "oxigênio molecular.",
+    "C": "hipoclorito de sódio.",
+    "D": "hidrogênio molecular.",
+    "E": "cloreto de hidrogênio."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na eletrólise da salmoura, o cloro é oxidado no ânodo (2 Cl<sup>−</sup> → Cl<sub>2</sub>). No cátodo, a água é reduzida: 2 H<sub>2</sub>O + 2 e<sup>−</sup> → H<sub>2</sub> + 2 OH<sup>−</sup>. O produto que sai junto ao cátodo, além da solução alcalina de NaOH, é o <strong>hidrogênio molecular</strong>. Alternativa <strong>D</strong>.</p><p>O diafragma impede que o cloro encontre o NaOH, o que formaria hipoclorito (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eletrólise",
+    "cloro-soda"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Biologia",
+   "assunto": "Ciclos biogeoquímicos",
+   "origem": {
+    "numeroOriginal": 96
+   },
+   "enunciado": "<p class=\"apoio\">Uma grande virada na moderna história da agricultura ocorreu depois da Segunda Guerra Mundial. Após a guerra, os governos haviam se deparado com um enorme excedente de nitrato de amônio, ingrediente usado na fabricação de explosivos. A partir daí as fábricas de munição foram adaptadas para começar a produzir fertilizantes tendo como componente principal os nitratos.</p><p class=\"fonte\">SOUZA, F. A. Agricultura natural/orgânica como instrumento de fixação biológica e manutenção do nitrogênio no solo: um modelo sustentável de MDL. Disponível em: www.planetaorganico.com.br. Acesso em: 17 jul. 2015 (adaptado).</p><p>No ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na etapa de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "nitratação.",
+    "B": "nitrosação.",
+    "C": "amonificação.",
+    "D": "desnitrificação.",
+    "E": "fixação biológica do N2."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No ciclo do nitrogênio, a nitrificação acontece em duas etapas: a nitrosação, em que bactérias transformam amônia em nitrito, e a nitratação, em que o nitrito vira nitrato. O nitrato, componente dos fertilizantes, é produzido na <strong>nitratação</strong>. Alternativa <strong>A</strong>.</p><p>A desnitrificação (D) faz o contrário: devolve o nitrogênio à atmosfera.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "nitrificação",
+    "fertilizantes"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Química",
+   "assunto": "Atomística",
+   "origem": {
+    "numeroOriginal": 97
+   },
+   "enunciado": "<p>Um fato corriqueiro ao se cozinhar arroz é o derramamento de parte da água de cozimento sobre a chama azul do fogo, mudando-a para uma chama amarela. Essa mudança de cor pode suscitar interpretações diversas, relacionadas às substâncias presentes na água de cozimento. Além do sal de cozinha (NaCl), nela se encontram carboidratos, proteínas e sais minerais.</p><p>Cientificamente, sabe-se que essa mudança de cor da chama ocorre pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reação do gás de cozinha com o sal, volatilizando gás cloro.",
+    "B": "emissão de fótons pelo sódio, excitado por causa da chama.",
+    "C": "produção de derivado amarelo, pela reação com o carboidrato.",
+    "D": "reação do gás de cozinha com a água, formando gás hidrogênio.",
+    "E": "excitação das moléculas de proteínas, com formação de luz amarela."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O calor da chama excita os elétrons do sódio do sal; ao voltarem ao nível de origem, eles liberam a energia como luz de comprimento de onda característico, amarela. É o teste da chama: a <strong>emissão de fótons pelo sódio, excitado por causa da chama</strong>. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "teste de chama",
+    "modelo de Bohr"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Classificação dos seres vivos",
+   "origem": {
+    "numeroOriginal": 98
+   },
+   "enunciado": "<p>A classificação biológica proposta por Whittaker permite distinguir cinco grandes linhas evolutivas utilizando, como critérios de classificação, a organização celular e o modo de nutrição. Woese e seus colaboradores, com base na comparação das sequências que codificam o RNA ribossômico dos seres vivos, estabeleceram relações de ancestralidade entre os grupos e concluíram que os procariontes do reino Monera não eram um grupo coeso do ponto de vista evolutivo.</p><table class=\"tabela\"><thead><tr><th>Whittaker (1969) – Cinco reinos</th><th>Woese (1990) – Três domínios</th></tr></thead><tbody><tr><td>Monera</td><td>Archaea e Eubacteria</td></tr><tr><td>Protista, Fungi, Plantae e Animalia</td><td>Eukarya</td></tr></tbody></table><p>A diferença básica nas classificações citadas é que a mais recente se baseia fundamentalmente em</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "tipos de células.",
+    "B": "aspectos ecológicos.",
+    "C": "relações filogenéticas.",
+    "D": "propriedades fisiológicas.",
+    "E": "características morfológicas."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Whittaker classificava os seres pela organização celular e pelo modo de nutrição. Woese comparou sequências do RNA ribossômico para estabelecer relações de ancestralidade, dividindo os seres em Archaea, Bacteria e Eukarya. A classificação mais recente se baseia em <strong>relações filogenéticas</strong>. Alternativa <strong>C</strong>.</p><p>Tipos de células e morfologia (A e E) são os critérios de Whittaker.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "três domínios",
+    "Woese"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 99
+   },
+   "enunciado": "<p>Em uma colisão frontal entre dois automóveis, a força que o cinto de segurança exerce sobre o tórax e abdômen do motorista pode causar lesões graves nos órgãos internos. Pensando na segurança do seu produto, um fabricante de automóveis realizou testes em cinco modelos diferentes de cinto. Os testes simularam uma colisão de 0,30 segundo de duração, e os bonecos que representavam os ocupantes foram equipados com acelerômetros. Esse equipamento registra o módulo da desaceleração do boneco em função do tempo. Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico de aceleração por tempo.</p>[[fig:1]]<p>Qual modelo de cinto oferece menor risco de lesão interna ao motorista?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q99.webp",
+     "alt": "Gráfico da aceleração (m/s²) em função do tempo (s), de 0 a 0,30 s, para cinco cintos. Cinto 1 (traço e ponto): pico estreito de cerca de 150 m/s² perto de 0,07 s. Cinto 2 (pontilhado): curva larga e baixa, com máximo de cerca de 65 m/s² perto de 0,15 s. Cinto 3 (cinza): pico estreito de quase 200 m/s² em 0,15 s. Cinto 4 (preto): pico de cerca de 85 m/s² em 0,21 s. Cinto 5 (tracejado): pico de cerca de 170 m/s² perto de 0,28 s."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Pela segunda lei de Newton, a força do cinto sobre o corpo é proporcional à aceleração. Como todas as colisões levam o boneco da mesma velocidade ao repouso, o cinto mais seguro é o que distribui a frenagem ao longo do tempo, com o menor pico de aceleração. No gráfico, é o cinto 2 (curva pontilhada), que não passa de cerca de 65 m/s². Alternativa <strong>B</strong>.</p><p>Os cintos 3 e 5 têm picos próximos de 200 e 170 m/s².</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "impulso",
+    "segunda lei de Newton"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 100
+   },
+   "enunciado": "<p class=\"apoio\">Pesquisadores criaram um tipo de plaqueta artificial, feita com um polímero gelatinoso coberto de anticorpos, que promete agilizar o processo de coagulação quando injetada no corpo. Se houver sangramento, esses anticorpos fazem com que a plaqueta mude sua forma e se transforme em uma espécie de rede que gruda nas lesões dos vasos sanguíneos e da pele.</p><p class=\"fonte\">MOUTINHO, S. Coagulação acelerada. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 19 fev. 2013 (adaptado).</p><p>Qual a doença cujos pacientes teriam melhora de seu estado de saúde com o uso desse material?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Filariose.",
+    "B": "Hemofilia.",
+    "C": "Aterosclerose.",
+    "D": "Doença de Chagas.",
+    "E": "Síndrome da imunodeficiência adquirida."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A plaqueta artificial acelera a coagulação. Quem mais se beneficia é quem tem dificuldade de coagular o sangue: os pacientes com <strong>hemofilia</strong>, doença genética que reduz os fatores de coagulação. Alternativa <strong>B</strong>.</p><p>Na aterosclerose (C), acelerar a coagulação aumentaria o risco de trombose.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "coagulação",
+    "hemofilia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 101
+   },
+   "enunciado": "<p>A figura mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: haleto metálico, tungstênio, mercúrio, xênon e LED (diodo emissor de luz). As áreas marcadas em cinza são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sensibilidade do olho humano aos diferentes comprimentos de onda.</p><p>UV e IV são as regiões do ultravioleta e do infravermelho, respectivamente.</p><p>Um arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente.</p>[[fig:1]]<p class=\"fonte\">Disponível em: http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017 (adaptado).</p><p>Qual tipo de lâmpada melhor atende ao desejo do arquiteto?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q101.webp",
+     "alt": "Espectros de emissão de cinco lâmpadas, de 200 a 900 nm, com as regiões UV, visível e IV marcadas e, em pontilhado, a sensibilidade do olho. Haleto metálico: picos espalhados pelo visível. Tungstênio: emissão que cresce continuamente para o infravermelho. Mercúrio: picos estreitos no UV e no visível. Xênon: emissão no visível com picos fortes no infravermelho. LED: emissão concentrada no visível, entre cerca de 430 e 700 nm."
+    }
+   ],
+   "alternativas": {
+    "A": "Haleto metálico.",
+    "B": "Tungstênio.",
+    "C": "Mercúrio.",
+    "D": "Xênon.",
+    "E": "LED."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O arquiteto quer luz visível sem aquecer o ambiente, isto é, com pouca emissão no infravermelho. A lâmpada de LED tem quase toda a energia dentro da faixa visível, sobre a curva de sensibilidade do olho, e praticamente nada no IV. Alternativa <strong>E</strong>.</p><p>A de tungstênio (B) emite muito no infravermelho e esquenta.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espectro eletromagnético",
+    "eficiência luminosa"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Química",
+   "assunto": "Forças intermoleculares",
+   "origem": {
+    "numeroOriginal": 102
+   },
+   "enunciado": "<p>Partículas microscópicas existentes na atmosfera funcionam como núcleos de condensação de vapor de água que, sob condições adequadas de temperatura e pressão, propiciam a formação das nuvens e consequentemente das chuvas. No ar atmosférico, tais partículas são formadas pela reação de ácidos (H<em>X</em>) com a base NH<sub>3</sub>, de forma natural ou antropogênica, dando origem a sais de amônio (NH<sub>4</sub><em>X</em>), de acordo com a equação química genérica:</p><p class=\"apoio\">H<em>X</em> (g) + NH<sub>3</sub> (g) → NH<sub>4</sub><em>X</em> (s)</p><p class=\"fonte\">FELIX, E. P.; CARDOSO, A. A. Fatores ambientais que afetam a precipitação úmida. Química Nova na Escola, n. 21, maio 2005 (adaptado).</p><p>A fixação de moléculas de vapor de água pelos núcleos de condensação ocorre por</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ligações iônicas.",
+    "B": "interações dipolo-dipolo.",
+    "C": "interações dipolo-dipolo induzido.",
+    "D": "interações íon-dipolo.",
+    "E": "ligações covalentes."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os núcleos de condensação são sais de amônio (NH<sub>4</sub>X), sólidos iônicos. As moléculas de água, polares, se prendem aos íons NH<sub>4</sub><sup>+</sup> e X<sup>−</sup> por <strong>interações íon-dipolo</strong>. Alternativa <strong>D</strong>.</p><p>Não se formam ligações novas entre água e sal (A e E): é uma atração intermolecular.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "íon-dipolo",
+    "nuvens"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 103
+   },
+   "enunciado": "<p>Em uma linha de transmissão de informações por fibra óptica, quando um sinal diminui sua intensidade para valores inferiores a 10 dB, este precisa ser retransmitido. No entanto, intensidades superiores a 100 dB não podem ser transmitidas adequadamente. A figura apresenta como se dá a perda de sinal (perda óptica) para diferentes comprimentos de onda para certo tipo de fibra óptica.</p>[[fig:1]]<p class=\"fonte\">Atenuação e limitações das fibras ópticas. Disponível em: www.gta.ufrj.br. Acesso em: 25 maio 2017 (adaptado).</p><p>Qual é a máxima distância, em km, que um sinal pode ser enviado nessa fibra sem ser necessária uma retransmissão?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q103.webp",
+     "alt": "Gráfico da perda óptica (dB/km) em função do comprimento de onda (µm), de 0,8 a 1,8: a curva desce de 6, tem picos em cerca de 1,0 µm e 1,4 µm (cerca de 5 dB/km) e o menor valor, 1 dB/km, perto de 1,5 µm, antes de subir de novo."
+    }
+   ],
+   "alternativas": {
+    "A": "6",
+    "B": "18",
+    "C": "60",
+    "D": "90",
+    "E": "100"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O sinal pode perder no máximo de 100 dB (o máximo transmitido) até 10 dB (quando precisa ser retransmitido): 90 dB. A distância é máxima com a menor perda por quilômetro, que no gráfico é 1 dB/km, perto de 1,5 µm. Assim, 90 dB ÷ 1 dB/km = <strong>90 km</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "decibel",
+    "fibra óptica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Química",
+   "assunto": "Radioatividade",
+   "origem": {
+    "numeroOriginal": 104
+   },
+   "enunciado": "<p>A técnica do carbono-14 permite a datação de fósseis pela medição dos valores de emissão beta desse isótopo presente no fóssil. Para um ser em vida, o máximo são 15 emissões beta/(min g). Após a morte, a quantidade de <sup>14</sup>C se reduz pela metade a cada 5 730 anos.</p><p class=\"fonte\">A prova do carbono 14. Disponível em: http://noticias.terra.com.br. Acesso em: 9 nov. 2013 (adaptado).</p><p>Considere que um fragmento fóssil de massa igual a 30 g foi encontrado em um sítio arqueológico, e a medição de radiação apresentou 6 750 emissões beta por hora. A idade desse fóssil, em anos, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "450.",
+    "B": "1 433.",
+    "C": "11 460.",
+    "D": "17 190.",
+    "E": "27 000."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>6 750 emissões por hora ÷ 60 = 112,5 por minuto; ÷ 30 g = 3,75 emissões/(min g).</p><p>De 15 para 3,75, a atividade caiu à quarta parte: passaram-se duas meias-vidas, 2 × 5 730 = <strong>11 460 anos</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "meia-vida",
+    "carbono-14"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 105
+   },
+   "enunciado": "<p>A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.enertrag.com. Acesso em: 24 abr. 2015 (adaptado).</p><p>Mesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está instalada, pois o(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q105.webp",
+     "alt": "Esquema da estação híbrida: turbinas eólicas mandam eletricidade para a rede de distribuição e para a produção de hidrogênio; o hidrogênio é armazenado e vai para um posto de combustível e para uma válvula de mistura com biogás; a mistura alimenta a planta mista de geração de energia, que manda eletricidade à rede e calor para um destino de energia térmica."
+    }
+   ],
+   "alternativas": {
+    "A": "planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétrica.",
+    "B": "hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.",
+    "C": "conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência anterior.",
+    "D": "combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção da estação.",
+    "E": "planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para a geração de eletricidade."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Quando há vento, a eletricidade das turbinas também produz hidrogênio, que fica armazenado. Sem vento, o hidrogênio é misturado ao biogás e queimado na planta mista, que gera calor e eletricidade para a rede. O <strong>hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade</strong>. Alternativa <strong>B</strong>.</p><p>A eletrólise (A) é a etapa que produz hidrogênio, e nenhuma usina térmica transforma todo o calor em eletricidade (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "energia eólica",
+    "hidrogênio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Química",
+   "assunto": "Propriedades físicas",
+   "origem": {
+    "numeroOriginal": 106
+   },
+   "enunciado": "<p>Na Idade Média, para elaborar preparados a partir de plantas produtoras de óleos essenciais, as coletas das espécies eram realizadas ao raiar do dia. Naquela época, essa prática era fundamentada misticamente pelo efeito mágico dos raios lunares, que seria anulado pela emissão dos raios solares. Com a evolução da ciência, foi comprovado que a coleta de algumas espécies ao raiar do dia garante a obtenção de material com maiores quantidades de óleos essenciais.</p><p>A explicação científica que justifica essa prática se baseia na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "volatilização das substâncias de interesse.",
+    "B": "polimerização dos óleos catalisada pela radiação solar.",
+    "C": "solubilização das substâncias de interesse pelo orvalho.",
+    "D": "oxidação do óleo pelo oxigênio produzido na fotossíntese.",
+    "E": "liberação das moléculas de óleo durante o processo de fotossíntese."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os óleos essenciais são voláteis. Com o calor do sol, ao longo do dia, eles evaporam das folhas; colhendo de madrugada, a planta ainda tem mais óleo. A explicação é a <strong>volatilização das substâncias de interesse</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "volatilidade",
+    "óleos essenciais"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 107
+   },
+   "enunciado": "<p>A epilação a <em>laser</em> (popularmente conhecida como depilação a <em>laser</em>) consiste na aplicação de uma fonte de luz para aquecer e causar uma lesão localizada e controlada nos folículos capilares. Para evitar que outros tecidos sejam danificados, selecionam-se comprimentos de onda que são absorvidos pela melanina presente nos pelos, mas que não afetam a oxi-hemoglobina do sangue e a água dos tecidos da região em que o tratamento será aplicado. A figura mostra como é a absorção de diferentes comprimentos de onda pela melanina, oxi-hemoglobina e água.</p>[[fig:1]]<p class=\"fonte\">MACEDO, F. S.; MONTEIRO, E. O. Epilação com <em>laser</em> e luz intensa pulsada. <strong>Revista Brasileira de Medicina</strong>. Disponível em: www.moreirajr.com.br. Acesso em: 4 set. 2015 (adaptado).</p><p>Qual é o comprimento de onda, em nm, ideal para a epilação a <em>laser</em>?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q107.webp",
+     "alt": "Gráfico da absorção (%) em função do comprimento de onda (nm), de 400 a 1 100. A melanina começa perto de 45% e cai devagar até cerca de 22%. A oxi-hemoglobina começa alta, cai quase a zero perto de 700 nm e volta a subir um pouco depois. A água só aparece a partir de 900 nm, crescendo até cerca de 20%."
+    }
+   ],
+   "alternativas": {
+    "A": "400",
+    "B": "700",
+    "C": "1 100",
+    "D": "900",
+    "E": "500"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O comprimento ideal precisa ser bem absorvido pela melanina e pouco pela oxi-hemoglobina e pela água. Em 700 nm, a melanina absorve cerca de 35%, enquanto a oxi-hemoglobina chega perto de zero e a água ainda não absorve (só a partir de 900 nm). Alternativa <strong>B</strong>.</p><p>Em 400 e 500 nm a oxi-hemoglobina absorve muito (A e E); em 900 e 1 100 nm a água começa a absorver (C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "laser",
+    "absorção da luz"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Física",
+   "assunto": "Energia",
+   "origem": {
+    "numeroOriginal": 108
+   },
+   "enunciado": "<p>O brinquedo pula-pula (cama elástica) é composto por uma lona circular flexível horizontal presa por molas à sua borda. As crianças brincam pulando sobre ela, alterando e alternando suas formas de energia. Ao pular verticalmente, desprezando o atrito com o ar e os movimentos de rotação do corpo enquanto salta, uma criança realiza um movimento periódico vertical em torno da posição de equilíbrio da lona (<em>h</em> = 0), passando pelos pontos de máxima e de mínima alturas, <em>h</em><sub>máx</sub> e <em>h</em><sub>mín</sub>, respectivamente.</p><p>Esquematicamente, o esboço do gráfico da energia cinética da criança em função de sua posição vertical na situação descrita é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q108a.webp",
+     "alt": "Alternativa A: E_c cai em linha reta de h_mín até zero em h = 0 e depois sobe em linha reta até h_máx."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q108b.webp",
+     "alt": "Alternativa B: E_c sobe em linha reta de zero em h_mín até o máximo em h = 0 e depois desce em linha reta até zero em h_máx."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q108c.webp",
+     "alt": "Alternativa C: E_c sobe numa curva de zero em h_mín até o máximo perto de h = 0 e depois desce em linha reta até zero em h_máx."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q108d.webp",
+     "alt": "Alternativa D: E_c sobe em linha reta de h_mín até h = 0 e depois desce numa curva até zero em h_máx."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q108e.webp",
+     "alt": "Alternativa E: E_c em forma de curva em U, mínima perto de h = 0 e máxima em h_máx."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Acima da lona (h &gt; 0), a criança está em queda livre: E<sub>c</sub> = E − mgh, que diminui em linha reta com a altura até zerar em h<sub>máx</sub>. Abaixo de h = 0, a lona age como mola: a energia elástica cresce com o quadrado da deformação, e o trecho do gráfico é curvo, até E<sub>c</sub> zerar em h<sub>mín</sub>. A energia cinética máxima fica pouco abaixo de h = 0, onde a força da lona iguala o peso. É o gráfico da alternativa C: uma curva que sobe de h<sub>mín</sub> e uma reta que desce até h<sub>máx</sub>. Alternativa <strong>C</strong>.</p><p>No gráfico B, o trecho de baixo seria reto, o que não acontece com uma força elástica.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "conservação de energia",
+    "energia elástica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 109
+   },
+   "enunciado": "<p class=\"apoio\">O fenômeno da piracema (subida do rio) é um importante mecanismo que influencia a reprodução de algumas espécies de peixes, pois induz o processo que estimula a queima de gordura e ativa mecanismos hormonais complexos, preparando-os para a reprodução. Intervenções antrópicas nos ambientes aquáticos, como a construção de barragens, interferem na reprodução desses animais.</p><p class=\"fonte\">MALTA, P. Impacto ambiental das barragens hidrelétricas. Disponível em: http://futurambiental.com. Acesso em: 10 maio 2013 (adaptado).</p><p>Essa intervenção antrópica prejudica a piracema porque reduz o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "percurso da migração.",
+    "B": "longevidade dos indivíduos.",
+    "C": "disponibilidade de alimentos.",
+    "D": "período de migração da espécie.",
+    "E": "número de espécies de peixes no local."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na piracema, os peixes sobem o rio até as cabeceiras para se reproduzir. A barragem fica no caminho e corta o trajeto: reduz o <strong>percurso da migração</strong>. Alternativa <strong>A</strong>.</p><p>O período da migração (D) depende das chuvas, não da barragem.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "piracema",
+    "barragens"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 110
+   },
+   "enunciado": "<p>Fusível é um dispositivo de proteção contra sobrecorrente em circuitos. Quando a corrente que passa por esse componente elétrico é maior que sua máxima corrente nominal, o fusível queima. Dessa forma, evita que a corrente elevada danifique os aparelhos do circuito. Suponha que o circuito elétrico mostrado seja alimentado por uma fonte de tensão <em>U</em> e que o fusível suporte uma corrente nominal de 500 mA.</p>[[fig:1]]<p>Qual é o máximo valor da tensão <em>U</em> para que o fusível não queime?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q110.webp",
+     "alt": "Circuito em losango alimentado pela fonte U, ligada aos vértices da esquerda e da direita. Lado superior esquerdo: 60 Ω; superior direito: 60 Ω, com um resistor de 30 Ω ligando o vértice de cima à direita. Lado inferior esquerdo: 60 Ω, com um ramo paralelo de 120 Ω em série com o fusível ligando o vértice da esquerda ao de baixo. Lado inferior direito: 40 Ω."
+    }
+   ],
+   "alternativas": {
+    "A": "20 V",
+    "B": "40 V",
+    "C": "60 V",
+    "D": "120 V",
+    "E": "185 V"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A fonte está ligada entre os nós da esquerda (L) e da direita (R). Em cima: de L ao topo, 60 Ω; do topo a R, 60 Ω em paralelo com 30 Ω = 20 Ω; ramo superior = 80 Ω. Embaixo: de L ao nó de baixo, 60 Ω em paralelo com o ramo de 120 Ω + fusível = 40 Ω; desse nó a R, 40 Ω; ramo inferior = 80 Ω.</p><p>No ramo inferior, os dois trechos de 40 Ω dividem a tensão ao meio: U/2 fica sobre o resistor de 120 Ω com o fusível. A corrente no fusível é (U/2) ÷ 120 ≤ 0,5 A, logo U ≤ <strong>120 V</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "associação de resistores",
+    "fusível"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 111
+   },
+   "enunciado": "<p class=\"apoio\">Os botos-cinza (<em>Sotalia guianensis</em>), mamíferos da família dos golfinhos, são excelentes indicadores da poluição das áreas em que vivem, pois passam toda a sua vida — cerca de 30 anos — na mesma região. Além disso, a espécie acumula mais contaminantes em seu organismo, como o mercúrio, do que outros animais da sua cadeia alimentar.</p><p class=\"fonte\">MARCOLINO, B. Sentinelas do mar. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 1 ago. 2012 (adaptado).</p><p>Os botos-cinza acumulam maior concentração dessas substâncias porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "são animais herbívoros.",
+    "B": "são animais detritívoros.",
+    "C": "são animais de grande porte.",
+    "D": "digerem o alimento lentamente.",
+    "E": "estão no topo da cadeia alimentar."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O mercúrio não é eliminado pelo organismo e se acumula ao longo da cadeia alimentar: cada nível concentra o que comeu do anterior. Os botos, predadores de peixes, <strong>estão no topo da cadeia alimentar</strong> e acumulam mais. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "magnificação trófica",
+    "mercúrio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Física",
+   "assunto": "Ondulatória",
+   "origem": {
+    "numeroOriginal": 112
+   },
+   "enunciado": "<p>O trombone de Quincke é um dispositivo experimental utilizado para demonstrar o fenômeno da interferência de ondas sonoras. Uma fonte emite ondas sonoras de determinada frequência na entrada do dispositivo. Essas ondas se dividem pelos dois caminhos (ADC e AEC) e se encontram no ponto C, a saída do dispositivo, onde se posiciona um detector. O trajeto ADC pode ser aumentado pelo deslocamento dessa parte do dispositivo. Com o trajeto ADC igual ao AEC, capta-se um som muito intenso na saída. Entretanto, aumentando-se gradativamente o trajeto ADC, até que ele fique como mostrado na figura, a intensidade do som na saída fica praticamente nula. Desta forma, conhecida a velocidade do som no interior do tubo (320 m/s), é possível determinar o valor da frequência do som produzido pela fonte.</p>[[fig:1]]<p>O valor da frequência, em hertz, do som produzido pela fonte sonora é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q112.webp",
+     "alt": "Trombone de Quincke: um tubo em forma de pista oval; a fonte sonora fica no ponto A, em cima, e o detector no ponto C, embaixo; o som segue pelos ramos ADC (esquerdo, que pode ser alongado) e AEC (direito). Cotas: 40 cm do lado esquerdo e 30 cm do lado direito, medidos a partir de A."
+    }
+   ],
+   "alternativas": {
+    "A": "3 200.",
+    "B": "1 600.",
+    "C": "800.",
+    "D": "640.",
+    "E": "400."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O som fica nulo quando as duas ondas chegam em oposição de fase: a diferença de caminho é meio comprimento de onda. Pela figura, a parte móvel se deslocou 40 − 30 = 10 cm, e o trajeto ADC aumentou 2 × 10 = 20 cm (ida e volta).</p><p>λ/2 = 0,20 m → λ = 0,40 m. f = v ÷ λ = 320 ÷ 0,40 = <strong>800 Hz</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "interferência",
+    "comprimento de onda"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 113
+   },
+   "enunciado": "<p>A farinha de linhaça dourada é um produto natural que oferece grandes benefícios para o nosso organismo. A maior parte dos nutrientes da linhaça encontra-se no óleo desta semente, rico em substâncias lipossolúveis com massas moleculares elevadas. A farinha também apresenta altos teores de fibras proteicas insolúveis em água, celulose, vitaminas lipossolúveis e sais minerais hidrossolúveis.</p><p>Considere o esquema, que resume um processo de separação dos componentes principais da farinha de linhaça dourada.</p>[[fig:1]]<p>O óleo de linhaça será obtido na fração</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q113.webp",
+     "alt": "Esquema: farinha de linhaça + éter etílico, agitação e filtração → Resíduo 1 e extrato etéreo (fase orgânica); o extrato etéreo é destilado em Destilado 1 e Resíduo 4. O Resíduo 1 + água, agitação e filtração → Resíduo 2 e extrato aquoso, que é destilado em Destilado 2 e Resíduo 3."
+    }
+   ],
+   "alternativas": {
+    "A": "Destilado 1.",
+    "B": "Destilado 2.",
+    "C": "Resíduo 2.",
+    "D": "Resíduo 3.",
+    "E": "Resíduo 4."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O óleo é lipossolúvel: sai da farinha junto com o éter, no extrato etéreo. Na destilação desse extrato, o éter, volátil, vai para o Destilado 1, e o óleo, de massa molecular alta, fica no <strong>Resíduo 4</strong>. Alternativa <strong>E</strong>.</p><p>No extrato aquoso (Destilado 2 e Resíduo 3) ficam as substâncias solúveis em água.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "extração",
+    "destilação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 114
+   },
+   "enunciado": "<p>O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglicerídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, como o metanol ou etanol, na presença de um catalisador, de acordo com a equação química:</p>[[fig:1]]<p>A função química presente no produto que representa o biodiesel é</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q114.webp",
+     "alt": "Equação: um triglicerídeo (três grupos –O–CO–R ligados a uma cadeia de três carbonos) + 3 CH₃OH, com catalisador, forma três moléculas CH₃–O–CO–R (com R₁, R₂ e R₃) + glicerol (três carbonos, cada um com OH)."
+    }
+   ],
+   "alternativas": {
+    "A": "éter.",
+    "B": "éster.",
+    "C": "álcool.",
+    "D": "cetona.",
+    "E": "ácido carboxílico."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Na transesterificação, o triglicerídeo reage com metanol e forma glicerol e ésteres metílicos (CH<sub>3</sub>–O–CO–R). O biodiesel tem o grupo –COO– ligado a carbonos dos dois lados: é um <strong>éster</strong>. Alternativa <strong>B</strong>.</p><p>O glicerol, o outro produto, é um álcool (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "biodiesel",
+    "transesterificação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Física",
+   "assunto": "Dinâmica",
+   "origem": {
+    "numeroOriginal": 115
+   },
+   "enunciado": "<p class=\"apoio\">As centrífugas são equipamentos utilizados em laboratórios, clínicas e indústrias. Seu funcionamento faz uso da aceleração centrífuga obtida pela rotação de um recipiente e que serve para a separação de sólidos em suspensão em líquidos ou de líquidos misturados entre si.</p><p class=\"fonte\">RODITI, I. <em>Dicionário Houaiss de física</em>. Rio de Janeiro: Objetiva, 2005 (adaptado).</p><p>Nesse aparelho, a separação das substâncias ocorre em função</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "das diferentes densidades.",
+    "B": "dos diferentes raios de rotação.",
+    "C": "das diferentes velocidades angulares.",
+    "D": "das diferentes quantidades de cada substância.",
+    "E": "da diferente coesão molecular de cada substância."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Na rotação, todos os componentes giram com a mesma velocidade angular, mas os mais densos tendem a se afastar do eixo e se depositam no fundo do tubo, e os menos densos ficam mais perto do centro. A separação ocorre em função <strong>das diferentes densidades</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "centrifugação",
+    "movimento circular"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 116
+   },
+   "enunciado": "<p>Visando explicar uma das propriedades da membrana plasmática, fusionou-se uma célula de camundongo com uma célula humana, formando uma célula híbrida. Em seguida, com o intuito de marcar as proteínas de membrana, dois anticorpos foram inseridos no experimento, um específico para as proteínas de membrana do camundongo e outro para as proteínas de membrana humana. Os anticorpos foram visualizados ao microscópio por meio de fluorescência de cores diferentes.</p>[[fig:1]]<p class=\"fonte\">ALBERTS, B. et al. <strong>Biologia molecular da célula</strong>. Porto Alegre: Artes Médicas, 1997 (adaptado).</p><p>A mudança observada da etapa 3 para a etapa 4 do experimento ocorre porque as proteínas</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q116.webp",
+     "alt": "Etapa 1: uma célula de camundongo e uma célula humana, cada uma com suas proteínas de membrana. Etapa 2: fusão celular, formando uma célula híbrida. Etapa 3 (tempo 0): anticorpos marcados com fluoresceína ligados às proteínas de camundongo numa metade e anticorpos com rodamina às proteínas humanas na outra. Etapa 4 (40 minutos, a 37 °C): as duas marcações espalhadas e misturadas por toda a membrana."
+    }
+   ],
+   "alternativas": {
+    "A": "movimentam-se livremente no plano da bicamada lipídica.",
+    "B": "permanecem confinadas em determinadas regiões da bicamada.",
+    "C": "auxiliam o deslocamento dos fosfolipídios da membrana plasmática.",
+    "D": "são mobilizadas em razão da inserção de anticorpos.",
+    "E": "são bloqueadas pelos anticorpos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Logo após a fusão, as proteínas de camundongo e humanas ficam cada uma de um lado. Depois de 40 minutos a 37 °C, as duas marcações aparecem misturadas por toda a célula. Isso mostra que as proteínas <strong>movimentam-se livremente no plano da bicamada lipídica</strong>, como diz o modelo do mosaico fluido. Alternativa <strong>A</strong>.</p><p>Os anticorpos só marcam as proteínas (D e E); a mistura vem da fluidez da membrana.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "mosaico fluido",
+    "membrana plasmática"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 117
+   },
+   "enunciado": "<p>A distrofia muscular Duchenne (DMD) é uma doença causada por uma mutação em um gene localizado no cromossomo X. Pesquisadores estudaram uma família na qual gêmeas monozigóticas eram portadoras de um alelo mutante recessivo para esse gene (heterozigóticas). O interessante é que uma das gêmeas apresentava o fenótipo relacionado ao alelo mutante, isto é, DMD, enquanto a sua irmã apresentava fenótipo normal.</p><p class=\"fonte\">RICHARDS, C. S. et al. <strong>The American Journal of Human Genetics</strong>, n. 4, 1990 (adaptado).</p><p>A diferença na manifestação da DMD entre as gêmeas pode ser explicada pela</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dominância incompleta do alelo mutante em relação ao alelo normal.",
+    "B": "falha na separação dos cromossomos X no momento da separação dos dois embriões.",
+    "C": "recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões.",
+    "D": "inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões.",
+    "E": "origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Nas mulheres, um dos cromossomos X de cada célula é inativado ao acaso no início do desenvolvimento embrionário. Se isso ocorre depois da divisão que forma as gêmeas, cada uma pode ter um padrão diferente: em uma, ficou ativo principalmente o X com o alelo mutante, e ela manifesta a DMD; na outra, o X normal. A explicação é a <strong>inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões</strong>. Alternativa <strong>D</strong>.</p><p>As gêmeas são monozigóticas: têm os mesmos cromossomos, com a mesma origem paterna e materna (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "inativação do X",
+    "gêmeos monozigóticos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Biologia",
+   "assunto": "Questões ambientais",
+   "origem": {
+    "numeroOriginal": 118
+   },
+   "enunciado": "<p>Para se adequar às normas ambientais atuais, as construtoras precisam prever em suas obras a questão do uso de materiais de modo a minimizar os impactos causados no local. Entre esses materiais está o chamado concregrama ou pisograma, que é um tipo de revestimento composto por peças de concreto com áreas vazadas, preenchidas com solo gramado. As figuras apresentam essas duas formas de piso feitos de concreto.</p>[[fig:1]]<p class=\"fonte\">PONTES, K. L. F. Estudo de caso de um protótipo experimental [...]. Disponível em: http://monografias.poli.ufrj.br. Acesso em: 9 maio 2017 (adaptado).</p><p>A utilização desse tipo de piso em uma obra tem o objetivo de evitar, no solo, a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q118.webp",
+     "alt": "Duas peças de piso: à esquerda, o piso tradicional de concreto, uma superfície contínua; à direita, o piso concregrama, uma placa de concreto com quatro aberturas preenchidas com grama."
+    }
+   ],
+   "alternativas": {
+    "A": "impermeabilização.",
+    "B": "diminuição da temperatura.",
+    "C": "acumulação de matéria orgânica.",
+    "D": "alteração do pH.",
+    "E": "salinização."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O piso de concreto comum cobre todo o solo, e a água da chuva escorre em vez de infiltrar. O concregrama tem espaços com grama por onde a água penetra. O objetivo é evitar a <strong>impermeabilização</strong> do solo. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "impermeabilização do solo",
+    "drenagem urbana"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Química",
+   "assunto": "Ácidos e bases",
+   "origem": {
+    "numeroOriginal": 119
+   },
+   "enunciado": "<p>Diversos produtos naturais podem ser obtidos de plantas por processo de extração. O lapachol é da classe das naftoquinonas. Sua estrutura apresenta uma hidroxila enólica (p<em>K</em><sub>a</sub> = 6,0) que permite que este composto seja isolado da serragem dos ipês por extração com solução adequada, seguida de filtração simples. Considere que p<em>K</em><sub>a</sub> = −log <em>K</em><sub>a</sub>, em que <em>K</em><sub>a</sub> é a constante ácida da reação de ionização do lapachol.</p>[[fig:1]]<p class=\"fonte\">COSTA, P. R. R. et al. <strong>Ácidos e bases em química orgânica</strong>. Porto Alegre: Bookman, 2005 (adaptado).</p><p>Qual solução deve ser usada para extração do lapachol da serragem do ipê com maior eficiência?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q119.webp",
+     "alt": "Estrutura do lapachol: uma naftoquinona (dois anéis fundidos, com dois grupos C=O no anel da direita), com uma hidroxila e uma cadeia lateral com uma dupla ligação."
+    }
+   ],
+   "alternativas": {
+    "A": "Solução de Na<sub>2</sub>CO<sub>3</sub> para formar um sal de lapachol.",
+    "B": "Solução-tampão ácido acético/acetato de sódio (pH = 4,5).",
+    "C": "Solução de NaCl a fim de aumentar a força iônica do meio.",
+    "D": "Solução de Na<sub>2</sub>SO<sub>4</sub> para formar um par iônico com lapachol.",
+    "E": "Solução de HCl a fim de extraí-lo por meio de reação ácido-base."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O lapachol é um ácido fraco (pK<sub>a</sub> = 6,0). Numa solução básica, ele perde o H<sup>+</sup> da hidroxila e vira um sal, solúvel em água, que sai da serragem e passa pelo filtro. O carbonato de sódio é básico: a melhor opção é a <strong>solução de Na<sub>2</sub>CO<sub>3</sub> para formar um sal de lapachol</strong>. Alternativa <strong>A</strong>.</p><p>Em pH 4,5 ou com HCl (B e E), o meio ácido mantém o lapachol na forma neutra, pouco solúvel.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pKa",
+    "extração ácido-base"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Química",
+   "assunto": "Propriedades coligativas",
+   "origem": {
+    "numeroOriginal": 120
+   },
+   "enunciado": "<p>Alguns tipos de dessalinizadores usam o processo de osmose reversa para obtenção de água potável a partir da água salgada. Nesse método, utiliza-se um recipiente contendo dois compartimentos separados por uma membrana semipermeável: em um deles coloca-se água salgada e no outro recolhe-se a água potável. A aplicação de pressão mecânica no sistema faz a água fluir de um compartimento para o outro. O movimento das moléculas de água através da membrana é controlado pela pressão osmótica e pela pressão mecânica aplicada.</p><p>Para que ocorra esse processo é necessário que as resultantes das pressões osmótica e mecânica apresentem</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "mesmo sentido e mesma intensidade.",
+    "B": "sentidos opostos e mesma intensidade.",
+    "C": "sentidos opostos e maior intensidade da pressão osmótica.",
+    "D": "mesmo sentido e maior intensidade da pressão osmótica.",
+    "E": "sentidos opostos e maior intensidade da pressão mecânica."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Naturalmente, a água iria do lado puro para o salgado (osmose). Para que ela faça o caminho inverso, a pressão mecânica tem de atuar em sentido contrário ao da pressão osmótica e ser maior que ela. As resultantes têm <strong>sentidos opostos e maior intensidade da pressão mecânica</strong>. Alternativa <strong>E</strong>.</p><p>Com intensidades iguais (B), não haveria fluxo resultante.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "osmose reversa",
+    "dessalinização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 121
+   },
+   "enunciado": "<p>A invenção do LED azul, que permite a geração de outras cores para compor a luz branca, permitiu a construção de lâmpadas energeticamente mais eficientes e mais duráveis do que as incandescentes e fluorescentes. Em um experimento de laboratório, pretende-se associar duas pilhas em série para acender um LED azul que requer 3,6 volts para o seu funcionamento. Considere as semirreações de redução e seus respectivos potenciais mostrados no quadro.</p><table class=\"tabela\"><thead><tr><th>Semirreação de redução</th><th><em>E</em>° (V)</th></tr></thead><tbody><tr><td>Ce<sup>4+</sup> (aq) + e<sup>−</sup> → Ce<sup>3+</sup> (aq)</td><td>+1,61</td></tr><tr><td>Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup> (aq) + 14 H<sup>+</sup> (aq) + 6 e<sup>−</sup> → 2 Cr<sup>3+</sup> (aq) + 7 H<sub>2</sub>O (l)</td><td>+1,33</td></tr><tr><td>Ni<sup>2+</sup> (aq) + 2 e<sup>−</sup> → Ni (s)</td><td>−0,25</td></tr><tr><td>Zn<sup>2+</sup> (aq) + 2 e<sup>−</sup> → Zn (s)</td><td>−0,76</td></tr></tbody></table><p>Qual associação em série de pilhas fornece diferença de potencial, nas condições-padrão, suficiente para acender o LED azul?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q121a.webp",
+     "alt": "Alternativa A: pilha de grafite em Ce⁴⁺/Ce³⁺ com níquel em Ni²⁺, ligada pelo níquel ao zinco de uma pilha de zinco em Zn²⁺ com grafite em dicromato; o LED liga os dois grafites."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q121b.webp",
+     "alt": "Alternativa B: pilha de grafite em Ce⁴⁺/Ce³⁺ com zinco em Zn²⁺, ligada pelo zinco ao níquel de uma pilha de níquel em Ni²⁺ com grafite em dicromato; o LED liga os dois grafites."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q121c.webp",
+     "alt": "Alternativa C: pilha de grafite em Ce⁴⁺/Ce³⁺ com zinco em Zn²⁺, ligada pelo zinco ao grafite de uma pilha de grafite em dicromato com níquel em Ni²⁺; o LED liga o grafite do cério ao níquel."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q121d.webp",
+     "alt": "Alternativa D: pilha de grafite em Ce⁴⁺/Ce³⁺ com grafite em dicromato, ligada a uma pilha de níquel em Ni²⁺ com zinco em Zn²⁺; o LED liga o grafite do cério ao zinco."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q121e.webp",
+     "alt": "Alternativa E: pilha de grafite em Ce⁴⁺/Ce³⁺ com grafite em dicromato, ligada a uma pilha de zinco em Zn²⁺ com níquel em Ni²⁺; o LED liga o grafite do cério ao níquel."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Cada pilha dá a diferença entre os potenciais de redução dos seus dois eletrodos. As melhores combinações são Ce<sup>4+</sup>/Ce<sup>3+</sup> com zinco (1,61 + 0,76 = 2,37 V) e dicromato com níquel (1,33 + 0,25 = 1,58 V): juntas, 3,95 V, acima dos 3,6 V. Para as tensões se somarem, o polo negativo de uma pilha deve ser ligado ao positivo da outra. Na montagem C, o zinco (polo negativo da primeira pilha) está ligado ao grafite do dicromato (polo positivo da segunda), e o LED fica entre o grafite do cério e o níquel. Alternativa <strong>C</strong>.</p><p>Em A e B, as pilhas estão ligadas pelos polos de mesmo sinal, e as tensões se subtraem; em D e E, cério e dicromato estão na mesma pilha, que dá só 0,28 V.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pilhas em série",
+    "potencial padrão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 122
+   },
+   "enunciado": "<p>O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico (massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a equação química:</p>[[fig:1]]<p>Após a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50%. Devido às suas propriedades farmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na forma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.</p><p>Uma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do texto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q122.webp",
+     "alt": "Equação: ácido salicílico + anidrido acético, com H₂SO₄ como catalisador, formam ácido acetilsalicílico + ácido acético."
+    }
+   ],
+   "alternativas": {
+    "A": "293",
+    "B": "345",
+    "C": "414",
+    "D": "690",
+    "E": "828"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Massa de AAS: 900 000 × 0,5 g = 450 000 g → 450 000 ÷ 180 = 2 500 mol. A proporção é 1 mol de ácido salicílico para 1 mol de AAS, mas o rendimento é de 50%: são necessários 5 000 mol de ácido salicílico.</p><p>5 000 × 138 g = 690 000 g = <strong>690 kg</strong>. Alternativa <strong>D</strong>.</p><p>Esquecer o rendimento dá a metade, 345 kg (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rendimento",
+    "massa molar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Biologia",
+   "assunto": "Botânica",
+   "origem": {
+    "numeroOriginal": 123
+   },
+   "enunciado": "<p class=\"apoio\">A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão adaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.</p><p class=\"fonte\">Disponível em: www.ib.usp.br. Acesso em: 23 fev. 2013 (adaptado).</p><p>Essas espécies captam água do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "organismo das plantas vizinhas.",
+    "B": "solo através de suas longas raízes.",
+    "C": "chuva acumulada entre suas folhas.",
+    "D": "seiva bruta das plantas hospedeiras.",
+    "E": "comunidade que vive em seu interior."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As bromélias vivem sobre os galhos, sem raízes no solo e sem tirar seiva da árvore (não são parasitas). Suas folhas em roseta formam um tanque que acumula água: elas captam água da <strong>chuva acumulada entre suas folhas</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "epífitas",
+    "bromélias"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Química",
+   "assunto": "Termoquímica",
+   "origem": {
+    "numeroOriginal": 124
+   },
+   "enunciado": "<p>O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe<sub>2</sub>O<sub>3</sub>), a magnetita (Fe<sub>3</sub>O<sub>4</sub>) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:</p><p class=\"apoio\">FeO (s) + CO (g) → Fe (s) + CO<sub>2</sub> (g)</p><p>Considere as seguintes equações termoquímicas:</p><p class=\"apoio\">Fe<sub>2</sub>O<sub>3</sub> (s) + 3 CO (g) → 2 Fe (s) + 3 CO<sub>2</sub> (g) &nbsp; Δ<sub>r</sub><em>H</em>° = −25 kJ/mol de Fe<sub>2</sub>O<sub>3</sub><br>3 FeO (s) + CO<sub>2</sub> (g) → Fe<sub>3</sub>O<sub>4</sub> (s) + CO (g) &nbsp; Δ<sub>r</sub><em>H</em>° = −36 kJ/mol de CO<sub>2</sub><br>2 Fe<sub>3</sub>O<sub>4</sub> (s) + CO<sub>2</sub> (g) → 3 Fe<sub>2</sub>O<sub>3</sub> (s) + CO (g) &nbsp; Δ<sub>r</sub><em>H</em>° = +47 kJ/mol de CO<sub>2</sub></p><p>O valor mais próximo de Δ<sub>r</sub><em>H</em>°, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "−14.",
+    "B": "−17.",
+    "C": "−50.",
+    "D": "−64.",
+    "E": "−100."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Pela lei de Hess, combinam-se as equações para obter 6 FeO + 6 CO → 6 Fe + 6 CO<sub>2</sub>:</p><ul><li>2 × (3 FeO + CO<sub>2</sub> → Fe<sub>3</sub>O<sub>4</sub> + CO): −72 kJ;</li><li>2 Fe<sub>3</sub>O<sub>4</sub> + CO<sub>2</sub> → 3 Fe<sub>2</sub>O<sub>3</sub> + CO: +47 kJ;</li><li>3 × (Fe<sub>2</sub>O<sub>3</sub> + 3 CO → 2 Fe + 3 CO<sub>2</sub>): −75 kJ.</li></ul><p>Somando, ΔH = −100 kJ para 6 mol de FeO: −100 ÷ 6 ≈ <strong>−17 kJ/mol</strong>. Alternativa <strong>B</strong>.</p><p>−100 (E) é o valor para 6 mol, sem dividir.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lei de Hess",
+    "siderurgia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 125
+   },
+   "enunciado": "<p>A reação em cadeia da polimerase (PCR, na sigla em inglês) é uma técnica de biologia molecular que permite replicação <em>in vitro</em> do DNA de forma rápida. Essa técnica surgiu na década de 1980 e permitiu avanços científicos em todas as áreas de investigação genômica. A dupla hélice é estabilizada por ligações hidrogênio, duas entre as bases adenina (A) e timina (T) e três entre as bases guanina (G) e citosina (C). Inicialmente, para que o DNA possa ser replicado, a dupla hélice precisa ser totalmente desnaturada (desenrolada) pelo aumento da temperatura, quando são desfeitas as ligações hidrogênio entre as diferentes bases nitrogenadas.</p><p>Qual dos segmentos de DNA será o primeiro a desnaturar totalmente durante o aumento da temperatura na reação de PCR?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q125a.webp",
+     "alt": "Segmento A: fita GGCCTTCG pareada com CCGGAAGC."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q125b.webp",
+     "alt": "Segmento B: fita CCTCGACT pareada com GGAGCTGA."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q125c.webp",
+     "alt": "Segmento C: fita AATTCCTA pareada com TTAAGGAT."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q125d.webp",
+     "alt": "Segmento D: fita TTACGGCG pareada com AATGCCGC."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q125e.webp",
+     "alt": "Segmento E: fita CCTAGGAA pareada com GGATCCTT."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Pares A–T têm duas ligações de hidrogênio, e G–C, três. Desnatura primeiro o segmento com menos pares G–C. Contando: A (GGCCTTCG) tem 6 pares G–C; B (CCTCGACT), 5; C (AATTCCTA), 2; D (TTACGGCG), 5; E (CCTAGGAA), 4. O segmento C é o primeiro. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "PCR",
+    "ligações de hidrogênio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Química",
+   "assunto": "Tabela periódica",
+   "origem": {
+    "numeroOriginal": 126
+   },
+   "enunciado": "<p class=\"apoio\">No ar que respiramos existem os chamados “gases inertes”. Trazem curiosos nomes gregos, que significam “o Novo”, “o Oculto”, “o Inativo”. E de fato são de tal modo inertes, tão satisfeitos em sua condição, que não interferem em nenhuma reação química, não se combinam com nenhum outro elemento e justamente por esse motivo ficaram sem ser observados durante séculos: só em 1962 um químico, depois de longos e engenhosos esforços, conseguiu forçar “o Estrangeiro” (o xenônio) a combinar-se fugazmente com o flúor ávido e vivaz, e a façanha pareceu tão extraordinária que lhe foi conferido o Prêmio Nobel.</p><p class=\"fonte\">LEVI, P. <em>A tabela periódica</em>. Rio de Janeiro: Relume-Dumará, 1994 (adaptado).</p><p>Qual propriedade do flúor justifica sua escolha como reagente para o processo mencionado?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Densidade.",
+    "B": "Condutância.",
+    "C": "Eletronegatividade.",
+    "D": "Estabilidade nuclear.",
+    "E": "Temperatura de ebulição."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para tirar o xenônio da inércia foi preciso o elemento mais ávido por elétrons: o flúor, o mais eletronegativo da tabela, que consegue atrair elétrons até de um gás nobre. A propriedade é a <strong>eletronegatividade</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gases nobres",
+    "flúor"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 127
+   },
+   "enunciado": "<p>No manual fornecido pelo fabricante de uma ducha elétrica de 220 V é apresentado um gráfico com a variação da temperatura da água em função da vazão para três condições (morno, quente e superquente). Na condição superquente, a potência dissipada é de 6 500 W. Considere o calor específico da água igual a 4 200 J/(kg °C) e densidade da água igual a 1 kg/L.</p>[[fig:1]]<p>Com base nas informações dadas, a potência na condição morno corresponde a que fração da potência na condição superquente?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q127.webp",
+     "alt": "Gráfico “Elevação de temperatura × Curva vazão”: ΔT (°C) em função da vazão (L/min), de 3 a 9 L/min, com três curvas decrescentes, 1 (morno) embaixo, 2 (quente) no meio e 3 (superquente) em cima, começando perto de 37 °C."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{3}\\)",
+    "B": "\\(\\dfrac{1}{5}\\)",
+    "C": "\\(\\dfrac{3}{5}\\)",
+    "D": "\\(\\dfrac{3}{8}\\)",
+    "E": "\\(\\dfrac{5}{8}\\)"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A potência que aquece a água é P = m c ΔT por tempo = (densidade × vazão) × c × ΔT. Para uma mesma vazão, a potência é proporcional à elevação de temperatura. No gráfico, para qualquer vazão, a elevação na curva 1 (morno) é 3/8 da elevação na curva 3 (superquente). Alternativa <strong>D</strong>.</p><p>Comparar vazões diferentes não serve, porque a potência depende do produto vazão × ΔT.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência",
+    "calor específico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 128
+   },
+   "enunciado": "<p class=\"apoio\">A retina é um tecido sensível à luz, localizado na parte posterior do olho, onde ocorre o processo de formação de imagem. Nesse tecido, encontram-se vários tipos celulares específicos. Um desses tipos celulares são os cones, os quais convertem os diferentes comprimentos de onda da luz visível em sinais elétricos, que são transmitidos pelo nervo óptico até o cérebro.</p><p class=\"fonte\">Disponível em: www.portaldaretina.com.br. Acesso em: 13 jun. 2012 (adaptado).</p><p>Em relação à visão, a degeneração desse tipo celular irá</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "comprometer a capacidade de visão em cores.",
+    "B": "impedir a projeção dos raios luminosos na retina.",
+    "C": "provocar a formação de imagens invertidas na retina.",
+    "D": "causar dificuldade de visualização de objetos próximos.",
+    "E": "acarretar a perda da capacidade de alterar o diâmetro da pupila."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os cones são as células da retina sensíveis às cores: há cones para o vermelho, o verde e o azul. Sua degeneração vai <strong>comprometer a capacidade de visão em cores</strong>. Alternativa <strong>A</strong>.</p><p>A projeção dos raios, a inversão da imagem e o foco de perto (B, C e D) dependem da córnea e do cristalino; o diâmetro da pupila (E), da íris.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cones",
+    "retina"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 129
+   },
+   "enunciado": "<p>Em algumas residências, cercas eletrificadas são utilizadas com o objetivo de afastar possíveis invasores. Uma cerca eletrificada funciona com uma diferença de potencial elétrico de aproximadamente 10 000 V. Para que não seja letal, a corrente que pode ser transmitida através de uma pessoa não deve ser maior do que 0,01 A. Já a resistência elétrica corporal entre as mãos e os pés de uma pessoa é da ordem de 1 000 Ω.</p><p>Para que a corrente não seja letal a uma pessoa que toca a cerca eletrificada, o gerador de tensão deve possuir uma resistência interna que, em relação à do corpo humano, é</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "praticamente nula.",
+    "B": "aproximadamente igual.",
+    "C": "milhares de vezes maior.",
+    "D": "da ordem de 10 vezes maior.",
+    "E": "da ordem de 10 vezes menor."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Para a corrente não passar de 0,01 A com 10 000 V, a resistência total deve ser de pelo menos 10 000 ÷ 0,01 = 1 000 000 Ω. Como o corpo tem só 1 000 Ω, a resistência interna do gerador deve ser de cerca de 999 000 Ω, isto é, <strong>milhares de vezes maior</strong> que a do corpo. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "resistência interna",
+    "cerca elétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Química",
+   "assunto": "Forças intermoleculares",
+   "origem": {
+    "numeroOriginal": 130
+   },
+   "enunciado": "<p>A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes de uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e a fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver até 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel, também líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes com a fase estacionária migram mais lentamente.</p><p>Uma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos componentes de um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.</p>[[fig:1]]<p class=\"fonte\">RIBEIRO, N. M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel. <strong>Química Nova na Escola</strong>, n. 29, ago. 2008 (adaptado).</p><p>A substância presente na mistura que migra mais lentamente é o(a)</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q130.webp",
+     "alt": "Estruturas de cinco pigmentos com longas cadeias de duplas ligações alternadas: licopeno (só carbono e hidrogênio, sem anéis), α-caroteno e γ-caroteno (com anéis nas pontas, sem oxigênio), α-criptoxantina (com um anel com OH) e capsorubina (com dois anéis, cada um com OH e um grupo C=O)."
+    }
+   ],
+   "alternativas": {
+    "A": "licopeno.",
+    "B": "α-caroteno.",
+    "C": "γ-caroteno.",
+    "D": "capsorubina.",
+    "E": "α-criptoxantina."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A fase estacionária é a água, polar; a móvel, hexano com pouca acetona, é quase apolar. Migra mais devagar a substância que interage mais com a água: a mais polar. Licopeno e carotenos são hidrocarbonetos; a α-criptoxantina tem uma hidroxila; a <strong>capsorubina</strong> tem duas hidroxilas e duas carbonilas, e é a mais polar. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "cromatografia",
+    "polaridade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 131
+   },
+   "enunciado": "<p>Um motorista que atende a uma chamada de celular é levado à desatenção, aumentando a possibilidade de acidentes ocorrerem em razão do aumento de seu tempo de reação. Considere dois motoristas, o primeiro atento e o segundo utilizando o celular enquanto dirige. Eles aceleram seus carros inicialmente a 1,00 m/s<sup>2</sup>. Em resposta a uma emergência, freiam com uma desaceleração igual a 5,00 m/s<sup>2</sup>. O motorista atento aciona o freio à velocidade de 14,0 m/s, enquanto o desatento, em situação análoga, leva 1,00 segundo a mais para iniciar a frenagem.</p><p>Que distância o motorista desatento percorre a mais do que o motorista atento, até a parada total dos carros?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2,90 m",
+    "B": "14,0 m",
+    "C": "14,5 m",
+    "D": "15,0 m",
+    "E": "17,4 m"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Motorista atento: freia a 14 m/s; distância de frenagem = 14² ÷ (2 × 5) = 19,6 m.</p><p>Desatento: acelera mais 1 s a 1 m/s². Nesse segundo, percorre 14 × 1 + 0,5 × 1 × 1² = 14,5 m e chega a 15 m/s; depois freia em 15² ÷ (2 × 5) = 22,5 m.</p><p>Diferença: 14,5 + 22,5 − 19,6 = <strong>17,4 m</strong>. Alternativa <strong>E</strong>.</p><p>14,5 m (C) é só o trecho percorrido durante o segundo de atraso.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "MUV",
+    "tempo de reação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 132
+   },
+   "enunciado": "<p>Uma das estratégias para conservação de alimentos é o salgamento, adição de cloreto de sódio (NaCl), historicamente utilizado por tropeiros, vaqueiros e sertanejos para conservar carnes de boi, porco e peixe.</p><p>O que ocorre com as células presentes nos alimentos preservados com essa técnica?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "O sal adicionado diminui a concentração de solutos em seu interior.",
+    "B": "O sal adicionado desorganiza e destrói suas membranas plasmáticas.",
+    "C": "A adição de sal altera as propriedades de suas membranas plasmáticas.",
+    "D": "Os íons Na<sup>+</sup> e Cl<sup>−</sup> provenientes da dissociação do sal entram livremente nelas.",
+    "E": "A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O sal deixa o meio externo muito concentrado. Por osmose, a água sai das células (e dos micro-organismos) para o meio, que fica hipertônico. Sem água, as bactérias não se reproduzem e o alimento se conserva. <strong>A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas</strong>. Alternativa <strong>E</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "osmose",
+    "conservação de alimentos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 133
+   },
+   "enunciado": "<p>Para demonstrar o processo de transformação de energia mecânica em elétrica, um estudante constrói um pequeno gerador utilizando:</p><ul><li>um fio de cobre de diâmetro <em>D</em> enrolado em <em>N</em> espiras circulares de área <em>A</em>;</li><li>dois ímãs que criam no espaço entre eles um campo magnético uniforme de intensidade <em>B</em>; e</li><li>um sistema de engrenagens que lhe permite girar as espiras em torno de um eixo com uma frequência <em>f</em>.</li></ul><p>Ao fazer o gerador funcionar, o estudante obteve uma tensão máxima <em>V</em> e uma corrente de curto-circuito <em>i</em>.</p><p>Para dobrar o valor da tensão máxima <em>V</em> do gerador mantendo constante o valor da corrente de curto <em>i</em>, o estudante deve dobrar o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "número de espiras.",
+    "B": "frequência de giro.",
+    "C": "intensidade do campo magnético.",
+    "D": "área das espiras.",
+    "E": "diâmetro do fio."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A tensão máxima de um gerador é V = N B A ω, proporcional ao número de espiras, ao campo, à área e à frequência. A corrente de curto é V ÷ R, e a resistência do fio cresce com o comprimento. Dobrando o número de espiras, dobram a tensão e o comprimento do fio (e a resistência): a corrente fica igual. Alternativa <strong>A</strong>.</p><p>Dobrar a frequência, o campo ou a área (B, C e D) dobra a tensão sem mudar a resistência, e a corrente dobra.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gerador",
+    "lei de Faraday"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Química",
+   "assunto": "Reações orgânicas",
+   "origem": {
+    "numeroOriginal": 134
+   },
+   "enunciado": "<p>A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é também utilizada em escala de laboratório na síntese de aldeídos e cetonas. As duplas ligações dos alcenos são clivadas pela oxidação com o ozônio (O<sub>3</sub>), em presença de água e zinco metálico, e a reação produz aldeídos e/ou cetonas, dependendo do grau de substituição da ligação dupla. Ligações duplas dissubstituídas geram cetonas, enquanto as ligações duplas terminais ou monossubstituídas dão origem a aldeídos, como mostra o esquema.</p>[[fig:1]]<p>Considere a ozonólise do composto 1-fenil-2-metilprop-1-eno:</p>[[fig:2]]<p class=\"fonte\">MARTINO, A. <strong>Química, a ciência global</strong>. Goiânia: Editora W, 2014 (adaptado).</p><p>Quais são os produtos formados nessa reação?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2017-natureza/q134a.webp",
+     "alt": "Esquema: but-1-eno, com O₃, H₂O e Zn, forma propanal + metanal."
+    },
+    {
+     "src": "assets/img/enem-2017-natureza/q134b.webp",
+     "alt": "Estrutura do 1-fenil-2-metilprop-1-eno: um anel benzênico ligado a um carbono de dupla ligação, cujo outro carbono tem duas metilas."
+    }
+   ],
+   "alternativas": {
+    "A": "Benzaldeído e propanona.",
+    "B": "Propanal e benzaldeído.",
+    "C": "2-fenil-etanal e metanal.",
+    "D": "Benzeno e propanona.",
+    "E": "Benzaldeído e etanal."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No 1-fenil-2-metilprop-1-eno, a dupla liga um carbono com o anel benzênico (e um H) a outro carbono com duas metilas. A ozonólise quebra a dupla: o lado monossubstituído vira aldeído (benzaldeído, C<sub>6</sub>H<sub>5</sub>–CHO), e o lado dissubstituído vira cetona (propanona). Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ozonólise",
+    "aldeídos e cetonas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 135
+   },
+   "enunciado": "<p>A terapia celular tem sido amplamente divulgada como revolucionária, por permitir a regeneração de tecidos a partir de células novas. Entretanto, a técnica de se introduzirem novas células em um tecido, para o tratamento de enfermidades em indivíduos, já era aplicada rotineiramente em hospitais.</p><p>A que técnica refere-se o texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Vacina.",
+    "B": "Biópsia.",
+    "C": "Hemodiálise.",
+    "D": "Quimioterapia.",
+    "E": "Transfusão de sangue."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A técnica antiga e rotineira de introduzir células novas num paciente é a <strong>transfusão de sangue</strong>, que repõe hemácias, plaquetas e outras células. Alternativa <strong>E</strong>.</p><p>Na vacina (A) entram antígenos, não células para regenerar tecidos; na hemodiálise (C), o sangue é filtrado e volta ao corpo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "terapia celular",
+    "transfusão"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

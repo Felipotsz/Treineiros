@@ -1,0 +1,40 @@
+name: Erro em uma questão
+description: Algo errado no enunciado, nas alternativas, no gabarito, na figura ou na explicação de uma questão.
+title: "Erro na questão: "
+labels: ["erro-em-questao"]
+body:
+  - type: input
+    id: questao
+    attributes:
+      label: Questão
+      description: Preenchido pelo site (prova e número).
+    validations:
+      required: true
+  - type: input
+    id: prova
+    attributes:
+      label: Prova (id)
+  - type: input
+    id: numero
+    attributes:
+      label: Número
+  - type: dropdown
+    id: onde
+    attributes:
+      label: Onde está o erro?
+      options:
+        - Enunciado ou texto de apoio
+        - Alternativas
+        - Gabarito
+        - Figura ou tabela
+        - Explicação
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: descricao
+    attributes:
+      label: O que está errado e o que deveria estar
+      description: Se puder, cite a página do PDF oficial ou a conta que mostra o erro.
+    validations:
+      required: true

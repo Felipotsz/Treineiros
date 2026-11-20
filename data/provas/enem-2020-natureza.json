@@ -1,0 +1,1249 @@
+{
+ "id": "enem-2020-natureza",
+ "banca": "Enem",
+ "ano": 2020,
+ "titulo": "Enem 2020: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2021-01-24",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 2,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Física",
+   "assunto": "Eletrostática",
+   "origem": {
+    "numeroOriginal": 91
+   },
+   "enunciado": "[[fig:1]]<p class=\"fonte\">DAVIS, J. Disponível em: http://garfield.com. Acesso em: 10 fev. 2015.</p><p>Por qual motivo ocorre a eletrização ilustrada na tirinha?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q91.webp",
+     "alt": "Tirinha do Garfield em três quadros: o gato se esfrega nas pernas de calça de uma pessoa, ronronando (“PURRR”), e no último quadro aparece com todos os pelos arrepiados, pensando “Eu odeio eletricidade estática”."
+    }
+   ],
+   "alternativas": {
+    "A": "Troca de átomos entre a calça e os pelos do gato.",
+    "B": "Diminuição do número de prótons nos pelos do gato.",
+    "C": "Criação de novas partículas eletrizadas nos pelos do gato.",
+    "D": "Movimentação de elétrons entre a calça e os pelos do gato.",
+    "E": "Repulsão entre partículas elétricas da calça e dos pelos do gato."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Ao se esfregar na calça, o gato troca cargas por atrito: elétrons passam de um material para o outro, e os pelos ficam eletrizados (por isso se arrepiam, com os fios se repelindo). Na eletrização por atrito há <strong>movimentação de elétrons entre a calça e os pelos do gato</strong>. Alternativa <strong>D</strong>.</p><p>Prótons e átomos não se transferem (A e B), e as cargas não são criadas (C), só transferidas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eletrização por atrito"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Química",
+   "assunto": "Polímeros",
+   "origem": {
+    "numeroOriginal": 92
+   },
+   "enunciado": "<p>A enorme quantidade de resíduos gerados pelo consumo crescente da sociedade traz para a humanidade uma preocupação socioambiental, em especial pela quantidade de lixo produzido. Além da reciclagem e do reúso, pode-se melhorar ainda mais a qualidade de vida, substituindo polímeros convencionais por polímeros biodegradáveis.</p><p>Esses polímeros têm grandes vantagens socioambientais em relação aos convencionais porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "não são tóxicos.",
+    "B": "não precisam ser reciclados.",
+    "C": "não causam poluição ambiental quando descartados.",
+    "D": "são degradados em um tempo bastante menor que os convencionais.",
+    "E": "apresentam propriedades mecânicas semelhantes aos convencionais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Polímeros convencionais, como o polietileno, levam centenas de anos para se decompor e se acumulam no ambiente. Os biodegradáveis são decompostos por microrganismos em pouco tempo. A grande vantagem é que <strong>são degradados em um tempo bastante menor que os convencionais</strong>. Alternativa <strong>D</strong>.</p><p>Eles ainda podem poluir e ter aditivos tóxicos (A e C), e a reciclagem continua desejável (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "polímeros biodegradáveis"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 93
+   },
+   "enunciado": "<p>Uma pessoa percebe que a bateria de seu veículo fica descarregada após cinco dias sem uso. No início desse período, a bateria funcionava normalmente e estava com o total de sua carga nominal, de 60 Ah. Pensando na possibilidade de haver uma corrente de fuga, que se estabelece mesmo com os dispositivos elétricos do veículo desligados, ele associa um amperímetro digital ao circuito do veículo. Qual dos esquemas indica a maneira com que o amperímetro deve ser ligado e a leitura por ele realizada?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q93a.webp",
+     "alt": "Esquema A: circuito do veículo ligado aos dois polos da bateria, e o amperímetro, marcando 0,5 A, ligado também diretamente aos dois polos, em paralelo."
+    },
+    {
+     "src": "assets/img/enem-2020-natureza/q93b.webp",
+     "alt": "Esquema B: um fio do circuito do veículo vai a um polo da bateria; o outro passa pelo amperímetro, marcando 0,5 A, antes de chegar ao outro polo, em série."
+    },
+    {
+     "src": "assets/img/enem-2020-natureza/q93c.webp",
+     "alt": "Esquema C: circuito do veículo ligado à bateria, e o amperímetro, marcando 2,5 A, ligado em paralelo à bateria por baixo."
+    },
+    {
+     "src": "assets/img/enem-2020-natureza/q93d.webp",
+     "alt": "Esquema D: amperímetro marcando 12 A em série entre o circuito do veículo e um polo da bateria."
+    },
+    {
+     "src": "assets/img/enem-2020-natureza/q93e.webp",
+     "alt": "Esquema E: amperímetro marcando 12 A ligado em paralelo ao circuito do veículo, ambos ligados à bateria."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A carga de 60 Ah se esgota em 5 dias = 120 h: a corrente de fuga é i = 60/120 = <strong>0,5 A</strong>. Para medir corrente, o amperímetro deve ficar <strong>em série</strong>, entre a bateria e o circuito do veículo, de modo que toda a corrente passe por ele. Alternativa <strong>B</strong>.</p><p>Em A o amperímetro está em paralelo com a bateria; D e E marcam 12 A, e C marca 2,5 A.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "amperímetro",
+    "carga elétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Química",
+   "assunto": "Funções orgânicas",
+   "origem": {
+    "numeroOriginal": 94
+   },
+   "enunciado": "<p>Um microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância de rosas. O principal componente do óleo de rosas tem cadeia poli-insaturada e hidroxila em carbono terminal. O catálogo dos óleos essenciais apresenta, para escolha da essência, estas estruturas químicas:</p>[[fig:1]]<p>Qual substância o empresário deverá utilizar?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q94.webp",
+     "alt": "Cinco fórmulas estruturais: (1) cadeia aberta com duas duplas ligações terminando em CH₂OH; (2) cadeia aberta com uma dupla terminando em CHO; (3) anel de seis carbonos saturado com OH e grupo isopropila; (4) anel aromático com OH (fenol) e grupo isopropila; (5) cadeia com duas duplas e grupo CHO."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Procura-se cadeia poli-insaturada (várias duplas ligações) com hidroxila (—OH) em carbono terminal, isto é, um álcool primário. A estrutura 1 (geraniol, o principal componente do óleo de rosas) tem duas duplas C=C e termina em CH<sub>2</sub>OH. Alternativa <strong>A</strong>.</p><p>A 2 e a 5 são aldeídos (CHO); a 3 é cíclica, saturada e com OH em carbono secundário; a 4 é um fenol.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "álcool",
+    "óleo essencial"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 95
+   },
+   "enunciado": "<p>A fragmentação dos hábitats é caracterizada pela formação de ilhas da paisagem original, circundadas por áreas transformadas. Esse tipo de interferência no ambiente ameaça a biodiversidade. Imagine que uma população de onças foi isolada em uma mata pequena. Elas se extinguiriam mesmo sem terem sido abatidas. Diversos componentes da ilha de hábitat, como o tamanho, a heterogeneidade, o seu entorno, a sua conectividade e o efeito de borda são determinantes para a persistência ou não das espécies originais. Uma medida que auxilia na conservação da biodiversidade nas ilhas mencionadas no texto compreende a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "formação de micro-hábitats.",
+    "B": "ampliação do efeito de borda.",
+    "C": "construção de corredores ecológicos.",
+    "D": "promoção da sucessão ecológica.",
+    "E": "introdução de novas espécies de animais e vegetais."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A população isolada numa ilha de mata pequena se extingue por falta de espaço, de alimento e de troca genética com outras populações. Ligar os fragmentos permite que os animais circulem entre eles: a medida é a <strong>construção de corredores ecológicos</strong>. Alternativa <strong>C</strong>.</p><p>O efeito de borda (B) é prejudicial e deve ser reduzido; espécies introduzidas (E) ameaçam as nativas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fragmentação de hábitats",
+    "corredores ecológicos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Química",
+   "assunto": "Cinética química",
+   "origem": {
+    "numeroOriginal": 96
+   },
+   "enunciado": "<p>A sacarase (ou invertase) é uma enzima que atua no intestino humano hidrolisando o dissacarídeo sacarose nos monossacarídeos glicose e frutose. Em um estudo cinético da reação de hidrólise da sacarose (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>), foram dissolvidos 171 g de sacarose em 500 mL de água. Observou-se que, a cada 100 minutos de reação, a concentração de sacarose foi reduzida à metade, qualquer que fosse o momento escolhido como tempo inicial. As massas molares dos elementos H, C e O são iguais a 1, 12 e 16 g mol<sup>−1</sup>, respectivamente.</p><p>Qual é a concentração de sacarose depois de 400 minutos do início da reação de hidrólise?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "2,50 × 10<sup>−3</sup> mol L<sup>−1</sup>",
+    "B": "6,25 × 10<sup>−2</sup> mol L<sup>−1</sup>",
+    "C": "1,25 × 10<sup>−1</sup> mol L<sup>−1</sup>",
+    "D": "2,50 × 10<sup>−1</sup> mol L<sup>−1</sup>",
+    "E": "4,27 × 10<sup>−1</sup> mol L<sup>−1</sup>"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Massa molar da sacarose: 12 · 12 + 22 · 1 + 11 · 16 = 342 g/mol. 171 g = 0,5 mol em 0,5 L: concentração inicial de 1 mol/L. A concentração cai à metade a cada 100 min; em 400 min são 4 meias-vidas: 1/2<sup>4</sup> = 1/16 = <strong>6,25 × 10<sup>−2</sup> mol L<sup>−1</sup></strong>. Alternativa <strong>B</strong>.</p><p>1,25 × 10<sup>−1</sup> (C) corresponde a 3 meias-vidas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "meia-vida",
+    "concentração"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Química",
+   "assunto": "Ciclos biogeoquímicos",
+   "origem": {
+    "numeroOriginal": 97
+   },
+   "enunciado": "<p>Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos.</p><p>A utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito.",
+    "B": "nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre.",
+    "C": "carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho.",
+    "D": "carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos.",
+    "E": "fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O petróleo do pré-sal é carbono que ficou guardado sob sedimentos por milhões de anos. Ao ser extraído e queimado, libera CO<sub>2</sub> na atmosfera mais depressa do que os processos naturais conseguem absorver: desequilíbrio no ciclo do <strong>carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos</strong>. Alternativa <strong>D</strong>.</p><p>O petróleo é formado essencialmente por hidrocarbonetos, não por compostos de nitrogênio ou fósforo (A, B e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pré-sal",
+    "ciclo do carbono"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 98
+   },
+   "enunciado": "<p>Em uma usina geradora de energia elétrica, seja através de uma queda-d’água ou através de vapor sob pressão, as pás do gerador são postas a girar. O movimento relativo de um ímã em relação a um conjunto de bobinas produz um fluxo magnético variável através delas, gerando uma diferença de potencial em seus terminais. Durante o funcionamento de um dos geradores, o operador da usina percebeu que houve um aumento inesperado da diferença de potencial elétrico nos terminais das bobinas.</p><p>Nessa situação, o aumento do módulo da diferença de potencial obtida nos terminais das bobinas resulta do aumento do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "intervalo de tempo em que as bobinas ficam imersas no campo magnético externo, por meio de uma diminuição de velocidade no eixo de rotação do gerador.",
+    "B": "fluxo magnético através das bobinas, por meio de um aumento em sua área interna exposta ao campo magnético aplicado.",
+    "C": "intensidade do campo magnético no qual as bobinas estão imersas, por meio de aplicação de campos magnéticos mais intensos.",
+    "D": "rapidez com que o fluxo magnético varia através das bobinas, por meio de um aumento em sua velocidade angular.",
+    "E": "resistência interna do condutor que constitui as bobinas, por meio de um aumento na espessura dos terminais."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pela lei de Faraday, a d.d.p. induzida é proporcional à rapidez com que o fluxo magnético varia. Se as pás giraram mais rápido sem mudança no ímã nem nas bobinas, a variação do fluxo ficou mais rápida: aumentou a <strong>rapidez com que o fluxo magnético varia através das bobinas, por meio de um aumento em sua velocidade angular</strong>. Alternativa <strong>D</strong>.</p><p>O aumento foi inesperado, durante o funcionamento: ninguém trocou bobinas ou ímãs (B, C e E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lei de Faraday",
+    "gerador"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 99
+   },
+   "enunciado": "<p>Você foi contratado para sincronizar os quatro semáforos de uma avenida, indicados pelas letras O, A, B e C, conforme a figura.</p>[[fig:1]]<p>Os semáforos estão separados por uma distância de 500 m. Segundo os dados estatísticos da companhia controladora de trânsito, um veículo, que está inicialmente parado no semáforo O, tipicamente parte com aceleração constante de 1 m s<sup>−2</sup> até atingir a velocidade de 72 km h<sup>−1</sup> e, a partir daí, prossegue com velocidade constante. Você deve ajustar os semáforos A, B e C de modo que eles mudem para a cor verde quando o veículo estiver a 100 m de cruzá-los, para que ele não tenha que reduzir a velocidade em nenhum momento. Considerando essas condições, aproximadamente quanto tempo depois da abertura do semáforo O os semáforos A, B e C devem abrir, respectivamente?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q99.webp",
+     "alt": "Esquema de uma avenida reta com quatro semáforos indicados por setas, na ordem O, A, B e C."
+    }
+   ],
+   "alternativas": {
+    "A": "20 s, 45 s e 70 s.",
+    "B": "25 s, 50 s e 75 s.",
+    "C": "28 s, 42 s e 53 s.",
+    "D": "30 s, 55 s e 80 s.",
+    "E": "35 s, 60 s e 85 s."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O carro acelera a 1 m/s<sup>2</sup> até 72 km/h = 20 m/s: leva 20 s e percorre 200 m. Daí segue a 20 m/s. O semáforo A (500 m) deve abrir quando o carro estiver a 400 m: 20 s + 200/20 = 30 s. B (1 000 m), com o carro a 900 m: 30 + 25 = 55 s. C, com o carro a 1 400 m: 80 s. Respostas: <strong>30 s, 55 s e 80 s</strong>. Alternativa <strong>D</strong>.</p><p>Esquecer os 100 m de antecedência daria 35 s, 60 s e 85 s (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "MUV",
+    "MU"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 100
+   },
+   "enunciado": "<p>Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura.</p>[[fig:1]]<p>Para realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve a liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na<sub>2</sub>CO<sub>3</sub>), liberou gás carbônico.</p><p>Qual foi o gás liberado majoritariamente na decomposição térmica desse tipo de plástico?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q100.webp",
+     "alt": "Fórmula do policloreto de vinila: unidade de repetição –CH₂–CHCl– entre colchetes, com índice n."
+    }
+   ],
+   "alternativas": {
+    "A": "H<sub>2</sub>",
+    "B": "Cl<sub>2</sub>",
+    "C": "CO",
+    "D": "CO<sub>2</sub>",
+    "E": "HCl"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O PVC tem cloro ligado à cadeia. Ao ser aquecido, libera um gás diatômico heteronuclear (dois átomos diferentes): o <strong>HCl</strong>. Ele é ácido, muda a cor do indicador na solução alcalina e reage com carbonato de sódio liberando CO<sub>2</sub> (Na<sub>2</sub>CO<sub>3</sub> + 2 HCl → 2 NaCl + H<sub>2</sub>O + CO<sub>2</sub>). Alternativa <strong>E</strong>.</p><p>H<sub>2</sub> e Cl<sub>2</sub> (A e B) são homonucleares; CO<sub>2</sub> (D) é triatômico; CO (C) não libera CO<sub>2</sub> com carbonato.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "PVC",
+    "ácidos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 101
+   },
+   "enunciado": "<p>Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações D1 e D2.</p>[[fig:1]]<p>A representação indica que, no momento D, na situação</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q101.webp",
+     "alt": "Esquema ao longo do tempo: A, uma população; B, duas subpopulações separadas por uma barreira I; C, as subpopulações com cores diferentes; D1, as duas ocupam lado a lado a mesma área com as cores distintas; D2, as cores se misturam numa área contínua."
+    }
+   ],
+   "alternativas": {
+    "A": "D1 ocorre um novo fator de isolamento geográfico.",
+    "B": "D1 existe uma única população distribuída em gradiente.",
+    "C": "D1 ocorrem duas populações separadas por isolamento reprodutivo.",
+    "D": "D2 coexistem duas populações com características fenotípicas distintas.",
+    "E": "D2 foram preservadas as mesmas características fenotípicas da população original A."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Em D1, depois que a barreira desaparece, as duas subpopulações voltam a ocupar a mesma área, mas continuam com cores separadas, sem formas intermediárias: não se cruzam mais, há <strong>duas populações separadas por isolamento reprodutivo</strong> (formaram-se espécies). Alternativa <strong>C</strong>.</p><p>Em D2 as cores se misturam, indicando que voltaram a cruzar; não há nova barreira geográfica em D1 (A).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "especiação",
+    "isolamento reprodutivo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 102
+   },
+   "enunciado": "<p>A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro.</p><table class=\"tabela\"><thead><tr><th>Etapa</th><th>Subetapa</th><th>O que ocorre</th></tr></thead><tbody><tr><td rowspan=\"4\">Preparação da matéria-prima</td><td>Seleção dos grãos</td><td>Separação das sujidades mais grossas</td></tr><tr><td>Descascamento</td><td>Separação de polpa e casca</td></tr><tr><td>Trituração</td><td>Rompimento dos tecidos e das paredes das células</td></tr><tr><td>Cozimento</td><td>Aumento da permeabilidade das membranas celulares</td></tr><tr><td rowspan=\"3\">Extração do óleo bruto</td><td>Prensagem</td><td>Remoção parcial do óleo</td></tr><tr><td>Extração</td><td>Obtenção do óleo bruto com hexano</td></tr><tr><td>Destilação</td><td>Separação do óleo e do solvente</td></tr></tbody></table><p>Qual das subetapas do processo é realizada em função apenas da polaridade das substâncias?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Trituração.",
+    "B": "Cozimento.",
+    "C": "Prensagem.",
+    "D": "Extração.",
+    "E": "Destilação."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Na extração, o óleo bruto é obtido com hexano: um solvente apolar dissolve o óleo, também apolar (“semelhante dissolve semelhante”), e deixa para trás o resto. Essa subetapa depende <strong>apenas da polaridade das substâncias</strong>. Alternativa <strong>D</strong>.</p><p>Trituração, cozimento e prensagem (A, B e C) são processos mecânicos ou térmicos; a destilação (E) separa pela diferença de temperatura de ebulição.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "extração por solvente",
+    "polaridade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Química",
+   "assunto": "Ácidos e bases",
+   "origem": {
+    "numeroOriginal": 103
+   },
+   "enunciado": "<p>O dióxido de carbono passa para o estado sólido (gelo seco) a −78 °C e retorna ao estado gasoso à temperatura ambiente. O gás é facilmente solubilizado em água, capaz de absorver radiação infravermelha da superfície da terra e não conduz eletricidade. Ele é utilizado como matéria-prima para a fotossíntese até o limite de saturação. Após a fixação pelos organismos autotróficos, o gás retorna ao meio ambiente pela respiração aeróbica, fermentação, decomposição ou por resíduos industriais, queima de combustíveis fósseis e queimadas. Apesar da sua importância ecológica, seu excesso causa perturbações no equilíbrio ambiental.</p><p>Considerando as propriedades descritas, o aumento atmosférico da substância afetará os organismos aquáticos em razão da</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "redução do potencial hidrogeniônico da água.",
+    "B": "restrição da aerobiose pelo excesso de poluentes.",
+    "C": "diminuição da emissão de oxigênio pelos autótrofos.",
+    "D": "limitação de transferência de energia entre os seres vivos.",
+    "E": "retração dos oceanos pelo congelamento do gás nos polos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O texto destaca que o CO<sub>2</sub> é facilmente solubilizado em água. Dissolvido, ele forma ácido carbônico (CO<sub>2</sub> + H<sub>2</sub>O ⇌ H<sub>2</sub>CO<sub>3</sub> ⇌ H<sup>+</sup> + HCO<sub>3</sub><sup>−</sup>), o que aumenta a concentração de H<sup>+</sup>: há <strong>redução do potencial hidrogeniônico (pH) da água</strong>, a acidificação dos oceanos. Alternativa <strong>A</strong>.</p><p>Mais CO<sub>2</sub> não reduz a fotossíntese (C), e o gás não congela nos polos (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "acidificação dos oceanos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Biologia",
+   "assunto": "Fisiologia animal",
+   "origem": {
+    "numeroOriginal": 104
+   },
+   "enunciado": "<p>Grupos de proteção ao meio ambiente conseguem resgatar muitas aves aquáticas vítimas de vazamentos de petróleo. Essas aves são lavadas com água e detergente neutro para a retirada completa do óleo de seu corpo e, posteriormente, são aquecidas, medicadas, desintoxicadas e alimentadas. Mesmo após esses cuidados, o retorno ao ambiente não pode ser imediato, pois elas precisam recuperar a capacidade de flutuação.</p><p>Para flutuar, essas aves precisam</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "recuperar o tônus muscular.",
+    "B": "restaurar a massa corporal.",
+    "C": "substituir as penas danificadas.",
+    "D": "restabelecer a capacidade de homeotermia.",
+    "E": "refazer a camada de cera impermeabilizante das penas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As aves aquáticas flutuam e se mantêm secas porque suas penas são cobertas por uma camada oleosa, produzida pela glândula uropigiana. A lavagem com detergente remove o petróleo, mas também essa camada. Antes de voltar à água, elas precisam <strong>refazer a camada de cera impermeabilizante das penas</strong>. Alternativa <strong>E</strong>.</p><p>As penas não precisam ser trocadas (C); a flutuação não depende de músculos ou de massa corporal (A e B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "glândula uropigiana",
+    "derramamento de petróleo"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Física",
+   "assunto": "Termodinâmica",
+   "origem": {
+    "numeroOriginal": 105
+   },
+   "enunciado": "<p>Os manuais de refrigerador apresentam a recomendação de que o equipamento não deve ser instalado próximo a fontes de calor, como fogão e aquecedores, ou em local onde incida diretamente a luz do sol. A instalação em local inadequado prejudica o funcionamento do refrigerador e aumenta o consumo de energia. O não atendimento dessa recomendação resulta em aumento do consumo de energia porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o fluxo de calor por condução no condensador sofre considerável redução.",
+    "B": "a temperatura da substância refrigerante no condensador diminui mais rapidamente.",
+    "C": "o fluxo de calor promove significativa elevação da temperatura no interior do refrigerador.",
+    "D": "a liquefação da substância refrigerante no condensador exige mais trabalho do compressor.",
+    "E": "as correntes de convecção nas proximidades do condensador ocorrem com maior dificuldade."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O refrigerador retira calor do interior e o libera no ambiente pelo condensador (a grade atrás), onde o gás refrigerante se liquefaz. Se o ambiente em volta estiver quente, o calor sai com mais dificuldade, e o compressor precisa trabalhar mais para liquefazer o refrigerante: <strong>a liquefação da substância refrigerante no condensador exige mais trabalho do compressor</strong>. Alternativa <strong>D</strong>.</p><p>O problema não é o calor entrar no refrigerador (C), mas a dificuldade de o condensador perder calor.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "refrigerador",
+    "máquina térmica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 106
+   },
+   "enunciado": "<p>Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou.</p>[[fig:1]]<p>Durante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão.</p>[[fig:2]]<p>Considere que a aceleração da gravidade seja igual a 10 m s<sup>−2</sup> e que a densidade da água seja de ρ = 1 000 kg m<sup>−3</sup>. Em minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q106.webp",
+     "alt": "Esquema de uma caverna submersa: a água com pressão atmosférica de 1,0 × 10⁵ Pa na superfície; dentro da rocha há um bolsão de ar; uma cota de 50 m vai da superfície até o nível da água no bolsão, e uma de 30 m mostra a altura até a rocha."
+    },
+    {
+     "src": "assets/img/enem-2020-natureza/q106b.webp",
+     "alt": "Gráfico do tempo de descompressão (min) em função da variação de pressão (kPa): cerca de 20 min entre 100 e 200 kPa, 40 min perto de 400 kPa, 60 min perto de 500 kPa, 80 min perto de 600 kPa e 100 min em 700 kPa."
+    }
+   ],
+   "alternativas": {
+    "A": "100",
+    "B": "80",
+    "C": "60",
+    "D": "40",
+    "E": "20"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O ar do bolsão está em contato com a água a 50 m de profundidade, então está à pressão dessa profundidade. A variação de pressão em relação à superfície é Δp = ρgh = 1 000 · 10 · 50 = 5 × 10<sup>5</sup> Pa = 500 kPa. No gráfico, 500 kPa corresponde a <strong>60 minutos</strong> de descompressão. Alternativa <strong>C</strong>.</p><p>Usar os 30 m (300 kPa) daria cerca de 40 min (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão hidrostática",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 107
+   },
+   "enunciado": "<p>A Torre Eiffel, com seus 324 metros de altura, feita com treliças de ferro, pesava 7 300 toneladas quando terminou de ser construída em 1889. Um arquiteto resolve construir um protótipo dessa torre em escala 1:100, usando os mesmos materiais (cada dimensão linear em escala de 1:100 do monumento real). Considere que a torre real tenha uma massa M<sub>torre</sub> e exerça na fundação sobre a qual foi erguida uma pressão P<sub>torre</sub>. O modelo construído pelo arquiteto terá uma massa M<sub>modelo</sub> e exercerá uma pressão P<sub>modelo</sub>.</p>[[fig:1]]<p>Como a pressão exercida pela torre se compara com a pressão exercida pelo protótipo? Ou seja, qual é a razão entre as pressões (P<sub>torre</sub>)/(P<sub>modelo</sub>)?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q107.webp",
+     "alt": "Desenho da Torre Eiffel, com sua estrutura de treliças de ferro."
+    }
+   ],
+   "alternativas": {
+    "A": "10<sup>0</sup>",
+    "B": "10<sup>1</sup>",
+    "C": "10<sup>2</sup>",
+    "D": "10<sup>4</sup>",
+    "E": "10<sup>6</sup>"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Com os mesmos materiais e escala 1:100 em cada dimensão, a massa cai com o volume: M<sub>modelo</sub> = M<sub>torre</sub>/100<sup>3</sup>. A área da base cai com o quadrado: A<sub>modelo</sub> = A<sub>torre</sub>/100<sup>2</sup>. Como p = Mg/A, P<sub>torre</sub>/P<sub>modelo</sub> = 100<sup>3</sup>/100<sup>2</sup> = 100 = <strong>10<sup>2</sup></strong>. Alternativa <strong>C</strong>.</p><p>10<sup>6</sup> (E) é só a razão entre as massas; 10<sup>4</sup> (D), entre as áreas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão",
+    "escala"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Biologia",
+   "assunto": "Fisiologia humana",
+   "origem": {
+    "numeroOriginal": 108
+   },
+   "enunciado": "<p class=\"apoio\">Na indústria farmacêutica, é muito comum o emprego de substâncias de revestimento em medicamentos de uso oral, pois trazem uma série de benefícios como alteração de sabor em medicamentos que tenham gosto ruim, melhoria da assimilação do composto, entre outras ações. Alguns compostos poliméricos à base do polissacarídeo celulose são utilizados para garantir que o fármaco somente seja liberado quando em contato com soluções aquosas cujo pH se encontre próximo da faixa da neutralidade.</p><p class=\"fonte\">BORTOLINI, K. et al. Análise de perfil de dissolução de cápsulas gastrorresistentes utilizando polímeros industriais com aplicação em farmácias magistrais. Revista da Unifebe, n. 12, 2013 (adaptado).</p><p>Qual é a finalidade do uso desse revestimento à base de celulose?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Diminuir a absorção do princípio ativo no intestino.",
+    "B": "Impedir que o fármaco seja solubilizado no intestino.",
+    "C": "Garantir que o fármaco não seja afetado pelas secreções gástricas.",
+    "D": "Permitir a liberação do princípio ativo pela ação das amilases salivares.",
+    "E": "Facilitar a liberação do fármaco pela ação dos sais biliares sobre o revestimento."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O estômago é muito ácido (pH perto de 2); o intestino tem pH próximo do neutro. Um revestimento que só libera o fármaco em pH neutro passa intacto pelo estômago e se dissolve no intestino. A finalidade é <strong>garantir que o fármaco não seja afetado pelas secreções gástricas</strong>. Alternativa <strong>C</strong>.</p><p>A liberação acontece justamente no intestino (contra A e B), e não depende da amilase salivar (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pH do sistema digestório",
+    "cápsulas gastrorresistentes"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 109
+   },
+   "enunciado": "<p>As panelas de pressão reduzem o tempo de cozimento dos alimentos por elevar a temperatura de ebulição da água. Os usuários conhecedores do utensílio normalmente abaixam a intensidade do fogo em panelas de pressão após estas iniciarem a saída dos vapores. Ao abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aumento da pressão interna e os riscos de explosão.",
+    "B": "dilatação da panela e a desconexão com sua tampa.",
+    "C": "perda da qualidade nutritiva do alimento.",
+    "D": "deformação da borracha de vedação.",
+    "E": "consumo de gás desnecessário."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Quando a válvula começa a soltar vapor, a pressão interna já atingiu o valor de trabalho e a temperatura de ebulição se estabiliza. Mais chama não aumenta a temperatura: só faz mais água evaporar e escapar. Reduzir o fogo evita o <strong>consumo de gás desnecessário</strong>. Alternativa <strong>E</strong>.</p><p>A válvula já controla a pressão (A); o cozimento depende da temperatura, que se mantém com fogo baixo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "panela de pressão",
+    "ebulição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Química",
+   "assunto": "Cinética química",
+   "origem": {
+    "numeroOriginal": 110
+   },
+   "enunciado": "<p>A nanotecnologia pode ser caracterizada quando os compostos estão na ordem de milionésimos de milímetros, como na utilização de nanomateriais catalíticos nos processos industriais. O uso desses materiais aumenta a eficiência da produção, consome menos energia e gera menores quantidades de resíduos. O sucesso dessa aplicação tecnológica muitas vezes está relacionado ao aumento da velocidade da reação química envolvida. O êxito da aplicação dessa tecnologia é por causa da realização de reações químicas que ocorrem em condições de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "alta pressão.",
+    "B": "alta temperatura.",
+    "C": "excesso de reagentes.",
+    "D": "maior superfície de contato.",
+    "E": "elevada energia de ativação."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Nanomateriais têm partículas minúsculas, e, para a mesma massa, quanto menores as partículas, maior a área exposta. Como as reações com catalisadores sólidos acontecem na superfície, mais área significa mais colisões efetivas e reação mais rápida: o êxito se deve à <strong>maior superfície de contato</strong>. Alternativa <strong>D</strong>.</p><p>O texto diz que se gasta menos energia (contra A e B); catalisadores diminuem, e não elevam, a energia de ativação (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "superfície de contato",
+    "nanotecnologia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 111
+   },
+   "enunciado": "<p class=\"apoio\">Os fones de ouvido tradicionais transmitem a música diretamente para os nossos ouvidos. Já os modelos dotados de tecnologia redutora de ruído — Cancelamento de Ruído (CR) — além de transmitirem música, também reduzem todo ruído inconsistente à nossa volta, como o barulho de turbinas de avião e aspiradores de pó. Os fones de ouvido CR não reduzem realmente barulhos irregulares como discursos e choros de bebês. Mesmo assim, a supressão do ronco das turbinas do avião contribui para reduzir a “fadiga de ruído”, um cansaço persistente provocado pela exposição a um barulho alto por horas a fio. Esses aparelhos também permitem que nós ouçamos músicas ou assistamos a vídeos no trem ou no avião a um volume muito menor (e mais seguro).</p><p class=\"fonte\">Disponível em: http://tecnologia.uol.com.br. Acesso em: 21 abr. 2015 (adaptado).</p><p>A tecnologia redutora de ruído CR utilizada na produção de fones de ouvido baseia-se em qual fenômeno ondulatório?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Absorção.",
+    "B": "Interferência.",
+    "C": "Polarização.",
+    "D": "Reflexão.",
+    "E": "Difração."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Os fones CR captam o ruído constante do ambiente e emitem uma onda sonora igual, mas em oposição de fase. As duas se somam e se anulam: é a <strong>interferência</strong> destrutiva. Por isso funcionam bem com ruídos regulares (turbinas) e mal com sons irregulares (vozes). Alternativa <strong>B</strong>.</p><p>Absorção (A) é o que fazem os fones comuns, com espuma; polarização (C) não ocorre com o som, que é onda longitudinal.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "interferência destrutiva",
+    "cancelamento de ruído"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 112
+   },
+   "enunciado": "<p>Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em presença de água, de acordo com a equação química:</p><p class=\"centro\">\\(\\underset{\\text{(azul)}}{\\mathrm{CoCl_2\\,(s)}} + \\mathrm{6\\,H_2O\\,(g)} \\rightleftharpoons \\underset{\\text{(rosa)}}{\\mathrm{CoCl_2 \\cdot 6\\,H_2O\\,(s)}}\\qquad \\Delta H &lt; 0\\)</p><p>Como você procederia para reutilizar, num curto intervalo de tempo, um cartão que já estivesse com a coloração rosa?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Resfriaria no congelador.",
+    "B": "Borrifaria com spray de água.",
+    "C": "Envolveria com papel alumínio.",
+    "D": "Aqueceria com secador de cabelos.",
+    "E": "Embrulharia em guardanapo de papel."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A hidratação do cloreto de cobalto é exotérmica (ΔH &lt; 0) e transforma o sal azul no hidratado rosa. Para voltar ao azul, é preciso deslocar o equilíbrio para a esquerda, no sentido endotérmico: fornecer calor e retirar água. A melhor opção é <strong>aquecer com secador de cabelos</strong>. Alternativa <strong>D</strong>.</p><p>Resfriar (A) e borrifar água (B) deslocariam o equilíbrio para a direita, mantendo o rosa.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio de Le Chatelier",
+    "cloreto de cobalto"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Física",
+   "assunto": "Cinemática",
+   "origem": {
+    "numeroOriginal": 113
+   },
+   "enunciado": "<p>Nos desenhos animados, com frequência se vê um personagem correndo na direção de um abismo, mas, ao invés de cair, ele continua andando no vazio e só quando percebe que não há nada sob seus pés é que ele para de andar e cai verticalmente. No entanto, para observar uma trajetória de queda num experimento real, pode-se lançar uma bolinha, com velocidade constante (V<sub>0</sub>), sobre a superfície de uma mesa e verificar o seu movimento de queda até o chão. Qual figura melhor representa a trajetória de queda da bolinha?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q113a.webp",
+     "alt": "Bolinha com velocidade V₀ sobre a mesa; a trajetória segue reta horizontal além da borda e depois desce em linha vertical até o solo."
+    },
+    {
+     "src": "assets/img/enem-2020-natureza/q113b.webp",
+     "alt": "Trajetória em linha reta inclinada, da borda da mesa até o solo."
+    },
+    {
+     "src": "assets/img/enem-2020-natureza/q113c.webp",
+     "alt": "Trajetória vertical, caindo logo ao lado da borda da mesa."
+    },
+    {
+     "src": "assets/img/enem-2020-natureza/q113d.webp",
+     "alt": "Trajetória em curva parabólica: começa horizontal na borda da mesa e vai se inclinando até o solo, longe da mesa."
+    },
+    {
+     "src": "assets/img/enem-2020-natureza/q113e.webp",
+     "alt": "Trajetória em curva que começa descendo junto à borda da mesa e vai se abrindo para longe, ficando quase horizontal perto do solo."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Ao deixar a mesa, a bolinha mantém a velocidade horizontal V<sub>0</sub> (não há força horizontal) e ganha velocidade vertical por causa da gravidade. A combinação de movimento uniforme na horizontal e acelerado na vertical dá uma trajetória <strong>parabólica</strong>, que começa horizontal e vai ficando cada vez mais inclinada. Alternativa <strong>D</strong>.</p><p>A (para e cai) e C (cai na vertical) são as ideias dos desenhos animados; B é uma reta, e E começa caindo para baixo logo na borda.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "lançamento horizontal"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 114
+   },
+   "enunciado": "<p>Dois engenheiros estão verificando se uma cavidade perfurada no solo está de acordo com o planejamento de uma obra, cuja profundidade requerida é de 30 m. O teste é feito por um dispositivo denominado oscilador de áudio de frequência variável, que permite relacionar a profundidade com os valores da frequência de duas ressonâncias consecutivas, assim como em um tubo sonoro fechado. A menor frequência de ressonância que o aparelho mediu foi 135 Hz. Considere que a velocidade do som dentro da cavidade perfurada é de 360 m s<sup>−1</sup>.</p><p>Se a profundidade estiver de acordo com o projeto, qual será o valor da próxima frequência de ressonância que será medida?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "137 Hz.",
+    "B": "138 Hz.",
+    "C": "141 Hz.",
+    "D": "144 Hz.",
+    "E": "159 Hz."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Num tubo fechado de comprimento L, as ressonâncias são harmônicos ímpares: f<sub>n</sub> = n · v/(4L). Com L = 30 m e v = 360 m/s, f<sub>1</sub> = 360/120 = 3 Hz, e as ressonâncias consecutivas diferem de 2f<sub>1</sub> = 6 Hz. Se 135 Hz (n = 45) é uma ressonância, a próxima é 135 + 6 = <strong>141 Hz</strong>. Alternativa <strong>C</strong>.</p><p>Somar só f<sub>1</sub> daria 138 Hz (B), mas os harmônicos pares não existem no tubo fechado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "tubo sonoro fechado",
+    "harmônicos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 115
+   },
+   "enunciado": "<p class=\"apoio\">Instituições acadêmicas e de pesquisa no mundo estão inserindo genes em genomas de plantas que possam codificar produtos de interesse farmacológico. No Brasil, está sendo desenvolvida uma variedade de soja com um viricida ou microbicida capaz de prevenir a contaminação pelo vírus causador da aids. Essa leguminosa está sendo induzida a produzir a enzima cianovirina-N, que tem eficiência comprovada contra o vírus.</p><p class=\"fonte\">OLIVEIRA, M. Remédio na planta. Pesquisa Fapesp, n. 206, abr. 2013.</p><p>A técnica para gerar essa leguminosa é um exemplo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "hibridismo.",
+    "B": "transgenia.",
+    "C": "conjugação.",
+    "D": "terapia gênica.",
+    "E": "melhoramento genético."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A soja recebeu um gene de outro organismo (a cianovirina-N vem de uma cianobactéria), que a faz produzir uma proteína que ela não tinha. Inserir no genoma um gene de outra espécie é a <strong>transgenia</strong>, e a planta é um organismo transgênico. Alternativa <strong>B</strong>.</p><p>O melhoramento genético (E) usa cruzamentos dentro da espécie; terapia gênica (D) é tratamento em pessoas.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "transgênicos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 116
+   },
+   "enunciado": "<p>Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 Ω para construir um divisor de tensão. Obtém-se este divisor associando os resistores, como exibido na figura. Os aparelhos podem ser ligados entre os pontos A, B, C, D e E, dependendo da tensão especificada.</p>[[fig:1]]<p>Ele tem um equipamento que opera em 9,0 V com uma resistência interna de 10 kΩ.</p><p>Entre quais pontos do divisor de tensão esse equipamento deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q116.webp",
+     "alt": "Divisor de tensão: uma fonte CC de 12 V alimenta quatro resistores de 100 Ω em série; há terminais A, B, C, D e E nas extremidades e entre cada par de resistores."
+    }
+   ],
+   "alternativas": {
+    "A": "Entre A e C; 30 mA.",
+    "B": "Entre B e E; 30 mA.",
+    "C": "Entre A e D; 1,2 mA.",
+    "D": "Entre B e E; 0,9 mA.",
+    "E": "Entre A e E; 0,9 mA."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os quatro resistores de 100 Ω dividem os 12 V em partes iguais: 3 V em cada um. Entre B e E há três resistores: <strong>9 V</strong>. O equipamento tem 10 kΩ, muito mais que 300 Ω, então quase não altera o divisor, e a corrente nele é i = 9/10 000 = <strong>0,9 mA</strong>. Alternativa <strong>D</strong>.</p><p>Entre A e E (E) haveria 12 V; 30 mA (A e B) seria a corrente nos resistores, não no equipamento.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "divisor de tensão",
+    "lei de Ohm"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 117
+   },
+   "enunciado": "<p class=\"apoio\">Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho nu) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de “grudar” apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma “microbomba”, que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetram no corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa.</p><p class=\"fonte\">Disponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012 (adaptado).</p><p>Com base nas etapas de desenvolvimento, o nome apropriado para a técnica descrita é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Radioterapia.",
+    "B": "Cromoterapia.",
+    "C": "Quimioterapia.",
+    "D": "Fotoimunoterapia.",
+    "E": "Terapia magnética."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A técnica combina anticorpos, que reconhecem apenas as células do tumor (imunoterapia), com uma molécula ativada por luz infravermelha (foto). O nome adequado é <strong>fotoimunoterapia</strong>. Alternativa <strong>D</strong>.</p><p>Não se usa radiação ionizante (A), cores visíveis (B), quimioterápico (C) nem campo magnético (E).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anticorpos",
+    "câncer"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Biologia",
+   "assunto": "Zoologia",
+   "origem": {
+    "numeroOriginal": 118
+   },
+   "enunciado": "<p>Aranhas, escorpiões, carrapatos e ácaros são representantes da classe dos <em>Aracnídeos</em>. Esses animais são terrestres em sua grande maioria e ocupam os mais variados hábitats, tais como montanhas altas, pântanos, desertos e solos arenosos. Podem ter sido os primeiros representantes do filo <em>Arthropoda</em> a habitar a terra seca.</p><p>A característica que justifica o sucesso adaptativo desse grupo na ocupação do ambiente terrestre é a presença de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "quelíceras e pedipalpos que coordenam o movimento corporal.",
+    "B": "excreção de ácido úrico que confere estabilidade ao pH corporal.",
+    "C": "exoesqueleto constituído de quitina que auxilia no controle hídrico corporal.",
+    "D": "circulação sanguínea aberta que impede a desidratação dos tecidos corporais.",
+    "E": "sistema nervoso ganglionar que promove a coordenação central do movimento corporal."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O maior desafio da vida fora da água é não perder água. O exoesqueleto de quitina dos artrópodes, coberto de cera, é pouco permeável e reduz a desidratação. O sucesso dos aracnídeos em terra se deve ao <strong>exoesqueleto constituído de quitina que auxilia no controle hídrico corporal</strong>. Alternativa <strong>C</strong>.</p><p>A circulação aberta (D) não impede desidratação, e o ácido úrico economiza água, mas não por estabilizar o pH (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "artrópodes",
+    "exoesqueleto"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 119
+   },
+   "enunciado": "<p>Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas, como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico:</p>[[fig:1]]<p class=\"fonte\">Valores limites permitidos para águas doces destinadas ao abastecimento para o consumo humano após tratamento convencional, segundo Resolução Conama n. 357/2005: OD ≥ 5 mg L<sup>−1</sup> e DBO ≤ 5 mg L<sup>−1</sup>.</p><p>O OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d’água e sua concentração é função das variáveis físicas, químicas e bioquímicas locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica.</p><p class=\"fonte\">Disponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado).</p><p>Qual ponto de amostragem da água do rio está mais próximo ao local em que o rio recebe despejo de esgoto?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q119.webp",
+     "alt": "Gráfico de OD (asterisco) e DBO (cruz), em mg/L, nos pontos de amostragem 1 a 5: ponto 1, DBO cerca de 12,5 e OD cerca de 4; ponto 2, DBO cerca de 6,5 e OD cerca de 2,5; ponto 3, DBO cerca de 1,5 e OD cerca de 1; ponto 4, DBO cerca de 4,5 e OD cerca de 3,5; ponto 5, DBO cerca de 4 e OD cerca de 6."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O esgoto traz muita matéria orgânica, e os microrganismos que a decompõem consomem oxigênio. Perto do despejo, a DBO é máxima e o oxigênio dissolvido baixo. No gráfico, o ponto 1 tem a maior DBO (cerca de 12,5 mg/L) e OD baixo (cerca de 4 mg/L). Alternativa <strong>A</strong>.</p><p>O ponto 3 tem o menor OD, mas DBO baixa, típico de trecho de decomposição já avançada, depois do despejo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "DBO",
+    "poluição orgânica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 120
+   },
+   "enunciado": "<p>O crescimento da frota de veículos em circulação no mundo tem levado à busca e desenvolvimento de tecnologias que permitam minimizar emissões de poluentes atmosféricos. O uso de veículos elétricos é uma das propostas mais propagandeadas por serem de emissão zero. Podemos comparar a emissão de carbono na forma de CO<sub>2</sub> (massa molar igual a 44 g mol<sup>−1</sup>) para os dois tipos de carros (a combustão e elétrico). Considere que os veículos tradicionais a combustão, movidos a etanol (massa molar igual a 46 g mol<sup>−1</sup>), emitem uma média de 2,6 mol de CO<sub>2</sub> por quilômetro rodado, e os elétricos emitem o equivalente a 0,45 mol de CO<sub>2</sub> por quilômetro rodado (considerando as emissões na geração e transmissão da eletricidade). A reação de combustão do etanol pode ser representada pela equação química:</p><p class=\"centro\">C<sub>2</sub>H<sub>5</sub>OH (l) + 3 O<sub>2</sub> (g) → 2 CO<sub>2</sub> (g) + 3 H<sub>2</sub>O (g)</p><p>Foram analisadas as emissões de CO<sub>2</sub> envolvidas em dois veículos, um movido a etanol e outro elétrico, em um mesmo trajeto de 1 000 km.</p><p class=\"fonte\">CHIARADIA, C. A. Estudo da viabilidade da implantação de frotas de veículos elétricos e híbridos elétricos no atual cenário econômico, político, energético e ambiental brasileiro. Guaratinguetá: Unesp, 2015 (adaptado).</p><p>A quantidade equivalente de etanol economizada, em quilograma, com o uso do veículo elétrico nesse trajeto, é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "50.",
+    "B": "60.",
+    "C": "95.",
+    "D": "99.",
+    "E": "120."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Diferença de emissão: 2,6 − 0,45 = 2,15 mol de CO<sub>2</sub> por km; em 1 000 km, 2 150 mol de CO<sub>2</sub> a menos. Pela equação, 1 mol de etanol gera 2 mol de CO<sub>2</sub>: equivale a 1 075 mol de etanol, ou 1 075 · 46 ≈ 49 450 g ≈ <strong>50 kg</strong>. Alternativa <strong>A</strong>.</p><p>120 kg (E) seria o etanol total do carro a combustão (2,6 · 1 000/2 · 46), sem descontar o elétrico.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estequiometria",
+    "carro elétrico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Biologia",
+   "assunto": "Fotossíntese",
+   "origem": {
+    "numeroOriginal": 121
+   },
+   "enunciado": "<p>Em uma aula sobre metabolismo energético, foi apresentado um experimento clássico realizado por Engelmann. Um recipiente contendo bactérias aeróbias e uma alga verde filamentosa foi submetido à iluminação de uma fonte de luz, representada pelo microespectro. Após a explicação, um aluno esquematizou na lousa o resultado do referido experimento.</p>[[fig:1]]<p>Considerando a figura, a faixa do microespectro em que a alga possui maior taxa de realização fotossintética é a do:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q121.webp",
+     "alt": "Esquema do experimento de Engelmann: um filamento de alga verde iluminado por um microespectro (vermelho, amarelo, verde, azul, anil e violeta); muitas bactérias aeróbias se acumulam sobre a faixa do vermelho, algumas sobre o azul e o violeta, e quase nenhuma sobre o verde e o amarelo."
+    }
+   ],
+   "alternativas": {
+    "A": "Anil.",
+    "B": "Verde.",
+    "C": "Violeta.",
+    "D": "Amarelo.",
+    "E": "Vermelho."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>As bactérias aeróbias se concentram onde há mais oxigênio, isto é, onde a alga faz mais fotossíntese. No esquema, o maior acúmulo de bactérias fica na faixa do <strong>vermelho</strong> (há outro acúmulo menor no azul-violeta), regiões que a clorofila absorve melhor. Alternativa <strong>E</strong>.</p><p>No verde (B) quase não há bactérias: a clorofila reflete essa luz.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Engelmann",
+    "espectro de absorção"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Biologia",
+   "assunto": "Parasitologia",
+   "origem": {
+    "numeroOriginal": 122
+   },
+   "enunciado": "<p>O exame parasitológico de fezes é utilizado para detectar ovos de parasitos. Um dos métodos utilizados, denominado de centrífugo-flutuação, considera a densidade dos ovos em relação a uma solução de densidade 1,15 g mL<sup>−1</sup>. Assim, ovos que flutuam na superfície dessa solução são detectados. Os dados de densidade dos ovos de alguns parasitos estão apresentados na tabela.</p><table class=\"tabela\"><thead><tr><th>Parasito</th><th>Densidade (g mL<sup>−1</sup>)</th></tr></thead><tbody><tr><td><em>Ancylostoma</em></td><td>1,06</td></tr><tr><td><em>Ascaris lumbricoides</em></td><td>1,11</td></tr><tr><td><em>Ascaris suum</em></td><td>1,13</td></tr><tr><td><em>Schistosoma mansoni</em></td><td>1,18</td></tr><tr><td><em>Taenia saginata</em></td><td>1,30</td></tr></tbody></table><p class=\"fonte\">ZERBINI, A. M. Identificação e análise de viabilidade de ovos de helmintos em um sistema de tratamento de esgotos domésticos constituídos de reatores anaeróbios e rampas de escoamento superficial. Belo Horizonte: Prosab, 2001 (adaptado).</p><p>Considerando-se a densidade dos ovos e da solução, ovos de quais parasitos podem ser detectados por esse método?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "<em>A. lumbricoides</em>, <em>A. suum</em> e <em>S. mansoni</em>.",
+    "B": "<em>S. mansoni</em>, <em>T. saginata</em> e <em>Ancylostoma</em>.",
+    "C": "<em>Ancylostoma</em>, <em>A. lumbricoides</em> e <em>A. suum</em>.",
+    "D": "<em>T. saginata</em>, <em>S. mansoni</em> e <em>A. lumbricoides</em>.",
+    "E": "<em>A. lumbricoides</em>, <em>A. suum</em> e <em>T. saginata</em>."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Só flutuam os ovos menos densos que a solução (1,15 g/mL): <em>Ancylostoma</em> (1,06), <em>A. lumbricoides</em> (1,11) e <em>A. suum</em> (1,13). Os de <em>S. mansoni</em> (1,18) e <em>T. saginata</em> (1,30) afundam. Alternativa <strong>C</strong>.</p><p>As alternativas com <em>S. mansoni</em> ou <em>T. saginata</em> (A, B, D e E) incluem ovos mais densos que a solução.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "densidade",
+    "exame de fezes"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 123
+   },
+   "enunciado": "<p>Em seu laboratório, um técnico em química foi incumbido de tratar um resíduo, evitando seu descarte direto no meio ambiente. Ao encontrar o frasco, observou a seguinte informação: “Resíduo: mistura de acetato de etila e água”.</p><p>Considere os dados do acetato de etila:</p><ul><li>Baixa solubilidade em água;</li><li>Massa específica = 0,9 g cm<sup>−3</sup>;</li><li>Temperatura de fusão = −83 °C;</li><li>Pressão de vapor maior que a da água.</li></ul><p>A fim de tratar o resíduo, recuperando o acetato de etila, o técnico deve</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "evaporar o acetato de etila sem alterar o conteúdo de água.",
+    "B": "filtrar a mistura utilizando um funil comum e um papel de filtro.",
+    "C": "realizar uma destilação simples para separar a água do acetato de etila.",
+    "D": "proceder a uma centrifugação da mistura para remover o acetato de etila.",
+    "E": "decantar a mistura separando os dois componentes em um funil adequado."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O acetato de etila tem baixa solubilidade em água e densidade diferente (0,9 g/cm<sup>3</sup>): forma com ela uma mistura heterogênea de dois líquidos, com o acetato por cima. A separação mais simples é <strong>decantar a mistura separando os dois componentes em um funil adequado</strong> (funil de separação). Alternativa <strong>E</strong>.</p><p>Filtração (B) separa sólidos de líquidos; evaporar (A) perderia o acetato que se quer recuperar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "funil de separação",
+    "mistura heterogênea"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 124
+   },
+   "enunciado": "<p>Em 2011, uma falha no processo de perfuração realizado por uma empresa petrolífera ocasionou derramamento de petróleo na bacia hidrográfica de Campos, no Rio de Janeiro. Os impactos decorrentes desse derramamento ocorrem porque os componentes do petróleo</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "reagem com a água do mar e sofrem degradação, gerando compostos com elevada toxicidade.",
+    "B": "acidificam o meio, promovendo o desgaste das conchas calcárias de moluscos e a morte de corais.",
+    "C": "dissolvem-se na água, causando a mortandade dos seres marinhos por ingestão da água contaminada.",
+    "D": "têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera.",
+    "E": "têm cadeia pequena e elevada volatilidade, contaminando a atmosfera local e regional em função dos ventos nas orlas marítimas."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O petróleo é formado por hidrocarbonetos, apolares (hidrofóbicos) e menos densos que a água. Ele não se mistura com ela e forma uma camada na superfície, que bloqueia a luz e as trocas de gases entre o mar e a atmosfera: os componentes <strong>têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas</strong>. Alternativa <strong>D</strong>.</p><p>O petróleo não se dissolve na água (C) nem a acidifica (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "derramamento de petróleo",
+    "densidade"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 125
+   },
+   "enunciado": "<p>Uma população encontra-se em equilíbrio genético quanto ao sistema ABO, em que 25% dos indivíduos pertencem ao grupo O e 16%, ao grupo A homozigotos. Considerando que: p = frequência de I<sup>A</sup>; q = frequência de I<sup>B</sup>; e r = frequência de i, espera-se encontrar:</p><table class=\"tabela\"><thead><tr><th>Grupo</th><th>Genótipos</th><th>Frequências</th></tr></thead><tbody><tr><td>A</td><td>I<sup>A</sup>I<sup>A</sup> e I<sup>A</sup>i</td><td>p<sup>2</sup> + 2pr</td></tr><tr><td>B</td><td>I<sup>B</sup>I<sup>B</sup> e I<sup>B</sup>i</td><td>q<sup>2</sup> + 2qr</td></tr><tr><td>AB</td><td>I<sup>A</sup>I<sup>B</sup></td><td>2pq</td></tr><tr><td>O</td><td>ii</td><td>r<sup>2</sup></td></tr></tbody></table><p>A porcentagem de doadores compatíveis para alguém do grupo B nessa população deve ser de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "11%.",
+    "B": "19%.",
+    "C": "26%.",
+    "D": "36%.",
+    "E": "60%."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Grupo O: r<sup>2</sup> = 0,25, r = 0,5. A homozigotos: p<sup>2</sup> = 0,16, p = 0,4. Como p + q + r = 1, q = 0,1. Quem é do grupo B pode receber de B e de O: q<sup>2</sup> + 2qr + r<sup>2</sup> = 0,01 + 0,10 + 0,25 = 0,36 = <strong>36%</strong>. Alternativa <strong>D</strong>.</p><p>11% (A) são só os doadores do grupo B; 26% (C) esquece os heterozigotos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Hardy-Weinberg",
+    "sistema ABO"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Química",
+   "assunto": "Radioatividade",
+   "origem": {
+    "numeroOriginal": 126
+   },
+   "enunciado": "<p>Embora a energia nuclear possa ser utilizada para fins pacíficos, recentes conflitos geopolíticos têm trazido preocupações em várias partes do planeta e estimulado discussões visando o combate ao uso de armas de destruição em massa. Além do potencial destrutivo da bomba atômica, uma grande preocupação associada ao emprego desse artefato bélico é a poeira radioativa deixada após a bomba ser detonada. Qual é o processo envolvido na detonação dessa bomba?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Fissão nuclear do urânio, provocada por nêutrons.",
+    "B": "Fusão nuclear do hidrogênio, provocada por prótons.",
+    "C": "Desintegração nuclear do plutônio, provocada por elétrons.",
+    "D": "Associação em cadeia de chumbo, provocada por pósitrons.",
+    "E": "Decaimento radioativo do carbono, provocado por partículas beta."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A bomba atômica funciona pela <strong>fissão nuclear do urânio, provocada por nêutrons</strong>: o núcleo de urânio-235 absorve um nêutron, se divide em núcleos menores e libera mais nêutrons e muita energia, numa reação em cadeia. Os fragmentos radioativos formam a poeira radioativa. Alternativa <strong>A</strong>.</p><p>A fusão de hidrogênio (B) é a da bomba de hidrogênio, não a atômica; elétrons e pósitrons não provocam essas reações (C e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fissão nuclear",
+    "bomba atômica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 127
+   },
+   "enunciado": "<p>Plantas pioneiras são as que iniciam o processo natural de cicatrização de uma área desprovida de vegetação. Em geral, têm pequeno porte e crescem muito rápido, desenvolvem-se a pleno sol e são pouco exigentes quanto às condições do solo. Produzem grande quantidade de sementes e possuem ciclo de vida curto.</p><p class=\"fonte\">BLUM, C. T. Lista preliminar de espécies vegetais pioneiras nativas do Paraná – versão 2008. Disponível em: www.chaua.org.br. Acesso em: 10 fev. 2015.</p><p>Essas plantas são importantes em um projeto de restauração ambiental, pois promovem, no solo,</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aumento da incidência de luz solar.",
+    "B": "diminuição da absorção de água.",
+    "C": "estabilização da umidade.",
+    "D": "elevação de temperatura.",
+    "E": "liberação de oxigênio."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>As plantas pioneiras cobrem rápido o solo exposto, fazem sombra, retêm água, diminuem a evaporação e acrescentam matéria orgânica. Assim criam condições para as espécies seguintes da sucessão. No solo, elas promovem a <strong>estabilização da umidade</strong>. Alternativa <strong>C</strong>.</p><p>A cobertura vegetal diminui a luz que chega ao solo e a temperatura dele (A e D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sucessão ecológica",
+    "plantas pioneiras"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Calorimetria",
+   "origem": {
+    "numeroOriginal": 128
+   },
+   "enunciado": "<p>Mesmo para peixes de aquário, como o peixe arco-íris, a temperatura da água fora da faixa ideal (26 °C a 28 °C), bem como sua variação brusca, pode afetar a saúde do animal. Para manter a temperatura da água dentro do aquário na média desejada, utilizam-se dispositivos de aquecimento com termostato. Por exemplo, para um aquário de 50 L, pode-se utilizar um sistema de aquecimento de 50 W otimizado para suprir sua taxa de resfriamento. Essa taxa pode ser considerada praticamente constante, já que a temperatura externa ao aquário é mantida pelas estufas. Utilize para a água o calor específico 4,0 kJ kg<sup>−1</sup> K<sup>−1</sup> e a densidade 1 kg L<sup>−1</sup>.</p><p>Se o sistema de aquecimento for desligado por 1 h, qual o valor mais próximo para a redução da temperatura da água do aquário?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "4,0 °C",
+    "B": "3,6 °C",
+    "C": "0,9 °C",
+    "D": "0,6 °C",
+    "E": "0,3 °C"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O aquecedor de 50 W compensa exatamente a perda de calor. Desligado por 1 h, a água perde Q = 50 · 3 600 = 180 000 J. Com 50 L = 50 kg e c = 4 000 J/(kg K): ΔT = Q/(mc) = 180 000/(50 · 4 000) = <strong>0,9 °C</strong>. Alternativa <strong>C</strong>.</p><p>3,6 °C (B) usaria 1 kg/L com 12,5 L; 0,3 °C e 0,6 °C (E e D) vêm de erro nas unidades de tempo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "potência",
+    "calor específico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 129
+   },
+   "enunciado": "<p>Em uma pesquisa estão sendo testados cinco quimioterápicos quanto à sua capacidade antitumoral. No entanto, para o tratamento de pacientes, sabe-se que é necessário verificar também o quanto cada composto agride células normais. Para o experimento, partiu-se de cultivos de células tumorais (colunas escuras na figura) e células normais (colunas claras) com o mesmo número de células iniciais. Dois grupos-controle não receberam quimioterápicos: controle de células tumorais (CT) e de células normais (CN). As colunas I, II, III, IV e V correspondem aos grupos tratados com os cinco compostos. O número de células viáveis após os tratamentos está representado pelas colunas.</p>[[fig:1]]<p>Qual quimioterápico deve ser escolhido para tratamento desse tipo de tumor?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q129.webp",
+     "alt": "Gráfico de barras do número de células (milhão): tumorais (barras escuras) CT 36, I 30, II 15, III 10, IV 50, V 36; normais (barras claras) CN 21, I 21, II 28, III 8, IV 35, V 21."
+    }
+   ],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O melhor quimioterápico deve reduzir muito as células tumorais e poupar as normais. O II reduz as tumorais de cerca de 36 milhões (CT) para 15 milhões e mantém as normais em cerca de 28 milhões, acima até do controle (21). Alternativa <strong>B</strong>.</p><p>O III reduz mais o tumor, mas mata muitas células normais (cerca de 8 milhões); o IV aumenta o tumor.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "quimioterapia",
+    "leitura de gráfico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Física",
+   "assunto": "Ondas eletromagnéticas",
+   "origem": {
+    "numeroOriginal": 130
+   },
+   "enunciado": "<p>Herschel, em 1880, começou a escrever sobre a condensação da luz solar no foco de uma lente e queria verificar de que maneira os raios coloridos contribuem para o aquecimento. Para isso, ele projetou sobre um anteparo o espectro solar obtido com um prisma, colocou termômetros nas diversas faixas de cores e verificou nos dados obtidos que um dos termômetros iluminados indicou um aumento de temperatura maior para uma determinada faixa de frequências.</p><p class=\"fonte\">SAYURI, M.; GASPAR, M. B. Infravermelho na sala de aula. Disponível em: www.cienciamao.usp.br. Acesso em: 15 ago. 2016 (adaptado).</p><p>Para verificar a hipótese de Herschel, um estudante montou o dispositivo apresentado na figura. Nesse aparato, cinco recipientes contendo água, à mesma temperatura inicial, e separados por um material isolante térmico e refletor são posicionados lado a lado (A, B, C, D e E) no interior de uma caixa de material isolante térmico e opaco. A luz solar, ao entrar na caixa, atravessa o prisma e incide sobre os recipientes. O estudante aguarda até que ocorra o aumento da temperatura e a afere em cada recipiente.</p>[[fig:1]]<p>Em qual dos recipientes a água terá maior temperatura ao final do experimento?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q130.webp",
+     "alt": "Caixa isolada e opaca: a luz solar entra, atravessa um prisma e se decompõe; o vermelho incide do lado esquerdo e o violeta do lado direito sobre cinco recipientes, A, B, C, D e E; o espectro visível cobre os recipientes do meio, e o A fica além do vermelho."
+    }
+   ],
+   "alternativas": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "D",
+    "E": "E"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Herschel descobriu que a temperatura subia mais além do vermelho, numa região sem luz visível: a radiação infravermelha. No aparato, o prisma desvia menos o vermelho e mais o violeta; o recipiente além do vermelho, que recebe o infravermelho, é o <strong>A</strong>. Alternativa <strong>A</strong>.</p><p>O recipiente E, do lado do violeta, recebe menos energia térmica.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "infravermelho",
+    "dispersão da luz"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Química",
+   "assunto": "Química verde",
+   "origem": {
+    "numeroOriginal": 131
+   },
+   "enunciado": "<p>A Química Verde é um ramo da química que prega o desenvolvimento de processos eficientes, que transformem a maior parte do reagente em produto, de forma mais rápida e seletiva, que utilizem poucos reagentes, que produzam somente o produto desejado, evitando a formação de coprodutos, e que utilizem solventes não agressivos ao meio ambiente. Assim, as indústrias contornariam problemas relacionados à poluição ambiental e ao desperdício de água e energia.</p><p>O perfil de um processo que segue todos os princípios desse ramo da química pode ser representado por:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A + B + C → D (a reação ocorre a altas pressões).",
+    "B": "A + B → C + D (a reação é fortemente endotérmica).",
+    "C": "A + 3B → C (a reação ocorre com uso de solvente orgânico).",
+    "D": "3A + 2B → 2C → 3D + 2E (a reação ocorrre sob pressão atmosférica).",
+    "E": "A + \\(\\frac{1}{2}\\)B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico)."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A Química Verde quer processos rápidos e seletivos, com poucos reagentes, só o produto desejado e sem solventes agressivos. A reação E tem poucos reagentes, um único produto (sem coprodutos) e usa um catalisador de metal não tóxico, que acelera e torna a reação seletiva: <strong>A + ½B → C</strong>. Alternativa <strong>E</strong>.</p><p>B e D formam coprodutos; C usa solvente orgânico; A exige altas pressões, com gasto de energia.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "química verde",
+    "catalisador"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 132
+   },
+   "enunciado": "<p class=\"apoio\">Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os resíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e enxofre.</p><p class=\"fonte\">BRUNNING, A. The Chemistry of Firework Pollution. Disponível em: www.compoundchem.com. Acesso em: 1 dez. 2017 (adaptado).</p><p>Esses espetáculos promovem riscos ambientais, porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "as substâncias resultantes da queima de fogos de artifício são inflamáveis.",
+    "B": "os resíduos produzidos na queima de fogos de artifício ainda são explosivos.",
+    "C": "o sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima.",
+    "D": "os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.",
+    "E": "o material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Entre os resíduos dos fogos estão compostos de chumbo, cromo, bário e antimônio (metais pesados, tóxicos) e gases como NO<sub>2</sub> e SO<sub>2</sub>. O risco ambiental vem de <strong>os produtos da queima conterem metais pesados e gases tóxicos que resultam em poluição atmosférica</strong>. Alternativa <strong>D</strong>.</p><p>Sódio e potássio (C) dão cor, mas não são os mais tóxicos; os resíduos já queimados não são inflamáveis nem explosivos (A e B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "fogos de artifício",
+    "poluição atmosférica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Física",
+   "assunto": "Eletrostática",
+   "origem": {
+    "numeroOriginal": 133
+   },
+   "enunciado": "<p class=\"apoio\">Há muitos mitos em relação a como se proteger de raios, cobrir espelhos e não pegar em facas, garfos e outros objetos metálicos, por exemplo. Mas, de fato, se houver uma tempestade com raios, alguns cuidados são importantes, como evitar ambientes abertos. Um bom abrigo para proteção é o interior de um automóvel, desde que este não seja conversível.</p><p class=\"fonte\">OLIVEIRA, A. Raios nas tempestades de verão. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 10 dez. 2014 (adaptado).</p><p>Qual o motivo físico da proteção fornecida pelos automóveis, conforme citado no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Isolamento elétrico dos pneus.",
+    "B": "Efeito de para-raios da antena.",
+    "C": "Blindagem pela carcaça metálica.",
+    "D": "Escoamento da água pela lataria.",
+    "E": "Aterramento pelo fio terra da bateria."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A carroceria metálica do carro funciona como uma gaiola de Faraday: se o raio a atingir, as cargas se distribuem pela superfície externa do metal e o campo elétrico no interior fica nulo. A proteção vem da <strong>blindagem pela carcaça metálica</strong>. Alternativa <strong>C</strong>.</p><p>Os pneus não isolam uma descarga de milhões de volts (A); por isso o conversível, sem teto metálico, não protege.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "gaiola de Faraday",
+    "blindagem eletrostática"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Química",
+   "assunto": "Densidade",
+   "origem": {
+    "numeroOriginal": 134
+   },
+   "enunciado": "<p>As moedas despertam o interesse de colecionadores, numismatas e investidores há bastante tempo. Uma moeda de 100% cobre, circulante no período do Brasil Colônia, pode ser bastante valiosa. O elevado valor gera a necessidade de realização de testes que validem a procedência da moeda, bem como a veracidade de sua composição. Sabendo que a densidade do cobre metálico é próxima de 9 g cm<sup>−3</sup>, um investidor negocia a aquisição de um lote de quatro moedas A, B, C e D fabricadas supostamente de 100% cobre e massas 26 g, 27 g, 10 g e 36 g, respectivamente. Com o objetivo de testar a densidade das moedas, foi realizado um procedimento em que elas foram sequencialmente inseridas em uma proveta contendo 5 mL de água, conforme esquematizado.</p>[[fig:1]]<p>Com base nos dados obtidos, o investidor adquiriu as moedas</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2020-natureza/q134.webp",
+     "alt": "Cinco provetas com água: a primeira com 5 mL; a segunda com a moeda A e 7 mL; a terceira com A e B e 10 mL; a quarta com A, B e C e 12 mL; a quinta com A, B, C e D e 16 mL."
+    }
+   ],
+   "alternativas": {
+    "A": "A e B.",
+    "B": "A e C.",
+    "C": "B e C.",
+    "D": "B e D.",
+    "E": "C e D."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Pelo esquema, a água sobe de 5 para 7 mL com A (2 mL), para 10 com B (3 mL), para 12 com C (2 mL) e para 16 com D (4 mL). Densidades: A = 26/2 = 13; B = 27/3 = 9; C = 10/2 = 5; D = 36/4 = 9 g/cm<sup>3</sup>. Só <strong>B e D</strong> têm a densidade do cobre. Alternativa <strong>D</strong>.</p><p>Medir o volume de cada moeda pelo nível total, sem subtrair o anterior, levaria a escolher outras.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "densidade",
+    "deslocamento de volume"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 135
+   },
+   "enunciado": "<p>Os diferentes tipos de café que consumimos nem sempre vêm da mesma espécie de planta. As duas espécies de café mais utilizadas são <em>Coffea canephora</em> e <em>Coffea arabica</em>. A primeira é diploide (2n = 22) e a segunda é tetraploide (2n = 44). Acredita-se que a espécie tetraploide surgiu de um cruzamento natural entre <em>C. canephora</em> e <em>C. eugenioides</em>, ambas diploides, há milhões de anos. De fato, as análises genéticas atuais nos cromossomos de <em>C. arabica</em> detectam os alelos de ambas as origens.</p><p>A alteração cromossômica que poderia explicar o surgimento do café da espécie <em>C. arabica</em> é:</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Duplicação em uma das plantas parentais antes do cruzamento.",
+    "B": "Inversão durante a meiose gamética em ambas as plantas parentais.",
+    "C": "Separação desigual na meiose gamética de uma das plantas parentais.",
+    "D": "Falha na separação durante a meiose gamética em ambas as plantas parentais.",
+    "E": "Deleções durante as primeiras mitoses zigóticas na planta descendente <em>C. arabica</em>."
+   },
+   "gabarito": "ANULADA",
+   "explicacao": "<p>Pela análise do Treineiros: para dois parentais diploides (2n = 22) gerarem um descendente com 44 cromossomos, cada um deveria contribuir com um gameta não reduzido (2n), o que exige erro nos dois. A explicação mais próxima é a D, mas ela fala em “meiose gamética”, e nas plantas a meiose é espórica; a A daria um triploide. Por isso nenhuma alternativa está plenamente correta. A mais próxima seria a D. Alternativa <strong>D</strong>, se a questão não tivesse sido anulada.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "poliploidia",
+    "alopoliploidia"
+   ],
+   "area": "Ciências da Natureza",
+   "anulacao": {
+    "fonte": "analise",
+    "motivo": "O Inep anulou a questão sem divulgar o motivo. Pela análise, nenhuma alternativa descreve corretamente a origem do café arábica: a que aponta erro nos dois parentais (D) fala em “meiose gamética”, que não ocorre em plantas (a meiose é espórica), e a duplicação em um só parental (A) geraria um triploide."
+   }
+  }
+ ]
+}

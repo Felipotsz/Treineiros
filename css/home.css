@@ -1,0 +1,169 @@
+/* Página inicial: faixas de largura total, cada uma com o conteúdo centralizado.
+   Ordem: abertura (folha de respostas), Capítulo 1 (cadernos), Capítulo 2 (correção), Capítulo 3 (passos),
+   apoio com Pix e próximas provas. */
+main.home{max-width:none;padding:0}
+.h-sec{padding:4.5rem 0}
+@media (min-width:48rem){.h-sec{padding:5rem 0}}
+.h-in{max-width:75rem;margin:0 auto;padding:0 var(--s3)}
+@media (min-width:48rem){.h-in{padding:0 var(--s4)}}
+.h-sec--clara{background:var(--surface);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.h-sec--banda{background:var(--banda);color:var(--sobre-banda)}
+.h-sec--banda h2{color:#F1F2F2}
+.h-sec--banda p{color:var(--banda-mudo)}
+.h-sec--banda :focus-visible{outline-color:var(--banda-ouro)}
+.home h2{font-size:clamp(2rem,5vw,2.75rem);font-weight:800;line-height:1.1;text-wrap:wrap}
+.home h2 em,.home h1 em{font-weight:400;color:var(--caneta)}
+.h-sec--banda h2 em{color:var(--banda-destaque)}
+.h-cabeca{max-width:40rem;margin:0 auto 3rem;text-align:center}
+.h-cabeca p{max-width:none;margin-left:auto;margin-right:auto;font-size:1.125rem;line-height:1.6;color:var(--text-muted)}
+.sobretitulo,.capitulo{margin:0 0 var(--s2);font:700 .8125rem/1.4 var(--font-ui);letter-spacing:.16em;text-transform:uppercase;color:var(--ouro)}
+.h-cabeca .capitulo{margin-bottom:var(--s2);font-size:.8125rem;line-height:1.4;color:var(--ouro)}
+.h-sec--banda .capitulo,.h-sec--banda .sobretitulo{color:var(--banda-ouro)}
+.mao{font-family:var(--font-hand);font-weight:400;color:var(--caneta)}
+
+/* ---------- Abertura ---------- */
+.abertura{padding-top:3.5rem}
+@media (min-width:48rem){.abertura{padding-top:4.5rem}}
+.abertura__in{display:flex;flex-wrap:wrap;align-items:center;gap:3.5rem}
+.abertura__texto{flex:999 1 30rem;min-width:0}
+.abertura h1{margin:0 0 1.4rem;font-size:clamp(2.6rem,7.5vw,4rem);font-weight:800;line-height:1.04;letter-spacing:-.02em;text-wrap:wrap}
+.abertura__lead{max-width:34rem;margin-bottom:var(--s4);font-size:var(--fs-3);line-height:1.6;color:var(--text-muted)}
+.abertura .botoes{gap:.75rem;margin-bottom:var(--s4)}
+.fatos{display:flex;flex-wrap:wrap;gap:.6rem 1.75rem;margin:0;padding:0;list-style:none;font:var(--fs-1) var(--font-ui);color:var(--text-muted)}
+.fatos li{display:inline-flex;align-items:center;gap:.5rem}
+.fatos li::before{content:"";width:.6rem;height:.6rem;border-radius:50%;background:var(--caneta)}
+.abertura__status{margin:var(--s3) 0 0;font:600 var(--fs-2) var(--font-ui);color:var(--caneta)}
+.abertura__status:empty{display:none}
+
+/* A folha de respostas (decorativa) */
+.folha-resp{flex:1 1 min(23.75rem,100%);max-width:26.25rem;margin:0 auto;padding:1.6rem 1.75rem 1.4rem;background:var(--folha);border-radius:1.25rem;
+  box-shadow:0 30px 60px -30px rgba(6,25,31,.5),0 1px 0 rgba(6,25,31,.06);transform:rotate(1.2deg);font-family:var(--font-ui)}
+.folha-resp__topo{display:flex;justify-content:space-between;gap:var(--s2);padding-bottom:.75rem;margin-bottom:.85rem;border-bottom:1px dashed var(--line);
+  font-size:.8125rem;color:var(--text-muted)}
+.folha-resp__topo span:first-child{font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:.75rem}
+.folha-resp__nome{margin:0 0 1rem;font-size:.875rem;color:var(--text-muted)}
+.folha-resp__nome .mao{font-size:1.4rem}
+.folha-resp__linhas{display:flex;flex-direction:column;gap:.55rem;margin:0;padding:0;list-style:none}
+.folha-resp__linhas li{display:flex;align-items:center;gap:.5rem;max-width:none}
+.folha-resp__linhas b{width:2.2rem;font-size:.875rem;color:var(--text-muted);font-variant-numeric:tabular-nums}
+.folha-resp__linhas i{display:grid;place-items:center;width:1.65rem;height:1.65rem;font:700 .75rem/1 var(--font-ui);font-style:normal;color:var(--line-forte);
+  border:1.5px solid var(--line-forte);border-radius:50%}
+.folha-resp__linhas i.m{color:var(--sobre-tinta);background:var(--tinta);border-color:var(--tinta)}
+.folha-resp__linhas i.x{color:#F1F2F2;background:var(--bad);border-color:var(--bad)}
+.folha-resp__linhas i.c{color:var(--ok);background:var(--ok-claro);border:2px solid var(--ok)}
+.folha-resp__linhas s{margin-left:.35rem;font-weight:700;text-decoration:none}
+.folha-resp__linhas s.ok{color:var(--ok)} .folha-resp__linhas s.erro{color:var(--bad)}
+.folha-resp__pe{display:flex;justify-content:space-between;align-items:center;margin-top:1.1rem;padding-top:.85rem;border-top:1px dashed var(--line);
+  font-size:.875rem;color:var(--text-muted)}
+.mao--erro{font-size:1.25rem;color:var(--bad)}
+/* a folha "se preenche" ao abrir a página */
+@media (prefers-reduced-motion:no-preference){
+  .folha-resp__linhas i.m,.folha-resp__linhas i.x,.folha-resp__linhas i.c{animation:tinta .4s ease-out both}
+  .folha-resp__linhas li:nth-child(1) i{animation-delay:.2s} .folha-resp__linhas li:nth-child(2) i{animation-delay:.35s}
+  .folha-resp__linhas li:nth-child(3) i{animation-delay:.5s} .folha-resp__linhas li:nth-child(4) i{animation-delay:.65s}
+  .folha-resp__linhas li:nth-child(5) i{animation-delay:.8s} .folha-resp__linhas li:nth-child(6) i{animation-delay:.95s}
+}
+@media (max-width:30rem){.folha-resp{transform:none;padding:1.25rem}.folha-resp__linhas i{width:1.5rem;height:1.5rem}}
+
+/* ---------- Capítulo 1: cadernos ---------- */
+.cadernos__in{display:flex;flex-wrap:wrap;gap:3rem;align-items:flex-start}
+.cadernos__texto{flex:999 1 34rem;min-width:0}
+.cadernos__texto h2{margin-bottom:var(--s4)}
+.seletor{display:inline-flex;gap:4px;margin-bottom:var(--s4);padding:4px;background:var(--surface-2);border-radius:var(--pilula)}
+.seletor button{min-height:2.75rem;padding:.55rem 1.5rem;font:700 1rem var(--font-ui);color:var(--text-muted);background:transparent;border:0;
+  border-radius:var(--pilula);cursor:pointer;transition:background-color .25s,color .25s}
+.seletor button:hover{color:var(--text)}
+.seletor button[aria-selected="true"]{color:var(--sobre-tinta);background:var(--tinta)}
+.cadernos__desc{max-width:40rem;font-size:1.125rem;line-height:1.6;color:var(--text-muted)}
+.edicoes{display:grid;grid-template-columns:repeat(auto-fill,minmax(8.25rem,1fr));gap:.85rem;margin:var(--s4) 0 var(--s3);padding:0;list-style:none}
+.edicoes li{max-width:none;margin:0}
+.edicao{position:relative;display:flex;flex-direction:column;gap:.1rem;height:100%;padding:.95rem .9rem .8rem;color:var(--text);text-decoration:none;
+  background:var(--folha);border:1px solid var(--line);border-radius:var(--radius);transition:transform .25s cubic-bezier(.2,.7,.2,1),box-shadow .25s,border-color .2s}
+.edicao::before{content:"";position:absolute;top:-1px;right:.9rem;width:1.25rem;height:.75rem;border-radius:0 0 .4rem .4rem;background:var(--cor-livro,var(--tinta))}
+.edicao:hover{border-color:var(--line-forte);box-shadow:var(--sombra-alta);transform:translateY(-4px)}
+.edicao b{font:700 1.65rem/1.1 var(--font-title)}
+.edicao span{font:.8125rem/1.35 var(--font-ui);color:var(--text-muted)}
+.edicao--todas{align-items:center;justify-content:center;text-align:center;font:700 .9375rem/1.3 var(--font-ui);color:var(--caneta);
+  background:transparent;border:2px dashed var(--line)}
+.edicao--todas::before{display:none}
+.cadernos__mais{font:var(--fs-2) var(--font-ui)}
+[data-cor="enem"]{--cor-livro:#05333A} [data-cor="etec"]{--cor-livro:#09565D} [data-cor="fatec"]{--cor-livro:#3F5956}
+[data-theme="dark"] [data-cor="enem"]{--cor-livro:#8CC3BF} [data-theme="dark"] [data-cor="etec"]{--cor-livro:#5FA8A2} [data-theme="dark"] [data-cor="fatec"]{--cor-livro:#A9C2BF}
+
+/* A pilha de cadernos: o da aba escolhida vem para a frente */
+.pilha{position:relative;flex:1 1 22rem;max-width:26rem;height:24rem;margin:2rem auto 0}
+.livro{position:absolute;display:flex;flex-direction:column;width:15.5rem;height:19.5rem;padding:1.5rem;border-radius:1.15rem;
+  box-shadow:0 30px 40px -24px rgba(6,25,31,.6);color:#F1F2F2;font-family:var(--font-ui);
+  transition:left .5s cubic-bezier(.2,.7,.2,1),top .5s cubic-bezier(.2,.7,.2,1),transform .5s cubic-bezier(.2,.7,.2,1)}
+.livro p{margin:0;max-width:none}
+.livro--enem{background:#05333A} .livro--etec{background:#09565D} .livro--fatec{background:#3F5956}
+[data-theme="dark"] .livro{border:1px solid rgba(224,225,227,.14)}
+.livro__selo{font:700 .75rem/1.4 var(--font-ui);letter-spacing:.14em;text-transform:uppercase;color:#E8D3A3}
+.livro__tit{margin-top:.5rem!important;font:700 1.75rem/1.1 var(--font-title)}
+.livro__area{margin-top:.6rem!important;font-size:.9375rem;color:#D5D9DA}
+.livro__pe{display:flex;justify-content:space-between;margin-top:auto!important;padding-top:.75rem;border-top:1px solid rgba(224,225,227,.25);font-size:.875rem;color:#D5D9DA}
+.livro[data-vaga="0"]{left:0;top:2.75rem;transform:rotate(-9deg);z-index:1}
+.livro[data-vaga="1"]{left:3.75rem;top:1.1rem;transform:rotate(-2deg);z-index:2}
+.livro[data-vaga="2"]{left:7.5rem;top:1.9rem;transform:rotate(6deg);z-index:3}
+@media (max-width:40rem){.pilha{display:none}}
+
+/* ---------- Capítulo 2: correção ---------- */
+.correcao__in{display:flex;flex-wrap:wrap;align-items:center;gap:3.5rem}
+.correcao__texto{flex:999 1 28.75rem;min-width:0}
+.correcao__texto h2{font-size:clamp(2.3rem,6vw,3.5rem);letter-spacing:-.02em}
+.correcao__texto>p:not(.capitulo):not(.botoes){max-width:32rem;font-size:1.1875rem;line-height:1.65}
+.correcao__texto .botoes{margin-top:var(--s4);gap:.75rem}
+.corrigida{position:relative;flex:1 1 23.75rem;max-width:26.25rem;margin:1rem auto 0}
+.corrigida__folha{padding:1.6rem 1.75rem 1.75rem;color:var(--text);background:var(--folha-banda);border-radius:1.4rem;transform:rotate(-1.5deg);
+  box-shadow:0 40px 70px -30px rgba(0,0,0,.6);font-family:var(--font-ui)}
+.h-sec--banda .corrigida__folha p{color:var(--text)}
+.corrigida__origem{margin:0 0 .25rem!important;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted)!important}
+.corrigida__folha>p:nth-child(2){font-size:1rem;line-height:1.55}
+.corrigida ul{display:flex;flex-direction:column;gap:.4rem;margin:0;padding:0;list-style:none}
+.corrigida li{display:flex;align-items:center;gap:.75rem;max-width:none;color:var(--text-muted)}
+.corrigida li i{display:grid;place-items:center;width:1.9rem;height:1.9rem;font:700 .9rem/1 var(--font-ui);font-style:normal;color:var(--line-forte);border:1.5px solid var(--line-forte);border-radius:50%}
+.corrigida li.certa{color:var(--text)}
+.corrigida li.certa i{color:#F1F2F2;background:var(--ok);border-color:var(--ok)}
+.corrigida li .mao{margin-left:auto;font-size:1.4rem;color:var(--ok)}
+.h-sec--banda .corrigida__nota{margin:1.1rem 0 0;padding-top:.85rem;border-top:1px solid var(--line);font-size:1.35rem;line-height:1.35;color:var(--caneta)}
+.carimbo{position:absolute;right:-.6rem;top:-1.6rem;display:grid;place-items:center;width:7rem;height:7rem;border:3px solid var(--banda-ouro);border-radius:50%;
+  background:rgba(5,51,58,.92);transform:rotate(12deg)}
+.carimbo div{display:flex;flex-direction:column;align-items:center;justify-content:center;width:5.75rem;height:5.75rem;border:1.5px dashed var(--banda-ouro);
+  border-radius:50%;color:var(--banda-ouro);text-align:center;line-height:1.1;font-family:var(--font-ui)}
+.carimbo span{font-size:.55rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase}
+.carimbo b{margin:.2rem 0;font:800 .95rem var(--font-title);text-transform:uppercase}
+@media (max-width:30rem){.corrigida{margin-top:3.25rem}.carimbo{width:5.5rem;height:5.5rem;right:-.25rem;top:-3.6rem}.carimbo div{width:4.5rem;height:4.5rem}.carimbo b{font-size:.75rem}}
+
+/* ---------- Capítulo 3: passos ---------- */
+.passos{display:grid;grid-template-columns:repeat(auto-fit,minmax(13rem,1fr));gap:2rem;margin:0;padding:0;list-style:none;counter-reset:passo}
+.passos li{counter-increment:passo;display:flex;flex-direction:column;align-items:center;gap:.85rem;max-width:none;text-align:center}
+.passos li::before{content:counter(passo);display:grid;place-items:center;width:4rem;height:4rem;font:800 1.6rem/1 var(--font-title);font-variant-numeric:lining-nums;
+  color:var(--sobre-tinta);background:var(--tinta);border:2px solid var(--tinta);border-radius:50%}
+.passos li:nth-child(n+3)::before{color:var(--tinta);background:transparent}
+[data-theme="dark"] .passos li:nth-child(n+3)::before{color:var(--caneta);border-color:var(--caneta)}
+.passos h3{margin:0;font-size:1.375rem}
+.passos p{max-width:16rem;margin:0;font-size:1rem;line-height:1.6;color:var(--text-muted)}
+
+/* ---------- Apoio com Pix ---------- */
+.apoio-home__in{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:2.5rem}
+.apoio-home__foto{flex:none;width:11.25rem;height:13.5rem;object-fit:cover;border-radius:var(--radius-caixa);border:3px solid var(--banda-ouro)}
+.apoio-home__texto{flex:999 1 22rem;min-width:0}
+.apoio-home__texto h2{font-size:clamp(1.8rem,4.5vw,2.4rem)}
+.apoio-home__texto>p:not(.sobretitulo):not(.botoes){max-width:34rem;font-size:1.125rem;line-height:1.6}
+
+/* ---------- Próximas provas ---------- */
+.agenda{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(18rem,100%),1fr));gap:1.5rem;margin:0;padding:0;list-style:none}
+.agenda li{display:flex;gap:1.1rem;max-width:none;padding:1.1rem;background:var(--folha);border:0;border-radius:1.25rem;
+  box-shadow:var(--sombra);transition:transform .25s cubic-bezier(.2,.7,.2,1),box-shadow .25s}
+@media (hover:hover){.agenda li:hover{transform:translateY(-4px);box-shadow:var(--sombra-alta)}}
+.agenda__data{flex:none;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.3rem;width:5.25rem;min-height:5.5rem;padding:.6rem 0;
+  color:var(--sobre-banda);background:var(--banda);border-radius:var(--radius);font-family:var(--font-ui);text-align:center}
+.agenda__data svg{width:1.4rem;height:1.4rem;color:var(--banda-destaque)}
+.agenda__data em{font:italic 700 .95rem/1.1 var(--font-title)}
+.agenda__data b{font:800 1.6rem/1 var(--font-title)}
+.agenda__data small{font-size:.8125rem;color:var(--banda-destaque)}
+.agenda__txt{display:flex;flex-direction:column;align-items:flex-start;gap:.35rem}
+.agenda__tag{padding:.1rem .65rem;font:700 .75rem/1.5 var(--font-ui);color:var(--ouro);background:color-mix(in srgb,var(--ouro) 14%,transparent);border-radius:var(--pilula)}
+.agenda h3{margin:0;font-size:1.25rem}
+.agenda p{margin:0;font:var(--fs-1)/1.5 var(--font-ui);color:var(--text-muted)}
+.agenda a{font:600 var(--fs-1) var(--font-ui)}

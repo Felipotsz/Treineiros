@@ -1,0 +1,1322 @@
+{
+ "id": "enem-2013-natureza",
+ "banca": "Enem",
+ "ano": 2013,
+ "titulo": "Enem 2013: Ciências da Natureza",
+ "fonte": "Inep",
+ "dataExame": "2013-10-26",
+ "duracaoMinutos": 150,
+ "area": "Ciências da Natureza",
+ "caderno": "azul",
+ "dia": 1,
+ "questoes": [
+  {
+   "numero": 1,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 46
+   },
+   "enunciado": "<p>Músculos artificiais são dispositivos feitos com plásticos inteligentes que respondem a uma corrente elétrica com um movimento mecânico. A oxidação e redução de um polímero condutor criam cargas positivas e/ou negativas no material, que são compensadas com a inserção ou expulsão de cátions ou ânions. Por exemplo, na figura os filmes escuros são de polipirrol e o filme branco é de um eletrólito polimérico contendo um sal inorgânico. Quando o polipirrol sofre oxidação, há a inserção de ânions para compensar a carga positiva no polímero e o filme se expande. Na outra face do dispositivo o filme de polipirrol sofre redução, expulsando ânions, e o filme se contrai. Pela montagem, em sanduíche, o sistema todo se movimenta de forma harmônica, conforme mostrado na figura.</p>[[fig:1]]<p class=\"fonte\">DE PAOLI, M. A. <em>Cadernos Temáticos de Química Nova na Escola</em>, São Paulo, maio 2001 (adaptado).</p><p>A camada central de eletrólito polimérico é importante porque</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q46.webp",
+     "alt": "Três esquemas de um sanduíche de três camadas: dois filmes escuros de polipirrol com um filme branco de eletrólito polimérico no meio. No do meio, sem corrente elétrica, ele fica reto. Nos outros dois, com corrente elétrica, ele se curva para um lado ou para o outro, conforme a polaridade (+ e −)."
+    }
+   ],
+   "alternativas": {
+    "A": "absorve a irradiação de partículas carregadas, emitidas pelo aquecimento elétrico dos filmes de polipirrol.",
+    "B": "permite a difusão dos íons promovida pela aplicação de diferença de potencial, fechando o circuito elétrico.",
+    "C": "mantém um gradiente térmico no material para promover a dilatação/contração térmica de cada filme de polipirrol.",
+    "D": "permite a condução de elétrons livres, promovida pela aplicação de diferença de potencial, gerando corrente elétrica.",
+    "E": "promove a polarização das moléculas poliméricas, o que resulta no movimento gerado pela aplicação de diferença de potencial."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Quando o polipirrol se oxida ou se reduz, precisa receber ou expulsar íons para compensar a carga. Esses íons vêm do eletrólito polimérico do meio, que contém um sal: ele <strong>permite a difusão dos íons promovida pela aplicação de diferença de potencial, fechando o circuito elétrico</strong>. Alternativa <strong>B</strong>.</p><p>No eletrólito, quem conduz são os íons, e não elétrons livres (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "polímeros condutores",
+    "oxirredução"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 2,
+   "materia": "Química",
+   "assunto": "Mol",
+   "origem": {
+    "numeroOriginal": 47
+   },
+   "enunciado": "<p class=\"apoio\">O brasileiro consome em média 500 miligramas de cálcio por dia, quando a quantidade recomendada é o dobro. Uma alimentação balanceada é a melhor decisão para evitar problemas no futuro, como a osteoporose, uma doença que atinge os ossos. Ela se caracteriza pela diminuição substancial de massa óssea, tornando os ossos frágeis e mais suscetíveis a fraturas.</p><p class=\"fonte\">Disponível em: www.anvisa.gov.br. Acesso em: 1 ago. 2012 (adaptado).</p><p>Considerando-se o valor de 6 × 10<sup>23</sup> mol<sup>−1</sup> para a constante de Avogadro e a massa molar do cálcio igual a 40 g/mol, qual a quantidade mínima diária de átomos de cálcio a ser ingerida para que uma pessoa supra suas necessidades?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "7,5 × 10<sup>21</sup>",
+    "B": "1,5 × 10<sup>22</sup>",
+    "C": "7,5 × 10<sup>23</sup>",
+    "D": "1,5 × 10<sup>25</sup>",
+    "E": "4,8 × 10<sup>25</sup>"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A quantidade recomendada é o dobro de 500 mg, ou 1 000 mg = 1 g de cálcio. Isso equivale a 1 ÷ 40 = 0,025 mol, e o número de átomos é 0,025 × 6 × 10<sup>23</sup> = <strong>1,5 × 10<sup>22</sup></strong>. Alternativa <strong>B</strong>.</p><p>A opção A (7,5 × 10<sup>21</sup>) corresponde aos 500 mg que o brasileiro consome, e não ao recomendado.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "constante de Avogadro",
+    "massa molar"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 3,
+   "materia": "Física",
+   "assunto": "Termologia",
+   "origem": {
+    "numeroOriginal": 48
+   },
+   "enunciado": "<p>Em um experimento foram utilizadas duas garrafas PET, uma pintada de branco e a outra de preto, acopladas cada uma a um termômetro. No ponto médio da distância entre as garrafas, foi mantida acesa, durante alguns minutos, uma lâmpada incandescente. Em seguida a lâmpada foi desligada. Durante o experimento, foram monitoradas as temperaturas das garrafas: a) enquanto a lâmpada permaneceu acesa e b) após a lâmpada ser desligada e atingirem equilíbrio térmico com o ambiente.</p>[[fig:1]]<p>A taxa de variação da temperatura da garrafa preta, em comparação à da branca, durante todo experimento, foi</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q48.webp",
+     "alt": "Duas garrafas sobre uma bancada, cada uma com um termômetro: à esquerda, uma garrafa branca; à direita, uma garrafa preta; no meio, a igual distância, uma lâmpada acesa."
+    }
+   ],
+   "alternativas": {
+    "A": "igual no aquecimento e igual no resfriamento.",
+    "B": "maior no aquecimento e igual no resfriamento.",
+    "C": "menor no aquecimento e igual no resfriamento.",
+    "D": "maior no aquecimento e menor no resfriamento.",
+    "E": "maior no aquecimento e maior no resfriamento."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Superfícies escuras absorvem mais radiação e, pela mesma razão, também a emitem melhor. Com a lâmpada acesa, a garrafa preta esquenta mais rápido; depois de desligada, perde calor mais rápido. A taxa de variação foi <strong>maior no aquecimento e maior no resfriamento</strong>. Alternativa <strong>E</strong>.</p><p>Um bom absorvedor de radiação é sempre um bom emissor, então o resfriamento não pode ser igual (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "radiação térmica",
+    "corpo negro"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 4,
+   "materia": "Química",
+   "assunto": "Radioatividade",
+   "origem": {
+    "numeroOriginal": 49
+   },
+   "enunciado": "<p>Glicose marcada com nuclídeos de carbono-11 é utilizada na medicina para se obter imagens tridimensionais do cérebro, por meio de tomografia de emissão de pósitrons. A desintegração do carbono-11 gera um pósitron, com tempo de meia-vida de 20,4 min, de acordo com a equação da reação nuclear:</p><p class=\"apoio\"><sup>11</sup><sub>6</sub>C → <sup>11</sup><sub>5</sub>B + <sup>0</sup><sub>1</sub>e (pósitron)</p><p>A partir da injeção de glicose marcada com esse nuclídeo, o tempo de aquisição de uma imagem de tomografia é de cinco meias-vidas.</p><p>Considerando que o medicamento contém 1,00 g do carbono-11, a massa, em miligramas, do nuclídeo restante, após a aquisição da imagem, é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,200.",
+    "B": "0,969.",
+    "C": "9,80.",
+    "D": "31,3.",
+    "E": "200."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>A cada meia-vida, a massa cai pela metade. Depois de cinco meias-vidas, sobra \\(\\dfrac{1}{2^5} = \\dfrac{1}{32}\\) da massa: 1 000 mg ÷ 32 ≈ <strong>31,3 mg</strong>. Alternativa <strong>D</strong>.</p><p>A opção A (0,200) divide a massa por 5, como se a queda fosse linear.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "meia-vida",
+    "decaimento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 5,
+   "materia": "Biologia",
+   "assunto": "Imunologia",
+   "origem": {
+    "numeroOriginal": 50
+   },
+   "enunciado": "<p class=\"apoio\">Milhares de pessoas estavam morrendo de varíola humana no final do século XVIII. Em 1796, o médico Edward Jenner (1749-1823) inoculou em um menino de 8 anos o pus extraído de feridas de vacas contaminadas com o vírus da varíola bovina, que causa uma doença branda em humanos. O garoto contraiu uma infecção benigna e, dez dias depois, estava recuperado. Meses depois, Jenner inoculou, no mesmo menino, o pus varioloso humano, que causava muitas mortes. O menino não adoeceu.</p><p class=\"fonte\">Disponível em: www.bbc.co.uk. Acesso em: 5 dez. 2012 (adaptado).</p><p>Considerando o resultado do experimento, qual a contribuição desse médico para a saúde humana?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "A prevenção de diversas doenças infectocontagiosas em todo o mundo.",
+    "B": "A compreensão de que vírus podem se multiplicar em matéria orgânica.",
+    "C": "O tratamento para muitas enfermidades que acometem milhões de pessoas.",
+    "D": "O estabelecimento da ética na utilização de crianças em modelos experimentais.",
+    "E": "A explicação de que alguns vírus de animais podem ser transmitidos para os humanos."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>O menino teve uma forma branda da doença, produziu defesas e não adoeceu quando recebeu o vírus humano. Jenner criou a primeira vacina, o que abriu caminho para a <strong>prevenção de diversas doenças infectocontagiosas em todo o mundo</strong>. Alternativa <strong>A</strong>.</p><p>A vacina previne a doença; não é tratamento (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vacina",
+    "varíola"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 6,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 51
+   },
+   "enunciado": "<p class=\"apoio\">Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao ambiente. Sabe-se que algumas fontes energéticas desenvolvidas pelo homem exercem, ou têm potencial para exercer, em algum nível, impactos ambientais negativos.</p><p class=\"fonte\">CORRÊA, A. G.; ZUIN, V. G. (Orgs.). <em>Química Verde: fundamentos e aplicações</em>. São Carlos: EdUFSCar, 2009.</p><p>À luz da Química Verde, métodos devem ser desenvolvidos para eliminar ou reduzir a poluição do ar causada especialmente pelas</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "hidrelétricas.",
+    "B": "termelétricas.",
+    "C": "usinas geotérmicas.",
+    "D": "fontes de energia solar.",
+    "E": "fontes de energia eólica."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As termelétricas queimam carvão, óleo ou gás para gerar energia e liberam CO<sub>2</sub>, óxidos de enxofre e de nitrogênio e fuligem. A poluição do ar vem especialmente das <strong>termelétricas</strong>. Alternativa <strong>B</strong>.</p><p>Hidrelétricas, energia solar e eólica (A, D e E) causam impactos, mas praticamente não poluem o ar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "Química Verde",
+    "fontes de energia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 7,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 52
+   },
+   "enunciado": "<p>Em viagens de avião, é solicitado aos passageiros o desligamento de todos os aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas. O procedimento é utilizado para eliminar fontes de radiação que possam interferir nas comunicações via rádio dos pilotos com a torre de controle.</p><p>A propriedade das ondas emitidas que justifica o procedimento adotado é o fato de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "terem fases opostas.",
+    "B": "serem ambas audíveis.",
+    "C": "terem intensidades inversas.",
+    "D": "serem de mesma amplitude.",
+    "E": "terem frequências próximas."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>Celulares e outros aparelhos emitem ondas de rádio com frequências próximas às usadas na comunicação dos pilotos. Ondas de <strong>frequências próximas</strong> podem interferir umas nas outras e atrapalhar a recepção. Alternativa <strong>E</strong>.</p><p>Ondas eletromagnéticas não são audíveis (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "interferência",
+    "ondas de rádio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 8,
+   "materia": "Biologia",
+   "assunto": "Fisiologia",
+   "origem": {
+    "numeroOriginal": 53
+   },
+   "enunciado": "<p>As serpentes que habitam regiões de seca podem ficar em jejum por um longo período de tempo devido à escassez de alimento. Assim, a sobrevivência desses predadores está relacionada ao aproveitamento máximo dos nutrientes obtidos com a presa capturada. De acordo com essa situação, essas serpentes apresentam alterações morfológicas e fisiológicas, como o aumento das vilosidades intestinais e a intensificação da irrigação sanguínea na porção interna dessas estruturas.</p><p>A função do aumento das vilosidades intestinais para essas serpentes é maximizar o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "comprimento do trato gastrointestinal para caber mais alimento.",
+    "B": "área de contato com o conteúdo intestinal para absorção dos nutrientes.",
+    "C": "liberação de calor via irrigação sanguínea para controle térmico do sistema digestório.",
+    "D": "secreção de enzimas digestivas para aumentar a degradação proteica no estômago.",
+    "E": "processo de digestão para diminuir o tempo de permanência do alimento no intestino."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>As vilosidades são dobras da parede do intestino; quanto mais vilosidades, maior a superfície em contato com o alimento digerido. Isso aumenta a <strong>área de contato com o conteúdo intestinal para absorção dos nutrientes</strong>. Alternativa <strong>B</strong>.</p><p>Vilosidades não aumentam o comprimento do intestino (A), nem atuam no estômago (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "vilosidades intestinais",
+    "absorção"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 9,
+   "materia": "Química",
+   "assunto": "Polímeros",
+   "origem": {
+    "numeroOriginal": 54
+   },
+   "enunciado": "<p>O uso de embalagens plásticas descartáveis vem crescendo em todo o mundo, juntamente com o problema ambiental gerado por seu descarte inapropriado. O politereftalato de etileno (PET), cuja estrutura é mostrada, tem sido muito utilizado na indústria de refrigerantes e pode ser reciclado e reutilizado. Uma das opções possíveis envolve a produção de matérias-primas, como o etilenoglicol (1,2-etanodiol), a partir de objetos compostos de PET pós-consumo.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.abipet.org.br. Acesso em: 27 fev. 2012 (adaptado).</p><p>Com base nas informações do texto, uma alternativa para a obtenção de etilenoglicol a partir do PET é a</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q54.webp",
+     "alt": "Fórmula estrutural do PET: HO–C(=O)–anel benzênico–C(=O)–O–CH2–CH2–O–H, entre colchetes, repetida n vezes."
+    }
+   ],
+   "alternativas": {
+    "A": "solubilização dos objetos.",
+    "B": "combustão dos objetos.",
+    "C": "trituração dos objetos.",
+    "D": "hidrólise dos objetos.",
+    "E": "fusão dos objetos."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O PET é um poliéster, formado pela reação entre um ácido e um álcool (o etilenoglicol) com saída de água. A reação inversa, com água, quebra as ligações éster e devolve o ácido e o álcool. A alternativa é a <strong>hidrólise dos objetos</strong>. Alternativa <strong>D</strong>.</p><p>Triturar ou fundir (C e E) só muda a forma do material, sem separar o etilenoglicol.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "poliéster",
+    "reciclagem"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 10,
+   "materia": "Biologia",
+   "assunto": "Fisiologia",
+   "origem": {
+    "numeroOriginal": 55
+   },
+   "enunciado": "<p>A pílula anticoncepcional é um dos métodos contraceptivos de maior segurança, sendo constituída basicamente de dois hormônios sintéticos semelhantes aos hormônios produzidos pelo organismo feminino, o estrogênio (E) e a progesterona (P). Em um experimento médico, foi analisado o sangue de uma mulher que ingeriu ininterruptamente um comprimido desse medicamento por dia durante seis meses.</p><p>Qual gráfico representa a concentração sanguínea desses hormônios durante o período do experimento?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q55a.webp",
+     "alt": "Alternativa A: duas retas horizontais, E e P, constantes ao longo do tempo."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q55b.webp",
+     "alt": "Alternativa B: as duas curvas sobem; P continua subindo e E sobe, cai e se estabiliza."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q55c.webp",
+     "alt": "Alternativa C: as duas curvas oscilam, com picos em momentos diferentes."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q55d.webp",
+     "alt": "Alternativa D: E e P crescem continuamente em linha reta."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q55e.webp",
+     "alt": "Alternativa E: E e P ficam constantes e depois crescem em linha reta."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A pílula fornece doses diárias e iguais de estrogênio e progesterona. Tomada sem interrupção, ela mantém as concentrações dos dois hormônios estáveis, sem o pico da ovulação: os níveis ficam <strong>constantes ao longo do tempo</strong>, como no gráfico A. Alternativa <strong>A</strong>.</p><p>Os gráficos B e C mostram variações típicas de um ciclo menstrual natural.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "anticoncepcional",
+    "hormônios"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 11,
+   "materia": "Biologia",
+   "assunto": "Fisiologia",
+   "origem": {
+    "numeroOriginal": 56
+   },
+   "enunciado": "<p class=\"apoio\">A imagem representa uma ilustração retirada do livro <em>De Motu Cordis</em>, de autoria do médico inglês Willian Harvey, que fez importantes contribuições para o entendimento do processo de circulação do sangue no corpo humano. No experimento ilustrado, Harvey, após aplicar um torniquete (A) no braço de um voluntário e esperar alguns vasos incharem, pressionava-os em um ponto (H). Mantendo o ponto pressionado, deslocava o conteúdo de sangue em direção ao cotovelo, percebendo que um trecho do vaso sanguíneo permanecia vazio após esse processo (H-O).</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.answers.com. Acesso em: 18 dez. 2012 (adaptado).</p><p>A demonstração de Harvey permite estabelecer a relação entre circulação sanguínea e</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q56.webp",
+     "alt": "Ilustração antiga de dois antebraços com um torniquete no braço. No primeiro, as veias aparecem salientes com pontos marcados O e H. No segundo, os dedos de outra pessoa pressionam a veia no ponto H, deixando vazio o trecho entre H e O."
+    }
+   ],
+   "alternativas": {
+    "A": "pressão arterial.",
+    "B": "válvulas venosas.",
+    "C": "circulação linfática.",
+    "D": "contração cardíaca.",
+    "E": "transporte de gases."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>Harvey pressionava a veia e empurrava o sangue em direção ao cotovelo; o trecho ficava vazio porque o sangue não conseguia voltar. Isso mostra que as veias têm <strong>válvulas</strong> que deixam o sangue correr num só sentido, de volta ao coração. Alternativa <strong>B</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "circulação",
+    "válvulas venosas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 12,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 57
+   },
+   "enunciado": "<p>Para realizar um experimento com uma garrafa PET cheia d´água, perfurou-se a lateral da garrafa em três posições a diferentes alturas. Com a garrafa tampada, a água não vazou por nenhum dos orifícios, e, com a garrafa destampada, observou-se o escoamento da água conforme ilustrado na figura.</p>[[fig:1]]<p>Como a pressão atmosférica interfere no escoamento da água, nas situações com a garrafa tampada e destampada, respectivamente?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q57.webp",
+     "alt": "Garrafa PET destampada com três furos na lateral, em alturas diferentes; jatos de água saem dos furos, e o de baixo vai mais longe."
+    }
+   ],
+   "alternativas": {
+    "A": "Impede a saída de água, por ser maior que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água.",
+    "B": "Impede a saída de água, por ser maior que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo.",
+    "C": "Impede a entrada de ar, por ser menor que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo.",
+    "D": "Impede a saída de água, por ser maior que a pressão interna; regula a velocidade de escoamento, que só depende da pressão atmosférica.",
+    "E": "Impede a entrada de ar, por ser menor que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Tampada, a garrafa não deixa o ar entrar; quando um pouco de água sai, a pressão interna sobre a superfície cai, e a pressão atmosférica de fora, maior, segura a água. Destampada, o ar atua tanto na superfície quanto no furo, e o efeito dele se anula: a velocidade depende só da altura da coluna de água acima do furo. Por isso, a pressão atmosférica <strong>impede a saída de água, por ser maior que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pressão atmosférica",
+    "teorema de Stevin"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 13,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 58
+   },
+   "enunciado": "<p>O citral, substância de odor fortemente cítrico, é obtido a partir de algumas plantas como o capim-limão, cujo óleo essencial possui aproximadamente 80%, em massa, da substância. Uma de suas aplicações é na fabricação de produtos que atraem abelhas, especialmente do gênero <em>Apis</em>, pois seu cheiro é semelhante a um dos feromônios liberados por elas. Sua fórmula molecular é C<sub>10</sub>H<sub>16</sub>O, com uma cadeia alifática de oito carbonos, duas insaturações, nos carbonos 2 e 6; e dois grupos substituintes metila, nos carbonos 3 e 7. O citral possui dois isômeros geométricos, sendo o <em>trans</em> o que mais contribui para o forte odor.</p><p>Para que se consiga atrair um maior número de abelhas para uma determinada região, a molécula que deve estar presente em alta concentração no produto a ser utilizado é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q58a.webp",
+     "alt": "Alternativa A: cadeia em zigue-zague terminada em aldeído, com duplas nas posições 2 e 6, metilas nas posições 3 e 7, e o aldeído do lado oposto à cadeia na dupla 2 (trans)."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q58b.webp",
+     "alt": "Alternativa B: cadeia com aldeído e duas duplas, mas com a metila no carbono 2, ao lado do aldeído."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q58c.webp",
+     "alt": "Alternativa C: cadeia com aldeído e duas duplas, com o aldeído do mesmo lado da cadeia na dupla 2 (cis)."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q58d.webp",
+     "alt": "Alternativa D: cadeia com aldeído e duas duplas, com a dupla distante deslocada para a posição 5."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q58e.webp",
+     "alt": "Alternativa E: cadeia com aldeído na posição cis e a dupla distante deslocada."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Numerando a partir do carbono do aldeído (C1): a cadeia tem oito carbonos, duplas em C2 e C6 e metilas em C3 e C7; o isômero que mais contribui para o odor é o <em>trans</em>. A estrutura A tem as duplas nas posições certas, as metilas em 3 e 7, e o grupo aldeído do lado oposto à cadeia na dupla C2=C3, que é o <em>trans</em>. Alternativa <strong>A</strong>.</p><p>Em B, a metila está no C2, e não no C3; em C, D e E, a geometria ou as posições das duplas e metilas não correspondem à descrição.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "isomeria geométrica",
+    "nomenclatura"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 14,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 59
+   },
+   "enunciado": "<p>Plantas terrestres que ainda estão em fase de crescimento fixam grandes quantidades de CO<sub>2</sub>, utilizando-o para formar novas moléculas orgânicas, e liberam grande quantidade de O<sub>2</sub>. No entanto, em florestas maduras, cujas árvores já atingiram o equilíbrio, o consumo de O<sub>2</sub> pela respiração tende a igualar sua produção pela fotossíntese. A morte natural de árvores nessas florestas afeta temporariamente a concentração de O<sub>2</sub> e de CO<sub>2</sub> próximo à superfície do solo onde elas caíram.</p><p>A concentração de O<sub>2</sub> próximo ao solo, no local da queda, será</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "menor, pois haverá consumo de O<sub>2</sub> durante a decomposição dessas árvores.",
+    "B": "maior, pois haverá economia de O<sub>2</sub> pela ausência das árvores mortas.",
+    "C": "maior, pois haverá liberação de O<sub>2</sub> durante a fotossíntese das árvores jovens.",
+    "D": "igual, pois haverá consumo e produção de O<sub>2</sub> pelas árvores maduras restantes.",
+    "E": "menor, pois haverá redução de O<sub>2</sub> pela falta da fotossíntese realizada pelas árvores mortas."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Quando uma árvore morre e cai, deixa de fazer fotossíntese, e seu corpo passa a ser decomposto por fungos e bactérias, que respiram e consomem O<sub>2</sub>. No local, a concentração de O<sub>2</sub> será <strong>menor, pois haverá consumo de O<sub>2</sub> durante a decomposição dessas árvores</strong>. Alternativa <strong>A</strong>.</p><p>A opção E fala da falta de fotossíntese, mas numa floresta madura a árvore já consumia o que produzia; o que pesa é a decomposição.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "decomposição",
+    "ciclo do oxigênio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 15,
+   "materia": "Biologia",
+   "assunto": "Evolução",
+   "origem": {
+    "numeroOriginal": 60
+   },
+   "enunciado": "<p class=\"apoio\">As fêmeas de algumas espécies de aranhas, escorpiões e de outros invertebrados predam os machos após a cópula e inseminação. Como exemplo, fêmeas canibais do inseto conhecido como louva-a-deus, <em>Tenodera aridofolia</em>, possuem até 63% da sua dieta composta por machos parceiros. Para as fêmeas, o canibalismo sexual pode assegurar a obtenção de nutrientes importantes na reprodução. Com esse incremento na dieta, elas geralmente produzem maior quantidade de ovos.</p><p class=\"fonte\">BORGES, J. C. Jogo mortal. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 1 mar. 2012 (adaptado).</p><p>Apesar de ser um comportamento aparentemente desvantajoso para os machos, o canibalismo sexual evoluiu nesses táxons animais porque</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "promove a maior ocupação de diferentes nichos ecológicos pela espécie.",
+    "B": "favorece o sucesso reprodutivo individual de ambos os parentais.",
+    "C": "impossibilita a transmissão de genes do macho para a prole.",
+    "D": "impede a sobrevivência e reprodução futura do macho.",
+    "E": "reduz a variabilidade genética da população."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A fêmea bem nutrida produz mais ovos, e esses ovos carregam os genes do macho. Mesmo morrendo, o macho deixa mais descendentes do que deixaria de outra forma: o comportamento <strong>favorece o sucesso reprodutivo individual de ambos os parentais</strong>. Alternativa <strong>B</strong>.</p><p>A cópula acontece antes, então os genes do macho passam para a prole (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "seleção natural",
+    "canibalismo sexual"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 16,
+   "materia": "Física",
+   "assunto": "Hidrostática",
+   "origem": {
+    "numeroOriginal": 61
+   },
+   "enunciado": "<p>Para oferecer acessibilidade aos portadores de dificuldades de locomoção, é utilizado, em ônibus e automóveis, o elevador hidráulico. Nesse dispositivo é usada uma bomba elétrica, para forçar um fluido a passar de uma tubulação estreita para outra mais larga, e dessa forma acionar um pistão que movimenta a plataforma. Considere um elevador hidráulico cuja área da cabeça do pistão seja cinco vezes maior do que a área da tubulação que sai da bomba. Desprezando o atrito e considerando uma aceleração gravitacional de 10 m/s<sup>2</sup>, deseja-se elevar uma pessoa de 65 kg em uma cadeira de rodas de 15 kg sobre a plataforma de 20 kg.</p><p>Qual deve ser a força exercida pelo motor da bomba sobre o fluido, para que o cadeirante seja elevado com velocidade constante?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "20 N",
+    "B": "100 N",
+    "C": "200 N",
+    "D": "1 000 N",
+    "E": "5 000 N"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O peso total é (65 + 15 + 20) × 10 = 1 000 N. Pelo princípio de Pascal, a pressão é a mesma nos dois lados: \\(\\dfrac{F}{A} = \\dfrac{1\\,000}{5A}\\), então F = <strong>200 N</strong>. Com velocidade constante, a força resultante é nula. Alternativa <strong>C</strong>.</p><p>A opção A (20 N) usa só o peso da plataforma.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "princípio de Pascal",
+    "prensa hidráulica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 17,
+   "materia": "Biologia",
+   "assunto": "Biotecnologia",
+   "origem": {
+    "numeroOriginal": 62
+   },
+   "enunciado": "<p>A estratégia de obtenção de plantas transgênicas pela inserção de transgenes em cloroplastos, em substituição à metodologia clássica de inserção do transgene no núcleo da célula hospedeira, resultou no aumento quantitativo da produção de proteínas recombinantes com diversas finalidades biotecnológicas. O mesmo tipo de estratégia poderia ser utilizada para produzir proteínas recombinantes em células de organismos eucarióticos não fotossintetizantes, como as leveduras, que são usadas para produção comercial de várias proteínas recombinantes e que podem ser cultivadas em grandes fermentadores.</p><p>Considerando a estratégia metodológica descrita, qual organela celular poderia ser utilizada para inserção de transgenes em leveduras?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Lisossomo.",
+    "B": "Mitocôndria.",
+    "C": "Peroxissomo.",
+    "D": "Complexo golgiense.",
+    "E": "Retículo endoplasmático."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O cloroplasto tem DNA próprio e muitas cópias por célula, por isso produz muita proteína recombinante. Em leveduras, que não fazem fotossíntese, a organela equivalente, com DNA próprio, é a <strong>mitocôndria</strong>. Alternativa <strong>B</strong>.</p><p>Lisossomo, peroxissomo, golgiense e retículo (A, C, D e E) não têm material genético.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "DNA mitocondrial",
+    "transgênicos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 18,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 63
+   },
+   "enunciado": "<p class=\"apoio\">No Brasil, cerca de 80% da energia elétrica advém de hidrelétricas, cuja construção implica o represamento de rios. A formação de um reservatório para esse fim, por sua vez, pode modificar a ictiofauna local. Um exemplo é o represamento do Rio Paraná, onde se observou o desaparecimento de peixes cascudos quase que simultaneamente ao aumento do número de peixes de espécies exóticas introduzidas, como o mapará e a corvina, as três espécies com nichos ecológicos semelhantes.</p><p class=\"fonte\">PETESSE, M. L.; PETRERE JR., M. <em>Ciência Hoje</em>, São Paulo, n. 293, v. 49, jun. 2012 (adaptado).</p><p>Nessa modificação da ictiofauna, o desaparecimento de cascudos é explicado pelo(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "redução do fluxo gênico da espécie nativa.",
+    "B": "diminuição da competição intraespecífica.",
+    "C": "aumento da competição interespecífica.",
+    "D": "isolamento geográfico dos peixes.",
+    "E": "extinção de nichos ecológicos."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Os peixes exóticos (mapará e corvina) têm nichos semelhantes aos dos cascudos e passaram a disputar os mesmos recursos. Disputa entre espécies diferentes é competição interespecífica: o desaparecimento se explica pelo <strong>aumento da competição interespecífica</strong>. Alternativa <strong>C</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espécies exóticas",
+    "competição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 19,
+   "materia": "Química",
+   "assunto": "Equilíbrio químico",
+   "origem": {
+    "numeroOriginal": 64
+   },
+   "enunciado": "<p>Uma das etapas do tratamento da água é a desinfecção, sendo a cloração o método mais empregado. Esse método consiste na dissolução do gás cloro numa solução sob pressão e sua aplicação na água a ser desinfectada. As equações das reações químicas envolvidas são:</p><p class=\"apoio\">Cl<sub>2</sub> (g) + 2 H<sub>2</sub>O (l) ⇌ HClO (aq) + H<sub>3</sub>O<sup>+</sup> (aq) + Cl<sup>−</sup> (aq)</p><p class=\"apoio\">HClO (aq) + H<sub>2</sub>O (l) ⇌ H<sub>3</sub>O<sup>+</sup> (aq) + ClO<sup>−</sup> (aq) &nbsp; pK<sub>a</sub> = −log K<sub>a</sub> = 7,53</p><p>A ação desinfetante é controlada pelo ácido hipocloroso, que possui um potencial de desinfecção cerca de 80 vezes superior ao ânion hipoclorito. O pH do meio é importante, porque influencia na extensão com que o ácido hipocloroso se ioniza.</p><p>Para que a desinfecção seja mais efetiva, o pH da água a ser tratada deve estar mais próximo de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0.",
+    "B": "5.",
+    "C": "7.",
+    "D": "9.",
+    "E": "14."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O HClO desinfeta cerca de 80 vezes melhor que o ClO<sup>−</sup>, então queremos que ele fique na forma não ionizada. Com pK<sub>a</sub> = 7,53, em pH abaixo desse valor predomina o HClO. Entre as opções, o pH mais adequado e possível de usar é <strong>5</strong>. Alternativa <strong>B</strong>.</p><p>pH 0 (A) é ácido demais e deslocaria o primeiro equilíbrio, liberando gás cloro; pH 9 e 14 favoreceriam o ClO<sup>−</sup>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "pKa",
+    "ácido hipocloroso"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 20,
+   "materia": "Física",
+   "assunto": "Ondas",
+   "origem": {
+    "numeroOriginal": 65
+   },
+   "enunciado": "<p>Uma manifestação comum das torcidas em estádios de futebol é a <em>ola</em> mexicana. Os espectadores de uma linha, sem sair do lugar e sem se deslocarem lateralmente, ficam de pé e se sentam, sincronizados com os da linha adjacente. O efeito coletivo se propaga pelos espectadores do estádio, formando uma onda progressiva, conforme ilustração.</p>[[fig:1]]<p>Calcula-se que a velocidade de propagação dessa “onda humana” é 45 km/h, e que cada período de oscilação contém 16 pessoas, que se levantam e sentam organizadamente e distanciadas entre si por 80 cm.</p><p class=\"fonte\">Disponível em: www.ufsm.br. Acesso em: 7 dez. 2012 (adaptado).</p><p>Nessa <em>ola</em> mexicana, a frequência da onda, em hertz, é um valor mais próximo de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q65.webp",
+     "alt": "Ilustração de uma fileira de pessoas na arquibancada: algumas sentadas, outras se levantando e uma em pé com os braços para cima, formando uma curva em forma de onda; uma seta indica o sentido de propagação."
+    }
+   ],
+   "alternativas": {
+    "A": "0,3.",
+    "B": "0,5.",
+    "C": "1,0.",
+    "D": "1,9.",
+    "E": "3,7."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A velocidade é 45 km/h = 12,5 m/s. O comprimento de onda é 16 pessoas × 0,8 m = 12,8 m. Como v = λ·f, f = 12,5 ÷ 12,8 ≈ <strong>1,0 Hz</strong>. Alternativa <strong>C</strong>.</p><p>O período é o tempo que a onda leva para percorrer um comprimento de onda: 12,8 ÷ 12,5 ≈ 1 s, que dá a mesma frequência.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "equação fundamental da ondulatória",
+    "frequência"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 21,
+   "materia": "Física",
+   "assunto": "Movimento circular",
+   "origem": {
+    "numeroOriginal": 66
+   },
+   "enunciado": "<p>Para serrar ossos e carnes congeladas, um açougueiro utiliza uma serra de fita que possui três polias e um motor. O equipamento pode ser montado de duas formas diferentes, P e Q. Por questão de segurança, é necessário que a serra possua menor velocidade linear.</p>[[fig:1]]<p>Por qual montagem o açougueiro deve optar e qual a justificativa desta opção?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q66.webp",
+     "alt": "Duas montagens com um motor (polia 1, pequena) e uma serra de fita presa às polias 2 e 3, que são concêntricas. Na montagem P, a correia liga a polia 1 à polia 2, a menor das concêntricas. Na montagem Q, a correia liga a polia 1 à polia 3, a maior."
+    }
+   ],
+   "alternativas": {
+    "A": "Q, pois as polias 1 e 3 giram com velocidades lineares iguais em pontos periféricos e a que tiver maior raio terá menor frequência.",
+    "B": "Q, pois as polias 1 e 3 giram com frequências iguais e a que tiver maior raio terá menor velocidade linear em um ponto periférico.",
+    "C": "P, pois as polias 2 e 3 giram com frequências diferentes e a que tiver maior raio terá menor velocidade linear em um ponto periférico.",
+    "D": "P, pois as polias 1 e 2 giram com diferentes velocidades lineares em pontos periféricos e a que tiver menor raio terá maior frequência.",
+    "E": "Q, pois as polias 2 e 3 giram com diferentes velocidades lineares em pontos periféricos e a que tiver maior raio terá menor frequência."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Polias ligadas pela mesma correia têm a mesma velocidade linear na borda; a maior gira com menor frequência. Na montagem Q, o motor (polia 1) liga direto na polia 3, a maior, que gira devagar e move a serra mais lentamente. Por isso, Q, <strong>pois as polias 1 e 3 giram com velocidades lineares iguais em pontos periféricos e a que tiver maior raio terá menor frequência</strong>. Alternativa <strong>A</strong>.</p><p>Polias ligadas por correia não giram com frequências iguais (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "polias",
+    "transmissão de movimento"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 22,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 67
+   },
+   "enunciado": "<p class=\"apoio\">Sabe-se que o aumento da concentração de gases como CO<sub>2</sub>, CH<sub>4</sub> e N<sub>2</sub>O na atmosfera é um dos fatores responsáveis pelo agravamento do efeito estufa. A agricultura é uma das atividades humanas que pode contribuir tanto para a emissão quanto para o sequestro desses gases, dependendo do manejo da matéria orgânica do solo.</p><p class=\"fonte\">ROSA, A. H.; COELHO, J. C. R. <em>Cadernos Temáticos de Química Nova na Escola</em>, São Paulo, n. 5, nov. 2003 (adaptado).</p><p>De que maneira as práticas agrícolas podem ajudar a minimizar o agravamento do efeito estufa?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Evitando a rotação de culturas.",
+    "B": "Liberando o CO<sub>2</sub> presente no solo.",
+    "C": "Aumentando a quantidade de matéria orgânica do solo.",
+    "D": "Queimando a matéria orgânica que se deposita no solo.",
+    "E": "Atenuando a concentração de resíduos vegetais do solo."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>A matéria orgânica do solo guarda carbono. Mantendo palha e restos de culturas, fazendo plantio direto e evitando queimadas, mais carbono fica no solo, e menos CO<sub>2</sub> vai para o ar. A prática que ajuda é <strong>aumentar a quantidade de matéria orgânica do solo</strong>. Alternativa <strong>C</strong>.</p><p>Queimar a matéria orgânica (D) libera CO<sub>2</sub>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "sequestro de carbono",
+    "efeito estufa"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 23,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 68
+   },
+   "enunciado": "<p>O glifosato (C<sub>3</sub>H<sub>8</sub>NO<sub>5</sub>P) é um herbicida pertencente ao grupo químico das glicinas, classificado como não seletivo. Esse composto possui os grupos funcionais carboxilato, amino e fosfonato. A degradação do glifosato no solo é muito rápida e realizada por grande variedade de microrganismos, que usam o produto como fonte de energia e fósforo. Os produtos da degradação são o ácido aminometilfosfônico (AMPA) e o N-metilglicina (sarcosina):</p>[[fig:1]]<p class=\"fonte\">AMARANTE JR., O. P. et al. <em>Química Nova</em>, São Paulo, v. 25, n. 3, 2002 (adaptado).</p><p>A partir do texto e dos produtos de degradação apresentados, a estrutura química que representa o glifosato é:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q68.webp",
+     "alt": "Esquema: a molécula de glifosato se degrada em sarcosina (H3C–NH–CH2–COOH) e AMPA (H2N–CH2–P(=O)(OH)2)."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q68a.webp",
+     "alt": "Alternativa A: H2N–CH(CH3)–C(=O)–O–P(=O)(OH)2."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q68b.webp",
+     "alt": "Alternativa B: HO–C(=O)–CH2–NH–CH2–P(=O)(OH)2."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q68c.webp",
+     "alt": "Alternativa C: HO–C(=O)–CH2–CH(NH2)–CH2–P(=O)(OH)2."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q68d.webp",
+     "alt": "Alternativa D: H2N–CH2–C(=O)–O–P(=O)(OH)2."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q68e.webp",
+     "alt": "Alternativa E: H2N–C(=O)–CH2–CH2–O–P(=O)(OH)2."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A degradação gera sarcosina (CH<sub>3</sub>–NH–CH<sub>2</sub>–COOH) e AMPA (H<sub>2</sub>N–CH<sub>2</sub>–PO<sub>3</sub>H<sub>2</sub>). O glifosato junta os dois pelo nitrogênio: HOOC–CH<sub>2</sub>–NH–CH<sub>2</sub>–PO<sub>3</sub>H<sub>2</sub>. Ele tem os grupos carboxila, amino e fosfonato (com o fósforo ligado direto ao carbono) e a fórmula C<sub>3</sub>H<sub>8</sub>NO<sub>5</sub>P. É a <strong>estrutura B</strong>. Alternativa <strong>B</strong>.</p><p>Em A, D e E o fósforo está ligado a um oxigênio (fosfato), e não ao carbono.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "funções orgânicas",
+    "herbicidas"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 24,
+   "materia": "Química",
+   "assunto": "Química ambiental",
+   "origem": {
+    "numeroOriginal": 69
+   },
+   "enunciado": "<p>A formação frequente de grandes volumes de pirita (FeS<sub>2</sub>) em uma variedade de depósitos minerais favorece a formação de soluções ácidas ferruginosas, conhecidas como “drenagem ácida de minas”. Esse fenômeno tem sido bastante pesquisado pelos cientistas e representa uma grande preocupação entre os impactos da mineração no ambiente. Em contato com oxigênio, a 25 °C, a pirita sofre reação, de acordo com a equação química:</p><p class=\"apoio\">4 FeS<sub>2</sub> (s) + 15 O<sub>2</sub> (g) + 2 H<sub>2</sub>O (l) → 2 Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> (aq) + 2 H<sub>2</sub>SO<sub>4</sub> (aq)</p><p class=\"fonte\">FIGUEIREDO, B. R. <em>Minérios e ambiente</em>. Campinas: Unicamp, 2000.</p><p>Para corrigir os problemas ambientais causados por essa drenagem, a substância mais recomendada a ser adicionada ao meio é o</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "sulfeto de sódio.",
+    "B": "cloreto de amônio.",
+    "C": "dióxido de enxofre.",
+    "D": "dióxido de carbono.",
+    "E": "carbonato de cálcio."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A reação produz ácido sulfúrico, que deixa a água ácida. Para corrigir, adiciona-se uma substância básica que neutralize o ácido sem poluir: o <strong>carbonato de cálcio</strong> (calcário), que reage com o ácido formando sal, água e CO<sub>2</sub>. Alternativa <strong>E</strong>.</p><p>Cloreto de amônio, dióxido de enxofre e dióxido de carbono (B, C e D) são ácidos ou formam ácidos.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "drenagem ácida",
+    "neutralização"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 25,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 70
+   },
+   "enunciado": "<p>Cinco casais alegavam ser os pais de um bebê. A confirmação da paternidade foi obtida pelo exame de DNA. O resultado do teste está esquematizado na figura, em que cada casal apresenta um padrão com duas bandas de DNA (faixas, uma para o suposto pai e outra para a suposta mãe), comparadas à do bebê.</p>[[fig:1]]<p>Que casal pode ser considerado como pais biológicos do bebê?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q70.webp",
+     "alt": "Esquema de bandas de DNA: uma coluna para o bebê e, ao lado, cinco casais numerados de 1 a 5, cada um com uma coluna para o pai e outra para a mãe. As bandas aparecem como retângulos pretos (presentes) ou brancos (ausentes) em 16 linhas."
+    }
+   ],
+   "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Cada banda do bebê tem de vir do pai ou da mãe. Comparando as faixas, só no casal 3 todas as bandas pretas do bebê aparecem no pai ou na mãe. É o <strong>casal 3</strong>. Alternativa <strong>C</strong>.</p><p>Nos outros casais, o bebê tem bandas que não aparecem em nenhum dos dois.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "teste de paternidade",
+    "DNA"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 26,
+   "materia": "Química",
+   "assunto": "Soluções",
+   "origem": {
+    "numeroOriginal": 71
+   },
+   "enunciado": "<p>A varfarina é um fármaco que diminui a agregação plaquetária, e por isso é utilizada como anticoagulante, desde que esteja presente no plasma, com uma concentração superior a 1,0 mg/L. Entretanto, concentrações plasmáticas superiores a 4,0 mg/L podem desencadear hemorragias. As moléculas desse fármaco ficam retidas no espaço intravascular e dissolvidas exclusivamente no plasma, que representa aproximadamente 60% do sangue em volume. Em um medicamento, a varfarina é administrada por via intravenosa na forma de solução aquosa, com concentração de 3,0 mg/mL. Um indivíduo adulto, com volume sanguíneo total de 5,0 L, será submetido a um tratamento com solução injetável desse medicamento.</p><p>Qual é o máximo volume da solução do medicamento que pode ser administrado a esse indivíduo, pela via intravenosa, de maneira que não ocorram hemorragias causadas pelo anticoagulante?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "1,0 mL",
+    "B": "1,7 mL",
+    "C": "2,7 mL",
+    "D": "4,0 mL",
+    "E": "6,7 mL"
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O plasma é 60% de 5,0 L, ou 3,0 L. Para não passar de 4,0 mg/L, a massa máxima de varfarina é 4,0 × 3,0 = 12 mg. Com a solução a 3,0 mg/mL, isso corresponde a 12 ÷ 3,0 = <strong>4,0 mL</strong>. Alternativa <strong>D</strong>.</p><p>Usar o volume total de sangue (5,0 L) daria 6,7 mL (E), mas o fármaco fica só no plasma.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "concentração",
+    "diluição"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 27,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 72
+   },
+   "enunciado": "<p>Um eletricista analisa o diagrama de uma instalação elétrica residencial para planejar medições de tensão e corrente em uma cozinha. Nesse ambiente existem uma geladeira (G), uma tomada (T) e uma lâmpada (L), conforme a figura. O eletricista deseja medir a tensão elétrica aplicada à geladeira, a corrente total e a corrente na lâmpada. Para isso, ele dispõe de um voltímetro (V) e dois amperímetros (A).</p>[[fig:1]]<p>Para realizar essas medidas, o esquema da ligação desses instrumentos está representado em:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q72.webp",
+     "alt": "Diagrama: fios Fase e Neutro e, entre eles, três ramos em paralelo com G (geladeira), T (tomada) e L (lâmpada). Ao lado, os símbolos de voltímetro (V) e amperímetro (A)."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q72a.webp",
+     "alt": "Alternativa A: um amperímetro no fio de fase, antes de tudo; um voltímetro em série com a geladeira; outro amperímetro em série com a lâmpada."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q72b.webp",
+     "alt": "Alternativa B: um amperímetro em série no ramo da geladeira; um voltímetro em série com a geladeira; um amperímetro em paralelo com a lâmpada."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q72c.webp",
+     "alt": "Alternativa C: amperímetro em série com a geladeira, voltímetro em paralelo com ela e outro amperímetro em paralelo com a lâmpada."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q72d.webp",
+     "alt": "Alternativa D: amperímetro em série com a geladeira e voltímetro em paralelo com ela; outro amperímetro em série com a lâmpada."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q72e.webp",
+     "alt": "Alternativa E: voltímetro ligado entre fase e neutro, em paralelo com a geladeira; um amperímetro no fio neutro, antes das derivações; outro amperímetro em série com a lâmpada."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:2]]",
+    "B": "[[fig:3]]",
+    "C": "[[fig:4]]",
+    "D": "[[fig:5]]",
+    "E": "[[fig:6]]"
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O voltímetro mede tensão e deve ficar em paralelo com a geladeira. O amperímetro da corrente total fica no fio comum, antes de todas as derivações; o da lâmpada fica em série com ela, no mesmo ramo. O único esquema com as três ligações certas é o <strong>E</strong>: voltímetro em paralelo com G, um amperímetro no neutro e outro em série com L. Alternativa <strong>E</strong>.</p><p>Nos esquemas B, C e D, o voltímetro aparece em série com algum aparelho ou os amperímetros ficam em paralelo.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "voltímetro e amperímetro",
+    "circuitos"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 28,
+   "materia": "Biologia",
+   "assunto": "Citologia",
+   "origem": {
+    "numeroOriginal": 73
+   },
+   "enunciado": "<p>Uma indústria está escolhendo uma linhagem de microalgas que otimize a secreção de polímeros comestíveis, os quais são obtidos do meio de cultura de crescimento. Na figura podem ser observadas as proporções de algumas organelas presentes no citoplasma de cada linhagem.</p>[[fig:1]]<p>Qual é a melhor linhagem para se conseguir maior rendimento de polímeros secretados no meio de cultura?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q73.webp",
+     "alt": "Gráfico de barras empilhadas “Perfil celular das linhagens de microalgas”, com a proporção das organelas em cada linhagem (núcleo, retículo endoplasmático, complexo golgiense e mitocôndrias, em %): I, 20, 20, 50 e 10; II, 20, 35, 40 e 5; III, 20, 15, 35 e 30; IV, 20, 40, 20 e 20; V, 20, 35, 15 e 30."
+    }
+   ],
+   "alternativas": {
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "IV",
+    "E": "V"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Os polímeros são secretados para fora da célula. A organela que empacota e secreta substâncias é o complexo golgiense. A linhagem I tem a maior proporção dele, 50%. A melhor é a <strong>linhagem I</strong>. Alternativa <strong>A</strong>.</p><p>A linhagem IV tem mais retículo endoplasmático (40%), mas pouco golgiense (20%).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "complexo golgiense",
+    "secreção celular"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 29,
+   "materia": "Química",
+   "assunto": "Eletroquímica",
+   "origem": {
+    "numeroOriginal": 74
+   },
+   "enunciado": "<p class=\"apoio\">Eu também podia decompor a água, se fosse salgada ou acidulada, usando a pilha de Daniell como fonte de força. Lembro o prazer extraordinário que sentia ao decompor um pouco de água em uma taça para ovos quentes, vendo-a separar-se em seus elementos, o oxigênio em um eletrodo, o hidrogênio no outro. A eletricidade de uma pilha de 1 volt parecia tão fraca, e no entanto podia ser suficiente para desfazer um composto químico, a água...</p><p class=\"fonte\">SACKS, O. <em>Tio Tungstênio: memórias de uma infância química</em>. São Paulo: Cia. das Letras, 2002.</p><p>O fragmento do romance de Oliver Sacks relata a separação dos elementos que compõem a água. O princípio do método apresentado é utilizado industrialmente na</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "obtenção de ouro a partir de pepitas.",
+    "B": "obtenção de calcário a partir de rochas.",
+    "C": "obtenção de alumínio a partir da bauxita.",
+    "D": "obtenção de ferro a partir de seus óxidos.",
+    "E": "obtenção de amônia a partir de hidrogênio e nitrogênio."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>O texto descreve a eletrólise: a corrente elétrica decompõe a água em seus elementos. Na indústria, o alumínio é obtido por eletrólise da alumina (Al<sub>2</sub>O<sub>3</sub>) extraída da bauxita. É a <strong>obtenção de alumínio a partir da bauxita</strong>. Alternativa <strong>C</strong>.</p><p>O ferro (D) é obtido por redução com carvão no alto-forno, sem eletrólise.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "eletrólise",
+    "alumínio"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 30,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 75
+   },
+   "enunciado": "<p>O chuveiro elétrico é um dispositivo capaz de transformar energia elétrica em energia térmica, o que possibilita a elevação da temperatura da água. Um chuveiro projetado para funcionar em 110 V pode ser adaptado para funcionar em 220 V, de modo a manter inalterada sua potência.</p><p>Uma das maneiras de fazer essa adaptação é trocar a resistência do chuveiro por outra, de mesmo material e com o(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "dobro do comprimento do fio.",
+    "B": "metade do comprimento do fio.",
+    "C": "metade da área da seção reta do fio.",
+    "D": "quádruplo da área da seção reta do fio.",
+    "E": "quarta parte da área da seção reta do fio."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>A potência é \\(P = \\dfrac{U^2}{R}\\). Se a tensão dobra (de 110 V para 220 V), U² fica 4 vezes maior; para manter a potência, R também deve ficar 4 vezes maior. Como \\(R = \\rho\\dfrac{L}{A}\\), basta usar a <strong>quarta parte da área da seção reta do fio</strong>. Alternativa <strong>E</strong>.</p><p>Dobrar o comprimento (A) só dobraria a resistência.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "leis de Ohm",
+    "potência elétrica"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 31,
+   "materia": "Física",
+   "assunto": "Leis de Newton",
+   "origem": {
+    "numeroOriginal": 76
+   },
+   "enunciado": "<p>Uma pessoa necessita da força de atrito em seus pés para se deslocar sobre uma superfície. Logo, uma pessoa que sobe uma rampa em linha reta será auxiliada pela força de atrito exercida pelo chão em seus pés.</p><p>Em relação ao movimento dessa pessoa, quais são a direção e o sentido da força de atrito mencionada no texto?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "Perpendicular ao plano e no mesmo sentido do movimento.",
+    "B": "Paralelo ao plano e no sentido contrário ao movimento.",
+    "C": "Paralelo ao plano e no mesmo sentido do movimento.",
+    "D": "Horizontal e no mesmo sentido do movimento.",
+    "E": "Vertical e sentido para cima."
+   },
+   "gabarito": "C",
+   "explicacao": "<p>Ao andar, o pé empurra o chão para trás, e o chão empurra o pé para a frente (ação e reação). O atrito no pé é <strong>paralelo ao plano e no mesmo sentido do movimento</strong>, rampa acima. Alternativa <strong>C</strong>.</p><p>A força perpendicular ao plano (A) é a normal, e não o atrito.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "força de atrito",
+    "ação e reação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 32,
+   "materia": "Química",
+   "assunto": "Estequiometria",
+   "origem": {
+    "numeroOriginal": 77
+   },
+   "enunciado": "<p class=\"apoio\">A produção de aço envolve o aquecimento do minério de ferro, junto com carvão (carbono) e ar atmosférico em uma série de reações de oxirredução. O produto é chamado de ferro-gusa e contém cerca de 3,3% de carbono. Uma forma de eliminar o excesso de carbono é a oxidação a partir do aquecimento do ferro-gusa com gás oxigênio puro. Os dois principais produtos formados são aço doce (liga de ferro com teor de 0,3% de carbono restante) e gás carbônico. As massas molares aproximadas dos elementos carbono e oxigênio são, respectivamente, 12 g/mol e 16 g/mol.</p><p class=\"fonte\">LEE, J. D. <em>Química Inorgânica não tão concisa</em>. São Paulo: Edgard Blucher, 1999 (adaptado).</p><p>Considerando que um forno foi alimentado com 2,5 toneladas de ferro-gusa, a massa de gás carbônico formada, em quilogramas, na produção de aço doce, é mais próxima de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "28.",
+    "B": "75.",
+    "C": "175.",
+    "D": "275.",
+    "E": "303."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O ferro-gusa tem 3,3% de carbono e o aço doce, 0,3%: sai 3% da massa como carbono. Em 2 500 kg, isso é 75 kg de C. Cada 12 g de C formam 44 g de CO<sub>2</sub>: 75 × 44 ÷ 12 = <strong>275 kg</strong>. Alternativa <strong>D</strong>.</p><p>A opção B (75) é a massa de carbono, e não a de CO<sub>2</sub>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "estequiometria",
+    "siderurgia"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 33,
+   "materia": "Biologia",
+   "assunto": "Saúde",
+   "origem": {
+    "numeroOriginal": 78
+   },
+   "enunciado": "<p class=\"apoio\">A contaminação pelo vírus da rubéola é especialmente preocupante em grávidas, devido à síndrome da rubéola congênita (SRC), que pode levar ao risco de aborto e malformações congênitas. Devido a campanhas de vacinação específicas, nas últimas décadas houve uma grande diminuição de casos de rubéola entre as mulheres, e, a partir de 2008, as campanhas se intensificaram e têm dado maior enfoque à vacinação de homens jovens.</p><p class=\"fonte\">BRASIL. <em>Brasil livre da rubéola</em>: campanha nacional de vacinação para eliminação da rubéola. Brasília: Ministério da Saúde, 2009 (adaptado).</p><p>Considerando a preocupação com a ocorrência da SRC, as campanhas passaram a dar enfoque à vacinação dos homens, porque eles</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "ficam mais expostos a esse vírus.",
+    "B": "transmitem o vírus a mulheres gestantes.",
+    "C": "passam a infecção diretamente para o feto.",
+    "D": "transferem imunidade às parceiras grávidas.",
+    "E": "são mais sucetíveis a esse vírus que as mulheres."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A síndrome da rubéola congênita atinge o feto quando a gestante se infecta. Se os homens estiverem vacinados, deixam de pegar e de <strong>transmitir o vírus a mulheres gestantes</strong>. Alternativa <strong>B</strong>.</p><p>O homem não passa a infecção direto para o feto (C), e imunidade não se transfere entre parceiros (D).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "rubéola",
+    "vacinação"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 34,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 79
+   },
+   "enunciado": "<p>Um circuito em série é formado por uma pilha, uma lâmpada incandescente e uma chave interruptora. Ao se ligar a chave, a lâmpada acende quase instantaneamente, irradiando calor e luz. Popularmente, associa-se o fenômeno da irradiação de energia a um desgaste da corrente elétrica, ao atravessar o filamento da lâmpada, e à rapidez com que a lâmpada começa a brilhar. Essa explicação está em desacordo com o modelo clássico de corrente.</p><p>De acordo com o modelo mencionado, o fato de a lâmpada acender quase instantaneamente está relacionado à rapidez com que</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "o fluido elétrico se desloca no circuito.",
+    "B": "as cargas negativas móveis atravessam o circuito.",
+    "C": "a bateria libera cargas móveis para o filamento da lâmpada.",
+    "D": "o campo elétrico se estabelece em todos os pontos do circuito.",
+    "E": "as cargas positivas e negativas se chocam no filamento da lâmpada."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os elétrons se deslocam devagar no fio, a poucos milímetros por segundo. A lâmpada acende quase na hora porque, ao fechar a chave, o campo elétrico se espalha pelo circuito perto da velocidade da luz, e todos os elétrons livres começam a se mover ao mesmo tempo. A rapidez é a com que <strong>o campo elétrico se estabelece em todos os pontos do circuito</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "corrente elétrica",
+    "campo elétrico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 35,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 80
+   },
+   "enunciado": "<p>Estudos de fluxo de energia em ecossistemas demonstram que a alta produtividade nos manguezais está diretamente relacionada às taxas de produção primária líquida e à rápida reciclagem dos nutrientes. Como exemplo de seres vivos encontrados nesse ambiente, temos: aves, caranguejos, insetos, peixes e algas.</p><p>Dos grupos de seres vivos citados, os que contribuem diretamente para a manutenção dessa produtividade no referido ecossistema são</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "aves.",
+    "B": "algas.",
+    "C": "peixes.",
+    "D": "insetos.",
+    "E": "caranguejos."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>A produção primária é feita pelos seres que fazem fotossíntese. Entre os citados, os produtores são as <strong>algas</strong>. Alternativa <strong>B</strong>.</p><p>Aves, peixes, insetos e caranguejos (A, C, D e E) são consumidores.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "produtores",
+    "manguezal"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 36,
+   "materia": "Química",
+   "assunto": "Separação de misturas",
+   "origem": {
+    "numeroOriginal": 81
+   },
+   "enunciado": "<p>Entre as substâncias usadas para o tratamento de água está o sulfato de alumínio que, em meio alcalino, forma partículas em suspensão na água, às quais as impurezas presentes no meio se aderem.</p><p>O método de separação comumente usado para retirar o sulfato de alumínio com as impurezas aderidas é a</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "flotação.",
+    "B": "levigação.",
+    "C": "ventilação.",
+    "D": "peneiração.",
+    "E": "centrifugação."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No tratamento de água, as partículas com impurezas podem ser removidas por flotação: bolhas de ar se prendem aos flocos e os levam para a superfície, de onde são retirados. A resposta é a <strong>flotação</strong>. Alternativa <strong>A</strong>.</p><p>Levigação e peneiração (B e D) separam sólidos, e ventilação (C) separa sólidos com o ar.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "flotação",
+    "tratamento de água"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 37,
+   "materia": "Física",
+   "assunto": "Acústica",
+   "origem": {
+    "numeroOriginal": 82
+   },
+   "enunciado": "<p>Em um piano, o Dó central e a próxima nota Dó (Dó maior) apresentam sons parecidos, mas não idênticos. É possível utilizar programas computacionais para expressar o formato dessas ondas sonoras em cada uma das situações como apresentado nas figuras, em que estão indicados intervalos de tempo idênticos (T).</p>[[fig:1]]<p>A razão entre as frequências do Dó central e do Dó maior é de:</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q82.webp",
+     "alt": "Duas formas de onda no mesmo intervalo de tempo T: à esquerda, a do Dó central; à direita, a do Dó maior, que repete o padrão duas vezes mais."
+    }
+   ],
+   "alternativas": {
+    "A": "\\(\\dfrac{1}{2}\\)",
+    "B": "\\(2\\)",
+    "C": "\\(1\\)",
+    "D": "\\(\\dfrac{1}{4}\\)",
+    "E": "\\(4\\)"
+   },
+   "gabarito": "A",
+   "explicacao": "<p>No mesmo intervalo T, o Dó maior completa o dobro de ciclos que o Dó central: sua frequência é o dobro. A razão entre a frequência do Dó central e a do Dó maior é \\(\\dfrac{1}{2}\\). Alternativa <strong>A</strong>.</p><p>A opção B (2) é a razão invertida, do Dó maior para o Dó central.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "frequência",
+    "oitava"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 38,
+   "materia": "Física",
+   "assunto": "Eletrodinâmica",
+   "origem": {
+    "numeroOriginal": 83
+   },
+   "enunciado": "<p>Medir temperatura é fundamental em muitas aplicações, e apresentar a leitura em mostradores digitais é bastante prático. O seu funcionamento é baseado na correspondência entre valores de temperatura e de diferença de potencial elétrico. Por exemplo, podemos usar o circuito elétrico apresentado, no qual o elemento sensor de temperatura ocupa um dos braços do circuito (<em>R</em><sub>S</sub>) e a dependência da resistência com a temperatura é conhecida.</p>[[fig:1]]<p>Para um valor de temperatura em que <em>R</em><sub>S</sub> = 100 Ω, a leitura apresentada pelo voltímetro será de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q83.webp",
+     "alt": "Ponte de resistores alimentada por uma fonte de 10 V: lado esquerdo com 470 Ω em cima e Rs = 100 Ω embaixo; lado direito com 470 Ω em cima e 120 Ω embaixo. Um voltímetro liga os pontos do meio, com o terminal + à esquerda e o − à direita; a parte de baixo está aterrada."
+    }
+   ],
+   "alternativas": {
+    "A": "+ 6,2 V.",
+    "B": "+ 1,7 V.",
+    "C": "+ 0,3 V.",
+    "D": "– 0,3 V.",
+    "E": "– 6,2 V."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>Os dois lados da ponte são divisores de tensão ligados a 10 V. No lado esquerdo (470 Ω em cima e R<sub>S</sub> = 100 Ω embaixo), o ponto do meio fica em 10 × 100/570 ≈ 1,75 V. No lado direito (470 Ω e 120 Ω), fica em 10 × 120/590 ≈ 2,03 V. O voltímetro lê o terminal + menos o −: 1,75 − 2,03 ≈ <strong>−0,3 V</strong>. Alternativa <strong>D</strong>.</p><p>A opção C (+0,3 V) inverte a polaridade do voltímetro.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "ponte de Wheatstone",
+    "divisor de tensão"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 39,
+   "materia": "Biologia",
+   "assunto": "Ecologia",
+   "origem": {
+    "numeroOriginal": 84
+   },
+   "enunciado": "<p class=\"apoio\">Apesar de belos e impressionantes, corais exóticos encontrados na Ilha Grande podem ser uma ameaça ao equilíbrio dos ecossistemas do litoral do Rio de Janeiro. Originários do Oceano Pacífico, esses organismos foram trazidos por plataformas de petróleo e outras embarcações, provavelmente na década de 1980, e disputam com as espécies nativas elementos primordiais para a sobrevivência, como espaço e alimento. Organismos invasores são a segunda maior causa de perda de biodiversidade, superados somente pela destruição direta de hábitats pela ação do homem. As populações de espécies invasoras crescem indefinidamente e ocupam o espaço de organismos nativos.</p><p class=\"fonte\">LEVY, I. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 5 dez. 2011 (adaptado).</p><p>As populações de espécies invasoras crescem bastante por terem a vantagem de</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "não apresentarem genes deletérios no seu <em>pool</em> gênico.",
+    "B": "não possuírem parasitas e predadores naturais presentes no ambiente exótico.",
+    "C": "apresentarem características genéticas para se adaptarem a qualquer clima ou condição ambiental.",
+    "D": "apresentarem capacidade de consumir toda a variedade de alimentos disponibilizados no ambiente exótico.",
+    "E": "apresentarem características fisiológicas que lhes conferem maior tamanho corporal que o das espécies nativas."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No ambiente novo, a espécie invasora chega sem os parasitas e predadores que controlavam sua população no lugar de origem. Por isso cresce muito, por <strong>não possuírem parasitas e predadores naturais presentes no ambiente exótico</strong>. Alternativa <strong>B</strong>.</p><p>Nenhuma espécie se adapta a qualquer clima (C).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "espécies invasoras",
+    "controle populacional"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 40,
+   "materia": "Física",
+   "assunto": "Eletromagnetismo",
+   "origem": {
+    "numeroOriginal": 85
+   },
+   "enunciado": "<p>Desenvolve-se um dispositivo para abrir automaticamente uma porta no qual um botão, quando acionado, faz com que uma corrente elétrica <em>i</em> = 6 A percorra uma barra condutora de comprimento <em>L</em> = 5 cm, cujo ponto médio está preso a uma mola de constante elástica <em>k</em> = 5 × 10<sup>−2</sup> N/cm. O sistema mola-condutor está imerso em um campo magnético uniforme perpendicular ao plano. Quando acionado o botão, a barra sairá da posição de equilíbrio a uma velocidade média de 5 m/s e atingirá a catraca em 6 milisegundos, abrindo a porta.</p>[[fig:1]]<p>A intensidade do campo magnético, para que o dispositivo funcione corretamente, é de</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q85.webp",
+     "alt": "Esquema: uma barra condutora vertical de comprimento L, com corrente i para cima, presa pelo meio a uma mola de constante k por um isolante; a mola está fixa numa parede à direita. A região tem campo magnético entrando no plano (símbolos ×). À esquerda, uma catraca e um fio; a barra se move com velocidade v para a esquerda. Embaixo, um eixo x (cm) com a origem 0 e o ponto C, onde fica a catraca."
+    }
+   ],
+   "alternativas": {
+    "A": "5 × 10<sup>−1</sup> T.",
+    "B": "5 × 10<sup>−2</sup> T.",
+    "C": "5 × 10<sup>1</sup> T.",
+    "D": "2 × 10<sup>−2</sup> T.",
+    "E": "2 × 10<sup>0</sup> T."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>A barra se desloca até a catraca com velocidade média de 5 m/s em 6 ms: x = 5 × 0,006 = 0,03 m = 3 cm. Na nova posição de equilíbrio, a força magnética equilibra a mola: B·i·L = k·x. Com k = 5 × 10<sup>−2</sup> N/cm, k·x = 0,15 N, e B = 0,15 ÷ (6 × 0,05) = 0,5 T = <strong>5 × 10<sup>−1</sup> T</strong>. Alternativa <strong>A</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "força magnética",
+    "lei de Hooke"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 41,
+   "materia": "Química",
+   "assunto": "Forças intermoleculares",
+   "origem": {
+    "numeroOriginal": 86
+   },
+   "enunciado": "<p>As fraldas descartáveis que contêm o polímero poliacrilato de sódio (1) são mais eficientes na retenção de água que as fraldas de pano convencionais, constituídas de fibras de celulose (2).</p>[[fig:1]]<p class=\"fonte\">CURI, D. <em>Química Nova na Escola</em>, São Paulo, n. 23, maio 2006 (adaptado).</p><p>A maior eficiência dessas fraldas descartáveis, em relação às de pano, deve-se às</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q86.webp",
+     "alt": "Fórmulas estruturais: (1) poliacrilato de sódio, uma cadeia de carbonos com o grupo COO−Na+, repetida n vezes; (2) celulose, anéis de glicose com grupos OH ligados por oxigênio, repetidos n vezes."
+    }
+   ],
+   "alternativas": {
+    "A": "interações dipolo-dipolo mais fortes entre o poliacrilato e a água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+    "B": "interações íon-íon mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+    "C": "ligações de hidrogênio mais fortes entre o poliacrilato e a água, em relação às interações íon-dipolo entre a celulose e as moléculas de água.",
+    "D": "ligações de hidrogênio mais fortes entre o poliacrilato e as moléculas de água, em relação às interações dipolo induzido-dipolo induzido entre a celulose e as moléculas de água.",
+    "E": "interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água."
+   },
+   "gabarito": "E",
+   "explicacao": "<p>O poliacrilato de sódio tem cargas (COO<sup>−</sup> e Na<sup>+</sup>), que atraem fortemente as moléculas polares de água: são interações íon-dipolo. A celulose, sem cargas, interage com a água por ligações de hidrogênio, mais fracas. A eficiência vem das <strong>interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água</strong>. Alternativa <strong>E</strong>.</p><p>A água não é íon, então não há interação íon-íon (B).</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "íon-dipolo",
+    "polímeros"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 42,
+   "materia": "Física",
+   "assunto": "Leis de Newton",
+   "origem": {
+    "numeroOriginal": 87
+   },
+   "enunciado": "<p>Em um dia sem vento, ao saltar de um avião, um paraquedista cai verticalmente até atingir a velocidade limite. No instante em que o paraquedas é aberto (instante T<sub>A</sub>), ocorre a diminuição de sua velocidade de queda. Algum tempo após a abertura do paraquedas, ele passa a ter velocidade de queda constante, que possibilita sua aterrissagem em segurança.</p><p>Que gráfico representa a força resultante sobre o paraquedista, durante o seu movimento de queda?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q87a.webp",
+     "alt": "Alternativa A: a força começa positiva, diminui até zero em TA e depois cai para valores negativos cada vez maiores."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q87b.webp",
+     "alt": "Alternativa B: a força começa positiva e diminui até zero; em TA salta para um valor negativo grande e volta a se aproximar de zero."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q87c.webp",
+     "alt": "Alternativa C: a força cresce de zero até um máximo em TA e depois diminui até zero."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q87d.webp",
+     "alt": "Alternativa D: a força começa positiva, diminui até zero antes de TA e fica em zero."
+    },
+    {
+     "src": "assets/img/enem-2013-natureza/q87e.webp",
+     "alt": "Alternativa E: a força cresce a partir de zero e se estabiliza num valor positivo."
+    }
+   ],
+   "alternativas": {
+    "A": "[[fig:1]]",
+    "B": "[[fig:2]]",
+    "C": "[[fig:3]]",
+    "D": "[[fig:4]]",
+    "E": "[[fig:5]]"
+   },
+   "gabarito": "B",
+   "explicacao": "<p>No começo, a força resultante é o peso, que vai diminuindo à medida que a resistência do ar cresce, até zerar na velocidade limite. Ao abrir o paraquedas (T<sub>A</sub>), a resistência do ar fica muito maior que o peso: a resultante passa a ser grande e para cima (negativa) e diminui até zerar de novo, quando a velocidade fica constante. Esse comportamento está no <strong>gráfico B</strong>. Alternativa <strong>B</strong>.</p><p>O gráfico A não volta a zero depois de T<sub>A</sub>, e D ignora o efeito da abertura.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "força resultante",
+    "velocidade limite"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 43,
+   "materia": "Biologia",
+   "assunto": "Genética",
+   "origem": {
+    "numeroOriginal": 88
+   },
+   "enunciado": "<p>Para a identificação de um rapaz vítima de acidente, fragmentos de tecidos foram retirados e submetidos à extração de DNA nuclear, para comparação com o DNA disponível dos possíveis familiares (pai, avô materno, avó materna, filho e filha). Como o teste com o DNA nuclear não foi conclusivo, os peritos optaram por usar também DNA mitocondrial, para dirimir dúvidas.</p><p>Para identificar o corpo, os peritos devem verificar se há homologia entre o DNA mitocondrial do rapaz e o DNA mitocondrial do(a)</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "pai.",
+    "B": "filho.",
+    "C": "filha.",
+    "D": "avó materna.",
+    "E": "avô materno."
+   },
+   "gabarito": "D",
+   "explicacao": "<p>O DNA mitocondrial é herdado só da mãe. O rapaz recebeu o DNA mitocondrial da mãe, que o recebeu da mãe dela, a avó materna. Pai, avô materno e filhos não o compartilham com ele (os filhos o herdam da mãe deles). A comparação deve ser com a <strong>avó materna</strong>. Alternativa <strong>D</strong>.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "DNA mitocondrial",
+    "herança materna"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 44,
+   "materia": "Física",
+   "assunto": "Calorimetria",
+   "origem": {
+    "numeroOriginal": 89
+   },
+   "enunciado": "<p>Aquecedores solares usados em residências têm o objetivo de elevar a temperatura da água até 70 °C. No entanto, a temperatura ideal da água para um banho é de 30 °C. Por isso, deve-se misturar a água aquecida com a água à temperatura ambiente de um outro reservatório, que se encontra a 25 °C.</p><p>Qual a razão entre a massa de água quente e a massa de água fria na mistura para um banho à temperatura ideal?</p>",
+   "imagens": [],
+   "alternativas": {
+    "A": "0,111.",
+    "B": "0,125.",
+    "C": "0,357.",
+    "D": "0,428.",
+    "E": "0,833."
+   },
+   "gabarito": "B",
+   "explicacao": "<p>O calor que a água quente perde é o que a fria ganha: m<sub>q</sub> · (70 − 30) = m<sub>f</sub> · (30 − 25). Então 40 m<sub>q</sub> = 5 m<sub>f</sub>, e \\(\\dfrac{m_q}{m_f} = \\dfrac{5}{40} = \\) <strong>0,125</strong>. Alternativa <strong>B</strong>.</p><p>A opção E (0,833) usa as temperaturas sem as diferenças.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "trocas de calor",
+    "equilíbrio térmico"
+   ],
+   "area": "Ciências da Natureza"
+  },
+  {
+   "numero": 45,
+   "materia": "Química",
+   "assunto": "Química orgânica",
+   "origem": {
+    "numeroOriginal": 90
+   },
+   "enunciado": "<p>As moléculas de <em>nanoputians</em> lembram figuras humanas e foram criadas para estimular o interesse de jovens na compreensão da linguagem expressa em fórmulas estruturais, muito usadas em química orgânica. Um exemplo é o NanoKid, representado na figura:</p>[[fig:1]]<p class=\"fonte\">CHANTEAU, S. H.; TOUR, J. M. <em>The Journal of Organic Chemistry</em>, v. 68, n. 23, 2003 (adaptado).</p><p>Em que parte do corpo do NanoKid existe carbono quaternário?</p>",
+   "imagens": [
+    {
+     "src": "assets/img/enem-2013-natureza/q90.webp",
+     "alt": "Fórmula estrutural do NanoKid: na cabeça, um anel de cinco átomos com dois oxigênios; o tórax é um anel benzênico, com dois “braços” de tripla ligação terminados em grupos com um carbono ligado a três metilas (as mãos); uma tripla ligação liga ao abdômen, outro anel benzênico, de onde saem duas “pernas” com tripla ligação e cadeias de três carbonos (os pés)."
+    }
+   ],
+   "alternativas": {
+    "A": "Mãos.",
+    "B": "Cabeça.",
+    "C": "Tórax.",
+    "D": "Abdômen.",
+    "E": "Pés."
+   },
+   "gabarito": "A",
+   "explicacao": "<p>Carbono quaternário é o que está ligado a quatro outros carbonos. Na figura, isso acontece nos grupos terc-butila, nas pontas das duas “mãos”: cada um está ligado a três metilas e ao carbono da tripla ligação. A resposta é <strong>mãos</strong>. Alternativa <strong>A</strong>.</p><p>Na cabeça há um carbono ligado a dois oxigênios, e nos pés as cadeias são lineares.</p>",
+   "explicacaoRevisada": true,
+   "tags": [
+    "classificação do carbono",
+    "fórmulas estruturais"
+   ],
+   "area": "Ciências da Natureza"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+/* Escolha da prova: faixa verde-petróleo com o filtro, índice de anos ao lado e uma linha por prova,
+   como as linhas de uma folha de respostas. No celular o índice vira uma faixa de anos que rola. */
+.filtros-provas .segmento{grid-template-columns:repeat(4,minmax(0,1fr));grid-auto-flow:row}
+.filtros-provas__linha{display:flex;flex-wrap:wrap;gap:var(--s2) var(--s4);align-items:center;justify-content:space-between}
+.filtros-provas .campo{flex:0 1 auto;min-width:min(13rem,100%)}
+.faixa__conta{margin:0;font:var(--fs-1) var(--font-ui);color:var(--banda-mudo)}
+
+.provas-corpo{display:flex;flex-wrap:wrap;gap:var(--s5);align-items:flex-start}
+.provas-col{flex:999 1 34rem;min-width:0}
+
+/* Índice dos anos */
+.indice-anos{flex:1 1 11rem;max-width:13rem;position:sticky;top:calc(var(--topo-fixo) + 1rem);padding:1.1rem .8rem;background:var(--folha);border-radius:1.4rem;box-shadow:var(--sombra)}
+.indice-anos .rotulo{margin:0 .6rem .5rem}
+.indice-anos ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px;max-height:calc(100vh - var(--topo-fixo) - 8rem);overflow-y:auto}
+.indice-anos li{max-width:none}
+.indice-anos a{display:flex;justify-content:space-between;align-items:center;min-height:2.5rem;padding:0 .75rem;border-radius:.75rem;font:600 1.0625rem var(--font-ui);color:var(--text);text-decoration:none;font-variant-numeric:tabular-nums}
+.indice-anos a:hover{background:var(--caneta-clara)}
+.indice-anos a.atual{font-weight:700;color:var(--tinta);background:var(--caneta-clara)}
+[data-theme="dark"] .indice-anos a.atual{color:var(--text)}
+.indice__n{font-size:.8125rem;color:var(--text-muted)}
+@media (max-width:47.99rem){
+  .indice-anos{flex:1 1 100%;min-width:0;max-width:none;position:static;padding:.5rem;border-radius:var(--pilula)}
+  .indice-anos .rotulo{display:none}
+  .indice-anos ol{flex-direction:row;overflow-x:auto;max-height:none;scrollbar-width:none}
+  .indice-anos a{min-height:2.5rem;white-space:nowrap;gap:.4rem;border-radius:var(--pilula)}
+}
+
+/* Anos e linhas */
+.ano{margin:0 0 var(--s5);scroll-margin-top:calc(var(--topo-fixo) + 1rem)}
+.ano .titulo-linha h2{font-size:clamp(1.8rem,4vw,2.2rem);font-variant-numeric:lining-nums}
+.ano__nota{max-width:var(--measure);margin:0 0 var(--s3);padding:var(--s2) var(--s3);font:var(--fs-1)/1.5 var(--font-ui);color:var(--text-muted);background:var(--surface-2);border-radius:var(--radius)}
+.ano__lista{list-style:none;margin:0;padding:0;background:var(--folha);border-radius:1.4rem;box-shadow:var(--sombra);overflow:hidden}
+.ed{max-width:none;display:flex;flex-wrap:wrap;align-items:center;gap:var(--s2) var(--s4);padding:1.1rem 1.4rem;border-top:1px solid var(--surface-2)}
+.ed:first-child{border-top:0}
+.ed p{margin:0}
+.ed__bolha{flex:none;width:2.1rem;height:2.1rem;box-sizing:border-box;display:grid;place-items:center;border:1.5px solid var(--line-forte);border-radius:50%;font:700 1rem var(--font-ui)}
+.ed__bolha--feita{color:var(--banda-destaque);background:var(--tinta);border-color:var(--tinta)}
+.ed__bolha--andando{border:2px solid var(--tinta);background:linear-gradient(90deg,var(--tinta) 50%,transparent 50%)}
+.ed__bolha--vazia{border-style:dashed}
+.ed__txt{flex:1 1 14rem;min-width:0;display:flex;flex-direction:column;gap:.15rem}
+.ed__banca{font:700 .75rem var(--font-ui);letter-spacing:.12em;text-transform:uppercase;color:var(--caneta)}
+.ed[data-banca="FATEC"] .ed__banca,.ed[data-banca="Enem"] .ed__banca{color:var(--ouro)}
+.ed__estado{font-weight:600;letter-spacing:0;text-transform:none;color:var(--text-muted)}
+.ed__nome{margin:0;font-size:1.3rem;line-height:1.2}
+.ed__meta{font:var(--fs-1)/1.45 var(--font-ui);color:var(--text-muted)}
+.ed__sit{flex:0 0 9.5rem;font:600 var(--fs-1) var(--font-ui);color:var(--text-muted)}
+.ed__sit--andando{color:var(--caneta)}
+.ed__sit--feita{color:var(--text)}
+.ed__sit--em-breve{flex:none;font-weight:700;color:var(--ouro)}
+.ed__sit--sem-prova{flex:none}
+.ed__acoes{display:flex;flex-wrap:wrap;gap:var(--s2);align-items:center}
+.ed__acoes .btn{min-height:2.75rem}
+.ed__off{font-size:.85rem}
+.ed--mini{background:color-mix(in srgb,var(--surface-2) 35%,transparent)}
+.ed--mini .ed__nome{color:var(--text-muted);font-size:1.15rem}
+.ed--mini .ed__banca{color:var(--text-muted)}
+/* Enem: as áreas do ano em pílulas */
+.ed__areas{list-style:none;margin:.55rem 0 0;padding:0;display:flex;flex-wrap:wrap;gap:.4rem}
+.ed__areas li{max-width:none}
+.area{display:inline-flex;align-items:center;min-height:2.5rem;padding:0 .95rem;font:600 .9375rem var(--font-ui);color:var(--tinta);background:var(--caneta-clara);border-radius:var(--pilula);text-decoration:none}
+[data-theme="dark"] .area{color:var(--text)}
+.area:hover{background:color-mix(in srgb,var(--caneta-clara) 70%,var(--caneta))}
+.area--andando,.area--feita{color:var(--sobre-tinta);background:var(--tinta)}
+.area__sit{margin-left:.3rem;font-weight:700}
+@media (max-width:39.99rem){
+  .ed{padding:1rem 1.1rem;gap:.6rem .9rem}
+  .ed__sit{flex:1 1 auto;order:3;padding-left:3rem}
+  .ed__acoes{flex:1 1 100%;order:4;padding-left:3rem}
+  .ed__acoes .btn{flex:1 1 auto}
+  .ed--mini .ed__sit{padding-left:0;flex:none;order:0}
+  .ed__sit--nova{display:none}
+}
+.vazio{margin:var(--s4) 0;color:var(--text-muted)}
+
+/* Levar o progresso */
+.backup{margin-top:var(--s5);padding:1.5rem 1.75rem;background:var(--folha);border-radius:1.4rem;box-shadow:var(--sombra);scroll-margin-top:calc(var(--topo-fixo) + 1rem)}
+.backup h2{margin:0 0 var(--s1);font-size:1.4rem}
+.backup p{margin:0 0 var(--s3);max-width:var(--measure)}
+.backup__acoes{display:flex;flex-wrap:wrap;gap:var(--s2);margin-bottom:var(--s3)}
+.backup__imp{cursor:pointer}
+.backup:has(#f-imp:focus-visible) .backup__imp{box-shadow:0 0 0 4px var(--caneta-clara)}
+.backup .legenda{margin-bottom:var(--s1)}
+.qr{max-width:20rem;margin:0 0 var(--s3);padding:var(--s3);background:var(--qr-fundo);color:var(--qr-tinta);border:1px solid var(--line);border-radius:var(--radius)}
+.qr svg{display:block;width:100%;height:auto}
+.qr p{font-size:.95rem}

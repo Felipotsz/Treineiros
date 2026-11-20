@@ -1,0 +1,1301 @@
+{
+  "id": "enem-2026-matematica",
+  "banca": "Enem",
+  "ano": 2026,
+  "titulo": "Enem 2026: Matemática",
+  "fonte": "Inep",
+  "dataExame": "2026-11-15",
+  "duracaoMinutos": 150,
+  "area": "Matemática",
+  "caderno": "amarelo",
+  "dia": 2,
+  "questoes": [
+    {
+      "numero": 1,
+      "materia": "Matemática",
+      "assunto": "Frações",
+      "origem": {
+        "numeroOriginal": 136
+      },
+      "enunciado": "<p>O comprimento de escala de um violão é dado pela distância, em polegada, entre o rastilho e a pestana, conforme figura.</p>[[fig:1]]<p>A representação decimal desse número é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q136.webp",
+          "alt": "Violão visto de frente, com o rastilho (perto da boca) e a pestana (no fim do braço) marcados; uma cota entre eles indica 22 3/4 polegadas."
+        }
+      ],
+      "alternativas": {
+        "A": "25,40.",
+        "B": "22,75.",
+        "C": "21,25.",
+        "D": "16,50.",
+        "E": "6,25."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O número misto 22 <sup>3</sup>⁄<sub>4</sub> significa 22 inteiros mais três quartos. Como 3 ÷ 4 = 0,75, fica 22 + 0,75 = <strong>22,75</strong>. Alternativa <strong>B</strong>.</p><p>Basta dividir 3 por 4; não é preciso converter polegada em outra unidade.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "número misto",
+        "representação decimal"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 2,
+      "materia": "Matemática",
+      "assunto": "Porcentagem",
+      "origem": {
+        "numeroOriginal": 137
+      },
+      "enunciado": "<p>O preço de venda V de um produto, em real, é dado pela expressão V = (M + F) × (1 + L), em que M e F são, respectivamente, os custos dos insumos utilizados e os custos de fabricação, cuja soma representa o custo total do produto, em real, e L é o percentual de lucro sobre o custo total com a venda desse produto.</p><p>Durante o último ano, M foi 50% superior a F. Para o ano atual, M teve uma redução de 30% e F, um acréscimo de 45%, ambos em relação ao último ano.</p><p>Para que o preço de venda V permaneça inalterado, o percentual de lucro no ano atual, em relação ao do último ano, deverá</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "aumentar 15%.",
+        "B": "aumentar 7,5%.",
+        "C": "diminuir 7,5%.",
+        "D": "diminuir 15%.",
+        "E": "manter-se inalterado."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>No último ano, com F = <em>f</em>, M = 1,5<em>f</em> e o custo total era 2,5<em>f</em>. No ano atual, M = 0,7 × 1,5<em>f</em> = 1,05<em>f</em> e F = 1,45<em>f</em>; o custo total continua 1,05<em>f</em> + 1,45<em>f</em> = 2,5<em>f</em>. Como (M + F) não mudou, para V ficar igual (1 + L) também não muda: o lucro deve <strong>manter-se inalterado</strong>. Alternativa <strong>E</strong>.</p><p>Somar os percentuais (−30% + 45% = +15%) ignora que M e F têm pesos diferentes no custo.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "variação percentual",
+        "média ponderada"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 3,
+      "materia": "Matemática",
+      "assunto": "Porcentagem",
+      "origem": {
+        "numeroOriginal": 138
+      },
+      "enunciado": "<p>A imagem representa o cupom fiscal fornecido por um supermercado a um cliente após a realização de sua compra.</p>[[fig:1]]<p>Para cada produto, o valor relativo ao imposto é calculado aplicando-se o percentual indicado no cupom sobre o preço por ele cobrado.</p><p>Qual é o valor total, em real, correspondente aos impostos pagos nessa compra?</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q138.webp",
+          "alt": "Cupom fiscal: Leite 1 L, 2 × 3,00 = 6,00 (5% imposto); Margarina 250 g, 1 × 5,00 = 5,00 (20% imposto); Refrigerante 2 L, 2 × 8,00 = 16,00 (25% imposto); Total R$ 27,00."
+        }
+      ],
+      "alternativas": {
+        "A": "2,70",
+        "B": "3,15",
+        "C": "4,50",
+        "D": "5,30",
+        "E": "5,40"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Leite: 5% de 6,00 = 0,30. Margarina: 20% de 5,00 = 1,00. Refrigerante: 25% de 16,00 = 4,00. Total: 0,30 + 1,00 + 4,00 = <strong>R$ 5,30</strong>. Alternativa <strong>D</strong>.</p><p>Aplicar o percentual ao preço unitário do refrigerante (25% de 8,00) dá 3,30; somar os percentuais e aplicar ao total não faz sentido, pois cada produto tem sua alíquota.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "porcentagem",
+        "impostos"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 4,
+      "materia": "Matemática",
+      "assunto": "Análise combinatória",
+      "origem": {
+        "numeroOriginal": 139
+      },
+      "enunciado": "<p>Uma cafeteria vende cápsulas de café nas intensidades tradicional, suave, forte e extraforte. Ela comercializa essas cápsulas em kits com 12 unidades, contendo:</p><ul><li>pelo menos duas cápsulas de café na intensidade tradicional e pelo menos uma cápsula de cada uma das demais intensidades;</li><li>quantidades iguais de cápsulas de café nas intensidades suave e forte.</li></ul><p>Quantos kits diferentes podem ser formados?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "20",
+        "B": "25",
+        "C": "36",
+        "D": "286",
+        "E": "455"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Sejam T, S, F e X as quantidades de cápsulas tradicionais, suaves, fortes e extrafortes: T + S + F + X = 12, com T ≥ 2, S = F ≥ 1 e X ≥ 1. Então T + X = 12 − 2S, e para cada S contamos os pares (T, X) com T ≥ 2 e X ≥ 1:</p><ul><li>S = 1: T + X = 10 → T de 2 a 9: 8 kits;</li><li>S = 2: T + X = 8 → 6 kits;</li><li>S = 3: T + X = 6 → 4 kits;</li><li>S = 4: T + X = 4 → 2 kits;</li><li>S = 5: T + X = 2 → impossível.</li></ul><p>Total: 8 + 6 + 4 + 2 = <strong>20</strong>. Alternativa <strong>A</strong>.</p><p>Esquecer a condição S = F e contar todas as soluções leva a números bem maiores, como 286 ou 455.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "soluções inteiras",
+        "contagem"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 5,
+      "materia": "Matemática",
+      "assunto": "Probabilidade",
+      "origem": {
+        "numeroOriginal": 140
+      },
+      "enunciado": "<p>O conceito de grupo sanguíneo se baseia na presença ou ausência de um ou dois antígenos (A e B) na membrana dos glóbulos vermelhos. Com relação a esses dois antígenos, há quatro grupos sanguíneos.</p><ul><li>A: apenas o antígeno A está presente;</li><li>B: apenas o antígeno B está presente;</li><li>AB: ambos os antígenos estão presentes;</li><li>O: nenhum dos antígenos está presente.</li></ul><p>Além dos antígenos A e B, há outro antígeno envolvido, chamado fator Rh, indicado com o sinal “+” quando está presente, ou com o sinal “−” quando está ausente. Dessa forma, o grupo sanguíneo de uma pessoa é descrito usando-se letras e o sinal indicador do fator Rh, por exemplo: O+, A+, AB−. Há dois grupos sanguíneos que se destacam: AB+, denominado “receptor universal”, que em uma transfusão de sangue a pessoa pode receber sangue de qualquer tipo; e O−, denominado “doador universal”, cujo sangue pode ser recebido por qualquer pessoa.</p><p class=\"fonte\">Disponível em: http://saude.hsw.uol.com.br. Acesso em: 2 mar. 2012 (adaptado).</p><p>Em uma cidade, foi realizado um levantamento dos grupos sanguíneos de todos os moradores, constatando-se que 25% da população apresenta apenas o antígeno tipo A; 25%, apenas o tipo B e 30%, o tipo AB. Além disso, em cada grupo sanguíneo, a ocorrência do fator Rh+ é de 60%.</p><p>A probabilidade de uma pessoa dessa cidade, escolhida ao acaso, ser receptora universal ou doadora universal é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "0,3.",
+        "B": "0,26.",
+        "C": "0,06.",
+        "D": "0,036.",
+        "E": "0,0144."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O grupo O é o que sobra: 100% − 25% − 25% − 30% = 20%. Receptor universal (AB+): 0,30 × 0,6 = 0,18. Doador universal (O−): 0,20 × 0,4 = 0,08. Os eventos são excludentes: 0,18 + 0,08 = <strong>0,26</strong>. Alternativa <strong>B</strong>.</p><p>Multiplicar as duas probabilidades (0,18 × 0,08 = 0,0144, E) seria o “e”, não o “ou”.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "probabilidade da união",
+        "grupos sanguíneos"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 6,
+      "materia": "Matemática",
+      "assunto": "Grandezas e medidas",
+      "origem": {
+        "numeroOriginal": 141
+      },
+      "enunciado": "<p>Um usuário de telefonia móvel quer contratar um serviço de dados 5G e foi informado de que a taxa média de transferência de dados ofertada nesse serviço é 436 Mb/s. Como ele não conhecia essa unidade de medida, pesquisou e verificou que ela relaciona duas grandezas.</p><p>Qual razão entre as grandezas fornece a taxa média de transferência de dados?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "<sup>volume de dados</sup>⁄<sub>tempo</sub>",
+        "B": "<sup>distância</sup>⁄<sub>volume de dados</sub>",
+        "C": "<sup>tempo</sup>⁄<sub>volume de dados</sub>",
+        "D": "<sup>velocidade</sup>⁄<sub>distância</sub>",
+        "E": "<sup>distância</sup>⁄<sub>tempo</sub>"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Mb/s é megabit por segundo: uma quantidade de dados dividida por um intervalo de tempo. A razão é <strong>volume de dados ÷ tempo</strong>. Alternativa <strong>A</strong>.</p><p>A unidade lembra km/h, mas não envolve distância nem velocidade (D e E); C é a razão invertida.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "unidades de medida",
+        "taxa de transferência"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 7,
+      "materia": "Matemática",
+      "assunto": "Geometria espacial",
+      "origem": {
+        "numeroOriginal": 142
+      },
+      "enunciado": "<p>Um artesão confeccionará um pingente conectando uma pirâmide a um prisma, formando um novo poliedro. Para isso, utiliza uma pirâmide com 10 arestas, cuja base é congruente às bases do prisma. Esses dois poliedros serão colados um ao outro, de forma a coincidirem as arestas da base da pirâmide com as arestas de uma das bases do prisma.</p><p>Quantas faces terá esse pingente?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "11",
+        "B": "13",
+        "C": "19",
+        "D": "21",
+        "E": "23"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Uma pirâmide de base com <em>n</em> lados tem 2<em>n</em> arestas: 2<em>n</em> = 10 dá <em>n</em> = 5 (base pentagonal). A pirâmide tem 5 faces laterais + 1 base = 6 faces; o prisma pentagonal tem 5 laterais + 2 bases = 7 faces. Ao colar, a base da pirâmide e uma base do prisma ficam dentro do sólido e deixam de ser faces: 6 + 7 − 2 = <strong>11</strong>. Alternativa <strong>A</strong>.</p><p>Somar 6 + 7 sem descontar as bases coladas dá 13 (B).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "poliedros",
+        "faces e arestas"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 8,
+      "materia": "Matemática",
+      "assunto": "Geometria analítica",
+      "origem": {
+        "numeroOriginal": 143
+      },
+      "enunciado": "<p>Um jardim, cuja vista superior é o quadrado ABCD, será reformado para dar lugar a um novo jardim cuja vista superior seja a de um círculo. O jardim circular deverá conter a região do jardim original e ter a menor área possível.</p><p>Para viabilizar o projeto, foi feita a representação no plano cartesiano do jardim original, em que os eixos foram orientados nas direções sul-norte e oeste-leste e graduados em metro. Os pontos que correspondem aos vértices C e D do jardim original estão com suas coordenadas explicitadas, conforme figura.</p>[[fig:1]]<p>Qual é a equação da circunferência que delimitará a região do novo jardim?</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q143.webp",
+          "alt": "Plano cartesiano com um quadrado verde ABCD inclinado: A à esquerda, B embaixo, C(7; 3) à direita e D(5; 7) em cima. Uma rosa dos ventos indica N para cima e L para a direita."
+        }
+      ],
+      "alternativas": {
+        "A": "<em>x</em>² + <em>y</em>² − 10 = 0",
+        "B": "<em>x</em>² + <em>y</em>² − 8<em>x</em> − 8<em>y</em> + 22 = 0",
+        "C": "<em>x</em>² + <em>y</em>² − 16<em>x</em> − 12<em>y</em> + 90 = 0",
+        "D": "<em>x</em>² + <em>y</em>² − 12<em>x</em> − 10<em>y</em> + 56 = 0",
+        "E": "<em>x</em>² + <em>y</em>² + 8<em>x</em> + 8<em>y</em> + 32 − 10 = 0"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>C(7; 3) e D(5; 7) são vértices consecutivos: o lado DC = (2; −4) mede √20. Girando esse vetor 90°, chega-se aos outros vértices: A = (1; 5) e B = (3; 1). O menor círculo que contém o quadrado é o circunscrito: centro no ponto médio da diagonal AC, (4; 4), e raio igual à metade da diagonal, com <em>r</em>² = (7 − 4)² + (3 − 4)² = 10.</p><p>(<em>x</em> − 4)² + (<em>y</em> − 4)² = 10 → <strong><em>x</em>² + <em>y</em>² − 8<em>x</em> − 8<em>y</em> + 22 = 0</strong>. Alternativa <strong>B</strong>.</p><p>A alternativa E traz a mesma conta com os sinais trocados (centro em (−4; −4)); C usa o ponto médio de CD como se fosse o centro, com outra conta.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "equação da circunferência",
+        "circunferência circunscrita"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 9,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 144
+      },
+      "enunciado": "<p>O dono de uma loja de importados realizou o balanço das vendas realizadas no primeiro semestre deste ano. A tabela apresenta a quantidade de tablets de um modelo vendido em cada mês desse período.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Mês</th><th scope=\"col\">Quantidade de tablets vendidos</th></tr></thead><tbody><tr><td>Janeiro</td><td>44</td></tr><tr><td>Fevereiro</td><td>56</td></tr><tr><td>Março</td><td>44</td></tr><tr><td>Abril</td><td>48</td></tr><tr><td>Maio</td><td>62</td></tr><tr><td>Junho</td><td>52</td></tr></tbody></table></div><p>A mediana das quantidades mensais de tablets desse modelo vendidos no primeiro semestre é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "44.",
+        "B": "46.",
+        "C": "50.",
+        "D": "51.",
+        "E": "52."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Em ordem: 44, 44, 48, 52, 56, 62. Com seis valores, a mediana é a média dos dois centrais: (48 + 52) ÷ 2 = <strong>50</strong>. Alternativa <strong>C</strong>.</p><p>44 (A) é a moda; tomar a média dos centrais sem ordenar (44 e 48, de março e abril) dá 46 (B).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "mediana"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 10,
+      "materia": "Matemática",
+      "assunto": "Áreas",
+      "origem": {
+        "numeroOriginal": 145
+      },
+      "enunciado": "<p>A bancada na cozinha de um imóvel tem um fogão cooktop e uma pia com torneira, conforme a figura.</p>[[fig:1]]<p>O proprietário do imóvel decidiu aumentar a distância, que é de 5 cm, entre o bojo da pia e o fogão para ampliar a área do retângulo sombreado, de modo que esta passe a ocupar 35% da área total da bancada. Para isso, colocará um bojo menor na pia.</p><p>A distância entre o fogão e o bojo da pia deverá ser aumentada em quantos centímetros?</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q145.webp",
+          "alt": "Bancada retangular de 200 cm por 60 cm, vista de cima: à esquerda o cooktop com cinco bocas, à direita a pia com a torneira. Entre os dois, um retângulo cinza de 5 cm de largura, que ocupa toda a profundidade da bancada."
+        }
+      ],
+      "alternativas": {
+        "A": "21",
+        "B": "44",
+        "C": "49",
+        "D": "65",
+        "E": "70"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A bancada tem 200 × 60 = 12 000 cm². O retângulo sombreado deve ter 35% disso: 4 200 cm². Como a altura dele é 60 cm, a largura passa a ser 4 200 ÷ 60 = 70 cm. Hoje é 5 cm: o aumento é 70 − 5 = <strong>65 cm</strong>. Alternativa <strong>D</strong>.</p><p>70 (E) é a nova distância, não o aumento.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "área do retângulo",
+        "porcentagem"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 11,
+      "materia": "Matemática",
+      "assunto": "Leitura de gráficos",
+      "origem": {
+        "numeroOriginal": 146
+      },
+      "enunciado": "<p>O gráfico apresenta a evolução das temperaturas máxima (T<sub>máx</sub>) e mínima (T<sub>mín</sub>) em uma cidade ao longo dos primeiros 15 dias de um mês.</p>[[fig:1]]<p>Os dias em que ocorreram a maior temperatura máxima e a menor temperatura mínima foram, respectivamente,</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q146.webp",
+          "alt": "Gráfico de linhas da temperatura (°C) nos dias 1 a 15. A máxima (vermelha) fica entre 11 e 15 °C, com pico de quase 19 °C no dia 4 e outro de quase 18 °C no dia 14. A mínima (azul) cai para cerca de 1 °C no dia 2, sobe a quase 11 °C no dia 5 e volta a valores baixos, perto de 1,5 °C no dia 11."
+        }
+      ],
+      "alternativas": {
+        "A": "10 e 5.",
+        "B": "10 e 2.",
+        "C": "5 e 15.",
+        "D": "4 e 5.",
+        "E": "4 e 2."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A curva vermelha (T<sub>máx</sub>) atinge o ponto mais alto, perto de 19 °C, no dia <strong>4</strong>. A curva azul (T<sub>mín</sub>) atinge o ponto mais baixo, perto de 1 °C, no dia <strong>2</strong>. Alternativa <strong>E</strong>.</p><p>O dia 5 é o pico da mínima, não o vale; e o dia 10 é o vale da máxima.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "gráfico de linhas"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 12,
+      "materia": "Matemática",
+      "assunto": "Grandezas e medidas",
+      "origem": {
+        "numeroOriginal": 147
+      },
+      "enunciado": "<p class=\"apoio\">Um adolescente, tendo em vista uma alimentação saudável, consome diariamente 7,5 dL de leite durante 1 mês (30 dias). Sabe-se que o preço de um litro de leite é R$ 1,98.</p><p class=\"fonte\">Disponível em: www.infopedia.pt. Acesso em: 13 jun. 2012 (adaptado).</p><p>Nessas condições, o custo mensal com o consumo de leite desse adolescente é de</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "R$ 14,85.",
+        "B": "R$ 22,50.",
+        "C": "R$ 44,55.",
+        "D": "R$ 148,50.",
+        "E": "R$ 445,50."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>7,5 dL = 0,75 L por dia. Em 30 dias: 0,75 × 30 = 22,5 L. Custo: 22,5 × 1,98 = <strong>R$ 44,55</strong>. Alternativa <strong>C</strong>.</p><p>Ler 7,5 dL como 7,5 L leva a 445,50 (E); como 0,075 L, a 4,46.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "conversão de unidades",
+        "decilitro"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 13,
+      "materia": "Matemática",
+      "assunto": "Probabilidade",
+      "origem": {
+        "numeroOriginal": 148
+      },
+      "enunciado": "<p>Em um jogo, o participante deve arremessar um disco sobre um tabuleiro. Esse tabuleiro é formado por 4 círculos de raio 10 cm, que se tangenciam, e a região de cor verde delimitada por eles, conforme figura. Os círculos estão dispostos de maneira que seus centros possam ser vértices de um quadrado.</p>[[fig:1]]<p>Uma jogada é considerada válida somente se o centro do disco cair sobre o tabuleiro. O participante vence apenas se o disco cair inteiramente sobre um dos círculos.</p><p>O criador desse jogo escolherá um valor inteiro para a medida r do raio do disco, de maneira que a probabilidade de vitória em uma jogada válida seja inferior a 60%.</p><p>Utilize 3 como aproximação para π.</p><p>A medida mínima de r, em centímetro, a ser escolhida é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q148.webp",
+          "alt": "Tabuleiro formado por quatro círculos lilás de raio 10 cm, tangentes dois a dois, com centros nos vértices de um quadrado; a região verde fica no meio, entre os quatro. Ao lado, um disco laranja de raio r."
+        }
+      ],
+      "alternativas": {
+        "A": "2.",
+        "B": "4.",
+        "C": "5.",
+        "D": "6.",
+        "E": "8."
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Os centros formam um quadrado de lado 20 cm. A região verde é esse quadrado menos quatro quartos de círculo: 400 − 3 × 100 = 100 cm². O tabuleiro tem 4 × 3 × 10² + 100 = 1 300 cm².</p><p>O disco cai inteiro sobre um círculo quando seu centro está a menos de 10 − <em>r</em> do centro desse círculo. A área favorável é 4 × 3 × (10 − <em>r</em>)². Queremos 12(10 − <em>r</em>)² ÷ 1 300 &lt; 0,6, isto é, (10 − <em>r</em>)² &lt; 65, ou 10 − <em>r</em> &lt; 8,06, ou <em>r</em> &gt; 1,94. O menor inteiro é <strong>2</strong>. Alternativa <strong>A</strong>.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "probabilidade geométrica",
+        "área do círculo"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 14,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 149
+      },
+      "enunciado": "<p>Para diminuir custos com transporte, uma pessoa venderá seu carro à combustão para comprar um carro elétrico, entre dois modelos disponíveis. As especificações de consumo de energia de cada um desses modelos são:</p><ul><li>carro I: consumo de 20 MJ (megajoules) para percorrer 48 km na cidade ou 32 km na estrada;</li><li>carro II: consumo de 25 MJ (megajoules) para percorrer 50 km na cidade ou 45 km na estrada.</li></ul><p>Ela comprará o carro que apresentar menor consumo de energia para percorrer 3 000 km, sendo 1 200 km percorridos em trechos de cidade e 1 800 km em trechos de estrada.</p><p>Ela comprará o carro</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "I, pois o consumo de energia será de 81,25 MJ.",
+        "B": "I, pois o consumo de energia será de 600 MJ.",
+        "C": "I, pois o consumo de energia será de 1 625 MJ.",
+        "D": "II, pois o consumo de energia será de 64 MJ.",
+        "E": "II, pois o consumo de energia será de 1 600 MJ."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Carro I: cidade 1 200 ÷ 48 × 20 = 500 MJ; estrada 1 800 ÷ 32 × 20 = 1 125 MJ; total 1 625 MJ. Carro II: cidade 1 200 ÷ 50 × 25 = 600 MJ; estrada 1 800 ÷ 45 × 25 = 1 000 MJ; total <strong>1 600 MJ</strong>. O carro II gasta menos. Alternativa <strong>E</strong>.</p><p>O carro I é mais econômico na cidade, mas a maior parte do percurso é estrada, onde o II ganha com folga.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "regra de três",
+        "consumo de energia"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 15,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 150
+      },
+      "enunciado": "<p>O deslocamento de carro entre duas cidades pode ser feito por dois trajetos, cujos comprimentos e velocidades médias nesses trajetos são:</p><ul><li>I: 100 km e 50 km/h;</li><li>II: 120 km e 80 km/h.</li></ul><p>Uma pessoa se deslocará de carro entre essas cidades e escolherá o trajeto que pode ser percorrido no menor tempo ao adotar a respectiva velocidade média.</p><p>Essa pessoa escolherá o trajeto</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "I, pois é o trajeto que apresenta o menor comprimento.",
+        "B": "I, pois precisará de 30 minutos para realizar esse deslocamento.",
+        "C": "I, pois é o trajeto que apresenta a menor soma entre comprimento e velocidade.",
+        "D": "II, pois é o trajeto que apresenta a menor diferença entre comprimento e velocidade.",
+        "E": "II, pois precisará de 90 minutos para realizar esse deslocamento."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Tempo = distância ÷ velocidade. Trajeto I: 100 ÷ 50 = 2 h. Trajeto II: 120 ÷ 80 = 1,5 h = <strong>90 minutos</strong>. O II é mais rápido. Alternativa <strong>E</strong>.</p><p>O trajeto mais curto (I) não é o mais rápido, porque a velocidade média nele é bem menor.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "velocidade média"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 16,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 151
+      },
+      "enunciado": "<p>Uma empresa foi fundada por 3 sócios, que combinaram que iriam distribuir o lucro obtido ao final de 18 meses. Essa distribuição será feita em partes diretamente proporcionais ao investimento feito por sócio e ao tempo em que cada um deles permanecer como sócio. Passados 6 meses da criação dessa empresa, o sócio que havia investido R$ 5 000,00 saiu da sociedade. Os outros dois sócios, um que investiu R$ 4 000,00 e o outro que investiu R$ 6 000,00, permaneceram os 18 meses. Ao final desse período, o lucro total de R$ 21 000,00 foi distribuído.</p><p>A parte do lucro, em real, destinada ao sócio que saiu da sociedade foi</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "1 000,00.",
+        "B": "2 333,33.",
+        "C": "3 000,00.",
+        "D": "3 620,70.",
+        "E": "7 000,00."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>A parte de cada sócio é proporcional a investimento × tempo: 5 000 × 6 = 30 000; 4 000 × 18 = 72 000; 6 000 × 18 = 108 000. Soma: 210 000. O sócio que saiu recebe 30 000/210 000 de 21 000 = <strong>R$ 3 000,00</strong>. Alternativa <strong>C</strong>.</p><p>Dividir só pelo investimento, sem o tempo, daria 7 000,00 (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "divisão proporcional"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 17,
+      "materia": "Matemática",
+      "assunto": "Função quadrática",
+      "origem": {
+        "numeroOriginal": 152
+      },
+      "enunciado": "<p>Uma empresa que produz sinalizadores realiza um teste de segurança de seus produtos. Esse teste consiste em registrar em um plano cartesiano, com os eixos graduados em metro, a trajetória parabólica do projétil lançado pelo sinalizador, e calcular os valores de dois parâmetros, D<sub>1</sub> (distância entre o ponto de lançamento e o ponto de altura máxima, em metro) e D<sub>2</sub> (distância entre o ponto de lançamento e o ponto de explosão, em metro), conforme representado na figura.</p>[[fig:1]]<p>O nível de segurança do sinalizador é classificado de 1 (nível mínimo) a 5 (nível máximo), segundo os valores apurados para D<sub>1</sub> e D<sub>2</sub>, conforme os critérios apresentados na tabela.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Nível de segurança</th><th scope=\"col\">D<sub>1</sub></th><th scope=\"col\">D<sub>2</sub></th></tr></thead><tbody><tr><td>1</td><td>D<sub>1</sub> &lt; 23</td><td>D<sub>2</sub> &lt; 23</td></tr><tr><td>2</td><td>23 ≤ D<sub>1</sub> &lt; 25</td><td>D<sub>2</sub> &lt; 23</td></tr><tr><td>3</td><td>23 ≤ D<sub>1</sub> &lt; 25</td><td>23 ≤ D<sub>2</sub> &lt; 25</td></tr><tr><td>4</td><td>D<sub>1</sub> ≥ 25</td><td>23 ≤ D<sub>2</sub> &lt; 25</td></tr><tr><td>5</td><td>D<sub>1</sub> ≥ 25</td><td>D<sub>2</sub> ≥ 25</td></tr></tbody></table></div><p>Em um teste de segurança, a trajetória do projétil lançado por um sinalizador foi modelada pela função <em>y</em> = −0,24<em>x</em>² + 4,8<em>x</em> e apurou-se que <em>k</em> = 15.</p><p>De acordo com essa classificação, o nível de segurança desse sinalizador foi</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q152.webp",
+          "alt": "Plano cartesiano com a trajetória parabólica vermelha do projétil, saindo da origem (ponto de lançamento), passando pelo ponto de altura máxima e terminando no ponto de explosão, de abscissa k. Segmentos azuis ligam a origem ao ponto de altura máxima (D1) e ao ponto de explosão (D2)."
+        }
+      ],
+      "alternativas": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4.",
+        "E": "5."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O vértice de <em>y</em> = −0,24<em>x</em>² + 4,8<em>x</em> está em <em>x</em> = −4,8 ÷ (2 × (−0,24)) = 10, com <em>y</em> = −24 + 48 = 24. D<sub>1</sub> = √(10² + 24²) = √676 = 26.</p><p>No ponto de explosão, <em>x</em> = <em>k</em> = 15 e <em>y</em> = −0,24 × 225 + 72 = 18. D<sub>2</sub> = √(15² + 18²) = √549 ≈ 23,4.</p><p>D<sub>1</sub> ≥ 25 e 23 ≤ D<sub>2</sub> &lt; 25: nível <strong>4</strong>. Alternativa <strong>D</strong>.</p><p>Usar a altura do vértice (24) como D<sub>1</sub> leva ao nível 3 (C): D<sub>1</sub> é a distância em linha reta, não a altura.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "vértice da parábola",
+        "distância entre pontos"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 18,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 153
+      },
+      "enunciado": "<p>O quadro apresenta a classificação final dos 6 times que disputaram um campeonato de futebol, com as informações parciais das quantidades de gols marcados e sofridos por esses times.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Posição</th><th scope=\"col\">Time</th><th scope=\"col\">Gols marcados</th><th scope=\"col\">Gols sofridos</th></tr></thead><tbody><tr><td>1ª</td><td>I</td><td>31</td><td>23</td></tr><tr><td>2ª</td><td>II</td><td>27</td><td>21</td></tr><tr><td>3ª</td><td>III</td><td>34</td><td><em>y</em></td></tr><tr><td>4ª</td><td>IV</td><td>22</td><td>26</td></tr><tr><td>5ª</td><td>V</td><td>26</td><td>22</td></tr><tr><td>6ª</td><td>VI</td><td><em>x</em></td><td>28</td></tr></tbody></table></div><p>A média de gols marcados por time nesse campeonato foi 25 e a mediana de gols sofridos foi 24.</p><p>A soma <em>x</em> + <em>y</em> é igual a</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "32.",
+        "B": "34.",
+        "C": "35.",
+        "D": "42.",
+        "E": "47."
+      },
+      "gabarito": "ANULADA",
+      "explicacao": "<p>Pela análise do Treineiros, a conta esperada seria esta. Média de gols marcados 25 com 6 times: total 150, então 31 + 27 + 34 + 22 + 26 + <em>x</em> = 150 e <em>x</em> = 10. Gols sofridos sem <em>y</em>, em ordem: 21, 22, 23, 26, 28. Para a mediana dos seis valores ser 24, <em>y</em> tem de ficar entre 23 e 26 e (23 + <em>y</em>) ÷ 2 = 24, o que dá <em>y</em> = 25. Então <em>x</em> + <em>y</em> = <strong>35</strong>, alternativa <strong>C</strong>, se a questão não tivesse sido anulada.</p><p>O problema: num campeonato disputado só entre esses times, todo gol marcado por um é sofrido por outro, então os dois totais têm de ser iguais. Com esses valores, foram 150 gols marcados e 165 sofridos.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "média",
+        "mediana"
+      ],
+      "area": "Matemática",
+      "anulacao": {
+        "fonte": "oficial",
+        "motivo": "<p>O Inep anulou esta questão (159 no caderno azul) no gabarito oficial, sem publicar o motivo. A explicação mais citada, apontada por cursinhos como o Objetivo, é uma inconsistência nos dados: num campeonato entre esses seis times, o total de gols marcados tem de ser igual ao de gols sofridos, mas, com a média e a mediana do enunciado, dão 150 e 165.</p>"
+      }
+    },
+    {
+      "numero": 19,
+      "materia": "Matemática",
+      "assunto": "Matemática financeira",
+      "origem": {
+        "numeroOriginal": 154
+      },
+      "enunciado": "<p>Marcos possui recursos em uma aplicação que rende 1% ao mês a juros compostos. Quando o saldo dessa aplicação alcançar R$ 90 000,00, ele comprará um carro, cujas duas opções de pagamento são:</p><ul><li>R$ 89 000,00, à vista, no ato da compra;</li><li>3 parcelas mensais iguais, no valor de R$ 30 000,00 cada, sendo a primeira paga no ato da compra.</li></ul><p>O pagamento por esse carro será feito utilizando somente recursos provenientes dessa aplicação, que serão resgatados nos momentos apropriados e nas quantias necessárias. Ele escolherá a opção de pagamento na qual, 2 meses após a compra do carro, o saldo de sua aplicação seja o maior.</p><p>Ao final desses 2 meses, o saldo, em real, da aplicação de Marcos será</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "1 000,00.",
+        "B": "1 010,00.",
+        "C": "1 020,10.",
+        "D": "1 509,00.",
+        "E": "1 824,09."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>No dia da compra, o saldo é R$ 90 000,00.</p><ul><li>À vista: sobram 1 000,00, que rendem 2 meses: 1 000 × 1,01² = <strong>1 020,10</strong>.</li><li>Parcelado: paga 30 000 e sobram 60 000; após 1 mês, 60 600 − 30 000 = 30 600; após 2 meses, 30 906 − 30 000 = 906,00.</li></ul><p>O à vista deixa o maior saldo: R$ 1 020,10. Alternativa <strong>C</strong>.</p><p>1 000,00 (A) esquece o rendimento; 1 010,00 (B) conta só um mês.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "juros compostos",
+        "comparação de pagamentos"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 20,
+      "materia": "Matemática",
+      "assunto": "Função exponencial",
+      "origem": {
+        "numeroOriginal": 155
+      },
+      "enunciado": "<p>Depreciação é o processo de desvalorização de um bem patrimonial decorrente do uso ou desgaste natural ao longo do tempo. Um carro zero quilômetro é vendido por R$ 80 000,00 e, imediatamente após a venda, ao sair da concessionária, já desvaloriza 10%. A partir daí, há uma depreciação anual de 12%.</p><p>Qual expressão algébrica relaciona o valor V desse carro, em real, com o tempo de uso t, em ano?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "V = 72 000 · 0,88<sup><em>t</em></sup>",
+        "B": "V = 72 000 · 0,12<sup><em>t</em></sup>",
+        "C": "V = 80 000 · 0,78<sup><em>t</em></sup>",
+        "D": "V = 80 000 · 0,22<sup><em>t</em></sup>",
+        "E": "V = 80 000 · 0,12<sup><em>t</em></sup>"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Ao sair da concessionária, o carro já vale 80 000 × 0,9 = 72 000. Depois, perde 12% ao ano, ou seja, a cada ano vale 88% do ano anterior: <strong>V = 72 000 · 0,88<sup><em>t</em></sup></strong>. Alternativa <strong>A</strong>.</p><p>Usar 0,12<sup><em>t</em></sup> (B) multiplicaria pelo que se perde, não pelo que sobra; somar 10% + 12% (D) mistura uma perda única com a perda anual.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "depreciação",
+        "decrescimento exponencial"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 21,
+      "materia": "Matemática",
+      "assunto": "Notação científica",
+      "origem": {
+        "numeroOriginal": 156
+      },
+      "enunciado": "<p class=\"apoio\">Um estudante de biologia aprendeu que o diâmetro médio da mitocôndria, organela responsável pela respiração celular, mede 0,75 micrômetro (1 micrômetro equivale à milionésima parte de um metro).</p><p class=\"fonte\">Disponível em: https://brasilescola.uol.com.br. Acesso em: 9 nov. 2022 (adaptado).</p><p>Para ter uma ideia do quão pequena é a mitocôndria, o estudante converteu a medida desse diâmetro para a unidade milímetro.</p><p>A medida do diâmetro médio da mitocôndria, em milímetro, é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "7,5 × 10<sup>−1</sup>",
+        "B": "7,5 × 10<sup>−2</sup>",
+        "C": "7,5 × 10<sup>−4</sup>",
+        "D": "7,5 × 10<sup>−5</sup>",
+        "E": "7,5 × 10<sup>−7</sup>"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>1 micrômetro = 10<sup>−6</sup> m = 10<sup>−3</sup> mm. Então 0,75 µm = 0,75 × 10<sup>−3</sup> mm = <strong>7,5 × 10<sup>−4</sup> mm</strong>. Alternativa <strong>C</strong>.</p><p>7,5 × 10<sup>−7</sup> (E) é a medida em metro, não em milímetro.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "conversão de unidades",
+        "potências de 10"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 22,
+      "materia": "Matemática",
+      "assunto": "Potenciação",
+      "origem": {
+        "numeroOriginal": 157
+      },
+      "enunciado": "<p class=\"apoio\">No momento do Big Bang, o Universo passou por um crescimento enorme que durou menos de um trilionésimo de segundo. Para se ter uma ideia desse tempo, um trilionésimo é um número que pode ser representado por uma fração em que o numerador é 1 e o denominador é um número inteiro iniciado por 1 seguido apenas de zeros.</p><p class=\"fonte\">Disponível em: http://super.abril.com.br. Acesso em: 16 out. 2015.</p><p>Representando um trilionésimo por uma fração, quantos zeros após o 1 do denominador existem nessa fração?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "9",
+        "B": "11",
+        "C": "12",
+        "D": "14",
+        "E": "15"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Um trilhão é 10<sup>12</sup> = 1 000 000 000 000. Um trilionésimo é 1/10<sup>12</sup>: o denominador tem <strong>12 zeros</strong> depois do 1. Alternativa <strong>C</strong>.</p><p>9 zeros (A) seria um bilionésimo.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "potências de 10",
+        "escala numérica"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 23,
+      "materia": "Matemática",
+      "assunto": "Matrizes",
+      "origem": {
+        "numeroOriginal": 158
+      },
+      "enunciado": "<p>Cinco candidatos, C<sub>1</sub>, C<sub>2</sub>, C<sub>3</sub>, C<sub>4</sub> e C<sub>5</sub>, foram selecionados para ocupar vagas para estagiários em uma empresa. Cada um deles foi entrevistado pelos diretores D<sub>1</sub>, D<sub>2</sub>, D<sub>3</sub>, D<sub>4</sub> e D<sub>5</sub>, dos cinco departamentos em que serão alocados. Nas entrevistas, os diretores atribuíram notas de 0 a 5 a cada entrevistado. As notas nessas entrevistas estão dispostas em linhas e colunas, conforme a imagem, na qual a nota posicionada na linha i e na coluna j representa a nota recebida pelo candidato C<sub><em>i</em></sub>, atribuída pelo diretor D<sub><em>j</em></sub>. Por exemplo, a nota 4 circulada, que está na segunda linha e na quarta coluna, corresponde à nota atribuída ao candidato C<sub>2</sub> pelo diretor D<sub>4</sub>.</p>[[fig:1]]<p>Ao final das entrevistas, o diretor D<sub>1</sub> escolherá como estagiário o candidato a quem atribuiu a maior nota; em seguida, o diretor D<sub>2</sub> escolherá como estagiário, dentre os restantes, aquele a quem atribuiu a maior nota; e assim sucessivamente.</p><p>O candidato a ser escolhido pelo diretor D<sub>5</sub> é o</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q158.webp",
+          "alt": "Tabela de notas com 5 linhas e 5 colunas. Linha 1: 3, 4, 0, 5, 1. Linha 2: 2, 3, 2, 4, 3. Linha 3: 4, 3, 1, 0, 2. Linha 4: 1, 2, 2, 2, 4. Linha 5: 0, 2, 3, 3, 5. A segunda linha está destacada como “notas recebidas pelo candidato C2”, a quarta coluna como “notas atribuídas pelo diretor D4”, e o 4 no cruzamento das duas está circulado."
+        }
+      ],
+      "alternativas": {
+        "A": "C<sub>1</sub>.",
+        "B": "C<sub>2</sub>.",
+        "C": "C<sub>3</sub>.",
+        "D": "C<sub>4</sub>.",
+        "E": "C<sub>5</sub>."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A coluna <em>j</em> traz as notas dadas pelo diretor D<sub><em>j</em></sub>. Seguindo a ordem:</p><ul><li>D<sub>1</sub> (coluna 3, 2, 4, 1, 0): maior nota para C<sub>3</sub>;</li><li>D<sub>2</sub>, entre C<sub>1</sub>, C<sub>2</sub>, C<sub>4</sub> e C<sub>5</sub> (4, 3, 2, 2): escolhe C<sub>1</sub>;</li><li>D<sub>3</sub>, entre C<sub>2</sub>, C<sub>4</sub> e C<sub>5</sub> (2, 2, 3): escolhe C<sub>5</sub>;</li><li>D<sub>4</sub>, entre C<sub>2</sub> e C<sub>4</sub> (4, 2): escolhe C<sub>2</sub>;</li><li>D<sub>5</sub> fica com quem sobrou: <strong>C<sub>4</sub></strong>.</li></ul><p>Alternativa <strong>D</strong>. Olhar a coluna 5 sem tirar os já escolhidos levaria a C<sub>5</sub> (nota 5).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "leitura de matriz",
+        "algoritmo de escolha"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 24,
+      "materia": "Matemática",
+      "assunto": "Expressões algébricas",
+      "origem": {
+        "numeroOriginal": 159
+      },
+      "enunciado": "<p>Uma loja de roupas femininas vende apenas blusas e vestidos. O lucro é de R$ 10,00 em cada blusa e de R$ 30,00 em cada vestido, se estes forem comprados com dinheiro em espécie. Contudo, o lucro é 10% menor em cada peça que for comprada utilizando-se um cartão de crédito para o pagamento. Neste mês a loja conseguiu vender um total de 1 800 peças, sendo que todas as blusas e apenas um terço dos vestidos vendidos foram pagos com dinheiro. Se x é a quantidade de blusas vendidas, a expressão que representa o lucro total obtido com as vendas do referido mês é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "21 600 − 2<em>x</em>",
+        "B": "48 600 − 18<em>x</em>",
+        "C": "50 400 − 18<em>x</em>",
+        "D": "52 200 − 19<em>x</em>",
+        "E": "54 000 − 20<em>x</em>"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>São <em>x</em> blusas e 1 800 − <em>x</em> vestidos. Blusas, todas em dinheiro: 10<em>x</em>. Vestidos: um terço em dinheiro (lucro 30) e dois terços no cartão (lucro 10% menor, 27). Lucro médio por vestido: (30 + 2 × 27) ÷ 3 = 28. Lucro total: 10<em>x</em> + 28(1 800 − <em>x</em>) = <strong>50 400 − 18<em>x</em></strong>. Alternativa <strong>C</strong>.</p><p>Supor todos os vestidos no cartão dá 48 600 − 17<em>x</em>; todos em dinheiro, 54 000 − 20<em>x</em> (E).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "expressão algébrica",
+        "porcentagem"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 25,
+      "materia": "Matemática",
+      "assunto": "Semelhança",
+      "origem": {
+        "numeroOriginal": 160
+      },
+      "enunciado": "<p>Um agricultor possui um terreno plano formado por 4 canteiros, 3 em formato retangular, semelhantes entre si, e 1 em formato triangular, delimitado pelos 3 primeiros, conforme figura.</p>[[fig:1]]<p>Os maiores lados dos canteiros I e II medem 10 m e 8 m, respectivamente, e a área do canteiro I mede 80 m².</p><p>Qual é a diferença entre as medidas das áreas, em metro quadrado, dos canteiros II e III?</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q160.webp",
+          "alt": "Triângulo retângulo laranja cercado por três retângulos: o canteiro I, verde-claro e inclinado, apoiado na hipotenusa, com o lado maior de 10 m; o canteiro II, amarelo, embaixo, com o lado maior de 8 m; e o canteiro III, verde-escuro, à esquerda. O ângulo reto fica no canto entre os canteiros II e III."
+        }
+      ],
+      "alternativas": {
+        "A": "16,00",
+        "B": "17,92",
+        "C": "20,00",
+        "D": "22,40",
+        "E": "28,00"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>O canteiro I tem lado maior 10 m e área 80 m², então o menor mede 8 m: a razão entre os lados de cada retângulo é 10 : 8 = 5 : 4.</p><p>O triângulo é retângulo, com hipotenusa 10 (lado do canteiro I) e um cateto 8 (lado maior do canteiro II); o outro cateto mede √(100 − 64) = 6, e é o lado maior do canteiro III.</p><p>Canteiro II: 8 × 6,4 = 51,2 m². Canteiro III: 6 × 4,8 = 28,8 m². Diferença: <strong>22,40 m²</strong>. Alternativa <strong>D</strong>.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "retângulos semelhantes",
+        "teorema de Pitágoras"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 26,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 161
+      },
+      "enunciado": "<p>A diretora de uma creche coletou, das cadernetas de vacinação de cinco crianças, a informação sobre o número de doses de vacinas aplicadas nos primeiros quatro semestres de vida. A seguir são apresentadas as sequências das quantidades de doses que cada criança recebeu no 1º, 2º, 3º e 4º semestres, respectivamente:</p><ul><li>criança I: 10, 5, 5, 5;</li><li>criança II: 12, 3, 5, 5;</li><li>criança III: 13, 4, 5, 4;</li><li>criança IV: 11, 5, 5, 3;</li><li>criança V: 13, 3, 7, 3.</li></ul><p>A diretora fará uma reunião com os pais das crianças dessa creche com o objetivo de conscientizá-los da importância de completarem as doses de vacinas que faltam. Para ilustrar a importância desse assunto, ela escolherá os dados de uma dessas cinco cadernetas para apresentar na reunião. Serão escolhidos os dados da caderneta de vacinação que apresentar a menor média semestral das quantidades de doses de vacinas aplicadas nos primeiros quatro semestres de vida dessas crianças.</p><p>A caderneta que contém os dados a serem escolhidos pela diretora para a reunião é a da criança</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "I.",
+        "B": "II.",
+        "C": "III.",
+        "D": "IV.",
+        "E": "V."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Como todas têm quatro semestres, a menor média é a da menor soma: I 25; II 25; III 26; <strong>IV 24</strong>; V 26. Criança IV. Alternativa <strong>D</strong>.</p><p>Comparar só o 1º semestre levaria à criança I, e olhar o último semestre, à IV ou à V empatadas: a média exige somar tudo.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "média aritmética"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 27,
+      "materia": "Matemática",
+      "assunto": "Função quadrática",
+      "origem": {
+        "numeroOriginal": 162
+      },
+      "enunciado": "<p>A Carga Tributária Bruta (CTB) é um índice utilizado por agências de pesquisas econômicas para orientar possíveis investidores. O gráfico ilustra os valores percentuais da CTB de um país em função do tempo t, em ano, sendo que t = 0 corresponde a 2021, t = 1 a 2022, t = 2 a 2023, e assim sucessivamente.</p>[[fig:1]]<p>Com base nesses dados, uma agência fez uma extrapolação para estimar o valor percentual da CTB para 2026, considerando que esse índice varia segundo uma função quadrática.</p><p>O valor percentual da CTB estimado para 2026, obtido por essa agência, foi</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q162.webp",
+          "alt": "Gráfico com o eixo t (ano) de 0 a 5 e o eixo CTB (%) de 29,5 a 32,5. Três pontos: (0; 30,0), (1; 31,5) e (2; 32,0)."
+        }
+      ],
+      "alternativas": {
+        "A": "25,5.",
+        "B": "27,5.",
+        "C": "30,0.",
+        "D": "33,5.",
+        "E": "35,0."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Com <em>f</em>(<em>t</em>) = <em>at</em>² + <em>bt</em> + <em>c</em> e os pontos (0; 30), (1; 31,5) e (2; 32): <em>c</em> = 30; <em>a</em> + <em>b</em> = 1,5; 4<em>a</em> + 2<em>b</em> = 2. Daí <em>a</em> = −0,5 e <em>b</em> = 2.</p><p>2026 corresponde a <em>t</em> = 5: <em>f</em>(5) = −12,5 + 10 + 30 = <strong>27,5</strong>. Alternativa <strong>B</strong>.</p><p>Quem prolonga a tendência de alta, sem perceber que a parábola é côncava para baixo, marca 33,5 ou 35,0.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "interpolação",
+        "função quadrática por três pontos"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 28,
+      "materia": "Matemática",
+      "assunto": "Sistemas lineares",
+      "origem": {
+        "numeroOriginal": 163
+      },
+      "enunciado": "<p>Uma padaria vende pizzas de calabresa e de frango. Há 3 funcionários nessa padaria: Ana, Carla e José. No sábado, Ana vendeu 6 pizzas de calabresa e 15 de frango, tendo recebido 780 reais por essas vendas; Carla vendeu 5 pizzas de calabresa e 8 de frango, pelas quais recebeu 470 reais; e José vendeu 4 pizzas de calabresa, porém não anotou a quantidade de pizzas de frango que vendeu, mas sabe que recebeu um total de 520 reais pela venda de pizzas.</p><p>Qual a quantidade total de pizzas que José vendeu nesse sábado?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "4",
+        "B": "5",
+        "C": "13",
+        "D": "14",
+        "E": "18"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Com <em>c</em> e <em>f</em> os preços: 6<em>c</em> + 15<em>f</em> = 780 e 5<em>c</em> + 8<em>f</em> = 470. Da primeira, 2<em>c</em> + 5<em>f</em> = 260. Resolvendo, <em>f</em> = 40 e <em>c</em> = 30. José: 4 × 30 = 120 em calabresa; sobram 400, que são 10 pizzas de frango. Total: 4 + 10 = <strong>14</strong>. Alternativa <strong>D</strong>.</p><p>10 (só as de frango) não está entre as alternativas; 13 e 18 vêm de erros nos preços.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "sistema de equações"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 29,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 164
+      },
+      "enunciado": "<p>Em um tipo de mesa de bilhar, sem caçapas, cujo tampo tem o formato de um quadrado com 206 cm de lado e as bolas têm 3 cm de raio, um jogador precisa dar uma tacada na bola branca e fazê-la acertar a bola amarela, sem tocar em outra bola. Para isso, ele considerou uma trajetória poligonal que a bola branca poderia percorrer, rebatendo em três lados distintos da mesa, antes de acertar a bola amarela, conforme indicado na figura, apresentada fora de escala.</p>[[fig:1]]<p>Qual deve ser a distância d, em centímetro, indicada na figura, para que a bola branca consiga acertar a bola amarela ao percorrer a trajetória considerada pelo jogador?</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q164.webp",
+          "alt": "Mesa quadrada de bilhar com 206 cm de lado. A bola branca está a 63 cm da borda de cima e na mesma vertical da bola amarela, que fica junto à borda de cima, a 103 cm da borda direita. A trajetória pontilhada vai da branca à borda direita, numa altura d acima da borda de baixo, depois à borda de baixo, depois à esquerda e por fim à amarela, com ângulos iguais (α, β, γ) em cada rebatida."
+        }
+      ],
+      "alternativas": {
+        "A": "40",
+        "B": "55",
+        "C": "58",
+        "D": "61",
+        "E": "70"
+      },
+      "gabarito": "C",
+      "explicacao": "<p>Use as coordenadas do centro da bola: ela se move num quadrado de 3 a 203 cm (206 − 3). A bola branca está em (103; 143), na mesma vertical da amarela, que está encostada no lado de cima, em (103; 203).</p><p>Pelo princípio da reflexão, “desdobra-se” a mesa: refletindo a amarela no lado esquerdo (<em>x</em> = 3), depois no de baixo (<em>y</em> = 3) e depois no da direita (<em>x</em> = 203), ela vai para (503; −197). A trajetória vira uma reta da branca até esse ponto. Ela cruza <em>x</em> = 203 em um quarto do caminho horizontal (100 de 400), na altura 143 − ¼ × 340 = <strong>58 cm</strong>. Alternativa <strong>C</strong>.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "reflexão",
+        "semelhança de triângulos"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 30,
+      "materia": "Matemática",
+      "assunto": "Geometria espacial",
+      "origem": {
+        "numeroOriginal": 165
+      },
+      "enunciado": "<p>Uma equipe de estudantes de engenharia decidiu construir um modelo experimental de um foguete. Esse modelo tem internamente um compartimento na forma de cilindro circular reto, que deve ser protegido externamente com uma manta, formando um novo cilindro circular reto com mesma altura, como indicado na figura.</p>[[fig:1]]<p>Essa equipe tem duas opções de material para a manta, cujas espessuras e preços estão apresentados no quadro.</p><div class=\"tabela-rola\"><table><thead><tr><th scope=\"col\">Material</th><th scope=\"col\">Espessura da manta (cm)</th><th scope=\"col\">Preço (a cada 1 000 cm³)</th></tr></thead><tbody><tr><td>I</td><td>1,0</td><td>R$ 26,00</td></tr><tr><td>II</td><td>2,0</td><td>R$ 12,00</td></tr></tbody></table></div><p>Utilize 3 como aproximação para π.</p><p>A equipe terá menor custo na compra da manta cilíndrica se optar pelo material</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q165-1.webp",
+          "alt": "Cilindro azul de raio 10 cm e altura 100 cm, envolvido por um cilindro cinza translúcido de mesma altura; a diferença entre os raios é indicada como a espessura da manta."
+        }
+      ],
+      "alternativas": {
+        "A": "I, apenas por apresentar a menor espessura.",
+        "B": "I, pois apresenta um custo inferior ao do material II em R$ 6,60.",
+        "C": "II, apenas por apresentar o menor preço por centímetro cúbico.",
+        "D": "II, pois apresenta um custo inferior ao do material I em R$ 2,00.",
+        "E": "II, pois apresenta um custo inferior ao do material I em R$ 5,40."
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O cilindro interno tem raio 10 cm e altura 100 cm. O volume da manta é π[(10 + <em>e</em>)² − 10²] × 100.</p><ul><li>Material I (<em>e</em> = 1): 3 × 21 × 100 = 6 300 cm³ → 6,3 × 26 = R$ 163,80.</li><li>Material II (<em>e</em> = 2): 3 × 44 × 100 = 13 200 cm³ → 13,2 × 12 = R$ 158,40.</li></ul><p>O II sai R$ 5,40 mais barato. Alternativa <strong>E</strong>.</p><p>Comparar só espessura ou só preço por volume (A e C) ignora que a manta mais grossa usa mais material.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "volume do cilindro",
+        "coroa circular"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 31,
+      "materia": "Matemática",
+      "assunto": "Escalas",
+      "origem": {
+        "numeroOriginal": 166
+      },
+      "enunciado": "<p>Uma arquiteta elaborou um projeto para a construção de uma escola, cuja planta baixa está apresentada sobre uma malha quadriculada, conforme figura.</p>[[fig:1]]<p>Por questões orçamentárias, a direção dessa escola solicitou que o projeto fosse modificado, reduzindo em 25% a área real do refeitório, que se encontra em destaque, de cor amarela, na figura.</p><p>Após a reelaboração do projeto, a medida da área real do refeitório, em metro quadrado, será</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q166.webp",
+          "alt": "Planta baixa de uma escola sobre malha quadriculada, com biblioteca, auditório, centro de convivência, salas de aula, bosque e quadra. O refeitório, em amarelo, ocupa uma faixa vertical de 1 quadradinho de largura por 2 de altura. Indicação: cada quadradinho tem 10 cm; escala 1 : 80."
+        }
+      ],
+      "alternativas": {
+        "A": "160.",
+        "B": "150.",
+        "C": "120.",
+        "D": "96.",
+        "E": "72."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Cada quadradinho tem 10 cm no desenho; na escala 1 : 80, isso é 800 cm = 8 m no real. O refeitório ocupa 1 × 2 quadradinhos, ou 8 m × 16 m = 128 m². Reduzido em 25%: 0,75 × 128 = <strong>96 m²</strong>. Alternativa <strong>D</strong>.</p><p>Aplicar a redução de 25% duas vezes (96 × 0,75 = 72, E) confunde a área atual com a nova.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "escala",
+        "área"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 32,
+      "materia": "Matemática",
+      "assunto": "Probabilidade",
+      "origem": {
+        "numeroOriginal": 167
+      },
+      "enunciado": "<p>No Brasil, datas são registradas no formato DD/MM, em que os primeiros dois dígitos codificam o dia do mês, e os dois seguintes, o mês do ano. Em alguns países, esses registros se dão no formato MM/DD, no qual se indica primeiro o mês do ano e depois o dia do mês. Por exemplo, a data 9 de maio é registrada, no Brasil, no formato 09/05, enquanto em alguns países, essa mesma data é registrada no formato 05/09.</p><p>Um aplicativo gerará aleatoriamente uma data (dia e mês) de um ano não bissexto.</p><p>Qual é a probabilidade de que a data gerada tenha o mesmo registro nos dois formatos considerados?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "<sup>12</sup>⁄<sub>365</sub>",
+        "B": "<sup>30</sup>⁄<sub>365</sub>",
+        "C": "<sup>144</sup>⁄<sub>365</sub>",
+        "D": "<sup>1</sup>⁄<sub>12</sub>",
+        "E": "<sup>12</sup>⁄<sub>30</sub>"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>A data tem o mesmo registro nos dois formatos quando DD = MM: 01/01, 02/02, …, 12/12, ou seja, 12 datas. Em um ano não bissexto há 365 datas: probabilidade <strong>12/365</strong>. Alternativa <strong>A</strong>.</p><p>144/365 (C) conta as datas que <em>podem</em> ser lidas nos dois formatos (dia até 12), não as que ficam iguais.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "probabilidade clássica",
+        "datas"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 33,
+      "materia": "Matemática",
+      "assunto": "Geometria espacial",
+      "origem": {
+        "numeroOriginal": 168
+      },
+      "enunciado": "<p>Um jogo envolve blocos retangulares congruentes empilhados. A figura representa a configuração do empilhamento em uma etapa do jogo, de forma que uma das faces de cada bloco está paralela ao plano α, que é perpendicular ao plano β da base. Faces verticais de mesma cor estão em um mesmo plano.</p>[[fig:1]]<p>A figura que representa a projeção ortogonal desse empilhamento sobre o plano α é</p>[[fig:2]][[fig:3]][[fig:4]][[fig:5]][[fig:6]]",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q168-1.webp",
+          "alt": "Pilha de blocos retangulares iguais em várias camadas, alternando a direção, sobre o plano β (chão azul) e encostada ao plano α (parede azul-clara). As faces verticais têm cores diferentes conforme o plano em que estão."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q168-2.webp",
+          "alt": "Alternativa A: silhueta cinza com um bloco estreito no alto, uma faixa larga com recortes dos dois lados no meio e uma base larga."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q168-5.webp",
+          "alt": "Alternativa B: silhueta cinza com recortes do lado direito, um no meio e outro embaixo."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q168-6.webp",
+          "alt": "Alternativa C: silhueta cinza com um recorte à esquerda no alto e uma abertura embaixo, entre dois pés."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q168-3.webp",
+          "alt": "Alternativa D: silhueta cinza com um bloco largo no alto, deslocado para a direita, um degrau à esquerda e uma base com uma abertura embaixo."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q168-4.webp",
+          "alt": "Alternativa E: silhueta cinza com um bloco no alto, recortes dos dois lados no meio e uma base com uma abertura embaixo, entre dois pés."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:2]]",
+        "B": "[[fig:3]]",
+        "C": "[[fig:4]]",
+        "D": "[[fig:5]]",
+        "E": "[[fig:6]]"
+      },
+      "gabarito": "E",
+      "explicacao": "<p>Projetar sobre o plano α é olhar o empilhamento de frente para α: cada bloco vira um retângulo, e as faces de mesma cor no mesmo plano se alinham. Reconstruindo de baixo para cima a silhueta (os blocos que avançam e recuam em cada camada), a figura correta é a última da coluna da direita. Alternativa <strong>E</strong>.</p><p>As outras deslocam os recuos de lado ou trocam a ordem das camadas.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "projeção ortogonal",
+        "vistas"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 34,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 169
+      },
+      "enunciado": "<p>Um teste, composto por 5 questões de múltipla escolha, com 5 alternativas de resposta por questão, valendo 1 ponto cada questão, foi aplicado a candidatos de um concurso. Esses candidatos foram classificados em 6 grupos, de acordo com suas notas nesse teste.</p><ul><li>N0: candidatos com nota 0.</li><li>N1: candidatos com nota 1.</li><li>N2: candidatos com nota 2.</li><li>N3: candidatos com nota 3.</li><li>N4: candidatos com nota 4.</li><li>N5: candidatos com nota 5.</li></ul><p>Todos os candidatos marcaram uma única alternativa de resposta em cada questão.</p><p>No Gráfico 1, estão descritas as porcentagens com que cada grupo marcou cada alternativa de resposta na questão 1, ficando ausentes as informações dos percentuais dos grupos N4 e N5, que marcaram a alternativa D.</p><p><strong>Gráfico 1 – Porcentagens de escolhas de alternativas na questão 1, por grupo</strong></p>[[fig:1]]<p>No Gráfico 2, está apresentada a distribuição dos candidatos por grupo.</p><p><strong>Gráfico 2 – Distribuição dos candidatos por grupo</strong></p>[[fig:2]]<p>Qual é o percentual de candidatos que acertou a questão 1?</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q169-1.webp",
+          "alt": "Gráfico de linhas com os grupos N0 a N5 no eixo horizontal e porcentagens de 0% a 35%. Alternativa A: 30, 20, 15, 20, 0, 0. B: 20, 25, 20, 15, 5, 0. C: 25, 30, 25, 30, 20, 0. D: 0, 10, 20, 25 (sem dados em N4 e N5). E: 25, 15, 20, 10, 15, 0."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q169-2.webp",
+          "alt": "Gráfico de semicírculo com a distribuição dos candidatos: N0 20%, N1 15%, N2 15%, N3 30%, N4 10%, N5 10%."
+        }
+      ],
+      "alternativas": {
+        "A": "10%",
+        "B": "12%",
+        "C": "16%",
+        "D": "25%",
+        "E": "28%"
+      },
+      "gabarito": "E",
+      "explicacao": "<p>A alternativa correta da questão 1 é a D: é a escolhida pelos grupos de nota alta. Os percentuais de cada grupo somam 100%, então: N4 marcou D em 100 − (0 + 5 + 20 + 15) = 60%; N5 marcou D em 100%.</p><p>Acertos ponderados pelo tamanho de cada grupo: N0 0% × 20% = 0; N1 10% × 15% = 1,5; N2 20% × 15% = 3; N3 25% × 30% = 7,5; N4 60% × 10% = 6; N5 100% × 10% = 10. Total: <strong>28%</strong>. Alternativa <strong>E</strong>.</p><p>Fazer a média simples dos percentuais de D, sem ponderar pelos grupos, dá outro resultado.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "média ponderada",
+        "leitura de gráficos"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 35,
+      "materia": "Matemática",
+      "assunto": "Estatística",
+      "origem": {
+        "numeroOriginal": 170
+      },
+      "enunciado": "<p class=\"apoio\">A matemática britânica Hannah Fry explica o falso paradoxo de pessoas com a mesma nota média de atratividade em sites de relacionamento terem diferentes graus de popularidade. Segundo Fry, a popularidade de um usuário desse tipo de site não está relacionada apenas à sua nota média de atratividade, mas também à dispersão das notas. Quanto maior o desvio padrão de suas notas, maior é a sua popularidade. Essas notas podem ser:</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.ted.com. Acesso em: 16 maio 2015 (adaptado).</p><p>Os gráficos a seguir apresentam as frequências relativas (variando de 0 a 1) de notas de atratividade dadas a 5 usuários de um site de relacionamento.</p>[[fig:2]]<p>Segundo o critério apresentado por Hannah Fry, o usuário com maior popularidade é o</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q170-1.webp",
+          "alt": "Quadro de notas de −1 a 1 com emojis: −1 “se te acharem muito desinteressante”, −0,5 “desinteressante”, 0 “indiferente”, 0,5 “interessante” e 1 “muito interessante”."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q170-2.webp",
+          "alt": "Cinco gráficos de barras de frequência das notas −1, −0,5, 0, 0,5 e 1. Usuário 1: frequência 1,0 na nota 0. Usuário 2: 0,5 em −1 e 0,5 em 1. Usuário 3: 0,2 em cada nota. Usuário 4: 0,1; 0,2; 0,4; 0,2; 0,1. Usuário 5: 0,3; 0,15; 0,1; 0,15; 0,3."
+        }
+      ],
+      "alternativas": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4.",
+        "E": "5."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Pelo critério de Fry, ganha quem tem notas mais dispersas. O usuário 2 recebeu metade das notas −1 e metade 1: todas a distância 1 da média (0), desvio padrão 1, o máximo possível na escala de −1 a 1. Alternativa <strong>B</strong>.</p><p>O usuário 1 (todas as notas 0) tem desvio zero; o 3 (notas uniformes) e o 5 (concentradas nos extremos, mas com notas no meio) ficam abaixo de 1.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "desvio padrão",
+        "dispersão"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 36,
+      "materia": "Matemática",
+      "assunto": "Geometria plana",
+      "origem": {
+        "numeroOriginal": 171
+      },
+      "enunciado": "<p>O tampo de uma mesa tem o formato da região de cor amarela na figura. Essa região é obtida pela intersecção de três círculos com centros nos pontos A, B e C, respectivamente, e raios de medidas iguais a 1,20 m.</p>[[fig:1]]<p>Para cobrir essa mesa, pretende-se comprar uma toalha, com a menor área possível, que cubra o tampo e o exceda em pelo menos 20 cm ao longo de todo o seu contorno.</p><p>Em uma loja há cinco modelos de toalhas:</p><ul><li>I. círculo com diâmetro de medida 1,60 m;</li><li>II. círculo com diâmetro de medida 1,76 m;</li><li>III. quadrado com lados de medida 1,60 m;</li><li>IV. quadrado com lados de medida 1,76 m;</li><li>V. triângulo equilátero com lados de medida 1,60 m.</li></ul><p>Utilize 1,7 como aproximação para √3.</p><p>O modelo a ser comprado é o</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q171.webp",
+          "alt": "Região amarela em forma de triângulo de lados curvos com vértices A, B e C, formada pela interseção de três círculos tracejados de mesmo raio, cada um centrado em um dos vértices."
+        }
+      ],
+      "alternativas": {
+        "A": "I.",
+        "B": "II.",
+        "C": "III.",
+        "D": "IV.",
+        "E": "V."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>O tampo é um triângulo de Reuleaux de largura 1,20 m; com 20 cm de sobra em todo o contorno, a toalha precisa cobrir uma figura de largura constante 1,60 m.</p><ul><li>Círculo: o mais afastado do centro são os vértices, a 1,2/√3 ≈ 1,2 × 1,7 ÷ 3 = 0,68 m; com a sobra, raio 0,88 m e diâmetro 1,76 m. O modelo II serve; o I não.</li><li>Quadrado: uma figura de largura constante 1,60 m cabe num quadrado de lado 1,60 m, então o III também serve.</li><li>Triângulo de lado 1,60 m: sua altura é só 1,36 m, não cabe.</li></ul><p>Entre II (π × 0,88² ≈ 2,43 m²) e III (2,56 m²), o círculo tem menor área. Alternativa <strong>B</strong>.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "triângulo de Reuleaux",
+        "área do círculo"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 37,
+      "materia": "Matemática",
+      "assunto": "Razão e proporção",
+      "origem": {
+        "numeroOriginal": 172
+      },
+      "enunciado": "<p class=\"apoio\">O volume de água armazenado em um reservatório é dado pela soma do volume útil com o volume de reserva técnica. O volume de reserva técnica só pode ser utilizado após a água do volume útil acabar.</p><p class=\"fonte\">Disponível em: www2.sabesp.com.br. Acesso em: 2 dez. 2017 (adaptado).</p><p>Em determinado momento, o reservatório de uma cidade conta com um volume útil de 480 milhões de metros cúbicos e um volume de reserva técnica de 30 milhões de metros cúbicos. Ao se calcular o consumo médio diário de água, concluiu-se que, em um cenário em que o reservatório não seja reabastecido, todo o volume de água armazenado no reservatório seria utilizado em um período de 30 dias. Considerando-se esse cenário, estabeleceu-se a necessidade de redução do volume médio diário de água fornecida atualmente de modo que, ao final desse período de 30 dias, ainda restasse 25% do volume útil no reservatório, além do volume de reserva técnica.</p><p>Qual deve ser a redução do volume médio diário de água fornecida, em milhão de metros cúbicos, para atender ao que foi estabelecido?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "5,25",
+        "B": "5,00",
+        "C": "4,25",
+        "D": "4,00",
+        "E": "3,00"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Hoje o reservatório tem 480 + 30 = 510 milhões de m³, gastos em 30 dias: 17 milhões por dia. Para sobrar 25% do volume útil (120) e a reserva toda, só podem sair 360 milhões em 30 dias: 12 por dia. Redução: 17 − 12 = <strong>5,00</strong> milhões de m³ por dia. Alternativa <strong>B</strong>.</p><p>Esquecer a reserva técnica no consumo atual dá 16 − 12 = 4,00 (D).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "taxa média",
+        "porcentagem"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 38,
+      "materia": "Matemática",
+      "assunto": "Áreas",
+      "origem": {
+        "numeroOriginal": 173
+      },
+      "enunciado": "<p>Um pai pretende pintar as quatro paredes e o teto do quarto de sua filha, o qual tem a forma de paralelepípedo reto retângulo, com uma porta e duas janelas de formato retangular. A porta tem dimensões de 1 m por 2,20 m; e as janelas, de 1,5 m por 1 m cada. Ele contrata um pintor e informa que a área a ser pintada mede 41,7 m². O pintor pede detalhes do quarto, e o pai informa as medidas da porta e das janelas, que não serão pintadas. Quanto às dimensões do quarto, a medida da altura é 2,8 m e a da largura é 3 m, mas o pai não se recorda da medida do comprimento do quarto.</p><p>A medida do comprimento do quarto, em metro, é</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "2,8.",
+        "B": "3,5.",
+        "C": "4,4.",
+        "D": "5,1.",
+        "E": "5,3."
+      },
+      "gabarito": "B",
+      "explicacao": "<p>Com comprimento <em>c</em>, altura 2,8 e largura 3: paredes 2 × 2,8 × (<em>c</em> + 3) = 5,6<em>c</em> + 16,8; teto 3<em>c</em>. Descontos: porta 2,2 m² e janelas 2 × 1,5 = 3 m². Então 8,6<em>c</em> + 16,8 − 5,2 = 41,7, o que dá 8,6<em>c</em> = 30,1 e <em>c</em> = <strong>3,5 m</strong>. Alternativa <strong>B</strong>.</p><p>Esquecer o teto ou os descontos leva às outras alternativas.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "área de paralelepípedo",
+        "equação do 1º grau"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 39,
+      "materia": "Matemática",
+      "assunto": "Logaritmos",
+      "origem": {
+        "numeroOriginal": 174
+      },
+      "enunciado": "<p>O gráfico registra, sobre uma malha quadriculada, as quantidades de unidades habitacionais vendidas em um município, nos dois primeiros meses do ano, e a curva que fornece a estimativa E da quantidade de unidades vendidas nesse município, para o segundo semestre do mesmo ano, descrita pela função</p><p>E(<em>n</em>) = 1 500 + 2 000 × log<sub>10</sub>(1 + <em>n</em>), com 6 ≤ <em>n</em> ≤ 12, sendo <em>n</em> o número que identifica o mês. Por exemplo, a estimativa da quantidade de unidades vendidas ao longo do mês de agosto é E(8) = 1 500 + 2 000 × log<sub>10</sub>(1 + 8).</p>[[fig:1]]<p>Ao final do primeiro bimestre, calculou-se a média mensal de unidades vendidas nesse período e, para projetar o crescimento das vendas nesse ano, estimou-se a média mensal de unidades habitacionais que serão vendidas no último bimestre desse ano comparando-se essas duas médias.</p><p>Utilize log<sub>10</sub> 12 = 1,079 e log<sub>10</sub> 13 = 1,114.</p><p>Em quantas unidades a média de vendas estimada para o último bimestre superou a média calculada do primeiro bimestre?</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q174.webp",
+          "alt": "Gráfico sobre malha quadriculada: barras azuis para janeiro (cerca de 2 000 unidades) e fevereiro (cerca de 3 000), e uma curva vermelha de estimativa de junho a dezembro, levemente crescente, que passa por 3 500 em setembro."
+        }
+      ],
+      "alternativas": {
+        "A": "1 079",
+        "B": "1 193",
+        "C": "3 688",
+        "D": "10 000",
+        "E": "20 000"
+      },
+      "gabarito": "B",
+      "explicacao": "<p>No gráfico, janeiro teve 2 000 unidades e fevereiro, 3 000: média de 2 500.</p><p>Último bimestre: E(11) = 1 500 + 2 000 × log 12 = 1 500 + 2 158 = 3 658; E(12) = 1 500 + 2 000 × log 13 = 1 500 + 2 228 = 3 728. Média: 3 693.</p><p>Diferença: 3 693 − 2 500 = <strong>1 193</strong>. Alternativa <strong>B</strong>.</p><p>Os valores de E(11) e E(12) saem direto dos logaritmos dados (log 12 e log 13), porque 1 + <em>n</em> vale 12 e 13.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "função logarítmica",
+        "média"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 40,
+      "materia": "Matemática",
+      "assunto": "Trigonometria",
+      "origem": {
+        "numeroOriginal": 175
+      },
+      "enunciado": "<p>Uma câmera P, com ângulo de visão de 90°, leva 30 segundos para se deslocar do ponto M ao ponto N, no sentido horário e em velocidade angular constante, sobre um trilho em formato de um quarto de circunferência, com 2 m de raio e centro no ponto O. Ao iniciar o movimento, ela é ligada e inicia a captura da imagem do segmento OT, que é parte da semirreta s, que tem origem no ponto O e é perpendicular ao segmento OM, conforme os esquemas.</p>[[fig:1]]<p>A câmera é desligada no instante em que chega ao ponto N.</p><p>O gráfico que descreve a relação entre o comprimento c, em metro, do segmento OT, e o tempo t, em segundo, durante o período em que a câmera fica ligada é</p>[[fig:2]][[fig:3]][[fig:4]][[fig:5]][[fig:6]]",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q175-1.webp",
+          "alt": "Três esquemas do trilho em quarto de circunferência de M a N, centro O, com a semirreta s horizontal. Em 0 segundo a câmera P está em M. Em 10 segundos e em 15 segundos, P avançou e o segmento OT, em vermelho, vai de O até T, além de N; em 15 segundos T está mais perto de N."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q175-2.webp",
+          "alt": "Gráfico A: reta vertical em t = 30, de c = 2 para cima."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q175-3.webp",
+          "alt": "Gráfico B: reta decrescente que chega a c = 0 em t = 30."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q175-4.webp",
+          "alt": "Gráfico C: reta decrescente que chega a c = 2 em t = 30."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q175-5.webp",
+          "alt": "Gráfico D: curva que desce rapidamente e se achata até c = 0 em t = 30."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q175-6.webp",
+          "alt": "Gráfico E: curva que desce rapidamente e se achata até c = 2 em t = 30."
+        }
+      ],
+      "alternativas": {
+        "A": "[[fig:2]]",
+        "B": "[[fig:3]]",
+        "C": "[[fig:4]]",
+        "D": "[[fig:5]]",
+        "E": "[[fig:6]]"
+      },
+      "gabarito": "E",
+      "explicacao": "<p>O ângulo de visão de 90° tem um lado na direção de PO e o outro perpendicular a ele, isto é, tangente ao trilho em P. Esse lado tangente corta a semirreta <em>s</em> no ponto T. Se θ é o ângulo percorrido a partir de M, OT = 2/sen θ.</p><p>No começo (θ perto de 0), OT é enorme; depois diminui cada vez mais devagar, até OT = 2 m quando P chega a N (θ = 90°, em 30 s). A curva desce e vai se achatando até 2. Alternativa <strong>E</strong>.</p><p>D termina em zero, e B e C são retas, mas a relação não é linear.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "razões trigonométricas",
+        "gráfico de funções"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 41,
+      "materia": "Matemática",
+      "assunto": "Áreas",
+      "origem": {
+        "numeroOriginal": 176
+      },
+      "enunciado": "<p>A Figura 1 mostra a vista superior de um mobiliário de cozinha, que não pode ser desmembrado, montado na casa de um engenheiro.</p>[[fig:1]]<p><strong>Figura 1: Vista superior do mobiliário</strong></p><p>Ele mudará para um apartamento, cujo esboço de planta baixa está dado na Figura 2, onde pretende instalar o mobiliário na nova cozinha.</p>[[fig:2]]<p><strong>Figura 2: Planta baixa para reforma</strong></p><p>Como a cozinha do apartamento é muito pequena, decidiu ampliá-la, avançando-a sobre as áreas da sala e do quarto, de modo a manter os formatos retangulares tanto da cozinha quanto do quarto, apenas o necessário para caber o mobiliário da Figura 1 na nova cozinha.</p><p>Após essa reforma, as medidas das áreas, em metro quadrado, da sala e do quarto, serão</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q176-1.webp",
+          "alt": "Figura 1: mobiliário em L visto de cima, com 3,5 m de largura e 3,5 m de altura; o braço vertical tem um fogão e o horizontal, uma bancada."
+        },
+        {
+          "src": "assets/img/enem-2026-matematica/q176-2.webp",
+          "alt": "Figura 2: planta do apartamento. Em cima, a sala (6,5 m de largura e 4 m de altura) e a cozinha (2 m × 2 m) à direita. Embaixo da cozinha, o quarto (4 m × 4 m), que avança sobre a sala; à esquerda do quarto, o banheiro, com 1 m de largura."
+        }
+      ],
+      "alternativas": {
+        "A": "9,75 e 37,50.",
+        "B": "9,75 e 16,00.",
+        "C": "19,00 e 10,75.",
+        "D": "19,75 e 10,00.",
+        "E": "2,00 e 3,75."
+      },
+      "gabarito": "D",
+      "explicacao": "<p>Na planta, a cozinha (2 m × 2 m) ocupa o canto de cima à direita; a sala, à esquerda, tem 4 m de altura e 6,5 m de largura, com o quarto (4 m × 4 m) encaixado embaixo da cozinha, avançando 2 m sobre a parte de baixo da sala. A sala tem 6,5 × 4 − 2 × 2 = 22 m².</p><p>A cozinha precisa virar 3,5 m × 3,5 m: avança 1,5 m para a esquerda (sobre a sala) e 1,5 m para baixo (sobre o quarto). O quarto, para continuar retangular, fica com 4 × 2,5 = <strong>10,00 m²</strong>. A sala perde 1,5 × 2 = 3 m² para a cozinha e ganha a faixa de 0,5 × 1,5 = 0,75 m² que saiu do quarto: 22 − 3 + 0,75 = <strong>19,75 m²</strong>. Alternativa <strong>D</strong>.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "área de retângulos",
+        "planta baixa"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 42,
+      "materia": "Matemática",
+      "assunto": "Escalas",
+      "origem": {
+        "numeroOriginal": 177
+      },
+      "enunciado": "<p class=\"apoio\">Na história da arte brasileira, não há obra tão valiosa quanto o Abaporu, criada em 1928 por Tarsila do Amaral. A figura apresenta essa obra e suas dimensões originais.</p>[[fig:1]]<p class=\"fonte\">AMARAL, Tarsila do. Abaporu. Óleo sobre tela, 85 cm × 73 cm. Museu de Arte Latino-Americana de Buenos Aires, Buenos Aires, 1928.</p><p>Uma editora pretende lançar um álbum de figurinhas com as obras de arte brasileira mais famosas e, entre elas, está essa obra de Tarsila do Amaral. O álbum tem um espaço destinado para colar a figurinha da obra Abaporu, em formato retangular, cuja área mede 62,05 cm² e com dimensões proporcionais às da obra de arte original. Após a colagem, essa figurinha deve preencher totalmente o espaço a ela destinado.</p><p>Essa obra será representada pela figurinha na escala</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q177.webp",
+          "alt": "Reprodução do quadro Abaporu, de Tarsila do Amaral: uma figura de pés e mãos enormes sentada ao lado de um cacto, sob um sol amarelo, com as dimensões de 85 cm de altura e 73 cm de largura."
+        }
+      ],
+      "alternativas": {
+        "A": "1 : 2,5",
+        "B": "1 : 3,9",
+        "C": "1 : 5",
+        "D": "1 : 10",
+        "E": "1 : 100"
+      },
+      "gabarito": "D",
+      "explicacao": "<p>A área da obra é 85 × 73 = 6 205 cm². A figurinha tem 62,05 cm², ou seja, 1/100 da área. Como a área varia com o quadrado da escala, a razão entre os lados é √(1/100) = 1/10: escala <strong>1 : 10</strong>. Alternativa <strong>D</strong>.</p><p>1 : 100 (E) é a razão das áreas, não a escala.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "razão entre áreas",
+        "semelhança"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 43,
+      "materia": "Matemática",
+      "assunto": "Circunferência",
+      "origem": {
+        "numeroOriginal": 178
+      },
+      "enunciado": "<p>Uma motocicleta tem duas rodas de tamanhos diferentes: a dianteira, com diâmetro externo medindo 0,8 m e, a traseira, cujo diâmetro externo mede 0,6 m. Essa motocicleta foi conduzida por um percurso retilíneo de 3 600 m.</p><p>Utilize 3 como aproximação para π.</p><p>Quantos giros completos a roda traseira deu a mais que a dianteira quando a motocicleta concluiu esse percurso?</p>",
+      "imagens": [],
+      "alternativas": {
+        "A": "500",
+        "B": "1 000",
+        "C": "1 500",
+        "D": "2 917",
+        "E": "5 833"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>Com π ≈ 3, a roda traseira percorre 3 × 0,6 = 1,8 m por volta: 3 600 ÷ 1,8 = 2 000 voltas. A dianteira, 3 × 0,8 = 2,4 m por volta: 3 600 ÷ 2,4 = 1 500 voltas. Diferença: <strong>500</strong>. Alternativa <strong>A</strong>.</p><p>Usar o diâmetro como se fosse o raio dobra as circunferências e reduz as voltas à metade (diferença de 250).</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "comprimento da circunferência"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 44,
+      "materia": "Matemática",
+      "assunto": "Análise combinatória",
+      "origem": {
+        "numeroOriginal": 179
+      },
+      "enunciado": "<p>No esquema estão representadas cinco cidades, P, Q, R, S e T, e todas as estradas que conectam as cidades P a Q e S a T. As estradas que conectam as cidades Q a R e R a S foram omitidas no esquema, porém sabe-se que há mais estradas conectando Q a R do que R a S.</p>[[fig:1]]<p>Será realizada uma viagem saindo da cidade P até a cidade T, passando pelas cidades Q, R e S, nessa ordem. Há um total de 30 possíveis rotas para fazer essa viagem.</p><p>A quantidade de estradas que conectam a cidade Q à cidade R é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q179.webp",
+          "alt": "Esquema com as cidades P, Q, R, S e T. Três estradas ligam P a Q e duas ligam S a T; R aparece isolada, sem as estradas que a ligam a Q e a S."
+        }
+      ],
+      "alternativas": {
+        "A": "<sup>30</sup>⁄<sub>3 × 2</sub>",
+        "B": "<sup>30</sup>⁄<sub>3 + 2</sub>",
+        "C": "<sup>30</sup>⁄<sub>2</sub>",
+        "D": "30 − (3 × 2)",
+        "E": "30 − (3 + 2)"
+      },
+      "gabarito": "A",
+      "explicacao": "<p>No esquema há 3 estradas de P a Q e 2 de S a T. Com <em>a</em> estradas de Q a R e <em>b</em> de R a S, o princípio multiplicativo dá 3 · <em>a</em> · <em>b</em> · 2 = 30, isto é, <em>a</em> · <em>b</em> = 5. Como 5 é primo e <em>a</em> &gt; <em>b</em>, <em>a</em> = 5 e <em>b</em> = 1. E 5 = 30/(3 × 2). Alternativa <strong>A</strong>.</p><p>B soma os caminhos em vez de multiplicar; D e E subtraem.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "princípio multiplicativo"
+      ],
+      "area": "Matemática"
+    },
+    {
+      "numero": 45,
+      "materia": "Matemática",
+      "assunto": "Leitura de tabelas",
+      "origem": {
+        "numeroOriginal": 180
+      },
+      "enunciado": "<p class=\"apoio\">Um colchão deve ser adequado ao biotipo de cada pessoa, sendo confortável e ao mesmo tempo capaz de suportar o peso do corpo. O quadro apresenta as opções recomendadas da densidade (D) do colchão para diversos biotipos, consideradas a massa e a altura da pessoa. Caso existam duas opções de densidade recomendadas para um mesmo biotipo, a apresentada em negrito indica a que é mais adequada.</p>[[fig:1]]<p class=\"fonte\">Disponível em: www.inmetro.gov.br. Acesso em: 28 fev. 2012 (adaptado).</p><p>Uma pessoa com 71 kg de massa e 1,71 m de altura precisa adquirir um novo colchão.</p><p>A densidade mais adequada de um colchão para essa pessoa é</p>",
+      "imagens": [
+        {
+          "src": "assets/img/enem-2026-matematica/q180.webp",
+          "alt": "Quadro de densidades recomendadas por massa (linhas: até 50, 51 a 60, 61 a 70, 71 a 80, 81 a 90, 91 a 100 kg) e altura (colunas: até 1,50; 1,51 a 1,60; 1,61 a 1,70; 1,71 a 1,80; 1,81 a 1,90; acima de 1,90 m). Na linha de 71 a 80 kg: –, D-28, D-28 (negrito) ou D-30, D-30 (negrito) ou D-33, D-30 (negrito) ou D-33, D-33."
+        }
+      ],
+      "alternativas": {
+        "A": "D-26.",
+        "B": "D-28.",
+        "C": "D-30.",
+        "D": "D-33.",
+        "E": "D-36."
+      },
+      "gabarito": "C",
+      "explicacao": "<p>71 kg está na faixa de 71 a 80 kg, e 1,71 m na coluna de 1,71 a 1,80 m. Nessa célula aparece “<strong>D-30</strong> ou D-33”, com D-30 em negrito, a mais adequada. Alternativa <strong>C</strong>.</p><p>Pegar a linha de 61 a 70 kg (D-28) ou a coluna de 1,61 a 1,70 m leva a B.</p>",
+      "explicacaoRevisada": false,
+      "tags": [
+        "leitura de tabela de dupla entrada"
+      ],
+      "area": "Matemática"
+    }
+  ]
+}

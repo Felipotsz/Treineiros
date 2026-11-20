@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#06191F">
+<meta name="description" content="Como apoiar o Treineiros, se você quiser: Pix de qualquer valor ou ajudas que não custam nada.">
+<link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css"><link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/info.css"><link rel="stylesheet" href="css/acessibilidade.css">
+<script src="js/theme.js"></script>
+<title>Apoie | Treineiros</title>
+</head>
+<body>
+<!--
+  A história, o propósito e o perfil do autor ficam em sobre.html.
+  Para marcar um trecho que ainda falta, use a classe "preencher": o validador (tools/validar.py) avisa enquanto sobrar algum.
+  A chave Pix e o QR code ficam em js/config.js (Config.apoio).
+-->
+<main id="conteudo" class="pag carta-pag">
+  <div class="pag__corpo carta-corpo">
+    <article class="carta" aria-labelledby="titulo">
+      <figure class="carta__foto">
+        <img src="assets/fotos/autor-600.webp" srcset="assets/fotos/autor-288.webp 288w, assets/fotos/autor-600.webp 600w" sizes="14rem" width="600" height="600" alt="Retrato do autor do Treineiros, de óculos e blusa preta, diante de uma estante de livros.">
+        <figcaption><strong>Felipe Gustavo Bieco</strong><br>Criador do Treineiros</figcaption>
+      </figure>
+      <div class="carta__texto">
+        <p class="sobretitulo">Apoie o Treineiros</p>
+        <h1 id="titulo">Feito por uma pessoa, <em>para quem está estudando</em></h1>
+        <p>O Treineiros é gratuito, sem anúncios e sem cadastro, e vai continuar assim. Se ele está te ajudando a estudar, dá para apoiar com um Pix de qualquer valor ou de outras formas que não custam nada.</p>
+        <p>A história do projeto, o propósito e quem faz estão na página <a href="sobre.html">Sobre</a>.</p>
+        <p class="carta__assinatura mao" aria-hidden="true">Felipe</p>
+        <ul class="autor__links">
+          <li><a href="mailto:educacao.treineiros@gmail.com">educacao.treineiros@gmail.com</a></li>
+        </ul>
+      </div>
+    </article>
+
+
+    <section class="pix pix--faixa" id="pix" aria-labelledby="apoiar">
+      <div class="pix__texto">
+        <p class="sobretitulo">Totalmente opcional</p>
+        <h2 id="apoiar">Apoiar com um Pix, <em>se você quiser</em></h2>
+        <p class="opcional">O Treineiros é e continuará gratuito, com tudo liberado para todo mundo. As provas são material público do Centro Paula Souza e do Inep; o apoio ajuda a pagar o tempo de transcrever, revisar e explicar as questões, nunca o acesso a elas.</p>
+      </div>
+      <div class="pix__cartao">
+        <p class="pix-cartao__rot">Pix</p>
+        <div class="pix__qr pix__qr--vazio" id="pix-qr">Pix em breve</div>
+        <div id="pix-chave"><p>A chave Pix ainda não foi publicada. Enquanto isso, as outras formas de ajudar logo abaixo valem tanto quanto.</p></div>
+      </div>
+    </section>
+
+    <section class="carta-sec" aria-labelledby="outras">
+      <div class="titulo-linha"><h2 id="outras">Outras formas de ajudar, <em>sem gastar nada</em></h2></div>
+      <ul class="ajudas">
+      <li>Achou um erro numa questão ou explicação? Use o botão <strong>Reportar erro</strong> na própria questão.</li>
+      <li>Mande o site para alguém que vai fazer a ETEC, a FATEC ou o Enem.</li>
+      <li>Professor ou professora? Use as questões em sala; a busca ajuda a montar listas por assunto.</li>
+      <li>Professor ou estudante de licenciatura? <strong>Revise as explicações da sua matéria</strong>: cada revisão confere uma questão com o caderno oficial, e a questão passa a levar o selo “Questão revisada”. Para começar, mande uma mensagem pelo botão “Reportar erro” de qualquer questão dizendo a sua matéria.</li>
+    </ul>
+    </section>
+
+  </div>
+</main>
+<script src="js/config.js"></script><script src="js/storage.js"></script><script src="js/logo.js"></script><script src="js/layout.js"></script><script src="js/acessibilidade.js"></script><script src="js/apoie.js"></script>
+</body>
+</html>
